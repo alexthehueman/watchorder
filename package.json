@@ -1,0 +1,17 @@
+{
+  "name": "watchorder",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "A cinephile viewing-order engine — tag films once, compute every order.",
+  "scripts": {
+    "test": "node --test \"test/**/*.test.js\"",
+    "build": "node build.js",
+    "validate": "node tools/validate.mjs",
+    "ingest": "node tools/ingest.mjs",
+    "preview": "node tools/preview.mjs"
+  },
+  "devDependencies": {
+    "yaml": "^2.9.0"
+  }
+}

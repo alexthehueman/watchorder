@@ -1,0 +1,5 @@
+node_modules/
+dist/
+
+# tools/ingest.mjs reads TMDB_API_KEY from here. Never commit it.
+.env

@@ -1,0 +1,103 @@
+# The reference entity. Every engine decision gets validated against this file first.
+#
+# `signature` and `gateway` live here rather than on the film because they are facts about the
+# relationship, not the work: the same film means different things to different entities.
+#
+# There is no `essential` field. It was in the first draft and it was cut — a flat boolean
+# correlates about 0.8 with signature, so scoring both double-counts the same profile-independent
+# quantity and pushes every profile back toward the same canon. signature 4-5 *is* essential.
+
+slug: david-lynch
+kind: director
+name: David Lynch
+blurb: Small-town rot, dream logic, and a sincerity that disarms the irony.
+
+films:
+  - film: blue-velvet
+    signature: 5
+    gateway: 5      # the canonical front door: legible plot, unmistakable voice
+    note: Everything he does, arranged so you can still follow the plot.
+
+  - film: mulholland-drive
+    signature: 5
+    gateway: 4
+    note: The purest distillation, and the one that rewards the most rewatching.
+
+  - film: eraserhead
+    signature: 5
+    gateway: 1      # the source, but it asks for trust nobody has on a first visit
+    note: The source. Everything after this is a negotiation with it.
+
+  - film: lost-highway
+    signature: 5
+    gateway: 2
+    note: The fugue that Mulholland Drive would later perfect.
+
+  - film: inland-empire
+    signature: 5
+    gateway: 0      # never open here. gateway 0 is the whole never-first mechanism
+    note: The far edge — three hours of digital murk, and no handrail at all.
+
+  - film: twin-peaks-the-return
+    signature: 5
+    gateway: 0      # eighteen hours that assume the series and the film
+    note: The summation. Also the strangest thing ever broadcast.
+
+  - film: twin-peaks
+    signature: 4
+    gateway: 4      # for a great many people this genuinely was the entry point
+    note: The soap opera he smuggled a nightmare into.
+
+  - film: fire-walk-with-me
+    signature: 4
+    gateway: 0      # incoherent without the series — enforced below as a hard prereq
+    note: The series replayed as tragedy, with every laugh removed.
+
+  - film: wild-at-heart
+    signature: 3
+    gateway: 2
+    note: The one that hurtles. Divisive then, divisive now.
+
+  - film: the-elephant-man
+    signature: 2     # the least Lynchian of the majors, and that is what makes it a way in
+    gateway: 5
+    note: Studio-shaped and genuinely moving — the gentlest possible introduction.
+
+  - film: the-straight-story
+    signature: 2
+    gateway: 4
+    note: The anomaly. A G-rated road movie, and completely sincere.
+
+  - film: dune-1984
+    signature: 1     # a for-hire job he disowned; it belongs in the filmography and nowhere near a path
+    gateway: 0
+    note: He lost final cut and disowned it. Watch it last, or never.
+
+# Hard prereqs are inviolable and consume selection budget. Soft prereqs never block a film —
+# they only attach a note. Both are asserted acyclic by tools/validate.mjs.
+prereqs:
+  - film: fire-walk-with-me
+    requires: twin-peaks
+    strength: hard
+
+  - film: twin-peaks-the-return
+    requires: twin-peaks
+    strength: hard
+
+  - film: twin-peaks-the-return
+    requires: fire-walk-with-me
+    strength: soft
+
+curated:
+  curator: house
+  rationale: Start with the seduction, then let the ground give way.
+  order:
+    - blue-velvet
+    - mulholland-drive
+    - twin-peaks
+    - fire-walk-with-me
+    - eraserhead
+    - lost-highway
+    - the-straight-story
+    - twin-peaks-the-return
+    - inland-empire

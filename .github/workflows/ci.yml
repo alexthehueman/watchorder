@@ -1,0 +1,46 @@
+name: test
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      # node --test only accepts glob patterns from v21, and package.json relies on one.
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: npm
+      - run: npm ci
+      - run: npm test
+      # The corpus is hand-authored YAML, so a typo is the likeliest breakage and it must fail
+      # here rather than render a short page in production.
+      - run: npm run validate
+      - run: npm run build
+      # Assert the build produced a real page rather than an empty shell. The house pick has to
+      # be present in the HTML itself: it is the crawlable surface, and a regression that moved
+      # it behind JavaScript would cost the search traffic this whole site depends on without
+      # breaking a single test above.
+      - name: check build output
+        run: |
+          node --input-type=module -e '
+            import { readFile } from "node:fs/promises";
+            const html = await readFile("dist/director/david-lynch/index.html", "utf8");
+            const ld = html.match(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/);
+            if (!ld) throw new Error("no ItemList JSON-LD");
+            const parsed = JSON.parse(ld[1]);
+            if (parsed["@type"] !== "ItemList") throw new Error("JSON-LD is not an ItemList");
+            if (!(parsed.numberOfItems > 0)) throw new Error("empty ItemList");
+            if (!html.includes("Blue Velvet")) throw new Error("house pick missing from HTML");
+            if (!html.includes("not endorsed or certified by TMDB")) {
+              throw new Error("TMDB attribution missing");
+            }
+            const scripts = html.match(/<script/g) ?? [];
+            if (scripts.length !== 1) throw new Error("entity page must need no JavaScript");
+            console.log(`ok — ${parsed.numberOfItems} items, ${html.length} bytes`);
+          '

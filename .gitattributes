@@ -1,0 +1,9 @@
+# Authored on Windows, built on ubuntu-latest in CI. Normalise to LF in the repository so the
+# two never disagree about what a file's contents are — a CRLF/LF mismatch shows up as a whole
+# file rewritten in a diff, which buries the actual change.
+* text=auto eol=lf
+
+# Not text. Let git leave them alone.
+*.png binary
+*.jpg binary
+*.ico binary

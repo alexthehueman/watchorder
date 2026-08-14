@@ -1,0 +1,255 @@
+// The corpus is hand-authored YAML, so typos are the failure mode that matters most — a
+// misspelled film id in a curated order is invisible until a page renders short, and a cycle in
+// the prereq graph is an infinite loop in production rather than a wrong answer.
+//
+// Everything here is checked at build time and in CI, never at runtime. The engine is allowed to
+// assume a valid corpus precisely because this file refuses to let an invalid one through.
+//
+// Exports loadCorpus/validateCorpus for test/data.test.js; runs as a CLI via `npm run validate`.
+
+import { readdir, readFile } from 'node:fs/promises';
+import { pathToFileURL } from 'node:url';
+import { parse } from 'yaml';
+
+const DATA_DIR = new URL('../src/data/', import.meta.url);
+const ENTITY_DIR = new URL('entities/', DATA_DIR);
+
+const TASTE_TAGS = ['opacity', 'stillness', 'bleakness', 'humor'];
+const CONTENT_BOOLEANS = ['sexual_violence', 'animal_harm', 'child_harm', 'suicide'];
+const CONTENT_SEVERITIES = ['violence', 'sex'];
+const ENTITY_KINDS = ['director', 'actor', 'studio'];
+const MEDIA = ['film', 'series'];
+
+/**
+ * @returns {Promise<{films: object[], entities: object[]}>}
+ */
+export async function loadCorpus() {
+  const films = parse(await readFile(new URL('films.yaml', DATA_DIR), 'utf8')) ?? [];
+  const entries = (await readdir(ENTITY_DIR)).filter((name) => name.endsWith('.yaml')).sort();
+  const entities = [];
+  for (const name of entries) {
+    const entity = parse(await readFile(new URL(name, ENTITY_DIR), 'utf8'));
+    entities.push({ ...entity, sourceFile: name });
+  }
+  return { films, entities };
+}
+
+function isInteger(value, min, max) {
+  return Number.isInteger(value) && value >= min && value <= max;
+}
+
+/**
+ * Depth-first cycle detection over an entity's prereq edges. A hand-authored prereq table will
+ * eventually contain two films that "benefit from" each other; that is a cycle, and a cycle is
+ * an infinite loop in the sequencing stage rather than a merely wrong order.
+ * @param {Array<{film: string, requires: string}>} prereqs
+ * @returns {string[]|null} the cycle path, or null if the graph is acyclic
+ */
+function findCycle(prereqs) {
+  const edges = new Map();
+  for (const edge of prereqs) {
+    if (!edges.has(edge.film)) edges.set(edge.film, []);
+    edges.get(edge.film).push(edge.requires);
+  }
+  const VISITING = 1;
+  const DONE = 2;
+  const state = new Map();
+  const stack = [];
+
+  function walk(node) {
+    if (state.get(node) === DONE) return null;
+    if (state.get(node) === VISITING) return [...stack.slice(stack.indexOf(node)), node];
+    state.set(node, VISITING);
+    stack.push(node);
+    for (const next of edges.get(node) ?? []) {
+      const cycle = walk(next);
+      if (cycle) return cycle;
+    }
+    stack.pop();
+    state.set(node, DONE);
+    return null;
+  }
+
+  for (const node of edges.keys()) {
+    const cycle = walk(node);
+    if (cycle) return cycle;
+  }
+  return null;
+}
+
+/**
+ * @param {{films: object[], entities: object[]}} corpus
+ * @returns {{errors: string[], warnings: string[]}}
+ */
+export function validateCorpus(corpus) {
+  const errors = [];
+  const warnings = [];
+  const filmsById = new Map();
+
+  for (const film of corpus.films) {
+    const where = `films.yaml: ${film.id ?? '(missing id)'}`;
+    if (!film.id) {
+      errors.push(`${where} — every film needs an id`);
+      continue;
+    }
+    if (filmsById.has(film.id)) errors.push(`${where} — duplicate film id`);
+    filmsById.set(film.id, film);
+
+    if (typeof film.title !== 'string' || !film.title) errors.push(`${where} — missing title`);
+    if (!isInteger(film.year, 1878, 2100)) errors.push(`${where} — implausible year: ${film.year}`);
+    if (!isInteger(film.runtime, 1, 10000)) {
+      errors.push(`${where} — implausible runtime: ${film.runtime}`);
+    }
+    // Defaults to film. Series resolve against a different TMDB endpoint, and their runtime is
+    // the whole run — which is why the runtime penalty correctly buries them at low depth.
+    if (film.medium !== undefined && !MEDIA.includes(film.medium)) {
+      errors.push(`${where} — medium must be one of ${MEDIA.join(', ')}, got ${film.medium}`);
+    }
+    // Endurance is scored per episode, so a series without an episode count would be divided by
+    // undefined and score NaN — which propagates silently through every comparison downstream.
+    if (film.medium === 'series' && !isInteger(film.episodes, 1, 1000)) {
+      errors.push(`${where} — a series needs an episodes count, got ${film.episodes}`);
+    }
+    if (film.medium !== 'series' && film.episodes !== undefined) {
+      errors.push(`${where} — episodes only applies to a series`);
+    }
+    if (film.tmdb_id === null || film.tmdb_id === undefined) {
+      warnings.push(`${where} — tmdb_id not yet resolved; run \`npm run ingest\``);
+    }
+
+    for (const tag of TASTE_TAGS) {
+      if (!isInteger(film.tags?.[tag], 1, 5)) {
+        errors.push(`${where} — tags.${tag} must be an integer 1-5, got ${film.tags?.[tag]}`);
+      }
+    }
+    const acclaim = film.tags?.acclaim;
+    if (typeof acclaim !== 'number' || acclaim < 0 || acclaim > 1) {
+      errors.push(`${where} — tags.acclaim must be a number 0-1, got ${acclaim}`);
+    }
+    for (const flag of CONTENT_BOOLEANS) {
+      if (typeof film.content?.[flag] !== 'boolean') {
+        errors.push(`${where} — content.${flag} must be true or false`);
+      }
+    }
+    for (const flag of CONTENT_SEVERITIES) {
+      if (!isInteger(film.content?.[flag], 0, 3)) {
+        errors.push(`${where} — content.${flag} must be an integer 0-3`);
+      }
+    }
+  }
+
+  for (const entity of corpus.entities) {
+    const where = `${entity.sourceFile}`;
+    if (!entity.slug) errors.push(`${where} — missing slug`);
+    if (!ENTITY_KINDS.includes(entity.kind)) {
+      errors.push(`${where} — kind must be one of ${ENTITY_KINDS.join(', ')}, got ${entity.kind}`);
+    }
+    if (!entity.name) errors.push(`${where} — missing name`);
+    if (!entity.blurb) warnings.push(`${where} — no blurb; the entity page will read thin`);
+
+    const entityFilms = entity.films ?? [];
+    const referenced = new Set();
+    for (const pair of entityFilms) {
+      if (!filmsById.has(pair.film)) {
+        errors.push(`${where} — references unknown film "${pair.film}"`);
+        continue;
+      }
+      if (referenced.has(pair.film)) errors.push(`${where} — film "${pair.film}" listed twice`);
+      referenced.add(pair.film);
+
+      if (!isInteger(pair.signature, 1, 5)) {
+        errors.push(`${where}: ${pair.film} — signature must be an integer 1-5`);
+      }
+      if (!isInteger(pair.gateway, 0, 5)) {
+        errors.push(`${where}: ${pair.film} — gateway must be an integer 0-5`);
+      }
+      if (!pair.note) warnings.push(`${where}: ${pair.film} — no note; the film card will be bare`);
+      if ('essential' in pair) {
+        errors.push(
+          `${where}: ${pair.film} — \`essential\` was removed from the schema; it correlates ` +
+            'with signature and double-counts it. Use signature 4-5 instead',
+        );
+      }
+    }
+
+    // Without a legal opener there is no path to build at any depth, for any profile.
+    if (entityFilms.length > 0 && !entityFilms.some((pair) => pair.gateway > 0)) {
+      errors.push(`${where} — every film has gateway 0, so no path can ever open`);
+    }
+
+    const prereqs = entity.prereqs ?? [];
+    for (const edge of prereqs) {
+      if (!referenced.has(edge.film)) {
+        errors.push(`${where} — prereq for "${edge.film}", which this entity does not list`);
+      }
+      if (!referenced.has(edge.requires)) {
+        errors.push(`${where} — prereq requires "${edge.requires}", which this entity does not list`);
+      }
+      if (!['hard', 'soft'].includes(edge.strength)) {
+        errors.push(`${where} — prereq strength must be hard or soft, got ${edge.strength}`);
+      }
+    }
+    const cycle = findCycle(prereqs);
+    if (cycle) errors.push(`${where} — prereq cycle: ${cycle.join(' -> ')}`);
+
+    const curatedOrder = entity.curated?.order ?? [];
+    if (curatedOrder.length === 0) {
+      warnings.push(`${where} — no curated house pick; it is the fallback when the engine fails`);
+    }
+    for (const id of curatedOrder) {
+      if (!referenced.has(id)) {
+        errors.push(`${where} — curated order includes "${id}", which this entity does not list`);
+      }
+    }
+    if (new Set(curatedOrder).size !== curatedOrder.length) {
+      errors.push(`${where} — curated order repeats a film`);
+    }
+    // The house pick doubles as the M9 expressiveness target, so it must itself be legal.
+    if (curatedOrder.length > 0) {
+      const opener = entityFilms.find((pair) => pair.film === curatedOrder[0]);
+      if (opener && opener.gateway === 0) {
+        errors.push(
+          `${where} — curated order opens on "${curatedOrder[0]}", which has gateway 0`,
+        );
+      }
+      const position = new Map(curatedOrder.map((id, index) => [id, index]));
+      for (const edge of prereqs) {
+        if (edge.strength !== 'hard') continue;
+        if (!position.has(edge.film)) continue;
+        if (!position.has(edge.requires)) {
+          errors.push(
+            `${where} — curated order includes "${edge.film}" but omits its hard prereq ` +
+              `"${edge.requires}"`,
+          );
+        } else if (position.get(edge.requires) > position.get(edge.film)) {
+          errors.push(
+            `${where} — curated order places "${edge.film}" before its hard prereq ` +
+              `"${edge.requires}"`,
+          );
+        }
+      }
+    }
+  }
+
+  return { errors, warnings };
+}
+
+async function main() {
+  const corpus = await loadCorpus();
+  const { errors, warnings } = validateCorpus(corpus);
+
+  for (const warning of warnings) console.warn(`warn  ${warning}`);
+  for (const error of errors) console.error(`ERROR ${error}`);
+
+  const filmCount = corpus.films.length;
+  const entityCount = corpus.entities.length;
+  console.log(
+    `\n${filmCount} films, ${entityCount} entities — ` +
+      `${errors.length} errors, ${warnings.length} warnings`,
+  );
+  if (errors.length > 0) process.exitCode = 1;
+}
+
+if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) {
+  await main();
+}
