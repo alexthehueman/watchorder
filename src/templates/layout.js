@@ -54,7 +54,7 @@ export function layout(page) {
     <meta property="og:title" content="${esc(page.title)}">
     <meta property="og:description" content="${esc(page.description)}">
     <meta property="og:type" content="website">
-    <link rel="stylesheet" href="/site.css">${jsonLd}
+    <link rel="stylesheet" href="/ui/site.css">${jsonLd}
   </head>
   <body>
     <header class="site">

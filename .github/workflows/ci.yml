@@ -40,7 +40,13 @@ jobs:
             if (!html.includes("not endorsed or certified by TMDB")) {
               throw new Error("TMDB attribution missing");
             }
-            const scripts = html.match(/<script/g) ?? [];
-            if (scripts.length !== 1) throw new Error("entity page must need no JavaScript");
+            // The real invariant is that the content survives with every script removed. Counting
+            // script tags would only have asserted that nobody added the quiz.
+            const withoutScripts = html.replace(/<script[\s\S]*?<\/script>/g, "");
+            for (const title of ["Blue Velvet", "Mulholland Drive", "Eraserhead"]) {
+              if (!withoutScripts.includes(title)) {
+                throw new Error(`"${title}" is only present inside a script — not crawlable`);
+              }
+            }
             console.log(`ok — ${parsed.numberOfItems} items, ${html.length} bytes`);
           '

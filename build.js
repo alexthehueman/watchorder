@@ -90,9 +90,19 @@ async function main() {
   await writeFile(new URL('sitemap.xml', DIST), sitemap(paths), 'utf8');
   written.push('sitemap.xml');
 
-  const css = await readFile(new URL('./src/ui/site.css', import.meta.url), 'utf8');
-  await writeFile(new URL('site.css', DIST), css, 'utf8');
-  written.push('site.css');
+  // The browser loads src/core/ unchanged, over native ESM. Copying rather than bundling is the
+  // point: the quiz runs the identical module this build just used for the house pick, so there
+  // is no second implementation of the ranking rules to drift. Their relative imports keep
+  // working because dist mirrors the source layout exactly — ../core/path.js resolves in both.
+  for (const directory of ['core', 'ui']) {
+    await mkdir(new URL(`${directory}/`, DIST), { recursive: true });
+    const source = new URL(`./src/${directory}/`, import.meta.url);
+    for (const name of await readdir(source)) {
+      const contents = await readFile(new URL(name, source), 'utf8');
+      await writeFile(new URL(`${directory}/${name}`, DIST), contents, 'utf8');
+      written.push(`${directory}/${name}`);
+    }
+  }
 
   // GitHub Pages otherwise runs the output through Jekyll, which drops files beginning with an
   // underscore and does nothing else we want.

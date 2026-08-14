@@ -30,6 +30,89 @@ function filmCard(entry, index) {
         </li>`;
 }
 
+const QUESTIONS = [
+  {
+    name: 'depth',
+    legend: 'How many will you actually watch?',
+    options: ['Three', 'Six', 'Twelve', 'Everything'],
+  },
+  {
+    name: 'mode',
+    legend: 'How should it be ordered?',
+    options: ['Ease me in', 'Watch them develop', 'Best work first'],
+  },
+  {
+    name: 'confusion',
+    legend: 'How much confusion is fun?',
+    options: ['Keep me oriented', 'Some is fine', 'Lose me entirely'],
+  },
+  {
+    name: 'register',
+    legend: 'Comfort or confrontation?',
+    options: ['Comfort', 'Either', 'Confrontation'],
+  },
+];
+
+const CONTENT_LABELS = {
+  sexual_violence: 'Sexual violence',
+  animal_harm: 'Harm to animals',
+  child_harm: 'Harm to children',
+  suicide: 'Suicide',
+};
+
+/**
+ * The form ships hidden and the script reveals it.
+ *
+ * Without JavaScript there is no server to submit to, so a visible form would be furniture that
+ * does nothing — worse than absent. Hidden, a no-JS visitor simply gets the house pick, which is
+ * a complete answer to the question they came with. The default radio selections mirror the
+ * neutral profile so the form is never in a state the engine has not been asked about.
+ */
+function quizForm(entity, filmsById) {
+  const films = (entity.films ?? []).map((pair) => filmsById.get(pair.film));
+
+  const fieldsets = QUESTIONS.map(
+    (question) => `          <fieldset>
+            <legend>${esc(question.legend)}</legend>
+${question.options
+  .map(
+    (label, index) => `            <label><input type="radio" name="${question.name}" value="${index}"${
+      index === (question.name === 'depth' ? 1 : question.name === 'mode' ? 0 : 1) ? ' checked' : ''
+    }> ${esc(label)}</label>`,
+  )
+  .join('\n')}
+          </fieldset>`,
+  ).join('\n');
+
+  return `      <section class="quiz" id="quiz" hidden>
+        <h2>Or answer five questions</h2>
+        <form id="quiz-form">
+${fieldsets}
+          <details>
+            <summary>Seen any already?</summary>
+            <div class="checks">
+${films
+  .map(
+    (film) => `              <label><input type="checkbox" name="seen" value="${esc(film.id)}"> ${esc(film.title)}</label>`,
+  )
+  .join('\n')}
+            </div>
+          </details>
+          <details>
+            <summary>Anything to avoid?</summary>
+            <div class="checks">
+${Object.entries(CONTENT_LABELS)
+  .map(
+    ([flag, label]) => `              <label><input type="checkbox" name="blocked" value="${flag}"> ${esc(label)}</label>`,
+  )
+  .join('\n')}
+            </div>
+          </details>
+          <button type="button" id="reset">Back to the house pick</button>
+        </form>
+      </section>`;
+}
+
 /**
  * @param {object} entity
  * @param {Map<string, object>} filmsById
@@ -73,16 +156,19 @@ export function entityPage(entity, filmsById, housePath) {
       <h1>${esc(entity.name)}</h1>
       <p class="blurb">${esc(entity.blurb)}</p>
 
+${quizForm(entity, filmsById)}
+
       <section aria-labelledby="pick">
         <h2 id="pick">The house pick</h2>
-        <p class="rationale">${esc(entity.curated?.rationale ?? '')}</p>
+        <p class="rationale" id="rationale">${esc(entity.curated?.rationale ?? '')}</p>
+        <p class="status" id="status" hidden></p>
         ${
           seriesSlots > 0
             ? `<p class="aside">One of these is a series, so it asks for several evenings rather
           than one. It is counted accordingly when you set a length.</p>`
             : ''
         }
-        <ol class="films">
+        <ol class="films" id="path">
 ${housePath.map(filmCard).join('\n')}
         </ol>
       </section>
@@ -108,7 +194,12 @@ ${everything
   .join('\n')}
         </ul>
       </section>
-    </main>`;
+    </main>
+    <script type="application/json" id="data">${JSON.stringify({
+      entity,
+      films: everything.map((entry) => entry.film),
+    }).replace(/</g, '\\u003c')}</script>
+    <script type="module" src="/ui/quiz.js"></script>`;
 
   return layout({ title, description, canonical, body, jsonLd });
 }

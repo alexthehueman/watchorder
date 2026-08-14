@@ -4,8 +4,8 @@ A viewing-order engine for filmographies. Pick a director, answer five questions
 path through their work that suits how you actually watch films — beside a single hand-curated
 house pick.
 
-Status: **Phase 3 complete — the site builds and renders.** The quiz that recomputes a path in the
-browser is Phase 4; the roster is still Lynch alone.
+Status: **Phase 4 complete — the quiz works and paths are shareable.** The roster is still Lynch
+alone; expanding it to fifteen directors is Phase 5.
 
 ## The bet
 
@@ -196,6 +196,23 @@ acclaim, the cell that holds *The Straight Story*. That cell is most of the reas
 deserves to exist.
 
 ## Design notes
+
+### The quiz runs the same module the build ran
+
+`src/ui/quiz.js` imports `../core/path.js`. So does `build.js`. Not a port of it, not a
+reimplementation for the client — the same file, copied to `dist/core/` and loaded over native
+ESM. There is no second copy of the ranking rules to drift away from the first, which is the
+entire reason `src/core/` is kept pure.
+
+The page answers the question before any of that runs. The house pick is in the HTML, the quiz
+form ships with `hidden` set, and the script removes it. Without JavaScript a visitor gets a
+complete curated order rather than a form with nothing behind it — and 12KB of the entity page
+survives having every `<script>` stripped, which CI asserts.
+
+A finished path is in the URL: answers as digits, the seen set as a bitmask, exclusions as
+another. Reloading a shared link reproduces the same path byte for byte and restores the form
+controls to match it. Content exclusions travel too — a link that dropped them would show the
+recipient exactly what the sender had excluded.
 
 ### src/core/ is pure, and a test enforces it
 

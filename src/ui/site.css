@@ -216,6 +216,75 @@ ul.roster .blurb {
 
 ul.roster a:hover .name { color: var(--accent); }
 
+.quiz {
+  background: var(--panel);
+  border: 1px solid var(--rule);
+  border-radius: 4px;
+  padding: 1.5rem;
+  margin: 2rem 0 0;
+}
+
+.quiz h2 { margin-top: 0; }
+
+.quiz fieldset {
+  border: 0;
+  padding: 0;
+  margin: 0 0 1.25rem;
+}
+
+.quiz legend {
+  padding: 0;
+  font-size: 0.95rem;
+  margin-bottom: 0.5rem;
+}
+
+.quiz label {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  margin: 0 1rem 0.4rem 0;
+  font-size: 0.9rem;
+  color: var(--muted);
+  cursor: pointer;
+}
+
+.quiz input:checked + * , .quiz label:has(input:checked) { color: var(--ink); }
+
+.quiz details { margin-bottom: 1rem; }
+
+.quiz summary {
+  cursor: pointer;
+  font-size: 0.9rem;
+  color: var(--muted);
+}
+
+.quiz .checks {
+  display: flex;
+  flex-wrap: wrap;
+  padding-top: 0.6rem;
+}
+
+.quiz .checks label { flex: 0 0 auto; }
+
+#reset {
+  background: none;
+  border: 1px solid var(--rule);
+  border-radius: 3px;
+  color: var(--muted);
+  padding: 0.4rem 0.8rem;
+  font: inherit;
+  font-size: 0.85rem;
+  cursor: pointer;
+}
+
+#reset:hover { color: var(--ink); border-color: var(--accent); }
+
+.status {
+  color: var(--muted);
+  font-size: 0.85rem;
+  margin: 0 0 1rem;
+}
+
 footer.site {
   max-width: var(--measure);
   margin: 0 auto;

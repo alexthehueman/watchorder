@@ -113,7 +113,7 @@ export function inferFromSeen(profile, seenFilms) {
  * @param {number[]} seenIndices
  * @returns {{p: string, s?: string}}
  */
-export function encodeAnswers(answers, seenIndices = []) {
+export function encodeAnswers(answers, seenIndices = [], blocked = []) {
   const digits = [answers.depth, answers.mode, answers.confusion, answers.register]
     .map((value) => (Number.isInteger(value) && value >= 0 && value <= 9 ? value : 0))
     .join('');
@@ -124,6 +124,16 @@ export function encodeAnswers(answers, seenIndices = []) {
     for (const index of seenIndices) mask |= 1n << BigInt(index);
     encoded.s = mask.toString(36);
   }
+
+  // Content exclusions travel in the URL as well. A shared link that quietly dropped them would
+  // show the recipient exactly what the sender had excluded, which is the same breach of trust
+  // the engine refuses to commit internally.
+  const flags = blocked.filter((flag) => CONTENT_FLAGS.includes(flag));
+  if (flags.length > 0) {
+    let mask = 0;
+    for (const flag of flags) mask |= 1 << CONTENT_FLAGS.indexOf(flag);
+    encoded.c = mask.toString(36);
+  }
   return encoded;
 }
 
@@ -133,7 +143,17 @@ export function encodeAnswers(answers, seenIndices = []) {
  * @param {string[]} filmOrder ids in the entity's own order, to resolve the seen bitmask
  * @returns {Profile}
  */
-export function decodeProfile(p, s, filmOrder = []) {
+export function decodeProfile(p, s, filmOrder = [], c = null) {
+  const blocked = [];
+  if (typeof c === 'string' && /^[0-9a-z]+$/.test(c)) {
+    const mask = parseInt(c, 36);
+    if (Number.isFinite(mask)) {
+      CONTENT_FLAGS.forEach((flag, index) => {
+        if ((mask >> index) & 1) blocked.push(flag);
+      });
+    }
+  }
+
   const seen = [];
   if (typeof s === 'string' && /^[0-9a-z]+$/.test(s)) {
     try {
@@ -148,8 +168,24 @@ export function decodeProfile(p, s, filmOrder = []) {
   }
 
   if (typeof p !== 'string' || p[0] !== VERSION || !/^[0-9]{4}$/.test(p.slice(1))) {
-    return { ...neutralProfile(), seen };
+    return { ...neutralProfile(), seen, blocked };
   }
   const [depth, mode, confusion, register] = [...p.slice(1)].map(Number);
-  return profileFromAnswers({ depth, mode, confusion, register }, { seen });
+  return profileFromAnswers({ depth, mode, confusion, register }, { seen, blocked });
+}
+
+/**
+ * The answer indices that produced a profile, for restoring the form from a URL.
+ * @param {Profile} profile
+ * @returns {{depth: number, mode: number, confusion: number, register: number}}
+ */
+export function answersFromProfile(profile) {
+  const confusion = CONFUSION.findIndex((option) => option.tolOpacity === profile.tolOpacity);
+  const register = REGISTER.findIndex((option) => option.tolBleakness === profile.tolBleakness);
+  return {
+    depth: Math.max(0, DEPTHS.indexOf(profile.depth)),
+    mode: Math.max(0, MODES.indexOf(profile.mode)),
+    confusion: confusion === -1 ? 1 : confusion,
+    register: register === -1 ? 1 : register,
+  };
 }

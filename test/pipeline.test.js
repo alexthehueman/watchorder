@@ -15,7 +15,15 @@ import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import { loadCorpus } from '../tools/validate.mjs';
 import { buildPath } from '../src/core/path.js';
-import { CONTENT_FLAGS, DEPTHS, MODES } from '../src/core/profile.js';
+import {
+  CONTENT_FLAGS,
+  DEPTHS,
+  MODES,
+  encodeAnswers,
+  decodeProfile,
+  profileFromAnswers,
+  answersFromProfile,
+} from '../src/core/profile.js';
 
 const RUNS = 10000;
 
@@ -53,6 +61,50 @@ function blocks(film, blocked) {
   }
   return false;
 }
+
+test('a profile survives the round trip through a URL', async () => {
+  const corpus = await loadCorpus();
+  const entity = corpus.entities[0];
+  const filmOrder = entity.films.map((pair) => pair.film);
+  const random = mulberry32(7);
+
+  for (let run = 0; run < 500; run += 1) {
+    const answers = {
+      depth: Math.floor(random() * DEPTHS.length),
+      mode: Math.floor(random() * MODES.length),
+      confusion: Math.floor(random() * 3),
+      register: Math.floor(random() * 3),
+    };
+    const seen = filmOrder.filter(() => random() < 0.3);
+    const blocked = CONTENT_FLAGS.filter(() => random() < 0.3);
+
+    const seenIndices = seen.map((id) => filmOrder.indexOf(id));
+    const encoded = encodeAnswers(answers, seenIndices, blocked);
+    const decoded = decodeProfile(encoded.p, encoded.s, filmOrder, encoded.c);
+    const direct = profileFromAnswers(answers, { seen, blocked });
+
+    const context = `answers ${JSON.stringify(answers)}, blocked ${blocked}`;
+    assert.equal(decoded.depth, direct.depth, `${context} — depth lost`);
+    assert.equal(decoded.mode, direct.mode, `${context} — mode lost`);
+    assert.equal(decoded.tolOpacity, direct.tolOpacity, `${context} — opacity tolerance lost`);
+    assert.equal(decoded.tolBleakness, direct.tolBleakness, `${context} — bleakness tolerance lost`);
+    // Exclusions surviving the trip matters most: a link that dropped them would show the
+    // recipient precisely what the sender had asked not to see.
+    assert.deepEqual([...decoded.blocked].sort(), [...blocked].sort(), `${context} — exclusions lost`);
+    assert.deepEqual([...decoded.seen].sort(), [...seen].sort(), `${context} — seen set lost`);
+    // The form has to be restorable from the profile, or a shared link reopens with the
+    // controls disagreeing with the list beneath them.
+    assert.deepEqual(answersFromProfile(decoded), answers, `${context} — form state not restorable`);
+  }
+});
+
+test('a mangled URL degrades to the neutral profile rather than throwing', () => {
+  for (const bad of ['', 'x', 'a12', 'a12345', 'zzzz', '!!!', 'a12x4']) {
+    const profile = decodeProfile(bad, 'nonsense', ['a', 'b']);
+    assert.equal(profile.mode, 'ramp', `"${bad}" should fall back to the neutral profile`);
+    assert.ok(Array.isArray(profile.seen));
+  }
+});
 
 test(`M5 — path invariants hold across ${RUNS} fuzzed profiles`, async () => {
   const corpus = await loadCorpus();
