@@ -1,0 +1,121 @@
+# The one actor here whose corpus stands alone — Akira Kurosawa is not in the director roster, so
+# nothing is shared. Useful as a control: if actor paths only work where films are reused, that
+# would be an artefact rather than a feature.
+
+slug: toshiro-mifune
+kind: actor
+name: Toshiro Mifune
+blurb: Sixteen films with Kurosawa, and a physical presence nobody has matched since.
+
+films:
+  - film: seven-samurai
+    signature: 5
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 5
+    note: Kikuchiyo — a farmer pretending to be a samurai, and the best thing in the best film.
+
+  - film: rashomon
+    signature: 5
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 4
+    note: Four versions of one man, and he plays every one of them differently.
+
+  - film: yojimbo
+    signature: 5
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 5
+    note: The template for every laconic drifter since, including the ones with Eastwood in them.
+
+  - film: throne-of-blood
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: menacing
+    gateway: 3
+    note: Macbeth in the fog. The final scene used real arrows, which shows.
+
+  - film: high-and-low
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: restrained
+    against_type: true
+    gateway: 4
+    note: A businessman in a room making one decision for an hour. Almost entirely still.
+
+  - film: red-beard
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: warm
+    against_type: true
+    gateway: 3
+    note: The last film with Kurosawa, and the gentlest performance he gave.
+
+  - film: drunken-angel
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: unhinged
+    gateway: 3
+    note: The first with Kurosawa. A tubercular gangster, and everything starts here.
+
+  - film: sanjuro
+    signature: 4
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 4
+    note: Yojimbo again, lighter and funnier, with the most abrupt ending in cinema.
+
+  - film: the-bad-sleep-well
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: Hamlet as corporate revenge, in glasses and a suit.
+
+  - film: samurai-rebellion
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: Without Kurosawa, and proof it was never only Kurosawa.
+
+  - film: the-hidden-fortress
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 4
+    note: The one Lucas took Star Wars from, though not the part anyone remembers.
+
+  - film: i-live-in-fear
+    signature: 3
+    showcase: 5
+    role_size: lead
+    register: restrained
+    against_type: true
+    gateway: 1      # a thirty-five year old playing a man of seventy; extraordinary and very odd
+    note: Aged forty years under makeup, terrified of the bomb. Nobody's first Mifune.
+
+curated:
+  curator: house
+  rationale: The famous roar first, then the four films where he does not raise his voice at all.
+  order:
+    - seven-samurai
+    - yojimbo
+    - rashomon
+    - throne-of-blood
+    - high-and-low
+    - sanjuro
+    - drunken-angel
+    - red-beard

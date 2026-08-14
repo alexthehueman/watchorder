@@ -1,0 +1,89 @@
+# Films for Isabelle Huppert that are not already in the corpus.
+#
+# Four of hers are: The Piano Teacher, Amour and Happy End arrived with Haneke, and White Material
+# with Claire Denis. They are not repeated here — a film is tagged once, and what changes between
+# entities is the relationship, which lives in src/data/entities/. This is the first place that
+# design earns anything: The Piano Teacher is signature 5 for Haneke and a showcase for Huppert,
+# while Amour is a major Haneke film and a supporting part for her.
+
+- id: the-lacemaker
+  tmdb_id: null
+  title: The Lacemaker
+  year: 1977
+  runtime: 108
+  tags: { opacity: 2, stillness: 4, bleakness: 4, humor: 1, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: violette-noziere
+  tmdb_id: null
+  title: Violette Nozière
+  year: 1978
+  runtime: 133
+  tags: { opacity: 2, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.70 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 2 }
+
+- id: loulou
+  tmdb_id: null
+  title: Loulou
+  year: 1980
+  runtime: 110
+  tags: { opacity: 2, stillness: 3, bleakness: 3, humor: 2, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 2 }
+
+- id: story-of-women
+  tmdb_id: null
+  title: Story of Women
+  year: 1988
+  runtime: 110
+  tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: la-ceremonie
+  tmdb_id: null
+  title: La Cérémonie
+  year: 1995
+  runtime: 112
+  tags:
+    opacity: 2
+    stillness: 3
+    bleakness: 5
+    humor: 2    # it is genuinely funny for an hour, which is what makes the last ten minutes land
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: 8-women
+  tmdb_id: null
+  title: 8 Women
+  year: 2002
+  runtime: 111
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.70 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 1 }
+
+- id: ma-mere
+  tmdb_id: null
+  title: Ma Mère
+  year: 2004
+  runtime: 110
+  tags: { opacity: 3, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 3 }
+
+- id: elle
+  tmdb_id: null
+  title: Elle
+  year: 2016
+  runtime: 130
+  tags:
+    opacity: 2
+    stillness: 3
+    bleakness: 4
+    humor: 3    # a black comedy about a rape, which is why it divided everyone who saw it
+    acclaim: 0.80
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 3 }
+
+- id: things-to-come
+  tmdb_id: null
+  title: Things to Come
+  year: 2016
+  runtime: 102
+  tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 3, acclaim: 0.80 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

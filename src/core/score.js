@@ -158,15 +158,34 @@ export function difficulty(film) {
   return clamp((0.5 * opacity + 0.3 * stillness + 0.2 * bleakness - 1) / 4, 0, 1);
 }
 
+// What a supporting turn or a walk-on costs against a lead. A cameo is effectively unrecommendable
+// outside a completist path, which is the intent: the fastest way to lose someone who trusted the
+// list is to send them to a film their actor is in for four minutes.
+const ROLE_PENALTY = { lead: 0, supporting: 0.8, cameo: 3.0 };
+
 /**
- * How alike two films feel, 0-1, over the taste axes. Feeds the diversity discount in selection
- * so a twelve-film path is not twelve variations of one film.
+ * How alike two films feel, 0-1. Feeds the diversity discount in selection so a twelve-film path
+ * is not twelve variations of one film.
+ *
+ * For actors the performance register counts too, and counts heavily. An actor's filmography
+ * clusters around whatever they were typecast into, and two films can be far apart on every taste
+ * axis while containing the same performance — which is precisely what someone asking to see an
+ * actor's range does not want.
+ *
+ * @param {object} a
+ * @param {object} b
+ * @param {object} [pairA] entity-film relationship, when the entity kind has one worth comparing
+ * @param {object} [pairB]
  * @returns {number}
  */
-export function similarity(a, b) {
+export function similarity(a, b, pairA, pairB) {
   let sumSq = 0;
   for (const tag of TASTE_TAGS) sumSq += (a.tags[tag] - b.tags[tag]) ** 2;
-  return 1 - Math.sqrt(sumSq) / 8; // 8 is the maximum possible distance over four 1-5 axes
+  const tagSimilarity = 1 - Math.sqrt(sumSq) / 8; // 8 is the max distance over four 1-5 axes
+
+  if (!pairA?.register || !pairB?.register) return tagSimilarity;
+  const sameRegister = pairA.register === pairB.register ? 1 : 0;
+  return 0.5 * tagSimilarity + 0.5 * sameRegister;
 }
 
 /**
@@ -201,9 +220,21 @@ export function fit(film, pair, profile, stats, kind) {
   const rewardAcclaim = acclaimWeight * (film.tags.acclaim - 0.5) * 5;
   const runtimePenalty = runtimeWeight(profile.depth) * timeCost(film);
 
+  // Actors only. `signature` above carried persona; showcase is the other half, and which of the
+  // two leads depends on what was asked for — someone in `range` mode wants to see what the
+  // performer can do, not the role they are already known for.
+  let rolePenalty = 0;
+  let rewardShowcase = 0;
+  if (pair.role_size) {
+    rolePenalty = ROLE_PENALTY[pair.role_size] ?? 0;
+    rewardShowcase = (profile.mode === 'range' ? 1.4 : 0.4) * (pair.showcase - 3);
+  }
+
   return (
     rewardSignature +
-    rewardAcclaim -
+    rewardAcclaim +
+    rewardShowcase -
+    rolePenalty -
     penalty('opacity', profile.tolOpacity) -
     penalty('stillness', profile.tolStillness) -
     penalty('bleakness', profile.tolBleakness) -
@@ -220,7 +251,18 @@ export function fit(film, pair, profile, stats, kind) {
  * @returns {number}
  */
 export function entryScore(film, pair, profile, targetDifficulty) {
-  const curveFit = 1 - Math.abs(difficulty(film) - targetDifficulty);
+  // Asymmetric, matching the tolerance penalties in fit(). Symmetric distance to the curve
+  // punishes a film for being *easier* than the target as hard as for being harder, and at
+  // position one that is plainly wrong — a first film that turns out to be gentler than someone
+  // braced for costs them nothing, while one that overshoots loses them entirely.
+  //
+  // Concretely: Raising Arizona sits at difficulty 0.05 against a cautious viewer's 0.24 target,
+  // and under symmetric scoring it was penalised into opening 3% of Nicolas Cage's paths despite
+  // gateway 5. Adaptation took 83% of them — a fine film and a strange thing to hand someone who
+  // just said they wanted to be kept oriented, given it is two brothers played by one actor
+  // inside a story about its own screenplay.
+  const delta = difficulty(film) - targetDifficulty;
+  const curveFit = 1 - (delta > 0 ? delta : Math.abs(delta) * 0.4);
   // Per-sitting again, for the same reason. Scoring a series on its total run here would make it
   // structurally impossible to open on one, and Twin Peaks was a great many people's actual first
   // encounter with Lynch — which is precisely why it carries gateway 4.

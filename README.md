@@ -6,8 +6,8 @@ house pick.
 
 **Live: https://alexthehueman.github.io/watchorder**
 
-Status: **Phase 6 complete — deployed.** Fifteen directors, 170 films, every gate passing. Actors
-are Phase 7 and studios Phase 8; both need relation-level data the director schema does not have.
+Status: **Phase 7 complete.** Fifteen directors and three actors, 204 films, every gate passing.
+Studios are Phase 8 and still need an era concept the schema does not have.
 
 ## The bet
 
@@ -109,6 +109,34 @@ numbers kept improving as the roster grew:
   which is the difficulty cluster being broken exactly as intended.
 - **M9.** Passes everywhere from 0.702 to 1.000. It was never a schema failure — it was a bug in
   the metric, described below.
+
+### What actors needed, and what the film table finally paid for
+
+Five of the actors' films were already in the corpus — *The Piano Teacher*, *Amour* and *Happy End*
+arrived with Haneke, *White Material* with Denis, *Wild at Heart* with Lynch. None are duplicated.
+Only the relationship differs, which is the entire reason `signature` lives on the pair:
+
+| film | | |
+|---|---|---|
+| *Amour* | Haneke **4** | Huppert **2** — a major film, a supporting part |
+| *Wild at Heart* | Lynch **3** | Cage **4** — a mid-tier Lynch, a defining Cage |
+| *The Piano Teacher* | Haneke **5** | Huppert **5** |
+
+Three fields the director schema did not have:
+
+- **`role_size`** — lead, supporting or cameo. Cameos are excluded outright below the completist
+  depth, because recommending a film someone appears in for four minutes is the fastest possible
+  way to lose a viewer who trusted the list.
+- **`register`** — restrained, unhinged, comic, menacing, warm. The tone of the *performance*, not
+  the film, and what `range` mode maximises contrast across.
+- **`showcase`**, separate from `signature`. For a director one number suffices; for an actor it
+  would be doing two jobs — persona ("is this the Cage people mean") versus range ("does this show
+  what he can do"). *Mandy* is peak persona and a moderate showcase; *Pig* and *Leaving Las Vegas*
+  are the reverse. Collapsed into one number, everyone gets the same six shouting performances.
+
+`range` replaces `chrono` for actors — release order is mostly the order other people hired them.
+The quiz keeps the answer *index* stable so shared URLs survive across entity kinds, and changes
+what the question says. A twelve-film Cage path comes back with 9% adjacent register repeats.
 
 ### A dominant opener can be the right answer
 

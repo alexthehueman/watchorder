@@ -8,7 +8,7 @@
 // NOTHING is added to or removed from the list. P6 permutes, P7 annotates, P8 checks. Every
 // constraint that can change membership has already run.
 
-import { kindProfile } from './kinds.js';
+import { kindProfile, resolveMode } from './kinds.js';
 import { inferFromSeen, CONTENT_FLAGS } from './profile.js';
 import { entityStats, fit, difficulty, entryScore, slotCost } from './score.js';
 import { selectFilms } from './select.js';
@@ -45,7 +45,13 @@ export function buildPath(entity, filmsById, rawProfile) {
   // P0 — resolve. Revealed preference from the seen set outranks the stated answers.
   const seen = new Set(rawProfile.seen ?? []);
   const seenFilms = allFilms.filter((film) => seen.has(film.id));
-  const profile = inferFromSeen(rawProfile, seenFilms);
+  // The quiz encodes an answer index, not a mode name, so the same index means different things
+  // for different kinds — "watch them develop" is a real question about a director and close to
+  // meaningless about an actor. resolveMode does that translation.
+  const profile = {
+    ...inferFromSeen(rawProfile, seenFilms),
+    mode: resolveMode(entity.kind, rawProfile.mode),
+  };
   const stats = entityStats(allFilms);
 
   const prereqs = new Map();
@@ -89,6 +95,10 @@ export function buildPath(entity, filmsById, rawProfile) {
     const film = filmsById.get(pair.film);
     if (blockedIds.has(film.id) || seen.has(film.id)) continue;
     if (pair.signature <= 1 && !wantsEverything) continue;
+    // A cameo is noise for the same reason a signature-1 credit is: someone who asked where to
+    // start with an actor is not asking to watch a film that actor is in for four minutes. The
+    // scoring penalty alone is not a guarantee, and this needs to be one.
+    if (pair.role_size === 'cameo' && !wantsEverything) continue;
 
     let droppedByPrereq = false;
     for (const edge of prereqs.get(film.id) ?? []) {
@@ -195,6 +205,7 @@ function whyHere(entry, index, ordered, profile, curve, prereqs) {
   if (index === 0) {
     if (profile.mode === 'peak') return 'Placed first — the high point, taken head on.';
     if (profile.mode === 'chrono') return 'Where it starts.';
+    if (profile.mode === 'range') return 'Placed first — the widest thing they do.';
     // Generated copy never assumes a pronoun. The engine does not know one — entities carry a
     // name and nothing else — and guessing produces "the cleanest way into his work" on the
     // Agnès Varda page, which is how this was found.
@@ -209,6 +220,14 @@ function whyHere(entry, index, ordered, profile, curve, prereqs) {
     return null; // The year is on the card; repeating it in prose adds nothing.
   }
   if (profile.mode === 'peak') return null;
+
+  if (profile.mode === 'range') {
+    const previous = ordered[index - 1];
+    if (previous?.pair.register && previous.pair.register !== entry.pair.register) {
+      return `A hard turn from ${previous.pair.register} to ${entry.pair.register}.`;
+    }
+    return entry.pair.against_type ? 'Cast against everything they are known for.' : null;
+  }
 
   const t = total <= 1 ? 0 : index / (total - 1);
   const gap = difficulty(entry.film) - curve(t);

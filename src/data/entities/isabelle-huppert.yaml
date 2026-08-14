@@ -1,0 +1,131 @@
+# Four of these films are already in the corpus under their directors. The Piano Teacher, Amour
+# and Happy End came with Haneke; White Material came with Claire Denis. Nothing is duplicated —
+# only the relationship differs, and that is the whole reason it lives on the pair.
+#
+# Amour is the clearest case. It is a major Haneke film, signature 4 for him. For Huppert it is a
+# supporting part, and a path built around her should say so rather than lead with it.
+
+slug: isabelle-huppert
+kind: actor
+name: Isabelle Huppert
+blurb: Composure as a weapon, across five decades and roughly a hundred and fifty films.
+
+films:
+  - film: the-piano-teacher
+    signature: 5
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: The performance everything since gets measured against. Gives you nothing to hold.
+
+  - film: elle
+    signature: 5
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: A black comedy about a rape, held together entirely by her refusal to signal.
+
+  - film: la-ceremonie
+    signature: 5
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 5      # funny for an hour, then not; the easiest of the major performances to enter
+    note: A postmistress with a grudge. Chabrol's best, and very funny until it is not.
+
+  - film: story-of-women
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A backstreet abortionist in occupied France, played without a single plea for sympathy.
+
+  - film: violette-noziere
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 3
+    note: Nineteen, playing a teenage poisoner. The performance that made her.
+
+  - film: white-material
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: Refusing to leave a coffee plantation during a collapse. Stubbornness as tragedy.
+
+  - film: the-lacemaker
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: The breakout. Almost entirely silent, and devastating in the last shot.
+
+  - film: things-to-come
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: warm
+    against_type: true
+    gateway: 5
+    note: A philosophy teacher losing everything and coping. Warm, which she rarely is.
+
+  - film: happy-end
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: Haneke again, sourer and slighter. Mostly for people who already know both of them.
+
+  - film: loulou
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: warm
+    gateway: 3
+    note: Leaving a bourgeois marriage for Depardieu. Loose and physical, unusually for her.
+
+  - film: ma-mere
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: unhinged
+    gateway: 0      # a Bataille adaptation about incest; not anybody's introduction
+    note: The furthest she has gone. Genuinely hard to watch, and not always well.
+
+  - film: 8-women
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: comic
+    against_type: true
+    gateway: 4
+    note: A musical whodunnit in which she plays a spinster and does a dance number.
+
+  - film: amour
+    signature: 2      # a major Haneke film, and a supporting part for her
+    showcase: 2
+    role_size: supporting
+    register: restrained
+    gateway: 2
+    note: The daughter, visiting. A small part in a great film, which is not the same thing.
+
+curated:
+  curator: house
+  rationale: Watch her withhold, then watch how much she is withholding.
+  order:
+    - la-ceremonie
+    - the-piano-teacher
+    - elle
+    - violette-noziere
+    - story-of-women
+    - white-material
+    - things-to-come
+    - the-lacemaker

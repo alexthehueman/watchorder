@@ -37,7 +37,11 @@ const QUESTIONS = [
   {
     name: 'mode',
     legend: 'How should it be ordered?',
+    // The middle option keeps its index across kinds so a shared URL stays stable, but it asks a
+    // different question: chronology is artistic development for a director and mostly hiring
+    // order for an actor, where what matters is how far the performances travel.
     options: ['Ease me in', 'Watch them develop', 'Best work first'],
+    byKind: { actor: ['Ease me in', 'Show me their range', 'Best work first'] },
   },
   {
     name: 'confusion',
@@ -72,7 +76,7 @@ function quizForm(entity, filmsById) {
   const fieldsets = QUESTIONS.map(
     (question) => `          <fieldset>
             <legend>${esc(question.legend)}</legend>
-${question.options
+${(question.byKind?.[entity.kind] ?? question.options)
   .map(
     (label, index) => `            <label><input type="radio" name="${question.name}" value="${index}"${
       index === (question.name === 'depth' ? 1 : question.name === 'mode' ? 0 : 1) ? ' checked' : ''

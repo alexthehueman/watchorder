@@ -98,6 +98,64 @@ test('a profile survives the round trip through a URL', async () => {
   }
 });
 
+test('a cameo never reaches a path unless everything was asked for', async () => {
+  // Tested against a synthetic pair rather than the corpus, because nothing in the corpus is
+  // currently tagged as a cameo — a test over real data would pass whether the rule worked or
+  // not. The rule matters the moment anyone adds one, and "recommends a film the actor is in for
+  // four minutes" is the single most credibility-destroying output this engine could produce.
+  const corpus = await loadCorpus();
+  const filmsById = new Map(corpus.films.map((film) => [film.id, film]));
+  const cage = corpus.entities.find((entity) => entity.slug === 'nicolas-cage');
+
+  const withCameo = {
+    ...cage,
+    films: cage.films.map((pair) =>
+      pair.film === 'the-rock' ? { ...pair, role_size: 'cameo', signature: 5, showcase: 5 } : pair,
+    ),
+  };
+
+  for (const depth of [0, 1, 2]) {
+    const result = buildPath(withCameo, filmsById, profileFromAnswers({ depth, mode: 0, confusion: 1, register: 1 }));
+    assert.ok(
+      !result.films.some((entry) => entry.film.id === 'the-rock'),
+      `depth index ${depth} recommended a cameo despite signature 5`,
+    );
+  }
+
+  // The completist asked for the whole filmography and should get it, walk-ons included.
+  const everything = buildPath(withCameo, filmsById, profileFromAnswers({ depth: 3, mode: 0, confusion: 1, register: 1 }));
+  assert.ok(
+    everything.films.some((entry) => entry.film.id === 'the-rock'),
+    'the completist path should still include the cameo',
+  );
+});
+
+test('range mode puts contrasting performances next to each other', async () => {
+  const corpus = await loadCorpus();
+  const filmsById = new Map(corpus.films.map((film) => [film.id, film]));
+  const actors = corpus.entities.filter((entity) => entity.kind === 'actor');
+
+  for (const actor of actors) {
+    // Mode index 1 is "watch them develop" for a director and resolves to `range` for an actor,
+    // since release order is mostly the order other people hired them.
+    const ranged = buildPath(actor, filmsById, profileFromAnswers({ depth: 2, mode: 1, confusion: 2, register: 1 }));
+    const registers = ranged.films.map((entry) => entry.pair.register);
+    let repeats = 0;
+    for (let i = 1; i < registers.length; i += 1) {
+      if (registers[i] === registers[i - 1]) repeats += 1;
+    }
+    const rate = registers.length > 1 ? repeats / (registers.length - 1) : 0;
+    console.log(
+      `    ${actor.slug}: ${new Set(registers).size} registers over ${registers.length} films, ` +
+        `${(rate * 100).toFixed(0)}% adjacent repeats`,
+    );
+    assert.ok(
+      rate <= 0.4,
+      `${actor.slug}: ${(rate * 100).toFixed(0)}% of adjacent pairs repeat a register in range mode`,
+    );
+  }
+});
+
 test('generated copy never assumes a pronoun', async () => {
   // Hand-written notes and blurbs in the corpus name a real person and may of course use their
   // pronouns. Generated copy cannot: the engine knows a slug and a name, nothing more. The first

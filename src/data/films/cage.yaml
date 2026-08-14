@@ -1,0 +1,114 @@
+# Films for Nicolas Cage not already in the corpus. Wild at Heart arrived with Lynch.
+#
+# He is the reason role_size and register exist. A hundred-plus credits, enormous variance in both
+# quality and commitment, and a persona so strong that scoring on it alone returns the same six
+# famous performances to everyone.
+
+- id: raising-arizona
+  tmdb_id: null
+  title: Raising Arizona
+  year: 1987
+  runtime: 94
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 5, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: moonstruck
+  tmdb_id: null
+  title: Moonstruck
+  year: 1987
+  runtime: 102
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 4, acclaim: 0.82 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: vampires-kiss
+  tmdb_id: null
+  title: Vampire's Kiss
+  year: 1988
+  runtime: 103
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 4, acclaim: 0.62 }
+  content: { sexual_violence: true, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 2 }
+
+- id: leaving-las-vegas
+  tmdb_id: null
+  title: Leaving Las Vegas
+  year: 1995
+  runtime: 111
+  tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.85 }
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 3 }
+
+- id: the-rock
+  tmdb_id: null
+  title: The Rock
+  year: 1996
+  runtime: 136
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.70 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: face-off
+  tmdb_id: null
+  title: Face/Off
+  year: 1997
+  runtime: 138
+  tags: { opacity: 2, stillness: 1, bleakness: 3, humor: 3, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 1 }
+
+- id: adaptation
+  tmdb_id: null
+  title: Adaptation
+  year: 2002
+  runtime: 115
+  tags: { opacity: 3, stillness: 2, bleakness: 3, humor: 4, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: bad-lieutenant-new-orleans
+  tmdb_id: null
+  title: 'Bad Lieutenant: Port of Call New Orleans'
+  year: 2009
+  runtime: 122
+  tags: { opacity: 3, stillness: 2, bleakness: 4, humor: 4, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 2 }
+
+- id: joe
+  tmdb_id: null
+  title: Joe
+  year: 2013
+  runtime: 117
+  tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: true, child_harm: true, suicide: false, violence: 3, sex: 1 }
+
+- id: mandy
+  tmdb_id: null
+  title: Mandy
+  year: 2018
+  runtime: 121
+  tags: { opacity: 3, stillness: 3, bleakness: 5, humor: 3, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+
+- id: color-out-of-space
+  tmdb_id: null
+  title: Color Out of Space
+  year: 2019
+  runtime: 111
+  tags: { opacity: 3, stillness: 2, bleakness: 4, humor: 3, acclaim: 0.62 }
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: pig
+  tmdb_id: null
+  title: Pig
+  year: 2021
+  runtime: 92
+  tags:
+    opacity: 1
+    stillness: 4
+    bleakness: 3    # everyone expects a revenge film and it declines to be one
+    humor: 1
+    acclaim: 0.80
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: dream-scenario
+  tmdb_id: null
+  title: Dream Scenario
+  year: 2023
+  runtime: 100
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 4, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }

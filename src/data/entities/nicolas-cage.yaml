@@ -1,0 +1,140 @@
+# The case role_size and register were added for. Wild at Heart is already in the corpus under
+# Lynch, where it is signature 3 — a middling Lynch film and a major Cage performance.
+#
+# Note how far persona and showcase come apart here. Mandy is peak persona and only a moderate
+# showcase; Leaving Las Vegas and Pig are the reverse. Scoring on one number would return the
+# same six shouting performances to everyone and miss the reason he is interesting.
+
+slug: nicolas-cage
+kind: actor
+name: Nicolas Cage
+blurb: The most committed actor alive, in whatever he happens to be standing in.
+
+films:
+  - film: adaptation
+    signature: 5
+    showcase: 5
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: Two brothers, both him, neither a gimmick. The best thing he has done.
+
+  - film: vampires-kiss
+    signature: 5
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 2
+    note: Where the meme comes from. Also, genuinely, an extraordinary piece of physical acting.
+
+  - film: mandy
+    signature: 5
+    showcase: 4
+    role_size: lead
+    register: unhinged
+    gateway: 4
+    note: Grief, a chainsaw, and a bathroom scene nobody who has seen it forgets.
+
+  - film: bad-lieutenant-new-orleans
+    signature: 5
+    showcase: 4
+    role_size: lead
+    register: unhinged
+    gateway: 3
+    note: Herzog let him do anything and he did all of it. The iguanas stay.
+
+  - film: leaving-las-vegas
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: restrained
+    against_type: true
+    gateway: 4
+    note: Won the Oscar for playing a man drinking himself to death, quietly.
+
+  - film: pig
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: restrained
+    against_type: true
+    gateway: 5      # everyone arrives expecting John Wick with a pig and gets something better
+    note: Not the revenge film the premise promises. Barely raises his voice once.
+
+  - film: raising-arizona
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: Early, and already fully formed. The Coens never used anyone better.
+
+  - film: face-off
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: unhinged
+    gateway: 4
+    note: He plays Travolta playing him. Absurd, and he is completely serious about it.
+
+  - film: wild-at-heart
+    signature: 4      # a mid-tier Lynch film and a major Cage performance
+    showcase: 3
+    role_size: lead
+    register: unhinged
+    gateway: 3
+    note: The snakeskin jacket, and a whole persona arriving at once.
+
+  - film: dream-scenario
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: comic
+    gateway: 4
+    note: Late-career, self-aware, and much sadder than the premise suggests.
+
+  - film: color-out-of-space
+    signature: 4
+    showcase: 3
+    role_size: lead
+    register: unhinged
+    gateway: 2
+    note: Lovecraft, alpacas, and a man losing an argument with a colour.
+
+  - film: joe
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: Green's dirt-road drama. Watchful and contained almost throughout.
+
+  - film: the-rock
+    signature: 3
+    showcase: 2
+    role_size: lead
+    register: comic
+    gateway: 4
+    note: The action-star years, and by some way the best of them.
+
+  - film: moonstruck
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: warm
+    against_type: true
+    gateway: 4
+    note: A one-handed baker in love with Cher. Romantic, sincere, and nothing like the rest.
+
+curated:
+  curator: house
+  rationale: Start where the commitment is a joke you are in on, end where it is not a joke.
+  order:
+    - adaptation
+    - raising-arizona
+    - leaving-las-vegas
+    - face-off
+    - vampires-kiss
+    - mandy
+    - bad-lieutenant-new-orleans
+    - pig

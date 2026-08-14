@@ -1,0 +1,106 @@
+# Films for Toshiro Mifune. No overlap with the director roster — Akira Kurosawa is not in it,
+# which makes this the one actor here whose corpus stands alone.
+#
+# Seven Samurai at 207 minutes and Red Beard at 185 are the endurance cases; note that unlike a
+# series they are single sittings, so the per-episode relief does not apply and should not.
+
+- id: drunken-angel
+  tmdb_id: null
+  title: Drunken Angel
+  year: 1948
+  runtime: 98
+  tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 2, acclaim: 0.80 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: rashomon
+  tmdb_id: null
+  title: Rashomon
+  year: 1950
+  runtime: 88
+  tags:
+    opacity: 4    # the point is that the accounts cannot be reconciled, and they are not
+    stillness: 3
+    bleakness: 4
+    humor: 2
+    acclaim: 0.92
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: seven-samurai
+  tmdb_id: null
+  title: Seven Samurai
+  year: 1954
+  runtime: 207
+  tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 3, acclaim: 0.97 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: i-live-in-fear
+  tmdb_id: null
+  title: I Live in Fear
+  year: 1955
+  runtime: 103
+  tags: { opacity: 2, stillness: 4, bleakness: 5, humor: 1, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: throne-of-blood
+  tmdb_id: null
+  title: Throne of Blood
+  year: 1957
+  runtime: 110
+  tags: { opacity: 2, stillness: 4, bleakness: 5, humor: 1, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-hidden-fortress
+  tmdb_id: null
+  title: The Hidden Fortress
+  year: 1958
+  runtime: 139
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.82 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-bad-sleep-well
+  tmdb_id: null
+  title: The Bad Sleep Well
+  year: 1960
+  runtime: 151
+  tags: { opacity: 2, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.80 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 0 }
+
+- id: yojimbo
+  tmdb_id: null
+  title: Yojimbo
+  year: 1961
+  runtime: 110
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 4, acclaim: 0.90 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: sanjuro
+  tmdb_id: null
+  title: Sanjuro
+  year: 1962
+  runtime: 96
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.82 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: high-and-low
+  tmdb_id: null
+  title: High and Low
+  year: 1963
+  runtime: 143
+  tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.92 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
+
+- id: red-beard
+  tmdb_id: null
+  title: Red Beard
+  year: 1965
+  runtime: 185
+  tags: { opacity: 1, stillness: 4, bleakness: 3, humor: 2, acclaim: 0.85 }
+  content: { sexual_violence: true, animal_harm: false, child_harm: true, suicide: true, violence: 1, sex: 0 }
+
+- id: samurai-rebellion
+  tmdb_id: null
+  title: Samurai Rebellion
+  year: 1967
+  runtime: 128
+  tags: { opacity: 2, stillness: 4, bleakness: 5, humor: 1, acclaim: 0.80 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

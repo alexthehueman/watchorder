@@ -50,6 +50,9 @@ function modeKeys(entries, mode) {
   const sorted = [...entries].sort((a, b) => {
     if (mode === 'chrono') return a.film.year - b.film.year;
     if (mode === 'peak') return b.film.tags.acclaim - a.film.tags.acclaim;
+    // Lead the range tour with the strongest showcase, so the first thing seen is the performance
+    // that best answers "what can they actually do".
+    if (mode === 'range') return (b.pair.showcase ?? 3) - (a.pair.showcase ?? 3);
     return 0;
   });
   sorted.forEach((entry, index) => keys.set(entry.film.id, index / (sorted.length - 1)));
@@ -71,7 +74,15 @@ const MODE_WEIGHTS = {
   ramp: { curve: 1.0, mode: 0.0 },
   chrono: { curve: 0.02, mode: 1.0 },
   peak: { curve: 0.02, mode: 1.0 },
+  // `range` is an actor mode and it is about contrast between neighbours rather than any fixed
+  // column, so most of its work happens in the adjacency penalty below rather than in a sort key.
+  range: { curve: 0.15, mode: 0.35 },
 };
+
+// How much a film is penalised in `range` mode for repeating the register of the film before it.
+// Large enough to dominate small score differences, because two identical performances back to
+// back is exactly what someone asking to see an actor's range did not want.
+const REPEAT_REGISTER_PENALTY = 0.6;
 
 /**
  * Kahn's algorithm with a priority queue, rather than a generic topological sort.
@@ -133,9 +144,17 @@ export function sequenceFilms(entries, options) {
     for (const entry of remaining.values()) {
       if (outstanding.get(entry.film.id).size > 0) continue;
       if (openingSlot && entry.pair.gateway === 0) continue;
+      const previous = ordered[ordered.length - 1];
+      const repeatsRegister =
+        profile.mode === 'range' &&
+        previous &&
+        previous.pair.register &&
+        previous.pair.register === entry.pair.register;
+
       const cost =
         weights.curve * Math.abs(difficulty(entry.film) - target) +
-        weights.mode * keys.get(entry.film.id);
+        weights.mode * keys.get(entry.film.id) +
+        (repeatsRegister ? REPEAT_REGISTER_PENALTY : 0);
 
       // Deterministic: ties fall to acclaim, then year, then id. Never to insertion order.
       if (

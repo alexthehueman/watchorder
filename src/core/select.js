@@ -76,7 +76,10 @@ export function selectFilms(candidates, options) {
     if (selected.length === 0) return entry.fit;
     let closest = 0;
     for (const already of selected) {
-      closest = Math.max(closest, similarity(entry.film, already.film));
+      closest = Math.max(
+        closest,
+        similarity(entry.film, already.film, entry.pair, already.pair),
+      );
     }
     return entry.fit - diversityDelta * closest;
   }

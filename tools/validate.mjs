@@ -24,6 +24,17 @@ const CONTENT_SEVERITIES = ['violence', 'sex'];
 const ENTITY_KINDS = ['director', 'actor', 'studio'];
 const MEDIA = ['film', 'series'];
 
+// Actor-only relationship fields.
+//
+// role_size is the one that cannot be skipped. Without it the engine will confidently recommend a
+// film in which the actor appears for four minutes, which is the fastest way to lose a viewer who
+// came here because they trusted the list.
+const ROLE_SIZES = ['lead', 'supporting', 'cameo'];
+// The tonal register of the performance, not of the film. It is what the `range` mode maximises
+// diversity across, and it is why an actor path can be interesting where a difficulty axis alone
+// would flatten it.
+const REGISTERS = ['restrained', 'unhinged', 'comic', 'menacing', 'warm'];
+
 /**
  * @returns {Promise<{films: object[], entities: object[]}>}
  */
@@ -180,6 +191,36 @@ export function validateCorpus(corpus) {
         errors.push(`${where}: ${pair.film} — gateway must be an integer 0-5`);
       }
       if (!pair.note) warnings.push(`${where}: ${pair.film} — no note; the film card will be bare`);
+
+      // For a director, `signature` means "exemplifies their style" and one number is enough. For
+      // an actor it would be doing two jobs at once: persona ("is this the De Niro people mean")
+      // and showcase ("does this show what they can do"). Taxi Driver is both; Silver Linings is
+      // showcase and not persona. Collapsing them returns nothing but the famous roles, so
+      // `signature` carries persona and `showcase` is stored separately.
+      if (entity.kind === 'actor') {
+        if (!ROLE_SIZES.includes(pair.role_size)) {
+          errors.push(
+            `${where}: ${pair.film} — role_size must be one of ${ROLE_SIZES.join(', ')}; without ` +
+              'it the engine will recommend films the actor is barely in',
+          );
+        }
+        if (!REGISTERS.includes(pair.register)) {
+          errors.push(`${where}: ${pair.film} — register must be one of ${REGISTERS.join(', ')}`);
+        }
+        if (!isInteger(pair.showcase, 1, 5)) {
+          errors.push(`${where}: ${pair.film} — showcase must be an integer 1-5`);
+        }
+        if (pair.against_type !== undefined && typeof pair.against_type !== 'boolean') {
+          errors.push(`${where}: ${pair.film} — against_type must be true or false`);
+        }
+      } else {
+        for (const field of ['role_size', 'register', 'showcase', 'against_type']) {
+          if (field in pair) {
+            errors.push(`${where}: ${pair.film} — ${field} applies to actors only`);
+          }
+        }
+      }
+
       if ('essential' in pair) {
         errors.push(
           `${where}: ${pair.film} — \`essential\` was removed from the schema; it correlates ` +
