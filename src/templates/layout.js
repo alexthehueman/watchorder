@@ -35,10 +35,30 @@ export function formatRuntime(film) {
 }
 
 /**
- * @param {{title: string, description: string, canonical: string, body: string, jsonLd?: object}} page
+ * Where the site lives.
+ *
+ * GitHub Pages serves a project site from /<repo>/, not from the root, so every absolute URL the
+ * build emits has to carry that prefix or the deployed site loads no stylesheet and every link
+ * 404s. The default is empty, which is correct locally and for a user site; the deploy workflow
+ * sets BASE.
+ *
+ * Note that src/ui/quiz.js imports ../core/path.js relatively and needs no prefix — it resolves
+ * from wherever the page is served, which is the quiet advantage of dist mirroring src.
+ *
+ * @param {string} path site-root-relative, beginning with a slash
+ * @returns {string}
+ */
+export function url(base, path) {
+  return `${base}${path}`;
+}
+
+/**
+ * @param {{title: string, description: string, canonical: string, body: string,
+ *          base: string, jsonLd?: object}} page
  * @returns {string}
  */
 export function layout(page) {
+  const base = page.base ?? '';
   const jsonLd = page.jsonLd
     ? `\n    <script type="application/ld+json">${JSON.stringify(page.jsonLd).replace(/</g, '\\u003c')}</script>`
     : '';
@@ -54,11 +74,11 @@ export function layout(page) {
     <meta property="og:title" content="${esc(page.title)}">
     <meta property="og:description" content="${esc(page.description)}">
     <meta property="og:type" content="website">
-    <link rel="stylesheet" href="/ui/site.css">${jsonLd}
+    <link rel="stylesheet" href="${esc(url(base, '/ui/site.css'))}">${jsonLd}
   </head>
   <body>
     <header class="site">
-      <a class="wordmark" href="/">WatchOrder</a>
+      <a class="wordmark" href="${esc(url(base, '/'))}">WatchOrder</a>
     </header>
 ${page.body}
     <footer class="site">

@@ -1,0 +1,82 @@
+name: deploy
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+# Least privilege that still lets deploy-pages mint its token.
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Never let two deploys race. Queued rather than cancelled, so a push during a deploy still ships.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: npm
+
+      # Works out whether this is a user site (served from /) or a project site (served from
+      # /<repo>/) and hands back the right base_path. Getting that wrong ships a site with no
+      # stylesheet and no working links, and it looks perfectly fine locally.
+      - uses: actions/configure-pages@v5
+        id: pages
+
+      - run: npm ci
+      # The corpus gate runs before the build, so a typo fails here rather than quietly
+      # publishing a page that is missing its best film.
+      - run: npm run validate
+      - run: npm run build
+        env:
+          BASE: ${{ steps.pages.outputs.base_path }}
+          ORIGIN: ${{ steps.pages.outputs.origin }}
+
+      # Refuse to publish a broken deploy. Both of these have actually been wrong at some point:
+      # the base path silently defaulted to root, and content briefly lived only inside a script.
+      - name: check the built site
+        run: |
+          node --input-type=module -e '
+            import { readFile } from "node:fs/promises";
+            const base = process.env.BASE ?? "";
+            const html = await readFile("dist/director/david-lynch/index.html", "utf8");
+            const css = html.match(/<link rel="stylesheet" href="([^"]+)"/)[1];
+            if (css !== `${base}/ui/site.css`) {
+              throw new Error(`stylesheet points at ${css}, expected ${base}/ui/site.css`);
+            }
+            const withoutScripts = html.replace(/<script[\s\S]*?<\/script>/g, "");
+            for (const title of ["Blue Velvet", "Mulholland Drive"]) {
+              if (!withoutScripts.includes(title)) {
+                throw new Error(`"${title}" is only present inside a script — not crawlable`);
+              }
+            }
+            if (!html.includes("not endorsed or certified by TMDB")) {
+              throw new Error("TMDB attribution missing");
+            }
+            console.log(`ok — base "${base}", ${html.length} bytes`);
+          '
+        env:
+          BASE: ${{ steps.pages.outputs.base_path }}
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/deploy-pages@v4
+        id: deployment

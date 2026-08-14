@@ -11,6 +11,17 @@ import { entityPage, indexPage, sitemap } from './src/templates/pages.js';
 
 const DIST = new URL('./dist/', import.meta.url);
 
+// Where the built site will be served from.
+//
+// A GitHub Pages *project* site lives at /<repo>/, so every absolute URL needs that prefix or the
+// deploy has no stylesheet and no working links — a failure that is invisible locally, where the
+// site is served from the root. BASE is set by the deploy workflow and empty everywhere else.
+// ORIGIN only affects canonical tags and the sitemap.
+const SITE = {
+  base: (process.env.BASE ?? '').replace(/\/$/, ''),
+  origin: process.env.ORIGIN ?? 'http://localhost:8123',
+};
+
 /**
  * Resolve a curated order into renderable entries.
  *
@@ -71,7 +82,7 @@ async function main() {
   const written = [];
   const paths = ['/'];
 
-  await writeFile(new URL('index.html', DIST), indexPage(corpus.entities), 'utf8');
+  await writeFile(new URL('index.html', DIST), indexPage(corpus.entities, SITE), 'utf8');
   written.push('index.html');
 
   for (const entity of corpus.entities) {
@@ -80,14 +91,14 @@ async function main() {
     const housePath = resolveCuratedPath(entity, filmsById);
     await writeFile(
       new URL('index.html', directory),
-      entityPage(entity, filmsById, housePath),
+      entityPage(entity, filmsById, housePath, SITE),
       'utf8',
     );
     written.push(`${entity.kind}/${entity.slug}/index.html`);
     paths.push(`/${entity.kind}/${entity.slug}/`);
   }
 
-  await writeFile(new URL('sitemap.xml', DIST), sitemap(paths), 'utf8');
+  await writeFile(new URL('sitemap.xml', DIST), sitemap(paths, SITE), 'utf8');
   written.push('sitemap.xml');
 
   // The browser loads src/core/ unchanged, over native ESM. Copying rather than bundling is the

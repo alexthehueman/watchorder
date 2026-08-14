@@ -5,9 +5,7 @@
 // after a quiz has nothing for a crawler to index. The quiz recomputes the list client-side in
 // Phase 4, on top of a page that already said something.
 
-import { esc, formatRuntime, layout } from './layout.js';
-
-const SITE = 'https://alexthehueman.github.io/watchorder';
+import { esc, formatRuntime, layout, url } from './layout.js';
 
 /**
  * One entry in an ordered path. `why` is deliberately absent in modes where the ordering speaks
@@ -119,8 +117,9 @@ ${Object.entries(CONTENT_LABELS)
  * @param {Array<object>} housePath the curated order, resolved and annotated
  * @returns {string}
  */
-export function entityPage(entity, filmsById, housePath) {
-  const canonical = `${SITE}/${entity.kind}/${entity.slug}/`;
+export function entityPage(entity, filmsById, housePath, site) {
+  const { base, origin } = site;
+  const canonical = `${origin}${base}/${entity.kind}/${entity.slug}/`;
   const title = `${entity.name} — where to start, and what comes next`;
   const description = `A curated viewing order for ${entity.name}. ${entity.blurb}`;
 
@@ -152,7 +151,7 @@ export function entityPage(entity, filmsById, housePath) {
   };
 
   const body = `    <main class="entity">
-      <nav class="crumbs"><a href="/">All filmmakers</a></nav>
+      <nav class="crumbs"><a href="${esc(url(base, '/'))}">All filmmakers</a></nav>
       <h1>${esc(entity.name)}</h1>
       <p class="blurb">${esc(entity.blurb)}</p>
 
@@ -204,16 +203,17 @@ ${everything
         return rest;
       }),
     }).replace(/</g, '\\u003c')}</script>
-    <script type="module" src="/ui/quiz.js"></script>`;
+    <script type="module" src="${esc(url(base, '/ui/quiz.js'))}"></script>`;
 
-  return layout({ title, description, canonical, body, jsonLd });
+  return layout({ title, description, canonical, body, jsonLd, base });
 }
 
 /**
  * @param {Array<object>} entities
  * @returns {string}
  */
-export function indexPage(entities) {
+export function indexPage(entities, site) {
+  const { base, origin } = site;
   const title = 'WatchOrder — viewing orders for filmmakers worth the trouble';
   const description =
     'Curated and personalised viewing orders for filmmakers, computed from hand-written tags ' +
@@ -232,7 +232,7 @@ export function indexPage(entities) {
 ${entities
   .map(
     (entity) => `        <li>
-          <a href="/${entity.kind}/${entity.slug}/">
+          <a href="${esc(url(base, `/${entity.kind}/${entity.slug}/`))}">
             <span class="name">${esc(entity.name)}</span>
             <span class="blurb">${esc(entity.blurb)}</span>
           </a>
@@ -242,19 +242,22 @@ ${entities
       </ul>
     </main>`;
 
-  return layout({ title, description, canonical: `${SITE}/`, body });
+  return layout({ title, description, canonical: `${origin}${base}/`, body, base });
 }
 
 /**
  * @param {string[]} paths site-root-relative, each ending in a slash
  * @returns {string}
  */
-export function sitemap(paths) {
+export function sitemap(paths, site) {
   const today = new Date().toISOString().slice(0, 10);
   return `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 ${paths
-  .map((path) => `  <url><loc>${SITE}${path}</loc><lastmod>${today}</lastmod></url>`)
+  .map(
+    (path) =>
+      `  <url><loc>${esc(site.origin + site.base + path)}</loc><lastmod>${today}</lastmod></url>`,
+  )
   .join('\n')}
 </urlset>
 `;
