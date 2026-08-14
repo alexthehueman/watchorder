@@ -1,0 +1,119 @@
+# Kiyoshi Kurosawa. Scales and anchors are in README.md ("The anchor rubric").
+#
+# No relation to Akira. His dread is architectural — wide shots, empty rooms, something wrong at
+# the edge of frame — and it survives being moved into domestic drama and comedy, which is why the
+# bleakness and humor numbers here spread further than a horror director's usually would.
+
+- id: cure
+  tmdb_id: null
+  title: Cure
+  year: 1997
+  runtime: 111
+  tags: { opacity: 4, stillness: 4, bleakness: 5, humor: 1, acclaim: 0.90 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: charisma
+  tmdb_id: null
+  title: Charisma
+  year: 1999
+  runtime: 103
+  tags: { opacity: 5, stillness: 4, bleakness: 4, humor: 2, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: seance
+  tmdb_id: null
+  title: Séance
+  year: 2000
+  runtime: 97
+  tags: { opacity: 2, stillness: 3, bleakness: 4, humor: 2, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+
+- id: pulse
+  tmdb_id: null
+  title: Pulse
+  year: 2001
+  runtime: 118
+  tags: { opacity: 4, stillness: 5, bleakness: 5, humor: 1, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 0 }
+
+- id: bright-future
+  tmdb_id: null
+  title: Bright Future
+  year: 2003
+  runtime: 115
+  tags: { opacity: 4, stillness: 4, bleakness: 3, humor: 2, acclaim: 0.70 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: doppelganger
+  tmdb_id: null
+  title: Doppelgänger
+  year: 2003
+  runtime: 107
+  tags:
+    opacity: 3
+    stillness: 3
+    bleakness: 3
+    humor: 4    # a broad farce from the director of Cure, and it commits fully
+    acclaim: 0.62
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: retribution
+  tmdb_id: null
+  title: Retribution
+  year: 2006
+  runtime: 104
+  tags: { opacity: 3, stillness: 4, bleakness: 4, humor: 1, acclaim: 0.60 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: tokyo-sonata
+  tmdb_id: null
+  title: Tokyo Sonata
+  year: 2008
+  runtime: 120
+  tags:
+    opacity: 1    # a family drama, told plainly, with the dread left in the framing
+    stillness: 3
+    bleakness: 4
+    humor: 2
+    acclaim: 0.82
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
+
+- id: real
+  tmdb_id: null
+  title: Real
+  year: 2013
+  runtime: 127
+  tags: { opacity: 4, stillness: 3, bleakness: 3, humor: 2, acclaim: 0.52 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 0 }
+
+- id: journey-to-the-shore
+  tmdb_id: null
+  title: Journey to the Shore
+  year: 2015
+  runtime: 128
+  tags: { opacity: 3, stillness: 5, bleakness: 3, humor: 2, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: creepy
+  tmdb_id: null
+  title: Creepy
+  year: 2016
+  runtime: 130
+  tags: { opacity: 2, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.70 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
+
+- id: before-we-vanish
+  tmdb_id: null
+  title: Before We Vanish
+  year: 2017
+  runtime: 130
+  tags: { opacity: 2, stillness: 3, bleakness: 3, humor: 3, acclaim: 0.62 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: wife-of-a-spy
+  tmdb_id: null
+  title: Wife of a Spy
+  year: 2020
+  runtime: 115
+  tags: { opacity: 2, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

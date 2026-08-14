@@ -1,0 +1,86 @@
+slug: hou-hsiao-hsien
+kind: director
+name: Hou Hsiao-hsien
+blurb: Taiwanese history at a distance, in long takes that decline to point at anything.
+
+films:
+  - film: a-city-of-sadness
+    signature: 5
+    gateway: 3
+    note: A family across the February 28 incident. It explains none of it, and does not need to.
+
+  - film: flowers-of-shanghai
+    signature: 5
+    gateway: 2
+    note: Nothing but interiors, opium light and negotiation. Never once goes outside.
+
+  - film: a-time-to-live-and-a-time-to-die
+    signature: 5
+    gateway: 4
+    note: His own childhood, three deaths, and no music to tell you how to feel.
+
+  - film: the-puppetmaster
+    signature: 5
+    gateway: 1
+    note: A real puppeteer narrates his own life while it is dramatised around him.
+
+  - film: dust-in-the-wind
+    signature: 4
+    gateway: 5      # the gentlest, shortest and most immediately legible of them
+    note: Two teenagers leave for the city. Almost nothing happens, beautifully.
+
+  - film: the-boys-from-fengkuei
+    signature: 4
+    gateway: 4
+    note: Where the style starts — the camera stops moving and stays back.
+
+  - film: three-times
+    signature: 4
+    gateway: 4
+    note: Three eras, one couple, three registers. The best sampler of what he does.
+
+  - film: millennium-mambo
+    signature: 4
+    gateway: 3
+    note: Neon, Taipei nightclubs, and a narration from ten years ahead.
+
+  - film: goodbye-south-goodbye
+    signature: 4
+    gateway: 3
+    note: Small-time crooks going nowhere, shot from the back seat.
+
+  - film: the-assassin
+    signature: 4
+    gateway: 2
+    note: A wuxia film where the plot is nearly unrecoverable and the images are extraordinary.
+
+  - film: good-men-good-women
+    signature: 4
+    gateway: 1
+    note: Three timeframes at once, and the hardest of the trilogy to hold onto.
+
+  - film: a-summer-at-grandpas
+    signature: 3
+    gateway: 5
+    note: A summer in the country, seen by children. His warmest film.
+
+prereqs:
+  - film: good-men-good-women
+    requires: a-city-of-sadness
+    strength: soft
+  - film: the-puppetmaster
+    requires: a-city-of-sadness
+    strength: soft
+
+curated:
+  curator: house
+  rationale: Begin with the small ones, because the big ones assume you have sat still already.
+  order:
+    - dust-in-the-wind
+    - a-time-to-live-and-a-time-to-die
+    - a-city-of-sadness
+    - three-times
+    - millennium-mambo
+    - flowers-of-shanghai
+    - the-assassin
+    - the-puppetmaster

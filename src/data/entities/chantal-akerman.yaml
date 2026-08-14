@@ -1,0 +1,73 @@
+slug: chantal-akerman
+kind: director
+name: Chantal Akerman
+blurb: Fixed cameras, domestic time, and the refusal to cut away from any of it.
+
+films:
+  - film: jeanne-dielman
+    signature: 5
+    gateway: 3      # three and a half hours of housework before anything happens, deliberately
+    note: Three days of a widow's routine. The most important film in this list.
+
+  - film: news-from-home
+    signature: 5
+    gateway: 4
+    note: New York streets, read over with her mother's letters. Eighty-eight minutes, no plot.
+
+  - film: les-rendez-vous-danna
+    signature: 5
+    gateway: 3
+    note: A filmmaker crosses Europe by train and cannot connect with anyone.
+
+  - film: dest
+    signature: 5
+    gateway: 1
+    note: Faces and roads across the former Eastern bloc. No commentary, no names.
+
+  - film: toute-une-nuit
+    signature: 4
+    gateway: 3
+    note: One hot night in Brussels, dozens of encounters, none of them explained.
+
+  - film: je-tu-il-elle
+    signature: 4
+    gateway: 2
+    note: The first feature. Sugar, a lorry driver, and an unbroken final scene.
+
+  - film: la-captive
+    signature: 4
+    gateway: 3
+    note: Proust, relocated and refrigerated. Obsession filmed at arm's length.
+
+  - film: no-home-movie
+    signature: 4
+    gateway: 2
+    note: Her mother, at the end. Made shortly before her own death, and unbearable for it.
+
+  - film: night-and-day
+    signature: 3
+    gateway: 4
+    note: A love triangle conducted in daylight and taxis. Light on its feet.
+
+  - film: golden-eighties
+    signature: 2     # a shopping-mall musical, and nothing else here sounds remotely like it
+    gateway: 4
+    note: A genuine musical, sincerely made, and proof she could do anything.
+
+  - film: a-couch-in-new-york
+    signature: 1
+    gateway: 0
+    note: A romantic comedy with Juliette Binoche. The one that did not work.
+
+curated:
+  curator: house
+  rationale: Learn her time signature first, then sit with the long one.
+  order:
+    - news-from-home
+    - jeanne-dielman
+    - les-rendez-vous-danna
+    - golden-eighties
+    - toute-une-nuit
+    - la-captive
+    - dest
+    - no-home-movie

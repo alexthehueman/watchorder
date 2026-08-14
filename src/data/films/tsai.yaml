@@ -1,0 +1,104 @@
+# Tsai Ming-liang. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Stillness sits at 4-5 across the entire filmography, which is accurate and does mean the pacing
+# half of the confusion question has almost nothing to grip. What saves him from being flat is
+# humor: The Hole has full musical numbers, and Goodbye Dragon Inn is a comedy about an empty
+# cinema. A schema that only measured difficulty would render him as one long grey smear.
+
+- id: rebels-of-the-neon-god
+  tmdb_id: null
+  title: Rebels of the Neon God
+  year: 1992
+  runtime: 106
+  tags: { opacity: 2, stillness: 4, bleakness: 4, humor: 2, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: vive-lamour
+  tmdb_id: null
+  title: Vive L'Amour
+  year: 1994
+  runtime: 118
+  tags: { opacity: 3, stillness: 5, bleakness: 4, humor: 2, acclaim: 0.80 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+
+- id: the-river
+  tmdb_id: null
+  title: The River
+  year: 1997
+  runtime: 115
+  tags: { opacity: 3, stillness: 5, bleakness: 5, humor: 1, acclaim: 0.78 }
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+
+- id: the-hole
+  tmdb_id: null
+  title: The Hole
+  year: 1998
+  runtime: 95
+  tags:
+    opacity: 4
+    stillness: 5
+    bleakness: 4
+    humor: 4    # the Grace Chang musical numbers are joyous, and they are not ironic
+    acclaim: 0.80
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: what-time-is-it-there
+  tmdb_id: null
+  title: What Time Is It There?
+  year: 2001
+  runtime: 116
+  tags: { opacity: 3, stillness: 5, bleakness: 4, humor: 3, acclaim: 0.82 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: goodbye-dragon-inn
+  tmdb_id: null
+  title: Goodbye, Dragon Inn
+  year: 2003
+  runtime: 82
+  tags:
+    opacity: 4
+    stillness: 5
+    bleakness: 3    # an elegy rather than a tragedy, and oddly consoling
+    humor: 3
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: the-wayward-cloud
+  tmdb_id: null
+  title: The Wayward Cloud
+  year: 2005
+  runtime: 112
+  tags: { opacity: 4, stillness: 5, bleakness: 5, humor: 3, acclaim: 0.68 }
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 3 }
+
+- id: i-dont-want-to-sleep-alone
+  tmdb_id: null
+  title: I Don't Want to Sleep Alone
+  year: 2006
+  runtime: 118
+  tags: { opacity: 4, stillness: 5, bleakness: 4, humor: 1, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 2 }
+
+- id: face
+  tmdb_id: null
+  title: Face
+  year: 2009
+  runtime: 141
+  tags: { opacity: 5, stillness: 5, bleakness: 3, humor: 2, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+
+- id: stray-dogs
+  tmdb_id: null
+  title: Stray Dogs
+  year: 2013
+  runtime: 138
+  tags: { opacity: 4, stillness: 5, bleakness: 5, humor: 1, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
+
+- id: days
+  tmdb_id: null
+  title: Days
+  year: 2020
+  runtime: 127
+  tags: { opacity: 4, stillness: 5, bleakness: 4, humor: 1, acclaim: 0.70 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }

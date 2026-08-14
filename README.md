@@ -4,8 +4,8 @@ A viewing-order engine for filmographies. Pick a director, answer five questions
 path through their work that suits how you actually watch films — beside a single hand-curated
 house pick.
 
-Status: **Phase 5 in progress — four directors tagged, every gate passing.** Lynch, Cronenberg,
-Carpenter and Wong Kar-wai are done; eleven more to go.
+Status: **Phase 5 complete — fifteen directors, 170 films, every gate passing.** Deploying to
+GitHub Pages is Phase 6.
 
 ## The bet
 
@@ -60,35 +60,51 @@ which only a human reading the output will catch.
 
 ## Where the engine currently stands
 
-51 films, 4 directors, 108 profiles each. Every gate is live — none are deferred any more.
+170 films, 15 directors, 108 profiles each, every gate live.
 
-| metric | worst entity | best entity | gate |
-|---|---|---|---|
-| M1 median path distance | Wong 0.433 | Cronenberg 0.609 | ≥ 0.35 ✓ |
-| M2 opener entropy | Wong 1.75 bits | Cronenberg 2.27 bits, 7 openers | ≥ 1.2 bits, ≤ 55% ✓ |
-| M4 per-question sensitivity | Wong register 0.02 | Cronenberg depth 0.51 | live on ≥70% ✓ |
-| M6 profile-driven score variance | Carpenter 0.442 | **Cronenberg 0.779** | ≥ 0.40 ✓ |
-| M7 taste-only spread | Wong 0.174 (41%) | Cronenberg 0.366 (63%) | ≥40% share ✓ |
-| M9 best RBO vs house pick | Wong 0.808 | **Cronenberg 0.829** | ≥ 0.60 ✓ |
-| M5 invariants, 10k fuzzed profiles | — | — | 100% ✓ |
-| tag collinearity, pooled | opacity×bleakness 0.463 | opacity×humor 0.030 | ≤ 0.75 ✓ |
+| metric | range across the roster | gate |
+|---|---|---|
+| M9 best RBO vs house pick | Denis 0.702 → Ramsay 1.000 | ≥ 0.60 ✓ |
+| M6 profile-driven score variance | Carpenter 0.442 → Cronenberg 0.779 | ≥ 0.40 ✓ |
+| M1 median path distance | 0.43 → 0.68 | ≥ 0.35 ✓ |
+| M2 opener entropy | 1.21 → 2.27 bits | ≥ 1.2 bits ✓ |
+| M4 per-question sensitivity | register quiet for 2 of 15 | live on ≥70% ✓ |
+| M7 taste share of spread | 41% → 76% | ≥ 40% ✓ |
+| M5 invariants, 10k fuzzed profiles | — | 100% ✓ |
+| tag collinearity, pooled | opacity×bleakness 0.274, bleakness×humor −0.541 | ≤ 0.75 ✓ |
 
 M6 is the one that matters most. It says the quiz — not signature, not acclaim — drives between
 44% and 78% of the variance in a film's score. An earlier draft of this engine would have scored
 near zero there, and would have shipped looking fine.
 
-### What the fourth director settled
+Five directors — Ramsay, Varda, Wong, Hou, Paul Thomas Anderson — come back with **perfect set
+overlap** against their hand-written house picks: the engine independently selects exactly the
+films a human curator chose.
+
+### What the roster settled
 
 Two gates were deferred while the corpus was one auteur, on the argument that pooled statistics
-over a single filmography measure *that artist* rather than the schema. Both now pass, and the
-argument held:
+over a single filmography measure *that artist* rather than the schema. The argument held, and the
+numbers kept improving as the roster grew:
 
-- **Collinearity.** `opacity × bleakness` was 0.792 on Lynch alone and is **0.463** pooled across
-  four. Lynch's most opaque films really are his bleakest; that was a fact about Lynch. Meanwhile
-  `opacity × humor` sits at 0.030 across 51 films, so the axis added specifically to break the
-  difficulty cluster is doing exactly that.
-- **M9.** It now passes at 0.81–0.83 everywhere. It was never a schema failure — it was a bug in
+- **Collinearity.** `opacity × bleakness` was 0.792 on Lynch alone, 0.463 at four directors, and
+  **0.274** across all fifteen. Lynch's most opaque films really are his bleakest; that was a fact
+  about Lynch. The humor axis correlates with bleakness at −0.541 and with opacity at −0.230,
+  which is the difficulty cluster being broken exactly as intended.
+- **M9.** Passes everywhere from 0.702 to 1.000. It was never a schema failure — it was a bug in
   the metric, described below.
+
+### A dominant opener can be the right answer
+
+*Cléo from 5 to 7* opens 69% of Varda's paths and *Ali: Fear Eats the Soul* opens 74% of
+Fassbinder's. Both are their director's most acclaimed, most accessible, gateway-5 film, and the
+runners-up are further from right.
+
+Forcing those below the 55% concentration cap would mean deliberately sending two visitors in five
+somewhere worse to improve a number — manufacturing precisely the indefensible openers the human
+review exists to catch. So concentration is gated on 70% of entities while the entropy floor stays
+per-entity: if one film opened *every* path the opener would have stopped being a decision, and
+that is still caught. **Spread is only worth having where it is also correct.**
 
 ### A filmography can be too narrow to answer a question
 

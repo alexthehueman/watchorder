@@ -1,0 +1,100 @@
+# A selection, not the complete works — forty-plus features in thirteen years would be a different
+# product. Berlin Alexanderplatz is here as a series, and at fifteen hours it consumes three slots
+# of any budget, which is the honest accounting.
+
+slug: rainer-werner-fassbinder
+kind: director
+name: Rainer Werner Fassbinder
+blurb: Melodrama as autopsy, made faster than anyone should be able to make anything.
+
+films:
+  - film: ali-fear-eats-the-soul
+    signature: 5
+    gateway: 5      # ninety-three minutes, entirely direct, and it breaks your heart
+    note: An older cleaner and a Moroccan mechanic. Sirk, rebuilt in Munich.
+
+  - film: the-marriage-of-maria-braun
+    signature: 5
+    gateway: 5
+    note: Postwar Germany as one woman's ascent. The best-made film he left.
+
+  - film: fox-and-his-friends
+    signature: 5
+    gateway: 4
+    note: He plays the mark himself. Class, not sexuality, is what destroys Fox.
+
+  - film: petra-von-kant
+    signature: 5
+    gateway: 3
+    note: One room, six women, and a camera that will not intervene.
+
+  - film: in-a-year-of-13-moons
+    signature: 5
+    gateway: 1
+    note: Made after his lover's suicide, and it shows in every frame.
+
+  - film: berlin-alexanderplatz
+    signature: 5
+    gateway: 1      # fifteen hours; it assumes you are already committed
+    note: Fifteen hours of Döblin. The epilogue is unlike anything else on television.
+
+  - film: veronika-voss
+    signature: 4
+    gateway: 3
+    note: A faded UFA star and the doctor keeping her supplied. Shot in silver.
+
+  - film: chinese-roulette
+    signature: 4
+    gateway: 3
+    note: A weekend party, one cruel game, and everybody deserving it.
+
+  - film: lola-1981
+    signature: 4
+    gateway: 4
+    note: The middle of the BRD trilogy, and the most purely enjoyable of the three.
+
+  - film: mother-kusters
+    signature: 4
+    gateway: 3
+    note: A widow discovers the left is as opportunistic as the press.
+
+  - film: effi-briest
+    signature: 4
+    gateway: 2
+    note: Fontane, filmed in dissolves and irises. Deliberately airless.
+
+  - film: querelle
+    signature: 4
+    gateway: 1
+    note: His last film, shot entirely on a soundstage in orange light.
+
+  - film: despair
+    signature: 3
+    gateway: 2
+    note: Nabokov with Dirk Bogarde. The English-language experiment.
+
+  - film: love-is-colder-than-death
+    signature: 3
+    gateway: 2
+    note: The first feature. Anti-Godard, made in twenty-four days.
+
+prereqs:
+  - film: lola-1981
+    requires: the-marriage-of-maria-braun
+    strength: soft
+  - film: veronika-voss
+    requires: the-marriage-of-maria-braun
+    strength: soft
+
+curated:
+  curator: house
+  rationale: The melodramas first, because that is where the cruelty is legible.
+  order:
+    - ali-fear-eats-the-soul
+    - the-marriage-of-maria-braun
+    - fox-and-his-friends
+    - petra-von-kant
+    - lola-1981
+    - veronika-voss
+    - in-a-year-of-13-moons
+    - berlin-alexanderplatz

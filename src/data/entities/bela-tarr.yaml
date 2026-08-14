@@ -1,0 +1,55 @@
+slug: bela-tarr
+kind: director
+name: Béla Tarr
+blurb: Rain, mud, and takes that outlast your patience on purpose.
+
+films:
+  - film: werckmeister-harmonies
+    signature: 5
+    gateway: 4      # thirty-nine shots, a whale, and the best argument for the whole method
+    note: A whale arrives in a town square and the town falls apart. Start here.
+
+  - film: damnation
+    signature: 5
+    gateway: 3
+    note: Where the style arrives fully formed. Dogs, rain, and a bar that never closes.
+
+  - film: the-turin-horse
+    signature: 5
+    gateway: 3
+    note: His last film. Two people, one horse, six days, boiled potatoes.
+
+  - film: satantango
+    signature: 5
+    gateway: 1      # seven and a quarter hours in one sitting, which is the point of it
+    note: Seven hours in a collapsing collective farm. Genuinely one of the great films.
+
+  - film: almanac-of-fall
+    signature: 4
+    gateway: 2
+    note: The transition — colour, interiors, and everyone lying to everyone.
+
+  - film: the-man-from-london
+    signature: 4
+    gateway: 2
+    note: A Simenon adaptation, and the least essential of the late films.
+
+  - film: family-nest
+    signature: 2
+    gateway: 4
+    note: Early social realism, handheld and shouted. Sounds like nobody he became.
+
+  - film: the-outsider
+    signature: 2
+    gateway: 3
+    note: A drifting musician. The last film before he found the long take.
+
+curated:
+  curator: house
+  rationale: Three films to decide, and then the seven-hour one, if it took.
+  order:
+    - werckmeister-harmonies
+    - damnation
+    - the-turin-horse
+    - almanac-of-fall
+    - satantango

@@ -1,0 +1,78 @@
+slug: agnes-varda
+kind: director
+name: Agnès Varda
+blurb: Curiosity as a method, across sixty years and two entirely different careers.
+
+films:
+  - film: cleo-from-5-to-7
+    signature: 5
+    gateway: 5      # ninety real-time minutes, and the single best entry point in the roster
+    note: Two hours of waiting for a test result, in real time, in Paris.
+
+  - film: vagabond
+    signature: 5
+    gateway: 4
+    note: A young woman found frozen in a ditch, reconstructed backwards. No sentiment at all.
+
+  - film: the-gleaners-and-i
+    signature: 5
+    gateway: 5
+    note: People who pick up what is left. Made on an early digital camera, at sixty-two.
+
+  - film: le-bonheur
+    signature: 5
+    gateway: 3      # it looks like a picnic and it is the coldest thing she made
+    note: Sunlit, pastel, and quietly appalling. It never tells you what to think.
+
+  - film: the-beaches-of-agnes
+    signature: 5
+    gateway: 4
+    note: Her own life, staged on beaches, with mirrors. A self-portrait that resists itself.
+
+  - film: faces-places
+    signature: 4
+    gateway: 5
+    note: Eighty-eight years old, driving round France with JR, pasting photographs on barns.
+
+  - film: la-pointe-courte
+    signature: 4
+    gateway: 3
+    note: Made before the New Wave existed, by someone who had barely seen films.
+
+  - film: one-sings-the-other-doesnt
+    signature: 4
+    gateway: 4
+    note: Two friends across fifteen years of French feminism. Includes songs.
+
+  - film: jacquot-de-nantes
+    signature: 4
+    gateway: 3
+    note: Her husband's childhood, filmed while he was dying. Tender rather than morbid.
+
+  - film: jane-b-par-agnes-v
+    signature: 3
+    gateway: 3
+    note: A portrait of Jane Birkin that keeps refusing to be one.
+
+  - film: varda-by-agnes
+    signature: 3
+    gateway: 4
+    note: A lecture, essentially. The best possible commentary track on everything above.
+
+  - film: lions-love
+    signature: 3
+    gateway: 2
+    note: Hollywood, 1969, and the least disciplined thing she made.
+
+curated:
+  curator: house
+  rationale: The fiction first, then the second career that turned out to be the main one.
+  order:
+    - cleo-from-5-to-7
+    - le-bonheur
+    - vagabond
+    - one-sings-the-other-doesnt
+    - the-gleaners-and-i
+    - jacquot-de-nantes
+    - the-beaches-of-agnes
+    - faces-places

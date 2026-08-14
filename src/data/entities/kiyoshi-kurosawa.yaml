@@ -1,0 +1,82 @@
+slug: kiyoshi-kurosawa
+kind: director
+name: Kiyoshi Kurosawa
+blurb: No relation. Wide frames, empty rooms, and something wrong at the edge of the shot.
+
+films:
+  - film: cure
+    signature: 5
+    gateway: 4
+    note: A detective, an amnesiac, and a hypnotic that spreads. Among the great thrillers.
+
+  - film: pulse
+    signature: 5
+    gateway: 3
+    note: Ghosts arriving through dial-up. About loneliness, years before it was fashionable.
+
+  - film: charisma
+    signature: 5
+    gateway: 1
+    note: A tree in a forest, and an argument about it that nobody wins.
+
+  - film: tokyo-sonata
+    signature: 4
+    gateway: 5      # a family drama with the horror grammar left intact underneath
+    note: A salaryman hides his redundancy. The dread never announces itself.
+
+  - film: creepy
+    signature: 4
+    gateway: 4
+    note: The neighbour is wrong. Everyone can see it and nobody says so.
+
+  - film: bright-future
+    signature: 4
+    gateway: 2
+    note: Jellyfish in the Tokyo canals. His strangest and most hopeful.
+
+  - film: retribution
+    signature: 4
+    gateway: 3
+    note: A ghost in a red dress, and a detective who may have done it.
+
+  - film: journey-to-the-shore
+    signature: 4
+    gateway: 3
+    note: A dead husband comes home and they go for a walk. Unexpectedly gentle.
+
+  - film: seance
+    signature: 3
+    gateway: 4
+    note: A television film, and the most conventional ghost story here.
+
+  - film: wife-of-a-spy
+    signature: 3
+    gateway: 4
+    note: A wartime melodrama, and his most handsomely mounted film.
+
+  - film: before-we-vanish
+    signature: 3
+    gateway: 3
+    note: Aliens learning what concepts mean by taking them from people.
+
+  - film: doppelganger
+    signature: 3     # a broad farce from the director of Cure, and it fully commits
+    gateway: 2
+    note: A comedy. An actual comedy, with slapstick. It works.
+
+  - film: real
+    signature: 2
+    gateway: 2
+    note: The weakest of the late films, and the one to skip first.
+
+curated:
+  curator: house
+  rationale: Two masterpieces up front, then watch the dread move into other genres.
+  order:
+    - cure
+    - pulse
+    - tokyo-sonata
+    - creepy
+    - bright-future
+    - retribution
+    - charisma

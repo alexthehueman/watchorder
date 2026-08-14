@@ -1,0 +1,72 @@
+slug: tsai-ming-liang
+kind: director
+name: Tsai Ming-liang
+blurb: Leaking apartments, one actor for thirty years, and almost no dialogue at all.
+
+films:
+  - film: vive-lamour
+    signature: 5
+    gateway: 4
+    note: Three people share an empty flat without meeting. The last shot runs six minutes.
+
+  - film: what-time-is-it-there
+    signature: 5
+    gateway: 4
+    note: A watch seller, a grieving mother, and Paris. His most tender film.
+
+  - film: goodbye-dragon-inn
+    signature: 5
+    gateway: 4      # eighty-two minutes, and the shortest way to find out if he is for you
+    note: A cinema closes. Almost nobody comes. Very funny, and then very sad.
+
+  - film: the-river
+    signature: 5
+    gateway: 1
+    note: A neck injury nobody can diagnose, and the bathhouse scene that ends it.
+
+  - film: stray-dogs
+    signature: 5
+    gateway: 1
+    note: Late, punishing, and the closest he has come to abandoning narrative entirely.
+
+  - film: rebels-of-the-neon-god
+    signature: 4
+    gateway: 5      # the most conventionally plotted thing he made, and a real way in
+    note: The first feature. A youth film, before he slowed everything down.
+
+  - film: the-hole
+    signature: 4
+    gateway: 4
+    note: An epidemic, a hole in a floor, and full Grace Chang musical numbers. Sincerely.
+
+  - film: i-dont-want-to-sleep-alone
+    signature: 4
+    gateway: 2
+    note: Kuala Lumpur, a mattress, and haze. Slighter than it looks.
+
+  - film: the-wayward-cloud
+    signature: 4
+    gateway: 0
+    note: A drought, a watermelon, and an ending that has made people walk out.
+
+  - film: days
+    signature: 4
+    gateway: 2
+    note: Deliberately unsubtitled. Two men, one massage, no explanation.
+
+  - film: face
+    signature: 3
+    gateway: 0
+    note: Made inside the Louvre, and his least disciplined film.
+
+curated:
+  curator: house
+  rationale: Start while he still cuts, and stay until he stops.
+  order:
+    - rebels-of-the-neon-god
+    - vive-lamour
+    - the-hole
+    - what-time-is-it-there
+    - goodbye-dragon-inn
+    - the-river
+    - stray-dogs

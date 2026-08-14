@@ -1,0 +1,86 @@
+# Béla Tarr. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Sátántangó is 439 minutes in one sitting, which makes it the corpus's hardest endurance case —
+# and unlike a series it genuinely is one film, so the per-episode relief does not apply. It is
+# the reason the endurance term is measured per sitting rather than per work.
+
+- id: family-nest
+  tmdb_id: null
+  title: Family Nest
+  year: 1979
+  runtime: 108
+  tags:
+    opacity: 1    # the early social-realist films explain themselves completely
+    stillness: 3
+    bleakness: 5
+    humor: 1
+    acclaim: 0.62
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: the-outsider
+  tmdb_id: null
+  title: The Outsider
+  year: 1981
+  runtime: 121
+  tags: { opacity: 2, stillness: 3, bleakness: 4, humor: 2, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: almanac-of-fall
+  tmdb_id: null
+  title: Almanac of Fall
+  year: 1984
+  runtime: 119
+  tags: { opacity: 2, stillness: 4, bleakness: 5, humor: 1, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: damnation
+  tmdb_id: null
+  title: Damnation
+  year: 1988
+  runtime: 116
+  tags: { opacity: 3, stillness: 5, bleakness: 5, humor: 1, acclaim: 0.80 }
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: satantango
+  tmdb_id: null
+  title: Sátántangó
+  year: 1994
+  runtime: 439
+  tags: { opacity: 4, stillness: 5, bleakness: 5, humor: 2, acclaim: 0.88 }
+  content:
+    sexual_violence: false
+    animal_harm: true    # the cat sequence, which is the film's most notorious passage
+    child_harm: true
+    suicide: true
+    violence: 2
+    sex: 1
+
+- id: werckmeister-harmonies
+  tmdb_id: null
+  title: Werckmeister Harmonies
+  year: 2000
+  runtime: 145
+  tags: { opacity: 4, stillness: 5, bleakness: 5, humor: 1, acclaim: 0.90 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-man-from-london
+  tmdb_id: null
+  title: The Man from London
+  year: 2007
+  runtime: 139
+  tags: { opacity: 3, stillness: 5, bleakness: 4, humor: 1, acclaim: 0.62 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-turin-horse
+  tmdb_id: null
+  title: The Turin Horse
+  year: 2011
+  runtime: 146
+  tags: { opacity: 3, stillness: 5, bleakness: 5, humor: 1, acclaim: 0.85 }
+  content:
+    sexual_violence: false
+    animal_harm: true    # the horse's decline is the film's subject and it is not spared
+    child_harm: false
+    suicide: false
+    violence: 1
+    sex: 0
