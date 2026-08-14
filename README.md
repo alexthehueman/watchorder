@@ -4,8 +4,10 @@ A viewing-order engine for filmographies. Pick a director, answer five questions
 path through their work that suits how you actually watch films — beside a single hand-curated
 house pick.
 
-Status: **Phase 5 complete — fifteen directors, 170 films, every gate passing.** Deploying to
-GitHub Pages is Phase 6.
+**Live: https://alexthehueman.github.io/watchorder**
+
+Status: **Phase 6 complete — deployed.** Fifteen directors, 170 films, every gate passing. Actors
+are Phase 7 and studios Phase 8; both need relation-level data the director schema does not have.
 
 ## The bet
 
@@ -48,6 +50,20 @@ npm run build
 Writes `dist/`, which is what GitHub Pages publishes. To look at it, serve the directory from
 somewhere *other* than inside it — a server whose working directory is `dist/` locks it on
 Windows, which is why the build empties the directory rather than removing it.
+
+Pushing to `main` deploys. `.github/workflows/deploy.yml` builds with the base path
+`actions/configure-pages` reports, and refuses to publish if the stylesheet href does not match
+the base it was built with — a project site is served from `/watchorder/`, and that mismatch is
+invisible locally.
+
+To reproduce a deployed build by hand:
+
+```bash
+MSYS_NO_PATHCONV=1 BASE=/watchorder ORIGIN=https://alexthehueman.github.io npm run build
+```
+
+`MSYS_NO_PATHCONV=1` is not optional in Git Bash on Windows: without it, MSYS rewrites
+`/watchorder` into `C:/Program Files/Git/watchorder` and the build silently emits that.
 
 ```bash
 npm run preview -- david-lynch
