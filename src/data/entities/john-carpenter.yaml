@@ -1,0 +1,94 @@
+slug: john-carpenter
+kind: director
+name: John Carpenter
+blurb: Widescreen, synthesiser, and a deep suspicion of whoever is in charge.
+
+films:
+  - film: the-thing
+    signature: 5
+    gateway: 5
+    note: Paranoia, practical effects, and the bleakest ending in studio horror.
+
+  - film: halloween
+    signature: 5
+    gateway: 5
+    note: More patient than its reputation. The dread is built from waiting.
+
+  - film: they-live
+    signature: 5
+    gateway: 5      # the politics are on the surface and the fight scene is six minutes long
+    note: The most straightforwardly furious film he made, and very funny about it.
+
+  - film: escape-from-new-york
+    signature: 4
+    gateway: 4
+    note: A whole aesthetic, assembled on almost no money.
+
+  - film: big-trouble-in-little-china
+    signature: 4
+    gateway: 4
+    note: The sidekick thinks he is the hero. Nobody understood it at the time.
+
+  - film: assault-on-precinct-13
+    signature: 4
+    gateway: 4
+    note: Rio Bravo, relocated and stripped to the bolts.
+
+  - film: prince-of-darkness
+    signature: 4
+    gateway: 2
+    note: Quantum physics as apocalypse. The middle of the Apocalypse Trilogy.
+
+  - film: in-the-mouth-of-madness
+    signature: 4
+    gateway: 2
+    note: The end of that trilogy, and the one where reality stops holding.
+
+  - film: the-fog
+    signature: 3
+    gateway: 3
+    note: A ghost story that trusts atmosphere over incident.
+
+  - film: christine
+    signature: 3
+    gateway: 3
+    note: A work-for-hire King adaptation he made better than it needed to be.
+
+  - film: dark-star
+    signature: 2
+    gateway: 2
+    note: The student film. Bored astronauts argue with a bomb about phenomenology.
+
+  - film: escape-from-la
+    signature: 2
+    gateway: 1
+    note: The same film again, knowingly, with worse effects and a better joke at the end.
+
+  - film: starman
+    signature: 1     # a warm, sincere romance — nothing else in the filmography is remotely this
+    gateway: 0
+    note: Proof he could do the opposite, which is why it sounds like nobody.
+
+  - film: memoirs-of-an-invisible-man
+    signature: 1
+    gateway: 0
+    note: A studio comedy he was hired for. Skippable without guilt.
+
+prereqs:
+  - film: escape-from-la
+    requires: escape-from-new-york
+    strength: hard
+
+curated:
+  curator: house
+  rationale: The famous ones first, because they are famous for good reasons, then the strange ones.
+  order:
+    - halloween
+    - the-thing
+    - escape-from-new-york
+    - they-live
+    - big-trouble-in-little-china
+    - assault-on-precinct-13
+    - prince-of-darkness
+    - in-the-mouth-of-madness
+    - dark-star

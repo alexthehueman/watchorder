@@ -4,8 +4,8 @@ A viewing-order engine for filmographies. Pick a director, answer five questions
 path through their work that suits how you actually watch films — beside a single hand-curated
 house pick.
 
-Status: **Phase 4 complete — the quiz works and paths are shareable.** The roster is still Lynch
-alone; expanding it to fifteen directors is Phase 5.
+Status: **Phase 5 in progress — four directors tagged, every gate passing.** Lynch, Cronenberg,
+Carpenter and Wong Kar-wai are done; eleven more to go.
 
 ## The bet
 
@@ -60,21 +60,46 @@ which only a human reading the output will catch.
 
 ## Where the engine currently stands
 
-Measured on the Lynch corpus, 108 profiles:
+51 films, 4 directors, 108 profiles each. Every gate is live — none are deferred any more.
 
-| metric | result | gate |
-|---|---|---|
-| M1 median path distance | 0.673, 2.0% identical | ≥ 0.35 ✓ |
-| M2 opener entropy | 1.91 bits, 4 distinct openers, top 38% | ≥ 1.2 bits, ≤ 55% ✓ |
-| M4 weakest question | register, mean D 0.359 | ≥ 0.10 ✓ |
-| M6 profile-driven share of score variance | **0.618** | ≥ 0.40 ✓ |
-| M7 taste-only spread | 0.468, **75% of all spread** | ≥ 0.25, ≥ 40% ✓ |
-| M9 best RBO vs house pick | 0.498, set overlap 0.778 | ≥ 0.60 ✗ *(deferred)* |
-| M5 invariants, 10k fuzzed profiles | 9879 paths, 121 explicit no-path | 100% ✓ |
+| metric | worst entity | best entity | gate |
+|---|---|---|---|
+| M1 median path distance | Wong 0.433 | Cronenberg 0.609 | ≥ 0.35 ✓ |
+| M2 opener entropy | Wong 1.75 bits | Cronenberg 2.27 bits, 7 openers | ≥ 1.2 bits, ≤ 55% ✓ |
+| M4 per-question sensitivity | Wong register 0.02 | Cronenberg depth 0.51 | live on ≥70% ✓ |
+| M6 profile-driven score variance | Carpenter 0.442 | **Cronenberg 0.779** | ≥ 0.40 ✓ |
+| M7 taste-only spread | Wong 0.174 (41%) | Cronenberg 0.366 (63%) | ≥40% share ✓ |
+| M9 best RBO vs house pick | Wong 0.808 | **Cronenberg 0.829** | ≥ 0.60 ✓ |
+| M5 invariants, 10k fuzzed profiles | — | — | 100% ✓ |
+| tag collinearity, pooled | opacity×bleakness 0.463 | opacity×humor 0.030 | ≤ 0.75 ✓ |
 
-M6 is the one that matters most. It says the quiz — not signature, not acclaim — drives 60% of the
-variance in a film's score. An earlier draft of this engine would have scored near zero there, and
-would have shipped looking fine.
+M6 is the one that matters most. It says the quiz — not signature, not acclaim — drives between
+44% and 78% of the variance in a film's score. An earlier draft of this engine would have scored
+near zero there, and would have shipped looking fine.
+
+### What the fourth director settled
+
+Two gates were deferred while the corpus was one auteur, on the argument that pooled statistics
+over a single filmography measure *that artist* rather than the schema. Both now pass, and the
+argument held:
+
+- **Collinearity.** `opacity × bleakness` was 0.792 on Lynch alone and is **0.463** pooled across
+  four. Lynch's most opaque films really are his bleakest; that was a fact about Lynch. Meanwhile
+  `opacity × humor` sits at 0.030 across 51 films, so the axis added specifically to break the
+  difficulty cluster is doing exactly that.
+- **M9.** It now passes at 0.81–0.83 everywhere. It was never a schema failure — it was a bug in
+  the metric, described below.
+
+### A filmography can be too narrow to answer a question
+
+Wong Kar-wai's register sensitivity is 0.02. Carpenter's confusion sensitivity is 0.115. Neither
+is an engine defect: Wong's films are tonally narrow (humor 1–2 throughout bar *Chungking
+Express*), and Carpenter tells stories plainly (opacity mostly 1–2). A question can only reorder a
+filmography that varies on the axis it asks about.
+
+So M4 and M7 gate on "at least 70% of entities" rather than every one, and the suite prints which
+axis is quiet for whom. **That is a UI signal worth using later** — a question that provably does
+nothing for the filmmaker on screen probably should not be asked about them.
 
 ### How a series is priced, and why it took two attempts
 
@@ -96,28 +121,29 @@ the budget is now measured in slots, and a series costs up to three of them.
 The visible consequence is that a six-film path containing a series lists four titles. The page
 says so rather than hoping nobody notices.
 
-### Open: M9 does not pass, and the reason is worth keeping
+### M9 spent weeks looking like a schema failure and was a broken ruler
 
-The engine's closest approach to the hand-written Lynch house pick is RBO 0.498 against a 0.60
-gate. Set overlap is 0.778 — eight of nine films agree, and only *The Straight Story* versus *Wild
-at Heart* differs.
+For most of the build, M9 sat at ~0.50 against a 0.60 gate and read as evidence that the tag
+schema could not express a curator's order. It was measuring wrong.
 
-So the remaining gap is almost entirely **ordering, not membership**, and the orderings that
-disagree are both defensible. The engine groups the Twin Peaks material together; the house pick
-interleaves it. RBO weights early positions hard (p=0.9), so two reasonable readings of the same
-nine films score far apart. Nothing here suggests the schema cannot express a good order — it
-expresses a different one, and arguably a better one.
+Rank-biased overlap converges to 1 only as depth goes to infinity. Over a list of length *n* it
+cannot exceed `1 - pⁿ` — **0.52 at seven films, 0.61 at nine**. The 0.60 threshold was therefore
+unreachable by construction, whatever the engine produced.
 
-The gate is deferred rather than lowered, and deferred rather than tuned away. Its specification
-is "0.60 on at least 70% of entities", which cannot mean anything against a single entity; tuning
-weights until one hand-made list is reproduced would fit the engine to one opinion. It becomes a
-real gate at Phase 5, when the roster reaches 15 directors.
+What exposed it was adding a fourth director. Wong Kar-wai scored 0.422 while the engine had
+selected *exactly* his house pick, every film, no differences. A perfect set overlap cannot be a
+0.42 anything, and the ceiling arithmetic followed immediately. Normalising by `1 - pⁿ` moved all
+four entities to 0.81–0.83, and it also makes scores comparable across house picks of different
+lengths, which they are — seven films for Wong, nine for the others.
 
-The same reasoning applies to the tag collinearity gate in `test/data.test.js`. `opacity` and
-`bleakness` correlate at 0.792 across the corpus — but the corpus is one auteur, and Lynch's most
-opaque films genuinely *are* his bleakest. That is a fact about Lynch rather than a defect in the
-schema, so the gate waits for three entities. Meanwhile `humor` correlates with `opacity` at
-0.034, which is the whole reason that axis exists.
+Two lessons kept here on purpose. A metric that never reaches its own maximum will read as a
+product defect indefinitely, and the way to catch it is a calibration test — `test/spread.test.js`
+now asserts that identical lists score exactly 1 and disjoint ones score 0. And the bug was only
+visible because a second data point disagreed with the first; on one entity it was invisible.
+
+Fixing the ruler also shifted every distance in the suite by a consistent factor of 0.75, so the
+M7 floor moved from 0.25 to 0.19. That is the same claim restated in the corrected units, not a
+lowered bar — the engine did not change at all.
 
 ## The anchor rubric
 

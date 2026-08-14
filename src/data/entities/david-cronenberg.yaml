@@ -1,0 +1,94 @@
+slug: david-cronenberg
+kind: director
+name: David Cronenberg
+blurb: The body is the horror, and he is unsentimental about where that leads.
+
+films:
+  - film: videodrome
+    signature: 5
+    gateway: 3
+    note: The thesis film. Television, flesh and paranoia collapse into one another.
+
+  - film: the-fly
+    signature: 5
+    gateway: 5      # the most legible film he ever made, and the most upsetting
+    note: A love story about decay, told plainly enough that it has nowhere to hide.
+
+  - film: dead-ringers
+    signature: 5
+    gateway: 4
+    note: Twin gynaecologists, one performance, and no relief anywhere.
+
+  - film: crash-1996
+    signature: 5
+    gateway: 1
+    note: Affectless, repetitive, and completely committed. Divisive on purpose.
+
+  - film: crimes-of-the-future
+    signature: 5
+    gateway: 1
+    note: Late style — the old obsessions, restated calmly by someone with nothing to prove.
+
+  - film: naked-lunch
+    signature: 5
+    gateway: 1      # unfollowable without knowing what it is adapting, and barely with
+    note: Not the novel. A film about failing to write the novel.
+
+  - film: the-brood
+    signature: 4
+    gateway: 3
+    note: The divorce film, in which rage is externalised and then kills people.
+
+  - film: scanners
+    signature: 4
+    gateway: 4
+    note: Best known for one shot, and much stranger than that shot suggests.
+
+  - film: shivers
+    signature: 4
+    gateway: 2
+    note: The first one. Everything he does is already here, cheaply.
+
+  - film: existenz
+    signature: 4
+    gateway: 3
+    note: Videodrome again, with the television replaced by a game console.
+
+  - film: cosmopolis
+    signature: 4
+    gateway: 0      # two hours in a limousine of undigested DeLillo dialogue
+    note: A man in a car, talking. Admirable, and extremely hard going.
+
+  - film: a-history-of-violence
+    signature: 3
+    gateway: 5
+    note: The turn outward — violence as a social fact rather than a bodily one.
+
+  - film: eastern-promises
+    signature: 2
+    gateway: 4
+    note: His most conventional film, and one of his best made.
+
+  - film: the-dead-zone
+    signature: 2
+    gateway: 5
+    note: A Stephen King adaptation played completely straight, and genuinely moving.
+
+  - film: fast-company
+    signature: 1     # a drag racing picture, made between The Brood and Scanners, by a car enthusiast
+    gateway: 0
+    note: He likes cars. That is the entire explanation.
+
+curated:
+  curator: house
+  rationale: Start where the horror is legible, then watch it stop explaining itself.
+  order:
+    - the-fly
+    - videodrome
+    - dead-ringers
+    - the-brood
+    - scanners
+    - naked-lunch
+    - crash-1996
+    - a-history-of-violence
+    - crimes-of-the-future

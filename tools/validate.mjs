@@ -13,6 +13,10 @@ import { parse } from 'yaml';
 
 const DATA_DIR = new URL('../src/data/', import.meta.url);
 const ENTITY_DIR = new URL('entities/', DATA_DIR);
+// Films are split across files purely so they stay editable by hand — ids remain global, and a
+// film can be referenced by any entity regardless of which file it happens to live in. Duplicate
+// ids across files are caught below, which is what keeps the split from becoming a trap.
+const FILM_DIR = new URL('films/', DATA_DIR);
 
 const TASTE_TAGS = ['opacity', 'stillness', 'bleakness', 'humor'];
 const CONTENT_BOOLEANS = ['sexual_violence', 'animal_harm', 'child_harm', 'suicide'];
@@ -24,7 +28,13 @@ const MEDIA = ['film', 'series'];
  * @returns {Promise<{films: object[], entities: object[]}>}
  */
 export async function loadCorpus() {
-  const films = parse(await readFile(new URL('films.yaml', DATA_DIR), 'utf8')) ?? [];
+  const films = [];
+  const filmFiles = (await readdir(FILM_DIR)).filter((name) => name.endsWith('.yaml')).sort();
+  for (const name of filmFiles) {
+    const parsed = parse(await readFile(new URL(name, FILM_DIR), 'utf8')) ?? [];
+    for (const film of parsed) films.push({ ...film, sourceFile: `films/${name}` });
+  }
+
   const entries = (await readdir(ENTITY_DIR)).filter((name) => name.endsWith('.yaml')).sort();
   const entities = [];
   for (const name of entries) {
@@ -87,12 +97,18 @@ export function validateCorpus(corpus) {
   const filmsById = new Map();
 
   for (const film of corpus.films) {
-    const where = `films.yaml: ${film.id ?? '(missing id)'}`;
+    const where = `${film.sourceFile}: ${film.id ?? '(missing id)'}`;
     if (!film.id) {
       errors.push(`${where} — every film needs an id`);
       continue;
     }
-    if (filmsById.has(film.id)) errors.push(`${where} — duplicate film id`);
+    if (filmsById.has(film.id)) {
+      // Naming both files matters: with the corpus split, a duplicate id is most likely the same
+      // film added twice by two different people, and the fix depends on which copy is better.
+      errors.push(
+        `${where} — duplicate film id, already defined in ${filmsById.get(film.id).sourceFile}`,
+      );
+    }
     filmsById.set(film.id, film);
 
     if (typeof film.title !== 'string' || !film.title) errors.push(`${where} — missing title`);

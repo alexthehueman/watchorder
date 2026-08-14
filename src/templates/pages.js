@@ -197,7 +197,12 @@ ${everything
     </main>
     <script type="application/json" id="data">${JSON.stringify({
       entity,
-      films: everything.map((entry) => entry.film),
+      // sourceFile is a build-time bookkeeping field; the browser has no use for it and it would
+      // only leak the corpus layout into every page.
+      films: everything.map(({ film }) => {
+        const { sourceFile, ...rest } = film;
+        return rest;
+      }),
     }).replace(/</g, '\\u003c')}</script>
     <script type="module" src="/ui/quiz.js"></script>`;
 

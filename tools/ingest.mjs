@@ -13,11 +13,11 @@
 //    comments in films.yaml record why each tag holds the value it does. Losing them would cost
 //    more than the ids are worth.
 
-import { readFile, writeFile } from 'node:fs/promises';
+import { readdir, readFile, writeFile } from 'node:fs/promises';
 import { pathToFileURL } from 'node:url';
 import { parseDocument } from 'yaml';
 
-const FILMS_PATH = new URL('../src/data/films.yaml', import.meta.url);
+const FILM_DIR = new URL('../src/data/films/', import.meta.url);
 const ENV_PATH = new URL('../.env', import.meta.url);
 const API = 'https://api.themoviedb.org/3';
 
@@ -116,37 +116,43 @@ async function resolveFilm(film, apiKey) {
 }
 
 async function resolveMissingIds(apiKey, dryRun) {
-  const source = await readFile(FILMS_PATH, 'utf8');
-  const doc = parseDocument(source);
-  const items = doc.contents?.items ?? [];
-
+  const files = (await readdir(FILM_DIR)).filter((name) => name.endsWith('.yaml')).sort();
   let resolved = 0;
   let unresolved = 0;
 
-  for (const node of items) {
-    const film = node.toJSON();
-    if (film.tmdb_id !== null && film.tmdb_id !== undefined) continue;
+  for (const file of files) {
+    const path = new URL(file, FILM_DIR);
+    const doc = parseDocument(await readFile(path, 'utf8'));
+    const items = doc.contents?.items ?? [];
+    let changed = 0;
 
-    const { id, reason, candidates } = await resolveFilm(film, apiKey);
-    if (id) {
-      node.set('tmdb_id', id);
-      resolved += 1;
-      console.log(`  ok    ${film.id} -> ${id}`);
-    } else {
-      unresolved += 1;
-      console.warn(`  MISS  ${film.id} — ${reason}`);
-      for (const candidate of candidates) console.warn(`          candidate: ${candidate}`);
+    for (const node of items) {
+      const film = node.toJSON();
+      if (film.tmdb_id !== null && film.tmdb_id !== undefined) continue;
+
+      const { id, reason, candidates } = await resolveFilm(film, apiKey);
+      if (id) {
+        node.set('tmdb_id', id);
+        changed += 1;
+        resolved += 1;
+        console.log(`  ok    ${file}: ${film.id} -> ${id}`);
+      } else {
+        unresolved += 1;
+        console.warn(`  MISS  ${file}: ${film.id} — ${reason}`);
+        for (const candidate of candidates) console.warn(`          candidate: ${candidate}`);
+      }
+      await sleep(REQUEST_GAP_MS);
     }
-    await sleep(REQUEST_GAP_MS);
+
+    // Each file is written only if it changed, and only via the Document API — stringify()
+    // preserves every comment, which is where the reasoning behind each tag lives.
+    if (changed > 0 && !dryRun) {
+      await writeFile(path, doc.toString({ lineWidth: 0 }), 'utf8');
+      console.log(`  wrote ${file} (${changed} resolved)`);
+    }
   }
 
-  if (resolved > 0 && !dryRun) {
-    // stringify() on the Document preserves every comment in the file.
-    await writeFile(FILMS_PATH, doc.toString({ lineWidth: 0 }), 'utf8');
-    console.log(`\nwrote films.yaml — ${resolved} resolved, ${unresolved} left for a human`);
-  } else {
-    console.log(`\n${resolved} resolvable, ${unresolved} left for a human${dryRun ? ' (dry run)' : ''}`);
-  }
+  console.log(`\n${resolved} resolved, ${unresolved} left for a human${dryRun ? ' (dry run)' : ''}`);
   if (unresolved > 0) process.exitCode = 1;
 }
 

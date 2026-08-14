@@ -1,0 +1,272 @@
+# John Carpenter. Scales and anchors are in README.md ("The anchor rubric").
+#
+# He is the corpus's stress test for the humor axis. Almost nothing here is opaque, several are
+# genuinely bleak, and a good half are funny on purpose — which is a combination none of the other
+# directors in the roster produce, and exactly the combination a difficulty-only schema would
+# flatten into "easy".
+
+- id: dark-star
+  tmdb_id: null
+  title: Dark Star
+  year: 1974
+  runtime: 83
+  tags:
+    opacity: 2
+    stillness: 2
+    bleakness: 2
+    humor: 5    # a student film about bored astronauts arguing with a bomb; comedy is the point
+    acclaim: 0.60
+  content:
+    sexual_violence: false
+    animal_harm: false
+    child_harm: false
+    suicide: false
+    violence: 1
+    sex: 0
+
+- id: assault-on-precinct-13
+  tmdb_id: null
+  title: Assault on Precinct 13
+  year: 1976
+  runtime: 91
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 3
+    humor: 2
+    acclaim: 0.75
+  content:
+    sexual_violence: false
+    animal_harm: false
+    child_harm: true   # the ice cream truck scene, which is the whole reason the film is notorious
+    suicide: false
+    violence: 3
+    sex: 0
+
+- id: halloween
+  tmdb_id: null
+  title: Halloween
+  year: 1978
+  runtime: 91
+  tags:
+    opacity: 1
+    stillness: 3    # far more patient than its reputation; the dread is built from waiting
+    bleakness: 3
+    humor: 1
+    acclaim: 0.90
+  content:
+    sexual_violence: false
+    animal_harm: false
+    child_harm: false
+    suicide: false
+    violence: 2
+    sex: 1
+
+- id: the-fog
+  tmdb_id: null
+  title: The Fog
+  year: 1980
+  runtime: 89
+  tags:
+    opacity: 2
+    stillness: 3
+    bleakness: 3
+    humor: 1
+    acclaim: 0.65
+  content:
+    sexual_violence: false
+    animal_harm: false
+    child_harm: false
+    suicide: false
+    violence: 2
+    sex: 0
+
+- id: escape-from-new-york
+  tmdb_id: null
+  title: Escape from New York
+  year: 1981
+  runtime: 99
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 3
+    humor: 3
+    acclaim: 0.78
+  content:
+    sexual_violence: false
+    animal_harm: false
+    child_harm: false
+    suicide: false
+    violence: 2
+    sex: 0
+
+- id: the-thing
+  tmdb_id: null
+  title: The Thing
+  year: 1982
+  runtime: 109
+  tags:
+    opacity: 2    # the ending is ambiguous by design, but nothing before it is
+    stillness: 3
+    bleakness: 5
+    humor: 2
+    acclaim: 0.93
+  content:
+    sexual_violence: false
+    animal_harm: true    # the kennel sequence, and the dog is not spared
+    child_harm: false
+    suicide: false
+    violence: 3
+    sex: 0
+
+- id: christine
+  tmdb_id: null
+  title: Christine
+  year: 1983
+  runtime: 110
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 3
+    humor: 2
+    acclaim: 0.65
+  content:
+    sexual_violence: false
+    animal_harm: false
+    child_harm: false
+    suicide: false
+    violence: 2
+    sex: 1
+
+- id: starman
+  tmdb_id: null
+  title: Starman
+  year: 1984
+  runtime: 115
+  tags:
+    opacity: 1
+    stillness: 3
+    bleakness: 1    # a warm romance from the director of The Thing, and entirely sincere about it
+    humor: 2
+    acclaim: 0.70
+  content:
+    sexual_violence: false
+    animal_harm: false
+    child_harm: false
+    suicide: false
+    violence: 1
+    sex: 1
+
+- id: big-trouble-in-little-china
+  tmdb_id: null
+  title: Big Trouble in Little China
+  year: 1986
+  runtime: 99
+  tags:
+    opacity: 2
+    stillness: 1
+    bleakness: 1
+    humor: 5
+    acclaim: 0.75
+  content:
+    sexual_violence: false
+    animal_harm: false
+    child_harm: false
+    suicide: false
+    violence: 2
+    sex: 0
+
+- id: prince-of-darkness
+  tmdb_id: null
+  title: Prince of Darkness
+  year: 1987
+  runtime: 102
+  tags:
+    opacity: 3
+    stillness: 3
+    bleakness: 5
+    humor: 1
+    acclaim: 0.62
+  content:
+    sexual_violence: false
+    animal_harm: false
+    child_harm: false
+    suicide: false
+    violence: 3
+    sex: 0
+
+- id: they-live
+  tmdb_id: null
+  title: They Live
+  year: 1988
+  runtime: 94
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 3
+    humor: 4
+    acclaim: 0.80
+  content:
+    sexual_violence: false
+    animal_harm: false
+    child_harm: false
+    suicide: false
+    violence: 3
+    sex: 0
+
+- id: memoirs-of-an-invisible-man
+  tmdb_id: null
+  title: Memoirs of an Invisible Man
+  year: 1992
+  runtime: 99
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 2
+    humor: 3
+    acclaim: 0.42
+  content:
+    sexual_violence: false
+    animal_harm: false
+    child_harm: false
+    suicide: false
+    violence: 1
+    sex: 1
+
+- id: in-the-mouth-of-madness
+  tmdb_id: null
+  title: In the Mouth of Madness
+  year: 1994
+  runtime: 95
+  tags:
+    opacity: 4
+    stillness: 2
+    bleakness: 5
+    humor: 2
+    acclaim: 0.70
+  content:
+    sexual_violence: false
+    animal_harm: false
+    child_harm: false
+    suicide: false
+    violence: 3
+    sex: 1
+
+- id: escape-from-la
+  tmdb_id: null
+  title: Escape from L.A.
+  year: 1996
+  runtime: 101
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 3
+    humor: 3
+    acclaim: 0.45
+  content:
+    sexual_violence: false
+    animal_harm: false
+    child_harm: false
+    suicide: false
+    violence: 2
+    sex: 0

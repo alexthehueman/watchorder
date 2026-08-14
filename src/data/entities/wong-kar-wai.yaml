@@ -1,0 +1,75 @@
+slug: wong-kar-wai
+kind: director
+name: Wong Kar-wai
+blurb: Missed connections, expiring tins of pineapple, and rooms nobody quite leaves.
+
+films:
+  - film: in-the-mood-for-love
+    signature: 5
+    gateway: 5
+    note: Two people decline to have an affair, for ninety-eight minutes. Nothing else needed.
+
+  - film: chungking-express
+    signature: 5
+    gateway: 5      # the fastest and funniest way in, and still unmistakably him
+    note: Made quickly, almost by accident, and the most purely enjoyable thing he did.
+
+  - film: happy-together
+    signature: 4
+    gateway: 4
+    note: The same longing, relocated to Buenos Aires and stripped of any consolation.
+
+  - film: fallen-angels
+    signature: 4
+    gateway: 3
+    note: Chungking Express after midnight, shot at the wrong lens length on purpose.
+
+  - film: days-of-being-wild
+    signature: 4
+    gateway: 3
+    note: The first film that sounds like him. Also where the 1960s trilogy starts.
+
+  - film: '2046'
+    signature: 4
+    gateway: 1      # a direct continuation; it assumes you know whose room this is
+    note: The sequel to In the Mood for Love, and a wake for it.
+
+  - film: the-grandmaster
+    signature: 3
+    gateway: 2
+    note: A martial arts film in which the fights are also about waiting.
+
+  - film: ashes-of-time
+    signature: 3
+    gateway: 0      # a wuxia epic with the fights elided and the chronology unsignposted
+    note: Notoriously difficult, and the version you watch matters.
+
+  - film: as-tears-go-by
+    signature: 2
+    gateway: 3
+    note: A competent Hong Kong crime film by someone about to become himself.
+
+  - film: my-blueberry-nights
+    signature: 1     # the English-language one, where the register does not survive translation
+    gateway: 0
+    note: The style intact and the feeling gone. Worth seeing only to know why.
+
+prereqs:
+  - film: '2046'
+    requires: in-the-mood-for-love
+    strength: hard
+  - film: '2046'
+    requires: days-of-being-wild
+    strength: soft
+
+curated:
+  curator: house
+  rationale: Begin with the one that moves, then slow down until the withholding is the point.
+  order:
+    - chungking-express
+    - in-the-mood-for-love
+    - happy-together
+    - days-of-being-wild
+    - fallen-angels
+    - '2046'
+    - ashes-of-time
