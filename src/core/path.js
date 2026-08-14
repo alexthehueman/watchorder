@@ -195,9 +195,12 @@ function whyHere(entry, index, ordered, profile, curve, prereqs) {
   if (index === 0) {
     if (profile.mode === 'peak') return 'Placed first — the high point, taken head on.';
     if (profile.mode === 'chrono') return 'Where it starts.';
+    // Generated copy never assumes a pronoun. The engine does not know one — entities carry a
+    // name and nothing else — and guessing produces "the cleanest way into his work" on the
+    // Agnès Varda page, which is how this was found.
     return entry.pair.gateway >= 4
-      ? 'Placed first — the cleanest way into his work.'
-      : 'Placed first — the gentlest thing here that still sounds like him.';
+      ? 'Placed first — the cleanest way into this work.'
+      : 'Placed first — the gentlest thing here that still sounds like them.';
   }
 
   if (profile.mode === 'chrono') {

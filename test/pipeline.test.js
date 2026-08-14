@@ -98,6 +98,34 @@ test('a profile survives the round trip through a URL', async () => {
   }
 });
 
+test('generated copy never assumes a pronoun', async () => {
+  // Hand-written notes and blurbs in the corpus name a real person and may of course use their
+  // pronouns. Generated copy cannot: the engine knows a slug and a name, nothing more. The first
+  // draft said "the cleanest way into his work" on every page, which is correct for eleven of the
+  // fifteen directors and wrong on Varda, Denis, Akerman and Ramsay.
+  const corpus = await loadCorpus();
+  const filmsById = new Map(corpus.films.map((film) => [film.id, film]));
+  const gendered = /\b(his|him|her|hers|she|he)\b/i;
+
+  for (const entity of corpus.entities) {
+    for (const answers of [
+      { depth: 0, mode: 0, confusion: 0, register: 0 },
+      { depth: 1, mode: 1, confusion: 1, register: 1 },
+      { depth: 2, mode: 2, confusion: 2, register: 2 },
+      { depth: 3, mode: 0, confusion: 2, register: 0 },
+    ]) {
+      const result = buildPath(entity, filmsById, profileFromAnswers(answers));
+      for (const entry of result.films) {
+        if (!entry.why) continue;
+        assert.ok(
+          !gendered.test(entry.why),
+          `${entity.slug}: generated line assumes a pronoun — "${entry.why}"`,
+        );
+      }
+    }
+  }
+});
+
 test('a mangled URL degrades to the neutral profile rather than throwing', () => {
   for (const bad of ['', 'x', 'a12', 'a12345', 'zzzz', '!!!', 'a12x4']) {
     const profile = decodeProfile(bad, 'nonsense', ['a', 'b']);
