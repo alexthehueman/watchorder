@@ -1,0 +1,83 @@
+slug: michael-haneke
+kind: director
+name: Michael Haneke
+blurb: Static frames, withheld information, and a refusal to let you off.
+
+films:
+  - film: cache
+    signature: 5
+    gateway: 4      # it works as a thriller for anyone who has never heard of him
+    note: A surveillance thriller that declines to solve itself. Watch the last shot twice.
+
+  - film: the-piano-teacher
+    signature: 5
+    gateway: 3
+    note: Huppert at her most unsparing, in a film that matches her.
+
+  - film: the-white-ribbon
+    signature: 5
+    gateway: 3
+    note: A village before the First World War, and where the next one came from.
+
+  - film: funny-games
+    signature: 5
+    gateway: 2      # it is hostile to its audience by design, which is a poor first handshake
+    note: An argument with you about why you are watching. It does not lose the argument.
+
+  - film: the-seventh-continent
+    signature: 5
+    gateway: 1
+    note: The first feature, and already completely uncompromising.
+
+  - film: amour
+    signature: 4
+    gateway: 5
+    note: The warmest thing he made, which tells you what the rest are like.
+
+  - film: bennys-video
+    signature: 4
+    gateway: 2
+    note: The middle of the glaciation trilogy. Video as an alibi for looking.
+
+  - film: code-unknown
+    signature: 4
+    gateway: 2
+    note: Fragments that refuse to add up, on purpose.
+
+  - film: 71-fragments
+    signature: 4
+    gateway: 1
+    note: The trilogy's third, and the most formally severe of them.
+
+  - film: time-of-the-wolf
+    signature: 3
+    gateway: 1
+    note: Post-collapse, and the least seen of his major films for a reason.
+
+  - film: happy-end
+    signature: 3
+    gateway: 2
+    note: Late, sour and knowingly self-referential. The title is the joke.
+
+  - film: funny-games-us
+    signature: 2     # a shot-for-shot remake in English; the same film, differently addressed
+    gateway: 0
+    note: The identical film again for an audience that would not read subtitles. That is the point.
+
+prereqs:
+  - film: funny-games-us
+    requires: funny-games
+    strength: soft
+
+curated:
+  curator: house
+  rationale: Enter through the thriller, and leave through the ice.
+  order:
+    - cache
+    - the-piano-teacher
+    - the-white-ribbon
+    - amour
+    - funny-games
+    - bennys-video
+    - the-seventh-continent
+    - code-unknown

@@ -1,0 +1,82 @@
+slug: claire-denis
+kind: director
+name: Claire Denis
+blurb: Bodies, colonies and things left unsaid, cut so the connective tissue is missing.
+
+films:
+  - film: beau-travail
+    signature: 5
+    gateway: 4
+    note: The Foreign Legion as choreography. The final scene is the best in her work.
+
+  - film: the-intruder
+    signature: 5
+    gateway: 0      # dream, memory and plot are never separated; a terrible place to begin
+    note: Her most difficult film by some distance, and worth reaching eventually.
+
+  - film: trouble-every-day
+    signature: 4
+    gateway: 1
+    note: Booed at Cannes, reclaimed since. Desire as literal consumption.
+
+  - film: 35-shots-of-rum
+    signature: 4
+    gateway: 5      # warm, legible, and still unmistakably hers
+    note: A father and daughter, an Ozu homage, and almost no plot at all.
+
+  - film: white-material
+    signature: 4
+    gateway: 3
+    note: A coffee plantation during a collapse nobody names.
+
+  - film: high-life
+    signature: 4
+    gateway: 2
+    note: A prison ship falling toward a black hole. Her only film in English that works.
+
+  - film: i-cant-sleep
+    signature: 4
+    gateway: 2
+    note: A serial killer film in which the killing is the least of it.
+
+  - film: bastards
+    signature: 4
+    gateway: 0
+    note: Her bleakest, shot on digital and deliberately ugly.
+
+  - film: chocolat-1988
+    signature: 3
+    gateway: 4
+    note: The first feature, and the most conventionally told.
+
+  - film: nenette-et-boni
+    signature: 3
+    gateway: 3
+    note: Pizza dough, a pregnancy, and a brother who cannot speak about either.
+
+  - film: friday-night
+    signature: 3
+    gateway: 4
+    note: One traffic jam, one night, almost no dialogue. Slight on purpose.
+
+  - film: let-the-sunshine-in
+    signature: 3
+    gateway: 4
+    note: Binoche dating badly. Much funnier than her reputation allows.
+
+  - film: no-fear-no-die
+    signature: 3
+    gateway: 2
+    note: Cockfighting in a basement, and what it costs the men running it.
+
+curated:
+  curator: house
+  rationale: Begin where she is warmest, then let the cuts start removing things.
+  order:
+    - 35-shots-of-rum
+    - beau-travail
+    - white-material
+    - chocolat-1988
+    - trouble-every-day
+    - high-life
+    - the-intruder

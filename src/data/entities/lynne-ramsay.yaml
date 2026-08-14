@@ -1,0 +1,37 @@
+# Four features. The small-corpus case: above six films the depth question has nothing left to
+# do, so nearly all of the personalisation here has to come from which film opens.
+
+slug: lynne-ramsay
+kind: director
+name: Lynne Ramsay
+blurb: Grief told through objects and sound, with the explanation cut out.
+
+films:
+  - film: ratcatcher
+    signature: 5
+    gateway: 4
+    note: Glasgow during the bin strike, seen at a child's height.
+
+  - film: morvern-callar
+    signature: 5
+    gateway: 3
+    note: A woman takes her dead boyfriend's novel and puts her own name on it. No comment offered.
+
+  - film: you-were-never-really-here
+    signature: 5
+    gateway: 4
+    note: A hitman film with the hits removed and the aftermath left in.
+
+  - film: we-need-to-talk-about-kevin
+    signature: 4
+    gateway: 5      # the most conventionally structured, and the widest known
+    note: Tilda Swinton carrying a film that never lets her be innocent.
+
+curated:
+  curator: house
+  rationale: Four films in twenty years, and not one wasted.
+  order:
+    - we-need-to-talk-about-kevin
+    - ratcatcher
+    - morvern-callar
+    - you-were-never-really-here

@@ -1,0 +1,188 @@
+# Michael Haneke. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Expect this filmography to be narrow on register the way Wong Kar-wai is: almost everything sits
+# at bleakness 4-5 and humor 1-2. That is accurate rather than lazy, and the suite will report the
+# register question as quiet for him. Where the humor is real it is genuinely nasty, and tagged so.
+
+- id: the-seventh-continent
+  tmdb_id: null
+  title: The Seventh Continent
+  year: 1989
+  runtime: 104
+  tags: { opacity: 3, stillness: 5, bleakness: 5, humor: 1, acclaim: 0.75 }
+  content:
+    sexual_violence: false
+    animal_harm: true    # the aquarium
+    child_harm: true
+    suicide: true
+    violence: 1
+    sex: 0
+
+- id: bennys-video
+  tmdb_id: null
+  title: Benny's Video
+  year: 1992
+  runtime: 105
+  tags: { opacity: 2, stillness: 4, bleakness: 5, humor: 1, acclaim: 0.70 }
+  content:
+    sexual_violence: false
+    animal_harm: true    # the pig, on camera, twice
+    child_harm: true
+    suicide: false
+    violence: 3
+    sex: 1
+
+- id: 71-fragments
+  tmdb_id: null
+  title: 71 Fragments of a Chronology of Chance
+  year: 1994
+  runtime: 96
+  tags: { opacity: 4, stillness: 4, bleakness: 4, humor: 1, acclaim: 0.62 }
+  content:
+    sexual_violence: false
+    animal_harm: false
+    child_harm: true
+    suicide: false
+    violence: 2
+    sex: 0
+
+- id: funny-games
+  tmdb_id: null
+  title: Funny Games
+  year: 1997
+  runtime: 108
+  tags:
+    opacity: 2
+    stillness: 3
+    bleakness: 5
+    humor: 2    # it is a comedy aimed at the audience, and the joke is on them watching
+    acclaim: 0.78
+  content:
+    sexual_violence: false
+    animal_harm: true
+    child_harm: true
+    suicide: false
+    violence: 3
+    sex: 1
+
+- id: code-unknown
+  tmdb_id: null
+  title: Code Unknown
+  year: 2000
+  runtime: 118
+  tags: { opacity: 4, stillness: 4, bleakness: 4, humor: 1, acclaim: 0.72 }
+  content:
+    sexual_violence: false
+    animal_harm: false
+    child_harm: false
+    suicide: false
+    violence: 2
+    sex: 0
+
+- id: the-piano-teacher
+  tmdb_id: null
+  title: The Piano Teacher
+  year: 2001
+  runtime: 131
+  tags: { opacity: 2, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.82 }
+  content:
+    sexual_violence: true
+    animal_harm: false
+    child_harm: false
+    suicide: false
+    violence: 2
+    sex: 3
+
+- id: time-of-the-wolf
+  tmdb_id: null
+  title: Time of the Wolf
+  year: 2003
+  runtime: 114
+  tags: { opacity: 3, stillness: 4, bleakness: 5, humor: 1, acclaim: 0.60 }
+  content:
+    sexual_violence: false
+    animal_harm: true
+    child_harm: true
+    suicide: false
+    violence: 2
+    sex: 0
+
+- id: cache
+  tmdb_id: null
+  title: Caché
+  year: 2005
+  runtime: 117
+  tags: { opacity: 4, stillness: 4, bleakness: 4, humor: 1, acclaim: 0.88 }
+  content:
+    sexual_violence: false
+    animal_harm: true
+    child_harm: false
+    suicide: true
+    violence: 2
+    sex: 0
+
+- id: funny-games-us
+  tmdb_id: null
+  title: Funny Games U.S.
+  year: 2007
+  runtime: 111
+  tags: { opacity: 2, stillness: 3, bleakness: 5, humor: 2, acclaim: 0.55 }
+  content:
+    sexual_violence: false
+    animal_harm: true
+    child_harm: true
+    suicide: false
+    violence: 3
+    sex: 1
+
+- id: the-white-ribbon
+  tmdb_id: null
+  title: The White Ribbon
+  year: 2009
+  runtime: 144
+  tags: { opacity: 3, stillness: 4, bleakness: 5, humor: 1, acclaim: 0.85 }
+  content:
+    sexual_violence: true
+    animal_harm: true
+    child_harm: true
+    suicide: false
+    violence: 2
+    sex: 1
+
+- id: amour
+  tmdb_id: null
+  title: Amour
+  year: 2012
+  runtime: 127
+  tags:
+    opacity: 1    # the one film of his that withholds nothing at all
+    stillness: 4
+    bleakness: 5
+    humor: 1
+    acclaim: 0.90
+  content:
+    sexual_violence: false
+    animal_harm: false
+    child_harm: false
+    suicide: true
+    violence: 1
+    sex: 0
+
+- id: happy-end
+  tmdb_id: null
+  title: Happy End
+  year: 2017
+  runtime: 107
+  tags:
+    opacity: 3
+    stillness: 4
+    bleakness: 4
+    humor: 3    # the title is the joke, and the film sustains it
+    acclaim: 0.58
+  content:
+    sexual_violence: false
+    animal_harm: false
+    child_harm: true
+    suicide: true
+    violence: 1
+    sex: 1
