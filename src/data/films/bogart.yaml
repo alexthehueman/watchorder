@@ -1,0 +1,65 @@
+# New films for Humphrey Bogart. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Sabrina already existed, tagged for Billy Wilder; Casablanca for Ingrid Bergman; The African
+# Queen for Katharine Hepburn. Only the seven below are new.
+
+- id: the-maltese-falcon
+  tmdb_id: null
+  title: The Maltese Falcon
+  year: 1941
+  runtime: 100
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.90 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: to-have-and-have-not
+  tmdb_id: null
+  title: To Have and Have Not
+  year: 1944
+  runtime: 100
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.80 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-big-sleep
+  tmdb_id: null
+  title: The Big Sleep
+  year: 1946
+  runtime: 114
+  tags:
+    opacity: 3    # a plot so tangled even the filmmakers couldn't fully explain one of the murders
+    stillness: 2
+    bleakness: 3
+    humor: 3
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: key-largo
+  tmdb_id: null
+  title: Key Largo
+  year: 1948
+  runtime: 100
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.82 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-treasure-of-the-sierra-madre
+  tmdb_id: null
+  title: The Treasure of the Sierra Madre
+  year: 1948
+  runtime: 126
+  tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 2, acclaim: 0.92 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: in-a-lonely-place
+  tmdb_id: null
+  title: In a Lonely Place
+  year: 1950
+  runtime: 94
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-caine-mutiny
+  tmdb_id: null
+  title: The Caine Mutiny
+  year: 1954
+  runtime: 124
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

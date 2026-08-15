@@ -1,0 +1,91 @@
+# New films for Judy Garland. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Wizard of Oz, Meet Me in St. Louis and Easter Parade already existed in the corpus, tagged
+# for MGM. Ten films are new — several more than the minimum, added deliberately: at eight films
+# "twelve" and "everything" both select the identical set on every profile, which caps M1 by
+# construction rather than by any tagging choice. See the identical note on Frances McDormand.
+
+- id: ziegfeld-girl
+  tmdb_id: null
+  title: Ziegfeld Girl
+  year: 1941
+  runtime: 131
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: for-me-and-my-gal
+  tmdb_id: null
+  title: For Me and My Gal
+  year: 1942
+  runtime: 104
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.70 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-harvey-girls
+  tmdb_id: null
+  title: The Harvey Girls
+  year: 1946
+  runtime: 101
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-pirate
+  tmdb_id: null
+  title: The Pirate
+  year: 1948
+  runtime: 102
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: in-the-good-old-summertime
+  tmdb_id: null
+  title: In the Good Old Summertime
+  year: 1949
+  runtime: 102
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: summer-stock
+  tmdb_id: null
+  title: Summer Stock
+  year: 1950
+  runtime: 109
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: a-star-is-born-1954
+  tmdb_id: null
+  title: A Star Is Born
+  year: 1954
+  runtime: 154
+  tags:
+    opacity: 2    # her husband's decline is withheld from her, and from the audience, in stages
+    stillness: 3
+    bleakness: 5
+    humor: 2
+    acclaim: 0.90
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
+
+- id: judgment-at-nuremberg
+  tmdb_id: null
+  title: Judgment at Nuremberg
+  year: 1961
+  runtime: 186
+  tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: i-could-go-on-singing
+  tmdb_id: null
+  title: I Could Go On Singing
+  year: 1963
+  runtime: 99
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: a-child-is-waiting
+  tmdb_id: null
+  title: A Child Is Waiting
+  year: 1963
+  runtime: 102
+  tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.70 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

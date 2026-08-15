@@ -1,0 +1,104 @@
+slug: christian-bale
+kind: actor
+name: Christian Bale
+blurb: A physical transformation for nearly every role, and a real discomfort with being liked.
+
+films:
+  - film: american-psycho
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 3
+    note: A Wall Street executive's murderous double life, played so archly the film never confirms how much of it happened.
+
+  - film: the-dark-knight
+    signature: 5
+    must_see: true
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 5
+    note: Gotham's vigilante against a chaos agent with no coherent motive at all, and the film is better for refusing him one.
+
+  - film: the-machinist
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: menacing
+    against_type: true
+    gateway: 1
+    note: Lost sixty-three pounds for a role about a man wasting away from his own guilt. The transformation is the performance.
+
+  - film: the-prestige
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: Two magicians' rivalry escalates past the trick and into genuine sabotage, with a twist built to blindside a second viewing too.
+
+  - film: vice
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: restrained
+    against_type: true
+    gateway: 3
+    note: Dick Cheney's rise told as scathing political satire, with prosthetics doing a third of the transformation and Bale the rest.
+
+  - film: batman-begins
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: The origin story played mostly straight, before the franchise found its actual antagonist.
+
+  - film: the-fighter
+    signature: 3
+    showcase: 5
+    role_size: supporting
+    register: unhinged
+    against_type: true
+    gateway: 4
+    note: The volatile, crack-addicted older brother, stealing scenes from the boxer the film is nominally about.
+
+  - film: the-big-short
+    signature: 3
+    showcase: 4
+    role_size: supporting
+    register: restrained
+    against_type: true
+    gateway: 4
+    note: A socially awkward hedge fund manager who saw the 2008 crash coming years early, and could not get anyone to believe him.
+
+  - film: 3-10-to-yuma
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: A struggling farmer agrees to escort a captured outlaw to the train that will hang him, for money he badly needs.
+
+  - film: american-hustle
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: comic
+    against_type: true
+    gateway: 5
+    note: A paunchy, comb-over con artist, played with none of the usual leading-man vanity.
+
+curated:
+  curator: house
+  rationale: The two performances that define the reputation, then the run of transformations around them.
+  order:
+    - american-psycho
+    - the-dark-knight
+    - the-machinist
+    - the-prestige
+    - vice
+    - the-fighter
+    - the-big-short

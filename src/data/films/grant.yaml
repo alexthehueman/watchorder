@@ -1,0 +1,41 @@
+# New films for Cary Grant. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Notorious, To Catch a Thief and North by Northwest already existed, tagged for Alfred Hitchcock;
+# Bringing Up Baby and The Philadelphia Story for Katharine Hepburn. Only the four below are new.
+
+- id: his-girl-friday
+  tmdb_id: null
+  title: His Girl Friday
+  year: 1940
+  runtime: 92
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 5, acclaim: 0.92 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: suspicion
+  tmdb_id: null
+  title: Suspicion
+  year: 1941
+  runtime: 99
+  tags:
+    opacity: 2    # deliberately never confirms whether her fear of him is justified
+    stillness: 2
+    bleakness: 3
+    humor: 1
+    acclaim: 0.75
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: an-affair-to-remember
+  tmdb_id: null
+  title: An Affair to Remember
+  year: 1957
+  runtime: 115
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.80 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: charade
+  tmdb_id: null
+  title: Charade
+  year: 1963
+  runtime: 113
+  tags: { opacity: 2, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.82 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }

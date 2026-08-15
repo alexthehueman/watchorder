@@ -1,0 +1,88 @@
+# National Velvet already existed in the corpus, tagged for MGM; Suddenly, Last Summer for
+# Katharine Hepburn — the same free-overlap pattern the rest of this batch established. Six films
+# are new; see the note in src/data/films/taylor.yaml.
+
+slug: elizabeth-taylor
+kind: actor
+name: Elizabeth Taylor
+blurb: A child star who kept outgrowing the glamour the studio built around her, one raw performance at a time.
+
+films:
+  - film: whos-afraid-of-virginia-woolf
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    against_type: true
+    gateway: 2
+    note: A drunken faculty party spirals into the most viciously funny marriage on this list, and she gave up the glamour to play it.
+
+  - film: national-velvet
+    signature: 5
+    must_see: true
+    showcase: 4
+    role_size: lead
+    register: warm
+    gateway: 5
+    note: A twelve-year-old already carrying a film built entirely around her, on a horse she isn't supposed to be riding.
+
+  - film: cat-on-a-hot-tin-roof
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A marriage strangled by things nobody in the family will say out loud, softened for 1958 and still simmering.
+
+  - film: a-place-in-the-sun
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: warm
+    gateway: 3
+    note: A poor man's ambition curdles into a drowning nobody can quite call an accident.
+
+  - film: giant
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A Texas ranching dynasty across three generations, with the racial reckoning the genre usually skips.
+
+  - film: cleopatra
+    signature: 4
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A production so famously bloated it nearly bankrupted a studio, and she is the only reason anyone still watches it.
+
+  - film: suddenly-last-summer
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: menacing
+    gateway: 2
+    note: A young woman institutionalised after witnessing something her family would rather she forget.
+
+  - film: butterfield-8
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: unhinged
+    gateway: 3
+    note: A call girl's spiral told with more sympathy than the genre usually allows, right up until it isn't.
+
+curated:
+  curator: house
+  rationale: The performance that redefined her, then the breakout, then the range across three decades between them.
+  order:
+    - whos-afraid-of-virginia-woolf
+    - national-velvet
+    - cat-on-a-hot-tin-roof
+    - a-place-in-the-sun
+    - giant
+    - suddenly-last-summer
+    - cleopatra

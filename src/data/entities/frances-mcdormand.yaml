@@ -1,0 +1,131 @@
+# Raising Arizona already existed, tagged for Nicolas Cage; Mississippi Burning for Gene Hackman —
+# the same free-overlap pattern the rest of this batch established. Eleven films are new; see the
+# note in src/data/films/mcdormand.yaml for why the roster runs to thirteen rather than stopping
+# at eight.
+
+slug: frances-mcdormand
+kind: actor
+name: Frances McDormand
+blurb: Plain-spoken decency and quiet rage, usually in a Midwestern accent nobody else could make so precise.
+
+films:
+  - film: fargo
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: A pregnant small-town sheriff investigates a kidnapping scheme that spirals into far more bodies than anyone planned for.
+
+  - film: nomadland
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A widow takes to the road after her town's economy collapses, played alongside real nomads rather than actors.
+
+  - film: three-billboards-outside-ebbing-missouri
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 3
+    note: A mother rents three billboards to shame the police over her daughter's unsolved murder, and refuses every offer to calm down.
+
+  - film: blood-simple
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A betrayal, a murder-for-hire, and a series of misunderstandings that kill almost everyone before the truth reaches anybody.
+
+  - film: north-country
+    signature: 4
+    showcase: 4
+    role_size: supporting
+    register: restrained
+    gateway: 2
+    note: One of the first major workplace sexual-harassment lawsuits, dramatised without softening the hostility that provoked it.
+
+  - film: mississippi-burning
+    signature: 4
+    showcase: 4
+    role_size: supporting
+    register: restrained
+    gateway: 3
+    note: Two FBI agents investigate a civil-rights murder in a town where the whole apparatus of law is complicit.
+
+  - film: the-tragedy-of-macbeth
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: menacing
+    against_type: true
+    gateway: 2
+    note: Lady Macbeth staged in stark black and white, and she plays the ambition with none of the usual glamour.
+
+  - film: burn-after-reading
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 4
+    note: A gym employee's blackmail scheme spirals into an espionage farce nobody involved actually understands.
+
+  - film: almost-famous
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: warm
+    gateway: 5
+    note: A protective, ideologically strict mother watching her son leave for a rock tour she was always going to lose that argument over.
+
+  - film: raising-arizona
+    signature: 3
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 5
+    note: An ex-con and a former cop kidnap a quintuplet, reasoning the family surely won't miss just one.
+
+  - film: hail-caesar
+    signature: 3
+    showcase: 2
+    role_size: cameo
+    register: comic
+    gateway: 5
+    note: A brief, deadpan cameo in a broad Golden-Age-Hollywood satire, barely onscreen long enough to register.
+
+  - film: moonrise-kingdom
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: warm
+    gateway: 5
+    note: A scout-camp elopement plot, played by the adults around it with total deadpan sincerity.
+
+  - film: miss-pettigrew-lives-for-a-day
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 4
+    note: A down-on-her-luck governess talks her way into one glamorous day of borrowed London society.
+
+curated:
+  curator: house
+  rationale: The two Oscar-winning roles that define her, then the range across four decades of Coen and non-Coen work alike.
+  order:
+    - fargo
+    - nomadland
+    - three-billboards-outside-ebbing-missouri
+    - blood-simple
+    - north-country
+    - mississippi-burning
+    - the-tragedy-of-macbeth
+    - burn-after-reading
+    - almost-famous

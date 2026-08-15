@@ -1,0 +1,97 @@
+# Six of these nine films already existed in the corpus, tagged for Wong Kar-wai — the same
+# free-overlap pattern the rest of this batch established. Only three are new; see the note in
+# src/data/films/leung.yaml.
+
+slug: tony-leung-chiu-wai
+kind: actor
+name: Tony Leung Chiu-wai
+blurb: The most restrained face in Hong Kong cinema, playing men who say almost nothing they mean out loud.
+
+films:
+  - film: in-the-mood-for-love
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: Two neighbours whose spouses are having an affair with each other, circling something they refuse to name.
+
+  - film: infernal-affairs
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: An undercover cop and a mob mole, each embedded so deep neither is sure which identity is real anymore.
+
+  - film: '2046'
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A writer returns obsessively to a hotel room number, chasing a woman he can't have through several who resemble her.
+
+  - film: happy-together
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    against_type: true
+    gateway: 2
+    note: Two men fall apart and reunite in Buenos Aires, in the messiest, least composed register he's ever played.
+
+  - film: hard-boiled
+    signature: 4
+    showcase: 3
+    role_size: lead
+    register: unhinged
+    against_type: true
+    gateway: 5
+    note: A hospital shootout that runs nearly thirty unbroken minutes, and he barely stops moving through any of it.
+
+  - film: chungking-express
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: A cop obsessively counting down a breakup, opposite a flight attendant slowly rearranging his apartment without his knowledge.
+
+  - film: lust-caution
+    signature: 3
+    showcase: 5
+    role_size: lead
+    register: menacing
+    gateway: 1
+    note: A resistance agent's assumed identity blurs with real feeling, and the film never confirms how much of either was real.
+
+  - film: the-grandmaster
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: Ip Man's story told as elegy more than biopic, more interested in what a discipline costs than what it wins.
+
+  - film: days-of-being-wild
+    signature: 3
+    showcase: 2
+    role_size: cameo
+    register: comic
+    gateway: 2
+    note: A single, wordless closing scene — a supporting role so brief it plays almost like its own short film.
+
+curated:
+  curator: house
+  rationale: The two performances everyone means, then the range beneath the trademark restraint.
+  order:
+    - in-the-mood-for-love
+    - infernal-affairs
+    - '2046'
+    - happy-together
+    - chungking-express
+    - lust-caution
+    - the-grandmaster

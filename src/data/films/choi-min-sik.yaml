@@ -1,0 +1,64 @@
+# New films for Choi Min-sik. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Oldboy already existed in the corpus, tagged for Park Chan-wook. Only the seven below are new.
+
+- id: no-3
+  tmdb_id: null
+  title: No. 3
+  year: 1997
+  runtime: 110
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 5, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: failan
+  tmdb_id: null
+  title: Failan
+  year: 2001
+  runtime: 120
+  tags:
+    opacity: 2    # who she actually was to him surfaces only after her death
+    stillness: 3
+    bleakness: 5
+    humor: 2
+    acclaim: 0.80
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: crying-fist
+  tmdb_id: null
+  title: Crying Fist
+  year: 2005
+  runtime: 136
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: i-saw-the-devil
+  tmdb_id: null
+  title: I Saw the Devil
+  year: 2010
+  runtime: 144
+  tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.78 }
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+
+- id: nameless-gangster
+  tmdb_id: null
+  title: Nameless Gangster
+  year: 2012
+  runtime: 135
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.80 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: new-world
+  tmdb_id: null
+  title: New World
+  year: 2013
+  runtime: 134
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-admiral-roaring-currents
+  tmdb_id: null
+  title: 'The Admiral: Roaring Currents'
+  year: 2014
+  runtime: 128
+  tags: { opacity: 2, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

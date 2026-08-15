@@ -1,0 +1,52 @@
+# New films for Elizabeth Taylor. Scales and anchors are in README.md ("The anchor rubric").
+#
+# National Velvet already existed in the corpus, tagged for MGM; Suddenly, Last Summer for
+# Katharine Hepburn. Only the six below are new.
+
+- id: a-place-in-the-sun
+  tmdb_id: null
+  title: A Place in the Sun
+  year: 1951
+  runtime: 122
+  tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: giant
+  tmdb_id: null
+  title: Giant
+  year: 1956
+  runtime: 201
+  tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 2, acclaim: 0.82 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: cat-on-a-hot-tin-roof
+  tmdb_id: null
+  title: Cat on a Hot Tin Roof
+  year: 1958
+  runtime: 108
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: butterfield-8
+  tmdb_id: null
+  title: Butterfield 8
+  year: 1960
+  runtime: 109
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: cleopatra
+  tmdb_id: null
+  title: Cleopatra
+  year: 1963
+  runtime: 192
+  tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.60 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 0 }
+
+- id: whos-afraid-of-virginia-woolf
+  tmdb_id: null
+  title: "Who's Afraid of Virginia Woolf?"
+  year: 1966
+  runtime: 131
+  tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 2, acclaim: 0.90 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }

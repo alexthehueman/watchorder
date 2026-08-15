@@ -1,0 +1,99 @@
+# New films for Frances McDormand. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Raising Arizona already existed, tagged for Nicolas Cage; Mississippi Burning for Gene Hackman.
+# Eleven films are new — several more than the minimum, added deliberately: at eight films
+# "twelve" and "everything" both select the identical set on every profile, which caps M1 by
+# construction rather than by any tagging choice. Thirteen films gives "twelve" real room to vary.
+
+- id: blood-simple
+  tmdb_id: null
+  title: Blood Simple
+  year: 1984
+  runtime: 99
+  tags:
+    opacity: 2    # a noir built entirely on what each character doesn't know the others know
+    stillness: 2
+    bleakness: 4
+    humor: 2
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: fargo
+  tmdb_id: null
+  title: Fargo
+  year: 1996
+  runtime: 98
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 3, acclaim: 0.93 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: almost-famous
+  tmdb_id: null
+  title: Almost Famous
+  year: 2000
+  runtime: 122
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: north-country
+  tmdb_id: null
+  title: North Country
+  year: 2005
+  runtime: 126
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.72 }
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: burn-after-reading
+  tmdb_id: null
+  title: Burn After Reading
+  year: 2008
+  runtime: 96
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: three-billboards-outside-ebbing-missouri
+  tmdb_id: null
+  title: Three Billboards Outside Ebbing, Missouri
+  year: 2017
+  runtime: 115
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 3, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+
+- id: hail-caesar
+  tmdb_id: null
+  title: 'Hail, Caesar!'
+  year: 2016
+  runtime: 106
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: nomadland
+  tmdb_id: null
+  title: Nomadland
+  year: 2020
+  runtime: 108
+  tags: { opacity: 1, stillness: 4, bleakness: 3, humor: 1, acclaim: 0.90 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-tragedy-of-macbeth
+  tmdb_id: null
+  title: The Tragedy of Macbeth
+  year: 2021
+  runtime: 105
+  tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: miss-pettigrew-lives-for-a-day
+  tmdb_id: null
+  title: Miss Pettigrew Lives for a Day
+  year: 2008
+  runtime: 92
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: moonrise-kingdom
+  tmdb_id: null
+  title: Moonrise Kingdom
+  year: 2012
+  runtime: 94
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 4, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

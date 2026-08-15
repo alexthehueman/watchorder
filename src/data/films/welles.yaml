@@ -31,7 +31,12 @@
   year: 1947
   runtime: 87
   director: Orson Welles
-  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.80 }
+  tags:
+    opacity: 3    # a plot so knotted its own director admitted losing track of one murder
+    stillness: 2
+    bleakness: 4
+    humor: 1
+    acclaim: 0.80
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
 
 - id: macbeth-1948
