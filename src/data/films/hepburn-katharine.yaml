@@ -1,4 +1,27 @@
 # Films for Katharine Hepburn. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Little Women and Stage Door added late, past the point this entity would otherwise have
+# stopped, for the same reason the actor batch added extra films to Judy Garland and Frances
+# McDormand: at eleven films "twelve" and "everything" both round to the same set on every
+# profile, capping M7's absolute floor by construction rather than by any tagging choice.
+
+- id: little-women-1933
+  tmdb_id: null
+  title: Little Women
+  year: 1933
+  runtime: 115
+  director: George Cukor
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: stage-door
+  tmdb_id: null
+  title: Stage Door
+  year: 1937
+  runtime: 92
+  director: Gregory La Cava
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
 
 - id: bringing-up-baby
   tmdb_id: null

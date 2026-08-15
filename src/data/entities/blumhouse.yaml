@@ -1,0 +1,114 @@
+# A modern counterweight to Hammer and AIP on this roster — the same microbudget, high-volume,
+# occasionally-prestige model, seventy years later. Whiplash is here on purpose; see the note in
+# src/data/films/blumhouse.yaml.
+
+slug: blumhouse
+kind: studio
+name: Blumhouse
+blurb: Microbudget horror that started making real money, then started winning real prizes.
+
+eras:
+  - id: microbudget
+    name: Ten thousand dollars, and a formula was born
+    from: 2007
+  - id: franchise-era
+    name: Turning one hit into an annual release slate
+    from: 2013
+  - id: elevated-horror
+    name: Get Out and the prestige turn
+    from: 2017
+
+films:
+  - film: get-out
+    era: elevated-horror
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A Black man meets his white girlfriend's family, and the film spends an hour building unease before it ever explains it.
+
+  - film: paranormal-activity
+    era: microbudget
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: Shot for eleven thousand dollars in one house, and it made the modern Blumhouse model possible.
+
+  - film: whiplash
+    era: franchise-era
+    signature: 5
+    gateway: 3
+    note: Not horror at all — a jazz drummer and an abusive conductor, and the tension is just as unbearable.
+
+  - film: the-invisible-man-2020
+    era: elevated-horror
+    signature: 5
+    gateway: 3
+    note: An abusive ex fakes his own death and stalks her with a suit that makes him unaccountable to anyone who doesn't believe her.
+
+  - film: insidious
+    era: microbudget
+    signature: 4
+    gateway: 4
+    note: A family's son falls into a coma, and something else starts using his empty body as a door.
+
+  - film: sinister
+    era: microbudget
+    signature: 4
+    gateway: 2
+    note: A true-crime writer finds a box of home movies in his new house's attic, and immediately wishes he hadn't.
+
+  - film: split
+    era: franchise-era
+    signature: 4
+    gateway: 4
+    note: A kidnapper with dissociative identity disorder holds three teenagers captive, and one personality is worse than the others.
+
+  - film: halloween-2018
+    era: elevated-horror
+    signature: 4
+    gateway: 4
+    note: Forty years later, and the film pretends every sequel in between never happened.
+
+  - film: the-purge
+    era: franchise-era
+    signature: 3
+    gateway: 4
+    note: One night a year, all crime is legal. The premise does almost all the work.
+
+  - film: happy-death-day
+    era: elevated-horror
+    signature: 3
+    gateway: 5
+    note: A college student relives the day of her murder over and over until she works out who's killing her.
+
+  - film: freaky
+    era: elevated-horror
+    signature: 3
+    gateway: 5
+    note: A killer and his teenage victim swap bodies, and both have to solve the murder from inside the wrong skin.
+
+  - film: m3gan
+    era: elevated-horror
+    signature: 3
+    gateway: 5
+    note: A robotics engineer builds an AI companion doll for her niece, and the doll takes protecting her a little too seriously.
+
+  - film: five-nights-at-freddys
+    era: elevated-horror
+    signature: 2
+    gateway: 4
+    note: A night-shift security guard at a haunted family pizzeria, based on the video game that got there first.
+
+curated:
+  curator: house
+  rationale: The film that changed what the brand meant, then the machine that made it possible.
+  order:
+    - get-out
+    - paranormal-activity
+    - whiplash
+    - the-invisible-man-2020
+    - insidious
+    - sinister
+    - split
+    - halloween-2018
+    - m3gan

@@ -1,0 +1,127 @@
+# Films for Blumhouse. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Whiplash is here deliberately, the same way MGM keeps Postman Always Rings Twice and Hammer
+# keeps The Woman in Black — not horror at all, and proof the microbudget model was never only
+# about jump scares.
+
+- id: paranormal-activity
+  tmdb_id: null
+  title: Paranormal Activity
+  year: 2007
+  runtime: 86
+  director: Oren Peli
+  tags:
+    opacity: 2    # found-footage ambiguity about what's actually in the house
+    stillness: 3
+    bleakness: 4
+    humor: 1
+    acclaim: 0.68
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: insidious
+  tmdb_id: null
+  title: Insidious
+  year: 2010
+  runtime: 103
+  director: James Wan
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: sinister
+  tmdb_id: null
+  title: Sinister
+  year: 2012
+  runtime: 110
+  director: Scott Derrickson
+  tags: { opacity: 2, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+
+- id: the-purge
+  tmdb_id: null
+  title: The Purge
+  year: 2013
+  runtime: 85
+  director: James DeMonaco
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: whiplash
+  tmdb_id: null
+  title: Whiplash
+  year: 2014
+  runtime: 106
+  director: Damien Chazelle
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.93 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: split
+  tmdb_id: null
+  title: Split
+  year: 2016
+  runtime: 117
+  director: M. Night Shyamalan
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 2, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+
+- id: get-out
+  tmdb_id: null
+  title: Get Out
+  year: 2017
+  runtime: 104
+  director: Jordan Peele
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 3, acclaim: 0.90 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: happy-death-day
+  tmdb_id: null
+  title: Happy Death Day
+  year: 2017
+  runtime: 96
+  director: Christopher Landon
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: halloween-2018
+  tmdb_id: null
+  title: Halloween
+  year: 2018
+  runtime: 106
+  director: David Gordon Green
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 2, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: the-invisible-man-2020
+  tmdb_id: null
+  title: The Invisible Man
+  year: 2020
+  runtime: 124
+  director: Leigh Whannell
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.85 }
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: freaky
+  tmdb_id: null
+  title: Freaky
+  year: 2020
+  runtime: 102
+  director: Christopher Landon
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: m3gan
+  tmdb_id: null
+  title: M3GAN
+  year: 2022
+  runtime: 102
+  director: Gerard Johnstone
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: five-nights-at-freddys
+  tmdb_id: null
+  title: "Five Nights at Freddy's"
+  year: 2023
+  runtime: 110
+  director: Emma Tammi
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }

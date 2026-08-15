@@ -16,7 +16,12 @@
   year: 1992
   runtime: 202
   director: Spike Lee
-  tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 2, acclaim: 0.88 }
+  tags:
+    opacity: 2    # a life restaged through three distinct, competing self-narratives
+    stillness: 3
+    bleakness: 4
+    humor: 2
+    acclaim: 0.88
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
 
 - id: philadelphia

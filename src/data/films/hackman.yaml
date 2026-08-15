@@ -69,7 +69,12 @@
   year: 1992
   runtime: 130
   director: Clint Eastwood
-  tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 2, acclaim: 0.93 }
+  tags:
+    opacity: 2    # deliberately unsettles which version of his own legend the film is willing to believe
+    stillness: 3
+    bleakness: 5
+    humor: 2
+    acclaim: 0.93
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
 
 - id: crimson-tide

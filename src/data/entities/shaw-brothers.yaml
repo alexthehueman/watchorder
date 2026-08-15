@@ -1,0 +1,113 @@
+# Genre-bounded the same way Cannon, Hammer and AIP are: 1966-1984, the Shawscope era, from the
+# studio's wuxia classicism through the kung fu boom it helped launch worldwide.
+
+slug: shaw-brothers
+kind: studio
+name: Shaw Brothers
+blurb: The Hong Kong studio that turned kung fu into a genre the entire world would recognise.
+
+eras:
+  - id: wuxia-classicism
+    name: Swordplay before kung fu
+    from: 1966
+  - id: kung-fu-boom
+    name: The style that conquered American theatres
+    from: 1972
+  - id: shaolin-golden-age
+    name: Lau Kar-leung's run
+    from: 1977
+
+films:
+  - film: the-36th-chamber-of-shaolin
+    era: shaolin-golden-age
+    signature: 5
+    must_see: true
+    gateway: 5
+    note: A massacre survivor trains at Shaolin from the bottom rung up, then goes back to teach the discipline to everyone else.
+
+  - film: the-one-armed-swordsman
+    era: wuxia-classicism
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A swordsman loses an arm to his own master's daughter, and rebuilds an entire fighting style around the loss.
+
+  - film: five-deadly-venoms
+    era: shaolin-golden-age
+    signature: 4
+    gateway: 4
+    note: Five former classmates, each a different fighting style, and a whodunit figuring out which ones turned criminal.
+
+  - film: come-drink-with-me
+    era: wuxia-classicism
+    signature: 4
+    gateway: 3
+    note: A woman warrior infiltrates a bandit gang to rescue her brother, years before wuxia had a female lead this capable.
+
+  - film: the-8-diagram-pole-fighter
+    era: shaolin-golden-age
+    signature: 4
+    gateway: 2
+    note: A family ambushed and slaughtered, and the one survivor who disappears into a monastery rather than face it.
+
+  - film: king-boxer
+    era: kung-fu-boom
+    signature: 3
+    gateway: 4
+    note: The film that launched the entire American kung fu craze in a single year.
+
+  - film: the-boxer-from-shantung
+    era: kung-fu-boom
+    signature: 3
+    gateway: 2
+    note: A street fighter's rise through the underworld, ending in one of the genre's most brutal finales.
+
+  - film: executioners-from-shaolin
+    era: shaolin-golden-age
+    signature: 3
+    gateway: 3
+    note: A husband and wife's competing fighting styles, passed down to a son who has to reconcile both.
+
+  - film: dirty-ho
+    era: shaolin-golden-age
+    signature: 3
+    gateway: 4
+    note: A prince trains a con artist as his bodyguard without ever admitting that's what's happening.
+
+  - film: heroes-two
+    era: kung-fu-boom
+    signature: 2
+    gateway: 3
+    note: Two Shaolin survivors, one methodical and one reckless, hunted by the same imperial enforcers.
+
+  - film: the-kid-with-the-golden-arm
+    era: shaolin-golden-age
+    signature: 2
+    gateway: 3
+    note: A gang of escorts guards a shipment of gold against a group of assassins with a trick weapon each.
+
+  - film: my-young-auntie
+    era: shaolin-golden-age
+    signature: 2
+    gateway: 4
+    note: A widow inherits her late husband's fortune and has to out-manoeuvre a nephew technically older than she is.
+
+  - film: legendary-weapons-of-china
+    era: shaolin-golden-age
+    signature: 2
+    gateway: 3
+    note: Kung fu instructors sent to hunt down a former colleague, in a plot that keeps interrupting itself for demonstrations.
+
+curated:
+  curator: house
+  rationale: The film that defines the genre worldwide, then the swordplay it grew out of and the range around both.
+  order:
+    - the-36th-chamber-of-shaolin
+    - the-one-armed-swordsman
+    - five-deadly-venoms
+    - come-drink-with-me
+    - the-8-diagram-pole-fighter
+    - king-boxer
+    - dirty-ho
+    - executioners-from-shaolin
+    - my-young-auntie

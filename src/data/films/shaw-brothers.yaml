@@ -1,0 +1,132 @@
+# Films for Shaw Brothers. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Bounded to 1966-1984 — the Shawscope era, from the studio's wuxia classicism through the kung fu
+# boom it helped launch worldwide, to the Lau Kar-leung-directed run that closes it out. Genre-
+# bounded the same way Cannon, Hammer and AIP are on this roster.
+
+- id: come-drink-with-me
+  tmdb_id: null
+  title: Come Drink with Me
+  year: 1966
+  runtime: 93
+  director: King Hu
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.80 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-one-armed-swordsman
+  tmdb_id: null
+  title: The One-Armed Swordsman
+  year: 1967
+  runtime: 111
+  director: Chang Cheh
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: king-boxer
+  tmdb_id: null
+  title: King Boxer
+  year: 1972
+  runtime: 104
+  director: Chung Chang-hwa
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-boxer-from-shantung
+  tmdb_id: null
+  title: The Boxer from Shantung
+  year: 1972
+  runtime: 120
+  director: Chang Cheh
+  tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: heroes-two
+  tmdb_id: null
+  title: Heroes Two
+  year: 1974
+  runtime: 90
+  director: Chang Cheh
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.70 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: executioners-from-shaolin
+  tmdb_id: null
+  title: Executioners from Shaolin
+  year: 1977
+  runtime: 110
+  director: Lau Kar-leung
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-36th-chamber-of-shaolin
+  tmdb_id: null
+  title: The 36th Chamber of Shaolin
+  year: 1978
+  runtime: 115
+  director: Lau Kar-leung
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.88 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: five-deadly-venoms
+  tmdb_id: null
+  title: Five Deadly Venoms
+  year: 1978
+  runtime: 102
+  director: Chang Cheh
+  tags:
+    opacity: 2    # a whodunit figuring out which masked students turned criminal
+    stillness: 2
+    bleakness: 3
+    humor: 1
+    acclaim: 0.80
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-kid-with-the-golden-arm
+  tmdb_id: null
+  title: The Kid with the Golden Arm
+  year: 1979
+  runtime: 95
+  director: Chang Cheh
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: dirty-ho
+  tmdb_id: null
+  title: Dirty Ho
+  year: 1979
+  runtime: 100
+  director: Lau Kar-leung
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: my-young-auntie
+  tmdb_id: null
+  title: My Young Auntie
+  year: 1981
+  runtime: 120
+  director: Lau Kar-leung
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: legendary-weapons-of-china
+  tmdb_id: null
+  title: Legendary Weapons of China
+  year: 1982
+  runtime: 105
+  director: Lau Kar-leung
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-8-diagram-pole-fighter
+  tmdb_id: null
+  title: The 8 Diagram Pole Fighter
+  year: 1984
+  runtime: 100
+  director: Lau Kar-leung
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 5    # a family ambushed and slaughtered, and the one survivor who cannot face it
+    humor: 1
+    acclaim: 0.80
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
