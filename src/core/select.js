@@ -62,7 +62,7 @@ function compareCandidates(a, b) {
  * @returns {{selected: Array<{film: object, pair: object, fit: number}>, reason: string|null}}
  */
 export function selectFilms(candidates, options) {
-  const { budget, prereqs, seen, diversityDelta, quotas } = options;
+  const { budget, prereqs, seen, diversityDelta } = options;
   const byId = new Map(candidates.map((entry) => [entry.film.id, entry]));
 
   const selected = [];
@@ -74,13 +74,8 @@ export function selectFilms(candidates, options) {
   // answers can drop them.
   //
   // What they do NOT override is anything that protects the viewer. A blocked film never reaches
-  // this function, so a content exclusion still wins; a seen film is already gone; the budget
-  // still binds, and where must-sees exceed it the best-fitting ones win rather than an arbitrary
-  // few; and a gateway-0 must-see still cannot open a path. "No matter what" is about taste, not
-  // about consent.
-  // "No matter what" means no matter what the quiz said — every declared must-see is pinned,
-  // full stop, subject only to the budget and to the constraints that protect the viewer
-  // (content exclusions, the seen set). It does not mean no matter how many are declared.
+  // this function, so a content exclusion still wins; a seen film is already gone. "No matter
+  // what" is about taste, not about consent, and it does not mean no matter how many are declared.
   //
   // The one reservation: at least one slot is held back for the budget to fill on merit, whenever
   // the budget allows it. A three-film request that consumed all three on pins would leave the
@@ -108,20 +103,6 @@ export function selectFilms(candidates, options) {
       );
     }
     return entry.fit - diversityDelta * closest;
-  }
-
-  /**
-   * Composition limits that are hard constraints rather than preferences. Only studios use one
-   * today: a Ghibli path with no cap is eight Miyazaki films, which is a Miyazaki path wearing a
-   * studio's name. Enforced during selection like everything else that can change membership.
-   */
-  function withinQuota(entry, pending = []) {
-    const limit = quotas?.perDirector;
-    if (!limit || !entry.film.director) return true;
-    const already = [...selected, ...pending].filter(
-      (other) => other.film.director === entry.film.director,
-    ).length;
-    return already < limit;
   }
 
   /** Adding a film means adding everything it hard-requires, so cost is closure size. */
@@ -160,14 +141,8 @@ export function selectFilms(candidates, options) {
 
     for (const entry of candidates) {
       if (chosen.has(entry.film.id)) continue;
-      if (!withinQuota(entry)) continue;
       const closure = closureFor(entry);
       if (closure === null) continue;
-      // A prerequisite pulled in alongside must respect the quota too, or the closure becomes a
-      // way around it.
-      if (closure.some((id, index) => !withinQuota(byId.get(id), closure.slice(0, index).map((prior) => byId.get(prior))))) {
-        continue;
-      }
       const cost =
         slotCost(entry.film) +
         closure.reduce((sum, id) => sum + slotCost(byId.get(id).film), 0);

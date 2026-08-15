@@ -175,38 +175,22 @@ test('a must-see survives every taste answer, and no content exclusion', async (
   }
 });
 
-test('a studio path is not one director wearing a studio name', async () => {
+test('a studio path is never starved by its own budget accounting', async () => {
+  // A studio path used to enforce a per-director quota — no more than two films by the same
+  // director, on the theory that an unconstrained Ghibli path is a Miyazaki path wearing a
+  // studio's name. That was wrong: the point of picking a studio is picking a starting point in
+  // ITS catalogue, and a viewer choosing Ghibli has no reason to be protected from the fact that
+  // Miyazaki directed most of it. If Miyazaki dominates a path, that is the studio's real shape,
+  // not the engine's failure to diversify it — and a Takahata film still wins its place whenever
+  // it genuinely fits, on its own merits, which is the only way a film should win a place.
+  //
+  // What still has to hold, with the quota gone, is the ordinary budget invariant every kind
+  // shares: the completist asked for the whole catalogue and has to receive the whole catalogue.
   const corpus = await loadCorpus();
   const filmsById = new Map(corpus.films.map((film) => [film.id, film]));
   const studios = corpus.entities.filter((entity) => entity.kind === 'studio');
 
   for (const studio of studios) {
-    const directors = new Set(
-      studio.films.map((pair) => filmsById.get(pair.film).director).filter(Boolean),
-    );
-
-    for (const depth of [0, 1, 2]) {
-      const result = buildPath(studio, filmsById, profileFromAnswers({ depth, mode: 1, confusion: 1, register: 1 }));
-      const counts = new Map();
-      for (const entry of result.films) {
-        counts.set(entry.film.director, (counts.get(entry.film.director) ?? 0) + 1);
-      }
-      const most = Math.max(0, ...counts.values());
-      // The cap scales with how much diversity the catalogue has: two directors made every Ghibli
-      // film, so an even share of the request is the fairest the rule can be. What must never
-      // happen is a path being STARVED by its own quota — asking for six and receiving four.
-      //
-      // Derived from the budget REQUESTED rather than the films returned, matching the engine.
-      // Using the result length would let a short path retroactively tighten its own cap.
-      const budget = Math.min(DEPTHS[depth], studio.films.length);
-      const allowed = Math.max(2, Math.ceil(budget / directors.size));
-      assert.ok(
-        most <= allowed,
-        `${studio.slug} depth ${depth}: ${most} films by one director, over the cap of ${allowed}`,
-      );
-    }
-
-    // And the completist gets the catalogue, quota or not.
     const everything = buildPath(studio, filmsById, profileFromAnswers({ depth: 3, mode: 1, confusion: 1, register: 1 }));
     assert.equal(
       everything.films.length,
@@ -214,6 +198,18 @@ test('a studio path is not one director wearing a studio name', async () => {
       `${studio.slug}: asked for everything, got ${everything.films.length} of ${studio.films.length}`,
     );
   }
+
+  // The regression this guards specifically: a Ghibli path should be free to lean as heavily on
+  // Miyazaki as the taste profile and the catalogue itself do — up to and including every film in
+  // a short path being his, since eight of the twelve films here are his to begin with.
+  const ghibli = studios.find((studio) => studio.slug === 'studio-ghibli');
+  const sixFilms = buildPath(ghibli, filmsById, profileFromAnswers({ depth: 1, mode: 1, confusion: 1, register: 1 }));
+  const miyazaki = sixFilms.films.filter((entry) => entry.film.director === 'Hayao Miyazaki').length;
+  assert.ok(
+    miyazaki > 2,
+    `expected an unconstrained Ghibli path to be able to exceed the old cap of two Miyazaki ` +
+      `films; got ${miyazaki} of ${sixFilms.films.length}`,
+  );
 });
 
 test('range mode puts contrasting performances next to each other', async () => {

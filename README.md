@@ -138,26 +138,30 @@ Three fields the director schema did not have:
 The quiz keeps the answer *index* stable so shared URLs survive across entity kinds, and changes
 what the question says. A twelve-film Cage path comes back with 9% adjacent register repeats.
 
-### What studios needed: eras, and a cap that knows when to stop
+### What studios needed: eras — and a per-director quota that was added, then removed
 
 A studio's output across decades is not development. It is several different companies wearing one
 name — Cannon in 1980 and Cannon in 1987 shared a logo and almost nothing else — so `era` replaces
-`chrono`, and the path groups by regime with the transitions called out.
+`chrono`, and the path groups by regime with the transitions called out. That part held.
 
-The per-director quota is the other half. Miyazaki directed eight of the twelve Ghibli films here,
-and without a cap a Ghibli path is a Miyazaki path wearing a studio's name, silently dropping the
-man who made *Grave of the Fireflies*.
+The other half didn't. Studios originally shipped with a per-director quota — Miyazaki directed
+eight of the twelve Ghibli films here, and the reasoning was that an unconstrained path would be a
+Miyazaki path wearing a studio's name. It went through two rounds of correction: first a flat cap
+of two, which was wrong for Ghibli specifically (it returned **four films to someone who asked for
+six**, a promise quietly broken rather than a preference expressed), then a cap scaled to how many
+directors the catalogue actually has.
 
-But a flat cap of two was wrong in the other direction, and wrong invisibly. It is right for A24,
-which drew on eleven directors across thirteen films. Against Ghibli's two directors it returned
-**four films to someone who asked for six**, and four again to someone who asked for the entire
-catalogue — a promise quietly broken rather than a preference expressed.
-
-So the cap is the configured floor or an even share of the request, whichever is larger. With
-eleven directors it never binds above two; with two directors it opens exactly as far as the
-request needs. And the completist is exempt entirely, the same way they already are from the
-signature floor and the cameo rule: there is no selection being made when someone asks for all of
-it.
+**The whole mechanism was the wrong idea, not just its calibration**, and choosing a studio is
+choosing a starting point in *that* catalogue — a viewer who picks Ghibli has no standing complaint
+about the fact that Miyazaki directed most of it, any more than someone picking Lynch would want
+his least-Lynchian film forced into the mix to balance things out. Diversity by fiat also worked
+against the one thing a quota can't fake: Takahata's films were never excluded by taste, only by
+running out of headroom under the cap, and *The Tale of the Princess Kaguya* — signature 5, higher
+acclaim than several Miyazaki entries — deserves its place in a path on that basis, not a reserved
+slot for being someone else's work. The quota is gone. A six-film Ghibli path can now be five films
+by Miyazaki and one by Takahata if that's genuinely what the taste profile selects, and Takahata
+still wins a place on his own merits whenever the numbers say he should — which the M9 house-pick
+comparison already confirmed they do, since the hand-written Ghibli order includes him.
 
 ### A dominant opener can be the right answer
 

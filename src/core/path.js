@@ -15,32 +15,6 @@ import { selectFilms } from './select.js';
 import { sequenceFilms, targetCurve } from './sequence.js';
 
 /**
- * The per-director cap, scaled to how much diversity the catalogue actually contains.
- *
- * A flat cap of two is right for A24, which drew on eleven directors across thirteen films. It is
- * wrong for Ghibli, where two people made everything: the same rule silently returns four films to
- * someone who asked for six, and four to someone who asked for the entire catalogue. That is a
- * promise quietly broken rather than a preference expressed.
- *
- * So the cap is the configured floor or an even share of the budget, whichever is larger. With
- * eleven directors it never binds above two; with two directors it opens up exactly as far as the
- * request requires and no further.
- *
- * @returns {{perDirector: number}|undefined}
- */
-function effectiveQuotas(quotas, candidates, budget, wantsEverything) {
-  // The completist asked for the catalogue, so they get the catalogue. Same exemption the
-  // signature floor and the cameo rule already carry: every composition rule here shapes a
-  // selection, and there is no selection being made when someone asks for all of it.
-  if (wantsEverything) return undefined;
-  if (!quotas?.perDirector) return quotas;
-  const directors = new Set(candidates.map((entry) => entry.film.director).filter(Boolean));
-  if (directors.size === 0) return quotas;
-  const share = Math.ceil(budget / directors.size);
-  return { ...quotas, perDirector: Math.max(quotas.perDirector, share) };
-}
-
-/**
  * Content severity sliders are blocked at 3; the boolean triggers are blocked outright. The
  * booleans are the ones where a false negative harms a real person, so they are never soft.
  * @returns {string|null} the flag that blocks this film, or null
@@ -162,7 +136,6 @@ export function buildPath(entity, filmsById, rawProfile) {
     prereqs,
     seen,
     diversityDelta: kind.diversityDelta,
-    quotas: effectiveQuotas(kind.quotas, candidates, budget, wantsEverything),
   });
 
   if (selected.length === 0) {

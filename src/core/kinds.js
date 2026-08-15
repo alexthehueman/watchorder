@@ -60,9 +60,6 @@ export const KINDS = {
     diversityDelta: 1.4,
     chronoIsMeaningful: false,
     modeAliases: { chrono: 'era' },
-    // Without this, Ghibli returns eight Miyazaki films and A24 returns Ari Aster twice in six.
-    // A studio path that is really one director's path has answered the wrong question.
-    quotas: { perDirector: 2 },
   },
 };
 

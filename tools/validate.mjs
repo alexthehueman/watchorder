@@ -231,16 +231,12 @@ export function validateCorpus(corpus) {
       // and showcase ("does this show what they can do"). Taxi Driver is both; Silver Linings is
       // showcase and not persona. Collapsing them returns nothing but the famous roles, so
       // `signature` carries persona and `showcase` is stored separately.
-      // Studios need an era per film and a director on the film itself. The director is what the
-      // diversity quota counts, and without it a Ghibli path is eight Miyazaki films — which is
-      // a Miyazaki path wearing a studio's name.
+      // Studios need an era per film and a director on the film itself — not to constrain
+      // selection, only so a reader can see whose work a path is actually made of.
       if (entity.kind === 'studio') {
         const film = filmsById.get(pair.film);
         if (film && !film.director) {
-          errors.push(
-            `${where}: ${pair.film} — a studio's films need a director on the film, or the ` +
-              'per-director quota cannot be enforced',
-          );
+          errors.push(`${where}: ${pair.film} — a studio's films need a director on the film`);
         }
         if (!eraIds.has(pair.era)) {
           errors.push(

@@ -1,7 +1,9 @@
 # A24. Scales and anchors are in README.md ("The anchor rubric").
 #
-# `director` is required on any film a studio references — it is what the per-director quota
-# counts. Without it A24 returns two Ari Aster films in six and calls it a studio path.
+# `director` is required on any film a studio references — it records who actually made it, which
+# matters to a reader deciding whether a path leans on one voice or many. It is not enforced as a
+# quota: a studio path is free to be as director-heavy as its catalogue and a viewer's taste
+# genuinely produce.
 #
 # Corpus note: A24 distributes far more than it produces, and the line between the two is the
 # genuinely hard part of tagging a studio. These are films the company is identified with rather
