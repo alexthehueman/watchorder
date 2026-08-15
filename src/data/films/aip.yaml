@@ -1,0 +1,164 @@
+# Films for American International Pictures. Scales and anchors are in README.md ("The anchor
+# rubric").
+#
+# Bounded to 1957-1973 — the run from the founders' original drive-in double-bill formula through
+# the Corman-Poe cycle, the youth-market pivots (beach party, biker, counterculture) and the early
+# blaxploitation crossover, before the company drifted into the 1970s slate that eventually became
+# Filmways. Acclaim stays honest and low for the cheapest entries on purpose — the same principle
+# Cannon's file states outright: the story earns the inclusion, not a rewritten critical reputation.
+
+- id: i-was-a-teenage-werewolf
+  tmdb_id: null
+  title: I Was a Teenage Werewolf
+  year: 1957
+  runtime: 76
+  director: Gene Fowler Jr.
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: attack-of-the-crab-monsters
+  tmdb_id: null
+  title: Attack of the Crab Monsters
+  year: 1957
+  runtime: 62
+  director: Roger Corman
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: attack-of-the-50-foot-woman
+  tmdb_id: null
+  title: Attack of the 50 Foot Woman
+  year: 1958
+  runtime: 65
+  director: Nathan Juran
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.52 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: house-of-usher
+  tmdb_id: null
+  title: House of Usher
+  year: 1960
+  runtime: 79
+  director: Roger Corman
+  tags: { opacity: 2, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-pit-and-the-pendulum
+  tmdb_id: null
+  title: The Pit and the Pendulum
+  year: 1961
+  runtime: 80
+  director: Roger Corman
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-raven-1963
+  tmdb_id: null
+  title: The Raven
+  year: 1963
+  runtime: 86
+  director: Roger Corman
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 1    # Karloff, Price and Lorre trading barbs — the Poe cycle playing itself for laughs
+    humor: 5
+    acclaim: 0.68
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: beach-party
+  tmdb_id: null
+  title: Beach Party
+  year: 1963
+  runtime: 101
+  director: William Asher
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-masque-of-the-red-death
+  tmdb_id: null
+  title: The Masque of the Red Death
+  year: 1964
+  runtime: 89
+  director: Roger Corman
+  tags:
+    opacity: 2
+    stillness: 3
+    bleakness: 5    # Death arrives as a guest and the film does not pretend anyone talks their way out
+    humor: 1
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: the-tomb-of-ligeia
+  tmdb_id: null
+  title: The Tomb of Ligeia
+  year: 1964
+  runtime: 81
+  director: Roger Corman
+  tags:
+    opacity: 3    # a dead wife's return staged so ambiguously the film never confirms what happened
+    stillness: 3
+    bleakness: 4
+    humor: 1
+    acclaim: 0.70
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-wild-angels
+  tmdb_id: null
+  title: The Wild Angels
+  year: 1966
+  runtime: 93
+  director: Roger Corman
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 4    # a funeral turns into an assault, and the film does not look away from it
+    humor: 1
+    acclaim: 0.58
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 2 }
+
+- id: the-trip
+  tmdb_id: null
+  title: The Trip
+  year: 1967
+  runtime: 85
+  director: Roger Corman
+  tags:
+    opacity: 3    # structured as the hallucination itself, not a story about one
+    stillness: 2
+    bleakness: 2
+    humor: 2
+    acclaim: 0.62
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: wild-in-the-streets
+  tmdb_id: null
+  title: Wild in the Streets
+  year: 1968
+  runtime: 97
+  director: Barry Shear
+  tags:
+    opacity: 1
+    stillness: 1
+    bleakness: 3    # a satire that ends with the elderly rounded up into re-education camps
+    humor: 4
+    acclaim: 0.60
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-abominable-dr-phibes
+  tmdb_id: null
+  title: The Abominable Dr. Phibes
+  year: 1971
+  runtime: 94
+  director: Robert Fuest
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: coffy
+  tmdb_id: null
+  title: Coffy
+  year: 1973
+  runtime: 91
+  director: Jack Hill
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 2, acclaim: 0.70 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 2 }

@@ -1,0 +1,163 @@
+# Films for Pixar. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Fourteen films across 1995-2022 — not era-bounded the way MGM or Cannon are, because there is no
+# ownership churn to bound around. The eras here instead trace a real internal arc: the founding
+# run that had to prove computer animation could carry real drama, the more emotionally ambitious
+# run once that was settled, and the pandemic run that skipped theatres for Disney+ entirely.
+#
+# Opacity sits at 1 for nearly everything on purpose, not from a lazy pass — these are films built
+# to be legible to children, and forcing false ambiguity into the tags to manufacture spread would
+# be less honest than the axis reading quiet here. Bleakness is where the real range lives: Up's
+# opening and WALL-E's loneliness sit much closer to Chinatown than to Cinema Paradiso, despite the
+# studio's reputation for warmth.
+
+- id: toy-story
+  tmdb_id: null
+  title: Toy Story
+  year: 1995
+  runtime: 81
+  director: John Lasseter
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 4, acclaim: 0.92 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: monsters-inc
+  tmdb_id: null
+  title: Monsters, Inc.
+  year: 2001
+  runtime: 92
+  director: Pete Docter
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 4, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: finding-nemo
+  tmdb_id: null
+  title: Finding Nemo
+  year: 2003
+  runtime: 100
+  director: Andrew Stanton
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.87 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-incredibles
+  tmdb_id: null
+  title: The Incredibles
+  year: 2004
+  runtime: 115
+  director: Brad Bird
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.88 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: ratatouille
+  tmdb_id: null
+  title: Ratatouille
+  year: 2007
+  runtime: 111
+  director: Brad Bird
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 4, acclaim: 0.90 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: wall-e
+  tmdb_id: null
+  title: WALL-E
+  year: 2008
+  runtime: 98
+  director: Andrew Stanton
+  tags:
+    opacity: 1
+    stillness: 3    # a near-silent first act; the studio's most patient opening by far
+    bleakness: 3    # an abandoned, garbage-choked Earth and a species that has stopped moving
+    humor: 3
+    acclaim: 0.90
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: up
+  tmdb_id: null
+  title: Up
+  year: 2009
+  runtime: 96
+  director: Pete Docter
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 3    # the opening marriage montage ends in a hospital corridor; the rest earns the lift
+    humor: 3
+    acclaim: 0.93
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: toy-story-3
+  tmdb_id: null
+  title: Toy Story 3
+  year: 2010
+  runtime: 103
+  director: Lee Unkrich
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 3    # the incinerator scene plays as a real ending before the rescue arrives
+    humor: 3
+    acclaim: 0.87
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: brave
+  tmdb_id: null
+  title: Brave
+  year: 2012
+  runtime: 93
+  director: Mark Andrews, Brenda Chapman
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: inside-out
+  tmdb_id: null
+  title: Inside Out
+  year: 2015
+  runtime: 95
+  director: Pete Docter
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 2
+    humor: 3
+    acclaim: 0.94
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: coco
+  tmdb_id: null
+  title: Coco
+  year: 2017
+  runtime: 105
+  director: Lee Unkrich
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.89 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: soul
+  tmdb_id: null
+  title: Soul
+  year: 2020
+  runtime: 100
+  director: Pete Docter
+  tags:
+    opacity: 2    # the Great Before and the Zone are staged as abstraction, not explained away
+    stillness: 3
+    bleakness: 2
+    humor: 3
+    acclaim: 0.87
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: luca
+  tmdb_id: null
+  title: Luca
+  year: 2021
+  runtime: 95
+  director: Enrico Casarosa
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 4, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: turning-red
+  tmdb_id: null
+  title: Turning Red
+  year: 2022
+  runtime: 100
+  director: Domee Shi
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.81 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

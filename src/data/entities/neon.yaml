@@ -1,0 +1,111 @@
+# A distributor with a house style, the same architectural bet A24 already proves out on this
+# roster — bounded naturally by the company's own age (founded 2017) rather than by an era cutoff.
+# Two films are reused from elsewhere in the corpus; see the note in src/data/films/neon.yaml.
+
+slug: neon
+kind: studio
+name: Neon
+blurb: The distributor that turned "won the Palme d'Or" into a recognisable house style.
+
+eras:
+  - id: founding
+    name: Betting on directors nobody else would fund
+    from: 2017
+  - id: ascendant
+    name: Winning the awards it used to just campaign for
+    from: 2021
+
+films:
+  - film: parasite
+    era: founding
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: The Best Picture win that made "a Neon film" mean something specific.
+
+  - film: anora
+    era: ascendant
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A Brooklyn stripper's Vegas wedding unravels in real time, and somehow still wins Best Picture.
+
+  - film: portrait-of-a-lady-on-fire
+    era: founding
+    signature: 4
+    gateway: 2
+    note: A commissioned portrait becomes a love affair neither woman can keep.
+
+  - film: titane
+    era: ascendant
+    signature: 4
+    gateway: 1      # a body-horror Palme d'Or winner; not a defensible way to meet the distributor
+    note: The least commercial thing to carry that prize in decades, and it means every second of it.
+
+  - film: anatomy-of-a-fall
+    era: ascendant
+    signature: 4
+    gateway: 3
+    note: A three-hour courtroom drama that never actually answers the question in its own title.
+
+  - film: i-tonya
+    era: founding
+    signature: 4
+    gateway: 4
+    note: Tonya Harding's version of events, narrated by Tonya Harding, with the fourth wall broken to prove it.
+
+  - film: pig
+    era: ascendant
+    signature: 3
+    gateway: 3
+    note: A truffle hunter's stolen pig sets up a revenge film that keeps declining to be one.
+
+  - film: spencer
+    era: ascendant
+    signature: 3
+    gateway: 3
+    note: Three days at Sandringham staged as a fable, with a ghost the film treats as entirely real.
+
+  - film: flee
+    era: ascendant
+    signature: 3
+    gateway: 2
+    note: An Afghan refugee's hidden past, animated because the real footage was never safe to film.
+
+  - film: palm-springs
+    era: founding
+    signature: 3
+    gateway: 5
+    note: A wedding-day time loop with none of the mechanics ever explained, and none of them needed.
+
+  - film: longlegs
+    era: ascendant
+    signature: 3
+    gateway: 3
+    note: A satanic-panic serial-killer thriller that spends most of its runtime refusing to show you anything.
+
+  - film: vox-lux
+    era: founding
+    signature: 3
+    gateway: 1      # opens on a school shooting; a genuinely bad place to start
+    note: Opens on a school shooting and spends the rest of the film on the pop star it accidentally created.
+
+  - film: ingrid-goes-west
+    era: founding
+    signature: 3
+    gateway: 4
+    note: A woman stalks an influencer's life so completely she nearly loses her own.
+
+curated:
+  curator: house
+  rationale: The two Best Picture winners first, then the range that made both of them possible.
+  order:
+    - parasite
+    - anora
+    - portrait-of-a-lady-on-fire
+    - titane
+    - pig
+    - i-tonya
+    - anatomy-of-a-fall
+    - palm-springs
+    - flee

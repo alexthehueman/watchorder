@@ -1,0 +1,124 @@
+# Genre-bounded the same way Cannon is: the core roster stays inside 1957-1974, the years the
+# Cushing-and-Lee Gothic identity actually held together, plus one deliberate outlier at the far
+# end. See the note in src/data/films/hammer.yaml for why The Woman in Black (2012) belongs here
+# despite the thirty-eight-year gap.
+
+slug: hammer
+kind: studio
+name: Hammer
+blurb: British Gothic horror, built on the same six sets and two faces, for the better part of two decades.
+
+eras:
+  - id: gothic
+    name: The Cushing and Lee years begin
+    from: 1957
+  - id: expansion
+    name: Chasing the formula into new corners
+    from: 1966
+  - id: decline
+    name: Sex, blood, and diminishing returns
+    from: 1970
+  - id: revival
+    name: One more go, decades later
+    from: 2012
+
+films:
+  - film: the-curse-of-frankenstein
+    era: gothic
+    signature: 5
+    must_see: true
+    gateway: 5
+    note: The one that started it — the first Gothic horror shot in colour, and the studio's whole identity in one film.
+
+  - film: horror-of-dracula
+    era: gothic
+    signature: 5
+    must_see: true
+    gateway: 5
+    note: Cushing's Van Helsing versus Lee's Dracula, and the template every entry after this one measures itself against.
+
+  - film: the-devil-rides-out
+    era: expansion
+    signature: 4
+    gateway: 3
+    note: No creature at all — a black-magic thriller, and by most accounts the best film Hammer ever made.
+
+  - film: the-mummy-1959
+    era: gothic
+    signature: 4
+    gateway: 4
+    note: Cushing and Lee again, this time as archaeologist and revenant, in under ninety minutes.
+
+  - film: dracula-prince-of-darkness
+    era: expansion
+    signature: 4
+    gateway: 3
+    note: Lee returns to the role without a single line of dialogue, and somehow still dominates every scene.
+
+  - film: the-curse-of-the-werewolf
+    era: gothic
+    signature: 3
+    gateway: 3
+    note: Oliver Reed's first lead role, playing a man cursed from birth and shot by the father who raised him.
+
+  - film: the-brides-of-dracula
+    era: gothic
+    signature: 3
+    gateway: 3
+    note: No Dracula in it at all — Cushing carries the film alone against a new, younger threat.
+
+  - film: the-hound-of-the-baskervilles-1959
+    era: gothic
+    signature: 3
+    gateway: 4
+    note: Cushing as Holmes instead of Van Helsing, and the gentlest introduction to the studio on this list.
+
+  - film: frankenstein-created-woman
+    era: expansion
+    signature: 3
+    gateway: 2
+    note: A wronged woman's soul transplanted into a new body, for exactly one act of revenge.
+
+  - film: taste-the-blood-of-dracula
+    era: decline
+    signature: 3
+    gateway: 3
+    note: Respectable Victorian men dabble in a black mass and get exactly what that deserves.
+
+  - film: dr-jekyll-and-sister-hyde
+    era: decline
+    signature: 3
+    gateway: 2
+    note: The gimmick is right there in the title, and the film is more serious about it than you'd expect.
+
+  - film: countess-dracula
+    era: decline
+    signature: 3
+    gateway: 2
+    note: Ingrid Pitt as a countess bathing in blood to stay young, loosely off the Bathory legend.
+
+  - film: captain-kronos-vampire-hunter
+    era: decline
+    signature: 2
+    gateway: 3
+    note: Part swashbuckler, part horror, and a cult favourite the studio never got a sequel out of.
+
+  - film: the-woman-in-black-2012
+    era: revival
+    signature: 3
+    gateway: 4
+    note: Decades later, and the house style survived intact — dread over gore, right through an ending that gives no one a way out.
+
+curated:
+  curator: house
+  rationale: The two that built the reputation, then the ones that complicate it.
+  order:
+    - the-curse-of-frankenstein
+    - horror-of-dracula
+    - the-devil-rides-out
+    - dracula-prince-of-darkness
+    - the-curse-of-the-werewolf
+    - the-mummy-1959
+    - taste-the-blood-of-dracula
+    - dr-jekyll-and-sister-hyde
+    - the-woman-in-black-2012

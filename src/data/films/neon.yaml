@@ -1,0 +1,129 @@
+# New films for Neon. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Two of this entity's films already exist in the corpus, the same free-overlap pattern as the
+# actor batch: Parasite is already tagged under Song Kang-ho, and Pig under Nicolas Cage — both
+# distributed in North America by Neon. Only the titles below are new to the corpus.
+
+- id: anora
+  tmdb_id: null
+  title: Anora
+  year: 2024
+  runtime: 139
+  director: Sean Baker
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.93 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 2 }
+
+- id: i-tonya
+  tmdb_id: null
+  title: I, Tonya
+  year: 2017
+  runtime: 120
+  director: Craig Gillespie
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 3, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+
+- id: portrait-of-a-lady-on-fire
+  tmdb_id: null
+  title: Portrait of a Lady on Fire
+  year: 2019
+  runtime: 122
+  director: Céline Sciamma
+  tags: { opacity: 1, stillness: 4, bleakness: 3, humor: 1, acclaim: 0.93 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: titane
+  tmdb_id: null
+  title: Titane
+  year: 2021
+  runtime: 108
+  director: Julia Ducournau
+  tags:
+    opacity: 3    # its transformation logic is never explained, on purpose
+    stillness: 2
+    bleakness: 5    # body horror with no consoling frame around it
+    humor: 1
+    acclaim: 0.78
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 2 }
+
+- id: spencer
+  tmdb_id: null
+  title: Spencer
+  year: 2021
+  runtime: 117
+  director: Pablo Larraín
+  tags:
+    opacity: 2    # staged as a fable, with Anne Boleyn's ghost treated as real inside the film
+    stillness: 3
+    bleakness: 4
+    humor: 1
+    acclaim: 0.75
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: flee
+  tmdb_id: null
+  title: Flee
+  year: 2021
+  runtime: 90
+  director: Jonas Poher Rasmussen
+  tags:
+    opacity: 2    # a fractured, non-linear account of a past its subject spent decades hiding
+    stillness: 3
+    bleakness: 4
+    humor: 1
+    acclaim: 0.90
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
+
+- id: palm-springs
+  tmdb_id: null
+  title: Palm Springs
+  year: 2020
+  runtime: 90
+  director: Max Barbakow
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.82 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: anatomy-of-a-fall
+  tmdb_id: null
+  title: Anatomy of a Fall
+  year: 2023
+  runtime: 152
+  director: Justine Triet
+  tags:
+    opacity: 3    # deliberately never confirms whether she did it
+    stillness: 3
+    bleakness: 3
+    humor: 1
+    acclaim: 0.90
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: longlegs
+  tmdb_id: null
+  title: Longlegs
+  year: 2024
+  runtime: 101
+  director: Oz Perkins
+  tags: { opacity: 3, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+
+- id: vox-lux
+  tmdb_id: null
+  title: Vox Lux
+  year: 2018
+  runtime: 114
+  director: Brady Corbet
+  tags:
+    opacity: 2
+    stillness: 2
+    bleakness: 4    # opens on a school shooting, then follows the toxic fame that grows out of it
+    humor: 1
+    acclaim: 0.62
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
+
+- id: ingrid-goes-west
+  tmdb_id: null
+  title: Ingrid Goes West
+  year: 2017
+  runtime: 98
+  director: Matt Spicer
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 0 }

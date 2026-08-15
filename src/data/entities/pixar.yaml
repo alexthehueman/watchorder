@@ -1,0 +1,122 @@
+# No ownership churn to bound around, unlike MGM or Cannon — the three eras below trace an
+# internal arc instead: the run that had to prove computer animation could carry real drama, the
+# more emotionally ambitious run once that case was made, and the pandemic run that went straight
+# to Disney+ instead of theatres. Opacity reads narrow across the whole roster; see the note in
+# src/data/films/pixar.yaml for why that's a fact about the studio, not a lazy tagging pass.
+
+slug: pixar
+kind: studio
+name: Pixar
+blurb: Feature animation that decided the target audience included the adults who brought the kids.
+
+eras:
+  - id: founding
+    name: Proving it could carry drama
+    from: 1995
+  - id: ambition
+    name: Sadder, stranger, better
+    from: 2012
+  - id: streaming
+    name: Straight to Disney+
+    from: 2020
+
+films:
+  - film: toy-story
+    era: founding
+    signature: 5
+    must_see: true
+    gateway: 5
+    note: The first fully computer-animated feature, and it works as pure drama, not as a demo reel.
+
+  - film: up
+    era: founding
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A four-minute marriage told in silence, then a house tied to balloons. Both halves earn each other.
+
+  - film: wall-e
+    era: founding
+    signature: 4
+    gateway: 3
+    note: Forty minutes with almost no dialogue, about a species that has forgotten how to move.
+
+  - film: inside-out
+    era: ambition
+    signature: 4
+    gateway: 5
+    note: Turns a childhood's emotional architecture into a cast of characters, and never condescends about it.
+
+  - film: the-incredibles
+    era: founding
+    signature: 4
+    gateway: 5
+    note: A superhero film about a marriage under strain, disguised as a superhero film for kids.
+
+  - film: ratatouille
+    era: founding
+    signature: 4
+    gateway: 4
+    note: A rat who cooks, played entirely straight, with a critic's monologue that outclasses the premise.
+
+  - film: monsters-inc
+    era: founding
+    signature: 4
+    gateway: 5
+    note: A workplace comedy about a scream-powered energy economy, undone by one child not being afraid.
+
+  - film: finding-nemo
+    era: founding
+    signature: 4
+    gateway: 5
+    note: A father crosses an ocean because he has already lost too much once.
+
+  - film: coco
+    era: ambition
+    signature: 4
+    gateway: 4
+    note: The Land of the Dead as a real place with real rules, and a family secret worth the trip there.
+
+  - film: soul
+    era: streaming
+    signature: 4
+    gateway: 3
+    note: A jazz pianist dies in the first act and spends the rest of the film arguing about what a life is for.
+
+  - film: toy-story-3
+    era: founding
+    signature: 3
+    gateway: 3
+    note: The incinerator scene plays as a real ending, not a scare, right up until the rescue arrives.
+
+  - film: turning-red
+    era: streaming
+    signature: 3
+    gateway: 4
+    note: Puberty as a giant red panda, and a mother-daughter rift the film refuses to make simple.
+
+  - film: brave
+    era: ambition
+    signature: 3
+    gateway: 4
+    note: The one built around a mother and daughter instead of a father and someone. Uneven, still sincere.
+
+  - film: luca
+    era: streaming
+    signature: 3
+    gateway: 4
+    note: Sea monsters passing as boys for one Italian summer. The lightest thing the studio has made in years.
+
+curated:
+  curator: house
+  rationale: The one everyone means, then the run of films that prove it was never a fluke.
+  order:
+    - toy-story
+    - up
+    - inside-out
+    - finding-nemo
+    - the-incredibles
+    - wall-e
+    - coco
+    - ratatouille
+    - soul

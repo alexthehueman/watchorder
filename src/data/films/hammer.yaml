@@ -1,0 +1,153 @@
+# Films for Hammer. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The core roster is bounded to 1957-1974 — the Cushing-and-Lee Gothic run, mirroring how Cannon
+# stays bounded to 1979-1989 rather than chasing a name through decades it no longer describes.
+# One film breaks that bound on purpose: The Woman in Black (2012), the studio's modern revival,
+# included specifically to show the house style survived the forty-year gap largely intact —
+# atmosphere and dread over gore, right down to the ending that refuses anyone a way out.
+
+- id: the-curse-of-frankenstein
+  tmdb_id: null
+  title: The Curse of Frankenstein
+  year: 1957
+  runtime: 82
+  director: Terence Fisher
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: horror-of-dracula
+  tmdb_id: null
+  title: Horror of Dracula
+  year: 1958
+  runtime: 82
+  director: Terence Fisher
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.80 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: the-mummy-1959
+  tmdb_id: null
+  title: The Mummy
+  year: 1959
+  runtime: 88
+  director: Terence Fisher
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-hound-of-the-baskervilles-1959
+  tmdb_id: null
+  title: The Hound of the Baskervilles
+  year: 1959
+  runtime: 87
+  director: Terence Fisher
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.70 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-brides-of-dracula
+  tmdb_id: null
+  title: The Brides of Dracula
+  year: 1960
+  runtime: 85
+  director: Terence Fisher
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: the-curse-of-the-werewolf
+  tmdb_id: null
+  title: The Curse of the Werewolf
+  year: 1961
+  runtime: 91
+  director: Terence Fisher
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 4    # a cursed, sympathetic man shot dead by the father who raised him
+    humor: 1
+    acclaim: 0.70
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+
+- id: dracula-prince-of-darkness
+  tmdb_id: null
+  title: Dracula, Prince of Darkness
+  year: 1966
+  runtime: 90
+  director: Terence Fisher
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: frankenstein-created-woman
+  tmdb_id: null
+  title: Frankenstein Created Woman
+  year: 1967
+  runtime: 92
+  director: Terence Fisher
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 4    # a wronged woman's soul gets one act of revenge, then loses everything again
+    humor: 1
+    acclaim: 0.68
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 1 }
+
+- id: the-devil-rides-out
+  tmdb_id: null
+  title: The Devil Rides Out
+  year: 1968
+  runtime: 96
+  director: Terence Fisher
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.82 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: taste-the-blood-of-dracula
+  tmdb_id: null
+  title: Taste the Blood of Dracula
+  year: 1970
+  runtime: 91
+  director: Peter Sasdy
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: countess-dracula
+  tmdb_id: null
+  title: Countess Dracula
+  year: 1971
+  runtime: 93
+  director: Peter Sasdy
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 2 }
+
+- id: dr-jekyll-and-sister-hyde
+  tmdb_id: null
+  title: Dr Jekyll and Sister Hyde
+  year: 1971
+  runtime: 97
+  director: Roy Ward Baker
+  tags:
+    opacity: 2
+    stillness: 2
+    bleakness: 4    # both halves of one person destroy each other, and neither survives it
+    humor: 2
+    acclaim: 0.68
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 2 }
+
+- id: captain-kronos-vampire-hunter
+  tmdb_id: null
+  title: Captain Kronos - Vampire Hunter
+  year: 1974
+  runtime: 91
+  director: Brian Clemens
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: the-woman-in-black-2012
+  tmdb_id: null
+  title: The Woman in Black
+  year: 2012
+  runtime: 95
+  director: James Watkins
+  tags:
+    opacity: 2
+    stillness: 3
+    bleakness: 5    # the ghost's revenge is never stopped, and the ending refuses anyone a way out
+    humor: 1
+    acclaim: 0.72
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }

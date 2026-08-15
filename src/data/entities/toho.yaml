@@ -1,0 +1,124 @@
+# Both halves of the studio's real identity, deliberately kept together rather than split into two
+# safer, narrower entities: the Kurosawa prestige pictures and the kaiju series that funded the
+# lot they were shot on. That is a genuine, coherent "one studio, everything from arte to pop"
+# story — not the kind of split-register incoherence that keeps Warner Bros and RKO off this
+# roster (see the studio-roster memory). Most of this entity's films already exist in the corpus
+# from the Toshiro Mifune actor entity; see the note in src/data/films/toho.yaml for which ones,
+# and why Rashomon is deliberately excluded.
+
+slug: toho
+kind: studio
+name: Toho
+blurb: Samurai epics and a two-hundred-foot lizard, funded out of the same postwar rebuild.
+
+eras:
+  - id: postwar
+    name: Kurosawa and the atomic shadow
+    from: 1952
+  - id: golden-age
+    name: Samurai epics and the first kaiju sequels
+    from: 1957
+  - id: modern
+    name: One monster movie, decades later
+    from: 2016
+
+films:
+  - film: gojira
+    era: postwar
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: Ninety-six minutes after Hiroshima and Nagasaki were still recent memory, not metaphor. Refuses to be fun.
+
+  - film: seven-samurai
+    era: postwar
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: Four hours, six months of shooting, and the template for the ensemble heist movie that did not exist yet.
+
+  - film: ikiru
+    era: postwar
+    signature: 4
+    gateway: 3
+    note: No Mifune in it at all — a bureaucrat given six months to live, and what he does with one small park.
+
+  - film: throne-of-blood
+    era: golden-age
+    signature: 4
+    gateway: 2
+    note: Macbeth relocated to feudal Japan, shot in real fog, with real arrows in the final scene.
+
+  - film: yojimbo
+    era: golden-age
+    signature: 4
+    gateway: 5
+    note: A masterless samurai plays two gangs against each other for sport. Every stranger-in-town Western owes it something.
+
+  - film: high-and-low
+    era: golden-age
+    signature: 4
+    gateway: 3
+    note: A ransom decision plays out almost entirely in one room, for nearly an hour, before the film moves at all.
+
+  - film: i-live-in-fear
+    era: postwar
+    signature: 3
+    gateway: 1      # a thirty-five-year-old Mifune playing seventy, terrified of the bomb; nobody's first Toho film
+    note: A businessman convinced the bomb is coming, certain enough to burn down his own foundry to prove it.
+
+  - film: the-hidden-fortress
+    era: golden-age
+    signature: 3
+    gateway: 4
+    note: The one Lucas took Star Wars's structure from — two bickering peasants narrate a princess's escape.
+
+  - film: when-a-woman-ascends-the-stairs
+    era: golden-age
+    signature: 3
+    gateway: 2
+    note: A Ginza bar hostess doing the arithmetic on a career with no good exit. No Kurosawa, no Mifune, all melodrama.
+
+  - film: the-bad-sleep-well
+    era: golden-age
+    signature: 3
+    gateway: 2
+    note: Corporate corruption restaged as Hamlet, in a suit instead of a doublet.
+
+  - film: sanjuro
+    era: golden-age
+    signature: 3
+    gateway: 4
+    note: Yojimbo again, lighter and funnier, with the single most abrupt sword fight in the studio's history.
+
+  - film: mothra-vs-godzilla
+    era: golden-age
+    signature: 3
+    gateway: 4
+    note: Two kaiju, a pair of six-inch fairies, and the moment the series decided monster fights could just be fun.
+
+  - film: red-beard
+    era: golden-age
+    signature: 3
+    gateway: 2
+    note: Kurosawa and Mifune's last film together, and the gentlest either of them ever made.
+
+  - film: shin-godzilla
+    era: modern
+    signature: 3
+    gateway: 3
+    note: A monster movie restaged as an indictment of committee meetings, sixty years after the first one.
+
+curated:
+  curator: house
+  rationale: The two films everyone already knows the studio for, then the range between them.
+  order:
+    - seven-samurai
+    - gojira
+    - yojimbo
+    - ikiru
+    - high-and-low
+    - mothra-vs-godzilla
+    - throne-of-blood
+    - when-a-woman-ascends-the-stairs
+    - shin-godzilla

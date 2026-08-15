@@ -1,0 +1,123 @@
+# Genre-bounded like Cannon and Hammer: 1957-1973, from the founders' original drive-in formula
+# through the Corman-Poe cycle and the youth-market pivots that followed it. See the note in
+# src/data/films/aip.yaml for why the acclaim numbers stay low and honest on the cheapest entries.
+
+slug: aip
+kind: studio
+name: American International Pictures
+blurb: Drive-in double bills that occasionally, almost by accident, became genuinely good films.
+
+eras:
+  - id: drive-in
+    name: Cheap, fast, and built for a double bill
+    from: 1957
+  - id: poe-cycle
+    name: Vincent Price and the Corman-Poe pictures
+    from: 1960
+  - id: counterculture
+    name: Chasing the youth market as it changed
+    from: 1966
+  - id: crossover
+    name: One foot in the mainstream, on the way out
+    from: 1971
+
+films:
+  - film: house-of-usher
+    era: poe-cycle
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: The film that proved the drive-in outfit could make something Vincent Price would take seriously.
+
+  - film: the-masque-of-the-red-death
+    era: poe-cycle
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: The best of the Poe cycle by most accounts, shot by a young Nicolas Roeg, and it does not blink at the ending.
+
+  - film: the-pit-and-the-pendulum
+    era: poe-cycle
+    signature: 4
+    gateway: 4
+    note: Price as a man convinced his dead wife is still in the house, and the house agrees with him.
+
+  - film: the-wild-angels
+    era: counterculture
+    signature: 4
+    gateway: 2
+    note: A real biker gang cast as themselves. The funeral scene is the one people remember, for the worst reasons.
+
+  - film: coffy
+    era: crossover
+    signature: 4
+    gateway: 4
+    note: Pam Grier's breakout, and the film that showed a drive-in outfit could sell a movie built entirely around her.
+
+  - film: the-abominable-dr-phibes
+    era: crossover
+    signature: 4
+    gateway: 4
+    note: A disfigured organist murders his way through a set of Old Testament plagues. Camp, and knows it.
+
+  - film: i-was-a-teenage-werewolf
+    era: drive-in
+    signature: 3
+    gateway: 4
+    note: The title that defined the whole "teenage" cycle of monster pictures, cashed in inside a single summer.
+
+  - film: attack-of-the-50-foot-woman
+    era: drive-in
+    signature: 3
+    gateway: 4
+    note: A scorned wife grows sixty feet tall and goes looking for her husband. The poster outlived the film.
+
+  - film: the-raven-1963
+    era: poe-cycle
+    signature: 3
+    gateway: 5
+    note: Karloff, Price and Lorre trading barbs instead of scares — the cycle sending itself up on purpose.
+
+  - film: the-tomb-of-ligeia
+    era: poe-cycle
+    signature: 3
+    gateway: 2
+    note: The last and strangest of the Poe pictures, staged so ambiguously it never confirms what actually happened.
+
+  - film: the-trip
+    era: counterculture
+    signature: 3
+    gateway: 1      # structured as a hallucination; a genuinely bad place to start
+    note: An LSD trip shot as one, written by Jack Nicholson, starring Fonda and Hopper three years before Easy Rider.
+
+  - film: beach-party
+    era: counterculture
+    signature: 3
+    gateway: 4
+    note: Frankie Avalon, Annette Funicello, and a genre the studio would spend the next three years repeating.
+
+  - film: wild-in-the-streets
+    era: counterculture
+    signature: 3
+    gateway: 3
+    note: A satire about a teenage revolution that wins, right up until the twist ending nobody expects.
+
+  - film: attack-of-the-crab-monsters
+    era: drive-in
+    signature: 2
+    gateway: 3
+    note: Shot in days on almost nothing, and the most purely "AIP" object on this entire list.
+
+curated:
+  curator: house
+  rationale: The Poe cycle first, since it is the real claim to a reputation, then the double bill it actually sold tickets as.
+  order:
+    - house-of-usher
+    - the-masque-of-the-red-death
+    - the-raven-1963
+    - the-pit-and-the-pendulum
+    - coffy
+    - the-abominable-dr-phibes
+    - the-wild-angels
+    - i-was-a-teenage-werewolf
+    - beach-party
