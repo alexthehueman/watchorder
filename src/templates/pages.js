@@ -19,7 +19,9 @@ function filmCard(entry, index) {
           <div class="body">
             <h3>${esc(film.title)} <span class="year">${film.year}</span></h3>
             <p class="meta">
-              ${esc(formatRuntime(film))}${series ? ' <span class="badge">series</span>' : ''}
+              ${esc(formatRuntime(film))}${series ? ' <span class="badge">series</span>' : ''}${
+                pair.must_see ? ' <span class="badge must">must see</span>' : ''
+              }
             </p>
             ${pair.note ? `<p class="note">${esc(pair.note)}</p>` : ''}
             ${entry.why ? `<p class="why">${esc(entry.why)}</p>` : ''}
@@ -157,8 +159,11 @@ export function entityPage(entity, filmsById, housePath, site) {
     })),
   };
 
-  const body = `    <main class="entity">
-      <nav class="crumbs"><a href="${esc(url(base, '/'))}">All filmmakers</a></nav>
+  const KIND_LABEL = { director: 'Director', actor: 'Actor', studio: 'Studio' };
+
+  const body = `    <main class="entity" data-kind="${esc(entity.kind)}">
+      <nav class="crumbs"><a href="${esc(url(base, '/'))}">← Directors, actors &amp; studios</a></nav>
+      <p class="kind-label">${esc(KIND_LABEL[entity.kind] ?? entity.kind)}</p>
       <h1>${esc(entity.name)}</h1>
       <p class="blurb">${esc(entity.blurb)}</p>
 
@@ -215,39 +220,94 @@ ${everything
   return layout({ title, description, canonical, body, jsonLd, base });
 }
 
+const KIND_SECTIONS = [
+  { kind: 'director', heading: 'Directors' },
+  { kind: 'actor', heading: 'Actors' },
+  { kind: 'studio', heading: 'Studios' },
+];
+
+/**
+ * One roster entry. `data-name`/`data-blurb` duplicate visible text into attributes rather than
+ * re-reading textContent at search time — cheap, and it keeps the matching logic in search.js
+ * from caring about the markup inside the card.
+ */
+function entityCard(entity, base) {
+  return `          <li data-name="${esc(entity.name.toLowerCase())}" data-blurb="${esc(entity.blurb.toLowerCase())}">
+            <a href="${esc(url(base, `/${entity.kind}/${entity.slug}/`))}">
+              <span class="name">${esc(entity.name)}</span>
+              <span class="blurb">${esc(entity.blurb)}</span>
+            </a>
+          </li>`;
+}
+
 /**
  * @param {Array<object>} entities
+ * @param {Map<string, object>} filmsById
+ * @param {{base: string, origin: string}} site
  * @returns {string}
  */
-export function indexPage(entities, site) {
+export function indexPage(entities, filmsById, site) {
   const { base, origin } = site;
   const title = 'WatchOrder — viewing orders for filmmakers worth the trouble';
   const description =
-    'Curated and personalised viewing orders for filmmakers, computed from hand-written tags ' +
-    'rather than scraped ratings.';
+    'Curated and personalised viewing orders for directors, actors and studios, computed from ' +
+    'hand-written tags rather than scraped ratings.';
+
+  const byKind = new Map(KIND_SECTIONS.map((section) => [section.kind, []]));
+  for (const entity of entities) byKind.get(entity.kind)?.push(entity);
+
+  const sections = KIND_SECTIONS.filter((section) => byKind.get(section.kind).length > 0)
+    .map(
+      (section) => `      <section class="roster-section" aria-labelledby="${section.kind}s" data-kind="${section.kind}">
+        <h2 id="${section.kind}s">${section.heading}</h2>
+        <ul class="roster">
+${byKind
+  .get(section.kind)
+  .map((entity) => entityCard(entity, base))
+  .join('\n')}
+        </ul>
+      </section>`,
+    )
+    .join('\n');
+
+  // Search matches films as well as entities, and a film can belong to more than one — Wild at
+  // Heart is a Lynch film and a Cage performance, and a search for it should offer both. One row
+  // per (film, entity) pair, rather than per film, is what makes that possible without the client
+  // needing to know anything about how the corpus is shaped.
+  const searchIndex = {
+    entities: entities.map((entity) => ({
+      kind: entity.kind,
+      slug: entity.slug,
+      name: entity.name,
+      blurb: entity.blurb,
+    })),
+    films: entities.flatMap((entity) =>
+      (entity.films ?? []).map((pair) => {
+        const film = filmsById.get(pair.film);
+        return { title: film.title, year: film.year, kind: entity.kind, slug: entity.slug, entity: entity.name };
+      }),
+    ),
+  };
 
   const body = `    <main class="home">
-      <h1>Where do you start with a filmmaker?</h1>
+      <h1>Where do you start?</h1>
       <p class="lede">
-        Not with their first film, usually. Not with their best either. Every path here is built
-        from tags written by hand — how much a film explains, how still it is, how bleak, how
-        funny — so the order can suit how you actually watch rather than how a ranking sorts.
+        Not with the first film, usually. Not with the best either. Every path here is built from
+        tags written by hand — how much a film explains, how still it is, how bleak, how funny —
+        so the order can suit how you actually watch rather than how a ranking sorts.
       </p>
 
-      <h2>Filmmakers</h2>
-      <ul class="roster">
-${entities
-  .map(
-    (entity) => `        <li>
-          <a href="${esc(url(base, `/${entity.kind}/${entity.slug}/`))}">
-            <span class="name">${esc(entity.name)}</span>
-            <span class="blurb">${esc(entity.blurb)}</span>
-          </a>
-        </li>`,
-  )
-  .join('\n')}
-      </ul>
-    </main>`;
+      <div class="search" id="search" hidden>
+        <label for="search-input" class="visually-hidden">Search directors, actors, studios and films</label>
+        <input type="search" id="search-input" placeholder="Search a name or a film…" autocomplete="off">
+        <p class="search-status" id="search-status" hidden></p>
+        <ul class="search-results" id="search-results" hidden></ul>
+      </div>
+
+${sections}
+    </main>
+    <script type="application/json" id="search-data">${JSON.stringify(searchIndex).replace(/</g, '\\u003c')}</script>
+    <script type="module" src="${esc(url(base, '/ui/search.js'))}"></script>`;
 
   return layout({ title, description, canonical: `${origin}${base}/`, body, base });
 }

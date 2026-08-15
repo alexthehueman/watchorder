@@ -60,6 +60,9 @@ function card(entry, index) {
   if (entry.film.medium === 'series') {
     meta.append(' ', element('span', 'badge', 'series'));
   }
+  if (entry.pair.must_see) {
+    meta.append(' ', element('span', 'badge must', 'must see'));
+  }
   body.append(meta);
 
   if (entry.note) body.append(element('p', 'note', entry.note));

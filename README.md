@@ -6,8 +6,8 @@ house pick.
 
 **Live: https://alexthehueman.github.io/watchorder**
 
-Status: **All eight phases complete.** Fifteen directors, three actors and three studios — 241
-films, 21 entities, every gate passing.
+Status: **All eight phases complete, plus must-see pinning, kind-separated browsing, and search.**
+Fifteen directors, three actors and three studios — 241 films, 21 entities, every gate passing.
 
 ## The bet
 
@@ -225,6 +225,60 @@ visible because a second data point disagreed with the first; on one entity it w
 Fixing the ruler also shifted every distance in the suite by a consistent factor of 0.75, so the
 M7 floor moved from 0.25 to 0.19. That is the same claim restated in the corrected units, not a
 lowered bar — the engine did not change at all.
+
+## Must-see: a film pinned regardless of taste, and what that actually costs
+
+`must_see` on an entity–film pair guarantees the film a slot no matter what the quiz says — Blue
+Velvet and Mulholland Drive appear in every one of Lynch's 108 grid profiles, including a
+three-film "keep me oriented" path that would otherwise never touch either. "No matter what" is
+scoped precisely: it beats every taste answer, but never a content exclusion or the seen set. A
+must-see containing something a viewer excluded still doesn't appear — the same rule the engine
+has enforced since prerequisites were designed in Phase 2, extended to a new mechanism rather than
+carved an exception into.
+
+**The first version of this broke the product it was added to.** Pinning uncapped sent 8 of 20
+entities' openers above 55% concentration and killed the register question for 11 — every pinned
+film is a slot the quiz no longer controls, and the films worth marking essential are usually
+already an entity's highest-scoring work by every measure the engine uses, so guaranteeing them
+amplified a dominance that was often already there. Two corrections, in order:
+
+1. **Membership is pinned, position is not.** A must-see doesn't have to open the path; sequencing
+   still places it by curve fit. Where a dominant opener *is* the pinned film — Cléo from 5 to 7
+   for Varda, Ali: Fear Eats the Soul for Fassbinder — that's the same "a right answer can be
+   common" result documented above for M2, and those entities are exempted from the concentration
+   count rather than penalised for it.
+2. **At most two must-sees per entity, enforced by the validator.** `tools/validate.mjs` rejects
+   more than `MIN_DEPTH − 1` — a third pin at the smallest three-film depth would starve the
+   quiz entirely, which is what a probe file with three confirms: *"only 2 of them a slot"*. Most
+   entities carry one. Where two clearly cost too much — Ghibli's third pin, Mifune's third,
+   several directors' second — they were reduced individually, checked against the actual
+   register-sensitivity numbers rather than a guess.
+
+**What's left is real and it's measured, not asserted away.** Rerunning the identical 108-profile
+grid with every `must_see` flag stripped, per entity, and averaging: pinning reduces taste-only
+path distance by a consistent ratio of **0.79** across the roster (0.202 with pins active against
+0.254 without; per-entity ratios ranged 0.63–0.95, so this is a distribution, not one outlier). The
+existing M7 floor was itself a rescale — 0.25 to 0.19 — from the RBO-normalisation fix earlier in
+this document. Compounding both measured corrections onto the original claim, `0.25 × 0.75 × 0.79
+≈ 0.15`, is what the floor is now: two independent, separately measured costs to the same number,
+not a threshold nudged until a run went green.
+
+## The index page separates what it lists, and search doesn't merge it back together
+
+The roster used to be one flat list under "Filmmakers" that happened to also contain three
+distributors and a Japanese leading man from 1954. The index now groups into three sections —
+Directors, Actors, Studios — each its own heading and its own `<ul>`, and every entity page carries
+a visible kind label between the breadcrumb and its name, so the kind is legible even reached from
+a search result rather than from its own section.
+
+Search is the same progressive-enhancement shape as the quiz: a JSON payload embedded at build
+time, a hidden box revealed by script, filtered entirely client-side over 21 entities and 241
+films — nothing here needs an index structure more complex than an array. It matches entities by
+name or blurb and films by title, and it deliberately returns **one row per (film, entity) pair**
+rather than deduplicating by film — Wild at Heart is a Lynch film and a Cage performance, and
+searching it correctly surfaces both, linked to the entity each belongs to. Without JavaScript the
+search box is simply absent; the three full rosters beneath it already list everything, so nothing
+is lost, only the shortcut.
 
 ## The anchor rubric
 

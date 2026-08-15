@@ -68,6 +68,32 @@ export function selectFilms(candidates, options) {
   const selected = [];
   const chosen = new Set();
   const satisfied = new Set(seen);
+
+  // Must-sees are pinned before scoring begins, which is the whole meaning of the flag: the film
+  // you cannot claim to know this entity without, whatever the quiz said. Nothing about the taste
+  // answers can drop them.
+  //
+  // What they do NOT override is anything that protects the viewer. A blocked film never reaches
+  // this function, so a content exclusion still wins; a seen film is already gone; the budget
+  // still binds, and where must-sees exceed it the best-fitting ones win rather than an arbitrary
+  // few; and a gateway-0 must-see still cannot open a path. "No matter what" is about taste, not
+  // about consent.
+  // "No matter what" means no matter what the quiz said — every declared must-see is pinned,
+  // full stop, subject only to the budget and to the constraints that protect the viewer
+  // (content exclusions, the seen set). It does not mean no matter how many are declared.
+  //
+  // The one reservation: at least one slot is held back for the budget to fill on merit, whenever
+  // the budget allows it. A three-film request that consumed all three on pins would leave the
+  // quiz with literally nothing left to decide, which is a different feature wearing this one's
+  // name. This is a reservation on the BUDGET side, not a cap on how many must-sees can be
+  // honoured — see the corpus-side rule in tools/validate.mjs that keeps a filmography's declared
+  // count within what its shortest depth can actually hold.
+  const pinCap = Number.isFinite(budget) && budget > 1 ? budget - 1 : budget;
+  const pinned = candidates
+    .filter((entry) => entry.pair.must_see)
+    .map((entry) => ({ ...entry, value: entry.fit }))
+    .sort(compareCandidates)
+    .slice(0, pinCap);
   // Budget is counted in slots rather than titles, because a series is several films' worth of
   // someone's evening. See slotCost in score.js.
   let spent = 0;
@@ -105,6 +131,27 @@ export function selectFilms(candidates, options) {
     // most likely. The dependent film cannot be taken at all.
     if (needed.some((id) => !byId.has(id))) return null;
     return needed;
+  }
+
+  for (const entry of pinned) {
+    if (chosen.has(entry.film.id)) continue;
+    const closure = closureFor(entry);
+    if (closure === null) continue; // a prerequisite is blocked, so the film cannot be taken
+    const cost =
+      slotCost(entry.film) + closure.reduce((sum, id) => sum + slotCost(byId.get(id).film), 0);
+    if (spent + cost > budget) continue;
+
+    for (const id of closure) {
+      selected.push(byId.get(id));
+      chosen.add(id);
+      satisfied.add(id);
+      spent += slotCost(byId.get(id).film);
+    }
+    const original = byId.get(entry.film.id);
+    selected.push(original);
+    chosen.add(entry.film.id);
+    satisfied.add(entry.film.id);
+    spent += slotCost(entry.film);
   }
 
   while (spent < budget) {

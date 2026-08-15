@@ -27,6 +27,16 @@ import {
 
 const RUNS = 10000;
 
+// A spread of profiles wide enough to catch a rule that only holds in the easy cases: shortest and
+// longest depth, every mode, and both extremes of each taste axis.
+const GRID_SAMPLE = [
+  { depth: 0, mode: 0, confusion: 0, register: 0 },
+  { depth: 0, mode: 2, confusion: 2, register: 2 },
+  { depth: 1, mode: 1, confusion: 0, register: 2 },
+  { depth: 2, mode: 0, confusion: 2, register: 0 },
+  { depth: 3, mode: 1, confusion: 1, register: 1 },
+];
+
 /** Deterministic PRNG so a failure is reproducible from the seed alone. */
 function mulberry32(seed) {
   return function random() {
@@ -128,6 +138,41 @@ test('a cameo never reaches a path unless everything was asked for', async () =>
     everything.films.some((entry) => entry.film.id === 'the-rock'),
     'the completist path should still include the cameo',
   );
+});
+
+test('a must-see survives every taste answer, and no content exclusion', async () => {
+  const corpus = await loadCorpus();
+  const filmsById = new Map(corpus.films.map((film) => [film.id, film]));
+
+  for (const entity of corpus.entities) {
+    const musts = (entity.films ?? []).filter((pair) => pair.must_see).map((pair) => pair.film);
+    if (musts.length === 0) continue;
+
+    // "No matter what" means no matter what the QUIZ said. Sátántangó is seven hours at gateway 1
+    // and the runtime penalty would otherwise bury it; being essential is what keeps it in.
+    for (const answers of GRID_SAMPLE) {
+      const ids = buildPath(entity, filmsById, profileFromAnswers(answers)).films.map((e) => e.film.id);
+      for (const must of musts) {
+        assert.ok(
+          ids.includes(must),
+          `${entity.slug}: must-see "${must}" dropped for ${JSON.stringify(answers)}`,
+        );
+      }
+    }
+
+    // What it does not mean is overriding what someone asked not to see. That distinction is the
+    // whole reason the flag is safe to have.
+    for (const flag of CONTENT_FLAGS) {
+      const profile = { ...profileFromAnswers({ depth: 2, mode: 0, confusion: 1, register: 1 }), blocked: [flag] };
+      const result = buildPath(entity, filmsById, profile);
+      for (const entry of result.films) {
+        assert.ok(
+          entry.film.content[flag] !== true,
+          `${entity.slug}: "${entry.film.id}" returned despite excluding ${flag}`,
+        );
+      }
+    }
+  }
 });
 
 test('a studio path is not one director wearing a studio name', async () => {

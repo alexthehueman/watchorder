@@ -82,7 +82,7 @@ async function main() {
   const written = [];
   const paths = ['/'];
 
-  await writeFile(new URL('index.html', DIST), indexPage(corpus.entities, SITE), 'utf8');
+  await writeFile(new URL('index.html', DIST), indexPage(corpus.entities, filmsById, SITE), 'utf8');
   written.push('index.html');
 
   for (const entity of corpus.entities) {

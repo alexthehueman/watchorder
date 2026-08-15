@@ -13,6 +13,7 @@ blurb: The most committed actor alive, in whatever he happens to be standing in.
 films:
   - film: adaptation
     signature: 5
+    must_see: true
     showcase: 5
     role_size: lead
     register: comic
@@ -45,6 +46,7 @@ films:
 
   - film: leaving-las-vegas
     signature: 4
+    must_see: true
     showcase: 5
     role_size: lead
     register: restrained

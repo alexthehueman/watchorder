@@ -23,6 +23,12 @@ const CONTENT_BOOLEANS = ['sexual_violence', 'animal_harm', 'child_harm', 'suici
 const CONTENT_SEVERITIES = ['violence', 'sex'];
 const ENTITY_KINDS = ['director', 'actor', 'studio'];
 const MEDIA = ['film', 'series'];
+// The shortest non-completist depth the quiz offers. A must-see is pinned "no matter what", and
+// the engine reserves one slot of the budget for the algorithm rather than letting pins consume
+// it entirely — so an entity declaring more must-sees than this can hold, minus that reservation,
+// would silently break its own promise the first time someone asked for a short path. Caught here
+// rather than discovered empirically, the way the original three-per-entity tagging was.
+const MIN_DEPTH = 3;
 
 // Actor-only relationship fields.
 //
@@ -208,6 +214,18 @@ export function validateCorpus(corpus) {
       }
       if (!pair.note) warnings.push(`${where}: ${pair.film} — no note; the film card will be bare`);
 
+      if (pair.must_see !== undefined && typeof pair.must_see !== 'boolean') {
+        errors.push(`${where}: ${pair.film} — must_see must be true or false`);
+      }
+      // A must-see that can never open is fine — plenty of essential films are terrible
+      // introductions — but a must-see nobody should watch is a contradiction in the tagging.
+      if (pair.must_see && pair.signature <= 1) {
+        errors.push(
+          `${where}: ${pair.film} — marked must_see with signature ${pair.signature}; a film ` +
+            'the entity is only incidentally attached to cannot also be essential to them',
+        );
+      }
+
       // For a director, `signature` means "exemplifies their style" and one number is enough. For
       // an actor it would be doing two jobs at once: persona ("is this the De Niro people mean")
       // and showcase ("does this show what they can do"). Taxi Driver is both; Silver Linings is
@@ -268,6 +286,15 @@ export function validateCorpus(corpus) {
     // Without a legal opener there is no path to build at any depth, for any profile.
     if (entityFilms.length > 0 && !entityFilms.some((pair) => pair.gateway > 0)) {
       errors.push(`${where} — every film has gateway 0, so no path can ever open`);
+    }
+
+    const mustSeeCount = entityFilms.filter((pair) => pair.must_see).length;
+    if (mustSeeCount > MIN_DEPTH - 1) {
+      errors.push(
+        `${where} — ${mustSeeCount} films marked must_see, but a depth-${MIN_DEPTH} request ` +
+          `only ever guarantees ${MIN_DEPTH - 1} of them a slot; the "no matter what" promise ` +
+          'would be broken for whichever one loses the tie. Mark fewer',
+      );
     }
 
     const prereqs = entity.prereqs ?? [];

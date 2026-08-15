@@ -31,7 +31,7 @@ async function render(site) {
   }));
   return {
     entity: entityPage(entity, filmsById, housePath, site),
-    index: indexPage(corpus.entities, site),
+    index: indexPage(corpus.entities, filmsById, site),
     sitemap: sitemap(['/', '/director/david-lynch/'], site),
   };
 }
@@ -87,4 +87,55 @@ test('corpus text is escaped, not interpolated raw', async () => {
   for (const title of titles) {
     assert.ok(!/["'<>&]/.test(title), `raw markup character in rendered title: ${title}`);
   }
+});
+
+test('the index page separates directors, actors and studios into their own sections', async () => {
+  const corpus = await loadCorpus();
+  const filmsById = new Map(corpus.films.map((film) => [film.id, film]));
+  const html = indexPage(corpus.entities, filmsById, { base: '', origin: ORIGIN });
+
+  // One heading and one <ul class="roster"> per kind present in the corpus — not one flat list
+  // with everyone in it, which is what this replaced.
+  for (const kind of new Set(corpus.entities.map((entity) => entity.kind))) {
+    assert.ok(html.includes(`data-kind="${kind}"`), `no section for kind "${kind}"`);
+  }
+  const rosterCount = (html.match(/<ul class="roster">/g) ?? []).length;
+  const kindCount = new Set(corpus.entities.map((entity) => entity.kind)).size;
+  assert.equal(rosterCount, kindCount, 'expected one roster list per distinct entity kind');
+
+  // Every entity appears exactly once, in its own kind's section rather than scattered or
+  // duplicated across sections.
+  for (const entity of corpus.entities) {
+    const occurrences = html.split(`data-name="${entity.name.toLowerCase()}"`).length - 1;
+    assert.equal(occurrences, 1, `${entity.slug} appears ${occurrences} times, expected exactly 1`);
+  }
+});
+
+test('the search payload covers every entity and every entity-film relationship', async () => {
+  const corpus = await loadCorpus();
+  const filmsById = new Map(corpus.films.map((film) => [film.id, film]));
+  const html = indexPage(corpus.entities, filmsById, { base: '', origin: ORIGIN });
+
+  const match = html.match(/<script type="application\/json" id="search-data">([\s\S]*?)<\/script>/);
+  assert.ok(match, 'no search-data payload found on the index page');
+  const payload = JSON.parse(match[1]);
+
+  assert.equal(payload.entities.length, corpus.entities.length);
+
+  // One search row per (film, entity) pair — this is what lets a shared film like Wild at Heart
+  // surface once under David Lynch and once under Nicolas Cage rather than only the first owner
+  // found, or being deduplicated away entirely.
+  const expectedRows = corpus.entities.reduce((sum, entity) => sum + (entity.films ?? []).length, 0);
+  assert.equal(payload.films.length, expectedRows);
+
+  const wildAtHeart = payload.films.filter((row) => row.title === 'Wild at Heart');
+  assert.equal(wildAtHeart.length, 2, 'Wild at Heart should appear once per entity that lists it');
+  assert.deepEqual(
+    new Set(wildAtHeart.map((row) => row.entity)),
+    new Set(['David Lynch', 'Nicolas Cage']),
+  );
+
+  // The payload survives the </script>-escaping round trip and still parses back to the real
+  // corpus text on the way out.
+  assert.ok(payload.entities.some((entity) => entity.name === 'David Lynch'));
 });

@@ -6,11 +6,13 @@ blurb: The body is the horror, and he is unsentimental about where that leads.
 films:
   - film: videodrome
     signature: 5
+    must_see: true
     gateway: 3
     note: The thesis film. Television, flesh and paranoia collapse into one another.
 
   - film: the-fly
     signature: 5
+    must_see: true
     gateway: 5      # the most legible film he ever made, and the most upsetting
     note: A love story about decay, told plainly enough that it has nowhere to hide.
 
