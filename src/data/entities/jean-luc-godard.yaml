@@ -1,0 +1,81 @@
+slug: jean-luc-godard
+kind: director
+name: Jean-Luc Godard
+blurb: Jump cuts as a new grammar, and fifty years of taking the grammar further than anyone asked for.
+
+films:
+  - film: breathless
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A petty criminal and the American girlfriend who eventually gives him up. Jump cuts as a whole new grammar.
+
+  - film: contempt
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A marriage disintegrates over the course of one film shoot, and neither party says the real reason why.
+
+  - film: pierrot-le-fou
+    signature: 5
+    gateway: 3
+    note: A doomed couple's crime spree across the south of France, narrated in fragments that keep interrupting themselves.
+
+  - film: vivre-sa-vie
+    signature: 5
+    gateway: 3
+    note: A woman's drift into prostitution, told in twelve distanced, almost clinical tableaux.
+
+  - film: weekend
+    signature: 4
+    gateway: 1
+    note: A bourgeois country drive collapses into a nationwide apocalypse, then cannibalism. A title card literally announces the end of cinema.
+
+  - film: alphaville
+    signature: 4
+    gateway: 2
+    note: Film noir relocated to a computer-run dystopian city, played with a completely straight face.
+
+  - film: band-of-outsiders
+    signature: 4
+    gateway: 5
+    note: Three friends rob a house badly, dance the Madison in a café, and race through the Louvre for no reason at all.
+
+  - film: two-or-three-things-i-know-about-her
+    signature: 5
+    gateway: 2
+    note: Half narrative, half essay, about a Parisian housewife and the city quietly consuming her.
+
+  - film: masculin-feminin
+    signature: 3
+    gateway: 3
+    note: Young Parisians navigating sex, politics and consumer culture, interviewed almost as often as they're filmed.
+
+  - film: la-chinoise
+    signature: 3
+    gateway: 2
+    note: A student Maoist cell rehearsing revolution in an apartment, months before 1968 made it look prophetic.
+
+  - film: a-woman-is-a-woman
+    signature: 3
+    gateway: 4
+    note: A musical that keeps refusing to actually become one. His brightest, most playful film.
+
+  - film: goodbye-to-language
+    signature: 2
+    gateway: 0      # shot in 3D in his eighties; never a defensible way to meet him
+    note: About as narratively coherent as "shot in 3D in his eighties" sounds.
+
+curated:
+  curator: house
+  rationale: The film that started it, then the run that kept pushing past what it started.
+  order:
+    - breathless
+    - contempt
+    - pierrot-le-fou
+    - band-of-outsiders
+    - vivre-sa-vie
+    - alphaville
+    - masculin-feminin
+    - two-or-three-things-i-know-about-her
+    - weekend

@@ -1,0 +1,123 @@
+# Films for Stanley Kubrick. Scales and anchors are in README.md ("The anchor rubric") — The
+# Shining is one of the named anchor films for both opacity (3) and stillness (3). It already
+# existed in the corpus, tagged for Jack Nicholson with those exact anchor values, and is reused
+# rather than redefined here — the same free-overlap pattern as the rest of this batch.
+
+- id: killers-kiss
+  tmdb_id: null
+  title: Killer's Kiss
+  year: 1955
+  runtime: 67
+  director: Stanley Kubrick
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-killing
+  tmdb_id: null
+  title: The Killing
+  year: 1956
+  runtime: 85
+  director: Stanley Kubrick
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.80 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: paths-of-glory
+  tmdb_id: null
+  title: Paths of Glory
+  year: 1957
+  runtime: 88
+  director: Stanley Kubrick
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 5    # soldiers court-martialed for a battle their own commanders made unwinnable, and no one is saved
+    humor: 1
+    acclaim: 0.90
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: spartacus
+  tmdb_id: null
+  title: Spartacus
+  year: 1960
+  runtime: 197
+  director: Stanley Kubrick
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 2, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: lolita
+  tmdb_id: null
+  title: Lolita
+  year: 1962
+  runtime: 153
+  director: Stanley Kubrick
+  tags:
+    opacity: 2    # as elliptical as 1962 censorship allowed, though nothing about the subject is left unclear
+    stillness: 2
+    bleakness: 4
+    humor: 2
+    acclaim: 0.78
+  content: { sexual_violence: true, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 1 }
+
+- id: dr-strangelove
+  tmdb_id: null
+  title: Dr. Strangelove
+  year: 1964
+  runtime: 95
+  director: Stanley Kubrick
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 4, acclaim: 0.93 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: 2001-a-space-odyssey
+  tmdb_id: null
+  title: '2001: A Space Odyssey'
+  year: 1968
+  runtime: 149
+  director: Stanley Kubrick
+  tags: { opacity: 4, stillness: 4, bleakness: 3, humor: 1, acclaim: 0.95 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: a-clockwork-orange
+  tmdb_id: null
+  title: A Clockwork Orange
+  year: 1971
+  runtime: 136
+  director: Stanley Kubrick
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 5    # a "cure" for violence that never once asks whether it counts as reform
+    humor: 2
+    acclaim: 0.90
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 2 }
+
+- id: barry-lyndon
+  tmdb_id: null
+  title: Barry Lyndon
+  year: 1975
+  runtime: 184
+  director: Stanley Kubrick
+  tags: { opacity: 1, stillness: 4, bleakness: 4, humor: 2, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: full-metal-jacket
+  tmdb_id: null
+  title: Full Metal Jacket
+  year: 1987
+  runtime: 116
+  director: Stanley Kubrick
+  tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 2, acclaim: 0.88 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 3, sex: 0 }
+
+- id: eyes-wide-shut
+  tmdb_id: null
+  title: Eyes Wide Shut
+  year: 1999
+  runtime: 159
+  director: Stanley Kubrick
+  tags:
+    opacity: 3    # structured as a fugue-state journey that never confirms what was actually real
+    stillness: 3
+    bleakness: 3
+    humor: 1
+    acclaim: 0.75
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 3 }

@@ -1,0 +1,39 @@
+# New films for Ingmar Bergman. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Eleven of these fourteen films already existed in the corpus — tagged for Liv Ullmann, Max von
+# Sydow and Ingrid Bergman, his three most important actors, all already full entities here. Only
+# the three below are new, added because everything already tagged clusters in the 1957-1978
+# window and a filmography missing both faith-trilogy bookends and his final epic is not the whole
+# filmography.
+
+- id: winter-light
+  tmdb_id: null
+  title: Winter Light
+  year: 1963
+  runtime: 81
+  director: Ingmar Bergman
+  tags: { opacity: 1, stillness: 4, bleakness: 4, humor: 2, acclaim: 0.82 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 0 }
+
+- id: the-silence
+  tmdb_id: null
+  title: The Silence
+  year: 1963
+  runtime: 96
+  director: Ingmar Bergman
+  tags:
+    opacity: 3    # almost no exposition, in a hotel whose language the sisters cannot read either
+    stillness: 4
+    bleakness: 4
+    humor: 2
+    acclaim: 0.80
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+
+- id: fanny-and-alexander
+  tmdb_id: null
+  title: Fanny and Alexander
+  year: 1982
+  runtime: 188
+  director: Ingmar Bergman
+  tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 2, acclaim: 0.92 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }

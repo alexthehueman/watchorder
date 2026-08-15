@@ -1,0 +1,81 @@
+slug: federico-fellini
+kind: director
+name: Federico Fellini
+blurb: Roman excess, small-town nostalgia, and a camera that treats a parade as the natural unit of scene.
+
+films:
+  - film: la-dolce-vita
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A gossip journalist drifts through a week of Roman excess, and the film never quite decides whether to judge him for it.
+
+  - film: 8-and-a-half
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: A director with nothing left to say, staging an entire film about not being able to make one.
+
+  - film: la-strada
+    signature: 5
+    gateway: 4
+    note: A strongman drags a childlike woman from town to town, and the film does not let him off for it.
+
+  - film: amarcord
+    signature: 5
+    gateway: 5
+    note: A small coastal town's whole year of adolescence, nostalgia, and one enormous ocean liner passing offshore.
+
+  - film: nights-of-cabiria
+    signature: 4
+    gateway: 4
+    note: A sex worker betrayed again and again, and somehow the final shot still finds a flicker of resilience.
+
+  - film: fellini-satyricon
+    signature: 4
+    gateway: 1
+    note: Ancient Rome staged as a fever dream with almost no conventional plot left in it.
+
+  - film: roma
+    signature: 4
+    gateway: 3
+    note: Less a film about the city than a memory of one, assembled out of vignettes rather than a story.
+
+  - film: i-vitelloni
+    signature: 3
+    gateway: 4
+    note: Five aimless young men in a small seaside town, waiting for lives that keep not arriving.
+
+  - film: juliet-of-the-spirits
+    signature: 3
+    gateway: 2
+    note: A neglected wife's inner life staged as full-colour fantasy, spirits and all.
+
+  - film: fellinis-casanova
+    signature: 3
+    gateway: 2
+    note: The great seducer restaged as hollow and mechanical — the least erotic film ever made about him.
+
+  - film: ginger-and-fred
+    signature: 2
+    gateway: 4
+    note: Two ageing dancers reunited for a tacky television special, decades past the act's expiration date.
+
+  - film: city-of-women
+    signature: 2
+    gateway: 2
+    note: A man's train-compartment fantasy spirals into an entire dreamscape hostile to him specifically.
+
+curated:
+  curator: house
+  rationale: The two films everyone already means by "Fellini," then the range around them.
+  order:
+    - la-dolce-vita
+    - 8-and-a-half
+    - la-strada
+    - amarcord
+    - nights-of-cabiria
+    - i-vitelloni
+    - roma
+    - juliet-of-the-spirits
+    - fellini-satyricon

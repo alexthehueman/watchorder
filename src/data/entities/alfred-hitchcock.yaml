@@ -1,0 +1,93 @@
+# Notorious already existed in the corpus, tagged for Ingrid Bergman — everything else is new.
+
+slug: alfred-hitchcock
+kind: director
+name: Alfred Hitchcock
+blurb: The wrong man, the woman rebuilt from memory, and fifty years of making an audience complicit.
+
+films:
+  - film: vertigo
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A detective falls for a woman built entirely out of someone else's memory, then tries to rebuild her a third time.
+
+  - film: psycho
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: Killed its lead actress forty minutes in, and audiences have never quite recovered from being told that was allowed.
+
+  - film: rear-window
+    signature: 5
+    gateway: 5
+    note: A photographer with a broken leg, binoculars, and increasingly good reasons to think he witnessed a murder.
+
+  - film: north-by-northwest
+    signature: 5
+    gateway: 5
+    note: An advertising man mistaken for a spy who does not exist, chased across the entire country for it.
+
+  - film: notorious
+    signature: 4
+    gateway: 3
+    note: A spy sent to seduce a Nazi, trusted to carry almost every scene in near silence.
+
+  - film: rebecca
+    signature: 4
+    gateway: 3
+    note: A second wife who can never quite compete with a first one who is already dead.
+
+  - film: the-birds
+    signature: 4
+    gateway: 3
+    note: No cause is ever given for the attacks, and the film is more frightening for refusing one.
+
+  - film: strangers-on-a-train
+    signature: 4
+    gateway: 4
+    note: Swap murders with a stranger and neither is implicated — a deal made in one carriage, honoured by only one of them.
+
+  - film: shadow-of-a-doubt
+    signature: 3
+    gateway: 3
+    note: A serial killer hides inside a loving small-town family, and one niece slowly works out which uncle she has.
+
+  - film: to-catch-a-thief
+    signature: 3
+    gateway: 4
+    note: A retired jewel thief courts suspicion and a rich widow's daughter on the Riviera, in roughly equal measure.
+
+  - film: the-39-steps
+    signature: 3
+    gateway: 4
+    note: A man on the run from the police and a spy ring, handcuffed to a woman who has every reason to turn him in.
+
+  - film: the-lady-vanishes
+    signature: 3
+    gateway: 4
+    note: An old woman vanishes from a moving train, and every other passenger insists she was never there.
+
+  - film: marnie
+    signature: 3
+    gateway: 1
+    note: A compulsive thief marries the man who caught her, and the marriage becomes its own kind of trap.
+
+  - film: frenzy
+    signature: 2
+    gateway: 0      # his most explicit film by a wide margin; not a defensible way to meet him
+    note: Made in London after two decades in Hollywood, with none of the restraint that period is known for.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the decades of range around them.
+  order:
+    - vertigo
+    - psycho
+    - rear-window
+    - north-by-northwest
+    - notorious
+    - rebecca
+    - strangers-on-a-train
+    - the-birds
+    - the-39-steps

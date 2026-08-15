@@ -1,0 +1,95 @@
+# Twelve of these fourteen films already existed in the corpus, tagged for Toshiro Mifune and Toho
+# — the same free-overlap pattern the actor and studio batches established. Only Kagemusha and Ran
+# are new; see the note in src/data/films/kurosawa.yaml for why.
+
+slug: akira-kurosawa
+kind: director
+name: Akira Kurosawa
+blurb: Six months of shooting for one battle, and a filmography every genre since has borrowed from.
+
+films:
+  - film: seven-samurai
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: The birth of the ensemble mission movie. Every genre since has borrowed its structure.
+
+  - film: rashomon
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: Four witnesses, four incompatible truths, and a title that became shorthand for the idea itself.
+
+  - film: ikiru
+    signature: 5
+    gateway: 3
+    note: A bureaucrat given six months to live spends them building one small park. The gentlest thing he ever made.
+
+  - film: ran
+    signature: 5
+    gateway: 2
+    note: Lear restaged as a Sengoku-era civil war, in colour, and considerably more brutal than the play.
+
+  - film: yojimbo
+    signature: 4
+    gateway: 5
+    note: A masterless samurai plays two gangs against each other for sport and profit.
+
+  - film: throne-of-blood
+    signature: 4
+    gateway: 2
+    note: Macbeth relocated to feudal Japan, shot in real fog, with real arrows in the final scene.
+
+  - film: high-and-low
+    signature: 4
+    gateway: 3
+    note: A ransom decision plays out almost entirely in one room, for nearly an hour, before the film moves at all.
+
+  - film: red-beard
+    signature: 4
+    gateway: 2
+    note: His last film with Mifune, and the gentlest either of them ever made.
+
+  - film: kagemusha
+    signature: 4
+    gateway: 2
+    note: A thief installed as a dead warlord's double, made to carry a war he never chose.
+
+  - film: the-hidden-fortress
+    signature: 3
+    gateway: 5
+    note: Two bickering peasants narrate a princess's escape — the film Lucas took Star Wars's structure from.
+
+  - film: sanjuro
+    signature: 3
+    gateway: 4
+    note: Yojimbo again, funnier, with the single most abrupt sword fight in his filmography.
+
+  - film: the-bad-sleep-well
+    signature: 3
+    gateway: 2
+    note: Corporate corruption restaged as Hamlet, in a suit instead of a doublet.
+
+  - film: drunken-angel
+    signature: 3
+    gateway: 3
+    note: The first film with Mifune, and the one where the partnership's whole dynamic first clicks.
+
+  - film: i-live-in-fear
+    signature: 2
+    gateway: 1      # a thirty-five-year-old Mifune playing seventy, terrified of the bomb; nobody's first Kurosawa
+    note: A businessman convinced the bomb is coming, certain enough to burn down his own foundry to prove it.
+
+curated:
+  curator: house
+  rationale: The two the world already knows him for, then the range around them.
+  order:
+    - seven-samurai
+    - rashomon
+    - ikiru
+    - yojimbo
+    - high-and-low
+    - ran
+    - throne-of-blood
+    - the-hidden-fortress
+    - red-beard

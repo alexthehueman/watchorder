@@ -1,0 +1,122 @@
+# Films for Orson Welles. Scales and anchors are in README.md ("The anchor rubric"). Eleven films,
+# not fourteen — a fact about a career defined by funding fights and studio interference at least
+# as much as by the work itself, not a shorter tagging pass.
+
+- id: citizen-kane
+  tmdb_id: null
+  title: Citizen Kane
+  year: 1941
+  runtime: 119
+  director: Orson Welles
+  tags:
+    opacity: 2    # a fragmented flashback structure built entirely around one unexplained dying word
+    stillness: 2
+    bleakness: 4
+    humor: 1
+    acclaim: 0.98
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-magnificent-ambersons
+  tmdb_id: null
+  title: The Magnificent Ambersons
+  year: 1942
+  runtime: 88
+  director: Orson Welles
+  tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-lady-from-shanghai
+  tmdb_id: null
+  title: The Lady from Shanghai
+  year: 1947
+  runtime: 87
+  director: Orson Welles
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.80 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: macbeth-1948
+  tmdb_id: null
+  title: Macbeth
+  year: 1948
+  runtime: 107
+  director: Orson Welles
+  tags: { opacity: 2, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: othello-1951
+  tmdb_id: null
+  title: Othello
+  year: 1951
+  runtime: 93
+  director: Orson Welles
+  tags: { opacity: 2, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.80 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 0 }
+
+- id: mr-arkadin
+  tmdb_id: null
+  title: Mr. Arkadin
+  year: 1955
+  runtime: 99
+  director: Orson Welles
+  tags:
+    opacity: 3    # a man investigates his own employer's hidden past, buried nearly as deep as its subject
+    stillness: 2
+    bleakness: 3
+    humor: 1
+    acclaim: 0.65
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: touch-of-evil
+  tmdb_id: null
+  title: Touch of Evil
+  year: 1958
+  runtime: 111
+  director: Orson Welles
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.90 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-trial
+  tmdb_id: null
+  title: The Trial
+  year: 1962
+  runtime: 119
+  director: Orson Welles
+  tags:
+    opacity: 3    # Kafka's nightmare logic, staged as pure bureaucratic labyrinth
+    stillness: 2
+    bleakness: 5    # arrested, tried and executed for a crime the film never names
+    humor: 2
+    acclaim: 0.78
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: chimes-at-midnight
+  tmdb_id: null
+  title: Chimes at Midnight
+  year: 1965
+  runtime: 115
+  director: Orson Welles
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 3, acclaim: 0.90 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: f-for-fake
+  tmdb_id: null
+  title: F for Fake
+  year: 1973
+  runtime: 89
+  director: Orson Welles
+  tags: { opacity: 2, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-other-side-of-the-wind
+  tmdb_id: null
+  title: The Other Side of the Wind
+  year: 2018
+  runtime: 122
+  director: Orson Welles
+  tags:
+    opacity: 3    # a film-within-a-film, assembled decades later from his own unfinished footage
+    stillness: 2
+    bleakness: 3
+    humor: 2
+    acclaim: 0.68
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }

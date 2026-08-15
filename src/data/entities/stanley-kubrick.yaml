@@ -1,0 +1,81 @@
+slug: stanley-kubrick
+kind: director
+name: Stanley Kubrick
+blurb: Twelve films across four decades, and barely two of them share a genre.
+
+films:
+  - film: 2001-a-space-odyssey
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: Four million years of evolution in one match cut, then forty minutes with almost no dialogue at all.
+
+  - film: the-shining
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A family isolated in an empty hotel for a winter, and the hotel is the one doing the isolating.
+
+  - film: dr-strangelove
+    signature: 5
+    gateway: 4
+    note: Nuclear annihilation played entirely as farce, and somehow more unsettling for the laughs.
+
+  - film: a-clockwork-orange
+    signature: 5
+    gateway: 2
+    note: A teenage sociopath "cured" of violence by a state that never once asks whether that counts as reform.
+
+  - film: full-metal-jacket
+    signature: 4
+    gateway: 3
+    note: Boot camp breaks a recruit long before Vietnam does, and the film never really recovers from that either.
+
+  - film: paths-of-glory
+    signature: 4
+    gateway: 3
+    note: Soldiers court-martialed for a battle their own commanders made unwinnable.
+
+  - film: barry-lyndon
+    signature: 4
+    gateway: 1
+    note: An Irish adventurer's entire rise and fall, lit wherever possible by candlelight alone.
+
+  - film: eyes-wide-shut
+    signature: 4
+    gateway: 2
+    note: A married doctor drifts through one long night of possibility that never quite becomes anything, on purpose.
+
+  - film: lolita
+    signature: 3
+    gateway: 1
+    note: As much of the novel's horror as 1962 would allow onscreen, which turns out to still be quite a lot.
+
+  - film: spartacus
+    signature: 4
+    gateway: 4
+    note: A slave revolt crushed by Rome, and six thousand crucifixions used as the answer to one question.
+
+  - film: the-killing
+    signature: 4
+    gateway: 4
+    note: A racetrack heist told out of order, undone in the end by a small dog and a smaller suitcase latch.
+
+  - film: killers-kiss
+    signature: 3
+    gateway: 3
+    note: A boxer and a dance-hall girl, shot fast and cheap, with the ending already visible from the first reel.
+
+curated:
+  curator: house
+  rationale: The two films that made the reputation, then the decades of range around them.
+  order:
+    - the-shining
+    - 2001-a-space-odyssey
+    - dr-strangelove
+    - a-clockwork-orange
+    - full-metal-jacket
+    - paths-of-glory
+    - barry-lyndon
+    - eyes-wide-shut
+    - spartacus

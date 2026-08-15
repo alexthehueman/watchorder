@@ -1,0 +1,79 @@
+# Eleven films, not fourteen — a fact about a career fought at every stage over funding and final
+# cut, not a shorter tagging pass. See the note in src/data/films/welles.yaml.
+
+slug: orson-welles
+kind: director
+name: Orson Welles
+blurb: A twenty-five-year-old, one dying word, and a reputation that never really escaped its own first film.
+
+films:
+  - film: citizen-kane
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A newspaper tycoon dies alone muttering one word, and the film spends two hours failing to fully explain it.
+
+  - film: touch-of-evil
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A corrupt cop framing suspects on the US-Mexico border, opened by one unbroken tracking shot still studied today.
+
+  - film: chimes-at-midnight
+    signature: 5
+    gateway: 2
+    note: Falstaff's whole tragedy — a surrogate father discarded the moment the prince he loved becomes king.
+
+  - film: the-trial
+    signature: 5
+    gateway: 1
+    note: A man arrested, tried and executed for a crime the film never names, staged as pure bureaucratic nightmare.
+
+  - film: the-magnificent-ambersons
+    signature: 4
+    gateway: 3
+    note: A wealthy family's decline, recut by the studio against his wishes, and still unmistakably his film underneath it.
+
+  - film: the-lady-from-shanghai
+    signature: 4
+    gateway: 3
+    note: A noir so knotted even its director admitted losing track of the plot, ending in a hall of mirrors that shatters the cast.
+
+  - film: macbeth-1948
+    signature: 4
+    gateway: 2
+    note: Shakespeare's bloodiest tragedy, shot fast and cheap on a Republic Pictures budget, and unflinching anyway.
+
+  - film: othello-1951
+    signature: 4
+    gateway: 2
+    note: Four years of stop-start location shooting, funded scene by scene out of his own acting fees.
+
+  - film: f-for-fake
+    signature: 3
+    gateway: 5
+    note: An essay about forgers, fakers, and his own reputation, that keeps admitting it might be lying to you.
+
+  - film: mr-arkadin
+    signature: 3
+    gateway: 2
+    note: A man hired to investigate his own employer's hidden past, in a mystery nearly as buried as its subject.
+
+  - film: the-other-side-of-the-wind
+    signature: 2
+    gateway: 0      # posthumously assembled from unfinished footage; not a fair way to meet him
+    note: Assembled decades after his death from his own unfinished footage — a film about a director's last, unfinished film.
+
+curated:
+  curator: house
+  rationale: The film everyone already knows, then the fights that followed it for the rest of his career.
+  order:
+    - citizen-kane
+    - touch-of-evil
+    - chimes-at-midnight
+    - the-magnificent-ambersons
+    - f-for-fake
+    - the-lady-from-shanghai
+    - othello-1951
+    - macbeth-1948
+    - the-trial

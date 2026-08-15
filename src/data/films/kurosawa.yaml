@@ -1,0 +1,30 @@
+# New films for Akira Kurosawa. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Almost this entire entity already existed in the corpus before this file — shared with Toshiro
+# Mifune and Toho, the same free-overlap pattern the actor and studio batches already established.
+# Only these two are new: his colour, late-career epics, added specifically because everything
+# already tagged tops out at 1965 and a filmography that stops at the black-and-white years is not
+# the whole filmography.
+
+- id: kagemusha
+  tmdb_id: null
+  title: Kagemusha
+  year: 1980
+  runtime: 180
+  director: Akira Kurosawa
+  tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: ran
+  tmdb_id: null
+  title: Ran
+  year: 1985
+  runtime: 162
+  director: Akira Kurosawa
+  tags:
+    opacity: 1
+    stillness: 3
+    bleakness: 5    # Lear rebuilt as a Sengoku civil war, and it ends with everyone gone
+    humor: 1
+    acclaim: 0.93
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }

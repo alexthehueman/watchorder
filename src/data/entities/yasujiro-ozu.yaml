@@ -1,0 +1,85 @@
+# Six of these twelve films already existed in the corpus, tagged for Setsuko Hara — the same
+# free-overlap pattern the actor and studio batches established. Only six are new; see the note in
+# src/data/films/ozu.yaml.
+
+slug: yasujiro-ozu
+kind: director
+name: Yasujirō Ozu
+blurb: Low camera, static frames, and a family disagreeing about a marriage, forty different ways.
+
+films:
+  - film: tokyo-story
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: Elderly parents visit their grown children in the city, and discover how little time anyone has for them.
+
+  - film: late-spring
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A daughter reluctant to leave her widowed father. The first of his late-period peaks.
+
+  - film: an-autumn-afternoon
+    signature: 5
+    gateway: 3
+    note: His final film — another daughter married off, another father left to drink alone. He knew exactly what he was repeating.
+
+  - film: early-summer
+    signature: 5
+    gateway: 4
+    note: A family gently pressures a daughter toward marriage. Warmer than it sounds.
+
+  - film: tokyo-twilight
+    signature: 4
+    gateway: 1
+    note: His bleakest film by a wide margin, carried without a single raised voice.
+
+  - film: late-autumn
+    signature: 4
+    gateway: 4
+    note: A widowed mother's friends conspire to marry off her daughter. His lightest register.
+
+  - film: floating-weeds
+    signature: 4
+    gateway: 3
+    note: A travelling kabuki troupe returns to a town hiding an old affair, and a son who doesn't know his own father.
+
+  - film: equinox-flower
+    signature: 4
+    gateway: 4
+    note: His first film in colour, and the first time he let a father be genuinely wrong.
+
+  - film: the-end-of-summer
+    signature: 3
+    gateway: 3
+    note: A family sake business, and an ageing patriarch nobody can quite control.
+
+  - film: good-morning
+    signature: 3
+    gateway: 5
+    note: Two boys refuse to speak until their parents buy a television. His funniest film, and openly proud of it.
+
+  - film: i-was-born-but
+    signature: 3
+    gateway: 4
+    note: Two boys discover their father grovels for a living, and childhood's whole hierarchy collapses at once.
+
+  - film: there-was-a-father
+    signature: 2
+    gateway: 2
+    note: A father and son who barely occupy the same room for a decade, and neither one says why it hurts.
+
+curated:
+  curator: house
+  rationale: The two films everyone means, then the range of a director who kept telling one story better each time.
+  order:
+    - tokyo-story
+    - late-spring
+    - an-autumn-afternoon
+    - early-summer
+    - good-morning
+    - floating-weeds
+    - late-autumn
+    - equinox-flower
+    - tokyo-twilight

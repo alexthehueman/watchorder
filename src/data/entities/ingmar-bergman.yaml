@@ -1,0 +1,98 @@
+# Eleven of these fourteen films already existed in the corpus, tagged for Liv Ullmann, Max von
+# Sydow and Ingrid Bergman — the same free-overlap pattern the actor and studio batches
+# established. Only three are new; see the note in src/data/films/bergman-ingmar.yaml.
+#
+# No relation to Ingrid Bergman despite the shared surname — a coincidence famous enough that
+# Autumn Sonata, his one film with her, gets a note about it below.
+
+slug: ingmar-bergman
+kind: director
+name: Ingmar Bergman
+blurb: A knight playing chess with Death, and five decades of asking what happens if no one answers.
+
+films:
+  - film: the-seventh-seal
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A knight plays chess with Death on a plague-emptied beach. The image everyone already knows, even secondhand.
+
+  - film: persona
+    signature: 5
+    must_see: true
+    gateway: 1
+    note: A nurse and a mute actress merge into something the film never fully explains.
+
+  - film: wild-strawberries
+    signature: 5
+    gateway: 4
+    note: An old professor confronts his own life on the day of an honorary degree, one dream at a time.
+
+  - film: fanny-and-alexander
+    signature: 5
+    gateway: 5
+    note: A family epic told through two children — the warmest, longest, and most forgiving thing he ever made.
+
+  - film: cries-and-whispers
+    signature: 5
+    gateway: 2
+    note: Three sisters, one of them dying, in rooms painted the colour of an open wound.
+
+  - film: scenes-from-a-marriage
+    signature: 4
+    gateway: 3
+    note: A marriage dismantled over six episodes, almost entirely through two people talking.
+
+  - film: autumn-sonata
+    signature: 4
+    gateway: 3
+    note: A concert pianist visits the daughter she abandoned, and neither one lets the other off easy. His one film with Ingrid Bergman, no relation.
+
+  - film: the-virgin-spring
+    signature: 4
+    gateway: 2
+    note: A father's revenge, played with a stillness that makes the violence worse.
+
+  - film: shame-1968
+    signature: 4
+    gateway: 2
+    note: A married couple's quiet life ends the moment a war reaches their island.
+
+  - film: through-a-glass-darkly
+    signature: 3
+    gateway: 2
+    note: A father watches his daughter's mind come apart, and cannot stop it. First of the faith trilogy.
+
+  - film: winter-light
+    signature: 3
+    gateway: 1
+    note: A pastor spends one grey Sunday discovering he no longer believes any of it.
+
+  - film: hour-of-the-wolf
+    signature: 3
+    gateway: 2
+    note: A pregnant wife watches her husband's hallucinations become impossible to dismiss.
+
+  - film: the-silence
+    signature: 4
+    gateway: 1
+    note: Two sisters and a boy, stranded in a city where nobody speaks their language. Last of the faith trilogy.
+
+  - film: face-to-face
+    signature: 3
+    gateway: 1
+    note: A psychiatrist's own breakdown, filmed with none of the professional distance she treats patients with.
+
+curated:
+  curator: house
+  rationale: The image everyone already knows, then the marriages and the families underneath it.
+  order:
+    - the-seventh-seal
+    - persona
+    - wild-strawberries
+    - fanny-and-alexander
+    - cries-and-whispers
+    - scenes-from-a-marriage
+    - autumn-sonata
+    - shame-1968
+    - through-a-glass-darkly

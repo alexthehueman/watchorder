@@ -1,0 +1,95 @@
+# Ten of these fourteen films already existed in the corpus, tagged for Robert De Niro, Daniel
+# Day-Lewis, Cate Blanchett and Max von Sydow — the same free-overlap pattern the actor and studio
+# batches established. Only four are new; see the note in src/data/films/scorsese.yaml.
+
+slug: martin-scorsese
+kind: director
+name: Martin Scorsese
+blurb: Catholic guilt, a needle drop always exactly on the beat, and violence that never plays as cool.
+
+films:
+  - film: goodfellas
+    signature: 5
+    must_see: true
+    gateway: 5
+    note: The most purely entertaining thing he ever made, and the violence is worse for how funny it is.
+
+  - film: taxi-driver
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A cabbie's loneliness curdles into something the film refuses to either endorse or fully condemn.
+
+  - film: the-departed
+    signature: 5
+    gateway: 5
+    note: Two moles, one in the mob and one in the police, and neither one sure how much longer the lie holds.
+
+  - film: raging-bull
+    signature: 5
+    gateway: 2
+    note: Sixty pounds gained on camera for a man he refuses to make sympathetic even once.
+
+  - film: casino
+    signature: 4
+    gateway: 3
+    note: An empire built on skimmed money, undone the moment loyalty stops being profitable.
+
+  - film: the-wolf-of-wall-street
+    signature: 4
+    gateway: 4
+    note: Excess played almost entirely as comedy, until the film quietly stops finding it funny and never says so.
+
+  - film: killers-of-the-flower-moon
+    signature: 4
+    gateway: 2
+    note: Osage families murdered for oil rights, by men who married into the families first.
+
+  - film: the-age-of-innocence
+    signature: 4
+    gateway: 2
+    note: A period drama about repression, from a director whose reputation is built on men who cannot repress anything.
+
+  - film: gangs-of-new-york
+    signature: 3
+    gateway: 3
+    note: 1863 Manhattan as a running gang war, with the Civil War treated as background noise.
+
+  - film: the-aviator
+    signature: 3
+    gateway: 4
+    note: Howard Hughes's ambition curdling into compulsion, shot with the same restless energy as his gangster films.
+
+  - film: cape-fear
+    signature: 3
+    gateway: 3
+    note: A tattooed ex-con out for revenge, playing every scene like a threat about to go off.
+
+  - film: shutter-island
+    signature: 3
+    gateway: 4
+    note: A federal marshal investigating an asylum, in a film that stops trusting his own account of events.
+
+  - film: the-king-of-comedy
+    signature: 2
+    gateway: 1
+    note: An aspiring comedian kidnaps his idol. Deeply uncomfortable rather than funny, on purpose.
+
+  - film: mean-streets
+    signature: 2
+    gateway: 3
+    note: The template for everything that follows — small-time debts, Catholic guilt, and a soundtrack doing half the work.
+
+curated:
+  curator: house
+  rationale: The two films that made the reputation, then the range across five decades.
+  order:
+    - goodfellas
+    - taxi-driver
+    - the-departed
+    - raging-bull
+    - casino
+    - mean-streets
+    - the-age-of-innocence
+    - the-aviator
+    - killers-of-the-flower-moon

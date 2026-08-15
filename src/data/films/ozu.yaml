@@ -1,0 +1,70 @@
+# New films for Yasujirō Ozu. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Six of these twelve films already existed in the corpus, tagged for Setsuko Hara, his definitive
+# collaborator and already a full entity here. Only the six below are new, chosen specifically to
+# add the range her filmography alone does not cover: a silent-era comedy, his funniest film, and
+# the swan song he made after she had already stopped acting.
+
+- id: i-was-born-but
+  tmdb_id: null
+  title: I Was Born, But...
+  year: 1932
+  runtime: 100
+  director: Yasujirō Ozu
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.82 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: good-morning
+  tmdb_id: null
+  title: Good Morning
+  year: 1959
+  runtime: 94
+  director: Yasujirō Ozu
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 4, acclaim: 0.80 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: equinox-flower
+  tmdb_id: null
+  title: Equinox Flower
+  year: 1958
+  runtime: 118
+  director: Yasujirō Ozu
+  tags: { opacity: 1, stillness: 3, bleakness: 2, humor: 2, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: floating-weeds
+  tmdb_id: null
+  title: Floating Weeds
+  year: 1959
+  runtime: 119
+  director: Yasujirō Ozu
+  tags:
+    opacity: 2    # an old affair and an unacknowledged son surface slowly, withheld rather than stated outright
+    stillness: 3
+    bleakness: 3
+    humor: 2
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: an-autumn-afternoon
+  tmdb_id: null
+  title: An Autumn Afternoon
+  year: 1962
+  runtime: 113
+  director: Yasujirō Ozu
+  tags:
+    opacity: 1
+    stillness: 4
+    bleakness: 3    # his own late-life loneliness, filmed with none of the self-pity that would justify
+    humor: 2
+    acclaim: 0.88
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: there-was-a-father
+  tmdb_id: null
+  title: There Was a Father
+  year: 1942
+  runtime: 94
+  director: Yasujirō Ozu
+  tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
