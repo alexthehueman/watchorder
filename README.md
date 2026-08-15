@@ -6,8 +6,8 @@ house pick.
 
 **Live: https://alexthehueman.github.io/watchorder**
 
-Status: **Phase 7 complete.** Fifteen directors and three actors, 204 films, every gate passing.
-Studios are Phase 8 and still need an era concept the schema does not have.
+Status: **All eight phases complete.** Fifteen directors, three actors and three studios — 241
+films, 21 entities, every gate passing.
 
 ## The bet
 
@@ -137,6 +137,27 @@ Three fields the director schema did not have:
 `range` replaces `chrono` for actors — release order is mostly the order other people hired them.
 The quiz keeps the answer *index* stable so shared URLs survive across entity kinds, and changes
 what the question says. A twelve-film Cage path comes back with 9% adjacent register repeats.
+
+### What studios needed: eras, and a cap that knows when to stop
+
+A studio's output across decades is not development. It is several different companies wearing one
+name — Cannon in 1980 and Cannon in 1987 shared a logo and almost nothing else — so `era` replaces
+`chrono`, and the path groups by regime with the transitions called out.
+
+The per-director quota is the other half. Miyazaki directed eight of the twelve Ghibli films here,
+and without a cap a Ghibli path is a Miyazaki path wearing a studio's name, silently dropping the
+man who made *Grave of the Fireflies*.
+
+But a flat cap of two was wrong in the other direction, and wrong invisibly. It is right for A24,
+which drew on eleven directors across thirteen films. Against Ghibli's two directors it returned
+**four films to someone who asked for six**, and four again to someone who asked for the entire
+catalogue — a promise quietly broken rather than a preference expressed.
+
+So the cap is the configured floor or an even share of the request, whichever is larger. With
+eleven directors it never binds above two; with two directors it opens exactly as far as the
+request needs. And the completist is exempt entirely, the same way they already are from the
+signature floor and the cameo rule: there is no selection being made when someone asks for all of
+it.
 
 ### A dominant opener can be the right answer
 

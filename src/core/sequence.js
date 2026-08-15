@@ -41,7 +41,7 @@ export function targetCurve(profile) {
  * @param {string} mode
  * @returns {Map<string, number>}
  */
-function modeKeys(entries, mode) {
+function modeKeys(entries, mode, eraOrder) {
   const keys = new Map();
   if (entries.length <= 1) {
     for (const entry of entries) keys.set(entry.film.id, 0);
@@ -53,6 +53,13 @@ function modeKeys(entries, mode) {
     // Lead the range tour with the strongest showcase, so the first thing seen is the performance
     // that best answers "what can they actually do".
     if (mode === 'range') return (b.pair.showcase ?? 3) - (a.pair.showcase ?? 3);
+    // Era order, then year within an era. Grouping by period is the point — a studio's story is
+    // told in regimes, and shuffling across them tells no story at all.
+    if (mode === 'era') {
+      const ea = eraOrder?.get(a.pair.era) ?? 0;
+      const eb = eraOrder?.get(b.pair.era) ?? 0;
+      return ea - eb || a.film.year - b.film.year;
+    }
     return 0;
   });
   sorted.forEach((entry, index) => keys.set(entry.film.id, index / (sorted.length - 1)));
@@ -77,6 +84,8 @@ const MODE_WEIGHTS = {
   // `range` is an actor mode and it is about contrast between neighbours rather than any fixed
   // column, so most of its work happens in the adjacency penalty below rather than in a sort key.
   range: { curve: 0.15, mode: 0.35 },
+  // Era leads almost absolutely, like chrono, for the same reason: the viewer named the axis.
+  era: { curve: 0.02, mode: 1.0 },
 };
 
 // How much a film is penalised in `range` mode for repeating the register of the film before it.
@@ -100,10 +109,10 @@ const REPEAT_REGISTER_PENALTY = 0.6;
  * @returns {Array<{film: object, pair: object}>}
  */
 export function sequenceFilms(entries, options) {
-  const { profile, prereqs, opener } = options;
+  const { profile, prereqs, opener, eraOrder } = options;
   const weights = MODE_WEIGHTS[profile.mode] ?? MODE_WEIGHTS.ramp;
   const curve = targetCurve(profile);
-  const keys = modeKeys(entries, profile.mode);
+  const keys = modeKeys(entries, profile.mode, eraOrder);
   const present = new Set(entries.map((entry) => entry.film.id));
 
   // Only edges whose prerequisite is actually in this path can constrain it.

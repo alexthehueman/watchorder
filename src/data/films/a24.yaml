@@ -1,0 +1,135 @@
+# A24. Scales and anchors are in README.md ("The anchor rubric").
+#
+# `director` is required on any film a studio references — it is what the per-director quota
+# counts. Without it A24 returns two Ari Aster films in six and calls it a studio path.
+#
+# Corpus note: A24 distributes far more than it produces, and the line between the two is the
+# genuinely hard part of tagging a studio. These are films the company is identified with rather
+# than everything it has ever had a credit on.
+
+- id: spring-breakers
+  tmdb_id: null
+  title: Spring Breakers
+  year: 2012
+  runtime: 94
+  director: Harmony Korine
+  tags: { opacity: 3, stillness: 3, bleakness: 4, humor: 3, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 3 }
+
+- id: under-the-skin
+  tmdb_id: null
+  title: Under the Skin
+  year: 2013
+  runtime: 108
+  director: Jonathan Glazer
+  tags: { opacity: 5, stillness: 5, bleakness: 5, humor: 1, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 2 }
+
+- id: ex-machina
+  tmdb_id: null
+  title: Ex Machina
+  year: 2014
+  runtime: 108
+  director: Alex Garland
+  tags: { opacity: 2, stillness: 3, bleakness: 4, humor: 2, acclaim: 0.82 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 2 }
+
+- id: the-witch
+  tmdb_id: null
+  title: The Witch
+  year: 2015
+  runtime: 92
+  director: Robert Eggers
+  tags: { opacity: 3, stillness: 4, bleakness: 5, humor: 1, acclaim: 0.80 }
+  content: { sexual_violence: false, animal_harm: true, child_harm: true, suicide: false, violence: 2, sex: 1 }
+
+- id: moonlight
+  tmdb_id: null
+  title: Moonlight
+  year: 2016
+  runtime: 111
+  director: Barry Jenkins
+  tags: { opacity: 1, stillness: 4, bleakness: 3, humor: 1, acclaim: 0.93 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 1 }
+
+- id: the-florida-project
+  tmdb_id: null
+  title: The Florida Project
+  year: 2017
+  runtime: 111
+  director: Sean Baker
+  tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 3, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 1 }
+
+- id: hereditary
+  tmdb_id: null
+  title: Hereditary
+  year: 2018
+  runtime: 127
+  director: Ari Aster
+  tags: { opacity: 3, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.82 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
+
+- id: eighth-grade
+  tmdb_id: null
+  title: Eighth Grade
+  year: 2018
+  runtime: 93
+  director: Bo Burnham
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.80 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: the-lighthouse
+  tmdb_id: null
+  title: The Lighthouse
+  year: 2019
+  runtime: 109
+  director: Robert Eggers
+  tags:
+    opacity: 4
+    stillness: 4
+    bleakness: 5
+    humor: 3    # two men and a seagull; it is much funnier than its reputation
+    acclaim: 0.80
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: uncut-gems
+  tmdb_id: null
+  title: Uncut Gems
+  year: 2019
+  runtime: 135
+  director: Josh and Benny Safdie
+  tags:
+    opacity: 1
+    stillness: 1    # a rubric anchor for 1; nothing in the corpus moves faster
+    bleakness: 4
+    humor: 2
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: midsommar
+  tmdb_id: null
+  title: Midsommar
+  year: 2019
+  runtime: 148
+  director: Ari Aster
+  tags: { opacity: 3, stillness: 4, bleakness: 5, humor: 3, acclaim: 0.75 }
+  content: { sexual_violence: true, animal_harm: true, child_harm: false, suicide: true, violence: 3, sex: 2 }
+
+- id: everything-everywhere-all-at-once
+  tmdb_id: null
+  title: Everything Everywhere All at Once
+  year: 2022
+  runtime: 139
+  director: Daniel Kwan and Daniel Scheinert
+  tags: { opacity: 3, stillness: 1, bleakness: 2, humor: 5, acclaim: 0.88 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 1 }
+
+- id: the-zone-of-interest
+  tmdb_id: null
+  title: The Zone of Interest
+  year: 2023
+  runtime: 105
+  director: Jonathan Glazer
+  tags: { opacity: 4, stillness: 5, bleakness: 5, humor: 1, acclaim: 0.88 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }

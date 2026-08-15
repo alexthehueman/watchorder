@@ -1,0 +1,100 @@
+slug: studio-ghibli
+kind: studio
+name: Studio Ghibli
+blurb: Two directors, forty years, and a refusal to make anything the cheap way.
+
+eras:
+  - id: founding
+    name: The founding years
+    from: 1986
+  - id: peak
+    name: The peak
+    from: 1997
+  - id: late
+    name: Late work
+    from: 2013
+
+films:
+  - film: spirited-away
+    era: peak
+    signature: 5
+    gateway: 5
+    note: The one everyone means. Also, genuinely, the best place to start.
+
+  - film: my-neighbor-totoro
+    era: founding
+    signature: 5
+    gateway: 5
+    note: Almost no plot and no villain at all. The studio's whole thesis in eighty-six minutes.
+
+  - film: princess-mononoke
+    era: peak
+    signature: 5
+    gateway: 4
+    note: Where the environmentalism stops being gentle and nobody is straightforwardly right.
+
+  - film: grave-of-the-fireflies
+    era: founding
+    signature: 5
+    gateway: 2      # extraordinary, and not something to hand someone unprepared
+    note: Takahata's, not Miyazaki's, and the hardest film the studio ever released.
+
+  - film: the-tale-of-the-princess-kaguya
+    era: late
+    signature: 5
+    gateway: 3
+    note: Drawn like a sketchbook left unfinished on purpose. Takahata's last, and his best.
+
+  - film: kikis-delivery-service
+    era: founding
+    signature: 4
+    gateway: 5
+    note: A film about losing your talent and waiting for it to come back. For children.
+
+  - film: porco-rosso
+    era: founding
+    signature: 4
+    gateway: 4
+    note: A pig flying a seaplane between the wars. The most purely charming thing here.
+
+  - film: only-yesterday
+    era: founding
+    signature: 4
+    gateway: 3
+    note: An adult woman remembering being ten. No fantasy at all, which was the risk.
+
+  - film: castle-in-the-sky
+    era: founding
+    signature: 4
+    gateway: 4
+    note: The first proper Ghibli film, and the template for a great deal that followed.
+
+  - film: howls-moving-castle
+    era: peak
+    signature: 4
+    gateway: 4
+    note: Structurally a mess after the first act, and beloved anyway. Rightly.
+
+  - film: the-boy-and-the-heron
+    era: late
+    signature: 4
+    gateway: 2
+    note: The late, strange, self-summarising one. It assumes you know the rest.
+
+  - film: pom-poko
+    era: founding
+    signature: 3
+    gateway: 2
+    note: Shape-shifting raccoons protesting a housing development. As odd as it sounds.
+
+curated:
+  curator: house
+  rationale: The famous two, then the ones Takahata made that nobody puts on the poster.
+  order:
+    - my-neighbor-totoro
+    - spirited-away
+    - kikis-delivery-service
+    - princess-mononoke
+    - only-yesterday
+    - grave-of-the-fireflies
+    - the-tale-of-the-princess-kaguya

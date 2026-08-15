@@ -1,0 +1,124 @@
+# Cannon Films. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The acclaim numbers here are genuinely low and should stay that way. Cannon is in the roster
+# because its story is extraordinary, not because the films are good, and a corpus that quietly
+# inflated them to justify the inclusion would be lying about the one thing acclaim measures.
+# Runaway Train is the exception and the exception is the point.
+
+- id: the-apple
+  tmdb_id: null
+  title: The Apple
+  year: 1980
+  runtime: 90
+  director: Menahem Golan
+  tags: { opacity: 2, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 2 }
+
+- id: death-wish-ii
+  tmdb_id: null
+  title: Death Wish II
+  year: 1982
+  runtime: 89
+  director: Michael Winner
+  tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.30 }
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 2 }
+
+- id: breakin
+  tmdb_id: null
+  title: Breakin'
+  year: 1984
+  runtime: 90
+  director: Joel Silberg
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: missing-in-action
+  tmdb_id: null
+  title: Missing in Action
+  year: 1984
+  runtime: 101
+  director: Joseph Zito
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.42 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+
+- id: ninja-iii-the-domination
+  tmdb_id: null
+  title: 'Ninja III: The Domination'
+  year: 1984
+  runtime: 92
+  director: Sam Firstenberg
+  tags: { opacity: 2, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: runaway-train
+  tmdb_id: null
+  title: Runaway Train
+  year: 1985
+  runtime: 111
+  director: Andrei Konchalovsky
+  tags:
+    opacity: 2
+    stillness: 2
+    bleakness: 5
+    humor: 2
+    acclaim: 0.80   # from a Kurosawa script, and it got two acting nominations. Genuinely good
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+
+- id: lifeforce
+  tmdb_id: null
+  title: Lifeforce
+  year: 1985
+  runtime: 116
+  director: Tobe Hooper
+  tags: { opacity: 3, stillness: 2, bleakness: 4, humor: 3, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 2 }
+
+- id: invasion-usa
+  tmdb_id: null
+  title: Invasion U.S.A.
+  year: 1985
+  runtime: 107
+  director: Joseph Zito
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 2, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
+
+- id: cobra
+  tmdb_id: null
+  title: Cobra
+  year: 1986
+  runtime: 87
+  director: George P. Cosmatos
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 2, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+
+- id: masters-of-the-universe
+  tmdb_id: null
+  title: Masters of the Universe
+  year: 1987
+  runtime: 106
+  director: Gary Goddard
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.42 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: tough-guys-dont-dance
+  tmdb_id: null
+  title: Tough Guys Don't Dance
+  year: 1987
+  runtime: 108
+  director: Norman Mailer
+  tags:
+    opacity: 3
+    stillness: 2
+    bleakness: 4
+    humor: 4    # not intentionally, mostly, and the "oh man, oh God" scene is immortal
+    acclaim: 0.40
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 2 }
+
+- id: kickboxer
+  tmdb_id: null
+  title: Kickboxer
+  year: 1989
+  runtime: 97
+  director: Mark DiSalle
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.48 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }

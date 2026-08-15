@@ -1,0 +1,108 @@
+slug: a24
+kind: studio
+name: A24
+blurb: A distributor with a house style, which was not supposed to be possible any more.
+
+# Declared in start-year order, because that order is the one the era mode sequences by.
+eras:
+  - id: acquisitions
+    name: The acquisition years
+    from: 2012
+  - id: prestige
+    name: After Moonlight
+    from: 2016
+  - id: scale
+    name: Working at scale
+    from: 2021
+
+films:
+  - film: moonlight
+    era: prestige
+    signature: 5
+    gateway: 5
+    note: The Best Picture win that turned a distributor into a brand.
+
+  - film: hereditary
+    era: prestige
+    signature: 5
+    gateway: 4
+    note: The horror arm arriving fully formed, and the reason half their catalogue exists.
+
+  - film: under-the-skin
+    era: acquisitions
+    signature: 5
+    gateway: 1      # an hour of near-silence in Glasgow; not the way in for anybody
+    note: The early bet that a distributor could carry something this uncommercial.
+
+  - film: the-witch
+    era: acquisitions
+    signature: 5
+    gateway: 3
+    note: Slow, researched, and marketed to an audience that wanted a jump scare.
+
+  - film: the-zone-of-interest
+    era: scale
+    signature: 5
+    gateway: 2
+    note: The Holocaust heard through a garden wall. Formally the boldest thing they have released.
+
+  - film: the-florida-project
+    era: prestige
+    signature: 4
+    gateway: 5
+    note: Motel kids outside Disney World. Warm, then not, in the last ninety seconds.
+
+  - film: everything-everywhere-all-at-once
+    era: scale
+    signature: 4
+    gateway: 5
+    note: The one that made the money. Sincere underneath all the noise.
+
+  - film: uncut-gems
+    era: prestige
+    signature: 4
+    gateway: 4
+    note: Two hours of escalating panic. Physically hard to sit through, deliberately.
+
+  - film: the-lighthouse
+    era: prestige
+    signature: 4
+    gateway: 3
+    note: Black and white, boxed aspect ratio, two men and a seagull. Much funnier than expected.
+
+  - film: ex-machina
+    era: acquisitions
+    signature: 4
+    gateway: 5
+    note: The most conventionally satisfying film on this list, and still unsettling.
+
+  - film: midsommar
+    era: prestige
+    signature: 4
+    gateway: 2
+    note: A break-up film wearing a folk horror costume. Far too long, on purpose.
+
+  - film: spring-breakers
+    era: acquisitions
+    signature: 3
+    gateway: 2
+    note: The first one anyone noticed. Neon, Britney, and a lot of bad faith readings.
+
+  - film: eighth-grade
+    era: prestige
+    signature: 3
+    gateway: 4
+    note: The small, kind one. Proof the brand was never only dread.
+
+curated:
+  curator: house
+  rationale: The prestige years first, then back to what they were buying before anyone noticed.
+  order:
+    - moonlight
+    - ex-machina
+    - hereditary
+    - the-florida-project
+    - the-witch
+    - uncut-gems
+    - under-the-skin
+    - the-zone-of-interest

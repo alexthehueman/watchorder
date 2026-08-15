@@ -41,7 +41,10 @@ const QUESTIONS = [
     // different question: chronology is artistic development for a director and mostly hiring
     // order for an actor, where what matters is how far the performances travel.
     options: ['Ease me in', 'Watch them develop', 'Best work first'],
-    byKind: { actor: ['Ease me in', 'Show me their range', 'Best work first'] },
+    byKind: {
+      actor: ['Ease me in', 'Show me their range', 'Best work first'],
+      studio: ['Ease me in', 'Trace the eras', 'Best work first'],
+    },
   },
   {
     name: 'confusion',

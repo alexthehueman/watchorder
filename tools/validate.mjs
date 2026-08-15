@@ -174,6 +174,22 @@ export function validateCorpus(corpus) {
     if (!entity.name) errors.push(`${where} — missing name`);
     if (!entity.blurb) warnings.push(`${where} — no blurb; the entity page will read thin`);
 
+    // Declared in order of start year, because that declared order IS the chronological order the
+    // era mode sequences by.
+    const eraIds = new Set((entity.eras ?? []).map((era) => era.id));
+    if (entity.kind === 'studio') {
+      if (eraIds.size === 0) errors.push(`${where} — a studio needs at least one era`);
+      const years = (entity.eras ?? []).map((era) => era.from);
+      for (let i = 1; i < years.length; i += 1) {
+        if (years[i] < years[i - 1]) {
+          errors.push(`${where} — eras must be declared in order of their start year`);
+          break;
+        }
+      }
+    } else if (entity.eras) {
+      errors.push(`${where} — eras apply to studios only`);
+    }
+
     const entityFilms = entity.films ?? [];
     const referenced = new Set();
     for (const pair of entityFilms) {
@@ -197,6 +213,26 @@ export function validateCorpus(corpus) {
       // and showcase ("does this show what they can do"). Taxi Driver is both; Silver Linings is
       // showcase and not persona. Collapsing them returns nothing but the famous roles, so
       // `signature` carries persona and `showcase` is stored separately.
+      // Studios need an era per film and a director on the film itself. The director is what the
+      // diversity quota counts, and without it a Ghibli path is eight Miyazaki films — which is
+      // a Miyazaki path wearing a studio's name.
+      if (entity.kind === 'studio') {
+        const film = filmsById.get(pair.film);
+        if (film && !film.director) {
+          errors.push(
+            `${where}: ${pair.film} — a studio's films need a director on the film, or the ` +
+              'per-director quota cannot be enforced',
+          );
+        }
+        if (!eraIds.has(pair.era)) {
+          errors.push(
+            `${where}: ${pair.film} — era "${pair.era}" is not declared in this entity's eras`,
+          );
+        }
+      } else if ('era' in pair) {
+        errors.push(`${where}: ${pair.film} — era applies to studios only`);
+      }
+
       if (entity.kind === 'actor') {
         if (!ROLE_SIZES.includes(pair.role_size)) {
           errors.push(

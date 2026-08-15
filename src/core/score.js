@@ -183,9 +183,14 @@ export function similarity(a, b, pairA, pairB) {
   for (const tag of TASTE_TAGS) sumSq += (a.tags[tag] - b.tags[tag]) ** 2;
   const tagSimilarity = 1 - Math.sqrt(sumSq) / 8; // 8 is the max distance over four 1-5 axes
 
-  if (!pairA?.register || !pairB?.register) return tagSimilarity;
-  const sameRegister = pairA.register === pairB.register ? 1 : 0;
-  return 0.5 * tagSimilarity + 0.5 * sameRegister;
+  // Whichever grouping the entity kind carries: performance register for an actor, era for a
+  // studio. Both exist for the same reason — two works can be far apart on every taste axis and
+  // still be the same thing from the entity's point of view, which is exactly what someone asking
+  // for range or for a studio's whole story does not want.
+  const groupA = pairA?.register ?? pairA?.era;
+  const groupB = pairB?.register ?? pairB?.era;
+  if (!groupA || !groupB) return tagSimilarity;
+  return 0.5 * tagSimilarity + 0.5 * (groupA === groupB ? 1 : 0);
 }
 
 /**

@@ -62,7 +62,7 @@ function compareCandidates(a, b) {
  * @returns {{selected: Array<{film: object, pair: object, fit: number}>, reason: string|null}}
  */
 export function selectFilms(candidates, options) {
-  const { budget, prereqs, seen, diversityDelta } = options;
+  const { budget, prereqs, seen, diversityDelta, quotas } = options;
   const byId = new Map(candidates.map((entry) => [entry.film.id, entry]));
 
   const selected = [];
@@ -84,6 +84,20 @@ export function selectFilms(candidates, options) {
     return entry.fit - diversityDelta * closest;
   }
 
+  /**
+   * Composition limits that are hard constraints rather than preferences. Only studios use one
+   * today: a Ghibli path with no cap is eight Miyazaki films, which is a Miyazaki path wearing a
+   * studio's name. Enforced during selection like everything else that can change membership.
+   */
+  function withinQuota(entry, pending = []) {
+    const limit = quotas?.perDirector;
+    if (!limit || !entry.film.director) return true;
+    const already = [...selected, ...pending].filter(
+      (other) => other.film.director === entry.film.director,
+    ).length;
+    return already < limit;
+  }
+
   /** Adding a film means adding everything it hard-requires, so cost is closure size. */
   function closureFor(entry) {
     const needed = hardClosure(entry.film.id, prereqs, new Set([...satisfied, ...chosen]));
@@ -99,8 +113,14 @@ export function selectFilms(candidates, options) {
 
     for (const entry of candidates) {
       if (chosen.has(entry.film.id)) continue;
+      if (!withinQuota(entry)) continue;
       const closure = closureFor(entry);
       if (closure === null) continue;
+      // A prerequisite pulled in alongside must respect the quota too, or the closure becomes a
+      // way around it.
+      if (closure.some((id, index) => !withinQuota(byId.get(id), closure.slice(0, index).map((prior) => byId.get(prior))))) {
+        continue;
+      }
       const cost =
         slotCost(entry.film) +
         closure.reduce((sum, id) => sum + slotCost(byId.get(id).film), 0);

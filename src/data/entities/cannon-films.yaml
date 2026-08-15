@@ -1,0 +1,105 @@
+# In the roster because the story is extraordinary, not because the films are good. The acclaim
+# numbers stay low and honest; inflating them to justify the inclusion would corrupt the one field
+# that is supposed to be data rather than taste.
+
+slug: cannon-films
+kind: studio
+name: Cannon Films
+blurb: Two cousins who bought a studio and tried to make every film at once.
+
+eras:
+  - id: exploitation
+    name: The exploitation years
+    from: 1979
+  - id: overreach
+    name: Reaching for respectability
+    from: 1985
+  - id: collapse
+    name: The collapse
+    from: 1987
+
+films:
+  - film: runaway-train
+    era: overreach
+    signature: 4      # not typical, and the best thing they ever put their name on
+    gateway: 5
+    note: From a Kurosawa screenplay, with two acting nominations. Genuinely excellent.
+
+  - film: lifeforce
+    era: overreach
+    signature: 5
+    gateway: 4
+    note: Space vampires in London, from the director of Texas Chain Saw. Enormous and deranged.
+
+  - film: the-apple
+    era: exploitation
+    signature: 5
+    gateway: 3
+    note: A biblical disco musical. Audiences threw the promotional soundtracks at the screen.
+
+  - film: ninja-iii-the-domination
+    era: exploitation
+    signature: 5
+    gateway: 4
+    note: A ninja possesses an aerobics instructor. Everything Cannon was, in ninety-two minutes.
+
+  - film: tough-guys-dont-dance
+    era: collapse
+    signature: 4
+    gateway: 3
+    note: Norman Mailer directing Norman Mailer. The "oh man, oh God" scene outlived the film.
+
+  - film: missing-in-action
+    era: exploitation
+    signature: 5
+    gateway: 3
+    note: Rushed into cinemas ahead of Rambo, which is the most Cannon thing imaginable.
+
+  - film: masters-of-the-universe
+    era: collapse
+    signature: 4
+    gateway: 3
+    note: The toy licence that helped bankrupt them. Frank Langella is inexplicably superb.
+
+  - film: cobra
+    era: overreach
+    signature: 4
+    gateway: 4
+    note: Stallone, scissors, and a body count. Cut to ribbons to avoid an X rating.
+
+  - film: invasion-usa
+    era: overreach
+    signature: 4
+    gateway: 3
+    note: Chuck Norris versus an invasion of America. The mall scene has to be seen.
+
+  - film: breakin
+    era: exploitation
+    signature: 4
+    gateway: 4
+    note: Shot in weeks to catch a trend, and the sequel came out the same year.
+
+  - film: kickboxer
+    era: collapse
+    signature: 4
+    gateway: 4
+    note: Van Damme, the dance scene, and the last thing they got properly right.
+
+  - film: death-wish-ii
+    era: exploitation
+    signature: 4
+    gateway: 0      # the studio's ugliest film, and there is no version of it as an introduction
+    note: The one that made the money and the one that is genuinely hard to defend.
+
+curated:
+  curator: house
+  rationale: Start with the good one, then find out how unusual that was.
+  order:
+    - runaway-train
+    - lifeforce
+    - ninja-iii-the-domination
+    - the-apple
+    - cobra
+    - masters-of-the-universe
+    - tough-guys-dont-dance
+    - kickboxer

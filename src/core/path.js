@@ -15,6 +15,32 @@ import { selectFilms } from './select.js';
 import { sequenceFilms, targetCurve } from './sequence.js';
 
 /**
+ * The per-director cap, scaled to how much diversity the catalogue actually contains.
+ *
+ * A flat cap of two is right for A24, which drew on eleven directors across thirteen films. It is
+ * wrong for Ghibli, where two people made everything: the same rule silently returns four films to
+ * someone who asked for six, and four to someone who asked for the entire catalogue. That is a
+ * promise quietly broken rather than a preference expressed.
+ *
+ * So the cap is the configured floor or an even share of the budget, whichever is larger. With
+ * eleven directors it never binds above two; with two directors it opens up exactly as far as the
+ * request requires and no further.
+ *
+ * @returns {{perDirector: number}|undefined}
+ */
+function effectiveQuotas(quotas, candidates, budget, wantsEverything) {
+  // The completist asked for the catalogue, so they get the catalogue. Same exemption the
+  // signature floor and the cameo rule already carry: every composition rule here shapes a
+  // selection, and there is no selection being made when someone asks for all of it.
+  if (wantsEverything) return undefined;
+  if (!quotas?.perDirector) return quotas;
+  const directors = new Set(candidates.map((entry) => entry.film.director).filter(Boolean));
+  if (directors.size === 0) return quotas;
+  const share = Math.ceil(budget / directors.size);
+  return { ...quotas, perDirector: Math.max(quotas.perDirector, share) };
+}
+
+/**
  * Content severity sliders are blocked at 3; the boolean triggers are blocked outright. The
  * booleans are the ones where a false negative harms a real person, so they are never soft.
  * @returns {string|null} the flag that blocks this film, or null
@@ -136,6 +162,7 @@ export function buildPath(entity, filmsById, rawProfile) {
     prereqs,
     seen,
     diversityDelta: kind.diversityDelta,
+    quotas: effectiveQuotas(kind.quotas, candidates, budget, wantsEverything),
   });
 
   if (selected.length === 0) {
@@ -150,10 +177,15 @@ export function buildPath(entity, filmsById, rawProfile) {
     .sort((a, b) => b.score - a.score || (a.entry.film.id < b.entry.film.id ? -1 : 1))[0];
 
   // P6 — sequence. Permutation only.
+  // Eras are declared in order of their start year, so their declared position is their
+  // chronological position.
+  const eraOrder = new Map((entity.eras ?? []).map((era, index) => [era.id, index]));
+
   const ordered = sequenceFilms(selected, {
     profile,
     prereqs,
     opener: opener ? opener.entry.film.id : null,
+    eraOrder,
   });
 
   // P7 — annotate.
@@ -206,6 +238,7 @@ function whyHere(entry, index, ordered, profile, curve, prereqs) {
     if (profile.mode === 'peak') return 'Placed first — the high point, taken head on.';
     if (profile.mode === 'chrono') return 'Where it starts.';
     if (profile.mode === 'range') return 'Placed first — the widest thing they do.';
+    if (profile.mode === 'era') return 'Where the house style starts.';
     // Generated copy never assumes a pronoun. The engine does not know one — entities carry a
     // name and nothing else — and guessing produces "the cleanest way into his work" on the
     // Agnès Varda page, which is how this was found.
@@ -220,6 +253,11 @@ function whyHere(entry, index, ordered, profile, curve, prereqs) {
     return null; // The year is on the card; repeating it in prose adds nothing.
   }
   if (profile.mode === 'peak') return null;
+
+  if (profile.mode === 'era') {
+    const previous = ordered[index - 1];
+    return previous && previous.pair.era !== entry.pair.era ? 'A different company by now.' : null;
+  }
 
   if (profile.mode === 'range') {
     const previous = ordered[index - 1];

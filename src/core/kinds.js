@@ -49,11 +49,20 @@ export const KINDS = {
   },
 
   studio: {
-    ready: false,
+    ready: true,
+    // `era` rather than `chrono`. A studio's output across decades is not development, it is
+    // several different companies wearing one name — Cannon in 1980 and Cannon in 1987 shared a
+    // logo and almost nothing else. Sorting sixty years by release date is a random walk.
     modes: ['era', 'peak', 'ramp'],
     weights: { opacity: 1.2, stillness: 1.0, bleakness: 0.9, humor: 1.2 },
+    // The hardest diversity push of the three kinds. A studio catalogue clusters harder than
+    // anything else here, because the whole point of a studio is a house style.
     diversityDelta: 1.4,
     chronoIsMeaningful: false,
+    modeAliases: { chrono: 'era' },
+    // Without this, Ghibli returns eight Miyazaki films and A24 returns Ari Aster twice in six.
+    // A studio path that is really one director's path has answered the wrong question.
+    quotas: { perDirector: 2 },
   },
 };
 
