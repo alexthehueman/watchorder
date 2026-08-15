@@ -1,0 +1,101 @@
+slug: meryl-streep
+kind: actor
+name: Meryl Streep
+blurb: Nineteen Oscar nominations, and an accent for every one of them.
+
+films:
+  - film: sophies-choice
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A single scene most people already know the shape of, and the two hours that earn it.
+
+  - film: the-devil-wears-prada
+    signature: 5
+    must_see: true
+    showcase: 4
+    role_size: lead
+    register: menacing
+    gateway: 5
+    note: Barely raises her voice for the entire film and is somehow the scariest person in it.
+
+  - film: kramer-vs-kramer
+    signature: 4
+    showcase: 4
+    role_size: supporting
+    register: restrained
+    gateway: 4
+    note: A mother who leaves, and the film that made her a name outside the theatre.
+
+  - film: doubt
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: menacing
+    gateway: 3
+    note: A nun certain of a sin the film never confirms happened. Conviction as its own threat.
+
+  - film: out-of-africa
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: A sweeping, old-fashioned romance, played entirely straight and without irony.
+
+  - film: a-cry-in-the-dark
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A mother convicted in the press before the trial even starts. Deliberately unlikeable.
+
+  - film: the-bridges-of-madison-county
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: A farmer's wife and four days that do not fit the rest of her life.
+
+  - film: august-osage-county
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: menacing
+    gateway: 3
+    note: A pill-addicted matriarch presiding over a dinner table that goes to war.
+
+  - film: julie-and-julia
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: comic
+    against_type: true
+    gateway: 5
+    note: Julia Child, played as pure, unembarrassed delight. Nothing on this list is warmer.
+
+  - film: mamma-mia
+    signature: 2
+    showcase: 2
+    role_size: lead
+    register: comic
+    against_type: true
+    gateway: 5
+    note: A jukebox musical. She sings, dances, and commits completely.
+
+curated:
+  curator: house
+  rationale: The two everyone can picture, then the range most people miss.
+  order:
+    - the-devil-wears-prada
+    - kramer-vs-kramer
+    - out-of-africa
+    - the-bridges-of-madison-county
+    - doubt
+    - a-cry-in-the-dark
+    - sophies-choice

@@ -1,0 +1,111 @@
+slug: katharine-hepburn
+kind: actor
+name: Katharine Hepburn
+blurb: Four Oscars, sixty years, and never once played someone easy to like on command.
+
+films:
+  - film: the-philadelphia-story
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: A comeback role written for her, by her own arrangement, and it worked perfectly.
+
+  - film: the-african-queen
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: warm
+    gateway: 5
+    note: A prim missionary and a gin-soaked riverboat captain. Her warmest widely seen performance.
+
+  - film: bringing-up-baby
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: comic
+    gateway: 4
+    note: Screwball at full velocity, with a leopard. A flop on release, definitive since.
+
+  - film: adams-rib
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: comic
+    gateway: 4
+    note: Married lawyers on opposite sides of the same case. Tracy and her, arguing well.
+
+  - film: woman-of-the-year
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: comic
+    gateway: 4
+    note: The first Tracy-Hepburn pairing, and the template for eight more.
+
+  - film: long-days-journey-into-night
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: restrained
+    against_type: true
+    gateway: 1
+    note: A morphine addict unravelling across one afternoon. As far from screwball as she went.
+
+  - film: the-lion-in-winter
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: menacing
+    against_type: true
+    gateway: 3
+    note: A queen released from prison for Christmas, entirely to manipulate everyone in the room.
+
+  - film: guess-whos-coming-to-dinner
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: Her last film with Tracy, made while he was dying. It shows, and it does not soften anything.
+
+  - film: on-golden-pond
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: Late, gentle, and her fourth Oscar for being exactly as good as ever.
+
+  - film: summertime
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: An American spinster alone in Venice. Quieter than almost anything else on this list.
+
+  - film: suddenly-last-summer
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: menacing
+    against_type: true
+    gateway: 1
+    note: A wealthy matriarch protecting a secret that gets worse the longer she is allowed to talk.
+
+curated:
+  curator: house
+  rationale: The comedies that made her, then the two roles that prove it was never only that.
+  order:
+    - the-philadelphia-story
+    - bringing-up-baby
+    - adams-rib
+    - the-african-queen
+    - guess-whos-coming-to-dinner
+    - the-lion-in-winter
+    - suddenly-last-summer
+    - long-days-journey-into-night

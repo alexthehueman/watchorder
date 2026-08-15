@@ -1,0 +1,100 @@
+slug: anna-magnani
+kind: actor
+name: Anna Magnani
+blurb: Italian neorealism's rawest presence, and the volume nobody after her matched.
+
+films:
+  - film: rome-open-city
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: menacing
+    gateway: 3
+    note: A pregnant woman shot running after a truck. The scene that defined Italian neorealism.
+
+  - film: mamma-roma
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: menacing
+    gateway: 3
+    note: A former prostitute trying to build a respectable life for her son. Pasolini, unsparing.
+
+  - film: the-rose-tattoo
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: comic
+    gateway: 4
+    note: A Sicilian widow in Louisiana, grieving loudly and then falling for someone new, loudly.
+
+  - film: lamore
+    signature: 3
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: Two segments; the second is her alone on a telephone for forty minutes, unravelling in real time.
+
+  - film: the-secret-of-santa-vittoria
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 4
+    note: Late-career, opposite Anthony Quinn — a village hiding a million bottles of wine from occupiers.
+
+  - film: bellissima
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: comic
+    gateway: 4
+    note: A mother pushing her daughter into film stardom, and slowly realising the cost of it.
+
+  - film: wild-is-the-wind
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A mail-order bride in Nevada, married to a man still grieving his first wife.
+
+  - film: the-fugitive-kind
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: Tennessee Williams, opposite Brando. A shop owner trapped in an unhappy marriage.
+
+  - film: the-golden-coach
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: comic
+    against_type: true
+    gateway: 4
+    note: A commedia dell'arte troupe leader in colonial Peru. Renoir at his most purely theatrical.
+
+  - film: volcano-1950
+    signature: 2
+    showcase: 2
+    role_size: lead
+    register: menacing
+    gateway: 2
+    note: Made in direct competition with Stromboli, released the same year. The lesser-known half of a feud.
+
+curated:
+  curator: house
+  rationale: The two performances that made her internationally famous, then the range around them.
+  order:
+    - rome-open-city
+    - the-rose-tattoo
+    - bellissima
+    - the-golden-coach
+    - wild-is-the-wind
+    - the-fugitive-kind
+    - mamma-roma

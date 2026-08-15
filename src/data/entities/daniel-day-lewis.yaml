@@ -1,0 +1,99 @@
+# There Will Be Blood and Phantom Thread are already tagged under Paul Thomas Anderson's own
+# entity; only the relationship is new here — a supporting-film director's-eye signature there,
+# an actor's-eye persona/showcase split here. Close to his complete filmography: he made about
+# twenty films across forty years and was famously selective about all of them.
+
+slug: daniel-day-lewis
+kind: actor
+name: Daniel Day-Lewis
+blurb: Total immersion, one film every few years, and never the same voice twice.
+
+films:
+  - film: there-will-be-blood
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: menacing
+    gateway: 4
+    note: Daniel Plainview. "I drink your milkshake" is the least of what the performance does.
+
+  - film: my-left-foot
+    signature: 5
+    showcase: 5
+    role_size: lead
+    register: restrained
+    against_type: true
+    gateway: 4
+    note: His first Oscar. Cerebral palsy played from the inside, with nothing softened.
+
+  - film: lincoln
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: A voice built from research nobody else would have bothered to do, and total warmth under it.
+
+  - film: gangs-of-new-york
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: menacing
+    gateway: 4
+    note: Bill the Butcher. He built the physical performance around never quite going still.
+
+  - film: in-the-name-of-the-father
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A wrongful conviction, played without a single appeal for pity.
+
+  - film: phantom-thread
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: His last film, by his own announcement. A dressmaker undone by being loved properly.
+
+  - film: last-of-the-mohicans
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: warm
+    against_type: true
+    gateway: 5      # a swashbuckling romantic lead, the least tortured thing he ever played
+    note: The purely enjoyable one. Proof he could do the uncomplicated version too.
+
+  - film: the-age-of-innocence
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A man who wants the wrong woman and does nothing about it. Nearly silent by his standards.
+
+  - film: the-crucible
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: menacing
+    gateway: 2
+    note: Salem, adultery, and a confession that costs him everything. Miller by way of his own wife.
+
+curated:
+  curator: house
+  rationale: Start with the film that needs no introduction, then work backward through the rest.
+  order:
+    - my-left-foot
+    - last-of-the-mohicans
+    - gangs-of-new-york
+    - lincoln
+    - the-crucible
+    - the-age-of-innocence
+    - in-the-name-of-the-father
+    - there-will-be-blood
+    - phantom-thread

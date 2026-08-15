@@ -1,0 +1,68 @@
+# Caché is already tagged under Michael Haneke; only the relationship is new here.
+
+slug: juliette-binoche
+kind: actor
+name: Juliette Binoche
+blurb: French cinema's constant, and just as fluent in Kieślowski, Kiarostami or Minghella.
+
+films:
+  - film: three-colours-blue
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: Grief played almost entirely through refusal — of comfort, of connection, of the plot itself.
+
+  - film: the-english-patient
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: warm
+    gateway: 5
+    note: A wartime nurse who chooses to stay. The Oscar-friendly version of what she does.
+
+  - film: the-unbearable-lightness-of-being
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: The breakout — a photographer caught in a marriage that will not simplify itself.
+
+  - film: certified-copy
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A gallery owner and a writer, married or strangers, and the film never decides which.
+
+  - film: clouds-of-sils-maria
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: An ageing actress rehearsing the play that made her, opposite the role she has aged out of.
+
+  - film: cache
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A wife watching her husband's past arrive on videotape, and staying calmer than he does.
+
+curated:
+  curator: house
+  rationale: The Oscar-friendly Binoche first, then the one Kieślowski and Kiarostami wanted.
+  order:
+    - the-english-patient
+    - three-colours-blue
+    - the-unbearable-lightness-of-being
+    - clouds-of-sils-maria
+    - certified-copy
+    - cache

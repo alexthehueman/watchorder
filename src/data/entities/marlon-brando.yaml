@@ -1,0 +1,101 @@
+slug: marlon-brando
+kind: actor
+name: Marlon Brando
+blurb: The one everyone since has been reacting to, for better and worse.
+
+films:
+  - film: the-godfather
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 5
+    note: Vito Corleone, entirely built from stillness and a voice he invented from nothing.
+
+  - film: on-the-waterfront
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: The performance that made Method acting mainstream, one aching line at a time.
+
+  - film: a-streetcar-named-desire
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: menacing
+    gateway: 3
+    note: Stanley Kowalski, and the reason nobody else has been allowed to underplay the role since.
+
+  - film: apocalypse-now
+    signature: 4
+    showcase: 4
+    role_size: supporting
+    register: menacing
+    gateway: 1      # twenty minutes of screen time, mostly shadow, at the end of a three-hour film
+    note: Kurtz. Mostly darkness and a whisper, and it is still the film's centre of gravity.
+
+  - film: last-tango-in-paris
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: Grief played as compulsion. Notorious, and not for the reason people assume going in.
+
+  - film: the-wild-one
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: menacing
+    gateway: 4
+    note: The leather jacket and the shrug that built an entire American archetype from nothing.
+
+  - film: viva-zapata
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A revolutionary, played with the same interior stillness he brought to gangsters.
+
+  - film: julius-caesar-1953
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: Shakespeare, and he holds his own in a cast of trained stage actors twice his age.
+
+  - film: guys-and-dolls
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: comic
+    against_type: true
+    gateway: 4
+    note: A musical. He sings. Almost nobody expecting the rest of this list is ready for it.
+
+  - film: superman-1978
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: warm
+    against_type: true
+    gateway: 3
+    note: Twenty minutes as Jor-El, paid more than anyone else in the film, and he is genuinely tender in it.
+
+curated:
+  curator: house
+  rationale: The two performances that changed acting, then the range around them.
+  order:
+    - the-godfather
+    - on-the-waterfront
+    - a-streetcar-named-desire
+    - viva-zapata
+    - the-wild-one
+    - last-tango-in-paris
+    - apocalypse-now

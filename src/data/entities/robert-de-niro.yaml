@@ -1,0 +1,111 @@
+slug: robert-de-niro
+kind: actor
+name: Robert De Niro
+blurb: Six films with Scorsese and a physical transformation for nearly every one of them.
+
+films:
+  - film: taxi-driver
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: menacing
+    gateway: 3
+    note: Travis Bickle. A mohawk and a mirror, and the loneliest film either of them made.
+
+  - film: raging-bull
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: menacing
+    gateway: 2
+    note: Sixty pounds gained on camera, for a man he refuses to make sympathetic even briefly.
+
+  - film: the-godfather-part-ii
+    signature: 4
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: Young Vito, mostly in Sicilian, building the empire Brando inherited in the first film.
+
+  - film: the-deer-hunter
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: Steel town friends before and after Vietnam. One of the bleakest American films made mainstream.
+
+  - film: goodfellas
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: The most purely entertaining film he made, and the violence is worse for how funny it is.
+
+  - film: cape-fear
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: menacing
+    gateway: 3
+    note: A tattooed ex-con out for revenge, playing every scene like a threat about to go off.
+
+  - film: the-king-of-comedy
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: comic
+    against_type: true
+    gateway: 2
+    note: An aspiring comedian who kidnaps his idol. Deeply uncomfortable rather than funny.
+
+  - film: mean-streets
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: comic
+    gateway: 3
+    note: The first Scorsese collaboration, and already the whole reckless energy is there.
+
+  - film: heat
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: menacing
+    gateway: 4
+    note: A career criminal, and the diner scene with Pacino everyone waited a decade to see.
+
+  - film: silver-linings-playbook
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: warm
+    against_type: true
+    gateway: 5
+    note: A father with his own compulsions, and the gentlest thing on this list by some distance.
+
+  - film: awakenings
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: warm
+    against_type: true
+    gateway: 4
+    note: A catatonic patient briefly restored. As tender as he has ever allowed himself to be.
+
+curated:
+  curator: house
+  rationale: The Scorsese films that define him, then the two performances that go the other way.
+  order:
+    - goodfellas
+    - taxi-driver
+    - the-godfather-part-ii
+    - raging-bull
+    - mean-streets
+    - the-deer-hunter
+    - awakenings
+    - silver-linings-playbook

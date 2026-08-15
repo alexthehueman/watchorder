@@ -1,0 +1,91 @@
+slug: gena-rowlands
+kind: actor
+name: Gena Rowlands
+blurb: Cassavetes' camera trusted her more than anyone else's ever has, on either side of it.
+
+films:
+  - film: a-woman-under-the-influence
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: menacing
+    gateway: 2
+    note: A housewife's breakdown, filmed so close and so long that watching it feels intrusive.
+
+  - film: gloria
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: menacing
+    gateway: 4
+    note: An ex-gangster's moll protecting a child from the mob she used to run with.
+
+  - film: opening-night
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: An actress unravelling on stage, in a film that will not tell you what is real.
+
+  - film: faces
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A marriage dissolving over one long night. Cassavetes' breakthrough, shot on 16mm.
+
+  - film: love-streams
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: warm
+    gateway: 3
+    note: A brother and sister, both drowning in their own ways, holding onto each other.
+
+  - film: minnie-and-moskowitz
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 4
+    note: A screwball romance, Cassavetes-style — messier and funnier than the genre usually allows.
+
+  - film: unhook-the-stars
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: A widow finding a late-life friendship, directed by her son. Gentler than almost anything else here.
+
+  - film: the-notebook
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: warm
+    against_type: true
+    gateway: 5
+    note: Directed by her own son, and the film most people who have never seen Cassavetes know her from.
+
+  - film: tempest-1982
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 4
+    note: A loose, sun-drenched Shakespeare riff, and one of her rare studio-comedy roles.
+
+curated:
+  curator: house
+  rationale: The two performances Cassavetes built entire films to hold, then the range beside them.
+  order:
+    - minnie-and-moskowitz
+    - faces
+    - a-woman-under-the-influence
+    - gloria
+    - love-streams
+    - opening-night

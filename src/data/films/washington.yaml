@@ -1,0 +1,83 @@
+# Films for Denzel Washington not already in the corpus. Crimson Tide arrived with Gene Hackman
+# and is not repeated here — the two of them share most of that film's running time.
+
+- id: glory
+  tmdb_id: null
+  title: Glory
+  year: 1989
+  runtime: 122
+  director: Edward Zwick
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: malcolm-x
+  tmdb_id: null
+  title: Malcolm X
+  year: 1992
+  runtime: 202
+  director: Spike Lee
+  tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 2, acclaim: 0.88 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: philadelphia
+  tmdb_id: null
+  title: Philadelphia
+  year: 1993
+  runtime: 125
+  director: Jonathan Demme
+  tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.82 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: remember-the-titans
+  tmdb_id: null
+  title: Remember the Titans
+  year: 2000
+  runtime: 113
+  director: Boaz Yakin
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: training-day
+  tmdb_id: null
+  title: Training Day
+  year: 2001
+  runtime: 122
+  director: Antoine Fuqua
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 2, acclaim: 0.82 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: man-on-fire
+  tmdb_id: null
+  title: Man on Fire
+  year: 2004
+  runtime: 146
+  director: Tony Scott
+  tags: { opacity: 2, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
+
+- id: inside-man
+  tmdb_id: null
+  title: Inside Man
+  year: 2006
+  runtime: 129
+  director: Spike Lee
+  tags: { opacity: 2, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: american-gangster
+  tmdb_id: null
+  title: American Gangster
+  year: 2007
+  runtime: 157
+  director: Ridley Scott
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 2, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: fences
+  tmdb_id: null
+  title: Fences
+  year: 2016
+  runtime: 139
+  director: Denzel Washington
+  tags: { opacity: 1, stillness: 4, bleakness: 4, humor: 2, acclaim: 0.80 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

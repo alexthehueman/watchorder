@@ -1,0 +1,102 @@
+slug: cate-blanchett
+kind: actor
+name: Cate Blanchett
+blurb: Precision as a default setting, whether the part calls for warmth or total control.
+
+films:
+  - film: elizabeth
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: A queen learning that surviving the role means giving up the person underneath it.
+
+  - film: blue-jasmine
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: menacing
+    gateway: 4
+    note: A Bernie Madoff wife's collapse, played as comedy right up until it clearly is not one.
+
+  - film: tar
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: menacing
+    gateway: 1
+    note: A conductor's total command of every room, until the film starts taking it away from her.
+
+  - film: carol
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: Nearly everything communicated through a look across a department store counter.
+
+  - film: im-not-there
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: comic
+    against_type: true
+    gateway: 2
+    note: One of six actors playing fragments of Bob Dylan. She plays the mid-60s electric period.
+
+  - film: notes-on-a-scandal
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: menacing
+    gateway: 3
+    note: A teacher whose affair becomes leverage for someone obsessed with her.
+
+  - film: the-talented-mr-ripley
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: comic
+    gateway: 4
+    note: An American heiress in Italy, entirely unaware how close she is to the story's centre.
+
+  - film: the-aviator
+    signature: 3
+    showcase: 4
+    role_size: supporting
+    register: comic
+    gateway: 4
+    note: Katharine Hepburn, played with enough conviction to survive the comparison entirely.
+
+  - film: fellowship-of-the-ring
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: warm
+    gateway: 5
+    note: An elf queen who offers, briefly, to become something considerably more frightening.
+
+  - film: thor-ragnarok
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: comic
+    against_type: true
+    gateway: 5
+    note: A comic-book villain played with total relish. Broader than anything else on this list.
+
+curated:
+  curator: house
+  rationale: The two roles that made her name, then the range across genres she works in constantly.
+  order:
+    - elizabeth
+    - the-talented-mr-ripley
+    - the-aviator
+    - notes-on-a-scandal
+    - blue-jasmine
+    - carol
+    - im-not-there
+    - tar

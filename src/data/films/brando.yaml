@@ -1,0 +1,96 @@
+# Films for Marlon Brando. Scales and anchors are in README.md ("The anchor rubric").
+
+- id: a-streetcar-named-desire
+  tmdb_id: null
+  title: A Streetcar Named Desire
+  year: 1951
+  runtime: 122
+  director: Elia Kazan
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.92 }
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: viva-zapata
+  tmdb_id: null
+  title: Viva Zapata!
+  year: 1952
+  runtime: 113
+  director: Elia Kazan
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-wild-one
+  tmdb_id: null
+  title: The Wild One
+  year: 1953
+  runtime: 79
+  director: László Benedek
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: on-the-waterfront
+  tmdb_id: null
+  title: On the Waterfront
+  year: 1954
+  runtime: 108
+  director: Elia Kazan
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 2, acclaim: 0.93 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: guys-and-dolls
+  tmdb_id: null
+  title: Guys and Dolls
+  year: 1955
+  runtime: 150
+  director: Joseph L. Mankiewicz
+  tags:
+    opacity: 1
+    stillness: 1
+    bleakness: 1    # a rubric anchor for 1 — a musical, and he sings
+    humor: 4
+    acclaim: 0.68
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: julius-caesar-1953
+  tmdb_id: null
+  title: Julius Caesar
+  year: 1953
+  runtime: 121
+  director: Joseph L. Mankiewicz
+  tags: { opacity: 2, stillness: 4, bleakness: 3, humor: 1, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 0 }
+
+- id: the-godfather
+  tmdb_id: null
+  title: The Godfather
+  year: 1972
+  runtime: 175
+  director: Francis Ford Coppola
+  tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 2, acclaim: 0.97 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: last-tango-in-paris
+  tmdb_id: null
+  title: Last Tango in Paris
+  year: 1972
+  runtime: 129
+  director: Bernardo Bertolucci
+  tags: { opacity: 2, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.75 }
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 3 }
+
+- id: apocalypse-now
+  tmdb_id: null
+  title: Apocalypse Now
+  year: 1979
+  runtime: 147
+  director: Francis Ford Coppola
+  tags: { opacity: 4, stillness: 4, bleakness: 5, humor: 1, acclaim: 0.90 }
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: superman-1978
+  tmdb_id: null
+  title: Superman
+  year: 1978
+  runtime: 143
+  director: Richard Donner
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 2, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }

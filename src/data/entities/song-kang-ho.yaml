@@ -1,0 +1,109 @@
+# Snowpiercer is already tagged under Tilda Swinton; only the relationship is new here.
+
+slug: song-kang-ho
+kind: actor
+name: Song Kang-ho
+blurb: The ordinary man Korean cinema keeps reaching for when things stop being ordinary.
+
+films:
+  - film: memories-of-murder
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A detective certain he has his man, in a film based on a case that was never solved.
+
+  - film: parasite
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: comic
+    gateway: 4
+    note: A father orchestrating his family's con, right up until the film stops being a comedy.
+
+  - film: sympathy-for-mr-vengeance
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: menacing
+    gateway: 1
+    note: A father's revenge spiral, and the bleakest corner of Park Chan-wook's vengeance trilogy.
+
+  - film: the-host-2006
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: comic
+    gateway: 4
+    note: A monster movie about a useless father becoming useful. Genuinely funny between the terror.
+
+  - film: thirst
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: menacing
+    gateway: 3
+    note: A priest turned vampire, torn between faith and appetite. Park Chan-wook again.
+
+  - film: the-good-the-bad-the-weird
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: A Manchurian western, played for pure chaotic comic energy.
+
+  - film: snowpiercer
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: restrained
+    gateway: 3
+    note: A security specialist with his own agenda, quietly separate from the train's class war.
+
+  - film: secret-sunshine
+    signature: 3
+    showcase: 4
+    role_size: supporting
+    register: warm
+    gateway: 4
+    note: A grieving mother's persistent, unglamorous local suitor — comic relief that never trivialises the film around him.
+
+  - film: the-attorney
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: A tax lawyer radicalised by a single unjust case. Based on a real, later-famous defendant.
+
+  - film: cobweb
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 4
+    note: A film director trying to reshoot his own ending. Broad backstage comedy, late in his career.
+
+  - film: broker
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: A baby broker who cannot quite let himself be as cynical as the job requires.
+
+curated:
+  curator: house
+  rationale: The two internationally definitive performances, then the range around them.
+  order:
+    - parasite
+    - the-host-2006
+    - the-good-the-bad-the-weird
+    - memories-of-murder
+    - the-attorney
+    - thirst
+    - sympathy-for-mr-vengeance

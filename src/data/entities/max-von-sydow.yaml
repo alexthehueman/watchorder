@@ -1,0 +1,108 @@
+slug: max-von-sydow
+kind: actor
+name: Max von Sydow
+blurb: Bergman's knight playing chess with Death, and sixty years of everything after that.
+
+films:
+  - film: the-seventh-seal
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A knight plays chess with Death on a plague-emptied beach. The image everyone already knows.
+
+  - film: the-exorcist
+    signature: 5
+    must_see: true
+    showcase: 4
+    role_size: supporting
+    register: menacing
+    gateway: 4
+    note: A handful of scenes as the old priest, and he anchors the entire film's sense of dread.
+
+  - film: wild-strawberries
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: An old professor confronting his own life on the day of an honorary degree.
+
+  - film: the-virgin-spring
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: menacing
+    gateway: 2
+    note: A father's revenge, played with a stillness that makes the violence worse.
+
+  - film: never-say-never-again
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 5
+    note: Blofeld, played with the same dry conviction he brought to Bergman. A Bond villain, unbothered by the genre.
+
+  - film: pelle-the-conqueror
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: An ageing immigrant labourer in Denmark, worn down by decades of being underestimated.
+
+  - film: through-a-glass-darkly
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: restrained
+    gateway: 2
+    note: A father watching his daughter's mind come apart, and unable to stop it.
+
+  - film: shutter-island
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: menacing
+    gateway: 3
+    note: A small, unplaceable-accent role in a film built almost entirely on unreliable narration.
+
+  - film: hawaii
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: A missionary in 1820s Hawaii. Old-fashioned Hollywood epic, and he is the moral centre.
+
+  - film: conan-the-barbarian
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: menacing
+    gateway: 4
+    note: A snake-cult sorcerer, played with total seriousness in a film that mostly is not.
+
+  - film: flash-gordon
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: comic
+    against_type: true
+    gateway: 5
+    note: Ming the Merciless. He plays cosmic camp with exactly the same gravity as Bergman.
+
+curated:
+  curator: house
+  rationale: The two roles everyone already half-knows, then the range across six decades.
+  order:
+    - the-seventh-seal
+    - wild-strawberries
+    - the-exorcist
+    - pelle-the-conqueror
+    - the-virgin-spring
+    - hawaii
+    - flash-gordon

@@ -1,0 +1,110 @@
+# Films for Katharine Hepburn. Scales and anchors are in README.md ("The anchor rubric").
+
+- id: bringing-up-baby
+  tmdb_id: null
+  title: Bringing Up Baby
+  year: 1938
+  runtime: 102
+  director: Howard Hawks
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 4, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-philadelphia-story
+  tmdb_id: null
+  title: The Philadelphia Story
+  year: 1940
+  runtime: 112
+  director: George Cukor
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.88 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: woman-of-the-year
+  tmdb_id: null
+  title: Woman of the Year
+  year: 1942
+  runtime: 114
+  director: George Stevens
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 4, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: adams-rib
+  tmdb_id: null
+  title: "Adam's Rib"
+  year: 1949
+  runtime: 101
+  director: George Cukor
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 4, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-african-queen
+  tmdb_id: null
+  title: The African Queen
+  year: 1951
+  runtime: 105
+  director: John Huston
+  tags: { opacity: 3, stillness: 3, bleakness: 4, humor: 3, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: summertime
+  tmdb_id: null
+  title: Summertime
+  year: 1955
+  runtime: 100
+  director: David Lean
+  tags: { opacity: 2, stillness: 3, bleakness: 3, humor: 2, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: long-days-journey-into-night
+  tmdb_id: null
+  title: Long Day's Journey Into Night
+  year: 1962
+  runtime: 174
+  director: Sidney Lumet
+  tags:
+    opacity: 1
+    stillness: 3    # one house, one day, and the whole family's grief said out loud
+    bleakness: 3
+    humor: 2
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: guess-whos-coming-to-dinner
+  tmdb_id: null
+  title: "Guess Who's Coming to Dinner"
+  year: 1967
+  runtime: 108
+  director: Stanley Kramer
+  tags: { opacity: 2, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-lion-in-winter
+  tmdb_id: null
+  title: The Lion in Winter
+  year: 1968
+  runtime: 134
+  director: Anthony Harvey
+  tags: { opacity: 3, stillness: 3, bleakness: 4, humor: 3, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: suddenly-last-summer
+  tmdb_id: null
+  title: Suddenly, Last Summer
+  year: 1959
+  runtime: 114
+  director: Joseph L. Mankiewicz
+  tags:
+    opacity: 2
+    stillness: 3
+    bleakness: 3
+    humor: 2
+    acclaim: 0.78
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+
+- id: on-golden-pond
+  tmdb_id: null
+  title: On Golden Pond
+  year: 1981
+  runtime: 109
+  director: Mark Rydell
+  tags: { opacity: 2, stillness: 3, bleakness: 3, humor: 2, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

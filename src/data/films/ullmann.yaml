@@ -1,0 +1,74 @@
+# Films for Liv Ullmann. Scales and anchors are in README.md ("The anchor rubric"). Autumn Sonata
+# arrived with Ingrid Bergman and is not repeated here.
+
+- id: persona
+  tmdb_id: null
+  title: Persona
+  year: 1966
+  runtime: 83
+  director: Ingmar Bergman
+  tags: { opacity: 5, stillness: 5, bleakness: 4, humor: 1, acclaim: 0.92 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: hour-of-the-wolf
+  tmdb_id: null
+  title: Hour of the Wolf
+  year: 1968
+  runtime: 90
+  director: Ingmar Bergman
+  tags: { opacity: 4, stillness: 4, bleakness: 5, humor: 1, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: shame-1968
+  tmdb_id: null
+  title: Shame
+  year: 1968
+  runtime: 103
+  director: Ingmar Bergman
+  tags: { opacity: 2, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.80 }
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: the-emigrants
+  tmdb_id: null
+  title: The Emigrants
+  year: 1971
+  runtime: 191
+  director: Jan Troell
+  tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 2, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
+
+- id: cries-and-whispers
+  tmdb_id: null
+  title: Cries and Whispers
+  year: 1972
+  runtime: 91
+  director: Ingmar Bergman
+  tags: { opacity: 2, stillness: 4, bleakness: 5, humor: 1, acclaim: 0.88 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: forty-carats
+  tmdb_id: null
+  title: Forty Carats
+  year: 1973
+  runtime: 110
+  director: Milton Katselas
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 4, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: scenes-from-a-marriage
+  tmdb_id: null
+  title: Scenes from a Marriage
+  year: 1973
+  runtime: 169
+  director: Ingmar Bergman
+  tags: { opacity: 1, stillness: 4, bleakness: 4, humor: 2, acclaim: 0.90 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: face-to-face
+  tmdb_id: null
+  title: Face to Face
+  year: 1976
+  runtime: 136
+  director: Ingmar Bergman
+  tags: { opacity: 3, stillness: 4, bleakness: 5, humor: 1, acclaim: 0.72 }
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }

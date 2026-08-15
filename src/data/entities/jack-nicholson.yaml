@@ -1,0 +1,101 @@
+slug: jack-nicholson
+kind: actor
+name: Jack Nicholson
+blurb: The eyebrows do a third of the work, and the other two thirds are genuinely dangerous.
+
+films:
+  - film: one-flew-over-the-cuckoos-nest
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: warm
+    gateway: 5
+    note: McMurphy — funny, then furious, then something the film will not let you look away from.
+
+  - film: chinatown
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: A private detective who thinks he understands the case. He does not, and neither will you.
+
+  - film: the-shining
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: menacing
+    gateway: 3
+    note: The axe-through-the-door line is the least of it. He is unravelling before the hotel is.
+
+  - film: five-easy-pieces
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A pianist who fled his family for the oil fields. The diner scene alone is a masterclass.
+
+  - film: a-few-good-men
+    signature: 4
+    showcase: 4
+    role_size: supporting
+    register: menacing
+    gateway: 5      # eleven minutes of screen time, and the most quoted courtroom speech in film
+    note: The courtroom speech everyone quotes. Barely in the film, and impossible to forget from it.
+
+  - film: terms-of-endearment
+    signature: 4
+    showcase: 4
+    role_size: supporting
+    register: comic
+    gateway: 5
+    note: A washed-up astronaut next door, playing romance as comic timing rather than sincerity.
+
+  - film: prizzis-honor
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 4
+    note: A none-too-bright hitman falling for another hitman. Broader than his reputation allows.
+
+  - film: batman-1989
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: The Joker, played as a gangster who discovered he found the whole thing funny.
+
+  - film: easy-rider
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: comic
+    gateway: 4
+    note: A small-town lawyer who gets high for the first time. The film that made him a star.
+
+  - film: about-schmidt
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: restrained
+    against_type: true
+    gateway: 3
+    note: A newly retired insurance actuary, deflated rather than dangerous. Almost unrecognisable.
+
+curated:
+  curator: house
+  rationale: The three performances everyone already half-knows, then the quieter ones.
+  order:
+    - one-flew-over-the-cuckoos-nest
+    - chinatown
+    - easy-rider
+    - terms-of-endearment
+    - prizzis-honor
+    - the-shining
+    - five-easy-pieces
+    - about-schmidt

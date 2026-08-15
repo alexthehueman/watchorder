@@ -1,0 +1,93 @@
+slug: ingrid-bergman
+kind: actor
+name: Ingrid Bergman
+blurb: Hollywood's idea of decency, until she left it to make much stranger films in Italy.
+
+films:
+  - film: casablanca
+    signature: 5
+    must_see: true
+    showcase: 4
+    role_size: lead
+    register: warm
+    gateway: 5
+    note: The line everyone quotes barely covers it. The film that made her internationally unavoidable.
+
+  - film: notorious
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: A spy sent to seduce a Nazi, and Hitchcock trusts her to carry every scene almost silent.
+
+  - film: gaslight
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: The film that gave the manipulation its name. Her Oscar, and a genuinely disturbing one.
+
+  - film: autumn-sonata
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: restrained
+    against_type: true
+    gateway: 2
+    note: Bergman directed by Bergman — no relation — as a mother who chose her career over her daughter.
+
+  - film: stromboli
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: She left Hollywood for this, and the scandal nearly ended her American career entirely.
+
+  - film: journey-to-italy
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A marriage quietly dissolving among Roman ruins. Rossellini at his most influential.
+
+  - film: joan-of-arc-1948
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A role she had wanted for years, played with total, unironic conviction.
+
+  - film: anastasia-1956
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: Her American comeback after the scandal, and an Oscar to mark the forgiveness.
+
+  - film: murder-on-the-orient-express-1974
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: comic
+    against_type: true
+    gateway: 5
+    note: A single unbroken monologue won her a third Oscar for barely ten minutes of screen time.
+
+curated:
+  curator: house
+  rationale: The Hollywood she was famous for, then the Italian films she risked it for.
+  order:
+    - casablanca
+    - notorious
+    - gaslight
+    - anastasia-1956
+    - journey-to-italy
+    - stromboli
+    - autumn-sonata

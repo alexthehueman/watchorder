@@ -1,0 +1,91 @@
+# Films for Anna Magnani. Scales and anchors are in README.md ("The anchor rubric").
+
+- id: rome-open-city
+  tmdb_id: null
+  title: Rome, Open City
+  year: 1945
+  runtime: 103
+  director: Roberto Rossellini
+  tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.90 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: volcano-1950
+  tmdb_id: null
+  title: Volcano
+  year: 1950
+  runtime: 106
+  director: William Dieterle
+  tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: lamore
+  tmdb_id: null
+  title: "L'Amore"
+  year: 1948
+  runtime: 78
+  director: Roberto Rossellini
+  tags: { opacity: 2, stillness: 4, bleakness: 4, humor: 1, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: bellissima
+  tmdb_id: null
+  title: Bellissima
+  year: 1951
+  runtime: 114
+  director: Luchino Visconti
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-golden-coach
+  tmdb_id: null
+  title: The Golden Coach
+  year: 1952
+  runtime: 100
+  director: Jean Renoir
+  tags: { opacity: 2, stillness: 2, bleakness: 1, humor: 4, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-rose-tattoo
+  tmdb_id: null
+  title: The Rose Tattoo
+  year: 1955
+  runtime: 117
+  director: Daniel Mann
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: wild-is-the-wind
+  tmdb_id: null
+  title: Wild Is the Wind
+  year: 1957
+  runtime: 114
+  director: George Cukor
+  tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: the-fugitive-kind
+  tmdb_id: null
+  title: The Fugitive Kind
+  year: 1959
+  runtime: 119
+  director: Sidney Lumet
+  tags: { opacity: 3, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: the-secret-of-santa-vittoria
+  tmdb_id: null
+  title: The Secret of Santa Vittoria
+  year: 1969
+  runtime: 140
+  director: Stanley Kramer
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.62 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: mamma-roma
+  tmdb_id: null
+  title: Mamma Roma
+  year: 1962
+  runtime: 106
+  director: Pier Paolo Pasolini
+  tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 2, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }

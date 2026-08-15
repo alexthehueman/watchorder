@@ -1,0 +1,87 @@
+# Films for Setsuko Hara. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Register and confusion are likely to read narrow for her, honestly. Ozu's whole aesthetic is
+# static, patient and largely unambiguous, and five of these eight films are his — that is a fact
+# about the collaboration, not a tagging shortfall. See Miyazaki and Béla Tarr for the same
+# reasoning applied to a director's corpus.
+
+- id: no-regrets-for-our-youth
+  tmdb_id: null
+  title: No Regrets for Our Youth
+  year: 1946
+  runtime: 110
+  director: Akira Kurosawa
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: late-spring
+  tmdb_id: null
+  title: Late Spring
+  year: 1949
+  runtime: 108
+  director: Yasujirō Ozu
+  tags: { opacity: 1, stillness: 5, bleakness: 3, humor: 2, acclaim: 0.90 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: repast
+  tmdb_id: null
+  title: Repast
+  year: 1951
+  runtime: 97
+  director: Mikio Naruse
+  tags: { opacity: 1, stillness: 4, bleakness: 3, humor: 2, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: early-summer
+  tmdb_id: null
+  title: Early Summer
+  year: 1951
+  runtime: 124
+  director: Yasujirō Ozu
+  tags: { opacity: 1, stillness: 5, bleakness: 2, humor: 2, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: tokyo-story
+  tmdb_id: null
+  title: Tokyo Story
+  year: 1953
+  runtime: 136
+  director: Yasujirō Ozu
+  tags: { opacity: 1, stillness: 5, bleakness: 4, humor: 1, acclaim: 0.95 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: sound-of-the-mountain
+  tmdb_id: null
+  title: Sound of the Mountain
+  year: 1954
+  runtime: 95
+  director: Mikio Naruse
+  tags: { opacity: 2, stillness: 4, bleakness: 4, humor: 1, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: tokyo-twilight
+  tmdb_id: null
+  title: Tokyo Twilight
+  year: 1957
+  runtime: 141
+  director: Yasujirō Ozu
+  tags: { opacity: 1, stillness: 4, bleakness: 5, humor: 1, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 1 }
+
+- id: late-autumn
+  tmdb_id: null
+  title: Late Autumn
+  year: 1960
+  runtime: 128
+  director: Yasujirō Ozu
+  tags: { opacity: 1, stillness: 4, bleakness: 2, humor: 3, acclaim: 0.80 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-end-of-summer
+  tmdb_id: null
+  title: The End of Summer
+  year: 1961
+  runtime: 103
+  director: Yasujirō Ozu
+  tags: { opacity: 1, stillness: 4, bleakness: 3, humor: 2, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

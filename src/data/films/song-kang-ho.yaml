@@ -1,0 +1,97 @@
+# Films for Song Kang-ho not already in the corpus. Snowpiercer arrived with Tilda Swinton and is
+# not repeated here.
+
+- id: sympathy-for-mr-vengeance
+  tmdb_id: null
+  title: Sympathy for Mr. Vengeance
+  year: 2002
+  runtime: 121
+  director: Park Chan-wook
+  tags: { opacity: 2, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
+
+- id: memories-of-murder
+  tmdb_id: null
+  title: Memories of Murder
+  year: 2003
+  runtime: 131
+  director: Bong Joon-ho
+  tags:
+    opacity: 4    # based on an unsolved case; the film ends without the resolution a thriller usually owes you
+    stillness: 2
+    bleakness: 5
+    humor: 3
+    acclaim: 0.92
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: the-host-2006
+  tmdb_id: null
+  title: The Host
+  year: 2006
+  runtime: 120
+  director: Bong Joon-ho
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 4, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
+
+- id: the-good-the-bad-the-weird
+  tmdb_id: null
+  title: The Good, the Bad, the Weird
+  year: 2008
+  runtime: 130
+  director: Kim Jee-woon
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: thirst
+  tmdb_id: null
+  title: Thirst
+  year: 2009
+  runtime: 133
+  director: Park Chan-wook
+  tags: { opacity: 2, stillness: 3, bleakness: 4, humor: 2, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 2 }
+
+- id: secret-sunshine
+  tmdb_id: null
+  title: Secret Sunshine
+  year: 2007
+  runtime: 142
+  director: Lee Chang-dong
+  tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 3, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 0 }
+
+- id: the-attorney
+  tmdb_id: null
+  title: The Attorney
+  year: 2013
+  runtime: 127
+  director: Yang Woo-suk
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: parasite
+  tmdb_id: null
+  title: Parasite
+  year: 2019
+  runtime: 132
+  director: Bong Joon-ho
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 3, acclaim: 0.95 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: cobweb
+  tmdb_id: null
+  title: Cobweb
+  year: 2023
+  runtime: 133
+  director: Kim Jee-woon
+  tags: { opacity: 2, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.66 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: broker
+  tmdb_id: null
+  title: Broker
+  year: 2022
+  runtime: 129
+  director: Hirokazu Kore-eda
+  tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 2, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 0 }

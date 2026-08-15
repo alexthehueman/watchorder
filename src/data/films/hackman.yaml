@@ -1,0 +1,91 @@
+# Films for Gene Hackman. Scales and anchors are in README.md ("The anchor rubric").
+
+- id: bonnie-and-clyde
+  tmdb_id: null
+  title: Bonnie and Clyde
+  year: 1967
+  runtime: 111
+  director: Arthur Penn
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 3, acclaim: 0.88 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: the-french-connection
+  tmdb_id: null
+  title: The French Connection
+  year: 1971
+  runtime: 104
+  director: William Friedkin
+  tags: { opacity: 1, stillness: 1, bleakness: 4, humor: 1, acclaim: 0.90 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: the-poseidon-adventure
+  tmdb_id: null
+  title: The Poseidon Adventure
+  year: 1972
+  runtime: 117
+  director: Ronald Neame
+  tags: { opacity: 1, stillness: 1, bleakness: 4, humor: 1, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-conversation
+  tmdb_id: null
+  title: The Conversation
+  year: 1974
+  runtime: 113
+  director: Francis Ford Coppola
+  tags: { opacity: 3, stillness: 4, bleakness: 5, humor: 1, acclaim: 0.90 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: superman-hackman
+  tmdb_id: null
+  title: Superman
+  year: 1978
+  runtime: 143
+  director: Richard Donner
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 5, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: hoosiers
+  tmdb_id: null
+  title: Hoosiers
+  year: 1986
+  runtime: 114
+  director: David Anspaugh
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: mississippi-burning
+  tmdb_id: null
+  title: Mississippi Burning
+  year: 1988
+  runtime: 128
+  director: Alan Parker
+  tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: unforgiven
+  tmdb_id: null
+  title: Unforgiven
+  year: 1992
+  runtime: 130
+  director: Clint Eastwood
+  tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 2, acclaim: 0.93 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: crimson-tide
+  tmdb_id: null
+  title: Crimson Tide
+  year: 1995
+  runtime: 116
+  director: Tony Scott
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-royal-tenenbaums
+  tmdb_id: null
+  title: The Royal Tenenbaums
+  year: 2001
+  runtime: 109
+  director: Wes Anderson
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 4, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }

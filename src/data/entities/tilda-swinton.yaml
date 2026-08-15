@@ -1,0 +1,70 @@
+# We Need to Talk About Kevin is already tagged under Lynne Ramsay; only the relationship is new
+# here.
+
+slug: tilda-swinton
+kind: actor
+name: Tilda Swinton
+blurb: An unplaceable accent and a willingness to be genuinely strange on camera.
+
+films:
+  - film: orlando
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: Four hundred years, one unaging body, a change of sex halfway through. The role she was built for.
+
+  - film: we-need-to-talk-about-kevin
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A mother who cannot make herself love her son, and never once asks to be forgiven for it.
+
+  - film: only-lovers-left-alive
+    signature: 4
+    showcase: 3
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: A centuries-old vampire, bored rather than tortured. Jarmusch's deadpan suits her exactly.
+
+  - film: i-am-love
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A Russian émigré unravelling a Milanese dynasty from the inside, in fluent Italian.
+
+  - film: snowpiercer
+    signature: 3
+    showcase: 4
+    role_size: supporting
+    register: comic
+    against_type: true
+    gateway: 4
+    note: A grotesque bureaucrat, all prosthetic teeth and Yorkshire vowels. Broad, on purpose.
+
+  - film: michael-clayton
+    signature: 3
+    showcase: 4
+    role_size: supporting
+    register: menacing
+    gateway: 5      # the most conventional film here, and an Oscar for the least showy reason
+    note: A corporate lawyer sweating through her own competence. Won for control, not size.
+
+curated:
+  curator: house
+  rationale: The role she was born to play, then the range around it.
+  order:
+    - orlando
+    - michael-clayton
+    - only-lovers-left-alive
+    - i-am-love
+    - snowpiercer
+    - we-need-to-talk-about-kevin

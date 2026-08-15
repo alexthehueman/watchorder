@@ -1,0 +1,96 @@
+# Films for Cate Blanchett. Scales and anchors are in README.md ("The anchor rubric").
+
+- id: elizabeth
+  tmdb_id: null
+  title: Elizabeth
+  year: 1998
+  runtime: 124
+  director: Shekhar Kapur
+  tags: { opacity: 2, stillness: 3, bleakness: 3, humor: 2, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: the-talented-mr-ripley
+  tmdb_id: null
+  title: The Talented Mr. Ripley
+  year: 1999
+  runtime: 139
+  director: Anthony Minghella
+  tags: { opacity: 2, stillness: 3, bleakness: 3, humor: 2, acclaim: 0.80 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: fellowship-of-the-ring
+  tmdb_id: null
+  title: "The Lord of the Rings: The Fellowship of the Ring"
+  year: 2001
+  runtime: 178
+  director: Peter Jackson
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.92 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-aviator
+  tmdb_id: null
+  title: The Aviator
+  year: 2004
+  runtime: 170
+  director: Martin Scorsese
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: notes-on-a-scandal
+  tmdb_id: null
+  title: Notes on a Scandal
+  year: 2006
+  runtime: 92
+  director: Richard Eyre
+  tags: { opacity: 2, stillness: 3, bleakness: 4, humor: 2, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: im-not-there
+  tmdb_id: null
+  title: "I'm Not There"
+  year: 2007
+  runtime: 135
+  director: Todd Haynes
+  tags:
+    opacity: 4    # six actors playing fragments of one man; the film never explains how they connect
+    stillness: 3
+    bleakness: 3
+    humor: 2
+    acclaim: 0.75
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: blue-jasmine
+  tmdb_id: null
+  title: Blue Jasmine
+  year: 2013
+  runtime: 98
+  director: Woody Allen
+  tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 3, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: carol
+  tmdb_id: null
+  title: Carol
+  year: 2015
+  runtime: 118
+  director: Todd Haynes
+  tags: { opacity: 2, stillness: 4, bleakness: 3, humor: 1, acclaim: 0.88 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: thor-ragnarok
+  tmdb_id: null
+  title: "Thor: Ragnarok"
+  year: 2017
+  runtime: 130
+  director: Taika Waititi
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: tar
+  tmdb_id: null
+  title: "Tár"
+  year: 2022
+  runtime: 158
+  director: Todd Field
+  tags: { opacity: 3, stillness: 4, bleakness: 4, humor: 1, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
