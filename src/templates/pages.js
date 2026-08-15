@@ -299,7 +299,7 @@ ${byKind
 
       <div class="search" id="search" hidden>
         <label for="search-input" class="visually-hidden">Search directors, actors, studios and films</label>
-        <input type="search" id="search-input" placeholder="Search a name or a film…" autocomplete="off">
+        <input type="search" id="search-input" placeholder="Search director, actor or studio…" autocomplete="off">
         <p class="search-status" id="search-status" hidden></p>
         <ul class="search-results" id="search-results" hidden></ul>
       </div>
