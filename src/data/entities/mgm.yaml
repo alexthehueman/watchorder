@@ -1,0 +1,129 @@
+# Bounded to 1924-1959 — see the note in src/data/films/mgm.yaml for why the studio stops meaning
+# one thing after that. Four eras trace a real internal evolution rather than treating "MGM" as
+# one undifferentiated 35-year glamour blob.
+
+slug: mgm
+kind: studio
+name: MGM
+blurb: More stars than there are in heaven, and a musical for nearly every mood.
+
+eras:
+  - id: founding
+    name: The Thalberg years
+    from: 1924
+  - id: glamour
+    name: Under the Code
+    from: 1934
+  - id: musicals
+    name: The Freed Unit
+    from: 1948
+  - id: twilight
+    name: The last epics
+    from: 1956
+
+films:
+  - film: singin-in-the-rain
+    era: musicals
+    signature: 5
+    must_see: true
+    gateway: 5
+    note: The title number and the Make 'em Laugh number both, and not one wasted minute between them. The studio's whole thesis.
+
+  - film: the-wizard-of-oz
+    era: glamour
+    signature: 5
+    must_see: true
+    gateway: 5
+    note: Shot in the same year as Gone with the Wind, on the same lot, by the same overworked crews.
+
+  - film: an-american-in-paris
+    era: musicals
+    signature: 4
+    gateway: 4
+    note: A seventeen-minute ballet finale that nearly bankrupted the production, and won Best Picture anyway.
+
+  - film: meet-me-in-st-louis
+    era: musicals
+    signature: 4
+    gateway: 4
+    note: The Freed Unit's first major statement, and the reason "Have Yourself a Merry Little Christmas" exists.
+
+  - film: grand-hotel
+    era: founding
+    signature: 4
+    gateway: 3
+    note: Garbo's line about wanting to be alone became the whole marketing campaign. The all-star ensemble template every prestige picture since has copied.
+
+  - film: the-band-wagon
+    era: musicals
+    signature: 4
+    gateway: 4
+    note: A backstage musical about a has-been movie star, played by an actual former one, entirely knowingly.
+
+  - film: ninotchka
+    era: glamour
+    signature: 3
+    gateway: 3
+    note: Garbo Laughs was the entire marketing campaign. It still works exactly as intended.
+
+  - film: mrs-miniver
+    era: glamour
+    signature: 3
+    gateway: 3
+    note: Wartime propaganda so effective Churchill claimed it was worth several battleships.
+
+  - film: easter-parade
+    era: musicals
+    signature: 3
+    gateway: 4
+    note: Garland and Astaire, paired only because Kelly broke an ankle. Nobody involved seems to mind.
+
+  - film: seven-brides-for-seven-brothers
+    era: musicals
+    signature: 3
+    gateway: 4
+    note: The barn-raising dance number is the reason anyone still defends the rest of the film.
+
+  - film: dinner-at-eight
+    era: founding
+    signature: 3
+    gateway: 3
+    note: Grand Hotel's meaner cousin — the same ensemble template, with the glamour curdling faster.
+
+  - film: national-velvet
+    era: glamour
+    signature: 3
+    gateway: 4
+    note: A twelve-year-old Elizabeth Taylor, already carrying a film built entirely around her.
+
+  - film: ben-hur
+    era: twilight
+    signature: 4
+    gateway: 2
+    note: The chariot race took five weeks to shoot and used every horse the production could find.
+
+  - film: forbidden-planet
+    era: twilight
+    signature: 3
+    gateway: 3
+    note: Shakespeare's Tempest, rebuilt as science fiction, with a robot that outlived the film's reputation.
+
+  - film: the-postman-always-rings-twice
+    era: glamour
+    signature: 3
+    gateway: 1
+    note: No gowns, no orchestra, no relief. The film that proves the glamour was a choice, not a limit.
+
+curated:
+  curator: house
+  rationale: The musical everyone means, then the glamour, then the one film that refuses all of it.
+  order:
+    - singin-in-the-rain
+    - the-wizard-of-oz
+    - meet-me-in-st-louis
+    - an-american-in-paris
+    - ninotchka
+    - mrs-miniver
+    - grand-hotel
+    - the-postman-always-rings-twice
+    - ben-hur

@@ -1,0 +1,158 @@
+# Films for MGM. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Bounded to the studio-system Golden Age — roughly 1924 to 1959 — on purpose. "MGM" only means
+# one coherent thing inside that window: Thalberg's prestige ensembles, the Freed Unit musicals,
+# Louis B. Mayer's "more stars than there are in heaven." Past 1959 the studio was sold, merged
+# and reorganised so many times that the name stopped describing a house style at all — the same
+# reasoning that keeps Cannon bounded to 1979-1989 rather than chasing the name through its later,
+# unrelated owners.
+#
+# Two films are here specifically to break the glamour stereotype: a noir and a piece of science
+# fiction. A studio remembered only for musicals and Garbo would be a caricature of MGM, not MGM.
+
+- id: grand-hotel
+  tmdb_id: null
+  title: Grand Hotel
+  year: 1932
+  runtime: 112
+  director: Edmund Goulding
+  tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 2, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: dinner-at-eight
+  tmdb_id: null
+  title: Dinner at Eight
+  year: 1933
+  runtime: 111
+  director: George Cukor
+  tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 3, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 1 }
+
+- id: the-wizard-of-oz
+  tmdb_id: null
+  title: The Wizard of Oz
+  year: 1939
+  runtime: 102
+  director: Victor Fleming
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.95 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: ninotchka
+  tmdb_id: null
+  title: Ninotchka
+  year: 1939
+  runtime: 110
+  director: Ernst Lubitsch
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 4, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: mrs-miniver
+  tmdb_id: null
+  title: Mrs. Miniver
+  year: 1942
+  runtime: 134
+  director: William Wyler
+  tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 2, acclaim: 0.80 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: meet-me-in-st-louis
+  tmdb_id: null
+  title: Meet Me in St. Louis
+  year: 1944
+  runtime: 113
+  director: Vincente Minnelli
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 3, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: national-velvet
+  tmdb_id: null
+  title: National Velvet
+  year: 1944
+  runtime: 125
+  director: Clarence Brown
+  tags: { opacity: 1, stillness: 3, bleakness: 2, humor: 2, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-postman-always-rings-twice
+  tmdb_id: null
+  title: The Postman Always Rings Twice
+  year: 1946
+  runtime: 113
+  director: Tay Garnett
+  tags:
+    opacity: 2
+    stillness: 2
+    bleakness: 4    # adultery and murder, played entirely straight — the anti-glamour MGM film
+    humor: 2
+    acclaim: 0.75
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 2 }
+
+- id: easter-parade
+  tmdb_id: null
+  title: Easter Parade
+  year: 1948
+  runtime: 103
+  director: Charles Walters
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: an-american-in-paris
+  tmdb_id: null
+  title: An American in Paris
+  year: 1951
+  runtime: 113
+  director: Vincente Minnelli
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.82 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: singin-in-the-rain
+  tmdb_id: null
+  title: Singin' in the Rain
+  year: 1952
+  runtime: 103
+  director: Gene Kelly, Stanley Donen
+  tags:
+    opacity: 1
+    stillness: 1
+    bleakness: 1
+    humor: 5    # a rubric anchor for 5 — the definitive MGM musical, and nothing about it is ironic
+    acclaim: 0.95
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-band-wagon
+  tmdb_id: null
+  title: The Band Wagon
+  year: 1953
+  runtime: 112
+  director: Vincente Minnelli
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: seven-brides-for-seven-brothers
+  tmdb_id: null
+  title: Seven Brides for Seven Brothers
+  year: 1954
+  runtime: 103
+  director: Stanley Donen
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.75 }
+  # The premise — brothers abducting women to be their wives — has aged into a real discomfort
+  # the tags don't have a clean box for. Noted here rather than smoothed over.
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: forbidden-planet
+  tmdb_id: null
+  title: Forbidden Planet
+  year: 1956
+  runtime: 98
+  director: Fred M. Wilcox
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: ben-hur
+  tmdb_id: null
+  title: Ben-Hur
+  year: 1959
+  runtime: 212
+  director: William Wyler
+  tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 2, acclaim: 0.90 }
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 0 }
