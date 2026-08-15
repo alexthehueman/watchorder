@@ -1,0 +1,116 @@
+# Films for Werner Herzog. Scales and anchors are in README.md ("The anchor rubric"). Mixes
+# narrative features and documentaries on purpose — that split is a genuine part of his identity,
+# not a reach to pad the corpus.
+
+- id: aguirre-the-wrath-of-god
+  tmdb_id: null
+  title: Aguirre, the Wrath of God
+  year: 1972
+  runtime: 95
+  director: Werner Herzog
+  tags:
+    opacity: 2    # the expedition's grip on reality dissolves well before the ending does
+    stillness: 3
+    bleakness: 5    # every man on the raft dies but one, and he is left surrounded by monkeys
+    humor: 1
+    acclaim: 0.90
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-enigma-of-kaspar-hauser
+  tmdb_id: null
+  title: The Enigma of Kaspar Hauser
+  year: 1974
+  runtime: 110
+  director: Werner Herzog
+  tags: { opacity: 2, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
+
+- id: stroszek
+  tmdb_id: null
+  title: Stroszek
+  year: 1977
+  runtime: 108
+  director: Werner Herzog
+  tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 2, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
+
+- id: woyzeck
+  tmdb_id: null
+  title: Woyzeck
+  year: 1979
+  runtime: 82
+  director: Werner Herzog
+  tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: nosferatu-the-vampyre
+  tmdb_id: null
+  title: Nosferatu the Vampyre
+  year: 1979
+  runtime: 107
+  director: Werner Herzog
+  tags: { opacity: 2, stillness: 4, bleakness: 4, humor: 1, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: fitzcarraldo
+  tmdb_id: null
+  title: Fitzcarraldo
+  year: 1982
+  runtime: 158
+  director: Werner Herzog
+  tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 2, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: grizzly-man
+  tmdb_id: null
+  title: Grizzly Man
+  year: 2005
+  runtime: 103
+  director: Werner Herzog
+  tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 2, acclaim: 0.88 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: rescue-dawn
+  tmdb_id: null
+  title: Rescue Dawn
+  year: 2006
+  runtime: 126
+  director: Werner Herzog
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: encounters-at-the-end-of-the-world
+  tmdb_id: null
+  title: Encounters at the End of the World
+  year: 2007
+  runtime: 101
+  director: Werner Herzog
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.80 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: bad-lieutenant-port-of-call-new-orleans
+  tmdb_id: null
+  title: Bad Lieutenant - Port of Call New Orleans
+  year: 2009
+  runtime: 122
+  director: Werner Herzog
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 3, acclaim: 0.75 }
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 2 }
+
+- id: cave-of-forgotten-dreams
+  tmdb_id: null
+  title: Cave of Forgotten Dreams
+  year: 2010
+  runtime: 90
+  director: Werner Herzog
+  tags: { opacity: 1, stillness: 3, bleakness: 1, humor: 1, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: into-the-abyss
+  tmdb_id: null
+  title: Into the Abyss
+  year: 2011
+  runtime: 107
+  director: Werner Herzog
+  tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.82 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }

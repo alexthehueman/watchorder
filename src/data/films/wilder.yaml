@@ -1,0 +1,118 @@
+# Films for Billy Wilder. Scales and anchors are in README.md ("The anchor rubric").
+
+- id: double-indemnity
+  tmdb_id: null
+  title: Double Indemnity
+  year: 1944
+  runtime: 107
+  director: Billy Wilder
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.92 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-lost-weekend
+  tmdb_id: null
+  title: The Lost Weekend
+  year: 1945
+  runtime: 101
+  director: Billy Wilder
+  tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
+
+- id: sunset-boulevard
+  tmdb_id: null
+  title: Sunset Boulevard
+  year: 1950
+  runtime: 110
+  director: Billy Wilder
+  tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 2, acclaim: 0.95 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: ace-in-the-hole
+  tmdb_id: null
+  title: Ace in the Hole
+  year: 1951
+  runtime: 111
+  director: Billy Wilder
+  tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: stalag-17
+  tmdb_id: null
+  title: Stalag 17
+  year: 1953
+  runtime: 120
+  director: Billy Wilder
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: sabrina
+  tmdb_id: null
+  title: Sabrina
+  year: 1954
+  runtime: 113
+  director: Billy Wilder
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: witness-for-the-prosecution
+  tmdb_id: null
+  title: Witness for the Prosecution
+  year: 1957
+  runtime: 116
+  director: Billy Wilder
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.88 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: some-like-it-hot
+  tmdb_id: null
+  title: Some Like It Hot
+  year: 1959
+  runtime: 121
+  director: Billy Wilder
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 5, acclaim: 0.95 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-apartment
+  tmdb_id: null
+  title: The Apartment
+  year: 1960
+  runtime: 125
+  director: Billy Wilder
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 3, acclaim: 0.94 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
+
+- id: one-two-three
+  tmdb_id: null
+  title: One, Two, Three
+  year: 1961
+  runtime: 115
+  director: Billy Wilder
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 5, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: irma-la-douce
+  tmdb_id: null
+  title: Irma la Douce
+  year: 1963
+  runtime: 147
+  director: Billy Wilder
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: the-fortune-cookie
+  tmdb_id: null
+  title: The Fortune Cookie
+  year: 1966
+  runtime: 125
+  director: Billy Wilder
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: fedora
+  tmdb_id: null
+  title: Fedora
+  year: 1978
+  runtime: 114
+  director: Billy Wilder
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }

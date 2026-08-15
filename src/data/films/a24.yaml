@@ -51,7 +51,12 @@
   year: 2016
   runtime: 111
   director: Barry Jenkins
-  tags: { opacity: 1, stillness: 4, bleakness: 3, humor: 1, acclaim: 0.93 }
+  tags:
+    opacity: 2    # three different actors play the same character across time, with the joins never spelled out
+    stillness: 4
+    bleakness: 3
+    humor: 1
+    acclaim: 0.93
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 1 }
 
 - id: the-florida-project

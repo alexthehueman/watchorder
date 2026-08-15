@@ -1,0 +1,67 @@
+# New films for Spike Lee. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Malcolm X and Inside Man already existed in the corpus, tagged for Denzel Washington. Only the
+# seven below are new.
+
+- id: shes-gotta-have-it
+  tmdb_id: null
+  title: She's Gotta Have It
+  year: 1986
+  runtime: 84
+  director: Spike Lee
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+
+- id: do-the-right-thing
+  tmdb_id: null
+  title: Do the Right Thing
+  year: 1989
+  runtime: 120
+  director: Spike Lee
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 3, acclaim: 0.95 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: jungle-fever
+  tmdb_id: null
+  title: Jungle Fever
+  year: 1991
+  runtime: 132
+  director: Spike Lee
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: clockers
+  tmdb_id: null
+  title: Clockers
+  year: 1995
+  runtime: 128
+  director: Spike Lee
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: 25th-hour
+  tmdb_id: null
+  title: 25th Hour
+  year: 2002
+  runtime: 135
+  director: Spike Lee
+  tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 2, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: blackkklansman
+  tmdb_id: null
+  title: BlacKkKlansman
+  year: 2018
+  runtime: 135
+  director: Spike Lee
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: da-5-bloods
+  tmdb_id: null
+  title: Da 5 Bloods
+  year: 2020
+  runtime: 156
+  director: Spike Lee
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 2, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }

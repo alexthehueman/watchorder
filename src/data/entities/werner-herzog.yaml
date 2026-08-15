@@ -1,0 +1,84 @@
+# Narrative features and documentaries deliberately mixed together — the split between the two is
+# a genuine part of his identity, not a reach to pad the corpus.
+
+slug: werner-herzog
+kind: director
+name: Werner Herzog
+blurb: Obsessives, madmen and the odd real bear attack, narrated in the same droll, unhurried voice.
+
+films:
+  - film: aguirre-the-wrath-of-god
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: A doomed Amazon expedition unravels into madness, one man at a time, until only Aguirre is left, surrounded by monkeys.
+
+  - film: grizzly-man
+    signature: 5
+    must_see: true
+    gateway: 5
+    note: A man who lived among grizzly bears for thirteen summers, using footage he shot right up until the bears killed him.
+
+  - film: fitzcarraldo
+    signature: 4
+    gateway: 2
+    note: An opera obsessive hauls a real steamship over a real mountain, because the film refused to fake it.
+
+  - film: nosferatu-the-vampyre
+    signature: 4
+    gateway: 3
+    note: A remake so patient and dreamlike it barely resembles the word "remake."
+
+  - film: into-the-abyss
+    signature: 4
+    gateway: 3
+    note: Death-row interviews conducted days before an execution, with none of true crime's usual appetite for it.
+
+  - film: stroszek
+    signature: 4
+    gateway: 1
+    note: A street musician's American dream collapses so completely the ending needed a dancing chicken to survive it.
+
+  - film: the-enigma-of-kaspar-hauser
+    signature: 3
+    gateway: 3
+    note: A man raised in total isolation is thrust into society, and society does not know what to do with him either.
+
+  - film: woyzeck
+    signature: 4
+    gateway: 2
+    note: A soldier driven to madness by poverty and humiliation, and a murder the film treats as inevitable rather than shocking.
+
+  - film: bad-lieutenant-port-of-call-new-orleans
+    signature: 3
+    gateway: 4
+    note: A corrupt, drug-addicted cop spirals through post-Katrina New Orleans with none of the plot's own coherence.
+
+  - film: rescue-dawn
+    signature: 2
+    gateway: 4
+    note: A pilot's escape from a Laotian POW camp, filmed with none of the genre's usual triumphant framing.
+
+  - film: encounters-at-the-end-of-the-world
+    signature: 2
+    gateway: 5
+    note: A trip to Antarctica that ends up mostly about the eccentrics who choose to live there.
+
+  - film: cave-of-forgotten-dreams
+    signature: 2
+    gateway: 4
+    note: Thirty-thousand-year-old cave paintings, filmed with the same awe he usually reserves for madmen.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the documentaries that are just as him.
+  order:
+    - aguirre-the-wrath-of-god
+    - grizzly-man
+    - fitzcarraldo
+    - nosferatu-the-vampyre
+    - into-the-abyss
+    - stroszek
+    - the-enigma-of-kaspar-hauser
+    - bad-lieutenant-port-of-call-new-orleans
+    - encounters-at-the-end-of-the-world

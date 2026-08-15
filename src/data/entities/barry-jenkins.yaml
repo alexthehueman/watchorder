@@ -1,0 +1,40 @@
+# Moonlight already existed in the corpus, tagged for A24. Four films total — a genuinely small
+# feature filmography, the same situation Lynne Ramsay and Ari Aster are already in on this
+# roster, not a shorter tagging pass.
+
+slug: barry-jenkins
+kind: director
+name: Barry Jenkins
+blurb: Intimacy filmed at close range, in a body of work barely large enough to call a career yet.
+
+films:
+  - film: moonlight
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: One boy's life told in three chapters, each one recast with a different actor for the same role.
+
+  - film: if-beale-street-could-talk
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A wrongful accusation tears a young couple apart, and the film insists on their tenderness the whole way through.
+
+  - film: medicine-for-melancholy
+    signature: 4
+    gateway: 4
+    note: A one-night stand becomes a full day of wandering San Francisco, on a budget that barely covers the bicycle.
+
+  - film: mufasa-the-lion-king
+    signature: 3
+    gateway: 5
+    note: A studio prequel, made by a director whose entire prior filmography was about intimacy at close range.
+
+curated:
+  curator: house
+  rationale: The two films that built the reputation, then the two that show the range around it.
+  order:
+    - moonlight
+    - if-beale-street-could-talk
+    - medicine-for-melancholy
+    - mufasa-the-lion-king

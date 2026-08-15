@@ -1,0 +1,28 @@
+# New films for Ari Aster. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Hereditary and Midsommar already existed in the corpus, tagged for A24. Four films total, not
+# fourteen — a young, genuinely small filmography, the same situation Lynne Ramsay and Céline
+# Sciamma are already in on this roster, not a shorter tagging pass.
+
+- id: beau-is-afraid
+  tmdb_id: null
+  title: Beau Is Afraid
+  year: 2023
+  runtime: 179
+  director: Ari Aster
+  tags:
+    opacity: 4    # a dreamlike odyssey where every obstacle is staged as literally, deliriously real
+    stillness: 3
+    bleakness: 4
+    humor: 3
+    acclaim: 0.65
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 2 }
+
+- id: eddington
+  tmdb_id: null
+  title: Eddington
+  year: 2025
+  runtime: 150
+  director: Ari Aster
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 3, acclaim: 0.70 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

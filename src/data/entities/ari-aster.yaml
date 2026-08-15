@@ -1,0 +1,40 @@
+# Hereditary and Midsommar already existed in the corpus, tagged for A24. Four films total — a
+# young, genuinely small filmography rather than a shorter tagging pass, the same situation Lynne
+# Ramsay and Céline Sciamma are already in on this roster.
+
+slug: ari-aster
+kind: director
+name: Ari Aster
+blurb: Grief and dread staged so patiently the horror feels like the only honest way the scene could end.
+
+films:
+  - film: hereditary
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A family's grief curdles into something the film has been quietly setting up since the first scene.
+
+  - film: midsommar
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: A breakup processed through a Swedish solstice festival that gets less charming by the hour.
+
+  - film: beau-is-afraid
+    signature: 4
+    gateway: 1
+    note: A three-hour anxiety odyssey where every obstacle between a man and his mother's house is real, apparently.
+
+  - film: eddington
+    signature: 3
+    gateway: 3
+    note: A small New Mexico town's pandemic-era tensions escalate into something the satire can barely contain.
+
+curated:
+  curator: house
+  rationale: The two films that built the reputation, then the two that complicate it.
+  order:
+    - hereditary
+    - midsommar
+    - eddington
+    - beau-is-afraid

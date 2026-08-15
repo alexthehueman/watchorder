@@ -1,0 +1,32 @@
+# New films for Barry Jenkins. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Moonlight already existed in the corpus, tagged for A24. Four films total — a genuinely small
+# feature filmography, the same situation Lynne Ramsay and Ari Aster are already in on this
+# roster, not a shorter tagging pass.
+
+- id: medicine-for-melancholy
+  tmdb_id: null
+  title: Medicine for Melancholy
+  year: 2008
+  runtime: 88
+  director: Barry Jenkins
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: if-beale-street-could-talk
+  tmdb_id: null
+  title: If Beale Street Could Talk
+  year: 2018
+  runtime: 119
+  director: Barry Jenkins
+  tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.88 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: mufasa-the-lion-king
+  tmdb_id: null
+  title: 'Mufasa: The Lion King'
+  year: 2024
+  runtime: 118
+  director: Barry Jenkins
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }

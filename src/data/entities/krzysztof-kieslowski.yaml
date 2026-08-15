@@ -1,0 +1,68 @@
+# Three Colours: Blue already existed in the corpus, tagged for Juliette Binoche.
+
+slug: krzysztof-kieslowski
+kind: director
+name: Krzysztof Kieślowski
+blurb: Coincidence, fate, and moral weight, examined at the scale of one ordinary life at a time.
+
+films:
+  - film: three-colours-blue
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A woman erases herself from her old life after losing her husband and child in one accident. Grief, refused any tidiness.
+
+  - film: a-short-film-about-killing
+    signature: 5
+    must_see: true
+    gateway: 1
+    note: A murder and its state execution, shot with the exact same unflinching patience for both.
+
+  - film: the-double-life-of-veronique
+    signature: 4
+    gateway: 2
+    note: Two women in two countries, never meeting, each sensing the other exists. The film never explains how.
+
+  - film: three-colours-red
+    signature: 4
+    gateway: 4
+    note: A retired judge who eavesdrops on his neighbours' phone calls, and a model who cannot stop being drawn to his house.
+
+  - film: a-short-film-about-love
+    signature: 4
+    gateway: 2
+    note: A teenage voyeur's obsession with the neighbour he watches through a telescope, and how badly it goes once she notices.
+
+  - film: three-colours-white
+    signature: 3
+    gateway: 4
+    note: A revenge plot disguised as a remarriage scheme — the only entry in the trilogy played mostly for irony.
+
+  - film: blind-chance
+    signature: 3
+    gateway: 2
+    note: Three versions of the same man's life, branching from the same ten seconds at a train station.
+
+  - film: no-end
+    signature: 3
+    gateway: 1
+    note: A lawyer's ghost watches his widow try to finish the case he died working on.
+
+  - film: camera-buff
+    signature: 2
+    gateway: 3
+    note: An amateur filmmaker's hobby camera slowly takes over his marriage, his job, and his sense of what's allowed to be filmed.
+
+curated:
+  curator: house
+  rationale: The trilogy's best entry first, then the run of moral fables that led up to it.
+  order:
+    - three-colours-blue
+    - a-short-film-about-killing
+    - the-double-life-of-veronique
+    - three-colours-red
+    - a-short-film-about-love
+    - three-colours-white
+    - blind-chance
+    - no-end
+    - camera-buff

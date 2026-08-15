@@ -1,0 +1,90 @@
+# Films for Krzysztof Kieślowski. Scales and anchors are in README.md ("The anchor rubric").
+#
+# A Short Film About Killing and A Short Film About Love are the theatrical expansions of Dekalog
+# episodes 5 and 6, not the full ten-part television series — including all ten episodes as
+# separate "films" would pad the corpus with near-identical runtimes rather than reflect real
+# theatrical viewing choices.
+#
+# Three Colours: Blue already existed in the corpus, tagged for Juliette Binoche.
+
+- id: camera-buff
+  tmdb_id: null
+  title: Camera Buff
+  year: 1979
+  runtime: 112
+  director: Krzysztof Kieślowski
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: no-end
+  tmdb_id: null
+  title: No End
+  year: 1985
+  runtime: 107
+  director: Krzysztof Kieślowski
+  tags: { opacity: 2, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.70 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: blind-chance
+  tmdb_id: null
+  title: Blind Chance
+  year: 1987
+  runtime: 122
+  director: Krzysztof Kieślowski
+  tags:
+    opacity: 2    # three branching versions of one life, and the film never picks which one is "real"
+    stillness: 2
+    bleakness: 3
+    humor: 1
+    acclaim: 0.78
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: a-short-film-about-killing
+  tmdb_id: null
+  title: A Short Film About Killing
+  year: 1988
+  runtime: 84
+  director: Krzysztof Kieślowski
+  tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.88 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: a-short-film-about-love
+  tmdb_id: null
+  title: A Short Film About Love
+  year: 1988
+  runtime: 87
+  director: Krzysztof Kieślowski
+  tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
+
+- id: the-double-life-of-veronique
+  tmdb_id: null
+  title: The Double Life of Véronique
+  year: 1991
+  runtime: 98
+  director: Krzysztof Kieślowski
+  tags:
+    opacity: 3    # two women sense each other across countries, and the film never explains how or why
+    stillness: 3
+    bleakness: 3
+    humor: 1
+    acclaim: 0.88
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: three-colours-white
+  tmdb_id: null
+  title: 'Three Colours: White'
+  year: 1994
+  runtime: 92
+  director: Krzysztof Kieślowski
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.82 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: three-colours-red
+  tmdb_id: null
+  title: 'Three Colours: Red'
+  year: 1994
+  runtime: 99
+  director: Krzysztof Kieślowski
+  tags: { opacity: 1, stillness: 3, bleakness: 2, humor: 1, acclaim: 0.92 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

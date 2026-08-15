@@ -1,0 +1,66 @@
+slug: terrence-malick
+kind: director
+name: Terrence Malick
+blurb: Whispered voiceover, magic-hour light, and a camera more interested in wonder than in plot.
+
+films:
+  - film: the-tree-of-life
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: A 1950s Texas childhood framed against the birth of the universe, and the scale never plays as a joke.
+
+  - film: the-thin-red-line
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: A WWII combat film that keeps interrupting the combat to ask what any of it is actually for.
+
+  - film: days-of-heaven
+    signature: 4
+    gateway: 3
+    note: A love triangle staged almost entirely at dusk, gorgeous enough that the tragedy sneaks up on you.
+
+  - film: badlands
+    signature: 4
+    gateway: 4
+    note: A young couple's killing spree, narrated in the same flat, unbothered voice throughout.
+
+  - film: a-hidden-life
+    signature: 4
+    gateway: 3
+    note: An Austrian farmer executed for refusing to swear an oath to Hitler, and the film never suggests it wasn't worth it.
+
+  - film: the-new-world
+    signature: 4
+    gateway: 2
+    note: Pocahontas and John Smith, told as pure sensation rather than history.
+
+  - film: to-the-wonder
+    signature: 3
+    gateway: 1
+    note: A relationship dissolving almost entirely without dialogue, told through movement and whispered voiceover instead.
+
+  - film: knight-of-cups
+    signature: 3
+    gateway: 1
+    note: A screenwriter drifting through Los Angeles with barely a plot to hold onto.
+
+  - film: song-to-song
+    signature: 3
+    gateway: 1
+    note: Musicians and love triangles in the Austin scene, assembled from fragments rather than written scenes.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the run of increasingly formless ones after.
+  order:
+    - the-tree-of-life
+    - the-thin-red-line
+    - days-of-heaven
+    - badlands
+    - a-hidden-life
+    - the-new-world
+    - to-the-wonder
+    - knight-of-cups
+    - song-to-song

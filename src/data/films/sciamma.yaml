@@ -1,0 +1,46 @@
+# New films for Céline Sciamma. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Portrait of a Lady on Fire already existed, tagged for Neon. Five films total — a small,
+# real filmography rather than a shorter tagging pass, the same situation Lynne Ramsay is already
+# in on this roster.
+
+- id: water-lilies
+  tmdb_id: null
+  title: Water Lilies
+  year: 2007
+  runtime: 85
+  director: Céline Sciamma
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: tomboy
+  tmdb_id: null
+  title: Tomboy
+  year: 2011
+  runtime: 82
+  director: Céline Sciamma
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.80 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: girlhood
+  tmdb_id: null
+  title: Girlhood
+  year: 2014
+  runtime: 113
+  director: Céline Sciamma
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: petite-maman
+  tmdb_id: null
+  title: Petite Maman
+  year: 2021
+  runtime: 72
+  director: Céline Sciamma
+  tags:
+    opacity: 2    # a magical-realist premise the film stages entirely matter-of-factly
+    stillness: 3
+    bleakness: 2
+    humor: 1
+    acclaim: 0.88
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

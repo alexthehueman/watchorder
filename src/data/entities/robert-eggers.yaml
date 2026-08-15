@@ -1,0 +1,40 @@
+# The Witch and The Lighthouse already existed in the corpus, tagged for A24. Four films total — a
+# genuinely small filmography, the same situation Lynne Ramsay and Ari Aster are already in on
+# this roster, not a shorter tagging pass.
+
+slug: robert-eggers
+kind: director
+name: Robert Eggers
+blurb: Painstaking period detail wrapped around something that was always going to end badly.
+
+films:
+  - film: the-lighthouse
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: Two men, one lighthouse, and a shared descent into something between madness and myth.
+
+  - film: the-witch
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A Puritan family's isolation curdles into accusations, and the film never fully confirms who's responsible.
+
+  - film: nosferatu-2024
+    signature: 4
+    gateway: 3
+    note: A remake that leans fully into the vampire as predator, with none of the romantic softening later versions added.
+
+  - film: the-northman
+    signature: 3
+    gateway: 4
+    note: A Viking revenge quest so fated the film announces the ending before it happens, and follows through anyway.
+
+curated:
+  curator: house
+  rationale: The two films that built the reputation, then the range around them.
+  order:
+    - the-witch
+    - the-lighthouse
+    - nosferatu-2024
+    - the-northman

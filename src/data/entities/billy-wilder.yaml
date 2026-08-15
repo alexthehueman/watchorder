@@ -1,0 +1,86 @@
+slug: billy-wilder
+kind: director
+name: Billy Wilder
+blurb: The sharpest dialogue in classic Hollywood, aimed at subjects the era mostly didn't touch.
+
+films:
+  - film: sunset-boulevard
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: Narrated by a dead man floating face-down in a pool, and every minute before that image is just as merciless.
+
+  - film: some-like-it-hot
+    signature: 5
+    must_see: true
+    gateway: 5
+    note: Two musicians flee the mob in an all-female band, and the film never runs out of ways to make the disguise funnier.
+
+  - film: the-apartment
+    signature: 4
+    gateway: 4
+    note: A man lends out his apartment for his bosses' affairs, until the woman he loves turns out to be one of them.
+
+  - film: double-indemnity
+    signature: 4
+    gateway: 3
+    note: An insurance man and a client's wife plot a murder for the payout, narrated by the man already dying of it.
+
+  - film: ace-in-the-hole
+    signature: 4
+    gateway: 2
+    note: A reporter deliberately slows a man's cave rescue to keep his own story running longer.
+
+  - film: witness-for-the-prosecution
+    signature: 4
+    gateway: 4
+    note: A murder trial with a twist the film dares you to see coming anyway.
+
+  - film: stalag-17
+    signature: 3
+    gateway: 4
+    note: A POW camp whodunit — someone inside is informing for the Germans, and everyone suspects the wrong man.
+
+  - film: sabrina
+    signature: 3
+    gateway: 5
+    note: A chauffeur's daughter returns from Paris transformed, and two wealthy brothers both notice at once.
+
+  - film: one-two-three
+    signature: 3
+    gateway: 4
+    note: A Coca-Cola executive has one day to turn a Communist son-in-law presentable. Farce at absolute top speed.
+
+  - film: the-lost-weekend
+    signature: 3
+    gateway: 2
+    note: Three days inside a writer's binge, filmed with none of the era's usual squeamishness about it.
+
+  - film: irma-la-douce
+    signature: 2
+    gateway: 3
+    note: A Parisian cop falls for a prostitute and invents a fake rich lover just to keep her off the street corner himself.
+
+  - film: the-fortune-cookie
+    signature: 2
+    gateway: 3
+    note: An insurance scam runs longer than either party actually wants it to.
+
+  - film: fedora
+    signature: 2
+    gateway: 1
+    note: A faded film star's secret, echoing Sunset Boulevard's themes three decades later, with none of the same freshness left.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range of a career built entirely on sharp dialogue.
+  order:
+    - sunset-boulevard
+    - some-like-it-hot
+    - the-apartment
+    - double-indemnity
+    - witness-for-the-prosecution
+    - ace-in-the-hole
+    - stalag-17
+    - sabrina
+    - one-two-three

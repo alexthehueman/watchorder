@@ -1,0 +1,102 @@
+# Films for Terrence Malick. Scales and anchors are in README.md ("The anchor rubric").
+
+- id: badlands
+  tmdb_id: null
+  title: Badlands
+  year: 1973
+  runtime: 94
+  director: Terrence Malick
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.88 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: days-of-heaven
+  tmdb_id: null
+  title: Days of Heaven
+  year: 1978
+  runtime: 94
+  director: Terrence Malick
+  tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.90 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-thin-red-line
+  tmdb_id: null
+  title: The Thin Red Line
+  year: 1998
+  runtime: 170
+  director: Terrence Malick
+  tags:
+    opacity: 2    # philosophical voiceover threaded through the combat, non-linear and impressionistic
+    stillness: 4
+    bleakness: 4
+    humor: 1
+    acclaim: 0.88
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-new-world
+  tmdb_id: null
+  title: The New World
+  year: 2005
+  runtime: 135
+  director: Terrence Malick
+  tags: { opacity: 2, stillness: 4, bleakness: 3, humor: 1, acclaim: 0.80 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-tree-of-life
+  tmdb_id: null
+  title: The Tree of Life
+  year: 2011
+  runtime: 139
+  director: Terrence Malick
+  tags:
+    opacity: 3    # a cosmic prologue and fragmented childhood memory, with no throughline handed to the viewer
+    stillness: 4
+    bleakness: 3
+    humor: 2    # the childhood sequences carry real, unguarded play amid the cosmic framing
+    acclaim: 0.90
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: to-the-wonder
+  tmdb_id: null
+  title: To the Wonder
+  year: 2012
+  runtime: 112
+  director: Terrence Malick
+  tags:
+    opacity: 3    # a relationship dissolves almost entirely without dialogue
+    stillness: 4
+    bleakness: 3
+    humor: 1
+    acclaim: 0.60
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: knight-of-cups
+  tmdb_id: null
+  title: Knight of Cups
+  year: 2015
+  runtime: 118
+  director: Terrence Malick
+  tags:
+    opacity: 4    # a screenwriter drifting through Los Angeles with barely a plot to hold onto
+    stillness: 3
+    bleakness: 3
+    humor: 1
+    acclaim: 0.55
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: song-to-song
+  tmdb_id: null
+  title: Song to Song
+  year: 2017
+  runtime: 129
+  director: Terrence Malick
+  tags: { opacity: 3, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.52 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: a-hidden-life
+  tmdb_id: null
+  title: A Hidden Life
+  year: 2019
+  runtime: 174
+  director: Terrence Malick
+  tags: { opacity: 1, stillness: 4, bleakness: 4, humor: 1, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }

@@ -1,0 +1,46 @@
+# Portrait of a Lady on Fire already existed in the corpus, tagged for Neon. Five films total, not
+# fourteen — a small, real filmography, the same situation Lynne Ramsay is already in on this
+# roster, not a shorter tagging pass.
+
+slug: celine-sciamma
+kind: director
+name: Céline Sciamma
+blurb: Adolescent girls figuring out desire and identity, on their own terms, with adults barely in frame.
+
+films:
+  - film: portrait-of-a-lady-on-fire
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: A commissioned portrait becomes a love affair neither woman can keep.
+
+  - film: girlhood
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A teenage girl finds a version of power in a friend group, in a Paris the postcard never shows.
+
+  - film: petite-maman
+    signature: 4
+    gateway: 5
+    note: A grieving eight-year-old meets a girl her own age in the woods, who turns out to be her mother as a child.
+
+  - film: tomboy
+    signature: 4
+    gateway: 4
+    note: A ten-year-old spends one summer passing as a boy, and the film never treats it as a phase to resolve.
+
+  - film: water-lilies
+    signature: 3
+    gateway: 3
+    note: Three teenage girls circling each other around a synchronised swimming team and one unspoken desire.
+
+curated:
+  curator: house
+  rationale: The film everyone means, then the smaller, quieter ones that built up to it.
+  order:
+    - portrait-of-a-lady-on-fire
+    - girlhood
+    - petite-maman
+    - tomboy
+    - water-lilies

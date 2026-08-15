@@ -1,0 +1,68 @@
+# Malcolm X and Inside Man already existed in the corpus, tagged for Denzel Washington — the same
+# free-overlap pattern the actor and studio batches established. Seven films are new; see the note
+# in src/data/films/spike-lee.yaml.
+
+slug: spike-lee
+kind: director
+name: Spike Lee
+blurb: One block, one impossibly hot day, and a body of work that keeps returning to it.
+
+films:
+  - film: do-the-right-thing
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: One block, one impossibly hot day, and a killing the film refuses to resolve into a simple villain.
+
+  - film: malcolm-x
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A conversion, a prison sentence, and an assassination, told across three hours without softening any of it.
+
+  - film: 25th-hour
+    signature: 4
+    gateway: 3
+    note: A man's last day of freedom before a seven-year sentence, wandering a New York that feels just as unmoored.
+
+  - film: blackkklansman
+    signature: 4
+    gateway: 5
+    note: A Black detective infiltrates the Klan by phone, and sends a white colleague in for every meeting in person.
+
+  - film: clockers
+    signature: 4
+    gateway: 2
+    note: A street-level drug dealer and a murder investigation that has already decided who's guilty.
+
+  - film: jungle-fever
+    signature: 3
+    gateway: 3
+    note: An interracial affair exposes exactly how unready both families actually were.
+
+  - film: da-5-bloods
+    signature: 3
+    gateway: 3
+    note: Vietnam vets return decades later for buried gold, and the war has not finished with any of them.
+
+  - film: inside-man
+    signature: 3
+    gateway: 5
+    note: A bank heist where the actual robbery might not be the point of the plan at all.
+
+  - film: shes-gotta-have-it
+    signature: 2
+    gateway: 4
+    note: One woman, three boyfriends, and a refusal to pick just one of them that the film never treats as a problem.
+
+curated:
+  curator: house
+  rationale: The film everyone means, then the range of a career that keeps returning to the same block.
+  order:
+    - do-the-right-thing
+    - malcolm-x
+    - blackkklansman
+    - 25th-hour
+    - inside-man
+    - da-5-bloods
+    - clockers
