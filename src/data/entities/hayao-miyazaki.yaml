@@ -1,0 +1,72 @@
+# Hayao Miyazaki, as his own starting point — distinct from Studio Ghibli, which he co-founded and
+# which also includes Takahata and others. The two entities deliberately overlap: all eight films
+# below are also listed under studio-ghibli.yaml, reusing the same film rows tagged once in
+# src/data/films/ghibli.yaml. Nothing is duplicated at the film level, only the relationship —
+# same design as Amour under both Haneke and Huppert, or Wild at Heart under both Lynch and Cage.
+#
+# The two entities answer different questions on purpose. Someone who wants only his work picks
+# Miyazaki and never sees a Takahata film; someone who wants the studio's full range, his and
+# everyone else's, picks Ghibli. Neither is the "real" way to browse this catalogue — picking the
+# starting point IS the feature, and an auteur working inside a studio is a legitimate starting
+# point in his own right, the same as any director here who also happens to be produced by A24.
+
+slug: hayao-miyazaki
+kind: director
+name: Hayao Miyazaki
+blurb: Flight, appetite, and a child's-eye seriousness that never curdles into cute.
+
+films:
+  - film: spirited-away
+    signature: 5
+    must_see: true
+    gateway: 5
+    note: A ten-year-old sold into a bathhouse for spirits. Best Picture at the Oscars, and earned it.
+
+  - film: my-neighbor-totoro
+    signature: 5
+    must_see: true
+    gateway: 5
+    note: No plot to speak of, no villain at all. The purest statement of what he thinks childhood is.
+
+  - film: princess-mononoke
+    signature: 5
+    gateway: 3
+    note: The turn — industry against forest, and neither side is simply right.
+
+  - film: the-boy-and-the-heron
+    signature: 5
+    gateway: 1      # dense, self-referential, and assumes the rest of the filmography
+    note: Late and strange, and closer to autobiography than anything else he made.
+
+  - film: kikis-delivery-service
+    signature: 4
+    gateway: 5
+    note: A witch loses her power to fly and has to earn it back. Small stakes, completely sincere.
+
+  - film: castle-in-the-sky
+    signature: 4
+    gateway: 4
+    note: The template — flight, a girl who carries the plot, and a floating ruin at the end of it.
+
+  - film: porco-rosso
+    signature: 4
+    gateway: 4
+    note: A cursed pilot with a pig's face, between the wars. Reportedly his own favourite of his films.
+
+  - film: howls-moving-castle
+    signature: 4
+    gateway: 4
+    note: A war fantasy that loses the thread of its own plot and remains lovely regardless.
+
+curated:
+  curator: house
+  rationale: Start with the two everyone already half-knows, then watch the range around them.
+  order:
+    - my-neighbor-totoro
+    - kikis-delivery-service
+    - castle-in-the-sky
+    - porco-rosso
+    - princess-mononoke
+    - spirited-away
+    - howls-moving-castle
+    - the-boy-and-the-heron
