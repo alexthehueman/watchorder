@@ -1,0 +1,63 @@
+# Four of these eight films already existed in the corpus, tagged for Song Kang-ho and Tilda
+# Swinton — the same free-overlap pattern the actor and studio batches established. Only four are
+# new; see the note in src/data/films/bong-joon-ho.yaml.
+
+slug: bong-joon-ho
+kind: director
+name: Bong Joon-ho
+blurb: Class, greed, and a genre swerve every single time you think you know which film this is.
+
+films:
+  - film: parasite
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A poor family cons their way into a rich household's employ, right up until the film stops being a comedy.
+
+  - film: memories-of-murder
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: A detective certain he has his man, in a film based on a case that stayed unsolved for decades.
+
+  - film: mother
+    signature: 4
+    gateway: 2
+    note: A mother covering for her son unravels into something the film refuses to let anyone feel clean about.
+
+  - film: the-host-2006
+    signature: 4
+    gateway: 5
+    note: A monster movie about a useless father becoming useful, with the creature barely the point.
+
+  - film: snowpiercer
+    signature: 4
+    gateway: 3
+    note: Class war on a train that never stops moving, one car worse the further back you go.
+
+  - film: okja
+    signature: 3
+    gateway: 4
+    note: A genetically engineered "super pig" and the girl who raised her, against a corporation that only ever saw meat.
+
+  - film: mickey-17
+    signature: 4
+    gateway: 3
+    note: A disposable clone dies for a living, and the company keeps printing new copies whenever the old one fails.
+
+  - film: barking-dogs-never-bite
+    signature: 3
+    gateway: 3
+    note: An apartment complex, a missing dog, and a small cruelty that spirals completely out of proportion.
+
+curated:
+  curator: house
+  rationale: The two films everyone already means, then the genre swerves around them.
+  order:
+    - parasite
+    - memories-of-murder
+    - mother
+    - the-host-2006
+    - snowpiercer
+    - okja
+    - mickey-17

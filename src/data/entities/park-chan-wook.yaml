@@ -1,0 +1,63 @@
+# Two of these eight films already existed in the corpus, tagged for Song Kang-ho — the same
+# free-overlap pattern the actor and studio batches established. Only six are new; see the note in
+# src/data/films/park-chan-wook.yaml.
+
+slug: park-chan-wook
+kind: director
+name: Park Chan-wook
+blurb: Revenge plots built like clockwork, and a camera that never once looks away from what they cost.
+
+films:
+  - film: oldboy
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: Imprisoned for fifteen years with no explanation, released with five days to find out why.
+
+  - film: the-handmaiden
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A con against a wealthy woman curdles into something neither schemer expected to feel.
+
+  - film: sympathy-for-mr-vengeance
+    signature: 5
+    gateway: 1
+    note: A father's revenge spiral, and the bleakest corner of the vengeance trilogy by a wide margin.
+
+  - film: lady-vengeance
+    signature: 4
+    gateway: 2
+    note: Thirteen years planning one act of revenge against a child killer, and the plan is not the hard part.
+
+  - film: decision-to-leave
+    signature: 4
+    gateway: 3
+    note: A detective's professional obsession with a murder suspect curdles into something neither names out loud.
+
+  - film: thirst
+    signature: 3
+    gateway: 2
+    note: A priest turned vampire, torn between faith and appetite.
+
+  - film: joint-security-area
+    signature: 4
+    gateway: 4
+    note: Soldiers from both sides of the DMZ become friends in secret, and the system cannot let that stand.
+
+  - film: stoker
+    signature: 3
+    gateway: 3
+    note: A teenage girl's coming-of-age, narrated by an uncle whose interest in her is never remotely avuncular.
+
+curated:
+  curator: house
+  rationale: The two films everyone already means, then the trilogy that built the reputation.
+  order:
+    - oldboy
+    - the-handmaiden
+    - decision-to-leave
+    - sympathy-for-mr-vengeance
+    - lady-vengeance
+    - joint-security-area
+    - thirst

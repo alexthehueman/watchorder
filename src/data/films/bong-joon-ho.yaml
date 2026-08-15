@@ -1,0 +1,45 @@
+# New films for Bong Joon-ho. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Memories of Murder, The Host and Parasite already existed in the corpus, tagged for Song
+# Kang-ho; Snowpiercer for Tilda Swinton. Only the four below are new.
+
+- id: barking-dogs-never-bite
+  tmdb_id: null
+  title: Barking Dogs Never Bite
+  year: 2000
+  runtime: 106
+  director: Bong Joon-ho
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: mother
+  tmdb_id: null
+  title: Mother
+  year: 2009
+  runtime: 129
+  director: Bong Joon-ho
+  tags:
+    opacity: 2    # an investigation the mother is also, unreliably, narrating
+    stillness: 2
+    bleakness: 5    # ends in a cover-up she has to live inside for the rest of her life
+    humor: 2
+    acclaim: 0.88
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: okja
+  tmdb_id: null
+  title: Okja
+  year: 2017
+  runtime: 120
+  director: Bong Joon-ho
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: mickey-17
+  tmdb_id: null
+  title: Mickey 17
+  year: 2025
+  runtime: 137
+  director: Bong Joon-ho
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
