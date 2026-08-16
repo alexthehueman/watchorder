@@ -1,0 +1,103 @@
+# Films for Andrei Tarkovsky. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Added to close a gap the plan named explicitly: the spread grid is meant to span "slow cinema
+# (Tarkovsky)" and he was never tagged. Note the stillness values sit at 4, not 5 — the rubric
+# pins 5 to Jeanne Dielman and Sátántangó, where duration is itself the subject, and Stalker is
+# the named anchor for 4. Tarkovsky is slow; those two are structurally about slowness.
+
+- id: ivans-childhood
+  tmdb_id: null
+  title: Ivan's Childhood
+  year: 1962
+  runtime: 95
+  director: Andrei Tarkovsky
+  tags: { opacity: 2, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+
+- id: andrei-rublev
+  tmdb_id: null
+  title: Andrei Rublev
+  year: 1966
+  runtime: 205
+  director: Andrei Tarkovsky
+  tags:
+    opacity: 3
+    stillness: 4
+    bleakness: 3 # eight chapters of brutality, and then the bell is cast and the icons turn to colour
+    humor: 2 # the jester who opens the film is genuinely funny, right up until he is punished for it
+    acclaim: 0.93
+  # A horse is killed on camera. Flagged rather than argued about: the rubric asks what a viewer
+  # who set the toggle would want to know, not what the film's defenders think it means.
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 1 }
+
+- id: solaris
+  tmdb_id: null
+  title: Solaris
+  year: 1972
+  runtime: 167
+  director: Andrei Tarkovsky
+  tags: { opacity: 3, stillness: 4, bleakness: 4, humor: 2, acclaim: 0.88 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 1 }
+
+- id: mirror
+  tmdb_id: null
+  title: Mirror
+  year: 1975
+  runtime: 107
+  director: Andrei Tarkovsky
+  tags:
+    opacity: 5 # memory, newsreel and dream cut together with no stable chronology to recover
+    stillness: 4
+    bleakness: 3
+    humor: 1
+    acclaim: 0.90
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: stalker
+  tmdb_id: null
+  title: Stalker
+  year: 1979
+  runtime: 162
+  director: Andrei Tarkovsky
+  tags:
+    opacity: 4
+    stillness: 4 # the rubric's named anchor for this value
+    bleakness: 3 # the daughter moving the glass is the closest he ever came to an unambiguous hope
+    humor: 2 # the Writer spends the entire walk being witheringly funny about the other two
+    acclaim: 0.95
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: nostalghia
+  tmdb_id: null
+  title: Nostalghia
+  year: 1983
+  runtime: 125
+  director: Andrei Tarkovsky
+  tags:
+    opacity: 4
+    stillness: 5 # a nine-minute unbroken take of a man carrying a candle across an empty pool
+    bleakness: 5
+    humor: 1
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 0 }
+
+- id: the-sacrifice
+  tmdb_id: null
+  title: The Sacrifice
+  year: 1986
+  runtime: 149
+  director: Andrei Tarkovsky
+  tags: { opacity: 4, stillness: 5, bleakness: 4, humor: 2, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+# His graduation film, added for the same structural reason Little Women and Stage Door were added
+# to Katharine Hepburn: with only seven features, "twelve" and "everything" round to an identical
+# set on every profile, which caps the spread metrics by construction rather than by any judgement.
+- id: the-steamroller-and-the-violin
+  tmdb_id: null
+  title: The Steamroller and the Violin
+  year: 1961
+  runtime: 46
+  director: Andrei Tarkovsky
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

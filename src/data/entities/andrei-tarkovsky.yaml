@@ -1,0 +1,58 @@
+slug: andrei-tarkovsky
+kind: director
+name: Andrei Tarkovsky
+blurb: Seven films in twenty-four years, each one convinced cinema could carry the weight of prayer.
+
+films:
+  - film: stalker
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: Three men walk into a forbidden zone toward a room that grants your true desire. Almost nothing happens, and it is unbearable.
+
+  - film: mirror
+    signature: 5
+    gateway: 1      # no stable chronology to hold on to; a punishing place to begin
+    note: His own childhood, his mother, and forty years of Russian history, cut together as memory rather than story.
+
+  - film: andrei-rublev
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: An icon painter loses his faith across eight chapters of medieval brutality, then a boy casts a bell.
+
+  - film: solaris
+    signature: 4
+    gateway: 4
+    note: A psychologist on a station orbiting a sentient ocean that keeps returning his dead wife to him.
+
+  - film: the-sacrifice
+    signature: 4
+    gateway: 2
+    note: Shot as he was dying, and it knows it. A man bargains with God to undo a nuclear war.
+
+  - film: nostalghia
+    signature: 4
+    gateway: 2
+    note: A Russian poet stranded in Italy, homesick past the point of illness. The candle sequence is the whole film.
+
+  - film: ivans-childhood
+    signature: 3
+    gateway: 5      # conventional enough to hold onto, and the shortest way in
+    note: His first feature, and the most legible. A boy scout for the Red Army who has nothing left to go back to.
+
+  - film: the-steamroller-and-the-violin
+    signature: 2
+    gateway: 4
+    note: Forty-six minutes, made as a student, and already about a boy looking for a father who is not there.
+
+curated:
+  curator: house
+  rationale: Begin where the story still carries you, and end where only the images do.
+  order:
+    - ivans-childhood
+    - solaris
+    - andrei-rublev
+    - stalker
+    - nostalghia
+    - mirror
