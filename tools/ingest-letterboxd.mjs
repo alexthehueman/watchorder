@@ -1,6 +1,6 @@
-// Fallback poster/tmdb_id resolver for films OMDb couldn't match — run manually, by you, the same
-// way project-hub's worker.js hits Letterboxd under your own account rather than mine. This is a
-// tool for you to run (`npm run ingest:letterboxd`), not something invoked automatically.
+// Letterboxd-link resolver, run manually by you, the same way project-hub's worker.js hits
+// Letterboxd under your own account rather than mine. This is a tool for you to run
+// (`npm run ingest:letterboxd`), not something invoked automatically.
 //
 // Letterboxd has no public search API, so there is no safe way to look up an arbitrary title. What
 // this does instead: guess a handful of plausible slugs (the corpus id, a slugified title, title+year),
@@ -10,12 +10,14 @@
 // is an unrelated 2026 stage adaptation, not Kubrick's 1964 film of the same slug — this check is
 // what catches that instead of silently writing the wrong poster.
 //
-// Fills letterboxd_slug (the confirmed match — what lets the site link out to the film's own
-// page), poster_url, and opportunistically tmdb_id. Letterboxd film pages link out to TMDB but
-// never to IMDb, so imdb_id stays null and these films remain flagged for OMDb/TMDB review.
+// Runs against every film in the corpus, not only ones OMDb missed — the point is a Letterboxd
+// link on every film page, not just a poster fallback. It never overwrites an existing poster_url
+// or tmdb_id (those stay whatever OMDb already resolved); it only ever adds letterboxd_slug plus
+// poster_url/tmdb_id for films that didn't already have them. Letterboxd film pages link out to
+// TMDB but never to IMDb, so imdb_id is untouched by this tool entirely.
 //
 // Usage:
-//   npm run ingest:letterboxd                try every film still missing both imdb_id and letterboxd_slug
+//   npm run ingest:letterboxd                try every film still missing letterboxd_slug
 //   npm run ingest:letterboxd -- --dry-run    report matches without writing
 
 import { readdir, readFile, writeFile } from 'node:fs/promises';
@@ -23,11 +25,12 @@ import { pathToFileURL } from 'node:url';
 import { parseDocument } from 'yaml';
 
 const FILM_DIR = new URL('../src/data/films/', import.meta.url);
-const UA = 'Mozilla/5.0 (compatible; WatchOrder-personal-ingest/0.1; non-commercial, low-volume)';
+const UA = 'Mozilla/5.0 (compatible; WatchOrder-personal-ingest/0.1; non-commercial)';
 
-// No published rate limit because there's no public API here at all — this is a personal script
-// making a couple hundred requests once, not a recurring crawl, so a conservative gap is just
-// good manners rather than a compliance requirement.
+// No published rate limit because there's no public API here at all — this is a personal script,
+// not a recurring crawl, so a conservative fixed gap after every request (hit or miss) is just
+// good manners rather than a compliance requirement. Applied unconditionally, not only on retry,
+// now that a run covers the whole corpus rather than a few dozen films.
 const REQUEST_GAP_MS = 500;
 
 function sleep(ms) {
@@ -96,8 +99,8 @@ async function tryCandidate(slug, film) {
 async function resolveFilm(film) {
   for (const slug of candidateSlugs(film)) {
     const match = await tryCandidate(slug, film);
-    if (match) return match;
     await sleep(REQUEST_GAP_MS);
+    if (match) return match;
   }
   return null;
 }
@@ -115,20 +118,24 @@ async function resolveMissingPosters(dryRun) {
 
     for (const node of items) {
       const film = node.toJSON();
-      const hasImdb = film.imdb_id !== null && film.imdb_id !== undefined;
-      const hasSlug = film.letterboxd_slug !== null && film.letterboxd_slug !== undefined;
-      if (hasImdb || hasSlug) continue;
+      if (film.letterboxd_slug !== null && film.letterboxd_slug !== undefined) continue;
 
       const match = await resolveFilm(film);
       if (match) {
         node.set('letterboxd_slug', match.slug);
-        if (match.poster) node.set('poster_url', match.poster);
+        const parts = ['slug'];
+        // Never overwrites a poster or tmdb_id OMDb already resolved — this tool only adds what's
+        // still missing.
+        if (match.poster && (film.poster_url === null || film.poster_url === undefined)) {
+          node.set('poster_url', match.poster);
+          parts.push('poster');
+        }
         if (match.tmdbId && (film.tmdb_id === null || film.tmdb_id === undefined)) {
           node.set('tmdb_id', match.tmdbId);
+          parts.push(`tmdb:${match.tmdbId}`);
         }
         changed += 1;
         resolved += 1;
-        const parts = ['slug', match.poster ? 'poster' : null, match.tmdbId ? `tmdb:${match.tmdbId}` : null].filter(Boolean);
         console.log(`  ok    ${file}: ${film.id} -> ${parts.join(', ')}`);
       } else {
         unresolved += 1;
