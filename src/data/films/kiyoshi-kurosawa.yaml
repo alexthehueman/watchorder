@@ -55,7 +55,7 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMzkzOTk4NTUwOV5BMl5BanBnXkFtZTcwMDQ5NjcyMQ@@._V1_SX300.jpg
 
 - id: doppelganger
-  tmdb_id: null
+  tmdb_id: 32234
   title: Doppelgänger
   year: 2003
   runtime: 107
@@ -66,6 +66,7 @@
     humor: 4 # a broad farce from the director of Cure, and it commits fully
     acclaim: 0.62
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/80/7h/am/qp/doppel-1200-1200-675-675-crop-000000.jpg?v=a1bd41e13a
 
 - id: retribution
   tmdb_id: null

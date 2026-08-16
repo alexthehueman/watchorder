@@ -5,12 +5,13 @@
 # of Jeanne Dielman, and both the reason the humor axis is worth its tagging cost here.
 
 - id: je-tu-il-elle
-  tmdb_id: null
+  tmdb_id: 93934
   title: Je, tu, il, elle
   year: 1974
   runtime: 86
   tags: { opacity: 3, stillness: 5, bleakness: 4, humor: 1, acclaim: 0.70 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 3 }
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/yu/at/5g/91/je%20tu-1200-1200-675-675-crop-000000.jpg?v=3750eee795
 
 - id: jeanne-dielman
   tmdb_id: null
@@ -46,12 +47,13 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
 
 - id: toute-une-nuit
-  tmdb_id: null
+  tmdb_id: 63215
   title: Toute une nuit
   year: 1982
   runtime: 90
   tags: { opacity: 4, stillness: 5, bleakness: 3, humor: 2, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/xr/pt/61/dj/toute-1200-1200-675-675-crop-000000.jpg?v=870ea32d3f
 
 - id: golden-eighties
   tmdb_id: null
