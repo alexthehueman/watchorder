@@ -14,8 +14,12 @@ import { esc, formatRuntime, layout, url } from './layout.js';
 function filmCard(entry, index) {
   const { film, pair } = entry;
   const series = film.medium === 'series';
+  const poster = film.poster_url
+    ? `<img class="poster" src="${esc(film.poster_url)}" alt="" loading="lazy" width="56" height="84">`
+    : `<div class="poster-placeholder" aria-hidden="true"></div>`;
   return `        <li class="film">
           <div class="rank">${index + 1}</div>
+          ${poster}
           <div class="body">
             <h3>${esc(film.title)} <span class="year">${film.year}</span></h3>
             <p class="meta">

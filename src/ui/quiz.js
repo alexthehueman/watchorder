@@ -51,6 +51,20 @@ function card(entry, index) {
   const item = element('li', 'film');
   item.append(element('div', 'rank', String(index + 1)));
 
+  if (entry.film.poster_url) {
+    const poster = element('img', 'poster');
+    poster.src = entry.film.poster_url; // a DOM property assignment, not markup — never interpreted as HTML
+    poster.alt = '';
+    poster.loading = 'lazy';
+    poster.width = 56;
+    poster.height = 84;
+    item.append(poster);
+  } else {
+    const placeholder = element('div', 'poster-placeholder');
+    placeholder.setAttribute('aria-hidden', 'true');
+    item.append(placeholder);
+  }
+
   const body = element('div', 'body');
   const title = element('h3', null, entry.film.title + ' ');
   title.append(element('span', 'year', String(entry.film.year)));

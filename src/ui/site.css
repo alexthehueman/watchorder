@@ -112,7 +112,7 @@ ol.films {
 
 li.film {
   display: grid;
-  grid-template-columns: 2.5rem 1fr;
+  grid-template-columns: 2.5rem 3.5rem 1fr;
   gap: 1rem;
   padding: 1.25rem 0;
   border-top: 1px solid var(--rule);
@@ -123,6 +123,23 @@ li.film:last-child { border-bottom: 1px solid var(--rule); }
 .rank {
   font: 500 0.95rem/1.6 ui-serif, Georgia, serif;
   color: var(--accent);
+}
+
+.poster {
+  width: 3.5rem;
+  height: 5.25rem;
+  object-fit: cover;
+  border-radius: 3px;
+  display: block;
+}
+
+/* Roughly a fifth of the corpus has no poster yet — OMDb/Letterboxd couldn't confidently match
+   the title. A same-sized muted block keeps every row's rank and text aligned either way. */
+.poster-placeholder {
+  width: 3.5rem;
+  height: 5.25rem;
+  border-radius: 3px;
+  background: var(--rule);
 }
 
 .year { color: var(--muted); font-weight: 400; }
@@ -416,5 +433,6 @@ footer.site p { margin: 0 0 0.5rem; }
 .fine { opacity: 0.75; font-size: 0.8rem; }
 
 @media (max-width: 30rem) {
-  li.film { grid-template-columns: 1.75rem 1fr; gap: 0.75rem; }
+  li.film { grid-template-columns: 1.75rem 2.75rem 1fr; gap: 0.75rem; }
+  .poster, .poster-placeholder { width: 2.75rem; height: 4.125rem; }
 }
