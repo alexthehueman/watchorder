@@ -5,7 +5,7 @@
 # famous performances to everyone.
 
 - id: raising-arizona
-  tmdb_id: null
+  tmdb_id: 378
   title: Raising Arizona
   year: 1987
   runtime: 94
@@ -13,9 +13,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0093822
   poster_url: https://m.media-amazon.com/images/M/MV5BNWIzMTdmZDgtZTc2NS00MDA1LWFiMmMtYzc5YzY0YTEyZjE5XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: raising-arizona
 
 - id: moonstruck
-  tmdb_id: null
+  tmdb_id: 2039
   title: Moonstruck
   year: 1987
   runtime: 102
@@ -23,6 +24,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt0093565
   poster_url: https://m.media-amazon.com/images/M/MV5BZjdiMjI1MTQtMWIzNC00OTg2LWI5NjItYTBiMTYzMmIxYmNjXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: moonstruck
 
 - id: vampires-kiss
   tmdb_id: null
@@ -35,7 +37,7 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTM1MDAyMDYxMV5BMl5BanBnXkFtZTcwNDQwMzc3NA@@._V1_SX300.jpg
 
 - id: leaving-las-vegas
-  tmdb_id: null
+  tmdb_id: 451
   title: Leaving Las Vegas
   year: 1995
   runtime: 111
@@ -43,9 +45,10 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 3 }
   imdb_id: tt0113627
   poster_url: https://m.media-amazon.com/images/M/MV5BNDg3MDM5NTI0MF5BMl5BanBnXkFtZTcwNDY0NDk0NA@@._V1_SX300.jpg
+  letterboxd_slug: leaving-las-vegas
 
 - id: the-rock
-  tmdb_id: null
+  tmdb_id: 9802
   title: The Rock
   year: 1996
   runtime: 136
@@ -53,9 +56,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt0117500
   poster_url: https://m.media-amazon.com/images/M/MV5BMDhkYjRiZWEtZTE0Ny00ZjA1LThmNjgtM2UyYTQzODA4MjdhXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-rock
 
 - id: face-off
-  tmdb_id: null
+  tmdb_id: 754
   title: Face/Off
   year: 1997
   runtime: 138
@@ -63,9 +67,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 1 }
   imdb_id: tt0119094
   poster_url: https://m.media-amazon.com/images/M/MV5BOGQyOWNmYTgtZWY0NS00NzhjLTg3NmMtMzcwYzQ2OTA2OTJkXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: face-off
 
 - id: adaptation
-  tmdb_id: null
+  tmdb_id: 2757
   title: Adaptation
   year: 2002
   runtime: 115
@@ -73,9 +78,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
   imdb_id: tt0268126
   poster_url: https://m.media-amazon.com/images/M/MV5BMmQ1MWMxZjEtNmNmYi00ZGFhLWExZDItODcwNzlmZjg0YzNlXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: adaptation
 
 - id: bad-lieutenant-new-orleans
-  tmdb_id: null
+  tmdb_id: 11699
   title: 'Bad Lieutenant: Port of Call New Orleans'
   year: 2009
   runtime: 122
@@ -83,9 +89,10 @@
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 2 }
   imdb_id: tt1095217
   poster_url: https://m.media-amazon.com/images/M/MV5BMTcyMzY0NTMzMF5BMl5BanBnXkFtZTcwMTc1MjY4Mg@@._V1_SX300.jpg
+  letterboxd_slug: bad-lieutenant-port-of-call-new-orleans
 
 - id: joe
-  tmdb_id: null
+  tmdb_id: 157847
   title: Joe
   year: 2013
   runtime: 117
@@ -93,9 +100,10 @@
   content: { sexual_violence: false, animal_harm: true, child_harm: true, suicide: false, violence: 3, sex: 1 }
   imdb_id: tt2382396
   poster_url: https://m.media-amazon.com/images/M/MV5BMjExMzk5MTM1Ml5BMl5BanBnXkFtZTgwNzAzODgxMTE@._V1_SX300.jpg
+  letterboxd_slug: joe-2013
 
 - id: mandy
-  tmdb_id: null
+  tmdb_id: 460885
   title: Mandy
   year: 2018
   runtime: 121
@@ -103,9 +111,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
   imdb_id: tt6998518
   poster_url: https://m.media-amazon.com/images/M/MV5BZGI1NTNhNzctOTk4OC00N2RjLTkwYTgtOGMwMWFjMzM5ZjNiXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: mandy-2018
 
 - id: color-out-of-space
-  tmdb_id: null
+  tmdb_id: 548473
   title: Color Out of Space
   year: 2019
   runtime: 111
@@ -113,9 +122,10 @@
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt5073642
   poster_url: https://m.media-amazon.com/images/M/MV5BNmNlNDMwNzUtYzJlOC00MjRkLTkyNjYtZjY3NTk1NjZlZGMxXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: color-out-of-space
 
 - id: pig
-  tmdb_id: null
+  tmdb_id: 635731
   title: Pig
   year: 2021
   runtime: 92
@@ -129,9 +139,10 @@
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt11003218
   poster_url: https://m.media-amazon.com/images/M/MV5BMDlhN2E1ODUtNzNlZi00NWE4LTlhMDAtOThjNmY1MDkwYTVkXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: pig-2021
 
 - id: dream-scenario
-  tmdb_id: null
+  tmdb_id: 823482
   title: Dream Scenario
   year: 2023
   runtime: 100
@@ -139,3 +150,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
   imdb_id: tt21942866
   poster_url: https://m.media-amazon.com/images/M/MV5BZTVhZjNhMzktOGQ2YS00OGVkLWExNGEtMjBlYWI3MjVmYmM1XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: dream-scenario

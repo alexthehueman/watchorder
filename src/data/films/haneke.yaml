@@ -5,7 +5,7 @@
 # register question as quiet for him. Where the humor is real it is genuinely nasty, and tagged so.
 
 - id: the-seventh-continent
-  tmdb_id: null
+  tmdb_id: 32761
   title: The Seventh Continent
   year: 1989
   runtime: 104
@@ -19,6 +19,7 @@
     sex: 0
   imdb_id: tt0098327
   poster_url: https://m.media-amazon.com/images/M/MV5BMjdkMmMzYzMtMzMwOC00ODMwLTk0MzctYmNkMjY5MTMyNTY2XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-seventh-continent
 
 - id: bennys-video
   tmdb_id: null
@@ -37,7 +38,7 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTM2NDI1NDMtNDFkZi00N2IxLTkxMzYtMTliYTcxM2VhNzA0XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: 71-fragments
-  tmdb_id: null
+  tmdb_id: 32764
   title: 71 Fragments of a Chronology of Chance
   year: 1994
   runtime: 96
@@ -51,9 +52,10 @@
     sex: 0
   imdb_id: tt0109020
   poster_url: https://m.media-amazon.com/images/M/MV5BZTNlYWUzOTYtYTkyNC00Zjg4LWIwYTMtMDQxYmQ4ZmQyMjQyXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: 71-fragments-of-a-chronology-of-chance
 
 - id: funny-games
-  tmdb_id: null
+  tmdb_id: 10234
   title: Funny Games
   year: 1997
   runtime: 108
@@ -72,9 +74,10 @@
     sex: 1
   imdb_id: tt0119167
   poster_url: https://m.media-amazon.com/images/M/MV5BN2NkZWQyNzgtNGIzZC00YjFkLWFkZGQtNTU0OGI5ODYxODA1XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: funny-games
 
 - id: code-unknown
-  tmdb_id: null
+  tmdb_id: 30970
   title: Code Unknown
   year: 2000
   runtime: 118
@@ -88,9 +91,10 @@
     sex: 0
   imdb_id: tt0216625
   poster_url: https://m.media-amazon.com/images/M/MV5BOGRjMmVlODUtNzRhNy00NTVjLWFjMGEtMzFiNTZiYjA1YzRhXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: code-unknown
 
 - id: the-piano-teacher
-  tmdb_id: null
+  tmdb_id: 1791
   title: The Piano Teacher
   year: 2001
   runtime: 131
@@ -104,9 +108,10 @@
     sex: 3
   imdb_id: tt0254686
   poster_url: https://m.media-amazon.com/images/M/MV5BOGE3ZjE2NjItMGIyZi00NjMxLWJiZWItMWJmMzZjOTgzZjJhXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-piano-teacher
 
 - id: time-of-the-wolf
-  tmdb_id: null
+  tmdb_id: 80810
   title: Time of the Wolf
   year: 2003
   runtime: 114
@@ -120,9 +125,10 @@
     sex: 0
   imdb_id: tt0324197
   poster_url: https://m.media-amazon.com/images/M/MV5BMTkwMDg4NjYwOF5BMl5BanBnXkFtZTcwNDE4MzYyMQ@@._V1_SX300.jpg
+  letterboxd_slug: time-of-the-wolf
 
 - id: cache
-  tmdb_id: null
+  tmdb_id: 445
   title: Caché
   year: 2005
   runtime: 117
@@ -136,6 +142,7 @@
     sex: 0
   imdb_id: tt0387898
   poster_url: https://m.media-amazon.com/images/M/MV5BYmRiMDFkZmMtYmVkMC00MDFhLTg5YTUtNTk3M2IxNGMwZGRmXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: cache
 
 - id: funny-games-us
   tmdb_id: null
@@ -152,7 +159,7 @@
     sex: 1
 
 - id: the-white-ribbon
-  tmdb_id: null
+  tmdb_id: 37903
   title: The White Ribbon
   year: 2009
   runtime: 144
@@ -166,9 +173,10 @@
     sex: 1
   imdb_id: tt1149362
   poster_url: https://m.media-amazon.com/images/M/MV5BMTQ2OTYyNzUxOF5BMl5BanBnXkFtZTcwMzUwMDY4Mg@@._V1_SX300.jpg
+  letterboxd_slug: the-white-ribbon
 
 - id: amour
-  tmdb_id: null
+  tmdb_id: 86837
   title: Amour
   year: 2012
   runtime: 127
@@ -187,9 +195,10 @@
     sex: 0
   imdb_id: tt1602620
   poster_url: https://m.media-amazon.com/images/M/MV5BMTk1NTc3NDc4MF5BMl5BanBnXkFtZTcwNjYwNDk0OA@@._V1_SX300.jpg
+  letterboxd_slug: amour
 
 - id: happy-end
-  tmdb_id: null
+  tmdb_id: 399031
   title: Happy End
   year: 2017
   runtime: 107
@@ -208,3 +217,4 @@
     sex: 1
   imdb_id: tt5304464
   poster_url: https://m.media-amazon.com/images/M/MV5BZGIyNDcxNzQtZTI2Yi00OTYxLTg2ZTAtYmM3NjY5MjU5ZDc5XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: happy-end-2017

@@ -5,7 +5,7 @@
 # the separation the schema is supposed to be able to represent.
 
 - id: shivers
-  tmdb_id: null
+  tmdb_id: 27429
   title: Shivers
   year: 1975
   runtime: 87
@@ -24,9 +24,10 @@
     sex: 2
   imdb_id: tt0073705
   poster_url: https://m.media-amazon.com/images/M/MV5BOTgwZTIxOWQtNzYzMS00ZDk4LWI2YjktMDgzMjE3NjQzNWE3XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: shivers
 
 - id: the-brood
-  tmdb_id: null
+  tmdb_id: 28942
   title: The Brood
   year: 1979
   runtime: 92
@@ -45,9 +46,10 @@
     sex: 1
   imdb_id: tt0078908
   poster_url: https://m.media-amazon.com/images/M/MV5BMWU2MmY2N2EtMmNlNS00NjU4LTg2MDQtYTQ1MjYxY2RkNjFlXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-brood
 
 - id: fast-company
-  tmdb_id: null
+  tmdb_id: 38493
   title: Fast Company
   year: 1979
   runtime: 91
@@ -66,9 +68,10 @@
     sex: 1
   imdb_id: tt0079138
   poster_url: https://m.media-amazon.com/images/M/MV5BOGNjOWVjOTktODczNy00NmJjLWExMzgtYTdiZjRiZmU0ZjdmXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: fast-company
 
 - id: scanners
-  tmdb_id: null
+  tmdb_id: 9538
   title: Scanners
   year: 1981
   runtime: 103
@@ -87,9 +90,10 @@
     sex: 0
   imdb_id: tt0081455
   poster_url: https://m.media-amazon.com/images/M/MV5BYWY2OTA1NjctNmFhYS00ZGQwLTlhNGUtNjQ1M2JiNzFjNmI2XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: scanners
 
 - id: videodrome
-  tmdb_id: null
+  tmdb_id: 837
   title: Videodrome
   year: 1983
   runtime: 87
@@ -108,9 +112,10 @@
     sex: 3
   imdb_id: tt0086541
   poster_url: https://m.media-amazon.com/images/M/MV5BOTI0NDVlMjMtNWI5Yi00ZWM0LTg4NWUtNGRkYjU5NTBkZjVkXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: videodrome
 
 - id: the-dead-zone
-  tmdb_id: null
+  tmdb_id: 11336
   title: The Dead Zone
   year: 1983
   runtime: 103
@@ -129,9 +134,10 @@
     sex: 0
   imdb_id: tt0085407
   poster_url: https://m.media-amazon.com/images/M/MV5BNjlmYzYyODgtYjBiYS00ZDM3LWE0MDYtN2U3MzBjMTRmYzMzXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-dead-zone
 
 - id: the-fly
-  tmdb_id: null
+  tmdb_id: 9426
   title: The Fly
   year: 1986
   runtime: 96
@@ -150,9 +156,10 @@
     sex: 2
   imdb_id: tt0091064
   poster_url: https://m.media-amazon.com/images/M/MV5BOTBlNTliNTItY2VhNS00MjA5LTllYzItMmQyNGRjYTAyZWQxXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-fly-1986
 
 - id: dead-ringers
-  tmdb_id: null
+  tmdb_id: 9540
   title: Dead Ringers
   year: 1988
   runtime: 115
@@ -171,9 +178,10 @@
     sex: 2
   imdb_id: tt0094964
   poster_url: https://m.media-amazon.com/images/M/MV5BYTMwZDViNDMtZGJjNC00YzM4LWFiN2YtZjVjNjAwOWNjMTIxXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: dead-ringers
 
 - id: naked-lunch
-  tmdb_id: null
+  tmdb_id: 2742
   title: Naked Lunch
   year: 1991
   runtime: 115
@@ -192,9 +200,10 @@
     sex: 2
   imdb_id: tt0102511
   poster_url: https://m.media-amazon.com/images/M/MV5BYzBkOWM0MTYtN2QwYy00YTg3LWIwNmEtMGRlNDNhN2UyNjU3XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: naked-lunch
 
 - id: crash-1996
-  tmdb_id: null
+  tmdb_id: 884
   title: Crash
   year: 1996
   runtime: 100
@@ -213,9 +222,10 @@
     sex: 3
   imdb_id: tt0115964
   poster_url: https://m.media-amazon.com/images/M/MV5BMWQyNTUwNGMtOWUwZi00ODdjLWE3MDQtYzc0NjYzNjk2YWY4XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: crash
 
 - id: existenz
-  tmdb_id: null
+  tmdb_id: 1946
   title: eXistenZ
   year: 1999
   runtime: 97
@@ -234,9 +244,10 @@
     sex: 1
   imdb_id: tt0120907
   poster_url: https://m.media-amazon.com/images/M/MV5BZjk3MGRhN2EtN2IyYi00NjFkLWFmNTUtNWI3MzZiYjI2ZjRkXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: existenz
 
 - id: a-history-of-violence
-  tmdb_id: null
+  tmdb_id: 59
   title: A History of Violence
   year: 2005
   runtime: 96
@@ -255,9 +266,10 @@
     sex: 2
   imdb_id: tt0399146
   poster_url: https://m.media-amazon.com/images/M/MV5BMTczMzIzMTQ1OV5BMl5BanBnXkFtZTYwMDQwNjk2._V1_SX300.jpg
+  letterboxd_slug: a-history-of-violence
 
 - id: eastern-promises
-  tmdb_id: null
+  tmdb_id: 2252
   title: Eastern Promises
   year: 2007
   runtime: 101
@@ -276,9 +288,10 @@
     sex: 1
   imdb_id: tt0765443
   poster_url: https://m.media-amazon.com/images/M/MV5BMTcwMzU0OTY3NF5BMl5BanBnXkFtZTYwNzkwNjg2._V1_SX300.jpg
+  letterboxd_slug: eastern-promises
 
 - id: cosmopolis
-  tmdb_id: null
+  tmdb_id: 49014
   title: Cosmopolis
   year: 2012
   runtime: 109
@@ -297,9 +310,10 @@
     sex: 2
   imdb_id: tt1480656
   poster_url: https://m.media-amazon.com/images/M/MV5BMTY1NjI0MDYyNV5BMl5BanBnXkFtZTcwNDIzMDEyOA@@._V1_SX300.jpg
+  letterboxd_slug: cosmopolis
 
 - id: crimes-of-the-future
-  tmdb_id: null
+  tmdb_id: 819876
   title: Crimes of the Future
   year: 2022
   runtime: 107
@@ -318,3 +332,4 @@
     sex: 2
   imdb_id: tt14549466
   poster_url: https://m.media-amazon.com/images/M/MV5BMjBjMTEzZGItOGMzYy00Mzk4LWE0YjgtN2ExMjY1MTBlNTlkXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: crimes-of-the-future-2022

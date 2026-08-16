@@ -7,7 +7,7 @@
 # atmosphere and dread over gore, right down to the ending that refuses anyone a way out.
 
 - id: the-curse-of-frankenstein
-  tmdb_id: null
+  tmdb_id: 3079
   title: The Curse of Frankenstein
   year: 1957
   runtime: 82
@@ -16,6 +16,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0050280
   poster_url: https://m.media-amazon.com/images/M/MV5BYWU4ODc3ZmYtMDgxYi00NzQ5LWE4MzAtZTZkZjkyZThkNjljXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-curse-of-frankenstein
 
 - id: horror-of-dracula
   tmdb_id: null
@@ -29,7 +30,7 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNTQxZTQxYjUtZDg0Zi00ZGE2LWJlMzQtYWJhMjM2MTJmYTI1XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-mummy-1959
-  tmdb_id: null
+  tmdb_id: 18990
   title: The Mummy
   year: 1959
   runtime: 88
@@ -38,9 +39,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0053085
   poster_url: https://m.media-amazon.com/images/M/MV5BNWJlZTM4ZWItYjA2My00YTg2LWFjNjMtZTY0ZWIzNGFhZjExXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-mummy-1959
 
 - id: the-hound-of-the-baskervilles-1959
-  tmdb_id: null
+  tmdb_id: 11791
   title: The Hound of the Baskervilles
   year: 1959
   runtime: 87
@@ -49,9 +51,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0052905
   poster_url: https://m.media-amazon.com/images/M/MV5BMjY0YjJmYzMtYWEyMi00NDE0LWE3OTYtMmNlYzNiZDVlNDc3XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-hound-of-the-baskervilles-1959
 
 - id: the-brides-of-dracula
-  tmdb_id: null
+  tmdb_id: 23220
   title: The Brides of Dracula
   year: 1960
   runtime: 85
@@ -60,9 +63,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
   imdb_id: tt0053677
   poster_url: https://m.media-amazon.com/images/M/MV5BZWYxNzc0NzMtM2VkYS00ZWNmLTk2ZmMtODUwY2EzYWQyNzMxXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-brides-of-dracula
 
 - id: the-curse-of-the-werewolf
-  tmdb_id: null
+  tmdb_id: 28752
   title: The Curse of the Werewolf
   year: 1961
   runtime: 91
@@ -76,9 +80,10 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
   imdb_id: tt0054777
   poster_url: https://m.media-amazon.com/images/M/MV5BYmM1OThlODMtOWI4Ni00NGM0LTk3YTktMjY4ZTZmYjEwOWY1XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-curse-of-the-werewolf
 
 - id: dracula-prince-of-darkness
-  tmdb_id: null
+  tmdb_id: 17102
   title: Dracula, Prince of Darkness
   year: 1966
   runtime: 90
@@ -87,9 +92,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
   imdb_id: tt0059127
   poster_url: https://m.media-amazon.com/images/M/MV5BOWJlNTA5YTctNWNkMC00ZDk0LWI3ZmQtZDc2OWU1MzEyYTZmXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: dracula-prince-of-darkness
 
 - id: frankenstein-created-woman
-  tmdb_id: null
+  tmdb_id: 3104
   title: Frankenstein Created Woman
   year: 1967
   runtime: 92
@@ -103,9 +109,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 1 }
   imdb_id: tt0061683
   poster_url: https://m.media-amazon.com/images/M/MV5BNDg1MjAxMGMtZjBlZi00ZDc1LTk5NDctNDM5ZTQ1ZDgxYTM5XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: frankenstein-created-woman
 
 - id: the-devil-rides-out
-  tmdb_id: null
+  tmdb_id: 39891
   title: The Devil Rides Out
   year: 1968
   runtime: 96
@@ -114,9 +121,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0062885
   poster_url: https://m.media-amazon.com/images/M/MV5BYWVlZWYxNjYtYmUyMi00M2UxLWE1MmUtODE5YWNiNGY1ZmNlXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-devil-rides-out
 
 - id: taste-the-blood-of-dracula
-  tmdb_id: null
+  tmdb_id: 29748
   title: Taste the Blood of Dracula
   year: 1970
   runtime: 91
@@ -125,9 +133,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
   imdb_id: tt0065073
   poster_url: https://m.media-amazon.com/images/M/MV5BYmM4YTAyNDAtNjFmYS00OWRkLWE4MzUtNWI4YjU2M2ExOTVjXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: taste-the-blood-of-dracula
 
 - id: countess-dracula
-  tmdb_id: null
+  tmdb_id: 39043
   title: Countess Dracula
   year: 1971
   runtime: 93
@@ -136,6 +145,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 2 }
   imdb_id: tt0065580
   poster_url: https://m.media-amazon.com/images/M/MV5BOWUyOWJiNTctZmE4OS00MjVjLTlmYjctZTg0MGUwMGZmMWYzXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: countess-dracula
 
 - id: dr-jekyll-and-sister-hyde
   tmdb_id: null
@@ -152,7 +162,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 2 }
 
 - id: captain-kronos-vampire-hunter
-  tmdb_id: null
+  tmdb_id: 18979
   title: Captain Kronos - Vampire Hunter
   year: 1974
   runtime: 91
@@ -161,9 +171,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
   imdb_id: tt0071276
   poster_url: https://m.media-amazon.com/images/M/MV5BZTMwNGNiMmEtN2UxMC00NGRhLTlmY2UtZTdkMjc0OWVkZjhhXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: captain-kronos-vampire-hunter
 
 - id: the-woman-in-black-2012
-  tmdb_id: null
+  tmdb_id: 65086
   title: The Woman in Black
   year: 2012
   runtime: 95
@@ -177,3 +188,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt1596365
   poster_url: https://m.media-amazon.com/images/M/MV5BMjEwMzIxOTg3N15BMl5BanBnXkFtZTcwMjI4ODUzNw@@._V1_SX300.jpg
+  letterboxd_slug: the-woman-in-black-2012

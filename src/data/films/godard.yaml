@@ -1,7 +1,7 @@
 # Films for Jean-Luc Godard. Scales and anchors are in README.md ("The anchor rubric").
 
 - id: breathless
-  tmdb_id: null
+  tmdb_id: 269
   title: Breathless
   year: 1960
   runtime: 90
@@ -10,9 +10,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0053472
   poster_url: https://m.media-amazon.com/images/M/MV5BNWE5ZWFjOTUtZWQyZS00OGFjLTg0MTgtMjA5ZjRhMjJiYTBkXkEyXkFqcGc@._V1_QL75_UX380_CR0,7,380,562_.jpg
+  letterboxd_slug: breathless
 
 - id: a-woman-is-a-woman
-  tmdb_id: null
+  tmdb_id: 31522
   title: A Woman Is a Woman
   year: 1961
   runtime: 85
@@ -21,9 +22,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0055572
   poster_url: https://m.media-amazon.com/images/M/MV5BMmIwMDg0N2EtZTRiZi00MTA2LWE1MDItOTJjNjA2MDViZDU1XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: a-woman-is-a-woman
 
 - id: vivre-sa-vie
-  tmdb_id: null
+  tmdb_id: 1626
   title: Vivre sa Vie
   year: 1962
   runtime: 80
@@ -37,9 +39,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
   imdb_id: tt0056663
   poster_url: https://m.media-amazon.com/images/M/MV5BMDUwNDc1YjMtOWQwOS00OGJiLWFlODQtNjAzMjkwOTRhZmQ2XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: vivre-sa-vie
 
 - id: contempt
-  tmdb_id: null
+  tmdb_id: 266
   title: Contempt
   year: 1963
   runtime: 103
@@ -48,9 +51,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt0057345
   poster_url: https://m.media-amazon.com/images/M/MV5BMjJlMzdmNGQtMTMxZi00ZTE0LWIxNWYtYmE3NTZlYWQwNmExXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: contempt
 
 - id: band-of-outsiders
-  tmdb_id: null
+  tmdb_id: 8073
   title: Band of Outsiders
   year: 1964
   runtime: 95
@@ -59,9 +63,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0057869
   poster_url: https://m.media-amazon.com/images/M/MV5BMjIyOTA0Njk3Ml5BMl5BanBnXkFtZTgwMzY0NTA2ODE@._V1_SX300.jpg
+  letterboxd_slug: band-of-outsiders
 
 - id: alphaville
-  tmdb_id: null
+  tmdb_id: 8072
   title: Alphaville
   year: 1965
   runtime: 99
@@ -75,9 +80,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0058898
   poster_url: https://m.media-amazon.com/images/M/MV5BYjk3MmMwMjktMzg3NC00YmJiLTg2YjMtMGZkMDI0MzBiOTNkXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: alphaville
 
 - id: pierrot-le-fou
-  tmdb_id: null
+  tmdb_id: 2786
   title: Pierrot le Fou
   year: 1965
   runtime: 110
@@ -91,6 +97,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 0 }
   imdb_id: tt0059592
   poster_url: https://m.media-amazon.com/images/M/MV5BMTQ0OTc4MDcxMl5BMl5BanBnXkFtZTgwNjIzMjA0NzE@._V1_SX300.jpg
+  letterboxd_slug: pierrot-le-fou
 
 - id: masculin-feminin
   tmdb_id: 4710
@@ -129,7 +136,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
 
 - id: weekend
-  tmdb_id: null
+  tmdb_id: 8075
   title: Weekend
   year: 1967
   runtime: 105
@@ -143,9 +150,10 @@
   content: { sexual_violence: true, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt0062480
   poster_url: https://m.media-amazon.com/images/M/MV5BYWUwZjVjOTYtYTVlNy00MzM4LTkyMjktNDdkZDM5ODQwYjU0XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: weekend-1967
 
 - id: goodbye-to-language
-  tmdb_id: null
+  tmdb_id: 114982
   title: Goodbye to Language
   year: 2014
   runtime: 70
@@ -159,3 +167,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt2400275
   poster_url: https://m.media-amazon.com/images/M/MV5BMzBhZDA1MzItNmZkOS00NTEwLTkxMTUtYzllMDlhMmUyZGQ1XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: goodbye-to-language

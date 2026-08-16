@@ -1,7 +1,7 @@
 # Films for Robert De Niro. Scales and anchors are in README.md ("The anchor rubric").
 
 - id: mean-streets
-  tmdb_id: null
+  tmdb_id: 203
   title: Mean Streets
   year: 1973
   runtime: 112
@@ -10,9 +10,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0070379
   poster_url: https://m.media-amazon.com/images/M/MV5BMWRlNDdiYWUtYjE1Zi00OWRhLWJiYTYtZWQ0NWFkYzc0NWMxXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: mean-streets
 
 - id: the-godfather-part-ii
-  tmdb_id: null
+  tmdb_id: 240
   title: The Godfather Part II
   year: 1974
   runtime: 202
@@ -21,9 +22,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0071562
   poster_url: https://m.media-amazon.com/images/M/MV5BMDIxMzBlZDktZjMxNy00ZGI4LTgxNDEtYWRlNzRjMjJmOGQ1XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg
+  letterboxd_slug: the-godfather-part-ii
 
 - id: taxi-driver
-  tmdb_id: null
+  tmdb_id: 103
   title: Taxi Driver
   year: 1976
   runtime: 114
@@ -32,9 +34,10 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 1 }
   imdb_id: tt0075314
   poster_url: https://m.media-amazon.com/images/M/MV5BZDNhMGYwM2UtMTdlZS00MGQ1LWI2YzAtODY5YWI1MjYyNzRmXkEyXkFqcGc@._V1_QL75_UX380_CR0,7,380,562_.jpg
+  letterboxd_slug: taxi-driver
 
 - id: the-deer-hunter
-  tmdb_id: null
+  tmdb_id: 11778
   title: The Deer Hunter
   year: 1978
   runtime: 183
@@ -43,9 +46,10 @@
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt0077416
   poster_url: https://m.media-amazon.com/images/M/MV5BZGI4YmVhMzMtMWExMS00MGZiLTg2MmItM2I2MWZjODAyM2U5XkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg
+  letterboxd_slug: the-deer-hunter
 
 - id: raging-bull
-  tmdb_id: null
+  tmdb_id: 1578
   title: Raging Bull
   year: 1980
   runtime: 129
@@ -54,9 +58,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
   imdb_id: tt0081398
   poster_url: https://m.media-amazon.com/images/M/MV5BMjlkYmYyZWQtNTZkOS00ZjA0LWEwNWUtNzE2ZGNiYjg0MjA2XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: raging-bull
 
 - id: the-king-of-comedy
-  tmdb_id: null
+  tmdb_id: 262
   title: The King of Comedy
   year: 1982
   runtime: 109
@@ -65,9 +70,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0085794
   poster_url: https://m.media-amazon.com/images/M/MV5BYTQxNGUwNmUtMDJhYy00ZjM1LWFjZjQtYmI5ZGY4YTZmZWQyXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-king-of-comedy
 
 - id: goodfellas
-  tmdb_id: null
+  tmdb_id: 769
   title: Goodfellas
   year: 1990
   runtime: 146
@@ -76,9 +82,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
   imdb_id: tt0099685
   poster_url: https://m.media-amazon.com/images/M/MV5BN2E5NzI2ZGMtY2VjNi00YTRjLWI1MDUtZGY5OWU1MWJjZjRjXkEyXkFqcGc@._V1_QL75_UX380_CR0,3,380,562_.jpg
+  letterboxd_slug: goodfellas
 
 - id: awakenings
-  tmdb_id: null
+  tmdb_id: 11005
   title: Awakenings
   year: 1990
   runtime: 121
@@ -87,9 +94,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0099077
   poster_url: https://m.media-amazon.com/images/M/MV5BZDUzOGQ4YTctNTY1OS00M2UzLWFjNzYtMGNlN2E5NDA2MGVkXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: awakenings
 
 - id: cape-fear
-  tmdb_id: null
+  tmdb_id: 1598
   title: Cape Fear
   year: 1991
   runtime: 128
@@ -98,9 +106,10 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
   imdb_id: tt0101540
   poster_url: https://m.media-amazon.com/images/M/MV5BNTBkNTYwZTctOTgxYS00ZmIyLTgzNDAtODJhZjg2MDUwNmFlXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: cape-fear-1991
 
 - id: heat
-  tmdb_id: null
+  tmdb_id: 949
   title: Heat
   year: 1995
   runtime: 170
@@ -109,9 +118,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt0113277
   poster_url: https://m.media-amazon.com/images/M/MV5BMTkxYjU1OTMtYWViZC00ZjAzLWI3MDktZGQ2N2VmMjVjNDRlXkEyXkFqcGc@._V1_QL75_UY562_CR6,0,380,562_.jpg
+  letterboxd_slug: heat-1995
 
 - id: silver-linings-playbook
-  tmdb_id: null
+  tmdb_id: 82693
   title: Silver Linings Playbook
   year: 2012
   runtime: 122
@@ -120,3 +130,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt1045658
   poster_url: https://m.media-amazon.com/images/M/MV5BMTM2MTI5NzA3MF5BMl5BanBnXkFtZTcwODExNTc0OA@@._V1_SX300.jpg
+  letterboxd_slug: silver-linings-playbook

@@ -5,7 +5,7 @@
 # roster, not a shorter tagging pass.
 
 - id: medicine-for-melancholy
-  tmdb_id: null
+  tmdb_id: 24885
   title: Medicine for Melancholy
   year: 2008
   runtime: 88
@@ -14,9 +14,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt1133989
   poster_url: https://m.media-amazon.com/images/M/MV5BNTM4MDUwMDg2NF5BMl5BanBnXkFtZTcwMTc2MzcyMg@@._V1_SX300.jpg
+  letterboxd_slug: medicine-for-melancholy
 
 - id: if-beale-street-could-talk
-  tmdb_id: null
+  tmdb_id: 465914
   title: If Beale Street Could Talk
   year: 2018
   runtime: 119
@@ -25,9 +26,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
   imdb_id: tt7125860
   poster_url: https://m.media-amazon.com/images/M/MV5BYmJlMWY1ZDMtMmU3ZS00MzVmLWE2MjQtYWVhNDAxOWY2MWI0XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: if-beale-street-could-talk
 
 - id: mufasa-the-lion-king
-  tmdb_id: null
+  tmdb_id: 762509
   title: 'Mufasa: The Lion King'
   year: 2024
   runtime: 118
@@ -36,3 +38,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt13186482
   poster_url: https://m.media-amazon.com/images/M/MV5BYjBkOWUwODYtYWI3YS00N2I0LWEyYTktOTJjM2YzOTc3ZDNlXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: mufasa-the-lion-king

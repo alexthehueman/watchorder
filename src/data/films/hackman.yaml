@@ -1,7 +1,7 @@
 # Films for Gene Hackman. Scales and anchors are in README.md ("The anchor rubric").
 
 - id: bonnie-and-clyde
-  tmdb_id: null
+  tmdb_id: 475
   title: Bonnie and Clyde
   year: 1967
   runtime: 111
@@ -10,9 +10,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt0061418
   poster_url: https://m.media-amazon.com/images/M/MV5BYWI3ZmM1NmEtMDk4Yi00MzYzLTk0MDctYWJlZjY4MGViNDFiXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: bonnie-and-clyde
 
 - id: the-french-connection
-  tmdb_id: null
+  tmdb_id: 1051
   title: The French Connection
   year: 1971
   runtime: 104
@@ -21,9 +22,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt0067116
   poster_url: https://m.media-amazon.com/images/M/MV5BZDAyZDU3OWUtNWQ3Zi00ZWRkLWI4MGEtNDFlZWIzZDk5ZTZkXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-french-connection
 
 - id: the-poseidon-adventure
-  tmdb_id: null
+  tmdb_id: 551
   title: The Poseidon Adventure
   year: 1972
   runtime: 117
@@ -32,9 +34,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0069113
   poster_url: https://m.media-amazon.com/images/M/MV5BNmMyNWRlMDgtMjg4ZS00ZTg3LTkxOWItMjVhMjEyZWJjOGYxXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-poseidon-adventure
 
 - id: the-conversation
-  tmdb_id: null
+  tmdb_id: 592
   title: The Conversation
   year: 1974
   runtime: 113
@@ -43,9 +46,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0071360
   poster_url: https://m.media-amazon.com/images/M/MV5BOTY4OTVmMzgtNTBkYi00NjI1LWIzOWItNGIwNTM1ZTEzMzc5XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-conversation
 
 - id: superman-hackman
-  tmdb_id: null
+  tmdb_id: 1924
   title: Superman
   year: 1978
   runtime: 143
@@ -54,9 +58,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0078346
   poster_url: https://m.media-amazon.com/images/M/MV5BMzFlZDJjMDAtZDYxZS00NzZhLTk2ODMtZWRlODA3Njk3ZTdmXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: superman
 
 - id: hoosiers
-  tmdb_id: null
+  tmdb_id: 5693
   title: Hoosiers
   year: 1986
   runtime: 114
@@ -65,9 +70,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0091217
   poster_url: https://m.media-amazon.com/images/M/MV5BOGFlMjJkNzYtMTMwYS00OWE0LWFkNzYtMGMzODIzOWM0ZDM2XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: hoosiers
 
 - id: mississippi-burning
-  tmdb_id: null
+  tmdb_id: 1632
   title: Mississippi Burning
   year: 1988
   runtime: 128
@@ -76,9 +82,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt0095647
   poster_url: https://m.media-amazon.com/images/M/MV5BZDgwNTljYmMtYmQyNi00MmEwLTk0NzMtZDJmZDIzZmQ4MzQ2XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: mississippi-burning
 
 - id: unforgiven
-  tmdb_id: null
+  tmdb_id: 33
   title: Unforgiven
   year: 1992
   runtime: 130
@@ -92,9 +99,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt0105695
   poster_url: https://m.media-amazon.com/images/M/MV5BNmZmMzM3YWMtZjg5Yi00M2MxLTg3ZGItNGU4YjQxNDAxM2Q4XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: unforgiven
 
 - id: crimson-tide
-  tmdb_id: null
+  tmdb_id: 8963
   title: Crimson Tide
   year: 1995
   runtime: 116
@@ -103,9 +111,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0112740
   poster_url: https://m.media-amazon.com/images/M/MV5BNTNhZDk2NmQtNDc3ZC00Nzk3LWFmNTctYTc0OWMyNGM0ZWYyXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: crimson-tide
 
 - id: the-royal-tenenbaums
-  tmdb_id: null
+  tmdb_id: 9428
   title: The Royal Tenenbaums
   year: 2001
   runtime: 109
@@ -114,3 +123,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
   imdb_id: tt0265666
   poster_url: https://m.media-amazon.com/images/M/MV5BZTc1MzFlMjEtMzkyNC00NDgyLThjMjMtMzQzZGI5YjUyNzU5XkEyXkFqcGc@._V1_QL75_UX380_CR0,25,380,562_.jpg
+  letterboxd_slug: the-royal-tenenbaums

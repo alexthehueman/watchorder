@@ -1,7 +1,7 @@
 # Films for Federico Fellini. Scales and anchors are in README.md ("The anchor rubric").
 
 - id: i-vitelloni
-  tmdb_id: null
+  tmdb_id: 12548
   title: I Vitelloni
   year: 1953
   runtime: 104
@@ -10,9 +10,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0046521
   poster_url: https://m.media-amazon.com/images/M/MV5BMWZlY2NkNDktNTUxNi00ZTg1LWJjOTMtMTc1MzcyNzg0NTdmXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: i-vitelloni
 
 - id: la-strada
-  tmdb_id: null
+  tmdb_id: 405
   title: La Strada
   year: 1954
   runtime: 108
@@ -26,9 +27,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0047528
   poster_url: https://m.media-amazon.com/images/M/MV5BMWQ0M2Q5NDAtMDg0ZC00YmM1LWI3YjktNDIxOTFiOTIzYzQ2XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: la-strada
 
 - id: nights-of-cabiria
-  tmdb_id: null
+  tmdb_id: 19426
   title: Nights of Cabiria
   year: 1957
   runtime: 110
@@ -37,9 +39,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
   imdb_id: tt0050783
   poster_url: https://m.media-amazon.com/images/M/MV5BYmM0NDA3MzUtYzA1OC00ZDc0LWFlNWUtYjJmOTIxYjkyNGY4XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: nights-of-cabiria
 
 - id: la-dolce-vita
-  tmdb_id: null
+  tmdb_id: 439
   title: La Dolce Vita
   year: 1960
   runtime: 174
@@ -53,6 +56,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt0053779
   poster_url: https://m.media-amazon.com/images/M/MV5BMTkxMjQ4NzU5N15BMl5BanBnXkFtZTgwMTkwODkzMTE@._V1_SX300.jpg
+  letterboxd_slug: la-dolce-vita
 
 - id: 8-and-a-half
   tmdb_id: null
@@ -71,7 +75,7 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNTc0OTg1MjU3OV5BMl5BanBnXkFtZTgwMDkyNzM3OTE@._V1_SX300.jpg
 
 - id: juliet-of-the-spirits
-  tmdb_id: null
+  tmdb_id: 19120
   title: Juliet of the Spirits
   year: 1965
   runtime: 148
@@ -80,6 +84,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt0059229
   poster_url: https://m.media-amazon.com/images/M/MV5BN2VjNzQ4MmMtNzRmMC00MzhlLWJjZjEtOGEyY2NkMDc5YTg1XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: juliet-of-the-spirits
 
 - id: fellini-satyricon
   tmdb_id: null
@@ -96,7 +101,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 2 }
 
 - id: roma
-  tmdb_id: null
+  tmdb_id: 11035
   title: Roma
   year: 1972
   runtime: 128
@@ -105,9 +110,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0069191
   poster_url: https://m.media-amazon.com/images/M/MV5BNTAzYzViODYtN2IzMC00NjU0LThkODYtZDUyMTYwODQ3YWUwXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: roma
 
 - id: amarcord
-  tmdb_id: null
+  tmdb_id: 7857
   title: Amarcord
   year: 1973
   runtime: 123
@@ -121,6 +127,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt0071129
   poster_url: https://m.media-amazon.com/images/M/MV5BMDFiMDIwMjQtNGFjYS00YTNiLTk5MjctZDYxMmRiNDUyNDZjXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: amarcord
 
 - id: fellinis-casanova
   tmdb_id: null
@@ -137,7 +144,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
 
 - id: city-of-women
-  tmdb_id: null
+  tmdb_id: 11936
   title: City of Women
   year: 1980
   runtime: 140
@@ -146,6 +153,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt0080539
   poster_url: https://m.media-amazon.com/images/M/MV5BNGExYmJkM2ItNzEyNC00OThlLTkyYjMtODYwNzM0MTg0YzM0XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: city-of-women
 
 - id: ginger-and-fred
   tmdb_id: 42021

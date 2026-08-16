@@ -1,7 +1,7 @@
 # Films for Ingrid Bergman. Scales and anchors are in README.md ("The anchor rubric").
 
 - id: casablanca
-  tmdb_id: null
+  tmdb_id: 289
   title: Casablanca
   year: 1942
   runtime: 102
@@ -10,9 +10,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0034583
   poster_url: https://m.media-amazon.com/images/M/MV5BNWEzN2U1YTYtYTQyMS00NTVkLWE2NGQtZWFlMmM0MDNjMmRiXkEyXkFqcGc@._V1_QL75_UX380_CR0,5,380,562_.jpg
+  letterboxd_slug: casablanca
 
 - id: gaslight
-  tmdb_id: null
+  tmdb_id: 13528
   title: Gaslight
   year: 1944
   runtime: 114
@@ -26,9 +27,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0036855
   poster_url: https://m.media-amazon.com/images/M/MV5BMTQxOTQwY2EtZjU0My00NDNlLWExMjUtMDg0ODc0YTYxNjVkXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: gaslight-1944
 
 - id: notorious
-  tmdb_id: null
+  tmdb_id: 303
   title: Notorious
   year: 1946
   runtime: 101
@@ -37,9 +39,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
   imdb_id: tt0038787
   poster_url: https://m.media-amazon.com/images/M/MV5BOGU5ZjdmNzUtMGY0Ny00NjMyLWJiMDEtMmMzYmMyOTNjNzlmXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: notorious
 
 - id: joan-of-arc-1948
-  tmdb_id: null
+  tmdb_id: 43443
   title: Joan of Arc
   year: 1948
   runtime: 145
@@ -48,9 +51,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0040491
   poster_url: https://m.media-amazon.com/images/M/MV5BODA4MmE4MGYtNTdlMi00ZGI0LTkzYmYtODg2YWVkOTUxMjAzXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: joan-of-arc
 
 - id: stromboli
-  tmdb_id: null
+  tmdb_id: 4173
   title: Stromboli
   year: 1950
   runtime: 81
@@ -59,9 +63,10 @@
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0041931
   poster_url: https://m.media-amazon.com/images/M/MV5BMTY0NzcwNmEtMmE5My00ZWUwLWEyYWItM2NiMWZmNWIyNzFiXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: stromboli
 
 - id: journey-to-italy
-  tmdb_id: null
+  tmdb_id: 2748
   title: Journey to Italy
   year: 1954
   runtime: 97
@@ -70,9 +75,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0046511
   poster_url: https://m.media-amazon.com/images/M/MV5BYTkwZjdlMjMtYTM5MC00NjhlLWJkOTgtNDVlOWRhY2M0ODRhXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: journey-to-italy
 
 - id: anastasia-1956
-  tmdb_id: null
+  tmdb_id: 38171
   title: Anastasia
   year: 1956
   runtime: 105
@@ -81,9 +87,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0048947
   poster_url: https://m.media-amazon.com/images/M/MV5BMGY2ZjliZWUtYjdlNy00ZDIwLTg1MDYtZTE3NWZjZWI2MDBkXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: anastasia
 
 - id: autumn-sonata
-  tmdb_id: null
+  tmdb_id: 12761
   title: Autumn Sonata
   year: 1978
   runtime: 99
@@ -97,9 +104,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0077711
   poster_url: https://m.media-amazon.com/images/M/MV5BNTg1MzJiNTYtZjcyNS00NDE5LWE0N2ItMGIxM2Y2ZDMyYjJjXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: autumn-sonata
 
 - id: murder-on-the-orient-express-1974
-  tmdb_id: null
+  tmdb_id: 4176
   title: Murder on the Orient Express
   year: 1974
   runtime: 128
@@ -108,3 +116,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0071877
   poster_url: https://m.media-amazon.com/images/M/MV5BNzZmZWMwOWUtM2NkZS00MWM0LTk1YzMtYzI4OGYyMTNlNTMwXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: murder-on-the-orient-express-1974

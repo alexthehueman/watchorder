@@ -8,7 +8,7 @@
 # Toho's, despite starring Mifune and being directed by Kurosawa.
 
 - id: gojira
-  tmdb_id: null
+  tmdb_id: 1678
   title: Godzilla
   year: 1954
   runtime: 96
@@ -22,9 +22,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 0 }
   imdb_id: tt0047034
   poster_url: https://m.media-amazon.com/images/M/MV5BNTk3M2U3YjMtZDkzYS00OGU5LWEwOTctMDZhNTE0ZDYxZmJjXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: gojira
 
 - id: ikiru
-  tmdb_id: null
+  tmdb_id: 3782
   title: Ikiru
   year: 1952
   runtime: 143
@@ -33,9 +34,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0044741
   poster_url: https://m.media-amazon.com/images/M/MV5BYWI2MzBhMzItYzQ3OS00N2Q4LTkyZDUtMjM1YTk0NjhkOWRiXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: ikiru
 
 - id: when-a-woman-ascends-the-stairs
-  tmdb_id: null
+  tmdb_id: 36872
   title: When a Woman Ascends the Stairs
   year: 1960
   runtime: 111
@@ -44,9 +46,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0054144
   poster_url: https://m.media-amazon.com/images/M/MV5BMjQwYTlmMmEtY2NlZC00Yzk5LTk1OTEtNzg2ZTAwYjE1MDMxXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: when-a-woman-ascends-the-stairs
 
 - id: mothra-vs-godzilla
-  tmdb_id: null
+  tmdb_id: 1682
   title: Mothra vs. Godzilla
   year: 1964
   runtime: 89
@@ -55,9 +58,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0058379
   poster_url: https://m.media-amazon.com/images/M/MV5BYmNmMGRhNjAtMTUyNS00NTAyLTgxMzQtNzk1ZGI2MzczYWUwXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: mothra-vs-godzilla
 
 - id: shin-godzilla
-  tmdb_id: null
+  tmdb_id: 315011
   title: Shin Godzilla
   year: 2016
   runtime: 120
@@ -71,3 +75,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt4262980
   poster_url: https://m.media-amazon.com/images/M/MV5BNjg5ODA1NzQtZmNmNy00MmFhLTk1YjUtYTM2NDNmNjY4ODA1XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: shin-godzilla

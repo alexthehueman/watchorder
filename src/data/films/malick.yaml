@@ -1,7 +1,7 @@
 # Films for Terrence Malick. Scales and anchors are in README.md ("The anchor rubric").
 
 - id: badlands
-  tmdb_id: null
+  tmdb_id: 3133
   title: Badlands
   year: 1973
   runtime: 94
@@ -10,9 +10,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0069762
   poster_url: https://m.media-amazon.com/images/M/MV5BN2U3ZjE1ZjUtYTRkMy00NTJiLTgyNzktMmE1OTUzYmRlOTUzXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: badlands
 
 - id: days-of-heaven
-  tmdb_id: null
+  tmdb_id: 16642
   title: Days of Heaven
   year: 1978
   runtime: 94
@@ -21,9 +22,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0077405
   poster_url: https://m.media-amazon.com/images/M/MV5BOWM5OTcwMjMtMDk0OC00N2M3LTlmYzQtY2Q5ZmZmNjIyOGViXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: days-of-heaven
 
 - id: the-thin-red-line
-  tmdb_id: null
+  tmdb_id: 8741
   title: The Thin Red Line
   year: 1998
   runtime: 170
@@ -37,9 +39,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0120863
   poster_url: https://m.media-amazon.com/images/M/MV5BMzQ5NmViMDUtMjI1NC00ZWJkLTkwNzctMmIxZWY2MzQyZDc2XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-thin-red-line
 
 - id: the-new-world
-  tmdb_id: null
+  tmdb_id: 11400
   title: The New World
   year: 2005
   runtime: 135
@@ -48,9 +51,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0402399
   poster_url: https://m.media-amazon.com/images/M/MV5BZGRhNmVmZDMtYzAyNy00M2YyLThkYTItNjNkYzMzYjUyZDY4XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-new-world
 
 - id: the-tree-of-life
-  tmdb_id: null
+  tmdb_id: 8967
   title: The Tree of Life
   year: 2011
   runtime: 139
@@ -64,9 +68,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0478304
   poster_url: https://m.media-amazon.com/images/M/MV5BMTMwNjQ0NjMzN15BMl5BanBnXkFtZTcwNjMxMTkyNA@@._V1_SX300.jpg
+  letterboxd_slug: the-tree-of-life-2011
 
 - id: to-the-wonder
-  tmdb_id: null
+  tmdb_id: 60281
   title: To the Wonder
   year: 2012
   runtime: 112
@@ -80,9 +85,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt1595656
   poster_url: https://m.media-amazon.com/images/M/MV5BNGYyYmI2YjQtYTkyNy00NzQ0LTliNmYtNzdlNmZkNmZkMDQ1XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: to-the-wonder
 
 - id: knight-of-cups
-  tmdb_id: null
+  tmdb_id: 86835
   title: Knight of Cups
   year: 2015
   runtime: 118
@@ -96,9 +102,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt2101383
   poster_url: https://m.media-amazon.com/images/M/MV5BMjQyOTcwODIyNF5BMl5BanBnXkFtZTgwMDE4OTI4NzE@._V1_SX300.jpg
+  letterboxd_slug: knight-of-cups
 
 - id: song-to-song
-  tmdb_id: null
+  tmdb_id: 330947
   title: Song to Song
   year: 2017
   runtime: 129
@@ -107,9 +114,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt2062700
   poster_url: https://m.media-amazon.com/images/M/MV5BNzI1MTg0MzEyOF5BMl5BanBnXkFtZTgwNzk4Mjk0MTI@._V1_SX300.jpg
+  letterboxd_slug: song-to-song
 
 - id: a-hidden-life
-  tmdb_id: null
+  tmdb_id: 403300
   title: A Hidden Life
   year: 2019
   runtime: 174
@@ -118,3 +126,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt5827916
   poster_url: https://m.media-amazon.com/images/M/MV5BYTRhNjYzOWQtMGI0NS00NGM0LWFlOTMtODRhZDQyNmMxOWI3XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: a-hidden-life-2019

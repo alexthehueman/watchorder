@@ -4,7 +4,7 @@
 # below are new.
 
 - id: take-out
-  tmdb_id: null
+  tmdb_id: 37736
   title: Take Out
   year: 2004
   runtime: 88
@@ -18,9 +18,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0391483
   poster_url: https://m.media-amazon.com/images/M/MV5BMTY4NTkwNjMwN15BMl5BanBnXkFtZTcwNDkwODI2MQ@@._V1_SX300.jpg
+  letterboxd_slug: take-out-2004
 
 - id: prince-of-broadway
-  tmdb_id: null
+  tmdb_id: 87081
   title: Prince of Broadway
   year: 2008
   runtime: 104
@@ -29,9 +30,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt1000769
   poster_url: https://m.media-amazon.com/images/M/MV5BMjI3MTgwNTM2Nl5BMl5BanBnXkFtZTcwMDcwOTU3Mw@@._V1_SX300.jpg
+  letterboxd_slug: prince-of-broadway
 
 - id: starlet
-  tmdb_id: null
+  tmdb_id: 91679
   title: Starlet
   year: 2012
   runtime: 103
@@ -40,9 +42,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt2035630
   poster_url: https://m.media-amazon.com/images/M/MV5BMzI5NTI3MjYyNl5BMl5BanBnXkFtZTcwNTg1NjQ2OA@@._V1_SX300.jpg
+  letterboxd_slug: starlet
 
 - id: tangerine
-  tmdb_id: null
+  tmdb_id: 308084
   title: Tangerine
   year: 2015
   runtime: 88
@@ -51,9 +54,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
   imdb_id: tt3824458
   poster_url: https://m.media-amazon.com/images/M/MV5BMjEzNzY2NjYwOV5BMl5BanBnXkFtZTgwOTY1MDU1NTE@._V1_SX300.jpg
+  letterboxd_slug: tangerine
 
 - id: red-rocket
-  tmdb_id: null
+  tmdb_id: 763329
   title: Red Rocket
   year: 2021
   runtime: 128
@@ -67,3 +71,4 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 2 }
   imdb_id: tt13453006
   poster_url: https://m.media-amazon.com/images/M/MV5BMjQ0NmI0NjgtZjUxYS00ZjIyLTkxMjEtNzkyMWM1NjQ1ZDEyXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: red-rocket-2021

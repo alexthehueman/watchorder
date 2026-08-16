@@ -3,7 +3,7 @@
 # as much as by the work itself, not a shorter tagging pass.
 
 - id: citizen-kane
-  tmdb_id: null
+  tmdb_id: 15
   title: Citizen Kane
   year: 1941
   runtime: 119
@@ -17,9 +17,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0033467
   poster_url: https://m.media-amazon.com/images/M/MV5BYjk1ZDJlMmUtOWQ0Zi00MDM5LTk1OGYtODczNjFmMGYwZGVkXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: citizen-kane
 
 - id: the-magnificent-ambersons
-  tmdb_id: null
+  tmdb_id: 965
   title: The Magnificent Ambersons
   year: 1942
   runtime: 88
@@ -28,9 +29,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0035015
   poster_url: https://m.media-amazon.com/images/M/MV5BYTk5OTYxNTEtYTU5MS00NTBkLThhZWEtYTBiYzlkOTFhY2MzXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-magnificent-ambersons
 
 - id: the-lady-from-shanghai
-  tmdb_id: null
+  tmdb_id: 3766
   title: The Lady from Shanghai
   year: 1947
   runtime: 87
@@ -44,9 +46,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0040525
   poster_url: https://m.media-amazon.com/images/M/MV5BMDBmYzI4MDUtN2FjZC00YmM0LWE4YmEtNTZkY2ZkZmUzZDU0XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-lady-from-shanghai
 
 - id: macbeth-1948
-  tmdb_id: null
+  tmdb_id: 27883
   title: Macbeth
   year: 1948
   runtime: 107
@@ -55,9 +58,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0040558
   poster_url: https://m.media-amazon.com/images/M/MV5BYzY5MTk2NDAtZGIyYi00NWY5LTg5MDEtMWY0N2VkNTE5OWFjXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: macbeth
 
 - id: othello-1951
-  tmdb_id: null
+  tmdb_id: 47697
   title: Othello
   year: 1951
   runtime: 93
@@ -66,6 +70,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 0 }
   imdb_id: tt0045251
   poster_url: https://m.media-amazon.com/images/M/MV5BOWM4MjQ3MGEtMGNmYS00NjJhLWFhMTUtOTg4N2Y3N2FjZjE5XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: othello-1951
 
 - id: mr-arkadin
   tmdb_id: 44026
@@ -84,7 +89,7 @@
   letterboxd_slug: mr-arkadin
 
 - id: touch-of-evil
-  tmdb_id: null
+  tmdb_id: 1480
   title: Touch of Evil
   year: 1958
   runtime: 111
@@ -93,9 +98,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0052311
   poster_url: https://m.media-amazon.com/images/M/MV5BYzBkNTQzODUtNzcxMy00ZGNhLThmOWMtMTcyYzY4ZTU2NDM3XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: touch-of-evil
 
 - id: the-trial
-  tmdb_id: null
+  tmdb_id: 3009
   title: The Trial
   year: 1962
   runtime: 119
@@ -109,9 +115,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0057427
   poster_url: https://m.media-amazon.com/images/M/MV5BNmJmNDM5ZmYtODIwNS00YjM4LTlkYzktZTFjNTg3ODg0NDcwXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-trial
 
 - id: chimes-at-midnight
-  tmdb_id: null
+  tmdb_id: 986
   title: Chimes at Midnight
   year: 1965
   runtime: 115
@@ -120,9 +127,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0059012
   poster_url: https://m.media-amazon.com/images/M/MV5BNzUyNTUyMTktM2U3Ny00NjE5LTk3NDktOTllNDRlNzMxYTIyXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: chimes-at-midnight
 
 - id: f-for-fake
-  tmdb_id: null
+  tmdb_id: 43003
   title: F for Fake
   year: 1973
   runtime: 89
@@ -131,9 +139,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0072962
   poster_url: https://m.media-amazon.com/images/M/MV5BOGJjZjU1NWEtOWM2Zi00NjgxLTliYTUtYmJmNmI2ZThiZmMyXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: f-for-fake
 
 - id: the-other-side-of-the-wind
-  tmdb_id: null
+  tmdb_id: 299782
   title: The Other Side of the Wind
   year: 2018
   runtime: 122
@@ -147,3 +156,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
   imdb_id: tt0069049
   poster_url: https://m.media-amazon.com/images/M/MV5BNDg5NTQ0NDU1Nl5BMl5BanBnXkFtZTgwMTExNzIyNjM@._V1_SX300.jpg
+  letterboxd_slug: the-other-side-of-the-wind

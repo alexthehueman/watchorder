@@ -9,7 +9,7 @@
 # hand-written — a guessed id silently points at the wrong film.
 
 - id: eraserhead
-  tmdb_id: null
+  tmdb_id: 985
   title: Eraserhead
   year: 1977
   runtime: 89
@@ -28,9 +28,10 @@
     sex: 1
   imdb_id: tt0074486
   poster_url: https://m.media-amazon.com/images/M/MV5BNGYxNzZkYzAtMDExMS00MzE1LTg5ZGItMTgzMzJhZWMyNTBjXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: eraserhead
 
 - id: the-elephant-man
-  tmdb_id: null
+  tmdb_id: 1955
   title: The Elephant Man
   year: 1980
   runtime: 124
@@ -49,9 +50,10 @@
     sex: 0
   imdb_id: tt0080678
   poster_url: https://m.media-amazon.com/images/M/MV5BMGE3MDZhNmMtMmUxZS00MDJmLTgxYmQtOGU4ODU0Y2JmNDI1XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-elephant-man
 
 - id: dune-1984
-  tmdb_id: null
+  tmdb_id: 841
   title: Dune
   year: 1984
   runtime: 137
@@ -70,9 +72,10 @@
     sex: 1
   imdb_id: tt0087182
   poster_url: https://m.media-amazon.com/images/M/MV5BMGJlMGM3NDAtOWNhMy00MWExLWI2MzEtMDQ0ZDIzZDY5ZmQ2XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: dune
 
 - id: blue-velvet
-  tmdb_id: null
+  tmdb_id: 793
   title: Blue Velvet
   year: 1986
   runtime: 120
@@ -94,9 +97,10 @@
     sex: 3
   imdb_id: tt0090756
   poster_url: https://m.media-amazon.com/images/M/MV5BNzkwZGUyYjQtM2QyOC00MTBjLWE0NGYtMTZmOGM5MjI0Mzg0XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: blue-velvet
 
 - id: wild-at-heart
-  tmdb_id: null
+  tmdb_id: 483
   title: Wild at Heart
   year: 1990
   runtime: 125
@@ -115,6 +119,7 @@
     sex: 3
   imdb_id: tt0100935
   poster_url: https://m.media-amazon.com/images/M/MV5BMmUyNjMzMjEtMGFkNy00MDA1LWI0NGEtMDY5OGU1N2NmNDg1XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: wild-at-heart
 
 - id: twin-peaks
   tmdb_id: null
@@ -138,7 +143,7 @@
     sex: 2
 
 - id: fire-walk-with-me
-  tmdb_id: null
+  tmdb_id: 1923
   title: 'Twin Peaks: Fire Walk with Me'
   year: 1992
   runtime: 135
@@ -160,9 +165,10 @@
     sex: 2
   imdb_id: tt0105665
   poster_url: https://m.media-amazon.com/images/M/MV5BYzJmZGFiMzAtODNhOC00NzAwLWFlMzAtYTQzYmRmYjIwNDgyXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: twin-peaks-fire-walk-with-me
 
 - id: lost-highway
-  tmdb_id: null
+  tmdb_id: 638
   title: Lost Highway
   year: 1997
   runtime: 134
@@ -181,9 +187,10 @@
     sex: 3
   imdb_id: tt0116922
   poster_url: https://m.media-amazon.com/images/M/MV5BNjcyNmM2ODktYzk0Mi00Njk0LTljZGMtNGZhMzI4NmY1NzA1XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: lost-highway
 
 - id: the-straight-story
-  tmdb_id: null
+  tmdb_id: 404
   title: The Straight Story
   year: 1999
   runtime: 112
@@ -203,9 +210,10 @@
     sex: 0
   imdb_id: tt0166896
   poster_url: https://m.media-amazon.com/images/M/MV5BZjdjNWZhY2UtMDRiYS00M2NhLThiZmQtYTA0MzI4ZWIyYzY4XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-straight-story
 
 - id: mulholland-drive
-  tmdb_id: null
+  tmdb_id: 1018
   title: Mulholland Drive
   year: 2001
   runtime: 147
@@ -224,9 +232,10 @@
     sex: 3
   imdb_id: tt0166924
   poster_url: https://m.media-amazon.com/images/M/MV5BNjliY2UwMjQtYjVlNi00NzExLTg1MDMtMjE2OTYwYjI0NTcxXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: mulholland-drive
 
 - id: inland-empire
-  tmdb_id: null
+  tmdb_id: 1730
   title: Inland Empire
   year: 2006
   runtime: 180
@@ -245,6 +254,7 @@
     sex: 2
   imdb_id: tt0460829
   poster_url: https://m.media-amazon.com/images/M/MV5BMTQ3NDQyNjM3NF5BMl5BanBnXkFtZTcwMzk5MDU0MQ@@._V1_SX300.jpg
+  letterboxd_slug: inland-empire
 
 - id: twin-peaks-the-return
   tmdb_id: null

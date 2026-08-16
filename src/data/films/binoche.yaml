@@ -2,7 +2,7 @@
 # not repeated here.
 
 - id: the-unbearable-lightness-of-being
-  tmdb_id: null
+  tmdb_id: 10644
   title: The Unbearable Lightness of Being
   year: 1988
   runtime: 171
@@ -11,6 +11,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 3 }
   imdb_id: tt0096332
   poster_url: https://m.media-amazon.com/images/M/MV5BMzQyMTliMzMtNzliZi00MmMwLWExZGEtNzQ3MDc1NmY4M2I1XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-unbearable-lightness-of-being
 
 - id: three-colours-blue
   tmdb_id: 108
@@ -24,7 +25,7 @@
   letterboxd_slug: three-colours-blue
 
 - id: the-english-patient
-  tmdb_id: null
+  tmdb_id: 409
   title: The English Patient
   year: 1996
   runtime: 162
@@ -33,9 +34,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
   imdb_id: tt0116209
   poster_url: https://m.media-amazon.com/images/M/MV5BODg0NjdiN2UtZWY3MS00M2JmLTg1MDAtY2ZiNzNiMzAzYWFmXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-english-patient
 
 - id: certified-copy
-  tmdb_id: null
+  tmdb_id: 48303
   title: Certified Copy
   year: 2010
   runtime: 106
@@ -49,9 +51,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt1020773
   poster_url: https://m.media-amazon.com/images/M/MV5BZmY5OWY2MTQtZDZmYS00YTczLWEwMTktMDNjZWMzYzEwYzFjXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: certified-copy
 
 - id: clouds-of-sils-maria
-  tmdb_id: null
+  tmdb_id: 246860
   title: Clouds of Sils Maria
   year: 2014
   runtime: 124
@@ -60,3 +63,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt2452254
   poster_url: https://m.media-amazon.com/images/M/MV5BMjAwMTg3MDE0NF5BMl5BanBnXkFtZTgwNjQ1ODQyNTE@._V1_SX300.jpg
+  letterboxd_slug: clouds-of-sils-maria

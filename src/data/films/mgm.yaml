@@ -11,7 +11,7 @@
 # fiction. A studio remembered only for musicals and Garbo would be a caricature of MGM, not MGM.
 
 - id: grand-hotel
-  tmdb_id: null
+  tmdb_id: 33680
   title: Grand Hotel
   year: 1932
   runtime: 112
@@ -20,9 +20,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
   imdb_id: tt0022958
   poster_url: https://m.media-amazon.com/images/M/MV5BMTQxNDc4MDcwNF5BMl5BanBnXkFtZTgwNzY0MjUzMjE@._V1_SX300.jpg
+  letterboxd_slug: grand-hotel
 
 - id: dinner-at-eight
-  tmdb_id: null
+  tmdb_id: 39130
   title: Dinner at Eight
   year: 1933
   runtime: 111
@@ -31,9 +32,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 1 }
   imdb_id: tt0023948
   poster_url: https://m.media-amazon.com/images/M/MV5BNDc0MjBlYzctMGNiMS00YmY4LThhMzQtZmZhZDk5YzczOTlkXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: dinner-at-eight
 
 - id: the-wizard-of-oz
-  tmdb_id: null
+  tmdb_id: 630
   title: The Wizard of Oz
   year: 1939
   runtime: 102
@@ -42,9 +44,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0032138
   poster_url: https://m.media-amazon.com/images/M/MV5BYWRmY2I0MGItYTQ0OC00NWZmLWIwMDktYjJlNDc0MzVhMmViXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-wizard-of-oz-1939
 
 - id: ninotchka
-  tmdb_id: null
+  tmdb_id: 1859
   title: Ninotchka
   year: 1939
   runtime: 110
@@ -53,9 +56,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0031725
   poster_url: https://m.media-amazon.com/images/M/MV5BNTllODg3NmItOTY2Yi00NDhkLWE2OWYtNmE0ZWU4NTZiYjljXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: ninotchka
 
 - id: mrs-miniver
-  tmdb_id: null
+  tmdb_id: 27367
   title: Mrs. Miniver
   year: 1942
   runtime: 134
@@ -64,9 +68,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0035093
   poster_url: https://m.media-amazon.com/images/M/MV5BNjVjNzE1ODAtYWViYi00MjhjLThhNWEtZjcyZDVjOThlNWVmXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: mrs-miniver
 
 - id: meet-me-in-st-louis
-  tmdb_id: null
+  tmdb_id: 909
   title: Meet Me in St. Louis
   year: 1944
   runtime: 113
@@ -75,9 +80,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0037059
   poster_url: https://m.media-amazon.com/images/M/MV5BNWQ3MGM3ODYtYTJhYS00MjVlLWJkMDUtYmQ4YmExYWYxOTA0XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: meet-me-in-st-louis
 
 - id: national-velvet
-  tmdb_id: null
+  tmdb_id: 17641
   title: National Velvet
   year: 1944
   runtime: 125
@@ -86,9 +92,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0037120
   poster_url: https://m.media-amazon.com/images/M/MV5BNWY0MGFkMzItNjc5MS00ZjhmLThlY2UtMWRiNjkxZTJjNjA2XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: national-velvet
 
 - id: the-postman-always-rings-twice
-  tmdb_id: null
+  tmdb_id: 25736
   title: The Postman Always Rings Twice
   year: 1946
   runtime: 113
@@ -102,9 +109,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 2 }
   imdb_id: tt0038854
   poster_url: https://m.media-amazon.com/images/M/MV5BYzJmNjVlMTQtYWIyYy00NDc0LWI0NjAtNTJjYTAxMDE2ZWYyXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-postman-always-rings-twice
 
 - id: easter-parade
-  tmdb_id: null
+  tmdb_id: 29380
   title: Easter Parade
   year: 1948
   runtime: 103
@@ -113,9 +121,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0040308
   poster_url: https://m.media-amazon.com/images/M/MV5BNjQ5OThkMTQtNDI5MC00NThlLWExODYtMDQ1NjI0MGQzZGNjXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: easter-parade
 
 - id: an-american-in-paris
-  tmdb_id: null
+  tmdb_id: 2769
   title: An American in Paris
   year: 1951
   runtime: 113
@@ -124,6 +133,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt0043278
   poster_url: https://m.media-amazon.com/images/M/MV5BYWE3N2E1NDYtMzEzMC00OWFiLWJhNTUtYTJjZDdhMGY4YzI4XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: an-american-in-paris
 
 - id: singin-in-the-rain
   tmdb_id: null
@@ -142,7 +152,7 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMGQzZDFjZWUtZDU4ZS00ZjM3LTgyYmItYjA3YmIwYzRkZWY3XkEyXkFqcGc@._V1_QL75_UY562_CR3,0,380,562_.jpg
 
 - id: the-band-wagon
-  tmdb_id: null
+  tmdb_id: 29376
   title: The Band Wagon
   year: 1953
   runtime: 112
@@ -151,9 +161,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0045537
   poster_url: https://m.media-amazon.com/images/M/MV5BOTdjYTRlOGItNDZhZC00YTk2LWFhZWMtMzBjNjc5YjVhNWE0XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-band-wagon
 
 - id: seven-brides-for-seven-brothers
-  tmdb_id: null
+  tmdb_id: 16563
   title: Seven Brides for Seven Brothers
   year: 1954
   runtime: 103
@@ -164,9 +175,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0047472
   poster_url: https://m.media-amazon.com/images/M/MV5BYzJkODQ3OWEtYmQwZS00ZTgwLWFjYmItNmEyMmZiODA4YjgyXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: seven-brides-for-seven-brothers
 
 - id: forbidden-planet
-  tmdb_id: null
+  tmdb_id: 830
   title: Forbidden Planet
   year: 1956
   runtime: 98
@@ -175,9 +187,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0049223
   poster_url: https://m.media-amazon.com/images/M/MV5BMjY4NGVmMzctYjFmYS00MDk3LTlkNDktNDdjMjhlYmY1YmI3XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: forbidden-planet
 
 - id: ben-hur
-  tmdb_id: null
+  tmdb_id: 665
   title: Ben-Hur
   year: 1959
   runtime: 212
@@ -186,3 +199,4 @@
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt0052618
   poster_url: https://m.media-amazon.com/images/M/MV5BNjg2M2E1YzYtOThmMC00NjAyLWI5MzgtMDEwOGFiODdlOGUzXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: ben-hur-1959

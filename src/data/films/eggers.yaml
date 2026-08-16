@@ -5,7 +5,7 @@
 # this roster, not a shorter tagging pass.
 
 - id: the-northman
-  tmdb_id: null
+  tmdb_id: 639933
   title: The Northman
   year: 2022
   runtime: 137
@@ -14,9 +14,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
   imdb_id: tt11138512
   poster_url: https://m.media-amazon.com/images/M/MV5BYzgwM2JiY2MtNWQ5OC00NDc1LWExMjYtYmY2YjViZmViYWM5XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg
+  letterboxd_slug: the-northman
 
 - id: nosferatu-2024
-  tmdb_id: null
+  tmdb_id: 426063
   title: Nosferatu
   year: 2024
   runtime: 132
@@ -25,3 +26,4 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 2 }
   imdb_id: tt5040012
   poster_url: https://m.media-amazon.com/images/M/MV5BY2FhZGE3NmEtNWJjOC00NDI1LWFhMTQtMjcxNmQzZmEwNGIzXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg
+  letterboxd_slug: nosferatu-2024

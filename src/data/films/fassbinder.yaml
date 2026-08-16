@@ -6,7 +6,7 @@
 # exists for.
 
 - id: love-is-colder-than-death
-  tmdb_id: null
+  tmdb_id: 12482
   title: Love Is Colder Than Death
   year: 1969
   runtime: 88
@@ -14,9 +14,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
   imdb_id: tt0064588
   poster_url: https://m.media-amazon.com/images/M/MV5BODc2YzRkZjYtYmYxZC00MmY3LTg2ZTEtZDc5MWQ4ZWNiMGIxXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: love-is-colder-than-death
 
 - id: petra-von-kant
-  tmdb_id: null
+  tmdb_id: 10310
   title: The Bitter Tears of Petra von Kant
   year: 1972
   runtime: 124
@@ -24,9 +25,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
   imdb_id: tt0068278
   poster_url: https://m.media-amazon.com/images/M/MV5BYjc4YTdjZGEtZDJkMS00OGY5LThjNzUtMGY1Y2QzOTdkMTRlXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-bitter-tears-of-petra-von-kant
 
 - id: ali-fear-eats-the-soul
-  tmdb_id: null
+  tmdb_id: 216
   title: 'Ali: Fear Eats the Soul'
   year: 1974
   runtime: 93
@@ -39,9 +41,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
   imdb_id: tt0071141
   poster_url: https://m.media-amazon.com/images/M/MV5BYzRmNmRjNTktZGRjNC00YzkxLTgxNjEtYzY3MTI5MjgwY2ZiXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: ali-fear-eats-the-soul
 
 - id: effi-briest
-  tmdb_id: null
+  tmdb_id: 706
   title: Effi Briest
   year: 1974
   runtime: 141
@@ -49,9 +52,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0071458
   poster_url: https://m.media-amazon.com/images/M/MV5BZjBjMzYxZjAtYjI1YS00YjkxLTlhNGMtM2ZiMTkyODIyNDQ3XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: effi-briest
 
 - id: fox-and-his-friends
-  tmdb_id: null
+  tmdb_id: 42254
   title: Fox and His Friends
   year: 1975
   runtime: 123
@@ -59,6 +63,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 2 }
   imdb_id: tt0072976
   poster_url: https://m.media-amazon.com/images/M/MV5BMTE0ZDYxZjItNmI0Mi00YjA4LTk2NDctZWM1MjY3Y2UxY2FiXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: fox-and-his-friends
 
 - id: mother-kusters
   tmdb_id: 42260
@@ -71,7 +76,7 @@
   letterboxd_slug: mother-kusters-goes-to-heaven
 
 - id: chinese-roulette
-  tmdb_id: null
+  tmdb_id: 36226
   title: Chinese Roulette
   year: 1976
   runtime: 86
@@ -79,6 +84,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
   imdb_id: tt0074312
   poster_url: https://m.media-amazon.com/images/M/MV5BMDEzYTAxMzctZjdmOS00MmE2LTk5YjMtZjE1NzMzMTlhNTM5XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: chinese-roulette
 
 - id: in-a-year-of-13-moons
   tmdb_id: null
@@ -95,7 +101,7 @@
     sex: 2
 
 - id: despair
-  tmdb_id: null
+  tmdb_id: 42203
   title: Despair
   year: 1978
   runtime: 119
@@ -103,9 +109,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
   imdb_id: tt0077421
   poster_url: https://m.media-amazon.com/images/M/MV5BYzlmNzI0YWItYmRhNy00MmE4LTk0MjctMzViZmZjMGMyNTRkXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: despair
 
 - id: the-marriage-of-maria-braun
-  tmdb_id: null
+  tmdb_id: 661
   title: The Marriage of Maria Braun
   year: 1979
   runtime: 120
@@ -113,6 +120,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 2 }
   imdb_id: tt0079095
   poster_url: https://m.media-amazon.com/images/M/MV5BOGE3OTIyNzAtMDk3Yy00MTlhLTk0MDUtZjljMWE0ZGU3MjIzXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-marriage-of-maria-braun
 
 - id: berlin-alexanderplatz
   tmdb_id: null
@@ -125,9 +133,10 @@
   content: { sexual_violence: true, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 2 }
   imdb_id: tt0080196
   poster_url: https://m.media-amazon.com/images/M/MV5BYzM1N2I3MDUtYmM3Ny00OTVkLTkxOTQtYzFiMWFlNDQyMmE4XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: berlin-alexanderplatz
 
 - id: lola-1981
-  tmdb_id: null
+  tmdb_id: 2264
   title: Lola
   year: 1981
   runtime: 115
@@ -135,9 +144,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 2 }
   imdb_id: tt0082671
   poster_url: https://m.media-amazon.com/images/M/MV5BYjE0MzMxMmMtMjJjNS00NDUxLTliMmQtMDRiYTE1Y2RjYzg0XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: lola-1981
 
 - id: veronika-voss
-  tmdb_id: null
+  tmdb_id: 2262
   title: Veronika Voss
   year: 1982
   runtime: 104
@@ -145,9 +155,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 1 }
   imdb_id: tt0084654
   poster_url: https://m.media-amazon.com/images/M/MV5BNmFkOWJmMzktZDcwNy00NjBkLWI0MDgtYTRjMTc1MTllYTQ1XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: veronika-voss
 
 - id: querelle
-  tmdb_id: null
+  tmdb_id: 42135
   title: Querelle
   year: 1982
   runtime: 108
@@ -155,3 +166,4 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 3 }
   imdb_id: tt0084565
   poster_url: https://m.media-amazon.com/images/M/MV5BN2Y5N2RjNzUtNTRlZC00NWQzLWFjN2EtM2VmMzMxMjZlNmU0XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: querelle

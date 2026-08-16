@@ -5,7 +5,7 @@
 # that stops at Psycho would flatter the reputation and skip the film that complicates it.
 
 - id: the-39-steps
-  tmdb_id: null
+  tmdb_id: 260
   title: The 39 Steps
   year: 1935
   runtime: 86
@@ -14,9 +14,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0026029
   poster_url: https://m.media-amazon.com/images/M/MV5BMTY5ODAzMTcwOF5BMl5BanBnXkFtZTcwMzYxNDYyNA@@._V1_SX300.jpg
+  letterboxd_slug: the-39-steps
 
 - id: the-lady-vanishes
-  tmdb_id: null
+  tmdb_id: 940
   title: The Lady Vanishes
   year: 1938
   runtime: 96
@@ -25,9 +26,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0030341
   poster_url: https://m.media-amazon.com/images/M/MV5BMzQxY2M5ODUtYjQ5ZS00M2NmLWI2OTMtYzY3ZWJmZjcyNDIwXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-lady-vanishes
 
 - id: rebecca
-  tmdb_id: null
+  tmdb_id: 223
   title: Rebecca
   year: 1940
   runtime: 130
@@ -41,9 +43,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0032976
   poster_url: https://m.media-amazon.com/images/M/MV5BYTI0MjUyODAtZTBkNC00MmIwLWFlNmYtMWE3ZmJlOWJjM2QyXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: rebecca
 
 - id: shadow-of-a-doubt
-  tmdb_id: null
+  tmdb_id: 21734
   title: Shadow of a Doubt
   year: 1943
   runtime: 108
@@ -52,9 +55,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0036342
   poster_url: https://m.media-amazon.com/images/M/MV5BMDFhMzBlYzctMDhkOC00OTFiLTgyYzEtZTBkNmQzNGRlMmNlXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: shadow-of-a-doubt
 
 - id: strangers-on-a-train
-  tmdb_id: null
+  tmdb_id: 845
   title: Strangers on a Train
   year: 1951
   runtime: 101
@@ -63,9 +67,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0044079
   poster_url: https://m.media-amazon.com/images/M/MV5BYjZkNjIwYjktN2IzOC00MmJlLWFkNDItZDZmNGZkNjQzZTA0XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg
+  letterboxd_slug: strangers-on-a-train
 
 - id: rear-window
-  tmdb_id: null
+  tmdb_id: 567
   title: Rear Window
   year: 1954
   runtime: 112
@@ -74,9 +79,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0047396
   poster_url: https://m.media-amazon.com/images/M/MV5BODZhOWI1ODgtMzdiOS00YjNkLTgwOGUtYmIyZDg5ZmQwMzQ1XkEyXkFqcGc@._V1_QL75_UY562_CR2,0,380,562_.jpg
+  letterboxd_slug: rear-window
 
 - id: to-catch-a-thief
-  tmdb_id: null
+  tmdb_id: 381
   title: To Catch a Thief
   year: 1955
   runtime: 106
@@ -85,9 +91,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt0048728
   poster_url: https://m.media-amazon.com/images/M/MV5BOWVjMjA1YzQtMjY4Yy00NDg1LTkwYmUtNDVlZGZiNmRhMGQ0XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: to-catch-a-thief
 
 - id: vertigo
-  tmdb_id: null
+  tmdb_id: 426
   title: Vertigo
   year: 1958
   runtime: 128
@@ -101,9 +108,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
   imdb_id: tt0052357
   poster_url: https://m.media-amazon.com/images/M/MV5BNzEyZTUxMWItMGVhYy00Y2NlLTljYTMtYzBmMzI1YmUyMDBkXkEyXkFqcGc@._V1_QL75_UX380_CR0,13,380,562_.jpg
+  letterboxd_slug: vertigo
 
 - id: north-by-northwest
-  tmdb_id: null
+  tmdb_id: 213
   title: North by Northwest
   year: 1959
   runtime: 136
@@ -112,9 +120,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0053125
   poster_url: https://m.media-amazon.com/images/M/MV5BZWIzODI2OGItMzM0Ny00OGRmLTlkNmItMDQxMTFmMTk3YmQwXkEyXkFqcGc@._V1_QL75_UX380_CR0,5,380,562_.jpg
+  letterboxd_slug: north-by-northwest
 
 - id: psycho
-  tmdb_id: null
+  tmdb_id: 539
   title: Psycho
   year: 1960
   runtime: 109
@@ -128,9 +137,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
   imdb_id: tt0054215
   poster_url: https://m.media-amazon.com/images/M/MV5BYjZhMzFiZjItODA3ZC00MmRhLWIzMGYtMmVjOWUwYTA3MTRjXkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg
+  letterboxd_slug: psycho
 
 - id: the-birds
-  tmdb_id: null
+  tmdb_id: 571
   title: The Birds
   year: 1963
   runtime: 119
@@ -144,9 +154,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0056869
   poster_url: https://m.media-amazon.com/images/M/MV5BMTAxNDA1ODc5MDleQTJeQWpwZ15BbWU4MDg2MDA4OTEx._V1_SX300.jpg
+  letterboxd_slug: the-birds
 
 - id: marnie
-  tmdb_id: null
+  tmdb_id: 506
   title: Marnie
   year: 1964
   runtime: 130
@@ -155,9 +166,10 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 2 }
   imdb_id: tt0058329
   poster_url: https://m.media-amazon.com/images/M/MV5BMTIyMmJmOGUtODMzMy00NTUxLWJmZTQtMWQ4NWM1ZTg5MjZlXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: marnie
 
 - id: frenzy
-  tmdb_id: null
+  tmdb_id: 573
   title: Frenzy
   year: 1972
   runtime: 116
@@ -171,3 +183,4 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 2 }
   imdb_id: tt0068611
   poster_url: https://m.media-amazon.com/images/M/MV5BYWQ3OGZkYTgtZjVmZi00Yjg4LThkNjEtOTdjM2I4YTUwNmVhXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: frenzy

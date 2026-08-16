@@ -3,7 +3,7 @@
 # De Niro share a scene in it, famously their only one on screen together until decades later.
 
 - id: serpico
-  tmdb_id: null
+  tmdb_id: 9040
   title: Serpico
   year: 1973
   runtime: 130
@@ -12,9 +12,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0070666
   poster_url: https://m.media-amazon.com/images/M/MV5BYTg3NzUzYzYtMmQxOS00MjAwLWI0ZDYtNDg4OTQ4OTljNGFlXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: serpico
 
 - id: dog-day-afternoon
-  tmdb_id: null
+  tmdb_id: 968
   title: Dog Day Afternoon
   year: 1975
   runtime: 125
@@ -23,9 +24,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0072890
   poster_url: https://m.media-amazon.com/images/M/MV5BY2RjNTg2ODMtZWQ4NC00MDdhLWE4MDgtMWFjMjI4ZTIxMGY4XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: dog-day-afternoon
 
 - id: scarface
-  tmdb_id: null
+  tmdb_id: 111
   title: Scarface
   year: 1983
   runtime: 170
@@ -34,6 +36,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
   imdb_id: tt0086250
   poster_url: https://m.media-amazon.com/images/M/MV5BNDUzYjY0NmUtMDM4OS00Y2Q5LWJiODYtNTk0ZTk0YjZhMTg1XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg
+  letterboxd_slug: scarface-1983
 
 - id: the-devils-advocate
   tmdb_id: null
@@ -52,7 +55,7 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNGIxZmU2ZjEtYjc3OC00Y2FiLWE2ZTQtZGI3NzE0YmRhOTMxXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: and-justice-for-all
-  tmdb_id: null
+  tmdb_id: 17443
   title: "...And Justice for All"
   year: 1979
   runtime: 119
@@ -61,9 +64,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 0 }
   imdb_id: tt0078718
   poster_url: https://m.media-amazon.com/images/M/MV5BNGQ3YWEzMTQtZWE0Yy00ZDY2LWFjMmItNmE0MDkzNTZiMDdhXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: and-justice-for-all
 
 - id: sea-of-love
-  tmdb_id: null
+  tmdb_id: 12150
   title: Sea of Love
   year: 1989
   runtime: 113
@@ -72,9 +76,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 2 }
   imdb_id: tt0098273
   poster_url: https://m.media-amazon.com/images/M/MV5BNTQ4ODNhMmQtZDM3MC00MTUyLWIwN2MtYWNhZjE5MTljNjIyXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: sea-of-love
 
 - id: glengarry-glen-ross
-  tmdb_id: null
+  tmdb_id: 9504
   title: Glengarry Glen Ross
   year: 1992
   runtime: 100
@@ -83,9 +88,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0104348
   poster_url: https://m.media-amazon.com/images/M/MV5BM2Q5NDA1ODctNmM4Yy00Yjk4LTg2ZTUtZTJjYzYyMjA2MTdmXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: glengarry-glen-ross
 
 - id: scent-of-a-woman
-  tmdb_id: null
+  tmdb_id: 9475
   title: Scent of a Woman
   year: 1992
   runtime: 156
@@ -94,9 +100,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
   imdb_id: tt0105323
   poster_url: https://m.media-amazon.com/images/M/MV5BNzc5ODg2NzMtYTQ4MS00MWFiLWI5NWMtNWNkODNmZjE0ZGVjXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: scent-of-a-woman
 
 - id: the-insider
-  tmdb_id: null
+  tmdb_id: 9008
   title: The Insider
   year: 1999
   runtime: 157
@@ -105,3 +112,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0140352
   poster_url: https://m.media-amazon.com/images/M/MV5BZGY3ZjEyODAtNjAwMC00ZTEwLTg3NDctYzMzYTZkMjBmZDQwXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-insider

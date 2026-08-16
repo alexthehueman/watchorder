@@ -1,7 +1,7 @@
 # Films for Christian Bale. Scales and anchors are in README.md ("The anchor rubric").
 
 - id: american-psycho
-  tmdb_id: null
+  tmdb_id: 1359
   title: American Psycho
   year: 2000
   runtime: 101
@@ -14,9 +14,10 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 2 }
   imdb_id: tt0144084
   poster_url: https://m.media-amazon.com/images/M/MV5BNzBjM2I5ZjUtNmIzNy00OGNkLWIwZDMtOTAwYWUwMzA2YjdlXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: american-psycho
 
 - id: the-machinist
-  tmdb_id: null
+  tmdb_id: 4553
   title: The Machinist
   year: 2004
   runtime: 102
@@ -24,9 +25,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0361862
   poster_url: https://m.media-amazon.com/images/M/MV5BY2I1MmUxYmMtZjk3OC00N2MwLWI2YjAtNGQxODA1Y2I3YTI4XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-machinist
 
 - id: batman-begins
-  tmdb_id: null
+  tmdb_id: 272
   title: Batman Begins
   year: 2005
   runtime: 140
@@ -34,9 +36,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0372784
   poster_url: https://m.media-amazon.com/images/M/MV5BMzA2NDQzZDEtNDU5Ni00YTlkLTg2OWEtYmQwM2Y1YTBjMjFjXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg
+  letterboxd_slug: batman-begins
 
 - id: the-prestige
-  tmdb_id: null
+  tmdb_id: 1124
   title: The Prestige
   year: 2006
   runtime: 130
@@ -49,9 +52,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0482571
   poster_url: https://m.media-amazon.com/images/M/MV5BMTM3MzQ5MjQ5OF5BMl5BanBnXkFtZTcwMTQ3NzMzMw@@._V1_QL75_UY562_CR0,0,380,562_.jpg
+  letterboxd_slug: the-prestige
 
 - id: 3-10-to-yuma
-  tmdb_id: null
+  tmdb_id: 5176
   title: 3:10 to Yuma
   year: 2007
   runtime: 122
@@ -59,9 +63,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0381849
   poster_url: https://m.media-amazon.com/images/M/MV5BODE0NTcxNTQzNF5BMl5BanBnXkFtZTcwMzczOTIzMw@@._V1_SX300.jpg
+  letterboxd_slug: 3-10-to-yuma-2007
 
 - id: the-dark-knight
-  tmdb_id: null
+  tmdb_id: 155
   title: The Dark Knight
   year: 2008
   runtime: 152
@@ -69,9 +74,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0468569
   poster_url: https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_QL75_UX380_CR0,0,380,562_.jpg
+  letterboxd_slug: the-dark-knight
 
 - id: the-fighter
-  tmdb_id: null
+  tmdb_id: 63599
   title: The Fighter
   year: 2010
   runtime: 116
@@ -79,9 +85,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0964517
   poster_url: https://m.media-amazon.com/images/M/MV5BMTM0ODk3MjM1MV5BMl5BanBnXkFtZTcwNzc1MDIwNA@@._V1_SX300.jpg
+  letterboxd_slug: the-fighter
 
 - id: american-hustle
-  tmdb_id: null
+  tmdb_id: 168672
   title: American Hustle
   year: 2013
   runtime: 138
@@ -89,9 +96,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt1800241
   poster_url: https://m.media-amazon.com/images/M/MV5BMGQ2NzEwZGEtYjk1MC00NWFmLTgyYTgtZmRhMTRmOTBlN2U5XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: american-hustle
 
 - id: the-big-short
-  tmdb_id: null
+  tmdb_id: 318846
   title: The Big Short
   year: 2015
   runtime: 130
@@ -99,9 +107,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt1596363
   poster_url: https://m.media-amazon.com/images/M/MV5BZDZkNDQ3YjktYjBlZC00YTY1LTgxOGYtY2RhMWFhZmNkZGY3XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-big-short
 
 - id: vice
-  tmdb_id: null
+  tmdb_id: 429197
   title: Vice
   year: 2018
   runtime: 132
@@ -109,3 +118,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt6266538
   poster_url: https://m.media-amazon.com/images/M/MV5BMTY1NjM0MzgxMV5BMl5BanBnXkFtZTgwNDc4NTY0NjM@._V1_SX300.jpg
+  letterboxd_slug: vice-2018

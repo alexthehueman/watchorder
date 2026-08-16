@@ -1,7 +1,7 @@
 # Films for Billy Wilder. Scales and anchors are in README.md ("The anchor rubric").
 
 - id: double-indemnity
-  tmdb_id: null
+  tmdb_id: 996
   title: Double Indemnity
   year: 1944
   runtime: 107
@@ -10,9 +10,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0036775
   poster_url: https://m.media-amazon.com/images/M/MV5BM2YwNjZlZDktNTlmNS00ODQwLWJmNmUtYmE1NTBhYjc1YTY5XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: double-indemnity
 
 - id: the-lost-weekend
-  tmdb_id: null
+  tmdb_id: 28580
   title: The Lost Weekend
   year: 1945
   runtime: 101
@@ -21,9 +22,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
   imdb_id: tt0037884
   poster_url: https://m.media-amazon.com/images/M/MV5BMTk4NDQ0NjgyNF5BMl5BanBnXkFtZTgwMTE3NTkxMTE@._V1_SX300.jpg
+  letterboxd_slug: the-lost-weekend
 
 - id: sunset-boulevard
-  tmdb_id: null
+  tmdb_id: 599
   title: Sunset Boulevard
   year: 1950
   runtime: 110
@@ -32,9 +34,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0043014
   poster_url: https://m.media-amazon.com/images/M/MV5BMTU0NTkyNzYwMF5BMl5BanBnXkFtZTgwMDU0NDk5MTI@._V1_QL75_UX380_CR0,5,380,562_.jpg
+  letterboxd_slug: sunset-boulevard
 
 - id: ace-in-the-hole
-  tmdb_id: null
+  tmdb_id: 25364
   title: Ace in the Hole
   year: 1951
   runtime: 111
@@ -43,9 +46,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0043338
   poster_url: https://m.media-amazon.com/images/M/MV5BMDY5MmVmODktYjg5Yi00ZDg4LThiOGItN2MzOWViZjVjMGUwXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: ace-in-the-hole
 
 - id: stalag-17
-  tmdb_id: null
+  tmdb_id: 632
   title: Stalag 17
   year: 1953
   runtime: 120
@@ -54,9 +58,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0046359
   poster_url: https://m.media-amazon.com/images/M/MV5BYzY1NjQ0NjMtYWQ5Ni00Y2ZiLWE2NGUtNDMzZWVmNTk0ODhkXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: stalag-17
 
 - id: sabrina
-  tmdb_id: null
+  tmdb_id: 6620
   title: Sabrina
   year: 1954
   runtime: 113
@@ -65,9 +70,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0047437
   poster_url: https://m.media-amazon.com/images/M/MV5BNjQ5MWI5YWYtYzYxNi00ODM4LWI4NzEtNzUzYmVkNzRiYzNlXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: sabrina
 
 - id: witness-for-the-prosecution
-  tmdb_id: null
+  tmdb_id: 37257
   title: Witness for the Prosecution
   year: 1957
   runtime: 116
@@ -76,9 +82,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0051201
   poster_url: https://m.media-amazon.com/images/M/MV5BNjRhNTQzMzQtMWViMi00ODQ1LTg0MTEtYWE4ZWZlYjM4YjJhXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: witness-for-the-prosecution-1957
 
 - id: some-like-it-hot
-  tmdb_id: null
+  tmdb_id: 239
   title: Some Like It Hot
   year: 1959
   runtime: 121
@@ -87,9 +94,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0053291
   poster_url: https://m.media-amazon.com/images/M/MV5BZTllZDYyNjEtY2RmMS00NmJhLWI4ODAtMTQ0NWFiZTJhZjA0XkEyXkFqcGc@._V1_QL75_UX380_CR0,13,380,562_.jpg
+  letterboxd_slug: some-like-it-hot
 
 - id: the-apartment
-  tmdb_id: null
+  tmdb_id: 284
   title: The Apartment
   year: 1960
   runtime: 125
@@ -98,9 +106,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
   imdb_id: tt0053604
   poster_url: https://m.media-amazon.com/images/M/MV5BNDdhMzVhOWQtNDU2Mi00ZmZmLWJiZDMtY2QxMjhjY2Y1ZTI5XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-apartment
 
 - id: one-two-three
-  tmdb_id: null
+  tmdb_id: 430
   title: One, Two, Three
   year: 1961
   runtime: 115
@@ -109,9 +118,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0055256
   poster_url: https://m.media-amazon.com/images/M/MV5BYjVlOTAxZDctMmM1Ny00ZGIwLTgwYTItZjIwYjAxNDg5OWFlXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: one-two-three
 
 - id: irma-la-douce
-  tmdb_id: null
+  tmdb_id: 2690
   title: Irma la Douce
   year: 1963
   runtime: 147
@@ -120,9 +130,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt0057187
   poster_url: https://m.media-amazon.com/images/M/MV5BMTJlYjRhMjYtMjk5Ni00NGY3LTkwOWEtOTIzNjljOTM5ZWVhXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: irma-la-douce
 
 - id: the-fortune-cookie
-  tmdb_id: null
+  tmdb_id: 1888
   title: The Fortune Cookie
   year: 1966
   runtime: 125
@@ -131,9 +142,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0060424
   poster_url: https://m.media-amazon.com/images/M/MV5BYzc3ZTBkOTEtNmJkYy00NjcyLTg4ODYtMjMxZWIzZDYwYmIxXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-fortune-cookie
 
 - id: fedora
-  tmdb_id: null
+  tmdb_id: 54000
   title: Fedora
   year: 1978
   runtime: 114
@@ -142,3 +154,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0077539
   poster_url: https://m.media-amazon.com/images/M/MV5BNDA0ZGEyMGItMjVjOC00OWI1LWE5NDUtZmViYjBkZGM3ZmM1XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: fedora

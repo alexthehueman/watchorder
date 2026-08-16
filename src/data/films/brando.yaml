@@ -1,7 +1,7 @@
 # Films for Marlon Brando. Scales and anchors are in README.md ("The anchor rubric").
 
 - id: a-streetcar-named-desire
-  tmdb_id: null
+  tmdb_id: 702
   title: A Streetcar Named Desire
   year: 1951
   runtime: 122
@@ -10,9 +10,10 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
   imdb_id: tt0044081
   poster_url: https://m.media-amazon.com/images/M/MV5BNTdmZDY1ODQtNzFjYy00MGM4LWJmNDItN2MxMmQ2OTgxZGNmXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: a-streetcar-named-desire
 
 - id: viva-zapata
-  tmdb_id: null
+  tmdb_id: 1810
   title: Viva Zapata!
   year: 1952
   runtime: 113
@@ -21,9 +22,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0045296
   poster_url: https://m.media-amazon.com/images/M/MV5BMDkxM2NkNDMtMTk5OS00N2UzLWJiZWUtZmRjZDJjMGMzZWU3XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: viva-zapata
 
 - id: the-wild-one
-  tmdb_id: null
+  tmdb_id: 28696
   title: The Wild One
   year: 1953
   runtime: 79
@@ -32,9 +34,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0047677
   poster_url: https://m.media-amazon.com/images/M/MV5BNWM3NmRkM2UtMmYyOC00NzM0LTgyNTYtZmU0YmM4NDVlNWEwXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-wild-one
 
 - id: on-the-waterfront
-  tmdb_id: null
+  tmdb_id: 654
   title: On the Waterfront
   year: 1954
   runtime: 108
@@ -43,9 +46,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0047296
   poster_url: https://m.media-amazon.com/images/M/MV5BZDJlYTM1ZGYtZTM4YS00MzFhLThiZjktYzQ0ZjAzMGYwZTU3XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: on-the-waterfront
 
 - id: guys-and-dolls
-  tmdb_id: null
+  tmdb_id: 4825
   title: Guys and Dolls
   year: 1955
   runtime: 150
@@ -59,9 +63,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0048140
   poster_url: https://m.media-amazon.com/images/M/MV5BZTkzNWE2Y2ItMmIxZC00MTA3LWJmOTItMjQ2OTMzZWYwMWI0XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: guys-and-dolls
 
 - id: julius-caesar-1953
-  tmdb_id: null
+  tmdb_id: 18019
   title: Julius Caesar
   year: 1953
   runtime: 121
@@ -70,9 +75,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 0 }
   imdb_id: tt0045943
   poster_url: https://m.media-amazon.com/images/M/MV5BNTkyMTI0NTEtNmEzMi00ZWM5LTk4MjEtN2NkMjk5MWI5MmNjXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: julius-caesar
 
 - id: the-godfather
-  tmdb_id: null
+  tmdb_id: 238
   title: The Godfather
   year: 1972
   runtime: 175
@@ -81,9 +87,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt0068646
   poster_url: https://m.media-amazon.com/images/M/MV5BNGEwYjgwOGQtYjg5ZS00Njc1LTk2ZGEtM2QwZWQ2NjdhZTE5XkEyXkFqcGc@._V1_QL75_UY562_CR8,0,380,562_.jpg
+  letterboxd_slug: the-godfather
 
 - id: last-tango-in-paris
-  tmdb_id: null
+  tmdb_id: 1643
   title: Last Tango in Paris
   year: 1972
   runtime: 129
@@ -92,9 +99,10 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 3 }
   imdb_id: tt0070849
   poster_url: https://m.media-amazon.com/images/M/MV5BYjkwYjdhM2ItZmVkMi00M2Y2LWJmNjEtN2Y2ZGU3MjdmZjE0XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: last-tango-in-paris
 
 - id: apocalypse-now
-  tmdb_id: null
+  tmdb_id: 28
   title: Apocalypse Now
   year: 1979
   runtime: 147
@@ -103,9 +111,10 @@
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt0078788
   poster_url: https://m.media-amazon.com/images/M/MV5BZDhiMTljYjYtODc1Yy00MmEwLTg2OTYtYmE1YTRmNDE4MmEwXkEyXkFqcGc@._V1_QL75_UX380_CR0,11,380,562_.jpg
+  letterboxd_slug: apocalypse-now
 
 - id: superman-1978
-  tmdb_id: null
+  tmdb_id: 1924
   title: Superman
   year: 1978
   runtime: 143
@@ -114,3 +123,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0078346
   poster_url: https://m.media-amazon.com/images/M/MV5BMzFlZDJjMDAtZDYxZS00NzZhLTk2ODMtZWRlODA3Njk3ZTdmXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: superman

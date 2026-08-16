@@ -6,7 +6,7 @@
 # Runaway Train is the exception and the exception is the point.
 
 - id: the-apple
-  tmdb_id: null
+  tmdb_id: 49069
   title: The Apple
   year: 1980
   runtime: 90
@@ -15,9 +15,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 2 }
   imdb_id: tt0080380
   poster_url: https://m.media-amazon.com/images/M/MV5BOGU1Y2NjYzktNWJiMi00NzA5LTk1NjEtZTJhYWI2YTRjYzdlXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-apple
 
 - id: death-wish-ii
-  tmdb_id: null
+  tmdb_id: 14373
   title: Death Wish II
   year: 1982
   runtime: 89
@@ -26,6 +27,7 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 2 }
   imdb_id: tt0082250
   poster_url: https://m.media-amazon.com/images/M/MV5BYTBjYTM2N2QtODA3ZC00MDZkLTk2NmMtMWYzZjI5YTIzZjI2XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: death-wish-ii
 
 - id: breakin
   tmdb_id: null
@@ -39,7 +41,7 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BODQ5MjQyZjgtM2ViZC00MGIwLThhMjgtNjE0ZDlhZmM3YmNhXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: missing-in-action
-  tmdb_id: null
+  tmdb_id: 15379
   title: Missing in Action
   year: 1984
   runtime: 101
@@ -48,9 +50,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
   imdb_id: tt0087727
   poster_url: https://m.media-amazon.com/images/M/MV5BZGE2NmNlODYtMzMyNS00YTM0LThlMzMtNjg1YTBhMTRkNjJhXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: missing-in-action
 
 - id: ninja-iii-the-domination
-  tmdb_id: null
+  tmdb_id: 28148
   title: 'Ninja III: The Domination'
   year: 1984
   runtime: 92
@@ -59,9 +62,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
   imdb_id: tt0087805
   poster_url: https://m.media-amazon.com/images/M/MV5BMDYxOWJhNmMtOWI5Yy00NzBjLTljYTMtMjUwZjFiMGMxNGE2XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: ninja-iii-the-domination
 
 - id: runaway-train
-  tmdb_id: null
+  tmdb_id: 11893
   title: Runaway Train
   year: 1985
   runtime: 111
@@ -75,9 +79,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
   imdb_id: tt0089941
   poster_url: https://m.media-amazon.com/images/M/MV5BMjRlMzU3Y2ItYzU5YS00NTc4LTlmMjItZjk1YTc0M2I0OGMxXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: runaway-train
 
 - id: lifeforce
-  tmdb_id: null
+  tmdb_id: 11954
   title: Lifeforce
   year: 1985
   runtime: 116
@@ -86,6 +91,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 2 }
   imdb_id: tt0089489
   poster_url: https://m.media-amazon.com/images/M/MV5BNWNmN2Y4ZTAtNGRkMC00ODk2LTkwZjItNDU3N2VjMmEzMDk4XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: lifeforce
 
 - id: invasion-usa
   tmdb_id: null
@@ -99,7 +105,7 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNjIxNDk2ZTQtMjgzNy00NTNmLWJhOTItZWY5NTFkMmMzMGYzXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: cobra
-  tmdb_id: null
+  tmdb_id: 9874
   title: Cobra
   year: 1986
   runtime: 87
@@ -108,9 +114,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
   imdb_id: tt0090859
   poster_url: https://m.media-amazon.com/images/M/MV5BODczYzNiMjgtZGU4Yi00ZmM2LWFiNzMtMjcyMTA1YzMwNTk3XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: cobra-1986
 
 - id: masters-of-the-universe
-  tmdb_id: null
+  tmdb_id: 11649
   title: Masters of the Universe
   year: 1987
   runtime: 106
@@ -119,6 +126,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0093507
   poster_url: https://m.media-amazon.com/images/M/MV5BOGM4ZDMxMjMtMmFhYi00OGJhLThiYzktMTVmYTgwNTk4ZDJhXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: masters-of-the-universe
 
 - id: tough-guys-dont-dance
   tmdb_id: null
@@ -137,7 +145,7 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjI1MDk4NjE0OV5BMl5BanBnXkFtZTcwMjExODM5NA@@._V1_SX300.jpg
 
 - id: kickboxer
-  tmdb_id: null
+  tmdb_id: 10222
   title: Kickboxer
   year: 1989
   runtime: 97
@@ -146,3 +154,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
   imdb_id: tt0097659
   poster_url: https://m.media-amazon.com/images/M/MV5BYjQ2NjVkMjAtNGYzZC00ZTZiLWJlZjYtMTNlYWNiZDVlMDZkXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: kickboxer

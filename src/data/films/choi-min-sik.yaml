@@ -3,7 +3,7 @@
 # Oldboy already existed in the corpus, tagged for Park Chan-wook. Only the seven below are new.
 
 - id: no-3
-  tmdb_id: null
+  tmdb_id: 120243
   title: No. 3
   year: 1997
   runtime: 110
@@ -11,9 +11,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0128371
   poster_url: https://m.media-amazon.com/images/M/MV5BMjdlOWE3NGEtNjU3Zi00ZmU4LTlmYTktMWY1OGIxYmY1NThiXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: no-3-1997
 
 - id: failan
-  tmdb_id: null
+  tmdb_id: 18704
   title: Failan
   year: 2001
   runtime: 120
@@ -26,9 +27,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0289181
   poster_url: https://m.media-amazon.com/images/M/MV5BN2M4YTFmNDgtMjE2OC00ODIwLWJkMTgtYjM0NjAzYzY1M2U2XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: failan
 
 - id: crying-fist
-  tmdb_id: null
+  tmdb_id: 40452
   title: Crying Fist
   year: 2005
   runtime: 136
@@ -36,9 +38,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0457007
   poster_url: https://m.media-amazon.com/images/M/MV5BMDAyZTMzNzgtNGJkMS00Yzk3LWE3YmQtNjViMjhiZTkzMGY3XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: crying-fist
 
 - id: i-saw-the-devil
-  tmdb_id: null
+  tmdb_id: 49797
   title: I Saw the Devil
   year: 2010
   runtime: 144
@@ -46,6 +49,7 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
   imdb_id: tt1588170
   poster_url: https://m.media-amazon.com/images/M/MV5BM2Q1ZGZiNTYtMWNjOC00NmU2LTg1MDQtZGZkNmY0Y2RlOTBmXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: i-saw-the-devil
 
 - id: nameless-gangster
   tmdb_id: 89501
@@ -58,7 +62,7 @@
   letterboxd_slug: nameless-gangster
 
 - id: new-world
-  tmdb_id: null
+  tmdb_id: 165213
   title: New World
   year: 2013
   runtime: 134
@@ -66,9 +70,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt2625030
   poster_url: https://m.media-amazon.com/images/M/MV5BMTYxODg5ODMxOV5BMl5BanBnXkFtZTcwNzkwMzYyOQ@@._V1_SX300.jpg
+  letterboxd_slug: new-world
 
 - id: the-admiral-roaring-currents
-  tmdb_id: null
+  tmdb_id: 282631
   title: 'The Admiral: Roaring Currents'
   year: 2014
   runtime: 128
@@ -76,3 +81,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt3541262
   poster_url: https://m.media-amazon.com/images/M/MV5BMjA1MzE5NTMyNl5BMl5BanBnXkFtZTgwODA4MzI0MjE@._V1_SX300.jpg
+  letterboxd_slug: the-admiral-roaring-currents

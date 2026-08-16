@@ -5,7 +5,7 @@
 # in on this roster.
 
 - id: water-lilies
-  tmdb_id: null
+  tmdb_id: 10818
   title: Water Lilies
   year: 2007
   runtime: 85
@@ -14,9 +14,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0869977
   poster_url: https://m.media-amazon.com/images/M/MV5BNzE0ZGJmZDYtMDc5Mi00NmRlLWI3YTItNmQ4Mzk5ZmRmZmQyXkEyXkFqcGc@._V1_QL75_UY562_CR21,0,380,562_.jpg
+  letterboxd_slug: water-lilies
 
 - id: tomboy
-  tmdb_id: null
+  tmdb_id: 65229
   title: Tomboy
   year: 2011
   runtime: 82
@@ -25,9 +26,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt1847731
   poster_url: https://m.media-amazon.com/images/M/MV5BMTQ2MTI2OTEwNF5BMl5BanBnXkFtZTcwODUwMzc3Ng@@._V1_SX300.jpg
+  letterboxd_slug: tomboy-2011
 
 - id: girlhood
-  tmdb_id: null
+  tmdb_id: 266082
   title: Girlhood
   year: 2014
   runtime: 113
@@ -36,9 +38,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt3655522
   poster_url: https://m.media-amazon.com/images/M/MV5BMjA5MDM1ODE5NV5BMl5BanBnXkFtZTgwNjg0MTk5MzE@._V1_SX300.jpg
+  letterboxd_slug: girlhood-2014
 
 - id: petite-maman
-  tmdb_id: null
+  tmdb_id: 749004
   title: Petite Maman
   year: 2021
   runtime: 72
@@ -52,3 +55,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt13204490
   poster_url: https://m.media-amazon.com/images/M/MV5BMjkxMTE3M2ItNjhiZC00YmEwLWI1MDYtZjY2MTEwZjAxNGE3XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: petite-maman

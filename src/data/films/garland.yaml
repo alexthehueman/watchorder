@@ -6,7 +6,7 @@
 # construction rather than by any tagging choice. See the identical note on Frances McDormand.
 
 - id: ziegfeld-girl
-  tmdb_id: null
+  tmdb_id: 32619
   title: Ziegfeld Girl
   year: 1941
   runtime: 131
@@ -14,9 +14,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0034415
   poster_url: https://m.media-amazon.com/images/M/MV5BZjI1NzMzYjMtNzgxMC00MjMzLWJjZGEtOWFhOTBjZmI2MTUyXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: ziegfeld-girl
 
 - id: for-me-and-my-gal
-  tmdb_id: null
+  tmdb_id: 27017
   title: For Me and My Gal
   year: 1942
   runtime: 104
@@ -24,9 +25,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0034746
   poster_url: https://m.media-amazon.com/images/M/MV5BNWRkYzBlZTMtNjc4NS00NzE1LWJkZDEtMTlkNzU2MWIzOWY5XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: for-me-and-my-gal
 
 - id: the-harvey-girls
-  tmdb_id: null
+  tmdb_id: 28907
   title: The Harvey Girls
   year: 1946
   runtime: 101
@@ -34,9 +36,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0038589
   poster_url: https://m.media-amazon.com/images/M/MV5BZTQ4MWFjOWUtMDlkMy00OWM0LTg5N2QtMzFlOGE0NDM0NjE0XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-harvey-girls
 
 - id: the-pirate
-  tmdb_id: null
+  tmdb_id: 35032
   title: The Pirate
   year: 1948
   runtime: 102
@@ -44,9 +47,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0040694
   poster_url: https://m.media-amazon.com/images/M/MV5BNWQyMTMzMmQtMDU0Ny00M2Y5LThhN2UtYjA2Y2VmOTBhYmQ0XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-pirate
 
 - id: in-the-good-old-summertime
-  tmdb_id: null
+  tmdb_id: 25698
   title: In the Good Old Summertime
   year: 1949
   runtime: 102
@@ -54,9 +58,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0041507
   poster_url: https://m.media-amazon.com/images/M/MV5BMTkxZmE4OTYtZDNlYi00YjM3LWFjZjQtN2ZkNWJlMDVlNzZmXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: in-the-good-old-summertime
 
 - id: summer-stock
-  tmdb_id: null
+  tmdb_id: 43390
   title: Summer Stock
   year: 1950
   runtime: 109
@@ -64,9 +69,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0043012
   poster_url: https://m.media-amazon.com/images/M/MV5BMjAwOTg3MTM3MF5BMl5BanBnXkFtZTgwNzk1NDgyMTE@._V1_SX300.jpg
+  letterboxd_slug: summer-stock
 
 - id: a-star-is-born-1954
-  tmdb_id: null
+  tmdb_id: 3111
   title: A Star Is Born
   year: 1954
   runtime: 154
@@ -79,9 +85,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
   imdb_id: tt0047522
   poster_url: https://m.media-amazon.com/images/M/MV5BNWZlNTI0ZGUtNzhlNy00OWUzLTgxMzEtNjRlYmQ1OWQyZDdmXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: a-star-is-born-1954
 
 - id: judgment-at-nuremberg
-  tmdb_id: null
+  tmdb_id: 821
   title: Judgment at Nuremberg
   year: 1961
   runtime: 186
@@ -89,9 +96,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0055031
   poster_url: https://m.media-amazon.com/images/M/MV5BNDc2ODQ5NTE2MV5BMl5BanBnXkFtZTcwODExMjUyNA@@._V1_SX300.jpg
+  letterboxd_slug: judgment-at-nuremberg
 
 - id: i-could-go-on-singing
-  tmdb_id: null
+  tmdb_id: 86168
   title: I Could Go On Singing
   year: 1963
   runtime: 99
@@ -99,9 +107,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0057168
   poster_url: https://m.media-amazon.com/images/M/MV5BZDE3ZTJmZjItMmM1My00YmY3LTgwY2ItNjIxY2FhMTQ1ZmU4XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_SX300.jpg
+  letterboxd_slug: i-could-go-on-singing
 
 - id: a-child-is-waiting
-  tmdb_id: null
+  tmdb_id: 88912
   title: A Child Is Waiting
   year: 1963
   runtime: 102
@@ -109,3 +118,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0056930
   poster_url: https://m.media-amazon.com/images/M/MV5BNjA3MDI2YTMtMTU4NS00YTJiLWE3NmYtNjE5OTg1ODlkOWY0XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: a-child-is-waiting

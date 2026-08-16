@@ -5,7 +5,7 @@
 # from which film opens.
 
 - id: ratcatcher
-  tmdb_id: null
+  tmdb_id: 29698
   title: Ratcatcher
   year: 1999
   runtime: 94
@@ -19,9 +19,10 @@
     sex: 1
   imdb_id: tt0171685
   poster_url: https://m.media-amazon.com/images/M/MV5BZTFlNTE3YzYtYzcyNy00YWVjLWFkOTgtZGZhMzAwNzFkOTRkXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: ratcatcher
 
 - id: morvern-callar
-  tmdb_id: null
+  tmdb_id: 18602
   title: Morvern Callar
   year: 2002
   runtime: 97
@@ -35,9 +36,10 @@
     sex: 2
   imdb_id: tt0300214
   poster_url: https://m.media-amazon.com/images/M/MV5BODg5MGQyMmEtYTQzMy00ZGY2LWI4MGItNmE4NmY2YjllMDcxXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: morvern-callar
 
 - id: we-need-to-talk-about-kevin
-  tmdb_id: null
+  tmdb_id: 71859
   title: We Need to Talk About Kevin
   year: 2011
   runtime: 112
@@ -51,9 +53,10 @@
     sex: 1
   imdb_id: tt1242460
   poster_url: https://m.media-amazon.com/images/M/MV5BMjE0NDE0MjYxNF5BMl5BanBnXkFtZTcwNjM2NTY5Ng@@._V1_SX300.jpg
+  letterboxd_slug: we-need-to-talk-about-kevin
 
 - id: you-were-never-really-here
-  tmdb_id: null
+  tmdb_id: 398181
   title: You Were Never Really Here
   year: 2017
   runtime: 89
@@ -72,3 +75,4 @@
     sex: 1
   imdb_id: tt5742374
   poster_url: https://m.media-amazon.com/images/M/MV5BYzM0MjBhYTUtMzY1My00OGQ5LTk4OWMtNWYwNmY3ZGFjMjViXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg
+  letterboxd_slug: you-were-never-really-here

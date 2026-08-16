@@ -4,7 +4,7 @@
 # Grandmaster already existed in the corpus, tagged for Wong Kar-wai. Only the three below are new.
 
 - id: hard-boiled
-  tmdb_id: null
+  tmdb_id: 11782
   title: Hard Boiled
   year: 1992
   runtime: 128
@@ -12,9 +12,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt0104684
   poster_url: https://m.media-amazon.com/images/M/MV5BOTZkYjBlMTktOGNmMC00ZWMzLTlkYmYtNDAxYjNjNWRkNjE0XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: hard-boiled
 
 - id: infernal-affairs
-  tmdb_id: null
+  tmdb_id: 10775
   title: Infernal Affairs
   year: 2002
   runtime: 101
@@ -22,9 +23,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0338564
   poster_url: https://m.media-amazon.com/images/M/MV5BNWZjNDdiOWUtZDI0Ni00YmY1LTk4MmYtM2Y0YTY3ZTc3OWFiXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: infernal-affairs
 
 - id: lust-caution
-  tmdb_id: null
+  tmdb_id: 4588
   title: Lust, Caution
   year: 2007
   runtime: 158
@@ -37,3 +39,4 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 3 }
   imdb_id: tt0808357
   poster_url: https://m.media-amazon.com/images/M/MV5BNzc4Mzc4NTQtMzkwZS00ZWUzLTk1YWUtNDVlY2U1YTMzMTg2XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: lust-caution

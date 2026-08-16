@@ -15,7 +15,7 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMWVkYzgxNzgtNjY4NS00ZGFhLTlhMmYtNjM0Yzg5YmIyYmZkXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: do-the-right-thing
-  tmdb_id: null
+  tmdb_id: 925
   title: Do the Right Thing
   year: 1989
   runtime: 120
@@ -24,9 +24,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0097216
   poster_url: https://m.media-amazon.com/images/M/MV5BODA2MjU1NTI1MV5BMl5BanBnXkFtZTgwOTU4ODIwMjE@._V1_SX300.jpg
+  letterboxd_slug: do-the-right-thing
 
 - id: jungle-fever
-  tmdb_id: null
+  tmdb_id: 1713
   title: Jungle Fever
   year: 1991
   runtime: 132
@@ -35,9 +36,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
   imdb_id: tt0102175
   poster_url: https://m.media-amazon.com/images/M/MV5BMjM5MTQxMDk2Ml5BMl5BanBnXkFtZTgwODQ2MDc3NjE@._V1_SX300.jpg
+  letterboxd_slug: jungle-fever
 
 - id: clockers
-  tmdb_id: null
+  tmdb_id: 20649
   title: Clockers
   year: 1995
   runtime: 128
@@ -46,9 +48,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0112688
   poster_url: https://m.media-amazon.com/images/M/MV5BZTI5OWEwOGQtMzE1Ny00NWM0LTlmOGItYTRhNzlkY2E3Nzk2XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: clockers
 
 - id: 25th-hour
-  tmdb_id: null
+  tmdb_id: 1429
   title: 25th Hour
   year: 2002
   runtime: 135
@@ -57,9 +60,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0307901
   poster_url: https://m.media-amazon.com/images/M/MV5BMjg0OWI0ZjktZTM0My00NmI3LTkzNDEtYzJiODE1ODM0MDk3XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: 25th-hour
 
 - id: blackkklansman
-  tmdb_id: null
+  tmdb_id: 487558
   title: BlacKkKlansman
   year: 2018
   runtime: 135
@@ -68,9 +72,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt7349662
   poster_url: https://m.media-amazon.com/images/M/MV5BMjUyOTE1NjI0OF5BMl5BanBnXkFtZTgwMTM4ODQ5NTM@._V1_QL75_UX380_CR0,0,380,562_.jpg
+  letterboxd_slug: blackkklansman
 
 - id: da-5-bloods
-  tmdb_id: null
+  tmdb_id: 581859
   title: Da 5 Bloods
   year: 2020
   runtime: 156
@@ -79,3 +84,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt9777644
   poster_url: https://m.media-amazon.com/images/M/MV5BNjIwN2IxODEtNDhhMi00NDEwLWIwODEtYjIzZDVhZjg0Y2MyXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: da-5-bloods

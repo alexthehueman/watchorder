@@ -5,7 +5,7 @@
 # patience and attention, not decoding.
 
 - id: as-tears-go-by
-  tmdb_id: null
+  tmdb_id: 24163
   title: As Tears Go By
   year: 1988
   runtime: 102
@@ -24,9 +24,10 @@
     sex: 1
   imdb_id: tt0096461
   poster_url: https://m.media-amazon.com/images/M/MV5BN2Q1YmQyNDgtY2M5Mi00NzQ0LThmNzAtNWIzZjllZjVmOTI2XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: as-tears-go-by
 
 - id: days-of-being-wild
-  tmdb_id: null
+  tmdb_id: 18311
   title: Days of Being Wild
   year: 1990
   runtime: 94
@@ -45,9 +46,10 @@
     sex: 1
   imdb_id: tt0101258
   poster_url: https://m.media-amazon.com/images/M/MV5BMTE0OGQxNmYtMTU0Mi00ZTc1LTk5OGUtZWY2NDIzNTQ0YjgyXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: days-of-being-wild
 
 - id: chungking-express
-  tmdb_id: null
+  tmdb_id: 11104
   title: Chungking Express
   year: 1994
   runtime: 102
@@ -66,9 +68,10 @@
     sex: 1
   imdb_id: tt0109424
   poster_url: https://m.media-amazon.com/images/M/MV5BNDQ4ZmYxODctZDVlZC00OTcxLWJjOGItZjRlMzk4MDA1Yjg1XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: chungking-express
 
 - id: ashes-of-time
-  tmdb_id: null
+  tmdb_id: 40751
   title: Ashes of Time
   year: 1994
   runtime: 100
@@ -87,9 +90,10 @@
     sex: 1
   imdb_id: tt0109688
   poster_url: https://m.media-amazon.com/images/M/MV5BMTc0NzMxMjI0MV5BMl5BanBnXkFtZTcwNzIwNzM5MQ@@._V1_QL75_UY562_CR0,0,380,562_.jpg
+  letterboxd_slug: ashes-of-time
 
 - id: fallen-angels
-  tmdb_id: null
+  tmdb_id: 11220
   title: Fallen Angels
   year: 1995
   runtime: 96
@@ -108,9 +112,10 @@
     sex: 1
   imdb_id: tt0112913
   poster_url: https://m.media-amazon.com/images/M/MV5BMWI3MDk4N2ItNzU2NS00Zjc5LWIxMDYtMGNmZmM2YzMzMDk3XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: fallen-angels
 
 - id: happy-together
-  tmdb_id: null
+  tmdb_id: 18329
   title: Happy Together
   year: 1997
   runtime: 96
@@ -129,9 +134,10 @@
     sex: 2
   imdb_id: tt0118845
   poster_url: https://m.media-amazon.com/images/M/MV5BNzQ2YWYyMzUtMTAyZC00NDg1LWJjZmUtYWRjNzQxYzA4MWUwXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: happy-together-1997
 
 - id: in-the-mood-for-love
-  tmdb_id: null
+  tmdb_id: 843
   title: In the Mood for Love
   year: 2000
   runtime: 98
@@ -150,9 +156,10 @@
     sex: 0
   imdb_id: tt0118694
   poster_url: https://m.media-amazon.com/images/M/MV5BN2Q4NjllMDgtOTk2Zi00YzM1LWJmOTMtNmRiZDgyZGJmMjQzXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: in-the-mood-for-love
 
 - id: '2046'
-  tmdb_id: null
+  tmdb_id: 844
   title: '2046'
   year: 2004
   runtime: 129
@@ -171,9 +178,10 @@
     sex: 2
   imdb_id: tt0212712
   poster_url: https://m.media-amazon.com/images/M/MV5BNGM2NTQyM2MtODAzMi00NWVjLTgwNWMtYjNkMjMxZmUwOTU3XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: "2046"
 
 - id: my-blueberry-nights
-  tmdb_id: null
+  tmdb_id: 1989
   title: My Blueberry Nights
   year: 2007
   runtime: 95
@@ -192,9 +200,10 @@
     sex: 1
   imdb_id: tt0765120
   poster_url: https://m.media-amazon.com/images/M/MV5BMjZkMGI3Y2YtMzEyOS00MjExLWI2YjktYzc0Y2FhMTkyMWMxXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: my-blueberry-nights
 
 - id: the-grandmaster
-  tmdb_id: null
+  tmdb_id: 44865
   title: The Grandmaster
   year: 2013
   runtime: 130
@@ -213,3 +222,4 @@
     sex: 0
   imdb_id: tt1462900
   poster_url: https://m.media-amazon.com/images/M/MV5BZjYzYTcxMjYtZWNlYy00Y2UwLTg5MDYtZDZmNTExYmVjZjc4XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-grandmaster

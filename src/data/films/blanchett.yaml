@@ -1,7 +1,7 @@
 # Films for Cate Blanchett. Scales and anchors are in README.md ("The anchor rubric").
 
 - id: elizabeth
-  tmdb_id: null
+  tmdb_id: 4518
   title: Elizabeth
   year: 1998
   runtime: 124
@@ -10,9 +10,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
   imdb_id: tt0127536
   poster_url: https://m.media-amazon.com/images/M/MV5BNWRjZjJjNDUtOTgzMi00YjBlLTg5ODQtMjQxOTAyMzM2ZWJiXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: elizabeth
 
 - id: the-talented-mr-ripley
-  tmdb_id: null
+  tmdb_id: 1213
   title: The Talented Mr. Ripley
   year: 1999
   runtime: 139
@@ -21,9 +22,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
   imdb_id: tt0134119
   poster_url: https://m.media-amazon.com/images/M/MV5BYzI2ZmU3MWMtZmRlMi00ZmVlLTkwMDMtZmI1YTg4YzcwMDE0XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-talented-mr-ripley
 
 - id: fellowship-of-the-ring
-  tmdb_id: null
+  tmdb_id: 120
   title: "The Lord of the Rings: The Fellowship of the Ring"
   year: 2001
   runtime: 178
@@ -32,9 +34,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0120737
   poster_url: https://m.media-amazon.com/images/M/MV5BNzIxMDQ2YTctNDY4MC00ZTRhLTk4ODQtMTVlOWY4NTdiYmMwXkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg
+  letterboxd_slug: the-lord-of-the-rings-the-fellowship-of-the-ring
 
 - id: the-aviator
-  tmdb_id: null
+  tmdb_id: 2567
   title: The Aviator
   year: 2004
   runtime: 170
@@ -43,9 +46,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0338751
   poster_url: https://m.media-amazon.com/images/M/MV5BYTUyYWJlNDgtOTM5Ny00YTQ3LWFmYTgtZjJiNTNkYjJlMmY4XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-aviator
 
 - id: notes-on-a-scandal
-  tmdb_id: null
+  tmdb_id: 1259
   title: Notes on a Scandal
   year: 2006
   runtime: 92
@@ -54,6 +58,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt0465551
   poster_url: https://m.media-amazon.com/images/M/MV5BODdhZDJjNDgtZjAxZi00ZGE2LWJiYzYtZTJhMmRmYjgzMzY0XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: notes-on-a-scandal
 
 - id: im-not-there
   tmdb_id: null
@@ -72,7 +77,7 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTY4MzM2MjcwNV5BMl5BanBnXkFtZTcwODg3MDU1MQ@@._V1_SX300.jpg
 
 - id: blue-jasmine
-  tmdb_id: null
+  tmdb_id: 160588
   title: Blue Jasmine
   year: 2013
   runtime: 98
@@ -81,9 +86,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt2334873
   poster_url: https://m.media-amazon.com/images/M/MV5BMTc0ODk5MzEyMV5BMl5BanBnXkFtZTcwMzI0MDY1OQ@@._V1_SX300.jpg
+  letterboxd_slug: blue-jasmine
 
 - id: carol
-  tmdb_id: null
+  tmdb_id: 258480
   title: Carol
   year: 2015
   runtime: 118
@@ -92,9 +98,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt2402927
   poster_url: https://m.media-amazon.com/images/M/MV5BMTczNTQ4OTEyNV5BMl5BanBnXkFtZTgwNDgyMDI3NjE@._V1_SX300.jpg
+  letterboxd_slug: carol-2015
 
 - id: thor-ragnarok
-  tmdb_id: null
+  tmdb_id: 284053
   title: "Thor: Ragnarok"
   year: 2017
   runtime: 130
@@ -103,9 +110,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt3501632
   poster_url: https://m.media-amazon.com/images/M/MV5BMjMyNDkzMzI1OF5BMl5BanBnXkFtZTgwODcxODg5MjI@._V1_QL75_UX380_CR0,0,380,562_.jpg
+  letterboxd_slug: thor-ragnarok
 
 - id: tar
-  tmdb_id: null
+  tmdb_id: 817758
   title: "Tár"
   year: 2022
   runtime: 158
@@ -114,3 +122,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
   imdb_id: tt14444726
   poster_url: https://m.media-amazon.com/images/M/MV5BYWY5YThhOGUtNDU4OS00NTk3LWI0ODQtNmRiYTk0ZjVkZWU2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg
+  letterboxd_slug: tar-2022

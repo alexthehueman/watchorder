@@ -10,7 +10,7 @@
 # than everything it has ever had a credit on.
 
 - id: spring-breakers
-  tmdb_id: null
+  tmdb_id: 122081
   title: Spring Breakers
   year: 2012
   runtime: 94
@@ -19,9 +19,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 3 }
   imdb_id: tt2101441
   poster_url: https://m.media-amazon.com/images/M/MV5BNTk3NjMwMjYtODg3Ny00ZDU2LTgzZDAtNDJjYjlmYjJjNGQ3XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: spring-breakers
 
 - id: under-the-skin
-  tmdb_id: null
+  tmdb_id: 97370
   title: Under the Skin
   year: 2013
   runtime: 108
@@ -30,9 +31,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 2 }
   imdb_id: tt1441395
   poster_url: https://m.media-amazon.com/images/M/MV5BMTU1MDEwMDg4Nl5BMl5BanBnXkFtZTgwOTk3NTcxMTE@._V1_SX300.jpg
+  letterboxd_slug: under-the-skin-2013
 
 - id: ex-machina
-  tmdb_id: null
+  tmdb_id: 264660
   title: Ex Machina
   year: 2014
   runtime: 108
@@ -41,9 +43,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 2 }
   imdb_id: tt0470752
   poster_url: https://m.media-amazon.com/images/M/MV5BMTUxNzc0OTIxMV5BMl5BanBnXkFtZTgwNDI3NzU2NDE@._V1_SX300.jpg
+  letterboxd_slug: ex-machina-2014
 
 - id: the-witch
-  tmdb_id: null
+  tmdb_id: 310131
   title: The Witch
   year: 2015
   runtime: 92
@@ -51,9 +54,11 @@
   tags: { opacity: 3, stillness: 4, bleakness: 5, humor: 1, acclaim: 0.80 }
   content: { sexual_violence: false, animal_harm: true, child_harm: true, suicide: false, violence: 2, sex: 1 }
   imdb_id: tt4030996
+  letterboxd_slug: the-witch-2015
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ii/1v/z8/lk/the-witch-1200-1200-675-675-crop-000000.jpg?v=06f9adfe9a
 
 - id: moonlight
-  tmdb_id: null
+  tmdb_id: 376867
   title: Moonlight
   year: 2016
   runtime: 111
@@ -67,9 +72,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 1 }
   imdb_id: tt4975722
   poster_url: https://m.media-amazon.com/images/M/MV5BNzQxNTIyODAxMV5BMl5BanBnXkFtZTgwNzQyMDA3OTE@._V1_SX300.jpg
+  letterboxd_slug: moonlight-2016
 
 - id: the-florida-project
-  tmdb_id: null
+  tmdb_id: 394117
   title: The Florida Project
   year: 2017
   runtime: 111
@@ -78,9 +84,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 1 }
   imdb_id: tt5649144
   poster_url: https://m.media-amazon.com/images/M/MV5BNDBhM2MxYjAtMWFiYy00MWMwLThkMDYtN2M1ZWY3NjkxNGExXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-florida-project
 
 - id: hereditary
-  tmdb_id: null
+  tmdb_id: 493922
   title: Hereditary
   year: 2018
   runtime: 127
@@ -89,9 +96,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt7784604
   poster_url: https://m.media-amazon.com/images/M/MV5BNTEyZGQwODctYWJjZi00NjFmLTg3YmEtMzlhNjljOGZhMWMyXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg
+  letterboxd_slug: hereditary
 
 - id: eighth-grade
-  tmdb_id: null
+  tmdb_id: 489925
   title: Eighth Grade
   year: 2018
   runtime: 93
@@ -100,9 +108,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt7014006
   poster_url: https://m.media-amazon.com/images/M/MV5BMTUyYzNiZTQtZGEwYi00ZjdiLTk5ZjctYTAxZTY3YmY0OThlXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: eighth-grade
 
 - id: the-lighthouse
-  tmdb_id: null
+  tmdb_id: 503919
   title: The Lighthouse
   year: 2019
   runtime: 109
@@ -116,9 +125,10 @@
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 1 }
   imdb_id: tt7984734
   poster_url: https://m.media-amazon.com/images/M/MV5BMTI4MjFhMjAtNmQxYi00N2IxLWJjMGEtYWY1YmU3OTQ0Zjk3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg
+  letterboxd_slug: the-lighthouse-2019
 
 - id: uncut-gems
-  tmdb_id: null
+  tmdb_id: 473033
   title: Uncut Gems
   year: 2019
   runtime: 135
@@ -132,9 +142,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
   imdb_id: tt5727208
   poster_url: https://m.media-amazon.com/images/M/MV5BNmI0YjA5NjItYzExYi00NzkxLTkxNDctNGJjYTZhM2M0NDQ0XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: uncut-gems
 
 - id: midsommar
-  tmdb_id: null
+  tmdb_id: 530385
   title: Midsommar
   year: 2019
   runtime: 148
@@ -143,9 +154,10 @@
   content: { sexual_violence: true, animal_harm: true, child_harm: false, suicide: true, violence: 3, sex: 2 }
   imdb_id: tt8772262
   poster_url: https://m.media-amazon.com/images/M/MV5BMzQxNzQzOTQwM15BMl5BanBnXkFtZTgwMDQ2NTcwODM@._V1_QL75_UX380_CR0,0,380,562_.jpg
+  letterboxd_slug: midsommar
 
 - id: everything-everywhere-all-at-once
-  tmdb_id: null
+  tmdb_id: 545611
   title: Everything Everywhere All at Once
   year: 2022
   runtime: 139
@@ -154,9 +166,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 1 }
   imdb_id: tt6710474
   poster_url: https://m.media-amazon.com/images/M/MV5BOWNmMzAzZmQtNDQ1NC00Nzk5LTkyMmUtNGI2N2NkOWM4MzEyXkEyXkFqcGc@._V1_QL75_UY562_CR4,0,380,562_.jpg
+  letterboxd_slug: everything-everywhere-all-at-once
 
 - id: the-zone-of-interest
-  tmdb_id: null
+  tmdb_id: 467244
   title: The Zone of Interest
   year: 2023
   runtime: 105
@@ -165,3 +178,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt7160372
   poster_url: https://m.media-amazon.com/images/M/MV5BNjk4MTQ3MGEtZmI4OS00N2NhLWI5ZjgtYWE5ZWVkZGExYTQ1XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-zone-of-interest
