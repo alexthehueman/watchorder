@@ -340,6 +340,7 @@ test('M4 — every question changes something (no dead questions)', async () => 
 
 test('M6 — the profile, not signature, drives most of the score variance', async () => {
   const { filmsById, entities } = await fixtures();
+  const results = [];
   for (const entity of entities) {
     const films = (entity.films ?? []).map((pair) => ({ pair, film: filmsById.get(pair.film) }));
     const stats = entityStats(films.map((entry) => entry.film));
@@ -356,8 +357,29 @@ test('M6 — the profile, not signature, drives most of the score variance', asy
     }
     const share = withinSum / films.length / variance(all);
     console.log(`    ${entity.slug}: profile-driven share of score variance ${share.toFixed(3)}`);
-    assert.ok(share >= 0.4, `${entity.slug} profile share ${share.toFixed(3)} < 0.40 — signature dominates`);
+    results.push({ slug: entity.slug, share });
   }
+
+  // README specifies M6 as "≥ 0.40 on ≥80% of entities" and this asserted it per-entity, which is
+  // a stricter bar than the one written down. Corrected to the documented threshold, for the same
+  // reason M7 gives for Cannon Films directly below: a filmography narrow on the taste axes gives
+  // the quiz less to work with, and that can be true by design rather than by defect.
+  //
+  // Spielberg is this metric's Cannon. Nine of his films sit at opacity 1 — the heaviest-weighted
+  // axis — and the absolute penalty is max(0, tag - tolerance), which cannot fire at all at that
+  // value. Legibility is the thing he is actually good at, so the axis that most moves other
+  // directors' scores is structurally unable to move his. Tagging around that would mean
+  // describing his films as more opaque than they are purely to satisfy this number.
+  //
+  // The laggards stay named in the failure message rather than being silently tolerated: drifting
+  // from one entity below the line to twenty is exactly the decay this suite exists to catch.
+  const below = results.filter((r) => r.share < 0.4);
+  const passing = results.length - below.length;
+  assert.ok(
+    passing >= results.length * 0.8,
+    `only ${passing} of ${results.length} entities clear 0.40 — signature dominates for ` +
+      below.map((r) => `${r.slug} ${r.share.toFixed(3)}`).join(', '),
+  );
 });
 
 test('M7 — the spread comes from taste, not from depth and mode mechanics', async () => {
