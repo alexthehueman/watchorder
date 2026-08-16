@@ -46,6 +46,7 @@
   tags: { opacity: 4, stillness: 3, bleakness: 2, humor: 3, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 1 }
   poster_url: https://a.ltrbxd.com/resized/sm/upload/no/3r/hj/52/lions%20love-1200-1200-675-675-crop-000000.jpg?v=9fffb9da0d
+  letterboxd_slug: lions-love
 
 - id: one-sings-the-other-doesnt
   tmdb_id: null
@@ -83,6 +84,7 @@
   tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 3, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   poster_url: https://a.ltrbxd.com/resized/sm/upload/m4/28/ol/ym/jacquot-1200-1200-675-675-crop-000000.jpg?v=459d787600
+  letterboxd_slug: jacquot-de-nantes
 
 - id: the-gleaners-and-i
   tmdb_id: 44379
@@ -92,6 +94,7 @@
   tags: { opacity: 1, stillness: 3, bleakness: 2, humor: 4, acclaim: 0.90 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   poster_url: https://a.ltrbxd.com/resized/sm/upload/mc/34/qa/38/gleaners-1200-1200-675-675-crop-000000.jpg?v=5ae6056b26
+  letterboxd_slug: the-gleaners-and-i
 
 - id: the-beaches-of-agnes
   tmdb_id: null
@@ -126,3 +129,4 @@
   tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 4, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   poster_url: https://a.ltrbxd.com/resized/sm/upload/3i/pl/nb/wo/varda-by-agnes-1200-1200-675-675-crop-000000.jpg?v=836469eabe
+  letterboxd_slug: varda-by-agnes
