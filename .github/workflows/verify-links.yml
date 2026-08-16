@@ -1,0 +1,21 @@
+# Manual-trigger only, like the letterboxd backfill — it makes one request per poster and per
+# Letterboxd page, so it should run when a human here asks for it, not on every push.
+#
+# Read-only: reports dead posters/slugs and coverage gaps, never edits the corpus.
+
+name: verify links
+
+on:
+  workflow_dispatch:
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: npm
+      - run: npm ci
+      - run: npm run verify:links

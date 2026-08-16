@@ -11,6 +11,7 @@
     "ingest": "node tools/ingest.mjs",
     "ingest:omdb": "node tools/ingest-omdb.mjs",
     "ingest:letterboxd": "node tools/ingest-letterboxd.mjs",
+    "verify:links": "node tools/verify-links.mjs",
     "preview": "node tools/preview.mjs"
   },
   "devDependencies": {
