@@ -161,6 +161,9 @@ export function validateCorpus(corpus) {
         errors.push(`${where} — poster_url must be a full http(s) URL, got ${JSON.stringify(film.poster_url)}`);
       }
     }
+    if (film.letterboxd_slug !== null && film.letterboxd_slug !== undefined && !/^[a-z0-9-]+$/.test(film.letterboxd_slug)) {
+      errors.push(`${where} — letterboxd_slug must look like "the-master", got ${JSON.stringify(film.letterboxd_slug)}`);
+    }
 
     for (const tag of TASTE_TAGS) {
       if (!isInteger(film.tags?.[tag], 1, 5)) {

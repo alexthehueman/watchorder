@@ -77,6 +77,13 @@ function card(entry, index) {
   if (entry.pair.must_see) {
     meta.append(' ', element('span', 'badge must', 'must see'));
   }
+  if (entry.film.letterboxd_slug) {
+    const link = element('a', 'letterboxd', 'Letterboxd ↗');
+    link.href = `https://letterboxd.com/film/${entry.film.letterboxd_slug}/`;
+    link.target = '_blank';
+    link.rel = 'noopener noreferrer';
+    meta.append(' ', link);
+  }
   body.append(meta);
 
   if (entry.note) body.append(element('p', 'note', entry.note));

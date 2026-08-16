@@ -10,11 +10,12 @@
 // is an unrelated 2026 stage adaptation, not Kubrick's 1964 film of the same slug — this check is
 // what catches that instead of silently writing the wrong poster.
 //
-// Only fills poster_url and, opportunistically, tmdb_id — Letterboxd film pages link out to TMDB
-// but never to IMDb, so imdb_id stays null and these films remain flagged for OMDb/TMDB review.
+// Fills letterboxd_slug (the confirmed match — what lets the site link out to the film's own
+// page), poster_url, and opportunistically tmdb_id. Letterboxd film pages link out to TMDB but
+// never to IMDb, so imdb_id stays null and these films remain flagged for OMDb/TMDB review.
 //
 // Usage:
-//   npm run ingest:letterboxd                try every film still missing imdb_id
+//   npm run ingest:letterboxd                try every film still missing both imdb_id and letterboxd_slug
 //   npm run ingest:letterboxd -- --dry-run    report matches without writing
 
 import { readdir, readFile, writeFile } from 'node:fs/promises';
@@ -85,12 +86,12 @@ async function tryCandidate(slug, film) {
   const poster = html.match(/<meta property="og:image" content="([^"]*)"/)?.[1] ?? null;
   const tmdbId = html.match(/href="https:\/\/(?:www\.)?themoviedb\.org\/movie\/(\d+)/)?.[1];
 
-  return { poster, tmdbId: tmdbId ? Number(tmdbId) : null };
+  return { slug, poster, tmdbId: tmdbId ? Number(tmdbId) : null };
 }
 
 /**
  * @param {{id: string, title: string, year: number}} film
- * @returns {Promise<{poster: string|null, tmdbId: number|null}|null>}
+ * @returns {Promise<{slug: string, poster: string|null, tmdbId: number|null}|null>}
  */
 async function resolveFilm(film) {
   for (const slug of candidateSlugs(film)) {
@@ -114,17 +115,20 @@ async function resolveMissingPosters(dryRun) {
 
     for (const node of items) {
       const film = node.toJSON();
-      if (film.imdb_id !== null && film.imdb_id !== undefined) continue;
+      const hasImdb = film.imdb_id !== null && film.imdb_id !== undefined;
+      const hasSlug = film.letterboxd_slug !== null && film.letterboxd_slug !== undefined;
+      if (hasImdb || hasSlug) continue;
 
       const match = await resolveFilm(film);
-      if (match && (match.poster || match.tmdbId)) {
+      if (match) {
+        node.set('letterboxd_slug', match.slug);
         if (match.poster) node.set('poster_url', match.poster);
         if (match.tmdbId && (film.tmdb_id === null || film.tmdb_id === undefined)) {
           node.set('tmdb_id', match.tmdbId);
         }
         changed += 1;
         resolved += 1;
-        const parts = [match.poster ? 'poster' : null, match.tmdbId ? `tmdb:${match.tmdbId}` : null].filter(Boolean);
+        const parts = ['slug', match.poster ? 'poster' : null, match.tmdbId ? `tmdb:${match.tmdbId}` : null].filter(Boolean);
         console.log(`  ok    ${file}: ${film.id} -> ${parts.join(', ')}`);
       } else {
         unresolved += 1;

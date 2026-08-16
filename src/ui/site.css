@@ -163,6 +163,14 @@ li.film:last-child { border-bottom: 1px solid var(--rule); }
 
 .badge.quiet { opacity: 0.75; }
 
+.letterboxd {
+  color: var(--muted);
+  text-decoration: none;
+  border-bottom: 1px dotted var(--rule);
+}
+
+.letterboxd:hover { color: var(--accent); border-bottom-color: var(--accent); }
+
 .note { margin: 0 0 0.4rem; }
 
 .why {

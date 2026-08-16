@@ -25,6 +25,10 @@ function filmCard(entry, index) {
             <p class="meta">
               ${esc(formatRuntime(film))}${series ? ' <span class="badge">series</span>' : ''}${
                 pair.must_see ? ' <span class="badge must">must see</span>' : ''
+              }${
+                film.letterboxd_slug
+                  ? ` <a class="letterboxd" href="https://letterboxd.com/film/${esc(film.letterboxd_slug)}/" target="_blank" rel="noopener noreferrer">Letterboxd ↗</a>`
+                  : ''
               }
             </p>
             ${pair.note ? `<p class="note">${esc(pair.note)}</p>` : ''}
