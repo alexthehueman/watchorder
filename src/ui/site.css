@@ -224,6 +224,32 @@ ul.roster a:hover .name { color: var(--accent); }
 
 .roster-section[hidden] { display: none; }
 
+.kind-tabs {
+  display: flex;
+  gap: 1.5rem;
+  margin: 0 0 2rem;
+  border-bottom: 1px solid var(--rule);
+}
+
+.kind-tab {
+  background: none;
+  border: none;
+  border-bottom: 2px solid transparent;
+  margin-bottom: -1px;
+  padding: 0 0 0.75rem;
+  color: var(--muted);
+  font: inherit;
+  font-size: 0.95rem;
+  cursor: pointer;
+}
+
+.kind-tab:hover { color: var(--ink); }
+
+.kind-tab[aria-selected="true"] {
+  color: var(--ink);
+  border-bottom-color: var(--accent);
+}
+
 /* Shown on an entity page, between the breadcrumb and the name, so the kind is legible even when
  * the page is reached from search results or a shared link rather than from its own section. */
 .kind-label {

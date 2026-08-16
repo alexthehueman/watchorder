@@ -1,12 +1,13 @@
-// Search over everything on the index page: directors, actors, studios, and every film in the
+// Search and kind-tabs over the index page: directors, actors, studios, and every film in the
 // corpus. Client-side and dependency-free, matching the quiz's shape — a JSON payload embedded at
 // build time, read once, filtered in memory. Twenty-one entities and two hundred-odd films is a
 // list a browser filters instantly; nothing here needs an index structure more complex than an
 // array.
 //
-// Ships hidden and revealed by script, the same reasoning as the quiz form: without JavaScript
-// there is no filtering to offer, so an inert search box would be furniture. The three full
-// rosters below it already list everything, so a no-JS visitor loses nothing but the shortcut.
+// Both ship hidden and are revealed by script, the same reasoning as the quiz form: without
+// JavaScript there is no filtering to offer, so an inert search box or a set of tabs that switch
+// nothing would be furniture. The three full rosters below them already list everything, so a
+// no-JS visitor loses nothing but the shortcut.
 
 const data = JSON.parse(document.getElementById('search-data').textContent);
 
@@ -15,8 +16,14 @@ const input = document.getElementById('search-input');
 const status = document.getElementById('search-status');
 const results = document.getElementById('search-results');
 const sections = [...document.querySelectorAll('.roster-section')];
+const tabsBox = document.getElementById('kind-tabs');
+const tabButtons = [...document.querySelectorAll('.kind-tab')];
 
 const KIND_LABEL = { director: 'Director', actor: 'Actor', studio: 'Studio' };
+
+// Whichever tab is marked selected in the markup — see indexPage() in pages.js — starts as the
+// active kind, so server-rendered and script-driven state agree without a separate lookup.
+let activeKind = tabButtons.find((tab) => tab.getAttribute('aria-selected') === 'true')?.dataset.kind;
 
 function entityHref(kind, slug) {
   // Relative to the page the script is loaded from, which is always the site root for this page —
@@ -58,6 +65,11 @@ function search(query) {
   return { entities, films };
 }
 
+/** Shows only the section for `kind`, leaving the others hidden — the tabbed-browsing state. */
+function showOnlyActiveKind() {
+  sections.forEach((section) => (section.hidden = section.dataset.kind !== activeKind));
+}
+
 function render(query) {
   const q = query.trim();
   results.replaceChildren();
@@ -65,7 +77,7 @@ function render(query) {
   if (q.length < 2) {
     results.hidden = true;
     status.hidden = true;
-    sections.forEach((section) => (section.hidden = false));
+    showOnlyActiveKind();
     return;
   }
 
@@ -87,5 +99,20 @@ function render(query) {
   if (total === 0) status.textContent = `Nothing matches "${q}".`;
 }
 
+function selectTab(kind) {
+  activeKind = kind;
+  tabButtons.forEach((tab) => tab.setAttribute('aria-selected', String(tab.dataset.kind === kind)));
+  // A tab click is a request to browse that kind specifically — clearing any in-progress search
+  // avoids the confusing state of a query still filtering results while a tab looks selected.
+  input.value = '';
+  render('');
+}
+
 box.hidden = false;
 input.addEventListener('input', () => render(input.value));
+
+if (tabButtons.length > 0) {
+  tabsBox.hidden = false;
+  tabButtons.forEach((tab) => tab.addEventListener('click', () => selectTab(tab.dataset.kind)));
+  showOnlyActiveKind();
+}

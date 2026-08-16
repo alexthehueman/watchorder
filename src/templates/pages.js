@@ -256,7 +256,17 @@ export function indexPage(entities, filmsById, site) {
   const byKind = new Map(KIND_SECTIONS.map((section) => [section.kind, []]));
   for (const entity of entities) byKind.get(entity.kind)?.push(entity);
 
-  const sections = KIND_SECTIONS.filter((section) => byKind.get(section.kind).length > 0)
+  const kindsPresent = KIND_SECTIONS.filter((section) => byKind.get(section.kind).length > 0);
+
+  const tabs = `      <div class="kind-tabs" id="kind-tabs" role="tablist" hidden>
+${kindsPresent
+  .map(
+    (section, i) => `        <button type="button" role="tab" class="kind-tab" data-kind="${section.kind}" aria-selected="${i === 0}">${section.heading}</button>`,
+  )
+  .join('\n')}
+      </div>`;
+
+  const sections = kindsPresent
     .map(
       (section) => `      <section class="roster-section" aria-labelledby="${section.kind}s" data-kind="${section.kind}">
         <h2 id="${section.kind}s">${section.heading}</h2>
@@ -303,6 +313,8 @@ ${byKind
         <p class="search-status" id="search-status" hidden></p>
         <ul class="search-results" id="search-results" hidden></ul>
       </div>
+
+${tabs}
 
 ${sections}
     </main>
