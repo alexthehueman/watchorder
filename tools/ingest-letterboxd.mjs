@@ -37,6 +37,22 @@ function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
+/**
+ * The og:title attribute comes back HTML-entity-encoded ("Adam&#039;s Rib"), and comparing that
+ * raw against a plain-text corpus title ("Adam's Rib") fails even on an exact page match — every
+ * apostrophe-title film hit this before it was caught.
+ */
+function decodeHtmlEntities(text) {
+  return text
+    .replace(/&amp;/g, '&')
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>')
+    .replace(/&quot;/g, '"')
+    .replace(/&apos;/g, "'")
+    .replace(/&#(\d+);/g, (_, code) => String.fromCodePoint(Number(code)))
+    .replace(/&#x([0-9a-fA-F]+);/g, (_, code) => String.fromCodePoint(parseInt(code, 16)));
+}
+
 function normalise(title) {
   return title
     .normalize('NFD')
@@ -83,8 +99,9 @@ async function tryCandidate(slug, film) {
   if (!response.ok) return { ok: false, slug, reason: `HTTP ${response.status}` };
   const html = await response.text();
 
-  const titleMeta = html.match(/<meta property="og:title" content="([^"]*)"/)?.[1];
-  if (!titleMeta) return { ok: false, slug, reason: 'page has no og:title' };
+  const rawTitleMeta = html.match(/<meta property="og:title" content="([^"]*)"/)?.[1];
+  if (!rawTitleMeta) return { ok: false, slug, reason: 'page has no og:title' };
+  const titleMeta = decodeHtmlEntities(rawTitleMeta);
   const yearMatch = titleMeta.match(/\((\d{4})\)\s*$/);
   if (!yearMatch) return { ok: false, slug, reason: `og:title has no year: "${titleMeta}"` };
   const pageTitle = titleMeta.replace(/\s*\(\d{4}\)\s*$/, '');
@@ -98,7 +115,8 @@ async function tryCandidate(slug, film) {
     return { ok: false, slug, reason: `page year ${pageYear} vs. expected ${film.year}` };
   }
 
-  const poster = html.match(/<meta property="og:image" content="([^"]*)"/)?.[1] ?? null;
+  const rawPoster = html.match(/<meta property="og:image" content="([^"]*)"/)?.[1];
+  const poster = rawPoster ? decodeHtmlEntities(rawPoster) : null;
   const tmdbId = html.match(/href="https:\/\/(?:www\.)?themoviedb\.org\/movie\/(\d+)/)?.[1];
 
   return { ok: true, slug, poster, tmdbId: tmdbId ? Number(tmdbId) : null };
