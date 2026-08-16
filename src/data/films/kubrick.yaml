@@ -4,7 +4,7 @@
 # rather than redefined here — the same free-overlap pattern as the rest of this batch.
 
 - id: killers-kiss
-  tmdb_id: null
+  tmdb_id: 10056
   title: Killer's Kiss
   year: 1955
   runtime: 67
@@ -13,6 +13,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0048254
   poster_url: https://m.media-amazon.com/images/M/MV5BMTMyODMxOTUtZWI0ZS00Y2ZhLWJmMjMtZDIzYThlNmMwYTEwXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: killers-kiss
 
 - id: the-killing
   tmdb_id: 247

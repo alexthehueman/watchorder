@@ -130,7 +130,7 @@
   letterboxd_slug: amarcord
 
 - id: fellinis-casanova
-  tmdb_id: null
+  tmdb_id: 42236
   title: Fellini's Casanova
   year: 1976
   runtime: 155
@@ -142,6 +142,8 @@
     humor: 2
     acclaim: 0.68
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+  letterboxd_slug: fellinis-casanova
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/9l/fb/qy/8l/casanova-1200-1200-675-675-crop-000000.jpg?v=c95ec45b27
 
 - id: city-of-women
   tmdb_id: 11936

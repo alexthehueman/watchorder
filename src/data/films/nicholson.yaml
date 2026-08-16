@@ -42,7 +42,7 @@
   letterboxd_slug: chinatown
 
 - id: one-flew-over-the-cuckoos-nest
-  tmdb_id: null
+  tmdb_id: 510
   title: "One Flew Over the Cuckoo's Nest"
   year: 1975
   runtime: 133
@@ -51,6 +51,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0073486
   poster_url: https://m.media-amazon.com/images/M/MV5BYjBkMjgzMzYtNzRiMS00NDc3LWE4YTUtZjYxYjZhNjNhYzhhXkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg
+  letterboxd_slug: one-flew-over-the-cuckoos-nest
 
 - id: the-shining
   tmdb_id: 694
@@ -77,7 +78,7 @@
   letterboxd_slug: terms-of-endearment
 
 - id: prizzis-honor
-  tmdb_id: null
+  tmdb_id: 2075
   title: "Prizzi's Honor"
   year: 1985
   runtime: 129
@@ -86,6 +87,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
   imdb_id: tt0089841
   poster_url: https://m.media-amazon.com/images/M/MV5BMjFiYjUzZWEtZmQxMy00NzI1LWJiZjUtNjA4MTczOTY2MjM0XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: prizzis-honor
 
 - id: batman-1989
   tmdb_id: 268

@@ -27,7 +27,7 @@
   letterboxd_slug: moonstruck
 
 - id: vampires-kiss
-  tmdb_id: null
+  tmdb_id: 7091
   title: Vampire's Kiss
   year: 1988
   runtime: 103
@@ -35,6 +35,7 @@
   content: { sexual_violence: true, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 2 }
   imdb_id: tt0098577
   poster_url: https://m.media-amazon.com/images/M/MV5BMTM1MDAyMDYxMV5BMl5BanBnXkFtZTcwNDQwMzc3NA@@._V1_SX300.jpg
+  letterboxd_slug: vampires-kiss
 
 - id: leaving-las-vegas
   tmdb_id: 451

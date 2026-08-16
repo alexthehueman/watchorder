@@ -24,13 +24,15 @@
   letterboxd_slug: volcano-1950
 
 - id: lamore
-  tmdb_id: null
+  tmdb_id: 43444
   title: "L'Amore"
   year: 1948
   runtime: 78
   director: Roberto Rossellini
   tags: { opacity: 2, stillness: 4, bleakness: 4, humor: 1, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: lamore-1948
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/tn/h4/3e/vg/iSP0I0XT1rqqWmpayD9OM50wrUm-1200-1200-675-675-crop-000000.jpg?v=c9ba062b1f
 
 - id: bellissima
   tmdb_id: 43372

@@ -17,7 +17,7 @@
   letterboxd_slug: rebels-of-the-neon-god
 
 - id: vive-lamour
-  tmdb_id: null
+  tmdb_id: 11985
   title: Vive L'Amour
   year: 1994
   runtime: 118
@@ -25,6 +25,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
   imdb_id: tt0109066
   poster_url: https://m.media-amazon.com/images/M/MV5BZjg3NzEzMjItZWE4Zi00MDNiLTg2YWItMWZjODM3NjIzYWQxXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: vive-lamour
 
 - id: the-river
   tmdb_id: 54291
@@ -92,7 +93,7 @@
   letterboxd_slug: the-wayward-cloud
 
 - id: i-dont-want-to-sleep-alone
-  tmdb_id: null
+  tmdb_id: 12130
   title: I Don't Want to Sleep Alone
   year: 2006
   runtime: 118
@@ -100,6 +101,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 2 }
   imdb_id: tt0855824
   poster_url: https://m.media-amazon.com/images/M/MV5BZmUzYzE2NGUtMGE4Ny00MTA4LTg2ZGYtM2M4NGFkZmFkYmJjXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: i-dont-want-to-sleep-alone
 
 - id: face
   tmdb_id: null

@@ -39,7 +39,7 @@
   letterboxd_slug: scarface-1983
 
 - id: the-devils-advocate
-  tmdb_id: null
+  tmdb_id: 1813
   title: "The Devil's Advocate"
   year: 1997
   runtime: 144
@@ -53,6 +53,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 2 }
   imdb_id: tt0118971
   poster_url: https://m.media-amazon.com/images/M/MV5BNGIxZmU2ZjEtYjc3OC00Y2FiLWE2ZTQtZGI3NzE0YmRhOTMxXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-devils-advocate
 
 - id: and-justice-for-all
   tmdb_id: 17443

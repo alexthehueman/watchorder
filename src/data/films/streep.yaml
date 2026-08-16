@@ -13,7 +13,7 @@
   letterboxd_slug: kramer-vs-kramer
 
 - id: sophies-choice
-  tmdb_id: null
+  tmdb_id: 15764
   title: "Sophie's Choice"
   year: 1982
   runtime: 150
@@ -22,6 +22,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: true, violence: 1, sex: 1 }
   imdb_id: tt0084707
   poster_url: https://m.media-amazon.com/images/M/MV5BZDZiZGY3OWYtY2E3My00ZTY0LTk4NTEtYjMzMWZkNGJiMjNiXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: sophies-choice
 
 - id: out-of-africa
   tmdb_id: 606
@@ -89,7 +90,7 @@
   letterboxd_slug: doubt
 
 - id: julie-and-julia
-  tmdb_id: null
+  tmdb_id: 24803
   title: Julie & Julia
   year: 2009
   runtime: 123
@@ -98,6 +99,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt1135503
   poster_url: https://m.media-amazon.com/images/M/MV5BMzA4NjA2NjI2NV5BMl5BanBnXkFtZTcwOTEzNzI2Mg@@._V1_SX300.jpg
+  letterboxd_slug: julie-julia
 
 - id: mamma-mia
   tmdb_id: 11631
