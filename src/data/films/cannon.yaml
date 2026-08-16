@@ -30,7 +30,7 @@
   letterboxd_slug: death-wish-ii
 
 - id: breakin
-  tmdb_id: null
+  tmdb_id: 15259
   title: Breakin'
   year: 1984
   runtime: 90
@@ -39,6 +39,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0086998
   poster_url: https://m.media-amazon.com/images/M/MV5BODQ5MjQyZjgtM2ViZC00MGIwLThhMjgtNjE0ZDlhZmM3YmNhXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: breakin
 
 - id: missing-in-action
   tmdb_id: 15379
@@ -129,7 +130,7 @@
   letterboxd_slug: masters-of-the-universe
 
 - id: tough-guys-dont-dance
-  tmdb_id: null
+  tmdb_id: 78146
   title: Tough Guys Don't Dance
   year: 1987
   runtime: 108
@@ -143,6 +144,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 2 }
   imdb_id: tt0094169
   poster_url: https://m.media-amazon.com/images/M/MV5BMjI1MDk4NjE0OV5BMl5BanBnXkFtZTcwMjExODM5NA@@._V1_SX300.jpg
+  letterboxd_slug: tough-guys-dont-dance
 
 - id: kickboxer
   tmdb_id: 10222

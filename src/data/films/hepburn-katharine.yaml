@@ -66,7 +66,7 @@
   letterboxd_slug: woman-of-the-year
 
 - id: adams-rib
-  tmdb_id: null
+  tmdb_id: 25431
   title: "Adam's Rib"
   year: 1949
   runtime: 101
@@ -75,6 +75,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0041090
   poster_url: https://m.media-amazon.com/images/M/MV5BYzAzODQxNTItNDUwOS00MWIwLWE5NjMtZTI2MDU4ZTFlNzg4XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: adams-rib
 
 - id: the-african-queen
   tmdb_id: 488
@@ -101,7 +102,7 @@
   letterboxd_slug: summertime
 
 - id: long-days-journey-into-night
-  tmdb_id: null
+  tmdb_id: 43004
   title: Long Day's Journey Into Night
   year: 1962
   runtime: 174
@@ -115,9 +116,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0056196
   poster_url: https://m.media-amazon.com/images/M/MV5BNjhiNDAyMjctNzhkZS00NTZhLTkyMzMtZmY2OGEyMDllYTkwXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: long-days-journey-into-night
 
 - id: guess-whos-coming-to-dinner
-  tmdb_id: null
+  tmdb_id: 1879
   title: "Guess Who's Coming to Dinner"
   year: 1967
   runtime: 108
@@ -126,6 +128,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0061735
   poster_url: https://m.media-amazon.com/images/M/MV5BNmMwNjRiYTUtNjM5Yy00ZDk2LWJiZjEtYjRjMzVmYmM1OGQ5XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: guess-whos-coming-to-dinner
 
 - id: the-lion-in-winter
   tmdb_id: 18988
