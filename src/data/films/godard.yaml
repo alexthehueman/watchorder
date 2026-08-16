@@ -93,22 +93,24 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTQ0OTc4MDcxMl5BMl5BanBnXkFtZTgwNjIzMjA0NzE@._V1_SX300.jpg
 
 - id: masculin-feminin
-  tmdb_id: null
+  tmdb_id: 4710
   title: Masculin Féminin
   year: 1966
   runtime: 110
   director: Jean-Luc Godard
   tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ie/rw/10/lq/jr24v6KpCcbFlsi1QhNBy5j31u7-1200-1200-675-675-crop-000000.jpg?v=c7fa4c5662
 
 - id: la-chinoise
-  tmdb_id: null
+  tmdb_id: 1629
   title: La Chinoise
   year: 1967
   runtime: 96
   director: Jean-Luc Godard
   tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/im/86/l1/7m/image-w1280%20(6)-1200-1200-675-675-crop-000000.jpg?v=aa7435fd04
 
 - id: two-or-three-things-i-know-about-her
   tmdb_id: null
