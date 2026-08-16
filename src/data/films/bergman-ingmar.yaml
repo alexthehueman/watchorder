@@ -14,6 +14,8 @@
   director: Ingmar Bergman
   tags: { opacity: 1, stillness: 4, bleakness: 4, humor: 2, acclaim: 0.82 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 0 }
+  imdb_id: tt0057358
+  poster_url: https://m.media-amazon.com/images/M/MV5BYzY2OWYwYzgtNzVkOS00ZTdjLTg5NWUtYTY0YzdiYmM4NTlmXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-silence
   tmdb_id: null
@@ -22,12 +24,14 @@
   runtime: 96
   director: Ingmar Bergman
   tags:
-    opacity: 3    # almost no exposition, in a hotel whose language the sisters cannot read either
+    opacity: 3 # almost no exposition, in a hotel whose language the sisters cannot read either
     stillness: 4
     bleakness: 4
     humor: 2
     acclaim: 0.80
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+  imdb_id: tt0057611
+  poster_url: https://m.media-amazon.com/images/M/MV5BMThjMDQ2YTMtZjdmNy00NmI2LTliY2EtMTcxM2RjM2JjOGZmXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: fanny-and-alexander
   tmdb_id: null
@@ -37,3 +41,5 @@
   director: Ingmar Bergman
   tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 2, acclaim: 0.92 }
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0083922
+  poster_url: https://m.media-amazon.com/images/M/MV5BNjIwMzRhZWUtOTA0YS00MmFmLWI4ZjgtNjNlZmU3M2Q1Y2NhXkEyXkFqcGc@._V1_SX300.jpg

@@ -10,6 +10,8 @@
   runtime: 106
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0114681
+  poster_url: https://m.media-amazon.com/images/M/MV5BZWJlODViYTUtMzY3MS00ZDRlLTkzODQtMDdiOTBiN2E0MDA5XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: gladiator
   tmdb_id: null
@@ -18,6 +20,8 @@
   runtime: 155
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0172495
+  poster_url: https://m.media-amazon.com/images/M/MV5BYWQ4YmNjYjEtOWE1Zi00Y2U4LWI4NTAtMTU0MjkxNWQ1ZmJiXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg
 
 - id: walk-the-line
   tmdb_id: null
@@ -26,6 +30,8 @@
   runtime: 136
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.82 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0358273
+  poster_url: https://m.media-amazon.com/images/M/MV5BMjIyOTU3MjUxOF5BMl5BanBnXkFtZTcwMTQ0NjYzMw@@._V1_SX300.jpg
 
 - id: her
   tmdb_id: null
@@ -34,6 +40,8 @@
   runtime: 126
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.90 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt1798709
+  poster_url: https://m.media-amazon.com/images/M/MV5BMjA1Nzk0OTM2OF5BMl5BanBnXkFtZTgwNjU2NjEwMDE@._V1_QL75_UX380_CR0,0,380,562_.jpg
 
 - id: joker
   tmdb_id: null
@@ -42,3 +50,5 @@
   runtime: 122
   tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 2, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  imdb_id: tt7286456
+  poster_url: https://m.media-amazon.com/images/M/MV5BNzY3OWQ5NDktNWQ2OC00ZjdlLThkMmItMDhhNDk3NTFiZGU4XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg

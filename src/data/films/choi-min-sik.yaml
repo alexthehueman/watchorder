@@ -9,6 +9,8 @@
   runtime: 110
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 5, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0128371
+  poster_url: https://m.media-amazon.com/images/M/MV5BMjdlOWE3NGEtNjU3Zi00ZmU4LTlmYTktMWY1OGIxYmY1NThiXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: failan
   tmdb_id: null
@@ -16,12 +18,14 @@
   year: 2001
   runtime: 120
   tags:
-    opacity: 2    # who she actually was to him surfaces only after her death
+    opacity: 2 # who she actually was to him surfaces only after her death
     stillness: 3
     bleakness: 5
     humor: 2
     acclaim: 0.80
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0289181
+  poster_url: https://m.media-amazon.com/images/M/MV5BN2M4YTFmNDgtMjE2OC00ODIwLWJkMTgtYjM0NjAzYzY1M2U2XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: crying-fist
   tmdb_id: null
@@ -30,6 +34,8 @@
   runtime: 136
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0457007
+  poster_url: https://m.media-amazon.com/images/M/MV5BMDAyZTMzNzgtNGJkMS00Yzk3LWE3YmQtNjViMjhiZTkzMGY3XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: i-saw-the-devil
   tmdb_id: null
@@ -38,6 +44,8 @@
   runtime: 144
   tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.78 }
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+  imdb_id: tt1588170
+  poster_url: https://m.media-amazon.com/images/M/MV5BM2Q1ZGZiNTYtMWNjOC00NmU2LTg1MDQtZGZkNmY0Y2RlOTBmXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: nameless-gangster
   tmdb_id: null
@@ -54,6 +62,8 @@
   runtime: 134
   tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt2625030
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTYxODg5ODMxOV5BMl5BanBnXkFtZTcwNzkwMzYyOQ@@._V1_SX300.jpg
 
 - id: the-admiral-roaring-currents
   tmdb_id: null
@@ -62,3 +72,5 @@
   runtime: 128
   tags: { opacity: 2, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt3541262
+  poster_url: https://m.media-amazon.com/images/M/MV5BMjA1MzE5NTMyNl5BMl5BanBnXkFtZTgwODA4MzI0MjE@._V1_SX300.jpg

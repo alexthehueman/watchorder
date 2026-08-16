@@ -14,18 +14,20 @@
   year: 1977
   runtime: 89
   tags:
-    opacity: 5      # a rubric anchor for 5 — there is no stable reading to recover
+    opacity: 5 # a rubric anchor for 5 — there is no stable reading to recover
     stillness: 4
     bleakness: 5
-    humor: 2        # the deadpan chicken dinner is genuinely funny, and it is the only relief
+    humor: 2 # the deadpan chicken dinner is genuinely funny, and it is the only relief
     acclaim: 0.82
   content:
     sexual_violence: false
     animal_harm: false
-    child_harm: true   # the creature is framed as an infant; anyone filtering this wants it caught
+    child_harm: true # the creature is framed as an infant; anyone filtering this wants it caught
     suicide: false
     violence: 1
     sex: 1
+  imdb_id: tt0074486
+  poster_url: https://m.media-amazon.com/images/M/MV5BNGYxNzZkYzAtMDExMS00MzE1LTg5ZGItMTgzMzJhZWMyNTBjXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-elephant-man
   tmdb_id: null
@@ -33,9 +35,9 @@
   year: 1980
   runtime: 124
   tags:
-    opacity: 1      # rubric anchor — a conventionally told biography, start to finish
+    opacity: 1 # rubric anchor — a conventionally told biography, start to finish
     stillness: 3
-    bleakness: 3    # cruel throughout, but it ends in dignity rather than annihilation
+    bleakness: 3 # cruel throughout, but it ends in dignity rather than annihilation
     humor: 1
     acclaim: 0.87
   content:
@@ -45,6 +47,8 @@
     suicide: false
     violence: 1
     sex: 0
+  imdb_id: tt0080678
+  poster_url: https://m.media-amazon.com/images/M/MV5BMGE3MDZhNmMtMmUxZS00MDJmLTgxYmQtOGU4ODU0Y2JmNDI1XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: dune-1984
   tmdb_id: null
@@ -52,7 +56,7 @@
   year: 1984
   runtime: 137
   tags:
-    opacity: 3      # confusing, but incidentally rather than by design — a compression failure
+    opacity: 3 # confusing, but incidentally rather than by design — a compression failure
     stillness: 2
     bleakness: 3
     humor: 1
@@ -64,6 +68,8 @@
     suicide: false
     violence: 2
     sex: 1
+  imdb_id: tt0087182
+  poster_url: https://m.media-amazon.com/images/M/MV5BMGJlMGM3NDAtOWNhMy00MWExLWI2MzEtMDQ0ZDIzZDY5ZmQ2XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: blue-velvet
   tmdb_id: null
@@ -71,20 +77,23 @@
   year: 1986
   runtime: 120
   tags:
-    opacity: 2      # the strangeness is tonal, not structural; the plot is followable throughout
+    opacity: 2 # the strangeness is tonal, not structural; the plot is followable throughout
     stillness: 2
-    bleakness: 3    # was 4. the rubric's 4 is Chinatown, where evil simply wins; this ends on
-                    # restored order and the robin. ironised, but the rubric scores the ending
+    bleakness: 3
+      # was 4. the rubric's 4 is Chinatown, where evil simply wins; this ends on
+      # restored order and the robin. ironised, but the rubric scores the ending
 
-    humor: 3        # Frank is horrifying and funny at once, and the Americana is played deadpan
+    humor: 3 # Frank is horrifying and funny at once, and the Americana is played deadpan
     acclaim: 0.92
   content:
-    sexual_violence: true   # the Dorothy scenes. this matters: it is also his best gateway film
+    sexual_violence: true # the Dorothy scenes. this matters: it is also his best gateway film
     animal_harm: false
     child_harm: false
     suicide: false
     violence: 3
     sex: 3
+  imdb_id: tt0090756
+  poster_url: https://m.media-amazon.com/images/M/MV5BNzkwZGUyYjQtM2QyOC00MTBjLWE0NGYtMTZmOGM5MjI0Mzg0XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: wild-at-heart
   tmdb_id: null
@@ -93,35 +102,37 @@
   runtime: 125
   tags:
     opacity: 2
-    stillness: 1    # a road movie, and the only Lynch that genuinely hurtles
+    stillness: 1 # a road movie, and the only Lynch that genuinely hurtles
     bleakness: 3
     humor: 4
-    acclaim: 0.62   # Palme d'Or, and still his most divisive reception
+    acclaim: 0.62 # Palme d'Or, and still his most divisive reception
   content:
-    sexual_violence: true   # the Bobby Peru scene
+    sexual_violence: true # the Bobby Peru scene
     animal_harm: false
     child_harm: false
     suicide: false
     violence: 3
     sex: 3
+  imdb_id: tt0100935
+  poster_url: https://m.media-amazon.com/images/M/MV5BMmUyNjMzMjEtMGFkNy00MDA1LWI0NGEtMDY5OGU1N2NmNDg1XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: twin-peaks
   tmdb_id: null
   title: 'Twin Peaks: Seasons 1-2'
   year: 1990
   medium: series
-  episodes: 30    # 8 + 22. endurance is scored per episode, commitment on the total
-  runtime: 1290   # the whole run
+  episodes: 30 # 8 + 22. endurance is scored per episode, commitment on the total
+  runtime: 1290 # the whole run
   tags:
     opacity: 3
     stillness: 2
     bleakness: 3
-    humor: 4      # it is a soap parody as much as a mystery, and it is very funny
+    humor: 4 # it is a soap parody as much as a mystery, and it is very funny
     acclaim: 0.88
   content:
     sexual_violence: true
     animal_harm: false
-    child_harm: true    # Laura's story is incest and abuse, however obliquely staged
+    child_harm: true # Laura's story is incest and abuse, however obliquely staged
     suicide: false
     violence: 2
     sex: 2
@@ -132,13 +143,14 @@
   year: 1992
   runtime: 135
   tags:
-    opacity: 3      # was 4, and that was bleakness leaking into opacity. the spine is linear —
-                    # Laura's last week — with opaque interstitial material. that is the rubric's
-                    # 3 (deliberate gaps, a rewatch pays), not its 4 (logic bends)
+    opacity: 3
+      # was 4, and that was bleakness leaking into opacity. the spine is linear —
+      # Laura's last week — with opaque interstitial material. that is the rubric's
+      # 3 (deliberate gaps, a rewatch pays), not its 4 (logic bends)
     stillness: 3
-    bleakness: 5    # the series played as tragedy with the comedy stripped out entirely
+    bleakness: 5 # the series played as tragedy with the comedy stripped out entirely
     humor: 1
-    acclaim: 0.70   # booed at Cannes, reclaimed since — the reception moved further than the film
+    acclaim: 0.70 # booed at Cannes, reclaimed since — the reception moved further than the film
   content:
     sexual_violence: true
     animal_harm: false
@@ -146,6 +158,8 @@
     suicide: false
     violence: 3
     sex: 2
+  imdb_id: tt0105665
+  poster_url: https://m.media-amazon.com/images/M/MV5BYzJmZGFiMzAtODNhOC00NzAwLWFlMzAtYTQzYmRmYjIwNDgyXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: lost-highway
   tmdb_id: null
@@ -153,7 +167,7 @@
   year: 1997
   runtime: 134
   tags:
-    opacity: 5      # the fugue structure never resolves, and is not meant to
+    opacity: 5 # the fugue structure never resolves, and is not meant to
     stillness: 3
     bleakness: 4
     humor: 2
@@ -165,6 +179,8 @@
     suicide: false
     violence: 3
     sex: 3
+  imdb_id: tt0116922
+  poster_url: https://m.media-amazon.com/images/M/MV5BNjcyNmM2ODktYzk0Mi00Njk0LTljZGMtNGZhMzI4NmY1NzA1XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-straight-story
   tmdb_id: null
@@ -173,17 +189,20 @@
   runtime: 112
   tags:
     opacity: 1
-    stillness: 5    # a man crosses two states on a lawnmower; duration is the whole method
-    bleakness: 1    # a rubric anchor for 1, and from this director that is the surprise
+    stillness: 5 # a man crosses two states on a lawnmower; duration is the whole method
+    bleakness: 1 # a rubric anchor for 1, and from this director that is the surprise
     humor: 3
     acclaim: 0.80
-  content:            # the only entirely unflagged film in the filmography
+  content:
+    # the only entirely unflagged film in the filmography
     sexual_violence: false
     animal_harm: false
     child_harm: false
     suicide: false
     violence: 0
     sex: 0
+  imdb_id: tt0166896
+  poster_url: https://m.media-amazon.com/images/M/MV5BZjdjNWZhY2UtMDRiYS00M2NhLThiZmQtYTA0MzI4ZWIyYzY4XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: mulholland-drive
   tmdb_id: null
@@ -194,7 +213,7 @@
     opacity: 5
     stillness: 3
     bleakness: 4
-    humor: 3        # the hitman sequence and the espresso scene are broad comedy, deliberately
+    humor: 3 # the hitman sequence and the espresso scene are broad comedy, deliberately
     acclaim: 0.95
   content:
     sexual_violence: false
@@ -203,6 +222,8 @@
     suicide: true
     violence: 2
     sex: 3
+  imdb_id: tt0166924
+  poster_url: https://m.media-amazon.com/images/M/MV5BNjliY2UwMjQtYjVlNi00NzExLTg1MDMtMjE2OTYwYjI0NTcxXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: inland-empire
   tmdb_id: null
@@ -222,6 +243,8 @@
     suicide: false
     violence: 3
     sex: 2
+  imdb_id: tt0460829
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTQ3NDQyNjM3NF5BMl5BanBnXkFtZTcwMzk5MDU0MQ@@._V1_SX300.jpg
 
 - id: twin-peaks-the-return
   tmdb_id: null
@@ -234,7 +257,7 @@
     opacity: 5
     stillness: 4
     bleakness: 4
-    humor: 4      # Dougie and the Mitchum brothers are sustained comedy inside his bleakest work
+    humor: 4 # Dougie and the Mitchum brothers are sustained comedy inside his bleakest work
     acclaim: 0.93
   content:
     sexual_violence: true

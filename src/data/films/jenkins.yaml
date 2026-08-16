@@ -12,6 +12,8 @@
   director: Barry Jenkins
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  imdb_id: tt1133989
+  poster_url: https://m.media-amazon.com/images/M/MV5BNTM4MDUwMDg2NF5BMl5BanBnXkFtZTcwMTc2MzcyMg@@._V1_SX300.jpg
 
 - id: if-beale-street-could-talk
   tmdb_id: null
@@ -21,6 +23,8 @@
   director: Barry Jenkins
   tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.88 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  imdb_id: tt7125860
+  poster_url: https://m.media-amazon.com/images/M/MV5BYmJlMWY1ZDMtMmU3ZS00MzVmLWE2MjQtYWVhNDAxOWY2MWI0XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: mufasa-the-lion-king
   tmdb_id: null
@@ -30,3 +34,5 @@
   director: Barry Jenkins
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.65 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt13186482
+  poster_url: https://m.media-amazon.com/images/M/MV5BYjBkOWUwODYtYWI3YS00N2I0LWEyYTktOTJjM2YzOTc3ZDNlXkEyXkFqcGc@._V1_SX300.jpg

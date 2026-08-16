@@ -10,6 +10,8 @@
   runtime: 100
   tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.90 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0033870
+  poster_url: https://m.media-amazon.com/images/M/MV5BZjJhOTcwNGYtZGM3ZS00ZTYzLWJlZDYtMzllYmRkMDI4MjBkXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: to-have-and-have-not
   tmdb_id: null
@@ -18,6 +20,8 @@
   runtime: 100
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.80 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0037382
+  poster_url: https://m.media-amazon.com/images/M/MV5BZmJmNmI2NzctNDMzZi00NDI0LTkyZWQtNzczMGM5MGQ2MWEwXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-big-sleep
   tmdb_id: null
@@ -25,12 +29,14 @@
   year: 1946
   runtime: 114
   tags:
-    opacity: 3    # a plot so tangled even the filmmakers couldn't fully explain one of the murders
+    opacity: 3 # a plot so tangled even the filmmakers couldn't fully explain one of the murders
     stillness: 2
     bleakness: 3
     humor: 3
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0038355
+  poster_url: https://m.media-amazon.com/images/M/MV5BZTVlNDAwZTAtZmY0My00NDMyLWFkZjMtMjY0NmVmOTFlNTdhXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: key-largo
   tmdb_id: null
@@ -39,6 +45,8 @@
   runtime: 100
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.82 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0040506
+  poster_url: https://m.media-amazon.com/images/M/MV5BMmVmNjY0MDQtMzE5Zi00ZmEzLTg3MzUtNTg1MWE0YWNiNzQ1XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-treasure-of-the-sierra-madre
   tmdb_id: null
@@ -47,6 +55,8 @@
   runtime: 126
   tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 2, acclaim: 0.92 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0040897
+  poster_url: https://m.media-amazon.com/images/M/MV5BOWM1YjFmODEtMWNhMC00YmI1LWI0Y2EtYzg0YTBhZWI4ODE3XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: in-a-lonely-place
   tmdb_id: null
@@ -55,6 +65,8 @@
   runtime: 94
   tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0042593
+  poster_url: https://m.media-amazon.com/images/M/MV5BOGEyNGMyYmYtMzExZi00ZDQzLTg2NjctY2FmMDgyY2I5YjI1XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-caine-mutiny
   tmdb_id: null
@@ -63,3 +75,5 @@
   runtime: 124
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0046816
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTQ4ODg4NzA3OV5BMl5BanBnXkFtZTgwMDcwODI5MjE@._V1_SX300.jpg

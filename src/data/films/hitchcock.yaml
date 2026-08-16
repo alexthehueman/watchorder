@@ -12,6 +12,8 @@
   director: Alfred Hitchcock
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.82 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0026029
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTY5ODAzMTcwOF5BMl5BanBnXkFtZTcwMzYxNDYyNA@@._V1_SX300.jpg
 
 - id: the-lady-vanishes
   tmdb_id: null
@@ -21,6 +23,8 @@
   director: Alfred Hitchcock
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0030341
+  poster_url: https://m.media-amazon.com/images/M/MV5BMzQxY2M5ODUtYjQ5ZS00M2NmLWI2OTMtYzY3ZWJmZjcyNDIwXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: rebecca
   tmdb_id: null
@@ -29,12 +33,14 @@
   runtime: 130
   director: Alfred Hitchcock
   tags:
-    opacity: 2    # a dead first wife's presence dominates the house long before the twist explains why
+    opacity: 2 # a dead first wife's presence dominates the house long before the twist explains why
     stillness: 3
     bleakness: 4
     humor: 1
     acclaim: 0.88
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0032976
+  poster_url: https://m.media-amazon.com/images/M/MV5BYTI0MjUyODAtZTBkNC00MmIwLWFlNmYtMWE3ZmJlOWJjM2QyXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: shadow-of-a-doubt
   tmdb_id: null
@@ -44,6 +50,8 @@
   director: Alfred Hitchcock
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 2, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0036342
+  poster_url: https://m.media-amazon.com/images/M/MV5BMDFhMzBlYzctMDhkOC00OTFiLTgyYzEtZTBkNmQzNGRlMmNlXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: strangers-on-a-train
   tmdb_id: null
@@ -53,6 +61,8 @@
   director: Alfred Hitchcock
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.87 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0044079
+  poster_url: https://m.media-amazon.com/images/M/MV5BYjZkNjIwYjktN2IzOC00MmJlLWFkNDItZDZmNGZkNjQzZTA0XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg
 
 - id: rear-window
   tmdb_id: null
@@ -62,6 +72,8 @@
   director: Alfred Hitchcock
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.95 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0047396
+  poster_url: https://m.media-amazon.com/images/M/MV5BODZhOWI1ODgtMzdiOS00YjNkLTgwOGUtYmIyZDg5ZmQwMzQ1XkEyXkFqcGc@._V1_QL75_UY562_CR2,0,380,562_.jpg
 
 - id: to-catch-a-thief
   tmdb_id: null
@@ -71,6 +83,8 @@
   director: Alfred Hitchcock
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  imdb_id: tt0048728
+  poster_url: https://m.media-amazon.com/images/M/MV5BOWVjMjA1YzQtMjY4Yy00NDg1LTkwYmUtNDVlZGZiNmRhMGQ0XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: vertigo
   tmdb_id: null
@@ -81,10 +95,12 @@
   tags:
     opacity: 2
     stillness: 3
-    bleakness: 5    # a woman used and discarded twice by the same man, and the ending offers nothing back
+    bleakness: 5 # a woman used and discarded twice by the same man, and the ending offers nothing back
     humor: 1
     acclaim: 0.97
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  imdb_id: tt0052357
+  poster_url: https://m.media-amazon.com/images/M/MV5BNzEyZTUxMWItMGVhYy00Y2NlLTljYTMtYzBmMzI1YmUyMDBkXkEyXkFqcGc@._V1_QL75_UX380_CR0,13,380,562_.jpg
 
 - id: north-by-northwest
   tmdb_id: null
@@ -94,6 +110,8 @@
   director: Alfred Hitchcock
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.92 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0053125
+  poster_url: https://m.media-amazon.com/images/M/MV5BZWIzODI2OGItMzM0Ny00OGRmLTlkNmItMDQxMTFmMTk3YmQwXkEyXkFqcGc@._V1_QL75_UX380_CR0,5,380,562_.jpg
 
 - id: psycho
   tmdb_id: null
@@ -102,12 +120,14 @@
   runtime: 109
   director: Alfred Hitchcock
   tags:
-    opacity: 2    # the shower scene reroutes the whole film's sense of who it is even about
+    opacity: 2 # the shower scene reroutes the whole film's sense of who it is even about
     stillness: 2
     bleakness: 5
     humor: 2
     acclaim: 0.96
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+  imdb_id: tt0054215
+  poster_url: https://m.media-amazon.com/images/M/MV5BYjZhMzFiZjItODA3ZC00MmRhLWIzMGYtMmVjOWUwYTA3MTRjXkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg
 
 - id: the-birds
   tmdb_id: null
@@ -116,12 +136,14 @@
   runtime: 119
   director: Alfred Hitchcock
   tags:
-    opacity: 2    # no cause for the attacks is ever given, and the film is more frightening for it
+    opacity: 2 # no cause for the attacks is ever given, and the film is more frightening for it
     stillness: 2
     bleakness: 4
     humor: 1
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0056869
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTAxNDA1ODc5MDleQTJeQWpwZ15BbWU4MDg2MDA4OTEx._V1_SX300.jpg
 
 - id: marnie
   tmdb_id: null
@@ -131,6 +153,8 @@
   director: Alfred Hitchcock
   tags: { opacity: 2, stillness: 3, bleakness: 4, humor: 2, acclaim: 0.72 }
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 2 }
+  imdb_id: tt0058329
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTIyMmJmOGUtODMzMy00NTUxLWJmZTQtMWQ4NWM1ZTg5MjZlXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: frenzy
   tmdb_id: null
@@ -141,7 +165,9 @@
   tags:
     opacity: 1
     stillness: 2
-    bleakness: 5    # by far his most explicit film, made in London with none of the Hollywood-era restraint
+    bleakness: 5 # by far his most explicit film, made in London with none of the Hollywood-era restraint
     humor: 2
     acclaim: 0.78
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 2 }
+  imdb_id: tt0068611
+  poster_url: https://m.media-amazon.com/images/M/MV5BYWQ3OGZkYTgtZjVmZi00Yjg4LThkNjEtOTdjM2I4YTUwNmVhXkEyXkFqcGc@._V1_SX300.jpg

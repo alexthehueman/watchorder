@@ -16,10 +16,12 @@
   tags:
     opacity: 1
     stillness: 3
-    bleakness: 4    # an atomic-bomb allegory shot eight years after Hiroshima, and it plays as one
+    bleakness: 4 # an atomic-bomb allegory shot eight years after Hiroshima, and it plays as one
     humor: 1
     acclaim: 0.88
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 0 }
+  imdb_id: tt0047034
+  poster_url: https://m.media-amazon.com/images/M/MV5BNTk3M2U3YjMtZDkzYS00OGU5LWEwOTctMDZhNTE0ZDYxZmJjXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: ikiru
   tmdb_id: null
@@ -29,6 +31,8 @@
   director: Akira Kurosawa
   tags: { opacity: 1, stillness: 4, bleakness: 3, humor: 2, acclaim: 0.95 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0044741
+  poster_url: https://m.media-amazon.com/images/M/MV5BYWI2MzBhMzItYzQ3OS00N2Q4LTkyZDUtMjM1YTk0NjhkOWRiXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: when-a-woman-ascends-the-stairs
   tmdb_id: null
@@ -38,6 +42,8 @@
   director: Mikio Naruse
   tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0054144
+  poster_url: https://m.media-amazon.com/images/M/MV5BMjQwYTlmMmEtY2NlZC00Yzk5LTk1OTEtNzg2ZTAwYjE1MDMxXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: mothra-vs-godzilla
   tmdb_id: null
@@ -47,6 +53,8 @@
   director: Ishiro Honda
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0058379
+  poster_url: https://m.media-amazon.com/images/M/MV5BYmNmMGRhNjAtMTUyNS00NTAyLTgxMzQtNzk1ZGI2MzczYWUwXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: shin-godzilla
   tmdb_id: null
@@ -57,7 +65,9 @@
   tags:
     opacity: 1
     stillness: 2
-    bleakness: 3    # bureaucratic satire more than monster movie, and no less anxious for it
+    bleakness: 3 # bureaucratic satire more than monster movie, and no less anxious for it
     humor: 2
     acclaim: 0.80
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt4262980
+  poster_url: https://m.media-amazon.com/images/M/MV5BNjg5ODA1NzQtZmNmNy00MmFhLTk1YjUtYTM2NDNmNjY4ODA1XkEyXkFqcGc@._V1_SX300.jpg

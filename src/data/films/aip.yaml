@@ -15,6 +15,8 @@
   director: Gene Fowler Jr.
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0050530
+  poster_url: https://m.media-amazon.com/images/M/MV5BNmIyZTE1ODctOTgwOS00NTIyLWFlOWYtYjBlN2MzMWUyNDliXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: attack-of-the-crab-monsters
   tmdb_id: null
@@ -24,6 +26,8 @@
   director: Roger Corman
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.50 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0050147
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTc2Mjg0MzI1MF5BMl5BanBnXkFtZTgwNjM1OTg5MTE@._V1_SX300.jpg
 
 - id: attack-of-the-50-foot-woman
   tmdb_id: null
@@ -33,6 +37,8 @@
   director: Nathan Juran
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.52 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0051380
+  poster_url: https://m.media-amazon.com/images/M/MV5BOTQzZDU3OGItYWNmYi00MjRiLWFiNDYtNzQ2OTA5OGZkYjA1XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: house-of-usher
   tmdb_id: null
@@ -42,6 +48,8 @@
   director: Roger Corman
   tags: { opacity: 2, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0053925
+  poster_url: https://m.media-amazon.com/images/M/MV5BNjA1ZTRmYjYtMTE0MC00ZGQzLWE3YjctNWQ1MzNkMTRjZjZmXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-pit-and-the-pendulum
   tmdb_id: null
@@ -51,6 +59,8 @@
   director: Roger Corman
   tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0055304
+  poster_url: https://m.media-amazon.com/images/M/MV5BZDBiNjRhMDctMDA5Zi00YmVkLWEzMTMtMGU5NjI5MTE4Y2E0XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-raven-1963
   tmdb_id: null
@@ -61,10 +71,12 @@
   tags:
     opacity: 1
     stillness: 2
-    bleakness: 1    # Karloff, Price and Lorre trading barbs — the Poe cycle playing itself for laughs
+    bleakness: 1 # Karloff, Price and Lorre trading barbs — the Poe cycle playing itself for laughs
     humor: 5
     acclaim: 0.68
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0057449
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTQ4MjAzMzQzN15BMl5BanBnXkFtZTcwNzkyMTU2NA@@._V1_SX300.jpg
 
 - id: beach-party
   tmdb_id: null
@@ -74,6 +86,8 @@
   director: William Asher
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0056860
+  poster_url: https://m.media-amazon.com/images/M/MV5BM2U1ZjcxZTUtMjNhNC00OGRhLThmOGUtNmQ2NTFmMjA3MzE5XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-masque-of-the-red-death
   tmdb_id: null
@@ -84,10 +98,12 @@
   tags:
     opacity: 2
     stillness: 3
-    bleakness: 5    # Death arrives as a guest and the film does not pretend anyone talks their way out
+    bleakness: 5 # Death arrives as a guest and the film does not pretend anyone talks their way out
     humor: 1
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  imdb_id: tt0058333
+  poster_url: https://m.media-amazon.com/images/M/MV5BNzUyYTM3MDYtNmZhZC00MTc1LTliNzUtYmNjNTBiZWI4MzUzXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-tomb-of-ligeia
   tmdb_id: null
@@ -96,12 +112,14 @@
   runtime: 81
   director: Roger Corman
   tags:
-    opacity: 3    # a dead wife's return staged so ambiguously the film never confirms what happened
+    opacity: 3 # a dead wife's return staged so ambiguously the film never confirms what happened
     stillness: 3
     bleakness: 4
     humor: 1
     acclaim: 0.70
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0059821
+  poster_url: https://m.media-amazon.com/images/M/MV5BNjgxNTM0Nzk0OV5BMl5BanBnXkFtZTcwMTgyMTM4NA@@._V1_SX300.jpg
 
 - id: the-wild-angels
   tmdb_id: null
@@ -112,10 +130,12 @@
   tags:
     opacity: 1
     stillness: 2
-    bleakness: 4    # a funeral turns into an assault, and the film does not look away from it
+    bleakness: 4 # a funeral turns into an assault, and the film does not look away from it
     humor: 1
     acclaim: 0.58
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 2 }
+  imdb_id: tt0061189
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTBmOWRkM2YtMDFjNC00NThiLWEwMDYtYjc5ZTFhZTRmZmY2XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-trip
   tmdb_id: null
@@ -124,12 +144,14 @@
   runtime: 85
   director: Roger Corman
   tags:
-    opacity: 3    # structured as the hallucination itself, not a story about one
+    opacity: 3 # structured as the hallucination itself, not a story about one
     stillness: 2
     bleakness: 2
     humor: 2
     acclaim: 0.62
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  imdb_id: tt0062395
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTM3NTRhZmYtMTQ3Ni00NDIzLTkyYTItOGFlZmUxYTRmNTAxXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: wild-in-the-streets
   tmdb_id: null
@@ -140,10 +162,12 @@
   tags:
     opacity: 1
     stillness: 1
-    bleakness: 3    # a satire that ends with the elderly rounded up into re-education camps
+    bleakness: 3 # a satire that ends with the elderly rounded up into re-education camps
     humor: 4
     acclaim: 0.60
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0063808
+  poster_url: https://m.media-amazon.com/images/M/MV5BOGRkMWFiMGMtOGU1Yi00OGU2LWI2OWQtOTQ1NDc5ZDMyZmRlXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-abominable-dr-phibes
   tmdb_id: null
@@ -153,6 +177,8 @@
   director: Robert Fuest
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0066740
+  poster_url: https://m.media-amazon.com/images/M/MV5BYjIyOTNiMWItNzRkZi00YzY5LTk4ODEtZjFiYTYxZTc2NzkyXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: coffy
   tmdb_id: null
@@ -162,3 +188,5 @@
   director: Jack Hill
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 2, acclaim: 0.70 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 2 }
+  imdb_id: tt0069897
+  poster_url: https://m.media-amazon.com/images/M/MV5BYmUzOWM0MjAtODM3Ny00NjIxLWI0MzYtOGRhYTQ0NGM0YzNiXkEyXkFqcGc@._V1_SX300.jpg

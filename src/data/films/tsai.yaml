@@ -12,6 +12,8 @@
   runtime: 106
   tags: { opacity: 2, stillness: 4, bleakness: 4, humor: 2, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  imdb_id: tt0103935
+  poster_url: https://m.media-amazon.com/images/M/MV5BODkxNjgwNjk0MF5BMl5BanBnXkFtZTgwNzM0NjA5NDE@._V1_SX300.jpg
 
 - id: vive-lamour
   tmdb_id: null
@@ -20,6 +22,8 @@
   runtime: 118
   tags: { opacity: 3, stillness: 5, bleakness: 4, humor: 2, acclaim: 0.80 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+  imdb_id: tt0109066
+  poster_url: https://m.media-amazon.com/images/M/MV5BZjg3NzEzMjItZWE4Zi00MDNiLTg2YWItMWZjODM3NjIzYWQxXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-river
   tmdb_id: null
@@ -28,6 +32,8 @@
   runtime: 115
   tags: { opacity: 3, stillness: 5, bleakness: 5, humor: 1, acclaim: 0.78 }
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+  imdb_id: tt0119263
+  poster_url: https://m.media-amazon.com/images/M/MV5BYTEzMWZmMmYtMzBhOC00N2NlLTkzZTYtMzk1OTkzZWY5ODJlXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-hole
   tmdb_id: null
@@ -38,9 +44,11 @@
     opacity: 4
     stillness: 5
     bleakness: 4
-    humor: 4    # the Grace Chang musical numbers are joyous, and they are not ironic
+    humor: 4 # the Grace Chang musical numbers are joyous, and they are not ironic
     acclaim: 0.80
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  imdb_id: tt0156610
+  poster_url: https://m.media-amazon.com/images/M/MV5BODE0MGE0OTAtYmFiYS00OWExLTgzNWMtNGRiZjQ1ZDVmMzJkXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: what-time-is-it-there
   tmdb_id: null
@@ -49,6 +57,8 @@
   runtime: 116
   tags: { opacity: 3, stillness: 5, bleakness: 4, humor: 3, acclaim: 0.82 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  imdb_id: tt0269746
+  poster_url: https://m.media-amazon.com/images/M/MV5BNTMzNDIzNjYyOF5BMl5BanBnXkFtZTcwODE4OTQyMQ@@._V1_SX300.jpg
 
 - id: goodbye-dragon-inn
   tmdb_id: null
@@ -58,10 +68,12 @@
   tags:
     opacity: 4
     stillness: 5
-    bleakness: 3    # an elegy rather than a tragedy, and oddly consoling
+    bleakness: 3 # an elegy rather than a tragedy, and oddly consoling
     humor: 3
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  imdb_id: tt0377556
+  poster_url: https://m.media-amazon.com/images/M/MV5BYzE5NmU0MGUtZmRmZC00N2IzLWFmODgtMzdiNTc2MDY1ZWY2XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-wayward-cloud
   tmdb_id: null
@@ -70,6 +82,8 @@
   runtime: 112
   tags: { opacity: 4, stillness: 5, bleakness: 5, humor: 3, acclaim: 0.68 }
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 3 }
+  imdb_id: tt0445760
+  poster_url: https://m.media-amazon.com/images/M/MV5BOGRjOTMxNmEtNWIyNS00ZGM4LWIwNmUtNDRhMTcwMGU5MzM0XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: i-dont-want-to-sleep-alone
   tmdb_id: null
@@ -78,6 +92,8 @@
   runtime: 118
   tags: { opacity: 4, stillness: 5, bleakness: 4, humor: 1, acclaim: 0.65 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 2 }
+  imdb_id: tt0855824
+  poster_url: https://m.media-amazon.com/images/M/MV5BZmUzYzE2NGUtMGE4Ny00MTA4LTg2ZGYtM2M4NGFkZmFkYmJjXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: face
   tmdb_id: null
@@ -86,6 +102,8 @@
   runtime: 141
   tags: { opacity: 5, stillness: 5, bleakness: 3, humor: 2, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+  imdb_id: tt1262420
+  poster_url: https://m.media-amazon.com/images/M/MV5BNzgwMDJhNmQtMTg1YS00Y2VmLWI2YTctNDBmNDY3MThiNWY0XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: stray-dogs
   tmdb_id: null
@@ -94,6 +112,8 @@
   runtime: 138
   tags: { opacity: 4, stillness: 5, bleakness: 5, humor: 1, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt3119416
+  poster_url: https://m.media-amazon.com/images/M/MV5BMjI5NjE4NTQyMl5BMl5BanBnXkFtZTgwMjE4NTgyMjE@._V1_SX300.jpg
 
 - id: days
   tmdb_id: null
@@ -102,3 +122,5 @@
   runtime: 127
   tags: { opacity: 4, stillness: 5, bleakness: 4, humor: 1, acclaim: 0.70 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+  imdb_id: tt11697820
+  poster_url: https://m.media-amazon.com/images/M/MV5BNGM5ZTE5OGEtODIzMC00ZWNlLTg1ZWMtMGUwMjU2ZWU3NWQwXkEyXkFqcGc@._V1_SX300.jpg

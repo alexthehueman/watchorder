@@ -11,6 +11,8 @@
   director: Stanley Kubrick
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.65 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0048254
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTMyODMxOTUtZWI0ZS00Y2ZhLWJmMjMtZDIzYThlNmMwYTEwXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-killing
   tmdb_id: null
@@ -20,6 +22,8 @@
   director: Stanley Kubrick
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.80 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0049406
+  poster_url: https://m.media-amazon.com/images/M/MV5BNGNhNTNiZjMtM2U1Yy00MTYwLWJhZGMtM2E1ZWU0NWFlYWMxXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: paths-of-glory
   tmdb_id: null
@@ -30,10 +34,12 @@
   tags:
     opacity: 1
     stillness: 2
-    bleakness: 5    # soldiers court-martialed for a battle their own commanders made unwinnable, and no one is saved
+    bleakness: 5 # soldiers court-martialed for a battle their own commanders made unwinnable, and no one is saved
     humor: 1
     acclaim: 0.90
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0050825
+  poster_url: https://m.media-amazon.com/images/M/MV5BNmQ2NmI2ODYtMDQzNS00NzQyLTkzZjgtZmZlYTQ5MTc1OWU3XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: spartacus
   tmdb_id: null
@@ -43,6 +49,8 @@
   director: Stanley Kubrick
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 2, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0054331
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTcyOThhYzktMTYyMi00NDU5LWExZWMtOWUzNGJiZGFlMWQwXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: lolita
   tmdb_id: null
@@ -51,12 +59,14 @@
   runtime: 153
   director: Stanley Kubrick
   tags:
-    opacity: 2    # as elliptical as 1962 censorship allowed, though nothing about the subject is left unclear
+    opacity: 2 # as elliptical as 1962 censorship allowed, though nothing about the subject is left unclear
     stillness: 2
     bleakness: 4
     humor: 2
     acclaim: 0.78
   content: { sexual_violence: true, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 1 }
+  imdb_id: tt0056193
+  poster_url: https://m.media-amazon.com/images/M/MV5BNmY2ZTEwZTAtOThkZS00MzkxLTk3MDUtOTJiMTgzOGI1MzdjXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: dr-strangelove
   tmdb_id: null
@@ -75,6 +85,8 @@
   director: Stanley Kubrick
   tags: { opacity: 4, stillness: 4, bleakness: 3, humor: 1, acclaim: 0.95 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0062622
+  poster_url: https://m.media-amazon.com/images/M/MV5BNjU0NDFkMTQtZWY5OS00MmZhLTg3Y2QtZmJhMzMzMWYyYjc2XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: a-clockwork-orange
   tmdb_id: null
@@ -85,10 +97,12 @@
   tags:
     opacity: 1
     stillness: 2
-    bleakness: 5    # a "cure" for violence that never once asks whether it counts as reform
+    bleakness: 5 # a "cure" for violence that never once asks whether it counts as reform
     humor: 2
     acclaim: 0.90
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 2 }
+  imdb_id: tt0066921
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTY3MjM1Mzc4N15BMl5BanBnXkFtZTgwODM0NzAxMDE@._V1_SX300.jpg
 
 - id: barry-lyndon
   tmdb_id: null
@@ -98,6 +112,8 @@
   director: Stanley Kubrick
   tags: { opacity: 1, stillness: 4, bleakness: 4, humor: 2, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0072684
+  poster_url: https://m.media-amazon.com/images/M/MV5BNmM2MGQ5Y2UtYzA3ZC00ZDJlLTkwNDYtMjBmZGExZDJiN2RlXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: full-metal-jacket
   tmdb_id: null
@@ -107,6 +123,8 @@
   director: Stanley Kubrick
   tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 2, acclaim: 0.88 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 3, sex: 0 }
+  imdb_id: tt0093058
+  poster_url: https://m.media-amazon.com/images/M/MV5BYWUzNzZkNzUtNDdiYy00Nzk5LTgxMmItNTk0MjRjNjdjNDA0XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg
 
 - id: eyes-wide-shut
   tmdb_id: null
@@ -115,9 +133,11 @@
   runtime: 159
   director: Stanley Kubrick
   tags:
-    opacity: 3    # structured as a fugue-state journey that never confirms what was actually real
+    opacity: 3 # structured as a fugue-state journey that never confirms what was actually real
     stillness: 3
     bleakness: 3
     humor: 1
     acclaim: 0.75
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 3 }
+  imdb_id: tt0120663
+  poster_url: https://m.media-amazon.com/images/M/MV5BZTQ0MmM5MDAtYmYyZS00MzlmLTlhZTAtZDJlZWY5ZTZkZjZmXkEyXkFqcGc@._V1_SX300.jpg

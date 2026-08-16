@@ -9,12 +9,14 @@
   runtime: 95
   director: Werner Herzog
   tags:
-    opacity: 2    # the expedition's grip on reality dissolves well before the ending does
+    opacity: 2 # the expedition's grip on reality dissolves well before the ending does
     stillness: 3
-    bleakness: 5    # every man on the raft dies but one, and he is left surrounded by monkeys
+    bleakness: 5 # every man on the raft dies but one, and he is left surrounded by monkeys
     humor: 1
     acclaim: 0.90
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0068182
+  poster_url: https://m.media-amazon.com/images/M/MV5BNGYyMDRhYTgtMjIzNy00OGQyLTk4MTEtZTM2ODlmNjc0NTlhXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-enigma-of-kaspar-hauser
   tmdb_id: null
@@ -24,6 +26,8 @@
   director: Werner Herzog
   tags: { opacity: 2, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0071691
+  poster_url: https://m.media-amazon.com/images/M/MV5BYzBiNWVjNjEtOGJhMS00MTA0LTgzZTgtMDY2OGY5OGQzMTIyXkEyXkFqcGc@._V1_QL75_UY562_CR8,0,380,562_.jpg
 
 - id: stroszek
   tmdb_id: null
@@ -33,6 +37,8 @@
   director: Werner Herzog
   tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 2, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
+  imdb_id: tt0075276
+  poster_url: https://m.media-amazon.com/images/M/MV5BOWE1MGI2YTAtOTdiZi00NTQ0LWEyZmItNjVhNGYzNDg2NjNiXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: woyzeck
   tmdb_id: null
@@ -42,6 +48,8 @@
   director: Werner Herzog
   tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0080149
+  poster_url: https://m.media-amazon.com/images/M/MV5BNjI4ZjAwY2ItMzliOC00NmExLWFhNWMtMGMxZmU4OWU1ODg3XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: nosferatu-the-vampyre
   tmdb_id: null
@@ -51,6 +59,8 @@
   director: Werner Herzog
   tags: { opacity: 2, stillness: 4, bleakness: 4, humor: 1, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0079641
+  poster_url: https://m.media-amazon.com/images/M/MV5BYjgzODFlMTgtNDhiMS00ZGZmLTliOTUtMjU5NjBkYmU4NGNkXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: fitzcarraldo
   tmdb_id: null
@@ -60,6 +70,8 @@
   director: Werner Herzog
   tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 2, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0083946
+  poster_url: https://m.media-amazon.com/images/M/MV5BYzJjNTRkNjUtZGE4MC00YmRlLWI0ODYtMzJjNGZkYWMzNTJhXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: grizzly-man
   tmdb_id: null
@@ -69,6 +81,8 @@
   director: Werner Herzog
   tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 2, acclaim: 0.88 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0427312
+  poster_url: https://m.media-amazon.com/images/M/MV5BODc3NTAxMTY1MV5BMl5BanBnXkFtZTcwOTE4NjUzMw@@._V1_SX300.jpg
 
 - id: rescue-dawn
   tmdb_id: null
@@ -78,6 +92,8 @@
   director: Werner Herzog
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0462504
+  poster_url: https://m.media-amazon.com/images/M/MV5BNzUxNzUzNzU2MV5BMl5BanBnXkFtZTcwNTgzNzU2NA@@._V1_SX300.jpg
 
 - id: encounters-at-the-end-of-the-world
   tmdb_id: null
@@ -87,6 +103,8 @@
   director: Werner Herzog
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.80 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt1093824
+  poster_url: https://m.media-amazon.com/images/M/MV5BOTI3NjkyNjY2OV5BMl5BanBnXkFtZTcwOTUwMTU3MQ@@._V1_SX300.jpg
 
 - id: bad-lieutenant-port-of-call-new-orleans
   tmdb_id: null
@@ -96,6 +114,8 @@
   director: Werner Herzog
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 3, acclaim: 0.75 }
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 2 }
+  imdb_id: tt1095217
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTcyMzY0NTMzMF5BMl5BanBnXkFtZTcwMTc1MjY4Mg@@._V1_SX300.jpg
 
 - id: cave-of-forgotten-dreams
   tmdb_id: null
@@ -114,3 +134,5 @@
   director: Werner Herzog
   tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.82 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt1972663
+  poster_url: https://m.media-amazon.com/images/M/MV5BNTQyODM2MzMxMV5BMl5BanBnXkFtZTcwNDIzNjY5Ng@@._V1_SX300.jpg

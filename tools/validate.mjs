@@ -149,6 +149,18 @@ export function validateCorpus(corpus) {
     if (film.tmdb_id === null || film.tmdb_id === undefined) {
       warnings.push(`${where} — tmdb_id not yet resolved; run \`npm run ingest\``);
     }
+    // Both optional and independent of tmdb_id — OMDb is the ingest path that actually works
+    // while a TMDB key is pending. Not warned on when absent the way tmdb_id is: unlike tmdb_id,
+    // which every film is expected to eventually carry, these are opportunistic and nobody should
+    // see roughly a thousand more warning lines for a field with no consumer yet.
+    if (film.imdb_id !== null && film.imdb_id !== undefined && !/^tt\d+$/.test(film.imdb_id)) {
+      errors.push(`${where} — imdb_id must look like "tt1234567", got ${JSON.stringify(film.imdb_id)}`);
+    }
+    if (film.poster_url !== null && film.poster_url !== undefined) {
+      if (typeof film.poster_url !== 'string' || !/^https?:\/\//.test(film.poster_url)) {
+        errors.push(`${where} — poster_url must be a full http(s) URL, got ${JSON.stringify(film.poster_url)}`);
+      }
+    }
 
     for (const tag of TASTE_TAGS) {
       if (!isInteger(film.tags?.[tag], 1, 5)) {

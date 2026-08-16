@@ -22,6 +22,8 @@
     suicide: false
     violence: 2
     sex: 2
+  imdb_id: tt0073705
+  poster_url: https://m.media-amazon.com/images/M/MV5BOTgwZTIxOWQtNzYzMS00ZDk4LWI2YjktMDgzMjE3NjQzNWE3XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-brood
   tmdb_id: null
@@ -31,7 +33,7 @@
   tags:
     opacity: 2
     stillness: 2
-    bleakness: 5    # a divorce film in which the rage is literally externalised and kills people
+    bleakness: 5 # a divorce film in which the rage is literally externalised and kills people
     humor: 1
     acclaim: 0.70
   content:
@@ -41,6 +43,8 @@
     suicide: false
     violence: 3
     sex: 1
+  imdb_id: tt0078908
+  poster_url: https://m.media-amazon.com/images/M/MV5BMWU2MmY2N2EtMmNlNS00NjU4LTg2MDQtYTQ1MjYxY2RkNjFlXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: fast-company
   tmdb_id: null
@@ -60,6 +64,8 @@
     suicide: false
     violence: 1
     sex: 1
+  imdb_id: tt0079138
+  poster_url: https://m.media-amazon.com/images/M/MV5BOGNjOWVjOTktODczNy00NmJjLWExMzgtYTdiZjRiZmU0ZjdmXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: scanners
   tmdb_id: null
@@ -79,6 +85,8 @@
     suicide: false
     violence: 3
     sex: 0
+  imdb_id: tt0081455
+  poster_url: https://m.media-amazon.com/images/M/MV5BYWY2OTA1NjctNmFhYS00ZGQwLTlhNGUtNjQ1M2JiNzFjNmI2XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: videodrome
   tmdb_id: null
@@ -86,7 +94,7 @@
   year: 1983
   runtime: 87
   tags:
-    opacity: 4    # the hallucination and the plot stop being separable about halfway through
+    opacity: 4 # the hallucination and the plot stop being separable about halfway through
     stillness: 2
     bleakness: 4
     humor: 2
@@ -98,6 +106,8 @@
     suicide: true
     violence: 3
     sex: 3
+  imdb_id: tt0086541
+  poster_url: https://m.media-amazon.com/images/M/MV5BOTI0NDVlMjMtNWI5Yi00ZWM0LTg4NWUtNGRkYjU5NTBkZjVkXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-dead-zone
   tmdb_id: null
@@ -117,6 +127,8 @@
     suicide: false
     violence: 2
     sex: 0
+  imdb_id: tt0085407
+  poster_url: https://m.media-amazon.com/images/M/MV5BNjlmYzYyODgtYjBiYS00ZDM3LWE0MDYtN2U3MzBjMTRmYzMzXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-fly
   tmdb_id: null
@@ -124,7 +136,7 @@
   year: 1986
   runtime: 96
   tags:
-    opacity: 1    # completely legible, and that is exactly why it hurts
+    opacity: 1 # completely legible, and that is exactly why it hurts
     stillness: 2
     bleakness: 5
     humor: 2
@@ -136,6 +148,8 @@
     suicide: true
     violence: 3
     sex: 2
+  imdb_id: tt0091064
+  poster_url: https://m.media-amazon.com/images/M/MV5BOTBlNTliNTItY2VhNS00MjA5LTllYzItMmQyNGRjYTAyZWQxXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: dead-ringers
   tmdb_id: null
@@ -155,6 +169,8 @@
     suicide: true
     violence: 2
     sex: 2
+  imdb_id: tt0094964
+  poster_url: https://m.media-amazon.com/images/M/MV5BYTMwZDViNDMtZGJjNC00YzM4LWFiN2YtZjVjNjAwOWNjMTIxXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: naked-lunch
   tmdb_id: null
@@ -165,7 +181,7 @@
     opacity: 5
     stillness: 3
     bleakness: 4
-    humor: 3    # the talking typewriters are played as deadpan comedy and land as such
+    humor: 3 # the talking typewriters are played as deadpan comedy and land as such
     acclaim: 0.75
   content:
     sexual_violence: false
@@ -174,6 +190,8 @@
     suicide: false
     violence: 2
     sex: 2
+  imdb_id: tt0102511
+  poster_url: https://m.media-amazon.com/images/M/MV5BYzBkOWM0MTYtN2QwYy00YTg3LWIwNmEtMGRlNDNhN2UyNjU3XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: crash-1996
   tmdb_id: null
@@ -182,7 +200,7 @@
   runtime: 100
   tags:
     opacity: 3
-    stillness: 4    # affectless and repetitive on purpose; almost nothing accelerates
+    stillness: 4 # affectless and repetitive on purpose; almost nothing accelerates
     bleakness: 4
     humor: 1
     acclaim: 0.70
@@ -193,6 +211,8 @@
     suicide: false
     violence: 2
     sex: 3
+  imdb_id: tt0115964
+  poster_url: https://m.media-amazon.com/images/M/MV5BMWQyNTUwNGMtOWUwZi00ODdjLWE3MDQtYzc0NjYzNjk2YWY4XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: existenz
   tmdb_id: null
@@ -212,6 +232,8 @@
     suicide: false
     violence: 2
     sex: 1
+  imdb_id: tt0120907
+  poster_url: https://m.media-amazon.com/images/M/MV5BZjk3MGRhN2EtN2IyYi00NjFkLWFmNTUtNWI3MzZiYjI2ZjRkXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: a-history-of-violence
   tmdb_id: null
@@ -231,6 +253,8 @@
     suicide: false
     violence: 3
     sex: 2
+  imdb_id: tt0399146
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTczMzIzMTQ1OV5BMl5BanBnXkFtZTYwMDQwNjk2._V1_SX300.jpg
 
 - id: eastern-promises
   tmdb_id: null
@@ -250,6 +274,8 @@
     suicide: false
     violence: 3
     sex: 1
+  imdb_id: tt0765443
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTcwMzU0OTY3NF5BMl5BanBnXkFtZTYwNzkwNjg2._V1_SX300.jpg
 
 - id: cosmopolis
   tmdb_id: null
@@ -258,7 +284,7 @@
   runtime: 109
   tags:
     opacity: 4
-    stillness: 4    # a man in a car talking, for two hours, deliberately
+    stillness: 4 # a man in a car talking, for two hours, deliberately
     bleakness: 4
     humor: 2
     acclaim: 0.55
@@ -269,6 +295,8 @@
     suicide: false
     violence: 2
     sex: 2
+  imdb_id: tt1480656
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTY1NjI0MDYyNV5BMl5BanBnXkFtZTcwNDIzMDEyOA@@._V1_SX300.jpg
 
 - id: crimes-of-the-future
   tmdb_id: null
@@ -288,3 +316,5 @@
     suicide: false
     violence: 3
     sex: 2
+  imdb_id: tt14549466
+  poster_url: https://m.media-amazon.com/images/M/MV5BMjBjMTEzZGItOGMzYy00Mzk4LWE0YjgtN2ExMjY1MTBlNTlkXkEyXkFqcGc@._V1_SX300.jpg

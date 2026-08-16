@@ -10,6 +10,8 @@
   runtime: 122
   tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0043924
+  poster_url: https://m.media-amazon.com/images/M/MV5BMjM4MzFjMjgtOTVmYi00YWI2LThlNTItYTdhNTE4ODhhZjgwXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: giant
   tmdb_id: null
@@ -18,6 +20,8 @@
   runtime: 201
   tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 2, acclaim: 0.82 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0049261
+  poster_url: https://m.media-amazon.com/images/M/MV5BYTRjYjQ4ZjktZWVkNS00YmRkLTkwMjYtOTA5ZDUxM2UzNDk1XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: cat-on-a-hot-tin-roof
   tmdb_id: null
@@ -26,6 +30,8 @@
   runtime: 108
   tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0051459
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTYzNjY1YjYtNDQzMi00M2JjLTgwMDEtMDc3ZWE3ZmI2NjNiXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: butterfield-8
   tmdb_id: null
@@ -34,6 +40,8 @@
   runtime: 109
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.65 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  imdb_id: tt0053622
+  poster_url: https://m.media-amazon.com/images/M/MV5BNzEzNjJmOWItODEzZC00NmFiLTgyMzQtNTJhNDk1ZDAzZTJiXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: cleopatra
   tmdb_id: null
@@ -42,6 +50,8 @@
   runtime: 192
   tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.60 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 0 }
+  imdb_id: tt0056937
+  poster_url: https://m.media-amazon.com/images/M/MV5BNDM0NzA2MTUtZTVhOC00MDYxLTk2MWMtNTY2ZjkyN2U5ZjM0XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: whos-afraid-of-virginia-woolf
   tmdb_id: null
@@ -50,3 +60,5 @@
   runtime: 131
   tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 2, acclaim: 0.90 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0061184
+  poster_url: https://m.media-amazon.com/images/M/MV5BOGY5YWJlMjUtNWI4Zi00NTExLWIwMDUtNGJkOTM0MzliNjE4XkEyXkFqcGc@._V1_SX300.jpg

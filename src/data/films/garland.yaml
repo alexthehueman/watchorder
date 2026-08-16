@@ -12,6 +12,8 @@
   runtime: 131
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0034415
+  poster_url: https://m.media-amazon.com/images/M/MV5BZjI1NzMzYjMtNzgxMC00MjMzLWJjZGEtOWFhOTBjZmI2MTUyXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: for-me-and-my-gal
   tmdb_id: null
@@ -20,6 +22,8 @@
   runtime: 104
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.70 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0034746
+  poster_url: https://m.media-amazon.com/images/M/MV5BNWRkYzBlZTMtNjc4NS00NzE1LWJkZDEtMTlkNzU2MWIzOWY5XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-harvey-girls
   tmdb_id: null
@@ -28,6 +32,8 @@
   runtime: 101
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0038589
+  poster_url: https://m.media-amazon.com/images/M/MV5BZTQ4MWFjOWUtMDlkMy00OWM0LTg5N2QtMzFlOGE0NDM0NjE0XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-pirate
   tmdb_id: null
@@ -36,6 +42,8 @@
   runtime: 102
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0040694
+  poster_url: https://m.media-amazon.com/images/M/MV5BNWQyMTMzMmQtMDU0Ny00M2Y5LThhN2UtYjA2Y2VmOTBhYmQ0XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: in-the-good-old-summertime
   tmdb_id: null
@@ -44,6 +52,8 @@
   runtime: 102
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0041507
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTkxZmE4OTYtZDNlYi00YjM3LWFjZjQtN2ZkNWJlMDVlNzZmXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: summer-stock
   tmdb_id: null
@@ -52,6 +62,8 @@
   runtime: 109
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0043012
+  poster_url: https://m.media-amazon.com/images/M/MV5BMjAwOTg3MTM3MF5BMl5BanBnXkFtZTgwNzk1NDgyMTE@._V1_SX300.jpg
 
 - id: a-star-is-born-1954
   tmdb_id: null
@@ -59,12 +71,14 @@
   year: 1954
   runtime: 154
   tags:
-    opacity: 2    # her husband's decline is withheld from her, and from the audience, in stages
+    opacity: 2 # her husband's decline is withheld from her, and from the audience, in stages
     stillness: 3
     bleakness: 5
     humor: 2
     acclaim: 0.90
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
+  imdb_id: tt0047522
+  poster_url: https://m.media-amazon.com/images/M/MV5BNWZlNTI0ZGUtNzhlNy00OWUzLTgxMzEtNjRlYmQ1OWQyZDdmXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: judgment-at-nuremberg
   tmdb_id: null
@@ -73,6 +87,8 @@
   runtime: 186
   tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0055031
+  poster_url: https://m.media-amazon.com/images/M/MV5BNDc2ODQ5NTE2MV5BMl5BanBnXkFtZTcwODExMjUyNA@@._V1_SX300.jpg
 
 - id: i-could-go-on-singing
   tmdb_id: null
@@ -81,6 +97,8 @@
   runtime: 99
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.65 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0057168
+  poster_url: https://m.media-amazon.com/images/M/MV5BZDE3ZTJmZjItMmM1My00YmY3LTgwY2ItNjIxY2FhMTQ1ZmU4XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_SX300.jpg
 
 - id: a-child-is-waiting
   tmdb_id: null
@@ -89,3 +107,5 @@
   runtime: 102
   tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.70 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0056930
+  poster_url: https://m.media-amazon.com/images/M/MV5BNjA3MDI2YTMtMTU4NS00YTJiLWE3NmYtNjE5OTg1ODlkOWY0XkEyXkFqcGc@._V1_SX300.jpg

@@ -9,6 +9,8 @@
   director: Sally Potter
   tags: { opacity: 3, stillness: 3, bleakness: 2, humor: 3, acclaim: 0.82 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0107756
+  poster_url: https://m.media-amazon.com/images/M/MV5BZThhODA0ZmQtM2UyMy00YWY0LTg4MGItZTJhZmI2NWJkMTM1XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: michael-clayton
   tmdb_id: null
@@ -18,6 +20,8 @@
   director: Tony Gilroy
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.80 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0465538
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTc0NTU5MjI2MV5BMl5BanBnXkFtZTcwMTg5NTQzMw@@._V1_SX300.jpg
 
 - id: i-am-love
   tmdb_id: null
@@ -27,6 +31,8 @@
   director: Luca Guadagnino
   tags: { opacity: 2, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+  imdb_id: tt1226236
+  poster_url: https://m.media-amazon.com/images/M/MV5BMjAwNjY5OTUxM15BMl5BanBnXkFtZTcwNjE3MTQxMw@@._V1_SX300.jpg
 
 - id: only-lovers-left-alive
   tmdb_id: null
@@ -36,6 +42,8 @@
   director: Jim Jarmusch
   tags: { opacity: 2, stillness: 4, bleakness: 2, humor: 3, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt1714915
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTY0NTQ1NjA0OV5BMl5BanBnXkFtZTgwMDg5NjkzMTE@._V1_SX300.jpg
 
 - id: snowpiercer
   tmdb_id: null
@@ -45,3 +53,5 @@
   director: Bong Joon-ho
   tags: { opacity: 2, stillness: 1, bleakness: 4, humor: 3, acclaim: 0.82 }
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
+  imdb_id: tt1706620
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTQ3NzA1MTY3MV5BMl5BanBnXkFtZTgwNzE2Mzg5MTE@._V1_SX300.jpg

@@ -12,6 +12,8 @@
   director: King Hu
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.80 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0059079
+  poster_url: https://m.media-amazon.com/images/M/MV5BMmI5NzcxNDYtNTg0ZC00NTFkLWE5OTMtODEzZGY3MTFhNzBiXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-one-armed-swordsman
   tmdb_id: null
@@ -39,6 +41,8 @@
   director: Chang Cheh
   tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  imdb_id: tt0068310
+  poster_url: https://m.media-amazon.com/images/M/MV5BMGVhNzBkYjMtNzJmYi00ZWY5LWJiMmMtYWEyYzFmM2VlMTZhXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: heroes-two
   tmdb_id: null
@@ -48,6 +52,8 @@
   director: Chang Cheh
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.70 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0070051
+  poster_url: https://m.media-amazon.com/images/M/MV5BYTU5MThlZGQtYTRjMS00MjcxLTk0YTItNWExNDdmNTRjNGFkXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: executioners-from-shaolin
   tmdb_id: null
@@ -57,6 +63,8 @@
   director: Lau Kar-leung
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0076168
+  poster_url: https://m.media-amazon.com/images/M/MV5BZTVkYzNlY2QtNDZiNi00NTVhLTk5MGMtYjI1ZmIxMzYwMjMxXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-36th-chamber-of-shaolin
   tmdb_id: null
@@ -66,6 +74,8 @@
   director: Lau Kar-leung
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.88 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0078243
+  poster_url: https://m.media-amazon.com/images/M/MV5BNDFlOGQyZGUtYTJiMi00MzdmLWJhMGQtODczMWZiZDJmM2I3XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: five-deadly-venoms
   tmdb_id: null
@@ -74,12 +84,14 @@
   runtime: 102
   director: Chang Cheh
   tags:
-    opacity: 2    # a whodunit figuring out which masked students turned criminal
+    opacity: 2 # a whodunit figuring out which masked students turned criminal
     stillness: 2
     bleakness: 3
     humor: 1
     acclaim: 0.80
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0077559
+  poster_url: https://m.media-amazon.com/images/M/MV5BMzVjMzczMTUtZDkyYS00ZmI3LTgzNzgtMmQ0MjcxYmJlMWE2XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-kid-with-the-golden-arm
   tmdb_id: null
@@ -89,6 +101,8 @@
   director: Chang Cheh
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0079372
+  poster_url: https://m.media-amazon.com/images/M/MV5BMDkxMmJlYzEtMmEwYS00NzI1LWE5ZjMtOGFhZTEzMDE2MGQ3XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: dirty-ho
   tmdb_id: null
@@ -98,6 +112,8 @@
   director: Lau Kar-leung
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0079432
+  poster_url: https://m.media-amazon.com/images/M/MV5BODcxNzdhNDctMWQ1Yy00MzExLTk4NTYtYTJkNzBjNWRhMDA0XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: my-young-auntie
   tmdb_id: null
@@ -107,6 +123,8 @@
   director: Lau Kar-leung
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0080717
+  poster_url: https://m.media-amazon.com/images/M/MV5BMDA3ZjY2NDktZjliZi00NjQ2LTg1YTItYWQ1Mzk2NjNhNzllXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: legendary-weapons-of-china
   tmdb_id: null
@@ -116,6 +134,8 @@
   director: Lau Kar-leung
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0084671
+  poster_url: https://m.media-amazon.com/images/M/MV5BN2M3NWVhMzYtNmY0Ny00YzI0LTgzMjUtOWVjMzg2ZGNkNzcwXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-8-diagram-pole-fighter
   tmdb_id: null
@@ -126,7 +146,7 @@
   tags:
     opacity: 1
     stillness: 2
-    bleakness: 5    # a family ambushed and slaughtered, and the one survivor who cannot face it
+    bleakness: 5 # a family ambushed and slaughtered, and the one survivor who cannot face it
     humor: 1
     acclaim: 0.80
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }

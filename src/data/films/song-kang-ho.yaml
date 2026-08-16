@@ -9,6 +9,8 @@
   director: Park Chan-wook
   tags: { opacity: 2, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
+  imdb_id: tt0310775
+  poster_url: https://m.media-amazon.com/images/M/MV5BM2ZlYmM2OGUtMzkxMS00YjZlLTg4NjctZjc3OWRlYjY0YmI1XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: memories-of-murder
   tmdb_id: null
@@ -17,12 +19,14 @@
   runtime: 131
   director: Bong Joon-ho
   tags:
-    opacity: 4    # based on an unsolved case; the film ends without the resolution a thriller usually owes you
+    opacity: 4 # based on an unsolved case; the film ends without the resolution a thriller usually owes you
     stillness: 2
     bleakness: 5
     humor: 3
     acclaim: 0.92
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  imdb_id: tt0353969
+  poster_url: https://m.media-amazon.com/images/M/MV5BYmRjOWE5NmMtYTdkYS00ODFlLWJiMTMtYzE2NDZlZjlkZDQ0XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-host-2006
   tmdb_id: null
@@ -32,6 +36,8 @@
   director: Bong Joon-ho
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 4, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
+  imdb_id: tt0468492
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTQzYzI1MDAtYzVkOC00N2U1LThmNzYtNmYyNDg5MzQwYjEwXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-good-the-bad-the-weird
   tmdb_id: null
@@ -41,6 +47,8 @@
   director: Kim Jee-woon
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  imdb_id: tt0901487
+  poster_url: https://m.media-amazon.com/images/M/MV5BMDQxOGMwMTUtZTNmMi00ODJmLThiMDctYTJhMzM2YTMzMDhkXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: thirst
   tmdb_id: null
@@ -50,6 +58,8 @@
   director: Park Chan-wook
   tags: { opacity: 2, stillness: 3, bleakness: 4, humor: 2, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 2 }
+  imdb_id: tt0762073
+  poster_url: https://m.media-amazon.com/images/M/MV5BMDIxMTk2MjAtYTgzNy00NDE5LTg2MWQtYjM5ODBhODZkN2M4XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: secret-sunshine
   tmdb_id: null
@@ -59,6 +69,8 @@
   director: Lee Chang-dong
   tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 3, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0817225
+  poster_url: https://m.media-amazon.com/images/M/MV5BMjAzMDE5MDM5OV5BMl5BanBnXkFtZTgwMDE1NzE1MjE@._V1_SX300.jpg
 
 - id: the-attorney
   tmdb_id: null
@@ -68,6 +80,8 @@
   director: Yang Woo-suk
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt3404140
+  poster_url: https://m.media-amazon.com/images/M/MV5BMjI2ODg5NDcxN15BMl5BanBnXkFtZTgwMDEzNzIwMTE@._V1_SX300.jpg
 
 - id: parasite
   tmdb_id: null
@@ -77,6 +91,8 @@
   director: Bong Joon-ho
   tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 3, acclaim: 0.95 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt6751668
+  poster_url: https://m.media-amazon.com/images/M/MV5BYjk1Y2U4MjQtY2ZiNS00OWQyLWI3MmYtZWUwNmRjYWRiNWNhXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: cobweb
   tmdb_id: null
@@ -86,6 +102,8 @@
   director: Kim Jee-woon
   tags: { opacity: 2, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.66 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt9100018
+  poster_url: https://m.media-amazon.com/images/M/MV5BNDY5ZGIwZjUtMmVhZi00OTBlLTk5ZTctOTY3Y2VlMGM1ZjI0XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: broker
   tmdb_id: null
@@ -95,3 +113,5 @@
   director: Hirokazu Kore-eda
   tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 2, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt13056052
+  poster_url: https://m.media-amazon.com/images/M/MV5BZDRmYTY2ZTgtZDJlNi00OTBhLTg4MjYtNTQ0YmZjOWNlYWQzXkEyXkFqcGc@._V1_SX300.jpg

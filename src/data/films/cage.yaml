@@ -11,6 +11,8 @@
   runtime: 94
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 5, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0093822
+  poster_url: https://m.media-amazon.com/images/M/MV5BNWIzMTdmZDgtZTc2NS00MDA1LWFiMmMtYzc5YzY0YTEyZjE5XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: moonstruck
   tmdb_id: null
@@ -19,6 +21,8 @@
   runtime: 102
   tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 4, acclaim: 0.82 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  imdb_id: tt0093565
+  poster_url: https://m.media-amazon.com/images/M/MV5BZjdiMjI1MTQtMWIzNC00OTg2LWI5NjItYTBiMTYzMmIxYmNjXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: vampires-kiss
   tmdb_id: null
@@ -27,6 +31,8 @@
   runtime: 103
   tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 4, acclaim: 0.62 }
   content: { sexual_violence: true, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 2 }
+  imdb_id: tt0098577
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTM1MDAyMDYxMV5BMl5BanBnXkFtZTcwNDQwMzc3NA@@._V1_SX300.jpg
 
 - id: leaving-las-vegas
   tmdb_id: null
@@ -35,6 +41,8 @@
   runtime: 111
   tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.85 }
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 3 }
+  imdb_id: tt0113627
+  poster_url: https://m.media-amazon.com/images/M/MV5BNDg3MDM5NTI0MF5BMl5BanBnXkFtZTcwNDY0NDk0NA@@._V1_SX300.jpg
 
 - id: the-rock
   tmdb_id: null
@@ -43,6 +51,8 @@
   runtime: 136
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.70 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  imdb_id: tt0117500
+  poster_url: https://m.media-amazon.com/images/M/MV5BMDhkYjRiZWEtZTE0Ny00ZjA1LThmNjgtM2UyYTQzODA4MjdhXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: face-off
   tmdb_id: null
@@ -51,6 +61,8 @@
   runtime: 138
   tags: { opacity: 2, stillness: 1, bleakness: 3, humor: 3, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 1 }
+  imdb_id: tt0119094
+  poster_url: https://m.media-amazon.com/images/M/MV5BOGQyOWNmYTgtZWY0NS00NzhjLTg3NmMtMzcwYzQ2OTA2OTJkXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: adaptation
   tmdb_id: null
@@ -59,6 +71,8 @@
   runtime: 115
   tags: { opacity: 3, stillness: 2, bleakness: 3, humor: 4, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  imdb_id: tt0268126
+  poster_url: https://m.media-amazon.com/images/M/MV5BMmQ1MWMxZjEtNmNmYi00ZGFhLWExZDItODcwNzlmZjg0YzNlXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: bad-lieutenant-new-orleans
   tmdb_id: null
@@ -67,6 +81,8 @@
   runtime: 122
   tags: { opacity: 3, stillness: 2, bleakness: 4, humor: 4, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 2 }
+  imdb_id: tt1095217
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTcyMzY0NTMzMF5BMl5BanBnXkFtZTcwMTc1MjY4Mg@@._V1_SX300.jpg
 
 - id: joe
   tmdb_id: null
@@ -75,6 +91,8 @@
   runtime: 117
   tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: true, child_harm: true, suicide: false, violence: 3, sex: 1 }
+  imdb_id: tt2382396
+  poster_url: https://m.media-amazon.com/images/M/MV5BMjExMzk5MTM1Ml5BMl5BanBnXkFtZTgwNzAzODgxMTE@._V1_SX300.jpg
 
 - id: mandy
   tmdb_id: null
@@ -83,6 +101,8 @@
   runtime: 121
   tags: { opacity: 3, stillness: 3, bleakness: 5, humor: 3, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+  imdb_id: tt6998518
+  poster_url: https://m.media-amazon.com/images/M/MV5BZGI1NTNhNzctOTk4OC00N2RjLTkwYTgtOGMwMWFjMzM5ZjNiXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: color-out-of-space
   tmdb_id: null
@@ -91,6 +111,8 @@
   runtime: 111
   tags: { opacity: 3, stillness: 2, bleakness: 4, humor: 3, acclaim: 0.62 }
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  imdb_id: tt5073642
+  poster_url: https://m.media-amazon.com/images/M/MV5BNmNlNDMwNzUtYzJlOC00MjRkLTkyNjYtZjY3NTk1NjZlZGMxXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: pig
   tmdb_id: null
@@ -101,10 +123,12 @@
   tags:
     opacity: 1
     stillness: 4
-    bleakness: 3    # everyone expects a revenge film and it declines to be one
+    bleakness: 3 # everyone expects a revenge film and it declines to be one
     humor: 1
     acclaim: 0.80
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt11003218
+  poster_url: https://m.media-amazon.com/images/M/MV5BMDlhN2E1ODUtNzNlZi00NWE4LTlhMDAtOThjNmY1MDkwYTVkXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: dream-scenario
   tmdb_id: null
@@ -113,3 +137,5 @@
   runtime: 100
   tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 4, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  imdb_id: tt21942866
+  poster_url: https://m.media-amazon.com/images/M/MV5BZTVhZjNhMzktOGQ2YS00OGVkLWExNGEtMjBlYWI3MjVmYmM1XkEyXkFqcGc@._V1_SX300.jpg

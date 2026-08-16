@@ -9,12 +9,14 @@
   runtime: 119
   director: Orson Welles
   tags:
-    opacity: 2    # a fragmented flashback structure built entirely around one unexplained dying word
+    opacity: 2 # a fragmented flashback structure built entirely around one unexplained dying word
     stillness: 2
     bleakness: 4
     humor: 1
     acclaim: 0.98
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0033467
+  poster_url: https://m.media-amazon.com/images/M/MV5BYjk1ZDJlMmUtOWQ0Zi00MDM5LTk1OGYtODczNjFmMGYwZGVkXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-magnificent-ambersons
   tmdb_id: null
@@ -24,6 +26,8 @@
   director: Orson Welles
   tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0035015
+  poster_url: https://m.media-amazon.com/images/M/MV5BYTk5OTYxNTEtYTU5MS00NTBkLThhZWEtYTBiYzlkOTFhY2MzXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-lady-from-shanghai
   tmdb_id: null
@@ -32,12 +36,14 @@
   runtime: 87
   director: Orson Welles
   tags:
-    opacity: 3    # a plot so knotted its own director admitted losing track of one murder
+    opacity: 3 # a plot so knotted its own director admitted losing track of one murder
     stillness: 2
     bleakness: 4
     humor: 1
     acclaim: 0.80
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0040525
+  poster_url: https://m.media-amazon.com/images/M/MV5BMDBmYzI4MDUtN2FjZC00YmM0LWE4YmEtNTZkY2ZkZmUzZDU0XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: macbeth-1948
   tmdb_id: null
@@ -47,6 +53,8 @@
   director: Orson Welles
   tags: { opacity: 2, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0040558
+  poster_url: https://m.media-amazon.com/images/M/MV5BYzY5MTk2NDAtZGIyYi00NWY5LTg5MDEtMWY0N2VkNTE5OWFjXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: othello-1951
   tmdb_id: null
@@ -56,6 +64,8 @@
   director: Orson Welles
   tags: { opacity: 2, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.80 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 0 }
+  imdb_id: tt0045251
+  poster_url: https://m.media-amazon.com/images/M/MV5BOWM4MjQ3MGEtMGNmYS00NjJhLWFhMTUtOTg4N2Y3N2FjZjE5XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: mr-arkadin
   tmdb_id: null
@@ -64,7 +74,7 @@
   runtime: 99
   director: Orson Welles
   tags:
-    opacity: 3    # a man investigates his own employer's hidden past, buried nearly as deep as its subject
+    opacity: 3 # a man investigates his own employer's hidden past, buried nearly as deep as its subject
     stillness: 2
     bleakness: 3
     humor: 1
@@ -79,6 +89,8 @@
   director: Orson Welles
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.90 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0052311
+  poster_url: https://m.media-amazon.com/images/M/MV5BYzBkNTQzODUtNzcxMy00ZGNhLThmOWMtMTcyYzY4ZTU2NDM3XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-trial
   tmdb_id: null
@@ -87,12 +99,14 @@
   runtime: 119
   director: Orson Welles
   tags:
-    opacity: 3    # Kafka's nightmare logic, staged as pure bureaucratic labyrinth
+    opacity: 3 # Kafka's nightmare logic, staged as pure bureaucratic labyrinth
     stillness: 2
-    bleakness: 5    # arrested, tried and executed for a crime the film never names
+    bleakness: 5 # arrested, tried and executed for a crime the film never names
     humor: 2
     acclaim: 0.78
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0057427
+  poster_url: https://m.media-amazon.com/images/M/MV5BNmJmNDM5ZmYtODIwNS00YjM4LTlkYzktZTFjNTg3ODg0NDcwXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: chimes-at-midnight
   tmdb_id: null
@@ -102,6 +116,8 @@
   director: Orson Welles
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 3, acclaim: 0.90 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0059012
+  poster_url: https://m.media-amazon.com/images/M/MV5BNzUyNTUyMTktM2U3Ny00NjE5LTk3NDktOTllNDRlNzMxYTIyXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: f-for-fake
   tmdb_id: null
@@ -111,6 +127,8 @@
   director: Orson Welles
   tags: { opacity: 2, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0072962
+  poster_url: https://m.media-amazon.com/images/M/MV5BOGJjZjU1NWEtOWM2Zi00NjgxLTliYTUtYmJmNmI2ZThiZmMyXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-other-side-of-the-wind
   tmdb_id: null
@@ -119,9 +137,11 @@
   runtime: 122
   director: Orson Welles
   tags:
-    opacity: 3    # a film-within-a-film, assembled decades later from his own unfinished footage
+    opacity: 3 # a film-within-a-film, assembled decades later from his own unfinished footage
     stillness: 2
     bleakness: 3
     humor: 2
     acclaim: 0.68
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+  imdb_id: tt0069049
+  poster_url: https://m.media-amazon.com/images/M/MV5BNDg5NTQ0NDU1Nl5BMl5BanBnXkFtZTgwMTExNzIyNjM@._V1_SX300.jpg

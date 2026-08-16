@@ -8,6 +8,8 @@
   director: Elia Kazan
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.92 }
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  imdb_id: tt0044081
+  poster_url: https://m.media-amazon.com/images/M/MV5BNTdmZDY1ODQtNzFjYy00MGM4LWJmNDItN2MxMmQ2OTgxZGNmXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: viva-zapata
   tmdb_id: null
@@ -17,6 +19,8 @@
   director: Elia Kazan
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0045296
+  poster_url: https://m.media-amazon.com/images/M/MV5BMDkxM2NkNDMtMTk5OS00N2UzLWJiZWUtZmRjZDJjMGMzZWU3XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-wild-one
   tmdb_id: null
@@ -26,6 +30,8 @@
   director: László Benedek
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.65 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0047677
+  poster_url: https://m.media-amazon.com/images/M/MV5BNWM3NmRkM2UtMmYyOC00NzM0LTgyNTYtZmU0YmM4NDVlNWEwXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: on-the-waterfront
   tmdb_id: null
@@ -35,6 +41,8 @@
   director: Elia Kazan
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 2, acclaim: 0.93 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0047296
+  poster_url: https://m.media-amazon.com/images/M/MV5BZDJlYTM1ZGYtZTM4YS00MzFhLThiZjktYzQ0ZjAzMGYwZTU3XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: guys-and-dolls
   tmdb_id: null
@@ -45,10 +53,12 @@
   tags:
     opacity: 1
     stillness: 1
-    bleakness: 1    # a rubric anchor for 1 — a musical, and he sings
+    bleakness: 1 # a rubric anchor for 1 — a musical, and he sings
     humor: 4
     acclaim: 0.68
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0048140
+  poster_url: https://m.media-amazon.com/images/M/MV5BZTkzNWE2Y2ItMmIxZC00MTA3LWJmOTItMjQ2OTMzZWYwMWI0XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: julius-caesar-1953
   tmdb_id: null
@@ -58,6 +68,8 @@
   director: Joseph L. Mankiewicz
   tags: { opacity: 2, stillness: 4, bleakness: 3, humor: 1, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 0 }
+  imdb_id: tt0045943
+  poster_url: https://m.media-amazon.com/images/M/MV5BNTkyMTI0NTEtNmEzMi00ZWM5LTk4MjEtN2NkMjk5MWI5MmNjXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-godfather
   tmdb_id: null
@@ -67,6 +79,8 @@
   director: Francis Ford Coppola
   tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 2, acclaim: 0.97 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  imdb_id: tt0068646
+  poster_url: https://m.media-amazon.com/images/M/MV5BNGEwYjgwOGQtYjg5ZS00Njc1LTk2ZGEtM2QwZWQ2NjdhZTE5XkEyXkFqcGc@._V1_QL75_UY562_CR8,0,380,562_.jpg
 
 - id: last-tango-in-paris
   tmdb_id: null
@@ -76,6 +90,8 @@
   director: Bernardo Bertolucci
   tags: { opacity: 2, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.75 }
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 3 }
+  imdb_id: tt0070849
+  poster_url: https://m.media-amazon.com/images/M/MV5BYjkwYjdhM2ItZmVkMi00M2Y2LWJmNjEtN2Y2ZGU3MjdmZjE0XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: apocalypse-now
   tmdb_id: null
@@ -85,6 +101,8 @@
   director: Francis Ford Coppola
   tags: { opacity: 4, stillness: 4, bleakness: 5, humor: 1, acclaim: 0.90 }
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  imdb_id: tt0078788
+  poster_url: https://m.media-amazon.com/images/M/MV5BZDhiMTljYjYtODc1Yy00MmEwLTg2OTYtYmE1YTRmNDE4MmEwXkEyXkFqcGc@._V1_QL75_UX380_CR0,11,380,562_.jpg
 
 - id: superman-1978
   tmdb_id: null
@@ -94,3 +112,5 @@
   director: Richard Donner
   tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 2, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0078346
+  poster_url: https://m.media-amazon.com/images/M/MV5BMzFlZDJjMDAtZDYxZS00NzZhLTk2ODMtZWRlODA3Njk3ZTdmXkEyXkFqcGc@._V1_SX300.jpg

@@ -9,6 +9,8 @@
     "build": "node build.js",
     "validate": "node tools/validate.mjs",
     "ingest": "node tools/ingest.mjs",
+    "ingest:omdb": "node tools/ingest-omdb.mjs",
+    "ingest:letterboxd": "node tools/ingest-letterboxd.mjs",
     "preview": "node tools/preview.mjs"
   },
   "devDependencies": {

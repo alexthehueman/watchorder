@@ -10,6 +10,8 @@
   runtime: 101
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.82 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0089374
+  poster_url: https://m.media-amazon.com/images/M/MV5BZTMxMWUxNjctOGNiOC00MzRkLWI1NjktZWUzOGJiZTM2ZDg1XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: irma-vep
   tmdb_id: null
@@ -18,6 +20,8 @@
   runtime: 99
   tags: { opacity: 2, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0116650
+  poster_url: https://m.media-amazon.com/images/M/MV5BZDBmYTNiMzktOTg0Mi00NTAyLThlMTItYTk5YWEyNzg3Mjc3XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: hero
   tmdb_id: null
@@ -25,12 +29,14 @@
   year: 2002
   runtime: 99
   tags:
-    opacity: 2    # the same assassination plot retold three contradictory ways
+    opacity: 2 # the same assassination plot retold three contradictory ways
     stillness: 3
     bleakness: 3
     humor: 1
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0299977
+  poster_url: https://m.media-amazon.com/images/M/MV5BYTlkZWVjYzQtZmI1My00MGM2LTlmZjEtNjU1M2Y1MTRkNmZjXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: clean
   tmdb_id: null
@@ -39,3 +45,5 @@
   runtime: 110
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0388838
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTI2OTY4ODgwN15BMl5BanBnXkFtZTcwMDgxODgzMQ@@._V1_SX300.jpg

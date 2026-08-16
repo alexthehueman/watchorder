@@ -8,6 +8,8 @@
   director: Robert Benton
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 2, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0079417
+  poster_url: https://m.media-amazon.com/images/M/MV5BNTJmYjYwZDMtYmU5MS00OWM0LWIxZTctZTcxODJkOTU4ZDMxXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: sophies-choice
   tmdb_id: null
@@ -17,6 +19,8 @@
   director: Alan J. Pakula
   tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.92 }
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: true, violence: 1, sex: 1 }
+  imdb_id: tt0084707
+  poster_url: https://m.media-amazon.com/images/M/MV5BZDZiZGY3OWYtY2E3My00ZTY0LTk4NTEtYjMzMWZkNGJiMjNiXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: out-of-africa
   tmdb_id: null
@@ -26,6 +30,8 @@
   director: Sydney Pollack
   tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 2, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  imdb_id: tt0089755
+  poster_url: https://m.media-amazon.com/images/M/MV5BOWQ5MGI3NWYtMmVjNS00OWIzLWEzMGQtMGZhMzY3NjI2YjhiXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: a-cry-in-the-dark
   tmdb_id: null
@@ -35,6 +41,8 @@
   director: Fred Schepisi
   tags: { opacity: 2, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: true, child_harm: true, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0094924
+  poster_url: https://m.media-amazon.com/images/M/MV5BZjk4OTM2NDQtODY2OS00MjczLWI3NTktNTgzNjE0ZDc3ZWFiXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-bridges-of-madison-county
   tmdb_id: null
@@ -44,6 +52,8 @@
   director: Clint Eastwood
   tags: { opacity: 1, stillness: 4, bleakness: 3, humor: 2, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  imdb_id: tt0112579
+  poster_url: https://m.media-amazon.com/images/M/MV5BODBlMjVmOGYtZjY0Mi00MDgzLWE3MDYtNDk5ZmE1OGNkMGZjXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-devil-wears-prada
   tmdb_id: null
@@ -53,6 +63,8 @@
   director: David Frankel
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0458352
+  poster_url: https://m.media-amazon.com/images/M/MV5BOWM3NTI3YWEtYjJmMy00M2U5LWI1NzEtZWM3ZDY2ZWNjOGRiXkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg
 
 - id: doubt
   tmdb_id: null
@@ -61,12 +73,14 @@
   runtime: 104
   director: John Patrick Shanley
   tags:
-    opacity: 4    # the film ends without ever confirming what actually happened
+    opacity: 4 # the film ends without ever confirming what actually happened
     stillness: 3
     bleakness: 4
     humor: 1
     acclaim: 0.82
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0918927
+  poster_url: https://m.media-amazon.com/images/M/MV5BZWZmNDMyY2UtOWIwMC00MjE5LTkwNmUtYjRiMThkNjI0OGEwXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: julie-and-julia
   tmdb_id: null
@@ -76,6 +90,8 @@
   director: Nora Ephron
   tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 4, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt1135503
+  poster_url: https://m.media-amazon.com/images/M/MV5BMzA4NjA2NjI2NV5BMl5BanBnXkFtZTcwOTEzNzI2Mg@@._V1_SX300.jpg
 
 - id: mamma-mia
   tmdb_id: null
@@ -87,9 +103,11 @@
     opacity: 1
     stillness: 1
     bleakness: 1
-    humor: 5    # a rubric anchor for 5 — a jukebox musical, and she sings and dances through it
+    humor: 5 # a rubric anchor for 5 — a jukebox musical, and she sings and dances through it
     acclaim: 0.60
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0795421
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTA2MDU0MjM0MzReQTJeQWpwZ15BbWU3MDYwNzgwNzE@._V1_SX300.jpg
 
 - id: august-osage-county
   tmdb_id: null
@@ -99,3 +117,5 @@
   director: John Wells
   tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 3, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
+  imdb_id: tt1322269
+  poster_url: https://m.media-amazon.com/images/M/MV5BNzQ5ODE4NTcxNV5BMl5BanBnXkFtZTgwNjkyNDQ0MDE@._V1_SX300.jpg

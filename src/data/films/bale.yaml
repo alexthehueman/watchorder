@@ -6,12 +6,14 @@
   year: 2000
   runtime: 101
   tags:
-    opacity: 2    # never confirms how much of the murders actually happened
+    opacity: 2 # never confirms how much of the murders actually happened
     stillness: 2
     bleakness: 5
     humor: 3
     acclaim: 0.85
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 2 }
+  imdb_id: tt0144084
+  poster_url: https://m.media-amazon.com/images/M/MV5BNzBjM2I5ZjUtNmIzNy00OGNkLWIwZDMtOTAwYWUwMzA2YjdlXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-machinist
   tmdb_id: null
@@ -20,6 +22,8 @@
   runtime: 102
   tags: { opacity: 2, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0361862
+  poster_url: https://m.media-amazon.com/images/M/MV5BY2I1MmUxYmMtZjk3OC00N2MwLWI2YjAtNGQxODA1Y2I3YTI4XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: batman-begins
   tmdb_id: null
@@ -28,6 +32,8 @@
   runtime: 140
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0372784
+  poster_url: https://m.media-amazon.com/images/M/MV5BMzA2NDQzZDEtNDU5Ni00YTlkLTg2OWEtYmQwM2Y1YTBjMjFjXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg
 
 - id: the-prestige
   tmdb_id: null
@@ -35,12 +41,14 @@
   year: 2006
   runtime: 130
   tags:
-    opacity: 3    # structured specifically to mislead on a first viewing
+    opacity: 3 # structured specifically to mislead on a first viewing
     stillness: 2
     bleakness: 4
     humor: 1
     acclaim: 0.88
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0482571
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTM3MzQ5MjQ5OF5BMl5BanBnXkFtZTcwMTQ3NzMzMw@@._V1_QL75_UY562_CR0,0,380,562_.jpg
 
 - id: 3-10-to-yuma
   tmdb_id: null
@@ -49,6 +57,8 @@
   runtime: 122
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.80 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0381849
+  poster_url: https://m.media-amazon.com/images/M/MV5BODE0NTcxNTQzNF5BMl5BanBnXkFtZTcwMzczOTIzMw@@._V1_SX300.jpg
 
 - id: the-dark-knight
   tmdb_id: null
@@ -57,6 +67,8 @@
   runtime: 152
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 2, acclaim: 0.94 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0468569
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_QL75_UX380_CR0,0,380,562_.jpg
 
 - id: the-fighter
   tmdb_id: null
@@ -65,6 +77,8 @@
   runtime: 116
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.82 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0964517
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTM0ODk3MjM1MV5BMl5BanBnXkFtZTcwNzc1MDIwNA@@._V1_SX300.jpg
 
 - id: american-hustle
   tmdb_id: null
@@ -73,6 +87,8 @@
   runtime: 138
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt1800241
+  poster_url: https://m.media-amazon.com/images/M/MV5BMGQ2NzEwZGEtYjk1MC00NWFmLTgyYTgtZmRhMTRmOTBlN2U5XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-big-short
   tmdb_id: null
@@ -81,6 +97,8 @@
   runtime: 130
   tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 3, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt1596363
+  poster_url: https://m.media-amazon.com/images/M/MV5BZDZkNDQ3YjktYjBlZC00YTY1LTgxOGYtY2RhMWFhZmNkZGY3XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: vice
   tmdb_id: null
@@ -89,3 +107,5 @@
   runtime: 132
   tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 3, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt6266538
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTY1NjM0MzgxMV5BMl5BanBnXkFtZTgwNDc4NTY0NjM@._V1_SX300.jpg

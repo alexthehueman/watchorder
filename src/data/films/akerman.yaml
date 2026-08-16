@@ -18,12 +18,14 @@
   year: 1975
   runtime: 201
   tags:
-    opacity: 2    # a rubric anchor for stillness, but almost nothing is unexplained
+    opacity: 2 # a rubric anchor for stillness, but almost nothing is unexplained
     stillness: 5
     bleakness: 5
     humor: 1
     acclaim: 0.95
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 2 }
+  imdb_id: tt0073198
+  poster_url: https://m.media-amazon.com/images/M/MV5BMDNlYWVhYjctNTIzNi00NGJhLWFmNzYtZTVmOWUxNmYwM2IyXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: news-from-home
   tmdb_id: null
@@ -32,6 +34,8 @@
   runtime: 88
   tags: { opacity: 4, stillness: 5, bleakness: 3, humor: 1, acclaim: 0.82 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0076452
+  poster_url: https://m.media-amazon.com/images/M/MV5BYmE2MzM4OTYtZDVkZS00NmRjLWExY2UtMjcxYjg4ZmI2MDc5XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: les-rendez-vous-danna
   tmdb_id: null
@@ -58,9 +62,11 @@
     opacity: 1
     stillness: 2
     bleakness: 2
-    humor: 4    # a shopping-mall musical, sincerely made, by the Jeanne Dielman director
+    humor: 4 # a shopping-mall musical, sincerely made, by the Jeanne Dielman director
     acclaim: 0.65
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  imdb_id: tt0092219
+  poster_url: https://m.media-amazon.com/images/M/MV5BNzdhN2U3MjAtZDIzNi00NjlhLWI3MGQtZDM4MmRkMTg0MGFhXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: night-and-day
   tmdb_id: null
@@ -69,6 +75,8 @@
   runtime: 90
   tags: { opacity: 2, stillness: 4, bleakness: 2, humor: 3, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+  imdb_id: tt0102566
+  poster_url: https://m.media-amazon.com/images/M/MV5BNDcwOTU5OWMtODU4Yy00ZDlkLTg1Y2UtYzNiZmY4ZGY1ZGE3XkEyXkFqcGdeQXVyMjQzMzQzODY@._V1_SX300.jpg
 
 - id: dest
   tmdb_id: null
@@ -76,7 +84,7 @@
   year: 1993
   runtime: 107
   tags:
-    opacity: 5    # no commentary, no narrative, no names; faces and roads for an hour and a half
+    opacity: 5 # no commentary, no narrative, no names; faces and roads for an hour and a half
     stillness: 5
     bleakness: 3
     humor: 1
@@ -90,6 +98,8 @@
   runtime: 108
   tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 4, acclaim: 0.45 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  imdb_id: tt0118018
+  poster_url: https://m.media-amazon.com/images/M/MV5BOGUzODAyNjEtOGI3OC00ZGUwLThhNTAtZWMxZTM0MjU5NWI4XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: la-captive
   tmdb_id: null
@@ -106,3 +116,5 @@
   runtime: 115
   tags: { opacity: 3, stillness: 5, bleakness: 5, humor: 1, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
+  imdb_id: tt4881016
+  poster_url: https://m.media-amazon.com/images/M/MV5BMjA4Mjk5ODI2NV5BMl5BanBnXkFtZTgwOTg5ODA1ODE@._V1_SX300.jpg

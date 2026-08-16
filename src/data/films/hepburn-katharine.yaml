@@ -13,6 +13,8 @@
   director: George Cukor
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0024264
+  poster_url: https://m.media-amazon.com/images/M/MV5BMDA5NWY5NzMtZDE2YS00YjdiLWIzYTktYjljOGY2Yzg3OTRmXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: stage-door
   tmdb_id: null
@@ -22,6 +24,8 @@
   director: Gregory La Cava
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0029604
+  poster_url: https://m.media-amazon.com/images/M/MV5BNzQwNTQxOTY3OF5BMl5BanBnXkFtZTgwMTg0MDgyMTE@._V1_SX300.jpg
 
 - id: bringing-up-baby
   tmdb_id: null
@@ -31,6 +35,8 @@
   director: Howard Hawks
   tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 4, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0029947
+  poster_url: https://m.media-amazon.com/images/M/MV5BNDA5M2NlYjAtYzQ3OC00ZWM0LWJjYWYtMTU5N2NhNGY3ZmZmXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-philadelphia-story
   tmdb_id: null
@@ -40,6 +46,8 @@
   director: George Cukor
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.88 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0032904
+  poster_url: https://m.media-amazon.com/images/M/MV5BYmMwZTQ5OGUtMjQ4Ni00ZTIwLTk1ZWMtNzhlMGQxYjIxMTU1XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: woman-of-the-year
   tmdb_id: null
@@ -49,6 +57,8 @@
   director: George Stevens
   tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 4, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0035567
+  poster_url: https://m.media-amazon.com/images/M/MV5BMzY5MDdlZjUtMWZjYS00NzY4LWJjZTEtNjMxOTgxYTYyZjY0XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: adams-rib
   tmdb_id: null
@@ -58,6 +68,8 @@
   director: George Cukor
   tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 4, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0041090
+  poster_url: https://m.media-amazon.com/images/M/MV5BYzAzODQxNTItNDUwOS00MWIwLWE5NjMtZTI2MDU4ZTFlNzg4XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-african-queen
   tmdb_id: null
@@ -67,6 +79,8 @@
   director: John Huston
   tags: { opacity: 3, stillness: 3, bleakness: 4, humor: 3, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0043265
+  poster_url: https://m.media-amazon.com/images/M/MV5BY2Y0OWQ4Y2QtNGE5NC00MDk4LWFlYmQtYWVmNzZlZWVhMTg4XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: summertime
   tmdb_id: null
@@ -76,6 +90,8 @@
   director: David Lean
   tags: { opacity: 2, stillness: 3, bleakness: 3, humor: 2, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  imdb_id: tt0048673
+  poster_url: https://m.media-amazon.com/images/M/MV5BNjJiM2QwNmQtMjNlYy00Zjc2LTljNTctZWNjZDgyZTdlMjljXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: long-days-journey-into-night
   tmdb_id: null
@@ -85,11 +101,13 @@
   director: Sidney Lumet
   tags:
     opacity: 1
-    stillness: 3    # one house, one day, and the whole family's grief said out loud
+    stillness: 3 # one house, one day, and the whole family's grief said out loud
     bleakness: 3
     humor: 2
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0056196
+  poster_url: https://m.media-amazon.com/images/M/MV5BNjhiNDAyMjctNzhkZS00NTZhLTkyMzMtZmY2OGEyMDllYTkwXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: guess-whos-coming-to-dinner
   tmdb_id: null
@@ -99,6 +117,8 @@
   director: Stanley Kramer
   tags: { opacity: 2, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0061735
+  poster_url: https://m.media-amazon.com/images/M/MV5BNmMwNjRiYTUtNjM5Yy00ZDk2LWJiZjEtYjRjMzVmYmM1OGQ5XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-lion-in-winter
   tmdb_id: null
@@ -108,6 +128,8 @@
   director: Anthony Harvey
   tags: { opacity: 3, stillness: 3, bleakness: 4, humor: 3, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0063227
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTkzNzYyMzA5N15BMl5BanBnXkFtZTgwODcwODQ3MDI@._V1_SX300.jpg
 
 - id: suddenly-last-summer
   tmdb_id: null
@@ -122,6 +144,8 @@
     humor: 2
     acclaim: 0.78
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+  imdb_id: tt0053318
+  poster_url: https://m.media-amazon.com/images/M/MV5BOWQ5MDE3YmYtMDg4Yy00MDdjLTllY2ItMDYyNDE1MTI3ZjQ1XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: on-golden-pond
   tmdb_id: null
@@ -131,3 +155,5 @@
   director: Mark Rydell
   tags: { opacity: 2, stillness: 3, bleakness: 3, humor: 2, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0082846
+  poster_url: https://m.media-amazon.com/images/M/MV5BZmI3OGQ0YjQtZjNkYi00NmEzLWE5NjMtMTdkYjA4YTdiYzBiXkEyXkFqcGc@._V1_SX300.jpg

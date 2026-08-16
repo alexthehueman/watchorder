@@ -11,6 +11,8 @@
   director: Bong Joon-ho
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0269743
+  poster_url: https://m.media-amazon.com/images/M/MV5BMmFlNDk2MGYtNjJmNS00ZDA2LWI3M2EtMzA1MzI5NDU2NTFiXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: mother
   tmdb_id: null
@@ -19,12 +21,14 @@
   runtime: 129
   director: Bong Joon-ho
   tags:
-    opacity: 2    # an investigation the mother is also, unreliably, narrating
+    opacity: 2 # an investigation the mother is also, unreliably, narrating
     stillness: 2
-    bleakness: 5    # ends in a cover-up she has to live inside for the rest of her life
+    bleakness: 5 # ends in a cover-up she has to live inside for the rest of her life
     humor: 2
     acclaim: 0.88
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt1216496
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTQzMTg0NDA1M15BMl5BanBnXkFtZTgwODUzMTE0MjE@._V1_SX300.jpg
 
 - id: okja
   tmdb_id: null
@@ -34,6 +38,8 @@
   director: Bong Joon-ho
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt3967856
+  poster_url: https://m.media-amazon.com/images/M/MV5BMjQxMTcxNDgxN15BMl5BanBnXkFtZTgwOTczNTIzMjI@._V1_SX300.jpg
 
 - id: mickey-17
   tmdb_id: null
@@ -43,3 +49,5 @@
   director: Bong Joon-ho
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt12299608
+  poster_url: https://m.media-amazon.com/images/M/MV5BZGQwYmEzMzktYzBmMy00NmVmLTkyYTUtOTYyZjliZDNhZGVkXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg

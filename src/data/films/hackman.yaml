@@ -8,6 +8,8 @@
   director: Arthur Penn
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 3, acclaim: 0.88 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  imdb_id: tt0061418
+  poster_url: https://m.media-amazon.com/images/M/MV5BYWI3ZmM1NmEtMDk4Yi00MzYzLTk0MDctYWJlZjY4MGViNDFiXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-french-connection
   tmdb_id: null
@@ -17,6 +19,8 @@
   director: William Friedkin
   tags: { opacity: 1, stillness: 1, bleakness: 4, humor: 1, acclaim: 0.90 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  imdb_id: tt0067116
+  poster_url: https://m.media-amazon.com/images/M/MV5BZDAyZDU3OWUtNWQ3Zi00ZWRkLWI4MGEtNDFlZWIzZDk5ZTZkXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-poseidon-adventure
   tmdb_id: null
@@ -26,6 +30,8 @@
   director: Ronald Neame
   tags: { opacity: 1, stillness: 1, bleakness: 4, humor: 1, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0069113
+  poster_url: https://m.media-amazon.com/images/M/MV5BNmMyNWRlMDgtMjg4ZS00ZTg3LTkxOWItMjVhMjEyZWJjOGYxXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-conversation
   tmdb_id: null
@@ -35,6 +41,8 @@
   director: Francis Ford Coppola
   tags: { opacity: 3, stillness: 4, bleakness: 5, humor: 1, acclaim: 0.90 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0071360
+  poster_url: https://m.media-amazon.com/images/M/MV5BOTY4OTVmMzgtNTBkYi00NjI1LWIzOWItNGIwNTM1ZTEzMzc5XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: superman-hackman
   tmdb_id: null
@@ -44,6 +52,8 @@
   director: Richard Donner
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 5, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0078346
+  poster_url: https://m.media-amazon.com/images/M/MV5BMzFlZDJjMDAtZDYxZS00NzZhLTk2ODMtZWRlODA3Njk3ZTdmXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: hoosiers
   tmdb_id: null
@@ -53,6 +63,8 @@
   director: David Anspaugh
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0091217
+  poster_url: https://m.media-amazon.com/images/M/MV5BOGFlMjJkNzYtMTMwYS00OWE0LWFkNzYtMGMzODIzOWM0ZDM2XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: mississippi-burning
   tmdb_id: null
@@ -62,6 +74,8 @@
   director: Alan Parker
   tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  imdb_id: tt0095647
+  poster_url: https://m.media-amazon.com/images/M/MV5BZDgwNTljYmMtYmQyNi00MmEwLTk0NzMtZDJmZDIzZmQ4MzQ2XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: unforgiven
   tmdb_id: null
@@ -70,12 +84,14 @@
   runtime: 130
   director: Clint Eastwood
   tags:
-    opacity: 2    # deliberately unsettles which version of his own legend the film is willing to believe
+    opacity: 2 # deliberately unsettles which version of his own legend the film is willing to believe
     stillness: 3
     bleakness: 5
     humor: 2
     acclaim: 0.93
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  imdb_id: tt0105695
+  poster_url: https://m.media-amazon.com/images/M/MV5BNmZmMzM3YWMtZjg5Yi00M2MxLTg3ZGItNGU4YjQxNDAxM2Q4XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: crimson-tide
   tmdb_id: null
@@ -85,6 +101,8 @@
   director: Tony Scott
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0112740
+  poster_url: https://m.media-amazon.com/images/M/MV5BNTNhZDk2NmQtNDc3ZC00Nzk3LWFmNTctYTc0OWMyNGM0ZWYyXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-royal-tenenbaums
   tmdb_id: null
@@ -94,3 +112,5 @@
   director: Wes Anderson
   tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 4, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
+  imdb_id: tt0265666
+  poster_url: https://m.media-amazon.com/images/M/MV5BZTc1MzFlMjEtMzkyNC00NDgyLThjMjMtMzQzZGI5YjUyNzU5XkEyXkFqcGc@._V1_QL75_UX380_CR0,25,380,562_.jpg

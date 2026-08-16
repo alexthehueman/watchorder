@@ -12,6 +12,8 @@
   runtime: 88
   tags: { opacity: 3, stillness: 5, bleakness: 4, humor: 2, acclaim: 0.60 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  imdb_id: tt0064588
+  poster_url: https://m.media-amazon.com/images/M/MV5BODc2YzRkZjYtYmYxZC00MmY3LTg2ZTEtZDc5MWQ4ZWNiMGIxXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: petra-von-kant
   tmdb_id: null
@@ -20,6 +22,8 @@
   runtime: 124
   tags: { opacity: 2, stillness: 5, bleakness: 5, humor: 2, acclaim: 0.82 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  imdb_id: tt0068278
+  poster_url: https://m.media-amazon.com/images/M/MV5BYjc4YTdjZGEtZDJkMS00OGY5LThjNzUtMGY1Y2QzOTdkMTRlXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: ali-fear-eats-the-soul
   tmdb_id: null
@@ -27,12 +31,14 @@
   year: 1974
   runtime: 93
   tags:
-    opacity: 1    # the most direct film he made, and the reason it is the way in
+    opacity: 1 # the most direct film he made, and the reason it is the way in
     stillness: 3
     bleakness: 4
     humor: 2
     acclaim: 0.92
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  imdb_id: tt0071141
+  poster_url: https://m.media-amazon.com/images/M/MV5BYzRmNmRjNTktZGRjNC00YzkxLTgxNjEtYzY3MTI5MjgwY2ZiXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: effi-briest
   tmdb_id: null
@@ -41,6 +47,8 @@
   runtime: 141
   tags: { opacity: 3, stillness: 5, bleakness: 4, humor: 1, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0071458
+  poster_url: https://m.media-amazon.com/images/M/MV5BZjBjMzYxZjAtYjI1YS00YjkxLTlhNGMtM2ZiMTkyODIyNDQ3XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: fox-and-his-friends
   tmdb_id: null
@@ -49,6 +57,8 @@
   runtime: 123
   tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 2, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 2 }
+  imdb_id: tt0072976
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTE0ZDYxZjItNmI0Mi00YjA4LTk2NDctZWM1MjY3Y2UxY2FiXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: mother-kusters
   tmdb_id: null
@@ -65,6 +75,8 @@
   runtime: 86
   tags: { opacity: 3, stillness: 4, bleakness: 4, humor: 3, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  imdb_id: tt0074312
+  poster_url: https://m.media-amazon.com/images/M/MV5BMDEzYTAxMzctZjdmOS00MmE2LTk5YjMtZjE1NzMzMTlhNTM5XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: in-a-year-of-13-moons
   tmdb_id: null
@@ -74,7 +86,7 @@
   tags: { opacity: 3, stillness: 4, bleakness: 5, humor: 1, acclaim: 0.80 }
   content:
     sexual_violence: false
-    animal_harm: true    # extended slaughterhouse footage, unsimulated
+    animal_harm: true # extended slaughterhouse footage, unsimulated
     child_harm: false
     suicide: true
     violence: 2
@@ -87,6 +99,8 @@
   runtime: 119
   tags: { opacity: 4, stillness: 3, bleakness: 4, humor: 3, acclaim: 0.65 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  imdb_id: tt0077421
+  poster_url: https://m.media-amazon.com/images/M/MV5BYzlmNzI0YWItYmRhNy00MmE4LTk0MjctMzViZmZjMGMyNTRkXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-marriage-of-maria-braun
   tmdb_id: null
@@ -95,6 +109,8 @@
   runtime: 120
   tags: { opacity: 2, stillness: 3, bleakness: 4, humor: 3, acclaim: 0.90 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 2 }
+  imdb_id: tt0079095
+  poster_url: https://m.media-amazon.com/images/M/MV5BOGE3OTIyNzAtMDk3Yy00MTlhLTk0MDUtZjljMWE0ZGU3MjIzXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: berlin-alexanderplatz
   tmdb_id: null
@@ -105,6 +121,8 @@
   runtime: 931
   tags: { opacity: 3, stillness: 4, bleakness: 5, humor: 2, acclaim: 0.90 }
   content: { sexual_violence: true, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 2 }
+  imdb_id: tt0080196
+  poster_url: https://m.media-amazon.com/images/M/MV5BYzM1N2I3MDUtYmM3Ny00OTVkLTkxOTQtYzFiMWFlNDQyMmE4XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: lola-1981
   tmdb_id: null
@@ -113,6 +131,8 @@
   runtime: 115
   tags: { opacity: 2, stillness: 3, bleakness: 3, humor: 3, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 2 }
+  imdb_id: tt0082671
+  poster_url: https://m.media-amazon.com/images/M/MV5BYjE0MzMxMmMtMjJjNS00NDUxLTliMmQtMDRiYTE1Y2RjYzg0XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: veronika-voss
   tmdb_id: null
@@ -121,6 +141,8 @@
   runtime: 104
   tags: { opacity: 2, stillness: 4, bleakness: 5, humor: 2, acclaim: 0.80 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 1 }
+  imdb_id: tt0084654
+  poster_url: https://m.media-amazon.com/images/M/MV5BNmFkOWJmMzktZDcwNy00NjBkLWI0MDgtYTRjMTc1MTllYTQ1XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: querelle
   tmdb_id: null
@@ -129,3 +151,5 @@
   runtime: 108
   tags: { opacity: 4, stillness: 4, bleakness: 4, humor: 2, acclaim: 0.62 }
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 3 }
+  imdb_id: tt0084565
+  poster_url: https://m.media-amazon.com/images/M/MV5BN2Y5N2RjNzUtNTRlZC00NWQzLWFjN2EtM2VmMzMxMjZlNmU0XkEyXkFqcGc@._V1_SX300.jpg

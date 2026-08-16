@@ -10,6 +10,8 @@
   director: Sidney Lumet
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0070666
+  poster_url: https://m.media-amazon.com/images/M/MV5BYTg3NzUzYzYtMmQxOS00MjAwLWI0ZDYtNDg4OTQ4OTljNGFlXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: dog-day-afternoon
   tmdb_id: null
@@ -19,6 +21,8 @@
   director: Sidney Lumet
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.88 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0072890
+  poster_url: https://m.media-amazon.com/images/M/MV5BY2RjNTg2ODMtZWQ4NC00MDdhLWE4MDgtMWFjMjI4ZTIxMGY4XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: scarface
   tmdb_id: null
@@ -28,6 +32,8 @@
   director: Brian De Palma
   tags: { opacity: 1, stillness: 1, bleakness: 5, humor: 2, acclaim: 0.82 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+  imdb_id: tt0086250
+  poster_url: https://m.media-amazon.com/images/M/MV5BNDUzYjY0NmUtMDM4OS00Y2Q5LWJiODYtNTk0ZTk0YjZhMTg1XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg
 
 - id: the-devils-advocate
   tmdb_id: null
@@ -39,9 +45,11 @@
     opacity: 3
     stillness: 2
     bleakness: 4
-    humor: 4    # he plays Satan as a Manhattan lawyer, and is clearly enjoying every second of it
+    humor: 4 # he plays Satan as a Manhattan lawyer, and is clearly enjoying every second of it
     acclaim: 0.68
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 2 }
+  imdb_id: tt0118971
+  poster_url: https://m.media-amazon.com/images/M/MV5BNGIxZmU2ZjEtYjc3OC00Y2FiLWE2ZTQtZGI3NzE0YmRhOTMxXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: and-justice-for-all
   tmdb_id: null
@@ -51,6 +59,8 @@
   director: Norman Jewison
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 3, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 0 }
+  imdb_id: tt0078718
+  poster_url: https://m.media-amazon.com/images/M/MV5BNGQ3YWEzMTQtZWE0Yy00ZDY2LWFjMmItNmE0MDkzNTZiMDdhXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: sea-of-love
   tmdb_id: null
@@ -60,6 +70,8 @@
   director: Harold Becker
   tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 2 }
+  imdb_id: tt0098273
+  poster_url: https://m.media-amazon.com/images/M/MV5BNTQ4ODNhMmQtZDM3MC00MTUyLWIwN2MtYWNhZjE5MTljNjIyXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: glengarry-glen-ross
   tmdb_id: null
@@ -69,6 +81,8 @@
   director: James Foley
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 2, acclaim: 0.82 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0104348
+  poster_url: https://m.media-amazon.com/images/M/MV5BM2Q5NDA1ODctNmM4Yy00Yjk4LTg2ZTUtZTJjYzYyMjA2MTdmXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: scent-of-a-woman
   tmdb_id: null
@@ -78,6 +92,8 @@
   director: Martin Brest
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
+  imdb_id: tt0105323
+  poster_url: https://m.media-amazon.com/images/M/MV5BNzc5ODg2NzMtYTQ4MS00MWFiLWI5NWMtNWNkODNmZjE0ZGVjXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-insider
   tmdb_id: null
@@ -87,3 +103,5 @@
   director: Michael Mann
   tags: { opacity: 2, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0140352
+  poster_url: https://m.media-amazon.com/images/M/MV5BZGY3ZjEyODAtNjAwMC00ZTEwLTg3NDctYzMzYTZkMjBmZDQwXkEyXkFqcGc@._V1_SX300.jpg

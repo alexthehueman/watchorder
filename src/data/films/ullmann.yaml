@@ -9,6 +9,8 @@
   director: Ingmar Bergman
   tags: { opacity: 5, stillness: 5, bleakness: 4, humor: 1, acclaim: 0.92 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0060827
+  poster_url: https://m.media-amazon.com/images/M/MV5BYTRhNzkzMDktZDNlNi00MDIwLWFiNjAtNTlmYjZjYWZlMTEzXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: hour-of-the-wolf
   tmdb_id: null
@@ -18,6 +20,8 @@
   director: Ingmar Bergman
   tags: { opacity: 4, stillness: 4, bleakness: 5, humor: 1, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0063759
+  poster_url: https://m.media-amazon.com/images/M/MV5BZjhkMDEwMDUtZGExNC00MDZiLWI5MGEtYzRiMTMzZjQxYmM0XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: shame-1968
   tmdb_id: null
@@ -27,6 +31,8 @@
   director: Ingmar Bergman
   tags: { opacity: 2, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.80 }
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  imdb_id: tt0063611
+  poster_url: https://m.media-amazon.com/images/M/MV5BY2ZkYTU2YzAtODE0Zi00MjRkLTlhN2MtMDhkMWI4NjllMDgzXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-emigrants
   tmdb_id: null
@@ -36,6 +42,8 @@
   director: Jan Troell
   tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 2, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0067919
+  poster_url: https://m.media-amazon.com/images/M/MV5BNGNmOGE4YjMtZmE5OS00MDhlLWFmZDYtNGE0NmVkMDFjMWM2XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: cries-and-whispers
   tmdb_id: null
@@ -63,6 +71,8 @@
   director: Ingmar Bergman
   tags: { opacity: 1, stillness: 4, bleakness: 4, humor: 2, acclaim: 0.90 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  imdb_id: tt6725014
+  poster_url: https://m.media-amazon.com/images/M/MV5BYThlOTg4MjctMWRlOC00MGVkLWJmMGMtNWRjYWI5ZTg4MWIwXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: face-to-face
   tmdb_id: null
@@ -72,3 +82,5 @@
   director: Ingmar Bergman
   tags: { opacity: 3, stillness: 4, bleakness: 5, humor: 1, acclaim: 0.72 }
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
+  imdb_id: tt0074147
+  poster_url: https://m.media-amazon.com/images/M/MV5BNGY0MjJkZGUtOGZkYS00Mzc0LTkzM2UtMzM2YmNhZGE0ZjA3XkEyXkFqcGc@._V1_SX300.jpg

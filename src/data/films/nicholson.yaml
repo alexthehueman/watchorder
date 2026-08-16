@@ -8,6 +8,8 @@
   director: Dennis Hopper
   tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 3, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  imdb_id: tt0064276
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTc2MjI2NDc4Ml5BMl5BanBnXkFtZTgwODI4NzU0MTI@._V1_SX300.jpg
 
 - id: five-easy-pieces
   tmdb_id: null
@@ -17,6 +19,8 @@
   director: Bob Rafelson
   tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 3, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  imdb_id: tt0065724
+  poster_url: https://m.media-amazon.com/images/M/MV5BNWVmNWEwMDQtZmZiZi00ZTAyLTg4YTAtZTIzMjk1N2U1MTgyXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: chinatown
   tmdb_id: null
@@ -27,10 +31,12 @@
   tags:
     opacity: 2
     stillness: 2
-    bleakness: 5    # a rubric anchor for 5 — evil simply wins, and the film knows it
+    bleakness: 5 # a rubric anchor for 5 — evil simply wins, and the film knows it
     humor: 2
     acclaim: 0.95
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0071315
+  poster_url: https://m.media-amazon.com/images/M/MV5BNmRmZTE0NmUtZjhiZi00MzQ3LTk3ZjctN2Q3ODYzY2U3MDk3XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: one-flew-over-the-cuckoos-nest
   tmdb_id: null
@@ -40,6 +46,8 @@
   director: Miloš Forman
   tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 4, acclaim: 0.95 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0073486
+  poster_url: https://m.media-amazon.com/images/M/MV5BYjBkMjgzMzYtNzRiMS00NDc3LWE4YTUtZjYxYjZhNjNhYzhhXkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg
 
 - id: the-shining
   tmdb_id: null
@@ -49,6 +57,8 @@
   director: Stanley Kubrick
   tags: { opacity: 3, stillness: 3, bleakness: 5, humor: 2, acclaim: 0.93 }
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
+  imdb_id: tt0081505
+  poster_url: https://m.media-amazon.com/images/M/MV5BNmM5ZThhY2ItOGRjOS00NzZiLWEwYTItNDgyMjFkOTgxMmRiXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: terms-of-endearment
   tmdb_id: null
@@ -58,6 +68,8 @@
   director: James L. Brooks
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 3, acclaim: 0.80 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  imdb_id: tt0086425
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTk0ODM4NDk0MF5BMl5BanBnXkFtZTgwMTEzMDUxMDE@._V1_SX300.jpg
 
 - id: prizzis-honor
   tmdb_id: null
@@ -67,6 +79,8 @@
   director: John Huston
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  imdb_id: tt0089841
+  poster_url: https://m.media-amazon.com/images/M/MV5BMjFiYjUzZWEtZmQxMy00NzI1LWJiZjUtNjA4MTczOTY2MjM0XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: batman-1989
   tmdb_id: null
@@ -76,6 +90,8 @@
   director: Tim Burton
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0096895
+  poster_url: https://m.media-amazon.com/images/M/MV5BYzZmZWViM2EtNzhlMi00NzBlLWE0MWEtZDFjMjk3YjIyNTBhXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: a-few-good-men
   tmdb_id: null
@@ -85,6 +101,8 @@
   director: Rob Reiner
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.82 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0104257
+  poster_url: https://m.media-amazon.com/images/M/MV5BOGVhMTUwYzEtZGQ1ZC00Nzg1LTk0OGUtMDk0NDM0ZmZlN2E0XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: about-schmidt
   tmdb_id: null
@@ -94,3 +112,5 @@
   director: Alexander Payne
   tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 3, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0257360
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTg3ODY2ODM3OF5BMl5BanBnXkFtZTYwOTQ5NTM3._V1_SX300.jpg

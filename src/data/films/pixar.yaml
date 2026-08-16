@@ -19,6 +19,8 @@
   director: John Lasseter
   tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 4, acclaim: 0.92 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0114709
+  poster_url: https://m.media-amazon.com/images/M/MV5BZTA3OWVjOWItNjE1NS00NzZiLWE1MjgtZDZhMWI1ZTlkNzYwXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: monsters-inc
   tmdb_id: null
@@ -28,6 +30,8 @@
   director: Pete Docter
   tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 4, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0198781
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTY1NTI0ODUyOF5BMl5BanBnXkFtZTgwNTEyNjQ0MDE@._V1_QL75_UX380_CR0,0,380,562_.jpg
 
 - id: finding-nemo
   tmdb_id: null
@@ -37,6 +41,8 @@
   director: Andrew Stanton
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.87 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0266543
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTc5NjExNTA5OV5BMl5BanBnXkFtZTYwMTQ0ODY2._V1_SX300.jpg
 
 - id: the-incredibles
   tmdb_id: null
@@ -46,6 +52,8 @@
   director: Brad Bird
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.88 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0317705
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTY5OTU0OTc2NV5BMl5BanBnXkFtZTcwMzU4MDcyMQ@@._V1_SX300.jpg
 
 - id: ratatouille
   tmdb_id: null
@@ -55,6 +63,8 @@
   director: Brad Bird
   tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 4, acclaim: 0.90 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0382932
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTMzODU0NTkxMF5BMl5BanBnXkFtZTcwMjQ4MzMzMw@@._V1_QL75_UX380_CR0,0,380,562_.jpg
 
 - id: wall-e
   tmdb_id: null
@@ -64,11 +74,13 @@
   director: Andrew Stanton
   tags:
     opacity: 1
-    stillness: 3    # a near-silent first act; the studio's most patient opening by far
-    bleakness: 3    # an abandoned, garbage-choked Earth and a species that has stopped moving
+    stillness: 3 # a near-silent first act; the studio's most patient opening by far
+    bleakness: 3 # an abandoned, garbage-choked Earth and a species that has stopped moving
     humor: 3
     acclaim: 0.90
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0910970
+  poster_url: https://m.media-amazon.com/images/M/MV5BMjExMTg5OTU0NF5BMl5BanBnXkFtZTcwMjMxMzMzMw@@._V1_SX300.jpg
 
 - id: up
   tmdb_id: null
@@ -79,10 +91,12 @@
   tags:
     opacity: 1
     stillness: 2
-    bleakness: 3    # the opening marriage montage ends in a hospital corridor; the rest earns the lift
+    bleakness: 3 # the opening marriage montage ends in a hospital corridor; the rest earns the lift
     humor: 3
     acclaim: 0.93
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt1049413
+  poster_url: https://m.media-amazon.com/images/M/MV5BNmI1ZTc5MWMtMDYyOS00ZDc2LTkzOTAtNjQ4NWIxNjYyNDgzXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: toy-story-3
   tmdb_id: null
@@ -93,10 +107,12 @@
   tags:
     opacity: 1
     stillness: 2
-    bleakness: 3    # the incinerator scene plays as a real ending before the rescue arrives
+    bleakness: 3 # the incinerator scene plays as a real ending before the rescue arrives
     humor: 3
     acclaim: 0.87
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0435761
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTgxOTY4Mjc0MF5BMl5BanBnXkFtZTcwNTA4MDQyMw@@._V1_SX300.jpg
 
 - id: brave
   tmdb_id: null
@@ -106,6 +122,8 @@
   director: Mark Andrews, Brenda Chapman
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt1217209
+  poster_url: https://m.media-amazon.com/images/M/MV5BMzgwODk3ODA1NF5BMl5BanBnXkFtZTcwNjU3NjQ0Nw@@._V1_SX300.jpg
 
 - id: inside-out
   tmdb_id: null
@@ -120,6 +138,8 @@
     humor: 3
     acclaim: 0.94
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt2096673
+  poster_url: https://m.media-amazon.com/images/M/MV5BOTgxMDQwMDk0OF5BMl5BanBnXkFtZTgwNjU5OTg2NDE@._V1_SX300.jpg
 
 - id: coco
   tmdb_id: null
@@ -129,6 +149,8 @@
   director: Lee Unkrich
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.89 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt2380307
+  poster_url: https://m.media-amazon.com/images/M/MV5BMDIyM2E2NTAtMzlhNy00ZGUxLWI1NjgtZDY5MzhiMDc5NGU3XkEyXkFqcGc@._V1_QL75_UY562_CR7,0,380,562_.jpg
 
 - id: soul
   tmdb_id: null
@@ -137,12 +159,14 @@
   runtime: 100
   director: Pete Docter
   tags:
-    opacity: 2    # the Great Before and the Zone are staged as abstraction, not explained away
+    opacity: 2 # the Great Before and the Zone are staged as abstraction, not explained away
     stillness: 3
     bleakness: 2
     humor: 3
     acclaim: 0.87
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt2948372
+  poster_url: https://m.media-amazon.com/images/M/MV5BZTZkYjA5MDEtMjY1ZC00ODk5LThjOTUtZDYxODEzYWNjMTU2XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: luca
   tmdb_id: null
@@ -152,6 +176,8 @@
   director: Enrico Casarosa
   tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 4, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt12801262
+  poster_url: https://m.media-amazon.com/images/M/MV5BMWMyNGNlZTktODVkNS00ZmMyLTk0NmUtNWVjOWU1MWMzZGMzXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg
 
 - id: turning-red
   tmdb_id: null
@@ -161,3 +187,5 @@
   director: Domee Shi
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.81 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt8097030
+  poster_url: https://m.media-amazon.com/images/M/MV5BODY2NjExYmUtZTQ4NS00NzM2LWE2NWYtZWY2NGIyOTBmNzI3XkEyXkFqcGc@._V1_SX300.jpg

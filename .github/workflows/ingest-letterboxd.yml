@@ -1,0 +1,48 @@
+# Manual-trigger only, deliberately — this runs tools/ingest-letterboxd.mjs, which fetches
+# individual letterboxd.com film pages. It should only ever run when a human here clicks
+# "Run workflow" (or `gh workflow run ingest-letterboxd.yml`), never on a push or a schedule,
+# so there's always a specific person choosing the moment this runs, not an automated cron.
+#
+# Opens a PR instead of pushing to main directly, since matches are confidence-gated (title +
+# year must agree with the page) but not human-reviewed — see tools/ingest-letterboxd.mjs.
+
+name: letterboxd poster backfill
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: npm
+      - run: npm ci
+      - run: npm run ingest:letterboxd
+      - name: open a PR if anything resolved
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if git diff --quiet; then
+            echo "nothing resolved this run"
+            exit 0
+          fi
+          branch="letterboxd-posters-$(date +%Y%m%d-%H%M%S)"
+          git checkout -b "$branch"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add src/data/films
+          git commit -m "Backfill posters from Letterboxd for films OMDb couldn't match"
+          git push origin "$branch"
+          gh pr create \
+            --title "Letterboxd poster backfill" \
+            --body "Automated run of \`npm run ingest:letterboxd\`, triggered manually. Matches are confidence-gated (title + year vs. the page's own metadata) but not human-reviewed — check the diff before merging." \
+            --base main \
+            --head "$branch"

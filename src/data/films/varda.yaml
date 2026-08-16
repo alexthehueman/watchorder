@@ -12,6 +12,8 @@
   runtime: 80
   tags: { opacity: 3, stillness: 4, bleakness: 3, humor: 2, acclaim: 0.70 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0048499
+  poster_url: https://m.media-amazon.com/images/M/MV5BNWFjMmMzNGYtOGRhNi00MjE5LTg4MDEtYjExYTVhMjcyZDQwXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: cleo-from-5-to-7
   tmdb_id: null
@@ -20,6 +22,8 @@
   runtime: 90
   tags: { opacity: 2, stillness: 3, bleakness: 3, humor: 3, acclaim: 0.92 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0055852
+  poster_url: https://m.media-amazon.com/images/M/MV5BYjVhMzAyY2YtMmNmMS00YzQ0LTllM2EtNWJjNDhiODNmNjBjXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: le-bonheur
   tmdb_id: null
@@ -27,7 +31,7 @@
   year: 1965
   runtime: 80
   tags:
-    opacity: 3    # it never states its own position, which is what makes it unbearable
+    opacity: 3 # it never states its own position, which is what makes it unbearable
     stillness: 3
     bleakness: 5
     humor: 2
@@ -49,6 +53,8 @@
   runtime: 120
   tags: { opacity: 1, stillness: 3, bleakness: 2, humor: 3, acclaim: 0.70 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  imdb_id: tt0076855
+  poster_url: https://m.media-amazon.com/images/M/MV5BOWQzYTNiNTAtNjQ4NS00OTNmLTkxYTUtNGE0MzYxYjFkYTkzXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: vagabond
   tmdb_id: null
@@ -57,6 +63,8 @@
   runtime: 105
   tags: { opacity: 2, stillness: 4, bleakness: 5, humor: 1, acclaim: 0.88 }
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  imdb_id: tt0089960
+  poster_url: https://m.media-amazon.com/images/M/MV5BZTY2NTQwNjMtYmQ4OS00M2MwLTk1MGEtYzMyNTBlMzIyY2QyXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: jane-b-par-agnes-v
   tmdb_id: null
@@ -89,6 +97,8 @@
   runtime: 110
   tags: { opacity: 2, stillness: 3, bleakness: 2, humor: 4, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  imdb_id: tt1129435
+  poster_url: https://m.media-amazon.com/images/M/MV5BMjEwOTMwNjM1MF5BMl5BanBnXkFtZTcwNDQ0OTk2Mg@@._V1_SX300.jpg
 
 - id: faces-places
   tmdb_id: null
@@ -98,10 +108,12 @@
   tags:
     opacity: 1
     stillness: 2
-    bleakness: 1    # a rubric anchor for 1, and the friendliest film in the entire corpus
+    bleakness: 1 # a rubric anchor for 1, and the friendliest film in the entire corpus
     humor: 4
     acclaim: 0.88
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt5598102
+  poster_url: https://m.media-amazon.com/images/M/MV5BY2IzNWExMGQtZTNkNC00Y2ZjLWI5MjctMDQ0MDEwZDU3Nzg1XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: varda-by-agnes
   tmdb_id: null

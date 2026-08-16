@@ -8,6 +8,8 @@
   director: Jean-Luc Godard
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 2, acclaim: 0.92 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0053472
+  poster_url: https://m.media-amazon.com/images/M/MV5BNWE5ZWFjOTUtZWQyZS00OGFjLTg0MTgtMjA5ZjRhMjJiYTBkXkEyXkFqcGc@._V1_QL75_UX380_CR0,7,380,562_.jpg
 
 - id: a-woman-is-a-woman
   tmdb_id: null
@@ -17,6 +19,8 @@
   director: Jean-Luc Godard
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0055572
+  poster_url: https://m.media-amazon.com/images/M/MV5BMmIwMDg0N2EtZTRiZi00MTA2LWE1MDItOTJjNjA2MDViZDU1XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: vivre-sa-vie
   tmdb_id: null
@@ -25,12 +29,14 @@
   runtime: 80
   director: Jean-Luc Godard
   tags:
-    opacity: 2    # twelve distanced, almost clinical tableaux rather than a conventional throughline
+    opacity: 2 # twelve distanced, almost clinical tableaux rather than a conventional throughline
     stillness: 3
     bleakness: 4
     humor: 1
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  imdb_id: tt0056663
+  poster_url: https://m.media-amazon.com/images/M/MV5BMDUwNDc1YjMtOWQwOS00OGJiLWFlODQtNjAzMjkwOTRhZmQ2XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: contempt
   tmdb_id: null
@@ -40,6 +46,8 @@
   director: Jean-Luc Godard
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.88 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  imdb_id: tt0057345
+  poster_url: https://m.media-amazon.com/images/M/MV5BMjJlMzdmNGQtMTMxZi00ZTE0LWIxNWYtYmE3NTZlYWQwNmExXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: band-of-outsiders
   tmdb_id: null
@@ -49,6 +57,8 @@
   director: Jean-Luc Godard
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.83 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0057869
+  poster_url: https://m.media-amazon.com/images/M/MV5BMjIyOTA0Njk3Ml5BMl5BanBnXkFtZTgwMzY0NTA2ODE@._V1_SX300.jpg
 
 - id: alphaville
   tmdb_id: null
@@ -57,12 +67,14 @@
   runtime: 99
   director: Jean-Luc Godard
   tags:
-    opacity: 3    # film noir relocated to a computer-run dystopia, played with a completely straight face
+    opacity: 3 # film noir relocated to a computer-run dystopia, played with a completely straight face
     stillness: 2
     bleakness: 3
     humor: 2
     acclaim: 0.78
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0058898
+  poster_url: https://m.media-amazon.com/images/M/MV5BYjk3MmMwMjktMzg3NC00YmJiLTg2YjMtMGZkMDI0MzBiOTNkXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: pierrot-le-fou
   tmdb_id: null
@@ -71,12 +83,14 @@
   runtime: 110
   director: Jean-Luc Godard
   tags:
-    opacity: 2    # fragments and direct-address asides interrupt what plot there is
+    opacity: 2 # fragments and direct-address asides interrupt what plot there is
     stillness: 2
     bleakness: 4
     humor: 2
     acclaim: 0.87
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 0 }
+  imdb_id: tt0059592
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTQ0OTc4MDcxMl5BMl5BanBnXkFtZTgwNjIzMjA0NzE@._V1_SX300.jpg
 
 - id: masculin-feminin
   tmdb_id: null
@@ -103,7 +117,7 @@
   runtime: 87
   director: Jean-Luc Godard
   tags:
-    opacity: 3    # half narrative, half philosophical essay, with a whispered voiceover instead of a plot
+    opacity: 3 # half narrative, half philosophical essay, with a whispered voiceover instead of a plot
     stillness: 3
     bleakness: 3
     humor: 1
@@ -117,12 +131,14 @@
   runtime: 105
   director: Jean-Luc Godard
   tags:
-    opacity: 3    # a title card literally announces the end of cinema partway through
+    opacity: 3 # a title card literally announces the end of cinema partway through
     stillness: 2
-    bleakness: 5    # a bourgeois country drive collapses into a nationwide apocalypse, then cannibalism
+    bleakness: 5 # a bourgeois country drive collapses into a nationwide apocalypse, then cannibalism
     humor: 2
     acclaim: 0.85
   content: { sexual_violence: true, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  imdb_id: tt0062480
+  poster_url: https://m.media-amazon.com/images/M/MV5BYWUwZjVjOTYtYTVlNy00MzM4LTkyMjktNDdkZDM5ODQwYjU0XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: goodbye-to-language
   tmdb_id: null
@@ -131,9 +147,11 @@
   runtime: 70
   director: Jean-Luc Godard
   tags:
-    opacity: 5    # shot in 3D in his eighties, and about as narratively coherent as that sounds
+    opacity: 5 # shot in 3D in his eighties, and about as narratively coherent as that sounds
     stillness: 3
     bleakness: 3
     humor: 1
     acclaim: 0.65
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt2400275
+  poster_url: https://m.media-amazon.com/images/M/MV5BMzBhZDA1MzItNmZkOS00NTEwLTkxMTUtYzllMDlhMmUyZGQ1XkEyXkFqcGc@._V1_SX300.jpg

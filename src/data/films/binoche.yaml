@@ -9,6 +9,8 @@
   director: Philip Kaufman
   tags: { opacity: 2, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 3 }
+  imdb_id: tt0096332
+  poster_url: https://m.media-amazon.com/images/M/MV5BMzQyMTliMzMtNzliZi00MmMwLWExZGEtNzQ3MDc1NmY4M2I1XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: three-colours-blue
   tmdb_id: null
@@ -27,6 +29,8 @@
   director: Anthony Minghella
   tags: { opacity: 2, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.82 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  imdb_id: tt0116209
+  poster_url: https://m.media-amazon.com/images/M/MV5BODg0NjdiN2UtZWY3MS00M2JmLTg1MDAtY2ZiNzNiMzAzYWFmXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: certified-copy
   tmdb_id: null
@@ -35,12 +39,14 @@
   runtime: 106
   director: Abbas Kiarostami
   tags:
-    opacity: 4    # whether the two leads are strangers or a married couple is never resolved
+    opacity: 4 # whether the two leads are strangers or a married couple is never resolved
     stillness: 3
     bleakness: 2
     humor: 2
     acclaim: 0.78
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt1020773
+  poster_url: https://m.media-amazon.com/images/M/MV5BZmY5OWY2MTQtZDZmYS00YTczLWEwMTktMDNjZWMzYzEwYzFjXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: clouds-of-sils-maria
   tmdb_id: null
@@ -50,3 +56,5 @@
   director: Olivier Assayas
   tags: { opacity: 2, stillness: 3, bleakness: 2, humor: 1, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt2452254
+  poster_url: https://m.media-amazon.com/images/M/MV5BMjAwMTg3MDE0NF5BMl5BanBnXkFtZTgwNjQ1ODQyNTE@._V1_SX300.jpg

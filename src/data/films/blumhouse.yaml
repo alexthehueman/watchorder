@@ -11,12 +11,14 @@
   runtime: 86
   director: Oren Peli
   tags:
-    opacity: 2    # found-footage ambiguity about what's actually in the house
+    opacity: 2 # found-footage ambiguity about what's actually in the house
     stillness: 3
     bleakness: 4
     humor: 1
     acclaim: 0.68
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt1179904
+  poster_url: https://m.media-amazon.com/images/M/MV5BMjY1NjcxODQ4MV5BMl5BanBnXkFtZTcwMzUxNjM4Mg@@._V1_SX300.jpg
 
 - id: insidious
   tmdb_id: null
@@ -26,6 +28,8 @@
   director: James Wan
   tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt1737184
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTA4NDg0NjM0MjNeQTJeQWpwZ15BbWU3MDc5Mjg0MTQ@._V1_SX300.jpg
 
 - id: sinister
   tmdb_id: null
@@ -35,6 +39,8 @@
   director: Scott Derrickson
   tags: { opacity: 2, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt1922777
+  poster_url: https://m.media-amazon.com/images/M/MV5BMjI5MTg1Njg0Ml5BMl5BanBnXkFtZTcwNzg2Mjc4Nw@@._V1_SX300.jpg
 
 - id: the-purge
   tmdb_id: null
@@ -44,6 +50,8 @@
   director: James DeMonaco
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt2184339
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTQzNTcwODEyM15BMl5BanBnXkFtZTcwMjM1MDI0OQ@@._V1_SX300.jpg
 
 - id: whiplash
   tmdb_id: null
@@ -53,6 +61,8 @@
   director: Damien Chazelle
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.93 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt2582802
+  poster_url: https://m.media-amazon.com/images/M/MV5BMDFjOWFkYzktYzhhMC00NmYyLTkwY2EtYjViMDhmNzg0OGFkXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: split
   tmdb_id: null
@@ -62,6 +72,8 @@
   director: M. Night Shyamalan
   tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 2, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt4972582
+  poster_url: https://m.media-amazon.com/images/M/MV5BNTZjNmVjMzAtZjg2Mi00MWNmLTk5NTItOTExZDYwNTE2YmExXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: get-out
   tmdb_id: null
@@ -71,6 +83,8 @@
   director: Jordan Peele
   tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 3, acclaim: 0.90 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt5052448
+  poster_url: https://m.media-amazon.com/images/M/MV5BMjUxMDQwNjcyNl5BMl5BanBnXkFtZTgwNzcwMzc0MTI@._V1_QL75_UX380_CR0,0,380,562_.jpg
 
 - id: happy-death-day
   tmdb_id: null
@@ -80,6 +94,8 @@
   director: Christopher Landon
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt5308322
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTAxNGQwMjEtNjdjNy00NmQwLTkwYTEtNGIwZWJjZjU5M2FmXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: halloween-2018
   tmdb_id: null
@@ -89,6 +105,8 @@
   director: David Gordon Green
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 2, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  imdb_id: tt1502407
+  poster_url: https://m.media-amazon.com/images/M/MV5BY2FlMzdkZTMtN2MwOS00NjQzLTlkMGYtMTRiYWUxZjM2M2ZiXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-invisible-man-2020
   tmdb_id: null
@@ -98,6 +116,8 @@
   director: Leigh Whannell
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.85 }
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt1051906
+  poster_url: https://m.media-amazon.com/images/M/MV5BYTM3NDJhZWUtZWM1Yy00ODk4LThjNmMtNDg3OGYzMGM2OGYzXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: freaky
   tmdb_id: null
@@ -107,6 +127,8 @@
   director: Christopher Landon
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt10919380
+  poster_url: https://m.media-amazon.com/images/M/MV5BODZmNzJjNjAtOGFhNi00ZjhjLTg5MzgtYjRjNGE0YWE3NDUzXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: m3gan
   tmdb_id: null
@@ -116,6 +138,8 @@
   director: Gerard Johnstone
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt8760708
+  poster_url: https://m.media-amazon.com/images/M/MV5BYjU1ZWMxYTUtNzQ1ZC00ZTcxLTg0NTMtMzY1ZmQyZjhmYjMyXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: five-nights-at-freddys
   tmdb_id: null
@@ -125,3 +149,5 @@
   director: Emma Tammi
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt4589218
+  poster_url: https://m.media-amazon.com/images/M/MV5BNzFkMDE2ZmEtOWMwNy00MWM2LThlNjMtZWQzNWY5MTJjZjcxXkEyXkFqcGc@._V1_SX300.jpg

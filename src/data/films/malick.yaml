@@ -8,6 +8,8 @@
   director: Terrence Malick
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.88 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0069762
+  poster_url: https://m.media-amazon.com/images/M/MV5BN2U3ZjE1ZjUtYTRkMy00NTJiLTgyNzktMmE1OTUzYmRlOTUzXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: days-of-heaven
   tmdb_id: null
@@ -17,6 +19,8 @@
   director: Terrence Malick
   tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.90 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0077405
+  poster_url: https://m.media-amazon.com/images/M/MV5BOWM5OTcwMjMtMDk0OC00N2M3LTlmYzQtY2Q5ZmZmNjIyOGViXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-thin-red-line
   tmdb_id: null
@@ -25,12 +29,14 @@
   runtime: 170
   director: Terrence Malick
   tags:
-    opacity: 2    # philosophical voiceover threaded through the combat, non-linear and impressionistic
+    opacity: 2 # philosophical voiceover threaded through the combat, non-linear and impressionistic
     stillness: 4
     bleakness: 4
     humor: 1
     acclaim: 0.88
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0120863
+  poster_url: https://m.media-amazon.com/images/M/MV5BMzQ5NmViMDUtMjI1NC00ZWJkLTkwNzctMmIxZWY2MzQyZDc2XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-new-world
   tmdb_id: null
@@ -40,6 +46,8 @@
   director: Terrence Malick
   tags: { opacity: 2, stillness: 4, bleakness: 3, humor: 1, acclaim: 0.80 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0402399
+  poster_url: https://m.media-amazon.com/images/M/MV5BZGRhNmVmZDMtYzAyNy00M2YyLThkYTItNjNkYzMzYjUyZDY4XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-tree-of-life
   tmdb_id: null
@@ -48,12 +56,14 @@
   runtime: 139
   director: Terrence Malick
   tags:
-    opacity: 3    # a cosmic prologue and fragmented childhood memory, with no throughline handed to the viewer
+    opacity: 3 # a cosmic prologue and fragmented childhood memory, with no throughline handed to the viewer
     stillness: 4
     bleakness: 3
-    humor: 2    # the childhood sequences carry real, unguarded play amid the cosmic framing
+    humor: 2 # the childhood sequences carry real, unguarded play amid the cosmic framing
     acclaim: 0.90
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0478304
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTMwNjQ0NjMzN15BMl5BanBnXkFtZTcwNjMxMTkyNA@@._V1_SX300.jpg
 
 - id: to-the-wonder
   tmdb_id: null
@@ -62,12 +72,14 @@
   runtime: 112
   director: Terrence Malick
   tags:
-    opacity: 3    # a relationship dissolves almost entirely without dialogue
+    opacity: 3 # a relationship dissolves almost entirely without dialogue
     stillness: 4
     bleakness: 3
     humor: 1
     acclaim: 0.60
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt1595656
+  poster_url: https://m.media-amazon.com/images/M/MV5BNGYyYmI2YjQtYTkyNy00NzQ0LTliNmYtNzdlNmZkNmZkMDQ1XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: knight-of-cups
   tmdb_id: null
@@ -76,12 +88,14 @@
   runtime: 118
   director: Terrence Malick
   tags:
-    opacity: 4    # a screenwriter drifting through Los Angeles with barely a plot to hold onto
+    opacity: 4 # a screenwriter drifting through Los Angeles with barely a plot to hold onto
     stillness: 3
     bleakness: 3
     humor: 1
     acclaim: 0.55
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  imdb_id: tt2101383
+  poster_url: https://m.media-amazon.com/images/M/MV5BMjQyOTcwODIyNF5BMl5BanBnXkFtZTgwMDE4OTI4NzE@._V1_SX300.jpg
 
 - id: song-to-song
   tmdb_id: null
@@ -91,6 +105,8 @@
   director: Terrence Malick
   tags: { opacity: 3, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.52 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  imdb_id: tt2062700
+  poster_url: https://m.media-amazon.com/images/M/MV5BNzI1MTg0MzEyOF5BMl5BanBnXkFtZTgwNzk4Mjk0MTI@._V1_SX300.jpg
 
 - id: a-hidden-life
   tmdb_id: null
@@ -100,3 +116,5 @@
   director: Terrence Malick
   tags: { opacity: 1, stillness: 4, bleakness: 4, humor: 1, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt5827916
+  poster_url: https://m.media-amazon.com/images/M/MV5BYTRhNjYzOWQtMGI0NS00NGM0LWFlOTMtODRhZDQyNmMxOWI3XkEyXkFqcGc@._V1_SX300.jpg

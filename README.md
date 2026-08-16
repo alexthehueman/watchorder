@@ -407,3 +407,6 @@ scripts written by hand rather than configured.
 ## Attribution
 
 This product uses the TMDB API but is not endorsed or certified by TMDB.
+
+Film metadata and poster art are also sourced from the OMDb API (omdbapi.com), which itself draws
+on IMDb data — used while a TMDB key was pending application approval.

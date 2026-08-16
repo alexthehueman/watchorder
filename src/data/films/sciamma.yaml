@@ -12,6 +12,8 @@
   director: Céline Sciamma
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0869977
+  poster_url: https://m.media-amazon.com/images/M/MV5BNzE0ZGJmZDYtMDc5Mi00NmRlLWI3YTItNmQ4Mzk5ZmRmZmQyXkEyXkFqcGc@._V1_QL75_UY562_CR21,0,380,562_.jpg
 
 - id: tomboy
   tmdb_id: null
@@ -21,6 +23,8 @@
   director: Céline Sciamma
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.80 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt1847731
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTQ2MTI2OTEwNF5BMl5BanBnXkFtZTcwODUwMzc3Ng@@._V1_SX300.jpg
 
 - id: girlhood
   tmdb_id: null
@@ -30,6 +34,8 @@
   director: Céline Sciamma
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt3655522
+  poster_url: https://m.media-amazon.com/images/M/MV5BMjA5MDM1ODE5NV5BMl5BanBnXkFtZTgwNjg0MTk5MzE@._V1_SX300.jpg
 
 - id: petite-maman
   tmdb_id: null
@@ -38,9 +44,11 @@
   runtime: 72
   director: Céline Sciamma
   tags:
-    opacity: 2    # a magical-realist premise the film stages entirely matter-of-factly
+    opacity: 2 # a magical-realist premise the film stages entirely matter-of-factly
     stillness: 3
     bleakness: 2
     humor: 1
     acclaim: 0.88
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt13204490
+  poster_url: https://m.media-amazon.com/images/M/MV5BMjkxMTE3M2ItNjhiZC00YmEwLWI1MDYtZjY2MTEwZjAxNGE3XkEyXkFqcGc@._V1_SX300.jpg

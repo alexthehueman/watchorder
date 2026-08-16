@@ -8,6 +8,8 @@
   director: Shekhar Kapur
   tags: { opacity: 2, stillness: 3, bleakness: 3, humor: 2, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  imdb_id: tt0127536
+  poster_url: https://m.media-amazon.com/images/M/MV5BNWRjZjJjNDUtOTgzMi00YjBlLTg5ODQtMjQxOTAyMzM2ZWJiXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-talented-mr-ripley
   tmdb_id: null
@@ -17,6 +19,8 @@
   director: Anthony Minghella
   tags: { opacity: 2, stillness: 3, bleakness: 3, humor: 2, acclaim: 0.80 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  imdb_id: tt0134119
+  poster_url: https://m.media-amazon.com/images/M/MV5BYzI2ZmU3MWMtZmRlMi00ZmVlLTkwMDMtZmI1YTg4YzcwMDE0XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: fellowship-of-the-ring
   tmdb_id: null
@@ -26,6 +30,8 @@
   director: Peter Jackson
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.92 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0120737
+  poster_url: https://m.media-amazon.com/images/M/MV5BNzIxMDQ2YTctNDY4MC00ZTRhLTk4ODQtMTVlOWY4NTdiYmMwXkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg
 
 - id: the-aviator
   tmdb_id: null
@@ -35,6 +41,8 @@
   director: Martin Scorsese
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0338751
+  poster_url: https://m.media-amazon.com/images/M/MV5BYTUyYWJlNDgtOTM5Ny00YTQ3LWFmYTgtZjJiNTNkYjJlMmY4XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: notes-on-a-scandal
   tmdb_id: null
@@ -44,6 +52,8 @@
   director: Richard Eyre
   tags: { opacity: 2, stillness: 3, bleakness: 4, humor: 2, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  imdb_id: tt0465551
+  poster_url: https://m.media-amazon.com/images/M/MV5BODdhZDJjNDgtZjAxZi00ZGE2LWJiYzYtZTJhMmRmYjgzMzY0XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: im-not-there
   tmdb_id: null
@@ -52,12 +62,14 @@
   runtime: 135
   director: Todd Haynes
   tags:
-    opacity: 4    # six actors playing fragments of one man; the film never explains how they connect
+    opacity: 4 # six actors playing fragments of one man; the film never explains how they connect
     stillness: 3
     bleakness: 3
     humor: 2
     acclaim: 0.75
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0368794
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTY4MzM2MjcwNV5BMl5BanBnXkFtZTcwODg3MDU1MQ@@._V1_SX300.jpg
 
 - id: blue-jasmine
   tmdb_id: null
@@ -67,6 +79,8 @@
   director: Woody Allen
   tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 3, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt2334873
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTc0ODk5MzEyMV5BMl5BanBnXkFtZTcwMzI0MDY1OQ@@._V1_SX300.jpg
 
 - id: carol
   tmdb_id: null
@@ -76,6 +90,8 @@
   director: Todd Haynes
   tags: { opacity: 2, stillness: 4, bleakness: 3, humor: 1, acclaim: 0.88 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  imdb_id: tt2402927
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTczNTQ4OTEyNV5BMl5BanBnXkFtZTgwNDgyMDI3NjE@._V1_SX300.jpg
 
 - id: thor-ragnarok
   tmdb_id: null
@@ -85,6 +101,8 @@
   director: Taika Waititi
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt3501632
+  poster_url: https://m.media-amazon.com/images/M/MV5BMjMyNDkzMzI1OF5BMl5BanBnXkFtZTgwODcxODg5MjI@._V1_QL75_UX380_CR0,0,380,562_.jpg
 
 - id: tar
   tmdb_id: null
@@ -94,3 +112,5 @@
   director: Todd Field
   tags: { opacity: 3, stillness: 4, bleakness: 4, humor: 1, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
+  imdb_id: tt14444726
+  poster_url: https://m.media-amazon.com/images/M/MV5BYWY5YThhOGUtNDU4OS00NTk3LWI0ODQtNmRiYTk0ZjVkZWU2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg

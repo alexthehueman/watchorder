@@ -17,6 +17,8 @@
     suicide: false
     violence: 2
     sex: 1
+  imdb_id: tt0119256
+  poster_url: https://m.media-amazon.com/images/M/MV5BOWQyNjBiZWMtYzFjMS00ZDEzLWEyNTYtZGFiZDE4Mjk4M2E2XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: boogie-nights
   tmdb_id: null
@@ -31,6 +33,8 @@
     suicide: true
     violence: 2
     sex: 3
+  imdb_id: tt0118749
+  poster_url: https://m.media-amazon.com/images/M/MV5BOTFmZmE4OTMtNDYxNi00MmZmLThlYjktMmExMzMwY2YzOTFiXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: magnolia
   tmdb_id: null
@@ -45,6 +49,8 @@
     suicide: true
     violence: 2
     sex: 2
+  imdb_id: tt0175880
+  poster_url: https://m.media-amazon.com/images/M/MV5BOWY0Zjk1YTMtMGFlYi00OTFmLWEyOTAtNmRkYjE0ZDJiZWMwXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: punch-drunk-love
   tmdb_id: null
@@ -59,6 +65,8 @@
     suicide: false
     violence: 2
     sex: 1
+  imdb_id: tt0272338
+  poster_url: https://m.media-amazon.com/images/M/MV5BZTYyMTQ2MDAtMzYzYS00YjZiLWJiNDUtZjEwNzM4YzE1ZDhhXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: there-will-be-blood
   tmdb_id: null
@@ -69,7 +77,7 @@
     opacity: 2
     stillness: 4
     bleakness: 5
-    humor: 2    # the last twenty minutes are broad comedy, and almost nobody says so
+    humor: 2 # the last twenty minutes are broad comedy, and almost nobody says so
     acclaim: 0.95
   content:
     sexual_violence: false
@@ -78,6 +86,8 @@
     suicide: false
     violence: 3
     sex: 0
+  imdb_id: tt0469494
+  poster_url: https://m.media-amazon.com/images/M/MV5BMjAxODQ4MDU5NV5BMl5BanBnXkFtZTcwMDU4MjU1MQ@@._V1_SX300.jpg
 
 - id: the-master
   tmdb_id: null
@@ -92,6 +102,8 @@
     suicide: false
     violence: 2
     sex: 2
+  imdb_id: tt1560747
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTQ2NjQ5MzMwMF5BMl5BanBnXkFtZTcwMjczNTAzOA@@._V1_QL75_UX380_CR0,0,380,562_.jpg
 
 - id: inherent-vice
   tmdb_id: null
@@ -99,7 +111,7 @@
   year: 2014
   runtime: 148
   tags:
-    opacity: 5    # the plot is not merely hard to follow, it is designed not to resolve
+    opacity: 5 # the plot is not merely hard to follow, it is designed not to resolve
     stillness: 3
     bleakness: 3
     humor: 4
@@ -111,6 +123,8 @@
     suicide: false
     violence: 2
     sex: 2
+  imdb_id: tt1791528
+  poster_url: https://m.media-amazon.com/images/M/MV5BMmU3YjYzZWEtZDEzYy00YjA4LWI0YTUtY2RiMzVlYzZkZjg3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg
 
 - id: phantom-thread
   tmdb_id: null
@@ -125,6 +139,8 @@
     suicide: false
     violence: 1
     sex: 1
+  imdb_id: tt5776858
+  poster_url: https://m.media-amazon.com/images/M/MV5BOTMzNWNhNDctMTM2MC00N2EwLThjYTEtMmQ2ZDAyNDVlNzgyXkEyXkFqcGc@._V1_QL75_UY562_CR0,0,380,562_.jpg
 
 - id: licorice-pizza
   tmdb_id: null
@@ -139,3 +155,5 @@
     suicide: false
     violence: 1
     sex: 1
+  imdb_id: tt11271038
+  poster_url: https://m.media-amazon.com/images/M/MV5BYjU5MjRiOWMtNmI0OC00ZTU1LThlNGItYTViNzU2YzAzMWMxXkEyXkFqcGc@._V1_SX300.jpg

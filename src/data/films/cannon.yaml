@@ -13,6 +13,8 @@
   director: Menahem Golan
   tags: { opacity: 2, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.35 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 2 }
+  imdb_id: tt0080380
+  poster_url: https://m.media-amazon.com/images/M/MV5BOGU1Y2NjYzktNWJiMi00NzA5LTk1NjEtZTJhYWI2YTRjYzdlXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: death-wish-ii
   tmdb_id: null
@@ -22,6 +24,8 @@
   director: Michael Winner
   tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.30 }
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 2 }
+  imdb_id: tt0082250
+  poster_url: https://m.media-amazon.com/images/M/MV5BYTBjYTM2N2QtODA3ZC00MDZkLTk2NmMtMWYzZjI5YTIzZjI2XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: breakin
   tmdb_id: null
@@ -31,6 +35,8 @@
   director: Joel Silberg
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.40 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0086998
+  poster_url: https://m.media-amazon.com/images/M/MV5BODQ5MjQyZjgtM2ViZC00MGIwLThhMjgtNjE0ZDlhZmM3YmNhXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: missing-in-action
   tmdb_id: null
@@ -40,6 +46,8 @@
   director: Joseph Zito
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.42 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+  imdb_id: tt0087727
+  poster_url: https://m.media-amazon.com/images/M/MV5BZGE2NmNlODYtMzMyNS00YTM0LThlMzMtNjg1YTBhMTRkNjJhXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: ninja-iii-the-domination
   tmdb_id: null
@@ -49,6 +57,8 @@
   director: Sam Firstenberg
   tags: { opacity: 2, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.45 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  imdb_id: tt0087805
+  poster_url: https://m.media-amazon.com/images/M/MV5BMDYxOWJhNmMtOWI5Yy00NzBjLTljYTMtMjUwZjFiMGMxNGE2XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: runaway-train
   tmdb_id: null
@@ -61,8 +71,10 @@
     stillness: 2
     bleakness: 5
     humor: 2
-    acclaim: 0.80   # from a Kurosawa script, and it got two acting nominations. Genuinely good
+    acclaim: 0.80 # from a Kurosawa script, and it got two acting nominations. Genuinely good
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+  imdb_id: tt0089941
+  poster_url: https://m.media-amazon.com/images/M/MV5BMjRlMzU3Y2ItYzU5YS00NTc4LTlmMjItZjk1YTc0M2I0OGMxXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: lifeforce
   tmdb_id: null
@@ -72,6 +84,8 @@
   director: Tobe Hooper
   tags: { opacity: 3, stillness: 2, bleakness: 4, humor: 3, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 2 }
+  imdb_id: tt0089489
+  poster_url: https://m.media-amazon.com/images/M/MV5BNWNmN2Y4ZTAtNGRkMC00ODk2LTkwZjItNDU3N2VjMmEzMDk4XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: invasion-usa
   tmdb_id: null
@@ -81,6 +95,8 @@
   director: Joseph Zito
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 2, acclaim: 0.35 }
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
+  imdb_id: tt0089348
+  poster_url: https://m.media-amazon.com/images/M/MV5BNjIxNDk2ZTQtMjgzNy00NTNmLWJhOTItZWY5NTFkMmMzMGYzXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: cobra
   tmdb_id: null
@@ -90,6 +106,8 @@
   director: George P. Cosmatos
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 2, acclaim: 0.40 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+  imdb_id: tt0090859
+  poster_url: https://m.media-amazon.com/images/M/MV5BODczYzNiMjgtZGU4Yi00ZmM2LWFiNzMtMjcyMTA1YzMwNTk3XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: masters-of-the-universe
   tmdb_id: null
@@ -99,6 +117,8 @@
   director: Gary Goddard
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.42 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0093507
+  poster_url: https://m.media-amazon.com/images/M/MV5BOGM4ZDMxMjMtMmFhYi00OGJhLThiYzktMTVmYTgwNTk4ZDJhXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: tough-guys-dont-dance
   tmdb_id: null
@@ -110,9 +130,11 @@
     opacity: 3
     stillness: 2
     bleakness: 4
-    humor: 4    # not intentionally, mostly, and the "oh man, oh God" scene is immortal
+    humor: 4 # not intentionally, mostly, and the "oh man, oh God" scene is immortal
     acclaim: 0.40
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 2 }
+  imdb_id: tt0094169
+  poster_url: https://m.media-amazon.com/images/M/MV5BMjI1MDk4NjE0OV5BMl5BanBnXkFtZTcwMjExODM5NA@@._V1_SX300.jpg
 
 - id: kickboxer
   tmdb_id: null
@@ -122,3 +144,5 @@
   director: Mark DiSalle
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.48 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+  imdb_id: tt0097659
+  poster_url: https://m.media-amazon.com/images/M/MV5BYjQ2NjVkMjAtNGYzZC00ZTZiLWJlZjYtMTNlYWNiZDVlMDZkXkEyXkFqcGc@._V1_SX300.jpg

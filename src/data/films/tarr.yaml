@@ -10,12 +10,14 @@
   year: 1979
   runtime: 108
   tags:
-    opacity: 1    # the early social-realist films explain themselves completely
+    opacity: 1 # the early social-realist films explain themselves completely
     stillness: 3
     bleakness: 5
     humor: 1
     acclaim: 0.62
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  imdb_id: tt0077383
+  poster_url: https://m.media-amazon.com/images/M/MV5BNGRhNWEzOTAtZDM2NC00NzYzLTlkZWItZGE3ZDgzYzgzOGUxXkEyXkFqcGdeQXVyNzEyNjUwMTA@._V1_SX300.jpg
 
 - id: the-outsider
   tmdb_id: null
@@ -32,6 +34,8 @@
   runtime: 119
   tags: { opacity: 2, stillness: 4, bleakness: 5, humor: 1, acclaim: 0.65 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  imdb_id: tt0087855
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTU1ODE5NDc5MF5BMl5BanBnXkFtZTcwOTMzOTIzMQ@@._V1_SX300.jpg
 
 - id: damnation
   tmdb_id: null
@@ -40,6 +44,8 @@
   runtime: 116
   tags: { opacity: 3, stillness: 5, bleakness: 5, humor: 1, acclaim: 0.80 }
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  imdb_id: tt0095475
+  poster_url: https://m.media-amazon.com/images/M/MV5BYjg1ZmYxZTktZGI1MS00NTQ0LTk1MGUtMjU1NTk5Yzk3NzFmXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: satantango
   tmdb_id: null
@@ -49,7 +55,7 @@
   tags: { opacity: 4, stillness: 5, bleakness: 5, humor: 2, acclaim: 0.88 }
   content:
     sexual_violence: false
-    animal_harm: true    # the cat sequence, which is the film's most notorious passage
+    animal_harm: true # the cat sequence, which is the film's most notorious passage
     child_harm: true
     suicide: true
     violence: 2
@@ -62,6 +68,8 @@
   runtime: 145
   tags: { opacity: 4, stillness: 5, bleakness: 5, humor: 1, acclaim: 0.90 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0249241
+  poster_url: https://m.media-amazon.com/images/M/MV5BOTdlOWFlMjYtOWFlNy00Nzk5LTljZDAtMDBmYTNjMWIxZTRmXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-man-from-london
   tmdb_id: null
@@ -70,6 +78,8 @@
   runtime: 139
   tags: { opacity: 3, stillness: 5, bleakness: 4, humor: 1, acclaim: 0.62 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0415127
+  poster_url: https://m.media-amazon.com/images/M/MV5BZjk3ODc3ZmQtNzE0Yy00YmMxLWFmYWMtNjdlYzJmMjA0NWRkXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-turin-horse
   tmdb_id: null
@@ -79,8 +89,10 @@
   tags: { opacity: 3, stillness: 5, bleakness: 5, humor: 1, acclaim: 0.85 }
   content:
     sexual_violence: false
-    animal_harm: true    # the horse's decline is the film's subject and it is not spared
+    animal_harm: true # the horse's decline is the film's subject and it is not spared
     child_harm: false
     suicide: false
     violence: 1
     sex: 0
+  imdb_id: tt1316540
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTMyNzg1MzM2Ml5BMl5BanBnXkFtZTcwMzQ5NjcxNw@@._V1_SX300.jpg

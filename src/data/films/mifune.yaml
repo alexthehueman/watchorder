@@ -12,6 +12,8 @@
   director: Akira Kurosawa
   tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 2, acclaim: 0.80 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0040979
+  poster_url: https://m.media-amazon.com/images/M/MV5BODI1MDE2MGUtNzIwNi00ZWZiLTgzYWItNTcwNjYxNGJkYzc2XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: rashomon
   tmdb_id: null
@@ -20,12 +22,14 @@
   runtime: 88
   director: Akira Kurosawa
   tags:
-    opacity: 4    # the point is that the accounts cannot be reconciled, and they are not
+    opacity: 4 # the point is that the accounts cannot be reconciled, and they are not
     stillness: 3
     bleakness: 4
     humor: 2
     acclaim: 0.92
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  imdb_id: tt0042876
+  poster_url: https://m.media-amazon.com/images/M/MV5BZDlkYjViMDAtYjkxNy00ZDk1LWE5MmUtNDc4NDU3ZWJmOTYzXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: seven-samurai
   tmdb_id: null
@@ -35,6 +39,8 @@
   director: Akira Kurosawa
   tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 3, acclaim: 0.97 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0047478
+  poster_url: https://m.media-amazon.com/images/M/MV5BZjliMWExOTMtZDQ3ZS00NWU3LWIyN2EtMjllNzk3ZTNlYzg4XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: i-live-in-fear
   tmdb_id: null
@@ -44,6 +50,8 @@
   director: Akira Kurosawa
   tags: { opacity: 2, stillness: 4, bleakness: 5, humor: 1, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0048198
+  poster_url: https://m.media-amazon.com/images/M/MV5BNDgwNzk0NjItYzUyNS00ODI2LWFhM2MtZTRhOGQ3YjAyM2Q1XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: throne-of-blood
   tmdb_id: null
@@ -53,6 +61,8 @@
   director: Akira Kurosawa
   tags: { opacity: 2, stillness: 4, bleakness: 5, humor: 1, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0050613
+  poster_url: https://m.media-amazon.com/images/M/MV5BYTdlYjFlZTAtMTA5Yy00Y2UzLWI0ZjEtYWI2Njk0NTI4OGZlXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-hidden-fortress
   tmdb_id: null
@@ -62,6 +72,8 @@
   director: Akira Kurosawa
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.82 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0051808
+  poster_url: https://m.media-amazon.com/images/M/MV5BOGNmMGQ4YTQtYjA2My00ZDMyLWIzYzYtYmNhOGRjM2RjNTZjXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-bad-sleep-well
   tmdb_id: null
@@ -71,6 +83,8 @@
   director: Akira Kurosawa
   tags: { opacity: 2, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.80 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 0 }
+  imdb_id: tt0054460
+  poster_url: https://m.media-amazon.com/images/M/MV5BNjE5YTU4MzEtNzI0YS00MjM5LWEzNWYtMTcxZmI0ZDE2M2MxXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: yojimbo
   tmdb_id: null
@@ -80,6 +94,8 @@
   director: Akira Kurosawa
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 4, acclaim: 0.90 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0055630
+  poster_url: https://m.media-amazon.com/images/M/MV5BYzFkODA1N2QtY2UyMC00NTMwLWEyNzctMmE3YjIzNzE1MzY4XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: sanjuro
   tmdb_id: null
@@ -89,6 +105,8 @@
   director: Akira Kurosawa
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.82 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0056443
+  poster_url: https://m.media-amazon.com/images/M/MV5BYzllNDdhYmEtMGI5YS00YTk0LTlmNzMtNmM0MjNjYjBiN2JkXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: high-and-low
   tmdb_id: null
@@ -98,6 +116,8 @@
   director: Akira Kurosawa
   tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.92 }
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0057565
+  poster_url: https://m.media-amazon.com/images/M/MV5BMGJiNzllYjktODAzNS00OGUzLTlmY2MtMjA2ZTZhYTY1OTc4XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: red-beard
   tmdb_id: null
@@ -107,6 +127,8 @@
   director: Akira Kurosawa
   tags: { opacity: 1, stillness: 4, bleakness: 3, humor: 2, acclaim: 0.85 }
   content: { sexual_violence: true, animal_harm: false, child_harm: true, suicide: true, violence: 1, sex: 0 }
+  imdb_id: tt0058888
+  poster_url: https://m.media-amazon.com/images/M/MV5BMjE1MDRlMmQtYTU1Mi00YzY2LTkxNGQtZGMyZTNkN2U1M2VjXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: samurai-rebellion
   tmdb_id: null
@@ -115,3 +137,5 @@
   runtime: 128
   tags: { opacity: 2, stillness: 4, bleakness: 5, humor: 1, acclaim: 0.80 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0061847
+  poster_url: https://m.media-amazon.com/images/M/MV5BY2MyYmQxODEtNDk3Mi00Mjc2LTgxMTMtNWQyZmIzYjA4MzgyXkEyXkFqcGc@._V1_SX300.jpg

@@ -11,12 +11,14 @@
   year: 1984
   runtime: 99
   tags:
-    opacity: 2    # a noir built entirely on what each character doesn't know the others know
+    opacity: 2 # a noir built entirely on what each character doesn't know the others know
     stillness: 2
     bleakness: 4
     humor: 2
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0086979
+  poster_url: https://m.media-amazon.com/images/M/MV5BNTYxNWY5ODktYWRkOC00NDdkLWIwOGQtOWY5YWQ1N2Q3OWViXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: fargo
   tmdb_id: null
@@ -25,6 +27,8 @@
   runtime: 98
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 3, acclaim: 0.93 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  imdb_id: tt0116282
+  poster_url: https://m.media-amazon.com/images/M/MV5BNjg4MWE0MjEtODFhNy00MjA5LTg5ODktMzgwNWFmZTAwNjBlXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: almost-famous
   tmdb_id: null
@@ -33,6 +37,8 @@
   runtime: 122
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0181875
+  poster_url: https://m.media-amazon.com/images/M/MV5BZGFmNDQzOTItOGZkNS00NjFkLWE4MjQtNmRjMjNlMjg3YzdiXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: north-country
   tmdb_id: null
@@ -41,6 +47,8 @@
   runtime: 126
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.72 }
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0395972
+  poster_url: https://m.media-amazon.com/images/M/MV5BNTM3OTEwODYzNl5BMl5BanBnXkFtZTcwNjM1NzUzMw@@._V1_SX300.jpg
 
 - id: burn-after-reading
   tmdb_id: null
@@ -49,6 +57,8 @@
   runtime: 96
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0887883
+  poster_url: https://m.media-amazon.com/images/M/MV5BMjdmNjJjMzAtMmJkMy00MDJlLTgxYjctNDU3YjBkMmJhM2M5XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: three-billboards-outside-ebbing-missouri
   tmdb_id: null
@@ -57,6 +67,8 @@
   runtime: 115
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 3, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt5027774
+  poster_url: https://m.media-amazon.com/images/M/MV5BMjI0ODcxNzM1N15BMl5BanBnXkFtZTgwMzIwMTEwNDI@._V1_SX300.jpg
 
 - id: hail-caesar
   tmdb_id: null
@@ -65,6 +77,8 @@
   runtime: 106
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0475290
+  poster_url: https://m.media-amazon.com/images/M/MV5BYmE1NDE2ODUtZmVmNi00OTM3LWFkOTItZDE2NGUwMTM0YjIyXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: nomadland
   tmdb_id: null
@@ -73,6 +87,8 @@
   runtime: 108
   tags: { opacity: 1, stillness: 4, bleakness: 3, humor: 1, acclaim: 0.90 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt9770150
+  poster_url: https://m.media-amazon.com/images/M/MV5BZGNkOWQ0ZjMtMTc4Ny00NDRhLTgyMjUtNzFmZDM0MTc3N2JjXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-tragedy-of-macbeth
   tmdb_id: null
@@ -81,6 +97,8 @@
   runtime: 105
   tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt10095582
+  poster_url: https://m.media-amazon.com/images/M/MV5BMWE0M2U3NzktZmVkOC00ZTkzLWI2NjEtODA3MmM5NjAyYWUwXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: miss-pettigrew-lives-for-a-day
   tmdb_id: null
@@ -89,6 +107,8 @@
   runtime: 92
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0970468
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTYwMjc5Mjk4OF5BMl5BanBnXkFtZTgwODc3NjMzMjI@._V1_SX300.jpg
 
 - id: moonrise-kingdom
   tmdb_id: null
@@ -97,3 +117,5 @@
   runtime: 94
   tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 4, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt1748122
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTEwMTc3NDkzOTJeQTJeQWpwZ15BbWU3MDI4NTAwNzc@._V1_QL75_UX380_CR0,0,380,562_.jpg

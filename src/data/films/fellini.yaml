@@ -8,6 +8,8 @@
   director: Federico Fellini
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.80 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0046521
+  poster_url: https://m.media-amazon.com/images/M/MV5BMWZlY2NkNDktNTUxNi00ZTg1LWJjOTMtMTc1MzcyNzg0NTdmXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: la-strada
   tmdb_id: null
@@ -16,12 +18,14 @@
   runtime: 108
   director: Federico Fellini
   tags:
-    opacity: 2    # a fable told at enough of a remove that its ending plays as parable rather than plot
+    opacity: 2 # a fable told at enough of a remove that its ending plays as parable rather than plot
     stillness: 3
-    bleakness: 5    # a childlike woman dragged town to town by a brutish strongman, and the film does not let him off for it
+    bleakness: 5 # a childlike woman dragged town to town by a brutish strongman, and the film does not let him off for it
     humor: 2
     acclaim: 0.92
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0047528
+  poster_url: https://m.media-amazon.com/images/M/MV5BMWQ0M2Q5NDAtMDg0ZC00YmM1LWI3YjktNDIxOTFiOTIzYzQ2XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: nights-of-cabiria
   tmdb_id: null
@@ -31,6 +35,8 @@
   director: Federico Fellini
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 2, acclaim: 0.90 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  imdb_id: tt0050783
+  poster_url: https://m.media-amazon.com/images/M/MV5BYmM0NDA3MzUtYzA1OC00ZDc0LWFlNWUtYjJmOTIxYjkyNGY4XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: la-dolce-vita
   tmdb_id: null
@@ -39,12 +45,14 @@
   runtime: 174
   director: Federico Fellini
   tags:
-    opacity: 2    # episodic and deliberately unresolved, with no throughline handed to the viewer
+    opacity: 2 # episodic and deliberately unresolved, with no throughline handed to the viewer
     stillness: 3
     bleakness: 3
     humor: 2
     acclaim: 0.93
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  imdb_id: tt0053779
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTkxMjQ4NzU5N15BMl5BanBnXkFtZTgwMTkwODkzMTE@._V1_SX300.jpg
 
 - id: 8-and-a-half
   tmdb_id: null
@@ -53,12 +61,14 @@
   runtime: 138
   director: Federico Fellini
   tags:
-    opacity: 3    # memory, fantasy and the film's own production blur together on purpose
+    opacity: 3 # memory, fantasy and the film's own production blur together on purpose
     stillness: 2
     bleakness: 2
     humor: 3
     acclaim: 0.95
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0056801
+  poster_url: https://m.media-amazon.com/images/M/MV5BNTc0OTg1MjU3OV5BMl5BanBnXkFtZTgwMDkyNzM3OTE@._V1_SX300.jpg
 
 - id: juliet-of-the-spirits
   tmdb_id: null
@@ -68,6 +78,8 @@
   director: Federico Fellini
   tags: { opacity: 3, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  imdb_id: tt0059229
+  poster_url: https://m.media-amazon.com/images/M/MV5BN2VjNzQ4MmMtNzRmMC00MzhlLWJjZjEtOGEyY2NkMDc5YTg1XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: fellini-satyricon
   tmdb_id: null
@@ -76,7 +88,7 @@
   runtime: 129
   director: Federico Fellini
   tags:
-    opacity: 4    # ancient Rome staged as a fever dream with almost no conventional plot left in it
+    opacity: 4 # ancient Rome staged as a fever dream with almost no conventional plot left in it
     stillness: 3
     bleakness: 4
     humor: 1
@@ -91,6 +103,8 @@
   director: Federico Fellini
   tags: { opacity: 2, stillness: 3, bleakness: 2, humor: 3, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0069191
+  poster_url: https://m.media-amazon.com/images/M/MV5BNTAzYzViODYtN2IzMC00NjU0LThkODYtZDUyMTYwODQ3YWUwXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: amarcord
   tmdb_id: null
@@ -99,12 +113,14 @@
   runtime: 123
   director: Federico Fellini
   tags:
-    opacity: 2    # childhood memory shading into outright exaggeration, and the film never marks where
+    opacity: 2 # childhood memory shading into outright exaggeration, and the film never marks where
     stillness: 2
     bleakness: 2
     humor: 4
     acclaim: 0.90
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  imdb_id: tt0071129
+  poster_url: https://m.media-amazon.com/images/M/MV5BMDFiMDIwMjQtNGFjYS00YTNiLTk5MjctZDYxMmRiNDUyNDZjXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: fellinis-casanova
   tmdb_id: null
@@ -115,7 +131,7 @@
   tags:
     opacity: 2
     stillness: 3
-    bleakness: 4    # the great seducer restaged as hollow and mechanical — the least erotic film ever made about him
+    bleakness: 4 # the great seducer restaged as hollow and mechanical — the least erotic film ever made about him
     humor: 2
     acclaim: 0.68
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
@@ -128,6 +144,8 @@
   director: Federico Fellini
   tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.62 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  imdb_id: tt0080539
+  poster_url: https://m.media-amazon.com/images/M/MV5BNGExYmJkM2ItNzEyNC00OThlLTkyYjMtODYwNzM0MTg0YzM0XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: ginger-and-fred
   tmdb_id: null

@@ -10,12 +10,14 @@
   runtime: 88
   director: Sean Baker
   tags:
-    opacity: 2    # the debt and the smugglers' terms surface gradually, withheld rather than explained upfront
+    opacity: 2 # the debt and the smugglers' terms surface gradually, withheld rather than explained upfront
     stillness: 3
     bleakness: 4
     humor: 1
     acclaim: 0.75
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0391483
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTY4NTkwNjMwN15BMl5BanBnXkFtZTcwNDkwODI2MQ@@._V1_SX300.jpg
 
 - id: prince-of-broadway
   tmdb_id: null
@@ -25,6 +27,8 @@
   director: Sean Baker
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt1000769
+  poster_url: https://m.media-amazon.com/images/M/MV5BMjI3MTgwNTM2Nl5BMl5BanBnXkFtZTcwMDcwOTU3Mw@@._V1_SX300.jpg
 
 - id: starlet
   tmdb_id: null
@@ -34,6 +38,8 @@
   director: Sean Baker
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  imdb_id: tt2035630
+  poster_url: https://m.media-amazon.com/images/M/MV5BMzI5NTI3MjYyNl5BMl5BanBnXkFtZTcwNTg1NjQ2OA@@._V1_SX300.jpg
 
 - id: tangerine
   tmdb_id: null
@@ -43,6 +49,8 @@
   director: Sean Baker
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 3, acclaim: 0.82 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  imdb_id: tt3824458
+  poster_url: https://m.media-amazon.com/images/M/MV5BMjEzNzY2NjYwOV5BMl5BanBnXkFtZTgwOTY1MDU1NTE@._V1_SX300.jpg
 
 - id: red-rocket
   tmdb_id: null
@@ -53,7 +61,9 @@
   tags:
     opacity: 1
     stillness: 2
-    bleakness: 4    # a manipulative charm the film never once lets off the hook
+    bleakness: 4 # a manipulative charm the film never once lets off the hook
     humor: 2
     acclaim: 0.78
   content: { sexual_violence: true, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 2 }
+  imdb_id: tt13453006
+  poster_url: https://m.media-amazon.com/images/M/MV5BMjQ0NmI0NjgtZjUxYS00ZjIyLTkxMjEtNzkyMWM1NjQ1ZDEyXkEyXkFqcGc@._V1_SX300.jpg

@@ -15,6 +15,8 @@
   director: Krzysztof Kieślowski
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0078763
+  poster_url: https://m.media-amazon.com/images/M/MV5BYTBjYjgxYjktY2UzMS00MDEwLTgyZTUtY2U5OWY3ZDBiMWYyXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: no-end
   tmdb_id: null
@@ -24,6 +26,8 @@
   director: Krzysztof Kieślowski
   tags: { opacity: 2, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.70 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0086961
+  poster_url: https://m.media-amazon.com/images/M/MV5BZTUwOWFmYWUtNzQwNi00YjZkLTgwZjMtODUwZDUxNmUwMmU3XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: blind-chance
   tmdb_id: null
@@ -32,12 +36,14 @@
   runtime: 122
   director: Krzysztof Kieślowski
   tags:
-    opacity: 2    # three branching versions of one life, and the film never picks which one is "real"
+    opacity: 2 # three branching versions of one life, and the film never picks which one is "real"
     stillness: 2
     bleakness: 3
     humor: 1
     acclaim: 0.78
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0084549
+  poster_url: https://m.media-amazon.com/images/M/MV5BOTZmZWQyZDgtN2ExOS00ZGU5LWJiZDMtM2Y0ZmMyNmZmOGQwXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: a-short-film-about-killing
   tmdb_id: null
@@ -47,6 +53,8 @@
   director: Krzysztof Kieślowski
   tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.88 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  imdb_id: tt0095468
+  poster_url: https://m.media-amazon.com/images/M/MV5BM2YwNzQyMWItZjliNC00YmQzLWFkZjktYWY5ODExMGNkOTEzXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: a-short-film-about-love
   tmdb_id: null
@@ -56,6 +64,8 @@
   director: Krzysztof Kieślowski
   tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
+  imdb_id: tt0095467
+  poster_url: https://m.media-amazon.com/images/M/MV5BMzkwYjBlMzktNGJiNi00OTk4LTlkMDYtOGQ5MjBkNmFhMzY4XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-double-life-of-veronique
   tmdb_id: null
@@ -64,12 +74,14 @@
   runtime: 98
   director: Krzysztof Kieślowski
   tags:
-    opacity: 3    # two women sense each other across countries, and the film never explains how or why
+    opacity: 3 # two women sense each other across countries, and the film never explains how or why
     stillness: 3
     bleakness: 3
     humor: 1
     acclaim: 0.88
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  imdb_id: tt0101765
+  poster_url: https://m.media-amazon.com/images/M/MV5BZjE1MjAxMjgtMTRjMC00YTFjLThhMzgtNzdlODZiZjA0MWMxXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: three-colours-white
   tmdb_id: null

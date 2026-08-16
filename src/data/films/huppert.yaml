@@ -13,6 +13,8 @@
   runtime: 108
   tags: { opacity: 2, stillness: 4, bleakness: 4, humor: 1, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  imdb_id: tt0075932
+  poster_url: https://m.media-amazon.com/images/M/MV5BZTMwYjVmOGQtZjVkMi00Yzg5LWIzMjMtOWExNTVhZTJmNmY5XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: violette-noziere
   tmdb_id: null
@@ -29,6 +31,8 @@
   runtime: 110
   tags: { opacity: 2, stillness: 3, bleakness: 3, humor: 2, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 2 }
+  imdb_id: tt0081076
+  poster_url: https://m.media-amazon.com/images/M/MV5BMWFjZGI4NWEtZmVhZC00OWI5LTgzNDUtNDEwNGYyZjQyY2M3XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: story-of-women
   tmdb_id: null
@@ -37,6 +41,8 @@
   runtime: 110
   tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  imdb_id: tt0096336
+  poster_url: https://m.media-amazon.com/images/M/MV5BMjA3ZTdjMzktMzNiMC00NWQzLWJhZjMtMTIzYzA1YjFlOTEyXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: la-ceremonie
   tmdb_id: null
@@ -47,7 +53,7 @@
     opacity: 2
     stillness: 3
     bleakness: 5
-    humor: 2    # it is genuinely funny for an hour, which is what makes the last ten minutes land
+    humor: 2 # it is genuinely funny for an hour, which is what makes the last ten minutes land
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
 
@@ -58,6 +64,8 @@
   runtime: 111
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.70 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 1 }
+  imdb_id: tt0283832
+  poster_url: https://m.media-amazon.com/images/M/MV5BMDg5ZGVmNjItNDcwNi00ZGY5LThjM2MtMzJiMmRmYTljNDVlXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: ma-mere
   tmdb_id: null
@@ -66,6 +74,8 @@
   runtime: 110
   tags: { opacity: 3, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.50 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 3 }
+  imdb_id: tt0381392
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTU5MzA3NTE4MF5BMl5BanBnXkFtZTcwMDkyMjkyMQ@@._V1_SX300.jpg
 
 - id: elle
   tmdb_id: null
@@ -76,9 +86,11 @@
     opacity: 2
     stillness: 3
     bleakness: 4
-    humor: 3    # a black comedy about a rape, which is why it divided everyone who saw it
+    humor: 3 # a black comedy about a rape, which is why it divided everyone who saw it
     acclaim: 0.80
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 3 }
+  imdb_id: tt3716530
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTc5NDI5MzA1OF5BMl5BanBnXkFtZTgwMTQzNTQwMDI@._V1_SX300.jpg
 
 - id: things-to-come
   tmdb_id: null
@@ -87,3 +99,5 @@
   runtime: 102
   tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 3, acclaim: 0.80 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt4120176
+  poster_url: https://m.media-amazon.com/images/M/MV5BNmMxNmRjZmEtYjc5Ni00MmE0LWFjMDYtZDE2ODQ0M2ZjZTVmXkEyXkFqcGc@._V1_SX300.jpg

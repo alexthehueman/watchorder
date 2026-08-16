@@ -23,9 +23,11 @@
     opacity: 1
     stillness: 3
     bleakness: 3
-    humor: 3    # Christy Brown's own dry, combative wit is a real part of the film, not a footnote
+    humor: 3 # Christy Brown's own dry, combative wit is a real part of the film, not a footnote
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0097937
+  poster_url: https://m.media-amazon.com/images/M/MV5BYzU2NDY0YzItOTVhNS00Yzk4LTg0ZTktNjFiZDJmZTgwMDYyXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: last-of-the-mohicans
   tmdb_id: null
@@ -35,6 +37,8 @@
   director: Michael Mann
   tags: { opacity: 2, stillness: 1, bleakness: 3, humor: 2, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  imdb_id: tt0104691
+  poster_url: https://m.media-amazon.com/images/M/MV5BODAxNTAxMDItMzkwZS00ZTEyLWJlZmMtYTc0MGI1NDdkNWZkXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: in-the-name-of-the-father
   tmdb_id: null
@@ -46,9 +50,11 @@
     opacity: 1
     stillness: 3
     bleakness: 5
-    humor: 1    # the gallows humour among the prisoners is brief; the film is genuinely unrelenting
+    humor: 1 # the gallows humour among the prisoners is brief; the film is genuinely unrelenting
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0107207
+  poster_url: https://m.media-amazon.com/images/M/MV5BMGZiZDVjNzYtZWM4ZC00MzVkLThhNDEtMDJlOTBhYzVjMmNhXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: gangs-of-new-york
   tmdb_id: null
@@ -60,9 +66,11 @@
     opacity: 2
     stillness: 2
     bleakness: 4
-    humor: 4    # Bill the Butcher is a theatrical showman as much as a threat, played almost for camp
+    humor: 4 # Bill the Butcher is a theatrical showman as much as a threat, played almost for camp
     acclaim: 0.72
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+  imdb_id: tt0217505
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTQ0MDA0MTUtYzkzMi00NDY3LThhZDEtNGM4MWUwYzMyZDk5XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: lincoln
   tmdb_id: null
@@ -72,11 +80,13 @@
   director: Steven Spielberg
   tags:
     opacity: 2
-    stillness: 4    # a great deal of procedural talk, deliberately unhurried
+    stillness: 4 # a great deal of procedural talk, deliberately unhurried
     bleakness: 2
-    humor: 4    # the folksy storytelling is a documented, famous part of the performance
+    humor: 4 # the folksy storytelling is a documented, famous part of the performance
     acclaim: 0.82
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0443272
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTQzNzczMDUyNV5BMl5BanBnXkFtZTcwNjM2ODEzOA@@._V1_SX300.jpg
 
 - id: the-age-of-innocence
   tmdb_id: null
@@ -86,11 +96,13 @@
   director: Martin Scorsese
   tags:
     opacity: 2
-    stillness: 5    # Scorsese shooting repression as a costume drama; almost nothing is said outright
+    stillness: 5 # Scorsese shooting repression as a costume drama; almost nothing is said outright
     bleakness: 3
     humor: 1
     acclaim: 0.78
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  imdb_id: tt0106226
+  poster_url: https://m.media-amazon.com/images/M/MV5BMzFkYjQzZjUtY2NjNi00ZDFkLWI4M2MtN2RjODQ0NDJkMWM0XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-crucible
   tmdb_id: null
@@ -100,3 +112,5 @@
   director: Nicholas Hytner
   tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 1 }
+  imdb_id: tt0115988
+  poster_url: https://m.media-amazon.com/images/M/MV5BNTQwMzQ4Y2YtODRhMS00NGQ2LThkZTctMTJkNWM4NzM4N2Q2XkEyXkFqcGc@._V1_SX300.jpg

@@ -17,6 +17,8 @@
     suicide: false
     violence: 1
     sex: 1
+  imdb_id: tt0094868
+  poster_url: https://m.media-amazon.com/images/M/MV5BMjI2NDcyMDc0Ml5BMl5BanBnXkFtZTcwOTA0NjMzNA@@._V1_SX300.jpg
 
 - id: no-fear-no-die
   tmdb_id: null
@@ -26,11 +28,13 @@
   tags: { opacity: 3, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.60 }
   content:
     sexual_violence: false
-    animal_harm: true    # cockfighting, filmed at length
+    animal_harm: true # cockfighting, filmed at length
     child_harm: false
     suicide: false
     violence: 2
     sex: 1
+  imdb_id: tt0100536
+  poster_url: https://m.media-amazon.com/images/M/MV5BOGJkNDIwMzgtYThlOS00NWJhLWE5OWItYjM4N2Q5ODc2YWNmXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: i-cant-sleep
   tmdb_id: null
@@ -45,6 +49,8 @@
     suicide: false
     violence: 2
     sex: 1
+  imdb_id: tt0110171
+  poster_url: https://m.media-amazon.com/images/M/MV5BMjE0OTE4MTQ3OF5BMl5BanBnXkFtZTcwMTM5NjcyMQ@@._V1_SX300.jpg
 
 - id: nenette-et-boni
   tmdb_id: null
@@ -68,7 +74,7 @@
   tags:
     opacity: 4
     stillness: 5
-    bleakness: 3    # jealousy and exile, but the last shot is closer to release than despair
+    bleakness: 3 # jealousy and exile, but the last shot is closer to release than despair
     humor: 1
     acclaim: 0.94
   content:
@@ -78,6 +84,8 @@
     suicide: false
     violence: 1
     sex: 0
+  imdb_id: tt0209933
+  poster_url: https://m.media-amazon.com/images/M/MV5BZTY3ODQ4ZjItMzAxMy00MjgxLThhY2MtNDY2NzFhZWJkMjcyXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: trouble-every-day
   tmdb_id: null
@@ -92,6 +100,8 @@
     suicide: false
     violence: 3
     sex: 3
+  imdb_id: tt0204700
+  poster_url: https://m.media-amazon.com/images/M/MV5BMGIyNmVlYzEtODNkZi00NjdjLWExNDctZWFiM2FhYzgzNTkwXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: friday-night
   tmdb_id: null
@@ -106,6 +116,8 @@
     suicide: false
     violence: 0
     sex: 2
+  imdb_id: tt0295743
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTk4MTE5NzU0N15BMl5BanBnXkFtZTYwNDA3ODk5._V1_SX300.jpg
 
 - id: the-intruder
   tmdb_id: null
@@ -113,7 +125,7 @@
   year: 2004
   runtime: 130
   tags:
-    opacity: 5    # dream, memory and plot are never separated, and never meant to be
+    opacity: 5 # dream, memory and plot are never separated, and never meant to be
     stillness: 5
     bleakness: 4
     humor: 1
@@ -125,6 +137,8 @@
     suicide: false
     violence: 2
     sex: 1
+  imdb_id: tt0422491
+  poster_url: https://m.media-amazon.com/images/M/MV5BMzU4MTAyMTc5NF5BMl5BanBnXkFtZTcwNjg0NzIzMQ@@._V1_SX300.jpg
 
 - id: 35-shots-of-rum
   tmdb_id: null
@@ -134,7 +148,7 @@
   tags:
     opacity: 2
     stillness: 4
-    bleakness: 2    # her warmest film by a distance, and the argument against her reputation
+    bleakness: 2 # her warmest film by a distance, and the argument against her reputation
     humor: 2
     acclaim: 0.80
   content:
@@ -144,6 +158,8 @@
     suicide: false
     violence: 0
     sex: 0
+  imdb_id: tt1100048
+  poster_url: https://m.media-amazon.com/images/M/MV5BZWJkMDM2MzktOGNjMS00MjliLTkwYWEtYTE1NTQ5Yzc4MmE1XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: white-material
   tmdb_id: null
@@ -158,6 +174,8 @@
     suicide: false
     violence: 3
     sex: 0
+  imdb_id: tt1135952
+  poster_url: https://m.media-amazon.com/images/M/MV5BMWIzOTY5MmMtOWE1Ny00OWRmLTkzMDQtMGEyOTBhZDJkOTMyXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: bastards
   tmdb_id: null
@@ -172,6 +190,8 @@
     suicide: true
     violence: 2
     sex: 3
+  imdb_id: tt2821088
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTAxNzE5NzU0MDleQTJeQWpwZ15BbWU4MDY4MzU3NDAx._V1_SX300.jpg
 
 - id: let-the-sunshine-in
   tmdb_id: null
@@ -186,6 +206,8 @@
     suicide: false
     violence: 0
     sex: 2
+  imdb_id: tt6423776
+  poster_url: https://m.media-amazon.com/images/M/MV5BNmJhYjA0MTQtYWQ4MC00NjQzLTg5OWItNWVjN2QxOGE2ZTM0XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: high-life
   tmdb_id: null
@@ -200,3 +222,5 @@
     suicide: true
     violence: 3
     sex: 3
+  imdb_id: tt4827558
+  poster_url: https://m.media-amazon.com/images/M/MV5BNDRhYjdiMDEtN2UzZC00ZGQyLTk3OTQtMTFkZGQ0YmM5NDk4XkEyXkFqcGc@._V1_SX300.jpg

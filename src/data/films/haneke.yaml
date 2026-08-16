@@ -12,11 +12,13 @@
   tags: { opacity: 3, stillness: 5, bleakness: 5, humor: 1, acclaim: 0.75 }
   content:
     sexual_violence: false
-    animal_harm: true    # the aquarium
+    animal_harm: true # the aquarium
     child_harm: true
     suicide: true
     violence: 1
     sex: 0
+  imdb_id: tt0098327
+  poster_url: https://m.media-amazon.com/images/M/MV5BMjdkMmMzYzMtMzMwOC00ODMwLTk0MzctYmNkMjY5MTMyNTY2XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: bennys-video
   tmdb_id: null
@@ -26,11 +28,13 @@
   tags: { opacity: 2, stillness: 4, bleakness: 5, humor: 1, acclaim: 0.70 }
   content:
     sexual_violence: false
-    animal_harm: true    # the pig, on camera, twice
+    animal_harm: true # the pig, on camera, twice
     child_harm: true
     suicide: false
     violence: 3
     sex: 1
+  imdb_id: tt0103793
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTM2NDI1NDMtNDFkZi00N2IxLTkxMzYtMTliYTcxM2VhNzA0XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: 71-fragments
   tmdb_id: null
@@ -45,6 +49,8 @@
     suicide: false
     violence: 2
     sex: 0
+  imdb_id: tt0109020
+  poster_url: https://m.media-amazon.com/images/M/MV5BZTNlYWUzOTYtYTkyNC00Zjg4LWIwYTMtMDQxYmQ4ZmQyMjQyXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: funny-games
   tmdb_id: null
@@ -55,7 +61,7 @@
     opacity: 2
     stillness: 3
     bleakness: 5
-    humor: 2    # it is a comedy aimed at the audience, and the joke is on them watching
+    humor: 2 # it is a comedy aimed at the audience, and the joke is on them watching
     acclaim: 0.78
   content:
     sexual_violence: false
@@ -64,6 +70,8 @@
     suicide: false
     violence: 3
     sex: 1
+  imdb_id: tt0119167
+  poster_url: https://m.media-amazon.com/images/M/MV5BN2NkZWQyNzgtNGIzZC00YjFkLWFkZGQtNTU0OGI5ODYxODA1XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: code-unknown
   tmdb_id: null
@@ -78,6 +86,8 @@
     suicide: false
     violence: 2
     sex: 0
+  imdb_id: tt0216625
+  poster_url: https://m.media-amazon.com/images/M/MV5BOGRjMmVlODUtNzRhNy00NTVjLWFjMGEtMzFiNTZiYjA1YzRhXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-piano-teacher
   tmdb_id: null
@@ -92,6 +102,8 @@
     suicide: false
     violence: 2
     sex: 3
+  imdb_id: tt0254686
+  poster_url: https://m.media-amazon.com/images/M/MV5BOGE3ZjE2NjItMGIyZi00NjMxLWJiZWItMWJmMzZjOTgzZjJhXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: time-of-the-wolf
   tmdb_id: null
@@ -106,6 +118,8 @@
     suicide: false
     violence: 2
     sex: 0
+  imdb_id: tt0324197
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTkwMDg4NjYwOF5BMl5BanBnXkFtZTcwNDE4MzYyMQ@@._V1_SX300.jpg
 
 - id: cache
   tmdb_id: null
@@ -120,6 +134,8 @@
     suicide: true
     violence: 2
     sex: 0
+  imdb_id: tt0387898
+  poster_url: https://m.media-amazon.com/images/M/MV5BYmRiMDFkZmMtYmVkMC00MDFhLTg5YTUtNTk3M2IxNGMwZGRmXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: funny-games-us
   tmdb_id: null
@@ -148,6 +164,8 @@
     suicide: false
     violence: 2
     sex: 1
+  imdb_id: tt1149362
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTQ2OTYyNzUxOF5BMl5BanBnXkFtZTcwMzUwMDY4Mg@@._V1_SX300.jpg
 
 - id: amour
   tmdb_id: null
@@ -155,7 +173,7 @@
   year: 2012
   runtime: 127
   tags:
-    opacity: 1    # the one film of his that withholds nothing at all
+    opacity: 1 # the one film of his that withholds nothing at all
     stillness: 4
     bleakness: 5
     humor: 1
@@ -167,6 +185,8 @@
     suicide: true
     violence: 1
     sex: 0
+  imdb_id: tt1602620
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTk1NTc3NDc4MF5BMl5BanBnXkFtZTcwNjYwNDk0OA@@._V1_SX300.jpg
 
 - id: happy-end
   tmdb_id: null
@@ -177,7 +197,7 @@
     opacity: 3
     stillness: 4
     bleakness: 4
-    humor: 3    # the title is the joke, and the film sustains it
+    humor: 3 # the title is the joke, and the film sustains it
     acclaim: 0.58
   content:
     sexual_violence: false
@@ -186,3 +206,5 @@
     suicide: true
     violence: 1
     sex: 1
+  imdb_id: tt5304464
+  poster_url: https://m.media-amazon.com/images/M/MV5BZGIyNDcxNzQtZTI2Yi00OTYxLTg2ZTAtYmM3NjY5MjU5ZDc5XkEyXkFqcGc@._V1_SX300.jpg
