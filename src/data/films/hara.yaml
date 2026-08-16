@@ -6,7 +6,7 @@
 # reasoning applied to a director's corpus.
 
 - id: no-regrets-for-our-youth
-  tmdb_id: null
+  tmdb_id: 43487
   title: No Regrets for Our Youth
   year: 1946
   runtime: 110
@@ -15,9 +15,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0039090
   poster_url: https://m.media-amazon.com/images/M/MV5BOWQ5MzFkMjgtMzBhYi00ZDg0LTg5N2YtZmRmMDk3MzA4NTUyXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: no-regrets-for-our-youth
 
 - id: late-spring
-  tmdb_id: null
+  tmdb_id: 20530
   title: Late Spring
   year: 1949
   runtime: 108
@@ -26,9 +27,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0041154
   poster_url: https://m.media-amazon.com/images/M/MV5BOTAxZjZhOTctY2E1Yi00MTFmLWEzOWEtZGNhYzkwNjdiZTYyXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: late-spring
 
 - id: repast
-  tmdb_id: null
+  tmdb_id: 47184
   title: Repast
   year: 1951
   runtime: 97
@@ -37,9 +39,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0043801
   poster_url: https://m.media-amazon.com/images/M/MV5BMTQ3ODJjNTYtZjg5ZS00MWNjLWJjZGMtN2U0MTI0ODJkMmE1XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: repast
 
 - id: early-summer
-  tmdb_id: null
+  tmdb_id: 50247
   title: Early Summer
   year: 1951
   runtime: 124
@@ -48,9 +51,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0043313
   poster_url: https://m.media-amazon.com/images/M/MV5BMGY0MDM0NzQtMDQ1MS00MjU2LTlkZWItOTUyODg3NzRlNDA0XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: early-summer
 
 - id: tokyo-story
-  tmdb_id: null
+  tmdb_id: 18148
   title: Tokyo Story
   year: 1953
   runtime: 136
@@ -59,9 +63,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0046438
   poster_url: https://m.media-amazon.com/images/M/MV5BODdkNzcxZjItMDU2Yy00Y2JlLWFkYTQtNzIwM2Q4MWU5MTU2XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: tokyo-story
 
 - id: sound-of-the-mountain
-  tmdb_id: null
+  tmdb_id: 46492
   title: Sound of the Mountain
   year: 1954
   runtime: 95
@@ -70,9 +75,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0047682
   poster_url: https://m.media-amazon.com/images/M/MV5BYjQ1MDE3OGMtNzI4My00ZjE4LWE5ZDQtYTllMmU1NzZjM2Y1XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: sound-of-the-mountain
 
 - id: tokyo-twilight
-  tmdb_id: null
+  tmdb_id: 55192
   title: Tokyo Twilight
   year: 1957
   runtime: 141
@@ -81,9 +87,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 1 }
   imdb_id: tt0051093
   poster_url: https://m.media-amazon.com/images/M/MV5BYzk2YjcwODktOTc1ZS00YmU4LThlMTMtNDJhNmY5YWNhNTExXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: tokyo-twilight
 
 - id: late-autumn
-  tmdb_id: null
+  tmdb_id: 21967
   title: Late Autumn
   year: 1960
   runtime: 128
@@ -92,9 +99,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0053579
   poster_url: https://m.media-amazon.com/images/M/MV5BOGJiN2M3NDktMDIzNS00NWQ2LWJiODUtNjg3ZTVmMzIxYTQ2XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: late-autumn
 
 - id: the-end-of-summer
-  tmdb_id: null
+  tmdb_id: 28273
   title: The End of Summer
   year: 1961
   runtime: 103
@@ -103,3 +111,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0055052
   poster_url: https://m.media-amazon.com/images/M/MV5BMGVjYzhiMGUtY2E1Zi00Yjg2LTljZjUtZTU5ZWUwNGE3ZGE4XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-end-of-summer

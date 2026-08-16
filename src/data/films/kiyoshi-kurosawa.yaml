@@ -5,7 +5,7 @@
 # bleakness and humor numbers here spread further than a horror director's usually would.
 
 - id: cure
-  tmdb_id: null
+  tmdb_id: 36095
   title: Cure
   year: 1997
   runtime: 111
@@ -13,9 +13,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt0123948
   poster_url: https://m.media-amazon.com/images/M/MV5BNDcyMTRiMWQtMjA4MS00OTk3LTkxYmMtMjI4ODAyNGVlZTU0XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: cure
 
 - id: charisma
-  tmdb_id: null
+  tmdb_id: 72490
   title: Charisma
   year: 1999
   runtime: 103
@@ -23,9 +24,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0201517
   poster_url: https://m.media-amazon.com/images/M/MV5BMjQ1MmNlOWMtMjkzNC00ZDU1LThmZjQtY2ViYzBmMzRiNTA1XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: charisma
 
 - id: seance
-  tmdb_id: null
+  tmdb_id: 27742
   title: Séance
   year: 2000
   runtime: 97
@@ -33,9 +35,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0259388
   poster_url: https://m.media-amazon.com/images/M/MV5BMjEyMTE2NTcyOV5BMl5BanBnXkFtZTcwNzQ3ODgyMQ@@._V1_SX300.jpg
+  letterboxd_slug: seance-2000
 
 - id: pulse
-  tmdb_id: null
+  tmdb_id: 27324
   title: Pulse
   year: 2001
   runtime: 118
@@ -43,9 +46,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 0 }
   imdb_id: tt0286751
   poster_url: https://m.media-amazon.com/images/M/MV5BMDZkODZjMDQtZDVlNy00ZGJiLTk3ZTYtMzM5MTJkYzU0MmM4XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: pulse-2001
 
 - id: bright-future
-  tmdb_id: null
+  tmdb_id: 26886
   title: Bright Future
   year: 2003
   runtime: 115
@@ -53,6 +57,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0363235
   poster_url: https://m.media-amazon.com/images/M/MV5BMzkzOTk4NTUwOV5BMl5BanBnXkFtZTcwMDQ5NjcyMQ@@._V1_SX300.jpg
+  letterboxd_slug: bright-future
 
 - id: doppelganger
   tmdb_id: 32234
@@ -70,7 +75,7 @@
   letterboxd_slug: doppelganger-2003
 
 - id: retribution
-  tmdb_id: null
+  tmdb_id: 46164
   title: Retribution
   year: 2006
   runtime: 104
@@ -78,9 +83,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0843302
   poster_url: https://m.media-amazon.com/images/M/MV5BYTI2MzVlYzYtYmY3Ny00NDRhLWEwZmItYmM3YWZiMGRhNjNkXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: retribution
 
 - id: tokyo-sonata
-  tmdb_id: null
+  tmdb_id: 8937
   title: Tokyo Sonata
   year: 2008
   runtime: 120
@@ -93,9 +99,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0938341
   poster_url: https://m.media-amazon.com/images/M/MV5BZDRhZjI5M2ItZWY3NS00NGY1LThiMTctMDRlZGY2MzAwZTczXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: tokyo-sonata
 
 - id: real
-  tmdb_id: null
+  tmdb_id: 180891
   title: Real
   year: 2013
   runtime: 127
@@ -103,9 +110,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 0 }
   imdb_id: tt2280964
   poster_url: https://m.media-amazon.com/images/M/MV5BNmQ1N2Y3MTktNTRkYS00MjRiLThkMDktYzQxNzQ3NzMzMWJjXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: real-2013
 
 - id: journey-to-the-shore
-  tmdb_id: null
+  tmdb_id: 334991
   title: Journey to the Shore
   year: 2015
   runtime: 128
@@ -113,9 +121,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt4173478
   poster_url: https://m.media-amazon.com/images/M/MV5BNzdiMDI0NTctMjhkYy00ODM3LWE4ZGQtNjE2MTdhNzk3NDYxXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: journey-to-the-shore
 
 - id: creepy
-  tmdb_id: null
+  tmdb_id: 380620
   title: Creepy
   year: 2016
   runtime: 130
@@ -123,9 +132,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt4900708
   poster_url: https://m.media-amazon.com/images/M/MV5BMzg1YzQwN2UtZjYyZi00NDY1LTk5NWMtMDhhNWJkMjZlNTlkXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: creepy
 
 - id: before-we-vanish
-  tmdb_id: null
+  tmdb_id: 446164
   title: Before We Vanish
   year: 2017
   runtime: 130
@@ -133,9 +143,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt5999530
   poster_url: https://m.media-amazon.com/images/M/MV5BYzhkNzdiMWItZjY1Yi00MDAxLWIwNDgtM2M4MTJkZmFmNTliXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: before-we-vanish
 
 - id: wife-of-a-spy
-  tmdb_id: null
+  tmdb_id: 688301
   title: Wife of a Spy
   year: 2020
   runtime: 115
@@ -143,3 +154,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt11917942
   poster_url: https://m.media-amazon.com/images/M/MV5BNjgwMzIwNzgtMjI2YS00YTMyLWFlNzgtYjhlMDlhOWNiNjk5XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: wife-of-a-spy

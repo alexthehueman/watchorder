@@ -7,7 +7,7 @@
 # filmography.
 
 - id: winter-light
-  tmdb_id: null
+  tmdb_id: 29455
   title: Winter Light
   year: 1963
   runtime: 81
@@ -16,9 +16,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 0 }
   imdb_id: tt0057358
   poster_url: https://m.media-amazon.com/images/M/MV5BYzY2OWYwYzgtNzVkOS00ZTdjLTg5NWUtYTY0YzdiYmM4NTlmXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: winter-light
 
 - id: the-silence
-  tmdb_id: null
+  tmdb_id: 11506
   title: The Silence
   year: 1963
   runtime: 96
@@ -32,9 +33,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
   imdb_id: tt0057611
   poster_url: https://m.media-amazon.com/images/M/MV5BMThjMDQ2YTMtZjdmNy00NmI2LTliY2EtMTcxM2RjM2JjOGZmXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-silence
 
 - id: fanny-and-alexander
-  tmdb_id: null
+  tmdb_id: 5961
   title: Fanny and Alexander
   year: 1982
   runtime: 188
@@ -43,3 +45,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0083922
   poster_url: https://m.media-amazon.com/images/M/MV5BNjIwMzRhZWUtOTA0YS00MmFmLWI4ZjgtNjNlZmU3M2Q1Y2NhXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: fanny-and-alexander

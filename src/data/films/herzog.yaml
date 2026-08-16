@@ -3,7 +3,7 @@
 # not a reach to pad the corpus.
 
 - id: aguirre-the-wrath-of-god
-  tmdb_id: null
+  tmdb_id: 2000
   title: Aguirre, the Wrath of God
   year: 1972
   runtime: 95
@@ -17,9 +17,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0068182
   poster_url: https://m.media-amazon.com/images/M/MV5BNGYyMDRhYTgtMjIzNy00OGQyLTk4MTEtZTM2ODlmNjc0NTlhXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: aguirre-the-wrath-of-god
 
 - id: the-enigma-of-kaspar-hauser
-  tmdb_id: null
+  tmdb_id: 11710
   title: The Enigma of Kaspar Hauser
   year: 1974
   runtime: 110
@@ -28,9 +29,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0071691
   poster_url: https://m.media-amazon.com/images/M/MV5BYzBiNWVjNjEtOGJhMS00MTA0LTgzZTgtMDY2OGY5OGQzMTIyXkEyXkFqcGc@._V1_QL75_UY562_CR8,0,380,562_.jpg
+  letterboxd_slug: the-enigma-of-kaspar-hauser
 
 - id: stroszek
-  tmdb_id: null
+  tmdb_id: 11698
   title: Stroszek
   year: 1977
   runtime: 108
@@ -39,9 +41,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
   imdb_id: tt0075276
   poster_url: https://m.media-amazon.com/images/M/MV5BOWE1MGI2YTAtOTdiZi00NTQ0LWEyZmItNjVhNGYzNDg2NjNiXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: stroszek
 
 - id: woyzeck
-  tmdb_id: null
+  tmdb_id: 10319
   title: Woyzeck
   year: 1979
   runtime: 82
@@ -50,9 +53,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0080149
   poster_url: https://m.media-amazon.com/images/M/MV5BNjI4ZjAwY2ItMzliOC00NmExLWFhNWMtMGMxZmU4OWU1ODg3XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: woyzeck
 
 - id: nosferatu-the-vampyre
-  tmdb_id: null
+  tmdb_id: 6404
   title: Nosferatu the Vampyre
   year: 1979
   runtime: 107
@@ -61,9 +65,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0079641
   poster_url: https://m.media-amazon.com/images/M/MV5BYjgzODFlMTgtNDhiMS00ZGZmLTliOTUtMjU5NjBkYmU4NGNkXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: nosferatu-the-vampyre
 
 - id: fitzcarraldo
-  tmdb_id: null
+  tmdb_id: 9343
   title: Fitzcarraldo
   year: 1982
   runtime: 158
@@ -72,9 +77,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0083946
   poster_url: https://m.media-amazon.com/images/M/MV5BYzJjNTRkNjUtZGE4MC00YmRlLWI0ODYtMzJjNGZkYWMzNTJhXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: fitzcarraldo
 
 - id: grizzly-man
-  tmdb_id: null
+  tmdb_id: 501
   title: Grizzly Man
   year: 2005
   runtime: 103
@@ -83,9 +89,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0427312
   poster_url: https://m.media-amazon.com/images/M/MV5BODc3NTAxMTY1MV5BMl5BanBnXkFtZTcwOTE4NjUzMw@@._V1_SX300.jpg
+  letterboxd_slug: grizzly-man
 
 - id: rescue-dawn
-  tmdb_id: null
+  tmdb_id: 9952
   title: Rescue Dawn
   year: 2006
   runtime: 126
@@ -94,9 +101,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0462504
   poster_url: https://m.media-amazon.com/images/M/MV5BNzUxNzUzNzU2MV5BMl5BanBnXkFtZTcwNTgzNzU2NA@@._V1_SX300.jpg
+  letterboxd_slug: rescue-dawn
 
 - id: encounters-at-the-end-of-the-world
-  tmdb_id: null
+  tmdb_id: 12172
   title: Encounters at the End of the World
   year: 2007
   runtime: 101
@@ -105,9 +113,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt1093824
   poster_url: https://m.media-amazon.com/images/M/MV5BOTI3NjkyNjY2OV5BMl5BanBnXkFtZTcwOTUwMTU3MQ@@._V1_SX300.jpg
+  letterboxd_slug: encounters-at-the-end-of-the-world
 
 - id: bad-lieutenant-port-of-call-new-orleans
-  tmdb_id: null
+  tmdb_id: 11699
   title: Bad Lieutenant - Port of Call New Orleans
   year: 2009
   runtime: 122
@@ -116,6 +125,7 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 2 }
   imdb_id: tt1095217
   poster_url: https://m.media-amazon.com/images/M/MV5BMTcyMzY0NTMzMF5BMl5BanBnXkFtZTcwMTc1MjY4Mg@@._V1_SX300.jpg
+  letterboxd_slug: bad-lieutenant-port-of-call-new-orleans
 
 - id: cave-of-forgotten-dreams
   tmdb_id: 59490
@@ -129,7 +139,7 @@
   letterboxd_slug: cave-of-forgotten-dreams
 
 - id: into-the-abyss
-  tmdb_id: null
+  tmdb_id: 77365
   title: Into the Abyss
   year: 2011
   runtime: 107
@@ -138,3 +148,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt1972663
   poster_url: https://m.media-amazon.com/images/M/MV5BNTQyODM2MzMxMV5BMl5BanBnXkFtZTcwNDIzNjY5Ng@@._V1_SX300.jpg
+  letterboxd_slug: into-the-abyss

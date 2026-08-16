@@ -1,7 +1,7 @@
 # Films for Gena Rowlands. Scales and anchors are in README.md ("The anchor rubric").
 
 - id: faces
-  tmdb_id: null
+  tmdb_id: 753
   title: Faces
   year: 1968
   runtime: 130
@@ -10,9 +10,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt0062952
   poster_url: https://m.media-amazon.com/images/M/MV5BNmNlOTk1ZmYtZmNiMi00NzZkLWFhY2EtNWE2YTkyZDhkYjg5XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: faces-1968
 
 - id: minnie-and-moskowitz
-  tmdb_id: null
+  tmdb_id: 24349
   title: Minnie and Moskowitz
   year: 1971
   runtime: 114
@@ -21,9 +22,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0067433
   poster_url: https://m.media-amazon.com/images/M/MV5BNjc2N2MxYzUtMTFhOS00MmZmLWIyNDktMTEwNTEzNjRjMjAzXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: minnie-and-moskowitz
 
 - id: a-woman-under-the-influence
-  tmdb_id: null
+  tmdb_id: 29845
   title: A Woman Under the Influence
   year: 1974
   runtime: 147
@@ -32,9 +34,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0072417
   poster_url: https://m.media-amazon.com/images/M/MV5BODk2MWJmN2MtYmVhMi00MjZjLTlhZTMtMmM2ZWRjZDc2ZjQ2XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: a-woman-under-the-influence
 
 - id: opening-night
-  tmdb_id: null
+  tmdb_id: 33665
   title: Opening Night
   year: 1977
   runtime: 144
@@ -43,9 +46,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0079672
   poster_url: https://m.media-amazon.com/images/M/MV5BMDVlYjdiZDctMzQwMi00YTE4LTlmZTItZGUyNDQ5MjA1ODgwXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: opening-night
 
 - id: gloria
-  tmdb_id: null
+  tmdb_id: 10889
   title: Gloria
   year: 1980
   runtime: 121
@@ -54,9 +58,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt0080798
   poster_url: https://m.media-amazon.com/images/M/MV5BNDk0ZGYxYmQtMWEwZi00MjdlLTg4NTEtZmQ2OGNiODc3YmZiXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: gloria
 
 - id: love-streams
-  tmdb_id: null
+  tmdb_id: 52109
   title: Love Streams
   year: 1984
   runtime: 141
@@ -65,9 +70,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0087644
   poster_url: https://m.media-amazon.com/images/M/MV5BYmMxYzJmOTQtMTc2NS00Njg2LTk5OTItNDUxNWMzMjQyODhhXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: love-streams
 
 - id: tempest-1982
-  tmdb_id: null
+  tmdb_id: 48249
   title: Tempest
   year: 1982
   runtime: 140
@@ -76,9 +82,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt0084776
   poster_url: https://m.media-amazon.com/images/M/MV5BNzQ0YTU5MGEtOGZjZi00YmUwLWFkZWEtMzQ0YTkyZjJkN2ZmXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: tempest
 
 - id: something-to-talk-about
-  tmdb_id: null
+  tmdb_id: 18402
   title: Something to Talk About
   year: 1995
   runtime: 105
@@ -87,9 +94,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt0114496
   poster_url: https://m.media-amazon.com/images/M/MV5BMjhlMjc5NzItMTJhNS00NTk5LTgxZDMtNWM1NzcwMDhmMDRmXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: something-to-talk-about
 
 - id: unhook-the-stars
-  tmdb_id: null
+  tmdb_id: 48862
   title: Unhook the Stars
   year: 1996
   runtime: 103
@@ -98,9 +106,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0118044
   poster_url: https://m.media-amazon.com/images/M/MV5BNzJmYmJmNTUtOWIzNy00ZWU1LTg3ODktZjc2Zjc5ZDI1M2Q2XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: unhook-the-stars
 
 - id: the-notebook
-  tmdb_id: null
+  tmdb_id: 11036
   title: The Notebook
   year: 2004
   runtime: 123
@@ -109,3 +118,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt0332280
   poster_url: https://m.media-amazon.com/images/M/MV5BZjE0ZjgzMzYtMTAxYi00NGMzLThmZDktNzFlMzA2MWRmYWQ0XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg
+  letterboxd_slug: the-notebook

@@ -6,7 +6,7 @@
 # exactly the separation between bleakness and difficulty the rubric insists on.
 
 - id: la-pointe-courte
-  tmdb_id: null
+  tmdb_id: 54436
   title: La Pointe Courte
   year: 1955
   runtime: 80
@@ -14,9 +14,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0048499
   poster_url: https://m.media-amazon.com/images/M/MV5BNWFjMmMzNGYtOGRhNi00MjE5LTg4MDEtYjExYTVhMjcyZDQwXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: la-pointe-courte
 
 - id: cleo-from-5-to-7
-  tmdb_id: null
+  tmdb_id: 499
   title: Cléo from 5 to 7
   year: 1962
   runtime: 90
@@ -24,6 +25,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0055852
   poster_url: https://m.media-amazon.com/images/M/MV5BYjVhMzAyY2YtMmNmMS00YzQ0LTllM2EtNWJjNDhiODNmNjBjXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: cleo-from-5-to-7
 
 - id: le-bonheur
   tmdb_id: null
@@ -59,7 +61,7 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BOWQzYTNiNTAtNjQ4NS00OTNmLTkxYTUtNGE0MzYxYjFkYTkzXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: vagabond
-  tmdb_id: null
+  tmdb_id: 44018
   title: Vagabond
   year: 1985
   runtime: 105
@@ -67,6 +69,7 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
   imdb_id: tt0089960
   poster_url: https://m.media-amazon.com/images/M/MV5BZTY2NTQwNjMtYmQ4OS00M2MwLTk1MGEtYzMyNTBlMzIyY2QyXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: vagabond
 
 - id: jane-b-par-agnes-v
   tmdb_id: null
@@ -97,7 +100,7 @@
   letterboxd_slug: the-gleaners-and-i
 
 - id: the-beaches-of-agnes
-  tmdb_id: null
+  tmdb_id: 38879
   title: The Beaches of Agnès
   year: 2008
   runtime: 110
@@ -105,9 +108,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt1129435
   poster_url: https://m.media-amazon.com/images/M/MV5BMjEwOTMwNjM1MF5BMl5BanBnXkFtZTcwNDQ0OTk2Mg@@._V1_SX300.jpg
+  letterboxd_slug: the-beaches-of-agnes
 
 - id: faces-places
-  tmdb_id: null
+  tmdb_id: 451995
   title: Faces Places
   year: 2017
   runtime: 94
@@ -120,6 +124,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt5598102
   poster_url: https://m.media-amazon.com/images/M/MV5BY2IzNWExMGQtZTNkNC00Y2ZjLWI5MjctMDQ0MDEwZDU3Nzg1XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: faces-places
 
 - id: varda-by-agnes
   tmdb_id: 554967

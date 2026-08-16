@@ -2,7 +2,7 @@
 # arrived with Ingrid Bergman and is not repeated here.
 
 - id: persona
-  tmdb_id: null
+  tmdb_id: 797
   title: Persona
   year: 1966
   runtime: 83
@@ -11,9 +11,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0060827
   poster_url: https://m.media-amazon.com/images/M/MV5BYTRhNzkzMDktZDNlNi00MDIwLWFiNjAtNTlmYjZjYWZlMTEzXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: persona
 
 - id: hour-of-the-wolf
-  tmdb_id: null
+  tmdb_id: 18333
   title: Hour of the Wolf
   year: 1968
   runtime: 90
@@ -22,9 +23,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0063759
   poster_url: https://m.media-amazon.com/images/M/MV5BZjhkMDEwMDUtZGExNC00MDZiLWI5MGEtYzRiMTMzZjQxYmM0XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: hour-of-the-wolf
 
 - id: shame-1968
-  tmdb_id: null
+  tmdb_id: 26372
   title: Shame
   year: 1968
   runtime: 103
@@ -33,9 +35,10 @@
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt0063611
   poster_url: https://m.media-amazon.com/images/M/MV5BY2ZkYTU2YzAtODE0Zi00MjRkLTlhN2MtMDhkMWI4NjllMDgzXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: shame
 
 - id: the-emigrants
-  tmdb_id: null
+  tmdb_id: 40732
   title: The Emigrants
   year: 1971
   runtime: 191
@@ -44,6 +47,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0067919
   poster_url: https://m.media-amazon.com/images/M/MV5BNGNmOGE4YjMtZmE5OS00MDhlLWFmZDYtNGE0NmVkMDFjMWM2XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-emigrants
 
 - id: cries-and-whispers
   tmdb_id: 10238
@@ -66,7 +70,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
 
 - id: scenes-from-a-marriage
-  tmdb_id: null
+  tmdb_id: 133919
   title: Scenes from a Marriage
   year: 1973
   runtime: 169
@@ -75,9 +79,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
   imdb_id: tt6725014
   poster_url: https://m.media-amazon.com/images/M/MV5BYThlOTg4MjctMWRlOC00MGVkLWJmMGMtNWRjYWI5ZTg4MWIwXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: scenes-from-a-marriage
 
 - id: face-to-face
-  tmdb_id: null
+  tmdb_id: 29454
   title: Face to Face
   year: 1976
   runtime: 136
@@ -86,3 +91,4 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
   imdb_id: tt0074147
   poster_url: https://m.media-amazon.com/images/M/MV5BNGY0MjJkZGUtOGZkYS00Mzc0LTkzM2UtMzM2YmNhZGE0ZjA3XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: face-to-face

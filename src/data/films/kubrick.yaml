@@ -15,7 +15,7 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTMyODMxOTUtZWI0ZS00Y2ZhLWJmMjMtZDIzYThlNmMwYTEwXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-killing
-  tmdb_id: null
+  tmdb_id: 247
   title: The Killing
   year: 1956
   runtime: 85
@@ -24,9 +24,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0049406
   poster_url: https://m.media-amazon.com/images/M/MV5BNGNhNTNiZjMtM2U1Yy00MTYwLWJhZGMtM2E1ZWU0NWFlYWMxXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-killing
 
 - id: paths-of-glory
-  tmdb_id: null
+  tmdb_id: 975
   title: Paths of Glory
   year: 1957
   runtime: 88
@@ -40,9 +41,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0050825
   poster_url: https://m.media-amazon.com/images/M/MV5BNmQ2NmI2ODYtMDQzNS00NzQyLTkzZjgtZmZlYTQ5MTc1OWU3XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: paths-of-glory
 
 - id: spartacus
-  tmdb_id: null
+  tmdb_id: 967
   title: Spartacus
   year: 1960
   runtime: 197
@@ -51,9 +53,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0054331
   poster_url: https://m.media-amazon.com/images/M/MV5BMTcyOThhYzktMTYyMi00NDU5LWExZWMtOWUzNGJiZGFlMWQwXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: spartacus
 
 - id: lolita
-  tmdb_id: null
+  tmdb_id: 802
   title: Lolita
   year: 1962
   runtime: 153
@@ -67,6 +70,7 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt0056193
   poster_url: https://m.media-amazon.com/images/M/MV5BNmY2ZTEwZTAtOThkZS00MzkxLTk3MDUtOTJiMTgzOGI1MzdjXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: lolita
 
 - id: dr-strangelove
   tmdb_id: null
@@ -78,7 +82,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
 
 - id: 2001-a-space-odyssey
-  tmdb_id: null
+  tmdb_id: 62
   title: '2001: A Space Odyssey'
   year: 1968
   runtime: 149
@@ -87,9 +91,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0062622
   poster_url: https://m.media-amazon.com/images/M/MV5BNjU0NDFkMTQtZWY5OS00MmZhLTg3Y2QtZmJhMzMzMWYyYjc2XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: 2001-a-space-odyssey
 
 - id: a-clockwork-orange
-  tmdb_id: null
+  tmdb_id: 185
   title: A Clockwork Orange
   year: 1971
   runtime: 136
@@ -103,9 +108,10 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 2 }
   imdb_id: tt0066921
   poster_url: https://m.media-amazon.com/images/M/MV5BMTY3MjM1Mzc4N15BMl5BanBnXkFtZTgwODM0NzAxMDE@._V1_SX300.jpg
+  letterboxd_slug: a-clockwork-orange
 
 - id: barry-lyndon
-  tmdb_id: null
+  tmdb_id: 3175
   title: Barry Lyndon
   year: 1975
   runtime: 184
@@ -114,9 +120,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0072684
   poster_url: https://m.media-amazon.com/images/M/MV5BNmM2MGQ5Y2UtYzA3ZC00ZDJlLTkwNDYtMjBmZGExZDJiN2RlXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: barry-lyndon
 
 - id: full-metal-jacket
-  tmdb_id: null
+  tmdb_id: 600
   title: Full Metal Jacket
   year: 1987
   runtime: 116
@@ -125,9 +132,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 3, sex: 0 }
   imdb_id: tt0093058
   poster_url: https://m.media-amazon.com/images/M/MV5BYWUzNzZkNzUtNDdiYy00Nzk5LTgxMmItNTk0MjRjNjdjNDA0XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg
+  letterboxd_slug: full-metal-jacket
 
 - id: eyes-wide-shut
-  tmdb_id: null
+  tmdb_id: 345
   title: Eyes Wide Shut
   year: 1999
   runtime: 159
@@ -141,3 +149,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 3 }
   imdb_id: tt0120663
   poster_url: https://m.media-amazon.com/images/M/MV5BZTQ0MmM5MDAtYmYyZS00MzlmLTlhZTAtZDJlZWY5ZTZkZjZmXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: eyes-wide-shut

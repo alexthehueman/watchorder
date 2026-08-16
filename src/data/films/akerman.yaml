@@ -15,7 +15,7 @@
   letterboxd_slug: je-tu-il-elle
 
 - id: jeanne-dielman
-  tmdb_id: null
+  tmdb_id: 44012
   title: Jeanne Dielman, 23 quai du Commerce, 1080 Bruxelles
   year: 1975
   runtime: 201
@@ -28,9 +28,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 2 }
   imdb_id: tt0073198
   poster_url: https://m.media-amazon.com/images/M/MV5BMDNlYWVhYjctNTIzNi00NGJhLWFmNzYtZTVmOWUxNmYwM2IyXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: jeanne-dielman-23-quai-du-commerce-1080-bruxelles
 
 - id: news-from-home
-  tmdb_id: null
+  tmdb_id: 86814
   title: News from Home
   year: 1977
   runtime: 88
@@ -38,6 +39,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0076452
   poster_url: https://m.media-amazon.com/images/M/MV5BYmE2MzM4OTYtZDVkZS00NmRjLWExY2UtMjcxYjg4ZmI2MDc5XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: news-from-home
 
 - id: les-rendez-vous-danna
   tmdb_id: null
@@ -58,7 +60,7 @@
   letterboxd_slug: toute-une-nuit
 
 - id: golden-eighties
-  tmdb_id: null
+  tmdb_id: 63763
   title: Golden Eighties
   year: 1986
   runtime: 96
@@ -71,9 +73,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt0092219
   poster_url: https://m.media-amazon.com/images/M/MV5BNzdhN2U3MjAtZDIzNi00NjlhLWI3MGQtZDM4MmRkMTg0MGFhXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: golden-eighties
 
 - id: night-and-day
-  tmdb_id: null
+  tmdb_id: 108822
   title: Night and Day
   year: 1991
   runtime: 90
@@ -81,6 +84,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
   imdb_id: tt0102566
   poster_url: https://m.media-amazon.com/images/M/MV5BNDcwOTU5OWMtODU4Yy00ZDlkLTg1Y2UtYzNiZmY4ZGY1ZGE3XkEyXkFqcGdeQXVyMjQzMzQzODY@._V1_SX300.jpg
+  letterboxd_slug: night-and-day-1991
 
 - id: dest
   tmdb_id: null
@@ -96,7 +100,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
 
 - id: a-couch-in-new-york
-  tmdb_id: null
+  tmdb_id: 47434
   title: A Couch in New York
   year: 1996
   runtime: 108
@@ -104,6 +108,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt0118018
   poster_url: https://m.media-amazon.com/images/M/MV5BOGUzODAyNjEtOGI3OC00ZGUwLThhNTAtZWMxZTM0MjU5NWI4XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: a-couch-in-new-york
 
 - id: la-captive
   tmdb_id: null
@@ -114,7 +119,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 2 }
 
 - id: no-home-movie
-  tmdb_id: null
+  tmdb_id: 354388
   title: No Home Movie
   year: 2015
   runtime: 115
@@ -122,3 +127,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
   imdb_id: tt4881016
   poster_url: https://m.media-amazon.com/images/M/MV5BMjA4Mjk5ODI2NV5BMl5BanBnXkFtZTgwOTg5ODA1ODE@._V1_SX300.jpg
+  letterboxd_slug: no-home-movie

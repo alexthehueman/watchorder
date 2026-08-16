@@ -7,7 +7,7 @@
 # while Amour is a major Haneke film and a supporting part for her.
 
 - id: the-lacemaker
-  tmdb_id: null
+  tmdb_id: 56935
   title: The Lacemaker
   year: 1977
   runtime: 108
@@ -15,6 +15,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt0075932
   poster_url: https://m.media-amazon.com/images/M/MV5BZTMwYjVmOGQtZjVkMi00Yzg5LWIzMjMtOWExNTVhZTJmNmY5XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-lacemaker
 
 - id: violette-noziere
   tmdb_id: 2813
@@ -27,7 +28,7 @@
   letterboxd_slug: violette-noziere
 
 - id: loulou
-  tmdb_id: null
+  tmdb_id: 39415
   title: Loulou
   year: 1980
   runtime: 110
@@ -35,9 +36,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 2 }
   imdb_id: tt0081076
   poster_url: https://m.media-amazon.com/images/M/MV5BMWFjZGI4NWEtZmVhZC00OWI5LTgzNDUtNDEwNGYyZjQyY2M3XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: loulou
 
 - id: story-of-women
-  tmdb_id: null
+  tmdb_id: 41975
   title: Story of Women
   year: 1988
   runtime: 110
@@ -45,6 +47,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
   imdb_id: tt0096336
   poster_url: https://m.media-amazon.com/images/M/MV5BMjA3ZTdjMzktMzNiMC00NWQzLWJhZjMtMTIzYzA1YjFlOTEyXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: story-of-women
 
 - id: la-ceremonie
   tmdb_id: 1802
@@ -62,7 +65,7 @@
   letterboxd_slug: la-ceremonie
 
 - id: 8-women
-  tmdb_id: null
+  tmdb_id: 1958
   title: 8 Women
   year: 2002
   runtime: 111
@@ -70,9 +73,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 1 }
   imdb_id: tt0283832
   poster_url: https://m.media-amazon.com/images/M/MV5BMDg5ZGVmNjItNDcwNi00ZGY5LThjM2MtMzJiMmRmYTljNDVlXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: 8-women
 
 - id: ma-mere
-  tmdb_id: null
+  tmdb_id: 48266
   title: Ma Mère
   year: 2004
   runtime: 110
@@ -80,9 +84,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 3 }
   imdb_id: tt0381392
   poster_url: https://m.media-amazon.com/images/M/MV5BMTU5MzA3NTE4MF5BMl5BanBnXkFtZTcwMDkyMjkyMQ@@._V1_SX300.jpg
+  letterboxd_slug: ma-mere
 
 - id: elle
-  tmdb_id: null
+  tmdb_id: 337674
   title: Elle
   year: 2016
   runtime: 130
@@ -95,9 +100,10 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 3 }
   imdb_id: tt3716530
   poster_url: https://m.media-amazon.com/images/M/MV5BMTc5NDI5MzA1OF5BMl5BanBnXkFtZTgwMTQzNTQwMDI@._V1_SX300.jpg
+  letterboxd_slug: elle
 
 - id: things-to-come
-  tmdb_id: null
+  tmdb_id: 374465
   title: Things to Come
   year: 2016
   runtime: 102
@@ -105,3 +111,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt4120176
   poster_url: https://m.media-amazon.com/images/M/MV5BNmMxNmRjZmEtYjc5Ni00MmE0LWFjMDYtZDE2ODQ0M2ZjZTVmXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: things-to-come-2016

@@ -6,7 +6,7 @@
 # cinema. A schema that only measured difficulty would render him as one long grey smear.
 
 - id: rebels-of-the-neon-god
-  tmdb_id: null
+  tmdb_id: 57564
   title: Rebels of the Neon God
   year: 1992
   runtime: 106
@@ -14,6 +14,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
   imdb_id: tt0103935
   poster_url: https://m.media-amazon.com/images/M/MV5BODkxNjgwNjk0MF5BMl5BanBnXkFtZTgwNzM0NjA5NDE@._V1_SX300.jpg
+  letterboxd_slug: rebels-of-the-neon-god
 
 - id: vive-lamour
   tmdb_id: null
@@ -26,7 +27,7 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZjg3NzEzMjItZWE4Zi00MDNiLTg2YWItMWZjODM3NjIzYWQxXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-river
-  tmdb_id: null
+  tmdb_id: 54291
   title: The River
   year: 1997
   runtime: 115
@@ -34,9 +35,10 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
   imdb_id: tt0119263
   poster_url: https://m.media-amazon.com/images/M/MV5BYTEzMWZmMmYtMzBhOC00N2NlLTkzZTYtMzk1OTkzZWY5ODJlXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-river-1997
 
 - id: the-hole
-  tmdb_id: null
+  tmdb_id: 47060
   title: The Hole
   year: 1998
   runtime: 95
@@ -49,9 +51,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt0156610
   poster_url: https://m.media-amazon.com/images/M/MV5BODE0MGE0OTAtYmFiYS00OWExLTgzNWMtNGRiZjQ1ZDVmMzJkXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-hole
 
 - id: what-time-is-it-there
-  tmdb_id: null
+  tmdb_id: 24166
   title: What Time Is It There?
   year: 2001
   runtime: 116
@@ -59,9 +62,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt0269746
   poster_url: https://m.media-amazon.com/images/M/MV5BNTMzNDIzNjYyOF5BMl5BanBnXkFtZTcwODE4OTQyMQ@@._V1_SX300.jpg
+  letterboxd_slug: what-time-is-it-there
 
 - id: goodbye-dragon-inn
-  tmdb_id: null
+  tmdb_id: 56616
   title: Goodbye, Dragon Inn
   year: 2003
   runtime: 82
@@ -74,9 +78,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt0377556
   poster_url: https://m.media-amazon.com/images/M/MV5BYzE5NmU0MGUtZmRmZC00N2IzLWFmODgtMzdiNTc2MDY1ZWY2XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: goodbye-dragon-inn
 
 - id: the-wayward-cloud
-  tmdb_id: null
+  tmdb_id: 36253
   title: The Wayward Cloud
   year: 2005
   runtime: 112
@@ -84,6 +89,7 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 3 }
   imdb_id: tt0445760
   poster_url: https://m.media-amazon.com/images/M/MV5BOGRjOTMxNmEtNWIyNS00ZGM4LWIwNmUtNDRhMTcwMGU5MzM0XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-wayward-cloud
 
 - id: i-dont-want-to-sleep-alone
   tmdb_id: null
@@ -106,7 +112,7 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNzgwMDJhNmQtMTg1YS00Y2VmLWI2YTctNDBmNDY3MThiNWY0XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: stray-dogs
-  tmdb_id: null
+  tmdb_id: 209840
   title: Stray Dogs
   year: 2013
   runtime: 138
@@ -114,9 +120,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt3119416
   poster_url: https://m.media-amazon.com/images/M/MV5BMjI5NjE4NTQyMl5BMl5BanBnXkFtZTgwMjE4NTgyMjE@._V1_SX300.jpg
+  letterboxd_slug: stray-dogs-2013
 
 - id: days
-  tmdb_id: null
+  tmdb_id: 662400
   title: Days
   year: 2020
   runtime: 127
@@ -124,3 +131,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
   imdb_id: tt11697820
   poster_url: https://m.media-amazon.com/images/M/MV5BNGM5ZTE5OGEtODIzMC00ZWNlLTg1ZWMtMGUwMjU2ZWU3NWQwXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: days-2020

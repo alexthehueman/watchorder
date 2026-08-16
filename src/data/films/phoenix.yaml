@@ -4,7 +4,7 @@
 # Thomas Anderson; You Were Never Really Here for Lynne Ramsay. Only the five below are new.
 
 - id: to-die-for
-  tmdb_id: null
+  tmdb_id: 577
   title: To Die For
   year: 1995
   runtime: 106
@@ -12,9 +12,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0114681
   poster_url: https://m.media-amazon.com/images/M/MV5BZWJlODViYTUtMzY3MS00ZDRlLTkzODQtMDdiOTBiN2E0MDA5XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: to-die-for
 
 - id: gladiator
-  tmdb_id: null
+  tmdb_id: 98
   title: Gladiator
   year: 2000
   runtime: 155
@@ -22,9 +23,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0172495
   poster_url: https://m.media-amazon.com/images/M/MV5BYWQ4YmNjYjEtOWE1Zi00Y2U4LWI4NTAtMTU0MjkxNWQ1ZmJiXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg
+  letterboxd_slug: gladiator-2000
 
 - id: walk-the-line
-  tmdb_id: null
+  tmdb_id: 69
   title: Walk the Line
   year: 2005
   runtime: 136
@@ -32,9 +34,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0358273
   poster_url: https://m.media-amazon.com/images/M/MV5BMjIyOTU3MjUxOF5BMl5BanBnXkFtZTcwMTQ0NjYzMw@@._V1_SX300.jpg
+  letterboxd_slug: walk-the-line
 
 - id: her
-  tmdb_id: null
+  tmdb_id: 152601
   title: Her
   year: 2013
   runtime: 126
@@ -42,9 +45,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt1798709
   poster_url: https://m.media-amazon.com/images/M/MV5BMjA1Nzk0OTM2OF5BMl5BanBnXkFtZTgwNjU2NjEwMDE@._V1_QL75_UX380_CR0,0,380,562_.jpg
+  letterboxd_slug: her
 
 - id: joker
-  tmdb_id: null
+  tmdb_id: 475557
   title: Joker
   year: 2019
   runtime: 122
@@ -52,3 +56,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt7286456
   poster_url: https://m.media-amazon.com/images/M/MV5BNzY3OWQ5NDktNWQ2OC00ZjdlLThkMmItMDhhNDk3NTFiZGU4XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg
+  letterboxd_slug: joker-2019

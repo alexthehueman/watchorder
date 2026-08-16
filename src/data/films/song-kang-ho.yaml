@@ -2,7 +2,7 @@
 # not repeated here.
 
 - id: sympathy-for-mr-vengeance
-  tmdb_id: null
+  tmdb_id: 4689
   title: Sympathy for Mr. Vengeance
   year: 2002
   runtime: 121
@@ -11,9 +11,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt0310775
   poster_url: https://m.media-amazon.com/images/M/MV5BM2ZlYmM2OGUtMzkxMS00YjZlLTg4NjctZjc3OWRlYjY0YmI1XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: sympathy-for-mr-vengeance
 
 - id: memories-of-murder
-  tmdb_id: null
+  tmdb_id: 11423
   title: Memories of Murder
   year: 2003
   runtime: 131
@@ -27,9 +28,10 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt0353969
   poster_url: https://m.media-amazon.com/images/M/MV5BYmRjOWE5NmMtYTdkYS00ODFlLWJiMTMtYzE2NDZlZjlkZDQ0XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: memories-of-murder
 
 - id: the-host-2006
-  tmdb_id: null
+  tmdb_id: 1255
   title: The Host
   year: 2006
   runtime: 120
@@ -38,9 +40,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt0468492
   poster_url: https://m.media-amazon.com/images/M/MV5BMTQzYzI1MDAtYzVkOC00N2U1LThmNzYtNmYyNDg5MzQwYjEwXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-host
 
 - id: the-good-the-bad-the-weird
-  tmdb_id: null
+  tmdb_id: 15067
   title: The Good, the Bad, the Weird
   year: 2008
   runtime: 130
@@ -49,9 +52,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt0901487
   poster_url: https://m.media-amazon.com/images/M/MV5BMDQxOGMwMTUtZTNmMi00ODJmLThiMDctYTJhMzM2YTMzMDhkXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-good-the-bad-the-weird
 
 - id: thirst
-  tmdb_id: null
+  tmdb_id: 22536
   title: Thirst
   year: 2009
   runtime: 133
@@ -60,9 +64,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 2 }
   imdb_id: tt0762073
   poster_url: https://m.media-amazon.com/images/M/MV5BMDIxMTk2MjAtYTgzNy00NDE5LTg2MWQtYjM5ODBhODZkN2M4XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: thirst-2009
 
 - id: secret-sunshine
-  tmdb_id: null
+  tmdb_id: 2015
   title: Secret Sunshine
   year: 2007
   runtime: 142
@@ -71,9 +76,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0817225
   poster_url: https://m.media-amazon.com/images/M/MV5BMjAzMDE5MDM5OV5BMl5BanBnXkFtZTgwMDE1NzE1MjE@._V1_SX300.jpg
+  letterboxd_slug: secret-sunshine
 
 - id: the-attorney
-  tmdb_id: null
+  tmdb_id: 242452
   title: The Attorney
   year: 2013
   runtime: 127
@@ -82,9 +88,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt3404140
   poster_url: https://m.media-amazon.com/images/M/MV5BMjI2ODg5NDcxN15BMl5BanBnXkFtZTgwMDEzNzIwMTE@._V1_SX300.jpg
+  letterboxd_slug: the-attorney
 
 - id: parasite
-  tmdb_id: null
+  tmdb_id: 496243
   title: Parasite
   year: 2019
   runtime: 132
@@ -93,9 +100,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt6751668
   poster_url: https://m.media-amazon.com/images/M/MV5BYjk1Y2U4MjQtY2ZiNS00OWQyLWI3MmYtZWUwNmRjYWRiNWNhXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: parasite-2019
 
 - id: cobweb
-  tmdb_id: null
+  tmdb_id: 709631
   title: Cobweb
   year: 2023
   runtime: 133
@@ -104,9 +112,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt9100018
   poster_url: https://m.media-amazon.com/images/M/MV5BNDY5ZGIwZjUtMmVhZi00OTBlLTk5ZTctOTY3Y2VlMGM1ZjI0XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: cobweb-2023
 
 - id: broker
-  tmdb_id: null
+  tmdb_id: 736732
   title: Broker
   year: 2022
   runtime: 129
@@ -115,3 +124,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt13056052
   poster_url: https://m.media-amazon.com/images/M/MV5BZDRmYTY2ZTgtZDJlNi00OTBhLTg4MjYtNTQ0YmZjOWNlYWQzXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: broker-2022

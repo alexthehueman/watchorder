@@ -1,7 +1,7 @@
 # Films for Max von Sydow. Scales and anchors are in README.md ("The anchor rubric").
 
 - id: the-seventh-seal
-  tmdb_id: null
+  tmdb_id: 490
   title: The Seventh Seal
   year: 1957
   runtime: 96
@@ -10,9 +10,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0050976
   poster_url: https://m.media-amazon.com/images/M/MV5BZDlmYTkzOWUtODQ0MS00MmM4LWE3ZjMtYTEwNGUwMmJkYzIxXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-seventh-seal
 
 - id: wild-strawberries
-  tmdb_id: null
+  tmdb_id: 614
   title: Wild Strawberries
   year: 1957
   runtime: 91
@@ -21,9 +22,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0050986
   poster_url: https://m.media-amazon.com/images/M/MV5BZWQ5MDllM2EtZWRmNS00MmZiLWI4ZWQtMjRiY2Q5MTAxODY4XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: wild-strawberries
 
 - id: the-virgin-spring
-  tmdb_id: null
+  tmdb_id: 11656
   title: The Virgin Spring
   year: 1960
   runtime: 89
@@ -32,9 +34,10 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt0053976
   poster_url: https://m.media-amazon.com/images/M/MV5BZWM2NzYyOGItZTU1Ni00MWY1LTlkZTMtZmI4MzZlYjdjNzc5XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-virgin-spring
 
 - id: through-a-glass-darkly
-  tmdb_id: null
+  tmdb_id: 11602
   title: Through a Glass Darkly
   year: 1961
   runtime: 91
@@ -43,9 +46,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt0055499
   poster_url: https://m.media-amazon.com/images/M/MV5BMThmYzA0MjEtOTU1Yi00YTk4LThlNjEtN2MwZThiOGIxNWViXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: through-a-glass-darkly
 
 - id: hawaii
-  tmdb_id: null
+  tmdb_id: 14689
   title: Hawaii
   year: 1966
   runtime: 189
@@ -54,9 +58,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0060491
   poster_url: https://m.media-amazon.com/images/M/MV5BMTQyMjc3Mzc5M15BMl5BanBnXkFtZTcwMTc5ODA0NA@@._V1_SX300.jpg
+  letterboxd_slug: hawaii
 
 - id: the-exorcist
-  tmdb_id: null
+  tmdb_id: 9552
   title: The Exorcist
   year: 1973
   runtime: 122
@@ -65,9 +70,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 1 }
   imdb_id: tt0070047
   poster_url: https://m.media-amazon.com/images/M/MV5BZjg3YjE4ZjAtYTdmYS00ZTBkLWE1ZjgtNzAzODUwNzRiYjlmXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-exorcist
 
 - id: flash-gordon
-  tmdb_id: null
+  tmdb_id: 3604
   title: Flash Gordon
   year: 1980
   runtime: 111
@@ -81,9 +87,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0080745
   poster_url: https://m.media-amazon.com/images/M/MV5BYzQ1NGE2MTItY2Q0ZS00ZmYyLWEzZjgtYWIwNGU2NWFkZGQ1XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: flash-gordon-1980
 
 - id: conan-the-barbarian
-  tmdb_id: null
+  tmdb_id: 9387
   title: Conan the Barbarian
   year: 1982
   runtime: 129
@@ -92,9 +99,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
   imdb_id: tt0082198
   poster_url: https://m.media-amazon.com/images/M/MV5BMjUzM2YzZDAtNzk1MS00YmNmLTg1ZmQtNjgyN2U3NTY0ZjE4XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: conan-the-barbarian
 
 - id: never-say-never-again
-  tmdb_id: null
+  tmdb_id: 36670
   title: Never Say Never Again
   year: 1983
   runtime: 134
@@ -103,9 +111,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
   imdb_id: tt0086006
   poster_url: https://m.media-amazon.com/images/M/MV5BM2ZkMzg5ZmQtYzhjMy00ZGM0LWJkNTgtZDMwMzljZGMyZDc0XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: never-say-never-again
 
 - id: pelle-the-conqueror
-  tmdb_id: null
+  tmdb_id: 11174
   title: Pelle the Conqueror
   year: 1987
   runtime: 138
@@ -114,9 +123,10 @@
   content: { sexual_violence: false, animal_harm: true, child_harm: true, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0093713
   poster_url: https://m.media-amazon.com/images/M/MV5BMjc0NGNmZmUtMGRlMC00Zjg4LWI1MWEtMzUzYjE1MmU0MGYzXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: pelle-the-conqueror
 
 - id: shutter-island
-  tmdb_id: null
+  tmdb_id: 11324
   title: Shutter Island
   year: 2010
   runtime: 138
@@ -125,3 +135,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt1130884
   poster_url: https://m.media-amazon.com/images/M/MV5BN2FjNWExYzEtY2YzOC00YjNlLTllMTQtNmIwM2Q1YzBhOWM1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg
+  letterboxd_slug: shutter-island

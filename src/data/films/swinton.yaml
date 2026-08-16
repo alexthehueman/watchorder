@@ -2,7 +2,7 @@
 # Lynne Ramsay and is not repeated here.
 
 - id: orlando
-  tmdb_id: null
+  tmdb_id: 9300
   title: Orlando
   year: 1992
   runtime: 93
@@ -11,9 +11,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0107756
   poster_url: https://m.media-amazon.com/images/M/MV5BZThhODA0ZmQtM2UyMy00YWY0LTg4MGItZTJhZmI2NWJkMTM1XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: orlando
 
 - id: michael-clayton
-  tmdb_id: null
+  tmdb_id: 4566
   title: Michael Clayton
   year: 2007
   runtime: 119
@@ -22,9 +23,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0465538
   poster_url: https://m.media-amazon.com/images/M/MV5BMTc0NTU5MjI2MV5BMl5BanBnXkFtZTcwMTg5NTQzMw@@._V1_SX300.jpg
+  letterboxd_slug: michael-clayton
 
 - id: i-am-love
-  tmdb_id: null
+  tmdb_id: 41110
   title: I Am Love
   year: 2009
   runtime: 120
@@ -33,9 +35,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
   imdb_id: tt1226236
   poster_url: https://m.media-amazon.com/images/M/MV5BMjAwNjY5OTUxM15BMl5BanBnXkFtZTcwNjE3MTQxMw@@._V1_SX300.jpg
+  letterboxd_slug: i-am-love
 
 - id: only-lovers-left-alive
-  tmdb_id: null
+  tmdb_id: 152603
   title: Only Lovers Left Alive
   year: 2013
   runtime: 123
@@ -44,9 +47,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt1714915
   poster_url: https://m.media-amazon.com/images/M/MV5BMTY0NTQ1NjA0OV5BMl5BanBnXkFtZTgwMDg5NjkzMTE@._V1_SX300.jpg
+  letterboxd_slug: only-lovers-left-alive
 
 - id: snowpiercer
-  tmdb_id: null
+  tmdb_id: 110415
   title: Snowpiercer
   year: 2013
   runtime: 126
@@ -55,3 +59,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt1706620
   poster_url: https://m.media-amazon.com/images/M/MV5BMTQ3NzA1MTY3MV5BMl5BanBnXkFtZTgwNzE2Mzg5MTE@._V1_SX300.jpg
+  letterboxd_slug: snowpiercer

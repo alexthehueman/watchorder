@@ -4,7 +4,7 @@
 # Katharine Hepburn. Only the six below are new.
 
 - id: a-place-in-the-sun
-  tmdb_id: null
+  tmdb_id: 25673
   title: A Place in the Sun
   year: 1951
   runtime: 122
@@ -12,9 +12,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0043924
   poster_url: https://m.media-amazon.com/images/M/MV5BMjM4MzFjMjgtOTVmYi00YWI2LThlNTItYTdhNTE4ODhhZjgwXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: a-place-in-the-sun
 
 - id: giant
-  tmdb_id: null
+  tmdb_id: 1712
   title: Giant
   year: 1956
   runtime: 201
@@ -22,9 +23,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0049261
   poster_url: https://m.media-amazon.com/images/M/MV5BYTRjYjQ4ZjktZWVkNS00YmRkLTkwMjYtOTA5ZDUxM2UzNDk1XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: giant
 
 - id: cat-on-a-hot-tin-roof
-  tmdb_id: null
+  tmdb_id: 261
   title: Cat on a Hot Tin Roof
   year: 1958
   runtime: 108
@@ -32,9 +34,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0051459
   poster_url: https://m.media-amazon.com/images/M/MV5BMTYzNjY1YjYtNDQzMi00M2JjLTgwMDEtMDc3ZWE3ZmI2NjNiXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: cat-on-a-hot-tin-roof
 
 - id: butterfield-8
-  tmdb_id: null
+  tmdb_id: 23724
   title: Butterfield 8
   year: 1960
   runtime: 109
@@ -42,9 +45,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
   imdb_id: tt0053622
   poster_url: https://m.media-amazon.com/images/M/MV5BNzEzNjJmOWItODEzZC00NmFiLTgyMzQtNTJhNDk1ZDAzZTJiXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: butterfield-8
 
 - id: cleopatra
-  tmdb_id: null
+  tmdb_id: 8095
   title: Cleopatra
   year: 1963
   runtime: 192
@@ -52,6 +56,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 0 }
   imdb_id: tt0056937
   poster_url: https://m.media-amazon.com/images/M/MV5BNDM0NzA2MTUtZTVhOC00MDYxLTk2MWMtNTY2ZjkyN2U5ZjM0XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: cleopatra-1963
 
 - id: whos-afraid-of-virginia-woolf
   tmdb_id: null

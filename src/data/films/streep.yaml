@@ -1,7 +1,7 @@
 # Films for Meryl Streep. Scales and anchors are in README.md ("The anchor rubric").
 
 - id: kramer-vs-kramer
-  tmdb_id: null
+  tmdb_id: 12102
   title: Kramer vs. Kramer
   year: 1979
   runtime: 105
@@ -10,6 +10,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0079417
   poster_url: https://m.media-amazon.com/images/M/MV5BNTJmYjYwZDMtYmU5MS00OWM0LWIxZTctZTcxODJkOTU4ZDMxXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: kramer-vs-kramer
 
 - id: sophies-choice
   tmdb_id: null
@@ -23,7 +24,7 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZDZiZGY3OWYtY2E3My00ZTY0LTk4NTEtYjMzMWZkNGJiMjNiXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: out-of-africa
-  tmdb_id: null
+  tmdb_id: 606
   title: Out of Africa
   year: 1985
   runtime: 161
@@ -32,9 +33,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt0089755
   poster_url: https://m.media-amazon.com/images/M/MV5BOWQ5MGI3NWYtMmVjNS00OWIzLWEzMGQtMGZhMzY3NjI2YjhiXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: out-of-africa
 
 - id: a-cry-in-the-dark
-  tmdb_id: null
+  tmdb_id: 35119
   title: A Cry in the Dark
   year: 1988
   runtime: 121
@@ -43,9 +45,10 @@
   content: { sexual_violence: false, animal_harm: true, child_harm: true, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0094924
   poster_url: https://m.media-amazon.com/images/M/MV5BZjk4OTM2NDQtODY2OS00MjczLWI3NTktNTgzNjE0ZDc3ZWFiXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: a-cry-in-the-dark
 
 - id: the-bridges-of-madison-county
-  tmdb_id: null
+  tmdb_id: 688
   title: The Bridges of Madison County
   year: 1995
   runtime: 135
@@ -54,9 +57,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt0112579
   poster_url: https://m.media-amazon.com/images/M/MV5BODBlMjVmOGYtZjY0Mi00MDgzLWE3MDYtNDk5ZmE1OGNkMGZjXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-bridges-of-madison-county
 
 - id: the-devil-wears-prada
-  tmdb_id: null
+  tmdb_id: 350
   title: The Devil Wears Prada
   year: 2006
   runtime: 109
@@ -65,9 +69,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0458352
   poster_url: https://m.media-amazon.com/images/M/MV5BOWM3NTI3YWEtYjJmMy00M2U5LWI1NzEtZWM3ZDY2ZWNjOGRiXkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg
+  letterboxd_slug: the-devil-wears-prada
 
 - id: doubt
-  tmdb_id: null
+  tmdb_id: 14359
   title: Doubt
   year: 2008
   runtime: 104
@@ -81,6 +86,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0918927
   poster_url: https://m.media-amazon.com/images/M/MV5BZWZmNDMyY2UtOWIwMC00MjE5LTkwNmUtYjRiMThkNjI0OGEwXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: doubt
 
 - id: julie-and-julia
   tmdb_id: null
@@ -94,7 +100,7 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMzA4NjA2NjI2NV5BMl5BanBnXkFtZTcwOTEzNzI2Mg@@._V1_SX300.jpg
 
 - id: mamma-mia
-  tmdb_id: null
+  tmdb_id: 11631
   title: Mamma Mia!
   year: 2008
   runtime: 108
@@ -108,9 +114,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0795421
   poster_url: https://m.media-amazon.com/images/M/MV5BMTA2MDU0MjM0MzReQTJeQWpwZ15BbWU3MDYwNzgwNzE@._V1_SX300.jpg
+  letterboxd_slug: mamma-mia
 
 - id: august-osage-county
-  tmdb_id: null
+  tmdb_id: 152737
   title: 'August: Osage County'
   year: 2013
   runtime: 121
@@ -119,3 +126,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
   imdb_id: tt1322269
   poster_url: https://m.media-amazon.com/images/M/MV5BNzQ5ODE4NTcxNV5BMl5BanBnXkFtZTgwNjkyNDQ0MDE@._V1_SX300.jpg
+  letterboxd_slug: august-osage-county

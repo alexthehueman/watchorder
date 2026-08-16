@@ -4,7 +4,7 @@
 # Kang-ho; Snowpiercer for Tilda Swinton. Only the four below are new.
 
 - id: barking-dogs-never-bite
-  tmdb_id: null
+  tmdb_id: 21531
   title: Barking Dogs Never Bite
   year: 2000
   runtime: 106
@@ -13,9 +13,10 @@
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0269743
   poster_url: https://m.media-amazon.com/images/M/MV5BMmFlNDk2MGYtNjJmNS00ZDA2LWI3M2EtMzA1MzI5NDU2NTFiXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: barking-dogs-never-bite
 
 - id: mother
-  tmdb_id: null
+  tmdb_id: 30018
   title: Mother
   year: 2009
   runtime: 129
@@ -29,9 +30,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt1216496
   poster_url: https://m.media-amazon.com/images/M/MV5BMTQzMTg0NDA1M15BMl5BanBnXkFtZTgwODUzMTE0MjE@._V1_SX300.jpg
+  letterboxd_slug: mother-2009
 
 - id: okja
-  tmdb_id: null
+  tmdb_id: 387426
   title: Okja
   year: 2017
   runtime: 120
@@ -40,9 +42,10 @@
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt3967856
   poster_url: https://m.media-amazon.com/images/M/MV5BMjQxMTcxNDgxN15BMl5BanBnXkFtZTgwOTczNTIzMjI@._V1_SX300.jpg
+  letterboxd_slug: okja
 
 - id: mickey-17
-  tmdb_id: null
+  tmdb_id: 696506
   title: Mickey 17
   year: 2025
   runtime: 137
@@ -51,3 +54,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt12299608
   poster_url: https://m.media-amazon.com/images/M/MV5BZGQwYmEzMzktYzBmMy00NmVmLTkyYTUtOTYyZjliZDNhZGVkXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg
+  letterboxd_slug: mickey-17

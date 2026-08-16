@@ -5,7 +5,7 @@
 # distributed in North America by Neon. Only the titles below are new to the corpus.
 
 - id: anora
-  tmdb_id: null
+  tmdb_id: 1064213
   title: Anora
   year: 2024
   runtime: 139
@@ -14,9 +14,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 2 }
   imdb_id: tt28607951
   poster_url: https://m.media-amazon.com/images/M/MV5BYThiN2M0NTItODRmNC00NDhlLWFiYTgtMWM2YTEyYzI3ZTY1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg
+  letterboxd_slug: anora
 
 - id: i-tonya
-  tmdb_id: null
+  tmdb_id: 389015
   title: I, Tonya
   year: 2017
   runtime: 120
@@ -25,9 +26,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt5580036
   poster_url: https://m.media-amazon.com/images/M/MV5BMjI5MDY1NjYzMl5BMl5BanBnXkFtZTgwNjIzNDAxNDM@._V1_SX300.jpg
+  letterboxd_slug: i-tonya
 
 - id: portrait-of-a-lady-on-fire
-  tmdb_id: null
+  tmdb_id: 531428
   title: Portrait of a Lady on Fire
   year: 2019
   runtime: 122
@@ -36,9 +38,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt8613070
   poster_url: https://m.media-amazon.com/images/M/MV5BZjJlYWJlYmMtNjMyMS00ZDgxLTlmNjAtOTJhMzBiZWM5N2VmXkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg
+  letterboxd_slug: portrait-of-a-lady-on-fire
 
 - id: titane
-  tmdb_id: null
+  tmdb_id: 630240
   title: Titane
   year: 2021
   runtime: 108
@@ -52,9 +55,10 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 2 }
   imdb_id: tt10944760
   poster_url: https://m.media-amazon.com/images/M/MV5BM2ZhZjE2MDEtY2EwNS00MzA5LTkxZTctOGQ5MDE0NTQ2YzdmXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: titane
 
 - id: spencer
-  tmdb_id: null
+  tmdb_id: 716612
   title: Spencer
   year: 2021
   runtime: 117
@@ -68,9 +72,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt12536294
   poster_url: https://m.media-amazon.com/images/M/MV5BNjcyYzIyMTItNDQzYS00ZmI5LWJlYzItZDk5ZmEyNDlhNWQ3XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: spencer-2021
 
 - id: flee
-  tmdb_id: null
+  tmdb_id: 680813
   title: Flee
   year: 2021
   runtime: 90
@@ -84,9 +89,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt8430054
   poster_url: https://m.media-amazon.com/images/M/MV5BMjZlNTJjYTgtNTRhZi00YWFlLWJhM2UtMjNlZDYyOWZhNmNlXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: flee-2021
 
 - id: palm-springs
-  tmdb_id: null
+  tmdb_id: 587792
   title: Palm Springs
   year: 2020
   runtime: 90
@@ -95,9 +101,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt9484998
   poster_url: https://m.media-amazon.com/images/M/MV5BY2VkNGY0MTMtMjEzZi00OThkLWJiOTMtNGU4ZGNjZDE5ZGIyXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: palm-springs-2020
 
 - id: anatomy-of-a-fall
-  tmdb_id: null
+  tmdb_id: 915935
   title: Anatomy of a Fall
   year: 2023
   runtime: 152
@@ -111,9 +118,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt17009710
   poster_url: https://m.media-amazon.com/images/M/MV5BYTk3MjFkZmQtMThiYi00N2JhLTk2YzItZTE5ZGUxZTIyZDVkXkEyXkFqcGc@._V1_QL75_UY562_CR2,0,380,562_.jpg
+  letterboxd_slug: anatomy-of-a-fall
 
 - id: longlegs
-  tmdb_id: null
+  tmdb_id: 1226578
   title: Longlegs
   year: 2024
   runtime: 101
@@ -122,9 +130,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt23468450
   poster_url: https://m.media-amazon.com/images/M/MV5BMmJkNGNiNjgtMzFlYy00ZDI5LWI2YzktZGVjYjI5MjQyMGU3XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: longlegs
 
 - id: vox-lux
-  tmdb_id: null
+  tmdb_id: 429202
   title: Vox Lux
   year: 2018
   runtime: 114
@@ -138,9 +147,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt5960374
   poster_url: https://m.media-amazon.com/images/M/MV5BMDJkOGJhZjQtOTFlMS00MGNkLWE1MTktZDdlZjc2NTRkMWE0XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: vox-lux
 
 - id: ingrid-goes-west
-  tmdb_id: null
+  tmdb_id: 411741
   title: Ingrid Goes West
   year: 2017
   runtime: 98
@@ -149,3 +159,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 0 }
   imdb_id: tt5962210
   poster_url: https://m.media-amazon.com/images/M/MV5BNzE3Mzc5NTc4M15BMl5BanBnXkFtZTgwMDYwNzM3MjI@._V1_SX300.jpg
+  letterboxd_slug: ingrid-goes-west

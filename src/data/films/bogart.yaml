@@ -4,7 +4,7 @@
 # Queen for Katharine Hepburn. Only the seven below are new.
 
 - id: the-maltese-falcon
-  tmdb_id: null
+  tmdb_id: 963
   title: The Maltese Falcon
   year: 1941
   runtime: 100
@@ -12,9 +12,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0033870
   poster_url: https://m.media-amazon.com/images/M/MV5BZjJhOTcwNGYtZGM3ZS00ZTYzLWJlZDYtMzllYmRkMDI4MjBkXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-maltese-falcon-1941
 
 - id: to-have-and-have-not
-  tmdb_id: null
+  tmdb_id: 22584
   title: To Have and Have Not
   year: 1944
   runtime: 100
@@ -22,9 +23,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0037382
   poster_url: https://m.media-amazon.com/images/M/MV5BZmJmNmI2NzctNDMzZi00NDI0LTkyZWQtNzczMGM5MGQ2MWEwXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: to-have-and-have-not
 
 - id: the-big-sleep
-  tmdb_id: null
+  tmdb_id: 910
   title: The Big Sleep
   year: 1946
   runtime: 114
@@ -37,9 +39,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0038355
   poster_url: https://m.media-amazon.com/images/M/MV5BZTVlNDAwZTAtZmY0My00NDMyLWFkZjMtMjY0NmVmOTFlNTdhXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-big-sleep
 
 - id: key-largo
-  tmdb_id: null
+  tmdb_id: 11016
   title: Key Largo
   year: 1948
   runtime: 100
@@ -47,9 +50,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0040506
   poster_url: https://m.media-amazon.com/images/M/MV5BMmVmNjY0MDQtMzE5Zi00ZmEzLTg3MzUtNTg1MWE0YWNiNzQ1XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: key-largo
 
 - id: the-treasure-of-the-sierra-madre
-  tmdb_id: null
+  tmdb_id: 3090
   title: The Treasure of the Sierra Madre
   year: 1948
   runtime: 126
@@ -57,9 +61,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0040897
   poster_url: https://m.media-amazon.com/images/M/MV5BOWM1YjFmODEtMWNhMC00YmI1LWI0Y2EtYzg0YTBhZWI4ODE3XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-treasure-of-the-sierra-madre
 
 - id: in-a-lonely-place
-  tmdb_id: null
+  tmdb_id: 17057
   title: In a Lonely Place
   year: 1950
   runtime: 94
@@ -67,9 +72,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0042593
   poster_url: https://m.media-amazon.com/images/M/MV5BOGEyNGMyYmYtMzExZi00ZDQzLTg2NjctY2FmMDgyY2I5YjI1XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: in-a-lonely-place
 
 - id: the-caine-mutiny
-  tmdb_id: null
+  tmdb_id: 10178
   title: The Caine Mutiny
   year: 1954
   runtime: 124
@@ -77,3 +83,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0046816
   poster_url: https://m.media-amazon.com/images/M/MV5BMTQ4ODg4NzA3OV5BMl5BanBnXkFtZTgwMDcwODI5MjE@._V1_SX300.jpg
+  letterboxd_slug: the-caine-mutiny

@@ -4,7 +4,7 @@
 # Only the six below are new.
 
 - id: joint-security-area
-  tmdb_id: null
+  tmdb_id: 2440
   title: Joint Security Area
   year: 2000
   runtime: 110
@@ -18,9 +18,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 0 }
   imdb_id: tt0260991
   poster_url: https://m.media-amazon.com/images/M/MV5BMTI1NDA4NTMyN15BMl5BanBnXkFtZTYwNTA2ODc5._V1_SX300.jpg
+  letterboxd_slug: joint-security-area
 
 - id: oldboy
-  tmdb_id: null
+  tmdb_id: 670
   title: Oldboy
   year: 2003
   runtime: 120
@@ -34,9 +35,10 @@
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 1 }
   imdb_id: tt0364569
   poster_url: https://m.media-amazon.com/images/M/MV5BMTAwNzNjYWItZmI0Ni00ZTcyLWIwNWMtZjlmNGMxZTEyYTJmXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: oldboy
 
 - id: lady-vengeance
-  tmdb_id: null
+  tmdb_id: 4550
   title: Lady Vengeance
   year: 2005
   runtime: 115
@@ -45,9 +47,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0451094
   poster_url: https://m.media-amazon.com/images/M/MV5BMTczMTI1MzYwMV5BMl5BanBnXkFtZTgwMDI1OTE3MjE@._V1_SX300.jpg
+  letterboxd_slug: lady-vengeance
 
 - id: stoker
-  tmdb_id: null
+  tmdb_id: 86825
   title: Stoker
   year: 2013
   runtime: 99
@@ -56,9 +59,10 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
   imdb_id: tt1682180
   poster_url: https://m.media-amazon.com/images/M/MV5BMjI3MTM5ODI5MV5BMl5BanBnXkFtZTcwMjE1Mzc4OA@@._V1_SX300.jpg
+  letterboxd_slug: stoker
 
 - id: the-handmaiden
-  tmdb_id: null
+  tmdb_id: 290098
   title: The Handmaiden
   year: 2016
   runtime: 145
@@ -72,9 +76,10 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 3 }
   imdb_id: tt4016934
   poster_url: https://m.media-amazon.com/images/M/MV5BOTllZDI1OGItOGUxNS00OGZhLWIzMjAtYzllZTY1YTA0ZmYwXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-handmaiden
 
 - id: decision-to-leave
-  tmdb_id: null
+  tmdb_id: 705996
   title: Decision to Leave
   year: 2022
   runtime: 138
@@ -88,3 +93,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 0 }
   imdb_id: tt12477480
   poster_url: https://m.media-amazon.com/images/M/MV5BN2NhZjcxYjItNDhlOC00Y2U2LWE4NDktMDJhNTQ1NzNjMmNmXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: decision-to-leave

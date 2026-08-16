@@ -5,7 +5,7 @@
 # expected to arrive with. The early coming-of-age films assume almost none.
 
 - id: the-boys-from-fengkuei
-  tmdb_id: null
+  tmdb_id: 105703
   title: The Boys from Fengkuei
   year: 1983
   runtime: 101
@@ -13,6 +13,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
   imdb_id: tt0085533
   poster_url: https://m.media-amazon.com/images/M/MV5BZTFmM2ZlZjItZDc3NS00ODE2LWE2N2QtNmM3OTZiODYzYjkzXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-boys-from-fengkuei
 
 - id: a-summer-at-grandpas
   tmdb_id: null
@@ -35,7 +36,7 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMDIzZjQ5NzUtMDU2Yi00ZTBkLTllZTMtYzk1YmJiM2FlYWJkXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: dust-in-the-wind
-  tmdb_id: null
+  tmdb_id: 45996
   title: Dust in the Wind
   year: 1986
   runtime: 109
@@ -43,9 +44,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0091406
   poster_url: https://m.media-amazon.com/images/M/MV5BMDUzMDhjNWItNzYyMC00ZDgwLWE0NmEtMDUxNTBkMTcyZDM2XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: dust-in-the-wind
 
 - id: a-city-of-sadness
-  tmdb_id: null
+  tmdb_id: 49982
   title: A City of Sadness
   year: 1989
   runtime: 157
@@ -58,9 +60,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0096908
   poster_url: https://m.media-amazon.com/images/M/MV5BNWM2MGZmODUtOGJmNi00NTVhLTg2MDktNDdlMWM3YmNjNGZlXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: a-city-of-sadness
 
 - id: the-puppetmaster
-  tmdb_id: null
+  tmdb_id: 96712
   title: The Puppetmaster
   year: 1993
   runtime: 142
@@ -68,9 +71,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0107157
   poster_url: https://m.media-amazon.com/images/M/MV5BMTMwODU1NDA5N15BMl5BanBnXkFtZTcwNDYyMjAyMQ@@._V1_SX300.jpg
+  letterboxd_slug: the-puppetmaster
 
 - id: good-men-good-women
-  tmdb_id: null
+  tmdb_id: 99600
   title: Good Men, Good Women
   year: 1995
   runtime: 108
@@ -78,9 +82,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
   imdb_id: tt0113256
   poster_url: https://m.media-amazon.com/images/M/MV5BMTQzNzkxMjkzN15BMl5BanBnXkFtZTcwOTg3MjAyMQ@@._V1_SX300.jpg
+  letterboxd_slug: good-men-good-women
 
 - id: goodbye-south-goodbye
-  tmdb_id: null
+  tmdb_id: 88811
   title: Goodbye South, Goodbye
   year: 1996
   runtime: 116
@@ -88,9 +93,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
   imdb_id: tt0117151
   poster_url: https://m.media-amazon.com/images/M/MV5BMTMxODA1MjUxOV5BMl5BanBnXkFtZTcwMjU4MTEyMQ@@._V1_SX300.jpg
+  letterboxd_slug: goodbye-south-goodbye
 
 - id: flowers-of-shanghai
-  tmdb_id: null
+  tmdb_id: 45935
   title: Flowers of Shanghai
   year: 1998
   runtime: 113
@@ -98,9 +104,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt0156587
   poster_url: https://m.media-amazon.com/images/M/MV5BZjIyMjgwZjAtY2Y2Mi00YTMyLTk3ZDctMDk5OTY5OTliMWU1XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: flowers-of-shanghai
 
 - id: millennium-mambo
-  tmdb_id: null
+  tmdb_id: 11553
   title: Millennium Mambo
   year: 2001
   runtime: 119
@@ -108,9 +115,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 2 }
   imdb_id: tt0283283
   poster_url: https://m.media-amazon.com/images/M/MV5BNDVmZmRlZDctMDJhMi00M2Y3LWFhNDktMTQyYmFiODcxZmJlXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: millennium-mambo
 
 - id: three-times
-  tmdb_id: null
+  tmdb_id: 11554
   title: Three Times
   year: 2005
   runtime: 131
@@ -118,9 +126,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
   imdb_id: tt0459666
   poster_url: https://m.media-amazon.com/images/M/MV5BMDg4YmNlYTgtMzM4Yi00ZmNjLWI5ZjAtMzU1MmRkYWE1NzFiXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: three-times
 
 - id: the-assassin
-  tmdb_id: null
+  tmdb_id: 253450
   title: The Assassin
   year: 2015
   runtime: 105
@@ -133,3 +142,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt3508840
   poster_url: https://m.media-amazon.com/images/M/MV5BNTczMTk3MjMyOV5BMl5BanBnXkFtZTgwMjA2Mjk4NjE@._V1_SX300.jpg
+  letterboxd_slug: the-assassin-2015

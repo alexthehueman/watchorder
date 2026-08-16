@@ -5,7 +5,7 @@
 # about jump scares.
 
 - id: paranormal-activity
-  tmdb_id: null
+  tmdb_id: 23827
   title: Paranormal Activity
   year: 2007
   runtime: 86
@@ -19,9 +19,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt1179904
   poster_url: https://m.media-amazon.com/images/M/MV5BMjY1NjcxODQ4MV5BMl5BanBnXkFtZTcwMzUxNjM4Mg@@._V1_SX300.jpg
+  letterboxd_slug: paranormal-activity
 
 - id: insidious
-  tmdb_id: null
+  tmdb_id: 49018
   title: Insidious
   year: 2010
   runtime: 103
@@ -30,9 +31,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt1737184
   poster_url: https://m.media-amazon.com/images/M/MV5BMTA4NDg0NjM0MjNeQTJeQWpwZ15BbWU3MDc5Mjg0MTQ@._V1_SX300.jpg
+  letterboxd_slug: insidious
 
 - id: sinister
-  tmdb_id: null
+  tmdb_id: 82507
   title: Sinister
   year: 2012
   runtime: 110
@@ -41,9 +43,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt1922777
   poster_url: https://m.media-amazon.com/images/M/MV5BMjI5MTg1Njg0Ml5BMl5BanBnXkFtZTcwNzg2Mjc4Nw@@._V1_SX300.jpg
+  letterboxd_slug: sinister
 
 - id: the-purge
-  tmdb_id: null
+  tmdb_id: 158015
   title: The Purge
   year: 2013
   runtime: 85
@@ -52,9 +55,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt2184339
   poster_url: https://m.media-amazon.com/images/M/MV5BMTQzNTcwODEyM15BMl5BanBnXkFtZTcwMjM1MDI0OQ@@._V1_SX300.jpg
+  letterboxd_slug: the-purge
 
 - id: whiplash
-  tmdb_id: null
+  tmdb_id: 244786
   title: Whiplash
   year: 2014
   runtime: 106
@@ -63,9 +67,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt2582802
   poster_url: https://m.media-amazon.com/images/M/MV5BMDFjOWFkYzktYzhhMC00NmYyLTkwY2EtYjViMDhmNzg0OGFkXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: whiplash-2014
 
 - id: split
-  tmdb_id: null
+  tmdb_id: 381288
   title: Split
   year: 2016
   runtime: 117
@@ -74,9 +79,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt4972582
   poster_url: https://m.media-amazon.com/images/M/MV5BNTZjNmVjMzAtZjg2Mi00MWNmLTk5NTItOTExZDYwNTE2YmExXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: split-2016
 
 - id: get-out
-  tmdb_id: null
+  tmdb_id: 419430
   title: Get Out
   year: 2017
   runtime: 104
@@ -85,9 +91,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt5052448
   poster_url: https://m.media-amazon.com/images/M/MV5BMjUxMDQwNjcyNl5BMl5BanBnXkFtZTgwNzcwMzc0MTI@._V1_QL75_UX380_CR0,0,380,562_.jpg
+  letterboxd_slug: get-out-2017
 
 - id: happy-death-day
-  tmdb_id: null
+  tmdb_id: 440021
   title: Happy Death Day
   year: 2017
   runtime: 96
@@ -96,9 +103,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt5308322
   poster_url: https://m.media-amazon.com/images/M/MV5BMTAxNGQwMjEtNjdjNy00NmQwLTkwYTEtNGIwZWJjZjU5M2FmXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: happy-death-day
 
 - id: halloween-2018
-  tmdb_id: null
+  tmdb_id: 424139
   title: Halloween
   year: 2018
   runtime: 106
@@ -107,9 +115,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt1502407
   poster_url: https://m.media-amazon.com/images/M/MV5BY2FlMzdkZTMtN2MwOS00NjQzLTlkMGYtMTRiYWUxZjM2M2ZiXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: halloween-2018
 
 - id: the-invisible-man-2020
-  tmdb_id: null
+  tmdb_id: 570670
   title: The Invisible Man
   year: 2020
   runtime: 124
@@ -118,9 +127,10 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt1051906
   poster_url: https://m.media-amazon.com/images/M/MV5BYTM3NDJhZWUtZWM1Yy00ODk4LThjNmMtNDg3OGYzMGM2OGYzXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-invisible-man-2020
 
 - id: freaky
-  tmdb_id: null
+  tmdb_id: 551804
   title: Freaky
   year: 2020
   runtime: 102
@@ -129,9 +139,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt10919380
   poster_url: https://m.media-amazon.com/images/M/MV5BODZmNzJjNjAtOGFhNi00ZjhjLTg5MzgtYjRjNGE0YWE3NDUzXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: freaky
 
 - id: m3gan
-  tmdb_id: null
+  tmdb_id: 536554
   title: M3GAN
   year: 2022
   runtime: 102
@@ -140,6 +151,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt8760708
   poster_url: https://m.media-amazon.com/images/M/MV5BYjU1ZWMxYTUtNzQ1ZC00ZTcxLTg0NTMtMzY1ZmQyZjhmYjMyXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: m3gan
 
 - id: five-nights-at-freddys
   tmdb_id: null

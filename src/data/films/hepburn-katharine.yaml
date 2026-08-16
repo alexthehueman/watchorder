@@ -6,7 +6,7 @@
 # profile, capping M7's absolute floor by construction rather than by any tagging choice.
 
 - id: little-women-1933
-  tmdb_id: null
+  tmdb_id: 39938
   title: Little Women
   year: 1933
   runtime: 115
@@ -15,9 +15,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0024264
   poster_url: https://m.media-amazon.com/images/M/MV5BMDA5NWY5NzMtZDE2YS00YjdiLWIzYTktYjljOGY2Yzg3OTRmXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: little-women
 
 - id: stage-door
-  tmdb_id: null
+  tmdb_id: 43864
   title: Stage Door
   year: 1937
   runtime: 92
@@ -26,9 +27,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0029604
   poster_url: https://m.media-amazon.com/images/M/MV5BNzQwNTQxOTY3OF5BMl5BanBnXkFtZTgwMTg0MDgyMTE@._V1_SX300.jpg
+  letterboxd_slug: stage-door
 
 - id: bringing-up-baby
-  tmdb_id: null
+  tmdb_id: 900
   title: Bringing Up Baby
   year: 1938
   runtime: 102
@@ -37,9 +39,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0029947
   poster_url: https://m.media-amazon.com/images/M/MV5BNDA5M2NlYjAtYzQ3OC00ZWM0LWJjYWYtMTU5N2NhNGY3ZmZmXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: bringing-up-baby
 
 - id: the-philadelphia-story
-  tmdb_id: null
+  tmdb_id: 981
   title: The Philadelphia Story
   year: 1940
   runtime: 112
@@ -48,9 +51,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0032904
   poster_url: https://m.media-amazon.com/images/M/MV5BYmMwZTQ5OGUtMjQ4Ni00ZTIwLTk1ZWMtNzhlMGQxYjIxMTU1XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-philadelphia-story
 
 - id: woman-of-the-year
-  tmdb_id: null
+  tmdb_id: 20640
   title: Woman of the Year
   year: 1942
   runtime: 114
@@ -59,6 +63,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0035567
   poster_url: https://m.media-amazon.com/images/M/MV5BMzY5MDdlZjUtMWZjYS00NzY4LWJjZTEtNjMxOTgxYTYyZjY0XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: woman-of-the-year
 
 - id: adams-rib
   tmdb_id: null
@@ -72,7 +77,7 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYzAzODQxNTItNDUwOS00MWIwLWE5NjMtZTI2MDU4ZTFlNzg4XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-african-queen
-  tmdb_id: null
+  tmdb_id: 488
   title: The African Queen
   year: 1951
   runtime: 105
@@ -81,9 +86,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0043265
   poster_url: https://m.media-amazon.com/images/M/MV5BY2Y0OWQ4Y2QtNGE5NC00MDk4LWFlYmQtYWVmNzZlZWVhMTg4XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-african-queen
 
 - id: summertime
-  tmdb_id: null
+  tmdb_id: 50363
   title: Summertime
   year: 1955
   runtime: 100
@@ -92,6 +98,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt0048673
   poster_url: https://m.media-amazon.com/images/M/MV5BNjJiM2QwNmQtMjNlYy00Zjc2LTljNTctZWNjZDgyZTdlMjljXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: summertime
 
 - id: long-days-journey-into-night
   tmdb_id: null
@@ -121,7 +128,7 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNmMwNjRiYTUtNjM5Yy00ZDk2LWJiZjEtYjRjMzVmYmM1OGQ5XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-lion-in-winter
-  tmdb_id: null
+  tmdb_id: 18988
   title: The Lion in Winter
   year: 1968
   runtime: 134
@@ -130,9 +137,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0063227
   poster_url: https://m.media-amazon.com/images/M/MV5BMTkzNzYyMzA5N15BMl5BanBnXkFtZTgwODcwODQ3MDI@._V1_SX300.jpg
+  letterboxd_slug: the-lion-in-winter
 
 - id: suddenly-last-summer
-  tmdb_id: null
+  tmdb_id: 14698
   title: Suddenly, Last Summer
   year: 1959
   runtime: 114
@@ -146,9 +154,10 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
   imdb_id: tt0053318
   poster_url: https://m.media-amazon.com/images/M/MV5BOWQ5MDE3YmYtMDg4Yy00MDdjLTllY2ItMDYyNDE1MTI3ZjQ1XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: suddenly-last-summer
 
 - id: on-golden-pond
-  tmdb_id: null
+  tmdb_id: 11816
   title: On Golden Pond
   year: 1981
   runtime: 109
@@ -157,3 +166,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0082846
   poster_url: https://m.media-amazon.com/images/M/MV5BZmI3OGQ0YjQtZjNkYi00NmEzLWE5NjMtMTdkYjA4YTdiYzBiXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: on-golden-pond

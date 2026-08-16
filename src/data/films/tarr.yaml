@@ -5,7 +5,7 @@
 # the reason the endurance term is measured per sitting rather than per work.
 
 - id: family-nest
-  tmdb_id: null
+  tmdb_id: 48318
   title: Family Nest
   year: 1979
   runtime: 108
@@ -18,6 +18,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
   imdb_id: tt0077383
   poster_url: https://m.media-amazon.com/images/M/MV5BNGRhNWEzOTAtZDM2NC00NzYzLTlkZWItZGE3ZDgzYzgzOGUxXkEyXkFqcGdeQXVyNzEyNjUwMTA@._V1_SX300.jpg
+  letterboxd_slug: family-nest
 
 - id: the-outsider
   tmdb_id: 128043
@@ -40,7 +41,7 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTU1ODE5NDc5MF5BMl5BanBnXkFtZTcwOTMzOTIzMQ@@._V1_SX300.jpg
 
 - id: damnation
-  tmdb_id: null
+  tmdb_id: 20122
   title: Damnation
   year: 1988
   runtime: 116
@@ -48,6 +49,7 @@
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 1, sex: 1 }
   imdb_id: tt0095475
   poster_url: https://m.media-amazon.com/images/M/MV5BYjg1ZmYxZTktZGI1MS00NTQ0LTk1MGUtMjU1NTk5Yzk3NzFmXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: damnation
 
 - id: satantango
   tmdb_id: 31414
@@ -66,7 +68,7 @@
   letterboxd_slug: satantango
 
 - id: werckmeister-harmonies
-  tmdb_id: null
+  tmdb_id: 23160
   title: Werckmeister Harmonies
   year: 2000
   runtime: 145
@@ -74,9 +76,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0249241
   poster_url: https://m.media-amazon.com/images/M/MV5BOTdlOWFlMjYtOWFlNy00Nzk5LTljZDAtMDBmYTNjMWIxZTRmXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: werckmeister-harmonies
 
 - id: the-man-from-london
-  tmdb_id: null
+  tmdb_id: 31262
   title: The Man from London
   year: 2007
   runtime: 139
@@ -84,9 +87,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0415127
   poster_url: https://m.media-amazon.com/images/M/MV5BZjk3ODc3ZmQtNzE0Yy00YmMxLWFmYWMtNjdlYzJmMjA0NWRkXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-man-from-london
 
 - id: the-turin-horse
-  tmdb_id: null
+  tmdb_id: 81401
   title: The Turin Horse
   year: 2011
   runtime: 146
@@ -100,3 +104,4 @@
     sex: 0
   imdb_id: tt1316540
   poster_url: https://m.media-amazon.com/images/M/MV5BMTMyNzg1MzM2Ml5BMl5BanBnXkFtZTcwMzQ5NjcxNw@@._V1_SX300.jpg
+  letterboxd_slug: the-turin-horse

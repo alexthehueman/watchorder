@@ -2,7 +2,7 @@
 # and is not repeated here — the two of them share most of that film's running time.
 
 - id: glory
-  tmdb_id: null
+  tmdb_id: 9665
   title: Glory
   year: 1989
   runtime: 122
@@ -11,9 +11,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt0097441
   poster_url: https://m.media-amazon.com/images/M/MV5BOTA1NDcyOGMtYTc0Zi00OTQ0LTllZTEtMTIxZDcxMWYxZTVhXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: glory
 
 - id: malcolm-x
-  tmdb_id: null
+  tmdb_id: 1883
   title: Malcolm X
   year: 1992
   runtime: 202
@@ -27,9 +28,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0104797
   poster_url: https://m.media-amazon.com/images/M/MV5BYTQwYjFhNTMtMjliOC00MGJhLTkwYWMtYjQzZTRiYjRlNjE4XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: malcolm-x-1992
 
 - id: philadelphia
-  tmdb_id: null
+  tmdb_id: 9800
   title: Philadelphia
   year: 1993
   runtime: 125
@@ -38,9 +40,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0107818
   poster_url: https://m.media-amazon.com/images/M/MV5BYzEzZmMwMmMtNDgxYi00YTAwLWFkMjQtOGQzNmUxMGU1YWYwXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: philadelphia
 
 - id: remember-the-titans
-  tmdb_id: null
+  tmdb_id: 10637
   title: Remember the Titans
   year: 2000
   runtime: 113
@@ -49,9 +52,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0210945
   poster_url: https://m.media-amazon.com/images/M/MV5BZWY0NzgxMWQtMjM4NC00MjRiLWE0YjctYTFiNjA2NTNkZGY1XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: remember-the-titans
 
 - id: training-day
-  tmdb_id: null
+  tmdb_id: 2034
   title: Training Day
   year: 2001
   runtime: 122
@@ -60,9 +64,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt0139654
   poster_url: https://m.media-amazon.com/images/M/MV5BMjRlNjUwOGYtNGQxZS00ZjhkLTg0NDgtYjcwNzZlNDU2YjBlXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg
+  letterboxd_slug: training-day
 
 - id: man-on-fire
-  tmdb_id: null
+  tmdb_id: 9509
   title: Man on Fire
   year: 2004
   runtime: 146
@@ -71,9 +76,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt0328107
   poster_url: https://m.media-amazon.com/images/M/MV5BMGMzNjg3ZDgtOGNlNy00NTdjLWI2NDEtMjI1MmEwMTBmMjMxXkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg
+  letterboxd_slug: man-on-fire-2004
 
 - id: inside-man
-  tmdb_id: null
+  tmdb_id: 388
   title: Inside Man
   year: 2006
   runtime: 129
@@ -82,9 +88,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0454848
   poster_url: https://m.media-amazon.com/images/M/MV5BZWFmMDZkYjktMjYyOS00MTM2LTg2MmQtOTUwMzJjMDlhZDY1XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: inside-man
 
 - id: american-gangster
-  tmdb_id: null
+  tmdb_id: 4982
   title: American Gangster
   year: 2007
   runtime: 157
@@ -93,9 +100,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt0765429
   poster_url: https://m.media-amazon.com/images/M/MV5BZGExM2MwNjUtNThkNi00ZjBmLWJhZDgtN2ZmOWJiZWEwNGMxXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: american-gangster
 
 - id: fences
-  tmdb_id: null
+  tmdb_id: 393457
   title: Fences
   year: 2016
   runtime: 139
@@ -104,3 +112,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt2671706
   poster_url: https://m.media-amazon.com/images/M/MV5BOTg0Nzc1NjA0MV5BMl5BanBnXkFtZTgwNTcyNDQ0MDI@._V1_SX300.jpg
+  letterboxd_slug: fences-2016

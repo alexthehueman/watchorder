@@ -7,7 +7,7 @@
 # not on a reserved slot.
 
 - id: castle-in-the-sky
-  tmdb_id: null
+  tmdb_id: 10515
   title: Castle in the Sky
   year: 1986
   runtime: 125
@@ -16,9 +16,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0092067
   poster_url: https://m.media-amazon.com/images/M/MV5BZjcyMjg2MzktNjg4YS00MjQzLTg0YWQtMjUyZDk2Y2Y0YzZjXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: castle-in-the-sky
 
 - id: grave-of-the-fireflies
-  tmdb_id: null
+  tmdb_id: 12477
   title: Grave of the Fireflies
   year: 1988
   runtime: 89
@@ -32,9 +33,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0095327
   poster_url: https://m.media-amazon.com/images/M/MV5BNTY5MmE2OGMtN2IxNC00MDY4LTkwMGEtZDUzOTYyNWE0ZTNjXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg
+  letterboxd_slug: grave-of-the-fireflies
 
 - id: my-neighbor-totoro
-  tmdb_id: null
+  tmdb_id: 8392
   title: My Neighbor Totoro
   year: 1988
   runtime: 86
@@ -48,6 +50,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0096283
   poster_url: https://m.media-amazon.com/images/M/MV5BYWM3MDE3YjEtMzIzZC00ODE5LTgxNTItNmUyMTBkM2M2NmNiXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: my-neighbor-totoro
 
 - id: kikis-delivery-service
   tmdb_id: null
@@ -61,7 +64,7 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BOTFhYWI1NGUtZWFhZS00MTdkLWIzZTItMDBhNWNiZDNlMjYyXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: only-yesterday
-  tmdb_id: null
+  tmdb_id: 15080
   title: Only Yesterday
   year: 1991
   runtime: 118
@@ -70,9 +73,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0102587
   poster_url: https://m.media-amazon.com/images/M/MV5BMTY5NjI2MjQxMl5BMl5BanBnXkFtZTgwMDA2MzM2NzE@._V1_SX300.jpg
+  letterboxd_slug: only-yesterday
 
 - id: porco-rosso
-  tmdb_id: null
+  tmdb_id: 11621
   title: Porco Rosso
   year: 1992
   runtime: 94
@@ -81,9 +85,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0104652
   poster_url: https://m.media-amazon.com/images/M/MV5BOGNjMDM1NWEtMzI4OC00YzdlLWJmMjktNmJiYTlkNTNlODM0XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: porco-rosso
 
 - id: pom-poko
-  tmdb_id: null
+  tmdb_id: 15283
   title: Pom Poko
   year: 1994
   runtime: 119
@@ -92,9 +97,10 @@
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 1 }
   imdb_id: tt0110008
   poster_url: https://m.media-amazon.com/images/M/MV5BMTk2ODEzNzYtZTczMS00NmFhLWJmOTgtYmFhNzAwYTVkYmI5XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: pom-poko
 
 - id: princess-mononoke
-  tmdb_id: null
+  tmdb_id: 128
   title: Princess Mononoke
   year: 1997
   runtime: 134
@@ -103,6 +109,7 @@
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt0119698
   poster_url: https://m.media-amazon.com/images/M/MV5BNjAzODViNGEtMjBkYi00N2U5LWJjNjAtY2U0MGJhZTEwOTU0XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: princess-mononoke
 
 - id: spirited-away
   tmdb_id: 129
@@ -127,7 +134,7 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTY1OTg0MjE3MV5BMl5BanBnXkFtZTcwNTUxMTkyMQ@@._V1_SX300.jpg
 
 - id: the-tale-of-the-princess-kaguya
-  tmdb_id: null
+  tmdb_id: 149871
   title: The Tale of the Princess Kaguya
   year: 2013
   runtime: 137
@@ -136,9 +143,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt2576852
   poster_url: https://m.media-amazon.com/images/M/MV5BMTcwODI0MzEwOF5BMl5BanBnXkFtZTgwNjkyNTEwMTE@._V1_SX300.jpg
+  letterboxd_slug: the-tale-of-the-princess-kaguya
 
 - id: the-boy-and-the-heron
-  tmdb_id: null
+  tmdb_id: 508883
   title: The Boy and the Heron
   year: 2023
   runtime: 124
@@ -147,3 +155,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt6587046
   poster_url: https://m.media-amazon.com/images/M/MV5BMzA5Zjg3MTAtM2FhZS00NTNjLTg3NjEtNWQ4MTRhZjhiNzVmXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-boy-and-the-heron

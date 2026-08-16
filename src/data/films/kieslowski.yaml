@@ -8,7 +8,7 @@
 # Three Colours: Blue already existed in the corpus, tagged for Juliette Binoche.
 
 - id: camera-buff
-  tmdb_id: null
+  tmdb_id: 42164
   title: Camera Buff
   year: 1979
   runtime: 112
@@ -17,9 +17,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0078763
   poster_url: https://m.media-amazon.com/images/M/MV5BYTBjYjgxYjktY2UzMS00MDEwLTgyZTUtY2U5OWY3ZDBiMWYyXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: camera-buff
 
 - id: no-end
-  tmdb_id: null
+  tmdb_id: 124
   title: No End
   year: 1985
   runtime: 107
@@ -28,9 +29,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0086961
   poster_url: https://m.media-amazon.com/images/M/MV5BZTUwOWFmYWUtNzQwNi00YjZkLTgwZjMtODUwZDUxNmUwMmU3XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: no-end
 
 - id: blind-chance
-  tmdb_id: null
+  tmdb_id: 127
   title: Blind Chance
   year: 1987
   runtime: 122
@@ -44,9 +46,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0084549
   poster_url: https://m.media-amazon.com/images/M/MV5BOTZmZWQyZDgtN2ExOS00ZGU5LWJiZDMtM2Y0ZmMyNmZmOGQwXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: blind-chance
 
 - id: a-short-film-about-killing
-  tmdb_id: null
+  tmdb_id: 10754
   title: A Short Film About Killing
   year: 1988
   runtime: 84
@@ -55,9 +58,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt0095468
   poster_url: https://m.media-amazon.com/images/M/MV5BM2YwNzQyMWItZjliNC00YmQzLWFkZjktYWY5ODExMGNkOTEzXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: a-short-film-about-killing
 
 - id: a-short-film-about-love
-  tmdb_id: null
+  tmdb_id: 31056
   title: A Short Film About Love
   year: 1988
   runtime: 87
@@ -66,9 +70,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
   imdb_id: tt0095467
   poster_url: https://m.media-amazon.com/images/M/MV5BMzkwYjBlMzktNGJiNi00OTk4LTlkMDYtOGQ5MjBkNmFhMzY4XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: a-short-film-about-love
 
 - id: the-double-life-of-veronique
-  tmdb_id: null
+  tmdb_id: 1600
   title: The Double Life of Véronique
   year: 1991
   runtime: 98
@@ -82,6 +87,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt0101765
   poster_url: https://m.media-amazon.com/images/M/MV5BZjE1MjAxMjgtMTRjMC00YTFjLThhMzgtNzdlODZiZjA0MWMxXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-double-life-of-veronique
 
 - id: three-colours-white
   tmdb_id: 109

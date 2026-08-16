@@ -5,7 +5,7 @@
 # having something to work with.
 
 - id: hard-eight
-  tmdb_id: null
+  tmdb_id: 8052
   title: Hard Eight
   year: 1996
   runtime: 102
@@ -19,9 +19,10 @@
     sex: 1
   imdb_id: tt0119256
   poster_url: https://m.media-amazon.com/images/M/MV5BOWQyNjBiZWMtYzFjMS00ZDEzLWEyNTYtZGFiZDE4Mjk4M2E2XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: hard-eight
 
 - id: boogie-nights
-  tmdb_id: null
+  tmdb_id: 4995
   title: Boogie Nights
   year: 1997
   runtime: 155
@@ -35,9 +36,10 @@
     sex: 3
   imdb_id: tt0118749
   poster_url: https://m.media-amazon.com/images/M/MV5BOTFmZmE4OTMtNDYxNi00MmZmLThlYjktMmExMzMwY2YzOTFiXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: boogie-nights
 
 - id: magnolia
-  tmdb_id: null
+  tmdb_id: 334
   title: Magnolia
   year: 1999
   runtime: 188
@@ -51,9 +53,10 @@
     sex: 2
   imdb_id: tt0175880
   poster_url: https://m.media-amazon.com/images/M/MV5BOWY0Zjk1YTMtMGFlYi00OTFmLWEyOTAtNmRkYjE0ZDJiZWMwXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: magnolia
 
 - id: punch-drunk-love
-  tmdb_id: null
+  tmdb_id: 8051
   title: Punch-Drunk Love
   year: 2002
   runtime: 95
@@ -67,9 +70,10 @@
     sex: 1
   imdb_id: tt0272338
   poster_url: https://m.media-amazon.com/images/M/MV5BZTYyMTQ2MDAtMzYzYS00YjZiLWJiNDUtZjEwNzM4YzE1ZDhhXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: punch-drunk-love
 
 - id: there-will-be-blood
-  tmdb_id: null
+  tmdb_id: 7345
   title: There Will Be Blood
   year: 2007
   runtime: 158
@@ -88,9 +92,10 @@
     sex: 0
   imdb_id: tt0469494
   poster_url: https://m.media-amazon.com/images/M/MV5BMjAxODQ4MDU5NV5BMl5BanBnXkFtZTcwMDU4MjU1MQ@@._V1_SX300.jpg
+  letterboxd_slug: there-will-be-blood
 
 - id: the-master
-  tmdb_id: null
+  tmdb_id: 68722
   title: The Master
   year: 2012
   runtime: 138
@@ -104,9 +109,10 @@
     sex: 2
   imdb_id: tt1560747
   poster_url: https://m.media-amazon.com/images/M/MV5BMTQ2NjQ5MzMwMF5BMl5BanBnXkFtZTcwMjczNTAzOA@@._V1_QL75_UX380_CR0,0,380,562_.jpg
+  letterboxd_slug: the-master-2012
 
 - id: inherent-vice
-  tmdb_id: null
+  tmdb_id: 171274
   title: Inherent Vice
   year: 2014
   runtime: 148
@@ -125,9 +131,10 @@
     sex: 2
   imdb_id: tt1791528
   poster_url: https://m.media-amazon.com/images/M/MV5BMmU3YjYzZWEtZDEzYy00YjA4LWI0YTUtY2RiMzVlYzZkZjg3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg
+  letterboxd_slug: inherent-vice
 
 - id: phantom-thread
-  tmdb_id: null
+  tmdb_id: 400617
   title: Phantom Thread
   year: 2017
   runtime: 130
@@ -141,9 +148,10 @@
     sex: 1
   imdb_id: tt5776858
   poster_url: https://m.media-amazon.com/images/M/MV5BOTMzNWNhNDctMTM2MC00N2EwLThjYTEtMmQ2ZDAyNDVlNzgyXkEyXkFqcGc@._V1_QL75_UY562_CR0,0,380,562_.jpg
+  letterboxd_slug: phantom-thread
 
 - id: licorice-pizza
-  tmdb_id: null
+  tmdb_id: 718032
   title: Licorice Pizza
   year: 2021
   runtime: 133
@@ -157,9 +165,10 @@
     sex: 1
   imdb_id: tt11271038
   poster_url: https://m.media-amazon.com/images/M/MV5BYjU5MjRiOWMtNmI0OC00ZTU1LThlNGItYTViNzU2YzAzMWMxXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: licorice-pizza
 
 - id: one-battle-after-another
-  tmdb_id: null
+  tmdb_id: 1054867
   title: One Battle After Another
   year: 2025
   runtime: 162
@@ -172,3 +181,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt30144839
   poster_url: https://m.media-amazon.com/images/M/MV5BMzBkZmQ0NjMtNTZlMy00ZjdlLTg5ODUtYWFlNGM0YzE3MTg0XkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg
+  letterboxd_slug: one-battle-after-another

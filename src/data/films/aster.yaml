@@ -5,7 +5,7 @@
 # Sciamma are already in on this roster, not a shorter tagging pass.
 
 - id: beau-is-afraid
-  tmdb_id: null
+  tmdb_id: 798286
   title: Beau Is Afraid
   year: 2023
   runtime: 179
@@ -19,9 +19,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 2 }
   imdb_id: tt13521006
   poster_url: https://m.media-amazon.com/images/M/MV5BMTdmYmQ5MjctYzU3NS00N2I0LTkwYTYtZWMxNTVhOTRkODA1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg
+  letterboxd_slug: beau-is-afraid
 
 - id: eddington
-  tmdb_id: null
+  tmdb_id: 648878
   title: Eddington
   year: 2025
   runtime: 150
@@ -30,3 +31,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt31176520
   poster_url: https://m.media-amazon.com/images/M/MV5BNmM0Yzc1ZjAtZTg4My00NDI3LWEwMzAtY2ZkNzMxMWMwOTFlXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg
+  letterboxd_slug: eddington

@@ -1,7 +1,7 @@
 # Films for Toni Servillo. Scales and anchors are in README.md ("The anchor rubric").
 
 - id: the-consequences-of-love
-  tmdb_id: null
+  tmdb_id: 24653
   title: The Consequences of Love
   year: 2004
   runtime: 100
@@ -10,9 +10,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0398883
   poster_url: https://m.media-amazon.com/images/M/MV5BY2IwZmI3MTgtY2JmZC00NzcwLWE1YjQtYjM5YzUzMjEwMzI2XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-consequences-of-love
 
 - id: gomorrah
-  tmdb_id: null
+  tmdb_id: 8882
   title: Gomorrah
   year: 2008
   runtime: 137
@@ -21,9 +22,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt0929425
   poster_url: https://m.media-amazon.com/images/M/MV5BMTM2NDgzMDY4MF5BMl5BanBnXkFtZTcwMzUwMzg5MQ@@._V1_SX300.jpg
+  letterboxd_slug: gomorrah
 
 - id: il-divo
-  tmdb_id: null
+  tmdb_id: 8832
   title: Il Divo
   year: 2008
   runtime: 110
@@ -37,9 +39,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt1023490
   poster_url: https://m.media-amazon.com/images/M/MV5BZTJhZTFlNWMtNDEwZS00NTJhLWE1MzYtNWQyZGUxOGM0NGFiXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: il-divo
 
 - id: the-great-beauty
-  tmdb_id: null
+  tmdb_id: 179144
   title: The Great Beauty
   year: 2013
   runtime: 142
@@ -48,9 +51,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt2358891
   poster_url: https://m.media-amazon.com/images/M/MV5BMTQ0ODg1OTQ2Nl5BMl5BanBnXkFtZTgwNTc2MDY1MDE@._V1_SX300.jpg
+  letterboxd_slug: the-great-beauty
 
 - id: human-capital
-  tmdb_id: null
+  tmdb_id: 244088
   title: Human Capital
   year: 2013
   runtime: 111
@@ -59,9 +63,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt2465578
   poster_url: https://m.media-amazon.com/images/M/MV5BMjM0MTExMTkxNl5BMl5BanBnXkFtZTgwMzgwNDI0MzE@._V1_SX300.jpg
+  letterboxd_slug: human-capital
 
 - id: gorbaciof
-  tmdb_id: null
+  tmdb_id: 56040
   title: Gorbaciof
   year: 2010
   runtime: 90
@@ -70,9 +75,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt1444262
   poster_url: https://m.media-amazon.com/images/M/MV5BM2YwMjg4MDgtOTg1My00MjQ1LWI3M2ItOGQyZGQxNDUyMzdkXkEyXkFqcGdeQXVyMTUyNzM5NjM@._V1_SX300.jpg
+  letterboxd_slug: gorbaciof
 
 - id: loro
-  tmdb_id: null
+  tmdb_id: 541660
   title: Loro
   year: 2018
   runtime: 145
@@ -81,9 +87,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 2 }
   imdb_id: tt10182822
   poster_url: https://m.media-amazon.com/images/M/MV5BNGI0MWFiZjQtOTFmNC00ODBkLWE3OWYtYzQ1ZTg3MjJlZGU0XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: loro
 
 - id: the-hand-of-god
-  tmdb_id: null
+  tmdb_id: 722778
   title: The Hand of God
   year: 2021
   runtime: 130
@@ -92,3 +99,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt12680684
   poster_url: https://m.media-amazon.com/images/M/MV5BNmNlMDAxZDktY2Y5OS00ZmZmLWI0YzktMTRjNGU5ODQzOGE0XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg
+  letterboxd_slug: the-hand-of-god
