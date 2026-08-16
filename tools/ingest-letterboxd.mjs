@@ -66,43 +66,57 @@ function candidateSlugs(film) {
 }
 
 /**
+ * Every rejection carries a reason rather than collapsing to null — a candidate slug that 404s,
+ * one whose page has no year, and one whose page names a different film are three different
+ * findings, and only the log line was ever telling them apart before this.
  * @param {string} slug
  * @param {{title: string, year: number}} film
- * @returns {Promise<{poster: string|null, tmdbId: number|null}|null>}
+ * @returns {Promise<{ok: true, slug: string, poster: string|null, tmdbId: number|null} | {ok: false, slug: string, reason: string}>}
  */
 async function tryCandidate(slug, film) {
-  const response = await fetch(`https://letterboxd.com/film/${slug}/`, { headers: { 'User-Agent': UA } });
-  if (!response.ok) return null;
+  let response;
+  try {
+    response = await fetch(`https://letterboxd.com/film/${slug}/`, { headers: { 'User-Agent': UA } });
+  } catch (err) {
+    return { ok: false, slug, reason: `fetch failed: ${err.message}` };
+  }
+  if (!response.ok) return { ok: false, slug, reason: `HTTP ${response.status}` };
   const html = await response.text();
 
   const titleMeta = html.match(/<meta property="og:title" content="([^"]*)"/)?.[1];
-  if (!titleMeta) return null;
+  if (!titleMeta) return { ok: false, slug, reason: 'page has no og:title' };
   const yearMatch = titleMeta.match(/\((\d{4})\)\s*$/);
-  if (!yearMatch) return null;
+  if (!yearMatch) return { ok: false, slug, reason: `og:title has no year: "${titleMeta}"` };
   const pageTitle = titleMeta.replace(/\s*\(\d{4}\)\s*$/, '');
   const pageYear = Number(yearMatch[1]);
 
   // The confidence gate: both title and year must agree, mirroring ingest-omdb.mjs's tolerance.
-  if (normalise(pageTitle) !== normalise(film.title)) return null;
-  if (Math.abs(pageYear - film.year) > 1) return null;
+  if (normalise(pageTitle) !== normalise(film.title)) {
+    return { ok: false, slug, reason: `page is "${pageTitle}" (${pageYear}), not a title match` };
+  }
+  if (Math.abs(pageYear - film.year) > 1) {
+    return { ok: false, slug, reason: `page year ${pageYear} vs. expected ${film.year}` };
+  }
 
   const poster = html.match(/<meta property="og:image" content="([^"]*)"/)?.[1] ?? null;
   const tmdbId = html.match(/href="https:\/\/(?:www\.)?themoviedb\.org\/movie\/(\d+)/)?.[1];
 
-  return { slug, poster, tmdbId: tmdbId ? Number(tmdbId) : null };
+  return { ok: true, slug, poster, tmdbId: tmdbId ? Number(tmdbId) : null };
 }
 
 /**
  * @param {{id: string, title: string, year: number}} film
- * @returns {Promise<{slug: string, poster: string|null, tmdbId: number|null}|null>}
+ * @returns {Promise<{ok: true, slug: string, poster: string|null, tmdbId: number|null} | {ok: false, attempts: string[]}>}
  */
 async function resolveFilm(film) {
+  const attempts = [];
   for (const slug of candidateSlugs(film)) {
-    const match = await tryCandidate(slug, film);
+    const result = await tryCandidate(slug, film);
     await sleep(REQUEST_GAP_MS);
-    if (match) return match;
+    if (result.ok) return result;
+    attempts.push(`${result.slug}: ${result.reason}`);
   }
-  return null;
+  return { ok: false, attempts };
 }
 
 async function resolveMissingPosters(dryRun) {
@@ -121,7 +135,7 @@ async function resolveMissingPosters(dryRun) {
       if (film.letterboxd_slug !== null && film.letterboxd_slug !== undefined) continue;
 
       const match = await resolveFilm(film);
-      if (match) {
+      if (match.ok) {
         node.set('letterboxd_slug', match.slug);
         const parts = ['slug'];
         // Never overwrites a poster or tmdb_id OMDb already resolved — this tool only adds what's
@@ -139,7 +153,8 @@ async function resolveMissingPosters(dryRun) {
         console.log(`  ok    ${file}: ${film.id} -> ${parts.join(', ')}`);
       } else {
         unresolved += 1;
-        console.warn(`  MISS  ${file}: ${film.id} — no confident slug match`);
+        console.warn(`  MISS  ${file}: ${film.id}`);
+        for (const attempt of match.attempts) console.warn(`          ${attempt}`);
       }
     }
 
