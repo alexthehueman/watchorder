@@ -164,6 +164,12 @@ export function validateCorpus(corpus) {
     if (film.letterboxd_slug !== null && film.letterboxd_slug !== undefined && !/^[a-z0-9-]+$/.test(film.letterboxd_slug)) {
       errors.push(`${where} — letterboxd_slug must look like "the-master", got ${JSON.stringify(film.letterboxd_slug)}`);
     }
+    // An ingest-only hint: the title Letterboxd itself uses when it differs from ours (a
+    // translation, or a subtitle we drop). Nothing renders it — it only widens the candidate
+    // list, and a match still has to pass the same live title+year check.
+    if (film.letterboxd_title !== null && film.letterboxd_title !== undefined && typeof film.letterboxd_title !== 'string') {
+      errors.push(`${where} — letterboxd_title must be a string, got ${JSON.stringify(film.letterboxd_title)}`);
+    }
 
     for (const tag of TASTE_TAGS) {
       if (!isInteger(film.tags?.[tag], 1, 5)) {

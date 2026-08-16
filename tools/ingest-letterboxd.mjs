@@ -72,24 +72,82 @@ function slugify(title) {
     .replace(/^-+|-+$/g, '');
 }
 
+const NUMBER_WORDS = { one: '1', two: '2', three: '3', four: '4', five: '5', six: '6', seven: '7', eight: '8', nine: '9', ten: '10' };
+
+function withDigits(title) {
+  return title.replace(/\b(one|two|three|four|five|six|seven|eight|nine|ten)\b/gi, (w) => NUMBER_WORDS[w.toLowerCase()]);
+}
+
 /**
- * @param {{id: string, title: string, year: number}} film
- * @returns {string[]}
+ * Every candidate carries the title it should be checked against — almost always the corpus
+ * title, but film.letterboxd_title (a human-supplied alternate/translated title, e.g. "Nenette
+ * and Boni" for a corpus entry titled "Nénette et Boni") lets a specific known-tricky film get
+ * more chances without changing what "confident" means: every one of these is still independently
+ * verified against the live page before anything is accepted, exactly like the plain corpus-title
+ * candidates always were.
+ * @param {{id: string, title: string, year: number, letterboxd_title?: string}} film
+ * @returns {Array<{slug: string, expectedTitle: string}>}
  */
 function candidateSlugs(film) {
+  const candidates = [];
+  const seen = new Set();
+  const add = (slug, expectedTitle) => {
+    if (!slug || seen.has(slug)) return;
+    seen.add(slug);
+    candidates.push({ slug, expectedTitle });
+  };
+
   const fromTitle = slugify(film.title);
-  return [...new Set([film.id, fromTitle, `${fromTitle}-${film.year}`])];
+  add(film.id, film.title);
+  add(fromTitle, film.title);
+  add(`${fromTitle}-${film.year}`, film.title);
+
+  const noArticle = film.title.replace(/^(the|a|an)\s+/i, '');
+  if (noArticle !== film.title) {
+    const slug = slugify(noArticle);
+    add(slug, film.title);
+    add(`${slug}-${film.year}`, film.title);
+  }
+
+  const digitTitle = withDigits(film.title);
+  if (digitTitle !== film.title) {
+    const slug = slugify(digitTitle);
+    add(slug, film.title);
+    add(`${slug}-${film.year}`, film.title);
+  }
+
+  if (film.letterboxd_title) {
+    const slug = slugify(film.letterboxd_title);
+    add(slug, film.letterboxd_title);
+    add(`${slug}-${film.year}`, film.letterboxd_title);
+  }
+
+  return candidates;
+}
+
+/**
+ * Two titles match if they're equal outright, or if one is a colon-truncated prefix of the other
+ * — "Twin Peaks" (the page) vs. "Twin Peaks: Seasons 1-2" (the corpus), or "My Left Foot" vs.
+ * "My Left Foot: The Story of Christy Brown". Still gated by the year check alongside this, so a
+ * different film sharing a title prefix needs a near-matching year too, not just the words.
+ */
+function titlesMatch(a, b) {
+  if (normalise(a) === normalise(b)) return true;
+  const coreA = normalise(a.split(':')[0]);
+  const coreB = normalise(b.split(':')[0]);
+  return coreA.length > 0 && coreA === coreB;
 }
 
 /**
  * Every rejection carries a reason rather than collapsing to null — a candidate slug that 404s,
  * one whose page has no year, and one whose page names a different film are three different
  * findings, and only the log line was ever telling them apart before this.
- * @param {string} slug
- * @param {{title: string, year: number}} film
+ * @param {{slug: string, expectedTitle: string}} candidate
+ * @param {{year: number}} film
  * @returns {Promise<{ok: true, slug: string, poster: string|null, tmdbId: number|null} | {ok: false, slug: string, reason: string}>}
  */
-async function tryCandidate(slug, film) {
+async function tryCandidate(candidate, film) {
+  const { slug, expectedTitle } = candidate;
   let response;
   try {
     response = await fetch(`https://letterboxd.com/film/${slug}/`, { headers: { 'User-Agent': UA } });
@@ -108,7 +166,7 @@ async function tryCandidate(slug, film) {
   const pageYear = Number(yearMatch[1]);
 
   // The confidence gate: both title and year must agree, mirroring ingest-omdb.mjs's tolerance.
-  if (normalise(pageTitle) !== normalise(film.title)) {
+  if (!titlesMatch(pageTitle, expectedTitle)) {
     return { ok: false, slug, reason: `page is "${pageTitle}" (${pageYear}), not a title match` };
   }
   if (Math.abs(pageYear - film.year) > 1) {
@@ -128,8 +186,8 @@ async function tryCandidate(slug, film) {
  */
 async function resolveFilm(film) {
   const attempts = [];
-  for (const slug of candidateSlugs(film)) {
-    const result = await tryCandidate(slug, film);
+  for (const candidate of candidateSlugs(film)) {
+    const result = await tryCandidate(candidate, film);
     await sleep(REQUEST_GAP_MS);
     if (result.ok) return result;
     attempts.push(`${result.slug}: ${result.reason}`);
