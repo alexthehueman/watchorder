@@ -78,15 +78,17 @@ async function omdb(params, apiKey) {
   for (const [key, value] of Object.entries(params)) url.searchParams.set(key, value);
 
   const response = await fetch(url);
-  if (!response.ok) throw new Error(`OMDb ${response.status}`);
-  const body = await response.json();
+  // OMDb sometimes reports quota exhaustion as HTTP 401 rather than 200 with Response: "False" —
+  // both carry the same recognisable body, so it's checked before response.ok is trusted.
+  const body = await response.json().catch(() => null);
 
-  if (body.Response === 'False' && body.Error === 'Request limit reached!') {
+  if (body?.Response === 'False' && body.Error === 'Request limit reached!') {
     throw new OmdbQuotaError('daily request limit reached');
   }
-  if (body.Response === 'False' && body.Error === 'Invalid API key!') {
+  if (body?.Response === 'False' && body.Error === 'Invalid API key!') {
     throw new OmdbQuotaError('invalid API key');
   }
+  if (!response.ok) throw new Error(`OMDb ${response.status}`);
   return body;
 }
 

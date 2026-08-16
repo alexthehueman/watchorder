@@ -25,6 +25,11 @@ films:
     gateway: 4
     note: A romance in which both people are correct to behave appallingly.
 
+  - film: one-battle-after-another
+    signature: 5
+    gateway: 5      # movie stars and a chase-movie plot — maybe the most accessible entry point he's made
+    note: A father's revolutionary past comes hunting for his daughter, played as chase movie and satire at once — and, unexpectedly, his warmest ending in years.
+
   - film: boogie-nights
     signature: 4
     must_see: true
@@ -55,6 +60,7 @@ curated:
   curator: house
   rationale: Start with the loudest, then watch him get quieter and stranger.
   order:
+    - one-battle-after-another
     - boogie-nights
     - there-will-be-blood
     - magnolia

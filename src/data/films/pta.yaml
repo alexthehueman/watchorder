@@ -157,3 +157,18 @@
     sex: 1
   imdb_id: tt11271038
   poster_url: https://m.media-amazon.com/images/M/MV5BYjU5MjRiOWMtNmI0OC00ZTU1LThlNGItYTViNzU2YzAzMWMxXkEyXkFqcGc@._V1_SX300.jpg
+
+- id: one-battle-after-another
+  tmdb_id: null
+  title: One Battle After Another
+  year: 2025
+  runtime: 162
+  tags:
+    opacity: 2
+    stillness: 1 # extended chase sequences replace the measured tempo of everything else he's made
+    bleakness: 2
+    humor: 3
+    acclaim: 0.92
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  imdb_id: tt30144839
+  poster_url: https://m.media-amazon.com/images/M/MV5BMzBkZmQ0NjMtNTZlMy00ZjdlLTg5ODUtYWFlNGM0YzE3MTg0XkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg
