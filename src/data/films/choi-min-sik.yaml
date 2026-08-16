@@ -48,12 +48,13 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BM2Q1ZGZiNTYtMWNjOC00NmU2LTg1MDQtZGZkNmY0Y2RlOTBmXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: nameless-gangster
-  tmdb_id: null
+  tmdb_id: 89501
   title: Nameless Gangster
   year: 2012
   runtime: 135
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.80 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/jp/8m/ig/44/nameless-1200-1200-675-675-crop-000000.jpg?v=feb1b6bc08
 
 - id: new-world
   tmdb_id: null

@@ -13,13 +13,14 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMzQyMTliMzMtNzliZi00MmMwLWExZGEtNzQ3MDc1NmY4M2I1XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: three-colours-blue
-  tmdb_id: null
+  tmdb_id: 108
   title: 'Three Colours: Blue'
   year: 1993
   runtime: 98
   director: Krzysztof Kieślowski
   tags: { opacity: 2, stillness: 4, bleakness: 4, humor: 1, acclaim: 0.88 }
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 1 }
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/xr/zj/pc/7k/blue-1200-1200-675-675-crop-000000.jpg?v=80d68de00f
 
 - id: the-english-patient
   tmdb_id: null

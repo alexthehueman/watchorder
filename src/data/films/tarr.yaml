@@ -20,12 +20,13 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNGRhNWEzOTAtZDM2NC00NzYzLTlkZWItZGE3ZDgzYzgzOGUxXkEyXkFqcGdeQXVyNzEyNjUwMTA@._V1_SX300.jpg
 
 - id: the-outsider
-  tmdb_id: null
+  tmdb_id: 128043
   title: The Outsider
   year: 1981
   runtime: 121
   tags: { opacity: 2, stillness: 3, bleakness: 4, humor: 2, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  poster_url: https://a.ltrbxd.com/resized/film-poster/9/9/8/2/3/99823-the-outsider-0-230-0-345-crop.jpg?v=d934ac41db
 
 - id: almanac-of-fall
   tmdb_id: null
@@ -48,7 +49,7 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYjg1ZmYxZTktZGI1MS00NTQ0LTk1MGUtMjU1NTk5Yzk3NzFmXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: satantango
-  tmdb_id: null
+  tmdb_id: 31414
   title: Sátántangó
   year: 1994
   runtime: 439
@@ -60,6 +61,7 @@
     suicide: true
     violence: 2
     sex: 1
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/dz/g2/5c/og/satantango-1200-1200-675-675-crop-000000.jpg?v=f123d73da6
 
 - id: werckmeister-harmonies
   tmdb_id: null

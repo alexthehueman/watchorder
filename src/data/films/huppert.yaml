@@ -17,12 +17,13 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZTMwYjVmOGQtZjVkMi00Yzg5LWIzMjMtOWExNTVhZTJmNmY5XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: violette-noziere
-  tmdb_id: null
+  tmdb_id: 2813
   title: Violette Nozière
   year: 1978
   runtime: 133
   tags: { opacity: 2, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.70 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 2 }
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/g5/ka/gf/y8/z1ADKMq2njDJCnOYHTxt8Iz82V-1200-1200-675-675-crop-000000.jpg?v=214cdfcc6c
 
 - id: loulou
   tmdb_id: null
@@ -45,7 +46,7 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjA3ZTdjMzktMzNiMC00NWQzLWJhZjMtMTIzYzA1YjFlOTEyXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: la-ceremonie
-  tmdb_id: null
+  tmdb_id: 1802
   title: La Cérémonie
   year: 1995
   runtime: 112
@@ -56,6 +57,7 @@
     humor: 2 # it is genuinely funny for an hour, which is what makes the last ten minutes land
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/en/ub/cj/yk/eFGZ6ojTBGhE6zIEJ03WWZhipgg-1200-1200-675-675-crop-000000.jpg?v=3b3822e989
 
 - id: 8-women
   tmdb_id: null
