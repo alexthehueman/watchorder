@@ -46,13 +46,14 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNGNmOGE4YjMtZmE5OS00MDhlLWFmZDYtNGE0NmVkMDFjMWM2XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: cries-and-whispers
-  tmdb_id: null
+  tmdb_id: 10238
   title: Cries and Whispers
   year: 1972
   runtime: 91
   director: Ingmar Bergman
   tags: { opacity: 2, stillness: 4, bleakness: 5, humor: 1, acclaim: 0.88 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ov/86/s9/16/cries%20and%20whispers-1200-1200-675-675-crop-000000.jpg?v=fd2e4e8b5e
 
 - id: forty-carats
   tmdb_id: null

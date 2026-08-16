@@ -118,13 +118,14 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTcyMzY0NTMzMF5BMl5BanBnXkFtZTcwMTc1MjY4Mg@@._V1_SX300.jpg
 
 - id: cave-of-forgotten-dreams
-  tmdb_id: null
+  tmdb_id: 59490
   title: Cave of Forgotten Dreams
   year: 2010
   runtime: 90
   director: Werner Herzog
   tags: { opacity: 1, stillness: 3, bleakness: 1, humor: 1, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/nc/ja/ui/af/cave-of-forgotten-dreams-1200-1200-675-675-crop-000000.jpg?v=1987e90a7b
 
 - id: into-the-abyss
   tmdb_id: null

@@ -105,13 +105,14 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNjAzODViNGEtMjBkYi00N2U5LWJjNjAtY2U0MGJhZTEwOTU0XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: spirited-away
-  tmdb_id: null
+  tmdb_id: 129
   title: Spirited Away
   year: 2001
   runtime: 125
   director: Hayao Miyazaki
   tags: { opacity: 3, stillness: 3, bleakness: 2, humor: 3, acclaim: 0.95 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/s7/yb/jv/eq/spirited-away-1200-1200-675-675-crop-000000.jpg?v=d89d148596
 
 - id: howls-moving-castle
   tmdb_id: null
