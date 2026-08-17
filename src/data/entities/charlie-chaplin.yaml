@@ -1,0 +1,75 @@
+slug: charlie-chaplin
+kind: director
+name: Charlie Chaplin
+blurb: The most famous image of the twentieth century, attached to a filmmaker who kept ending comedies where comedies stop.
+
+films:
+  - film: city-lights
+    signature: 5
+    must_see: true
+    gateway: 5
+    note: Made as a silent film three years into sound, out of stubbornness, and it has the best last shot in cinema.
+
+  - film: modern-times
+    signature: 5
+    must_see: true
+    gateway: 5
+    note: The factory, the machine, the feeding contraption. His politics played entirely as slapstick.
+
+  - film: the-gold-rush
+    signature: 5
+    gateway: 5
+    note: The boiled shoe and the dancing rolls. The one he wanted to be remembered for.
+
+  - film: the-great-dictator
+    signature: 4
+    gateway: 4
+    note: He made it while Hitler was winning, and the final speech drops the act completely.
+
+  - film: the-kid
+    signature: 4
+    gateway: 4
+    note: His first feature, and the first time anyone put that much sentiment next to that much technique.
+
+  - film: monsieur-verdoux
+    signature: 2
+    gateway: 1      # audiences hated it in 1947 for the reason it is interesting now
+    note: The Tramp abandoned for a wife-murderer who argues capitalism taught him the arithmetic.
+
+  - film: the-circus
+    signature: 4
+    gateway: 4
+    note: Made during a divorce that nearly destroyed him, and it is the funniest thing he ever did.
+
+  - film: limelight
+    signature: 3
+    gateway: 2
+    note: An aging clown who is no longer funny, played by a man who knew the feeling. Slow and unguarded.
+
+  - film: a-woman-of-paris
+    signature: 2
+    gateway: 2
+    note: A drama he directed and stayed out of, to prove he could. Nobody went, and it is genuinely good.
+
+  - film: a-king-in-new-york
+    signature: 2
+    gateway: 1
+    note: Made in exile after America threw him out, and it is far angrier than it is funny.
+
+  - film: the-countess-from-hong-kong
+    signature: 1
+    gateway: 0      # the last film, and a catastrophic first impression of him
+    note: Brando and Loren in a shipboard farce that lands nowhere. His only outright bad film.
+
+curated:
+  curator: house
+  rationale: The perfect ones first, then the films where he stops protecting you from the ending.
+  order:
+    - city-lights
+    - modern-times
+    - the-gold-rush
+    - the-kid
+    - the-circus
+    - the-great-dictator
+    - limelight
+    - monsieur-verdoux

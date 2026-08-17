@@ -1,0 +1,79 @@
+slug: buster-keaton
+kind: director
+name: Buster Keaton
+blurb: Did his own stunts, built his own gags out of engineering, and never once asked you to feel sorry for him.
+
+films:
+  - film: the-general
+    signature: 5
+    must_see: true
+    gateway: 5
+    note: A locomotive chase built as one continuous escalating machine. Bankrupted him; now the consensus best.
+
+  - film: sherlock-jr
+    signature: 5
+    must_see: true
+    gateway: 5
+    note: Forty-five minutes, and the sequence where he walks into the movie screen still cannot be explained.
+
+  - film: steamboat-bill-jr
+    signature: 5
+    gateway: 5
+    note: The house front falls on him and he is standing exactly where the open window is. No trick, one take.
+
+  - film: the-navigator
+    signature: 4
+    gateway: 5
+    note: Two useless rich people alone on an ocean liner. His biggest hit at the time.
+
+  - film: the-cameraman
+    signature: 4
+    gateway: 4
+    note: The last one he controlled, made at MGM just before they took the control away.
+
+  - film: our-hospitality
+    signature: 4
+    gateway: 4
+    note: A feud plot used as scaffolding for a waterfall rescue he very nearly died shooting.
+
+  - film: seven-chances
+    signature: 3
+    gateway: 4
+    note: The boulder sequence was an accident discovered in editing, and it makes the film.
+
+  - film: three-ages
+    signature: 2
+    gateway: 3
+    note: Three parallel eras, structured as insurance in case it had to be cut into shorts. It shows.
+
+  - film: go-west
+    signature: 3
+    gateway: 3
+    note: The one where the joke is loneliness. He plays it entirely without winking, and it is stranger than the famous ones.
+
+  - film: college
+    signature: 3
+    gateway: 4
+    note: Sports gags, competently. The least essential of the features and still better made than most comedies.
+
+  - film: battling-butler
+    signature: 2
+    gateway: 2
+    note: A comedy that stops being one in the last reel and simply lets a man get hurt.
+
+  - film: the-saphead
+    signature: 1
+    gateway: 3
+    note: His first feature, directed by someone else's sensibility, and useful mainly as a before picture.
+
+curated:
+  curator: house
+  rationale: The two undeniable ones first, then the rest of a career spent solving physical problems.
+  order:
+    - the-general
+    - sherlock-jr
+    - steamboat-bill-jr
+    - the-navigator
+    - our-hospitality
+    - the-cameraman
+    - seven-chances

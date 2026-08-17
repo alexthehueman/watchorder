@@ -1,0 +1,141 @@
+# Films for Buster Keaton. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The counterweight to Chaplin in the corpus, and deliberately tagged as one: near-identical humor
+# values, consistently lower bleakness. Keaton's films end with the problem solved and the man
+# unbothered, where Chaplin's end on the cost of solving it. Same genre, opposite worldview, which
+# is exactly the separation between humor and bleakness the rubric exists to enforce.
+#
+# Runtimes are short by modern standards and that is not an error — the feature length of 1924.
+
+- id: our-hospitality
+  tmdb_id: null
+  title: Our Hospitality
+  year: 1923
+  runtime: 65
+  director: Buster Keaton
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.80 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: sherlock-jr
+  tmdb_id: null
+  title: Sherlock Jr.
+  year: 1924
+  runtime: 45
+  director: Buster Keaton
+  tags:
+    opacity: 3 # a projectionist walks into the screen, and the film never explains its own logic
+    stillness: 1
+    bleakness: 1
+    humor: 5
+    acclaim: 0.93
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-navigator
+  tmdb_id: null
+  title: The Navigator
+  year: 1924
+  runtime: 59
+  director: Buster Keaton
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 5, acclaim: 0.80 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: seven-chances
+  tmdb_id: null
+  title: Seven Chances
+  year: 1925
+  runtime: 56
+  director: Buster Keaton
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 5, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-general
+  tmdb_id: null
+  title: The General
+  year: 1926
+  runtime: 67
+  director: Buster Keaton
+  tags:
+    opacity: 1
+    stillness: 1
+    bleakness: 2
+    humor: 4 # the gags are structural rather than jokes, which is why it plays as adventure
+    acclaim: 0.95
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: steamboat-bill-jr
+  tmdb_id: null
+  title: Steamboat Bill Jr.
+  year: 1928
+  runtime: 70
+  director: Buster Keaton
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 5, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-cameraman
+  tmdb_id: null
+  title: The Cameraman
+  year: 1928
+  runtime: 76
+  director: Buster Keaton
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.82 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: three-ages
+  tmdb_id: null
+  title: Three Ages
+  year: 1923
+  runtime: 63
+  director: Buster Keaton
+  tags: { opacity: 2, stillness: 2, bleakness: 1, humor: 4, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+# The four below widen a corpus that was otherwise eight films from a single five-year window, all
+# of them short comedies with near-identical profiles — the quiz had literally nothing to move
+# (taste-only D measured 0.002). These are real directed features rather than padding, and they are
+# where his actual variation lives: Go West is melancholy more than funny, Battling Butler ends in
+# genuine brutality, The Saphead predates his control of his own material.
+- id: the-saphead
+  tmdb_id: null
+  title: The Saphead
+  year: 1920
+  runtime: 77
+  director: Buster Keaton
+  tags: { opacity: 1, stillness: 3, bleakness: 2, humor: 3, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: go-west
+  tmdb_id: null
+  title: Go West
+  year: 1925
+  runtime: 69
+  director: Buster Keaton
+  tags:
+    opacity: 1
+    stillness: 3
+    bleakness: 3 # a man so alone the only thing that loves him back is a cow, played straight
+    humor: 3
+    acclaim: 0.70
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: battling-butler
+  tmdb_id: null
+  title: Battling Butler
+  year: 1926
+  runtime: 77
+  director: Buster Keaton
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 3 # ends with a beating filmed without a single gag in it
+    humor: 3
+    acclaim: 0.62
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: college
+  tmdb_id: null
+  title: College
+  year: 1927
+  runtime: 66
+  director: Buster Keaton
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }

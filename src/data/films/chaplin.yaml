@@ -1,0 +1,133 @@
+# Films for Charlie Chaplin. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The rubric's humor 5 is "comedy is the point", and most of this filmography sits there honestly.
+# What keeps the axis from going flat is that he kept ending comedies in places comedy does not go:
+# City Lights on a look, Modern Times on a road, Verdoux on a guillotine. So humor runs 3-5 and
+# bleakness carries the actual variation, which is the correct division of labour between them.
+
+- id: the-kid
+  tmdb_id: null
+  title: The Kid
+  year: 1921
+  runtime: 68
+  director: Charlie Chaplin
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 4, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
+
+- id: the-gold-rush
+  tmdb_id: null
+  title: The Gold Rush
+  year: 1925
+  runtime: 95
+  director: Charlie Chaplin
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 5, acclaim: 0.90 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-circus
+  tmdb_id: null
+  title: The Circus
+  year: 1928
+  runtime: 72
+  director: Charlie Chaplin
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 5, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: city-lights
+  tmdb_id: null
+  title: City Lights
+  year: 1931
+  runtime: 87
+  director: Charlie Chaplin
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 3 # the last shot is a question about whether being seen is a kindness
+    humor: 5
+    acclaim: 0.95
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 0 }
+
+- id: modern-times
+  tmdb_id: null
+  title: Modern Times
+  year: 1936
+  runtime: 87
+  director: Charlie Chaplin
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 5, acclaim: 0.93 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 0 }
+
+- id: the-great-dictator
+  tmdb_id: null
+  title: The Great Dictator
+  year: 1940
+  runtime: 125
+  director: Charlie Chaplin
+  tags:
+    opacity: 2 # the closing speech abandons the character entirely and addresses the audience
+    stillness: 2
+    bleakness: 3
+    humor: 4
+    acclaim: 0.88
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: monsieur-verdoux
+  tmdb_id: null
+  title: Monsieur Verdoux
+  year: 1947
+  runtime: 124
+  director: Charlie Chaplin
+  tags:
+    opacity: 2
+    stillness: 3
+    bleakness: 5 # a serial killer argues that business and war do it at scale, then goes to the blade
+    humor: 3
+    acclaim: 0.75
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: limelight
+  tmdb_id: null
+  title: Limelight
+  year: 1952
+  runtime: 137
+  director: Charlie Chaplin
+  tags:
+    opacity: 1
+    stillness: 4 # long, talky and entirely uninterested in being funny on schedule
+    bleakness: 4
+    humor: 3
+    acclaim: 0.75
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
+
+# Three added for the same reason Keaton's later features were: eight films all built to the same
+# specification left the quiz nothing to move. A Woman of Paris is the important one — a straight
+# drama he directed without starring in, and the only humor 1 in the filmography.
+- id: a-woman-of-paris
+  tmdb_id: null
+  title: A Woman of Paris
+  year: 1923
+  runtime: 82
+  director: Charlie Chaplin
+  tags:
+    opacity: 2
+    stillness: 3
+    bleakness: 4
+    humor: 1 # he directed it, stayed out of it, and made no attempt to be funny anywhere in it
+    acclaim: 0.70
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 1 }
+
+- id: a-king-in-new-york
+  tmdb_id: null
+  title: A King in New York
+  year: 1957
+  runtime: 110
+  director: Charlie Chaplin
+  tags: { opacity: 2, stillness: 3, bleakness: 4, humor: 3, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-countess-from-hong-kong
+  tmdb_id: null
+  title: A Countess from Hong Kong
+  year: 1967
+  runtime: 120
+  director: Charlie Chaplin
+  tags: { opacity: 1, stillness: 3, bleakness: 2, humor: 2, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
