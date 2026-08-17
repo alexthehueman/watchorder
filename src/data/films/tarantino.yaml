@@ -1,0 +1,120 @@
+# Films for Quentin Tarantino. Scales and anchors are in README.md ("The anchor rubric").
+#
+# A useful calibration case for the separation the rubric insists on between bleakness and content:
+# almost everything here is violence 3, and the bleakness values still run from 2 to 5. Depicted
+# carnage is not the same axis as whether the film thinks the world is survivable.
+
+- id: reservoir-dogs
+  tmdb_id: null
+  title: Reservoir Dogs
+  year: 1992
+  runtime: 99
+  director: Quentin Tarantino
+  tags: { opacity: 2, stillness: 1, bleakness: 4, humor: 2, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: pulp-fiction
+  tmdb_id: null
+  title: Pulp Fiction
+  year: 1994
+  runtime: 154
+  director: Quentin Tarantino
+  tags:
+    opacity: 2 # out of order, but every piece resolves once you have all of them
+    stillness: 1
+    bleakness: 3
+    humor: 4
+    acclaim: 0.95
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+
+- id: jackie-brown
+  tmdb_id: null
+  title: Jackie Brown
+  year: 1997
+  runtime: 154
+  director: Quentin Tarantino
+  tags:
+    opacity: 1
+    stillness: 3 # the one where he lets scenes sit and breathe instead of accelerating
+    bleakness: 3
+    humor: 3
+    acclaim: 0.82
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: kill-bill-vol-1
+  tmdb_id: null
+  title: Kill Bill Vol. 1
+  year: 2003
+  runtime: 111
+  director: Quentin Tarantino
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 3, acclaim: 0.85 }
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: kill-bill-vol-2
+  tmdb_id: null
+  title: Kill Bill Vol. 2
+  year: 2004
+  runtime: 137
+  director: Quentin Tarantino
+  tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 3, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: death-proof
+  tmdb_id: null
+  title: Death Proof
+  year: 2007
+  runtime: 113
+  director: Quentin Tarantino
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.58 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+
+- id: inglourious-basterds
+  tmdb_id: null
+  title: Inglourious Basterds
+  year: 2009
+  runtime: 153
+  director: Quentin Tarantino
+  tags:
+    opacity: 1
+    stillness: 3 # built almost entirely from long conversations where nothing moves but the tension
+    bleakness: 3
+    humor: 4
+    acclaim: 0.88
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: django-unchained
+  tmdb_id: null
+  title: Django Unchained
+  year: 2012
+  runtime: 165
+  director: Quentin Tarantino
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 3, acclaim: 0.85 }
+  content: { sexual_violence: true, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: the-hateful-eight
+  tmdb_id: null
+  title: The Hateful Eight
+  year: 2015
+  runtime: 168
+  director: Quentin Tarantino
+  tags:
+    opacity: 2
+    stillness: 3
+    bleakness: 5 # one room, eight liars, and nobody in it deserves or receives any mercy
+    humor: 2
+    acclaim: 0.75
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: once-upon-a-time-in-hollywood
+  tmdb_id: null
+  title: Once Upon a Time in Hollywood
+  year: 2019
+  runtime: 161
+  director: Quentin Tarantino
+  tags:
+    opacity: 2
+    stillness: 4 # two and a half hours of hanging around, and the plot is a rumour until the last reel
+    bleakness: 2
+    humor: 3
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }

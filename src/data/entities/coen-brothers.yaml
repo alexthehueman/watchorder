@@ -1,0 +1,85 @@
+slug: coen-brothers
+kind: director
+name: Coen Brothers
+blurb: Genre pastiche played dead straight, over a worldview where competence is rare and the universe is not listening.
+
+films:
+  - film: no-country-for-old-men
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: The chase film where the chase stops mattering and an old man is left describing a dream.
+
+  - film: fargo
+    signature: 5
+    must_see: true
+    gateway: 5
+    note: Decency wins, barely, and only because one competent person happened to be nearby.
+
+  - film: the-big-lebowski
+    signature: 4
+    gateway: 5
+    note: A noir plot handed to a man with no interest in solving it. Funnier every time.
+
+  - film: barton-fink
+    signature: 5
+    gateway: 1      # the hotel is not going to explain itself, and that is the point
+    note: A writer with writer's block in a hotel that is either hell or Hollywood. No reading settles it.
+
+  - film: millers-crossing
+    signature: 4
+    gateway: 3
+    note: A gangster film in which nobody says what they want, and the plot is entirely who is lying.
+
+  - film: a-serious-man
+    signature: 5
+    gateway: 2
+    note: Job, relocated to a Minnesota suburb in 1967, with the same amount of answers.
+
+  - film: inside-llewyn-davis
+    signature: 4
+    gateway: 3
+    note: A week in the life of a folk singer who is good but not good enough, and knows it.
+
+  - film: blood-simple
+    signature: 4
+    gateway: 4
+    note: The first one. Four people, none of whom know what the others know, and it goes badly.
+
+  - film: raising-arizona
+    signature: 3
+    gateway: 4
+    note: Cartoon velocity and enormous sweetness, which is a register they mostly abandoned after.
+
+  - film: the-man-who-wasnt-there
+    signature: 3
+    gateway: 2
+    note: A barber who barely speaks, shot in black and white, drifting through someone else's noir.
+
+  - film: o-brother-where-art-thou
+    signature: 3
+    gateway: 4
+    note: The Odyssey as a Depression-era musical. Loose, and carried entirely by its soundtrack.
+
+  - film: true-grit
+    signature: 2
+    gateway: 5
+    note: Their straightest film, and proof they can do sincerity when the material asks for it.
+
+  - film: burn-after-reading
+    signature: 3
+    gateway: 3
+    note: Everyone is stupid, nothing matters, and a CIA supervisor says so directly to camera.
+
+curated:
+  curator: house
+  rationale: Start where the comedy and the dread are balanced, then let each one take a turn winning.
+  order:
+    - fargo
+    - no-country-for-old-men
+    - the-big-lebowski
+    - blood-simple
+    - millers-crossing
+    - inside-llewyn-davis
+    - a-serious-man
+    - barton-fink

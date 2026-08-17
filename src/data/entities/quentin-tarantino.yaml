@@ -1,0 +1,70 @@
+slug: quentin-tarantino
+kind: director
+name: Quentin Tarantino
+blurb: Dialogue as suspense, genre as raw material, and a filmography that keeps rewriting endings history got wrong.
+
+films:
+  - film: pulp-fiction
+    signature: 5
+    must_see: true
+    gateway: 5
+    note: The one that rewired nineties cinema. Three stories, out of order, and not one wasted line.
+
+  - film: reservoir-dogs
+    signature: 5
+    gateway: 4
+    note: A heist film that never shows the heist. Made for almost nothing and it never once looks it.
+
+  - film: inglourious-basterds
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: Five chapters of people talking at tables while the tension becomes unbearable. His best-built film.
+
+  - film: kill-bill-vol-1
+    signature: 4
+    gateway: 4
+    note: Pure style, almost no interiority, and a wholly committed hour of homage to films nobody else was citing.
+
+  - film: kill-bill-vol-2
+    signature: 4
+    gateway: 3
+    note: The talking half. Slower, sadder, and the better film of the two if you have the patience.
+
+  - film: django-unchained
+    signature: 4
+    gateway: 4
+    note: A western about American slavery that refuses to be tasteful about either half of that.
+
+  - film: jackie-brown
+    signature: 3
+    gateway: 5      # the calmest way in, and the one people underrate
+    note: His most adult film, and the only one where the pleasure is watching people age and improvise.
+
+  - film: once-upon-a-time-in-hollywood
+    signature: 4
+    gateway: 3
+    note: A hangout film about the end of an era, with a real murder waiting at the edge of the frame.
+
+  - film: the-hateful-eight
+    signature: 3
+    gateway: 1      # three hours in one room with eight people worth no sympathy at all
+    note: A locked-room mystery where the mystery matters less than watching everyone's worst instincts win.
+
+  - film: death-proof
+    signature: 2
+    gateway: 1
+    note: The weakest thing he has made, and interesting mostly for how completely the second half rescues it.
+
+curated:
+  curator: house
+  rationale: Start with the one that changed everything, then watch him get slower and stranger about it.
+  order:
+    - pulp-fiction
+    - reservoir-dogs
+    - jackie-brown
+    - kill-bill-vol-1
+    - kill-bill-vol-2
+    - inglourious-basterds
+    - django-unchained
+    - once-upon-a-time-in-hollywood
