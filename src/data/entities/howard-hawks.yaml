@@ -1,0 +1,89 @@
+slug: howard-hawks
+kind: director
+name: Howard Hawks
+blurb: Worked in every genre there was, never signed a frame stylistically, and made professionals talking fast into a worldview.
+
+films:
+  - film: rio-bravo
+    signature: 5
+    must_see: true
+    gateway: 5
+    note: Made because he thought High Noon was cowardly. Two hours of competent men waiting, and perfect.
+
+  - film: his-girl-friday
+    signature: 5
+    must_see: true
+    gateway: 5
+    note: The fastest dialogue ever recorded, achieved by having everyone talk over everyone.
+
+  - film: bringing-up-baby
+    signature: 5
+    gateway: 5
+    note: Screwball at its limit. A flop on release, and now the template for the entire form.
+
+  - film: the-big-sleep
+    signature: 4
+    gateway: 4
+    note: The plot does not resolve and nobody involved could explain it. It has never mattered.
+
+  - film: only-angels-have-wings
+    signature: 5
+    gateway: 4
+    note: Pilots dying on a mail route, and a code about not mentioning it. His clearest statement.
+
+  - film: red-river
+    signature: 4
+    gateway: 4
+    note: A cattle drive and a mutiny. Wayne playing a genuinely frightening man for the first time.
+
+  - film: to-have-and-have-not
+    signature: 4
+    gateway: 5
+    note: Bogart and Bacall meeting on camera, which the film sensibly rearranges itself around.
+
+  - film: scarface-1932
+    signature: 4
+    gateway: 3
+    note: The pre-code gangster film so violent they added a lecture to the front of it.
+
+  - film: gentlemen-prefer-blondes
+    signature: 3
+    gateway: 4
+    note: A musical he took no credit for caring about, and it is still funnier than most comedies.
+
+  - film: sergeant-york
+    signature: 2
+    gateway: 3
+    note: The wartime prestige picture. Efficient, sincere, and the least like him of anything here.
+
+  - film: twentieth-century
+    signature: 4
+    gateway: 4
+    note: The first screwball, arguably. Barrymore at full volume for ninety minutes on a train.
+
+  - film: ball-of-fire
+    signature: 3
+    gateway: 5
+    note: Stanwyck teaching slang to seven elderly professors. Written by Wilder, and it shows.
+
+  - film: hatari
+    signature: 3
+    gateway: 2
+    note: Two and a half hours in Tanganyika with no plot whatsoever, and that is the appeal.
+
+  - film: land-of-the-pharaohs
+    signature: 1
+    gateway: 0      # by his own account he had no idea how a pharaoh talks; a terrible first Hawks
+    note: The epic that went wrong. He said afterwards he never knew what the characters would say.
+
+curated:
+  curator: house
+  rationale: The comedies first, because the drama runs on exactly the same engine once you hear it.
+  order:
+    - his-girl-friday
+    - bringing-up-baby
+    - rio-bravo
+    - only-angels-have-wings
+    - to-have-and-have-not
+    - the-big-sleep
+    - red-river

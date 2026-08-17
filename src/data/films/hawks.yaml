@@ -1,0 +1,117 @@
+# Films for Howard Hawks. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Four of his best are absent here because they already exist: Bringing Up Baby in
+# hepburn-katharine.yaml, His Girl Friday in grant.yaml, To Have and Have Not and The Big Sleep in
+# bogart.yaml. Hawks is the strongest evidence yet for the shared film table — he worked with
+# everyone, so a third of his filmography arrives already tagged.
+#
+# Note the id: scarface-1932, because scarface is taken by the 1983 film in pacino.yaml. Same title,
+# unrelated films, fifty-one years apart.
+
+- id: scarface-1932
+  tmdb_id: null
+  title: Scarface
+  year: 1932
+  runtime: 93
+  director: Howard Hawks
+  tags: { opacity: 1, stillness: 1, bleakness: 4, humor: 2, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+
+- id: only-angels-have-wings
+  tmdb_id: null
+  title: Only Angels Have Wings
+  year: 1939
+  runtime: 121
+  director: Howard Hawks
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 3 # men die at work and the survivors agree not to discuss it, which is his whole ethic
+    humor: 3
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: sergeant-york
+  tmdb_id: null
+  title: Sergeant York
+  year: 1941
+  runtime: 134
+  director: Howard Hawks
+  tags: { opacity: 1, stillness: 3, bleakness: 2, humor: 2, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: red-river
+  tmdb_id: null
+  title: Red River
+  year: 1948
+  runtime: 133
+  director: Howard Hawks
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.88 }
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: gentlemen-prefer-blondes
+  tmdb_id: null
+  title: Gentlemen Prefer Blondes
+  year: 1953
+  runtime: 91
+  director: Howard Hawks
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 5, acclaim: 0.80 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: rio-bravo
+  tmdb_id: null
+  title: Rio Bravo
+  year: 1959
+  runtime: 141
+  director: Howard Hawks
+  tags:
+    opacity: 1
+    stillness: 3 # made as an argument against High Noon, and most of it is men waiting in a jail
+    bleakness: 2
+    humor: 4
+    acclaim: 0.90
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+# Added for the same reason as Ford's late additions: six films in one register gave M7 nothing.
+# Hatari! is the useful one — two and a half hours with no plot at all, which is the opposite of
+# everything else here.
+- id: twentieth-century
+  tmdb_id: null
+  title: Twentieth Century
+  year: 1934
+  runtime: 91
+  director: Howard Hawks
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 5, acclaim: 0.82 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: ball-of-fire
+  tmdb_id: null
+  title: Ball of Fire
+  year: 1941
+  runtime: 111
+  director: Howard Hawks
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 5, acclaim: 0.80 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: hatari
+  tmdb_id: null
+  title: Hatari!
+  year: 1962
+  runtime: 157
+  director: Howard Hawks
+  tags:
+    opacity: 2
+    stillness: 4 # two and a half hours of people catching animals and hanging around, with no plot
+    bleakness: 1
+    humor: 3
+    acclaim: 0.68
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: land-of-the-pharaohs
+  tmdb_id: null
+  title: Land of the Pharaohs
+  year: 1955
+  runtime: 106
+  director: Howard Hawks
+  tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
