@@ -1,0 +1,135 @@
+# Films for Luis Buñuel. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The corpus's clearest case for humor being independent of difficulty. The Discreet Charm and The
+# Phantom of Liberty are opacity 5 and humor 4 simultaneously — structurally impossible to follow
+# and consistently funny about it — which is exactly the combination a single difficulty slider
+# cannot express and the reason the humor axis exists at all.
+
+- id: lage-dor
+  tmdb_id: null
+  title: "L'Age d'Or"
+  year: 1930
+  runtime: 63
+  director: Luis Buñuel
+  tags:
+    opacity: 5 # surrealism as provocation, with no through-line offered at any point
+    stillness: 2
+    bleakness: 3
+    humor: 3
+    acclaim: 0.80
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 2 }
+
+- id: los-olvidados
+  tmdb_id: null
+  title: Los Olvidados
+  year: 1950
+  runtime: 80
+  director: Luis Buñuel
+  tags:
+    opacity: 2
+    stillness: 2
+    bleakness: 5 # street children in Mexico City, and it refuses every redemptive ending available
+    humor: 1
+    acclaim: 0.88
+  content: { sexual_violence: true, animal_harm: true, child_harm: true, suicide: false, violence: 3, sex: 1 }
+
+- id: viridiana
+  tmdb_id: null
+  title: Viridiana
+  year: 1961
+  runtime: 90
+  director: Luis Buñuel
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 3, acclaim: 0.90 }
+  content: { sexual_violence: true, animal_harm: true, child_harm: false, suicide: true, violence: 2, sex: 2 }
+
+- id: the-exterminating-angel
+  tmdb_id: null
+  title: The Exterminating Angel
+  year: 1962
+  runtime: 95
+  director: Luis Buñuel
+  tags:
+    opacity: 4 # nobody can leave the room and the film never once suggests why
+    stillness: 3
+    bleakness: 3
+    humor: 3
+    acclaim: 0.88
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: true, violence: 1, sex: 1 }
+
+- id: simon-of-the-desert
+  tmdb_id: null
+  title: Simon of the Desert
+  year: 1965
+  runtime: 45
+  director: Luis Buñuel
+  tags: { opacity: 3, stillness: 3, bleakness: 2, humor: 4, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: belle-de-jour
+  tmdb_id: null
+  title: Belle de Jour
+  year: 1967
+  runtime: 100
+  director: Luis Buñuel
+  tags:
+    opacity: 4 # fantasy and event are never marked apart, including in the final scene
+    stillness: 3
+    bleakness: 3
+    humor: 2
+    acclaim: 0.88
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 3 }
+
+- id: the-milky-way
+  tmdb_id: null
+  title: The Milky Way
+  year: 1969
+  runtime: 98
+  director: Luis Buñuel
+  tags: { opacity: 5, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: tristana
+  tmdb_id: null
+  title: Tristana
+  year: 1970
+  runtime: 99
+  director: Luis Buñuel
+  tags: { opacity: 2, stillness: 3, bleakness: 5, humor: 2, acclaim: 0.82 }
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 2 }
+
+- id: the-discreet-charm-of-the-bourgeoisie
+  tmdb_id: null
+  title: The Discreet Charm of the Bourgeoisie
+  year: 1972
+  runtime: 102
+  director: Luis Buñuel
+  tags:
+    opacity: 5 # dreams nested inside dreams, and six people who never manage to eat a meal
+    stillness: 2
+    bleakness: 2
+    humor: 4
+    acclaim: 0.90
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: the-phantom-of-liberty
+  tmdb_id: null
+  title: The Phantom of Liberty
+  year: 1974
+  runtime: 104
+  director: Luis Buñuel
+  tags: { opacity: 5, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.82 }
+  content: { sexual_violence: false, animal_harm: true, child_harm: true, suicide: false, violence: 2, sex: 2 }
+
+- id: that-obscure-object-of-desire
+  tmdb_id: null
+  title: That Obscure Object of Desire
+  year: 1977
+  runtime: 102
+  director: Luis Buñuel
+  tags:
+    opacity: 4 # two actresses play one woman, alternating without comment, and nobody remarks on it
+    stillness: 2
+    bleakness: 3
+    humor: 3
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 2 }

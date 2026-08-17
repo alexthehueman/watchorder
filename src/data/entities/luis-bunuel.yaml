@@ -1,0 +1,74 @@
+slug: luis-bunuel
+kind: director
+name: Luis Buñuel
+blurb: Fifty years of attacking the church, the bourgeoisie and narrative logic, and getting funnier at it as he aged.
+
+films:
+  - film: the-discreet-charm-of-the-bourgeoisie
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: Six people try to have dinner. Dreams open inside dreams and nobody ever eats.
+
+  - film: the-exterminating-angel
+    signature: 5
+    gateway: 4
+    note: Dinner guests who cannot leave the room. No explanation is offered and none is missing.
+
+  - film: belle-de-jour
+    signature: 5
+    gateway: 4
+    note: A housewife works afternoons in a brothel, or imagines it. The film declines to say which.
+
+  - film: viridiana
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A novice's charity destroys her. Won at Cannes, then banned in Spain within days.
+
+  - film: that-obscure-object-of-desire
+    signature: 4
+    gateway: 3
+    note: His last. Two actresses play the same woman and the film never acknowledges the switch.
+
+  - film: los-olvidados
+    signature: 4
+    gateway: 2      # the one entirely without jokes, and much harder for it
+    note: Street children in Mexico City, filmed with no sentiment and no way out. His bleakest.
+
+  - film: the-phantom-of-liberty
+    signature: 5
+    gateway: 2
+    note: Scenes hand off to unrelated scenes for two hours. The most purely structural film he made.
+
+  - film: tristana
+    signature: 4
+    gateway: 3
+    note: Deneuve again, ruined slowly by a guardian, and the coldest ending in his filmography.
+
+  - film: the-milky-way
+    signature: 4
+    gateway: 1      # a walking tour of Catholic heresies; the jokes need the footnotes
+    note: Two pilgrims walk through two thousand years of doctrinal argument, meeting heretics.
+
+  - film: simon-of-the-desert
+    signature: 4
+    gateway: 5
+    note: Forty-five minutes on a pillar, ending in a nightclub. The cheapest way to see what he does.
+
+  - film: lage-dor
+    signature: 4
+    gateway: 2
+    note: The early surrealist provocation, and it caused actual riots. More document than film now.
+
+curated:
+  curator: house
+  rationale: Start late, where the jokes carry the strangeness, then work back to when it was only strange.
+  order:
+    - the-discreet-charm-of-the-bourgeoisie
+    - the-exterminating-angel
+    - belle-de-jour
+    - viridiana
+    - that-obscure-object-of-desire
+    - los-olvidados
+    - the-phantom-of-liberty

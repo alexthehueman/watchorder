@@ -1,0 +1,74 @@
+slug: francois-truffaut
+kind: director
+name: François Truffaut
+blurb: The New Wave's warmest founder, who kept making films about people ruined by loving something too much.
+
+films:
+  - film: the-400-blows
+    signature: 5
+    must_see: true
+    gateway: 5
+    note: A boy nobody wants, ending on a freeze frame that had no precedent. Largely his own childhood.
+
+  - film: jules-and-jim
+    signature: 5
+    must_see: true
+    gateway: 5
+    note: Two friends and the woman between them across twenty years. Weightless until it turns.
+
+  - film: day-for-night
+    signature: 5
+    gateway: 5
+    note: A film about making a film, in which the fake disasters are funnier than the real ones.
+
+  - film: shoot-the-piano-player
+    signature: 4
+    gateway: 3
+    note: A gangster comedy that keeps becoming a tragedy without warning anyone. His loosest film.
+
+  - film: the-story-of-adele-h
+    signature: 4
+    gateway: 2
+    note: Victor Hugo's daughter pursuing a man who does not want her, into complete disintegration.
+
+  - film: the-wild-child
+    signature: 4
+    gateway: 3
+    note: A feral boy and the doctor teaching him, played by Truffaut himself. Clinical and unsentimental.
+
+  - film: stolen-kisses
+    signature: 4
+    gateway: 5
+    note: Antoine Doinel grown up and useless at everything. The lightest thing he made.
+
+  - film: the-last-metro
+    signature: 3
+    gateway: 4
+    note: A theatre company under the occupation, with a Jewish director hidden in the cellar.
+
+  - film: the-woman-next-door
+    signature: 4
+    gateway: 2
+    note: Old lovers as neighbours, which goes exactly as badly as it sounds. Late and pitiless.
+
+  - film: the-soft-skin
+    signature: 3
+    gateway: 3
+    note: An affair filmed as logistics — timetables, hotel corridors, phone calls. Deliberately unromantic.
+
+  - film: fahrenheit-451
+    signature: 2
+    gateway: 3
+    note: His only English-language film and his only science fiction. Stiff, and fascinating for it.
+
+curated:
+  curator: house
+  rationale: Begin with the boy, then watch him spend a career on people who cannot let go.
+  order:
+    - the-400-blows
+    - jules-and-jim
+    - shoot-the-piano-player
+    - stolen-kisses
+    - day-for-night
+    - the-wild-child
+    - the-story-of-adele-h
