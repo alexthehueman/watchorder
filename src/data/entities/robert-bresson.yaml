@@ -1,0 +1,73 @@
+slug: robert-bresson
+kind: director
+name: Robert Bresson
+blurb: Cast non-actors, forbade them to perform, and got closer to grace than anyone who let them.
+
+films:
+  - film: au-hasard-balthazar
+    signature: 5
+    must_see: true
+    gateway: 1      # a donkey is mistreated for ninety minutes; not a film to hand anyone cold
+    note: The life of a donkey as a record of human cruelty. Godard said it was the world in ninety minutes.
+
+  - film: a-man-escaped
+    signature: 5
+    must_see: true
+    gateway: 5      # the one where his method serves a plot everyone can hold onto
+    note: A prisoner makes a rope out of a bedframe. Pure process, and unbearably tense for it.
+
+  - film: pickpocket
+    signature: 5
+    gateway: 4
+    note: Hands, pockets, train stations. The theft sequences are choreography and the ending is unearned grace.
+
+  - film: diary-of-a-country-priest
+    signature: 5
+    gateway: 3
+    note: A dying priest writes down his failures. The first film where the method fully arrives.
+
+  - film: mouchette
+    signature: 5
+    gateway: 1
+    note: A fourteen-year-old with nothing and no one. Among the bleakest films anyone has made.
+
+  - film: largent
+    signature: 5
+    gateway: 2
+    note: His last. A forged note passes hands and ends in murder, traced with no commentary at all.
+
+  - film: lancelot-du-lac
+    signature: 4
+    gateway: 2
+    note: Camelot at the end, filmed as clanking metal and offscreen violence. No romance survives it.
+
+  - film: the-trial-of-joan-of-arc
+    signature: 4
+    gateway: 3
+    note: The trial transcript, spoken plainly, at sixty-five minutes. Nothing dramatised, nothing added.
+
+  - film: une-femme-douce
+    signature: 4
+    gateway: 2
+    note: His first in colour. A husband explains his wife's suicide and understands none of it.
+
+  - film: four-nights-of-a-dreamer
+    signature: 3
+    gateway: 4
+    note: His lightest film by a distance, and the only one that lets its characters off.
+
+  - film: les-dames-du-bois-de-boulogne
+    signature: 2
+    gateway: 4
+    note: Early, with dialogue by Cocteau, and still recognisably a melodrama. Before the method hardened.
+
+curated:
+  curator: house
+  rationale: Start where the method has a plot to carry it, then take the plot away.
+  order:
+    - a-man-escaped
+    - pickpocket
+    - diary-of-a-country-priest
+    - au-hasard-balthazar
+    - mouchette
+    - largent

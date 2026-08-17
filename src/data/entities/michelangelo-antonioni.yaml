@@ -1,0 +1,63 @@
+slug: michelangelo-antonioni
+kind: director
+name: Michelangelo Antonioni
+blurb: Made alienation into a formal problem, then spent thirty years refusing to resolve it for anyone.
+
+films:
+  - film: lavventura
+    signature: 5
+    must_see: true
+    gateway: 2      # the disappearance is never resolved, and that is a hard first lesson
+    note: Booed at Cannes, then voted one of the greatest films ever made. Both reactions are correct.
+
+  - film: leclisse
+    signature: 5
+    gateway: 1      # ends with seven minutes of empty streets and no characters at all
+    note: The last film of the trilogy, and the one where he finally removes the people entirely.
+
+  - film: la-notte
+    signature: 5
+    gateway: 3
+    note: One day and night in a dying marriage, with Jeanne Moreau walking through Milan alone.
+
+  - film: red-desert
+    signature: 5
+    gateway: 3
+    note: His first in colour, and he had the grass painted to get it. Industrial landscape as mental state.
+
+  - film: blow-up
+    signature: 4
+    must_see: true
+    gateway: 5
+    note: A photographer may have photographed a murder. The most accessible thing he made, and still unresolved.
+
+  - film: the-passenger
+    signature: 4
+    gateway: 4
+    note: A journalist takes a dead man's identity. The penultimate shot is seven minutes and leaves the room.
+
+  - film: il-grido
+    signature: 3
+    gateway: 3
+    note: "Before the trilogy: a working man walks out with his daughter and keeps walking. More conventional, just as bleak."
+
+  - film: zabriskie-point
+    signature: 3
+    gateway: 1
+    note: His American disaster. Incoherent about its own politics, and the final explosion is still extraordinary.
+
+  - film: identification-of-a-woman
+    signature: 3
+    gateway: 2
+    note: Late, and a return to the same questions with less certainty that they were worth asking.
+
+curated:
+  curator: house
+  rationale: Enter through the one with a plot, then let the plots fall away in the order he removed them.
+  order:
+    - blow-up
+    - lavventura
+    - la-notte
+    - leclisse
+    - red-desert
+    - the-passenger

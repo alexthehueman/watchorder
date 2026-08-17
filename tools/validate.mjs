@@ -44,18 +44,41 @@ const REGISTERS = ['restrained', 'unhinged', 'comic', 'menacing', 'warm'];
 /**
  * @returns {Promise<{films: object[], entities: object[]}>}
  */
+/**
+ * A YAML syntax error used to escape as a raw stack trace from deep inside the parser, which named
+ * the library's internals and not the file. The overwhelmingly common cause is one authoring
+ * mistake — an unquoted note containing ": ", which YAML reads as a nested mapping — so the file,
+ * the line and that specific fix are worth saying out loud rather than making someone read a
+ * composer stack to rediscover it.
+ */
+function parseOrExplain(text, where) {
+  try {
+    return parse(text);
+  } catch (err) {
+    const line = err.linePos?.[0]?.line;
+    const source = line ? text.split('\n')[line - 1]?.trim() : null;
+    const hint =
+      source && /:\s/.test(source.replace(/^[\w-]+:\s*/, ''))
+        ? '\n  Likely cause: a value containing ": " must be quoted — note: "Before the trilogy: a man walks out."'
+        : '';
+    throw new Error(`${where} is not valid YAML${line ? ` (line ${line})` : ''}: ${err.message}${source ? `\n  ${source}` : ''}${hint}`);
+  }
+}
+
 export async function loadCorpus() {
   const films = [];
   const filmFiles = (await readdir(FILM_DIR)).filter((name) => name.endsWith('.yaml')).sort();
   for (const name of filmFiles) {
-    const parsed = parse(await readFile(new URL(name, FILM_DIR), 'utf8')) ?? [];
+    const text = await readFile(new URL(name, FILM_DIR), 'utf8');
+    const parsed = parseOrExplain(text, `films/${name}`) ?? [];
     for (const film of parsed) films.push({ ...film, sourceFile: `films/${name}` });
   }
 
   const entries = (await readdir(ENTITY_DIR)).filter((name) => name.endsWith('.yaml')).sort();
   const entities = [];
   for (const name of entries) {
-    const entity = parse(await readFile(new URL(name, ENTITY_DIR), 'utf8'));
+    const text = await readFile(new URL(name, ENTITY_DIR), 'utf8');
+    const entity = parseOrExplain(text, `entities/${name}`);
     entities.push({ ...entity, sourceFile: name });
   }
   return { films, entities };

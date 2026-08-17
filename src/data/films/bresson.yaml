@@ -1,0 +1,144 @@
+# Films for Robert Bresson. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The narrowest filmography on the roster and honestly so: he made the same film thirteen times with
+# increasing severity. Where the variation genuinely lives is bleakness — A Man Escaped ends with a
+# man free and L'Argent ends with an axe, and pretending the axes move more than that would be
+# describing a different director.
+
+- id: diary-of-a-country-priest
+  tmdb_id: null
+  title: Diary of a Country Priest
+  year: 1951
+  runtime: 115
+  director: Robert Bresson
+  tags: { opacity: 3, stillness: 4, bleakness: 4, humor: 1, acclaim: 0.88 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
+
+- id: a-man-escaped
+  tmdb_id: null
+  title: A Man Escaped
+  year: 1956
+  runtime: 99
+  director: Robert Bresson
+  tags:
+    opacity: 2
+    stillness: 4
+    bleakness: 2 # the title is not a spoiler, it is a promise, and it is the one he keeps
+    humor: 1
+    acclaim: 0.92
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: pickpocket
+  tmdb_id: null
+  title: Pickpocket
+  year: 1959
+  runtime: 76
+  director: Robert Bresson
+  tags: { opacity: 3, stillness: 4, bleakness: 3, humor: 1, acclaim: 0.90 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-trial-of-joan-of-arc
+  tmdb_id: null
+  title: The Trial of Joan of Arc
+  year: 1962
+  runtime: 65
+  director: Robert Bresson
+  tags:
+    opacity: 2
+    stillness: 5 # transcript, read aloud, in sequence, with nothing added
+    bleakness: 4
+    humor: 1
+    acclaim: 0.75
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: au-hasard-balthazar
+  tmdb_id: null
+  title: Au Hasard Balthazar
+  year: 1966
+  runtime: 95
+  director: Robert Bresson
+  tags:
+    opacity: 4 # a donkey's life used as a moral ledger, with no narration to tell you the terms
+    stillness: 4
+    bleakness: 5
+    humor: 1
+    acclaim: 0.93
+  content: { sexual_violence: true, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: mouchette
+  tmdb_id: null
+  title: Mouchette
+  year: 1967
+  runtime: 78
+  director: Robert Bresson
+  tags: { opacity: 3, stillness: 4, bleakness: 5, humor: 1, acclaim: 0.88 }
+  content: { sexual_violence: true, animal_harm: true, child_harm: true, suicide: true, violence: 2, sex: 1 }
+
+- id: une-femme-douce
+  tmdb_id: null
+  title: Une Femme Douce
+  year: 1969
+  runtime: 88
+  director: Robert Bresson
+  tags: { opacity: 3, stillness: 5, bleakness: 5, humor: 1, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 1 }
+
+- id: lancelot-du-lac
+  tmdb_id: null
+  title: Lancelot du Lac
+  year: 1974
+  runtime: 85
+  director: Robert Bresson
+  tags:
+    opacity: 4 # Arthurian legend shot almost entirely as armour, hooves and offscreen sound
+    stillness: 4
+    bleakness: 5
+    humor: 1
+    acclaim: 0.78
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: largent
+  tmdb_id: null
+  title: "L'Argent"
+  year: 1983
+  runtime: 85
+  director: Robert Bresson
+  tags:
+    opacity: 3
+    stillness: 4
+    bleakness: 5
+    humor: 1
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
+
+# data.test.js correctly rejected a flat humor: 1 across the whole filmography. The honest fix was
+# not to reinterpret the severe films but to include the two that genuinely are not: Les Dames
+# carries Cocteau's dialogue and is arch in a way he never allowed himself again, and Four Nights
+# is a romance that mostly forgives everyone in it.
+- id: les-dames-du-bois-de-boulogne
+  tmdb_id: null
+  title: Les Dames du Bois de Boulogne
+  year: 1945
+  runtime: 86
+  director: Robert Bresson
+  tags:
+    opacity: 2
+    stillness: 3
+    bleakness: 4
+    humor: 2 # Cocteau wrote the dialogue and it is arch in a way nothing else of his is
+    acclaim: 0.75
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: four-nights-of-a-dreamer
+  tmdb_id: null
+  title: Four Nights of a Dreamer
+  year: 1971
+  runtime: 82
+  director: Robert Bresson
+  tags:
+    opacity: 3
+    stillness: 4
+    bleakness: 3 # the only one of his films where nobody is destroyed by the ending
+    humor: 2
+    acclaim: 0.72
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 1 }
