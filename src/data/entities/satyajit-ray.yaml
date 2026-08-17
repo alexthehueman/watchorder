@@ -1,0 +1,77 @@
+slug: satyajit-ray
+kind: director
+name: Satyajit Ray
+blurb: Built an Indian cinema out of nothing but Renoir, De Sica and his own patience, then spent forty years refining it.
+
+films:
+  - film: pather-panchali
+    signature: 5
+    must_see: true
+    gateway: 5
+    note: Made at weekends with an unpaid crew and no experience. It still opens the whole tradition.
+
+  - film: charulata
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A bored wife, her husband's cousin, and a swing. The film he said he would change nothing about.
+
+  - film: the-world-of-apu
+    signature: 5
+    gateway: 3
+    note: The trilogy's close, and the marriage at its centre is the warmest thing he filmed.
+
+  - film: the-music-room
+    signature: 5
+    gateway: 3
+    note: An aristocrat spends the last of everything on one more concert. Decay as an aesthetic.
+
+  - film: aparajito
+    signature: 4
+    gateway: 2      # the middle of a trilogy is a poor place to start
+    note: The middle film, about leaving your mother behind to study, and the cost of that.
+
+  - film: devi
+    signature: 4
+    gateway: 2
+    note: A young wife declared a goddess by her father-in-law. It destroys her, quietly and completely.
+
+  - film: the-big-city
+    signature: 4
+    gateway: 5
+    note: A housewife takes a job and discovers she is good at it. Unshowy, and quietly radical.
+
+  - film: days-and-nights-in-the-forest
+    signature: 4
+    gateway: 4
+    note: Four men from Calcutta on holiday, revealing themselves. Almost nothing happens, deliberately.
+
+  - film: the-chess-players
+    signature: 3
+    gateway: 4
+    note: Two noblemen play chess through the annexation of their state. Funny, and furious underneath.
+
+  - film: the-hero
+    signature: 4
+    gateway: 4
+    note: A film star on a train, interviewed by a journalist he did not want. Structured entirely as talk.
+
+prereqs:
+  - film: aparajito
+    requires: pather-panchali
+    strength: hard
+  - film: the-world-of-apu
+    requires: aparajito
+    strength: hard
+
+curated:
+  curator: house
+  rationale: The trilogy in order first, then the films where he stopped needing a story that big.
+  order:
+    - pather-panchali
+    - aparajito
+    - the-world-of-apu
+    - the-music-room
+    - charulata
+    - the-big-city
+    - days-and-nights-in-the-forest

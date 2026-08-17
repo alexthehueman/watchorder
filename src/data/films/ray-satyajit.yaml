@@ -1,0 +1,118 @@
+# Films for Satyajit Ray. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Filename disambiguates on purpose: Nicholas Ray and Man Ray are both plausible future entities and
+# ray.yaml would become a trap the moment either arrives.
+#
+# The Apu trilogy is three separate entries rather than one, unlike the way Twin Peaks is handled
+# for Lynch, because these were released years apart as standalone features and each was reviewed,
+# awarded and watched on its own. The prereq relationship carries the ordering instead.
+
+- id: pather-panchali
+  tmdb_id: null
+  title: Pather Panchali
+  year: 1955
+  runtime: 125
+  director: Satyajit Ray
+  tags:
+    opacity: 1
+    stillness: 4
+    bleakness: 4
+    humor: 2
+    acclaim: 0.95
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 0 }
+
+- id: aparajito
+  tmdb_id: null
+  title: Aparajito
+  year: 1956
+  runtime: 110
+  director: Satyajit Ray
+  tags: { opacity: 1, stillness: 4, bleakness: 4, humor: 2, acclaim: 0.88 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-music-room
+  tmdb_id: null
+  title: The Music Room
+  year: 1958
+  runtime: 100
+  director: Satyajit Ray
+  tags:
+    opacity: 2
+    stillness: 5 # a man sits in a decaying hall listening to concerts he can no longer afford
+    bleakness: 4
+    humor: 1
+    acclaim: 0.88
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-world-of-apu
+  tmdb_id: null
+  title: The World of Apu
+  year: 1959
+  runtime: 105
+  director: Satyajit Ray
+  tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 2, acclaim: 0.92 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: devi
+  tmdb_id: null
+  title: Devi
+  year: 1960
+  runtime: 93
+  director: Satyajit Ray
+  tags: { opacity: 3, stillness: 4, bleakness: 5, humor: 1, acclaim: 0.82 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 0 }
+
+- id: the-big-city
+  tmdb_id: null
+  title: The Big City
+  year: 1963
+  runtime: 131
+  director: Satyajit Ray
+  tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 3, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: charulata
+  tmdb_id: null
+  title: Charulata
+  year: 1964
+  runtime: 117
+  director: Satyajit Ray
+  tags:
+    opacity: 2
+    stillness: 4
+    bleakness: 3 # the last shot freezes on a reconciliation nobody in it believes
+    humor: 2
+    acclaim: 0.92
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: days-and-nights-in-the-forest
+  tmdb_id: null
+  title: Days and Nights in the Forest
+  year: 1970
+  runtime: 115
+  director: Satyajit Ray
+  tags: { opacity: 2, stillness: 4, bleakness: 3, humor: 3, acclaim: 0.85 }
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: the-chess-players
+  tmdb_id: null
+  title: The Chess Players
+  year: 1977
+  runtime: 129
+  director: Satyajit Ray
+  tags:
+    opacity: 2
+    stillness: 3
+    bleakness: 3
+    humor: 4 # two noblemen play chess while their country is annexed around them, and it is a comedy
+    acclaim: 0.82
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-hero
+  tmdb_id: null
+  title: The Hero
+  year: 1966
+  runtime: 117
+  director: Satyajit Ray
+  tags: { opacity: 2, stillness: 3, bleakness: 3, humor: 3, acclaim: 0.80 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
