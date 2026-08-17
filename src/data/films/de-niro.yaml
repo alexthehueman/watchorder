@@ -18,7 +18,14 @@
   year: 1974
   runtime: 202
   director: Francis Ford Coppola
-  tags: { opacity: 2, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.95 }
+  tags:
+    {
+      opacity: 2,
+      stillness: 3,
+      bleakness: 5, # Fredo killed on his order, Kay gone, the family intact and the man hollow
+      humor: 1,
+      acclaim: 0.95
+    }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0071562
   poster_url: https://m.media-amazon.com/images/M/MV5BMDIxMzBlZDktZjMxNy00ZGI4LTgxNDEtYWRlNzRjMjJmOGQ1XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg
@@ -114,7 +121,14 @@
   year: 1995
   runtime: 170
   director: Michael Mann
-  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.85 }
+  tags:
+    {
+      opacity: 1,
+      stillness: 3, # nearly three hours, and most of it is men sitting still talking
+      bleakness: 4,
+      humor: 1,
+      acclaim: 0.85
+    }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt0113277
   poster_url: https://m.media-amazon.com/images/M/MV5BMTkxYjU1OTMtYWViZC00ZjAzLWI3MDktZGQ2N2VmMjVjNDRlXkEyXkFqcGc@._V1_QL75_UY562_CR6,0,380,562_.jpg
