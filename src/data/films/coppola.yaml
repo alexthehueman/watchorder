@@ -1,0 +1,82 @@
+# Films for Francis Ford Coppola. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Godfather, Part II, The Conversation and Apocalypse Now are all absent here — they already
+# exist in brando.yaml, de-niro.yaml and hackman.yaml, and the entity references those copies. That
+# four of his defining films were already tagged for other entities is the shared film table
+# working exactly as intended.
+#
+# Worth noting what the acclaim spread does to this entity: almost nobody else on the roster has a
+# 0.95 and a 0.35 in the same filmography, and the collapse is the actual story of his career.
+
+- id: the-rain-people
+  tmdb_id: null
+  title: The Rain People
+  year: 1969
+  runtime: 101
+  director: Francis Ford Coppola
+  tags: { opacity: 2, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: one-from-the-heart
+  tmdb_id: null
+  title: One from the Heart
+  year: 1982
+  runtime: 107
+  director: Francis Ford Coppola
+  tags:
+    opacity: 2
+    stillness: 3
+    bleakness: 2
+    humor: 2
+    acclaim: 0.35 # the flop that cost him the studio, and the one nobody defends on its own terms
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: the-outsiders
+  tmdb_id: null
+  title: The Outsiders
+  year: 1983
+  runtime: 91
+  director: Francis Ford Coppola
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.62 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: rumble-fish
+  tmdb_id: null
+  title: Rumble Fish
+  year: 1983
+  runtime: 94
+  director: Francis Ford Coppola
+  tags:
+    opacity: 4 # shot as an expressionist fever dream and barely interested in its own plot
+    stillness: 3
+    bleakness: 4
+    humor: 1
+    acclaim: 0.70
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: peggy-sue-got-married
+  tmdb_id: null
+  title: Peggy Sue Got Married
+  year: 1986
+  runtime: 103
+  director: Francis Ford Coppola
+  tags: { opacity: 2, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.60 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: the-godfather-part-iii
+  tmdb_id: null
+  title: The Godfather Part III
+  year: 1990
+  runtime: 162
+  director: Francis Ford Coppola
+  tags: { opacity: 2, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+
+- id: bram-stokers-dracula
+  tmdb_id: null
+  title: "Bram Stoker's Dracula"
+  year: 1992
+  runtime: 128
+  director: Francis Ford Coppola
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.72 }
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 3 }

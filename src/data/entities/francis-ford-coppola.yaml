@@ -1,0 +1,74 @@
+slug: francis-ford-coppola
+kind: director
+name: Francis Ford Coppola
+blurb: Four films in the seventies nobody has matched since, and forty years of trying to escape them.
+
+films:
+  - film: the-godfather
+    signature: 5
+    must_see: true
+    gateway: 5
+    note: The rare consensus masterpiece that is also completely easy to watch.
+
+  - film: the-godfather-part-ii
+    signature: 5
+    must_see: true
+    gateway: 2      # it assumes you have seen the first, and is far colder about all of it
+    note: Two timelines, one showing a family being built and the other showing it hollowed out.
+
+  - film: apocalypse-now
+    signature: 5
+    gateway: 3
+    note: A production that nearly killed him, and the delirium of that is on the screen rather than behind it.
+
+  - film: the-conversation
+    signature: 5
+    gateway: 4
+    note: A surveillance expert who cannot hear the one thing that matters. Small, and his most controlled film.
+
+  - film: rumble-fish
+    signature: 4
+    gateway: 2
+    note: An art film smuggled out as a teen picture, in black and white with one colour in it.
+
+  - film: the-godfather-part-iii
+    signature: 3
+    gateway: 1      # unwatchable as an entry point and only meaningful after the other two
+    note: The sequel nobody wanted, and better than its reputation once you accept it is about regret.
+
+  - film: bram-stokers-dracula
+    signature: 3
+    gateway: 4
+    note: Every effect done in camera, no restraint anywhere, and gorgeous for exactly that reason.
+
+  - film: the-outsiders
+    signature: 2
+    gateway: 4
+    note: A cast of future stars playing at melodrama. Slight, and pitched squarely at teenagers.
+
+  - film: the-rain-people
+    signature: 3
+    gateway: 3
+    note: "Before the Godfather: a pregnant woman drives away from her marriage and keeps driving."
+
+  - film: peggy-sue-got-married
+    signature: 2
+    gateway: 3
+    note: A studio assignment he made watchable. Pleasant, and about as anonymous as he ever got.
+
+  - film: one-from-the-heart
+    signature: 2
+    gateway: 0      # the film that bankrupted his studio; a catastrophic first Coppola
+    note: A musical shot entirely on soundstages that lost so much money it ended his independence.
+
+curated:
+  curator: house
+  rationale: The unbroken seventies run first, in the order he made it, then the long argument with itself.
+  order:
+    - the-godfather
+    - the-conversation
+    - the-godfather-part-ii
+    - apocalypse-now
+    - rumble-fish
+    - bram-stokers-dracula
+    - the-godfather-part-iii
