@@ -1,0 +1,107 @@
+slug: steven-spielberg
+kind: director
+name: Steven Spielberg
+blurb: The most popular filmmaker alive, and a far stranger and sadder one than that reputation admits.
+
+films:
+  - film: jaws
+    signature: 5
+    must_see: true
+    gateway: 5
+    note: Invented the summer blockbuster by accident, because the shark kept breaking and he had to shoot around it.
+
+  - film: schindlers-list
+    signature: 3
+    must_see: true
+    gateway: 2      # extraordinary, and not something to hand someone cold
+    note: Three hours of the Holocaust filmed as administration. The one time nobody accused him of sentiment.
+
+  - film: et-the-extra-terrestrial
+    signature: 5
+    gateway: 5
+    note: A film about divorce disguised as a film about an alien, and it works on children who know neither.
+
+  - film: raiders-of-the-lost-ark
+    signature: 5
+    gateway: 5
+    note: Serial-adventure filmmaking executed so cleanly that forty years of imitations still look clumsy.
+
+  - film: close-encounters-of-the-third-kind
+    signature: 4
+    gateway: 4
+    note: A man abandons his family to follow a sound. The film thinks this is triumphant, which is the interesting part.
+
+  - film: jurassic-park
+    signature: 4
+    gateway: 5
+    note: The effects still hold because he shoots the dinosaurs like weather, not like monsters.
+
+  - film: saving-private-ryan
+    signature: 3
+    gateway: 3
+    note: The first twenty minutes rewrote how war is filmed. The rest is a more conventional film than people remember.
+
+  - film: ai-artificial-intelligence
+    signature: 3
+    gateway: 1      # the ending is routinely misread as sentiment; a bad first impression of him
+    note: Kubrick's project, finished by Spielberg, and far colder than either reputation predicts.
+
+  - film: munich
+    signature: 3
+    gateway: 2
+    note: Revenge as an administrative process that never once delivers relief. His most doubting film.
+
+  - film: catch-me-if-you-can
+    signature: 3
+    gateway: 5
+    note: Light, fast, and quietly about a boy who cannot accept that his parents split up.
+
+  - film: empire-of-the-sun
+    signature: 3
+    gateway: 3
+    note: A boy loses his parents and his childhood in a prison camp, and mostly finds it exciting.
+
+  - film: the-color-purple
+    signature: 2
+    gateway: 3
+    note: His first attempt at being taken seriously. Overreaches, and the performances survive it anyway.
+
+  - film: lincoln
+    signature: 3
+    gateway: 3
+    note: A procedural about vote-counting, which is a stranger choice than it sounds for a film this size.
+
+  - film: the-fabelmans
+    signature: 4
+    gateway: 4
+    note: Fifty years in, he finally films the divorce directly instead of hiding it inside a genre.
+
+  - film: duel
+    signature: 3
+    gateway: 4
+    note: A TV movie about a man chased by a truck with no visible driver. Everything he does well is already here.
+
+  - film: minority-report
+    signature: 4
+    gateway: 4
+    note: A detective hunted by his own department, in the cleanest science fiction he ever shot.
+
+  - film: war-of-the-worlds
+    signature: 3
+    gateway: 3
+    note: An invasion filmed entirely from ground level by a father who is not up to it.
+
+curated:
+  curator: house
+  rationale: Start with the machine that works perfectly, then find the anxious filmmaker hiding inside it.
+  order:
+    - jaws
+    - raiders-of-the-lost-ark
+    - et-the-extra-terrestrial
+    - close-encounters-of-the-third-kind
+    - jurassic-park
+    - catch-me-if-you-can
+    - schindlers-list
+    - munich
+    - ai-artificial-intelligence
+    - the-fabelmans

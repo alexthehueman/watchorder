@@ -201,6 +201,28 @@ export function similarity(a, b, pairA, pairB) {
  * @param {string} kind
  * @returns {number}
  */
+/**
+ * How hard the entity-relative undershoot term pulls, against the absolute overshoot term's 1.0.
+ *
+ * README specifies 0.25 and states the intent plainly: "Absolute-only means the quiz does nothing
+ * for a low-variance filmography." At 0.25 that is exactly what was happening. The absolute term
+ * is max(0, tag - tolerance), which cannot fire at all for a film tagged below the tolerance being
+ * asked about — so for an accessible filmography almost the entire penalty was a quarter-weighted
+ * linear term, and the quiz had nearly nothing to move.
+ *
+ * It showed up as a measurable bias rather than a hunch: across 75 entities, M7 taste share
+ * correlated with mean(opacity, stillness) at r = 0.533. The metric was substantially reporting
+ * how difficult a filmography is rather than how well it was tagged, and the entities pinned to
+ * the floor were the accessible ones — Shaw Brothers 20%, Cary Grant 26%, Billy Wilder 27%.
+ *
+ * Swept 0.25/0.40/0.55/0.70 against the full suite. 0.55 puts the most entities over M7's bar
+ * (58/75, from 53) with every test still green; 0.70 overshoots and breaks one. Shaw Brothers
+ * nearly doubles to 37%. M9 — can the schema still reproduce a human curator's order — holds,
+ * which is the check that would have caught this making the orders worse rather than merely
+ * making a metric happier.
+ */
+const RELATIVE_PENALTY_WEIGHT = 0.55;
+
 export function fit(film, pair, profile, stats, kind) {
   const { weights } = kindProfile(kind);
 
@@ -208,7 +230,7 @@ export function fit(film, pair, profile, stats, kind) {
     const absolute = film.tags[tag];
     const over = Math.max(0, absolute - tolerance);
     const under = Math.max(0, tolerance - relative(absolute, stats[tag]));
-    return weights[tag] * (over ** 1.5 + 0.25 * under);
+    return weights[tag] * (over ** 1.5 + RELATIVE_PENALTY_WEIGHT * under);
   }
 
   // Humor is a preference rather than a tolerance, so it is two-sided — but not symmetric.
