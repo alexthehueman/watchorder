@@ -85,7 +85,11 @@ function withDigits(title) {
  * more chances without changing what "confident" means: every one of these is still independently
  * verified against the live page before anything is accepted, exactly like the plain corpus-title
  * candidates always were.
- * @param {{id: string, title: string, year: number, letterboxd_title?: string}} film
+ * film.letterboxd_slug_hint is the last resort, for slugs no rule can derive: Letterboxd files 8½
+ * at /film/8-half/, which no amount of slugifying "8½" will ever produce. It supplies only the URL
+ * to try — the page still has to match the film's own title and year, so a mistyped hint fails
+ * exactly as loudly as a bad guess would.
+ * @param {{id: string, title: string, year: number, letterboxd_title?: string, letterboxd_slug_hint?: string}} film
  * @returns {Array<{slug: string, expectedTitle: string}>}
  */
 function candidateSlugs(film) {
@@ -96,6 +100,8 @@ function candidateSlugs(film) {
     seen.add(slug);
     candidates.push({ slug, expectedTitle });
   };
+
+  if (film.letterboxd_slug_hint) add(film.letterboxd_slug_hint, film.letterboxd_title ?? film.title);
 
   // Hints go FIRST. add() dedupes by slug and keeps whichever entry claimed it, so when a hint and
   // a generated variant produce the same slug, the one that arrives first decides which title the

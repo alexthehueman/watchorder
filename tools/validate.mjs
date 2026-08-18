@@ -193,6 +193,11 @@ export function validateCorpus(corpus) {
     if (film.letterboxd_title !== null && film.letterboxd_title !== undefined && typeof film.letterboxd_title !== 'string') {
       errors.push(`${where} — letterboxd_title must be a string, got ${JSON.stringify(film.letterboxd_title)}`);
     }
+    // Also ingest-only, and shaped like a slug because it is one — the URL to try when no rule can
+    // derive it, as with 8½ living at /film/8-half/.
+    if (film.letterboxd_slug_hint !== null && film.letterboxd_slug_hint !== undefined && !/^[a-z0-9-]+$/.test(film.letterboxd_slug_hint)) {
+      errors.push(`${where} — letterboxd_slug_hint must look like "8-half", got ${JSON.stringify(film.letterboxd_slug_hint)}`);
+    }
 
     for (const tag of TASTE_TAGS) {
       if (!isInteger(film.tags?.[tag], 1, 5)) {
