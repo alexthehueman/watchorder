@@ -16,6 +16,8 @@
   director: Howard Hawks
   tags: { opacity: 1, stillness: 1, bleakness: 4, humor: 2, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+  imdb_id: tt0023427
+  poster_url: https://m.media-amazon.com/images/M/MV5BMWY2ZWI2NTAtYTkyMy00N2I2LTljODgtYTRlYmVlMTI0NjM0XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: only-angels-have-wings
   tmdb_id: null
@@ -30,6 +32,8 @@
     humor: 3
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  imdb_id: tt0031762
+  poster_url: https://m.media-amazon.com/images/M/MV5BMDE0ZDk3MjQtOTE5Ny00MTM3LWIyNGUtZWZjOWU0YmE3NGI1XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: sergeant-york
   tmdb_id: null
@@ -39,6 +43,8 @@
   director: Howard Hawks
   tags: { opacity: 1, stillness: 3, bleakness: 2, humor: 2, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0034167
+  poster_url: https://m.media-amazon.com/images/M/MV5BMzYxMTYzMTMtNjk0Yy00NjMyLWIyMjUtNjk4ZDUwMzFkNDZmXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: red-river
   tmdb_id: null
@@ -48,6 +54,8 @@
   director: Howard Hawks
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.88 }
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0040724
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTM2NDA3NTQ2OF5BMl5BanBnXkFtZTcwODUzNzU2NA@@._V1_SX300.jpg
 
 - id: gentlemen-prefer-blondes
   tmdb_id: null
@@ -57,6 +65,8 @@
   director: Howard Hawks
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 5, acclaim: 0.80 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  imdb_id: tt0045810
+  poster_url: https://m.media-amazon.com/images/M/MV5BZjQ4MDJhZGMtNDliZS00ZTYwLWJmN2ItZWY3NDc2NTFjN2VmXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: rio-bravo
   tmdb_id: null
@@ -71,6 +81,8 @@
     humor: 4
     acclaim: 0.90
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0053221
+  poster_url: https://m.media-amazon.com/images/M/MV5BYmRiNWY3ZDQtZTJkNi00NjlkLWI3NTQtZDEzZTE0YmNhYTk2XkEyXkFqcGc@._V1_SX300.jpg
 
 # Added for the same reason as Ford's late additions: six films in one register gave M7 nothing.
 # Hatari! is the useful one — two and a half hours with no plot at all, which is the opposite of
@@ -83,6 +95,8 @@
   director: Howard Hawks
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 5, acclaim: 0.82 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0025919
+  poster_url: https://m.media-amazon.com/images/M/MV5BODFlNTVhOWMtMWNlNC00ZmVkLTlkZGQtNWVjYWE5NWNiOTZkXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: ball-of-fire
   tmdb_id: null
@@ -92,6 +106,8 @@
   director: Howard Hawks
   tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 5, acclaim: 0.80 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  imdb_id: tt0033373
+  poster_url: https://m.media-amazon.com/images/M/MV5BNWQ4YmE5NWItODc0Ni00NGVlLTlhYjAtZTAwY2M3YmViMjc5XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: hatari
   tmdb_id: null
@@ -106,6 +122,8 @@
     humor: 3
     acclaim: 0.68
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0056059
+  poster_url: https://m.media-amazon.com/images/M/MV5BMzVkYTBlZDQtNDliZi00NDI2LTk1YTktMTU1YWE2MTBkODNmXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: land-of-the-pharaohs
   tmdb_id: null
@@ -115,3 +133,5 @@
   director: Howard Hawks
   tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.45 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  imdb_id: tt0048283
+  poster_url: https://m.media-amazon.com/images/M/MV5BYmRhYzQxYTUtMjYxNi00MjNkLWExNjAtM2QwMDY3YzU3YjNkXkEyXkFqcGc@._V1_SX300.jpg

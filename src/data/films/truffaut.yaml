@@ -18,6 +18,8 @@
     humor: 2
     acclaim: 0.95
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0053198
+  poster_url: https://m.media-amazon.com/images/M/MV5BOTU3YTM0YzQtMmFlOS00OTIxLWFmZjctMDJkOGQxNTVhODM3XkEyXkFqcGc@._V1_QL75_UY562_CR22,0,380,562_.jpg
 
 - id: shoot-the-piano-player
   tmdb_id: null
@@ -32,6 +34,8 @@
     humor: 3
     acclaim: 0.82
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 1 }
+  imdb_id: tt0054389
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTNjYTcxZjEtOWE1ZC00YTY0LThmMjctMDM1OGExOGEzYTVkXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: jules-and-jim
   tmdb_id: null
@@ -41,6 +45,8 @@
   director: François Truffaut
   tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 3, acclaim: 0.92 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 1 }
+  imdb_id: tt0055032
+  poster_url: https://m.media-amazon.com/images/M/MV5BM2Y0NmFlMmUtOTgwOC00MjVlLTk3NGEtZWNmYWZlMmI3ODBlXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-soft-skin
   tmdb_id: null
@@ -50,6 +56,8 @@
   director: François Truffaut
   tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 2 }
+  imdb_id: tt0058458
+  poster_url: https://m.media-amazon.com/images/M/MV5BNWRlYzI1YTYtNDI4Yy00NjgyLWJkMjYtZTZjOGI3MDI2Mjg2XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: fahrenheit-451
   tmdb_id: null
@@ -59,6 +67,8 @@
   director: François Truffaut
   tags: { opacity: 2, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.65 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 0 }
+  imdb_id: tt0060390
+  poster_url: https://m.media-amazon.com/images/M/MV5BMDA3ZjIxY2UtMzVmMS00NTkwLTljMzktNzk2ZWMxYzZkNGE3XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: stolen-kisses
   tmdb_id: null
@@ -68,6 +78,8 @@
   director: François Truffaut
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.80 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  imdb_id: tt0062695
+  poster_url: https://m.media-amazon.com/images/M/MV5BZTRiN2M3MTYtMTU3NS00ZjI4LWIzMjctYzdiODM2ZWE0YTNiXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-wild-child
   tmdb_id: null
@@ -77,6 +89,8 @@
   director: François Truffaut
   tags: { opacity: 1, stillness: 4, bleakness: 3, humor: 1, acclaim: 0.80 }
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0064285
+  poster_url: https://m.media-amazon.com/images/M/MV5BM2U5ZmU5YTMtZjZiYy00NDg3LTgyZGMtOWNhNTM5MjFmYjVlXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: day-for-night
   tmdb_id: null
@@ -91,6 +105,8 @@
     humor: 4 # a film about how films get made, and warm about every disaster in it
     acclaim: 0.88
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  imdb_id: tt0070460
+  poster_url: https://m.media-amazon.com/images/M/MV5BYmE5MjQ1MmMtOWEyZS00MWM4LWJhNzYtYzliNzIzNTE0MmY4XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-story-of-adele-h
   tmdb_id: null
@@ -105,6 +121,8 @@
     humor: 1
     acclaim: 0.80
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  imdb_id: tt0073114
+  poster_url: https://m.media-amazon.com/images/M/MV5BNTEzMmNmY2QtYTI5NS00MmNhLWE3MDMtNTljYmMyYzY0ZmI2XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-last-metro
   tmdb_id: null
@@ -114,6 +132,8 @@
   director: François Truffaut
   tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 2, acclaim: 0.80 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  imdb_id: tt0080610
+  poster_url: https://m.media-amazon.com/images/M/MV5BYmFiMTFlMzUtN2JmNS00MGIzLWEzOTUtY2RkNjQ2OTY2MDZiXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-woman-next-door
   tmdb_id: null
@@ -123,3 +143,5 @@
   director: François Truffaut
   tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 2 }
+  imdb_id: tt0082370
+  poster_url: https://m.media-amazon.com/images/M/MV5BNjAxMGVjM2YtNDExMS00NWU1LTg4ZTItOGQ2ZGFmMGU2MGU5XkEyXkFqcGc@._V1_SX300.jpg

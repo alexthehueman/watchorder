@@ -13,6 +13,8 @@
   director: Charlie Chaplin
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 4, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0012349
+  poster_url: https://m.media-amazon.com/images/M/MV5BZGVmZGM0YTUtOTA1ZC00ZDE4LWE4ZDUtMjAxOTk5YjkwN2Q2XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-gold-rush
   tmdb_id: null
@@ -22,6 +24,8 @@
   director: Charlie Chaplin
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 5, acclaim: 0.90 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0015864
+  poster_url: https://m.media-amazon.com/images/M/MV5BNGU1NjYzYTAtZmY0YS00NWIzLTkzNzUtYzc2ZTIyOTIxZjVhXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-circus
   tmdb_id: null
@@ -31,6 +35,8 @@
   director: Charlie Chaplin
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 5, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0018773
+  poster_url: https://m.media-amazon.com/images/M/MV5BZjNhZWY4YjgtOTI2Zi00NWZlLWIyNDItNGY0MzhhNmUxNTkyXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: city-lights
   tmdb_id: null
@@ -45,6 +51,8 @@
     humor: 5
     acclaim: 0.95
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 0 }
+  imdb_id: tt0021749
+  poster_url: https://m.media-amazon.com/images/M/MV5BM2U4NjgzODUtODkyOC00YTE2LTlhNTItYzFlYmM1NTEzZDA2XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: modern-times
   tmdb_id: null
@@ -54,6 +62,8 @@
   director: Charlie Chaplin
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 5, acclaim: 0.93 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 0 }
+  imdb_id: tt0027977
+  poster_url: https://m.media-amazon.com/images/M/MV5BODVkZGFhNGQtYjdiYi00Njc4LWFmYTItNTlmNzJjMTg1ZDc5XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-great-dictator
   tmdb_id: null
@@ -68,6 +78,8 @@
     humor: 4
     acclaim: 0.88
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0032553
+  poster_url: https://m.media-amazon.com/images/M/MV5BMjc4ZjEwNDUtMjlmZS00NzQ4LTg2N2MtMGI3ZjMyMmM3ZDM2XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: monsieur-verdoux
   tmdb_id: null
@@ -82,6 +94,8 @@
     humor: 3
     acclaim: 0.75
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0039631
+  poster_url: https://m.media-amazon.com/images/M/MV5BYzI2MGY4YmQtYTRjZS00MGQ4LWIzNTMtYjUyM2YyZTA4OWVlXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: limelight
   tmdb_id: null
@@ -96,6 +110,8 @@
     humor: 3
     acclaim: 0.75
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
+  imdb_id: tt0044837
+  poster_url: https://m.media-amazon.com/images/M/MV5BODFjMzMwMmYtYmZjYS00MTZiLWE2ZjAtZTliMDFmNTNhMjIzXkEyXkFqcGc@._V1_SX300.jpg
 
 # Three added for the same reason Keaton's later features were: eight films all built to the same
 # specification left the quiz nothing to move. A Woman of Paris is the important one — a straight
@@ -113,6 +129,7 @@
     humor: 1 # he directed it, stayed out of it, and made no attempt to be funny anywhere in it
     acclaim: 0.70
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 1 }
+  letterboxd_title: "A Woman of Paris: A Drama of Fate"
 
 - id: a-king-in-new-york
   tmdb_id: null
@@ -122,6 +139,8 @@
   director: Charlie Chaplin
   tags: { opacity: 2, stillness: 3, bleakness: 4, humor: 3, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0050598
+  poster_url: https://m.media-amazon.com/images/M/MV5BOGYxNzc3YjYtZDk3MC00YTZkLWJhYTMtY2UxYTY3ZmJhMDhlXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-countess-from-hong-kong
   tmdb_id: null
@@ -131,3 +150,5 @@
   director: Charlie Chaplin
   tags: { opacity: 1, stillness: 3, bleakness: 2, humor: 2, acclaim: 0.35 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  imdb_id: tt0061523
+  poster_url: https://m.media-amazon.com/images/M/MV5BNjA5MTY2ZmYtYmRjNi00NzQ5LTgzZmItMjdkNjBmZTdmNGI0XkEyXkFqcGc@._V1_SX300.jpg

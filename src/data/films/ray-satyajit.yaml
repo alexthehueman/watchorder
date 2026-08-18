@@ -20,6 +20,8 @@
     humor: 2
     acclaim: 0.95
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0048473
+  poster_url: https://m.media-amazon.com/images/M/MV5BNmZhNzc0ZDMtZDg2My00MjkxLWJjZTctNTljODc2ZjQzMzJkXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: aparajito
   tmdb_id: null
@@ -29,6 +31,8 @@
   director: Satyajit Ray
   tags: { opacity: 1, stillness: 4, bleakness: 4, humor: 2, acclaim: 0.88 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0048956
+  poster_url: https://m.media-amazon.com/images/M/MV5BNmViYWRlZWEtYjFhZi00Njg4LTg4YmYtMTQ2MTFkYmMwNjRmXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-music-room
   tmdb_id: null
@@ -43,6 +47,8 @@
     humor: 1
     acclaim: 0.88
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0051792
+  poster_url: https://m.media-amazon.com/images/M/MV5BYTQ3ZGEyYjQtMWI5Mi00Zjc2LTk0YTYtZmY2OGQzNDc1ZDFkXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-world-of-apu
   tmdb_id: null
@@ -52,6 +58,8 @@
   director: Satyajit Ray
   tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 2, acclaim: 0.92 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  imdb_id: tt0052572
+  poster_url: https://m.media-amazon.com/images/M/MV5BYjQwMDk3NGMtYzg2ZC00MWNmLTliZDUtM2MwYjZjM2E0MWYwXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: devi
   tmdb_id: null
@@ -61,6 +69,7 @@
   director: Satyajit Ray
   tags: { opacity: 3, stillness: 4, bleakness: 5, humor: 1, acclaim: 0.82 }
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 0 }
+  letterboxd_title: The Goddess
 
 - id: the-big-city
   tmdb_id: null
@@ -70,6 +79,8 @@
   director: Satyajit Ray
   tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 3, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0057277
+  poster_url: https://m.media-amazon.com/images/M/MV5BZjhlMGU1ZDItODMyOS00M2MyLWEyZDgtMjAwMGE3NDBkZWExXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: charulata
   tmdb_id: null
@@ -84,6 +95,8 @@
     humor: 2
     acclaim: 0.92
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  imdb_id: tt0057935
+  poster_url: https://m.media-amazon.com/images/M/MV5BOTZhNjg2NDAtYTMzMy00YTNhLTkyNzMtYThmOWU0ZjE2MjI0XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: days-and-nights-in-the-forest
   tmdb_id: null
@@ -107,6 +120,8 @@
     humor: 4 # two noblemen play chess while their country is annexed around them, and it is a comedy
     acclaim: 0.82
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0076696
+  poster_url: https://m.media-amazon.com/images/M/MV5BZmNlYzY0M2MtNjA5MC00MDk2LTk5MjUtNDA2MDBjZjNhNzM3XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-hero
   tmdb_id: null
@@ -116,3 +131,5 @@
   director: Satyajit Ray
   tags: { opacity: 2, stillness: 3, bleakness: 3, humor: 3, acclaim: 0.80 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0060742
+  poster_url: https://m.media-amazon.com/images/M/MV5BMjNkOWMwMWYtMGExNS00ZGE5LWI0M2UtZjZmMDg2NTk5OTI2XkEyXkFqcGc@._V1_SX300.jpg

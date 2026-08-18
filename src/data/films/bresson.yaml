@@ -13,6 +13,8 @@
   director: Robert Bresson
   tags: { opacity: 3, stillness: 4, bleakness: 4, humor: 1, acclaim: 0.88 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
+  imdb_id: tt0042619
+  poster_url: https://m.media-amazon.com/images/M/MV5BMmEwNTc3NDgtNDMzNy00YmMzLWFkYzMtNzUyNWRhYjJhY2QyXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: a-man-escaped
   tmdb_id: null
@@ -27,6 +29,8 @@
     humor: 1
     acclaim: 0.92
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0049902
+  poster_url: https://m.media-amazon.com/images/M/MV5BYjBkODI2NzItODMzMC00Yjc2LWI2NDItZTA5YTE0MTE5NDc2XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: pickpocket
   tmdb_id: null
@@ -36,6 +40,8 @@
   director: Robert Bresson
   tags: { opacity: 3, stillness: 4, bleakness: 3, humor: 1, acclaim: 0.90 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0053168
+  poster_url: https://m.media-amazon.com/images/M/MV5BZDk3MzJjOGYtY2I0OC00OTM4LWI4MDAtYjg1OTIwMjRmMDk1XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-trial-of-joan-of-arc
   tmdb_id: null
@@ -50,6 +56,8 @@
     humor: 1
     acclaim: 0.75
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0059616
+  poster_url: https://m.media-amazon.com/images/M/MV5BOWVlMDAyZTgtMjFmMC00OGQ2LWIwMmQtNDVmOTAxMWRiOTI2XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: au-hasard-balthazar
   tmdb_id: null
@@ -64,6 +72,8 @@
     humor: 1
     acclaim: 0.93
   content: { sexual_violence: true, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  imdb_id: tt0060138
+  poster_url: https://m.media-amazon.com/images/M/MV5BZTE0OGQyNjQtYTQ2MC00Y2FjLWFmNTMtODRkMmRmYmM4MTM5XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: mouchette
   tmdb_id: null
@@ -73,6 +83,8 @@
   director: Robert Bresson
   tags: { opacity: 3, stillness: 4, bleakness: 5, humor: 1, acclaim: 0.88 }
   content: { sexual_violence: true, animal_harm: true, child_harm: true, suicide: true, violence: 2, sex: 1 }
+  imdb_id: tt0061996
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTZkOTU2M2QtYzQxOS00MGIxLWIyNTUtN2Q1MWEzZGVlYmFiXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: une-femme-douce
   tmdb_id: null
@@ -82,6 +94,7 @@
   director: Robert Bresson
   tags: { opacity: 3, stillness: 5, bleakness: 5, humor: 1, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 1 }
+  letterboxd_title: A Gentle Woman
 
 - id: lancelot-du-lac
   tmdb_id: null
@@ -96,6 +109,7 @@
     humor: 1
     acclaim: 0.78
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_title: Lancelot of the Lake
 
 - id: largent
   tmdb_id: null
@@ -110,6 +124,8 @@
     humor: 1
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
+  imdb_id: tt0085180
+  poster_url: https://m.media-amazon.com/images/M/MV5BYjU3ZjBkODYtYjZmYS00OTAzLTk4NTctYWU0ZjhiM2JhZDBmXkEyXkFqcGc@._V1_SX300.jpg
 
 # data.test.js correctly rejected a flat humor: 1 across the whole filmography. The honest fix was
 # not to reinterpret the severe films but to include the two that genuinely are not: Les Dames
@@ -128,6 +144,7 @@
     humor: 2 # Cocteau wrote the dialogue and it is arch in a way nothing else of his is
     acclaim: 0.75
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_title: The Ladies of the Bois de Boulogne
 
 - id: four-nights-of-a-dreamer
   tmdb_id: null
@@ -142,3 +159,5 @@
     humor: 2
     acclaim: 0.72
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 1 }
+  imdb_id: tt0067641
+  poster_url: https://m.media-amazon.com/images/M/MV5BZWM0ZjhlZmEtODBhZi00MGU1LWFjZjAtNTcwNDE4MTI4OTc2XkEyXkFqcGc@._V1_SX300.jpg

@@ -16,6 +16,8 @@
   director: Francis Ford Coppola
   tags: { opacity: 2, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.65 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  imdb_id: tt0064873
+  poster_url: https://m.media-amazon.com/images/M/MV5BNTZiZWFlN2YtOTNhYy00OWVjLTgwZDEtY2M2ZGI5ZWVkMDYxXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: one-from-the-heart
   tmdb_id: null
@@ -30,6 +32,8 @@
     humor: 2
     acclaim: 0.35 # the flop that cost him the studio, and the one nobody defends on its own terms
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  imdb_id: tt0084445
+  poster_url: https://m.media-amazon.com/images/M/MV5BOTliZGU4Y2YtZjI2NS00YzdhLTljNTItZjk5ODUzODUzODU5XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-outsiders
   tmdb_id: null
@@ -39,6 +43,8 @@
   director: Francis Ford Coppola
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.62 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0086066
+  poster_url: https://m.media-amazon.com/images/M/MV5BODlmMzZjZDEtOTUwOS00OTAwLTg2YzAtYTA4ZTk3ZWNjMTgxXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: rumble-fish
   tmdb_id: null
@@ -53,6 +59,8 @@
     humor: 1
     acclaim: 0.70
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  imdb_id: tt0086216
+  poster_url: https://m.media-amazon.com/images/M/MV5BNDUyMDdmYmMtYjE2Ni00MGE0LWJkNjQtYjQwMTMyMjhkMmE5XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: peggy-sue-got-married
   tmdb_id: null
@@ -62,6 +70,8 @@
   director: Francis Ford Coppola
   tags: { opacity: 2, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.60 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  imdb_id: tt0091738
+  poster_url: https://m.media-amazon.com/images/M/MV5BMDJjZjM5MDEtMjM3My00ODgwLWE5YTItMGZlMGQ1N2ZjNDc1XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-godfather-part-iii
   tmdb_id: null
@@ -71,6 +81,8 @@
   director: Francis Ford Coppola
   tags: { opacity: 2, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+  imdb_id: tt0099674
+  poster_url: https://m.media-amazon.com/images/M/MV5BMDVjODgzNTEtNjBiNS00ODBjLWEwZjUtMDljZTFhOTA4M2MxXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg
 
 - id: bram-stokers-dracula
   tmdb_id: null
@@ -80,3 +92,4 @@
   director: Francis Ford Coppola
   tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.72 }
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 3 }
+  letterboxd_title: Dracula

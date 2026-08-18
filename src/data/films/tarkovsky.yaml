@@ -13,6 +13,8 @@
   director: Andrei Tarkovsky
   tags: { opacity: 2, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0056111
+  poster_url: https://m.media-amazon.com/images/M/MV5BZGZjMDJkZTgtOThmYy00Mjk2LWFkMWMtMGY1YTRhZDdmMjI5XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: andrei-rublev
   tmdb_id: null
@@ -29,6 +31,8 @@
   # A horse is killed on camera. Flagged rather than argued about: the rubric asks what a viewer
   # who set the toggle would want to know, not what the film's defenders think it means.
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 1 }
+  imdb_id: tt0060107
+  poster_url: https://m.media-amazon.com/images/M/MV5BY2I4YzZjZDgtNWQzNC00MDdhLWFiZTItZTAwODY2ZmQzMDQwXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: solaris
   tmdb_id: null
@@ -38,6 +42,8 @@
   director: Andrei Tarkovsky
   tags: { opacity: 3, stillness: 4, bleakness: 4, humor: 2, acclaim: 0.88 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 1 }
+  imdb_id: tt0069293
+  poster_url: https://m.media-amazon.com/images/M/MV5BYTYyMjU4MjItYzZkNy00NmIyLTg1ZGEtYTY5ZTEyM2U2NDM2XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: mirror
   tmdb_id: null
@@ -52,6 +58,8 @@
     humor: 1
     acclaim: 0.90
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0072443
+  poster_url: https://m.media-amazon.com/images/M/MV5BNjRhNzYxODAtOTFmMS00N2MxLWE0NGMtM2VkZGY5MTYwYTZlXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: stalker
   tmdb_id: null
@@ -66,6 +74,8 @@
     humor: 2 # the Writer spends the entire walk being witheringly funny about the other two
     acclaim: 0.95
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0079944
+  poster_url: https://m.media-amazon.com/images/M/MV5BMDIzMDRiYjgtM2U1Yy00MjlhLTliODMtM2E5NDI5Njc3YmZkXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: nostalghia
   tmdb_id: null
@@ -80,6 +90,8 @@
     humor: 1
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 0 }
+  imdb_id: tt0086022
+  poster_url: https://m.media-amazon.com/images/M/MV5BMWFjMGFhYzEtODZkZS00MDRjLWE2NGEtMWRhODcwMzNiN2I1XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-sacrifice
   tmdb_id: null
@@ -89,6 +101,8 @@
   director: Andrei Tarkovsky
   tags: { opacity: 4, stillness: 5, bleakness: 4, humor: 2, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  imdb_id: tt0091670
+  poster_url: https://m.media-amazon.com/images/M/MV5BYWQ5ODRjNzktOTI2OC00ZGFhLWE1MGMtYjEyNTNjODA3NmNlXkEyXkFqcGc@._V1_SX300.jpg
 
 # His graduation film, added for the same structural reason Little Women and Stage Door were added
 # to Katharine Hepburn: with only seven features, "twelve" and "everything" round to an identical
@@ -101,3 +115,5 @@
   director: Andrei Tarkovsky
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.65 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0053987
+  poster_url: https://m.media-amazon.com/images/M/MV5BZjg0OWRmNDQtNGYwYi00ZjM1LTlmMmUtYzI2ZGUxMGIzZDdhXkEyXkFqcGc@._V1_SX300.jpg
