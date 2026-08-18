@@ -97,6 +97,17 @@ function candidateSlugs(film) {
     candidates.push({ slug, expectedTitle });
   };
 
+  // Hints go FIRST. add() dedupes by slug and keeps whichever entry claimed it, so when a hint and
+  // a generated variant produce the same slug, the one that arrives first decides which title the
+  // page is checked against. A hint is the higher-confidence claim, and putting it last meant
+  // 2-or-3-things-i-know-about-her landed on exactly the right page and was rejected for not
+  // matching a title nobody had asked it to match.
+  if (film.letterboxd_title) {
+    const slug = slugify(film.letterboxd_title);
+    add(slug, film.letterboxd_title);
+    add(`${slug}-${film.year}`, film.letterboxd_title);
+  }
+
   const fromTitle = slugify(film.title);
   add(film.id, film.title);
   add(fromTitle, film.title);
@@ -109,32 +120,33 @@ function candidateSlugs(film) {
     add(`${slug}-${film.year}`, film.title);
   }
 
+  // Expect the digit spelling, not the original. Deriving the slug from "2 or 3 Things" and then
+  // checking the page against "Two or Three Things" is a guaranteed mismatch on the exact films
+  // this variant exists to catch.
   const digitTitle = withDigits(film.title);
   if (digitTitle !== film.title) {
     const slug = slugify(digitTitle);
-    add(slug, film.title);
-    add(`${slug}-${film.year}`, film.title);
-  }
-
-  if (film.letterboxd_title) {
-    const slug = slugify(film.letterboxd_title);
-    add(slug, film.letterboxd_title);
-    add(`${slug}-${film.year}`, film.letterboxd_title);
+    add(slug, digitTitle);
+    add(`${slug}-${film.year}`, digitTitle);
   }
 
   return candidates;
 }
 
 /**
- * Two titles match if they're equal outright, or if one is a colon-truncated prefix of the other
- * — "Twin Peaks" (the page) vs. "Twin Peaks: Seasons 1-2" (the corpus), or "My Left Foot" vs.
- * "My Left Foot: The Story of Christy Brown". Still gated by the year check alongside this, so a
- * different film sharing a title prefix needs a near-matching year too, not just the words.
+ * Two titles match if they're equal outright, if one is a colon-truncated prefix of the other —
+ * "Twin Peaks" (the page) vs. "Twin Peaks: Seasons 1-2" (the corpus) — or if they differ only by a
+ * leading article, which is how Letterboxd files "Kid with the Golden Arm" against our "The Kid
+ * with the Golden Arm".
+ *
+ * All three are still gated by the year check alongside this, so a different film sharing a title
+ * prefix needs a near-matching year too, not just the words.
  */
 function titlesMatch(a, b) {
+  const strip = (t) => normalise(t.split(':')[0]).replace(/^(the|a|an) /, '');
   if (normalise(a) === normalise(b)) return true;
-  const coreA = normalise(a.split(':')[0]);
-  const coreB = normalise(b.split(':')[0]);
+  const coreA = strip(a);
+  const coreB = strip(b);
   return coreA.length > 0 && coreA === coreB;
 }
 
