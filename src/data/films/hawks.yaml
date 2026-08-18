@@ -9,7 +9,7 @@
 # unrelated films, fifty-one years apart.
 
 - id: scarface-1932
-  tmdb_id: null
+  tmdb_id: 877
   title: Scarface
   year: 1932
   runtime: 93
@@ -18,9 +18,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
   imdb_id: tt0023427
   poster_url: https://m.media-amazon.com/images/M/MV5BMWY2ZWI2NTAtYTkyMy00N2I2LTljODgtYTRlYmVlMTI0NjM0XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: scarface
 
 - id: only-angels-have-wings
-  tmdb_id: null
+  tmdb_id: 43832
   title: Only Angels Have Wings
   year: 1939
   runtime: 121
@@ -34,9 +35,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
   imdb_id: tt0031762
   poster_url: https://m.media-amazon.com/images/M/MV5BMDE0ZDk3MjQtOTE5Ny00MTM3LWIyNGUtZWZjOWU0YmE3NGI1XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: only-angels-have-wings
 
 - id: sergeant-york
-  tmdb_id: null
+  tmdb_id: 16442
   title: Sergeant York
   year: 1941
   runtime: 134
@@ -45,9 +47,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0034167
   poster_url: https://m.media-amazon.com/images/M/MV5BMzYxMTYzMTMtNjk0Yy00NjMyLWIyMjUtNjk4ZDUwMzFkNDZmXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: sergeant-york
 
 - id: red-river
-  tmdb_id: null
+  tmdb_id: 3089
   title: Red River
   year: 1948
   runtime: 133
@@ -56,9 +59,10 @@
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0040724
   poster_url: https://m.media-amazon.com/images/M/MV5BMTM2NDA3NTQ2OF5BMl5BanBnXkFtZTcwODUzNzU2NA@@._V1_SX300.jpg
+  letterboxd_slug: red-river
 
 - id: gentlemen-prefer-blondes
-  tmdb_id: null
+  tmdb_id: 759
   title: Gentlemen Prefer Blondes
   year: 1953
   runtime: 91
@@ -67,9 +71,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt0045810
   poster_url: https://m.media-amazon.com/images/M/MV5BZjQ4MDJhZGMtNDliZS00ZTYwLWJmN2ItZWY3NDc2NTFjN2VmXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: gentlemen-prefer-blondes
 
 - id: rio-bravo
-  tmdb_id: null
+  tmdb_id: 301
   title: Rio Bravo
   year: 1959
   runtime: 141
@@ -83,12 +88,13 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0053221
   poster_url: https://m.media-amazon.com/images/M/MV5BYmRiNWY3ZDQtZTJkNi00NjlkLWI3NTQtZDEzZTE0YmNhYTk2XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: rio-bravo
 
 # Added for the same reason as Ford's late additions: six films in one register gave M7 nothing.
 # Hatari! is the useful one — two and a half hours with no plot at all, which is the opposite of
 # everything else here.
 - id: twentieth-century
-  tmdb_id: null
+  tmdb_id: 31835
   title: Twentieth Century
   year: 1934
   runtime: 91
@@ -97,9 +103,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0025919
   poster_url: https://m.media-amazon.com/images/M/MV5BODFlNTVhOWMtMWNlNC00ZmVkLTlkZGQtNWVjYWE5NWNiOTZkXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: twentieth-century
 
 - id: ball-of-fire
-  tmdb_id: null
+  tmdb_id: 29884
   title: Ball of Fire
   year: 1941
   runtime: 111
@@ -108,9 +115,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
   imdb_id: tt0033373
   poster_url: https://m.media-amazon.com/images/M/MV5BNWQ4YmE5NWItODc0Ni00NGVlLTlhYjAtZTAwY2M3YmViMjc5XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: ball-of-fire
 
 - id: hatari
-  tmdb_id: null
+  tmdb_id: 11385
   title: Hatari!
   year: 1962
   runtime: 157
@@ -124,9 +132,10 @@
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0056059
   poster_url: https://m.media-amazon.com/images/M/MV5BMzVkYTBlZDQtNDliZi00NDI2LTk1YTktMTU1YWE2MTBkODNmXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: hatari
 
 - id: land-of-the-pharaohs
-  tmdb_id: null
+  tmdb_id: 42564
   title: Land of the Pharaohs
   year: 1955
   runtime: 106
@@ -135,3 +144,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
   imdb_id: tt0048283
   poster_url: https://m.media-amazon.com/images/M/MV5BYmRhYzQxYTUtMjYxNi00MjNkLWExNjAtM2QwMDY3YzU3YjNkXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: land-of-the-pharaohs

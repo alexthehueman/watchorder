@@ -5,7 +5,7 @@
 # carnage is not the same axis as whether the film thinks the world is survivable.
 
 - id: reservoir-dogs
-  tmdb_id: null
+  tmdb_id: 500
   title: Reservoir Dogs
   year: 1992
   runtime: 99
@@ -14,9 +14,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt0105236
   poster_url: https://m.media-amazon.com/images/M/MV5BMmMzYjg4NDctYWY0Mi00OGViLWIzMTMtYWNlZGY5ZDJmYjk3XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: reservoir-dogs
 
 - id: pulp-fiction
-  tmdb_id: null
+  tmdb_id: 680
   title: Pulp Fiction
   year: 1994
   runtime: 154
@@ -30,9 +31,10 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
   imdb_id: tt0110912
   poster_url: https://m.media-amazon.com/images/M/MV5BYTViYTE3ZGQtNDBlMC00ZTAyLTkyODMtZGRiZDg0MjA2YThkXkEyXkFqcGc@._V1_QL75_UY562_CR3,0,380,562_.jpg
+  letterboxd_slug: pulp-fiction
 
 - id: jackie-brown
-  tmdb_id: null
+  tmdb_id: 184
   title: Jackie Brown
   year: 1997
   runtime: 154
@@ -46,9 +48,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
   imdb_id: tt0119396
   poster_url: https://m.media-amazon.com/images/M/MV5BZmUxZjY3MDktNGI5NS00MTQ5LWE0YWItZWQzNmZhNjhkZDYyXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: jackie-brown
 
 - id: kill-bill-vol-1
-  tmdb_id: null
+  tmdb_id: 24
   title: Kill Bill Vol. 1
   year: 2003
   runtime: 111
@@ -57,9 +60,10 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt0266697
   poster_url: https://m.media-amazon.com/images/M/MV5BZmMyYzJlZmYtY2I3NC00NjAyLTkyZWItZjdjZDI1YTYyYTEwXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg
+  letterboxd_slug: kill-bill-vol-1
 
 - id: kill-bill-vol-2
-  tmdb_id: null
+  tmdb_id: 393
   title: Kill Bill Vol. 2
   year: 2004
   runtime: 137
@@ -68,9 +72,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0378194
   poster_url: https://m.media-amazon.com/images/M/MV5BY2FiNzhiZTctNzU1Mi00NDkwLWExNDMtZTg0MjYyNzhkNWNkXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg
+  letterboxd_slug: kill-bill-vol-2
 
 - id: death-proof
-  tmdb_id: null
+  tmdb_id: 1991
   title: Death Proof
   year: 2007
   runtime: 113
@@ -79,9 +84,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
   imdb_id: tt1028528
   poster_url: https://m.media-amazon.com/images/M/MV5BYjRlOTM0OTktZTBjNi00ZjZiLWJkMzktMmU2ZDBkMTQxN2FmXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: death-proof
 
 - id: inglourious-basterds
-  tmdb_id: null
+  tmdb_id: 16869
   title: Inglourious Basterds
   year: 2009
   runtime: 153
@@ -95,9 +101,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt0361748
   poster_url: https://m.media-amazon.com/images/M/MV5BODZhMWJlNjYtNDExNC00MTIzLTllM2ItOGQ2NGVjNDQ3MzkzXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg
+  letterboxd_slug: inglourious-basterds
 
 - id: django-unchained
-  tmdb_id: null
+  tmdb_id: 68718
   title: Django Unchained
   year: 2012
   runtime: 165
@@ -106,9 +113,10 @@
   content: { sexual_violence: true, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt1853728
   poster_url: https://m.media-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_QL75_UX380_CR0,0,380,562_.jpg
+  letterboxd_slug: django-unchained
 
 - id: the-hateful-eight
-  tmdb_id: null
+  tmdb_id: 273248
   title: The Hateful Eight
   year: 2015
   runtime: 168
@@ -122,9 +130,10 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt3460252
   poster_url: https://m.media-amazon.com/images/M/MV5BMjA1MTc1NTg5NV5BMl5BanBnXkFtZTgwOTM2MDEzNzE@._V1_SX300.jpg
+  letterboxd_slug: the-hateful-eight
 
 - id: once-upon-a-time-in-hollywood
-  tmdb_id: null
+  tmdb_id: 466272
   title: Once Upon a Time in Hollywood
   year: 2019
   runtime: 161
@@ -138,3 +147,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt7131622
   poster_url: https://m.media-amazon.com/images/M/MV5BMzMzNmViNjYtN2ViNi00NDM3LWFlMmItNDYyMGIzY2EzZjE2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg
+  letterboxd_slug: once-upon-a-time-in-hollywood

@@ -6,7 +6,7 @@
 # describing a different director.
 
 - id: diary-of-a-country-priest
-  tmdb_id: null
+  tmdb_id: 43376
   title: Diary of a Country Priest
   year: 1951
   runtime: 115
@@ -15,9 +15,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
   imdb_id: tt0042619
   poster_url: https://m.media-amazon.com/images/M/MV5BMmEwNTc3NDgtNDMzNy00YmMzLWFkYzMtNzUyNWRhYjJhY2QyXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: diary-of-a-country-priest
 
 - id: a-man-escaped
-  tmdb_id: null
+  tmdb_id: 15244
   title: A Man Escaped
   year: 1956
   runtime: 99
@@ -31,9 +32,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0049902
   poster_url: https://m.media-amazon.com/images/M/MV5BYjBkODI2NzItODMzMC00Yjc2LWI2NDItZTA5YTE0MTE5NDc2XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: a-man-escaped
 
 - id: pickpocket
-  tmdb_id: null
+  tmdb_id: 690
   title: Pickpocket
   year: 1959
   runtime: 76
@@ -42,9 +44,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0053168
   poster_url: https://m.media-amazon.com/images/M/MV5BZDk3MzJjOGYtY2I0OC00OTM4LWI4MDAtYjg1OTIwMjRmMDk1XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: pickpocket
 
 - id: the-trial-of-joan-of-arc
-  tmdb_id: null
+  tmdb_id: 48764
   title: The Trial of Joan of Arc
   year: 1962
   runtime: 65
@@ -58,9 +61,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0059616
   poster_url: https://m.media-amazon.com/images/M/MV5BOWVlMDAyZTgtMjFmMC00OGQ2LWIwMmQtNDVmOTAxMWRiOTI2XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-trial-of-joan-of-arc
 
 - id: au-hasard-balthazar
-  tmdb_id: null
+  tmdb_id: 20108
   title: Au Hasard Balthazar
   year: 1966
   runtime: 95
@@ -74,9 +78,10 @@
   content: { sexual_violence: true, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 1 }
   imdb_id: tt0060138
   poster_url: https://m.media-amazon.com/images/M/MV5BZTE0OGQyNjQtYTQ2MC00Y2FjLWFmNTMtODRkMmRmYmM4MTM5XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: au-hasard-balthazar
 
 - id: mouchette
-  tmdb_id: null
+  tmdb_id: 1561
   title: Mouchette
   year: 1967
   runtime: 78
@@ -85,9 +90,10 @@
   content: { sexual_violence: true, animal_harm: true, child_harm: true, suicide: true, violence: 2, sex: 1 }
   imdb_id: tt0061996
   poster_url: https://m.media-amazon.com/images/M/MV5BMTZkOTU2M2QtYzQxOS00MGIxLWIyNTUtN2Q1MWEzZGVlYmFiXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: mouchette
 
 - id: une-femme-douce
-  tmdb_id: null
+  tmdb_id: 55836
   title: Une Femme Douce
   year: 1969
   runtime: 88
@@ -95,9 +101,11 @@
   tags: { opacity: 3, stillness: 5, bleakness: 5, humor: 1, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 1 }
   letterboxd_title: A Gentle Woman
+  letterboxd_slug: a-gentle-woman
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ed/zq/ho/gg/gentle%20women-1200-1200-675-675-crop-000000.jpg?v=f8c164406d
 
 - id: lancelot-du-lac
-  tmdb_id: null
+  tmdb_id: 55848
   title: Lancelot du Lac
   year: 1974
   runtime: 85
@@ -110,9 +118,11 @@
     acclaim: 0.78
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 0 }
   letterboxd_title: Lancelot of the Lake
+  letterboxd_slug: lancelot-of-the-lake
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/rn/l9/lt/ec/lancelot-1200-1200-675-675-crop-000000.jpg?v=e086913acb
 
 - id: largent
-  tmdb_id: null
+  tmdb_id: 42112
   title: "L'Argent"
   year: 1983
   runtime: 85
@@ -126,13 +136,14 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt0085180
   poster_url: https://m.media-amazon.com/images/M/MV5BYjU3ZjBkODYtYjZmYS00OTAzLTk4NTctYWU0ZjhiM2JhZDBmXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: largent-1983
 
 # data.test.js correctly rejected a flat humor: 1 across the whole filmography. The honest fix was
 # not to reinterpret the severe films but to include the two that genuinely are not: Les Dames
 # carries Cocteau's dialogue and is arch in a way he never allowed himself again, and Four Nights
 # is a romance that mostly forgives everyone in it.
 - id: les-dames-du-bois-de-boulogne
-  tmdb_id: null
+  tmdb_id: 49845
   title: Les Dames du Bois de Boulogne
   year: 1945
   runtime: 86
@@ -145,9 +156,11 @@
     acclaim: 0.75
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   letterboxd_title: The Ladies of the Bois de Boulogne
+  letterboxd_slug: les-dames-du-bois-de-boulogne
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/k2/iy/gw/6e/lesdames-1200-1200-675-675-crop-000000.jpg?v=407316525a
 
 - id: four-nights-of-a-dreamer
-  tmdb_id: null
+  tmdb_id: 55847
   title: Four Nights of a Dreamer
   year: 1971
   runtime: 82
@@ -161,3 +174,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 1 }
   imdb_id: tt0067641
   poster_url: https://m.media-amazon.com/images/M/MV5BZWM0ZjhlZmEtODBhZi00MGU1LWFjZjAtNTcwNDE4MTI4OTc2XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: four-nights-of-a-dreamer

@@ -6,7 +6,7 @@
 # the named anchor for 4. Tarkovsky is slow; those two are structurally about slowness.
 
 - id: ivans-childhood
-  tmdb_id: null
+  tmdb_id: 31442
   title: Ivan's Childhood
   year: 1962
   runtime: 95
@@ -15,9 +15,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0056111
   poster_url: https://m.media-amazon.com/images/M/MV5BZGZjMDJkZTgtOThmYy00Mjk2LWFkMWMtMGY1YTRhZDdmMjI5XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: ivans-childhood
 
 - id: andrei-rublev
-  tmdb_id: null
+  tmdb_id: 895
   title: Andrei Rublev
   year: 1966
   runtime: 205
@@ -33,9 +34,10 @@
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 1 }
   imdb_id: tt0060107
   poster_url: https://m.media-amazon.com/images/M/MV5BY2I4YzZjZDgtNWQzNC00MDdhLWFiZTItZTAwODY2ZmQzMDQwXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: andrei-rublev
 
 - id: solaris
-  tmdb_id: null
+  tmdb_id: 593
   title: Solaris
   year: 1972
   runtime: 167
@@ -44,9 +46,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 1 }
   imdb_id: tt0069293
   poster_url: https://m.media-amazon.com/images/M/MV5BYTYyMjU4MjItYzZkNy00NmIyLTg1ZGEtYTY5ZTEyM2U2NDM2XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: solaris
 
 - id: mirror
-  tmdb_id: null
+  tmdb_id: 1396
   title: Mirror
   year: 1975
   runtime: 107
@@ -60,9 +63,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0072443
   poster_url: https://m.media-amazon.com/images/M/MV5BNjRhNzYxODAtOTFmMS00N2MxLWE0NGMtM2VkZGY5MTYwYTZlXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: mirror
 
 - id: stalker
-  tmdb_id: null
+  tmdb_id: 1398
   title: Stalker
   year: 1979
   runtime: 162
@@ -76,6 +80,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0079944
   poster_url: https://m.media-amazon.com/images/M/MV5BMDIzMDRiYjgtM2U1Yy00MjlhLTliODMtM2E5NDI5Njc3YmZkXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: stalker
 
 - id: nostalghia
   tmdb_id: null
@@ -94,7 +99,7 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMWFjMGFhYzEtODZkZS00MDRjLWE2NGEtMWRhODcwMzNiN2I1XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-sacrifice
-  tmdb_id: null
+  tmdb_id: 24657
   title: The Sacrifice
   year: 1986
   runtime: 149
@@ -103,12 +108,13 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt0091670
   poster_url: https://m.media-amazon.com/images/M/MV5BYWQ5ODRjNzktOTI2OC00ZGFhLWE1MGMtYjEyNTNjODA3NmNlXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-sacrifice
 
 # His graduation film, added for the same structural reason Little Women and Stage Door were added
 # to Katharine Hepburn: with only seven features, "twelve" and "everything" round to an identical
 # set on every profile, which caps the spread metrics by construction rather than by any judgement.
 - id: the-steamroller-and-the-violin
-  tmdb_id: null
+  tmdb_id: 38311
   title: The Steamroller and the Violin
   year: 1961
   runtime: 46
@@ -117,3 +123,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0053987
   poster_url: https://m.media-amazon.com/images/M/MV5BZjg0OWRmNDQtNGYwYi00ZjM1LTlmMmUtYzI2ZGUxMGIzZDdhXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-steamroller-and-the-violin

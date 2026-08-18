@@ -122,7 +122,7 @@
   letterboxd_slug: wild-at-heart
 
 - id: twin-peaks
-  tmdb_id: null
+  tmdb_id: 452522
   title: 'Twin Peaks: Seasons 1-2'
   year: 1990
   medium: series
@@ -142,6 +142,8 @@
     violence: 2
     sex: 2
   letterboxd_title: Twin Peaks
+  letterboxd_slug: twin-peaks
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/f8/27/rr/zm/twinpeaks-1200-1200-675-675-crop-000000.jpg?v=8dc7a13789
 
 - id: fire-walk-with-me
   tmdb_id: 1923

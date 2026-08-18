@@ -8,7 +8,7 @@
 # Runtimes are short by modern standards and that is not an error — the feature length of 1924.
 
 - id: our-hospitality
-  tmdb_id: null
+  tmdb_id: 701
   title: Our Hospitality
   year: 1923
   runtime: 65
@@ -17,9 +17,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0014341
   poster_url: https://m.media-amazon.com/images/M/MV5BNDY2MjRmZWQtZTRmYS00YjA2LTg0ZTgtYzBjODJiNTFkMTc4XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: our-hospitality
 
 - id: sherlock-jr
-  tmdb_id: null
+  tmdb_id: 992
   title: Sherlock Jr.
   year: 1924
   runtime: 45
@@ -33,9 +34,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0015324
   poster_url: https://m.media-amazon.com/images/M/MV5BMjQzM2E2NjYtYmRjMC00ZmVlLTljZTgtNmQ5MGZlNDYyZTc5XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: sherlock-jr
 
 - id: the-navigator
-  tmdb_id: null
+  tmdb_id: 32318
   title: The Navigator
   year: 1924
   runtime: 59
@@ -44,9 +46,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0015163
   poster_url: https://m.media-amazon.com/images/M/MV5BM2E4Y2E2MzItMzMyOS00OWM1LWIxMDAtZTk5N2UxOGY3OWIzXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-navigator
 
 - id: seven-chances
-  tmdb_id: null
+  tmdb_id: 32600
   title: Seven Chances
   year: 1925
   runtime: 56
@@ -55,9 +58,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0016332
   poster_url: https://m.media-amazon.com/images/M/MV5BZTY5ZjU1MjAtZDBiYi00ZmJlLTllMzItOTkwYTZkZjc5MWNjXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: seven-chances
 
 - id: the-general
-  tmdb_id: null
+  tmdb_id: 961
   title: The General
   year: 1926
   runtime: 67
@@ -71,9 +75,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0017925
   poster_url: https://m.media-amazon.com/images/M/MV5BMTVhM2Y1MDUtMDkxYi00Y2UxLWI2MTMtZjMzYTY4ODM4MGIzXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-general
 
 - id: steamboat-bill-jr
-  tmdb_id: null
+  tmdb_id: 25768
   title: Steamboat Bill Jr.
   year: 1928
   runtime: 70
@@ -82,9 +87,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0019421
   poster_url: https://m.media-amazon.com/images/M/MV5BOTg2MjUyMjYyOV5BMl5BanBnXkFtZTgwNjM0NDAwMjE@._V1_SX300.jpg
+  letterboxd_slug: steamboat-bill-jr
 
 - id: the-cameraman
-  tmdb_id: null
+  tmdb_id: 31411
   title: The Cameraman
   year: 1928
   runtime: 76
@@ -93,9 +99,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0018742
   poster_url: https://m.media-amazon.com/images/M/MV5BNTMyYzllZjEtNDg0Ni00MDc1LTkzZTYtN2E1NzJiMWMxY2Q5XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-cameraman
 
 - id: three-ages
-  tmdb_id: null
+  tmdb_id: 32628
   title: Three Ages
   year: 1923
   runtime: 63
@@ -104,6 +111,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0014538
   poster_url: https://m.media-amazon.com/images/M/MV5BMjI3OTEzODA4NF5BMl5BanBnXkFtZTgwODc0NDIwMjE@._V1_SX300.jpg
+  letterboxd_slug: three-ages
 
 # The four below widen a corpus that was otherwise eight films from a single five-year window, all
 # of them short comedies with near-identical profiles — the quiz had literally nothing to move
@@ -111,7 +119,7 @@
 # where his actual variation lives: Go West is melancholy more than funny, Battling Butler ends in
 # genuine brutality, The Saphead predates his control of his own material.
 - id: the-saphead
-  tmdb_id: null
+  tmdb_id: 51392
   title: The Saphead
   year: 1920
   runtime: 77
@@ -120,9 +128,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0011652
   poster_url: https://m.media-amazon.com/images/M/MV5BYjYzYjFlMDctZDEzNS00MjQxLTkzNTUtZjgyMjkyNWU2YjVmXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-saphead
 
 - id: go-west
-  tmdb_id: null
+  tmdb_id: 33015
   title: Go West
   year: 1925
   runtime: 69
@@ -136,9 +145,10 @@
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0015863
   poster_url: https://m.media-amazon.com/images/M/MV5BMTc4Nzk4NTYtOTQ1MC00NDhhLWJjYWItMGFkMWM1OGM4MzI2XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: go-west
 
 - id: battling-butler
-  tmdb_id: null
+  tmdb_id: 51371
   title: Battling Butler
   year: 1926
   runtime: 77
@@ -152,9 +162,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0016630
   poster_url: https://m.media-amazon.com/images/M/MV5BNzc1ODMxMDYtNWFhMS00MmIyLTlkYWMtYWQ5NDE0ODAzYTk1XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_SX300.jpg
+  letterboxd_slug: battling-butler
 
 - id: college
-  tmdb_id: null
+  tmdb_id: 34847
   title: College
   year: 1927
   runtime: 66
@@ -163,3 +174,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0017765
   poster_url: https://m.media-amazon.com/images/M/MV5BMzU1NmExNWItZDc1OS00NTc4LTg1NzctNGQ3NDYwYzBmMjIwXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: college

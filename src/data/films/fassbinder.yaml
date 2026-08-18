@@ -87,7 +87,7 @@
   letterboxd_slug: chinese-roulette
 
 - id: in-a-year-of-13-moons
-  tmdb_id: null
+  tmdb_id: 42206
   title: In a Year of 13 Moons
   year: 1978
   runtime: 124
@@ -100,6 +100,8 @@
     violence: 2
     sex: 2
   letterboxd_title: In a Year with 13 Moons
+  letterboxd_slug: in-a-year-with-13-moons
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/gd/8k/rs/2v/in-year-13-moons-1200-1200-675-675-crop-000000.jpg?v=d6ef9b406c
 
 - id: despair
   tmdb_id: 42203

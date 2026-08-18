@@ -8,7 +8,7 @@
 # awarded and watched on its own. The prereq relationship carries the ordering instead.
 
 - id: pather-panchali
-  tmdb_id: null
+  tmdb_id: 5801
   title: Pather Panchali
   year: 1955
   runtime: 125
@@ -22,9 +22,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0048473
   poster_url: https://m.media-amazon.com/images/M/MV5BNmZhNzc0ZDMtZDg2My00MjkxLWJjZTctNTljODc2ZjQzMzJkXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: pather-panchali
 
 - id: aparajito
-  tmdb_id: null
+  tmdb_id: 897
   title: Aparajito
   year: 1956
   runtime: 110
@@ -33,9 +34,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0048956
   poster_url: https://m.media-amazon.com/images/M/MV5BNmViYWRlZWEtYjFhZi00Njg4LTg4YmYtMTQ2MTFkYmMwNjRmXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: aparajito
 
 - id: the-music-room
-  tmdb_id: null
+  tmdb_id: 822
   title: The Music Room
   year: 1958
   runtime: 100
@@ -49,6 +51,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0051792
   poster_url: https://m.media-amazon.com/images/M/MV5BYTQ3ZGEyYjQtMWI5Mi00Zjc2LTk0YTYtZmY2OGQzNDc1ZDFkXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-music-room
 
 - id: the-world-of-apu
   tmdb_id: null
@@ -62,7 +65,7 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYjQwMDk3NGMtYzg2ZC00MWNmLTliZDUtM2MwYjZjM2E0MWYwXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: devi
-  tmdb_id: null
+  tmdb_id: 43031
   title: Devi
   year: 1960
   runtime: 93
@@ -70,9 +73,11 @@
   tags: { opacity: 3, stillness: 4, bleakness: 5, humor: 1, acclaim: 0.82 }
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 0 }
   letterboxd_title: The Goddess
+  letterboxd_slug: devi
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ur/mj/rm/cy/hepIIa9TkcX0ccqoID8zeF04oLC-1200-1200-675-675-crop-000000.jpg?v=4ae08e24ce
 
 - id: the-big-city
-  tmdb_id: null
+  tmdb_id: 60567
   title: The Big City
   year: 1963
   runtime: 131
@@ -81,9 +86,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0057277
   poster_url: https://m.media-amazon.com/images/M/MV5BZjhlMGU1ZDItODMyOS00M2MyLWEyZDgtMjAwMGE3NDBkZWExXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-big-city
 
 - id: charulata
-  tmdb_id: null
+  tmdb_id: 35790
   title: Charulata
   year: 1964
   runtime: 117
@@ -97,18 +103,21 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt0057935
   poster_url: https://m.media-amazon.com/images/M/MV5BOTZhNjg2NDAtYTMzMy00YTNhLTkyNzMtYThmOWU0ZjE2MjI0XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: charulata
 
 - id: days-and-nights-in-the-forest
-  tmdb_id: null
+  tmdb_id: 35867
   title: Days and Nights in the Forest
   year: 1970
   runtime: 115
   director: Satyajit Ray
   tags: { opacity: 2, stillness: 4, bleakness: 3, humor: 3, acclaim: 0.85 }
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  letterboxd_slug: days-and-nights-in-the-forest
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/m4/ec/nn/fi/DaysAndNights-1200-1200-675-675-crop-000000.jpg?v=c0adc901cc
 
 - id: the-chess-players
-  tmdb_id: null
+  tmdb_id: 80556
   title: The Chess Players
   year: 1977
   runtime: 129
@@ -122,9 +131,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0076696
   poster_url: https://m.media-amazon.com/images/M/MV5BZmNlYzY0M2MtNjA5MC00MDk2LTk5MjUtNDA2MDBjZjNhNzM3XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-chess-players
 
 - id: the-hero
-  tmdb_id: null
+  tmdb_id: 112999
   title: The Hero
   year: 1966
   runtime: 117
@@ -133,3 +143,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0060742
   poster_url: https://m.media-amazon.com/images/M/MV5BMjNkOWMwMWYtMGExNS00ZGE5LWI0M2UtZjZmMDg2NTk5OTI2XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-hero-1966

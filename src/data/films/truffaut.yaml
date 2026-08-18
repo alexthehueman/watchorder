@@ -6,7 +6,7 @@
 # roster that tagged them alike would be saying it was.
 
 - id: the-400-blows
-  tmdb_id: null
+  tmdb_id: 147
   title: The 400 Blows
   year: 1959
   runtime: 99
@@ -20,9 +20,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0053198
   poster_url: https://m.media-amazon.com/images/M/MV5BOTU3YTM0YzQtMmFlOS00OTIxLWFmZjctMDJkOGQxNTVhODM3XkEyXkFqcGc@._V1_QL75_UY562_CR22,0,380,562_.jpg
+  letterboxd_slug: the-400-blows
 
 - id: shoot-the-piano-player
-  tmdb_id: null
+  tmdb_id: 1818
   title: Shoot the Piano Player
   year: 1960
   runtime: 81
@@ -36,9 +37,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 1 }
   imdb_id: tt0054389
   poster_url: https://m.media-amazon.com/images/M/MV5BMTNjYTcxZjEtOWE1ZC00YTY0LThmMjctMDM1OGExOGEzYTVkXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: shoot-the-piano-player
 
 - id: jules-and-jim
-  tmdb_id: null
+  tmdb_id: 1628
   title: Jules and Jim
   year: 1962
   runtime: 105
@@ -47,9 +49,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 1 }
   imdb_id: tt0055032
   poster_url: https://m.media-amazon.com/images/M/MV5BM2Y0NmFlMmUtOTgwOC00MjVlLTk3NGEtZWNmYWZlMmI3ODBlXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: jules-and-jim
 
 - id: the-soft-skin
-  tmdb_id: null
+  tmdb_id: 1719
   title: The Soft Skin
   year: 1964
   runtime: 113
@@ -58,9 +61,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 2 }
   imdb_id: tt0058458
   poster_url: https://m.media-amazon.com/images/M/MV5BNWRlYzI1YTYtNDI4Yy00NjgyLWJkMjYtZTZjOGI3MDI2Mjg2XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-soft-skin
 
 - id: fahrenheit-451
-  tmdb_id: null
+  tmdb_id: 1714
   title: Fahrenheit 451
   year: 1966
   runtime: 112
@@ -69,9 +73,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 0 }
   imdb_id: tt0060390
   poster_url: https://m.media-amazon.com/images/M/MV5BMDA3ZjIxY2UtMzVmMS00NTkwLTljMzktNzk2ZWMxYzZkNGE3XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: fahrenheit-451
 
 - id: stolen-kisses
-  tmdb_id: null
+  tmdb_id: 255
   title: Stolen Kisses
   year: 1968
   runtime: 90
@@ -80,9 +85,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt0062695
   poster_url: https://m.media-amazon.com/images/M/MV5BZTRiN2M3MTYtMTU3NS00ZjI4LWIzMjctYzdiODM2ZWE0YTNiXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: stolen-kisses
 
 - id: the-wild-child
-  tmdb_id: null
+  tmdb_id: 1627
   title: The Wild Child
   year: 1970
   runtime: 83
@@ -91,9 +97,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0064285
   poster_url: https://m.media-amazon.com/images/M/MV5BM2U5ZmU5YTMtZjZiYy00NDg3LTgyZGMtOWNhNTM5MjFmYjVlXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-wild-child
 
 - id: day-for-night
-  tmdb_id: null
+  tmdb_id: 1675
   title: Day for Night
   year: 1973
   runtime: 115
@@ -107,9 +114,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
   imdb_id: tt0070460
   poster_url: https://m.media-amazon.com/images/M/MV5BYmE5MjQ1MmMtOWEyZS00MWM4LWJhNzYtYzliNzIzNTE0MmY4XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: day-for-night
 
 - id: the-story-of-adele-h
-  tmdb_id: null
+  tmdb_id: 1829
   title: The Story of Adele H.
   year: 1975
   runtime: 96
@@ -123,9 +131,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt0073114
   poster_url: https://m.media-amazon.com/images/M/MV5BNTEzMmNmY2QtYTI5NS00MmNhLWE3MDMtNTljYmMyYzY0ZmI2XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-story-of-adele-h
 
 - id: the-last-metro
-  tmdb_id: null
+  tmdb_id: 1716
   title: The Last Metro
   year: 1980
   runtime: 131
@@ -134,9 +143,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
   imdb_id: tt0080610
   poster_url: https://m.media-amazon.com/images/M/MV5BYmFiMTFlMzUtN2JmNS00MGIzLWEzOTUtY2RkNjQ2OTY2MDZiXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-last-metro
 
 - id: the-woman-next-door
-  tmdb_id: null
+  tmdb_id: 12579
   title: The Woman Next Door
   year: 1981
   runtime: 106
@@ -145,3 +155,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 2 }
   imdb_id: tt0082370
   poster_url: https://m.media-amazon.com/images/M/MV5BNjAxMGVjM2YtNDExMS00NWU1LTg4ZTItOGQ2ZGFmMGU2MGU5XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-woman-next-door

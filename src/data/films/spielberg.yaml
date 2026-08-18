@@ -8,7 +8,7 @@
 # references that copy. Tagging it twice is exactly what the shared film table exists to prevent.
 
 - id: duel
-  tmdb_id: null
+  tmdb_id: 839
   title: Duel
   year: 1971
   runtime: 90
@@ -17,9 +17,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0067023
   poster_url: https://m.media-amazon.com/images/M/MV5BN2ZhYjY5MzMtMmU4Yy00MDBjLWFhY2UtODg5YzdmNTY0Y2Q0XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: duel
 
 - id: jaws
-  tmdb_id: null
+  tmdb_id: 578
   title: Jaws
   year: 1975
   runtime: 124
@@ -33,9 +34,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt0073195
   poster_url: https://m.media-amazon.com/images/M/MV5BYjViNDQzNmUtYzkxZi00NTk5LTljMmItYjJlZmZkODIxNjU1XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: jaws
 
 - id: close-encounters-of-the-third-kind
-  tmdb_id: null
+  tmdb_id: 840
   title: Close Encounters of the Third Kind
   year: 1977
   runtime: 138
@@ -44,9 +46,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0075860
   poster_url: https://m.media-amazon.com/images/M/MV5BMjM1NjE5NjQxN15BMl5BanBnXkFtZTgwMjYzMzQxMDE@._V1_SX300.jpg
+  letterboxd_slug: close-encounters-of-the-third-kind
 
 - id: raiders-of-the-lost-ark
-  tmdb_id: null
+  tmdb_id: 85
   title: Raiders of the Lost Ark
   year: 1981
   runtime: 115
@@ -55,9 +58,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0082971
   poster_url: https://m.media-amazon.com/images/M/MV5BOGNhMjg2ZjgtYzk4Ni00MTViLTg1MmUtYzM2MDZiYjZlMmU3XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: raiders-of-the-lost-ark
 
 - id: et-the-extra-terrestrial
-  tmdb_id: null
+  tmdb_id: 601
   title: E.T. the Extra-Terrestrial
   year: 1982
   runtime: 115
@@ -66,9 +70,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0083866
   poster_url: https://m.media-amazon.com/images/M/MV5BYTNhNmY0YWMtMTczYi00MTA0LThhMmUtMTIxYzE0Y2QwMzRlXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: et-the-extra-terrestrial
 
 - id: the-color-purple
-  tmdb_id: null
+  tmdb_id: 873
   title: The Color Purple
   year: 1985
   runtime: 154
@@ -77,9 +82,10 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
   imdb_id: tt0088939
   poster_url: https://m.media-amazon.com/images/M/MV5BM2MyZjBlMGItNThkMi00YWExLThlZmUtZmI2MGM3YWE3YTY1XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-color-purple
 
 - id: empire-of-the-sun
-  tmdb_id: null
+  tmdb_id: 10110
   title: Empire of the Sun
   year: 1987
   runtime: 153
@@ -88,9 +94,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0092965
   poster_url: https://m.media-amazon.com/images/M/MV5BMWY2NjdkYzEtYWZhZS00YTdhLWJhMGQtZjkxZjZkODQyYWY5XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: empire-of-the-sun
 
 - id: jurassic-park
-  tmdb_id: null
+  tmdb_id: 329
   title: Jurassic Park
   year: 1993
   runtime: 127
@@ -99,9 +106,10 @@
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0107290
   poster_url: https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_SX300.jpg
+  letterboxd_slug: jurassic-park
 
 - id: schindlers-list
-  tmdb_id: null
+  tmdb_id: 424
   title: Schindler's List
   year: 1993
   runtime: 195
@@ -115,9 +123,10 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 2 }
   imdb_id: tt0108052
   poster_url: https://m.media-amazon.com/images/M/MV5BNjM1ZDQxYWUtMzQyZS00MTE1LWJmZGYtNGUyNTdlYjM3ZmVmXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg
+  letterboxd_slug: schindlers-list
 
 - id: saving-private-ryan
-  tmdb_id: null
+  tmdb_id: 857
   title: Saving Private Ryan
   year: 1998
   runtime: 169
@@ -126,9 +135,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt0120815
   poster_url: https://m.media-amazon.com/images/M/MV5BZGZhZGQ1ZWUtZTZjYS00MDJhLWFkYjctN2ZlYjE5NWYwZDM2XkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg
+  letterboxd_slug: saving-private-ryan
 
 - id: ai-artificial-intelligence
-  tmdb_id: null
+  tmdb_id: 644
   title: A.I. Artificial Intelligence
   year: 2001
   runtime: 146
@@ -142,9 +152,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 1 }
   imdb_id: tt0212720
   poster_url: https://m.media-amazon.com/images/M/MV5BODA1YjhhZDctM2Y1ZS00ODkyLWFmMTAtZGY5YWEzNzRjYzA1XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: ai-artificial-intelligence
 
 - id: catch-me-if-you-can
-  tmdb_id: null
+  tmdb_id: 640
   title: Catch Me If You Can
   year: 2002
   runtime: 141
@@ -153,9 +164,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt0264464
   poster_url: https://m.media-amazon.com/images/M/MV5BMTY5MzYzNjc5NV5BMl5BanBnXkFtZTYwNTUyNTc2._V1_QL75_UX380_CR0,0,380,562_.jpg
+  letterboxd_slug: catch-me-if-you-can-2002
 
 - id: munich
-  tmdb_id: null
+  tmdb_id: 612
   title: Munich
   year: 2005
   runtime: 164
@@ -164,9 +176,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 2 }
   imdb_id: tt0408306
   poster_url: https://m.media-amazon.com/images/M/MV5BMTcwNzYzMzMwMF5BMl5BanBnXkFtZTcwMzMzODczMQ@@._V1_SX300.jpg
+  letterboxd_slug: munich
 
 - id: the-fabelmans
-  tmdb_id: null
+  tmdb_id: 804095
   title: The Fabelmans
   year: 2022
   runtime: 151
@@ -175,9 +188,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt14208870
   poster_url: https://m.media-amazon.com/images/M/MV5BNDY5OWY4ZWYtYTM3OC00Zjg5LWFlYzYtYWI5ZGM1MDcxYzY4XkEyXkFqcGc@._V1_QL75_UX380_CR0,19,380,562_.jpg
+  letterboxd_slug: the-fabelmans
 
 - id: minority-report
-  tmdb_id: null
+  tmdb_id: 180
   title: Minority Report
   year: 2002
   runtime: 145
@@ -191,9 +205,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 1 }
   imdb_id: tt0181689
   poster_url: https://m.media-amazon.com/images/M/MV5BYTdmNzM3YzItZTRkYS00MTY5LTg4ZmItNjFmNTk2N2Q2NmNlXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: minority-report
 
 - id: war-of-the-worlds
-  tmdb_id: null
+  tmdb_id: 74
   title: War of the Worlds
   year: 2005
   runtime: 116
@@ -207,3 +222,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt0407304
   poster_url: https://m.media-amazon.com/images/M/MV5BNDUyODAzNDI1Nl5BMl5BanBnXkFtZTcwMDA2NDAzMw@@._V1_SX300.jpg
+  letterboxd_slug: war-of-the-worlds

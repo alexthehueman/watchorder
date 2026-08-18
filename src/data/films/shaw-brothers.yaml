@@ -28,7 +28,7 @@
   letterboxd_slug: the-one-armed-swordsman
 
 - id: king-boxer
-  tmdb_id: null
+  tmdb_id: 88029
   title: King Boxer
   year: 1972
   runtime: 104
@@ -36,6 +36,8 @@
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_title: The King of Boxers
+  letterboxd_slug: the-king-of-boxers
+  poster_url: https://a.ltrbxd.com/resized/film-poster/7/4/2/1/1/74211-the-king-of-boxers-0-230-0-345-crop.jpg?v=bf49c6ef55
 
 - id: the-boxer-from-shantung
   tmdb_id: 50569

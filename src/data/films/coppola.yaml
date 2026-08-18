@@ -9,7 +9,7 @@
 # 0.95 and a 0.35 in the same filmography, and the collapse is the actual story of his career.
 
 - id: the-rain-people
-  tmdb_id: null
+  tmdb_id: 59231
   title: The Rain People
   year: 1969
   runtime: 101
@@ -18,9 +18,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
   imdb_id: tt0064873
   poster_url: https://m.media-amazon.com/images/M/MV5BNTZiZWFlN2YtOTNhYy00OWVjLTgwZDEtY2M2ZGI5ZWVkMDYxXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-rain-people
 
 - id: one-from-the-heart
-  tmdb_id: null
+  tmdb_id: 41291
   title: One from the Heart
   year: 1982
   runtime: 107
@@ -34,9 +35,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt0084445
   poster_url: https://m.media-amazon.com/images/M/MV5BOTliZGU4Y2YtZjI2NS00YzdhLTljNTItZjk5ODUzODUzODU5XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: one-from-the-heart
 
 - id: the-outsiders
-  tmdb_id: null
+  tmdb_id: 227
   title: The Outsiders
   year: 1983
   runtime: 91
@@ -45,9 +47,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0086066
   poster_url: https://m.media-amazon.com/images/M/MV5BODlmMzZjZDEtOTUwOS00OTAwLTg2YzAtYTA4ZTk3ZWNjMTgxXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-outsiders
 
 - id: rumble-fish
-  tmdb_id: null
+  tmdb_id: 232
   title: Rumble Fish
   year: 1983
   runtime: 94
@@ -61,9 +64,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
   imdb_id: tt0086216
   poster_url: https://m.media-amazon.com/images/M/MV5BNDUyMDdmYmMtYjE2Ni00MGE0LWJkNjQtYjQwMTMyMjhkMmE5XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: rumble-fish
 
 - id: peggy-sue-got-married
-  tmdb_id: null
+  tmdb_id: 10013
   title: Peggy Sue Got Married
   year: 1986
   runtime: 103
@@ -72,9 +76,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt0091738
   poster_url: https://m.media-amazon.com/images/M/MV5BMDJjZjM5MDEtMjM3My00ODgwLWE5YTItMGZlMGQ1N2ZjNDc1XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: peggy-sue-got-married
 
 - id: the-godfather-part-iii
-  tmdb_id: null
+  tmdb_id: 242
   title: The Godfather Part III
   year: 1990
   runtime: 162
@@ -83,9 +88,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
   imdb_id: tt0099674
   poster_url: https://m.media-amazon.com/images/M/MV5BMDVjODgzNTEtNjBiNS00ODBjLWEwZjUtMDljZTFhOTA4M2MxXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg
+  letterboxd_slug: the-godfather-part-iii
 
 - id: bram-stokers-dracula
-  tmdb_id: null
+  tmdb_id: 6114
   title: "Bram Stoker's Dracula"
   year: 1992
   runtime: 128
@@ -93,3 +99,5 @@
   tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.72 }
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 3 }
   letterboxd_title: Dracula
+  letterboxd_slug: bram-stokers-dracula
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/7e/zz/n5/ll/dracula-1200-1200-675-675-crop-000000.jpg?v=36c312331a
