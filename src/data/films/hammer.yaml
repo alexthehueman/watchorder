@@ -19,7 +19,7 @@
   letterboxd_slug: the-curse-of-frankenstein
 
 - id: horror-of-dracula
-  tmdb_id: null
+  tmdb_id: 11868
   title: Horror of Dracula
   year: 1958
   runtime: 82
@@ -29,6 +29,7 @@
   imdb_id: tt0051554
   poster_url: https://m.media-amazon.com/images/M/MV5BNTQxZTQxYjUtZDg0Zi00ZGE2LWJlMzQtYWJhMjM2MTJmYTI1XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_title: Dracula
+  letterboxd_slug: dracula-1958
 
 - id: the-mummy-1959
   tmdb_id: 18990
@@ -149,7 +150,7 @@
   letterboxd_slug: countess-dracula
 
 - id: dr-jekyll-and-sister-hyde
-  tmdb_id: null
+  tmdb_id: 30855
   title: Dr Jekyll and Sister Hyde
   year: 1971
   runtime: 97
@@ -162,6 +163,8 @@
     acclaim: 0.68
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 2 }
   letterboxd_title: Dr. Jekyll & Sister Hyde
+  letterboxd_slug: dr-jekyll-sister-hyde
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ui/xr/wc/et/dr-jekyll-and-sister-hyde-1200-1200-675-675-crop-000000.jpg?v=473db71c81
 
 - id: captain-kronos-vampire-hunter
   tmdb_id: 18979

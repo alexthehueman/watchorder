@@ -146,7 +146,7 @@
   letterboxd_slug: cache
 
 - id: funny-games-us
-  tmdb_id: null
+  tmdb_id: 8461
   title: Funny Games U.S.
   year: 2007
   runtime: 111
@@ -159,6 +159,8 @@
     violence: 3
     sex: 1
   letterboxd_title: Funny Games
+  letterboxd_slug: funny-games-2007
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/xk/fz/j6/dk/funny-games-2007-1200-1200-675-675-crop-000000.jpg?v=8763dfc1f0
 
 - id: the-white-ribbon
   tmdb_id: 37903

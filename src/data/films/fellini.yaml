@@ -87,7 +87,7 @@
   letterboxd_slug: juliet-of-the-spirits
 
 - id: fellini-satyricon
-  tmdb_id: null
+  tmdb_id: 11163
   title: Fellini Satyricon
   year: 1969
   runtime: 129
@@ -100,6 +100,8 @@
     acclaim: 0.72
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 2 }
   letterboxd_title: Satyricon
+  letterboxd_slug: satyricon-1969
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/lx/c1/jg/b8/satyricon-1200-1200-675-675-crop-000000.jpg?v=9dfdd872fd
 
 - id: roma
   tmdb_id: 11035

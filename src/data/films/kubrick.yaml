@@ -74,7 +74,7 @@
   letterboxd_slug: lolita
 
 - id: dr-strangelove
-  tmdb_id: null
+  tmdb_id: 935
   title: Dr. Strangelove
   year: 1964
   runtime: 95
@@ -82,6 +82,8 @@
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 4, acclaim: 0.93 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_title: "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb"
+  letterboxd_slug: dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/5l/qd/mh/45/dr-strangelove-or--how-i-learned-to-stop-worrying-and-love-the-bomb-170-1200-1200-675-675-crop-000000.jpg?v=f3de38aa5c
 
 - id: 2001-a-space-odyssey
   tmdb_id: 62

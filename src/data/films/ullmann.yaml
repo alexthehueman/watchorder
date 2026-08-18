@@ -61,7 +61,7 @@
   letterboxd_slug: cries-and-whispers
 
 - id: forty-carats
-  tmdb_id: null
+  tmdb_id: 42456
   title: Forty Carats
   year: 1973
   runtime: 110
@@ -69,6 +69,8 @@
   tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 4, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   letterboxd_title: 40 Carats
+  letterboxd_slug: 40-carats
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/l9/k6/7m/03/fpJySzWen6eu28vMzziSSDODD2B-1200-1200-675-675-crop-000000.jpg?v=cee3d32b31
 
 - id: scenes-from-a-marriage
   tmdb_id: 133919

@@ -6,7 +6,7 @@
 # bleakness carries the actual variation, which is the correct division of labour between them.
 
 - id: the-kid
-  tmdb_id: null
+  tmdb_id: 10098
   title: The Kid
   year: 1921
   runtime: 68
@@ -15,9 +15,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0012349
   poster_url: https://m.media-amazon.com/images/M/MV5BZGVmZGM0YTUtOTA1ZC00ZDE4LWE4ZDUtMjAxOTk5YjkwN2Q2XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-kid
 
 - id: the-gold-rush
-  tmdb_id: null
+  tmdb_id: 962
   title: The Gold Rush
   year: 1925
   runtime: 95
@@ -26,9 +27,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0015864
   poster_url: https://m.media-amazon.com/images/M/MV5BNGU1NjYzYTAtZmY0YS00NWIzLTkzNzUtYzc2ZTIyOTIxZjVhXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-gold-rush
 
 - id: the-circus
-  tmdb_id: null
+  tmdb_id: 28978
   title: The Circus
   year: 1928
   runtime: 72
@@ -37,9 +39,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0018773
   poster_url: https://m.media-amazon.com/images/M/MV5BZjNhZWY4YjgtOTI2Zi00NWZlLWIyNDItNGY0MzhhNmUxNTkyXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-circus
 
 - id: city-lights
-  tmdb_id: null
+  tmdb_id: 901
   title: City Lights
   year: 1931
   runtime: 87
@@ -53,9 +56,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 0 }
   imdb_id: tt0021749
   poster_url: https://m.media-amazon.com/images/M/MV5BM2U4NjgzODUtODkyOC00YTE2LTlhNTItYzFlYmM1NTEzZDA2XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: city-lights
 
 - id: modern-times
-  tmdb_id: null
+  tmdb_id: 3082
   title: Modern Times
   year: 1936
   runtime: 87
@@ -64,9 +68,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 0 }
   imdb_id: tt0027977
   poster_url: https://m.media-amazon.com/images/M/MV5BODVkZGFhNGQtYjdiYi00Njc4LWFmYTItNTlmNzJjMTg1ZDc5XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: modern-times
 
 - id: the-great-dictator
-  tmdb_id: null
+  tmdb_id: 914
   title: The Great Dictator
   year: 1940
   runtime: 125
@@ -80,9 +85,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0032553
   poster_url: https://m.media-amazon.com/images/M/MV5BMjc4ZjEwNDUtMjlmZS00NzQ4LTg2N2MtMGI3ZjMyMmM3ZDM2XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-great-dictator
 
 - id: monsieur-verdoux
-  tmdb_id: null
+  tmdb_id: 30588
   title: Monsieur Verdoux
   year: 1947
   runtime: 124
@@ -96,9 +102,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0039631
   poster_url: https://m.media-amazon.com/images/M/MV5BYzI2MGY4YmQtYTRjZS00MGQ4LWIzNTMtYjUyM2YyZTA4OWVlXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: monsieur-verdoux
 
 - id: limelight
-  tmdb_id: null
+  tmdb_id: 28971
   title: Limelight
   year: 1952
   runtime: 137
@@ -112,12 +119,13 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
   imdb_id: tt0044837
   poster_url: https://m.media-amazon.com/images/M/MV5BODFjMzMwMmYtYmZjYS00MTZiLWE2ZjAtZTliMDFmNTNhMjIzXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: limelight
 
 # Three added for the same reason Keaton's later features were: eight films all built to the same
 # specification left the quiz nothing to move. A Woman of Paris is the important one — a straight
 # drama he directed without starring in, and the only humor 1 in the filmography.
 - id: a-woman-of-paris
-  tmdb_id: null
+  tmdb_id: 28974
   title: A Woman of Paris
   year: 1923
   runtime: 82
@@ -130,9 +138,11 @@
     acclaim: 0.70
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 1 }
   letterboxd_title: "A Woman of Paris: A Drama of Fate"
+  letterboxd_slug: a-woman-of-paris
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/hy/0w/8k/83/a-woman-of-paris-1200-1200-675-675-crop-000000.jpg?v=70860a5a32
 
 - id: a-king-in-new-york
-  tmdb_id: null
+  tmdb_id: 28973
   title: A King in New York
   year: 1957
   runtime: 110
@@ -141,9 +151,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0050598
   poster_url: https://m.media-amazon.com/images/M/MV5BOGYxNzc3YjYtZDk3MC00YTZkLWJhYTMtY2UxYTY3ZmJhMDhlXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: a-king-in-new-york
 
 - id: the-countess-from-hong-kong
-  tmdb_id: null
+  tmdb_id: 2984
   title: A Countess from Hong Kong
   year: 1967
   runtime: 120
@@ -152,3 +163,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt0061523
   poster_url: https://m.media-amazon.com/images/M/MV5BNjA5MTY2ZmYtYmRjNi00NzQ5LTgzZmItMjdkNjBmZTdmNGI0XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: a-countess-from-hong-kong
