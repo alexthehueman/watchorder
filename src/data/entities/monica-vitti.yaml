@@ -1,0 +1,65 @@
+slug: monica-vitti
+kind: actor
+name: Monica Vitti
+blurb: Defined an entire register of postwar alienation for Antonioni, then spent the seventies as Italy's biggest comic star.
+
+films:
+  - film: lavventura
+    signature: 5
+    showcase: 3
+    must_see: true
+    role_size: lead
+    register: restrained
+    gateway: 2      # a friend vanishes and the film declines to resolve it; a difficult first Vitti
+    note: A friend disappears on a boat trip and the film simply moves on without finding her. The role that made her.
+
+  - film: leclisse
+    signature: 5
+    showcase: 3
+    must_see: true
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: The trilogy's end, and the film that finally removes people from the frame entirely, her included.
+
+  - film: red-desert
+    signature: 5
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 2
+    note: Antonioni's first colour film, and hers too — an industrial landscape as a nervous breakdown.
+
+  - film: modesty-blaise
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: comic
+    gateway: 4
+    note: A comic-strip spy spoof played entirely straight-faced. As far from Antonioni as she ever went.
+
+  - film: the-pizza-triangle
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: comic
+    gateway: 4
+    note: A love triangle played as broad farce until it ends in an actual murder. Her comic peak.
+
+  - film: la-ragazza-con-la-pistola
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: A Sicilian woman chasing the man who dishonoured her across Britain, entirely for laughs.
+
+curated:
+  curator: house
+  rationale: The Antonioni films that made her internationally famous, then the comic career most of that audience never saw.
+  order:
+    - lavventura
+    - leclisse
+    - red-desert
+    - modesty-blaise
+    - the-pizza-triangle

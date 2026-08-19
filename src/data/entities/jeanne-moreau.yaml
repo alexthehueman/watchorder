@@ -1,0 +1,98 @@
+slug: jeanne-moreau
+kind: actor
+name: Jeanne Moreau
+blurb: Worked with more major directors in one decade than almost anyone alive, and never repeated the same face for any of them.
+
+films:
+  - film: jules-and-jim
+    signature: 5
+    showcase: 5
+    must_see: true
+    role_size: lead
+    register: unhinged
+    gateway: 4
+    note: Loves two men across twenty years and destroys the arrangement on her own terms. The defining New Wave heroine.
+
+  - film: elevator-to-the-gallows
+    signature: 5
+    showcase: 4
+    must_see: true
+    role_size: lead
+    register: restrained
+    gateway: 5
+    note: Walking the streets of Paris at night, waiting on a murder plot that has already gone wrong.
+
+  - film: la-notte
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A marriage ending without either party saying so, opposite Mastroianni. Antonioni at his most withholding.
+
+  - film: the-bride-wore-black
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 3
+    note: Widowed on her wedding day, she works down a list killing the men responsible, one by one.
+
+  - film: diary-of-a-chambermaid
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: menacing
+    gateway: 3
+    note: Buñuel's version of the novel, and she plays the class calculation underneath the servitude exactly.
+
+  - film: the-lovers
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: warm
+    gateway: 3
+    note: A bored wife leaves everything for a stranger in one night. Scandalous in 1958, tender now.
+
+  - film: the-immortal-story
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: restrained
+    gateway: 2
+    note: Welles's short, hallucinatory late work. She is hired to make a rumour into a true story.
+
+  - film: chimes-at-midnight
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: warm
+    gateway: 3
+    note: Doll Tearsheet, opposite Welles's Falstaff — the one unguardedly affectionate relationship in the film.
+
+  - film: the-trial
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: restrained
+    gateway: 2
+    note: A small role in Welles's Kafka adaptation — a neighbour who is never quite what she seems.
+
+  - film: viva-maria
+    signature: 2
+    showcase: 2
+    role_size: lead
+    register: comic
+    gateway: 4
+    note: A revolutionary romp with Bardot. Broad and silly, and she visibly enjoys not being serious.
+
+curated:
+  curator: house
+  rationale: Two of her most iconic performances first, then the directors who each used her differently.
+  order:
+    - jules-and-jim
+    - elevator-to-the-gallows
+    - the-lovers
+    - la-notte
+    - diary-of-a-chambermaid
+    - the-bride-wore-black

@@ -1,0 +1,41 @@
+# New films for Monica Vitti. Scales and anchors are in README.md ("The anchor rubric").
+#
+# L'Avventura, La Notte, L'Eclisse and Red Desert already exist in antonioni.yaml — the four films
+# that made her internationally famous, all tagged before she had an entity of her own. Only the
+# films below are new.
+#
+# Worth stating directly: everyone who knows her only from Antonioni knows a quarter of the career.
+# She spent the seventies as Italy's biggest comic star, and Modesty Blaise is a spy spoof played
+# entirely straight-faced. The humor spread here is close to the widest on the roster.
+
+- id: modesty-blaise
+  tmdb_id: null
+  title: Modesty Blaise
+  year: 1966
+  runtime: 119
+  director: Joseph Losey
+  tags: { opacity: 2, stillness: 2, bleakness: 1, humor: 4, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: la-ragazza-con-la-pistola
+  tmdb_id: null
+  title: The Girl with a Pistol
+  year: 1968
+  runtime: 105
+  director: Mario Monicelli
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 5, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: the-pizza-triangle
+  tmdb_id: null
+  title: The Pizza Triangle
+  year: 1970
+  runtime: 105
+  director: Ettore Scola
+  tags:
+    opacity: 2
+    stillness: 2
+    bleakness: 3 # farce for nearly all of it; the killing lands as irony rather than as dread
+    humor: 4
+    acclaim: 0.75
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
