@@ -1,0 +1,90 @@
+slug: alain-delon
+kind: actor
+name: Alain Delon
+blurb: The most beautiful man in French cinema, and Melville spent a career proving that face could hold total emptiness underneath.
+
+films:
+  - film: le-samourai
+    signature: 5
+    showcase: 5
+    must_see: true
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: A hitman with a code, a trench coat, and almost no dialogue. Melville's most influential film.
+
+  - film: purple-noon
+    signature: 5
+    showcase: 5
+    must_see: true
+    role_size: lead
+    register: menacing
+    gateway: 5
+    note: The first and coldest Tom Ripley. He murders his way into a friend's identity and nearly keeps it.
+
+  - film: le-cercle-rouge
+    signature: 4
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A heist film built around a twenty-five-minute jewel theft with no dialogue at all.
+
+  - film: rocco-and-his-brothers
+    signature: 3
+    showcase: 5
+    role_size: lead
+    register: warm
+    gateway: 2      # nearly three hours, and a family destroys itself across every reel
+    note: A family from the south moves to Milan and comes apart. He plays the brother trying hardest to hold it together.
+
+  - film: the-leopard
+    signature: 3
+    showcase: 4
+    role_size: supporting
+    register: warm
+    gateway: 2
+    note: A prince's nephew watching the old aristocracy die, in the ballroom sequence everyone remembers.
+
+  - film: monsieur-klein
+    signature: 3
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 2
+    note: Mistaken for a Jewish man during the occupation and unable to prove he is not. His best late performance.
+
+  - film: la-piscine
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: menacing
+    gateway: 4
+    note: A summer holiday curdles into jealousy and violence beside a swimming pool. Pure sun-soaked dread.
+
+  - film: un-flic
+    signature: 2
+    showcase: 2
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: Melville's last film, and the coldest — a policeman who is barely distinguishable from the criminals.
+
+  - film: borsalino
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: A buddy gangster film with Belmondo, played with real warmth. The lightest thing here.
+
+curated:
+  curator: house
+  rationale: Melville's cold precision first, then the films that let something show underneath it.
+  order:
+    - le-samourai
+    - purple-noon
+    - le-cercle-rouge
+    - la-piscine
+    - rocco-and-his-brothers
+    - monsieur-klein

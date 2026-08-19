@@ -1,0 +1,101 @@
+# Films for Robert Mitchum. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The sleepy-eyed, unbothered affect he built a career on turns out to be load-bearing for exactly
+# one thing: making Night of the Hunter's preacher genuinely terrifying, because the same
+# unhurried calm that reads as cool everywhere else reads as inhuman when it is pointed at children.
+
+- id: out-of-the-past
+  tmdb_id: null
+  title: Out of the Past
+  year: 1947
+  runtime: 97
+  director: Jacques Tourneur
+  tags:
+    opacity: 2
+    stillness: 2
+    bleakness: 5 # he tries to walk away from his past exactly once and it kills him for trying
+    humor: 1
+    acclaim: 0.90
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: crossfire
+  tmdb_id: null
+  title: Crossfire
+  year: 1947
+  runtime: 86
+  director: Edward Dmytryk
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-story-of-gi-joe
+  tmdb_id: null
+  title: The Story of G.I. Joe
+  year: 1945
+  runtime: 109
+  director: William A. Wellman
+  tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 2, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: angel-face
+  tmdb_id: null
+  title: Angel Face
+  year: 1953
+  runtime: 91
+  director: Otto Preminger
+  tags: { opacity: 2, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: the-night-of-the-hunter
+  tmdb_id: null
+  title: The Night of the Hunter
+  year: 1955
+  runtime: 92
+  director: Charles Laughton
+  tags:
+    opacity: 3 # shot as a fairy tale, and the fairy-tale logic is exactly what makes it unbearable
+    stillness: 3
+    bleakness: 5
+    humor: 1
+    acclaim: 0.95
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
+
+- id: cape-fear-1962
+  tmdb_id: null
+  title: Cape Fear
+  year: 1962
+  runtime: 106
+  director: J. Lee Thompson
+  tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.82 }
+  content: { sexual_violence: true, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 1 }
+
+- id: el-dorado-1966
+  tmdb_id: null
+  title: El Dorado
+  year: 1966
+  runtime: 126
+  director: Howard Hawks
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: ryans-daughter
+  tmdb_id: null
+  title: Ryan's Daughter
+  year: 1970
+  runtime: 206
+  director: David Lean
+  tags: { opacity: 1, stillness: 4, bleakness: 4, humor: 1, acclaim: 0.70 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 2 }
+
+- id: the-friends-of-eddie-coyle
+  tmdb_id: null
+  title: The Friends of Eddie Coyle
+  year: 1973
+  runtime: 102
+  director: Peter Yates
+  tags:
+    opacity: 2
+    stillness: 3
+    bleakness: 5 # a small-time informant, and the film gives him no way out it hasn't already decided on
+    humor: 1
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
