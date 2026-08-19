@@ -116,6 +116,11 @@ function candidateSlugs(film) {
 
   const fromTitle = slugify(film.title);
   add(film.id, film.title);
+  // id + year matters on its own: our ids are already disambiguated for our corpus, so when the
+  // bare id lands on a different film of the same name, Letterboxd has usually disambiguated the
+  // same way we did. Cannon's Invasion U.S.A. sits at invasion-usa-1985 while the bare slug is the
+  // 1952 film, and no title-derived variant ever produces that.
+  add(`${film.id}-${film.year}`, film.title);
   add(fromTitle, film.title);
   add(`${fromTitle}-${film.year}`, film.title);
 
