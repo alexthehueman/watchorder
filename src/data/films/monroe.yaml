@@ -9,7 +9,7 @@
 # persona built by the others finally cracks open.
 
 - id: the-asphalt-jungle
-  tmdb_id: null
+  tmdb_id: 16958
   title: The Asphalt Jungle
   year: 1950
   runtime: 112
@@ -18,9 +18,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
   imdb_id: tt0042208
   poster_url: https://m.media-amazon.com/images/M/MV5BMWE2Y2E0ZTMtYzZmNi00MzZiLTg0ZTctMGY2YWJkMzE3NDEyXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-asphalt-jungle
 
 - id: niagara
-  tmdb_id: null
+  tmdb_id: 19997
   title: Niagara
   year: 1953
   runtime: 88
@@ -34,9 +35,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
   imdb_id: tt0046126
   poster_url: https://m.media-amazon.com/images/M/MV5BYTJiODA4ZmItZDE1MS00ODk4LTkyODYtNTk5ODdhY2Q4MTFhXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: niagara
 
 - id: the-seven-year-itch
-  tmdb_id: null
+  tmdb_id: 10653
   title: The Seven Year Itch
   year: 1955
   runtime: 105
@@ -45,9 +47,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt0048605
   poster_url: https://m.media-amazon.com/images/M/MV5BMzE3OWRkMzUtYmYzNS00ZmRmLTkzMjctZjEwMDFmYmZlYjEzXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-seven-year-itch
 
 - id: bus-stop
-  tmdb_id: null
+  tmdb_id: 24010
   title: Bus Stop
   year: 1956
   runtime: 96
@@ -61,9 +64,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0049038
   poster_url: https://m.media-amazon.com/images/M/MV5BZjc2MDRkMWQtMDE2Yi00MDdhLWFiOTAtODI5MGRhNTA3OWI2XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: bus-stop
 
 - id: the-misfits
-  tmdb_id: null
+  tmdb_id: 11536
   title: The Misfits
   year: 1961
   runtime: 125
@@ -77,3 +81,4 @@
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0055184
   poster_url: https://m.media-amazon.com/images/M/MV5BMDFiZmEwN2QtN2Y1Ny00ODM2LTgyZjYtMTI2YzdmNmJhMDUzXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-misfits

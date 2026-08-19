@@ -12,7 +12,7 @@
 # or Berri's, and it's a real, well-known Depardieu performance rather than an invented data point.
 
 - id: get-out-your-handkerchiefs
-  tmdb_id: null
+  tmdb_id: 4267
   title: Get Out Your Handkerchiefs
   year: 1978
   runtime: 105
@@ -26,9 +26,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
   imdb_id: tt0078122
   poster_url: https://m.media-amazon.com/images/M/MV5BNGI0NjBjMjEtNmM1Zi00NWE0LWIxNjYtYTUyZDcwMWMyNTFlXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: get-out-your-handkerchiefs
 
 - id: the-return-of-martin-guerre
-  tmdb_id: null
+  tmdb_id: 4483
   title: The Return of Martin Guerre
   year: 1982
   runtime: 122
@@ -42,9 +43,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
   imdb_id: tt0084589
   poster_url: https://m.media-amazon.com/images/M/MV5BMWEyYTVhODAtMWE4Yi00NDQyLWE2YjctNzYyNjNmNTFlNjZlXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-return-of-martin-guerre
 
 - id: danton
-  tmdb_id: null
+  tmdb_id: 4202
   title: Danton
   year: 1982
   runtime: 136
@@ -58,9 +60,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0083789
   poster_url: https://m.media-amazon.com/images/M/MV5BZDA3ZDBhZGMtYTkzNS00ODBhLWJkOGYtNWM1ZjI1ZTg3MDdlXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: danton-1982
 
 - id: jean-de-florette
-  tmdb_id: null
+  tmdb_id: 4480
   title: Jean de Florette
   year: 1986
   runtime: 120
@@ -74,9 +77,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0091288
   poster_url: https://m.media-amazon.com/images/M/MV5BZjliZjBkNTEtODcyOS00ZGFlLWFmMTAtMTBmOTJkNmQ4MDgwXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: jean-de-florette
 
 - id: cyrano-de-bergerac
-  tmdb_id: null
+  tmdb_id: 11673
   title: Cyrano de Bergerac
   year: 1990
   runtime: 137
@@ -85,9 +89,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0099334
   poster_url: https://m.media-amazon.com/images/M/MV5BYzgxYjJmZTktMWY1Zi00MjEyLWJlMGEtMmU4Y2UwMjJjZjEzXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: cyrano-de-bergerac-1990
 
 - id: green-card
-  tmdb_id: null
+  tmdb_id: 12157
   title: Green Card
   year: 1990
   runtime: 107
@@ -96,9 +101,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0099699
   poster_url: https://m.media-amazon.com/images/M/MV5BZjNmZGUwZDYtMDI3My00ODI3LWIyOTAtYjhlOTg0MDJmZGRjXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: green-card
 
 - id: under-the-sun-of-satan
-  tmdb_id: null
+  tmdb_id: 31300
   title: Under the Sun of Satan
   year: 1987
   runtime: 98
@@ -112,3 +118,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0094011
   poster_url: https://m.media-amazon.com/images/M/MV5BZjVjY2M0NGYtZTk3Ny00ODE1LTkxMTctOTFjMzZlMjU4YzQ4XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: under-the-sun-of-satan

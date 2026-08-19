@@ -5,7 +5,7 @@
 # domestic comedy from the same man who spent the rest of his career on trials and miracles.
 
 - id: master-of-the-house
-  tmdb_id: null
+  tmdb_id: 55589
   title: Master of the House
   year: 1925
   runtime: 107
@@ -14,9 +14,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0015768
   poster_url: https://m.media-amazon.com/images/M/MV5BZTkyN2EzZGItZDk1OC00YjUxLWFiNzktYTA4ZDY2MzhjZGU3XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: master-of-the-house
 
 - id: the-passion-of-joan-of-arc
-  tmdb_id: null
+  tmdb_id: 780
   title: The Passion of Joan of Arc
   year: 1928
   runtime: 81
@@ -30,9 +31,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0019254
   poster_url: https://m.media-amazon.com/images/M/MV5BNTE1MDliZjgtYTU2Yy00YjAxLTljYTItNDE2ZGYwYTY1MGQ1XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-passion-of-joan-of-arc
 
 - id: vampyr
-  tmdb_id: null
+  tmdb_id: 779
   title: Vampyr
   year: 1932
   runtime: 74
@@ -46,9 +48,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0023649
   poster_url: https://m.media-amazon.com/images/M/MV5BN2EyOTA1YzYtMDIxNy00YzVmLTk4NTMtODkzZjViOGFhYTI2XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: vampyr
 
 - id: day-of-wrath
-  tmdb_id: null
+  tmdb_id: 41391
   title: Day of Wrath
   year: 1943
   runtime: 97
@@ -62,9 +65,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0036506
   poster_url: https://m.media-amazon.com/images/M/MV5BNjY1ZWI1YTQtZDc5MS00YTI1LTgyNjQtOTE4YjMxMDg4NWJkXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: day-of-wrath
 
 - id: ordet
-  tmdb_id: null
+  tmdb_id: 48035
   title: Ordet
   year: 1955
   runtime: 125
@@ -78,9 +82,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0048452
   poster_url: https://m.media-amazon.com/images/M/MV5BZjg1ZmI4YTctOGY2MS00ZTdkLWFkMGEtZTM5ZWRjYjMxODdiXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: ordet
 
 - id: gertrud
-  tmdb_id: null
+  tmdb_id: 34181
   title: Gertrud
   year: 1964
   runtime: 116
@@ -94,3 +99,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0058138
   poster_url: https://m.media-amazon.com/images/M/MV5BZmVkYTI5N2MtOGZjZC00ZmQ5LWEwZmUtOWIyMDA2N2U5NWU1XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: gertrud

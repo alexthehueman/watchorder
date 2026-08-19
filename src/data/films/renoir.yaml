@@ -10,7 +10,7 @@
 # uniform to move anything on its own, and this genuine outlier was already sitting in the corpus.
 
 - id: boudu-saved-from-drowning
-  tmdb_id: null
+  tmdb_id: 48365
   title: Boudu Saved from Drowning
   year: 1932
   runtime: 85
@@ -19,9 +19,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 1 }
   imdb_id: tt0022718
   poster_url: https://m.media-amazon.com/images/M/MV5BMTRkZDBhM2MtZjEwMi00NzhjLWI0YjctMjRiNmY2MzY0NTg3XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: boudu-saved-from-drowning
 
 - id: toni
-  tmdb_id: null
+  tmdb_id: 51949
   title: Toni
   year: 1935
   runtime: 80
@@ -35,9 +36,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
   imdb_id: tt0025898
   poster_url: https://m.media-amazon.com/images/M/MV5BMzQ0YWZlZTctMzliNS00MzQ4LTg3ZjItZTNkMGM4NGZlNzZlXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: toni
 
 - id: the-crime-of-monsieur-lange
-  tmdb_id: null
+  tmdb_id: 52677
   title: The Crime of Monsieur Lange
   year: 1936
   runtime: 80
@@ -51,6 +53,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0027478
   poster_url: https://m.media-amazon.com/images/M/MV5BMzQzMzE2NGMtNGYzMC00ZTlmLTk0YWQtOTU4M2QzNTViNjM3XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-crime-of-monsieur-lange
 
 - id: la-grande-illusion
   tmdb_id: null
@@ -81,7 +84,7 @@
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 1 }
 
 - id: the-river-1951
-  tmdb_id: null
+  tmdb_id: 45218
   title: The River
   year: 1951
   runtime: 99
@@ -95,9 +98,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0043972
   poster_url: https://m.media-amazon.com/images/M/MV5BNzVjZDIyNTctZjhmZS00ZmFkLTlmZTktYzAwYzdhYTdiNmI5XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-river
 
 - id: french-cancan
-  tmdb_id: null
+  tmdb_id: 45213
   title: French Cancan
   year: 1955
   runtime: 104
@@ -106,3 +110,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt0046998
   poster_url: https://m.media-amazon.com/images/M/MV5BMjE4MTk3MDY5MV5BMl5BanBnXkFtZTgwOTA0NzM3NDE@._V1_SX300.jpg
+  letterboxd_slug: french-cancan

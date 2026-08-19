@@ -6,7 +6,7 @@
 # of the postwar left, and a video-game framing device for the Battle of Okinawa.
 
 - id: la-jetee
-  tmdb_id: null
+  tmdb_id: 662
   title: La Jetée
   year: 1962
   runtime: 28
@@ -20,9 +20,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0056119
   poster_url: https://m.media-amazon.com/images/M/MV5BYjg2Yzk3M2ItY2NlOS00MzhjLWE2NGUtN2Y1MmYxZWE3MGE1XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: la-jetee
 
 - id: sans-soleil
-  tmdb_id: null
+  tmdb_id: 1563
   title: Sans Soleil
   year: 1983
   runtime: 103
@@ -36,9 +37,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0084628
   poster_url: https://m.media-amazon.com/images/M/MV5BNjNhOTg4YjQtNDVkYi00MWQxLTg5NzQtNjk4MmJhZWIzMmM0XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: sans-soleil
 
 - id: level-five
-  tmdb_id: null
+  tmdb_id: 57563
   title: Level Five
   year: 1997
   runtime: 106
@@ -52,9 +54,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0116866
   poster_url: https://m.media-amazon.com/images/M/MV5BMTkyNzcxNTAyM15BMl5BanBnXkFtZTgwNTkxNzU0MjE@._V1_SX300.jpg
+  letterboxd_slug: level-five
 
 - id: a-grin-without-a-cat
-  tmdb_id: null
+  tmdb_id: 53197
   title: A Grin Without a Cat
   year: 1977
   runtime: 180
@@ -68,3 +71,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0076042
   poster_url: https://m.media-amazon.com/images/M/MV5BMjI0MDI1MDU0NF5BMl5BanBnXkFtZTgwMDYxNDEyNjE@._V1_SX300.jpg
+  letterboxd_slug: a-grin-without-a-cat

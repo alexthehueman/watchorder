@@ -5,7 +5,7 @@
 # epic that never once feels padded.
 
 - id: taipei-story
-  tmdb_id: null
+  tmdb_id: 106380
   title: Taipei Story
   year: 1985
   runtime: 110
@@ -19,9 +19,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0089866
   poster_url: https://m.media-amazon.com/images/M/MV5BMzE0MTdhOTgtMjVhYi00Yjk0LTkyZDAtN2M3MzAzNzQwYzU0XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: taipei-story
 
 - id: the-terrorizers
-  tmdb_id: null
+  tmdb_id: 78450
   title: The Terrorizers
   year: 1986
   runtime: 110
@@ -35,9 +36,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0091355
   poster_url: https://m.media-amazon.com/images/M/MV5BNTBiNzQxZWYtNWRmMi00MjA1LWE0MjgtZjgzNTAzNmM4NWFhXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-terrorizers
 
 - id: a-brighter-summer-day
-  tmdb_id: null
+  tmdb_id: 15804
   title: A Brighter Summer Day
   year: 1991
   runtime: 237
@@ -51,9 +53,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0101985
   poster_url: https://m.media-amazon.com/images/M/MV5BMGRkNGQwOTktNWQxOS00ZDRjLThmODktNWY4NThjNDU2MjM5XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: a-brighter-summer-day
 
 - id: yi-yi
-  tmdb_id: null
+  tmdb_id: 25538
   title: Yi Yi
   year: 2000
   runtime: 173
@@ -67,3 +70,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0244316
   poster_url: https://m.media-amazon.com/images/M/MV5BNTAyMDQ5Y2MtZDk0NC00N2IyLWE5OTgtZjJkZWNlMDBhMDhlXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: yi-yi
