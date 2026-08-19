@@ -88,7 +88,7 @@
   letterboxd_slug: the-36th-chamber-of-shaolin
 
 - id: five-deadly-venoms
-  tmdb_id: null
+  tmdb_id: 13481
   title: Five Deadly Venoms
   year: 1978
   runtime: 102
@@ -103,9 +103,10 @@
   imdb_id: tt0077559
   poster_url: https://m.media-amazon.com/images/M/MV5BMzVjMzczMTUtZDkyYS00ZmI3LTgzNzgtMmQ0MjcxYmJlMWE2XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_title: The Five Venoms
+  letterboxd_slug: the-five-venoms
 
 - id: the-kid-with-the-golden-arm
-  tmdb_id: null
+  tmdb_id: 13513
   title: The Kid with the Golden Arm
   year: 1979
   runtime: 95
@@ -114,6 +115,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0079372
   poster_url: https://m.media-amazon.com/images/M/MV5BMDkxMmJlYzEtMmEwYS00NzI1LWE5ZjMtOGFhZTEzMDE2MGQ3XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: kid-with-the-golden-arm
 
 - id: dirty-ho
   tmdb_id: 54182
