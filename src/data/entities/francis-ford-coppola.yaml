@@ -61,6 +61,14 @@ films:
     gateway: 0      # the film that bankrupted his studio; a catastrophic first Coppola
     note: A musical shot entirely on soundstages that lost so much money it ended his independence.
 
+prereqs:
+  - film: the-godfather-part-ii
+    requires: the-godfather
+    strength: hard
+  - film: the-godfather-part-iii
+    requires: the-godfather-part-ii
+    strength: hard
+
 curated:
   curator: house
   rationale: The unbroken seventies run first, in the order he made it, then the long argument with itself.

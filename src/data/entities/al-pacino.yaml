@@ -107,6 +107,11 @@ films:
     gateway: 3
     note: A weary cop drawn to the suspect in his own case. Minor, and quietly effective.
 
+prereqs:
+  - film: the-godfather-part-ii
+    requires: the-godfather
+    strength: hard
+
 curated:
   curator: house
   rationale: Both Godfathers, since neither makes full sense without the other, then the range around them.

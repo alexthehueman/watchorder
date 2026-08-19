@@ -56,6 +56,11 @@ films:
     gateway: 1
     note: The weakest thing he has made, and interesting mostly for how completely the second half rescues it.
 
+prereqs:
+  - film: kill-bill-vol-2
+    requires: kill-bill-vol-1
+    strength: hard
+
 curated:
   curator: house
   rationale: Start with the one that changed everything, then watch him get slower and stranger about it.
