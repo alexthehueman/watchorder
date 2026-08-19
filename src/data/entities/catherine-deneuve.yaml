@@ -1,0 +1,97 @@
+slug: catherine-deneuve
+kind: actor
+name: Catherine Deneuve
+blurb: A composure so fixed that directors spent fifty years finding out what it could be pointed at.
+
+films:
+  - film: belle-de-jour
+    signature: 5
+    showcase: 5
+    must_see: true
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: A housewife working afternoons in a brothel, or imagining it. Buñuel never clarifies, and she never blinks.
+
+  - film: the-umbrellas-of-cherbourg
+    signature: 5
+    showcase: 4
+    must_see: true
+    role_size: lead
+    register: warm
+    gateway: 5
+    note: Every line sung, every wall a different colour, and an ending that quietly refuses the genre.
+
+  - film: repulsion
+    signature: 3
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 2      # ninety minutes inside a psychotic break, and barely any dialogue
+    note: Polanski points the same composure at a wall until it cracks. Almost no dialogue at all.
+
+  - film: tristana
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: menacing
+    gateway: 3
+    note: She begins as a ward and ends as the coldest thing in the film. The reversal is the performance.
+
+  - film: the-last-metro
+    signature: 4
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 5
+    note: Running a theatre in occupied Paris with her husband hidden downstairs. Truffaut's biggest hit.
+
+  - film: dancer-in-the-dark
+    signature: 2
+    showcase: 4
+    role_size: supporting
+    register: warm
+    gateway: 2
+    note: The friend in von Trier's musical, and the only warm thing in a film with no interest in comfort.
+
+  - film: donkey-skin
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 4
+    note: Demy again, as a fairy-tale princess in a donkey hide. Genuinely strange and entirely sincere.
+
+  - film: indochine
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: A plantation owner losing a country and a daughter. The prestige picture that got her the Oscar nomination.
+
+  - film: 8-women
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: comic
+    gateway: 4
+    note: A musical murder mystery with eight French stars, all enjoying themselves enormously.
+
+  - film: the-hunger
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: menacing
+    gateway: 2
+    note: An immortal vampire in eighties Manhattan. Style over sense, and the style is considerable.
+
+curated:
+  curator: house
+  rationale: The composure first where it is loved, then where it is used against her.
+  order:
+    - the-umbrellas-of-cherbourg
+    - belle-de-jour
+    - the-last-metro
+    - tristana
+    - repulsion

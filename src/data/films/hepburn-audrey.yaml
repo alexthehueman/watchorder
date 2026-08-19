@@ -1,0 +1,100 @@
+# New films for Audrey Hepburn. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Filename disambiguates from hepburn-katharine.yaml, which was already here. Two unrelated Hepburns
+# is exactly the collision the ray-satyajit.yaml naming was guarding against.
+#
+# Sabrina already exists in wilder.yaml and Charade in grant.yaml. Wait and Two for the Road are the
+# reason this entity is not a one-note comfort listing — the persona is warmth, and twice she is
+# cast directly against it.
+
+- id: roman-holiday
+  tmdb_id: null
+  title: Roman Holiday
+  year: 1953
+  runtime: 118
+  director: William Wyler
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 3 # a romantic comedy that ends with both of them going back to their jobs
+    humor: 4
+    acclaim: 0.88
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: funny-face
+  tmdb_id: null
+  title: Funny Face
+  year: 1957
+  runtime: 103
+  director: Stanley Donen
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 4, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-nuns-story
+  tmdb_id: null
+  title: The Nun's Story
+  year: 1959
+  runtime: 149
+  director: Fred Zinnemann
+  tags:
+    opacity: 1
+    stillness: 4 # long stretches of silence, routine and obedience, filmed without impatience
+    bleakness: 4
+    humor: 1
+    acclaim: 0.82
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: breakfast-at-tiffanys
+  tmdb_id: null
+  title: "Breakfast at Tiffany's"
+  year: 1961
+  runtime: 115
+  director: Blake Edwards
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.82 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: the-childrens-hour
+  tmdb_id: null
+  title: "The Children's Hour"
+  year: 1961
+  runtime: 108
+  director: William Wyler
+  tags:
+    opacity: 1
+    stillness: 3
+    bleakness: 5 # a lie destroys two women's lives and the film gives nobody a reprieve
+    humor: 1
+    acclaim: 0.75
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
+
+- id: two-for-the-road
+  tmdb_id: null
+  title: Two for the Road
+  year: 1967
+  runtime: 111
+  director: Stanley Donen
+  tags:
+    opacity: 3 # twelve years of a marriage cut together with no signposting of which trip is which
+    stillness: 2
+    bleakness: 4
+    humor: 3
+    acclaim: 0.80
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: wait-until-dark
+  tmdb_id: null
+  title: Wait Until Dark
+  year: 1967
+  runtime: 108
+  director: Terence Young
+  tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.80 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: my-fair-lady
+  tmdb_id: null
+  title: My Fair Lady
+  year: 1964
+  runtime: 170
+  director: George Cukor
+  tags: { opacity: 1, stillness: 3, bleakness: 2, humor: 3, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
