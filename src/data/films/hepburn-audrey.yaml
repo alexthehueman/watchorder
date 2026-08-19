@@ -8,7 +8,7 @@
 # cast directly against it.
 
 - id: roman-holiday
-  tmdb_id: null
+  tmdb_id: 804
   title: Roman Holiday
   year: 1953
   runtime: 118
@@ -22,9 +22,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0046250
   poster_url: https://m.media-amazon.com/images/M/MV5BMGE5MTA2NDUtYTQ3Yi00YzM4LWJlODItNDE1ZTRjYjY0M2E5XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: roman-holiday
 
 - id: funny-face
-  tmdb_id: null
+  tmdb_id: 13320
   title: Funny Face
   year: 1957
   runtime: 103
@@ -33,9 +34,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0050419
   poster_url: https://m.media-amazon.com/images/M/MV5BZTkyZWEwMzktYTUwYi00YjkyLWJmMjktZjI1ODdkMjg5YTRiXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: funny-face
 
 - id: the-nuns-story
-  tmdb_id: null
+  tmdb_id: 27029
   title: The Nun's Story
   year: 1959
   runtime: 149
@@ -49,9 +51,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0053131
   poster_url: https://m.media-amazon.com/images/M/MV5BMGFkY2MxZjEtM2VhNS00OTg4LWFlYmMtODljOWNhMGRjODYwXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-nuns-story
 
 - id: breakfast-at-tiffanys
-  tmdb_id: null
+  tmdb_id: 164
   title: "Breakfast at Tiffany's"
   year: 1961
   runtime: 115
@@ -60,9 +63,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt0054698
   poster_url: https://m.media-amazon.com/images/M/MV5BZmU1MzlmOTMtZTNmMC00ZTA3LTkzMWMtOTc1MWNlMjFiYjFlXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: breakfast-at-tiffanys
 
 - id: the-childrens-hour
-  tmdb_id: null
+  tmdb_id: 20139
   title: "The Children's Hour"
   year: 1961
   runtime: 108
@@ -76,9 +80,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
   imdb_id: tt0054743
   poster_url: https://m.media-amazon.com/images/M/MV5BYzA1MmJiMDItZWJhNC00YjQ0LTk1NWYtZWU2YWRhZmUwMWFiXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-childrens-hour
 
 - id: two-for-the-road
-  tmdb_id: null
+  tmdb_id: 5767
   title: Two for the Road
   year: 1967
   runtime: 111
@@ -92,9 +97,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt0062407
   poster_url: https://m.media-amazon.com/images/M/MV5BNTI0OWU4YjAtZGRiOS00MzkyLTlkYzAtZTQ0OWZhYTM3YzE0XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: two-for-the-road
 
 - id: wait-until-dark
-  tmdb_id: null
+  tmdb_id: 11206
   title: Wait Until Dark
   year: 1967
   runtime: 108
@@ -103,9 +109,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt0062467
   poster_url: https://m.media-amazon.com/images/M/MV5BMjJiMDRjNWUtZTVhYS00YTU5LWI2OTktZWI4YzY2YjY1MTc5XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: wait-until-dark
 
 - id: my-fair-lady
-  tmdb_id: null
+  tmdb_id: 11113
   title: My Fair Lady
   year: 1964
   runtime: 170
@@ -114,3 +121,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0058385
   poster_url: https://m.media-amazon.com/images/M/MV5BNmMxZmFjZmQtMDRiOC00MDQxLTlhNDktZTkxMmRiYWM1ZDUzXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: my-fair-lady

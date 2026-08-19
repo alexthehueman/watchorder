@@ -9,7 +9,7 @@
 # includes it for exactly that tension rather than leaving it out to make a cleaner arthouse case.
 
 - id: great-expectations-1946
-  tmdb_id: null
+  tmdb_id: 14320
   title: Great Expectations
   year: 1946
   runtime: 118
@@ -18,9 +18,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0038574
   poster_url: https://m.media-amazon.com/images/M/MV5BOTFjNzIyYTYtMjVjOS00NzQ2LWIyMTUtMzlhNGIwZDU1MTdiXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: great-expectations
 
 - id: oliver-twist-1948
-  tmdb_id: null
+  tmdb_id: 10949
   title: Oliver Twist
   year: 1948
   runtime: 116
@@ -29,9 +30,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0040662
   poster_url: https://m.media-amazon.com/images/M/MV5BMjU3NTI1Y2MtZmM5YS00NmQ0LWIyMTQtYTJmMjNkZWIyYjIyXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: oliver-twist-1948
 
 - id: kind-hearts-and-coronets
-  tmdb_id: null
+  tmdb_id: 11898
   title: Kind Hearts and Coronets
   year: 1949
   runtime: 106
@@ -45,9 +47,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0041546
   poster_url: https://m.media-amazon.com/images/M/MV5BYjhjOTZmY2QtNDcyYS00Y2ViLTg3NTMtYTUyNjhlMGIwNmZlXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: kind-hearts-and-coronets
 
 - id: the-lavender-hill-mob
-  tmdb_id: null
+  tmdb_id: 32961
   title: The Lavender Hill Mob
   year: 1951
   runtime: 78
@@ -56,9 +59,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0044829
   poster_url: https://m.media-amazon.com/images/M/MV5BYjhmZDlhODgtOWE2OS00NDQyLThmYmItMTZjMGYwODYxNDcxXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-lavender-hill-mob
 
 - id: the-man-in-the-white-suit
-  tmdb_id: null
+  tmdb_id: 32568
   title: The Man in the White Suit
   year: 1951
   runtime: 85
@@ -67,9 +71,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0044876
   poster_url: https://m.media-amazon.com/images/M/MV5BMTUxNTIzNzY4OV5BMl5BanBnXkFtZTgwODExMTI0NDE@._V1_SX300.jpg
+  letterboxd_slug: the-man-in-the-white-suit
 
 - id: the-ladykillers
-  tmdb_id: null
+  tmdb_id: 5506
   title: The Ladykillers
   year: 1955
   runtime: 91
@@ -83,9 +88,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0048281
   poster_url: https://m.media-amazon.com/images/M/MV5BMjlhZWM3MjktYTIwZS00YTVmLTljZDYtZWYwYjFiOTc5NDMzXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-ladykillers
 
 - id: the-bridge-on-the-river-kwai
-  tmdb_id: null
+  tmdb_id: 826
   title: The Bridge on the River Kwai
   year: 1957
   runtime: 161
@@ -99,9 +105,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt0050212
   poster_url: https://m.media-amazon.com/images/M/MV5BNzdkYmU2YmItNmZiYy00OWQyLTg0YWYtZmUxM2U3YTRiNTQ1XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-bridge-on-the-river-kwai
 
 - id: tunes-of-glory
-  tmdb_id: null
+  tmdb_id: 43048
   title: Tunes of Glory
   year: 1960
   runtime: 106
@@ -110,15 +117,18 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 0 }
   imdb_id: tt0054412
   poster_url: https://m.media-amazon.com/images/M/MV5BM2FhMmI4ZTEtYmNhNC00YzIzLTg0ODMtNWJkM2FlMTY0ZGY1XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: tunes-of-glory
 
 - id: star-wars
-  tmdb_id: null
+  tmdb_id: 11
   title: Star Wars
   year: 1977
   runtime: 121
   director: George Lucas
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.92 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 0 }
+  letterboxd_slug: star-wars
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/xo/ln/nr/0o/star-wars-70-1200-1200-675-675-crop-000000.jpg?v=766b26c149
 
 - id: tinker-tailor-soldier-spy-1979
   tmdb_id: null
@@ -137,3 +147,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0080297
   poster_url: https://m.media-amazon.com/images/M/MV5BYTVjMTBmMGEtYjYwMy00YzhkLThmMGMtNDgyMWNmOWRiMzExXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: tinker-tailor-soldier-spy-1979

@@ -7,7 +7,7 @@
 # else here is broad, and his final performance is a masterclass in giving almost nothing at all.
 
 - id: the-pink-panther
-  tmdb_id: null
+  tmdb_id: 936
   title: The Pink Panther
   year: 1963
   runtime: 113
@@ -21,9 +21,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt0057413
   poster_url: https://m.media-amazon.com/images/M/MV5BNzg5NTYzNDI4OF5BMl5BanBnXkFtZTcwOTQxMTMyNA@@._V1_SX300.jpg
+  letterboxd_slug: the-pink-panther-1963
 
 - id: the-mouse-that-roared
-  tmdb_id: null
+  tmdb_id: 12649
   title: The Mouse That Roared
   year: 1959
   runtime: 83
@@ -37,9 +38,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0053084
   poster_url: https://m.media-amazon.com/images/M/MV5BYzYxMDFmZjAtOGRjOC00YWJjLWI0N2EtODkwZTdkZTc4YjA4XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-mouse-that-roared
 
 - id: a-shot-in-the-dark
-  tmdb_id: null
+  tmdb_id: 1594
   title: A Shot in the Dark
   year: 1964
   runtime: 102
@@ -48,9 +50,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt0058586
   poster_url: https://m.media-amazon.com/images/M/MV5BNDE5Njk1NDQ5MF5BMl5BanBnXkFtZTcwNjAyMTMyNA@@._V1_SX300.jpg
+  letterboxd_slug: a-shot-in-the-dark
 
 - id: casino-royale-1967
-  tmdb_id: null
+  tmdb_id: 12208
   title: Casino Royale
   year: 1967
   runtime: 131
@@ -64,9 +67,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
   imdb_id: tt0061452
   poster_url: https://m.media-amazon.com/images/M/MV5BYjc2OGEwM2ItZjcxOC00ZGVhLTk5MmItMmZhNDQyNmViNTY2XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: casino-royale-1967
 
 - id: being-there
-  tmdb_id: null
+  tmdb_id: 10322
   title: Being There
   year: 1979
   runtime: 130
@@ -80,9 +84,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0078841
   poster_url: https://m.media-amazon.com/images/M/MV5BNzYxZjNhNmQtYzc5NS00Nzg1LWIwYzktZjgzNDIyN2JhZGM0XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: being-there
 
 - id: im-all-right-jack
-  tmdb_id: null
+  tmdb_id: 34783
   title: "I'm All Right Jack"
   year: 1959
   runtime: 105
@@ -96,13 +101,14 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0052911
   poster_url: https://m.media-amazon.com/images/M/MV5BNWQ0OWUxNWItYTUxMy00OWE5LTliNTItMWQ2OTFlYmI1MmNiXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: im-all-right-jack
 
 # Added because opacity and stillness were both clustered at 1-2 across seven of eight films —
 # only Casino Royale broke the pattern. The Magic Christian is genuinely the outlier the rest of
 # the filmography lacks: a plotless, deliberately alienating satire about what money makes people
 # do, built from sketches rather than a story.
 - id: the-magic-christian
-  tmdb_id: null
+  tmdb_id: 24152
   title: The Magic Christian
   year: 1969
   runtime: 95
@@ -116,3 +122,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
   imdb_id: tt0064622
   poster_url: https://m.media-amazon.com/images/M/MV5BNmU5NmIyZGEtZjE4NC00YzI2LTljMGEtMzczODg3ODQ3NmIxXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-magic-christian

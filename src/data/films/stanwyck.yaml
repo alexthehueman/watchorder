@@ -8,7 +8,7 @@
 # of Fire) to warm (Stella Dallas) across the same decade, often the same year.
 
 - id: baby-face
-  tmdb_id: null
+  tmdb_id: 27449
   title: Baby Face
   year: 1933
   runtime: 71
@@ -22,9 +22,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 2 }
   imdb_id: tt0023775
   poster_url: https://m.media-amazon.com/images/M/MV5BMTc1MDQ4MDkzNl5BMl5BanBnXkFtZTgwODY0NTgyMjE@._V1_SX300.jpg
+  letterboxd_slug: baby-face
 
 - id: stella-dallas
-  tmdb_id: null
+  tmdb_id: 43865
   title: Stella Dallas
   year: 1937
   runtime: 106
@@ -38,9 +39,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0029608
   poster_url: https://m.media-amazon.com/images/M/MV5BMmMyODU3ZDktZDQ5YS00OWU5LWExMmItZDZmNDc0NTIzNzdkXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: stella-dallas
 
 - id: the-lady-eve
-  tmdb_id: null
+  tmdb_id: 3086
   title: The Lady Eve
   year: 1941
   runtime: 94
@@ -49,9 +51,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt0033804
   poster_url: https://m.media-amazon.com/images/M/MV5BMGVmYmZkNjgtNDA5Ny00YzFlLTk5MDctYjUyM2RjZWYxNTMwXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-lady-eve
 
 - id: meet-john-doe
-  tmdb_id: null
+  tmdb_id: 32574
   title: Meet John Doe
   year: 1941
   runtime: 122
@@ -60,9 +63,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
   imdb_id: tt0033891
   poster_url: https://m.media-amazon.com/images/M/MV5BNDYxM2Q0MmMtZTY4MS00YmMzLTljMzItYWQ5OWRiY2ZmN2IzXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: meet-john-doe
 
 - id: the-strange-love-of-martha-ivers
-  tmdb_id: null
+  tmdb_id: 27033
   title: The Strange Love of Martha Ivers
   year: 1946
   runtime: 116
@@ -76,9 +80,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt0038988
   poster_url: https://m.media-amazon.com/images/M/MV5BNjIyMjViMGMtMjk1Ny00M2FjLWE5ZjEtNGI1YTE0NWM0ZGFhXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-strange-love-of-martha-ivers
 
 - id: sorry-wrong-number
-  tmdb_id: null
+  tmdb_id: 21635
   title: Sorry, Wrong Number
   year: 1948
   runtime: 89
@@ -92,9 +97,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0040823
   poster_url: https://m.media-amazon.com/images/M/MV5BNzlkYmMxMGEtYzNkZC00MjcwLTllY2ItMDQ5OWFhYWJiNTk1XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: sorry-wrong-number
 
 - id: clash-by-night
-  tmdb_id: null
+  tmdb_id: 24003
   title: Clash by Night
   year: 1952
   runtime: 105
@@ -103,9 +109,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
   imdb_id: tt0044502
   poster_url: https://m.media-amazon.com/images/M/MV5BYmEwYzM2ZTktOGJmNS00YTVhLWI5NTAtMTQ5NTAwOGY0ODNhXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: clash-by-night
 
 - id: the-furies
-  tmdb_id: null
+  tmdb_id: 28304
   title: The Furies
   year: 1950
   runtime: 109
@@ -114,3 +121,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0042490
   poster_url: https://m.media-amazon.com/images/M/MV5BMjMzM2RmZWYtMzBhMy00ZDU4LTlkN2ItZTFkNjEyNDcxODkwXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-furies
