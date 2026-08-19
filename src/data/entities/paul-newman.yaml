@@ -1,0 +1,107 @@
+slug: paul-newman
+kind: actor
+name: Paul Newman
+blurb: Sold as the handsomest man in America, and spent the career choosing parts about men who lose.
+
+films:
+  - film: cool-hand-luke
+    signature: 5
+    showcase: 5
+    must_see: true
+    role_size: lead
+    register: unhinged
+    gateway: 5
+    note: A man who will not stop getting up. Fifty eggs, and an ending that was never in doubt.
+
+  - film: the-hustler
+    signature: 5
+    showcase: 5
+    must_see: true
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: He beats Minnesota Fats and it costs him everything worth having. The template for every sports film that is not about winning.
+
+  - film: hud
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: menacing
+    gateway: 3
+    note: A genuinely repellent man played with total charm, and audiences liked him anyway. That reaction is the film's argument.
+
+  - film: butch-cassidy-and-the-sundance-kid
+    signature: 5
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: Him and Redford, entirely at ease. The most purely enjoyable thing either did.
+
+  - film: the-verdict
+    signature: 3
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: An alcoholic lawyer with one case left. Lumet keeps the camera still and lets him be shabby.
+
+  - film: the-sting
+    signature: 4
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: The reunion picture, and the con is constructed well enough that it still works knowing the end.
+
+  - film: cat-on-a-hot-tin-roof
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: Williams with the censors applied, so what is wrong with Brick is talked around for two hours.
+
+  - film: road-to-perdition
+    signature: 2
+    showcase: 4
+    role_size: supporting
+    register: menacing
+    gateway: 3
+    note: His last major role, as a crime boss choosing between two sons. Very little screen time, entirely his.
+
+  - film: nobodys-fool
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: Late, small, and a man in his sixties gently failing to become better. Among his best.
+
+  - film: the-color-of-money
+    signature: 4
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: Fast Eddie twenty-five years on, teaching Cruise. Won him the Oscar the earlier one deserved.
+
+  - film: somebody-up-there-likes-me
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: unhinged
+    gateway: 3
+    note: The early boxing picture he got because Dean died. Where the whole thing starts.
+
+curated:
+  curator: house
+  rationale: The losses first, in the order he chose them, and the two crowd-pleasers as relief.
+  order:
+    - the-hustler
+    - cool-hand-luke
+    - hud
+    - butch-cassidy-and-the-sundance-kid
+    - the-sting
+    - the-verdict
+    - nobodys-fool

@@ -1,0 +1,111 @@
+# Films for Paul Newman. Scales and anchors are in README.md ("The anchor rubric").
+#
+# A useful corrective to how the roster tags American stardom. Almost every film here is a man
+# who loses — the pool hustler, the chain-gang prisoner, the rancher's son, the alcoholic lawyer —
+# and the bleakness values run 3 to 5 across a filmography sold on charm. The gap between what he
+# was marketed as and what he actually chose is the entity.
+
+- id: somebody-up-there-likes-me
+  tmdb_id: null
+  title: Somebody Up There Likes Me
+  year: 1956
+  runtime: 113
+  director: Robert Wise
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-hustler
+  tmdb_id: null
+  title: The Hustler
+  year: 1961
+  runtime: 134
+  director: Robert Rossen
+  tags:
+    opacity: 1
+    stillness: 3
+    bleakness: 5 # he wins the game and loses everything that made winning worth anything
+    humor: 1
+    acclaim: 0.90
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 1 }
+
+- id: hud
+  tmdb_id: null
+  title: Hud
+  year: 1963
+  runtime: 112
+  director: Martin Ritt
+  tags:
+    opacity: 1
+    stillness: 3
+    bleakness: 5 # audiences found him charming, which the film treats as the problem
+    humor: 2
+    acclaim: 0.85
+  content: { sexual_violence: true, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: cool-hand-luke
+  tmdb_id: null
+  title: Cool Hand Luke
+  year: 1967
+  runtime: 127
+  director: Stuart Rosenberg
+  tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 3, acclaim: 0.88 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: butch-cassidy-and-the-sundance-kid
+  tmdb_id: null
+  title: Butch Cassidy and the Sundance Kid
+  year: 1969
+  runtime: 110
+  director: George Roy Hill
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 4, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-sting
+  tmdb_id: null
+  title: The Sting
+  year: 1973
+  runtime: 129
+  director: George Roy Hill
+  tags: { opacity: 2, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-verdict
+  tmdb_id: null
+  title: The Verdict
+  year: 1982
+  runtime: 129
+  director: Sidney Lumet
+  tags:
+    opacity: 1
+    stillness: 4 # long, quiet, and mostly a man sitting in bars deciding whether to bother
+    bleakness: 4
+    humor: 1
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: the-color-of-money
+  tmdb_id: null
+  title: The Color of Money
+  year: 1986
+  runtime: 119
+  director: Martin Scorsese
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: nobodys-fool
+  tmdb_id: null
+  title: "Nobody's Fool"
+  year: 1994
+  runtime: 110
+  director: Robert Benton
+  tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 3, acclaim: 0.80 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: road-to-perdition
+  tmdb_id: null
+  title: Road to Perdition
+  year: 2002
+  runtime: 117
+  director: Sam Mendes
+  tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.80 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
