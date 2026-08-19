@@ -1,0 +1,84 @@
+# Films for Sidney Poitier. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Guess Who's Coming to Dinner already exists in hepburn-katharine.yaml. He was the first Black
+# actor to win the Best Actor Oscar and, for most of a decade, the only Black leading man Hollywood
+# would finance — which is why so many of these films are explicitly about race rather than
+# incidentally featuring him. That context is the entity; the roster would misrepresent him without it.
+
+- id: no-way-out-1950
+  tmdb_id: null
+  title: No Way Out
+  year: 1950
+  runtime: 106
+  director: Joseph L. Mankiewicz
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: the-defiant-ones
+  tmdb_id: null
+  title: The Defiant Ones
+  year: 1958
+  runtime: 97
+  director: Stanley Kramer
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.82 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: a-raisin-in-the-sun
+  tmdb_id: null
+  title: A Raisin in the Sun
+  year: 1961
+  runtime: 128
+  director: Daniel Petrie
+  tags:
+    opacity: 1
+    stillness: 4 # a stage play kept almost entirely in one Chicago apartment
+    bleakness: 4
+    humor: 2
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: lilies-of-the-field
+  tmdb_id: null
+  title: Lilies of the Field
+  year: 1963
+  runtime: 94
+  director: Ralph Nelson
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 3, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: a-patch-of-blue
+  tmdb_id: null
+  title: A Patch of Blue
+  year: 1965
+  runtime: 105
+  director: Guy Green
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.75 }
+  content: { sexual_violence: true, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
+
+- id: in-the-heat-of-the-night
+  tmdb_id: null
+  title: In the Heat of the Night
+  year: 1967
+  runtime: 110
+  director: Norman Jewison
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 2, acclaim: 0.90 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: to-sir-with-love
+  tmdb_id: null
+  title: To Sir, with Love
+  year: 1967
+  runtime: 105
+  director: James Clavell
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: buck-and-the-preacher
+  tmdb_id: null
+  title: Buck and the Preacher
+  year: 1972
+  runtime: 102
+  director: Sidney Poitier
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+

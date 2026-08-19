@@ -1,0 +1,90 @@
+slug: sidney-poitier
+kind: actor
+name: Sidney Poitier
+blurb: For most of a decade, the only Black leading man Hollywood would finance — which is why so much of this filmography is explicitly about that fact.
+
+films:
+  - film: in-the-heat-of-the-night
+    signature: 5
+    showcase: 5
+    must_see: true
+    role_size: lead
+    register: menacing
+    gateway: 4
+    note: "\"They call me Mister Tibbs.\" A Black detective forced to solve a murder in a hostile Mississippi town."
+
+  - film: guess-whos-coming-to-dinner
+    signature: 5
+    showcase: 3
+    must_see: true
+    role_size: lead
+    register: restrained
+    gateway: 5
+    note: Meeting his white fiancee's parents, in the film built entirely around that one dinner.
+
+  - film: lilies-of-the-field
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: warm
+    gateway: 5
+    note: An itinerant handyman helps German nuns build a chapel. Won him the Oscar, first for a Black actor in a lead role.
+
+  - film: the-defiant-ones
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: menacing
+    gateway: 3
+    note: Chained to a racist convict, both need the other to survive. His breakthrough role.
+
+  - film: a-raisin-in-the-sun
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: unhinged
+    gateway: 3
+    note: A Chicago family fighting over an insurance check and what it should buy them. He originated it on stage first.
+
+  - film: to-sir-with-love
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: warm
+    gateway: 5
+    note: A teacher wins over a class of difficult East End students. Straightforward, and enormously popular.
+
+  - film: no-way-out-1950
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: His debut, as a doctor targeted by a racist patient's brother. Startlingly blunt for 1950.
+
+  - film: a-patch-of-blue
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: Befriends a blind white girl who does not know he is Black. Quietly radical for the year it was made.
+
+  - film: buck-and-the-preacher
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 4
+    note: His directing debut, a Western about formerly enslaved settlers heading west. Overdue corrective to the genre.
+
+curated:
+  curator: house
+  rationale: The two films everyone knows, then the decade of work that explains why they mattered.
+  order:
+    - in-the-heat-of-the-night
+    - guess-whos-coming-to-dinner
+    - lilies-of-the-field
+    - the-defiant-ones
+    - a-raisin-in-the-sun
+    - to-sir-with-love
