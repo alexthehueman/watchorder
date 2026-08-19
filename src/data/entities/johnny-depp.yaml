@@ -1,0 +1,92 @@
+slug: johnny-depp
+kind: actor
+name: Johnny Depp
+blurb: Built a career on gentle outsiders and total oddballs, until one wildly popular pirate made it hard to remember he used to be an arthouse regular.
+
+films:
+  - film: edward-scissorhands
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: warm
+    gateway: 5
+    note: A gentle, unfinished invention with blades for hands, dropped into suburbia. The film that made the Burton-Depp partnership.
+
+  - film: ed-wood
+    signature: 4
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: comic
+    gateway: 4
+    note: The worst director who ever lived, played with total, undimmed sincerity. Arguably his best performance.
+
+  - film: pirates-of-the-caribbean-the-curse-of-the-black-pearl
+    signature: 5
+    showcase: 4
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: Captain Jack Sparrow, played like a drunk rock star wandered onto a Disney ride. His most famous role by far.
+
+  - film: sweeney-todd
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: unhinged
+    gateway: 3
+    note: A murderous barber, sung rather than shouted. A musical that never once lets the songs soften the violence.
+
+  - film: fear-and-loathing-in-las-vegas
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 2
+    note: Hunter S. Thompson's alter ego, narrating a drug binge through Las Vegas that barely qualifies as a plot.
+
+  - film: dead-man
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: An accountant shot and left for dead, drifting through a black-and-white Old West that gets stranger the closer he gets to the end.
+
+  - film: the-ninth-gate
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A rare-book detective chasing a possibly-satanic text, played with total professional detachment even as the occult closes in.
+
+  - film: donnie-brasco
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: menacing
+    gateway: 3
+    note: An undercover FBI agent who starts disappearing into the mobster he's pretending to be.
+
+  - film: whats-eating-gilbert-grape
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A grocery clerk holding together a family — an obese mother, a disabled brother — nobody outside it could carry.
+
+curated:
+  curator: house
+  rationale: The role that made him first, then the range in both directions before the two hardest, strangest films.
+  order:
+    - edward-scissorhands
+    - pirates-of-the-caribbean-the-curse-of-the-black-pearl
+    - whats-eating-gilbert-grape
+    - ed-wood
+    - donnie-brasco
+    - sweeney-todd
+    - fear-and-loathing-in-las-vegas
+    - dead-man
