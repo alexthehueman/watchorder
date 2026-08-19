@@ -1,0 +1,60 @@
+# New films for Klaus Kinski. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Aguirre, Nosferatu the Vampyre, Woyzeck and Fitzcarraldo already exist in herzog.yaml — four of
+# their five collaborations, tagged before he had an entity. Cobra Verde, their fifth and final film
+# together, is new here.
+#
+# Doctor Zhivago and For a Few Dollars More exist specifically to show he had a whole career of
+# mainstream work most people never connect to him — a brief, chilling cameo in a David Lean epic
+# and a Sergio Leone villain, both years before Aguirre made him Herzog's muse.
+
+- id: cobra-verde
+  tmdb_id: null
+  title: Cobra Verde
+  year: 1987
+  runtime: 111
+  director: Werner Herzog
+  tags:
+    opacity: 2
+    stillness: 2
+    bleakness: 4
+    humor: 1
+    acclaim: 0.62
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+
+- id: for-a-few-dollars-more
+  tmdb_id: null
+  title: For a Few Dollars More
+  year: 1965
+  runtime: 132
+  director: Sergio Leone
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: doctor-zhivago
+  tmdb_id: null
+  title: Doctor Zhivago
+  year: 1965
+  runtime: 197
+  director: David Lean
+  tags:
+    opacity: 1
+    stillness: 3
+    bleakness: 4
+    humor: 1
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: crawlspace
+  tmdb_id: null
+  title: Crawlspace
+  year: 1986
+  runtime: 80
+  director: David Schmoeller
+  tags:
+    opacity: 2
+    stillness: 2
+    bleakness: 5 # a landlord who traps and tortures his tenants through the walls of his own building
+    humor: 1
+    acclaim: 0.35
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }

@@ -1,0 +1,83 @@
+slug: klaus-kinski
+kind: actor
+name: Klaus Kinski
+blurb: Herzog's muse and antagonist across five films, and the reason a raving lunatic on a raft still reads as the most controlled performance either of them ever gave.
+
+films:
+  - film: aguirre-the-wrath-of-god
+    signature: 5
+    showcase: 5
+    must_see: true
+    role_size: lead
+    register: unhinged
+    gateway: 4
+    note: A conquistador's slow collapse into a god of his own delusion, on a raft, in the Amazon, going nowhere.
+
+  - film: fitzcarraldo
+    signature: 5
+    showcase: 5
+    must_see: true
+    role_size: lead
+    register: unhinged
+    gateway: 4
+    note: An opera-obsessed dreamer who drags a steamship over a mountain. The obsession is the character, and it was also the shoot.
+
+  - film: nosferatu-the-vampyre
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A vampire played as exhausted by his own immortality rather than menacing — the gentlest thing he ever did for Herzog.
+
+  - film: woyzeck
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A soldier ground down by everyone around him into committing murder, played with none of his usual volume.
+
+  - film: cobra-verde
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: unhinged
+    gateway: 2
+    note: Their fifth and final collaboration, and by all accounts the one that finally ended the friendship. Kinski at his most literally screaming.
+
+  - film: doctor-zhivago
+    signature: 1
+    showcase: 3
+    role_size: supporting
+    register: menacing
+    gateway: 5
+    note: A brief, chilling cameo as an anarchist prisoner on the train east — a mainstream David Lean epic, years before Herzog made him notorious.
+
+  - film: for-a-few-dollars-more
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: menacing
+    gateway: 5
+    note: A hunchbacked secondary villain in Sergio Leone's western, killed for an old insult. Pure genre pleasure.
+
+  - film: crawlspace
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: unhinged
+    gateway: 1
+    note: A Nazi doctor's son who traps and tortures tenants through the walls of his own building. Genuine schlock, and genuinely unsettling because it's him.
+
+curated:
+  curator: house
+  rationale: The Leone and Lean roles first, to show the range existed before Herzog narrowed it, then the five films that made him a legend for the opposite reason.
+  order:
+    - for-a-few-dollars-more
+    - doctor-zhivago
+    - nosferatu-the-vampyre
+    - aguirre-the-wrath-of-god
+    - fitzcarraldo
+    - woyzeck
+    - cobra-verde

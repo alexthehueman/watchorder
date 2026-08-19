@@ -1,0 +1,82 @@
+slug: marilyn-monroe
+kind: actor
+name: Marilyn Monroe
+blurb: Built a whole persona out of being underestimated, and spent her last decade of films quietly proving there was a real actor operating the machine.
+
+films:
+  - film: gentlemen-prefer-blondes
+    signature: 5
+    showcase: 4
+    must_see: true
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: Lorelei Lee, a gold-digger played with too much comic precision to actually be dumb. "Diamonds Are a Girl's Best Friend" is the whole thesis statement.
+
+  - film: some-like-it-hot
+    signature: 5
+    showcase: 5
+    must_see: true
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: Widely considered her best performance — Sugar Kane, played with a vulnerability the script doesn't strictly require but she supplies anyway.
+
+  - film: the-seven-year-itch
+    signature: 5
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: The single most reproduced image of her, on a subway grate. The film around it is slighter than the photograph.
+
+  - film: niagara
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: menacing
+    gateway: 4
+    note: The film that first sold her as dangerous — plotting her husband's murder in a noir shot like a horror film.
+
+  - film: bus-stop
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: warm
+    gateway: 3
+    note: A saloon singer dreaming of Hollywood. Her first serious attempt at proving she could act, made right after Actors Studio training.
+
+  - film: the-misfits
+    signature: 3
+    showcase: 5
+    role_size: lead
+    register: warm
+    gateway: 2
+    note: Her last completed film, written for her by Arthur Miller. The persona finally cracks open, and it's hard to watch knowing what came next.
+
+  - film: all-about-eve
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: comic
+    gateway: 3
+    note: A tiny early part as an aspiring actress at a party — a handful of minutes in someone else's masterpiece, and people noticed anyway.
+
+  - film: the-asphalt-jungle
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: restrained
+    gateway: 2
+    note: Blink and you'll miss her — a kept woman in a heist-gone-wrong noir, the first role that got her a contract.
+
+curated:
+  curator: house
+  rationale: The image first — the two comedies everyone already knows — then Niagara for the edge underneath it, then the two films that show what was there the whole time.
+  order:
+    - gentlemen-prefer-blondes
+    - some-like-it-hot
+    - the-seven-year-itch
+    - niagara
+    - bus-stop
+    - the-misfits

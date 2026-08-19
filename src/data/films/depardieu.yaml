@@ -1,0 +1,100 @@
+# New films for Gérard Depardieu. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Last Metro already exists in truffaut.yaml — tagged before he had an entity.
+#
+# Danton and The Return of Martin Guerre both use him as a commanding, unreadable presence in ways
+# the comedies never do — worth keeping next to Green Card and Get Out Your Handkerchiefs so the
+# range is visible rather than assumed.
+#
+# Added because opacity and stillness both sat low across six of seven films — accurate to how
+# legible most of his best-known work is, but too uniform for either axis to move anything. Under the
+# Sun of Satan is the honest outlier: Pialat's elliptical, unresolved style is nothing like Rappeneau
+# or Berri's, and it's a real, well-known Depardieu performance rather than an invented data point.
+
+- id: get-out-your-handkerchiefs
+  tmdb_id: null
+  title: Get Out Your Handkerchiefs
+  year: 1978
+  runtime: 105
+  director: Bertrand Blier
+  tags:
+    opacity: 2 # a husband recruits a stranger to become his depressed wife's lover, played dead straight
+    stillness: 2
+    bleakness: 2
+    humor: 4
+    acclaim: 0.68
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+
+- id: the-return-of-martin-guerre
+  tmdb_id: null
+  title: The Return of Martin Guerre
+  year: 1982
+  runtime: 122
+  director: Daniel Vigne
+  tags:
+    opacity: 3 # the film never fully confirms whether he really is who he claims to be
+    stillness: 3
+    bleakness: 4
+    humor: 1
+    acclaim: 0.82
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: danton
+  tmdb_id: null
+  title: Danton
+  year: 1982
+  runtime: 136
+  director: Andrzej Wajda
+  tags:
+    opacity: 2
+    stillness: 3
+    bleakness: 5 # a revolutionary who goes to the guillotine for having a conscience about the Terror
+    humor: 1
+    acclaim: 0.82
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: jean-de-florette
+  tmdb_id: null
+  title: Jean de Florette
+  year: 1986
+  runtime: 120
+  director: Claude Berri
+  tags:
+    opacity: 1
+    stillness: 3
+    bleakness: 5 # a hunchback outsider farmer, destroyed by neighbors who blocked his water on purpose
+    humor: 1
+    acclaim: 0.90
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: cyrano-de-bergerac
+  tmdb_id: null
+  title: Cyrano de Bergerac
+  year: 1990
+  runtime: 137
+  director: Jean-Paul Rappeneau
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 3, acclaim: 0.90 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: green-card
+  tmdb_id: null
+  title: Green Card
+  year: 1990
+  runtime: 107
+  director: Peter Weir
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: under-the-sun-of-satan
+  tmdb_id: null
+  title: Under the Sun of Satan
+  year: 1987
+  runtime: 98
+  director: Maurice Pialat
+  tags:
+    opacity: 4 # a priest's spiritual crisis, told in Pialat's elliptical style with almost nothing explained
+    stillness: 4
+    bleakness: 5
+    humor: 1
+    acclaim: 0.78
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
