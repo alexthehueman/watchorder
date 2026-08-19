@@ -6,7 +6,7 @@
 # filmography as comfortable would be repeating the reputation rather than describing the films.
 
 - id: stagecoach
-  tmdb_id: null
+  tmdb_id: 995
   title: Stagecoach
   year: 1939
   runtime: 96
@@ -15,9 +15,10 @@
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0031971
   poster_url: https://m.media-amazon.com/images/M/MV5BZmQ5ZGIyMjYtMjczYy00N2EzLWE3ZjMtNmI4ZDc3MDVmOWEwXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: stagecoach
 
 - id: young-mr-lincoln
-  tmdb_id: null
+  tmdb_id: 43838
   title: Young Mr. Lincoln
   year: 1939
   runtime: 100
@@ -26,9 +27,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0032155
   poster_url: https://m.media-amazon.com/images/M/MV5BNGRjNTgxMTUtOGUwMy00OWMxLTk3ZWEtMGViOGFhNDcxMzg4XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: young-mr-lincoln
 
 - id: the-grapes-of-wrath
-  tmdb_id: null
+  tmdb_id: 596
   title: The Grapes of Wrath
   year: 1940
   runtime: 129
@@ -42,9 +44,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0032551
   poster_url: https://m.media-amazon.com/images/M/MV5BZDgzZjk3OGYtNWI2Ny00MDg3LTgwYWEtNjI1ODAxNjA3ZmFlXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-grapes-of-wrath
 
 - id: how-green-was-my-valley
-  tmdb_id: null
+  tmdb_id: 43266
   title: How Green Was My Valley
   year: 1941
   runtime: 118
@@ -53,9 +56,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0033729
   poster_url: https://m.media-amazon.com/images/M/MV5BMTRjMWI5MGUtOTVjYy00NjZmLWI3MjctNDFmZjA0ZWJiNmZkXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: how-green-was-my-valley
 
 - id: my-darling-clementine
-  tmdb_id: null
+  tmdb_id: 3088
   title: My Darling Clementine
   year: 1946
   runtime: 97
@@ -64,9 +68,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0038762
   poster_url: https://m.media-amazon.com/images/M/MV5BNGRmNGZhNDktMmNhYi00ZjlmLWIwMDItNWNhYjA4MDA2YmJkXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: my-darling-clementine
 
 - id: fort-apache
-  tmdb_id: null
+  tmdb_id: 37347
   title: Fort Apache
   year: 1948
   runtime: 128
@@ -80,9 +85,10 @@
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0040369
   poster_url: https://m.media-amazon.com/images/M/MV5BYjcwOWRmMWItNWE5MS00ZGM4LWEyOGItYWI4MzMzMWM4NTUyXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: fort-apache
 
 - id: she-wore-a-yellow-ribbon
-  tmdb_id: null
+  tmdb_id: 13909
   title: She Wore a Yellow Ribbon
   year: 1949
   runtime: 103
@@ -91,9 +97,10 @@
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0041866
   poster_url: https://m.media-amazon.com/images/M/MV5BYTdmMDY5YzMtZDVjMC00NGY5LTg2ZTktMzFiYWQzYTE2YzgyXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: she-wore-a-yellow-ribbon
 
 - id: the-quiet-man
-  tmdb_id: null
+  tmdb_id: 3109
   title: The Quiet Man
   year: 1952
   runtime: 129
@@ -102,9 +109,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
   imdb_id: tt0045061
   poster_url: https://m.media-amazon.com/images/M/MV5BOGEyZDk1YmEtOTVmOC00YWQxLWEzOWYtYzkzNGE0MTFhMzRkXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-quiet-man
 
 - id: the-searchers
-  tmdb_id: null
+  tmdb_id: 3114
   title: The Searchers
   year: 1956
   runtime: 119
@@ -118,9 +126,10 @@
   content: { sexual_violence: true, animal_harm: true, child_harm: true, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt0049730
   poster_url: https://m.media-amazon.com/images/M/MV5BMTQ4YWI0MTItMTE4YS00ZTNjLWE3ZTQtN2E2MTlhYWQxNDNmXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-searchers
 
 - id: the-man-who-shot-liberty-valance
-  tmdb_id: null
+  tmdb_id: 11697
   title: The Man Who Shot Liberty Valance
   year: 1962
   runtime: 123
@@ -134,13 +143,14 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0056217
   poster_url: https://m.media-amazon.com/images/M/MV5BZmYzNjljYjgtNzY1MS00MjYwLWIwMmItOGJjOGNhNmZiZmYxXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-man-who-shot-liberty-valance
 
 # Three added because the ten above were all shot in the same legible register and left M7 with
 # almost nothing to measure. These are where Ford is genuinely not that: The Informer is German
 # expressionism with fog and shadows, Long Voyage Home is O'Neill filmed as abstraction, and
 # 7 Women is a bleak chamber piece he ended his career on.
 - id: the-informer
-  tmdb_id: null
+  tmdb_id: 43896
   title: The Informer
   year: 1935
   runtime: 91
@@ -154,9 +164,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0026529
   poster_url: https://m.media-amazon.com/images/M/MV5BMjZlMTQxZWYtN2Y4OS00NDdlLTk4MTYtOTQ2Mjg1YzM5MTMzXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-informer
 
 - id: the-long-voyage-home
-  tmdb_id: null
+  tmdb_id: 52859
   title: The Long Voyage Home
   year: 1940
   runtime: 105
@@ -170,9 +181,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0032728
   poster_url: https://m.media-amazon.com/images/M/MV5BZWU5NjUzYjktY2YyMC00MmI0LTg4NGMtZmYzYzBiMjg0NjJiXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-long-voyage-home
 
 - id: seven-women
-  tmdb_id: null
+  tmdb_id: 68692
   title: 7 Women
   year: 1966
   runtime: 87
@@ -186,3 +198,4 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 1 }
   imdb_id: tt0060050
   poster_url: https://m.media-amazon.com/images/M/MV5BMTJlNGQzYTItMGY2OC00NmJiLThjZTctZDZiZDI3ODVlOGEyXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: 7-women

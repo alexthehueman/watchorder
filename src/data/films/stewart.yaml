@@ -9,7 +9,7 @@
 # revenge, and Vertigo, where the persona is used against the audience deliberately.
 
 - id: mr-smith-goes-to-washington
-  tmdb_id: null
+  tmdb_id: 3083
   title: Mr. Smith Goes to Washington
   year: 1939
   runtime: 129
@@ -18,9 +18,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 0 }
   imdb_id: tt0031679
   poster_url: https://m.media-amazon.com/images/M/MV5BMDU4ZjNmMjEtMjcxYi00NDAxLWFlMjQtNWIyNjg5NWUzNTdjXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: mr-smith-goes-to-washington
 
 - id: the-shop-around-the-corner
-  tmdb_id: null
+  tmdb_id: 20334
   title: The Shop Around the Corner
   year: 1940
   runtime: 99
@@ -29,9 +30,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
   imdb_id: tt0033045
   poster_url: https://m.media-amazon.com/images/M/MV5BMGU3Y2RmMTAtY2EzNC00MjUzLWIyMDUtZWJmYTE2MTU5ZDY5XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-shop-around-the-corner
 
 - id: its-a-wonderful-life
-  tmdb_id: null
+  tmdb_id: 1585
   title: It's a Wonderful Life
   year: 1946
   runtime: 130
@@ -45,9 +47,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 0 }
   imdb_id: tt0038650
   poster_url: https://m.media-amazon.com/images/M/MV5BMDM4OWFhYjEtNTE5Yy00NjcyLTg5N2UtZDQwNDZlYjlmNDU5XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: its-a-wonderful-life
 
 - id: rope
-  tmdb_id: null
+  tmdb_id: 1580
   title: Rope
   year: 1948
   runtime: 80
@@ -61,9 +64,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0040746
   poster_url: https://m.media-amazon.com/images/M/MV5BMDM1YzdlZjAtZWFiZS00ZjYyLTgxYzctNzBiYmE0OWFiMGU1XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg
+  letterboxd_slug: rope
 
 - id: winchester-73
-  tmdb_id: null
+  tmdb_id: 14551
   title: Winchester '73
   year: 1950
   runtime: 92
@@ -72,9 +76,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0043137
   poster_url: https://m.media-amazon.com/images/M/MV5BMzVhODc1YjYtODdjNC00NzkwLWExNTUtMDAwOTJhZDM0ZDYxXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: winchester-73
 
 - id: harvey
-  tmdb_id: null
+  tmdb_id: 11787
   title: Harvey
   year: 1950
   runtime: 104
@@ -88,9 +93,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0042546
   poster_url: https://m.media-amazon.com/images/M/MV5BZTNlNWRhZmEtYzgyOC00YTIxLTk1MjktMWQ1MjhlMmE0ZjljXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: harvey
 
 - id: the-naked-spur
-  tmdb_id: null
+  tmdb_id: 20442
   title: The Naked Spur
   year: 1953
   runtime: 91
@@ -104,9 +110,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt0044953
   poster_url: https://m.media-amazon.com/images/M/MV5BNjZlOGJhYzYtYmE3MS00YjYyLTk0NDUtZWIyNDliMDUyZmZhXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-naked-spur
 
 - id: the-man-who-knew-too-much
-  tmdb_id: null
+  tmdb_id: 574
   title: The Man Who Knew Too Much
   year: 1956
   runtime: 120
@@ -115,9 +122,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0049470
   poster_url: https://m.media-amazon.com/images/M/MV5BNDg1NzljZmMtMDU3OS00Y2E5LWE3OGEtMzM4ZjhjMmZmZTI5XkEyXkFqcGc@._V1_QL75_UX380_CR0,8,380,562_.jpg
+  letterboxd_slug: the-man-who-knew-too-much-1956
 
 - id: anatomy-of-a-murder
-  tmdb_id: null
+  tmdb_id: 93
   title: Anatomy of a Murder
   year: 1959
   runtime: 160
@@ -131,3 +139,4 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
   imdb_id: tt0052561
   poster_url: https://m.media-amazon.com/images/M/MV5BYWRiNmViOGEtODY5OC00YTgxLWI3NjktZjBlOTBhM2ExNTU5XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: anatomy-of-a-murder

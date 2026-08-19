@@ -8,7 +8,7 @@
 # menacing. She worked with more major directors in the sixties than anyone else on the roster.
 
 - id: elevator-to-the-gallows
-  tmdb_id: null
+  tmdb_id: 1093
   title: Elevator to the Gallows
   year: 1958
   runtime: 91
@@ -22,9 +22,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0051378
   poster_url: https://m.media-amazon.com/images/M/MV5BODk4MTkxMDE1Ml5BMl5BanBnXkFtZTgwNjE0NjEzOTE@._V1_SX300.jpg
+  letterboxd_slug: elevator-to-the-gallows
 
 - id: the-lovers
-  tmdb_id: null
+  tmdb_id: 2574
   title: The Lovers
   year: 1958
   runtime: 90
@@ -33,9 +34,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 3 }
   imdb_id: tt0052556
   poster_url: https://m.media-amazon.com/images/M/MV5BNTEzNDU2OGItYTlkYy00NGQ5LWI2M2MtYWQzNjQ1YmNmNzk4XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-lovers
 
 - id: diary-of-a-chambermaid
-  tmdb_id: null
+  tmdb_id: 36245
   title: Diary of a Chambermaid
   year: 1964
   runtime: 98
@@ -44,9 +46,10 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 1 }
   imdb_id: tt0058249
   poster_url: https://m.media-amazon.com/images/M/MV5BOWVjYTA3MjgtMWVmYS00NjcxLWEwMzUtZTNlNmYzOGI4NDgyXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: diary-of-a-chambermaid
 
 - id: viva-maria
-  tmdb_id: null
+  tmdb_id: 11799
   title: Viva Maria!
   year: 1965
   runtime: 119
@@ -55,9 +58,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
   imdb_id: tt0059956
   poster_url: https://m.media-amazon.com/images/M/MV5BNDJkNDdhZGMtMDBhYS00N2ZmLTg5MDMtMTI4ZDgwZmJhMzg2XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: viva-maria
 
 - id: the-bride-wore-black
-  tmdb_id: null
+  tmdb_id: 4191
   title: The Bride Wore Black
   year: 1968
   runtime: 107
@@ -71,9 +75,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt0061955
   poster_url: https://m.media-amazon.com/images/M/MV5BOTFhNDhlY2EtYjEyZC00MDU5LWE4MTQtM2M4ODZkYWQ2NzBjXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-bride-wore-black
 
 - id: the-immortal-story
-  tmdb_id: null
+  tmdb_id: 84636
   title: The Immortal Story
   year: 1968
   runtime: 63
@@ -82,3 +87,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt0063127
   poster_url: https://m.media-amazon.com/images/M/MV5BNmZmOWEzMTItNGYyYi00MzA1LTg4OTYtZjI3OWIzNjhmOWRjXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-immortal-story

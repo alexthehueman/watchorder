@@ -6,7 +6,7 @@
 # stage-trained comic, quiet character work, often within the same decade.
 
 - id: lawrence-of-arabia
-  tmdb_id: null
+  tmdb_id: 947
   title: Lawrence of Arabia
   year: 1962
   runtime: 218
@@ -20,9 +20,10 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt0056172
   poster_url: https://m.media-amazon.com/images/M/MV5BYjY0YTQ1OTAtYjEyNy00NTQ4LThlMTQtM2QwYTVhYWFhNjU5XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: lawrence-of-arabia
 
 - id: becket
-  tmdb_id: null
+  tmdb_id: 15421
   title: Becket
   year: 1964
   runtime: 148
@@ -31,9 +32,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0057877
   poster_url: https://m.media-amazon.com/images/M/MV5BZWIyNGI0MWMtOTkyMi00MzYyLWJkOWQtY2E1ZjgxNjQwNWZjXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: becket
 
 - id: whats-new-pussycat
-  tmdb_id: null
+  tmdb_id: 3681
   title: "What's New Pussycat"
   year: 1965
   runtime: 108
@@ -42,9 +44,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
   imdb_id: tt0059903
   poster_url: https://m.media-amazon.com/images/M/MV5BOWFmMjkwNDQtZjI3My00YmQ0LWFiOTktM2ViNTVlZTBhNWI0XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: whats-new-pussycat
 
 - id: goodbye-mr-chips-1969
-  tmdb_id: null
+  tmdb_id: 42607
   title: Goodbye, Mr. Chips
   year: 1969
   runtime: 151
@@ -53,9 +56,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0064382
   poster_url: https://m.media-amazon.com/images/M/MV5BMTE4OGJiZmItNjExMC00NjU3LWFkODAtM2ViNjE4ZWM3YzliXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: goodbye-mr-chips-1969
 
 - id: the-ruling-class
-  tmdb_id: null
+  tmdb_id: 30892
   title: The Ruling Class
   year: 1972
   runtime: 154
@@ -69,9 +73,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0069198
   poster_url: https://m.media-amazon.com/images/M/MV5BMGRjNjJhMTYtMjQyOS00MDFhLTgzMTktYmNmNjNmYTQwYTg2XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-ruling-class
 
 - id: the-stunt-man
-  tmdb_id: null
+  tmdb_id: 42160
   title: The Stunt Man
   year: 1980
   runtime: 131
@@ -85,9 +90,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0081568
   poster_url: https://m.media-amazon.com/images/M/MV5BY2QyMjkxNTctYjc1ZS00MjliLTg0OTMtYjFhOTRmNzkyNzRjXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-stunt-man
 
 - id: my-favorite-year
-  tmdb_id: null
+  tmdb_id: 31044
   title: My Favorite Year
   year: 1982
   runtime: 92
@@ -96,9 +102,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0084370
   poster_url: https://m.media-amazon.com/images/M/MV5BZTE0Yjk0NzctOTc5Ni00ZDNkLTk5YmMtNTdkZDQ4MmE0MWUwXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: my-favorite-year
 
 - id: the-last-emperor
-  tmdb_id: null
+  tmdb_id: 746
   title: The Last Emperor
   year: 1987
   runtime: 163
@@ -107,3 +114,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0093389
   poster_url: https://m.media-amazon.com/images/M/MV5BYjIxYWFiMDgtZTgyMy00MjFiLWIyMmEtNGIyZjc1NTRlMzQ3XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-last-emperor

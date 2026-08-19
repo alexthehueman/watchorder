@@ -9,7 +9,7 @@
 # entirely straight-faced. The humor spread here is close to the widest on the roster.
 
 - id: modesty-blaise
-  tmdb_id: null
+  tmdb_id: 36645
   title: Modesty Blaise
   year: 1966
   runtime: 119
@@ -18,9 +18,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
   imdb_id: tt0060708
   poster_url: https://m.media-amazon.com/images/M/MV5BNjgxOGJjZTEtNTc5NS00OWM0LTkwM2UtNmY5M2M2MDY4YzZhXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: modesty-blaise
 
 - id: la-ragazza-con-la-pistola
-  tmdb_id: null
+  tmdb_id: 56233
   title: The Girl with a Pistol
   year: 1968
   runtime: 105
@@ -29,6 +30,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
   imdb_id: tt0063485
   poster_url: https://m.media-amazon.com/images/M/MV5BODMzNDRjZGUtM2ZkZC00YWM5LThjN2MtZjM5NDM0YzVmMzM0XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: la-ragazza-con-la-pistola
 
 - id: the-pizza-triangle
   tmdb_id: null

@@ -6,7 +6,7 @@
 # physically do, decades before Everything Everywhere All at Once made that legible to Hollywood.
 
 - id: yes-madam
-  tmdb_id: null
+  tmdb_id: 39448
   title: Yes, Madam
   year: 1985
   runtime: 92
@@ -15,18 +15,21 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt0093229
   poster_url: https://m.media-amazon.com/images/M/MV5BODIyMjNhNGUtMDlmYi00OWZkLWI2MjAtMGE0ZjMwZjA2NjU4XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: yes-madam
 
 - id: police-story-3-super-cop
-  tmdb_id: null
+  tmdb_id: 11134
   title: "Police Story 3: Super Cop"
   year: 1992
   runtime: 96
   director: Stanley Tong
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.82 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: police-story-3-super-cop
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ba/fl/22/dl/police%20story%203-1200-1200-675-675-crop-000000.jpg?v=2899f660aa
 
 - id: the-heroic-trio
-  tmdb_id: null
+  tmdb_id: 43636
   title: The Heroic Trio
   year: 1993
   runtime: 88
@@ -40,9 +43,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt0105619
   poster_url: https://m.media-amazon.com/images/M/MV5BM2I3NmRmMjktOTIwMy00OGMwLWI3MzUtNGE5NzNmMWQ5OTU4XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-heroic-trio
 
 - id: wing-chun
-  tmdb_id: null
+  tmdb_id: 25645
   title: Wing Chun
   year: 1994
   runtime: 96
@@ -51,9 +55,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0111800
   poster_url: https://m.media-amazon.com/images/M/MV5BMGYyZmM3YWEtYmIxMi00MmRjLWJhNGItNzk3NDJjYTZiMTdmXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: wing-chun
 
 - id: tomorrow-never-dies
-  tmdb_id: null
+  tmdb_id: 714
   title: Tomorrow Never Dies
   year: 1997
   runtime: 119
@@ -62,9 +67,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
   imdb_id: tt0120347
   poster_url: https://m.media-amazon.com/images/M/MV5BMTM1MTk2ODQxNV5BMl5BanBnXkFtZTcwOTY5MDg0NA@@._V1_SX300.jpg
+  letterboxd_slug: tomorrow-never-dies
 
 - id: crouching-tiger-hidden-dragon
-  tmdb_id: null
+  tmdb_id: 146
   title: Crouching Tiger, Hidden Dragon
   year: 2000
   runtime: 120
@@ -78,9 +84,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 0 }
   imdb_id: tt0190332
   poster_url: https://m.media-amazon.com/images/M/MV5BMzRmMTU2OWEtZjI0Ni00MGRhLThjOTItZTJiNmM4MDk0ZWU2XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: crouching-tiger-hidden-dragon
 
 - id: reign-of-assassins
-  tmdb_id: null
+  tmdb_id: 44092
   title: Reign of Assassins
   year: 2010
   runtime: 117
@@ -89,9 +96,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt1460743
   poster_url: https://m.media-amazon.com/images/M/MV5BYmEzMGYxZTQtNTYwYi00Y2ZhLTgzMDktOTk4Zjg1MjlhMmY5XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: reign-of-assassins
 
 - id: the-lady
-  tmdb_id: null
+  tmdb_id: 77878
   title: The Lady
   year: 2011
   runtime: 132
@@ -105,12 +113,13 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt1802197
   poster_url: https://m.media-amazon.com/images/M/MV5BMTg3NTc3NzMzOF5BMl5BanBnXkFtZTcwMzI4NjkyNw@@._V1_SX300.jpg
+  letterboxd_slug: the-lady
 
 # Added because stillness sat at 1 for six of nine films — accurate to the Hong Kong action run,
 # but too uniform for the axis to move anything. Sunshine is the honest outlier: a contemplative
 # space thriller as far from that run's pacing as she has gone.
 - id: sunshine-2007
-  tmdb_id: null
+  tmdb_id: 1272
   title: Sunshine
   year: 2007
   runtime: 107
@@ -124,3 +133,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 0 }
   imdb_id: tt0448134
   poster_url: https://m.media-amazon.com/images/M/MV5BNmExYTA4MGYtNWUwNC00YTZhLWE0YzUtMjI0OGYyMmQ4YTVkXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: sunshine-2007

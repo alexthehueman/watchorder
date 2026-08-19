@@ -9,7 +9,7 @@
 # they respect the sides they're on.
 
 - id: a-better-tomorrow
-  tmdb_id: null
+  tmdb_id: 11471
   title: A Better Tomorrow
   year: 1986
   runtime: 95
@@ -23,9 +23,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt0092263
   poster_url: https://m.media-amazon.com/images/M/MV5BOGQ1NzZiZmItOGU4Ny00MjQ1LTg4NDEtZTI1OTE4NzEzODRiXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: a-better-tomorrow
 
 - id: the-killer
-  tmdb_id: null
+  tmdb_id: 10835
   title: The Killer
   year: 1989
   runtime: 111
@@ -39,9 +40,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt0097202
   poster_url: https://m.media-amazon.com/images/M/MV5BMjQyZDJhNTktYjZiZC00ODU4LTg5OTYtYjc2MzA2OGFjMzZmXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-killer
 
 - id: once-a-thief
-  tmdb_id: null
+  tmdb_id: 47423
   title: Once a Thief
   year: 1991
   runtime: 105
@@ -50,9 +52,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0101020
   poster_url: https://m.media-amazon.com/images/M/MV5BZGRjZTM3ZDYtYjJjMS00ZDE1LTg0YzktZDBkNjA3N2EyMmMzXkEyXkFqcGdeQXVyMjQwMjk0NjI@._V1_SX300.jpg
+  letterboxd_slug: once-a-thief-1991
 
 - id: anna-and-the-king
-  tmdb_id: null
+  tmdb_id: 1439
   title: Anna and the King
   year: 1999
   runtime: 148
@@ -61,9 +64,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0166485
   poster_url: https://m.media-amazon.com/images/M/MV5BYmEyMzhiYTItN2MxNy00MWQ4LTgyMTUtM2VlNWJlZWQ0ZGNhXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: anna-and-the-king
 
 - id: let-the-bullets-fly
-  tmdb_id: null
+  tmdb_id: 51533
   title: Let the Bullets Fly
   year: 2010
   runtime: 132
@@ -77,3 +81,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt1533117
   poster_url: https://m.media-amazon.com/images/M/MV5BMjI2NDQ5Mzg0NF5BMl5BanBnXkFtZTgwMDM3NjI2MDE@._V1_SX300.jpg
+  letterboxd_slug: let-the-bullets-fly
