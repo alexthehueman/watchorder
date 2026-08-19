@@ -28,7 +28,7 @@
   letterboxd_slug: cleo-from-5-to-7
 
 - id: le-bonheur
-  tmdb_id: null
+  tmdb_id: 53023
   title: Le Bonheur
   year: 1965
   runtime: 80
@@ -40,6 +40,8 @@
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 1 }
   letterboxd_slug_hint: happiness-1965
+  letterboxd_slug: happiness-1965
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ux/ml/qd/4h/lebonheur-1200-1200-675-675-crop-000000.jpg?v=7df51f664d
 
 - id: lions-love
   tmdb_id: 63320
