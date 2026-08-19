@@ -1,0 +1,121 @@
+slug: vincent-cassel
+kind: actor
+name: Vincent Cassel
+blurb: French cinema's default volatile man, equally at home starting a riot, running a gang, or coaching a ballerina into collapse.
+
+films:
+  - film: la-haine
+    signature: 5
+    showcase: 5
+    must_see: true
+    role_size: lead
+    register: unhinged
+    gateway: 5
+    note: Vinz, twenty-four hours after a friend is beaten into a coma, rehearsing a line from Taxi Driver in a bathroom mirror.
+
+  - film: eastern-promises
+    signature: 3
+    showcase: 4
+    role_size: supporting
+    register: unhinged
+    gateway: 3
+    note: The volatile, drunken son of a Russian mob boss in London — reckless in exactly the way that makes everyone around him more dangerous.
+
+  - film: brotherhood-of-the-wolf
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: menacing
+    gateway: 4
+    note: A jealous, scheming brother in a monster-hunting period genre mashup. Pure entertainment, and he's clearly enjoying himself.
+
+  - film: dobermann
+    signature: 4
+    showcase: 3
+    role_size: lead
+    register: unhinged
+    gateway: 3
+    note: A gang leader who got his first gun at his own christening. Gonzo, comic-book-panel filmmaking with no interest in restraint.
+
+  - film: mesrine-killer-instinct
+    signature: 5
+    showcase: 5
+    must_see: true
+    role_size: lead
+    register: unhinged
+    gateway: 4
+    note: The rise of France's most notorious armed robber, played with total charisma. Won him the César for Best Actor.
+
+  - film: mesrine-public-enemy-no-1
+    signature: 5
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 1
+    note: The manhunt closing in. Picks up directly from Killer Instinct and assumes you've seen it.
+
+  - film: black-swan
+    signature: 3
+    showcase: 4
+    role_size: supporting
+    register: menacing
+    gateway: 3
+    note: A ballet director whose demands for perfection are indistinguishable from cruelty until they aren't.
+
+  - film: sur-mes-levres
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: menacing
+    gateway: 3
+    note: An ex-con who recruits a hard-of-hearing coworker's lip-reading for a heist. Audiard at his most controlled.
+
+  - film: trance
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A hypnotherapist and art thief whose calm exterior is the least trustworthy thing in the film.
+
+  - film: oceans-twelve
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 5
+    note: The Night Fox, a rival thief whose entire function is to be more stylish than Danny Ocean's crew.
+
+  - film: jason-bourne
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: restrained
+    gateway: 4
+    note: A wordless, disciplined assassin known only as the Asset. Minor by his standards, but frictionless as an entry point.
+
+  - film: irreversible
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 0
+    note: Told backward from an act of revenge to the horror that provoked it. Gaspar Noé's most confrontational film, by design.
+
+prereqs:
+  - film: mesrine-public-enemy-no-1
+    requires: mesrine-killer-instinct
+    strength: hard
+
+curated:
+  curator: house
+  rationale: The signature performance first, then the range — gangster, villain, thief, director — before the two films that ask the most of a viewer.
+  order:
+    - la-haine
+    - eastern-promises
+    - brotherhood-of-the-wolf
+    - dobermann
+    - mesrine-killer-instinct
+    - mesrine-public-enemy-no-1
+    - black-swan
+    - sur-mes-levres

@@ -1,0 +1,143 @@
+# Films for Vincent Cassel. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Eastern Promises is shared with cronenberg.yaml — referenced here rather than re-tagged. He plays
+# Kirill, not the Viggo Mortensen lead, which is why role_size is supporting there despite the film's
+# prominence.
+#
+# Two corrections worth recording because they were easy to get backwards: in Dobermann he plays the
+# title character, the gang leader — not the cop chasing him (that's Tchéky Karyo). In Brotherhood of
+# the Wolf he plays Jean-François de Morangias, the jealous, scheming brother — not Mani, the Mohawk
+# tracker (that's Mark Dacascos). Both are easy to misremember from poster billing alone.
+#
+# Mesrine is a two-part biopic filmed and released as a genuine continuation, not two self-contained
+# films — Public Enemy No. 1 picks up mid-story and assumes Killer Instinct's ending. The prereq on
+# the entity file is hard for exactly that reason.
+
+- id: la-haine
+  tmdb_id: null
+  title: La Haine
+  year: 1995
+  runtime: 98
+  director: Mathieu Kassovitz
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 5 # "so far, so good" — the joke the whole film is quietly building toward and then isn't
+    humor: 2
+    acclaim: 0.92
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: dobermann
+  tmdb_id: null
+  title: Dobermann
+  year: 1997
+  runtime: 103
+  director: Jan Kounen
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 3, acclaim: 0.60 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+
+- id: brotherhood-of-the-wolf
+  tmdb_id: null
+  title: Brotherhood of the Wolf
+  year: 2001
+  runtime: 142
+  director: Christophe Gans
+  tags: { opacity: 2, stillness: 1, bleakness: 3, humor: 2, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: sur-mes-levres
+  tmdb_id: null
+  title: Sur mes lèvres
+  year: 2001
+  runtime: 119
+  director: Jacques Audiard
+  tags:
+    opacity: 2
+    stillness: 3
+    bleakness: 4 # a hard-of-hearing office worker and an ex-con use her lip-reading to pull a heist
+    humor: 1
+    acclaim: 0.78
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: irreversible
+  tmdb_id: null
+  title: Irréversible
+  year: 2002
+  runtime: 97
+  director: Gaspar Noé
+  tags:
+    opacity: 3 # told in reverse, so cause only arrives after you've already sat with the effect
+    stillness: 2
+    bleakness: 5
+    humor: 1
+    acclaim: 0.72
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 2 }
+
+- id: mesrine-killer-instinct
+  tmdb_id: null
+  title: "Mesrine: Killer Instinct"
+  year: 2008
+  runtime: 113
+  director: Jean-François Richet
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 2, acclaim: 0.82 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+
+- id: mesrine-public-enemy-no-1
+  tmdb_id: null
+  title: "Mesrine: Public Enemy No. 1"
+  year: 2008
+  runtime: 133
+  director: Jean-François Richet
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 5 # the manhunt closing in, and the film never pretends it ends any other way
+    humor: 1
+    acclaim: 0.83
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: black-swan
+  tmdb_id: null
+  title: Black Swan
+  year: 2010
+  runtime: 108
+  director: Darren Aronofsky
+  tags:
+    opacity: 3
+    stillness: 3
+    bleakness: 5
+    humor: 1
+    acclaim: 0.88
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 2 }
+
+- id: oceans-twelve
+  tmdb_id: null
+  title: Ocean's Twelve
+  year: 2004
+  runtime: 125
+  director: Steven Soderbergh
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.58 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: trance
+  tmdb_id: null
+  title: Trance
+  year: 2013
+  runtime: 101
+  director: Danny Boyle
+  tags:
+    opacity: 4 # hypnosis keeps rewriting what actually happened, on purpose and repeatedly
+    stillness: 2
+    bleakness: 3
+    humor: 2
+    acclaim: 0.60
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 2 }
+
+- id: jason-bourne
+  tmdb_id: null
+  title: Jason Bourne
+  year: 2016
+  runtime: 123
+  director: Paul Greengrass
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
