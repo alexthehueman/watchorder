@@ -1,0 +1,83 @@
+slug: john-ford
+kind: director
+name: John Ford
+blurb: Won four directing Oscars, claimed he just made Westerns, and quietly spent forty years on what community costs the people it excludes.
+
+films:
+  - film: the-searchers
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: Five years hunting a niece he may intend to kill. The doorway shot is the whole argument.
+
+  - film: the-man-who-shot-liberty-valance
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: "Print the legend: a Western about the lie the West was built on, shot flat and cheap on purpose."
+
+  - film: stagecoach
+    signature: 5
+    gateway: 5
+    note: The film that made Wayne a star and gave the Western its grammar for thirty years.
+
+  - film: the-grapes-of-wrath
+    signature: 4
+    gateway: 4
+    note: The Joads driven west, filmed by a man who is meant to be a conservative and plainly furious here.
+
+  - film: my-darling-clementine
+    signature: 4
+    gateway: 5
+    note: The OK Corral as a town getting a church. The gunfight is almost an afterthought.
+
+  - film: fort-apache
+    signature: 4
+    gateway: 3
+    note: A martinet colonel destroys his command, and the film then helps build his monument.
+
+  - film: the-quiet-man
+    signature: 3
+    gateway: 4
+    note: Ireland as he wanted it to be. Warm, gorgeous, and awkward about its own courtship.
+
+  - film: how-green-was-my-valley
+    signature: 3
+    gateway: 3
+    note: The film that beat Citizen Kane. A mining village remembered as it is being destroyed.
+
+  - film: she-wore-a-yellow-ribbon
+    signature: 3
+    gateway: 4
+    note: The middle cavalry film, and the one that looks the most like a painting.
+
+  - film: young-mr-lincoln
+    signature: 3
+    gateway: 4
+    note: Lincoln as a country lawyer, before any of it. Modest, and the ending knows what is coming.
+
+  - film: the-informer
+    signature: 3
+    gateway: 3
+    note: An informer hunted by his own conscience through a foggy Dublin built entirely on a soundstage.
+
+  - film: the-long-voyage-home
+    signature: 3
+    gateway: 2
+    note: Four O'Neill one-acts on a merchant ship, held together by mood rather than plot.
+
+  - film: seven-women
+    signature: 2
+    gateway: 1
+    note: His last film. A mission in China, a doctor who despises everyone, and no comfort offered.
+
+curated:
+  curator: house
+  rationale: The famous shape first, then the films that spend their last reels doubting it.
+  order:
+    - stagecoach
+    - my-darling-clementine
+    - the-grapes-of-wrath
+    - fort-apache
+    - the-searchers
+    - the-man-who-shot-liberty-valance

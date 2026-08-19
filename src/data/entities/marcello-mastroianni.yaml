@@ -1,0 +1,118 @@
+slug: marcello-mastroianni
+kind: actor
+name: Marcello Mastroianni
+blurb: Played passivity as a leading-man quality for forty years, and made irresolution look like the only honest response.
+
+# The signature/showcase split earns its keep here more than on most actors. La Dolce Vita is the
+# purest Mastroianni anyone can name and shows almost no range at all; A Special Day is barely the
+# persona and is the best acting he ever did. One number could not hold both.
+
+films:
+  - film: la-dolce-vita
+    signature: 5
+    showcase: 2
+    must_see: true
+    role_size: lead
+    register: restrained
+    gateway: 5
+    note: A gossip journalist drifting through Rome for three hours. The role that fixed his image permanently.
+
+  - film: 8-and-a-half
+    signature: 5
+    showcase: 4
+    must_see: true
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A director who cannot make his film, playing the man who is making this one. His most exposed performance.
+
+  - film: divorce-italian-style
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: A Sicilian baron plotting his wife's murder so he can remarry. He plays it entirely straight, which is the joke.
+
+  - film: la-notte
+    signature: 4
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A novelist whose marriage has ended without either party saying so. Almost nothing on his face all film.
+
+  - film: a-special-day
+    signature: 2
+    showcase: 5
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: A gay radio announcer awaiting arrest, opposite Loren, on the day Hitler visits Rome. His best work.
+
+  - film: big-deal-on-madonna-street
+    signature: 3
+    showcase: 4
+    role_size: supporting
+    register: comic
+    gateway: 5
+    note: A heist film where the thieves are hopeless. Early, and the funniest thing he did.
+
+  - film: la-grande-bouffe
+    signature: 2
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 0      # four men eat themselves to death; a catastrophic first Mastroianni
+    note: The one that got him booed at Cannes. A suicide pact conducted entirely at the table.
+
+  - film: white-nights-1957
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: warm
+    gateway: 3
+    note: Dostoevsky on a fog-bound studio set, and the closest he came to playing pure yearning.
+
+  - film: marriage-italian-style
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 4
+    note: Loren again, twenty years of a relationship, and him avoiding commitment for all of it.
+
+  - film: yesterday-today-and-tomorrow
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 4
+    note: Three shorts with Loren. Slight, and the striptease scene is the reason anyone remembers it.
+
+  - film: city-of-women
+    signature: 3
+    showcase: 2
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: Late Fellini, and he is once again a passive man carried through someone else's dream.
+
+  - film: dark-eyes
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: Late, Russian, and about a man narrating the affair he was too weak to follow through on.
+
+curated:
+  curator: house
+  rationale: The image first, then the films that quietly ask what it cost to be that man.
+  order:
+    - la-dolce-vita
+    - divorce-italian-style
+    - 8-and-a-half
+    - la-notte
+    - a-special-day
+    - dark-eyes

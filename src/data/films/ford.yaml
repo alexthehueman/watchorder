@@ -1,0 +1,162 @@
+# Films for John Ford. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The bleakness values are the ones to watch here. Ford's reputation is warmth and community, and
+# three or four of these are genuinely that — but The Searchers ends with a man left outside the
+# door on purpose, and Liberty Valance is about a lie everyone agreed to print. Tagging the whole
+# filmography as comfortable would be repeating the reputation rather than describing the films.
+
+- id: stagecoach
+  tmdb_id: null
+  title: Stagecoach
+  year: 1939
+  runtime: 96
+  director: John Ford
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.90 }
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: young-mr-lincoln
+  tmdb_id: null
+  title: Young Mr. Lincoln
+  year: 1939
+  runtime: 100
+  director: John Ford
+  tags: { opacity: 1, stillness: 3, bleakness: 2, humor: 3, acclaim: 0.82 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-grapes-of-wrath
+  tmdb_id: null
+  title: The Grapes of Wrath
+  year: 1940
+  runtime: 129
+  director: John Ford
+  tags:
+    opacity: 1
+    stillness: 3
+    bleakness: 4
+    humor: 1
+    acclaim: 0.92
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: how-green-was-my-valley
+  tmdb_id: null
+  title: How Green Was My Valley
+  year: 1941
+  runtime: 118
+  director: John Ford
+  tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 2, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: my-darling-clementine
+  tmdb_id: null
+  title: My Darling Clementine
+  year: 1946
+  runtime: 97
+  director: John Ford
+  tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 2, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: fort-apache
+  tmdb_id: null
+  title: Fort Apache
+  year: 1948
+  runtime: 128
+  director: John Ford
+  tags:
+    opacity: 2 # ends by endorsing a version of events it has just shown to be false
+    stillness: 2
+    bleakness: 3
+    humor: 3
+    acclaim: 0.80
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: she-wore-a-yellow-ribbon
+  tmdb_id: null
+  title: She Wore a Yellow Ribbon
+  year: 1949
+  runtime: 103
+  director: John Ford
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-quiet-man
+  tmdb_id: null
+  title: The Quiet Man
+  year: 1952
+  runtime: 129
+  director: John Ford
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 4, acclaim: 0.80 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: the-searchers
+  tmdb_id: null
+  title: The Searchers
+  year: 1956
+  runtime: 119
+  director: John Ford
+  tags:
+    opacity: 2
+    stillness: 2
+    bleakness: 4 # five years of racial hatred, and the last shot shuts him outside the door
+    humor: 2
+    acclaim: 0.93
+  content: { sexual_violence: true, animal_harm: true, child_harm: true, suicide: false, violence: 3, sex: 0 }
+
+- id: the-man-who-shot-liberty-valance
+  tmdb_id: null
+  title: The Man Who Shot Liberty Valance
+  year: 1962
+  runtime: 123
+  director: John Ford
+  tags:
+    opacity: 2
+    stillness: 3
+    bleakness: 4 # the legend gets printed and everyone involved knows exactly what it cost
+    humor: 2
+    acclaim: 0.90
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+# Three added because the ten above were all shot in the same legible register and left M7 with
+# almost nothing to measure. These are where Ford is genuinely not that: The Informer is German
+# expressionism with fog and shadows, Long Voyage Home is O'Neill filmed as abstraction, and
+# 7 Women is a bleak chamber piece he ended his career on.
+- id: the-informer
+  tmdb_id: null
+  title: The Informer
+  year: 1935
+  runtime: 91
+  director: John Ford
+  tags:
+    opacity: 3 # shot as expressionism, in fog, with the guilt externalised into the set
+    stillness: 3
+    bleakness: 5
+    humor: 1
+    acclaim: 0.78
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-long-voyage-home
+  tmdb_id: null
+  title: The Long Voyage Home
+  year: 1940
+  runtime: 105
+  director: John Ford
+  tags:
+    opacity: 4 # four O'Neill one-acts welded together, with mood carrying what plot does not
+    stillness: 4
+    bleakness: 4
+    humor: 2
+    acclaim: 0.75
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: seven-women
+  tmdb_id: null
+  title: 7 Women
+  year: 1966
+  runtime: 87
+  director: John Ford
+  tags:
+    opacity: 2
+    stillness: 3
+    bleakness: 5 # his last film, and it ends with a poisoning and no consolation at all
+    humor: 1
+    acclaim: 0.62
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 1 }

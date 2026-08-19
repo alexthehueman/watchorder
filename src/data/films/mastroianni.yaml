@@ -1,0 +1,96 @@
+# New films for Marcello Mastroianni. Scales and anchors are in README.md ("The anchor rubric").
+#
+# La Dolce Vita, 8½ and City of Women already exist in fellini.yaml, and La Notte in
+# antonioni.yaml — the four films that made him, all tagged before he had an entity. Only the
+# films below are new.
+#
+# Worth stating because the entity depends on it: his persona is the opposite of what the roster's
+# other leading men carry. Everyone else plays competence; he plays a man who cannot manage his own
+# life and is charming about it, which is why the humor values run high for a dramatic actor.
+
+- id: big-deal-on-madonna-street
+  tmdb_id: null
+  title: Big Deal on Madonna Street
+  year: 1958
+  runtime: 106
+  director: Mario Monicelli
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 5, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: divorce-italian-style
+  tmdb_id: null
+  title: Divorce Italian Style
+  year: 1961
+  runtime: 105
+  director: Pietro Germi
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 3 # a comedy whose entire engine is a man planning his wife's murder
+    humor: 5
+    acclaim: 0.88
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: yesterday-today-and-tomorrow
+  tmdb_id: null
+  title: Yesterday, Today and Tomorrow
+  year: 1963
+  runtime: 118
+  director: Vittorio De Sica
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+
+- id: marriage-italian-style
+  tmdb_id: null
+  title: Marriage Italian Style
+  year: 1964
+  runtime: 102
+  director: Vittorio De Sica
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 4, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: a-special-day
+  tmdb_id: null
+  title: A Special Day
+  year: 1977
+  runtime: 106
+  director: Ettore Scola
+  tags:
+    opacity: 1
+    stillness: 4 # one apartment block, one day, two people who are not at the rally
+    bleakness: 5
+    humor: 2
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: la-grande-bouffe
+  tmdb_id: null
+  title: La Grande Bouffe
+  year: 1973
+  runtime: 130
+  director: Marco Ferreri
+  tags:
+    opacity: 3
+    stillness: 3
+    bleakness: 5 # four men eat themselves to death, deliberately, over a weekend
+    humor: 3
+    acclaim: 0.72
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 3 }
+
+- id: white-nights-1957
+  tmdb_id: null
+  title: White Nights
+  year: 1957
+  runtime: 107
+  director: Luchino Visconti
+  tags: { opacity: 2, stillness: 4, bleakness: 4, humor: 2, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: dark-eyes
+  tmdb_id: null
+  title: Dark Eyes
+  year: 1987
+  runtime: 118
+  director: Nikita Mikhalkov
+  tags: { opacity: 2, stillness: 3, bleakness: 4, humor: 3, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
