@@ -1,0 +1,82 @@
+slug: henry-fonda
+kind: actor
+name: Henry Fonda
+blurb: Built forty years of decency onto that face, and Sergio Leone spent one film burning all of it down.
+
+films:
+  - film: twelve-angry-men
+    signature: 5
+    showcase: 4
+    must_see: true
+    role_size: lead
+    register: restrained
+    gateway: 5
+    note: One juror holds out, and eleven men's certainty erodes in real time in one room.
+
+  - film: the-grapes-of-wrath
+    signature: 5
+    showcase: 4
+    must_see: true
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: The Joads driven west. The "wherever there's a fight" speech is the character in one breath.
+
+  - film: once-upon-a-time-in-the-west
+    signature: 3
+    showcase: 5
+    role_size: lead
+    register: menacing
+    gateway: 1      # cast specifically to violate forty years of trust; a brutal first Fonda
+    note: Leone cast him to shoot a child in the opening reel, banking entirely on the audience refusing to believe it.
+
+  - film: the-ox-bow-incident
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A lynch mob kills three innocent men. Seventy-five minutes, and it does not look away after.
+
+  - film: young-mr-lincoln
+    signature: 4
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: Ford's Lincoln as a country lawyer, before any of the history. Modest and exact.
+
+  - film: on-golden-pond
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: His last film, opposite Hepburn, playing a father reconciling with his real daughter on screen.
+
+  - film: mister-roberts
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 4
+    note: A cargo-ship officer desperate to see combat before the war ends without him.
+
+  - film: the-lady-eve
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: An ophiologist heir conned twice by the same woman playing two different people, and never noticing.
+
+curated:
+  curator: house
+  rationale: The decency in full first, then the one film that spends it on purpose.
+  order:
+    - twelve-angry-men
+    - the-grapes-of-wrath
+    - the-lady-eve
+    - young-mr-lincoln
+    - the-ox-bow-incident
+    - once-upon-a-time-in-the-west

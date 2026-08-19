@@ -1,0 +1,100 @@
+# New films for Barbara Stanwyck. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Double Indemnity and Ball of Fire already exist in wilder.yaml and hawks.yaml — two of her most
+# famous performances, tagged before she had an entity.
+#
+# The register field earns its keep here more than almost anywhere else on the roster: she moves
+# from menacing (Double Indemnity, The Strange Love of Martha Ivers) to comic (The Lady Eve, Ball
+# of Fire) to warm (Stella Dallas) across the same decade, often the same year.
+
+- id: baby-face
+  tmdb_id: null
+  title: Baby Face
+  year: 1933
+  runtime: 71
+  director: Alfred E. Green
+  tags:
+    opacity: 1
+    stillness: 1
+    bleakness: 3 # a pre-code film about sleeping your way up, told with no moralising until censors forced one
+    humor: 2
+    acclaim: 0.75
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 2 }
+
+- id: stella-dallas
+  tmdb_id: null
+  title: Stella Dallas
+  year: 1937
+  runtime: 106
+  director: King Vidor
+  tags:
+    opacity: 1
+    stillness: 3
+    bleakness: 5 # she engineers her own erasure from her daughter's life and the film asks you to admire it
+    humor: 1
+    acclaim: 0.82
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-lady-eve
+  tmdb_id: null
+  title: The Lady Eve
+  year: 1941
+  runtime: 94
+  director: Preston Sturges
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 5, acclaim: 0.90 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: meet-john-doe
+  tmdb_id: null
+  title: Meet John Doe
+  year: 1941
+  runtime: 122
+  director: Frank Capra
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 2, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
+
+- id: the-strange-love-of-martha-ivers
+  tmdb_id: null
+  title: The Strange Love of Martha Ivers
+  year: 1946
+  runtime: 116
+  director: Lewis Milestone
+  tags:
+    opacity: 2
+    stillness: 3
+    bleakness: 5 # a childhood murder covered up, and the cover-up curdles every relationship it touches
+    humor: 1
+    acclaim: 0.75
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
+
+- id: sorry-wrong-number
+  tmdb_id: null
+  title: Sorry, Wrong Number
+  year: 1948
+  runtime: 89
+  director: Anatole Litvak
+  tags:
+    opacity: 2
+    stillness: 4 # bedridden for the entire film, piecing together the plot by telephone
+    bleakness: 5
+    humor: 1
+    acclaim: 0.78
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: clash-by-night
+  tmdb_id: null
+  title: Clash by Night
+  year: 1952
+  runtime: 105
+  director: Fritz Lang
+  tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: the-furies
+  tmdb_id: null
+  title: The Furies
+  year: 1950
+  runtime: 109
+  director: Anthony Mann
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

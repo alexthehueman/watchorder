@@ -1,0 +1,60 @@
+# Films for Henry Fonda. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Grapes of Wrath and Young Mr. Lincoln already exist in ford.yaml. Filename disambiguates from
+# a future Jane or Peter Fonda entity, the same guard as hepburn-audrey.yaml and ray-satyajit.yaml.
+#
+# Once Upon a Time in the West is the whole reason this entity needed a register field: he built a
+# career on decency, and Leone cast him specifically to shoot a child on camera in the opening
+# reel, banking entirely on the audience's trust in the face refusing to believe what it saw.
+
+- id: twelve-angry-men
+  tmdb_id: null
+  title: 12 Angry Men
+  year: 1957
+  runtime: 96
+  director: Sidney Lumet
+  tags:
+    opacity: 1
+    stillness: 5 # one room, one table, real time, and the whole film is the argument
+    bleakness: 3
+    humor: 1
+    acclaim: 0.95
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: mister-roberts
+  tmdb_id: null
+  title: Mister Roberts
+  year: 1955
+  runtime: 123
+  director: John Ford
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 4, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: once-upon-a-time-in-the-west
+  tmdb_id: null
+  title: Once Upon a Time in the West
+  year: 1968
+  runtime: 165
+  director: Sergio Leone
+  tags:
+    opacity: 2
+    stillness: 4
+    bleakness: 5 # cast against forty years of decency specifically to shoot a child in the opening reel
+    humor: 1
+    acclaim: 0.93
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
+
+- id: the-ox-bow-incident
+  tmdb_id: null
+  title: The Ox-Bow Incident
+  year: 1943
+  runtime: 75
+  director: William A. Wellman
+  tags:
+    opacity: 1
+    stillness: 3
+    bleakness: 5 # a lynch mob kills three innocent men and the film sits in the aftermath
+    humor: 1
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
