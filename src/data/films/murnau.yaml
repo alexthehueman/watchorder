@@ -5,16 +5,18 @@
 # Bram Stoker's estate sued, and the reason it survived at all is scattered prints nobody found.
 
 - id: nosferatu-1922
-  tmdb_id: null
+  tmdb_id: 653
   title: Nosferatu
   year: 1922
   runtime: 89
   director: F.W. Murnau
   tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.90 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 0 }
+  letterboxd_slug: nosferatu
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ph/g3/tr/ws/nosferatu-1200-1200-675-675-crop-000000.jpg?v=62a548948c
 
 - id: the-last-laugh
-  tmdb_id: null
+  tmdb_id: 5991
   title: The Last Laugh
   year: 1924
   runtime: 90
@@ -28,9 +30,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0015064
   poster_url: https://m.media-amazon.com/images/M/MV5BNjU5ODQ5YjMtMWRmMC00MmI0LTgyNjUtY2FhMDcwZTBmOGI0XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-last-laugh
 
 - id: faust-1926
-  tmdb_id: null
+  tmdb_id: 10728
   title: Faust
   year: 1926
   runtime: 106
@@ -39,6 +42,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0016847
   poster_url: https://m.media-amazon.com/images/M/MV5BNDRjZDMwMGItOGY1MS00YmExLWI3N2ItNjk5MTA2N2QxMTI0XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: faust-1926
 
 - id: sunrise
   tmdb_id: null

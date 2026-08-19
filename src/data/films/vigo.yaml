@@ -5,7 +5,7 @@
 # considered essential.
 
 - id: a-propos-de-nice
-  tmdb_id: null
+  tmdb_id: 47831
   title: À propos de Nice
   year: 1930
   runtime: 25
@@ -19,9 +19,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt0021576
   poster_url: https://m.media-amazon.com/images/M/MV5BYmVmOWNhMDUtMGY4NS00NTViLTgwYzItZGVlMTkxODlmYWE3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg
+  letterboxd_slug: a-propos-de-nice
 
 - id: taris
-  tmdb_id: null
+  tmdb_id: 49836
   title: Taris
   year: 1931
   runtime: 9
@@ -35,6 +36,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0022462
   poster_url: https://m.media-amazon.com/images/M/MV5BYzU0YmU0NzMtYTg0Yi00ZWQ2LTk5MjItYWJiYmM0ZmU3ZDU2XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: taris
 
 - id: zero-de-conduite
   tmdb_id: null
@@ -51,7 +53,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
 
 - id: l-atalante
-  tmdb_id: null
+  tmdb_id: 43904
   title: L'Atalante
   year: 1934
   runtime: 89
@@ -60,3 +62,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt0024844
   poster_url: https://m.media-amazon.com/images/M/MV5BMjYwMzU5MGYtYTQzOC00YWJhLTlhNmQtNDMxMWZjYjVhMzA0XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: latalante

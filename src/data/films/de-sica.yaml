@@ -5,7 +5,7 @@
 # could do either register and moved between them without apparent difficulty.
 
 - id: shoeshine
-  tmdb_id: null
+  tmdb_id: 43469
   title: Shoeshine
   year: 1946
   runtime: 93
@@ -19,9 +19,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0038913
   poster_url: https://m.media-amazon.com/images/M/MV5BOTdhYjNmYzgtNDc0My00NjQxLWJlYmYtNWYwOGQ0YTlmMGUwXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: shoeshine
 
 - id: bicycle-thieves
-  tmdb_id: null
+  tmdb_id: 5156
   title: Bicycle Thieves
   year: 1948
   runtime: 89
@@ -30,9 +31,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0040522
   poster_url: https://m.media-amazon.com/images/M/MV5BMjIzMzAyMzg1Nl5BMl5BanBnXkFtZTgwMzMyNzk0MTE@._V1_SX300.jpg
+  letterboxd_slug: bicycle-thieves
 
 - id: miracle-in-milan
-  tmdb_id: null
+  tmdb_id: 43379
   title: Miracle in Milan
   year: 1951
   runtime: 96
@@ -46,9 +48,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0043809
   poster_url: https://m.media-amazon.com/images/M/MV5BZDk2YjI4MmMtMmQ2MC00YWI3LTk5ZTktMzE0MjA1OGI1NzBkXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: miracle-in-milan
 
 - id: umberto-d
-  tmdb_id: null
+  tmdb_id: 833
   title: Umberto D.
   year: 1952
   runtime: 89
@@ -62,9 +65,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
   imdb_id: tt0045274
   poster_url: https://m.media-amazon.com/images/M/MV5BZWRkY2VmOTEtMTk5My00OWZmLWFmYWMtODE3ZmYyZTBhNTE0XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: umberto-d
 
 - id: two-women
-  tmdb_id: null
+  tmdb_id: 24167
   title: Two Women
   year: 1960
   runtime: 100
@@ -73,3 +77,4 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
   imdb_id: tt0054749
   poster_url: https://m.media-amazon.com/images/M/MV5BOTAxNmNlNzctM2ZkZi00ZTdlLWI3NzctZGEwOGU0N2I2NGJmXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: two-women

@@ -6,7 +6,7 @@
 # history rather than for the politics, which the content tags do not attempt to launder.
 
 - id: a-sixth-part-of-the-world
-  tmdb_id: null
+  tmdb_id: 185579
   title: A Sixth Part of the World
   year: 1926
   runtime: 73
@@ -18,9 +18,11 @@
     humor: 1
     acclaim: 0.72
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: a-sixth-part-of-the-world
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/dv/v0/94/lr/uaJMsux2Ltaywvcr33TjMsV8y3T-1200-1200-675-675-crop-000000.jpg?v=f53c4cfc77
 
 - id: man-with-a-movie-camera
-  tmdb_id: null
+  tmdb_id: 26317
   title: Man with a Movie Camera
   year: 1929
   runtime: 68
@@ -34,6 +36,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0019760
   poster_url: https://m.media-amazon.com/images/M/MV5BZDkzOTYyM2MtYzBmOC00NzIxLThkOGUtNzk5NjI0OWRjZjgzXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: man-with-a-movie-camera
 
 - id: enthusiasm
   tmdb_id: null
@@ -52,7 +55,7 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjkyY2MyNjAtOWQyMS00ZmVhLWIzZDEtMjFmYmIyY2I3MjViXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: three-songs-about-lenin
-  tmdb_id: null
+  tmdb_id: 92475
   title: Three Songs About Lenin
   year: 1934
   runtime: 57
@@ -66,3 +69,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0025911
   poster_url: https://m.media-amazon.com/images/M/MV5BMWJiZjAwZDItZGJjMS00ZjI2LWJiMzgtZTgxYzViZjMzNzA0XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: three-songs-about-lenin

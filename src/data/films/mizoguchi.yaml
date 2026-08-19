@@ -5,7 +5,7 @@
 # make clear it was never really about the period.
 
 - id: osaka-elegy
-  tmdb_id: null
+  tmdb_id: 43877
   title: Osaka Elegy
   year: 1936
   runtime: 71
@@ -19,9 +19,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt0028021
   poster_url: https://m.media-amazon.com/images/M/MV5BZWUxNGQ1OTItNmY5NS00MTA4LTg1MTAtMmNkZjAzMjVmYjJhXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: osaka-elegy
 
 - id: the-story-of-the-last-chrysanthemum
-  tmdb_id: null
+  tmdb_id: 46069
   title: The Story of the Last Chrysanthemum
   year: 1939
   runtime: 143
@@ -35,9 +36,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0032156
   poster_url: https://m.media-amazon.com/images/M/MV5BZmFiOGVlODAtZjUyMS00ZTgwLTg3MjEtNjc4ZDkxMWQyNzdiXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-story-of-the-last-chrysanthemum
 
 - id: the-life-of-oharu
-  tmdb_id: null
+  tmdb_id: 43364
   title: The Life of Oharu
   year: 1952
   runtime: 136
@@ -51,9 +53,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
   imdb_id: tt0045112
   poster_url: https://m.media-amazon.com/images/M/MV5BM2IwNjZjNDgtODE4Yy00OGZkLThiOTMtODk1ODEzNDE1MGNmXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-life-of-oharu
 
 - id: ugetsu
-  tmdb_id: null
+  tmdb_id: 14696
   title: Ugetsu
   year: 1953
   runtime: 96
@@ -67,9 +70,10 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0046478
   poster_url: https://m.media-amazon.com/images/M/MV5BZjk2NmRiMWItOTNlOS00OTgyLWE4NWItZGM0Mjk1YmE5ZTg4XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: ugetsu
 
 - id: sansho-the-bailiff
-  tmdb_id: null
+  tmdb_id: 20532
   title: Sansho the Bailiff
   year: 1954
   runtime: 124
@@ -83,9 +87,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: true, violence: 2, sex: 0 }
   imdb_id: tt0047445
   poster_url: https://m.media-amazon.com/images/M/MV5BODAxZDk2YjctYTE0Ny00MzBjLWJlOWEtNjhkMWQ2NmU4ZTY3XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: sansho-the-bailiff
 
 - id: street-of-shame
-  tmdb_id: null
+  tmdb_id: 43255
   title: Street of Shame
   year: 1956
   runtime: 86
@@ -99,3 +104,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt0048933
   poster_url: https://m.media-amazon.com/images/M/MV5BNTgzZDA4YTYtOGNlMi00NWY5LTg5ZTgtYzFjOTBkMTFhZGMzXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: street-of-shame

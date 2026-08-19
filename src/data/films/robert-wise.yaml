@@ -5,7 +5,7 @@
 # as a lesser assignment than the others.
 
 - id: the-body-snatcher
-  tmdb_id: null
+  tmdb_id: 30346
   title: The Body Snatcher
   year: 1945
   runtime: 78
@@ -14,9 +14,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0037549
   poster_url: https://m.media-amazon.com/images/M/MV5BNDJkMWM5ZTEtNDJiZi00OWU2LWEwYzAtZGMzMzc1N2YzMGJjXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-body-snatcher
 
 - id: odds-against-tomorrow
-  tmdb_id: null
+  tmdb_id: 26983
   title: Odds Against Tomorrow
   year: 1959
   runtime: 95
@@ -30,9 +31,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0053133
   poster_url: https://m.media-amazon.com/images/M/MV5BOGRiNGRhYWItOTEzZi00MDk2LWFmZGEtNWQ3ODYyYWE1ZDFjXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: odds-against-tomorrow
 
 - id: west-side-story-1961
-  tmdb_id: null
+  tmdb_id: 1725
   title: West Side Story
   year: 1961
   runtime: 152
@@ -41,9 +43,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0055614
   poster_url: https://m.media-amazon.com/images/M/MV5BMTM0NDAxOTI5MF5BMl5BanBnXkFtZTcwNjI4Mjg3NA@@._V1_SX300.jpg
+  letterboxd_slug: west-side-story
 
 - id: the-haunting
-  tmdb_id: null
+  tmdb_id: 11772
   title: The Haunting
   year: 1963
   runtime: 114
@@ -57,9 +60,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0057129
   poster_url: https://m.media-amazon.com/images/M/MV5BMTU0MTkzMDI0MV5BMl5BanBnXkFtZTgwODI5NTAxNzE@._V1_SX300.jpg
+  letterboxd_slug: the-haunting
 
 - id: the-sound-of-music
-  tmdb_id: null
+  tmdb_id: 15121
   title: The Sound of Music
   year: 1965
   runtime: 174
@@ -68,9 +72,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0059742
   poster_url: https://m.media-amazon.com/images/M/MV5BYWJhYmU4MjQtZDJhYi00ZGVjLTlkNTEtNzkzNGVjOWQ3MjcwXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-sound-of-music
 
 - id: star-trek-the-motion-picture
-  tmdb_id: null
+  tmdb_id: 152
   title: "Star Trek: The Motion Picture"
   year: 1979
   runtime: 132
@@ -79,3 +84,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0079945
   poster_url: https://m.media-amazon.com/images/M/MV5BNjcyMmVmMTItNTA3Yy00NGJjLTlmYjQtZWQ3ZjcyNmU5NDQ2XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: star-trek-the-motion-picture

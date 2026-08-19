@@ -5,7 +5,7 @@
 # splitting into two director pages for one shared body of work.
 
 - id: the-life-and-death-of-colonel-blimp
-  tmdb_id: null
+  tmdb_id: 25037
   title: The Life and Death of Colonel Blimp
   year: 1943
   runtime: 165
@@ -19,9 +19,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0036112
   poster_url: https://m.media-amazon.com/images/M/MV5BZGQwZjgzYTgtMjA2OS00NTRjLTg1YWQtYmQ4NDJlYzk5N2Q3XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-life-and-death-of-colonel-blimp
 
 - id: i-know-where-im-going
-  tmdb_id: null
+  tmdb_id: 56137
   title: I Know Where I'm Going!
   year: 1945
   runtime: 88
@@ -35,9 +36,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0037800
   poster_url: https://m.media-amazon.com/images/M/MV5BYmRiZjBjOGYtNjNhNy00YmVjLWFmYTktYzdmNjVkYmViNDU3XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: i-know-where-im-going
 
 - id: a-matter-of-life-and-death
-  tmdb_id: null
+  tmdb_id: 28162
   title: A Matter of Life and Death
   year: 1946
   runtime: 104
@@ -51,9 +53,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0038733
   poster_url: https://m.media-amazon.com/images/M/MV5BNjA0YmE1ZjMtMDViNC00Y2RjLWE0MmUtZjQ4YTU1MzU5MjRjXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: a-matter-of-life-and-death
 
 - id: black-narcissus
-  tmdb_id: null
+  tmdb_id: 16391
   title: Black Narcissus
   year: 1947
   runtime: 100
@@ -67,9 +70,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 0 }
   imdb_id: tt0039192
   poster_url: https://m.media-amazon.com/images/M/MV5BMjRmMTQyNDEtNWM4Zi00ZTMwLTlkOGUtZTdmZDU0NTNiZTQ0XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: black-narcissus
 
 - id: the-red-shoes
-  tmdb_id: null
+  tmdb_id: 19542
   title: The Red Shoes
   year: 1948
   runtime: 133
@@ -83,3 +87,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
   imdb_id: tt0040725
   poster_url: https://m.media-amazon.com/images/M/MV5BMzY2MzIwMDQzN15BMl5BanBnXkFtZTcwNDUxMTM4NA@@._V1_SX300.jpg
+  letterboxd_slug: the-red-shoes
