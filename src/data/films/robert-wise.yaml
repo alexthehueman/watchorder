@@ -1,0 +1,69 @@
+# Films for Robert Wise. Scales and anchors are in README.md ("The anchor rubric").
+#
+# A studio journeyman in the least dismissive sense of the word — horror, noir, musical, war epic
+# and science fiction, each one made with the same craftsman's precision and none of them treated
+# as a lesser assignment than the others.
+
+- id: the-body-snatcher
+  tmdb_id: null
+  title: The Body Snatcher
+  year: 1945
+  runtime: 78
+  director: Robert Wise
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: odds-against-tomorrow
+  tmdb_id: null
+  title: Odds Against Tomorrow
+  year: 1959
+  runtime: 95
+  director: Robert Wise
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 5 # a heist undone by the one thing the plan couldn't account for — the racism of one of the thieves
+    humor: 1
+    acclaim: 0.80
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: west-side-story-1961
+  tmdb_id: null
+  title: West Side Story
+  year: 1961
+  runtime: 152
+  director: Robert Wise
+  tags: { opacity: 1, stillness: 1, bleakness: 4, humor: 1, acclaim: 0.88 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-haunting
+  tmdb_id: null
+  title: The Haunting
+  year: 1963
+  runtime: 114
+  director: Robert Wise
+  tags:
+    opacity: 3 # the film never once shows you what's haunting the house, and refuses to for its entire runtime
+    stillness: 3
+    bleakness: 4
+    humor: 1
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-sound-of-music
+  tmdb_id: null
+  title: The Sound of Music
+  year: 1965
+  runtime: 174
+  director: Robert Wise
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: star-trek-the-motion-picture
+  tmdb_id: null
+  title: "Star Trek: The Motion Picture"
+  year: 1979
+  runtime: 132
+  director: Robert Wise
+  tags: { opacity: 2, stillness: 4, bleakness: 1, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

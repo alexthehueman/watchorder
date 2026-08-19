@@ -1,0 +1,42 @@
+slug: robert-altman
+kind: director
+name: Robert Altman
+blurb: Overlapping dialogue and a camera that treats every extra as a potential main character, regardless of what genre he happened to be pointing it at that year.
+
+films:
+  - film: nashville
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: Twenty-four characters over five days, converging on a political rally almost nobody in the film sees coming.
+
+  - film: mash
+    signature: 4
+    must_see: true
+    gateway: 4
+    note: A Korean War field hospital played as anarchic comedy — the template for the ensemble method he'd use for the next three decades.
+
+  - film: the-player
+    signature: 4
+    gateway: 4
+    note: A Hollywood satire that opens with an eight-minute unbroken shot about unbroken shots.
+
+  - film: short-cuts
+    signature: 4
+    gateway: 2
+    note: Nine Raymond Carver stories woven into one Los Angeles, and almost nobody in them gets a happy ending.
+
+  - film: gosford-park
+    signature: 3
+    gateway: 3
+    note: An English country house murder mystery, told mostly through the servants who actually run it.
+
+curated:
+  curator: house
+  rationale: The comedy that made his method first, then the Hollywood satire, before the two densest ensemble pieces.
+  order:
+    - mash
+    - the-player
+    - gosford-park
+    - nashville
+    - short-cuts

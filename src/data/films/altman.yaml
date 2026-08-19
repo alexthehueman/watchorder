@@ -1,0 +1,65 @@
+# Films for Robert Altman. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Overlapping dialogue and a camera that treats every extra as a potential main character — the
+# ensemble is the method regardless of genre, whether it's a war-satire field hospital, a country
+# music festival, a Hollywood back lot, nine intersecting Raymond Carver stories, or an English manor.
+
+- id: mash
+  tmdb_id: null
+  title: MASH
+  year: 1970
+  runtime: 116
+  director: Robert Altman
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 4, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: nashville
+  tmdb_id: null
+  title: Nashville
+  year: 1975
+  runtime: 160
+  director: Robert Altman
+  tags:
+    opacity: 2 # twenty-four characters over five days, converging on a political rally almost nobody sees coming
+    stillness: 2
+    bleakness: 4
+    humor: 2
+    acclaim: 0.90
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: the-player
+  tmdb_id: null
+  title: The Player
+  year: 1992
+  runtime: 124
+  director: Robert Altman
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 3
+    humor: 4
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: short-cuts
+  tmdb_id: null
+  title: Short Cuts
+  year: 1993
+  runtime: 188
+  director: Robert Altman
+  tags:
+    opacity: 2
+    stillness: 2
+    bleakness: 5 # nine Raymond Carver stories woven together, and almost nobody in them gets a happy ending
+    humor: 2
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: true, child_harm: true, suicide: false, violence: 2, sex: 2 }
+
+- id: gosford-park
+  tmdb_id: null
+  title: Gosford Park
+  year: 2001
+  runtime: 137
+  director: Robert Altman
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }

@@ -1,0 +1,61 @@
+# Films for Edward Yang. Scales and anchors are in README.md ("The anchor rubric").
+#
+# A small filmography, cut short by his death at 59 — four films that watch Taipei's rapid
+# modernization from four different angles, from a fragmented crime thriller to a four-hour family
+# epic that never once feels padded.
+
+- id: taipei-story
+  tmdb_id: null
+  title: Taipei Story
+  year: 1985
+  runtime: 110
+  director: Edward Yang
+  tags:
+    opacity: 2
+    stillness: 3
+    bleakness: 4 # a couple drifting apart as the city around them gets torn down and rebuilt
+    humor: 1
+    acclaim: 0.80
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-terrorizers
+  tmdb_id: null
+  title: The Terrorizers
+  year: 1986
+  runtime: 110
+  director: Edward Yang
+  tags:
+    opacity: 3 # three unconnected-seeming stories that turn out to intersect through one prank phone call
+    stillness: 2
+    bleakness: 5
+    humor: 1
+    acclaim: 0.82
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: a-brighter-summer-day
+  tmdb_id: null
+  title: A Brighter Summer Day
+  year: 1991
+  runtime: 237
+  director: Edward Yang
+  tags:
+    opacity: 2
+    stillness: 3
+    bleakness: 5 # based on an actual 1961 killing, and it never rushes toward the moment it's clearly building to
+    humor: 1
+    acclaim: 0.92
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+
+- id: yi-yi
+  tmdb_id: null
+  title: Yi Yi
+  year: 2000
+  runtime: 173
+  director: Edward Yang
+  tags:
+    opacity: 1
+    stillness: 3
+    bleakness: 3
+    humor: 2
+    acclaim: 0.94
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

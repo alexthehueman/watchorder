@@ -1,0 +1,36 @@
+slug: edward-yang
+kind: director
+name: Edward Yang
+blurb: Taipei's rapid modernization watched from four angles — a couple drifting apart, a prank call that turns fatal, a killing from 1961, and one very long, very ordinary family.
+
+films:
+  - film: yi-yi
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: Three hours across one Taipei family's year — a grandmother in a coma, a son's first love, a father's old flame back in his life.
+
+  - film: a-brighter-summer-day
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: Based on an actual 1961 killing among Taipei teenagers, and it never rushes toward the moment it's clearly building to.
+
+  - film: taipei-story
+    signature: 3
+    gateway: 3
+    note: A couple drifting apart as the city around them gets torn down and rebuilt in real time.
+
+  - film: the-terrorizers
+    signature: 3
+    gateway: 3
+    note: Three unconnected-seeming stories that turn out to intersect through one prank phone call.
+
+curated:
+  curator: house
+  rationale: The two shorter, structurally tighter films first, then the two long, patient masterworks.
+  order:
+    - taipei-story
+    - the-terrorizers
+    - yi-yi
+    - a-brighter-summer-day

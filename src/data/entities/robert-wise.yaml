@@ -1,0 +1,48 @@
+slug: robert-wise
+kind: director
+name: Robert Wise
+blurb: A studio journeyman in the least dismissive sense — horror, noir, musical, war epic and science fiction, each made with the same craftsman's precision.
+
+films:
+  - film: the-sound-of-music
+    signature: 5
+    must_see: true
+    gateway: 5
+    note: The hills, the abbey, the seven children. Won him his second Best Director Oscar in four years.
+
+  - film: west-side-story-1961
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: Romeo and Juliet as rival New York gangs, choreographed like a street fight because it mostly is one.
+
+  - film: the-haunting
+    signature: 4
+    gateway: 3
+    note: The film never once shows you what's haunting the house, and refuses to for its entire runtime.
+
+  - film: odds-against-tomorrow
+    signature: 3
+    gateway: 3
+    note: A heist undone by the one thing the plan couldn't account for — the racism of one of the thieves.
+
+  - film: the-body-snatcher
+    signature: 2
+    gateway: 3
+    note: A Val Lewton horror production, early in his career, before the musicals made him famous for something else entirely.
+
+  - film: star-trek-the-motion-picture
+    signature: 2
+    gateway: 4
+    note: A slow, contemplative science-fiction epic that frustrated a fanbase expecting the TV show's pace.
+
+curated:
+  curator: house
+  rationale: The two musicals that made his reputation, then the genre work on either side that most people never connect to him.
+  order:
+    - the-sound-of-music
+    - west-side-story-1961
+    - the-body-snatcher
+    - odds-against-tomorrow
+    - the-haunting
+    - star-trek-the-motion-picture
