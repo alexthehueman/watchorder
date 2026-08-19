@@ -1,0 +1,48 @@
+slug: fritz-lang
+kind: director
+name: Fritz Lang
+blurb: German silent expressionism and Hollywood noir turn out to be the same director's handwriting — control, fatalism, and a manhunt as the default plot.
+
+films:
+  - film: m
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: His first sound film — a child murderer hunted by both the police and the criminal underworld at once.
+
+  - film: metropolis
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A silent city-of-the-future epic, told almost entirely in scale and image rather than story.
+
+  - film: the-testament-of-dr-mabuse
+    signature: 3
+    gateway: 3
+    note: A master criminal directing crimes from an asylum. Banned by the Nazis before its German release.
+
+  - film: fury
+    signature: 3
+    gateway: 4
+    note: His first American film — an innocent man nearly burned alive by a lynch mob that thinks it got away with it.
+
+  - film: scarlet-street
+    signature: 3
+    gateway: 3
+    note: A mild clerk manipulated and ruined by two con artists, and what he does to the one who did it.
+
+  - film: the-big-heat
+    signature: 4
+    gateway: 4
+    note: A cop's revenge thriller with one of noir's most brutal single scenes.
+
+curated:
+  curator: house
+  rationale: The American genre work first, accessible and English-language, then back to the German films that made him.
+  order:
+    - fury
+    - the-big-heat
+    - scarlet-street
+    - m
+    - the-testament-of-dr-mabuse
+    - metropolis

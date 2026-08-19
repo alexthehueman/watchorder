@@ -1,0 +1,98 @@
+# Films for Jean Renoir. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The two towering, inseparable masterpieces — La Grande Illusion and La Règle du Jeu — sit either
+# side of the biggest tonal swing in the roster: a POW-camp drama about class dissolving across
+# enemy lines, then two years later a country-house farce where the same class closes ranks again
+# and lets a man die for it.
+#
+# The Golden Coach already exists in magnani.yaml (Anna Magnani stars in it) — referenced here
+# rather than re-tagged. Added because opacity sat at 1 across six of the other seven films — too
+# uniform to move anything on its own, and this genuine outlier was already sitting in the corpus.
+
+- id: boudu-saved-from-drowning
+  tmdb_id: null
+  title: Boudu Saved from Drowning
+  year: 1932
+  runtime: 85
+  director: Jean Renoir
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 5, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 1 }
+
+- id: toni
+  tmdb_id: null
+  title: Toni
+  year: 1935
+  runtime: 80
+  director: Jean Renoir
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 4 # shot on location with mostly non-actors, years before neorealism had the name
+    humor: 1
+    acclaim: 0.75
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: the-crime-of-monsieur-lange
+  tmdb_id: null
+  title: The Crime of Monsieur Lange
+  year: 1936
+  runtime: 80
+  director: Jean Renoir
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 2 # a murder the film treats as justice, made at the height of the Popular Front
+    humor: 3
+    acclaim: 0.78
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: la-grande-illusion
+  tmdb_id: null
+  title: La Grande Illusion
+  year: 1937
+  runtime: 114
+  director: Jean Renoir
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 3 # class turns out to cross the trenches more easily than nationality does, and then the war just continues anyway
+    humor: 2
+    acclaim: 0.92
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: la-regle-du-jeu
+  tmdb_id: null
+  title: La Règle du Jeu
+  year: 1939
+  runtime: 110
+  director: Jean Renoir
+  tags:
+    opacity: 2 # a dozen overlapping affairs and alliances at a country house, tracked in constant deep-focus motion
+    stillness: 2
+    bleakness: 4 # a man is shot dead and the host dismisses it to his guests as a regrettable accident
+    humor: 3
+    acclaim: 0.95
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: the-river-1951
+  tmdb_id: null
+  title: The River
+  year: 1951
+  runtime: 99
+  director: Jean Renoir
+  tags:
+    opacity: 1
+    stillness: 4 # a season-by-season coming-of-age on the Ganges, in his first color film
+    bleakness: 3
+    humor: 1
+    acclaim: 0.82
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 0 }
+
+- id: french-cancan
+  tmdb_id: null
+  title: French Cancan
+  year: 1955
+  runtime: 104
+  director: Jean Renoir
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }

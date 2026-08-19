@@ -1,0 +1,48 @@
+slug: carl-dreyer
+kind: director
+name: Carl Th. Dreyer
+blurb: A handful of features across four decades, each one slower and more formally exact than the last — faith, suffering, and a camera that refuses to look away first.
+
+films:
+  - film: the-passion-of-joan-of-arc
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: Almost entirely close-ups of faces during a trial. Still one of the most emotionally direct silent films made.
+
+  - film: ordet
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: A literal miracle happens at the end, and the film simply asks you to sit with it rather than explain it.
+
+  - film: master-of-the-house
+    signature: 2
+    gateway: 5
+    note: A warm domestic comedy about a household tyrant brought back down to earth. Nothing else here sounds like it.
+
+  - film: vampyr
+    signature: 4
+    gateway: 2
+    note: Barely a plot, mostly a mood — shadows and dread that never fully resolve into a story.
+
+  - film: day-of-wrath
+    signature: 4
+    gateway: 2
+    note: A witch-trial drama made in occupied Denmark, and understood by its first audience as exactly that.
+
+  - film: gertrud
+    signature: 3
+    gateway: 1
+    note: His final film, and his most static — a woman who keeps refusing every love offered to her.
+
+curated:
+  curator: house
+  rationale: The one warm film first, then the two that define him, with the harder, stiller work saved for last.
+  order:
+    - master-of-the-house
+    - the-passion-of-joan-of-arc
+    - vampyr
+    - day-of-wrath
+    - ordet
+    - gertrud

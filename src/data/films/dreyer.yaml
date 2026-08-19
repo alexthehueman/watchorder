@@ -1,0 +1,84 @@
+# Films for Carl Th. Dreyer. Scales and anchors are in README.md ("The anchor rubric").
+#
+# A small, slow filmography by design — he made only a handful of features across four decades,
+# and the pace itself is part of the identity. Master of the House is the honest outlier: a warm
+# domestic comedy from the same man who spent the rest of his career on trials and miracles.
+
+- id: master-of-the-house
+  tmdb_id: null
+  title: Master of the House
+  year: 1925
+  runtime: 107
+  director: Carl Th. Dreyer
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-passion-of-joan-of-arc
+  tmdb_id: null
+  title: The Passion of Joan of Arc
+  year: 1928
+  runtime: 81
+  director: Carl Th. Dreyer
+  tags:
+    opacity: 1
+    stillness: 4 # almost entirely close-ups of faces during a trial, unhurried by design
+    bleakness: 5
+    humor: 1
+    acclaim: 0.96
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: vampyr
+  tmdb_id: null
+  title: Vampyr
+  year: 1932
+  runtime: 74
+  director: Carl Th. Dreyer
+  tags:
+    opacity: 4 # deliberately dreamlike and underexplained, closer to a mood than a plot
+    stillness: 4
+    bleakness: 4
+    humor: 1
+    acclaim: 0.78
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: day-of-wrath
+  tmdb_id: null
+  title: Day of Wrath
+  year: 1943
+  runtime: 97
+  director: Carl Th. Dreyer
+  tags:
+    opacity: 2
+    stillness: 4
+    bleakness: 5 # a witch-trial drama made under Nazi occupation, and read as exactly that at the time
+    humor: 1
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: ordet
+  tmdb_id: null
+  title: Ordet
+  year: 1955
+  runtime: 125
+  director: Carl Th. Dreyer
+  tags:
+    opacity: 2 # a literal miracle occurs at the end and the film asks you to simply accept it
+    stillness: 5
+    bleakness: 4
+    humor: 1
+    acclaim: 0.90
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: gertrud
+  tmdb_id: null
+  title: Gertrud
+  year: 1964
+  runtime: 116
+  director: Carl Th. Dreyer
+  tags:
+    opacity: 2
+    stillness: 5 # his last film, and his most static — barely a camera movement in two hours
+    bleakness: 4
+    humor: 1
+    acclaim: 0.75
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

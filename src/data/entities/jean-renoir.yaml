@@ -1,0 +1,60 @@
+slug: jean-renoir
+kind: director
+name: Jean Renoir
+blurb: Deep focus, moving camera, and more sympathy for every character in the frame than the plot strictly requires — including the ones causing all the trouble.
+
+films:
+  - film: la-regle-du-jeu
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A country-house farce that becomes a tragedy the moment nobody involved will admit anything is wrong.
+
+  - film: la-grande-illusion
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: French, German and working-class-versus-aristocrat lines all blur inside a POW camp — and the war outside doesn't care.
+
+  - film: boudu-saved-from-drowning
+    signature: 3
+    gateway: 5
+    note: A rescued tramp who refuses to be civilized by the bourgeois family that saved him.
+
+  - film: the-crime-of-monsieur-lange
+    signature: 3
+    gateway: 3
+    note: A murder the film is entirely on the side of — made at the height of France's Popular Front.
+
+  - film: toni
+    signature: 3
+    gateway: 2
+    note: Shot on location with mostly non-professional actors, a decade before Italian neorealism had a name.
+
+  - film: the-river-1951
+    signature: 4
+    gateway: 3
+    note: His first color film — a British family's daughter coming of age on the Ganges, told in seasons.
+
+  - film: french-cancan
+    signature: 3
+    gateway: 4
+    note: Late, warm, and in color — the founding of the Moulin Rouge, told as pure spectacle.
+
+  - film: the-golden-coach
+    signature: 3
+    gateway: 3
+    note: A commedia dell'arte troupe, staged so the performance and the "real" romance keep bleeding into each other.
+
+curated:
+  curator: house
+  rationale: The warmest film first, then the two that made his reputation, with the color-era work spaced around them.
+  order:
+    - boudu-saved-from-drowning
+    - the-crime-of-monsieur-lange
+    - toni
+    - la-grande-illusion
+    - the-river-1951
+    - the-golden-coach
+    - french-cancan
+    - la-regle-du-jeu

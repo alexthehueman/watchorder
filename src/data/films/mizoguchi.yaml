@@ -1,0 +1,89 @@
+# Films for Kenji Mizoguchi. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Long, unbroken takes and women destroyed by a society that then blames them for it, across four
+# decades — the contemporary-set films (Osaka Elegy, Street of Shame) bracket the period pieces and
+# make clear it was never really about the period.
+
+- id: osaka-elegy
+  tmdb_id: null
+  title: Osaka Elegy
+  year: 1936
+  runtime: 71
+  director: Kenji Mizoguchi
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 5 # a woman supports her family by becoming a mistress and is condemned by that same family for it
+    humor: 1
+    acclaim: 0.78
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: the-story-of-the-last-chrysanthemum
+  tmdb_id: null
+  title: The Story of the Last Chrysanthemum
+  year: 1939
+  runtime: 143
+  director: Kenji Mizoguchi
+  tags:
+    opacity: 1
+    stillness: 4 # long unbroken takes, often minutes long, of a romance that will not be allowed to work
+    bleakness: 5
+    humor: 1
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-life-of-oharu
+  tmdb_id: null
+  title: The Life of Oharu
+  year: 1952
+  runtime: 136
+  director: Kenji Mizoguchi
+  tags:
+    opacity: 1
+    stillness: 4
+    bleakness: 5 # a courtesan's entire life told as one unbroken decline, with no floor to it
+    humor: 1
+    acclaim: 0.90
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: ugetsu
+  tmdb_id: null
+  title: Ugetsu
+  year: 1953
+  runtime: 96
+  director: Kenji Mizoguchi
+  tags:
+    opacity: 2 # a ghost story that never visually distinguishes the dead from the living
+    stillness: 3
+    bleakness: 5
+    humor: 1
+    acclaim: 0.93
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: sansho-the-bailiff
+  tmdb_id: null
+  title: Sansho the Bailiff
+  year: 1954
+  runtime: 124
+  director: Kenji Mizoguchi
+  tags:
+    opacity: 1
+    stillness: 3
+    bleakness: 5 # a family sold into slavery, and the reunion the film allows costs almost everything first
+    humor: 1
+    acclaim: 0.95
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: true, violence: 2, sex: 0 }
+
+- id: street-of-shame
+  tmdb_id: null
+  title: Street of Shame
+  year: 1956
+  runtime: 86
+  director: Kenji Mizoguchi
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 4 # his last film, made as the Diet debated banning the profession the women on screen depend on
+    humor: 2 # the contemporary setting lets in a sharper, more sardonic edge than the period pieces allow
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }

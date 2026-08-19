@@ -1,0 +1,48 @@
+slug: kenji-mizoguchi
+kind: director
+name: Kenji Mizoguchi
+blurb: Long, unbroken takes and women destroyed by a society that then blames them for it — the contemporary-set films make clear it was never really about the period.
+
+films:
+  - film: ugetsu
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A ghost story and a wartime allegory at once — the film never visually distinguishes the dead from the living.
+
+  - film: sansho-the-bailiff
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: A family sold into slavery, and the reunion the film eventually allows costs almost everything first.
+
+  - film: osaka-elegy
+    signature: 3
+    gateway: 3
+    note: A woman supports her family by becoming a mistress, and is condemned by that same family for it.
+
+  - film: street-of-shame
+    signature: 3
+    gateway: 4
+    note: His last film, made as the Japanese Diet debated banning the profession the women on screen depend on.
+
+  - film: the-story-of-the-last-chrysanthemum
+    signature: 3
+    gateway: 2
+    note: A kabuki actor's career is saved by a woman the film then quietly discards.
+
+  - film: the-life-of-oharu
+    signature: 4
+    gateway: 2
+    note: One woman's entire life told as a single unbroken decline, with no floor to how far it goes.
+
+curated:
+  curator: house
+  rationale: The shorter, contemporary-set films first, then the two acclaimed period pieces, ending on the most punishing.
+  order:
+    - osaka-elegy
+    - street-of-shame
+    - the-story-of-the-last-chrysanthemum
+    - the-life-of-oharu
+    - ugetsu
+    - sansho-the-bailiff

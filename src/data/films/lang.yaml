@@ -1,0 +1,89 @@
+# Films for Fritz Lang. Scales and anchors are in README.md ("The anchor rubric").
+#
+# German silent epic and German early-sound thriller on one end, three Hollywood genre films after
+# he fled the Nazis on the other — the same director, and the American work is not a lesser
+# footnote to the European work, just a different kind of control over a smaller budget.
+
+- id: metropolis
+  tmdb_id: null
+  title: Metropolis
+  year: 1927
+  runtime: 148
+  director: Fritz Lang
+  tags:
+    opacity: 2 # a silent city-of-the-future allegory told almost entirely through image and scale
+    stillness: 2
+    bleakness: 4
+    humor: 1
+    acclaim: 0.90
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: m
+  tmdb_id: null
+  title: M
+  year: 1931
+  runtime: 110
+  director: Fritz Lang
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 5 # a child murderer hunted by both the police and the criminal underworld, and the manhunt is the point
+    humor: 1
+    acclaim: 0.93
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+
+- id: the-testament-of-dr-mabuse
+  tmdb_id: null
+  title: The Testament of Dr. Mabuse
+  year: 1933
+  runtime: 124
+  director: Fritz Lang
+  tags:
+    opacity: 2
+    stillness: 2
+    bleakness: 4
+    humor: 2 # a mastermind directing crimes from an asylum tips into pulp in a way his other films don't allow
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: fury
+  tmdb_id: null
+  title: Fury
+  year: 1936
+  runtime: 92
+  director: Fritz Lang
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 5 # his first American film — an innocent man nearly burned alive by a lynch mob
+    humor: 1
+    acclaim: 0.82
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: scarlet-street
+  tmdb_id: null
+  title: Scarlet Street
+  year: 1945
+  runtime: 102
+  director: Fritz Lang
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 5 # a mild clerk is manipulated, ruined, and destroys the person who did it
+    humor: 1
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: the-big-heat
+  tmdb_id: null
+  title: The Big Heat
+  year: 1953
+  runtime: 90
+  director: Fritz Lang
+  tags:
+    opacity: 1
+    stillness: 1
+    bleakness: 5 # the scalding-coffee scene alone tells you how far this one is willing to go
+    humor: 1
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
