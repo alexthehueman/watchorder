@@ -10,7 +10,7 @@
 # and stillness is doing real work to record.
 
 - id: purple-noon
-  tmdb_id: null
+  tmdb_id: 10363
   title: Purple Noon
   year: 1960
   runtime: 118
@@ -24,9 +24,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
   imdb_id: tt0054189
   poster_url: https://m.media-amazon.com/images/M/MV5BZjEyYWE3ZGItNDFkMy00MzBmLWFlNTEtYzQ3MDRjN2FkZGUxXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: purple-noon
 
 - id: rocco-and-his-brothers
-  tmdb_id: null
+  tmdb_id: 8422
   title: Rocco and His Brothers
   year: 1960
   runtime: 177
@@ -40,9 +41,10 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
   imdb_id: tt0054248
   poster_url: https://m.media-amazon.com/images/M/MV5BOTkyMjczYWUtZjFiMi00YWNlLWJlYjctNzc3YmM5YjVhY2UyXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: rocco-and-his-brothers
 
 - id: the-leopard
-  tmdb_id: null
+  tmdb_id: 1040
   title: The Leopard
   year: 1963
   runtime: 187
@@ -56,9 +58,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0057091
   poster_url: https://m.media-amazon.com/images/M/MV5BODNiYThjOGMtOTZlYy00Y2Q0LTk5MjQtYTRkNzU2OTA2OWQ1XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-leopard
 
 - id: le-samourai
-  tmdb_id: null
+  tmdb_id: 5511
   title: Le Samouraï
   year: 1967
   runtime: 105
@@ -72,6 +75,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0062229
   poster_url: https://m.media-amazon.com/images/M/MV5BYjM2ZjhkNmUtZTNlMi00YTc1LThlN2MtZDc3NDIyZTk4OGIwXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: le-samourai
 
 - id: la-piscine
   tmdb_id: null
@@ -83,7 +87,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 2 }
 
 - id: borsalino
-  tmdb_id: null
+  tmdb_id: 25251
   title: Borsalino
   year: 1970
   runtime: 125
@@ -92,9 +96,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0065486
   poster_url: https://m.media-amazon.com/images/M/MV5BZTY4OTMxNGYtNTRhMi00NWNhLTlhZWUtZGNlMmQ0MjkxNjVkXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: borsalino
 
 - id: le-cercle-rouge
-  tmdb_id: null
+  tmdb_id: 11657
   title: Le Cercle Rouge
   year: 1970
   runtime: 140
@@ -108,6 +113,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0065531
   poster_url: https://m.media-amazon.com/images/M/MV5BZTJiZjdjM2MtYTA3My00M2E3LTlhMDgtMzc0OTNhOGY2MzVjXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: le-cercle-rouge
 
 - id: un-flic
   tmdb_id: null

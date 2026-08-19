@@ -6,7 +6,7 @@
 # censors got involved.
 
 - id: red-sorghum
-  tmdb_id: null
+  tmdb_id: 42006
   title: Red Sorghum
   year: 1987
   runtime: 91
@@ -20,9 +20,10 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
   imdb_id: tt0093206
   poster_url: https://m.media-amazon.com/images/M/MV5BMmJjN2JkZTQtN2FkNi00MTQyLThlMjEtZTY5ZDc2ZjcwNjQ2XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: red-sorghum
 
 - id: ju-dou
-  tmdb_id: null
+  tmdb_id: 41821
   title: Ju Dou
   year: 1990
   runtime: 95
@@ -36,9 +37,10 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 1 }
   imdb_id: tt0099902
   poster_url: https://m.media-amazon.com/images/M/MV5BMjY0NTdlZmUtM2M4MS00YjcwLThlMDMtZjg1MmZkOTJiMmY3XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: ju-dou
 
 - id: raise-the-red-lantern
-  tmdb_id: null
+  tmdb_id: 10404
   title: Raise the Red Lantern
   year: 1991
   runtime: 125
@@ -52,9 +54,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0101640
   poster_url: https://m.media-amazon.com/images/M/MV5BZjZlMThlZTktOGYxNS00NjY0LWFkMzAtMjNiOTYxYjYxZWFmXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: raise-the-red-lantern
 
 - id: the-story-of-qiu-ju
-  tmdb_id: null
+  tmdb_id: 38143
   title: The Story of Qiu Ju
   year: 1992
   runtime: 100
@@ -63,9 +66,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0105197
   poster_url: https://m.media-amazon.com/images/M/MV5BZjU4M2FlNDItNjhkNC00ODRlLTk3Y2EtYzU2MGY4Nzk2YTlmXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-story-of-qiu-ju
 
 - id: farewell-my-concubine
-  tmdb_id: null
+  tmdb_id: 10997
   title: Farewell My Concubine
   year: 1993
   runtime: 171
@@ -79,9 +83,10 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: true, suicide: true, violence: 2, sex: 1 }
   imdb_id: tt0106332
   poster_url: https://m.media-amazon.com/images/M/MV5BYjMzZjcwNzItNTYwZC00NzAxLWE3MmMtYmU3ZjdkMWMxNDMwXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: farewell-my-concubine
 
 - id: to-live
-  tmdb_id: null
+  tmdb_id: 31439
   title: To Live
   year: 1994
   runtime: 133
@@ -95,9 +100,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0110081
   poster_url: https://m.media-amazon.com/images/M/MV5BMjZlNzNmMTktNzQzZC00YWI2LTkyMmYtMGYwZjhjNzA0MDU0XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: to-live
 
 - id: shanghai-triad
-  tmdb_id: null
+  tmdb_id: 37557
   title: Shanghai Triad
   year: 1995
   runtime: 108
@@ -106,9 +112,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 1 }
   imdb_id: tt0115012
   poster_url: https://m.media-amazon.com/images/M/MV5BMjExNzU2NDctYTQ4My00MmFkLTljN2UtN2MzYWQ1NTFiNDEyXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: shanghai-triad
 
 - id: memoirs-of-a-geisha
-  tmdb_id: null
+  tmdb_id: 1904
   title: Memoirs of a Geisha
   year: 2005
   runtime: 145
@@ -117,9 +124,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 1 }
   imdb_id: tt0397535
   poster_url: https://m.media-amazon.com/images/M/MV5BMTYxMzM4NTEzOV5BMl5BanBnXkFtZTcwNDMwNjQzMw@@._V1_SX300.jpg
+  letterboxd_slug: memoirs-of-a-geisha
 
 - id: curse-of-the-golden-flower
-  tmdb_id: null
+  tmdb_id: 1494
   title: Curse of the Golden Flower
   year: 2006
   runtime: 114
@@ -133,12 +141,13 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 3, sex: 1 }
   imdb_id: tt0473444
   poster_url: https://m.media-amazon.com/images/M/MV5BMTFhYWNkNzMtZGFiNy00MTcxLTlmNzMtMWNkODQ4N2MxZWFmXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: curse-of-the-golden-flower
 
 # Added because stillness sat at 3 for eight of nine films — accurate to the measured, deliberate
 # Zhang Yimou run, but too uniform for the axis to move anything. Miami Vice is the honest
 # outlier: an American action-thriller as tonally far from that work as she has gone.
 - id: miami-vice
-  tmdb_id: null
+  tmdb_id: 82
   title: Miami Vice
   year: 2006
   runtime: 132
@@ -152,3 +161,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 2 }
   imdb_id: tt0430357
   poster_url: https://m.media-amazon.com/images/M/MV5BMWRiNDhjYTItMWMwNy00Mzk3LWFjNjktNzk3OWMwNWFjY2RhXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: miami-vice

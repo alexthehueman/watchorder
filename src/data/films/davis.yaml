@@ -6,7 +6,7 @@
 # commercial risk rather than a prestige move.
 
 - id: of-human-bondage
-  tmdb_id: null
+  tmdb_id: 43905
   title: Of Human Bondage
   year: 1934
   runtime: 83
@@ -15,9 +15,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
   imdb_id: tt0025586
   poster_url: https://m.media-amazon.com/images/M/MV5BNDJlNDE0NDEtOTE3Yi00MDQyLTk5NWEtNjFmNjI2NWU1MGEyXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: of-human-bondage
 
 - id: jezebel
-  tmdb_id: null
+  tmdb_id: 1976
   title: Jezebel
   year: 1938
   runtime: 104
@@ -26,9 +27,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0030287
   poster_url: https://m.media-amazon.com/images/M/MV5BZGUxZDFiNmUtM2I4Ni00Yjk5LWE3ZmUtZjQ5ZGUyY2JkMmY0XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: jezebel
 
 - id: dark-victory
-  tmdb_id: null
+  tmdb_id: 27972
   title: Dark Victory
   year: 1939
   runtime: 104
@@ -42,9 +44,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0031210
   poster_url: https://m.media-amazon.com/images/M/MV5BYWI1ZGMzN2UtNGRiZS00MTllLTk3ODYtNmNiYzhhZGI1NjE0XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: dark-victory
 
 - id: the-letter
-  tmdb_id: null
+  tmdb_id: 17801
   title: The Letter
   year: 1940
   runtime: 95
@@ -58,9 +61,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
   imdb_id: tt0032701
   poster_url: https://m.media-amazon.com/images/M/MV5BZjU4ODQyNGQtZDdiMS00M2M0LTkxYjEtOTliZGI2YmI0ZDJhXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-letter
 
 - id: the-little-foxes
-  tmdb_id: null
+  tmdb_id: 43802
   title: The Little Foxes
   year: 1941
   runtime: 116
@@ -74,9 +78,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0033836
   poster_url: https://m.media-amazon.com/images/M/MV5BOGYxMzhiMzgtMjE3Ni00NTQwLWI3ZTgtOWMzZTAwOTQ2ZDU5XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-little-foxes
 
 - id: now-voyager
-  tmdb_id: null
+  tmdb_id: 32847
   title: Now, Voyager
   year: 1942
   runtime: 117
@@ -85,9 +90,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt0035140
   poster_url: https://m.media-amazon.com/images/M/MV5BNTIwOGNiMDgtODgxNi00NTAxLTk2ZGEtOTliYWY5ZGRmNzU1XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: now-voyager
 
 - id: all-about-eve
-  tmdb_id: null
+  tmdb_id: 705
   title: All About Eve
   year: 1950
   runtime: 138
@@ -101,9 +107,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt0042192
   poster_url: https://m.media-amazon.com/images/M/MV5BMTY2MTAzODI5NV5BMl5BanBnXkFtZTgwMjM4NzQ0MjE@._V1_SX300.jpg
+  letterboxd_slug: all-about-eve
 
 - id: what-ever-happened-to-baby-jane
-  tmdb_id: null
+  tmdb_id: 10242
   title: What Ever Happened to Baby Jane?
   year: 1962
   runtime: 134
@@ -117,9 +124,10 @@
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt0056687
   poster_url: https://m.media-amazon.com/images/M/MV5BMmQ0MjAwOGUtZjUzNy00MzQ1LWJkZGYtNWNhOGVjNzA2MTRjXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: what-ever-happened-to-baby-jane
 
 - id: the-great-lie
-  tmdb_id: null
+  tmdb_id: 43705
   title: The Great Lie
   year: 1941
   runtime: 108
@@ -128,9 +136,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0033677
   poster_url: https://m.media-amazon.com/images/M/MV5BOTU0Zjc0ZDYtNWE2ZS00NDg2LWE5NTQtMGI1YWU2NGFlMWY1XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-great-lie
 
 - id: the-star
-  tmdb_id: null
+  tmdb_id: 85783
   title: The Star
   year: 1952
   runtime: 89
@@ -139,3 +148,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0045186
   poster_url: https://m.media-amazon.com/images/M/MV5BM2E2N2ZhYmEtNzgxYi00OGNmLWIyMzAtMTEyZThkYmUxNjQzXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-star-1952

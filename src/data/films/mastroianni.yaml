@@ -9,7 +9,7 @@
 # life and is charming about it, which is why the humor values run high for a dramatic actor.
 
 - id: big-deal-on-madonna-street
-  tmdb_id: null
+  tmdb_id: 24382
   title: Big Deal on Madonna Street
   year: 1958
   runtime: 106
@@ -18,9 +18,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0052216
   poster_url: https://m.media-amazon.com/images/M/MV5BZGNjOTNkNWUtZGNmNS00NGU4LWFkY2EtNTM5ZGU5NzI2MTY1XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: big-deal-on-madonna-street
 
 - id: divorce-italian-style
-  tmdb_id: null
+  tmdb_id: 20271
   title: Divorce Italian Style
   year: 1961
   runtime: 105
@@ -34,9 +35,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
   imdb_id: tt0055913
   poster_url: https://m.media-amazon.com/images/M/MV5BMjE3YTlkMWMtYWUwYi00OTU1LWJmOWYtMTg1MGY4MDY0ODk0XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: divorce-italian-style
 
 - id: yesterday-today-and-tomorrow
-  tmdb_id: null
+  tmdb_id: 42801
   title: Yesterday, Today and Tomorrow
   year: 1963
   runtime: 118
@@ -45,9 +47,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
   imdb_id: tt0057171
   poster_url: https://m.media-amazon.com/images/M/MV5BNzI5M2Q3NGItOGExOC00MTUyLWEyNTMtNmIxZTI2ZWMxN2JiXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: yesterday-today-and-tomorrow-1963
 
 - id: marriage-italian-style
-  tmdb_id: null
+  tmdb_id: 49687
   title: Marriage Italian Style
   year: 1964
   runtime: 102
@@ -56,9 +59,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt0058335
   poster_url: https://m.media-amazon.com/images/M/MV5BMDkyNjI5MDEtODc0Yi00OTI4LWIzNTctMDE2OGMwMmViOTY5XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: marriage-italian-style
 
 - id: a-special-day
-  tmdb_id: null
+  tmdb_id: 42229
   title: A Special Day
   year: 1977
   runtime: 106
@@ -72,9 +76,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
   imdb_id: tt0076085
   poster_url: https://m.media-amazon.com/images/M/MV5BNjMzNWUyY2UtYWJlZC00N2JjLTgyNTEtNzFkNTljNGQzZGM5XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: a-special-day
 
 - id: la-grande-bouffe
-  tmdb_id: null
+  tmdb_id: 10102
   title: La Grande Bouffe
   year: 1973
   runtime: 130
@@ -86,6 +91,8 @@
     humor: 3
     acclaim: 0.72
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 3 }
+  letterboxd_slug: la-grande-bouffe
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/pt/x4/p4/r3/la%20grande-1200-1200-675-675-crop-000000.jpg?v=4697be47aa
 
 - id: white-nights-1957
   tmdb_id: null
@@ -99,10 +106,12 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYjUwYzczMTctMzUzNC00ZmRiLTlkN2EtNjA5ZjRjMmQ3NmVlXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: dark-eyes
-  tmdb_id: null
+  tmdb_id: 44658
   title: Dark Eyes
   year: 1987
   runtime: 118
   director: Nikita Mikhalkov
   tags: { opacity: 2, stillness: 3, bleakness: 4, humor: 3, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: dark-eyes
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/gr/sy/um/ko/metcg6lwJqJMZeQx41ISgh62iVl-1200-1200-675-675-crop-000000.jpg?v=562034c65a

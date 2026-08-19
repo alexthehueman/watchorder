@@ -8,7 +8,7 @@
 # reel, banking entirely on the audience's trust in the face refusing to believe what it saw.
 
 - id: twelve-angry-men
-  tmdb_id: null
+  tmdb_id: 389
   title: 12 Angry Men
   year: 1957
   runtime: 96
@@ -22,9 +22,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0050083
   poster_url: https://m.media-amazon.com/images/M/MV5BYjE4NzdmOTYtYjc5Yi00YzBiLWEzNDEtNTgxZGQ2MWVkN2NiXkEyXkFqcGc@._V1_QL75_UX380_CR0,11,380,562_.jpg
+  letterboxd_slug: 12-angry-men
 
 - id: mister-roberts
-  tmdb_id: null
+  tmdb_id: 37853
   title: Mister Roberts
   year: 1955
   runtime: 123
@@ -33,9 +34,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0048380
   poster_url: https://m.media-amazon.com/images/M/MV5BYzYyNTU2NDUtOGMyZi00N2Q1LTk4N2QtN2ZkNWIyZTkxMzRkXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: mister-roberts
 
 - id: once-upon-a-time-in-the-west
-  tmdb_id: null
+  tmdb_id: 335
   title: Once Upon a Time in the West
   year: 1968
   runtime: 165
@@ -49,9 +51,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt0064116
   poster_url: https://m.media-amazon.com/images/M/MV5BZjYyNGY1MDEtN2I1MC00MGVhLTljZTYtODQ1NzQ0ODc2NzZlXkEyXkFqcGc@._V1_QL75_UX380_CR0,3,380,562_.jpg
+  letterboxd_slug: once-upon-a-time-in-the-west
 
 - id: the-ox-bow-incident
-  tmdb_id: null
+  tmdb_id: 980
   title: The Ox-Bow Incident
   year: 1943
   runtime: 75
@@ -65,3 +68,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt0036244
   poster_url: https://m.media-amazon.com/images/M/MV5BZDQ2MGY2NmYtZmVmNy00ZmRiLWJjYWYtNzFhMzk4MzQ0MGQ2XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-ox-bow-incident
