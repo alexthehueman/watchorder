@@ -1,0 +1,121 @@
+# Films for Alec Guinness. Scales and anchors are in README.md ("The anchor rubric").
+#
+# He plays eight different members of the same family in Kind Hearts and Coronets, which the
+# register field cannot represent as a single value — tagged here as the film's dominant tone
+# (comic) rather than trying to average eight performances into one number.
+#
+# Star Wars is deliberately absent. He gave one of the most consequential supporting performances
+# in film history in it and resented the association for the rest of his career; the roster
+# includes it for exactly that tension rather than leaving it out to make a cleaner arthouse case.
+
+- id: great-expectations-1946
+  tmdb_id: null
+  title: Great Expectations
+  year: 1946
+  runtime: 118
+  director: David Lean
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: oliver-twist-1948
+  tmdb_id: null
+  title: Oliver Twist
+  year: 1948
+  runtime: 116
+  director: David Lean
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.80 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+
+- id: kind-hearts-and-coronets
+  tmdb_id: null
+  title: Kind Hearts and Coronets
+  year: 1949
+  runtime: 106
+  director: Robert Hamer
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 3 # eight murders played as the driest possible comedy, and it never once flinches
+    humor: 5
+    acclaim: 0.90
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-lavender-hill-mob
+  tmdb_id: null
+  title: The Lavender Hill Mob
+  year: 1951
+  runtime: 78
+  director: Charles Crichton
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 5, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-man-in-the-white-suit
+  tmdb_id: null
+  title: The Man in the White Suit
+  year: 1951
+  runtime: 85
+  director: Alexander Mackendrick
+  tags: { opacity: 2, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.82 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-ladykillers
+  tmdb_id: null
+  title: The Ladykillers
+  year: 1955
+  runtime: 91
+  director: Alexander Mackendrick
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 3 # a heist gang undone one by one by an elderly landlady who never suspects a thing
+    humor: 5
+    acclaim: 0.88
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-bridge-on-the-river-kwai
+  tmdb_id: null
+  title: The Bridge on the River Kwai
+  year: 1957
+  runtime: 161
+  director: David Lean
+  tags:
+    opacity: 1
+    stillness: 3
+    bleakness: 5 # a man's pride in his own discipline makes him complicit in helping the enemy
+    humor: 1
+    acclaim: 0.93
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: tunes-of-glory
+  tmdb_id: null
+  title: Tunes of Glory
+  year: 1960
+  runtime: 106
+  director: Ronald Neame
+  tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.80 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 0 }
+
+- id: star-wars
+  tmdb_id: null
+  title: Star Wars
+  year: 1977
+  runtime: 121
+  director: George Lucas
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.92 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 0 }
+
+- id: tinker-tailor-soldier-spy-1979
+  tmdb_id: null
+  title: Tinker Tailor Soldier Spy
+  year: 1979
+  runtime: 290
+  director: John Irvin
+  medium: series
+  episodes: 7
+  tags:
+    opacity: 4 # a mole hunt told almost entirely through silence, memory, and withheld information
+    stillness: 5
+    bleakness: 4
+    humor: 1
+    acclaim: 0.90
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }

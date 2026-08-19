@@ -1,0 +1,104 @@
+# New films for Peter Sellers. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Dr. Strangelove and Lolita already exist in kubrick.yaml — he plays three parts in the former and
+# the film's cruellest comic role in the latter, both tagged before he had an entity.
+#
+# Being There is the whole argument for including him beyond the Pink Panther films: everything
+# else here is broad, and his final performance is a masterclass in giving almost nothing at all.
+
+- id: the-pink-panther
+  tmdb_id: null
+  title: The Pink Panther
+  year: 1963
+  runtime: 113
+  director: Blake Edwards
+  tags:
+    opacity: 2 # a jewel-heist caper first — Clouseau is a supporting comic role, not even top-billed
+    stillness: 1
+    bleakness: 1
+    humor: 4
+    acclaim: 0.75
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: the-mouse-that-roared
+  tmdb_id: null
+  title: The Mouse That Roared
+  year: 1959
+  runtime: 83
+  director: Jack Arnold
+  tags:
+    opacity: 2
+    stillness: 1
+    bleakness: 2 # a bankrupt duchy declares war on America specifically hoping to lose and collect the aid money
+    humor: 4
+    acclaim: 0.72
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: a-shot-in-the-dark
+  tmdb_id: null
+  title: A Shot in the Dark
+  year: 1964
+  runtime: 102
+  director: Blake Edwards
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 5, acclaim: 0.80 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: casino-royale-1967
+  tmdb_id: null
+  title: Casino Royale
+  year: 1967
+  runtime: 131
+  director: Val Guest
+  tags:
+    opacity: 4 # a Bond spoof made by five credited directors, and it shows in every reel
+    stillness: 2
+    bleakness: 2
+    humor: 3
+    acclaim: 0.40
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: being-there
+  tmdb_id: null
+  title: Being There
+  year: 1979
+  runtime: 130
+  director: Hal Ashby
+  tags:
+    opacity: 2 # a simpleton's blank pronouncements are mistaken for profundity by everyone around him
+    stillness: 4
+    bleakness: 3
+    humor: 4
+    acclaim: 0.90
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: im-all-right-jack
+  tmdb_id: null
+  title: "I'm All Right Jack"
+  year: 1959
+  runtime: 105
+  director: John Boulting
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 3 # a genuinely sharp satire of British industrial relations, with contempt for both sides
+    humor: 4
+    acclaim: 0.75
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+# Added because opacity and stillness were both clustered at 1-2 across seven of eight films —
+# only Casino Royale broke the pattern. The Magic Christian is genuinely the outlier the rest of
+# the filmography lacks: a plotless, deliberately alienating satire about what money makes people
+# do, built from sketches rather than a story.
+- id: the-magic-christian
+  tmdb_id: null
+  title: The Magic Christian
+  year: 1969
+  runtime: 95
+  director: Joseph McGrath
+  tags:
+    opacity: 4 # barely a plot, structured as escalating sketches with no throughline offered
+    stillness: 3
+    bleakness: 3
+    humor: 3
+    acclaim: 0.55
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }

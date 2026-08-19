@@ -1,0 +1,98 @@
+slug: alec-guinness
+kind: actor
+name: Alec Guinness
+blurb: Played eight members of one family in a single film, then spent thirty years disappearing into characters until one role he resented followed him everywhere.
+
+films:
+  - film: kind-hearts-and-coronets
+    signature: 5
+    showcase: 5
+    must_see: true
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: Eight murders, eight members of the same family, all played by him. The driest comedy ever filmed about killing your relatives.
+
+  - film: the-bridge-on-the-river-kwai
+    signature: 5
+    showcase: 5
+    must_see: true
+    role_size: lead
+    register: unhinged
+    gateway: 4
+    note: A prisoner's discipline curdles into collaboration with his own captors. Won him the Oscar.
+
+  - film: tinker-tailor-soldier-spy-1979
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 2      # a five-hour mole hunt told almost entirely through silence
+    note: George Smiley hunting a Soviet mole inside British intelligence, told almost entirely through what is withheld.
+
+  - film: the-lavender-hill-mob
+    signature: 4
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: A meek bank clerk plans the perfect gold heist. Ealing comedy at its most purely enjoyable.
+
+  - film: the-ladykillers
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: A heist gang undone one by one by the elderly landlady none of them can bring themselves to harm.
+
+  - film: tunes-of-glory
+    signature: 3
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 3
+    note: A working-class colonel's authority is quietly stripped away by his aristocratic replacement.
+
+  - film: the-man-in-the-white-suit
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 4
+    note: An inventor of an indestructible fabric becomes a threat to every industry at once.
+
+  - film: great-expectations-1946
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: warm
+    gateway: 4
+    note: His film debut, as Herbert Pocket, in Lean's Dickens adaptation.
+
+  - film: oliver-twist-1948
+    signature: 2
+    showcase: 4
+    role_size: supporting
+    register: menacing
+    gateway: 3
+    note: Fagin, played with a prosthetic nose that got the film banned in several countries on release.
+
+  - film: star-wars
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: warm
+    gateway: 5
+    note: Obi-Wan Kenobi. The role that made him famous to a wider audience than anything else, and that he came to resent.
+
+curated:
+  curator: house
+  rationale: The two performances that made his reputation, then the range that explains why one role frustrated him so much.
+  order:
+    - kind-hearts-and-coronets
+    - the-bridge-on-the-river-kwai
+    - the-lavender-hill-mob
+    - the-ladykillers
+    - tunes-of-glory
+    - tinker-tailor-soldier-spy-1979

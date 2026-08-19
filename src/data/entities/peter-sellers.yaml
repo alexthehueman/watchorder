@@ -1,0 +1,98 @@
+slug: peter-sellers
+kind: actor
+name: Peter Sellers
+blurb: Disappeared so completely into characters that his directors sometimes struggled to find the actual man underneath them.
+
+films:
+  - film: dr-strangelove
+    signature: 5
+    showcase: 5
+    must_see: true
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: Plays three parts, including the President and the title character. The blueprint for how far one actor can stretch a film.
+
+  - film: being-there
+    signature: 3
+    showcase: 5
+    must_see: true
+    role_size: lead
+    register: restrained
+    gateway: 2      # everything else here is broad; this is the opposite, and it needs the contrast to land
+    note: A simpleton's blank statements are mistaken for profundity by everyone around him. He gives almost nothing, deliberately.
+
+  - film: lolita
+    signature: 3
+    showcase: 4
+    role_size: supporting
+    register: unhinged
+    gateway: 3
+    note: Clare Quilty, the film's cruellest and strangest performance, mostly improvised.
+
+  - film: the-pink-panther
+    signature: 4
+    showcase: 2
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: The introduction of Inspector Clouseau, though he was not even the top-billed star of this one.
+
+  - film: a-shot-in-the-dark
+    signature: 5
+    showcase: 2
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: The film that made Clouseau the whole show. The character crystallises here.
+
+  - film: im-all-right-jack
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: menacing
+    gateway: 4
+    note: A pompous shop steward in a genuinely sharp satire of British industrial relations, with contempt for management and union alike.
+
+  - film: casino-royale-1967
+    signature: 2
+    showcase: 2
+    role_size: lead
+    register: unhinged
+    gateway: 1
+    note: A Bond spoof made by five directors at once, and it is as incoherent as that sounds. He walked off before finishing his scenes.
+
+  - film: the-ladykillers
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: menacing
+    gateway: 4
+    note: Harry, one of Guinness's heist gang — not a comic lead here, one component of a plot where the gang kills each other off one by one.
+
+  - film: the-mouse-that-roared
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 4
+    note: Plays three roles in a tiny nation's plot to lose a war against America on purpose, for the aid money.
+
+  - film: the-magic-christian
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: unhinged
+    gateway: 1      # barely a plot, built from escalating sketches; a disorienting first Sellers
+    note: A billionaire pays strangers to debase themselves for money, in a film with almost no plot at all.
+
+curated:
+  curator: house
+  rationale: The two performances that show his full range, then the character that made him famous.
+  order:
+    - dr-strangelove
+    - being-there
+    - the-pink-panther
+    - a-shot-in-the-dark
+    - im-all-right-jack
+    - lolita

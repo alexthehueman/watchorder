@@ -1,0 +1,90 @@
+slug: peter-otoole
+kind: actor
+name: Peter O'Toole
+blurb: Lost the Best Actor Oscar eight times, across a career that moved between epic lead and stage-trained comic often within the same decade.
+
+films:
+  - film: lawrence-of-arabia
+    signature: 5
+    showcase: 5
+    must_see: true
+    role_size: lead
+    register: unhinged
+    gateway: 3
+    note: A film debut that remains the performance. Lean's desert remakes him into someone his own army cannot use.
+
+  - film: the-lion-in-winter
+    signature: 5
+    showcase: 4
+    must_see: true
+    role_size: lead
+    register: menacing
+    gateway: 4
+    note: Henry II and Eleanor of Aquitaine spend a Christmas destroying each other, brilliantly.
+
+  - film: becket
+    signature: 4
+    showcase: 3
+    role_size: lead
+    register: menacing
+    gateway: 3
+    note: The same king, a decade younger, watching a friendship curdle into a murder he ordered.
+
+  - film: the-ruling-class
+    signature: 3
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 1      # an earl who believes he is Christ, then something considerably worse
+    note: An earl who believes he is Christ, sung and danced through a satire of the British aristocracy.
+
+  - film: the-stunt-man
+    signature: 3
+    showcase: 5
+    role_size: lead
+    register: comic
+    gateway: 3
+    note: A director who may be manipulating a fugitive's whole reality for the cameras. Deliberately never clarified.
+
+  - film: my-favorite-year
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: A swashbuckling drunk of a movie star, loosely based on Errol Flynn. Purely enjoyable.
+
+  - film: the-last-emperor
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: warm
+    gateway: 4
+    note: Puyi's Scottish tutor, in Bertolucci's epic about the last emperor of China.
+
+  - film: whats-new-pussycat
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: comic
+    gateway: 3
+    note: A frantic sixties sex farce, written by Woody Allen. Silly, and unmistakably of its moment.
+
+  - film: goodbye-mr-chips-1969
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: A musical remake, and a gentler register than almost anything else he did.
+
+curated:
+  curator: house
+  rationale: The two towering performances first, then the range that explains why he never won for either.
+  order:
+    - lawrence-of-arabia
+    - the-lion-in-winter
+    - becket
+    - my-favorite-year
+    - the-stunt-man
+    - the-ruling-class

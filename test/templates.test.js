@@ -104,9 +104,12 @@ test('the index page separates directors, actors and studios into their own sect
   assert.equal(rosterCount, kindCount, 'expected one roster list per distinct entity kind');
 
   // Every entity appears exactly once, in its own kind's section rather than scattered or
-  // duplicated across sections.
+  // duplicated across sections. Matched against esc(name), not the raw name — the attribute is
+  // HTML-escaped on render (correctly: apostrophes and the rest are unsafe to interpolate raw,
+  // per the "corpus text is escaped" test elsewhere), so a raw-string search silently undercounts
+  // any entity whose name contains one of those characters. Peter O'Toole was the first to hit it.
   for (const entity of corpus.entities) {
-    const occurrences = html.split(`data-name="${entity.name.toLowerCase()}"`).length - 1;
+    const occurrences = html.split(`data-name="${esc(entity.name.toLowerCase())}"`).length - 1;
     assert.equal(occurrences, 1, `${entity.slug} appears ${occurrences} times, expected exactly 1`);
   }
 });
