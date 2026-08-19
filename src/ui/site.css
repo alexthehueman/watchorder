@@ -249,6 +249,30 @@ ul.roster a:hover .name { color: var(--accent); }
 
 .roster-section[hidden] { display: none; }
 
+ul.canon-films {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.canon-film {
+  display: grid;
+  grid-template-columns: 3.5rem 1fr;
+  gap: 1rem;
+  padding: 1.25rem 0;
+  border-top: 1px solid var(--rule);
+}
+
+.canon-film:last-child { border-bottom: 1px solid var(--rule); }
+
+.canon-film .meta a {
+  color: var(--muted);
+  text-decoration: none;
+  border-bottom: 1px dotted var(--rule);
+}
+
+.canon-film .meta a:hover { color: var(--accent); border-bottom-color: var(--accent); }
+
 .kind-tabs {
   display: flex;
   gap: 1.5rem;
@@ -442,5 +466,6 @@ footer.site p { margin: 0 0 0.5rem; }
 
 @media (max-width: 30rem) {
   li.film { grid-template-columns: 1.75rem 2.75rem 1fr; gap: 0.75rem; }
+  .canon-film { grid-template-columns: 2.75rem 1fr; gap: 0.75rem; }
   .poster, .poster-placeholder { width: 2.75rem; height: 4.125rem; }
 }

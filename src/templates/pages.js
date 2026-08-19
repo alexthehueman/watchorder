@@ -235,6 +235,47 @@ const KIND_SECTIONS = [
 ];
 
 /**
+ * Every must-see film in the corpus, deduped by film. A shared film — the ones tagged once and
+ * referenced by several entities — can be must_see under more than one of them; the canon lists it
+ * once and links to whichever entity rates it highest by signature, rather than an arbitrary one.
+ */
+function collectCanon(entities, filmsById) {
+  const best = new Map();
+  for (const entity of entities) {
+    for (const pair of entity.films ?? []) {
+      if (!pair.must_see) continue;
+      const existing = best.get(pair.film);
+      if (!existing || pair.signature > existing.pair.signature) {
+        best.set(pair.film, { film: filmsById.get(pair.film), pair, entity });
+      }
+    }
+  }
+  return [...best.values()].sort((a, b) => a.film.year - b.film.year);
+}
+
+/** One row in the Film Canon — no rank, since the list isn't an ordering, just a set. */
+function canonCard(entry, base) {
+  const { film, pair, entity } = entry;
+  const poster = film.poster_url
+    ? `<img class="poster" src="${esc(film.poster_url)}" alt="" loading="lazy" width="56" height="84">`
+    : `<div class="poster-placeholder" aria-hidden="true"></div>`;
+  return `          <li class="canon-film">
+            ${poster}
+            <div class="body">
+              <h3>${esc(film.title)} <span class="year">${film.year}</span></h3>
+              <p class="meta">
+                <a href="${esc(url(base, `/${entity.kind}/${entity.slug}/`))}">${esc(entity.name)}</a>${
+                  film.letterboxd_slug
+                    ? ` · <a class="letterboxd" href="https://letterboxd.com/film/${esc(film.letterboxd_slug)}/" target="_blank" rel="noopener noreferrer">Letterboxd ↗</a>`
+                    : ''
+                }
+              </p>
+              ${pair.note ? `<p class="note">${esc(pair.note)}</p>` : ''}
+            </div>
+          </li>`;
+}
+
+/**
  * One roster entry. `data-name`/`data-blurb` duplicate visible text into attributes rather than
  * re-reading textContent at search time — cheap, and it keeps the matching logic in search.js
  * from caring about the markup inside the card.
@@ -265,11 +306,21 @@ export function indexPage(entities, filmsById, site) {
   for (const entity of entities) byKind.get(entity.kind)?.push(entity);
 
   const kindsPresent = KIND_SECTIONS.filter((section) => byKind.get(section.kind).length > 0);
+  const canon = collectCanon(entities, filmsById);
+
+  // The canon tab is additive to the entity-kind tabs rather than one of them — "canon" is not an
+  // entity kind, just a fourth thing worth its own tab. The tab system doesn't care either way: it
+  // toggles any .roster-section by its data-kind attribute, so reusing that attribute here needs no
+  // change to search.js at all.
+  const tabSections = [
+    ...kindsPresent.map((section) => ({ key: section.kind, label: section.heading })),
+    ...(canon.length > 0 ? [{ key: 'canon', label: 'Film Canon' }] : []),
+  ];
 
   const tabs = `      <div class="kind-tabs" id="kind-tabs" role="tablist" hidden>
-${kindsPresent
+${tabSections
   .map(
-    (section, i) => `        <button type="button" role="tab" class="kind-tab" data-kind="${section.kind}" aria-selected="${i === 0}">${section.heading}</button>`,
+    (section, i) => `        <button type="button" role="tab" class="kind-tab" data-kind="${section.key}" aria-selected="${i === 0}">${section.label}</button>`,
   )
   .join('\n')}
       </div>`;
@@ -287,6 +338,17 @@ ${byKind
       </section>`,
     )
     .join('\n');
+
+  const canonSection =
+    canon.length > 0
+      ? `      <section class="roster-section" aria-labelledby="canon" data-kind="canon">
+        <h2 id="canon">Film Canon</h2>
+        <p class="aside">Every film marked must-see across the whole corpus — ${canon.length} in all, in release order.</p>
+        <ul class="canon-films">
+${canon.map((entry) => canonCard(entry, base)).join('\n')}
+        </ul>
+      </section>`
+      : '';
 
   // Search matches films as well as entities, and a film can belong to more than one — Wild at
   // Heart is a Lynch film and a Cage performance, and a search for it should offer both. One row
@@ -325,6 +387,8 @@ ${byKind
 ${tabs}
 
 ${sections}
+
+${canonSection}
     </main>
     <script type="application/json" id="search-data">${JSON.stringify(searchIndex).replace(/</g, '\\u003c')}</script>
     <script type="module" src="${esc(url(base, '/ui/search.js'))}"></script>`;
