@@ -16,6 +16,8 @@
   director: John Huston
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  imdb_id: tt0042208
+  poster_url: https://m.media-amazon.com/images/M/MV5BMWE2Y2E0ZTMtYzZmNi00MzZiLTg0ZTctMGY2YWJkMzE3NDEyXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: niagara
   tmdb_id: null
@@ -30,6 +32,8 @@
     humor: 1
     acclaim: 0.72
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  imdb_id: tt0046126
+  poster_url: https://m.media-amazon.com/images/M/MV5BYTJiODA4ZmItZDE1MS00ODk4LTkyODYtNTk5ODdhY2Q4MTFhXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-seven-year-itch
   tmdb_id: null
@@ -39,6 +43,8 @@
   director: Billy Wilder
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 5, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  imdb_id: tt0048605
+  poster_url: https://m.media-amazon.com/images/M/MV5BMzE3OWRkMzUtYmYzNS00ZmRmLTkzMjctZjEwMDFmYmZlYjEzXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: bus-stop
   tmdb_id: null
@@ -53,6 +59,8 @@
     humor: 2
     acclaim: 0.75
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0049038
+  poster_url: https://m.media-amazon.com/images/M/MV5BZjc2MDRkMWQtMDE2Yi00MDdhLWFiOTAtODI5MGRhNTA3OWI2XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-misfits
   tmdb_id: null
@@ -67,3 +75,5 @@
     humor: 1
     acclaim: 0.78
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0055184
+  poster_url: https://m.media-amazon.com/images/M/MV5BMDFiZmEwN2QtN2Y1Ny00ODM2LTgyZjYtMTI2YzdmNmJhMDUzXkEyXkFqcGc@._V1_SX300.jpg

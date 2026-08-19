@@ -21,6 +21,8 @@
     humor: 1
     acclaim: 0.62
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+  imdb_id: tt0094888
+  poster_url: https://m.media-amazon.com/images/M/MV5BOWFhODY5MjItMmUyMC00YThlLWE1NzktMjdiMjE4NDU1MzBmXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: for-a-few-dollars-more
   tmdb_id: null
@@ -30,6 +32,8 @@
   director: Sergio Leone
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0059578
+  poster_url: https://m.media-amazon.com/images/M/MV5BNTRmOTcyYmYtMTIwNi00ZGYyLTk4YjYtZGJlZTgwZGY0NGQyXkEyXkFqcGc@._V1_QL75_UX380_CR0,7,380,562_.jpg
 
 - id: doctor-zhivago
   tmdb_id: null
@@ -44,6 +48,8 @@
     humor: 1
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  imdb_id: tt0059113
+  poster_url: https://m.media-amazon.com/images/M/MV5BNWQyZGNmZWItNjc0OS00M2YyLWJkZmYtZWNlNDE2MzMwYzUzXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: crawlspace
   tmdb_id: null
@@ -58,3 +64,5 @@
     humor: 1
     acclaim: 0.35
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+  imdb_id: tt0090881
+  poster_url: https://m.media-amazon.com/images/M/MV5BMDcwYWNhNDMtMTJiOC00Zjk4LWE5ZmEtMTI3MGI4MDQxN2Q1XkEyXkFqcGc@._V1_SX300.jpg
