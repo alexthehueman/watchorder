@@ -1,0 +1,56 @@
+# Films for Jean Vigo. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The entire filmography — he died of tuberculosis at 29, months after L'Atalante's release, having
+# made one documentary short, one medium-length feature, and one full feature. All three are still
+# considered essential.
+
+- id: a-propos-de-nice
+  tmdb_id: null
+  title: À propos de Nice
+  year: 1930
+  runtime: 25
+  director: Jean Vigo
+  tags:
+    opacity: 3 # a satirical city-symphony assembled through free-associative editing, no plot to follow
+    stillness: 1
+    bleakness: 1
+    humor: 4
+    acclaim: 0.70
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: taris
+  tmdb_id: null
+  title: Taris
+  year: 1931
+  runtime: 9
+  director: Jean Vigo
+  tags:
+    opacity: 2 # underwater slow-motion and freeze-frames of a swimmer's body, more formal study than portrait
+    stillness: 3
+    bleakness: 1
+    humor: 2
+    acclaim: 0.70
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: zero-de-conduite
+  tmdb_id: null
+  title: Zéro de Conduite
+  year: 1933
+  runtime: 43
+  director: Jean Vigo
+  tags:
+    opacity: 2
+    stillness: 2
+    bleakness: 3 # a boarding-school rebellion that tips into genuine anarchic dream logic by the end
+    humor: 3
+    acclaim: 0.82
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: l-atalante
+  tmdb_id: null
+  title: L'Atalante
+  year: 1934
+  runtime: 89
+  director: Jean Vigo
+  tags: { opacity: 1, stillness: 4, bleakness: 3, humor: 1, acclaim: 0.92 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }

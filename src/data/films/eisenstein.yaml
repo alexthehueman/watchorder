@@ -1,0 +1,61 @@
+# Films for Sergei Eisenstein. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The theorist of montage editing, across two very different Soviet eras — the raw agitprop of the
+# silent 1920s and the stylized, theatrical historical epics of the Stalin years, made under direct
+# political pressure that shows in how differently Ivan the Terrible reads today than it did then.
+
+- id: strike
+  tmdb_id: null
+  title: Strike
+  year: 1925
+  runtime: 82
+  director: Sergei Eisenstein
+  tags:
+    opacity: 2 # his first feature, more experimental and abstract in its editing than the films that followed
+    stillness: 1
+    bleakness: 5 # a factory strike ends with the army massacring the workers and their families
+    humor: 1
+    acclaim: 0.78
+  content: { sexual_violence: false, animal_harm: true, child_harm: true, suicide: false, violence: 3, sex: 0 }
+
+- id: battleship-potemkin
+  tmdb_id: null
+  title: Battleship Potemkin
+  year: 1925
+  runtime: 74
+  director: Sergei Eisenstein
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 5 # the Odessa Steps sequence alone has been quoted or parodied in dozens of later films
+    humor: 1
+    acclaim: 0.93
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
+
+- id: alexander-nevsky
+  tmdb_id: null
+  title: Alexander Nevsky
+  year: 1938
+  runtime: 111
+  director: Sergei Eisenstein
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 3
+    humor: 2 # a blacksmith and a peasant soldier's rival courtship plays as genuine comic relief between battles
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: ivan-the-terrible-part-i
+  tmdb_id: null
+  title: Ivan the Terrible, Part I
+  year: 1944
+  runtime: 103
+  director: Sergei Eisenstein
+  tags:
+    opacity: 2
+    stillness: 3
+    bleakness: 4
+    humor: 1
+    acclaim: 0.82
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

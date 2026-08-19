@@ -1,0 +1,36 @@
+slug: jean-vigo
+kind: director
+name: Jean Vigo
+blurb: One documentary short, one medium-length feature, and one full feature — the entire filmography of a director who died at 29, and all three are still considered essential.
+
+films:
+  - film: l-atalante
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A barge, a marriage, and a river — one of the most influential romantic films ever made, from someone who never lived to see it recognized as such.
+
+  - film: zero-de-conduite
+    signature: 4
+    must_see: true
+    gateway: 3
+    note: A boarding-school rebellion that tips into genuine anarchic dream logic. Banned in France for over a decade.
+
+  - film: a-propos-de-nice
+    signature: 3
+    gateway: 3
+    note: A satirical city-symphony documentary, mocking the idle rich of Nice through pure free-associative editing.
+
+  - film: taris
+    signature: 2
+    gateway: 4
+    note: A nine-minute portrait of a swimmer, shot underwater with slow motion and freeze-frames he'd rarely use again.
+
+curated:
+  curator: house
+  rationale: The two short documentaries first, then the two features in the order he made them.
+  order:
+    - a-propos-de-nice
+    - taris
+    - zero-de-conduite
+    - l-atalante

@@ -1,0 +1,36 @@
+slug: sergei-eisenstein
+kind: director
+name: Sergei Eisenstein
+blurb: The theorist of montage editing, across two very different Soviet eras — raw 1920s agitprop, then stylized historical epics made under direct political pressure.
+
+films:
+  - film: battleship-potemkin
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: The Odessa Steps sequence alone has been quoted or parodied in dozens of later films. Still the reference point for what editing can do.
+
+  - film: alexander-nevsky
+    signature: 4
+    must_see: true
+    gateway: 4
+    note: A medieval battle epic scored by Prokofiev, made as the Soviet Union braced for a German invasion it knew was coming.
+
+  - film: strike
+    signature: 3
+    gateway: 2
+    note: His first feature — rawer and more experimental than Potemkin, and it ends with the army massacring the strikers' families.
+
+  - film: ivan-the-terrible-part-i
+    signature: 4
+    gateway: 2
+    note: A stylized, theatrical court tragedy made under Stalin's direct patronage. Part II was banned for the parallel being too obvious.
+
+curated:
+  curator: house
+  rationale: The two landmark films first, then the rawer early work, ending on the most stylistically demanding.
+  order:
+    - battleship-potemkin
+    - alexander-nevsky
+    - strike
+    - ivan-the-terrible-part-i

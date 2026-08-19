@@ -1,0 +1,62 @@
+# Films for Dziga Vertov. Scales and anchors are in README.md ("The anchor rubric").
+#
+# A small roster reflecting a genuinely small canon within a huge body of newsreel and propaganda
+# work — these three are the ones still watched as films rather than as historical documents. Three
+# Songs About Lenin is explicit Stalin-era hagiography, included for its place in documentary
+# history rather than for the politics, which the content tags do not attempt to launder.
+
+- id: a-sixth-part-of-the-world
+  tmdb_id: null
+  title: A Sixth Part of the World
+  year: 1926
+  runtime: 73
+  director: Dziga Vertov
+  tags:
+    opacity: 2
+    stillness: 2
+    bleakness: 2
+    humor: 1
+    acclaim: 0.72
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: man-with-a-movie-camera
+  tmdb_id: null
+  title: Man with a Movie Camera
+  year: 1929
+  runtime: 68
+  director: Dziga Vertov
+  tags:
+    opacity: 1 # no plot to follow, but nothing hidden either — the whole point is laid bare on screen
+    stillness: 1
+    bleakness: 1
+    humor: 3
+    acclaim: 0.92
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: enthusiasm
+  tmdb_id: null
+  title: Enthusiasm
+  year: 1930
+  runtime: 65
+  director: Dziga Vertov
+  tags:
+    opacity: 3 # an early sound film built around industrial noise as much as image, more abstract than a plot
+    stillness: 2
+    bleakness: 2
+    humor: 1
+    acclaim: 0.75
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: three-songs-about-lenin
+  tmdb_id: null
+  title: Three Songs About Lenin
+  year: 1934
+  runtime: 57
+  director: Dziga Vertov
+  tags:
+    opacity: 3 # a montage structure that assumes real familiarity with Soviet hagiographic convention to parse
+    stillness: 3 # built around folk laments, and paced like mourning rather than propaganda's usual urgency
+    bleakness: 4
+    humor: 1
+    acclaim: 0.68
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

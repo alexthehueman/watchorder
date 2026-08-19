@@ -1,0 +1,46 @@
+# Films for F.W. Murnau. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Nosferatu is the film Herzog remade in 1979 (already in herzog.yaml and kinski.yaml as a separate,
+# later film) — this is the 1922 original, unauthorized enough to nearly be destroyed entirely after
+# Bram Stoker's estate sued, and the reason it survived at all is scattered prints nobody found.
+
+- id: nosferatu-1922
+  tmdb_id: null
+  title: Nosferatu
+  year: 1922
+  runtime: 89
+  director: F.W. Murnau
+  tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.90 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 0 }
+
+- id: the-last-laugh
+  tmdb_id: null
+  title: The Last Laugh
+  year: 1924
+  runtime: 90
+  director: F.W. Murnau
+  tags:
+    opacity: 1
+    stillness: 3
+    bleakness: 5 # a doorman's whole identity collapses when he loses his uniform, told with almost no intertitles
+    humor: 1
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: faust-1926
+  tmdb_id: null
+  title: Faust
+  year: 1926
+  runtime: 106
+  director: F.W. Murnau
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.82 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: sunrise
+  tmdb_id: null
+  title: Sunrise
+  year: 1927
+  runtime: 95
+  director: F.W. Murnau
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.95 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }

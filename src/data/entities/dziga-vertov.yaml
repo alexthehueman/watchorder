@@ -1,0 +1,35 @@
+slug: dziga-vertov
+kind: director
+name: Dziga Vertov
+blurb: Kino-eye — the camera as something sharper than human sight, applied to Soviet city life, industry, and finally to hagiography.
+
+films:
+  - film: a-sixth-part-of-the-world
+    signature: 3
+    gateway: 3
+    note: An early travelogue-essay across Soviet territory and trade, more celebratory and nationalistic than the films that followed.
+
+  - film: man-with-a-movie-camera
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: No intertitles, no actors, no script — a kaleidoscopic day-in-the-life of Soviet cities, and still one of the most purely visual films made.
+
+  - film: enthusiasm
+    signature: 3
+    gateway: 3
+    note: An early sound film built around industrial noise as much as image — the Donbass coal region, celebrated as spectacle.
+
+  - film: three-songs-about-lenin
+    signature: 2
+    gateway: 2
+    note: Built around folk laments after Lenin's death, and explicit hagiography — included for its place in documentary history.
+
+curated:
+  curator: house
+  rationale: The landmark film first, then the two shorter, more overtly propagandistic works.
+  order:
+    - a-sixth-part-of-the-world
+    - man-with-a-movie-camera
+    - enthusiasm
+    - three-songs-about-lenin

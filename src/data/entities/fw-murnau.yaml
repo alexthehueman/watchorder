@@ -1,0 +1,36 @@
+slug: fw-murnau
+kind: director
+name: F.W. Murnau
+blurb: Silent-era German expressionism at its most visually radical — a vampire, a fallen doorman, a devil's bargain, and a marriage nearly destroyed, all told mostly without words.
+
+films:
+  - film: sunrise
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A husband talked into murdering his wife, then talked out of it by the city itself. His first Hollywood film, and his most tender.
+
+  - film: nosferatu-1922
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: The vampire film every other vampire film is still reacting to, made without the rights to Dracula and nearly destroyed for it.
+
+  - film: the-last-laugh
+    signature: 4
+    gateway: 3
+    note: A hotel doorman demoted to washroom attendant, and the film tracks his collapse almost entirely through his posture.
+
+  - film: faust-1926
+    signature: 3
+    gateway: 2
+    note: The devil's bargain, staged as pure silent-era spectacle — plague, seduction, and an army of shadows.
+
+curated:
+  curator: house
+  rationale: The most emotionally direct film first, then the horror landmark, before the two harder formal experiments.
+  order:
+    - sunrise
+    - nosferatu-1922
+    - the-last-laugh
+    - faust-1926
