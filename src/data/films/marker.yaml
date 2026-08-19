@@ -1,0 +1,62 @@
+# Films for Chris Marker. Scales and anchors are in README.md ("The anchor rubric").
+#
+# A small roster by design — most of a hundred-plus-title career is shorts, collaborations and
+# footage essays that resist being tagged as discrete "films" at all. These four are the ones that
+# stand alone: a science-fiction story told in stills, a globe-spanning essay, a three-hour history
+# of the postwar left, and a video-game framing device for the Battle of Okinawa.
+
+- id: la-jetee
+  tmdb_id: null
+  title: La Jetée
+  year: 1962
+  runtime: 28
+  director: Chris Marker
+  tags:
+    opacity: 3 # a time-travel story told almost entirely in still photographs, one shot of motion in the whole film
+    stillness: 5
+    bleakness: 5
+    humor: 1
+    acclaim: 0.90
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: sans-soleil
+  tmdb_id: null
+  title: Sans Soleil
+  year: 1983
+  runtime: 103
+  director: Chris Marker
+  tags:
+    opacity: 4 # a free-associative essay drifting between Japan, Guinea-Bissau, memory and machines
+    stillness: 3
+    bleakness: 3
+    humor: 2
+    acclaim: 0.88
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: level-five
+  tmdb_id: null
+  title: Level Five
+  year: 1997
+  runtime: 106
+  director: Chris Marker
+  tags:
+    opacity: 3 # a woman finishing her dead partner's video game about the Battle of Okinawa, fiction laced with real footage
+    stillness: 3
+    bleakness: 5
+    humor: 1
+    acclaim: 0.72
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: a-grin-without-a-cat
+  tmdb_id: null
+  title: A Grin Without a Cat
+  year: 1977
+  runtime: 180
+  director: Chris Marker
+  tags:
+    opacity: 3 # three hours of the postwar international left, assuming real familiarity with its history
+    stillness: 2
+    bleakness: 4
+    humor: 1
+    acclaim: 0.75
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

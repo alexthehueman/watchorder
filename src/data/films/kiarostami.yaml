@@ -1,0 +1,57 @@
+# Films for Abbas Kiarostami. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Close-Up blends a real court case with restaged footage of the same people playing themselves —
+# the ambiguity is not a side effect of his style, it is usually the entire subject. Certified Copy
+# already exists in binoche.yaml (Juliette Binoche is the lead) — referenced here rather than
+# re-tagged.
+
+- id: where-is-the-friends-house
+  tmdb_id: null
+  title: Where Is the Friend's House?
+  year: 1987
+  runtime: 83
+  director: Abbas Kiarostami
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: close-up
+  tmdb_id: null
+  title: Close-Up
+  year: 1990
+  runtime: 90
+  director: Abbas Kiarostami
+  tags:
+    opacity: 3 # a real court case, restaged with the actual people playing themselves, blurred deliberately
+    stillness: 3
+    bleakness: 3
+    humor: 1
+    acclaim: 0.92
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: taste-of-cherry
+  tmdb_id: null
+  title: Taste of Cherry
+  year: 1997
+  runtime: 99
+  director: Abbas Kiarostami
+  tags:
+    opacity: 2
+    stillness: 5 # a man drives around Tehran asking strangers to bury him, and the film never explains why
+    bleakness: 5
+    humor: 1
+    acclaim: 0.88
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
+
+- id: ten
+  tmdb_id: null
+  title: Ten
+  year: 2002
+  runtime: 93
+  director: Abbas Kiarostami
+  tags:
+    opacity: 2
+    stillness: 4 # ten conversations, shot entirely from two fixed dashboard cameras inside one car
+    bleakness: 3
+    humor: 2
+    acclaim: 0.78
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

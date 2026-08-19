@@ -1,0 +1,42 @@
+slug: vittorio-de-sica
+kind: director
+name: Vittorio De Sica
+blurb: The face of Italian neorealism, minus the one film that proves he could just as easily have made fables instead.
+
+films:
+  - film: bicycle-thieves
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A father and son search Rome for a stolen bicycle he needs to keep his job. Neorealism's defining film.
+
+  - film: umberto-d
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: An old man and his dog, with nothing left but pride. Made almost entirely of ordinary, unbearable moments.
+
+  - film: shoeshine
+    signature: 4
+    gateway: 3
+    note: Two boys sent to juvenile detention for a small crime, and the system finishes what the crime started.
+
+  - film: two-women
+    signature: 4
+    gateway: 2
+    note: A mother and daughter fleeing occupied Rome. Sophia Loren's performance won her an Oscar.
+
+  - film: miracle-in-milan
+    signature: 3
+    gateway: 4
+    note: A shantytown that levitates away on brooms at the end — the fable he made between two of his bleakest films.
+
+curated:
+  curator: house
+  rationale: The film that defines him, then the one that goes further, with the fable as relief between the heaviest work.
+  order:
+    - bicycle-thieves
+    - shoeshine
+    - miracle-in-milan
+    - two-women
+    - umberto-d

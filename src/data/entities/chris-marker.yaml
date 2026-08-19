@@ -1,0 +1,36 @@
+slug: chris-marker
+kind: director
+name: Chris Marker
+blurb: Essay filmmaking as its own genre — memory, politics and machines circled rather than argued, in whatever form the thought needed that year.
+
+films:
+  - film: la-jetee
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A post-apocalyptic time-travel story told almost entirely in still photographs. Twenty-eight minutes, and it became the basis for 12 Monkeys.
+
+  - film: sans-soleil
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A free-associative essay film drifting between Japan, Guinea-Bissau, memory and machines. Recommended as an opener almost as often as La Jetée, for a different kind of viewer.
+
+  - film: level-five
+    signature: 3
+    gateway: 2
+    note: A woman finishes her dead partner's video game about the Battle of Okinawa, fiction laced with real wartime footage.
+
+  - film: a-grin-without-a-cat
+    signature: 3
+    gateway: 1
+    note: Three hours on the international left from Vietnam to Chile, assuming you already know most of the history.
+
+curated:
+  curator: house
+  rationale: The short, essential film first, then the two features, saving the three-hour history for last.
+  order:
+    - la-jetee
+    - level-five
+    - sans-soleil
+    - a-grin-without-a-cat

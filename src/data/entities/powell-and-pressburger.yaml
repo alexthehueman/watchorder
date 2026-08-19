@@ -1,0 +1,42 @@
+slug: powell-and-pressburger
+kind: director
+name: Powell and Pressburger
+blurb: Wartime British cinema that keeps swerving into fantasy, ballet and religious ecstasy instead of staying in its lane.
+
+films:
+  - film: the-red-shoes
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A ballerina forced to choose between the stage and love, and the shoes decide for her either way.
+
+  - film: black-narcissus
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: Nuns in a Himalayan convent, and repression curdles into something close to madness. Shot entirely on a British soundstage.
+
+  - film: a-matter-of-life-and-death
+    signature: 4
+    gateway: 4
+    note: A dying airman put on trial in the afterlife, and the film never confirms whether any of it is real or a coma dream.
+
+  - film: i-know-where-im-going
+    signature: 3
+    gateway: 5
+    note: An engaged woman stranded on a Scottish island falls for the wrong man. The lightest thing on this list.
+
+  - film: the-life-and-death-of-colonel-blimp
+    signature: 4
+    gateway: 3
+    note: A British officer's whole life and three wars, and the film is far kinder to him than the title suggests.
+
+curated:
+  curator: house
+  rationale: The gentlest film first, then the two that define the partnership, with the two heavier late entries after.
+  order:
+    - i-know-where-im-going
+    - a-matter-of-life-and-death
+    - the-life-and-death-of-colonel-blimp
+    - black-narcissus
+    - the-red-shoes

@@ -1,0 +1,75 @@
+# Films for Powell and Pressburger. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Credited together as "The Archers" on every one of these — Powell directed and Pressburger wrote,
+# but the partnership was genuinely joint, which is why the entity covers both names rather than
+# splitting into two director pages for one shared body of work.
+
+- id: the-life-and-death-of-colonel-blimp
+  tmdb_id: null
+  title: The Life and Death of Colonel Blimp
+  year: 1943
+  runtime: 165
+  director: Powell and Pressburger
+  tags:
+    opacity: 1
+    stillness: 3
+    bleakness: 3
+    humor: 2
+    acclaim: 0.88
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: i-know-where-im-going
+  tmdb_id: null
+  title: I Know Where I'm Going!
+  year: 1945
+  runtime: 88
+  director: Powell and Pressburger
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 1
+    humor: 3
+    acclaim: 0.80
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: a-matter-of-life-and-death
+  tmdb_id: null
+  title: A Matter of Life and Death
+  year: 1946
+  runtime: 104
+  director: Powell and Pressburger
+  tags:
+    opacity: 2 # a dying airman put on trial in the afterlife, and the film never confirms whether any of it is real
+    stillness: 2
+    bleakness: 2
+    humor: 3
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: black-narcissus
+  tmdb_id: null
+  title: Black Narcissus
+  year: 1947
+  runtime: 100
+  director: Powell and Pressburger
+  tags:
+    opacity: 1
+    stillness: 3
+    bleakness: 5 # nuns in a Himalayan convent, and repression curdles into something close to madness
+    humor: 1
+    acclaim: 0.90
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 0 }
+
+- id: the-red-shoes
+  tmdb_id: null
+  title: The Red Shoes
+  year: 1948
+  runtime: 133
+  director: Powell and Pressburger
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 5 # a ballerina forced to choose between the stage and love, and the shoes decide for her
+    humor: 1
+    acclaim: 0.92
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }

@@ -1,0 +1,42 @@
+slug: abbas-kiarostami
+kind: director
+name: Abbas Kiarostami
+blurb: The line between staged and real is not blurred by accident in any of these — it's usually the entire question the film is asking.
+
+films:
+  - film: close-up
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A real court case, restaged with the actual people playing themselves. Fiction and documentary with no seam between them.
+
+  - film: taste-of-cherry
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: A man drives around Tehran asking strangers to bury him after he does something the film never quite lets you watch. Palme d'Or winner.
+
+  - film: where-is-the-friends-house
+    signature: 3
+    gateway: 5
+    note: A boy walks across two villages to return a classmate's notebook. As simple as his work ever gets.
+
+  - film: ten
+    signature: 3
+    gateway: 3
+    note: Ten conversations, shot entirely from two fixed dashboard cameras inside one woman's car.
+
+  - film: certified-copy
+    signature: 3
+    gateway: 3
+    note: A couple who might be strangers playing house, or a married couple play-acting strangers. Never resolved either way.
+
+curated:
+  curator: house
+  rationale: The most straightforward film first, then the two that made his reputation, with the two structural experiments around them.
+  order:
+    - where-is-the-friends-house
+    - ten
+    - close-up
+    - certified-copy
+    - taste-of-cherry
