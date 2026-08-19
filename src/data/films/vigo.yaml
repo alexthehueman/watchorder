@@ -17,6 +17,8 @@
     humor: 4
     acclaim: 0.70
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  imdb_id: tt0021576
+  poster_url: https://m.media-amazon.com/images/M/MV5BYmVmOWNhMDUtMGY4NS00NTViLTgwYzItZGVlMTkxODlmYWE3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg
 
 - id: taris
   tmdb_id: null
@@ -31,6 +33,8 @@
     humor: 2
     acclaim: 0.70
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0022462
+  poster_url: https://m.media-amazon.com/images/M/MV5BYzU0YmU0NzMtYTg0Yi00ZWQ2LTk5MjItYWJiYmM0ZmU3ZDU2XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: zero-de-conduite
   tmdb_id: null
@@ -54,3 +58,5 @@
   director: Jean Vigo
   tags: { opacity: 1, stillness: 4, bleakness: 3, humor: 1, acclaim: 0.92 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  imdb_id: tt0024844
+  poster_url: https://m.media-amazon.com/images/M/MV5BMjYwMzU5MGYtYTQzOC00YWJhLTlhNmQtNDMxMWZjYjVhMzA0XkEyXkFqcGc@._V1_SX300.jpg

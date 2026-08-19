@@ -17,6 +17,8 @@
     humor: 2
     acclaim: 0.88
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0036112
+  poster_url: https://m.media-amazon.com/images/M/MV5BZGQwZjgzYTgtMjA2OS00NTRjLTg1YWQtYmQ4NDJlYzk5N2Q3XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: i-know-where-im-going
   tmdb_id: null
@@ -31,6 +33,8 @@
     humor: 3
     acclaim: 0.80
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0037800
+  poster_url: https://m.media-amazon.com/images/M/MV5BYmRiZjBjOGYtNjNhNy00YmVjLWFmYTktYzdmNjVkYmViNDU3XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: a-matter-of-life-and-death
   tmdb_id: null
@@ -45,6 +49,8 @@
     humor: 3
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0038733
+  poster_url: https://m.media-amazon.com/images/M/MV5BNjA0YmE1ZjMtMDViNC00Y2RjLWE0MmUtZjQ4YTU1MzU5MjRjXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: black-narcissus
   tmdb_id: null
@@ -59,6 +65,8 @@
     humor: 1
     acclaim: 0.90
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 0 }
+  imdb_id: tt0039192
+  poster_url: https://m.media-amazon.com/images/M/MV5BMjRmMTQyNDEtNWM4Zi00ZTMwLTlkOGUtZTdmZDU0NTNiZTQ0XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-red-shoes
   tmdb_id: null
@@ -73,3 +81,5 @@
     humor: 1
     acclaim: 0.92
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
+  imdb_id: tt0040725
+  poster_url: https://m.media-amazon.com/images/M/MV5BMzY2MzIwMDQzN15BMl5BanBnXkFtZTcwNDUxMTM4NA@@._V1_SX300.jpg

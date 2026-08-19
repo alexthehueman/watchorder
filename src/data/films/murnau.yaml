@@ -26,6 +26,8 @@
     humor: 1
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0015064
+  poster_url: https://m.media-amazon.com/images/M/MV5BNjU5ODQ5YjMtMWRmMC00MmI0LTgyNjUtY2FhMDcwZTBmOGI0XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: faust-1926
   tmdb_id: null
@@ -35,6 +37,8 @@
   director: F.W. Murnau
   tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.82 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0016847
+  poster_url: https://m.media-amazon.com/images/M/MV5BNDRjZDMwMGItOGY1MS00YmExLWI3N2ItNjk5MTA2N2QxMTI0XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: sunrise
   tmdb_id: null
@@ -44,3 +48,5 @@
   director: F.W. Murnau
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.95 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0018455
+  poster_url: https://m.media-amazon.com/images/M/MV5BYTk4N2UyZjAtZGMxNy00MjE4LWEyNzUtYWQzNjFjNzQxOTI0XkEyXkFqcGc@._V1_SX300.jpg

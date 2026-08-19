@@ -13,6 +13,8 @@
   director: Abbas Kiarostami
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0093342
+  poster_url: https://m.media-amazon.com/images/M/MV5BMDFhMDg2NTEtMTgxMi00YmRjLWEyNGEtYmVmYjQ0ZmQxOGNkXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: close-up
   tmdb_id: null
@@ -27,6 +29,8 @@
     humor: 1
     acclaim: 0.92
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0100234
+  poster_url: https://m.media-amazon.com/images/M/MV5BOTNlNWFiNTAtZTMxYS00NzgxLTlmOGYtZjY4NWVlNDlmZDJlXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: taste-of-cherry
   tmdb_id: null
@@ -41,6 +45,8 @@
     humor: 1
     acclaim: 0.88
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
+  imdb_id: tt0120265
+  poster_url: https://m.media-amazon.com/images/M/MV5BZWExZjliYTgtM2U2Yi00MTU5LWFmOTAtNThkZDE1MzMxYWU2XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: ten
   tmdb_id: null
@@ -55,3 +61,5 @@
     humor: 2
     acclaim: 0.78
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0301978
+  poster_url: https://m.media-amazon.com/images/M/MV5BMjViYjgyMDEtNGJkOC00NjY4LTk5MDItM2FjYTA0MDQ5M2IzXkEyXkFqcGc@._V1_SX300.jpg

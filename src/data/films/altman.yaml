@@ -26,6 +26,8 @@
     humor: 2
     acclaim: 0.90
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  imdb_id: tt0073440
+  poster_url: https://m.media-amazon.com/images/M/MV5BZjU4MzMzOWUtYzJhNC00YWZlLTlmNzgtMWIxZmQwOTE5NDg0XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-player
   tmdb_id: null
@@ -40,6 +42,8 @@
     humor: 4
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  imdb_id: tt0105151
+  poster_url: https://m.media-amazon.com/images/M/MV5BMjM5MDg0MjU3Ml5BMl5BanBnXkFtZTgwODQ0NjYxMTE@._V1_SX300.jpg
 
 - id: short-cuts
   tmdb_id: null
@@ -54,6 +58,8 @@
     humor: 2
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: true, child_harm: true, suicide: false, violence: 2, sex: 2 }
+  imdb_id: tt0108122
+  poster_url: https://m.media-amazon.com/images/M/MV5BYThkMTY5ZTgtYzc0Yy00MTZiLWE5YjUtMDAwM2E4Yjg5MmM5XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: gosford-park
   tmdb_id: null
@@ -63,3 +69,5 @@
   director: Robert Altman
   tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  imdb_id: tt0280707
+  poster_url: https://m.media-amazon.com/images/M/MV5BNGRjODg5ZTEtYzZjMC00NmQ3LWFiNjUtYjhhODIxNTYyZDk2XkEyXkFqcGc@._V1_SX300.jpg

@@ -17,6 +17,8 @@
     humor: 1
     acclaim: 0.90
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0017136
+  poster_url: https://m.media-amazon.com/images/M/MV5BMjhjMGYyMjAtMzJkYy00NzhlLWIwY2MtMWQ2ODIxZDUyOGYyXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: m
   tmdb_id: null
@@ -31,6 +33,8 @@
     humor: 1
     acclaim: 0.93
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0022100
+  poster_url: https://m.media-amazon.com/images/M/MV5BODA4ODk3OTEzMF5BMl5BanBnXkFtZTgwMTQ2ODMwMzE@._V1_SX300.jpg
 
 - id: the-testament-of-dr-mabuse
   tmdb_id: null
@@ -45,6 +49,8 @@
     humor: 2 # a mastermind directing crimes from an asylum tips into pulp in a way his other films don't allow
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0023563
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTdjMmZlNWEtM2M4Ni00ZTQwLWE0ZjctMTkxODU4ZDg0MjhkXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: fury
   tmdb_id: null
@@ -59,6 +65,8 @@
     humor: 1
     acclaim: 0.82
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  imdb_id: tt0027652
+  poster_url: https://m.media-amazon.com/images/M/MV5BM2I2NjMxNTYtZmI3ZS00ZmZiLWFiNzctNmIwZjQ1MWE3YzUwXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: scarlet-street
   tmdb_id: null
@@ -73,6 +81,8 @@
     humor: 1
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  imdb_id: tt0038057
+  poster_url: https://m.media-amazon.com/images/M/MV5BODg1Y2Y2YjQtM2NjNS00NWIwLWE0ZTUtMzM2M2M1YWJjYTdlXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-big-heat
   tmdb_id: null
@@ -87,3 +97,5 @@
     humor: 1
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  imdb_id: tt0045555
+  poster_url: https://m.media-amazon.com/images/M/MV5BMzhmNDQ1ZGUtMmNkMy00N2VjLThkODktZjdjNWYwNjBkNTQyXkEyXkFqcGc@._V1_SX300.jpg

@@ -17,6 +17,8 @@
     humor: 1
     acclaim: 0.78
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  imdb_id: tt0028021
+  poster_url: https://m.media-amazon.com/images/M/MV5BZWUxNGQ1OTItNmY5NS00MTA4LTg1MTAtMmNkZjAzMjVmYjJhXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-story-of-the-last-chrysanthemum
   tmdb_id: null
@@ -31,6 +33,8 @@
     humor: 1
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0032156
+  poster_url: https://m.media-amazon.com/images/M/MV5BZmFiOGVlODAtZjUyMS00ZTgwLTg3MjEtNjc4ZDkxMWQyNzdiXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-life-of-oharu
   tmdb_id: null
@@ -45,6 +49,8 @@
     humor: 1
     acclaim: 0.90
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  imdb_id: tt0045112
+  poster_url: https://m.media-amazon.com/images/M/MV5BM2IwNjZjNDgtODE4Yy00OGZkLThiOTMtODk1ODEzNDE1MGNmXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: ugetsu
   tmdb_id: null
@@ -59,6 +65,8 @@
     humor: 1
     acclaim: 0.93
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0046478
+  poster_url: https://m.media-amazon.com/images/M/MV5BZjk2NmRiMWItOTNlOS00OTgyLWE4NWItZGM0Mjk1YmE5ZTg4XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: sansho-the-bailiff
   tmdb_id: null
@@ -73,6 +81,8 @@
     humor: 1
     acclaim: 0.95
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: true, violence: 2, sex: 0 }
+  imdb_id: tt0047445
+  poster_url: https://m.media-amazon.com/images/M/MV5BODAxZDk2YjctYTE0Ny00MzBjLWJlOWEtNjhkMWQ2NmU4ZTY3XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: street-of-shame
   tmdb_id: null
@@ -87,3 +97,5 @@
     humor: 2 # the contemporary setting lets in a sharper, more sardonic edge than the period pieces allow
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  imdb_id: tt0048933
+  poster_url: https://m.media-amazon.com/images/M/MV5BNTgzZDA4YTYtOGNlMi00NWY5LTg5ZTgtYzFjOTBkMTFhZGMzXkEyXkFqcGc@._V1_SX300.jpg

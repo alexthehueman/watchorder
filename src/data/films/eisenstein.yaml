@@ -17,6 +17,8 @@
     humor: 1
     acclaim: 0.78
   content: { sexual_violence: false, animal_harm: true, child_harm: true, suicide: false, violence: 3, sex: 0 }
+  imdb_id: tt0015361
+  poster_url: https://m.media-amazon.com/images/M/MV5BMjY5OWJiMTktM2M5Ny00MTJhLWFiYzktNzk0MTA2MDQyZDY3XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: battleship-potemkin
   tmdb_id: null
@@ -31,6 +33,8 @@
     humor: 1
     acclaim: 0.93
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
+  imdb_id: tt0015648
+  poster_url: https://m.media-amazon.com/images/M/MV5BZmY5ZGQwMTEtM2E0ZC00NzVkLTgyYzktZDYxMjhiMzA5N2MzXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: alexander-nevsky
   tmdb_id: null
@@ -45,6 +49,8 @@
     humor: 2 # a blacksmith and a peasant soldier's rival courtship plays as genuine comic relief between battles
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  imdb_id: tt0029850
+  poster_url: https://m.media-amazon.com/images/M/MV5BNjI4YWY4MGEtMGM3OS00YTI0LTk2N2UtMmFkZDMwZDBjNDEwXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: ivan-the-terrible-part-i
   tmdb_id: null
@@ -59,3 +65,5 @@
     humor: 1
     acclaim: 0.82
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0037824
+  poster_url: https://m.media-amazon.com/images/M/MV5BNTNlYzI5OWEtYzI1NC00YjEzLWE5MzQtMzI1YjFmZDMwMzczXkEyXkFqcGc@._V1_SX300.jpg

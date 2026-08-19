@@ -17,6 +17,8 @@
     humor: 1
     acclaim: 0.80
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0089866
+  poster_url: https://m.media-amazon.com/images/M/MV5BMzE0MTdhOTgtMjVhYi00Yjk0LTkyZDAtN2M3MzAzNzQwYzU0XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-terrorizers
   tmdb_id: null
@@ -31,6 +33,8 @@
     humor: 1
     acclaim: 0.82
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0091355
+  poster_url: https://m.media-amazon.com/images/M/MV5BNTBiNzQxZWYtNWRmMi00MjA1LWE0MjgtZjgzNTAzNmM4NWFhXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: a-brighter-summer-day
   tmdb_id: null
@@ -45,6 +49,8 @@
     humor: 1
     acclaim: 0.92
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0101985
+  poster_url: https://m.media-amazon.com/images/M/MV5BMGRkNGQwOTktNWQxOS00ZDRjLThmODktNWY4NThjNDU2MjM5XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: yi-yi
   tmdb_id: null
@@ -59,3 +65,5 @@
     humor: 2
     acclaim: 0.94
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0244316
+  poster_url: https://m.media-amazon.com/images/M/MV5BNTAyMDQ5Y2MtZDk0NC00N2IyLWE5OTgtZjJkZWNlMDBhMDhlXkEyXkFqcGc@._V1_SX300.jpg

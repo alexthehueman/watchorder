@@ -17,6 +17,8 @@
     humor: 1
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0038913
+  poster_url: https://m.media-amazon.com/images/M/MV5BOTdhYjNmYzgtNDc0My00NjQxLWJlYmYtNWYwOGQ0YTlmMGUwXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: bicycle-thieves
   tmdb_id: null
@@ -26,6 +28,8 @@
   director: Vittorio De Sica
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.93 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0040522
+  poster_url: https://m.media-amazon.com/images/M/MV5BMjIzMzAyMzg1Nl5BMl5BanBnXkFtZTgwMzMyNzk0MTE@._V1_SX300.jpg
 
 - id: miracle-in-milan
   tmdb_id: null
@@ -40,6 +44,8 @@
     humor: 4
     acclaim: 0.75
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0043809
+  poster_url: https://m.media-amazon.com/images/M/MV5BZDk2YjI4MmMtMmQ2MC00YWI3LTk5ZTktMzE0MjA1OGI1NzBkXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: umberto-d
   tmdb_id: null
@@ -54,6 +60,8 @@
     humor: 1
     acclaim: 0.90
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
+  imdb_id: tt0045274
+  poster_url: https://m.media-amazon.com/images/M/MV5BZWRkY2VmOTEtMTk5My00OWZmLWFmYWMtODE3ZmYyZTBhNTE0XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: two-women
   tmdb_id: null
@@ -63,3 +71,5 @@
   director: Vittorio De Sica
   tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.85 }
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+  imdb_id: tt0054749
+  poster_url: https://m.media-amazon.com/images/M/MV5BOTAxNmNlNzctM2ZkZi00ZTdlLWI3NzctZGEwOGU0N2I2NGJmXkEyXkFqcGc@._V1_SX300.jpg
