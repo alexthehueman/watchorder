@@ -1,0 +1,69 @@
+# New films for Chow Yun-fat. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Crouching Tiger, Hidden Dragon already exists in yeoh.yaml, Hard Boiled in leung.yaml, and Curse
+# of the Golden Flower in gong-li.yaml — his defining wuxia and John Woo roles, plus his other film
+# with Gong Li, were all tagged before he had an entity.
+#
+# The John Woo films below are the reason "heroic bloodshed" is a genre name and not just a
+# description: gunfights staged as operatic tragedy between men who respect each other more than
+# they respect the sides they're on.
+
+- id: a-better-tomorrow
+  tmdb_id: null
+  title: A Better Tomorrow
+  year: 1986
+  runtime: 95
+  director: John Woo
+  tags:
+    opacity: 1
+    stillness: 1
+    bleakness: 4 # invented the genre's whole vocabulary: brothers on opposite sides of the law, betrayal, sacrifice
+    humor: 1
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: the-killer
+  tmdb_id: null
+  title: The Killer
+  year: 1989
+  runtime: 111
+  director: John Woo
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 5 # an assassin and the cop hunting him become closer to each other than to anyone on their own side
+    humor: 1
+    acclaim: 0.90
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: once-a-thief
+  tmdb_id: null
+  title: Once a Thief
+  year: 1991
+  runtime: 105
+  director: John Woo
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: anna-and-the-king
+  tmdb_id: null
+  title: Anna and the King
+  year: 1999
+  runtime: 148
+  director: Andy Tennant
+  tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 2, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: let-the-bullets-fly
+  tmdb_id: null
+  title: Let the Bullets Fly
+  year: 2010
+  runtime: 132
+  director: Jiang Wen
+  tags:
+    opacity: 3 # a bandit-versus-warlord con escalates through so many double-crosses it demands full attention
+    stillness: 2
+    bleakness: 3
+    humor: 4
+    acclaim: 0.80
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }

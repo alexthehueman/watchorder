@@ -162,7 +162,12 @@
   year: 2022
   runtime: 139
   director: Daniel Kwan and Daniel Scheinert
-  tags: { opacity: 3, stillness: 1, bleakness: 2, humor: 5, acclaim: 0.88 }
+  tags:
+    opacity: 3
+    stillness: 2 # deliberately alternates maximalist action with genuinely hushed passages — the rocks scene, the laundromat
+    bleakness: 2
+    humor: 5
+    acclaim: 0.88
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 1 }
   imdb_id: tt6710474
   poster_url: https://m.media-amazon.com/images/M/MV5BOWNmMzAzZmQtNDQ1NC00Nzk5LTkyMmUtNGI2N2NkOWM4MzEyXkEyXkFqcGc@._V1_QL75_UY562_CR4,0,380,562_.jpg
