@@ -26,6 +26,8 @@
     humor: 2
     acclaim: 0.92
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0113247
+  poster_url: https://m.media-amazon.com/images/M/MV5BMThlMDA3NDYtZGM2Zi00NmJhLThlYWItZjViZTkzZWU1ZWRiXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: dobermann
   tmdb_id: null
@@ -35,6 +37,8 @@
   director: Jan Kounen
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 3, acclaim: 0.60 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+  imdb_id: tt0118996
+  poster_url: https://m.media-amazon.com/images/M/MV5BYzQwZDljMmMtYTk3Ny00OWYzLWI0OTItMWMzMTNjNTdhNWQ5XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: brotherhood-of-the-wolf
   tmdb_id: null
@@ -44,6 +48,8 @@
   director: Christophe Gans
   tags: { opacity: 2, stillness: 1, bleakness: 3, humor: 2, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0237534
+  poster_url: https://m.media-amazon.com/images/M/MV5BODA2YjE5NGUtNzc1Mi00MzA3LTllN2ItM2NjZTM1NjkyMWU4XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: sur-mes-levres
   tmdb_id: null
@@ -58,6 +64,8 @@
     humor: 1
     acclaim: 0.78
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  imdb_id: tt0274117
+  poster_url: https://m.media-amazon.com/images/M/MV5BOWIwNGQ5ODctZWRmNy00OGY1LWFiZDctZjcwNzgxMGJmODVjXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: irreversible
   tmdb_id: null
@@ -72,6 +80,8 @@
     humor: 1
     acclaim: 0.72
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 2 }
+  imdb_id: tt0290673
+  poster_url: https://m.media-amazon.com/images/M/MV5BZTE2MWM1NTgtMGVjMy00ZGU2LWE4YTUtNTRlNWRhZWE2NmM0XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg
 
 - id: mesrine-killer-instinct
   tmdb_id: null
@@ -81,6 +91,8 @@
   director: Jean-François Richet
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 2, acclaim: 0.82 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+  imdb_id: tt1259014
+  poster_url: https://m.media-amazon.com/images/M/MV5BOTViNzBmN2YtODUzOS00NGM1LTgyZDgtYWFmMzdmZjYzNTcxXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: mesrine-public-enemy-no-1
   tmdb_id: null
@@ -95,6 +107,8 @@
     humor: 1
     acclaim: 0.83
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  imdb_id: tt0411272
+  poster_url: https://m.media-amazon.com/images/M/MV5BM2VmZmJjMzAtMjA3Yy00ZDQ3LWIwMjctMGM4ZDIyZjljYTMyXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: black-swan
   tmdb_id: null
@@ -109,6 +123,8 @@
     humor: 1
     acclaim: 0.88
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 2 }
+  imdb_id: tt0947798
+  poster_url: https://m.media-amazon.com/images/M/MV5BNzY2NzI4OTE5MF5BMl5BanBnXkFtZTcwMjMyNDY4Mw@@._V1_SX300.jpg
 
 - id: oceans-twelve
   tmdb_id: null
@@ -118,6 +134,8 @@
   director: Steven Soderbergh
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.58 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0349903
+  poster_url: https://m.media-amazon.com/images/M/MV5BNjgxNjY3ODEtMTZhOC00NjgyLTg4YTAtZjA4ZDI2MDQ4OGJmXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: trance
   tmdb_id: null
@@ -132,6 +150,8 @@
     humor: 2
     acclaim: 0.60
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 2 }
+  imdb_id: tt1924429
+  poster_url: https://m.media-amazon.com/images/M/MV5BMjMzNjU1MTg5NF5BMl5BanBnXkFtZTcwMTExMTcwOQ@@._V1_SX300.jpg
 
 - id: jason-bourne
   tmdb_id: null
@@ -141,3 +161,5 @@
   director: Paul Greengrass
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt4196776
+  poster_url: https://m.media-amazon.com/images/M/MV5BMzY3Y2Q3MmUtZmU3MC00OWMxLWIwNDMtNDA4MmViMTUxYjYxXkEyXkFqcGc@._V1_SX300.jpg
