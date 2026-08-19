@@ -13,6 +13,8 @@
   director: John Cromwell
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  imdb_id: tt0025586
+  poster_url: https://m.media-amazon.com/images/M/MV5BNDJlNDE0NDEtOTE3Yi00MDQyLTk5NWEtNjFmNjI2NWU1MGEyXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: jezebel
   tmdb_id: null
@@ -22,6 +24,8 @@
   director: William Wyler
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 2, acclaim: 0.80 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0030287
+  poster_url: https://m.media-amazon.com/images/M/MV5BZGUxZDFiNmUtM2I4Ni00Yjk5LWE3ZmUtZjQ5ZGUyY2JkMmY0XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: dark-victory
   tmdb_id: null
@@ -36,6 +40,8 @@
     humor: 2
     acclaim: 0.78
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0031210
+  poster_url: https://m.media-amazon.com/images/M/MV5BYWI1ZGMzN2UtNGRiZS00MTllLTk3ODYtNmNiYzhhZGI1NjE0XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-letter
   tmdb_id: null
@@ -50,6 +56,8 @@
     humor: 1
     acclaim: 0.82
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  imdb_id: tt0032701
+  poster_url: https://m.media-amazon.com/images/M/MV5BZjU4ODQyNGQtZDdiMS00M2M0LTkxYjEtOTliZGI2YmI0ZDJhXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-little-foxes
   tmdb_id: null
@@ -64,6 +72,8 @@
     humor: 1
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0033836
+  poster_url: https://m.media-amazon.com/images/M/MV5BOGYxMzhiMzgtMjE3Ni00NTQwLWI3ZTgtOWMzZTAwOTQ2ZDU5XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: now-voyager
   tmdb_id: null
@@ -73,6 +83,8 @@
   director: Irving Rapper
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.82 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  imdb_id: tt0035140
+  poster_url: https://m.media-amazon.com/images/M/MV5BNTIwOGNiMDgtODgxNi00NTAxLTk2ZGEtOTliYWY5ZGRmNzU1XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: all-about-eve
   tmdb_id: null
@@ -87,6 +99,8 @@
     humor: 4 # the wit is the weapon, and it is the funniest script of the studio era
     acclaim: 0.95
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  imdb_id: tt0042192
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTY2MTAzODI5NV5BMl5BanBnXkFtZTgwMjM4NzQ0MjE@._V1_SX300.jpg
 
 - id: what-ever-happened-to-baby-jane
   tmdb_id: null
@@ -101,6 +115,8 @@
     humor: 3 # grotesque and genuinely funny, which is why it invented a genre
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  imdb_id: tt0056687
+  poster_url: https://m.media-amazon.com/images/M/MV5BMmQ0MjAwOGUtZjUzNy00MzQ1LWJkZGYtNWNhOGVjNzA2MTRjXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-great-lie
   tmdb_id: null
@@ -110,6 +126,8 @@
   director: Edmund Goulding
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.65 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0033677
+  poster_url: https://m.media-amazon.com/images/M/MV5BOTU0Zjc0ZDYtNWE2ZS00NDg2LWE5NTQtMGI1YWU2NGFlMWY1XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-star
   tmdb_id: null
@@ -119,3 +137,5 @@
   director: Stuart Heisler
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 2, acclaim: 0.62 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0045186
+  poster_url: https://m.media-amazon.com/images/M/MV5BM2E2N2ZhYmEtNzgxYi00OGNmLWIyMzAtMTEyZThkYmUxNjQzXkEyXkFqcGc@._V1_SX300.jpg

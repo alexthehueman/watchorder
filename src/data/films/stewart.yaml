@@ -16,6 +16,8 @@
   director: Frank Capra
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.88 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 0 }
+  imdb_id: tt0031679
+  poster_url: https://m.media-amazon.com/images/M/MV5BMDU4ZjNmMjEtMjcxYi00NDAxLWFlMjQtNWIyNjg5NWUzNTdjXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-shop-around-the-corner
   tmdb_id: null
@@ -25,6 +27,8 @@
   director: Ernst Lubitsch
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.88 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
+  imdb_id: tt0033045
+  poster_url: https://m.media-amazon.com/images/M/MV5BMGU3Y2RmMTAtY2EzNC00MjUzLWIyMDUtZWJmYTE2MTU5ZDY5XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: its-a-wonderful-life
   tmdb_id: null
@@ -39,6 +43,8 @@
     humor: 3
     acclaim: 0.92
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 0 }
+  imdb_id: tt0038650
+  poster_url: https://m.media-amazon.com/images/M/MV5BMDM4OWFhYjEtNTE5Yy00NjcyLTg5N2UtZDQwNDZlYjlmNDU5XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: rope
   tmdb_id: null
@@ -53,6 +59,8 @@
     humor: 2
     acclaim: 0.78
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0040746
+  poster_url: https://m.media-amazon.com/images/M/MV5BMDM1YzdlZjAtZWFiZS00ZjYyLTgxYzctNzBiYmE0OWFiMGU1XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg
 
 - id: winchester-73
   tmdb_id: null
@@ -62,6 +70,8 @@
   director: Anthony Mann
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 2, acclaim: 0.80 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0043137
+  poster_url: https://m.media-amazon.com/images/M/MV5BMzVhODc1YjYtODdjNC00NzkwLWExNTUtMDAwOTJhZDM0ZDYxXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: harvey
   tmdb_id: null
@@ -76,6 +86,8 @@
     humor: 4
     acclaim: 0.80
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0042546
+  poster_url: https://m.media-amazon.com/images/M/MV5BZTNlNWRhZmEtYzgyOC00YTIxLTk1MjktMWQ1MjhlMmE0ZjljXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-naked-spur
   tmdb_id: null
@@ -90,6 +102,8 @@
     humor: 1
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  imdb_id: tt0044953
+  poster_url: https://m.media-amazon.com/images/M/MV5BNjZlOGJhYzYtYmE3MS00YjYyLTk0NDUtZWIyNDliMDUyZmZhXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-man-who-knew-too-much
   tmdb_id: null
@@ -99,6 +113,8 @@
   director: Alfred Hitchcock
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0049470
+  poster_url: https://m.media-amazon.com/images/M/MV5BNDg1NzljZmMtMDU3OS00Y2E5LWE3OGEtMzM4ZjhjMmZmZTI5XkEyXkFqcGc@._V1_QL75_UX380_CR0,8,380,562_.jpg
 
 - id: anatomy-of-a-murder
   tmdb_id: null
@@ -113,3 +129,5 @@
     humor: 3
     acclaim: 0.88
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  imdb_id: tt0052561
+  poster_url: https://m.media-amazon.com/images/M/MV5BYWRiNmViOGEtODY5OC00YTgxLWI3NjktZjBlOTBhM2ExNTU5XkEyXkFqcGc@._V1_SX300.jpg

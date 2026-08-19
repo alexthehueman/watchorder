@@ -16,6 +16,8 @@
   director: Joseph Losey
   tags: { opacity: 2, stillness: 2, bleakness: 1, humor: 4, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  imdb_id: tt0060708
+  poster_url: https://m.media-amazon.com/images/M/MV5BNjgxOGJjZTEtNTc5NS00OWM0LTkwM2UtNmY5M2M2MDY4YzZhXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: la-ragazza-con-la-pistola
   tmdb_id: null
@@ -25,6 +27,8 @@
   director: Mario Monicelli
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 5, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  imdb_id: tt0063485
+  poster_url: https://m.media-amazon.com/images/M/MV5BODMzNDRjZGUtM2ZkZC00YWM5LThjN2MtZjM5NDM0YzVmMzM0XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-pizza-triangle
   tmdb_id: null
@@ -39,3 +43,5 @@
     humor: 4
     acclaim: 0.75
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  imdb_id: tt0065662
+  poster_url: https://m.media-amazon.com/images/M/MV5BNGI1YjcxNWQtNDEwMy00M2Y1LWE4ZDQtYTg4YjU5NTAxMTM2XkEyXkFqcGc@._V1_SX300.jpg

@@ -22,6 +22,8 @@
     humor: 2
     acclaim: 0.90
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  imdb_id: tt0058450
+  poster_url: https://m.media-amazon.com/images/M/MV5BNmY3NWE5YWYtMGFkNC00Y2JhLWI5MTYtMTA0OWE5NjZlNGY4XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: repulsion
   tmdb_id: null
@@ -36,6 +38,8 @@
     humor: 1
     acclaim: 0.88
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 2 }
+  imdb_id: tt0059646
+  poster_url: https://m.media-amazon.com/images/M/MV5BOTE0YzBjNWEtZTE4NC00ZmM5LTllZmUtZGYwOGFlYWVjOGU2XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: donkey-skin
   tmdb_id: null
@@ -45,6 +49,8 @@
   director: Jacques Demy
   tags: { opacity: 3, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  imdb_id: tt0066207
+  poster_url: https://m.media-amazon.com/images/M/MV5BZDg5ZmFiNGMtNzc3NS00NzBlLWJhNTYtODRjMjNmZjhmZTIzXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: indochine
   tmdb_id: null
@@ -54,6 +60,8 @@
   director: Régis Wargnier
   tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  imdb_id: tt0104507
+  poster_url: https://m.media-amazon.com/images/M/MV5BMjAxZWMyYTktMmU1Yi00ODJiLWJmMDctYmQ3ODk5MDA0MGJkXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: dancer-in-the-dark
   tmdb_id: null
@@ -68,6 +76,8 @@
     humor: 1
     acclaim: 0.78
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  imdb_id: tt0168629
+  poster_url: https://m.media-amazon.com/images/M/MV5BMDg3NWFlYWEtZjQ3Ny00Y2ZjLWI3ZWYtN2ZmMDA4MThkZTg2XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-hunger
   tmdb_id: null
@@ -77,3 +87,5 @@
   director: Tony Scott
   tags: { opacity: 3, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.60 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 3 }
+  imdb_id: tt0085701
+  poster_url: https://m.media-amazon.com/images/M/MV5BOTAyNmQ3N2MtOWZlOS00Mjg1LWJhY2EtNmMzOTgyODg2NjM5XkEyXkFqcGc@._V1_SX300.jpg

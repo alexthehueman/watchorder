@@ -13,6 +13,8 @@
   director: Robert Wise
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0049778
+  poster_url: https://m.media-amazon.com/images/M/MV5BNDRkNGZkNTctZWYyMC00ODRiLWFkMGItMmYxMGUzMzkzZmZiXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-hustler
   tmdb_id: null
@@ -27,6 +29,8 @@
     humor: 1
     acclaim: 0.90
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 1 }
+  imdb_id: tt0054997
+  poster_url: https://m.media-amazon.com/images/M/MV5BMjhjMWVhODAtZDhlYi00ZjIzLTk0ODItOGU0MDM3Njc5ODA0XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: hud
   tmdb_id: null
@@ -41,6 +45,8 @@
     humor: 2
     acclaim: 0.85
   content: { sexual_violence: true, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  imdb_id: tt0057163
+  poster_url: https://m.media-amazon.com/images/M/MV5BMGU0MWUyZGItMzhmMy00MDkzLTkyNWItOWFkMWE0ZDA4NjA2XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: cool-hand-luke
   tmdb_id: null
@@ -50,6 +56,8 @@
   director: Stuart Rosenberg
   tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 3, acclaim: 0.88 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  imdb_id: tt0061512
+  poster_url: https://m.media-amazon.com/images/M/MV5BYzI1NzBkNmMtOWRmMS00YmY2LTk5MjQtZjAzMmIwZDQ2M2UwXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: butch-cassidy-and-the-sundance-kid
   tmdb_id: null
@@ -59,6 +67,8 @@
   director: George Roy Hill
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 4, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0064115
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTkyMTM2NDk5Nl5BMl5BanBnXkFtZTgwNzY1NzEyMDE@._V1_SX300.jpg
 
 - id: the-sting
   tmdb_id: null
@@ -68,6 +78,8 @@
   director: George Roy Hill
   tags: { opacity: 2, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0070735
+  poster_url: https://m.media-amazon.com/images/M/MV5BZGI4OTk4MDMtYmQ1Ni00YTUzLTkyYTktZGUwMjMyN2M4NjQ5XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-verdict
   tmdb_id: null
@@ -82,6 +94,8 @@
     humor: 1
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  imdb_id: tt0084855
+  poster_url: https://m.media-amazon.com/images/M/MV5BZGNhMzRhNTgtOWUwMy00MGNmLThmZjEtZWMxNDM0N2ZlNzM2XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-color-of-money
   tmdb_id: null
@@ -91,6 +105,8 @@
   director: Martin Scorsese
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  imdb_id: tt0090863
+  poster_url: https://m.media-amazon.com/images/M/MV5BMmU5NDMwOTctZTU2NS00ODc4LWJiYTAtYzMzM2JiYmY4OTg2XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: nobodys-fool
   tmdb_id: null
@@ -100,6 +116,8 @@
   director: Robert Benton
   tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 3, acclaim: 0.80 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0110684
+  poster_url: https://m.media-amazon.com/images/M/MV5BNmNmYWYwZTctM2QzYS00Y2JlLTkyODgtYmVlNmRhNGE3YWJkXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: road-to-perdition
   tmdb_id: null
@@ -109,3 +127,5 @@
   director: Sam Mendes
   tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.80 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  imdb_id: tt0257044
+  poster_url: https://m.media-amazon.com/images/M/MV5BMjMyYjMyMzktMjlhZC00ZTZkLTkzMWQtZmEwMjdjNzJkM2RlXkEyXkFqcGc@._V1_SX300.jpg

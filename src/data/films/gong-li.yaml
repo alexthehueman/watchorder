@@ -18,6 +18,8 @@
     humor: 2
     acclaim: 0.85
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+  imdb_id: tt0093206
+  poster_url: https://m.media-amazon.com/images/M/MV5BMmJjN2JkZTQtN2FkNi00MTQyLThlMjEtZTY5ZDc2ZjcwNjQ2XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: ju-dou
   tmdb_id: null
@@ -32,6 +34,8 @@
     humor: 1
     acclaim: 0.85
   content: { sexual_violence: true, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 1 }
+  imdb_id: tt0099902
+  poster_url: https://m.media-amazon.com/images/M/MV5BMjY0NTdlZmUtM2M4MS00YjcwLThlMDMtZjg1MmZkOTJiMmY3XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: raise-the-red-lantern
   tmdb_id: null
@@ -46,6 +50,8 @@
     humor: 1
     acclaim: 0.92
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0101640
+  poster_url: https://m.media-amazon.com/images/M/MV5BZjZlMThlZTktOGYxNS00NjY0LWFkMzAtMjNiOTYxYjYxZWFmXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-story-of-qiu-ju
   tmdb_id: null
@@ -55,6 +61,8 @@
   director: Zhang Yimou
   tags: { opacity: 1, stillness: 3, bleakness: 2, humor: 2, acclaim: 0.82 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0105197
+  poster_url: https://m.media-amazon.com/images/M/MV5BZjU4M2FlNDItNjhkNC00ODRlLTk3Y2EtYzU2MGY4Nzk2YTlmXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: farewell-my-concubine
   tmdb_id: null
@@ -69,6 +77,8 @@
     humor: 1
     acclaim: 0.93
   content: { sexual_violence: true, animal_harm: false, child_harm: true, suicide: true, violence: 2, sex: 1 }
+  imdb_id: tt0106332
+  poster_url: https://m.media-amazon.com/images/M/MV5BYjMzZjcwNzItNTYwZC00NzAxLWE3MmMtYmU3ZjdkMWMxNDMwXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: to-live
   tmdb_id: null
@@ -83,6 +93,8 @@
     humor: 2
     acclaim: 0.93
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0110081
+  poster_url: https://m.media-amazon.com/images/M/MV5BMjZlNzNmMTktNzQzZC00YWI2LTkyMmYtMGYwZjhjNzA0MDU0XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: shanghai-triad
   tmdb_id: null
@@ -92,6 +104,8 @@
   director: Zhang Yimou
   tags: { opacity: 2, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 1 }
+  imdb_id: tt0115012
+  poster_url: https://m.media-amazon.com/images/M/MV5BMjExNzU2NDctYTQ4My00MmFkLTljN2UtN2MzYWQ1NTFiNDEyXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: memoirs-of-a-geisha
   tmdb_id: null
@@ -101,6 +115,8 @@
   director: Rob Marshall
   tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 1 }
+  imdb_id: tt0397535
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTYxMzM4NTEzOV5BMl5BanBnXkFtZTcwNDMwNjQzMw@@._V1_SX300.jpg
 
 - id: curse-of-the-golden-flower
   tmdb_id: null
@@ -115,6 +131,8 @@
     humor: 1
     acclaim: 0.72
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 3, sex: 1 }
+  imdb_id: tt0473444
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTFhYWNkNzMtZGFiNy00MTcxLTlmNzMtMWNkODQ4N2MxZWFmXkEyXkFqcGc@._V1_SX300.jpg
 
 # Added because stillness sat at 3 for eight of nine films — accurate to the measured, deliberate
 # Zhang Yimou run, but too uniform for the axis to move anything. Miami Vice is the honest
@@ -132,3 +150,5 @@
     humor: 1
     acclaim: 0.65
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 2 }
+  imdb_id: tt0430357
+  poster_url: https://m.media-amazon.com/images/M/MV5BMWRiNDhjYTItMWMwNy00Mzk3LWFjNjktNzk3OWMwNWFjY2RhXkEyXkFqcGc@._V1_SX300.jpg

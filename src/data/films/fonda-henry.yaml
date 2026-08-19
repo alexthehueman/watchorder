@@ -20,6 +20,8 @@
     humor: 1
     acclaim: 0.95
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0050083
+  poster_url: https://m.media-amazon.com/images/M/MV5BYjE4NzdmOTYtYjc5Yi00YzBiLWEzNDEtNTgxZGQ2MWVkN2NiXkEyXkFqcGc@._V1_QL75_UX380_CR0,11,380,562_.jpg
 
 - id: mister-roberts
   tmdb_id: null
@@ -29,6 +31,8 @@
   director: John Ford
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 4, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0048380
+  poster_url: https://m.media-amazon.com/images/M/MV5BYzYyNTU2NDUtOGMyZi00N2Q1LTk4N2QtN2ZkNWIyZTkxMzRkXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: once-upon-a-time-in-the-west
   tmdb_id: null
@@ -43,6 +47,8 @@
     humor: 1
     acclaim: 0.93
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
+  imdb_id: tt0064116
+  poster_url: https://m.media-amazon.com/images/M/MV5BZjYyNGY1MDEtN2I1MC00MGVhLTljZTYtODQ1NzQ0ODc2NzZlXkEyXkFqcGc@._V1_QL75_UX380_CR0,3,380,562_.jpg
 
 - id: the-ox-bow-incident
   tmdb_id: null
@@ -57,4 +63,5 @@
     humor: 1
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
-
+  imdb_id: tt0036244
+  poster_url: https://m.media-amazon.com/images/M/MV5BZDQ2MGY2NmYtZmVmNy00ZmRiLWJjYWYtNzFhMzk4MzQ0MGQ2XkEyXkFqcGc@._V1_SX300.jpg

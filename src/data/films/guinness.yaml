@@ -16,6 +16,8 @@
   director: David Lean
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0038574
+  poster_url: https://m.media-amazon.com/images/M/MV5BOTFjNzIyYTYtMjVjOS00NzQ2LWIyMTUtMzlhNGIwZDU1MTdiXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: oliver-twist-1948
   tmdb_id: null
@@ -25,6 +27,8 @@
   director: David Lean
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.80 }
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0040662
+  poster_url: https://m.media-amazon.com/images/M/MV5BMjU3NTI1Y2MtZmM5YS00NmQ0LWIyMTQtYTJmMjNkZWIyYjIyXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: kind-hearts-and-coronets
   tmdb_id: null
@@ -39,6 +43,8 @@
     humor: 5
     acclaim: 0.90
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0041546
+  poster_url: https://m.media-amazon.com/images/M/MV5BYjhjOTZmY2QtNDcyYS00Y2ViLTg3NTMtYTUyNjhlMGIwNmZlXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-lavender-hill-mob
   tmdb_id: null
@@ -48,6 +54,8 @@
   director: Charles Crichton
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 5, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0044829
+  poster_url: https://m.media-amazon.com/images/M/MV5BYjhmZDlhODgtOWE2OS00NDQyLThmYmItMTZjMGYwODYxNDcxXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-man-in-the-white-suit
   tmdb_id: null
@@ -57,6 +65,8 @@
   director: Alexander Mackendrick
   tags: { opacity: 2, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.82 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0044876
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTUxNTIzNzY4OV5BMl5BanBnXkFtZTgwODExMTI0NDE@._V1_SX300.jpg
 
 - id: the-ladykillers
   tmdb_id: null
@@ -71,6 +81,8 @@
     humor: 5
     acclaim: 0.88
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0048281
+  poster_url: https://m.media-amazon.com/images/M/MV5BMjlhZWM3MjktYTIwZS00YTVmLTljZDYtZWYwYjFiOTc5NDMzXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-bridge-on-the-river-kwai
   tmdb_id: null
@@ -85,6 +97,8 @@
     humor: 1
     acclaim: 0.93
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  imdb_id: tt0050212
+  poster_url: https://m.media-amazon.com/images/M/MV5BNzdkYmU2YmItNmZiYy00OWQyLTg0YWYtZmUxM2U3YTRiNTQ1XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: tunes-of-glory
   tmdb_id: null
@@ -94,6 +108,8 @@
   director: Ronald Neame
   tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.80 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 0 }
+  imdb_id: tt0054412
+  poster_url: https://m.media-amazon.com/images/M/MV5BM2FhMmI4ZTEtYmNhNC00YzIzLTg0ODMtNWJkM2FlMTY0ZGY1XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: star-wars
   tmdb_id: null
@@ -119,3 +135,5 @@
     humor: 1
     acclaim: 0.90
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0080297
+  poster_url: https://m.media-amazon.com/images/M/MV5BYTVjMTBmMGEtYjYwMy00YzhkLThmMGMtNDgyMWNmOWRiMzExXkEyXkFqcGc@._V1_SX300.jpg

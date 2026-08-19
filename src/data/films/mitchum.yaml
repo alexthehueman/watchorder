@@ -17,6 +17,8 @@
     humor: 1
     acclaim: 0.90
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  imdb_id: tt0039689
+  poster_url: https://m.media-amazon.com/images/M/MV5BOWM3MjAzN2MtOTE0OS00ZTIxLWFkZTAtZTVmNmMyNGZjNDA4XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: crossfire
   tmdb_id: null
@@ -26,6 +28,8 @@
   director: Edward Dmytryk
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0039286
+  poster_url: https://m.media-amazon.com/images/M/MV5BZmI4NTk3NDMtZjBjMC00ZmE5LWFjYjctM2RlMjI2NDRiNTI5XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-story-of-gi-joe
   tmdb_id: null
@@ -44,6 +48,8 @@
   director: Otto Preminger
   tags: { opacity: 2, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  imdb_id: tt0044357
+  poster_url: https://m.media-amazon.com/images/M/MV5BZDM2MWZlNGMtMjZlNC00YmEwLTlmOGUtZGQzNTkyNWUzNzNhXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-night-of-the-hunter
   tmdb_id: null
@@ -58,6 +64,8 @@
     humor: 1
     acclaim: 0.95
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
+  imdb_id: tt0048424
+  poster_url: https://m.media-amazon.com/images/M/MV5BZmZmOWEzYjktZWYxMi00MjlmLTlmNTAtMzI4ZDVlZmIxZGIzXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: cape-fear-1962
   tmdb_id: null
@@ -67,6 +75,8 @@
   director: J. Lee Thompson
   tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.82 }
   content: { sexual_violence: true, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 1 }
+  imdb_id: tt0055824
+  poster_url: https://m.media-amazon.com/images/M/MV5BZTI0ZDQyMjUtMGY1OC00NTFiLThhYjQtOTg0YTM4NTA2NjUzXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: el-dorado-1966
   tmdb_id: null
@@ -76,6 +86,8 @@
   director: Howard Hawks
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0061619
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTZjMGE5NTktMjkxZi00NDRhLWJmYzMtMTA3OTY2ZTcyNjIzXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: ryans-daughter
   tmdb_id: null
@@ -85,6 +97,8 @@
   director: David Lean
   tags: { opacity: 1, stillness: 4, bleakness: 4, humor: 1, acclaim: 0.70 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 2 }
+  imdb_id: tt0066319
+  poster_url: https://m.media-amazon.com/images/M/MV5BYTI4ZDkyYWYtYjY1Ny00OGE3LThlM2ItZDgyOTc0NmIwZGJlXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-friends-of-eddie-coyle
   tmdb_id: null
@@ -99,3 +113,5 @@
     humor: 1
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0070077
+  poster_url: https://m.media-amazon.com/images/M/MV5BNzhkNWQyMjEtM2RkNC00NmE4LThmYjMtMzU5Yzk5MGVkYWU0XkEyXkFqcGc@._V1_SX300.jpg

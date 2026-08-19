@@ -13,6 +13,8 @@
   director: Corey Yuen
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  imdb_id: tt0093229
+  poster_url: https://m.media-amazon.com/images/M/MV5BODIyMjNhNGUtMDlmYi00OWZkLWI2MjAtMGE0ZjMwZjA2NjU4XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: police-story-3-super-cop
   tmdb_id: null
@@ -36,6 +38,8 @@
     humor: 3
     acclaim: 0.68
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
+  imdb_id: tt0105619
+  poster_url: https://m.media-amazon.com/images/M/MV5BM2I3NmRmMjktOTIwMy00OGMwLWI3MzUtNGE5NzNmMWQ5OTU4XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: wing-chun
   tmdb_id: null
@@ -45,6 +49,8 @@
   director: Yuen Woo-ping
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0111800
+  poster_url: https://m.media-amazon.com/images/M/MV5BMGYyZmM3YWEtYmIxMi00MmRjLWJhNGItNzk3NDJjYTZiMTdmXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: tomorrow-never-dies
   tmdb_id: null
@@ -54,6 +60,8 @@
   director: Roger Spottiswoode
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.65 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  imdb_id: tt0120347
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTM1MTk2ODQxNV5BMl5BanBnXkFtZTcwOTY5MDg0NA@@._V1_SX300.jpg
 
 - id: crouching-tiger-hidden-dragon
   tmdb_id: null
@@ -68,6 +76,8 @@
     humor: 2
     acclaim: 0.90
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 0 }
+  imdb_id: tt0190332
+  poster_url: https://m.media-amazon.com/images/M/MV5BMzRmMTU2OWEtZjI0Ni00MGRhLThjOTItZTJiNmM4MDk0ZWU2XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: reign-of-assassins
   tmdb_id: null
@@ -77,6 +87,8 @@
   director: Su Chao-pin
   tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt1460743
+  poster_url: https://m.media-amazon.com/images/M/MV5BYmEzMGYxZTQtNTYwYi00Y2ZhLTgzMDktOTk4Zjg1MjlhMmY5XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-lady
   tmdb_id: null
@@ -91,6 +103,8 @@
     humor: 1
     acclaim: 0.65
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt1802197
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTg3NTc3NzMzOF5BMl5BanBnXkFtZTcwMzI4NjkyNw@@._V1_SX300.jpg
 
 # Added because stillness sat at 1 for six of nine films — accurate to the Hong Kong action run,
 # but too uniform for the axis to move anything. Sunshine is the honest outlier: a contemplative
@@ -108,3 +122,5 @@
     humor: 1
     acclaim: 0.75
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 0 }
+  imdb_id: tt0448134
+  poster_url: https://m.media-amazon.com/images/M/MV5BNmExYTA4MGYtNWUwNC00YTZhLWE0YzUtMjI0OGYyMmQ4YTVkXkEyXkFqcGc@._V1_SX300.jpg

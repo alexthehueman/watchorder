@@ -22,6 +22,8 @@
     humor: 1
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  imdb_id: tt0054189
+  poster_url: https://m.media-amazon.com/images/M/MV5BZjEyYWE3ZGItNDFkMy00MzBmLWFlNTEtYzQ3MDRjN2FkZGUxXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: rocco-and-his-brothers
   tmdb_id: null
@@ -36,6 +38,8 @@
     humor: 1
     acclaim: 0.90
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+  imdb_id: tt0054248
+  poster_url: https://m.media-amazon.com/images/M/MV5BOTkyMjczYWUtZjFiMi00YWNlLWJlYjctNzc3YmM5YjVhY2UyXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-leopard
   tmdb_id: null
@@ -50,6 +54,8 @@
     humor: 1
     acclaim: 0.92
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0057091
+  poster_url: https://m.media-amazon.com/images/M/MV5BODNiYThjOGMtOTZlYy00Y2Q0LTk5MjQtYTRkNzU2OTA2OWQ1XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: le-samourai
   tmdb_id: null
@@ -64,6 +70,8 @@
     humor: 1
     acclaim: 0.92
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0062229
+  poster_url: https://m.media-amazon.com/images/M/MV5BYjM2ZjhkNmUtZTNlMi00YTc1LThlN2MtZDc3NDIyZTk4OGIwXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: la-piscine
   tmdb_id: null
@@ -82,6 +90,8 @@
   director: Jacques Deray
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.70 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0065486
+  poster_url: https://m.media-amazon.com/images/M/MV5BZTY4OTMxNGYtNTRhMi00NWNhLTlhZWUtZGNlMmQ0MjkxNjVkXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: le-cercle-rouge
   tmdb_id: null
@@ -96,6 +106,8 @@
     humor: 1
     acclaim: 0.88
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0065531
+  poster_url: https://m.media-amazon.com/images/M/MV5BZTJiZjdjM2MtYTA3My00M2E3LTlhMDgtMzc0OTNhOGY2MzVjXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: un-flic
   tmdb_id: null

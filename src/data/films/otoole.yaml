@@ -18,6 +18,8 @@
     humor: 1
     acclaim: 0.95
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  imdb_id: tt0056172
+  poster_url: https://m.media-amazon.com/images/M/MV5BYjY0YTQ1OTAtYjEyNy00NTQ4LThlMTQtM2QwYTVhYWFhNjU5XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: becket
   tmdb_id: null
@@ -27,6 +29,8 @@
   director: Peter Glenville
   tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.82 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0057877
+  poster_url: https://m.media-amazon.com/images/M/MV5BZWIyNGI0MWMtOTkyMi00MzYyLWJkOWQtY2E1ZjgxNjQwNWZjXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: whats-new-pussycat
   tmdb_id: null
@@ -36,6 +40,8 @@
   director: Clive Donner
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 5, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+  imdb_id: tt0059903
+  poster_url: https://m.media-amazon.com/images/M/MV5BOWFmMjkwNDQtZjI3My00YmQ0LWFiOTktM2ViNTVlZTBhNWI0XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: goodbye-mr-chips-1969
   tmdb_id: null
@@ -45,6 +51,8 @@
   director: Herbert Ross
   tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 2, acclaim: 0.65 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0064382
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTE4OGJiZmItNjExMC00NjU3LWFkODAtM2ViNjE4ZWM3YzliXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-ruling-class
   tmdb_id: null
@@ -59,6 +67,8 @@
     humor: 4
     acclaim: 0.75
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0069198
+  poster_url: https://m.media-amazon.com/images/M/MV5BMGRjNjJhMTYtMjQyOS00MDFhLTgzMTktYmNmNjNmYTQwYTg2XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-stunt-man
   tmdb_id: null
@@ -73,6 +83,8 @@
     humor: 3
     acclaim: 0.78
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0081568
+  poster_url: https://m.media-amazon.com/images/M/MV5BY2QyMjkxNTctYjc1ZS00MjliLTg0OTMtYjFhOTRmNzkyNzRjXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: my-favorite-year
   tmdb_id: null
@@ -82,6 +94,8 @@
   director: Richard Benjamin
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0084370
+  poster_url: https://m.media-amazon.com/images/M/MV5BZTE0Yjk0NzctOTc5Ni00ZDNkLTk5YmMtNTdkZDQ4MmE0MWUwXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-last-emperor
   tmdb_id: null
@@ -91,3 +105,5 @@
   director: Bernardo Bertolucci
   tags: { opacity: 2, stillness: 4, bleakness: 4, humor: 1, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0093389
+  poster_url: https://m.media-amazon.com/images/M/MV5BYjIxYWFiMDgtZTgyMy00MjFiLWIyMmEtNGIyZjc1NTRlMzQ3XkEyXkFqcGc@._V1_SX300.jpg
