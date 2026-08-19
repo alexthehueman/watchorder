@@ -273,6 +273,20 @@ ul.canon-films {
 
 .canon-film .meta a:hover { color: var(--accent); border-bottom-color: var(--accent); }
 
+.seen-toggle {
+  margin-left: 0.6rem;
+  color: var(--muted);
+  font-size: 0.8rem;
+  cursor: pointer;
+  user-select: none;
+}
+
+.seen-toggle input { margin-right: 0.3rem; vertical-align: -1px; }
+
+.canon-film.seen { opacity: 0.5; }
+
+.canon-film.seen h3 { text-decoration: line-through; text-decoration-color: var(--muted); }
+
 .kind-tabs {
   display: flex;
   gap: 1.5rem;

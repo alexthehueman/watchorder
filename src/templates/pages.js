@@ -253,13 +253,18 @@ function collectCanon(entities, filmsById) {
   return [...best.values()].sort((a, b) => a.film.year - b.film.year);
 }
 
-/** One row in the Film Canon — no rank, since the list isn't an ordering, just a set. */
+/**
+ * One row in the Film Canon — no rank, since the list isn't an ordering, just a set. The seen
+ * checkbox ships hidden, the same reasoning as the quiz form and search box: without JavaScript
+ * there is nowhere for the state to live, so an inert control would be furniture rather than a
+ * feature. canon.js reveals it and restores checked state from localStorage on load.
+ */
 function canonCard(entry, base) {
   const { film, pair, entity } = entry;
   const poster = film.poster_url
     ? `<img class="poster" src="${esc(film.poster_url)}" alt="" loading="lazy" width="56" height="84">`
     : `<div class="poster-placeholder" aria-hidden="true"></div>`;
-  return `          <li class="canon-film">
+  return `          <li class="canon-film" data-film-id="${esc(film.id)}">
             ${poster}
             <div class="body">
               <h3>${esc(film.title)} <span class="year">${film.year}</span></h3>
@@ -269,6 +274,9 @@ function canonCard(entry, base) {
                     ? ` · <a class="letterboxd" href="https://letterboxd.com/film/${esc(film.letterboxd_slug)}/" target="_blank" rel="noopener noreferrer">Letterboxd ↗</a>`
                     : ''
                 }
+                <label class="seen-toggle" hidden>
+                  <input type="checkbox" class="seen-check" data-film-id="${esc(film.id)}"> Seen
+                </label>
               </p>
               ${pair.note ? `<p class="note">${esc(pair.note)}</p>` : ''}
             </div>
@@ -391,7 +399,11 @@ ${sections}
 ${canonSection}
     </main>
     <script type="application/json" id="search-data">${JSON.stringify(searchIndex).replace(/</g, '\\u003c')}</script>
-    <script type="module" src="${esc(url(base, '/ui/search.js'))}"></script>`;
+    <script type="module" src="${esc(url(base, '/ui/search.js'))}"></script>${
+      canon.length > 0
+        ? `\n    <script type="module" src="${esc(url(base, '/ui/canon.js'))}"></script>`
+        : ''
+    }`;
 
   return layout({ title, description, canonical: `${origin}${base}/`, body, base });
 }
