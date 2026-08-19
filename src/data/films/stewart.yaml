@@ -1,0 +1,115 @@
+# New films for James Stewart. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Vertigo and Rear Window already exist in hitchcock.yaml, The Philadelphia Story in
+# hepburn-katharine.yaml, and Liberty Valance in ford.yaml. Four of his defining performances were
+# tagged for other entities before he had one.
+#
+# The bleakness spread is the point of this filmography and it is wider than his reputation allows.
+# The everyman decency is real, and so is the Mann western run where he plays men consumed by
+# revenge, and Vertigo, where the persona is used against the audience deliberately.
+
+- id: mr-smith-goes-to-washington
+  tmdb_id: null
+  title: Mr. Smith Goes to Washington
+  year: 1939
+  runtime: 129
+  director: Frank Capra
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.88 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 0 }
+
+- id: the-shop-around-the-corner
+  tmdb_id: null
+  title: The Shop Around the Corner
+  year: 1940
+  runtime: 99
+  director: Ernst Lubitsch
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.88 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
+
+- id: its-a-wonderful-life
+  tmdb_id: null
+  title: It's a Wonderful Life
+  year: 1946
+  runtime: 130
+  director: Frank Capra
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 3 # remembered as warm, and most of it is a man discovering his life was a trap
+    humor: 3
+    acclaim: 0.92
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 0 }
+
+- id: rope
+  tmdb_id: null
+  title: Rope
+  year: 1948
+  runtime: 80
+  director: Alfred Hitchcock
+  tags:
+    opacity: 2
+    stillness: 3 # shot to look like one unbroken take, in one room, in real time
+    bleakness: 4
+    humor: 2
+    acclaim: 0.78
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: winchester-73
+  tmdb_id: null
+  title: Winchester '73
+  year: 1950
+  runtime: 92
+  director: Anthony Mann
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 2, acclaim: 0.80 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: harvey
+  tmdb_id: null
+  title: Harvey
+  year: 1950
+  runtime: 104
+  director: Henry Koster
+  tags:
+    opacity: 2 # the rabbit is never confirmed or denied, and the film prefers it that way
+    stillness: 2
+    bleakness: 2
+    humor: 4
+    acclaim: 0.80
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-naked-spur
+  tmdb_id: null
+  title: The Naked Spur
+  year: 1953
+  runtime: 91
+  director: Anthony Mann
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 5 # five people in a wilderness, every one of them for sale
+    humor: 1
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: the-man-who-knew-too-much
+  tmdb_id: null
+  title: The Man Who Knew Too Much
+  year: 1956
+  runtime: 120
+  director: Alfred Hitchcock
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+
+- id: anatomy-of-a-murder
+  tmdb_id: null
+  title: Anatomy of a Murder
+  year: 1959
+  runtime: 160
+  director: Otto Preminger
+  tags:
+    opacity: 3 # the film never establishes whether the rape happened, and refuses to resolve it
+    stillness: 3
+    bleakness: 3
+    humor: 3
+    acclaim: 0.88
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
