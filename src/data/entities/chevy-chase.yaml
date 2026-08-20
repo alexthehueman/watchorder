@@ -1,0 +1,56 @@
+slug: chevy-chase
+kind: actor
+name: Chevy Chase
+blurb: A smug, deadpan comic persona built on delusional confidence — from a suburban dad determined to have the perfect vacation to an unflappable undercover reporter.
+
+films:
+  - film: national-lampoons-vacation
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: A father dragging his family cross-country toward a theme park no matter the cost, playing manic, delusional optimism.
+
+  - film: fletch
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 5
+    note: An investigative reporter working a case under a rotation of disguises, playing cool, unbothered wisecracking.
+
+  - film: caddyshack
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: comic
+    gateway: 4
+    note: A carefree golf pro who plays by his own rules, playing loose, effortlessly smug charm.
+
+  - film: three-amigos
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: warm
+    gateway: 3
+    note: One of three washed-up silent-film stars mistaken for real gunfighters, playing genial, easily-led camaraderie.
+
+  - film: spies-like-us
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: unhinged
+    gateway: 2
+    note: A fake spy scrambling through a crisis he doesn't understand, playing frazzled, in-over-his-head panic.
+
+curated:
+  curator: house
+  rationale: The most iconic role first, then the range of his deadpan and delusional-confidence comedy around it.
+  order:
+    - national-lampoons-vacation
+    - fletch
+    - caddyshack
+    - three-amigos
+    - spies-like-us

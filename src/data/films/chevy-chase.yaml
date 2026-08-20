@@ -1,0 +1,28 @@
+# New films for Chevy Chase. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Caddyshack already exists in murray.yaml — tagged before he had an entity.
+# Three Amigos already exists in steve-martin.yaml.
+# Spies Like Us already exists in dan-aykroyd.yaml.
+
+- id: national-lampoons-vacation
+  tmdb_id: null
+  title: National Lampoon's Vacation
+  year: 1983
+  runtime: 98
+  director: Harold Ramis
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: fletch
+  tmdb_id: null
+  title: Fletch
+  year: 1985
+  runtime: 98
+  director: Michael Ritchie
+  tags:
+    opacity: 2 # the actual criminal conspiracy stays genuinely tangled until Fletch works it out
+    stillness: 2 # a deliberate, one-step-at-a-time unraveling rather than the manic pace around it
+    bleakness: 2
+    humor: 4
+    acclaim: 0.62
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }

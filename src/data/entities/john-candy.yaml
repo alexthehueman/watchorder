@@ -1,0 +1,47 @@
+slug: john-candy
+kind: actor
+name: John Candy
+blurb: A big-hearted, gregarious warmth that turned overbearing comic characters into genuinely moving portraits of loneliness and decency.
+
+films:
+  - film: planes-trains-and-automobiles
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: A relentlessly friendly shower-curtain-ring salesman wrecking a stranger's holiday commute, playing overbearing warmth hiding real loneliness.
+
+  - film: uncle-buck
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: A slovenly bachelor uncle unexpectedly left in charge of his nieces and nephew, playing gruff, big-hearted improvisation.
+
+  - film: cool-runnings
+    signature: 3
+    showcase: 4
+    role_size: supporting
+    register: restrained
+    gateway: 3
+    note: A disgraced former champion coaching a Jamaican bobsled team, playing quiet, redemptive resolve.
+
+  - film: the-great-outdoors
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: warm
+    gateway: 3
+    note: A food-loving family man trying to enjoy a lake vacation his brother-in-law keeps derailing, playing easygoing, generous warmth.
+
+curated:
+  curator: house
+  rationale: The most acclaimed, most beloved performance first, then the range of warmth and comedy around it.
+  order:
+    - planes-trains-and-automobiles
+    - uncle-buck
+    - cool-runnings
+    - the-great-outdoors

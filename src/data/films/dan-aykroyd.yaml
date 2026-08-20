@@ -1,0 +1,36 @@
+# New films for Dan Aykroyd. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Ghostbusters already exists in weaver.yaml — tagged before he had an entity.
+# Trading Places already exists in curtis.yaml.
+
+- id: the-blues-brothers
+  tmdb_id: null
+  title: The Blues Brothers
+  year: 1980
+  runtime: 148
+  director: John Landis
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 5, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: spies-like-us
+  tmdb_id: null
+  title: Spies Like Us
+  year: 1985
+  runtime: 109
+  director: John Landis
+  tags:
+    opacity: 2 # a nuclear conspiracy unfolds around two men who never realize what they're actually part of
+    stillness: 1
+    bleakness: 1
+    humor: 4
+    acclaim: 0.55
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-great-outdoors
+  tmdb_id: null
+  title: The Great Outdoors
+  year: 1988
+  runtime: 91
+  director: Howard Deutch
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 4, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
