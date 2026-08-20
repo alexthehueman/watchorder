@@ -1,0 +1,42 @@
+# New films for Steve McQueen. Scales and anchors are in README.md ("The anchor rubric").
+
+- id: the-great-escape
+  tmdb_id: null
+  title: The Great Escape
+  year: 1963
+  runtime: 172
+  director: John Sturges
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.88 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: bullitt
+  tmdb_id: null
+  title: Bullitt
+  year: 1968
+  runtime: 114
+  director: Peter Yates
+  tags:
+    opacity: 2 # the actual conspiracy behind the witness he's protecting stays genuinely murky for most of the film
+    stillness: 1
+    bleakness: 3
+    humor: 1
+    acclaim: 0.78
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: papillon
+  tmdb_id: null
+  title: Papillon
+  year: 1973
+  runtime: 151
+  director: Franklin J. Schaffner
+  tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.80 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-sand-pebbles
+  tmdb_id: null
+  title: The Sand Pebbles
+  year: 1966
+  runtime: 182
+  director: Robert Wise
+  tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

@@ -1,0 +1,47 @@
+slug: warren-beatty
+kind: actor
+name: Warren Beatty
+blurb: A charismatic, self-aware leading-man presence that ranged from an outlaw's reckless glamour to real political conviction, with real comic timing underneath.
+
+films:
+  - film: bonnie-and-clyde
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 5
+    note: A charismatic, reckless outlaw drawn to violence and fame, playing thrill-seeking bravado spiraling toward doom.
+
+  - film: reds
+    signature: 5
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A committed radical journalist chronicling revolution with real conviction, playing quiet, principled intensity.
+
+  - film: shampoo
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: A womanizing hairdresser juggling too many relationships at once, playing charming, self-inflicted chaos.
+
+  - film: heaven-can-wait
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: warm
+    gateway: 5
+    note: A football player given a second chance at life in someone else's body, playing earnest, good-natured bewilderment.
+
+curated:
+  curator: house
+  rationale: The most iconic role first, then the Oscar-winning epic, then the range of comedy around both.
+  order:
+    - bonnie-and-clyde
+    - reds
+    - shampoo
+    - heaven-can-wait

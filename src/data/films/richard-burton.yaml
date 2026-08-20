@@ -1,0 +1,18 @@
+# New films for Richard Burton. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Becket already exists in otoole.yaml — tagged before he had an entity.
+# Cleopatra and Who's Afraid of Virginia Woolf? already exist in taylor.yaml.
+
+- id: the-spy-who-came-in-from-the-cold
+  tmdb_id: null
+  title: The Spy Who Came in from the Cold
+  year: 1965
+  runtime: 112
+  director: Martin Ritt
+  tags:
+    opacity: 3 # the actual operation and who's really running whom stays genuinely hidden until the very end
+    stillness: 3
+    bleakness: 5
+    humor: 1
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
