@@ -1,0 +1,35 @@
+# New films for Kate Beckinsale. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Aviator already exists in blanchett.yaml — tagged before she had an entity.
+
+- id: underworld
+  tmdb_id: null
+  title: Underworld
+  year: 2003
+  runtime: 121
+  director: Len Wiseman
+  tags: { opacity: 2, stillness: 1, bleakness: 4, humor: 1, acclaim: 0.62 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+
+- id: love-and-friendship
+  tmdb_id: null
+  title: Love and Friendship
+  year: 2016
+  runtime: 92
+  director: Whit Stillman
+  tags:
+    opacity: 2 # a schemer whose actual motives the film enjoys keeping just out of reach behind Austen-sharp dialogue
+    stillness: 3
+    bleakness: 2
+    humor: 4
+    acclaim: 0.75
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: pearl-harbor
+  tmdb_id: null
+  title: Pearl Harbor
+  year: 2001
+  runtime: 183
+  director: Michael Bay
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.5 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }

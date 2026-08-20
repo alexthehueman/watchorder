@@ -1,0 +1,40 @@
+# New films for Rosamund Pike. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Die Another Day already exists in berry.yaml — tagged before she had an entity.
+
+- id: gone-girl
+  tmdb_id: null
+  title: Gone Girl
+  year: 2014
+  runtime: 149
+  director: David Fincher
+  tags:
+    opacity: 4 # the entire film is structured around withholding whether its own narrator is telling the truth
+    stillness: 2
+    bleakness: 5
+    humor: 2
+    acclaim: 0.85
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: i-care-a-lot
+  tmdb_id: null
+  title: I Care a Lot
+  year: 2020
+  runtime: 118
+  director: J Blakeson
+  tags:
+    opacity: 2 # a legal-guardianship scam whose full scale the film reveals only as her targets get more dangerous
+    stillness: 2
+    bleakness: 4
+    humor: 3
+    acclaim: 0.6
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: a-united-kingdom
+  tmdb_id: null
+  title: A United Kingdom
+  year: 2016
+  runtime: 111
+  director: Amma Asante
+  tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

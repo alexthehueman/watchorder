@@ -1,0 +1,37 @@
+# New films for Hugh Grant. Scales and anchors are in README.md ("The anchor rubric").
+# Filename disambiguates from grant.yaml, which belongs to Cary Grant.
+#
+# About a Boy already exists in collette.yaml — tagged before he had an entity. Love Actually
+# already exists in thompson.yaml — tagged before he had an entity.
+
+- id: four-weddings-and-a-funeral
+  tmdb_id: null
+  title: Four Weddings and a Funeral
+  year: 1994
+  runtime: 117
+  director: Mike Newell
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: paddington-2
+  tmdb_id: null
+  title: Paddington 2
+  year: 2017
+  runtime: 103
+  director: Paul King
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.92 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-gentlemen
+  tmdb_id: null
+  title: The Gentlemen
+  year: 2019
+  runtime: 113
+  director: Guy Ritchie
+  tags:
+    opacity: 2 # a story told secondhand by an unreliable narrator, with the film happy to let you doubt him
+    stillness: 1
+    bleakness: 3
+    humor: 4
+    acclaim: 0.72
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

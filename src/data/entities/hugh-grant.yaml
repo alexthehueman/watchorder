@@ -1,0 +1,57 @@
+slug: hugh-grant
+kind: actor
+name: Hugh Grant
+blurb: Spent two decades as British cinema's most reliably stammering romantic lead, then discovered a genuine gift for turning that same charm into pure, gleeful villainy.
+
+films:
+  - film: four-weddings-and-a-funeral
+    signature: 5
+    must_see: true
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: A perpetually late, hopelessly awkward bachelor falling for an American he keeps running into at other people's weddings, playing bumbling charm as the whole persona's founding text.
+
+  - film: paddington-2
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: supporting
+    register: menacing
+    gateway: 5
+    note: A vain, washed-up actor turned elaborate art thief, playing theatrical narcissism as pure, delighted villainy with none of his usual boyish charm.
+
+  - film: love-actually
+    signature: 3
+    showcase: 2
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: A newly elected British Prime Minister smitten with a member of his household staff, playing public composure against a very private crush.
+
+  - film: about-a-boy
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A wealthy, deliberately unattached bachelor drawn into real responsibility by an odd, lonely boy, playing selfishness thawing without ever fully losing its edge.
+
+  - film: the-gentlemen
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: comic
+    gateway: 4
+    note: A sleazy, scheming tabloid journalist narrating a criminal underworld story he may or may not be telling straight.
+
+curated:
+  curator: house
+  rationale: The role that defined the stammering romantic persona first, then everywhere else it gets bent, softened, or completely inverted.
+  order:
+    - four-weddings-and-a-funeral
+    - love-actually
+    - about-a-boy
+    - the-gentlemen
+    - paddington-2
