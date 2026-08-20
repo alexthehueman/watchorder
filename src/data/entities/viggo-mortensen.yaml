@@ -1,0 +1,75 @@
+slug: viggo-mortensen
+kind: actor
+name: Viggo Mortensen
+blurb: A weathered, understated physicality that reads as quiet nobility in an epic and as something considerably more unstable once Cronenberg gets hold of it.
+
+films:
+  - film: a-history-of-violence
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 3
+    note: A small-town diner owner whose act of violent self-defense exposes a past identity he's spent years burying from his own family.
+
+  - film: the-lord-of-the-rings-the-fellowship-of-the-ring
+    signature: 5
+    must_see: true
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: A weary ranger reluctant to claim his own royal lineage, guiding a fellowship toward a war he doesn't yet believe he's meant to fight.
+
+  - film: eastern-promises
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: menacing
+    gateway: 2
+    note: A Russian mob driver whose loyalty and true allegiance the film keeps genuinely ambiguous until its final act.
+
+  - film: captain-fantastic
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: warm
+    gateway: 3
+    note: A father who's raised his six children in total wilderness isolation, forced to test his own convictions against the outside world after a family death.
+
+  - film: green-book
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: warm
+    gateway: 5
+    note: A blunt Bronx bouncer hired to drive a Black classical pianist through the segregated South, playing prejudice softening in real time without ever fully vanishing.
+
+  - film: a-dangerous-method
+    signature: 3
+    showcase: 4
+    role_size: supporting
+    register: restrained
+    gateway: 2
+    note: Sigmund Freud, watching his own theories and his protege's methods diverge with clipped, precise disapproval.
+
+  - film: the-road
+    signature: 2
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A father protecting his son across a post-apocalyptic wasteland, playing tenderness as the one thing worth preserving when everything else has failed.
+
+curated:
+  curator: house
+  rationale: The two performances that show the range of the weathered nobility first, then everywhere it turns unstable.
+  order:
+    - the-lord-of-the-rings-the-fellowship-of-the-ring
+    - green-book
+    - captain-fantastic
+    - the-road
+    - a-dangerous-method
+    - a-history-of-violence
+    - eastern-promises

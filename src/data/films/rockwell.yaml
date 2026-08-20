@@ -1,0 +1,43 @@
+# New films for Sam Rockwell. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Three Billboards Outside Ebbing, Missouri already exists in mcdormand.yaml — tagged before he
+# had an entity. Jojo Rabbit already exists in johansson.yaml — tagged before he had an entity.
+# Vice already exists in bale.yaml — tagged before he had an entity.
+
+- id: confessions-of-a-dangerous-mind
+  tmdb_id: null
+  title: Confessions of a Dangerous Mind
+  year: 2002
+  runtime: 113
+  director: George Clooney
+  tags:
+    opacity: 3 # a game-show host's claimed CIA assassin career the film never confirms is real
+    stillness: 2
+    bleakness: 3
+    humor: 3
+    acclaim: 0.68
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: moon
+  tmdb_id: null
+  title: Moon
+  year: 2009
+  runtime: 97
+  director: Duncan Jones
+  tags:
+    opacity: 3 # withholds the truth about its own protagonist for the film's first half by design
+    stillness: 4
+    bleakness: 4
+    humor: 1
+    acclaim: 0.82
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-way-way-back
+  tmdb_id: null
+  title: The Way Way Back
+  year: 2013
+  runtime: 103
+  director: Nat Faxon
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+

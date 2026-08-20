@@ -1,0 +1,92 @@
+# New films for Michael B Jordan. Scales and anchors are in README.md ("The anchor rubric").
+
+- id: fruitvale-station
+  tmdb_id: null
+  title: Fruitvale Station
+  year: 2013
+  runtime: 85
+  director: Ryan Coogler
+  tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.82 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: creed
+  tmdb_id: null
+  title: Creed
+  year: 2015
+  runtime: 133
+  director: Ryan Coogler
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: black-panther
+  tmdb_id: null
+  title: Black Panther
+  year: 2018
+  runtime: 134
+  director: Ryan Coogler
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 2, acclaim: 0.82 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: chronicle
+  tmdb_id: null
+  title: Chronicle
+  year: 2012
+  runtime: 84
+  director: Josh Trank
+  tags:
+    opacity: 2 # a found-footage structure that keeps the source of the boys' powers deliberately unexplained
+    stillness: 2
+    bleakness: 4
+    humor: 2
+    acclaim: 0.72
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: that-awkward-moment
+  tmdb_id: null
+  title: That Awkward Moment
+  year: 2014
+  runtime: 94
+  director: Tom Gormican
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.42 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: red-tails
+  tmdb_id: null
+  title: Red Tails
+  year: 2012
+  runtime: 125
+  director: Anthony Hemingway
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.42 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: without-remorse
+  tmdb_id: null
+  title: Without Remorse
+  year: 2021
+  runtime: 109
+  director: Stefano Sollima
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: just-mercy
+  tmdb_id: null
+  title: Just Mercy
+  year: 2019
+  runtime: 137
+  director: Destin Daniel Cretton
+  tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: fahrenheit-451-2018
+  tmdb_id: null
+  title: Fahrenheit 451
+  year: 2018
+  runtime: 100
+  director: Ramin Bahrani
+  tags:
+    opacity: 2 # a resistance movement's actual methods and reach the film keeps you piecing together late
+    stillness: 2
+    bleakness: 4
+    humor: 1
+    acclaim: 0.45
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

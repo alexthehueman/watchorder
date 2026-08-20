@@ -1,0 +1,66 @@
+slug: sam-rockwell
+kind: actor
+name: Sam Rockwell
+blurb: A loose, twitchy physicality that can play genuinely dangerous or purely comic depending on how far the film lets it run, often within the same performance.
+
+films:
+  - film: three-billboards-outside-ebbing-missouri
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 4
+    note: A dim, casually racist small-town cop whose arc the film refuses to resolve into either redemption or condemnation. Won him the Oscar.
+
+  - film: moon
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A lone lunar mining contractor nearing the end of a three-year shift, discovering something about his own isolation the film builds its entire structure around withholding.
+
+  - film: confessions-of-a-dangerous-mind
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: unhinged
+    gateway: 3
+    note: Real-life game-show host Chuck Barris, narrating his own possibly-fabricated career as a CIA assassin with total conviction.
+
+  - film: jojo-rabbit
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: comic
+    gateway: 4
+    note: A demoted, disillusioned Nazi officer training children for a war he's already lost interest in, playing burnout as the film's dry comic relief.
+
+  - film: vice
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: comic
+    gateway: 4
+    note: George W. Bush, played as a genial, overmatched figurehead easily steered by the men actually running his administration.
+
+  - film: the-way-way-back
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: warm
+    gateway: 5
+    note: A water park manager who takes a withdrawn teenager under his wing for a summer, playing easy charm as the film's warmest note.
+
+curated:
+  curator: house
+  rationale: The two performances that show the range of the twitchy physicality first, then everywhere else it's aimed.
+  order:
+    - the-way-way-back
+    - vice
+    - jojo-rabbit
+    - confessions-of-a-dangerous-mind
+    - three-billboards-outside-ebbing-missouri
+    - moon

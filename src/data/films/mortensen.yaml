@@ -1,0 +1,49 @@
+# New films for Viggo Mortensen. Scales and anchors are in README.md ("The anchor rubric").
+#
+# A History of Violence and Eastern Promises already exist in cronenberg.yaml — tagged before he
+# had an entity.
+
+- id: the-lord-of-the-rings-the-fellowship-of-the-ring
+  tmdb_id: null
+  title: The Lord of the Rings The Fellowship of the Ring
+  year: 2001
+  runtime: 178
+  director: Peter Jackson
+  tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.9 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-road
+  tmdb_id: null
+  title: The Road
+  year: 2009
+  runtime: 111
+  director: John Hillcoat
+  tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: true, violence: 2, sex: 0 }
+
+- id: captain-fantastic
+  tmdb_id: null
+  title: Captain Fantastic
+  year: 2016
+  runtime: 118
+  director: Matt Ross
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.8 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
+
+- id: green-book
+  tmdb_id: null
+  title: Green Book
+  year: 2018
+  runtime: 130
+  director: Peter Farrelly
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: a-dangerous-method
+  tmdb_id: null
+  title: A Dangerous Method
+  year: 2011
+  runtime: 99
+  director: David Cronenberg
+  tags: { opacity: 2, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
