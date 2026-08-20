@@ -1,0 +1,21 @@
+# New films for Richard Dreyfuss. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Jaws and Close Encounters of the Third Kind already exist in spielberg.yaml — tagged before he had an entity.
+
+- id: the-goodbye-girl
+  tmdb_id: null
+  title: The Goodbye Girl
+  year: 1977
+  runtime: 110
+  director: Herbert Ross
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: american-graffiti
+  tmdb_id: null
+  title: American Graffiti
+  year: 1973
+  runtime: 110
+  director: George Lucas
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.82 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

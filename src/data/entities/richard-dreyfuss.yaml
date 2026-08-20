@@ -1,0 +1,47 @@
+slug: richard-dreyfuss
+kind: actor
+name: Richard Dreyfuss
+blurb: A jittery, motormouthed everyman intensity that anchored two of the defining blockbusters of the 70s and an Oscar-winning comic lead.
+
+films:
+  - film: jaws
+    signature: 5
+    must_see: true
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 5
+    note: A marine biologist bringing scientific calm to a town in panic, playing controlled, credentialed reason.
+
+  - film: the-goodbye-girl
+    signature: 5
+    showcase: 5
+    role_size: lead
+    register: comic
+    gateway: 4
+    note: A struggling actor thrown into a shared apartment with a single mother and her daughter, playing fast-talking, neurotic charm.
+
+  - film: close-encounters-of-the-third-kind
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 2
+    note: An ordinary man consumed by an obsession he can't explain, playing mounting, single-minded fixation.
+
+  - film: american-graffiti
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: warm
+    gateway: 3
+    note: A teenager cruising through his last night before leaving for college, playing wistful, nostalgic uncertainty.
+
+curated:
+  curator: house
+  rationale: The most iconic role first, then the Oscar-winning comic lead, then the range around both.
+  order:
+    - jaws
+    - the-goodbye-girl
+    - close-encounters-of-the-third-kind
+    - american-graffiti

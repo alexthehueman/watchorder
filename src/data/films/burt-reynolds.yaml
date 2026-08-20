@@ -1,0 +1,35 @@
+# New films for Burt Reynolds. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Boogie Nights already exists in pta.yaml — tagged before he had an entity.
+
+- id: deliverance
+  tmdb_id: null
+  title: Deliverance
+  year: 1972
+  runtime: 109
+  director: John Boorman
+  tags:
+    opacity: 2 # whether they'll get away with covering up the killing, and what it's done to each of them, stays unresolved
+    stillness: 2
+    bleakness: 5
+    humor: 1
+    acclaim: 0.85
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: smokey-and-the-bandit
+  tmdb_id: null
+  title: Smokey and the Bandit
+  year: 1977
+  runtime: 96
+  director: Hal Needham
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.60 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-longest-yard
+  tmdb_id: null
+  title: The Longest Yard
+  year: 1974
+  runtime: 121
+  director: Robert Aldrich
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

@@ -1,0 +1,47 @@
+slug: burt-reynolds
+kind: actor
+name: Burt Reynolds
+blurb: A grinning, mustachioed machismo that anchored the defining car-chase comedies of the 70s, with real dramatic teeth when he wanted to show them.
+
+films:
+  - film: boogie-nights
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: supporting
+    register: warm
+    gateway: 3
+    note: A porn director who sees himself as a real filmmaker and father figure to his cast, playing wounded, protective sincerity.
+
+  - film: deliverance
+    signature: 5
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 2
+    note: The self-appointed alpha of a canoe trip that turns into a fight for survival, playing primal, escalating intensity.
+
+  - film: smokey-and-the-bandit
+    signature: 4
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: A bootlegger outrunning the law across state lines, playing grinning, effortless charisma.
+
+  - film: the-longest-yard
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A disgraced ex-pro quarterback leading a prison football team, playing weathered, reluctant redemption.
+
+curated:
+  curator: house
+  rationale: The Oscar-nominated dramatic work first, then the role that defined his star persona, then the range around both.
+  order:
+    - boogie-nights
+    - deliverance
+    - smokey-and-the-bandit
+    - the-longest-yard

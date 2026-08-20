@@ -1,0 +1,18 @@
+# New films for Shirley MacLaine. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Terms of Endearment already exists in nicholson.yaml — tagged before she had an entity.
+# The Apartment already exists in wilder.yaml. Steel Magnolias already exists in julia-roberts.yaml.
+
+- id: the-turning-point
+  tmdb_id: null
+  title: The Turning Point
+  year: 1977
+  runtime: 119
+  director: Herbert Ross
+  tags:
+    opacity: 2 # whether either woman actually regrets the choice she made decades ago, or is just performing regret, stays genuinely ambiguous
+    stillness: 3 # decades of accumulated resentment surface at a deliberate, contemplative pace before the final confrontation
+    bleakness: 3
+    humor: 2
+    acclaim: 0.68
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
