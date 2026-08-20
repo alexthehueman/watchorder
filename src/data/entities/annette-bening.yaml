@@ -1,0 +1,65 @@
+slug: annette-bening
+kind: actor
+name: Annette Bening
+blurb: A controlled, articulate intensity that reads as brittle composure right up until a film needs it to crack, at which point it's usually the whole reason the scene works.
+
+films:
+  - film: american-beauty
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 2
+    note: A real-estate agent whose relentless self-improvement mantras conceal a marriage and a life quietly falling apart, playing brittle composure the film keeps letting crack.
+
+  - film: the-grifters
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: menacing
+    gateway: 1
+    note: A con artist whose loyalties keep shifting between two other grifters, playing manipulation as her only reliable currency.
+
+  - film: the-kids-are-all-right
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A doctor and co-parent whose marriage is tested when her family's sperm donor unexpectedly enters their lives, playing controlled anxiety about a stability she can feel slipping.
+
+  - film: being-julia
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: comic
+    gateway: 3
+    note: A celebrated stage actress exacting a theatrical revenge on a younger rival, playing performance within performance as pure, delighted control.
+
+  - film: 20th-century-women
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: warm
+    gateway: 3
+    note: A single mother in 1979 Santa Barbara enlisting other women to help raise her teenage son, playing generational uncertainty without ever losing her own authority.
+
+  - film: captain-marvel
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: restrained
+    gateway: 4
+    note: A scientist whose true role in the film's central mystery the story withholds until its final act.
+
+curated:
+  curator: house
+  rationale: The performance built entirely on brittle composure cracking first, then everywhere else that same controlled intensity shows up.
+  order:
+    - captain-marvel
+    - 20th-century-women
+    - being-julia
+    - the-kids-are-all-right
+    - the-grifters
+    - american-beauty

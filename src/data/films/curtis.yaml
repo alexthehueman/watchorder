@@ -1,0 +1,31 @@
+# New films for Jamie Lee Curtis. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Halloween already exists in carpenter.yaml — tagged before she had an entity. Everything
+# Everywhere All at Once already exists in a24.yaml — tagged before she had an entity.
+
+- id: trading-places
+  tmdb_id: null
+  title: Trading Places
+  year: 1983
+  runtime: 116
+  director: John Landis
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: a-fish-called-wanda
+  tmdb_id: null
+  title: A Fish Called Wanda
+  year: 1988
+  runtime: 108
+  director: Charles Crichton
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: freaky-friday
+  tmdb_id: null
+  title: Freaky Friday
+  year: 2003
+  runtime: 97
+  director: Mark Waters
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

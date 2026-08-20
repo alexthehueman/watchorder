@@ -1,0 +1,36 @@
+# New films for Michael Douglas. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Fatal Attraction already exists in close.yaml — tagged before he had an entity. Ant-Man already
+# exists in rudd.yaml — tagged before he had an entity.
+
+- id: wall-street
+  tmdb_id: null
+  title: Wall Street
+  year: 1987
+  runtime: 126
+  director: Oliver Stone
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: basic-instinct
+  tmdb_id: null
+  title: Basic Instinct
+  year: 1992
+  runtime: 127
+  director: Paul Verhoeven
+  tags:
+    opacity: 3 # the film never confirms whether its central suspect actually committed the murders
+    stillness: 2
+    bleakness: 4
+    humor: 1
+    acclaim: 0.68
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 3 }
+
+- id: falling-down
+  tmdb_id: null
+  title: Falling Down
+  year: 1993
+  runtime: 113
+  director: Joel Schumacher
+  tags: { opacity: 1, stillness: 1, bleakness: 5, humor: 2, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }

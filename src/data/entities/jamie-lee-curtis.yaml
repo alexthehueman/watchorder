@@ -1,0 +1,57 @@
+slug: jamie-lee-curtis
+kind: actor
+name: Jamie Lee Curtis
+blurb: Defined the modern scream queen in her first film, then spent five decades proving there was a genuine comic gift and, eventually, real dramatic range sitting right alongside it.
+
+films:
+  - film: halloween
+    signature: 5
+    must_see: true
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: A babysitter stalked by an escaped killer on Halloween night, playing ordinary teenage normalcy against a horror the film builds almost entirely out of patient waiting. Her breakout role.
+
+  - film: everything-everywhere-all-at-once
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: supporting
+    register: comic
+    gateway: 2
+    note: A humorless, hostile tax auditor who turns out to have her own place in the multiverse chaos, playing rigid bureaucratic menace as pure comic gold.
+
+  - film: trading-places
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: A savvy sex worker who becomes an unlikely ally to a disgraced commodities broker, playing street-smart competence as the film's most grounded presence.
+
+  - film: a-fish-called-wanda
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: menacing
+    gateway: 3
+    note: A con artist juggling multiple lovers during a diamond heist gone wrong, playing manipulation as effortless, high-energy fun.
+
+  - film: freaky-friday
+    signature: 2
+    showcase: 2
+    role_size: lead
+    register: warm
+    gateway: 5
+    note: A stressed mother who magically swaps bodies with her teenage daughter, playing adolescent panic inside an adult body for most of the film's runtime.
+
+curated:
+  curator: house
+  rationale: The role that defined an entire horror subgenre first, then the decades of comic range that followed it.
+  order:
+    - freaky-friday
+    - trading-places
+    - a-fish-called-wanda
+    - everything-everywhere-all-at-once
+    - halloween

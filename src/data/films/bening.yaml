@@ -1,0 +1,16 @@
+# New films for Annette Bening. Scales and anchors are in README.md ("The anchor rubric").
+#
+# American Beauty already exists in chris-cooper.yaml — tagged before she had an entity. The Kids
+# Are All Right already exists in moore.yaml — tagged before she had an entity. 20th Century
+# Women already exists in cera.yaml — tagged before she had an entity. Captain Marvel already
+# exists in larson.yaml — tagged before she had an entity. The Grifters already exists in
+# huston.yaml — tagged before she had an entity.
+
+- id: being-julia
+  tmdb_id: null
+  title: Being Julia
+  year: 2004
+  runtime: 104
+  director: Istvan Szabo
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
