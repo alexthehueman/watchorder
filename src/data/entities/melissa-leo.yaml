@@ -1,0 +1,57 @@
+slug: melissa-leo
+kind: actor
+name: Melissa Leo
+blurb: A weathered, unglamorous authenticity that reads as documentary-real, spent almost entirely on women running out of options and refusing to admit it.
+
+films:
+  - film: frozen-river
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A struggling single mother turning to smuggling migrants across the US-Canada border to keep her family afloat, playing desperation as pure, unsentimental practicality.
+
+  - film: the-fighter
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: supporting
+    register: unhinged
+    gateway: 3
+    note: A fiercely controlling boxing mother and manager unwilling to admit her older son's addiction is sabotaging her younger son's career.
+
+  - film: 21-grams
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: restrained
+    gateway: 2
+    note: A wife whose husband's fatal accident sets three strangers' lives colliding, appearing mostly as the family the story orbits without controlling.
+
+  - film: prisoners
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: unhinged
+    gateway: 2
+    note: A quietly unsettling presence connected to the film's central abduction, playing ordinary domesticity as its own kind of warning sign.
+
+  - film: olympus-has-fallen
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: restrained
+    gateway: 3
+    note: A steady Secret Service presence holding a besieged White House together under siege, playing procedural competence under extreme pressure.
+
+curated:
+  curator: house
+  rationale: The two performances built entirely on refusing to admit how bad things are, then everywhere else that same weathered authenticity shows up.
+  order:
+    - olympus-has-fallen
+    - 21-grams
+    - prisoners
+    - the-fighter
+    - frozen-river

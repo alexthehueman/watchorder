@@ -1,0 +1,23 @@
+# New films for Melissa Leo. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Fighter already exists in bale.yaml — tagged before she had an entity. 21 Grams already
+# exists in watts.yaml — tagged before she had an entity. Prisoners already exists in
+# jackman.yaml — tagged before she had an entity.
+
+- id: frozen-river
+  tmdb_id: null
+  title: Frozen River
+  year: 2008
+  runtime: 97
+  director: Courtney Hunt
+  tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: olympus-has-fallen
+  tmdb_id: null
+  title: Olympus Has Fallen
+  year: 2013
+  runtime: 119
+  director: Antoine Fuqua
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }

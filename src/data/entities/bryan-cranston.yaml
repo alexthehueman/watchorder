@@ -1,0 +1,56 @@
+slug: bryan-cranston
+kind: actor
+name: Bryan Cranston
+blurb: A character actor's watchful precision that spent decades in reliable supporting work before proving, given a real lead, exactly how far it could carry a film.
+
+films:
+  - film: trumbo
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: comic
+    gateway: 3
+    note: A blacklisted Hollywood screenwriter continuing to work under pseudonyms during the McCarthy era, playing defiant wit as its own form of resistance.
+
+  - film: drive
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: warm
+    gateway: 3
+    note: A garage owner and the driver's closest thing to a father figure, playing loyalty that keeps getting tested by his own bad judgment.
+
+  - film: argo
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: restrained
+    gateway: 4
+    note: A CIA supervisor pushing a risky rescue plan through a skeptical bureaucracy, playing procedural persistence as the mission's quiet engine.
+
+  - film: godzilla-2014
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: unhinged
+    gateway: 4
+    note: A nuclear plant engineer whose obsessive theories about a decades-old disaster turn out to be exactly right, playing grief-driven conviction nobody around him will credit.
+
+  - film: the-upside
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A wealthy, acerbic quadriplegic hiring an unqualified ex-convict as his caretaker, playing controlled frustration slowly giving way to real trust.
+
+curated:
+  curator: house
+  rationale: The performance that proved the lead-role range first, then everywhere else the same watchful precision gets put to supporting use.
+  order:
+    - godzilla-2014
+    - argo
+    - drive
+    - the-upside
+    - trumbo

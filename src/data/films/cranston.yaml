@@ -1,0 +1,20 @@
+# New films for Bryan Cranston. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Drive already exists in gosling.yaml — tagged before he had an entity. Argo already exists in
+# goodman.yaml — tagged before he had an entity. Godzilla already exists in olsen.yaml — tagged
+# before he had an entity. The Upside already exists in hart.yaml — tagged before he had an
+# entity.
+
+- id: trumbo
+  tmdb_id: null
+  title: Trumbo
+  year: 2015
+  runtime: 124
+  director: Jay Roach
+  tags:
+    opacity: 1
+    stillness: 3 # long, dialogue-driven stretches of negotiation and argument between the film's bursts of activity
+    bleakness: 3
+    humor: 3
+    acclaim: 0.68
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
