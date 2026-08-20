@@ -1,0 +1,61 @@
+# New films for Arnold Schwarzenegger. Scales and anchors are in README.md ("The anchor rubric").
+
+- id: the-terminator
+  tmdb_id: null
+  title: The Terminator
+  year: 1984
+  runtime: 107
+  director: James Cameron
+  tags:
+    opacity: 2 # the mechanics of the time loop and who sent him surface gradually rather than all at once
+    stillness: 1
+    bleakness: 4
+    humor: 1
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+
+- id: terminator-2-judgment-day
+  tmdb_id: null
+  title: "Terminator 2: Judgment Day"
+  year: 1991
+  runtime: 137
+  director: James Cameron
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 3, acclaim: 0.90 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: predator
+  tmdb_id: null
+  title: Predator
+  year: 1987
+  runtime: 107
+  director: John McTiernan
+  tags:
+    opacity: 2 # what's hunting the team, and why, stays unseen for most of the runtime
+    stillness: 2
+    bleakness: 3
+    humor: 2
+    acclaim: 0.75
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: total-recall
+  tmdb_id: null
+  title: Total Recall
+  year: 1990
+  runtime: 113
+  director: Paul Verhoeven
+  tags:
+    opacity: 4 # whether any of it is really happening, or just an implanted memory, is never settled
+    stillness: 2
+    bleakness: 3
+    humor: 3
+    acclaim: 0.75
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+
+- id: true-lies
+  tmdb_id: null
+  title: True Lies
+  year: 1994
+  runtime: 141
+  director: James Cameron
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }

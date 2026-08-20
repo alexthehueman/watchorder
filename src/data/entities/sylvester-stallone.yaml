@@ -1,0 +1,47 @@
+slug: sylvester-stallone
+kind: actor
+name: Sylvester Stallone
+blurb: A mumbling, wounded physicality that built two of cinema's biggest franchises, from an underdog's earnest hope to a soldier's raw breakdown.
+
+films:
+  - film: rocky
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: warm
+    gateway: 5
+    note: A nobody club fighter given one shot at the title, playing earnest, unguarded hope.
+
+  - film: first-blood
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: unhinged
+    gateway: 5
+    note: A drifting Vietnam vet pushed past his limit by a small-town sheriff, playing a soldier's breakdown finally surfacing.
+
+  - film: creed
+    signature: 3
+    showcase: 4
+    role_size: supporting
+    register: warm
+    gateway: 3
+    note: An aging Rocky mentoring Apollo Creed's son, playing weathered, generous warmth.
+
+  - film: the-expendables
+    signature: 2
+    showcase: 2
+    role_size: lead
+    register: comic
+    gateway: 3
+    note: The graying leader of a mercenary crew, playing self-aware, grizzled camaraderie.
+
+curated:
+  curator: house
+  rationale: The role that made him first, then the other franchise that defined him, then the later-career work around both.
+  order:
+    - rocky
+    - first-blood
+    - creed
+    - the-expendables

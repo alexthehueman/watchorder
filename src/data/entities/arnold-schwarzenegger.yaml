@@ -1,0 +1,56 @@
+slug: arnold-schwarzenegger
+kind: actor
+name: Arnold Schwarzenegger
+blurb: A monumental physical presence that anchored the defining action franchises of the 80s and 90s, from silent menace to broad, self-aware comedy.
+
+films:
+  - film: the-terminator
+    signature: 5
+    must_see: true
+    showcase: 4
+    role_size: lead
+    register: menacing
+    gateway: 5
+    note: A relentless killing machine hunting one woman across Los Angeles, playing near-silent, unstoppable menace.
+
+  - film: terminator-2-judgment-day
+    signature: 5
+    showcase: 5
+    role_size: lead
+    register: warm
+    gateway: 5
+    note: The same machine reprogrammed to protect the boy he once would have killed, playing an unexpectedly tender, learning warmth.
+
+  - film: predator
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A commando leader whose team is being hunted one by one in the jungle, playing controlled, professional resolve.
+
+  - film: total-recall
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: unhinged
+    gateway: 2
+    note: A construction worker whose sense of his own identity keeps unraveling, playing increasingly frantic paranoia.
+
+  - film: true-lies
+    signature: 2
+    showcase: 2
+    role_size: lead
+    register: comic
+    gateway: 4
+    note: A secret agent whose double life collides with his marriage, playing broad, self-aware comic bravado.
+
+curated:
+  curator: house
+  rationale: The role that made him an icon first, then its more beloved sequel, then the range of genre work around both.
+  order:
+    - the-terminator
+    - terminator-2-judgment-day
+    - predator
+    - total-recall
+    - true-lies
