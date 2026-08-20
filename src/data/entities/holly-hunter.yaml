@@ -1,0 +1,47 @@
+slug: holly-hunter
+kind: actor
+name: Holly Hunter
+blurb: A fierce, high-energy screen presence that could power a farce, an anxious newsroom, or a nearly silent Oscar-winning performance.
+
+films:
+  - film: the-piano
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A mute woman communicating entirely through her music and unwavering will, playing controlled, ferocious inner life.
+
+  - film: raising-arizona
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: A warm-hearted ex-cop turned kidnapper navigating absurd domestic chaos, playing frazzled, devoted desperation.
+
+  - film: broadcast-news
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 4
+    note: A brilliant, high-strung producer whose perfectionism boils over into real anxiety, playing manic, exacting intensity.
+
+  - film: o-brother-where-art-thou
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: warm
+    gateway: 5
+    note: A stubborn, practical woman weighing her heart against her own hard-won independence, playing wary, grounded warmth.
+
+curated:
+  curator: house
+  rationale: The Oscar-winning performance first, then the range of comic and anxious energy around it.
+  order:
+    - the-piano
+    - raising-arizona
+    - broadcast-news
+    - o-brother-where-art-thou

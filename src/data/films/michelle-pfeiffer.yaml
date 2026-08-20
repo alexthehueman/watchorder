@@ -1,0 +1,18 @@
+# New films for Michelle Pfeiffer. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Batman Returns already exists in walken.yaml — tagged before she had an entity.
+# Scarface already exists in pacino.yaml. Dangerous Liaisons already exists in malkovich.yaml.
+
+- id: the-fabulous-baker-boys
+  tmdb_id: null
+  title: The Fabulous Baker Boys
+  year: 1989
+  runtime: 113
+  director: Steve Kloves
+  tags:
+    opacity: 2 # whether the growing attraction is something real or just performance chemistry stays genuinely uncertain
+    stillness: 3
+    bleakness: 3
+    humor: 2
+    acclaim: 0.78
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
