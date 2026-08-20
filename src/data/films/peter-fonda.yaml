@@ -1,0 +1,13 @@
+# New films for Peter Fonda. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Easy Rider already exists in nicholson.yaml — tagged before he had an entity.
+# The Wild Angels and The Trip already exist in aip.yaml.
+
+- id: ulees-gold
+  tmdb_id: null
+  title: Ulee's Gold
+  year: 1997
+  runtime: 111
+  director: Victor Nunez
+  tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.82 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }

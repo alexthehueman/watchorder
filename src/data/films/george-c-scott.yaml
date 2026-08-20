@@ -1,0 +1,27 @@
+# New films for George C. Scott. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Dr. Strangelove already exists in kubrick.yaml — tagged before he had an entity.
+# The Hustler already exists in newman.yaml.
+
+- id: patton
+  tmdb_id: null
+  title: Patton
+  year: 1970
+  runtime: 172
+  director: Franklin J. Schaffner
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.88 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-hospital
+  tmdb_id: null
+  title: The Hospital
+  year: 1971
+  runtime: 103
+  director: Arthur Hiller
+  tags:
+    opacity: 2 # a series of mysterious deaths in the hospital stays genuinely unresolved for much of the film
+    stillness: 1
+    bleakness: 4
+    humor: 3
+    acclaim: 0.72
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }

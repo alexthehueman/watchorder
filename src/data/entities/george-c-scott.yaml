@@ -1,0 +1,47 @@
+slug: george-c-scott
+kind: actor
+name: George C. Scott
+blurb: A gravel-voiced, forceful intensity that could swing from bombastic comedy to genuine menace to real, exhausted despair.
+
+films:
+  - film: patton
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 5
+    note: A brilliant, bombastic general whose ego and bloodlust make him both hero and liability, playing towering, unchecked conviction.
+
+  - film: dr-strangelove
+    signature: 4
+    showcase: 4
+    role_size: supporting
+    register: comic
+    gateway: 4
+    note: A gleefully warmongering general relishing the idea of nuclear war, playing manic, oblivious enthusiasm.
+
+  - film: the-hospital
+    signature: 3
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A suicidal doctor holding onto sanity by treating his own despair like a diagnosis, playing exhausted, mordant control.
+
+  - film: the-hustler
+    signature: 3
+    showcase: 4
+    role_size: supporting
+    register: menacing
+    gateway: 2
+    note: A cold, calculating gambling manager who destroys the people he backs, playing predatory, unfeeling calculation.
+
+curated:
+  curator: house
+  rationale: The Oscar-winning, most iconic role first, then the most acclaimed comedy, then the range of despair and menace around both.
+  order:
+    - patton
+    - dr-strangelove
+    - the-hospital
+    - the-hustler
