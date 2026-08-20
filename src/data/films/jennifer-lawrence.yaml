@@ -1,0 +1,50 @@
+# New films for Jennifer Lawrence. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Silver Linings Playbook already exists in de-niro.yaml — tagged before she had an entity.
+# American Hustle already exists in bale.yaml — tagged before she had an entity. mother! already
+# exists in bardem.yaml (a genuine dual lead) — tagged before she had an entity.
+
+- id: winters-bone
+  tmdb_id: null
+  title: Winter's Bone
+  year: 2010
+  runtime: 100
+  director: Debra Granik
+  tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-hunger-games
+  tmdb_id: null
+  title: The Hunger Games
+  year: 2012
+  runtime: 142
+  director: Gary Ross
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+
+- id: joy
+  tmdb_id: null
+  title: Joy
+  year: 2015
+  runtime: 124
+  director: David O. Russell
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.6 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: x-men-days-of-future-past
+  tmdb_id: null
+  title: X-Men Days of Future Past
+  year: 2014
+  runtime: 132
+  director: Bryan Singer
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: red-sparrow
+  tmdb_id: null
+  title: Red Sparrow
+  year: 2018
+  runtime: 140
+  director: Francis Lawrence
+  tags: { opacity: 2, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 2 }

@@ -1,0 +1,67 @@
+# New films for Viola Davis. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Doubt already exists in streep.yaml — tagged before she had an entity. Fences already exists in
+# washington.yaml (a genuine dual lead) — tagged before she had an entity.
+
+- id: the-help
+  tmdb_id: null
+  title: The Help
+  year: 2011
+  runtime: 146
+  director: Tate Taylor
+  tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 2, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: widows
+  tmdb_id: null
+  title: Widows
+  year: 2018
+  runtime: 129
+  director: Steve McQueen
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: ma-raineys-black-bottom
+  tmdb_id: null
+  title: Ma Rainey's Black Bottom
+  year: 2020
+  runtime: 94
+  director: George C. Wolfe
+  tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-woman-king
+  tmdb_id: null
+  title: The Woman King
+  year: 2022
+  runtime: 135
+  director: Gina Prince-Bythewood
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.78 }
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: blackhat
+  tmdb_id: null
+  title: Blackhat
+  year: 2015
+  runtime: 133
+  director: Michael Mann
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.48 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: air
+  tmdb_id: null
+  title: Air
+  year: 2023
+  runtime: 111
+  director: Ben Affleck
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: suicide-squad
+  tmdb_id: null
+  title: Suicide Squad
+  year: 2016
+  runtime: 123
+  director: David Ayer
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.42 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

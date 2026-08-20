@@ -1,0 +1,93 @@
+slug: amy-adams
+kind: actor
+name: Amy Adams
+blurb: Plays sincerity as a genuine dramatic weapon — in a fairy-tale princess, a cult leader's wife, a small-town outsider — daring more cynical characters around her to underestimate it.
+
+films:
+  - film: nocturnal-animals
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 2
+    note: A gallery owner reading her ex-husband's violent new novel, unable to stop treating its fiction as a message aimed directly at her.
+
+  - film: arrival
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: A linguist decoding an alien language whose grammar turns out to restructure how she experiences time itself.
+
+  - film: the-master
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: supporting
+    register: menacing
+    gateway: 2
+    note: The true believer behind a spiritual movement's charismatic leader, whose quiet control of him is more absolute than anyone else's charisma.
+
+  - film: junebug
+    signature: 4
+    showcase: 4
+    role_size: supporting
+    register: warm
+    gateway: 3
+    note: A heavily pregnant, relentlessly sunny small-town wife who becomes the emotional center of a family her city sister-in-law can't quite read.
+
+  - film: doubt
+    signature: 3
+    showcase: 4
+    role_size: supporting
+    register: restrained
+    gateway: 3
+    note: A naive young nun caught between a beloved priest and the principal certain he's guilty of something no one can prove.
+
+  - film: the-fighter
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: A bartender who becomes a struggling boxer's girlfriend and fiercest advocate against his own smothering family.
+
+  - film: vice
+    signature: 3
+    showcase: 4
+    role_size: supporting
+    register: menacing
+    gateway: 3
+    note: Lynne Cheney, playing the power behind her husband's rise with an ambition the film treats as at least equal to his own.
+
+  - film: enchanted
+    signature: 2
+    showcase: 2
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: An animated fairy-tale princess accidentally exiled into live-action Manhattan, playing storybook sincerity totally straight against the city's cynicism.
+
+  - film: american-hustle
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: A con artist's British-accented partner and lover, running her own angles inside an FBI sting neither man in her life fully sees coming.
+
+curated:
+  curator: house
+  rationale: The two performances that show the range of the sincerity first, then everywhere else it's tested.
+  order:
+    - enchanted
+    - american-hustle
+    - the-fighter
+    - junebug
+    - arrival
+    - nocturnal-animals
+    - vice
+    - doubt
+    - the-master

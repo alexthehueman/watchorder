@@ -1,0 +1,53 @@
+# New films for Amy Adams. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Master already exists in pta.yaml — tagged before she had an entity. Doubt already exists
+# in streep.yaml — tagged before she had an entity. American Hustle, The Fighter, and Vice
+# already exist in bale.yaml (all three genuine dual leads with him) — tagged before she had an
+# entity.
+
+- id: junebug
+  tmdb_id: null
+  title: Junebug
+  year: 2005
+  runtime: 106
+  director: Phil Morrison
+  tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 2, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: enchanted
+  tmdb_id: null
+  title: Enchanted
+  year: 2007
+  runtime: 107
+  director: Kevin Lima
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.7 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: nocturnal-animals
+  tmdb_id: null
+  title: Nocturnal Animals
+  year: 2016
+  runtime: 116
+  director: Tom Ford
+  tags:
+    opacity: 4 # a novel-within-the-film the audience is left to decide how literally to read as revenge
+    stillness: 3
+    bleakness: 5
+    humor: 1
+    acclaim: 0.75
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: arrival
+  tmdb_id: null
+  title: Arrival
+  year: 2016
+  runtime: 116
+  director: Denis Villeneuve
+  tags:
+    opacity: 3 # a nonlinear structure that withholds its own timeline until the final act reframes everything
+    stillness: 3
+    bleakness: 3
+    humor: 1
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
