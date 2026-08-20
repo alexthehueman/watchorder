@@ -1,0 +1,50 @@
+# New films for Michael Keaton. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Batman already exists in nicholson.yaml — tagged before he had an entity. Birdman already
+# exists in norton.yaml — tagged before he had an entity. Jackie Brown already exists in
+# tarantino.yaml — tagged before he had an entity.
+
+- id: beetlejuice
+  tmdb_id: null
+  title: Beetlejuice
+  year: 1988
+  runtime: 92
+  director: Tim Burton
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 5, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: spotlight
+  tmdb_id: null
+  title: Spotlight
+  year: 2015
+  runtime: 129
+  director: Tom McCarthy
+  tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.9 }
+  content: { sexual_violence: true, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 0 }
+
+- id: the-founder
+  tmdb_id: null
+  title: The Founder
+  year: 2016
+  runtime: 115
+  director: John Lee Hancock
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 2, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: clean-and-sober
+  tmdb_id: null
+  title: Clean and Sober
+  year: 1988
+  runtime: 124
+  director: Glenn Gordon Caron
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: the-trial-of-the-chicago-7
+  tmdb_id: null
+  title: The Trial of the Chicago 7
+  year: 2020
+  runtime: 129
+  director: Aaron Sorkin
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 2, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }

@@ -1,0 +1,38 @@
+# New films for Toni Collette. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Hereditary already exists in a24.yaml — tagged before she had an entity. Little Miss Sunshine
+# already exists in carell.yaml — tagged before she had an entity. Knives Out already exists in
+# shannon.yaml — tagged before she had an entity.
+
+- id: the-sixth-sense
+  tmdb_id: null
+  title: The Sixth Sense
+  year: 1999
+  runtime: 107
+  director: M Night Shyamalan
+  tags:
+    opacity: 3 # a twist ending the film retroactively rewrites everything you thought you'd seen
+    stillness: 3
+    bleakness: 4
+    humor: 1
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
+
+- id: muriels-wedding
+  tmdb_id: null
+  title: Muriels Wedding
+  year: 1994
+  runtime: 106
+  director: PJ Hogan
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 4, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: about-a-boy
+  tmdb_id: null
+  title: About a Boy
+  year: 2002
+  runtime: 101
+  director: Chris Weitz
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
+

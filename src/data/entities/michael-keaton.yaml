@@ -1,0 +1,84 @@
+slug: michael-keaton
+kind: actor
+name: Michael Keaton
+blurb: A live-wire, slightly manic energy that made him an unlikely Batman and an even more unlikely Beetlejuice — then, decades later, the exact right choice to play a washed-up superhero actor confronting his own has-been status.
+
+films:
+  - film: birdman
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 3
+    note: A former Hollywood superhero actor mounting a Broadway comeback while a voice in his own head insists he's wasting the powers he used to have.
+
+  - film: batman-1989
+    signature: 5
+    must_see: true
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: A withdrawn billionaire whose double life the film treats as barely contained obsession, in the role that reset what a comic-book movie could be.
+
+  - film: beetlejuice
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: unhinged
+    gateway: 5
+    note: A "bio-exorcist" ghost hired to scare off a family's new occupants, playing chaos as pure, gleeful id in under twenty minutes of total screen time.
+
+  - film: jackie-brown
+    signature: 3
+    showcase: 4
+    role_size: supporting
+    register: menacing
+    gateway: 3
+    note: An ATF agent slowly getting outmaneuvered by the bail bondsman and flight attendant he's supposed to be squeezing.
+
+  - film: spotlight
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: The editor leading the Boston Globe investigative team uncovering the Catholic Church's abuse cover-up, playing methodical persistence over dramatics.
+
+  - film: the-founder
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: menacing
+    gateway: 3
+    note: Ray Kroc, transforming a small California burger stand into McDonald's through methods the film never lets you fully admire without flinching.
+
+  - film: the-trial-of-the-chicago-7
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: restrained
+    gateway: 4
+    note: A former attorney general whose brief appearance reframes the entire trial's legitimacy from someone the prosecution can't dismiss.
+
+  - film: clean-and-sober
+    signature: 2
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A cocaine-addicted real estate agent hiding out in rehab to dodge a financial scandal, forced to confront an addiction he came there to avoid taking seriously.
+
+curated:
+  curator: house
+  rationale: The two performances that show the range of the live-wire energy first, then everywhere else it's applied.
+  order:
+    - beetlejuice
+    - batman-1989
+    - the-founder
+    - the-trial-of-the-chicago-7
+    - jackie-brown
+    - spotlight
+    - birdman
+    - clean-and-sober
