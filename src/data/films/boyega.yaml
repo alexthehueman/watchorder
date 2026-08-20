@@ -1,0 +1,40 @@
+# New films for John Boyega. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Star Wars The Force Awakens already exists in isaac.yaml — tagged before he had an entity. Star
+# Wars The Last Jedi already exists in driver.yaml — tagged before he had an entity.
+
+- id: attack-the-block
+  tmdb_id: null
+  title: Attack the Block
+  year: 2011
+  runtime: 88
+  director: Joe Cornish
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 3, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: detroit
+  tmdb_id: null
+  title: Detroit
+  year: 2017
+  runtime: 143
+  director: Kathryn Bigelow
+  tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: red-white-and-blue
+  tmdb_id: null
+  title: Red White and Blue
+  year: 2020
+  runtime: 80
+  director: Steve McQueen
+  tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: pacific-rim-uprising
+  tmdb_id: null
+  title: Pacific Rim Uprising
+  year: 2018
+  runtime: 111
+  director: Steven S. DeKnight
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.42 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

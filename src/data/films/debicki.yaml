@@ -1,0 +1,40 @@
+# New films for Elizabeth Debicki. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Widows already exists in viola-davis.yaml — tagged before she had an entity. Tenet already
+# exists in pattinson.yaml — tagged before she had an entity.
+
+- id: the-great-gatsby
+  tmdb_id: null
+  title: The Great Gatsby
+  year: 2013
+  runtime: 143
+  director: Baz Luhrmann
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: guardians-of-the-galaxy-vol-2
+  tmdb_id: null
+  title: Guardians of the Galaxy Vol. 2
+  year: 2017
+  runtime: 137
+  director: James Gunn
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: a-royal-night-out
+  tmdb_id: null
+  title: A Royal Night Out
+  year: 2015
+  runtime: 97
+  director: Julian Jarrold
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 3, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: vita-and-virginia
+  tmdb_id: null
+  title: Vita and Virginia
+  year: 2018
+  runtime: 110
+  director: Chanya Button
+  tags: { opacity: 2, stillness: 4, bleakness: 3, humor: 1, acclaim: 0.48 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }

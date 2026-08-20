@@ -1,0 +1,55 @@
+# New films for Awkwafina. Scales and anchors are in README.md ("The anchor rubric").
+
+- id: the-farewell
+  tmdb_id: null
+  title: The Farewell
+  year: 2019
+  runtime: 100
+  director: Lulu Wang
+  tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 3, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: crazy-rich-asians
+  tmdb_id: null
+  title: Crazy Rich Asians
+  year: 2018
+  runtime: 121
+  director: Jon M. Chu
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: shang-chi
+  tmdb_id: null
+  title: Shang-Chi and the Legend of the Ten Rings
+  year: 2021
+  runtime: 132
+  director: Destin Daniel Cretton
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 3, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: oceans-8
+  tmdb_id: null
+  title: Ocean's 8
+  year: 2018
+  runtime: 110
+  director: Gary Ross
+  tags: { opacity: 2, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.62 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: raya-and-the-last-dragon
+  tmdb_id: null
+  title: Raya and the Last Dragon
+  year: 2021
+  runtime: 107
+  director: Don Hall
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: jumanji-the-next-level
+  tmdb_id: null
+  title: Jumanji The Next Level
+  year: 2019
+  runtime: 123
+  director: Jake Kasdan
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
