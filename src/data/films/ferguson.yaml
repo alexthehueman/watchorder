@@ -1,0 +1,27 @@
+# New films for Rebecca Ferguson. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Greatest Showman already exists in jackman.yaml — tagged before she had an entity. Dune
+# already exists in chalamet.yaml — tagged before she had an entity.
+
+- id: mission-impossible-rogue-nation
+  tmdb_id: null
+  title: Mission Impossible Rogue Nation
+  year: 2015
+  runtime: 131
+  director: Christopher McQuarrie
+  tags:
+    opacity: 3 # a double agent whose actual loyalties the film keeps you guessing about until the very end
+    stillness: 1
+    bleakness: 3
+    humor: 2
+    acclaim: 0.78
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: life-2017
+  tmdb_id: null
+  title: Life
+  year: 2017
+  runtime: 104
+  director: Daniel Espinosa
+  tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.58 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

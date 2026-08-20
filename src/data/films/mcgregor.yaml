@@ -1,0 +1,27 @@
+# New films for Ewan McGregor. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Moulin Rouge! already exists in kidman.yaml — tagged before he had an entity. Star Wars Episode
+# I: The Phantom Menace already exists in portman.yaml — tagged before he had an entity.
+
+- id: trainspotting
+  tmdb_id: null
+  title: Trainspotting
+  year: 1996
+  runtime: 93
+  director: Danny Boyle
+  tags:
+    opacity: 2 # a heroin-addict's narration the film never lets you fully trust as a reliable account of his own life
+    stillness: 2
+    bleakness: 5
+    humor: 4
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 1 }
+
+- id: beginners
+  tmdb_id: null
+  title: Beginners
+  year: 2010
+  runtime: 105
+  director: Mike Mills
+  tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 2, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }

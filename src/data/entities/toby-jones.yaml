@@ -1,0 +1,48 @@
+slug: toby-jones
+kind: actor
+name: Toby Jones
+blurb: A small, precise physical presence he's turned into a genuine asset, playing quietly watchful men who see more than anyone around them realizes.
+
+films:
+  - film: tinker-tailor-soldier-spy
+    signature: 5
+    must_see: true
+    showcase: 4
+    role_size: supporting
+    register: menacing
+    gateway: 1
+    note: A senior intelligence officer whose ambitions inside a mole hunt the film never lets you fully trust, playing bureaucratic self-interest as its own quiet danger.
+
+  - film: infamous
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A second, differently angled account of Truman Capote's years reporting In Cold Blood, playing genuine affection for a killer the film treats as real rather than calculated.
+
+  - film: capote
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: warm
+    gateway: 3
+    note: A childhood friend and fellow writer accompanying Capote on his reporting trips, playing grounded skepticism against his more theatrical instincts.
+
+  - film: the-hunger-games
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 4
+    note: A wry, world-weary commentator providing broadcast color for the televised death match, playing dark showbiz professionalism.
+
+curated:
+  curator: house
+  rationale: The performance built entirely on quiet, watchful precision first, then everywhere else that same quality gets put to different use.
+  order:
+    - the-hunger-games
+    - capote
+    - tinker-tailor-soldier-spy
+    - infamous

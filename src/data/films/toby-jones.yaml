@@ -1,0 +1,32 @@
+# New films for Toby Jones. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Capote already exists in hoffman-philip.yaml — tagged before he had an entity. The Hunger Games
+# already exists in jennifer-lawrence.yaml — tagged before he had an entity.
+
+- id: infamous
+  tmdb_id: null
+  title: Infamous
+  year: 2006
+  runtime: 118
+  director: Douglas McGrath
+  tags:
+    opacity: 2
+    stillness: 3
+    bleakness: 3 # a lighter, more socially satirical first half than the same story's other film treatment
+    humor: 2
+    acclaim: 0.65
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: tinker-tailor-soldier-spy
+  tmdb_id: null
+  title: Tinker Tailor Soldier Spy
+  year: 2011
+  runtime: 127
+  director: Tomas Alfredson
+  tags:
+    opacity: 4 # a mole hunt the film tells almost entirely through withheld glances and unexplained procedure
+    stillness: 4
+    bleakness: 4
+    humor: 1
+    acclaim: 0.78
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
