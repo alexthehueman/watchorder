@@ -1,0 +1,47 @@
+slug: carl-weathers
+kind: actor
+name: Carl Weathers
+blurb: A charismatic, physically commanding screen presence that anchored two of the biggest action franchises of the era, with real comic timing when he wanted it.
+
+films:
+  - film: rocky
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: A boastful, charismatic heavyweight champion who underestimates his opponent, playing swaggering, showman's confidence.
+
+  - film: predator
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: A battle-hardened commando whose loyalty to his team defines his final stand, playing steady, brotherly resolve.
+
+  - film: rocky-ii
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: menacing
+    gateway: 5
+    note: A champion whose pride curdles into real, cornered aggression in the rematch, playing sharp, wounded fury.
+
+  - film: happy-gilmore
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: restrained
+    gateway: 5
+    note: A blind former golf pro mentoring an unruly hockey player, playing dry, weary patience.
+
+curated:
+  curator: house
+  rationale: The most iconic role first, then the range of warmth and menace around it.
+  order:
+    - rocky
+    - predator
+    - rocky-ii
+    - happy-gilmore

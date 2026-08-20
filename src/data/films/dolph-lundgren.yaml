@@ -1,0 +1,14 @@
+# New films for Dolph Lundgren. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Expendables already exists in sylvester-stallone.yaml — tagged before he had an entity.
+# Universal Soldier already exists in jean-claude-van-damme.yaml. Masters of the Universe
+# already exists in cannon.yaml.
+
+- id: rocky-iv
+  tmdb_id: null
+  title: Rocky IV
+  year: 1985
+  runtime: 91
+  director: Sylvester Stallone
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.62 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

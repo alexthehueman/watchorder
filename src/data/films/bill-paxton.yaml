@@ -1,0 +1,27 @@
+# New films for Bill Paxton. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Aliens already exists in weaver.yaml — tagged before he had an entity.
+# True Lies already exists in arnold-schwarzenegger.yaml.
+
+- id: apollo-13
+  tmdb_id: null
+  title: Apollo 13
+  year: 1995
+  runtime: 140
+  director: Ron Howard
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.88 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: twister
+  tmdb_id: null
+  title: Twister
+  year: 1996
+  runtime: 113
+  director: Jan de Bont
+  tags:
+    opacity: 2 # whether the obsession is really about the science or something more personal stays somewhat ambiguous
+    stillness: 1
+    bleakness: 2
+    humor: 2
+    acclaim: 0.62
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
