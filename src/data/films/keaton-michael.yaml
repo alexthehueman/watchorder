@@ -12,6 +12,8 @@
   director: Tim Burton
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 5, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0094721
+  poster_url: https://m.media-amazon.com/images/M/MV5BYjkwNzVlNDEtMTJlNy00OTdlLTljYWItM2RkZmZkYzY3YjM2XkEyXkFqcGc@._V1_QL75_UX380_CR0,2,380,562_.jpg
 
 - id: spotlight
   tmdb_id: null
@@ -21,6 +23,8 @@
   director: Tom McCarthy
   tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.9 }
   content: { sexual_violence: true, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt1895587
+  poster_url: https://m.media-amazon.com/images/M/MV5BMjIyOTM5OTIzNV5BMl5BanBnXkFtZTgwMDkzODE2NjE@._V1_SX300.jpg
 
 - id: the-founder
   tmdb_id: null
@@ -30,6 +34,8 @@
   director: John Lee Hancock
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 2, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt4276820
+  poster_url: https://m.media-amazon.com/images/M/MV5BMzExNDg0MDk1M15BMl5BanBnXkFtZTgwNzE1Mjg0MDI@._V1_SX300.jpg
 
 - id: clean-and-sober
   tmdb_id: null
@@ -39,6 +45,8 @@
   director: Glenn Gordon Caron
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.65 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  imdb_id: tt0094884
+  poster_url: https://m.media-amazon.com/images/M/MV5BMDRiNzA1ZmItN2U3ZS00NWE2LWJlOTQtZmM2OTQ2NDZmM2VmXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-trial-of-the-chicago-7
   tmdb_id: null
@@ -48,3 +56,5 @@
   director: Aaron Sorkin
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 2, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt1070874
+  poster_url: https://m.media-amazon.com/images/M/MV5BZjY2ZGFlOTgtOGQ1MS00YWJhLWIyZjQtNWNmNTQ0YTk0MTZjXkEyXkFqcGc@._V1_SX300.jpg

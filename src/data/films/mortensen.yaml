@@ -11,6 +11,8 @@
   director: Peter Jackson
   tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.9 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0120737
+  poster_url: https://m.media-amazon.com/images/M/MV5BNzIxMDQ2YTctNDY4MC00ZTRhLTk4ODQtMTVlOWY4NTdiYmMwXkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg
 
 - id: the-road
   tmdb_id: null
@@ -20,6 +22,8 @@
   director: John Hillcoat
   tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: true, violence: 2, sex: 0 }
+  imdb_id: tt0898367
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTAwNzk4NTU3NDReQTJeQWpwZ15BbWU3MDg3OTEyODI@._V1_SX300.jpg
 
 - id: captain-fantastic
   tmdb_id: null
@@ -29,6 +33,8 @@
   director: Matt Ross
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.8 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
+  imdb_id: tt3553976
+  poster_url: https://m.media-amazon.com/images/M/MV5BMjE5OTM0OTY5NF5BMl5BanBnXkFtZTgwMDcxOTQ3ODE@._V1_SX300.jpg
 
 - id: green-book
   tmdb_id: null
@@ -38,6 +44,8 @@
   director: Peter Farrelly
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt6966692
+  poster_url: https://m.media-amazon.com/images/M/MV5BNDU5YTNmMmItN2QxNy00OGQ0LTg5MTctNzFmYjEzZjcwN2UwXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg
 
 - id: a-dangerous-method
   tmdb_id: null
@@ -47,3 +55,5 @@
   director: David Cronenberg
   tags: { opacity: 2, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  imdb_id: tt1571222
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTU5Mjk3NjgxMl5BMl5BanBnXkFtZTcwMDM5MjA5Ng@@._V1_SX300.jpg

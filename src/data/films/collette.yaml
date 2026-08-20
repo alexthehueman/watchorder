@@ -17,6 +17,8 @@
     humor: 1
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0167404
+  poster_url: https://m.media-amazon.com/images/M/MV5BZWQ2OTY0M2UtMTQxNC00MmIzLTllNDQtNDQ0MTQyYzI2M2ZiXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: muriels-wedding
   tmdb_id: null
@@ -35,4 +37,5 @@
   director: Chris Weitz
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
-
+  imdb_id: tt0276751
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTQ2Mzg4MDAzNV5BMl5BanBnXkFtZTgwMjcxNTYxMTE@._V1_SX300.jpg
