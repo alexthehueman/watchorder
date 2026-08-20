@@ -1,0 +1,47 @@
+slug: burgess-meredith
+kind: actor
+name: Burgess Meredith
+blurb: A gravelly, character-actor charisma that swung between a gruff franchise mentor, a theatrical supervillain, and real Hollywood tragedy.
+
+films:
+  - film: rocky
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: supporting
+    register: warm
+    gateway: 5
+    note: A gruff, cynical trainer who comes to genuinely believe in his fighter, playing weathered, hard-won faith.
+
+  - film: the-day-of-the-locust
+    signature: 4
+    showcase: 5
+    role_size: supporting
+    register: restrained
+    gateway: 3
+    note: A faded vaudeville performer clinging to fading showbiz optimism, playing brittle, aching self-delusion.
+
+  - film: batman-the-movie
+    signature: 3
+    showcase: 4
+    role_size: supporting
+    register: comic
+    gateway: 4
+    note: A gleefully theatrical, cackling supervillain, playing broad, hammy menace.
+
+  - film: rocky-ii
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: unhinged
+    gateway: 5
+    note: A trainer pushed past his own limits trying to protect his fighter from himself, playing frantic, protective desperation.
+
+curated:
+  curator: house
+  rationale: The most iconic role first, then the Oscar-nominated dramatic work, then the range of comedy and franchise work around both.
+  order:
+    - rocky
+    - the-day-of-the-locust
+    - batman-the-movie
+    - rocky-ii

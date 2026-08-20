@@ -1,0 +1,35 @@
+# New films for Jessica Lange. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Tootsie already exists in hoffman.yaml — tagged before she had an entity.
+
+- id: blue-sky
+  tmdb_id: null
+  title: Blue Sky
+  year: 1994
+  runtime: 101
+  director: Tony Richardson
+  tags:
+    opacity: 2 # whether her erratic, magnetic behavior is genuine mental illness or willful nonconformity stays ambiguous
+    stillness: 3
+    bleakness: 4
+    humor: 2
+    acclaim: 0.65
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: frances
+  tmdb_id: null
+  title: Frances
+  year: 1982
+  runtime: 140
+  director: Graeme Clifford
+  tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.72 }
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: king-kong-1976
+  tmdb_id: null
+  title: King Kong
+  year: 1976
+  runtime: 134
+  director: John Guillermin
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 0 }

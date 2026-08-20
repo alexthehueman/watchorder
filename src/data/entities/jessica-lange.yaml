@@ -1,0 +1,47 @@
+slug: jessica-lange
+kind: actor
+name: Jessica Lange
+blurb: A magnetic, unpredictable screen presence that could turn from broad comic warmth to real, harrowing volatility.
+
+films:
+  - film: tootsie
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: warm
+    gateway: 5
+    note: A vulnerable actress slowly falling for her co-star's alter ego without knowing the truth, playing unguarded, genuine warmth.
+
+  - film: blue-sky
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 4
+    note: A magnetic, unpredictable military wife spiraling between euphoria and crisis, playing volatile, consuming intensity.
+
+  - film: frances
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 3
+    note: A rebellious actress ground down by institutional cruelty, playing raw, devastating breakdown.
+
+  - film: king-kong-1976
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 5
+    note: A wide-eyed survivor swept into a giant ape's world, playing wary, reactive vulnerability.
+
+curated:
+  curator: house
+  rationale: The most iconic role first, then the Oscar-winning performance, then the range of intensity around both.
+  order:
+    - tootsie
+    - blue-sky
+    - frances
+    - king-kong-1976

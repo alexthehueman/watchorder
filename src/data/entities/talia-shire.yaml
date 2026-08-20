@@ -1,0 +1,47 @@
+slug: talia-shire
+kind: actor
+name: Talia Shire
+blurb: A quietly aching screen presence that anchored two of cinema's biggest sagas — the shy heart of one franchise and the suffering daughter of another.
+
+films:
+  - film: the-godfather
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: supporting
+    register: restrained
+    gateway: 5
+    note: A daughter caught between love for her family and horror at what they do, playing quiet, suffering restraint.
+
+  - film: rocky
+    signature: 5
+    showcase: 5
+    role_size: lead
+    register: warm
+    gateway: 5
+    note: A shy, sheltered pet-shop clerk blossoming through Rocky's unlikely devotion, playing tender, hesitant awakening.
+
+  - film: the-godfather-part-ii
+    signature: 4
+    showcase: 4
+    role_size: supporting
+    register: unhinged
+    gateway: 5
+    note: A woman's grief and rage finally exploding at the family that destroyed her, playing raw, devastating fury.
+
+  - film: rocky-ii
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: warm
+    gateway: 5
+    note: A wife supporting her husband through a rematch she fears will destroy him, playing devoted, anxious love.
+
+curated:
+  curator: house
+  rationale: The most iconic role first, then the film that made her a star, then the range around both.
+  order:
+    - the-godfather
+    - rocky
+    - the-godfather-part-ii
+    - rocky-ii

@@ -1,0 +1,18 @@
+# New films for Talia Shire. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Rocky already exists in sylvester-stallone.yaml — tagged before she had an entity.
+# The Godfather already exists in brando.yaml. The Godfather Part II already exists in de-niro.yaml.
+
+- id: rocky-ii
+  tmdb_id: null
+  title: Rocky II
+  year: 1979
+  runtime: 119
+  director: Sylvester Stallone
+  tags:
+    opacity: 1
+    stillness: 3 # a slower, more anxious domestic stretch before the final fight
+    bleakness: 2
+    humor: 2
+    acclaim: 0.72
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }

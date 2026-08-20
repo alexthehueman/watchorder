@@ -1,0 +1,27 @@
+# New films for Burgess Meredith. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Rocky already exists in sylvester-stallone.yaml — tagged before he had an entity.
+# Rocky II already exists in talia-shire.yaml.
+
+- id: the-day-of-the-locust
+  tmdb_id: null
+  title: The Day of the Locust
+  year: 1975
+  runtime: 144
+  director: John Schlesinger
+  tags:
+    opacity: 2 # whether his optimistic patter is genuine hope or a con he's also fooling himself with stays unclear
+    stillness: 3
+    bleakness: 5
+    humor: 1
+    acclaim: 0.68
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: batman-the-movie
+  tmdb_id: null
+  title: "Batman: The Movie"
+  year: 1966
+  runtime: 105
+  director: Leslie H. Martinson
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 5, acclaim: 0.62 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
