@@ -1,0 +1,56 @@
+slug: lea-seydoux
+kind: actor
+name: Léa Seydoux
+blurb: A quiet, watchful intensity she's carried from an unflinching three-hour French art film straight into a Bond franchise without ever losing the same grounded specificity.
+
+films:
+  - film: blue-is-the-warmest-colour
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 1
+    note: An art student whose years-long relationship with a younger woman the film traces with unusual, unhurried intimacy, playing desire and heartbreak without any of the usual distance.
+
+  - film: no-time-to-die
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: warm
+    gateway: 3
+    note: A psychiatrist and former lover drawn back into a spy's world she'd hoped to leave behind, playing guarded devotion against a past that keeps resurfacing.
+
+  - film: spectre
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A doctor with unexpected ties to a shadowy criminal organization, playing composed self-possession that keeps outpacing her supposed protector.
+
+  - film: inglourious-basterds
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: menacing
+    gateway: 3
+    note: A cinema owner secretly plotting revenge against the Nazi occupiers who killed her family, playing controlled fury underneath a carefully maintained public composure.
+
+  - film: the-french-dispatch
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 3
+    note: An artist's model and prison guard whose complicated relationship with an incarcerated painter drives one of the film's anthology segments.
+
+curated:
+  curator: house
+  rationale: The performance built entirely on unhurried, unflinching intimacy first, then everywhere else that same grounded specificity gets put to franchise use.
+  order:
+    - the-french-dispatch
+    - inglourious-basterds
+    - spectre
+    - no-time-to-die
+    - blue-is-the-warmest-colour

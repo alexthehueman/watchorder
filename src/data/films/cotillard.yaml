@@ -1,0 +1,23 @@
+# New films for Marion Cotillard. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Inception already exists in cillian-murphy.yaml — tagged before she had an entity. The Dark
+# Knight Rises already exists in hathaway.yaml — tagged before she had an entity. Midnight in
+# Paris already exists in owen-wilson.yaml — tagged before she had an entity.
+
+- id: la-vie-en-rose
+  tmdb_id: null
+  title: La Vie en Rose
+  year: 2007
+  runtime: 140
+  director: Olivier Dahan
+  tags: { opacity: 2, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 0 }
+
+- id: two-days-one-night
+  tmdb_id: null
+  title: Two Days One Night
+  year: 2014
+  runtime: 95
+  director: Jean-Pierre Dardenne
+  tags: { opacity: 1, stillness: 4, bleakness: 5, humor: 1, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

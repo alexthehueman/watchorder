@@ -1,0 +1,27 @@
+# New films for Tom Holland. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Impossible already exists in watts.yaml — tagged before he had an entity. Spider-Man
+# Homecoming already exists in zendaya.yaml — tagged before he had an entity.
+
+- id: cherry-2021
+  tmdb_id: null
+  title: Cherry
+  year: 2021
+  runtime: 141
+  director: Anthony Russo
+  tags:
+    opacity: 2 # a nonlinear structure that withholds how much of his own account of the war and addiction can be trusted
+    stillness: 2
+    bleakness: 5
+    humor: 1
+    acclaim: 0.55
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+
+- id: uncharted
+  tmdb_id: null
+  title: Uncharted
+  year: 2022
+  runtime: 116
+  director: Ruben Fleischer
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

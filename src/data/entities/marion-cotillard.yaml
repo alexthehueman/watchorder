@@ -1,0 +1,57 @@
+slug: marion-cotillard
+kind: actor
+name: Marion Cotillard
+blurb: A raw, transformative intensity she's mostly reserved for French-language leads, dropped into English-language blockbusters as a controlled, watchful presence instead.
+
+films:
+  - film: la-vie-en-rose
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 2
+    note: A biopic of Édith Piaf tracing her rise from street performer to icon and her physical collapse alongside it, playing transformation so complete it barely resembles impression.
+
+  - film: two-days-one-night
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A woman with one weekend to convince her coworkers to give up their bonuses so she can keep her job, playing quiet desperation across the same difficult conversation repeated with real variation each time.
+
+  - film: inception
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: unhinged
+    gateway: 3
+    note: A recurring, destabilizing presence inside a dream-heist architect's own subconscious, playing grief the film treats as literally, dangerously intrusive.
+
+  - film: the-dark-knight-rises
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: warm
+    gateway: 4
+    note: A board member and potential ally whose true allegiance the film keeps concealed until its final act.
+
+  - film: midnight-in-paris
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: warm
+    gateway: 3
+    note: A 1920s Parisian muse who becomes the object of a time-displaced writer's growing infatuation.
+
+curated:
+  curator: house
+  rationale: The two performances built entirely on raw, transformative intensity, then everywhere else that same watchfulness gets put to smaller use.
+  order:
+    - midnight-in-paris
+    - the-dark-knight-rises
+    - inception
+    - two-days-one-night
+    - la-vie-en-rose

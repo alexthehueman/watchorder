@@ -1,0 +1,15 @@
+# New films for Léa Seydoux. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Spectre already exists in waltz.yaml — tagged before she had an entity. No Time to Die already
+# exists in reynolds.yaml — tagged before she had an entity. Inglourious Basterds already exists
+# in tarantino.yaml — tagged before she had an entity. The French Dispatch already exists in
+# chalamet.yaml — tagged before she had an entity.
+
+- id: blue-is-the-warmest-colour
+  tmdb_id: null
+  title: Blue Is the Warmest Colour
+  year: 2013
+  runtime: 180
+  director: Abdellatif Kechiche
+  tags: { opacity: 1, stillness: 4, bleakness: 4, humor: 1, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 3 }
