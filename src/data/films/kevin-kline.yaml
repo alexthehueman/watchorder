@@ -1,0 +1,18 @@
+# New films for Kevin Kline. Scales and anchors are in README.md ("The anchor rubric").
+#
+# A Fish Called Wanda already exists in curtis.yaml — tagged before he had an entity.
+# Sophie's Choice already exists in streep.yaml. The Big Chill already exists in close.yaml.
+
+- id: dave
+  tmdb_id: null
+  title: Dave
+  year: 1993
+  runtime: 110
+  director: Ivan Reitman
+  tags:
+    opacity: 2 # whether he'll actually go through with the impersonation, and his growing feelings for the First Lady, stay genuinely uncertain
+    stillness: 2
+    bleakness: 2
+    humor: 4
+    acclaim: 0.72
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

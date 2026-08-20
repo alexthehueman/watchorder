@@ -1,0 +1,18 @@
+# New films for William Hurt. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Broadcast News already exists in holly-hunter.yaml — tagged before he had an entity.
+# A History of Violence already exists in cronenberg.yaml. The Big Chill already exists in close.yaml.
+
+- id: kiss-of-the-spider-woman
+  tmdb_id: null
+  title: Kiss of the Spider Woman
+  year: 1985
+  runtime: 120
+  director: Hector Babenco
+  tags:
+    opacity: 2 # whether his escapist storytelling is denial, seduction, or genuine connection with his cellmate stays deliberately unclear
+    stillness: 3
+    bleakness: 5
+    humor: 1
+    acclaim: 0.78
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }

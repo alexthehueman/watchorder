@@ -1,0 +1,47 @@
+slug: jeff-daniels
+kind: actor
+name: Jeff Daniels
+blurb: A dependable, everyman screen presence that could turn gleefully dim, quietly composed, or genuinely wounded depending on the role.
+
+films:
+  - film: dumb-and-dumber
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: A well-meaning, catastrophically dim-witted best friend, playing gleeful, oblivious devotion.
+
+  - film: the-squid-and-the-whale
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 3
+    note: A self-absorbed, crumbling father whose ego destroys his family, playing petty, wounded narcissism.
+
+  - film: speed
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: restrained
+    gateway: 5
+    note: A composed bomb-squad detective coordinating a crisis from the ground, playing steady, professional calm.
+
+  - film: gettysburg
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: A principled colonel leading his men with quiet moral conviction, playing steady, honorable resolve.
+
+curated:
+  curator: house
+  rationale: The most iconic comic role first, then the range of drama around it.
+  order:
+    - dumb-and-dumber
+    - the-squid-and-the-whale
+    - speed
+    - gettysburg

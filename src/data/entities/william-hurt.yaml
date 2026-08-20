@@ -1,0 +1,47 @@
+slug: william-hurt
+kind: actor
+name: William Hurt
+blurb: A cool, intellectual screen presence capable of real tenderness, real menace, or the polished shallowness of a man who's never had to look inward.
+
+films:
+  - film: kiss-of-the-spider-woman
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: warm
+    gateway: 3
+    note: A gay window dresser retreating into glamorous fantasy to survive imprisonment, playing tender, transformative connection.
+
+  - film: a-history-of-violence
+    signature: 4
+    showcase: 5
+    role_size: supporting
+    register: menacing
+    gateway: 4
+    note: A cold, dangerous figure from a diner owner's buried past, playing quiet, chilling authority.
+
+  - film: broadcast-news
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 5
+    note: A charming, shallow anchor whose polish masks real insecurity, playing smooth, hollow confidence.
+
+  - film: the-big-chill
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: unhinged
+    gateway: 5
+    note: A wounded Vietnam vet whose grief and cynicism keep breaking through the reunion's nostalgia, playing raw, unresolved pain.
+
+curated:
+  curator: house
+  rationale: The Oscar-winning performance first, then the range of menace and warmth around it.
+  order:
+    - kiss-of-the-spider-woman
+    - a-history-of-violence
+    - broadcast-news
+    - the-big-chill

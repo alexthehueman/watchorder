@@ -1,0 +1,27 @@
+# New films for Jeff Daniels. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Dumb and Dumber already exists in carrey.yaml — tagged before he had an entity.
+# Speed already exists in bullock.yaml.
+
+- id: the-squid-and-the-whale
+  tmdb_id: null
+  title: The Squid and the Whale
+  year: 2005
+  runtime: 81
+  director: Noah Baumbach
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 3, acclaim: 0.82 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: gettysburg
+  tmdb_id: null
+  title: Gettysburg
+  year: 1993
+  runtime: 271
+  director: Ronald F. Maxwell
+  tags:
+    opacity: 2 # the full strategic picture of the battle unfolds gradually across the film's sprawling, multi-perspective structure
+    stillness: 3
+    bleakness: 4
+    humor: 1
+    acclaim: 0.72
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
