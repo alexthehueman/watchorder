@@ -1,0 +1,37 @@
+# New films for Ice Cube. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Boyz n the Hood already exists in angela-bassett.yaml — tagged before he had an entity.
+# Friday already exists in chris-tucker.yaml.
+# 21 Jump Street already exists in hill.yaml.
+
+- id: higher-learning
+  tmdb_id: null
+  title: Higher Learning
+  year: 1995
+  runtime: 127
+  director: John Singleton
+  tags:
+    opacity: 2
+    stillness: 3
+    bleakness: 4
+    humor: 1
+    acclaim: 0.55
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: barbershop
+  tmdb_id: null
+  title: Barbershop
+  year: 2002
+  runtime: 102
+  director: Tim Story
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.62 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: trespass
+  tmdb_id: null
+  title: Trespass
+  year: 1992
+  runtime: 101
+  director: Walter Hill
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }

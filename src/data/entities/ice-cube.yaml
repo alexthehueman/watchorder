@@ -1,0 +1,65 @@
+slug: ice-cube
+kind: actor
+name: Ice Cube
+blurb: A deadpan, coiled-tension screen presence carried from a breakout dramatic debut through a run of broad studio comedy.
+
+films:
+  - film: boyz-n-the-hood
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: supporting
+    register: restrained
+    gateway: 3
+    note: A friend hardened by the neighborhood he can't leave, playing quiet, weary fatalism under the film's tragedy.
+
+  - film: friday
+    signature: 4
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: An unemployed neighborhood fixture riding out a chaotic day, playing deadpan straight man to everyone around him.
+
+  - film: barbershop
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: A barbershop owner trying to hold his business and his block together, playing steady, community-minded warmth.
+
+  - film: 21-jump-street
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: unhinged
+    gateway: 3
+    note: A perpetually screaming police captain, playing broad, profane comic fury.
+
+  - film: higher-learning
+    signature: 3
+    showcase: 4
+    role_size: supporting
+    register: menacing
+    gateway: 2
+    note: A radicalized fixture of campus life recruiting the alienated, playing calculated, intimidating conviction.
+
+  - film: trespass
+    signature: 2
+    showcase: 2
+    role_size: lead
+    register: menacing
+    gateway: 2
+    note: A gang leader guarding a fortune from two trapped firefighters, playing cornered, escalating threat.
+
+curated:
+  curator: house
+  rationale: The breakout dramatic role first, then the comic persona that made him a star, then the heavier and stranger corners of the career.
+  order:
+    - boyz-n-the-hood
+    - friday
+    - barbershop
+    - 21-jump-street
+    - higher-learning
+    - trespass

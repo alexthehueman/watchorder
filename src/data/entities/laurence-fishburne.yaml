@@ -1,0 +1,65 @@
+slug: laurence-fishburne
+kind: actor
+name: Laurence Fishburne
+blurb: A commanding, gravel-voiced authority that swings from calm philosophical mentor to genuinely terrifying, built across landmark sci-fi, social drama and true-crime menace.
+
+films:
+  - film: the-matrix
+    signature: 5
+    must_see: true
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 5
+    note: A calm, all-knowing mentor offering a stranger a choice that reframes everything, playing serene, unshakeable authority.
+
+  - film: boyz-n-the-hood
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: A stern, present father determined to raise his son right in South Central, playing principled, protective warmth.
+
+  - film: whats-love-got-to-do-with-it
+    signature: 3
+    showcase: 5
+    role_size: supporting
+    register: menacing
+    gateway: 2
+    note: Ike Turner, charming turned controlling and violent, playing genuine, escalating terror opposite Tina.
+
+  - film: deep-cover
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: menacing
+    gateway: 3
+    note: An undercover narcotics agent sinking deeper into the world he's supposed to be infiltrating, playing cold, compromised control.
+
+  - film: mystic-river
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: restrained
+    gateway: 3
+    note: A homicide detective working a childhood friend's daughter's murder, playing measured, procedural steadiness against the film's grief.
+
+  - film: apocalypse-now
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: unhinged
+    gateway: 1
+    note: The youngest sailor on the boat upriver, playing homesick innocence that snaps into panicked violence in a single scene.
+
+curated:
+  curator: house
+  rationale: The role everyone knows first, then the range around it, ending on the early curiosity.
+  order:
+    - the-matrix
+    - boyz-n-the-hood
+    - whats-love-got-to-do-with-it
+    - deep-cover
+    - mystic-river
+    - apocalypse-now

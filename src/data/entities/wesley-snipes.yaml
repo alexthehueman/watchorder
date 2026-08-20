@@ -1,0 +1,56 @@
+slug: wesley-snipes
+kind: actor
+name: Wesley Snipes
+blurb: A physically precise, icy screen presence that defined a vampire-hunter franchise and a run of early-90s crime and crossover comedy.
+
+films:
+  - film: new-jack-city
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 4
+    note: A Harlem drug kingpin building an empire on crack cocaine, playing volatile, magnetic menace at full volume.
+
+  - film: blade
+    signature: 5
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 5
+    note: A half-vampire hunter methodically working through the undead underworld, playing icy, controlled purpose.
+
+  - film: white-men-cant-jump
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 4
+    note: A streetball hustler running games with a mouthy white partner, playing fast-talking, competitive charm.
+
+  - film: demolition-man
+    signature: 2
+    showcase: 2
+    role_size: lead
+    register: comic
+    gateway: 3
+    note: A cryogenically thawed supervillain loose in a sanitized future, playing gleeful, campy menace.
+
+  - film: jungle-fever
+    signature: 2
+    showcase: 4
+    role_size: supporting
+    register: unhinged
+    gateway: 1
+    note: A crack-addicted brother spiraling through Harlem, playing raw, desperate collapse.
+
+curated:
+  curator: house
+  rationale: The star-making role first, then the franchise that defined him, then the range around both, ending on the heaviest supporting work.
+  order:
+    - new-jack-city
+    - blade
+    - white-men-cant-jump
+    - demolition-man
+    - jungle-fever
