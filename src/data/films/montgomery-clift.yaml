@@ -1,0 +1,13 @@
+# New films for Montgomery Clift. Scales and anchors are in README.md ("The anchor rubric").
+#
+# A Place in the Sun already exists in taylor.yaml — tagged before he had an entity.
+# The Misfits already exists in monroe.yaml. Judgment at Nuremberg already exists in garland.yaml.
+
+- id: from-here-to-eternity
+  tmdb_id: null
+  title: From Here to Eternity
+  year: 1953
+  runtime: 118
+  director: Fred Zinnemann
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 2, acclaim: 0.88 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }

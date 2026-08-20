@@ -1,0 +1,26 @@
+# New films for Grace Kelly. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Rear Window and To Catch a Thief already exist in hitchcock.yaml — tagged before she had an entity.
+
+- id: high-noon
+  tmdb_id: null
+  title: High Noon
+  year: 1952
+  runtime: 85
+  director: Fred Zinnemann
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.90 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-country-girl
+  tmdb_id: null
+  title: The Country Girl
+  year: 1954
+  runtime: 104
+  director: George Seaton
+  tags:
+    opacity: 2 # whether her devotion is love or obligation, and whether his comeback will actually hold, stays genuinely uncertain
+    stillness: 3
+    bleakness: 4
+    humor: 1
+    acclaim: 0.75
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

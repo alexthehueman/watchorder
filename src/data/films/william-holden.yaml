@@ -1,0 +1,13 @@
+# New films for William Holden. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Sunset Boulevard and Stalag 17 already exist in wilder.yaml — tagged before he had an entity.
+# Network already exists in faye-dunaway.yaml.
+
+- id: the-wild-bunch
+  tmdb_id: null
+  title: The Wild Bunch
+  year: 1969
+  runtime: 145
+  director: Sam Peckinpah
+  tags: { opacity: 1, stillness: 1, bleakness: 5, humor: 1, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 0 }
