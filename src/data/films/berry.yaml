@@ -1,0 +1,97 @@
+# New films for Halle Berry. Scales and anchors are in README.md ("The anchor rubric").
+
+- id: monsters-ball
+  tmdb_id: null
+  title: Monster's Ball
+  year: 2001
+  runtime: 111
+  director: Marc Forster
+  tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 2 }
+
+- id: x-men
+  tmdb_id: null
+  title: X-Men
+  year: 2000
+  runtime: 104
+  director: Bryan Singer
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: die-another-day
+  tmdb_id: null
+  title: Die Another Day
+  year: 2002
+  runtime: 133
+  director: Lee Tamahori
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: catwoman
+  tmdb_id: null
+  title: Catwoman
+  year: 2004
+  runtime: 104
+  director: Pitof
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.25 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: frankie-and-alice
+  tmdb_id: null
+  title: Frankie and Alice
+  year: 2010
+  runtime: 100
+  director: Geoffrey Sax
+  tags:
+    opacity: 3 # a dissociative identity disorder the film only lets the audience piece together alongside her own therapist
+    stillness: 3
+    bleakness: 4
+    humor: 1
+    acclaim: 0.42
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: losing-isaiah
+  tmdb_id: null
+  title: Losing Isaiah
+  year: 1995
+  runtime: 108
+  director: Stephen Gyllenhaal
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 0 }
+
+- id: boomerang
+  tmdb_id: null
+  title: Boomerang
+  year: 1992
+  runtime: 118
+  director: Reginald Hudlin
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.6 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: gothika
+  tmdb_id: null
+  title: Gothika
+  year: 2003
+  runtime: 98
+  director: Mathieu Kassovitz
+  tags:
+    opacity: 4 # a psychiatrist wakes up institutionalized for a murder she has no memory of committing, and can't trust her own account either
+    stillness: 2
+    bleakness: 4
+    humor: 1
+    acclaim: 0.35
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-call
+  tmdb_id: null
+  title: The Call
+  year: 2013
+  runtime: 94
+  director: Brad Anderson
+  tags:
+    opacity: 2 # a 911 dispatcher piecing together a kidnapping in real time from fragments she can't verify
+    stillness: 2
+    bleakness: 4
+    humor: 1
+    acclaim: 0.55
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

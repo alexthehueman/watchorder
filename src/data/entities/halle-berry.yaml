@@ -1,0 +1,93 @@
+slug: halle-berry
+kind: actor
+name: Halle Berry
+blurb: Broke through as a franchise-ready action lead, then delivered one of the rawest dramatic performances of her decade — a range the industry rarely knew what to do with afterward.
+
+films:
+  - film: monsters-ball
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 1
+    note: A grieving widow entering a relationship with the prison guard who oversaw her husband's execution, playing raw need with almost nothing held back.
+
+  - film: x-men
+    signature: 4
+    must_see: true
+    showcase: 2
+    role_size: supporting
+    register: restrained
+    gateway: 5
+    note: A weather-controlling mutant on a team of outcasts learning to trust each other, playing measured calm as the group's stabilizing presence.
+
+  - film: die-another-day
+    signature: 3
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 4
+    note: An NSA agent undercover as a Bond girl, playing effortless competence across a franchise built for exactly that kind of charisma.
+
+  - film: gothika
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: unhinged
+    gateway: 1
+    note: A psychiatrist waking up institutionalized for a murder she has no memory of committing, playing certainty about her own sanity the film keeps taking away from her.
+
+  - film: the-call
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A 911 operator drawn back into a live kidnapping call after a past case still haunts her, playing controlled procedure fraying in real time.
+
+  - film: frankie-and-alice
+    signature: 2
+    showcase: 4
+    role_size: lead
+    register: unhinged
+    gateway: 1
+    note: A go-go dancer whose therapist gradually uncovers the separate, distinct personalities sharing her body, playing each one as a fully realized person rather than a gimmick.
+
+  - film: losing-isaiah
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: unhinged
+    gateway: 2
+    note: A recovering addict fighting to reclaim custody of the son she'd given up, playing shame and desperation without asking the film to excuse her.
+
+  - film: catwoman
+    signature: 2
+    showcase: 2
+    role_size: lead
+    register: comic
+    gateway: 3
+    note: A mild-mannered designer resurrected with feline abilities after being murdered, playing camp conviction in a film that rarely earns it.
+
+  - film: boomerang
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: warm
+    gateway: 4
+    note: A steady, grounded coworker who watches a serial-dating ad executive finally get outmaneuvered at his own game.
+
+curated:
+  curator: house
+  rationale: The performance that showed what she could really do, then the franchise stardom built on a very different register.
+  order:
+    - boomerang
+    - x-men
+    - die-another-day
+    - catwoman
+    - gothika
+    - the-call
+    - frankie-and-alice
+    - losing-isaiah
+    - monsters-ball

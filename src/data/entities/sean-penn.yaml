@@ -1,0 +1,66 @@
+slug: sean-penn
+kind: actor
+name: Sean Penn
+blurb: Started as a live-wire teen comedy fixture and rebuilt himself into one of the most punishing dramatic actors working, rarely returning to the register that made him famous.
+
+films:
+  - film: dead-man-walking
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 2
+    note: A death row inmate whose spiritual advisor refuses to let him claim innocence he can't back up, playing unearned self-pity curdling toward something like honesty.
+
+  - film: mystic-river
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 2
+    note: A father convinced he knows who killed his daughter, playing grief tipping into vigilante certainty the film never lets him, or the audience, fully trust.
+
+  - film: milk
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: warm
+    gateway: 3
+    note: A biopic of the first openly gay man elected to major public office in California, playing hard-won optimism against a fate the film states upfront.
+
+  - film: fast-times-at-ridgemont-high
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: comic
+    gateway: 5
+    note: A perpetually stoned surfer who treats every class period as an interruption to something more important, playing dim cheerfulness with total commitment. His breakout role.
+
+  - film: i-am-sam
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: warm
+    gateway: 3
+    note: A father with an intellectual disability fighting a custody battle for his daughter, playing simplicity as its own kind of unwavering conviction.
+
+  - film: 21-grams
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A dying mathematician whose fate becomes entangled with two strangers after a fatal accident, playing quiet desperation across a story told out of order.
+
+curated:
+  curator: house
+  rationale: The role that made him a star first, then the two decades of dramatic intensity built almost entirely against it.
+  order:
+    - fast-times-at-ridgemont-high
+    - i-am-sam
+    - milk
+    - 21-grams
+    - dead-man-walking
+    - mystic-river
