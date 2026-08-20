@@ -1,0 +1,47 @@
+slug: ray-liotta
+kind: actor
+name: Ray Liotta
+blurb: A charismatic, live-wire intensity that could tip from magnetic charm into real danger without warning.
+
+films:
+  - film: goodfellas
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 5
+    note: A young mobster narrating his own rise and fall with chilling matter-of-fact detachment, playing controlled, self-aware complicity.
+
+  - film: field-of-dreams
+    signature: 4
+    showcase: 5
+    role_size: supporting
+    register: warm
+    gateway: 5
+    note: A disgraced ballplayer given a second chance at redemption, playing gentle, wondering grace.
+
+  - film: something-wild
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: unhinged
+    gateway: 4
+    note: A dangerous, unpredictable ex-con crashing back into his ex-wife's life, playing charming menace curdling into real threat.
+
+  - film: cop-land
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: menacing
+    gateway: 3
+    note: A corrupt, controlling police captain running his own fiefdom, playing cold, entitled authority.
+
+curated:
+  curator: house
+  rationale: The most iconic role first, then the range of charm and menace around it.
+  order:
+    - goodfellas
+    - field-of-dreams
+    - something-wild
+    - cop-land

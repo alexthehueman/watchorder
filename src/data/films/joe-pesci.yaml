@@ -1,0 +1,18 @@
+# New films for Joe Pesci. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Goodfellas and Raging Bull already exist in de-niro.yaml — tagged before he had an entity.
+# Casino already exists in scorsese.yaml.
+
+- id: home-alone
+  tmdb_id: null
+  title: Home Alone
+  year: 1990
+  runtime: 103
+  director: Chris Columbus
+  tags:
+    opacity: 2 # whether the burglars will actually give up or keep escalating stays uncertain through the trap sequences
+    stillness: 1
+    bleakness: 1
+    humor: 5
+    acclaim: 0.70
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }

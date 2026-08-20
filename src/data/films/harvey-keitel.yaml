@@ -1,0 +1,13 @@
+# New films for Harvey Keitel. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Reservoir Dogs and Pulp Fiction already exist in tarantino.yaml — tagged before he had an entity.
+# Taxi Driver already exists in de-niro.yaml.
+
+- id: bad-lieutenant
+  tmdb_id: null
+  title: Bad Lieutenant
+  year: 1992
+  runtime: 96
+  director: Abel Ferrara
+  tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.72 }
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 2 }

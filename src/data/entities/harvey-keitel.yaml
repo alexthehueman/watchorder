@@ -1,0 +1,47 @@
+slug: harvey-keitel
+kind: actor
+name: Harvey Keitel
+blurb: A weathered, unflinching intensity that anchored a run of the era's most transgressive films, comfortable in total moral collapse or total professional cool.
+
+films:
+  - film: pulp-fiction
+    signature: 5
+    must_see: true
+    showcase: 4
+    role_size: supporting
+    register: comic
+    gateway: 5
+    note: A cool, unflappable fixer who solves problems with total professional calm, playing dry, unbothered competence.
+
+  - film: reservoir-dogs
+    signature: 5
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 5
+    note: A seasoned professional trying to hold a botched heist crew together, playing controlled, weary authority.
+
+  - film: taxi-driver
+    signature: 4
+    showcase: 5
+    role_size: supporting
+    register: menacing
+    gateway: 3
+    note: A smooth, predatory pimp controlling a teenage girl, playing charming surface over real menace.
+
+  - film: bad-lieutenant
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 2
+    note: A corrupt, self-destructive cop spiraling through addiction and moral collapse, playing raw, unflinching disintegration.
+
+curated:
+  curator: house
+  rationale: The most iconic role first, then the film that launched his Tarantino era, then the range of menace and collapse around both.
+  order:
+    - pulp-fiction
+    - reservoir-dogs
+    - taxi-driver
+    - bad-lieutenant

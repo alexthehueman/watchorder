@@ -1,0 +1,47 @@
+slug: joe-pesci
+kind: actor
+name: Joe Pesci
+blurb: A small, explosive screen presence whose sudden bursts of violence defined some of cinema's most quoted scenes, with real comic timing when he wanted it.
+
+films:
+  - film: goodfellas
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: supporting
+    register: unhinged
+    gateway: 5
+    note: A volatile, quick-to-violence mobster whose temper defines the film's most infamous scenes, playing genuinely terrifying unpredictability.
+
+  - film: raging-bull
+    signature: 4
+    showcase: 5
+    role_size: supporting
+    register: restrained
+    gateway: 5
+    note: A steady, loyal brother trying to manage a self-destructive fighter, playing weary, protective patience.
+
+  - film: casino
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 5
+    note: An increasingly reckless, paranoid enforcer whose violence spirals out of control, playing raw, escalating menace.
+
+  - film: home-alone
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: comic
+    gateway: 5
+    note: A bumbling, accident-prone burglar outwitted at every turn, playing broad, physical comic frustration.
+
+curated:
+  curator: house
+  rationale: The most iconic role first, then the range of Scorsese collaborations, then the comic detour.
+  order:
+    - goodfellas
+    - raging-bull
+    - casino
+    - home-alone
