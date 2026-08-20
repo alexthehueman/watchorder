@@ -1,0 +1,84 @@
+slug: rooney-mara
+kind: actor
+name: Rooney Mara
+blurb: A watchful, withholding stillness that turns even her warmest roles a little unreadable, and that makes the genuinely opaque ones feel like her natural register.
+
+films:
+  - film: the-girl-with-the-dragon-tattoo
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 2
+    note: A traumatized, brilliant hacker investigating a decades-old disappearance, playing guarded hostility as armor built from real, specific damage.
+
+  - film: carol
+    signature: 5
+    must_see: true
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A department store clerk drawn into a relationship with an older, wealthier woman in 1950s New York, playing quiet awakening under enormous social risk.
+
+  - film: side-effects
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: unhinged
+    gateway: 2
+    note: A woman whose new antidepressant appears linked to a violent act, playing victimhood the film keeps giving reasons to doubt.
+
+  - film: a-ghost-story
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A grieving widow eating an entire pie in a single unbroken take while her dead husband's sheet-draped ghost watches from the corner, unable to intervene.
+
+  - film: lion
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: warm
+    gateway: 3
+    note: A supportive girlfriend encouraging her partner's growing obsession with tracking down the family he lost as a child.
+
+  - film: nightmare-alley
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: warm
+    gateway: 2
+    note: A carnival mentalist's assistant who becomes the one steady presence a con man keeps drifting away from as his ambition curdles.
+
+  - film: the-social-network
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: restrained
+    gateway: 4
+    note: A college student whose brief, brutal breakup speech opens the film and sets its protagonist's whole trajectory in motion.
+
+  - film: her
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: restrained
+    gateway: 3
+    note: A man's ex-wife, appearing mostly in memory, whose brief reappearance forces him to confront exactly what he expects out of intimacy now.
+
+curated:
+  curator: house
+  rationale: The two performances that show the range of the same watchful stillness, then everywhere else it gets put to smaller use.
+  order:
+    - the-social-network
+    - her
+    - nightmare-alley
+    - lion
+    - carol
+    - side-effects
+    - the-girl-with-the-dragon-tattoo
+    - a-ghost-story

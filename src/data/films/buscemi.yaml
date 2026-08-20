@@ -1,0 +1,52 @@
+# New films for Steve Buscemi. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Big Lebowski and Reservoir Dogs already exist in coens.yaml and tarantino.yaml — tagged
+# before he had an entity. Fargo already exists in mcdormand.yaml — tagged before he had an
+# entity. Con Air already exists in malkovich.yaml — tagged before he had an entity. Monsters,
+# Inc. already exists in pixar.yaml — tagged before he had an entity.
+
+- id: trees-lounge
+  tmdb_id: null
+  title: Trees Lounge
+  year: 1996
+  runtime: 95
+  director: Steve Buscemi
+  tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 2, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: ghost-world
+  tmdb_id: null
+  title: Ghost World
+  year: 2001
+  runtime: 111
+  director: Terry Zwigoff
+  tags:
+    opacity: 2 # a friendship the film keeps letting sour without ever quite explaining why either of them let it
+    stillness: 3
+    bleakness: 3
+    humor: 3
+    acclaim: 0.78
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: living-in-oblivion
+  tmdb_id: null
+  title: Living in Oblivion
+  year: 1995
+  runtime: 91
+  director: Tom DiCillo
+  tags:
+    opacity: 3 # a chaotic indie shoot that keeps sliding into dream sequences before revealing which parts were ever real
+    stillness: 2
+    bleakness: 2
+    humor: 4
+    acclaim: 0.72
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: armageddon
+  tmdb_id: null
+  title: Armageddon
+  year: 1998
+  runtime: 151
+  director: Michael Bay
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 3, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

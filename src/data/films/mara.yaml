@@ -1,0 +1,60 @@
+# New films for Rooney Mara. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Carol already exists in blanchett.yaml — tagged before she had an entity. The Social Network
+# already exists in garfield.yaml — tagged before she had an entity. Her already exists in
+# phoenix.yaml — tagged before she had an entity.
+
+- id: the-girl-with-the-dragon-tattoo
+  tmdb_id: null
+  title: The Girl with the Dragon Tattoo
+  year: 2011
+  runtime: 158
+  director: David Fincher
+  tags: { opacity: 2, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.78 }
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+
+- id: side-effects
+  tmdb_id: null
+  title: Side Effects
+  year: 2013
+  runtime: 106
+  director: Steven Soderbergh
+  tags:
+    opacity: 4 # a psychiatric case that keeps reversing who's actually manipulating whom, right up to the final act
+    stillness: 2
+    bleakness: 4
+    humor: 1
+    acclaim: 0.72
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: a-ghost-story
+  tmdb_id: null
+  title: A Ghost Story
+  year: 2017
+  runtime: 92
+  director: David Lowery
+  tags:
+    opacity: 4 # a sheet-clad ghost drifting outside linear time, with no explanation offered for any of its rules
+    stillness: 5
+    bleakness: 4
+    humor: 1
+    acclaim: 0.75
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
+
+- id: lion
+  tmdb_id: null
+  title: Lion
+  year: 2016
+  runtime: 118
+  director: Garth Davis
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 0 }
+
+- id: nightmare-alley
+  tmdb_id: null
+  title: Nightmare Alley
+  year: 2021
+  runtime: 150
+  director: Guillermo del Toro
+  tags: { opacity: 2, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
