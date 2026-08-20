@@ -1,0 +1,46 @@
+# New films for Sissy Spacek. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Badlands already exists in malick.yaml — tagged before she had an entity. The Help already
+# exists in viola-davis.yaml — tagged before she had an entity.
+
+- id: carrie-1976
+  tmdb_id: null
+  title: Carrie
+  year: 1976
+  runtime: 98
+  director: Brian De Palma
+  tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.82 }
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: coal-miners-daughter
+  tmdb_id: null
+  title: Coal Miners Daughter
+  year: 1980
+  runtime: 125
+  director: Michael Apted
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.82 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: missing
+  tmdb_id: null
+  title: Missing
+  year: 1982
+  runtime: 122
+  director: Costa-Gavras
+  tags:
+    opacity: 2 # a father and wife piecing together a coup's cover-up from bureaucratic denial and silence
+    stillness: 3
+    bleakness: 5
+    humor: 1
+    acclaim: 0.8
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: in-the-bedroom
+  tmdb_id: null
+  title: In the Bedroom
+  year: 2001
+  runtime: 130
+  director: Todd Field
+  tags: { opacity: 1, stillness: 4, bleakness: 5, humor: 1, acclaim: 0.82 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+

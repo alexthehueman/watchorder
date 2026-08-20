@@ -1,0 +1,66 @@
+slug: idris-elba
+kind: actor
+name: Idris Elba
+blurb: A commanding physical presence and a voice that can sell both moral authority and total menace — often in the same film, sometimes in the same scene.
+
+films:
+  - film: beasts-of-no-nation
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: menacing
+    gateway: 2
+    note: A charismatic warlord recruiting and radicalizing child soldiers in an unnamed West African civil war, playing seduction and horror as the same instrument.
+
+  - film: mandela-long-walk-to-freedom
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: Nelson Mandela, from young lawyer through twenty-seven years of imprisonment to South Africa's first Black president.
+
+  - film: american-gangster
+    signature: 4
+    showcase: 4
+    role_size: supporting
+    register: menacing
+    gateway: 3
+    note: A rival Harlem gangster whose turf war with Frank Lucas escalates the pressure on both men from every direction at once.
+
+  - film: molly-s-game
+    signature: 3
+    showcase: 4
+    role_size: supporting
+    register: restrained
+    gateway: 4
+    note: A defense lawyer building the case for a high-stakes poker ring operator facing federal charges, playing careful skepticism that slowly turns into respect.
+
+  - film: the-suicide-squad
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: A mercenary marksman leading a team of expendable supervillains on a black-ops mission, playing reluctant leadership as the film's straightest face.
+
+  - film: pacific-rim
+    signature: 2
+    showcase: 2
+    role_size: lead
+    register: warm
+    gateway: 5
+    note: A retired commander rallying a last-ditch human resistance against giant sea monsters, delivering the film's rallying speech with total conviction.
+
+curated:
+  curator: house
+  rationale: The two performances that show the range of the commanding presence first, then everywhere else it's applied.
+  order:
+    - pacific-rim
+    - the-suicide-squad
+    - molly-s-game
+    - american-gangster
+    - mandela-long-walk-to-freedom
+    - beasts-of-no-nation

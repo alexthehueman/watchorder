@@ -1,0 +1,66 @@
+slug: forest-whitaker
+kind: actor
+name: Forest Whitaker
+blurb: A gentle, watchful presence capable of turning genuinely terrifying without raising his voice — the same quiet control works for a loyal butler, a hitman, and a dictator in the same career.
+
+films:
+  - film: the-last-king-of-scotland
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 3
+    note: Ugandan dictator Idi Amin, whose warmth and charisma toward a young Scottish doctor curdle, without warning, into paranoid brutality. Won him the Oscar.
+
+  - film: bird
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: Jazz saxophonist Charlie Parker, playing genius and self-destruction as inseparable, in a Clint Eastwood biopic built around long, unhurried scenes.
+
+  - film: ghost-dog-the-way-of-the-samurai
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A rooftop-dwelling hitman who lives by a private, self-authored samurai code, playing total stillness as a kind of discipline.
+
+  - film: the-butler
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: A White House butler serving eight presidents across decades of civil rights history, playing quiet endurance against his activist son's more visible fight.
+
+  - film: platoon
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: warm
+    gateway: 3
+    note: A soldier in a Vietnam infantry unit split between two sergeants representing opposite moral poles, mostly present as the platoon's decency.
+
+  - film: rogue-one
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: menacing
+    gateway: 4
+    note: A rebel extremist whose loyalty to the cause has curdled into methods even the Rebellion is uneasy about.
+
+curated:
+  curator: house
+  rationale: The two performances that show the range of the quiet control first, then everywhere else it's applied.
+  order:
+    - rogue-one
+    - the-butler
+    - ghost-dog-the-way-of-the-samurai
+    - platoon
+    - bird
+    - the-last-king-of-scotland

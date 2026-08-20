@@ -1,0 +1,66 @@
+slug: sissy-spacek
+kind: actor
+name: Sissy Spacek
+blurb: A wide-eyed, disarming vulnerability used again and again to make American violence and grief feel personal — a spree killer's girlfriend, a bullied teenager, a mother searching for her missing son.
+
+films:
+  - film: carrie-1976
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 4
+    note: A bullied, telekinetic teenager pushed past every limit at her own prom, in the role that made her a star.
+
+  - film: badlands
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A teenager narrating her boyfriend's killing spree across the Midwest in a flat, disengaged voice that never once matches the violence on screen.
+
+  - film: coal-miners-daughter
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: Country singer Loretta Lynn, from Kentucky poverty to the Grand Ole Opry, singing every song herself. Won her the Oscar.
+
+  - film: missing
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A wife searching for her husband, disappeared amid a Latin American military coup, forced into uneasy alliance with the father-in-law she's never gotten along with.
+
+  - film: in-the-bedroom
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A mother whose grief over her son's murder curdles into something the film lets her act on, without ever raising its voice.
+
+  - film: the-help
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: warm
+    gateway: 4
+    note: A socialite mother whose own household is quietly disintegrating around the daughter and the maids the film is really about.
+
+curated:
+  curator: house
+  rationale: The two performances that define the disarming vulnerability first, then everywhere else it's tested.
+  order:
+    - carrie-1976
+    - coal-miners-daughter
+    - the-help
+    - badlands
+    - missing
+    - in-the-bedroom

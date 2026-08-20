@@ -1,0 +1,54 @@
+# New films for Idris Elba. Scales and anchors are in README.md ("The anchor rubric").
+#
+# American Gangster already exists in washington.yaml — tagged before he had an entity.
+
+- id: beasts-of-no-nation
+  tmdb_id: null
+  title: Beasts of No Nation
+  year: 2015
+  runtime: 137
+  director: Cary Joji Fukunaga
+  tags:
+    opacity: 2 # drug-induced sequences blur into the narrative without ever flagging the shift
+    stillness: 2
+    bleakness: 5
+    humor: 1
+    acclaim: 0.78
+  content: { sexual_violence: true, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
+
+- id: mandela-long-walk-to-freedom
+  tmdb_id: null
+  title: Mandela Long Walk to Freedom
+  year: 2013
+  runtime: 141
+  director: Justin Chadwick
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: pacific-rim
+  tmdb_id: null
+  title: Pacific Rim
+  year: 2013
+  runtime: 132
+  director: Guillermo del Toro
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-suicide-squad
+  tmdb_id: null
+  title: The Suicide Squad
+  year: 2021
+  runtime: 132
+  director: James Gunn
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 3, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: molly-s-game
+  tmdb_id: null
+  title: Molly's Game
+  year: 2017
+  runtime: 140
+  director: Aaron Sorkin
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
