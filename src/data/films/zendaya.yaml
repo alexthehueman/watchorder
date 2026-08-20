@@ -1,0 +1,45 @@
+# New films for Zendaya. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Dune (2021) already exists in chalamet.yaml (a genuine dual lead) — tagged before she had an
+# entity. The Greatest Showman already exists in jackman.yaml — tagged before she had an entity.
+
+- id: spider-man-homecoming
+  tmdb_id: null
+  title: Spider-Man Homecoming
+  year: 2017
+  runtime: 133
+  director: Jon Watts
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: malcolm-and-marie
+  tmdb_id: null
+  title: Malcolm and Marie
+  year: 2021
+  runtime: 106
+  director: Sam Levinson
+  tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: challengers
+  tmdb_id: null
+  title: Challengers
+  year: 2024
+  runtime: 131
+  director: Luca Guadagnino
+  tags:
+    opacity: 2 # a nonlinear timeline the film cuts between without ever announcing where you are
+    stillness: 2
+    bleakness: 3
+    humor: 2
+    acclaim: 0.78
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+
+- id: dune-part-two
+  tmdb_id: null
+  title: Dune Part Two
+  year: 2024
+  runtime: 166
+  director: Denis Villeneuve
+  tags: { opacity: 2, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

@@ -1,0 +1,93 @@
+slug: margot-robbie
+kind: actor
+name: Margot Robbie
+blurb: A brash, confrontational energy she can turn toward tragedy, comic-book chaos, or a doll's entire existential crisis — the same total commitment, aimed wherever the role needs it.
+
+films:
+  - film: i-tonya
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 3
+    note: Figure skater Tonya Harding, narrating her own version of the scandal that ended her career directly to camera, daring the audience not to believe her.
+
+  - film: barbie
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: Stereotypical Barbie, whose perfect plastic existence cracks the moment a thought of death interrupts a dance party.
+
+  - film: the-wolf-of-wall-street
+    signature: 3
+    showcase: 4
+    role_size: supporting
+    register: unhinged
+    gateway: 3
+    note: A Wall Street trader's second wife, matched to his excess and volatility beat for beat rather than serving as any kind of moral counterweight.
+
+  - film: once-upon-a-time-in-hollywood
+    signature: 3
+    showcase: 4
+    role_size: supporting
+    register: warm
+    gateway: 3
+    note: Sharon Tate, filmed mostly just living an ordinary day — a deliberate, aching choice given what the audience knows and the film refuses to show.
+
+  - film: birds-of-prey
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 4
+    note: Harley Quinn, freshly split from the Joker and reinventing herself through an all-female Gotham crew, playing chaos as liberation.
+
+  - film: mary-queen-of-scots
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: menacing
+    gateway: 3
+    note: Elizabeth I, fighting a cousin for the English throne while burying every personal cost the crown demands of her.
+
+  - film: terminal
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: menacing
+    gateway: 2
+    note: A femme fatale running a con through a near-empty train station at night, playing the noir archetype with heavy, deliberate theatricality.
+
+  - film: amsterdam
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: warm
+    gateway: 3
+    note: A nurse turned socialite reuniting with two wartime friends who stumble into a political conspiracy, played with breezy, theatrical warmth.
+
+  - film: focus
+    signature: 2
+    showcase: 2
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: A rookie con artist recruited and seduced by a veteran grifter, playing charm as the entry point to an escalating game of trust.
+
+curated:
+  curator: house
+  rationale: The two performances that show the range of the total commitment first, then everywhere else it's spent.
+  order:
+    - barbie
+    - terminal
+    - amsterdam
+    - focus
+    - birds-of-prey
+    - mary-queen-of-scots
+    - once-upon-a-time-in-hollywood
+    - the-wolf-of-wall-street
+    - i-tonya

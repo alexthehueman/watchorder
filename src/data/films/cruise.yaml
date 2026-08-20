@@ -1,0 +1,34 @@
+# New films for Tom Cruise. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Eyes Wide Shut already exists in kubrick.yaml — tagged before he had an entity. A Few Good Men
+# already exists in nicholson.yaml — tagged before he had an entity. Rain Man already exists in
+# hoffman.yaml — tagged before he had an entity. Magnolia already exists in pta.yaml — tagged
+# before he had an entity. Minority Report already exists in spielberg.yaml — tagged before he
+# had an entity.
+
+- id: top-gun
+  tmdb_id: null
+  title: Top Gun
+  year: 1986
+  runtime: 110
+  director: Tony Scott
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: jerry-maguire
+  tmdb_id: null
+  title: Jerry Maguire
+  year: 1996
+  runtime: 139
+  director: Cameron Crowe
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: mission-impossible-fallout
+  tmdb_id: null
+  title: Mission Impossible Fallout
+  year: 2018
+  runtime: 147
+  director: Christopher McQuarrie
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

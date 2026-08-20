@@ -1,0 +1,50 @@
+# New films for Margot Robbie. Scales and anchors are in README.md ("The anchor rubric").
+#
+# I, Tonya already exists in neon.yaml — tagged before she had an entity. Once Upon a Time in
+# Hollywood already exists in tarantino.yaml — tagged before she had an entity. Barbie already
+# exists in gosling.yaml — tagged before she had an entity. Suicide Squad already exists in
+# viola-davis.yaml — tagged before she had an entity. Bombshell already exists in theron.yaml —
+# tagged before she had an entity. The Wolf of Wall Street already exists in scorsese.yaml —
+# tagged before she had an entity. Mary Queen of Scots already exists in ronan.yaml (a genuine
+# dual lead) — tagged before she had an entity.
+
+- id: terminal
+  tmdb_id: null
+  title: Terminal
+  year: 2018
+  runtime: 95
+  director: Vaughn Stein
+  tags:
+    opacity: 3 # a noir whose central femme fatale con the film keeps deliberately murky until late
+    stillness: 2
+    bleakness: 4
+    humor: 1
+    acclaim: 0.35
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: amsterdam
+  tmdb_id: null
+  title: Amsterdam
+  year: 2022
+  runtime: 134
+  director: David O. Russell
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: focus
+  tmdb_id: null
+  title: Focus
+  year: 2015
+  runtime: 105
+  director: Glenn Ficarra
+  tags: { opacity: 2, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.62 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: birds-of-prey
+  tmdb_id: null
+  title: Birds of Prey
+  year: 2020
+  runtime: 109
+  director: Cathy Yan
+  tags: { opacity: 2, stillness: 1, bleakness: 3, humor: 4, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
