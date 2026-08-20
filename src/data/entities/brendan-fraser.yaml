@@ -1,0 +1,102 @@
+slug: brendan-fraser
+kind: actor
+name: Brendan Fraser
+blurb: An earnest, physically committed leading-man charm that carried a run of nineties action-comedy, before a long absence and one devastating late-career return.
+
+films:
+  - film: the-whale
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A reclusive, morbidly obese online writing instructor reaching for reconciliation with his estranged daughter, playing quiet, aching tenderness underneath real physical suffering.
+
+  - film: the-mummy-1999
+    signature: 5
+    must_see: true
+    showcase: 4
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: A roguish adventurer swept into reawakening an ancient curse, playing easy, self-deprecating charm as the whole appeal of the role.
+
+  - film: crash-2004
+    signature: 4
+    showcase: 3
+    role_size: supporting
+    register: menacing
+    gateway: 3
+    note: A district attorney using a carjacking for his own political gain, playing calculated self-interest within a large ensemble.
+
+  - film: school-ties
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A Jewish football recruit at an elite prep school hiding his identity to fit in, playing guarded, controlled anxiety underneath an easy athletic charm.
+
+  - film: trust-2010
+    signature: 2
+    showcase: 4
+    role_size: lead
+    register: unhinged
+    gateway: 1
+    note: A father unraveling after learning his teenage daughter was groomed online, playing controlled composure breaking down into real desperation.
+
+  - film: extraordinary-measures
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: warm
+    gateway: 3
+    note: A father mortgaging everything to fund research into a cure for his children's rare disease, playing single-minded, unglamorous determination.
+
+  - film: gods-and-monsters
+    signature: 3
+    showcase: 4
+    role_size: supporting
+    register: warm
+    gateway: 2
+    note: A gardener drawn into an unlikely friendship with an aging, predatory film director, playing wary, genuine warmth that never fully curdles.
+
+  - film: george-of-the-jungle
+    signature: 2
+    showcase: 2
+    role_size: lead
+    register: comic
+    gateway: 4
+    note: A jungle-raised man-child navigating civilization for the first time, playing broad, physical slapstick as the entire joke.
+
+  - film: journey-to-the-center-of-the-earth
+    signature: 2
+    showcase: 2
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: A scientist leading his nephew on an accidental subterranean adventure, playing easygoing, protective warmth.
+
+  - film: bedazzled
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: comic
+    gateway: 4
+    note: A lonely nerd granted seven wishes by the devil, each one backfiring in a new comic way, playing earnest hapless yearning throughout.
+
+curated:
+  curator: house
+  rationale: The performance that closed the circle first, then the persona that made him a star, then the range around it.
+  order:
+    - the-whale
+    - the-mummy-1999
+    - school-ties
+    - trust-2010
+    - extraordinary-measures
+    - gods-and-monsters
+    - crash-2004
+    - journey-to-the-center-of-the-earth
+    - george-of-the-jungle
+    - bedazzled

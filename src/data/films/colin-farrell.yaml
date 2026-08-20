@@ -1,0 +1,15 @@
+# New films for Colin Farrell. Scales and anchors are in README.md ("The anchor rubric").
+#
+# In Bruges and The Grand Budapest Hotel already exist in fiennes.yaml — tagged before he had
+# an entity. The Batman already exists in pattinson.yaml. The Lobster already exists in
+# weisz.yaml. Seven Psychopaths already exists in harrelson.yaml. The Banshees of Inisherin
+# already exists in keoghan.yaml. Minority Report already exists in spielberg.yaml.
+
+- id: phone-booth
+  tmdb_id: null
+  title: Phone Booth
+  year: 2002
+  runtime: 81
+  director: Joel Schumacher
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
