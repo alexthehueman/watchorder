@@ -1,0 +1,50 @@
+# New films for Michael Shannon. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Nocturnal Animals already exists in amy-adams.yaml — tagged before he had an entity.
+# Revolutionary Road already exists in winslet.yaml — tagged before he had an entity.
+
+- id: take-shelter
+  tmdb_id: null
+  title: Take Shelter
+  year: 2011
+  runtime: 121
+  director: Jeff Nichols
+  tags:
+    opacity: 4 # never confirms whether the visions are mental illness or genuine prophecy
+    stillness: 3
+    bleakness: 5
+    humor: 1
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: man-of-steel
+  tmdb_id: null
+  title: Man of Steel
+  year: 2013
+  runtime: 143
+  director: Zack Snyder
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.62 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: midnight-special
+  tmdb_id: null
+  title: Midnight Special
+  year: 2016
+  runtime: 112
+  director: Jeff Nichols
+  tags:
+    opacity: 4 # keeps the boy's abilities and origin deliberately unexplained past the point most films would clarify
+    stillness: 2
+    bleakness: 3
+    humor: 1
+    acclaim: 0.72
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
+
+- id: knives-out
+  tmdb_id: null
+  title: Knives Out
+  year: 2019
+  runtime: 130
+  director: Rian Johnson
+  tags: { opacity: 2, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }

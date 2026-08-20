@@ -1,0 +1,66 @@
+slug: oscar-isaac
+kind: actor
+name: Oscar Isaac
+blurb: A soulful, weary charisma that reads as failure in an indie drama and as command in a blockbuster — the same weight, carried very differently depending on how much the role lets him win.
+
+films:
+  - film: inside-llewyn-davis
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A folk singer cycling through a week of professional and personal failure, treating talent as no guarantee of anything at all.
+
+  - film: ex-machina
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: menacing
+    gateway: 3
+    note: A tech CEO running a Turing test on his own AI creation, whose easy charm curdles the longer his actual control over the experiment is questioned.
+
+  - film: a-most-violent-year
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A heating-oil company owner trying to expand his business without resorting to the violence and corruption surrounding him on every side.
+
+  - film: the-card-counter
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A former military interrogator who's rebuilt his life around the discipline of counting cards, until a chance to mentor a troubled young man threatens it.
+
+  - film: dune-2021
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: warm
+    gateway: 4
+    note: Duke Leto Atreides, accepting a poisoned political inheritance with open eyes and quiet, doomed dignity.
+
+  - film: star-wars-the-force-awakens
+    signature: 2
+    showcase: 2
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: A hotshot Resistance pilot whose easy bravado gets him captured almost immediately, playing charm as its own kind of competence.
+
+curated:
+  curator: house
+  rationale: The two performances that show the range of the weary charisma first, then everywhere else it's applied.
+  order:
+    - star-wars-the-force-awakens
+    - dune-2021
+    - a-most-violent-year
+    - ex-machina
+    - inside-llewyn-davis
+    - the-card-counter

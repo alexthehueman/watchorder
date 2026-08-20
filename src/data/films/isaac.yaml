@@ -1,0 +1,37 @@
+# New films for Oscar Isaac. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Inside Llewyn Davis already exists in coens.yaml — tagged before he had an entity. Ex Machina
+# already exists in a24.yaml — tagged before he had an entity. Dune (2021) already exists in
+# chalamet.yaml — tagged before he had an entity.
+
+- id: a-most-violent-year
+  tmdb_id: null
+  title: A Most Violent Year
+  year: 2014
+  runtime: 125
+  director: JC Chandor
+  tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: star-wars-the-force-awakens
+  tmdb_id: null
+  title: Star Wars The Force Awakens
+  year: 2015
+  runtime: 138
+  director: JJ Abrams
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-card-counter
+  tmdb_id: null
+  title: The Card Counter
+  year: 2021
+  runtime: 112
+  director: Paul Schrader
+  tags:
+    opacity: 2
+    stillness: 4
+    bleakness: 5 # a former interrogator's war-crimes past the film reveals only through disciplined, unwilling flashback
+    humor: 1
+    acclaim: 0.72
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

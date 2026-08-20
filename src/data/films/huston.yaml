@@ -1,0 +1,74 @@
+# New films for Anjelica Huston. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Prizzi's Honor already exists in nicholson.yaml (a genuine dual lead) — tagged before she had
+# an entity. The Royal Tenenbaums already exists in hackman.yaml (a genuine dual lead) — tagged
+# before she had an entity.
+
+- id: the-grifters
+  tmdb_id: null
+  title: The Grifters
+  year: 1990
+  runtime: 110
+  director: Stephen Frears
+  tags:
+    opacity: 2
+    stillness: 2
+    bleakness: 5 # a con-artist mother whose final scheme against her own son the film refuses to soften
+    humor: 1
+    acclaim: 0.78
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+
+- id: the-addams-family
+  tmdb_id: null
+  title: The Addams Family
+  year: 1991
+  runtime: 99
+  director: Barry Sonnenfeld
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-witches
+  tmdb_id: null
+  title: The Witches
+  year: 1990
+  runtime: 91
+  director: Nicolas Roeg
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
+
+- id: crimes-and-misdemeanors
+  tmdb_id: null
+  title: Crimes and Misdemeanors
+  year: 1989
+  runtime: 104
+  director: Woody Allen
+  tags:
+    opacity: 2
+    stillness: 2
+    bleakness: 5 # a moral universe the film ends by insisting has no consequences at all
+    humor: 3
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: ever-after
+  tmdb_id: null
+  title: Ever After
+  year: 1998
+  runtime: 121
+  director: Andy Tennant
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-dead
+  tmdb_id: null
+  title: The Dead
+  year: 1987
+  runtime: 83
+  director: John Huston
+  tags:
+    opacity: 2 # a quiet epiphany the film only fully reveals in its narrated final minutes
+    stillness: 5
+    bleakness: 4
+    humor: 1
+    acclaim: 0.8
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
