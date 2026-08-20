@@ -1,0 +1,42 @@
+# New films for James Cagney. Scales and anchors are in README.md ("The anchor rubric").
+
+- id: white-heat
+  tmdb_id: null
+  title: White Heat
+  year: 1949
+  runtime: 114
+  director: Raoul Walsh
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.82 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: yankee-doodle-dandy
+  tmdb_id: null
+  title: Yankee Doodle Dandy
+  year: 1942
+  runtime: 126
+  director: Michael Curtiz
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 3, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: angels-with-dirty-faces
+  tmdb_id: null
+  title: Angels with Dirty Faces
+  year: 1938
+  runtime: 97
+  director: Michael Curtiz
+  tags:
+    opacity: 2 # whether his final walk to the chair is genuine cowardice or a deliberate sacrifice stays deliberately unresolved
+    stillness: 2
+    bleakness: 4
+    humor: 1
+    acclaim: 0.75
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: public-enemy
+  tmdb_id: null
+  title: The Public Enemy
+  year: 1931
+  runtime: 83
+  director: William A. Wellman
+  tags: { opacity: 1, stillness: 1, bleakness: 4, humor: 1, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

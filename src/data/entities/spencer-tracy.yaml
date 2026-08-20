@@ -1,0 +1,47 @@
+slug: spencer-tracy
+kind: actor
+name: Spencer Tracy
+blurb: An unshowy, deeply felt authority that carried some of the era's most morally serious dramas, closing his career opposite his real-life partner.
+
+films:
+  - film: judgment-at-nuremberg
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A judge weighing moral complicity in a courtroom of unbearable weight, playing careful, deliberate reason.
+
+  - film: guess-whos-coming-to-dinner
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: warm
+    gateway: 3
+    note: A father working through his own prejudice to embrace his daughter's choice, playing hard-won, genuine warmth.
+
+  - film: inherit-the-wind
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: comic
+    gateway: 3
+    note: A folksy defense attorney sparring in a courtroom over intellectual freedom, playing wry, humane wit.
+
+  - film: bad-day-at-black-rock
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A one-armed stranger quietly uncovering a town's buried secret, playing understated, unshakeable resolve.
+
+curated:
+  curator: house
+  rationale: The most acclaimed performance first, then the final, most iconic role, then the range of moral seriousness around them.
+  order:
+    - judgment-at-nuremberg
+    - guess-whos-coming-to-dinner
+    - inherit-the-wind
+    - bad-day-at-black-rock

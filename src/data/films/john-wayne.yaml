@@ -1,0 +1,13 @@
+# New films for John Wayne. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Searchers and Stagecoach already exist in ford.yaml — tagged before he had an entity.
+# Rio Bravo already exists in hawks.yaml.
+
+- id: true-grit-1969
+  tmdb_id: null
+  title: True Grit
+  year: 1969
+  runtime: 128
+  director: Henry Hathaway
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
