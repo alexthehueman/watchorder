@@ -1,0 +1,47 @@
+slug: rami-malek
+kind: actor
+name: Rami Malek
+blurb: A wide-eyed, unblinking intensity he can aim at total showmanship or total menace, rarely landing anywhere comfortably in between.
+
+films:
+  - film: bohemian-rhapsody
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 4
+    note: A biopic of Freddie Mercury tracing Queen's rise, playing performance-as-identity so completely the concert scenes and the breakdown scenes read as the same instinct.
+
+  - film: no-time-to-die
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: menacing
+    gateway: 3
+    note: A soft-spoken bioterrorist with a grudge stretching back years, playing quiet menace as more unsettling than any of the franchise's louder villains.
+
+  - film: short-term-12
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: restrained
+    gateway: 2
+    note: A counselor at a group home for at-risk teens, playing well-meaning but noticeably less steady presence than his more experienced colleagues.
+
+  - film: the-amazing-spider-man
+    signature: 2
+    showcase: 1
+    role_size: cameo
+    register: comic
+    gateway: 4
+    note: A high school classmate appearing briefly in the film's early scenes, well before his career-defining roles arrived.
+
+curated:
+  curator: house
+  rationale: The performance built entirely on performance-as-identity first, then everywhere else that same unblinking intensity gets aimed at menace instead.
+  order:
+    - the-amazing-spider-man
+    - short-term-12
+    - no-time-to-die
+    - bohemian-rhapsody

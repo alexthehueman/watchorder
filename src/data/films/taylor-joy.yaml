@@ -1,0 +1,28 @@
+# New films for Anya Taylor-Joy. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Witch already exists in a24.yaml — tagged before she had an entity. Split already exists in
+# blumhouse.yaml — tagged before she had an entity. Emma. already exists in oconnor.yaml — tagged
+# before she had an entity.
+
+- id: thoroughbreds
+  tmdb_id: null
+  title: Thoroughbreds
+  year: 2017
+  runtime: 92
+  director: Cory Finley
+  tags:
+    opacity: 3 # two teenagers plotting a murder with a flat, affectless calm the film never explains or excuses
+    stillness: 3
+    bleakness: 4
+    humor: 3
+    acclaim: 0.65
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: furiosa
+  tmdb_id: null
+  title: Furiosa A Mad Max Saga
+  year: 2024
+  runtime: 148
+  director: George Miller
+  tags: { opacity: 1, stillness: 1, bleakness: 4, humor: 1, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }

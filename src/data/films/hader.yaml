@@ -1,0 +1,30 @@
+# New films for Bill Hader. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Inside Out already exists in pixar.yaml — tagged before he had an entity.
+
+- id: the-skeleton-twins
+  tmdb_id: null
+  title: The Skeleton Twins
+  year: 2014
+  runtime: 93
+  director: Craig Johnson
+  tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 2, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
+
+- id: trainwreck
+  tmdb_id: null
+  title: Trainwreck
+  year: 2015
+  runtime: 125
+  director: Judd Apatow
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.62 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+
+- id: it-chapter-two
+  tmdb_id: null
+  title: It Chapter Two
+  year: 2019
+  runtime: 169
+  director: Andy Muschietti
+  tags: { opacity: 2, stillness: 2, bleakness: 5, humor: 3, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }

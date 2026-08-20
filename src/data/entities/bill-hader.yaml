@@ -1,0 +1,47 @@
+slug: bill-hader
+kind: actor
+name: Bill Hader
+blurb: A sketch-comedy performer's precise timing redirected toward real, unresolved grief, proving the same instincts that built impressions could carry genuine dramatic weight.
+
+films:
+  - film: the-skeleton-twins
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 1
+    note: A suicidal man reconnecting with his estranged twin sister after both separately hit rock bottom, playing dark, deflecting humor as the only language they have left for real pain.
+
+  - film: it-chapter-two
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: comic
+    gateway: 3
+    note: An adult member of a childhood friend group confronting a resurfaced evil, playing sharp, deflecting one-liners as a coping mechanism the film takes seriously.
+
+  - film: trainwreck
+    signature: 2
+    showcase: 2
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: A sports doctor whose steady, patient interest in a commitment-averse woman gradually complicates her whole worldview.
+
+  - film: inside-out
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 5
+    note: The voice of Fear, one of five emotions steering a young girl through a difficult move, playing anxious vigilance as pure, nervous comic energy.
+
+curated:
+  curator: house
+  rationale: The performance that proved real dramatic weight was underneath the comic timing, then everywhere else that timing gets put to more familiar use.
+  order:
+    - inside-out
+    - trainwreck
+    - it-chapter-two
+    - the-skeleton-twins
