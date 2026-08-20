@@ -1,0 +1,57 @@
+slug: danny-mcbride
+kind: actor
+name: Danny McBride
+blurb: A loud, blustering overconfidence he's spent a career deflating in increasingly uncomfortable ways, occasionally pointed at genuine horror instead of comedy.
+
+films:
+  - film: the-foot-fist-way
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: comic
+    gateway: 2
+    note: A small-town taekwondo instructor whose delusional self-regard collides with an increasingly humiliating string of setbacks. His breakout role.
+
+  - film: alien-covenant
+    signature: 5
+    must_see: true
+    showcase: 4
+    role_size: supporting
+    register: restrained
+    gateway: 1
+    note: A colony ship's acting captain forced into command he never wanted, playing genuine, unglamorous fear against a threat the crew barely understands.
+
+  - film: pineapple-express
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: menacing
+    gateway: 3
+    note: A mid-level drug dealer whose loyalties keep shifting depending on who's holding the advantage in any given scene.
+
+  - film: this-is-the-end
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: unhinged
+    gateway: 3
+    note: A version of himself who arrives well into the apocalypse party and immediately makes things worse, playing total selfishness as pure comic escalation.
+
+  - film: tropic-thunder
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 4
+    note: A pyrotechnics expert on the film's chaotic production, playing reckless overconfidence with real explosives as a running joke.
+
+curated:
+  curator: house
+  rationale: The role that made his name on loud, blustering overconfidence first, then the one film where that same energy gets pointed at genuine dread instead.
+  order:
+    - tropic-thunder
+    - this-is-the-end
+    - pineapple-express
+    - the-foot-fist-way
+    - alien-covenant

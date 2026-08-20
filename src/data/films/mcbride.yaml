@@ -1,0 +1,23 @@
+# New films for Danny McBride. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Pineapple Express already exists in rogen.yaml — tagged before he had an entity. This Is the
+# End already exists in cera.yaml — tagged before he had an entity. Tropic Thunder already exists
+# in downey.yaml — tagged before he had an entity.
+
+- id: alien-covenant
+  tmdb_id: null
+  title: Alien Covenant
+  year: 2017
+  runtime: 122
+  director: Ridley Scott
+  tags: { opacity: 2, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.62 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: the-foot-fist-way
+  tmdb_id: null
+  title: The Foot Fist Way
+  year: 2006
+  runtime: 84
+  director: Jody Hill
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.52 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }

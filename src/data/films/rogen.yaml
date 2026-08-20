@@ -1,0 +1,22 @@
+# New films for Seth Rogen. Scales and anchors are in README.md ("The anchor rubric").
+#
+# This Is the End already exists in cera.yaml — tagged before he had an entity. Superbad already
+# exists in cera.yaml — tagged before he had an entity.
+
+- id: knocked-up
+  tmdb_id: null
+  title: Knocked Up
+  year: 2007
+  runtime: 129
+  director: Judd Apatow
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+
+- id: pineapple-express
+  tmdb_id: null
+  title: Pineapple Express
+  year: 2008
+  runtime: 111
+  director: David Gordon Green
+  tags: { opacity: 2, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }

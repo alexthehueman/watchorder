@@ -1,0 +1,48 @@
+slug: seth-rogen
+kind: actor
+name: Seth Rogen
+blurb: Built an entire era of stoner comedy around a specific, unhurried everyman warmth, then started using the same energy to gently satirize the persona itself.
+
+films:
+  - film: knocked-up
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: A directionless slacker whose one-night stand results in an unplanned pregnancy, playing genuine, if unpolished, effort to actually rise to the occasion. His breakout lead role.
+
+  - film: pineapple-express
+    signature: 5
+    must_see: true
+    showcase: 4
+    role_size: lead
+    register: unhinged
+    gateway: 3
+    note: A process server whose witnessed murder drags him and his dealer into an action-comedy chase, playing paranoid stoner logic as genuinely useful survival instinct.
+
+  - film: this-is-the-end
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 3
+    note: A version of himself hosting a party interrupted by the actual apocalypse, playing celebrity self-awareness as the film's comic anchor.
+
+  - film: superbad
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: menacing
+    gateway: 4
+    note: A dim, overconfident cop enabling his younger partner's worst instincts, playing arrested-development authority as pure comic irresponsibility.
+
+curated:
+  curator: house
+  rationale: The role that made him a leading man first, then everywhere else that same unhurried warmth gets put to smaller use.
+  order:
+    - superbad
+    - this-is-the-end
+    - knocked-up
+    - pineapple-express

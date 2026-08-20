@@ -1,0 +1,31 @@
+# New films for Craig Robinson. Scales and anchors are in README.md ("The anchor rubric").
+#
+# This Is the End already exists in cera.yaml — tagged before he had an entity. Pineapple Express
+# already exists in rogen.yaml — tagged before he had an entity.
+
+- id: hot-tub-time-machine
+  tmdb_id: null
+  title: Hot Tub Time Machine
+  year: 2010
+  runtime: 100
+  director: Steve Pink
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: zack-and-miri-make-a-porno
+  tmdb_id: null
+  title: Zack and Miri Make a Porno
+  year: 2008
+  runtime: 101
+  director: Kevin Smith
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.6 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+
+- id: morris-from-america
+  tmdb_id: null
+  title: Morris from America
+  year: 2016
+  runtime: 91
+  director: Chad Hartigan
+  tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 2, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
