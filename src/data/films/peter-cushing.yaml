@@ -1,0 +1,18 @@
+# New films for Peter Cushing. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Star Wars A New Hope already exists in ford-harrison.yaml. The Curse of Frankenstein,
+# Horror of Dracula, and Frankenstein Created Woman already exist in hammer.yaml.
+
+- id: the-skull
+  tmdb_id: null
+  title: The Skull
+  year: 1965
+  runtime: 83
+  director: Freddie Francis
+  tags:
+    opacity: 2 # whether the skull's malevolent influence is real or his own guilt is driving him mad stays deliberately ambiguous
+    stillness: 2
+    bleakness: 3
+    humor: 1
+    acclaim: 0.62
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }

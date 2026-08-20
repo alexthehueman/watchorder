@@ -1,0 +1,47 @@
+slug: bela-lugosi
+kind: actor
+name: Bela Lugosi
+blurb: A courtly, hypnotic screen presence whose thick accent and theatrical bearing defined the movie vampire and a run of horror villainy afterward.
+
+films:
+  - film: dracula
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 5
+    note: A courtly, magnetic count whose charm barely conceals predatory menace, playing composed, hypnotic control.
+
+  - film: the-black-cat
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 4
+    note: A vengeful psychiatrist obsessed with destroying the man who ruined his life, playing raw, consuming hatred.
+
+  - film: white-zombie
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: menacing
+    gateway: 3
+    note: A sinister plantation owner commanding an army of the undead, playing cold, absolute command.
+
+  - film: son-of-frankenstein
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: comic
+    gateway: 5
+    note: A twisted, broken blacksmith nursing his own grudges, playing darkly cackling instability.
+
+curated:
+  curator: house
+  rationale: The role that defined him first, then the range of menace around it.
+  order:
+    - dracula
+    - the-black-cat
+    - white-zombie
+    - son-of-frankenstein

@@ -1,0 +1,35 @@
+# New films for Bela Lugosi. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Black Cat already exists in boris-karloff.yaml — tagged before he had an entity.
+
+- id: dracula
+  tmdb_id: null
+  title: Dracula
+  year: 1931
+  runtime: 75
+  director: Tod Browning
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: white-zombie
+  tmdb_id: null
+  title: White Zombie
+  year: 1932
+  runtime: 69
+  director: Victor Halperin
+  tags:
+    opacity: 2 # whether the zombification is genuine supernatural power or drug-induced trickery stays deliberately unclear
+    stillness: 2
+    bleakness: 4
+    humor: 1
+    acclaim: 0.60
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: son-of-frankenstein
+  tmdb_id: null
+  title: Son of Frankenstein
+  year: 1939
+  runtime: 99
+  director: Rowland V. Lee
+  tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 2, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }

@@ -1,0 +1,47 @@
+slug: boris-karloff
+kind: actor
+name: Boris Karloff
+blurb: A towering, deeply sympathetic physicality that defined the modern movie monster — never simply menacing, always some kind of tragic.
+
+films:
+  - film: frankenstein-1931
+    signature: 5
+    must_see: true
+    showcase: 4
+    role_size: lead
+    register: unhinged
+    gateway: 5
+    note: A newly created being lashing out in confusion and fear at a world that only sees a monster, playing raw, wordless anguish.
+
+  - film: bride-of-frankenstein
+    signature: 5
+    showcase: 5
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: A creature capable of genuine longing and heartbreak beneath the horror, playing tender, devastating rejection.
+
+  - film: the-mummy-1932
+    signature: 3
+    showcase: 5
+    role_size: lead
+    register: menacing
+    gateway: 3
+    note: A resurrected ancient priest coldly manipulating his way toward a reincarnated love, playing patient, calculating menace.
+
+  - film: the-black-cat
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 5
+    note: A controlled, calculating Satanist locked in a quiet war of nerves with an old enemy, playing composed, chilling patience.
+
+curated:
+  curator: house
+  rationale: The role that defined him first, then its more acclaimed sequel, then the range of menace and tragedy around both.
+  order:
+    - frankenstein-1931
+    - bride-of-frankenstein
+    - the-mummy-1932
+    - the-black-cat

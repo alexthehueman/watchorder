@@ -1,0 +1,56 @@
+slug: peter-cushing
+kind: actor
+name: Peter Cushing
+blurb: A precise, gentlemanly intensity that anchored Hammer's gothic horror revival and lent real cold authority to science fiction's most infamous villain.
+
+films:
+  - film: the-curse-of-frankenstein
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 5
+    note: A brilliant, morally corrupt scientist whose ambition curdles into monstrous obsession, playing cold, escalating fanaticism.
+
+  - film: horror-of-dracula
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: A composed, relentless vampire hunter methodically closing in on his prey, playing controlled, unhurried resolve.
+
+  - film: star-wars-a-new-hope
+    signature: 4
+    showcase: 3
+    role_size: supporting
+    register: menacing
+    gateway: 5
+    note: A coldly ruthless imperial commander willing to destroy a planet to make a point, playing composed, chilling authority.
+
+  - film: frankenstein-created-woman
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A doctor coldly pursuing his experiments regardless of the human cost, playing detached, clinical fixation.
+
+  - film: the-skull
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: unhinged
+    gateway: 3
+    note: A horror collector whose fascination with the macabre spirals into genuine paranoid terror, playing unraveling, obsessive dread.
+
+curated:
+  curator: house
+  rationale: The role that defined the Hammer revival first, then the range of gothic and science-fiction menace around it.
+  order:
+    - the-curse-of-frankenstein
+    - horror-of-dracula
+    - star-wars-a-new-hope
+    - frankenstein-created-woman
+    - the-skull

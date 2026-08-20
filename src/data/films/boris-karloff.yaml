@@ -1,0 +1,47 @@
+# New films for Boris Karloff. Scales and anchors are in README.md ("The anchor rubric").
+
+- id: frankenstein-1931
+  tmdb_id: null
+  title: Frankenstein
+  year: 1931
+  runtime: 70
+  director: James Whale
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.82 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+
+- id: bride-of-frankenstein
+  tmdb_id: null
+  title: Bride of Frankenstein
+  year: 1935
+  runtime: 75
+  director: James Whale
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.90 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-mummy-1932
+  tmdb_id: null
+  title: The Mummy
+  year: 1932
+  runtime: 73
+  director: Karl Freund
+  tags:
+    opacity: 2 # whether his ancient love is genuine devotion or something more sinister stays deliberately unclear
+    stillness: 3
+    bleakness: 3
+    humor: 1
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-black-cat
+  tmdb_id: null
+  title: The Black Cat
+  year: 1934
+  runtime: 65
+  director: Edgar G. Ulmer
+  tags:
+    opacity: 2 # the true nature of his cult and his rivalry with an old enemy stays genuinely murky
+    stillness: 2
+    bleakness: 5
+    humor: 1
+    acclaim: 0.68
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 0 }
