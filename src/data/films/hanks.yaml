@@ -1,0 +1,87 @@
+# New films for Tom Hanks. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Philadelphia, Saving Private Ryan and Catch Me If You Can already exist in washington.yaml and
+# spielberg.yaml — three of his most significant roles, tagged before he had an entity.
+#
+# Cloud Atlas is the genuine outlier the rest of this roster lacks — six interwoven timelines with
+# no throughline explained, playing multiple roles across centuries. Nothing else here is remotely
+# that structurally demanding.
+
+- id: big
+  tmdb_id: null
+  title: Big
+  year: 1988
+  runtime: 104
+  director: Penny Marshall
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: forrest-gump
+  tmdb_id: null
+  title: Forrest Gump
+  year: 1994
+  runtime: 142
+  director: Robert Zemeckis
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 3 # played as whimsy, and still finds room for war, addiction and an AIDS-era death
+    humor: 3
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: cast-away
+  tmdb_id: null
+  title: Cast Away
+  year: 2000
+  runtime: 143
+  director: Robert Zemeckis
+  tags:
+    opacity: 2 # deliberately leaves whether he and Kelly reunite as more than friends unresolved
+    stillness: 4 # years alone on an island, and the film sits in the isolation rather than rushing past it
+    bleakness: 4
+    humor: 1
+    acclaim: 0.82
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: cloud-atlas
+  tmdb_id: null
+  title: Cloud Atlas
+  year: 2012
+  runtime: 172
+  director: Lana Wachowski, Lilly Wachowski, Tom Tykwer
+  tags:
+    opacity: 5 # six timelines across six centuries, cut together with no signposting for which is which
+    stillness: 3
+    bleakness: 3
+    humor: 2
+    acclaim: 0.65
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 1 }
+
+- id: captain-phillips
+  tmdb_id: null
+  title: Captain Phillips
+  year: 2013
+  runtime: 134
+  director: Paul Greengrass
+  tags:
+    opacity: 2 # shot handheld and close, so the pirates' real intentions stay genuinely unclear until they act on them
+    stillness: 1
+    bleakness: 4
+    humor: 1
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-green-mile
+  tmdb_id: null
+  title: The Green Mile
+  year: 1999
+  runtime: 189
+  director: Frank Darabont
+  tags:
+    opacity: 2 # a death-row supernatural mystery that withholds its own rules until deep into the runtime
+    stillness: 3
+    bleakness: 5
+    humor: 2
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }

@@ -1,0 +1,93 @@
+slug: morgan-freeman
+kind: actor
+name: Morgan Freeman
+blurb: A voice that became shorthand for wisdom and authority, deployed most interestingly in roles where the wisdom doesn't actually save anyone.
+
+films:
+  - film: the-shawshank-redemption
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: The prison's man who can get things, and the narrator of a story that's quietly about him as much as the man he befriends.
+
+  - film: million-dollar-baby
+    signature: 4
+    must_see: true
+    showcase: 5
+    role_size: supporting
+    register: warm
+    gateway: 3
+    note: A former boxer turned gym hand, narrating a story that ends somewhere far darker than the sports-movie shape promises.
+
+  - film: the-bucket-list
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: Two terminally ill men on a road trip to do everything they always meant to. His lightest register on this whole roster.
+
+  - film: invictus
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: Nelson Mandela, uniting a divided country through a rugby team, in a role written specifically for him.
+
+  - film: se7en
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A detective days from retirement, pulled into the case that becomes the one he can't leave behind.
+
+  - film: driving-miss-daisy
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: A chauffeur whose patience outlasts decades of his employer's resistance to needing him at all.
+
+  - film: glory
+    signature: 3
+    showcase: 4
+    role_size: supporting
+    register: warm
+    gateway: 3
+    note: A gravedigger turned sergeant in the first all-Black Union regiment, sent on the assault least likely to let anyone survive it.
+
+  - film: unforgiven
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: restrained
+    gateway: 3
+    note: An old outlaw partner talked back into one last job, and the one who pays for it first.
+
+  - film: the-dark-knight
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: restrained
+    gateway: 5
+    note: Lucius Fox, Wayne Enterprises' quiet moral check on how far the technology is allowed to go.
+
+curated:
+  curator: house
+  rationale: The two films that made him an icon first, then the range around them.
+  order:
+    - the-shawshank-redemption
+    - driving-miss-daisy
+    - the-dark-knight
+    - se7en
+    - the-bucket-list
+    - invictus
+    - glory
+    - unforgiven
+    - million-dollar-baby

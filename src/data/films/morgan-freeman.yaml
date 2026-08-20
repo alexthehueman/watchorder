@@ -1,0 +1,55 @@
+# New films for Morgan Freeman. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Unforgiven and The Dark Knight already exist in hackman.yaml and bale.yaml, Se7en exists in
+# pitt.yaml, and Glory exists in washington.yaml (Denzel Washington won his first Oscar for it) —
+# four of his most significant roles, tagged before he had an entity.
+
+- id: driving-miss-daisy
+  tmdb_id: null
+  title: Driving Miss Daisy
+  year: 1989
+  runtime: 99
+  director: Bruce Beresford
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-bucket-list
+  tmdb_id: null
+  title: The Bucket List
+  year: 2007
+  runtime: 97
+  director: Rob Reiner
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: invictus
+  tmdb_id: null
+  title: Invictus
+  year: 2009
+  runtime: 135
+  director: Clint Eastwood
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-shawshank-redemption
+  tmdb_id: null
+  title: The Shawshank Redemption
+  year: 1994
+  runtime: 142
+  director: Frank Darabont
+  tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 2, acclaim: 0.97 }
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: million-dollar-baby
+  tmdb_id: null
+  title: Million Dollar Baby
+  year: 2004
+  runtime: 132
+  director: Clint Eastwood
+  tags:
+    opacity: 2 # plays for two acts as a straight boxing film and deliberately conceals what it actually is until the third
+    stillness: 3
+    bleakness: 5 # a boxing film for two acts, then a film about what love asks someone to do at the end
+    humor: 1
+    acclaim: 0.88
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 0 }

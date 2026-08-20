@@ -1,0 +1,92 @@
+slug: tom-hanks
+kind: actor
+name: Tom Hanks
+blurb: Built a whole career on decency, and the best of it uses that decency as the exact thing under pressure — a soldier, a castaway, a man losing his mind about it, one letter at a time.
+
+films:
+  - film: forrest-gump
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: warm
+    gateway: 5
+    note: A man of limited understanding wanders through three decades of American history and somehow comes out the most decent person in every room.
+
+  - film: cast-away
+    signature: 4
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: Years alone on an island, most of it with no other actor to play against. A volleyball does a lot of the work.
+
+  - film: saving-private-ryan
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A captain who keeps a secret about himself as currency, leading a squad sent to retrieve one soldier out of a war that doesn't care about individuals.
+
+  - film: cloud-atlas
+    signature: 2
+    showcase: 4
+    role_size: lead
+    register: unhinged
+    gateway: 1
+    note: Six roles across six interwoven timelines, in the most structurally demanding thing he's ever attempted.
+
+  - film: captain-phillips
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A cargo-ship captain held hostage by Somali pirates, and his composure finally, famously breaks in the last scene.
+
+  - film: the-green-mile
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: warm
+    gateway: 3
+    note: A death-row guard confronting a supernatural mystery he has no framework for, and no good options once he understands it.
+
+  - film: big
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: A twelve-year-old in an adult's body, played with total commitment to the kid underneath — no wink to the camera anywhere.
+
+  - film: philadelphia
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A lawyer fired for having AIDS, suing the firm that fired him — one of the first mainstream studio films to take the epidemic seriously.
+
+  - film: catch-me-if-you-can
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: restrained
+    gateway: 4
+    note: The FBI agent chasing DiCaprio's con artist — dogged, unglamorous, and the film's actual moral center.
+
+curated:
+  curator: house
+  rationale: The role everyone already knows first, then the range around it, before the two heaviest dramas.
+  order:
+    - forrest-gump
+    - big
+    - catch-me-if-you-can
+    - saving-private-ryan
+    - philadelphia
+    - cast-away
+    - captain-phillips
+    - the-green-mile
