@@ -18,6 +18,8 @@
     humor: 1
     acclaim: 0.88
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0074119
+  poster_url: https://m.media-amazon.com/images/M/MV5BZGQzMzcwMDYtMmNjNS00YzZlLTg2MjUtNTE0MThlNTFjMDQ0XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: three-days-of-the-condor
   tmdb_id: null
@@ -32,6 +34,8 @@
     humor: 1
     acclaim: 0.78
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  imdb_id: tt0073802
+  poster_url: https://m.media-amazon.com/images/M/MV5BYjQ1NjlkZTMtNTkyZS00YmY3LWJmMzctMTgxNmE4NTFkNDViXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-natural
   tmdb_id: null
@@ -41,3 +45,5 @@
   director: Barry Levinson
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0087781
+  poster_url: https://m.media-amazon.com/images/M/MV5BMzljOTczYTYtNzM4YS00NDRlLWFiYTQtNjM3M2I4ODM3ZjgxXkEyXkFqcGc@._V1_SX300.jpg

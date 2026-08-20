@@ -12,6 +12,8 @@
   director: Debra Granik
   tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt1399683
+  poster_url: https://m.media-amazon.com/images/M/MV5BMjA0OTM3MDMxNF5BMl5BanBnXkFtZTcwMDY1MjI0Mw@@._V1_SX300.jpg
 
 - id: the-hunger-games
   tmdb_id: null
@@ -21,6 +23,8 @@
   director: Gary Ross
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt1392170
+  poster_url: https://m.media-amazon.com/images/M/MV5BMWI1OGM4YjQtNmIxNi00YmE2LWJkNTAtY2Q0YjU4NTI5NWQyXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: joy
   tmdb_id: null
@@ -30,6 +34,8 @@
   director: David O. Russell
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.6 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt2446980
+  poster_url: https://m.media-amazon.com/images/M/MV5BNmEyMWJiNzMtZjU3Mi00YzBjLTk3ZDgtMDZkYWVjNmZjMjQ3XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: x-men-days-of-future-past
   tmdb_id: null
@@ -39,6 +45,8 @@
   director: Bryan Singer
   tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt1877832
+  poster_url: https://m.media-amazon.com/images/M/MV5BNzNiYWE4NjMtMTU4OS00NmM4LWE4ZjAtYmE5OTA5NjkzODExXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg
 
 - id: red-sparrow
   tmdb_id: null
@@ -48,3 +56,5 @@
   director: Francis Lawrence
   tags: { opacity: 2, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.55 }
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 2 }
+  imdb_id: tt2873282
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTA3MDkxOTc4NDdeQTJeQWpwZ15BbWU4MDAxNzgyNTQz._V1_SX300.jpg

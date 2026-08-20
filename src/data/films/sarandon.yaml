@@ -10,6 +10,8 @@
   director: Jim Sharman
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 5, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+  imdb_id: tt0073629
+  poster_url: https://m.media-amazon.com/images/M/MV5BOTg2YzY5ZGYtNDk1My00N2Q2LWFhN2YtZWU5YTkzODIyZGRmXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: atlantic-city
   tmdb_id: null
@@ -19,6 +21,8 @@
   director: Louis Malle
   tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 2, acclaim: 0.82 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  imdb_id: tt0080388
+  poster_url: https://m.media-amazon.com/images/M/MV5BMzY3Mzc5YmEtMGYwNS00YjJkLWE2NjQtOWNiM2RlNWFhMTY1XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: bull-durham
   tmdb_id: null
@@ -28,6 +32,8 @@
   director: Ron Shelton
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+  imdb_id: tt0094812
+  poster_url: https://m.media-amazon.com/images/M/MV5BOGJiNmFmZjYtYzQzZi00ZTk1LWI2MGUtZjI1NDI3YmU4Y2FhXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: thelma-and-louise
   tmdb_id: null
@@ -51,6 +57,8 @@
     humor: 1
     acclaim: 0.85
   content: { sexual_violence: true, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0112818
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTM3NzA1MjM2N15BMl5BanBnXkFtZTcwMzY3MTMzNA@@._V1_SX300.jpg
 
 - id: igby-goes-down
   tmdb_id: null
@@ -60,6 +68,8 @@
   director: Burr Steers
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 3, acclaim: 0.65 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  imdb_id: tt0280760
+  poster_url: https://m.media-amazon.com/images/M/MV5BY2ExYWY0ZTEtYWNmZC00ZmYwLWE4MzQtYmNmYWU2OWI5MTY3XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-client
   tmdb_id: null
@@ -69,6 +79,8 @@
   director: Joel Schumacher
   tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0109446
+  poster_url: https://m.media-amazon.com/images/M/MV5BNWQzNGEyODctZGY4My00ZjA3LWI0OWUtMWQ3NzVkMzQyN2ZjXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: little-women-1994
   tmdb_id: null
@@ -78,3 +90,5 @@
   director: Gillian Armstrong
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0110367
+  poster_url: https://m.media-amazon.com/images/M/MV5BNjk0MGY3Y2ItMDQzMy00MGNlLThmOWMtNzE3N2ZhMTQ2YTkwXkEyXkFqcGc@._V1_SX300.jpg

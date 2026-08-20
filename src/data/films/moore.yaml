@@ -17,6 +17,8 @@
     humor: 1
     acclaim: 0.78
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0114323
+  poster_url: https://m.media-amazon.com/images/M/MV5BMmFlNmIyZGEtMzdjZS00NTQwLTg3NmEtNjFmMDU0NTQwOGRmXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: far-from-heaven
   tmdb_id: null
@@ -26,6 +28,8 @@
   director: Todd Haynes
   tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.82 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0297884
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTE5ODI3MTM4OV5BMl5BanBnXkFtZTYwNjE5OTg2._V1_SX300.jpg
 
 - id: the-kids-are-all-right
   tmdb_id: null
@@ -35,6 +39,8 @@
   director: Lisa Cholodenko
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  imdb_id: tt0842926
+  poster_url: https://m.media-amazon.com/images/M/MV5BMjE4NTMwNDg5MF5BMl5BanBnXkFtZTcwNDY2ODE0Mw@@._V1_SX300.jpg
 
 - id: still-alice
   tmdb_id: null
@@ -49,6 +55,8 @@
     humor: 1
     acclaim: 0.75
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt3316960
+  poster_url: https://m.media-amazon.com/images/M/MV5BMjIzNzAxNjY1Nl5BMl5BanBnXkFtZTgwMDg4ODQxMzE@._V1_SX300.jpg
 
 - id: maps-to-the-stars
   tmdb_id: null
@@ -58,3 +66,5 @@
   director: David Cronenberg
   tags: { opacity: 3, stillness: 3, bleakness: 5, humor: 2, acclaim: 0.62 }
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 1 }
+  imdb_id: tt2172584
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTY3MjQwNzYyNV5BMl5BanBnXkFtZTgwNTY3NDQ5MzE@._V1_SX300.jpg

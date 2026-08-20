@@ -12,6 +12,8 @@
   director: Sharon Maguire
   tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 4, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  imdb_id: tt0243155
+  poster_url: https://m.media-amazon.com/images/M/MV5BNTM1MTFiNDEtMGYzZC00MjM5LWEwMWMtN2VhNjg1MTEzOTg3XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: a-single-man
   tmdb_id: null
@@ -26,6 +28,8 @@
     humor: 1
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
+  imdb_id: tt1315981
+  poster_url: https://m.media-amazon.com/images/M/MV5BMzU5MTk4MjQ2M15BMl5BanBnXkFtZTcwNDU0MzEwMw@@._V1_SX300.jpg
 
 - id: the-kings-speech
   tmdb_id: null
@@ -35,6 +39,8 @@
   director: Tom Hooper
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt1504320
+  poster_url: https://m.media-amazon.com/images/M/MV5BMzU5MjEwMTg2Nl5BMl5BanBnXkFtZTcwNzM3MTYxNA@@._V1_QL75_UY562_CR2,0,380,562_.jpg
 
 - id: the-railway-man
   tmdb_id: null
@@ -49,6 +55,8 @@
     humor: 1
     acclaim: 0.68
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt2058107
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTQzNDU1NjE0NF5BMl5BanBnXkFtZTgwODA3NDczMDE@._V1_SX300.jpg
 
 - id: kingsman-the-secret-service
   tmdb_id: null
@@ -58,3 +66,5 @@
   director: Matthew Vaughn
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  imdb_id: tt2802144
+  poster_url: https://m.media-amazon.com/images/M/MV5BODk1MTYwNTAtYmI5Zi00OWYyLWE0MzQtOWE4NDIxZmU2MjMwXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg

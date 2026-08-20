@@ -11,6 +11,8 @@
   director: Ang Lee
   tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 3, acclaim: 0.82 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0114388
+  poster_url: https://m.media-amazon.com/images/M/MV5BY2MyZWJhNjktMWQ2My00OTgwLWI1NjEtYjUzM2M2N2M4Mzc4XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: eternal-sunshine-of-the-spotless-mind
   tmdb_id: null
@@ -25,6 +27,8 @@
     humor: 3
     acclaim: 0.88
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0338013
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTY4NzcwODg3Nl5BMl5BanBnXkFtZTcwNTEwOTMyMw@@._V1_SX300.jpg
 
 - id: little-children
   tmdb_id: null
@@ -34,6 +38,8 @@
   director: Todd Field
   tags: { opacity: 2, stillness: 3, bleakness: 4, humor: 2, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  imdb_id: tt0404203
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTYwNzEwNTI3MV5BMl5BanBnXkFtZTcwODUyODczMQ@@._V1_SX300.jpg
 
 - id: the-reader
   tmdb_id: null
@@ -48,6 +54,8 @@
     humor: 1
     acclaim: 0.75
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+  imdb_id: tt0976051
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTM0NDQxNjA0N15BMl5BanBnXkFtZTcwNDUwMzcwMg@@._V1_SX300.jpg
 
 - id: revolutionary-road
   tmdb_id: null
@@ -57,6 +65,8 @@
   director: Sam Mendes
   tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0959337
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTczNDgzMjczOV5BMl5BanBnXkFtZTcwOTU3MzMwMg@@._V1_SX300.jpg
 
 - id: steve-jobs
   tmdb_id: null
@@ -66,6 +76,8 @@
   director: Danny Boyle
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt2080374
+  poster_url: https://m.media-amazon.com/images/M/MV5BMjE0NTA2MTEwOV5BMl5BanBnXkFtZTgwNzg4NzU2NjE@._V1_QL75_UX380_CR0,20,380,562_.jpg
 
 - id: the-holiday
   tmdb_id: null
@@ -75,3 +87,5 @@
   director: Nancy Meyers
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.62 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0457939
+  poster_url: https://m.media-amazon.com/images/M/MV5BZmEwNDg0M2QtMDdiNy00YTliLTk4ZjctOThjZjczODVmMTdkXkEyXkFqcGc@._V1_SX300.jpg

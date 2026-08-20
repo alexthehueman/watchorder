@@ -15,6 +15,8 @@
     humor: 1
     acclaim: 0.78
   content: { sexual_violence: true, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
+  imdb_id: tt1365050
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTYwMzMzMDI0NF5BMl5BanBnXkFtZTgwNDQ3NjI3NjE@._V1_SX300.jpg
 
 - id: mandela-long-walk-to-freedom
   tmdb_id: null
@@ -24,6 +26,8 @@
   director: Justin Chadwick
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt2304771
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTg1NTQ1NDczNV5BMl5BanBnXkFtZTcwNDQyMDU1OQ@@._V1_SX300.jpg
 
 - id: pacific-rim
   tmdb_id: null
@@ -33,6 +37,8 @@
   director: Guillermo del Toro
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt1663662
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTY3MTI5NjQ4Nl5BMl5BanBnXkFtZTcwOTU1OTU0OQ@@._V1_SX300.jpg
 
 - id: the-suicide-squad
   tmdb_id: null
@@ -42,6 +48,8 @@
   director: James Gunn
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 3, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  imdb_id: tt6334354
+  poster_url: https://m.media-amazon.com/images/M/MV5BMWU3Y2NlZmEtMjJjNS00ZWMxLWE1MzctYWYyMjMzMDdkNTE4XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg
 
 - id: molly-s-game
   tmdb_id: null
@@ -51,4 +59,5 @@
   director: Aaron Sorkin
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
-
+  imdb_id: tt4209788
+  poster_url: https://m.media-amazon.com/images/M/MV5BNmYxYTg1ZDktNjc1Yy00MjVlLTk2Y2MtNmMzZTBkZDNjZjdlXkEyXkFqcGc@._V1_SX300.jpg

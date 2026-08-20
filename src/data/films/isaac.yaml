@@ -12,6 +12,8 @@
   director: JC Chandor
   tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt2937898
+  poster_url: https://m.media-amazon.com/images/M/MV5BMjE4OTY4ODg3Ml5BMl5BanBnXkFtZTgwMTI1MTg1MzE@._V1_SX300.jpg
 
 - id: star-wars-the-force-awakens
   tmdb_id: null
@@ -21,6 +23,8 @@
   director: JJ Abrams
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt29895037
+  poster_url: https://m.media-amazon.com/images/M/MV5BYWE3ODExM2YtNzFiNy00OGMzLTlkZTktMWQzZDZjZDBlNTg0XkEyXkFqcGc@._V1_QL75_UY562_CR53,0,380,562_.jpg
 
 - id: the-card-counter
   tmdb_id: null
@@ -35,3 +39,5 @@
     humor: 1
     acclaim: 0.72
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt11196036
+  poster_url: https://m.media-amazon.com/images/M/MV5BMWQzMWNkOGQtN2EwYi00YmVjLWFlMDktY2E1ZTI2YWM4ZDcxXkEyXkFqcGc@._V1_SX300.jpg

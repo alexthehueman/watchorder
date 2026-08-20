@@ -17,6 +17,8 @@
     humor: 1
     acclaim: 0.78
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+  imdb_id: tt0099703
+  poster_url: https://m.media-amazon.com/images/M/MV5BYTcyNDA4Y2ItZGJiNy00YWJjLWFhNDgtMzM4M2NkNWQ1NDVmXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-addams-family
   tmdb_id: null
@@ -26,6 +28,8 @@
   director: Barry Sonnenfeld
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0101272
+  poster_url: https://m.media-amazon.com/images/M/MV5BZWY0MzVlNGEtYzM1MC00OTI4LWE3ZTQtNWJjYzk2Y2MyNjVkXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-witches
   tmdb_id: null
@@ -35,6 +39,8 @@
   director: Nicolas Roeg
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0100944
+  poster_url: https://m.media-amazon.com/images/M/MV5BMjI1MDg5NzAyMV5BMl5BanBnXkFtZTgwNzU5Mzk4NjE@._V1_SX300.jpg
 
 - id: crimes-and-misdemeanors
   tmdb_id: null
@@ -49,6 +55,8 @@
     humor: 3
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0097123
+  poster_url: https://m.media-amazon.com/images/M/MV5BNTQwZjFjODItNzI3ZS00ODUzLWI3MWUtNjU2NDQwNjQxMjhlXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: ever-after
   tmdb_id: null
@@ -72,3 +80,5 @@
     humor: 1
     acclaim: 0.8
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0092843
+  poster_url: https://m.media-amazon.com/images/M/MV5BNzNiMTExNmEtOTEzYS00MDIwLWExOTEtMzM0MTQ2MTFkYjQ1XkEyXkFqcGc@._V1_SX300.jpg

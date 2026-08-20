@@ -12,6 +12,8 @@
   director: Garry Marshall
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  imdb_id: tt0100405
+  poster_url: https://m.media-amazon.com/images/M/MV5BNjk2ODQzNDYxNV5BMl5BanBnXkFtZTgwMTcyNDg4NjE@._V1_SX300.jpg
 
 - id: steel-magnolias
   tmdb_id: null
@@ -21,6 +23,8 @@
   director: Herbert Ross
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 3, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0098384
+  poster_url: https://m.media-amazon.com/images/M/MV5BMjE4MTYyOWYtYjBjNy00NjBiLThhYWEtNzQ2MmE4MzY4ZGI2XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: erin-brockovich
   tmdb_id: null
@@ -30,6 +34,8 @@
   director: Steven Soderbergh
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.8 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  imdb_id: tt0195685
+  poster_url: https://m.media-amazon.com/images/M/MV5BZTNkNzkzYTEtYTJkMC00MTNkLWE0YjMtOGYxNGI0ODNiMzIwXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: notting-hill
   tmdb_id: null
@@ -39,6 +45,8 @@
   director: Roger Michell
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  imdb_id: tt0125439
+  poster_url: https://m.media-amazon.com/images/M/MV5BZjY3YWI5OTMtYTdlNy00ZTZiLWEwYjItN2M1MGVkMDM4ZDExXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: closer
   tmdb_id: null
@@ -53,4 +61,5 @@
     humor: 1
     acclaim: 0.75
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
-
+  imdb_id: tt0376541
+  poster_url: https://m.media-amazon.com/images/M/MV5BZDIxYWIyZGMtNTAxZC00NDQxLThkOGQtZTUxNmZiMjFhYTEzXkEyXkFqcGc@._V1_SX300.jpg

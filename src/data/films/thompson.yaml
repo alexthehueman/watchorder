@@ -14,6 +14,8 @@
   director: James Ivory
   tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 2, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0104454
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTk3MDY3NDc2NF5BMl5BanBnXkFtZTgwODcwNjgzOTE@._V1_SX300.jpg
 
 - id: love-actually
   tmdb_id: null
@@ -23,6 +25,8 @@
   director: Richard Curtis
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  imdb_id: tt0314331
+  poster_url: https://m.media-amazon.com/images/M/MV5BYWRlZjcwYTgtYWJkOS00MGYwLTk3Y2ItNmU4NTg5Nzg2YTQ2XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: nanny-mcphee
   tmdb_id: null
@@ -32,6 +36,8 @@
   director: Kirk Jones
   tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 4, acclaim: 0.62 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0396752
+  poster_url: https://m.media-amazon.com/images/M/MV5BMjAwNDUxODEwMF5BMl5BanBnXkFtZTcwMzgyMTIzMQ@@._V1_SX300.jpg
 
 - id: stranger-than-fiction
   tmdb_id: null
@@ -46,6 +52,8 @@
     humor: 3
     acclaim: 0.72
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0420223
+  poster_url: https://m.media-amazon.com/images/M/MV5BNzFmZjZhOTktYWIxZS00YzM1LWEzNmQtMDM2YjlhYmI2MDVlXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: saving-mr-banks
   tmdb_id: null
@@ -55,3 +63,5 @@
   director: John Lee Hancock
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt2140373
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTc0MTQ3NzE4Nl5BMl5BanBnXkFtZTcwMzA4NDM5OQ@@._V1_SX300.jpg

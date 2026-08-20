@@ -11,6 +11,8 @@
   director: Brian De Palma
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.82 }
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
+  imdb_id: tt0094226
+  poster_url: https://m.media-amazon.com/images/M/MV5BYjVlNTk3NGYtOWE0OC00MDI4LThlZWItZGMwMTdmYzcwM2Y5XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: field-of-dreams
   tmdb_id: null
@@ -20,6 +22,8 @@
   director: Phil Alden Robinson
   tags: { opacity: 2, stillness: 3, bleakness: 2, humor: 1, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0097351
+  poster_url: https://m.media-amazon.com/images/M/MV5BZTEwMGYzNDktOWEyMi00NTJjLWE5MGQtNmNlNDkxOTYyZDA5XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: dances-with-wolves
   tmdb_id: null
@@ -29,6 +33,8 @@
   director: Kevin Costner
   tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.82 }
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0099348
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTY3OTI5NDczN15BMl5BanBnXkFtZTcwNDA0NDY3Mw@@._V1_SX300.jpg
 
 - id: tin-cup
   tmdb_id: null
@@ -38,6 +44,8 @@
   director: Ron Shelton
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  imdb_id: tt0117918
+  poster_url: https://m.media-amazon.com/images/M/MV5BZmU1YzE5MWEtMzc4MS00MzQ3LWEwMzYtMDg0ZTFlMmVhMzNiXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-bodyguard
   tmdb_id: null
@@ -47,6 +55,8 @@
   director: Mick Jackson
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.62 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  imdb_id: tt0103855
+  poster_url: https://m.media-amazon.com/images/M/MV5BNTM4ZWNjZmItMmUxNy00Y2M2LTlhZmItMjc0NjQzZmNiOWY5XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: mr-brooks
   tmdb_id: null
@@ -61,3 +71,5 @@
     humor: 1
     acclaim: 0.62
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0780571
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTQyNTk5MTMxN15BMl5BanBnXkFtZTcwNTc0ODI1NA@@._V1_SX300.jpg

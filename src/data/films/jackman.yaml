@@ -12,6 +12,8 @@
   director: Bryan Singer
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0120903
+  poster_url: https://m.media-amazon.com/images/M/MV5BNzNjZjQwOTAtNWQ3NC00MmJlLThlZDEtZmUyMWQ3NmE4Y2Y5XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg
 
 - id: the-fountain
   tmdb_id: null
@@ -26,6 +28,8 @@
     humor: 1
     acclaim: 0.68
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0414993
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTU5OTczMTcxMV5BMl5BanBnXkFtZTcwNDg3MTEzMw@@._V1_SX300.jpg
 
 - id: kate-and-leopold
   tmdb_id: null
@@ -49,6 +53,8 @@
     humor: 1
     acclaim: 0.82
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
+  imdb_id: tt1392214
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTg0NTIzMjQ1NV5BMl5BanBnXkFtZTcwNDc3MzM5OQ@@._V1_SX300.jpg
 
 - id: logan
   tmdb_id: null
@@ -58,6 +64,8 @@
   director: James Mangold
   tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.88 }
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
+  imdb_id: tt3315342
+  poster_url: https://m.media-amazon.com/images/M/MV5BM2JjODdkMGMtNmY2YS00OGM2LThiY2YtZGYyNzE4Nzc2ODA0XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-greatest-showman
   tmdb_id: null
@@ -67,3 +75,5 @@
   director: Michael Gracey
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.65 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt1485796
+  poster_url: https://m.media-amazon.com/images/M/MV5BMjI1NDYzNzY2Ml5BMl5BanBnXkFtZTgwODQwODczNTM@._V1_SX300.jpg

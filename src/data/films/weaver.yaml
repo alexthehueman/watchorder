@@ -17,6 +17,8 @@
     humor: 1
     acclaim: 0.93
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  imdb_id: tt0078748
+  poster_url: https://m.media-amazon.com/images/M/MV5BN2NhMDk2MmEtZDQzOC00MmY5LThhYzAtMDdjZGFjOGZjMjdjXkEyXkFqcGc@._V1_QL75_UX380_CR0,6,380,562_.jpg
 
 - id: aliens
   tmdb_id: null
@@ -26,6 +28,8 @@
   director: James Cameron
   tags: { opacity: 1, stillness: 1, bleakness: 4, humor: 2, acclaim: 0.90 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  imdb_id: tt0090605
+  poster_url: https://m.media-amazon.com/images/M/MV5BZjIyNGJhYzYtN2I1My00OTVhLWEyMzItZTVjNDMzOTVkYWViXkEyXkFqcGc@._V1_QL75_UX380_CR0,6,380,562_.jpg
 
 - id: ghostbusters
   tmdb_id: null
@@ -35,6 +39,8 @@
   director: Ivan Reitman
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 5, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  imdb_id: tt0087332
+  poster_url: https://m.media-amazon.com/images/M/MV5BYWE0YzYxNDUtMjk2ZC00NTEyLWE1MjktNzFkMjdjOWEwNTcyXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg
 
 - id: working-girl
   tmdb_id: null
@@ -44,6 +50,8 @@
   director: Mike Nichols
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  imdb_id: tt0096463
+  poster_url: https://m.media-amazon.com/images/M/MV5BYzZhNGFlNGYtMjgyMi00YmZiLWFjNjktZGIzYjkxM2YyZWJjXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: gorillas-in-the-mist
   tmdb_id: null
@@ -58,6 +66,8 @@
     humor: 1
     acclaim: 0.72
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0095243
+  poster_url: https://m.media-amazon.com/images/M/MV5BMzhlNTY5ZGYtNWFkMy00MjM5LWJmNmYtNTlhODVjMzY4NGRiXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: avatar
   tmdb_id: null
@@ -67,3 +77,5 @@
   director: James Cameron
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0499549
+  poster_url: https://m.media-amazon.com/images/M/MV5BMDEzMmQwZjctZWU2My00MWNlLWE0NjItMDJlYTRlNGJiZjcyXkEyXkFqcGc@._V1_SX300.jpg

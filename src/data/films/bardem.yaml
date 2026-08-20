@@ -11,6 +11,8 @@
   director: Julian Schnabel
   tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  imdb_id: tt0247196
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTI2ODRiYjEtY2JkMC00ZDM0LWIzYzQtNzllNzEzYjkwZTM5XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: vicky-cristina-barcelona
   tmdb_id: null
@@ -20,6 +22,8 @@
   director: Woody Allen
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  imdb_id: tt0497465
+  poster_url: https://m.media-amazon.com/images/M/MV5BOGYyZTllMmUtZDFmYS00ZjJhLThhNmEtZmQwYzkzNjkyNzhlXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: biutiful
   tmdb_id: null
@@ -34,6 +38,8 @@
     humor: 1
     acclaim: 0.72
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt1164999
+  poster_url: https://m.media-amazon.com/images/M/MV5BMzI4OTQ0MDQyNl5BMl5BanBnXkFtZTcwODY5MjQwNA@@._V1_SX300.jpg
 
 - id: the-counselor
   tmdb_id: null
@@ -48,6 +54,8 @@
     humor: 1
     acclaim: 0.45
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  imdb_id: tt2193215
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTc3ODk0MTY0N15BMl5BanBnXkFtZTgwOTU2MTEzMDE@._V1_SX300.jpg
 
 - id: mother-2017
   tmdb_id: null
@@ -62,6 +70,8 @@
     humor: 1
     acclaim: 0.58
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt5109784
+  poster_url: https://m.media-amazon.com/images/M/MV5BMzc5ODExODE0MV5BMl5BanBnXkFtZTgwNDkzNDUxMzI@._V1_SX300.jpg
 
 - id: eat-pray-love
   tmdb_id: null
@@ -71,6 +81,8 @@
   director: Ryan Murphy
   tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 3, acclaim: 0.48 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0879870
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTY5NDkyNzkyM15BMl5BanBnXkFtZTcwNDQyNDk0Mw@@._V1_SX300.jpg
 
 - id: the-sea-inside
   tmdb_id: null
@@ -80,3 +92,5 @@
   director: Alejandro Amenabar
   tags: { opacity: 1, stillness: 4, bleakness: 5, humor: 2, acclaim: 0.8 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
+  imdb_id: tt0369702
+  poster_url: https://m.media-amazon.com/images/M/MV5BNjFlNzg5ZTYtNDhkOC00Y2EwLTk2YzUtODNmZDMyOTMyMjhkXkEyXkFqcGc@._V1_SX300.jpg

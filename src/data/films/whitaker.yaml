@@ -10,6 +10,8 @@
   director: Kevin Macdonald
   tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 2, acclaim: 0.82 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+  imdb_id: tt0455590
+  poster_url: https://m.media-amazon.com/images/M/MV5BZDg4NjA0YzctNWMzMi00NmY1LTkyMGYtZjI4ZjFmZjMzMGE0XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-butler
   tmdb_id: null
@@ -19,6 +21,8 @@
   director: Lee Daniels
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 2, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt1327773
+  poster_url: https://m.media-amazon.com/images/M/MV5BMjM2NDY3MjkyMF5BMl5BanBnXkFtZTcwMDM5Nzg5OQ@@._V1_SX300.jpg
 
 - id: bird
   tmdb_id: null
@@ -28,6 +32,8 @@
   director: Clint Eastwood
   tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0094747
+  poster_url: https://m.media-amazon.com/images/M/MV5BOTViMmEwYjQtMTMxMS00YmVmLTk1NzEtODcxOGRmZjQ3MGEwXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: ghost-dog-the-way-of-the-samurai
   tmdb_id: null
@@ -42,6 +48,8 @@
     humor: 2
     acclaim: 0.75
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0165798
+  poster_url: https://m.media-amazon.com/images/M/MV5BYmIzNWI3MTMtNGY4Zi00YWIwLWEyMmQtZjcxOTdhNTQ0ZTE5XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: rogue-one
   tmdb_id: null
@@ -51,3 +59,5 @@
   director: Gareth Edwards
   tags: { opacity: 1, stillness: 1, bleakness: 4, humor: 1, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  imdb_id: tt22176242
+  poster_url: https://m.media-amazon.com/images/M/MV5BYmFjMGMwZTMtNmRlYi00MjJlLTk2NmItYjU4ZTA0MGJmOTE5XkEyXkFqcGc@._V1_SX300.jpg

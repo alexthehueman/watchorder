@@ -13,6 +13,8 @@
   director: F. Gary Gray
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.45 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0377471
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTUxNDc4MzAyNV5BMl5BanBnXkFtZTYwMzQ1NDc2._V1_SX300.jpg
 
 - id: prime
   tmdb_id: null
@@ -22,6 +24,8 @@
   director: Ben Younger
   tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 3, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  imdb_id: tt0387514
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTgxMDg4MjUyNV5BMl5BanBnXkFtZTYwMTgwNDU3._V1_SX300.jpg
 
 - id: gattaca
   tmdb_id: null
@@ -31,6 +35,8 @@
   director: Andrew Niccol
   tags: { opacity: 2, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
+  imdb_id: tt0119177
+  poster_url: https://m.media-amazon.com/images/M/MV5BZjQxNTc3YzQtZDA5ZC00MmM5LWE3NGYtMGE0Yjk3MDYwODVlXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-producers
   tmdb_id: null
@@ -40,6 +46,8 @@
   director: Susan Stroman
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 5, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  imdb_id: tt0395251
+  poster_url: https://m.media-amazon.com/images/M/MV5BMGVhNmRlMGYtYWM1ZC00ZWU1LWFhOTAtZGY2ZWVkYWIyN2I4XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: nymphomaniac-vol-2
   tmdb_id: null
@@ -54,3 +62,5 @@
     humor: 1
     acclaim: 0.65
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 3 }
+  imdb_id: tt2382009
+  poster_url: https://m.media-amazon.com/images/M/MV5BZDFlZGEwNzUtZWY2OS00MWE0LWEwMjEtMmUwZDQzZWRlYWRkXkEyXkFqcGc@._V1_SX300.jpg

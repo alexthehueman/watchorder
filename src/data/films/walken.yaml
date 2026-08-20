@@ -12,6 +12,8 @@
   director: Tim Burton
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 2, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0103776
+  poster_url: https://m.media-amazon.com/images/M/MV5BZTliMDVkYTktZDdlMS00NTAwLWJhNzYtMWIwMDZjN2ViMGFiXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: king-of-new-york
   tmdb_id: null
@@ -26,6 +28,8 @@
     humor: 1
     acclaim: 0.72
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+  imdb_id: tt0099939
+  poster_url: https://m.media-amazon.com/images/M/MV5BOTE2NDcxNzE4N15BMl5BanBnXkFtZTgwMDc1NTk4NjE@._V1_SX300.jpg
 
 - id: pennies-from-heaven
   tmdb_id: null
@@ -40,3 +44,5 @@
     humor: 2
     acclaim: 0.68
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 2 }
+  imdb_id: tt0082894
+  poster_url: https://m.media-amazon.com/images/M/MV5BOWZkZTM2YjMtZDgxNy00ODFhLWEzOGEtZGUxZTZmZWVkMTEzXkEyXkFqcGc@._V1_SX300.jpg

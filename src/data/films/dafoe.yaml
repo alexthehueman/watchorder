@@ -11,6 +11,8 @@
   director: Oliver Stone
   tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  imdb_id: tt0091763
+  poster_url: https://m.media-amazon.com/images/M/MV5BZjE4YjllODAtZGMxZS00Mjg2LThkOWUtZjNkMjQ5YThiNDU4XkEyXkFqcGc@._V1_QL75_UX380_CR0,16,380,562_.jpg
 
 - id: spider-man
   tmdb_id: null
@@ -20,6 +22,8 @@
   director: Sam Raimi
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0145487
+  poster_url: https://m.media-amazon.com/images/M/MV5BZWM0OWVmNTEtNWVkOS00MzgyLTkyMzgtMmE2ZTZiNjY4MmFiXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: shadow-of-the-vampire
   tmdb_id: null
@@ -34,6 +38,8 @@
     humor: 2
     acclaim: 0.72
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0189998
+  poster_url: https://m.media-amazon.com/images/M/MV5BODcwOWM4MDEtMTMxMS00Zjg0LWJiNmYtYzE5MDFlMWEyYTdhXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: antichrist
   tmdb_id: null
@@ -48,3 +54,5 @@
     humor: 1
     acclaim: 0.60
   content: { sexual_violence: true, animal_harm: true, child_harm: true, suicide: false, violence: 3, sex: 2 }
+  imdb_id: tt0870984
+  poster_url: https://m.media-amazon.com/images/M/MV5BMjE3MjQ2ODc1N15BMl5BanBnXkFtZTcwNjYyMzI5Mg@@._V1_SX300.jpg

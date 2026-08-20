@@ -24,6 +24,8 @@
   director: Nicholas Hytner
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0110428
+  poster_url: https://m.media-amazon.com/images/M/MV5BOWYyMDcyZDUtMzQ0ZC00ZDllLWI1MTMtZjM0M2I5N2JhNDgzXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-queen
   tmdb_id: null
@@ -33,6 +35,8 @@
   director: Stephen Frears
   tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 2, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0436697
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTQ3NTMxODg1Ml5BMl5BanBnXkFtZTcwMjEyMjczMQ@@._V1_SX300.jpg
 
 - id: the-last-station
   tmdb_id: null
@@ -42,6 +46,8 @@
   director: Michael Hoffman
   tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 2, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0824758
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTA4MTAzNTQzMDNeQTJeQWpwZ15BbWU3MDgzNTg2MDM@._V1_SX300.jpg
 
 - id: woman-in-gold
   tmdb_id: null
@@ -56,6 +62,8 @@
     humor: 2
     acclaim: 0.6
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt2404425
+  poster_url: https://m.media-amazon.com/images/M/MV5BNjc0NzY3OTE0Nl5BMl5BanBnXkFtZTgwNDUyODA4MzE@._V1_SX300.jpg
 
 - id: hitchcock
   tmdb_id: null
@@ -65,6 +73,8 @@
   director: Sacha Gervasi
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.58 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0975645
+  poster_url: https://m.media-amazon.com/images/M/MV5BODAwNDI5NjIwN15BMl5BanBnXkFtZTcwNjc4ODc2OA@@._V1_SX300.jpg
 
 - id: red
   tmdb_id: null
@@ -74,6 +84,8 @@
   director: Robert Schwentke
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.62 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt1245526
+  poster_url: https://m.media-amazon.com/images/M/MV5BMzg2Mjg1OTk0NF5BMl5BanBnXkFtZTcwMjQ4MTA3Mw@@._V1_SX300.jpg
 
 - id: eye-in-the-sky
   tmdb_id: null
@@ -88,3 +100,5 @@
     humor: 1
     acclaim: 0.78
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt2057392
+  poster_url: https://m.media-amazon.com/images/M/MV5BNTY4Nzg5MTU0OV5BMl5BanBnXkFtZTgwMjY2MjU2NzE@._V1_SX300.jpg

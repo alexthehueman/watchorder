@@ -11,6 +11,8 @@
   director: Lawrence Kasdan
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
+  imdb_id: tt0085244
+  poster_url: https://m.media-amazon.com/images/M/MV5BOTg3YWQ1MWItMTcxYy00NTczLWJiMDktYjkxMWExNDY3ZjI4XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: fatal-attraction
   tmdb_id: null
@@ -20,6 +22,8 @@
   director: Adrian Lyne
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 1 }
+  imdb_id: tt0093010
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTYxY2MxZGUtYWMwYi00YTI4LWE5MTItZjRiZDIzNzdhNWY3XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: 101-dalmatians
   tmdb_id: null
@@ -29,6 +33,8 @@
   director: Stephen Herek
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0115433
+  poster_url: https://m.media-amazon.com/images/M/MV5BOTA5MjAzZWYtZmQxMC00NWE0LWJkNWMtMzczNjg3ZTM1ZGRiXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: air-force-one
   tmdb_id: null
@@ -38,6 +44,8 @@
   director: Wolfgang Petersen
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.65 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0118571
+  poster_url: https://m.media-amazon.com/images/M/MV5BOTVlYmFhZjktOTA2ZC00Y2YzLWFmNDMtZGU2YzBkNGZkODY4XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: albert-nobbs
   tmdb_id: null
@@ -52,6 +60,8 @@
     humor: 1
     acclaim: 0.62
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt1602098
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTM1MjU1NTYzMV5BMl5BanBnXkFtZTcwODk2NzAwNw@@._V1_SX300.jpg
 
 - id: the-wife
   tmdb_id: null
@@ -66,3 +76,5 @@
     humor: 1
     acclaim: 0.75
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt3750872
+  poster_url: https://m.media-amazon.com/images/M/MV5BNjMyYzVjNzYtNzNjNS00NzliLThiYWUtYWJmMmI0Zjc0MmNjXkEyXkFqcGc@._V1_SX300.jpg

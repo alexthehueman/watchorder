@@ -12,6 +12,8 @@
   director: Martin Scorsese
   tags: { opacity: 2, stillness: 4, bleakness: 5, humor: 1, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0490215
+  poster_url: https://m.media-amazon.com/images/M/MV5BMjY3OTk0NjA2NV5BMl5BanBnXkFtZTgwNTg3Mjc2MDI@._V1_SX300.jpg
 
 - id: annette
   tmdb_id: null
@@ -26,6 +28,8 @@
     humor: 1
     acclaim: 0.62
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt6217926
+  poster_url: https://m.media-amazon.com/images/M/MV5BOTQxODc0NTMtMTlhOS00YjM4LTgzMTMtNDkxYmQ3MjczZTY4XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: paterson
   tmdb_id: null
@@ -35,6 +39,8 @@
   director: Jim Jarmusch
   tags: { opacity: 2, stillness: 5, bleakness: 2, humor: 2, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt5247022
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTUzODA4Nzk0OF5BMl5BanBnXkFtZTgwNzE1MDIwMDI@._V1_SX300.jpg
 
 - id: the-last-duel
   tmdb_id: null
@@ -49,6 +55,8 @@
     humor: 1
     acclaim: 0.72
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+  imdb_id: tt4244994
+  poster_url: https://m.media-amazon.com/images/M/MV5BZGZiNDFkNDgtNDlmNS00NzZmLTg4MmItMzJkYjdmMjJkZDliXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: house-of-gucci
   tmdb_id: null
@@ -58,6 +66,8 @@
   director: Ridley Scott
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 3, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  imdb_id: tt11214590
+  poster_url: https://m.media-amazon.com/images/M/MV5BMmQ3OTRiYWItMGRiOC00ZTVmLWJjMjEtNjZhNDQ5NjIxODNjXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: star-wars-the-last-jedi
   tmdb_id: null

@@ -13,6 +13,8 @@
   director: Phil Morrison
   tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 2, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0418773
+  poster_url: https://m.media-amazon.com/images/M/MV5BNWEzM2Y0ZWEtODZkMC00N2M1LTljNDctMzMxYzE0NzUyZDliXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: enchanted
   tmdb_id: null
@@ -22,6 +24,8 @@
   director: Kevin Lima
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.7 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0461770
+  poster_url: https://m.media-amazon.com/images/M/MV5BMjE4NDQ2Mjc0OF5BMl5BanBnXkFtZTcwNzQ2NDE1MQ@@._V1_SX300.jpg
 
 - id: nocturnal-animals
   tmdb_id: null
@@ -36,6 +40,8 @@
     humor: 1
     acclaim: 0.75
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  imdb_id: tt4550098
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTYwMzMwMzgxNl5BMl5BanBnXkFtZTgwMTA0MTUzMDI@._V1_SX300.jpg
 
 - id: arrival
   tmdb_id: null
@@ -50,4 +56,5 @@
     humor: 1
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
-
+  imdb_id: tt2543164
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTExMzU0ODcxNDheQTJeQWpwZ15BbWU4MDE1OTI4MzAy._V1_SX300.jpg

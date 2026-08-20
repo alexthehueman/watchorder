@@ -12,6 +12,8 @@
   director: Patty Jenkins
   tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.82 }
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+  imdb_id: tt0340855
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTI4NzI5NzEwNl5BMl5BanBnXkFtZTcwNjc1NjQyMQ@@._V1_SX300.jpg
 
 - id: young-adult
   tmdb_id: null
@@ -26,6 +28,8 @@
     humor: 3
     acclaim: 0.72
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt1625346
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTc4NzgyMjQwMV5BMl5BanBnXkFtZTcwNjMxODcwNw@@._V1_SX300.jpg
 
 - id: mad-max-fury-road
   tmdb_id: null
@@ -35,6 +39,8 @@
   director: George Miller
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.92 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  imdb_id: tt1392190
+  poster_url: https://m.media-amazon.com/images/M/MV5BZDRkODJhOTgtOTc1OC00NTgzLTk4NjItNDgxZDY4YjlmNDY2XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: atomic-blonde
   tmdb_id: null
@@ -49,6 +55,8 @@
     humor: 1
     acclaim: 0.68
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+  imdb_id: tt2406566
+  poster_url: https://m.media-amazon.com/images/M/MV5BMjM5NDYzMzg5N15BMl5BanBnXkFtZTgwOTM2NDU1MjI@._V1_SX300.jpg
 
 - id: tully
   tmdb_id: null
@@ -63,6 +71,8 @@
     humor: 2
     acclaim: 0.72
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt5610554
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTU0OTM4NTMyMF5BMl5BanBnXkFtZTgwNDA5MzUwNTM@._V1_SX300.jpg
 
 - id: snow-white-and-the-huntsman
   tmdb_id: null
@@ -72,6 +82,8 @@
   director: Rupert Sanders
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.5 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt1735898
+  poster_url: https://m.media-amazon.com/images/M/MV5BY2JjYWUyZjUtMDg3OS00MGIyLTgyN2QtYjIyY2VlYzViYThlXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: prometheus
   tmdb_id: null
@@ -86,6 +98,8 @@
     humor: 1
     acclaim: 0.62
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt1446714
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTY3NzIyNTA2NV5BMl5BanBnXkFtZTcwNzE2NjI4Nw@@._V1_SX300.jpg
 
 - id: long-shot
   tmdb_id: null
@@ -95,6 +109,8 @@
   director: Jonathan Levine
   tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 4, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  imdb_id: tt2139881
+  poster_url: https://m.media-amazon.com/images/M/MV5BY2E2NDIwMGUtNmFkZC00NDFjLWI5ZWMtMTE1M2E2YTM1OWVlXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: bombshell
   tmdb_id: null
@@ -104,3 +120,5 @@
   director: Jay Roach
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.65 }
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt6394270
+  poster_url: https://m.media-amazon.com/images/M/MV5BODY3ODVkYTAtZDFmNS00ZDYyLTlkOTEtNTY3NTFhNDE4ZjFjXkEyXkFqcGc@._V1_SX300.jpg

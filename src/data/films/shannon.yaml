@@ -16,6 +16,8 @@
     humor: 1
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt1675192
+  poster_url: https://m.media-amazon.com/images/M/MV5BNzgzODA5MTU3MF5BMl5BanBnXkFtZTcwODY4MDEwNg@@._V1_SX300.jpg
 
 - id: man-of-steel
   tmdb_id: null
@@ -25,6 +27,8 @@
   director: Zack Snyder
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.62 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  imdb_id: tt0770828
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTk5ODk1NDkxMF5BMl5BanBnXkFtZTcwNTA5OTY0OQ@@._V1_QL75_UY562_CR0,0,380,562_.jpg
 
 - id: midnight-special
   tmdb_id: null
@@ -39,6 +43,8 @@
     humor: 1
     acclaim: 0.72
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt2649554
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTUwNDcyNzkyOV5BMl5BanBnXkFtZTgwNzI1NzkyNzE@._V1_SX300.jpg
 
 - id: knives-out
   tmdb_id: null
@@ -48,3 +54,5 @@
   director: Rian Johnson
   tags: { opacity: 2, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt8946378
+  poster_url: https://m.media-amazon.com/images/M/MV5BZDU5ZTRkYmItZjg0Mi00ZTQwLThjMWItNWM3MTMxMzVjZmVjXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg

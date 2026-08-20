@@ -11,6 +11,8 @@
   director: Brian De Palma
   tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.82 }
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  imdb_id: tt0074285
+  poster_url: https://m.media-amazon.com/images/M/MV5BNjMwMDVlZjYtMWRlZS00OTU1LTlmYTQtOGViNTdmYTE0ZjRlXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: coal-miners-daughter
   tmdb_id: null
@@ -34,6 +36,8 @@
     humor: 1
     acclaim: 0.8
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt0084335
+  poster_url: https://m.media-amazon.com/images/M/MV5BYWZjMmViODItNGU2ZS00YWIxLTk0MDUtOTgxMTQ1OWUyYjYwXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: in-the-bedroom
   tmdb_id: null
@@ -43,4 +47,5 @@
   director: Todd Field
   tags: { opacity: 1, stillness: 4, bleakness: 5, humor: 1, acclaim: 0.82 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
-
+  imdb_id: tt0247425
+  poster_url: https://m.media-amazon.com/images/M/MV5BYTFmY2U1N2QtZWE5Mi00MjBjLTkyNjgtZmNkZTk2MTJlMTcxXkEyXkFqcGc@._V1_SX300.jpg

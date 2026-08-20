@@ -17,6 +17,8 @@
     humor: 1
     acclaim: 0.78
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0986233
+  poster_url: https://m.media-amazon.com/images/M/MV5BMDMwMWZmZjMtZmZkMS00MzNmLTlmNTUtY2MyYTdkYzRiZDg0XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: shame
   tmdb_id: null
@@ -26,6 +28,8 @@
   director: Steve McQueen
   tags: { opacity: 2, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 3 }
+  imdb_id: tt1723811
+  poster_url: https://m.media-amazon.com/images/M/MV5BM2I4YjYzYmQtNGM4Yy00NmYwLWEzYjUtMDBmNjYzZmViZWE3XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: x-men-first-class
   tmdb_id: null
@@ -35,6 +39,8 @@
   director: Matthew Vaughn
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt1270798
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTg5OTMxNzk4Nl5BMl5BanBnXkFtZTcwOTk1MjAwNQ@@._V1_QL75_UX380_CR0,0,380,562_.jpg
 
 - id: 12-years-a-slave
   tmdb_id: null
@@ -44,6 +50,8 @@
   director: Steve McQueen
   tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.9 }
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+  imdb_id: tt2024544
+  poster_url: https://m.media-amazon.com/images/M/MV5BMjExMTEzODkyN15BMl5BanBnXkFtZTcwNTU4NTc4OQ@@._V1_QL75_UX380_CR0,1,380,562_.jpg
 
 - id: macbeth-2015
   tmdb_id: null
@@ -58,3 +66,5 @@
     humor: 1
     acclaim: 0.68
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
+  imdb_id: tt2884018
+  poster_url: https://m.media-amazon.com/images/M/MV5BNzgyNDczMjU4NV5BMl5BanBnXkFtZTgwMTUwMDI3NjE@._V1_SX300.jpg

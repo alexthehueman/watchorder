@@ -14,6 +14,8 @@
   director: Woody Allen
   tags: { opacity: 2, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  imdb_id: tt0416320
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTQ1NzQ4OTM4MV5BMl5BanBnXkFtZTcwNzY2OTQzMw@@._V1_SX300.jpg
 
 - id: the-avengers
   tmdb_id: null
@@ -23,6 +25,8 @@
   director: Joss Whedon
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0848228
+  poster_url: https://m.media-amazon.com/images/M/MV5BNGE0YTVjNzUtNzJjOS00NGNlLTgxMzctZTY4YTE1Y2Y1ZTU4XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg
 
 - id: marriage-story
   tmdb_id: null
@@ -32,6 +36,8 @@
   director: Noah Baumbach
   tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 2, acclaim: 0.88 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt7653254
+  poster_url: https://m.media-amazon.com/images/M/MV5BNmE0OWJlM2MtNzhmMi00YmQyLTlmY2EtZmUzNzBiNGRlN2JkXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: jojo-rabbit
   tmdb_id: null
@@ -41,6 +47,8 @@
   director: Taika Waititi
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 4, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt2584384
+  poster_url: https://m.media-amazon.com/images/M/MV5BYmFmNmUyMjYtZTFjNS00OWQyLThhZmMtMGZkYTQ3YjY0ZDQ1XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: lucy
   tmdb_id: null
@@ -55,3 +63,5 @@
     humor: 1
     acclaim: 0.58
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  imdb_id: tt2872732
+  poster_url: https://m.media-amazon.com/images/M/MV5BODcxMzY3ODY1NF5BMl5BanBnXkFtZTgwNzg1NDY4MTE@._V1_SX300.jpg
