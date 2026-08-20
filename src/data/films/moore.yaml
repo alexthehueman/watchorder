@@ -1,0 +1,60 @@
+# New films for Julianne Moore. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Boogie Nights and Magnolia already exist in pta.yaml — tagged before she had an entity. The
+# Hours already exists in kidman.yaml — tagged before she had an entity. The Big Lebowski already
+# exists in coens.yaml — tagged before she had an entity.
+
+- id: safe
+  tmdb_id: null
+  title: Safe
+  year: 1995
+  runtime: 119
+  director: Todd Haynes
+  tags:
+    opacity: 4 # never diagnoses what's actually wrong with her, medically or otherwise
+    stillness: 5
+    bleakness: 4
+    humor: 1
+    acclaim: 0.78
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: far-from-heaven
+  tmdb_id: null
+  title: Far from Heaven
+  year: 2002
+  runtime: 107
+  director: Todd Haynes
+  tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.82 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-kids-are-all-right
+  tmdb_id: null
+  title: The Kids Are All Right
+  year: 2010
+  runtime: 106
+  director: Lisa Cholodenko
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: still-alice
+  tmdb_id: null
+  title: Still Alice
+  year: 2014
+  runtime: 101
+  director: Richard Glatzer
+  tags:
+    opacity: 2 # shot to put you inside her own encroaching disorientation, scene to scene
+    stillness: 3
+    bleakness: 5
+    humor: 1
+    acclaim: 0.75
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: maps-to-the-stars
+  tmdb_id: null
+  title: Maps to the Stars
+  year: 2014
+  runtime: 111
+  director: David Cronenberg
+  tags: { opacity: 3, stillness: 3, bleakness: 5, humor: 2, acclaim: 0.62 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 1 }

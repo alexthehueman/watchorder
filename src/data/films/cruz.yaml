@@ -1,0 +1,91 @@
+# New films for Penelope Cruz. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Vicky Cristina Barcelona already exists in bardem.yaml (a genuine dual lead with him — she won
+# an Oscar for it) — tagged before she had an entity.
+
+- id: all-about-my-mother
+  tmdb_id: null
+  title: All About My Mother
+  year: 1999
+  runtime: 101
+  director: Pedro Almodovar
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 2, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: talk-to-her
+  tmdb_id: null
+  title: Talk to Her
+  year: 2002
+  runtime: 112
+  director: Pedro Almodovar
+  tags:
+    opacity: 3 # a coma patient's inner life the film keeps deliberately, unsettlingly out of reach
+    stillness: 3
+    bleakness: 4
+    humor: 1
+    acclaim: 0.85
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: volver
+  tmdb_id: null
+  title: Volver
+  year: 2006
+  runtime: 121
+  director: Pedro Almodovar
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 3, acclaim: 0.85 }
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: broken-embraces
+  tmdb_id: null
+  title: Broken Embraces
+  year: 2009
+  runtime: 129
+  director: Pedro Almodovar
+  tags:
+    opacity: 4 # a blind director piecing together a tragedy from years earlier, one withheld reel at a time
+    stillness: 3
+    bleakness: 4
+    humor: 1
+    acclaim: 0.72
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: blow
+  tmdb_id: null
+  title: Blow
+  year: 2001
+  runtime: 124
+  director: Ted Demme
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: nine
+  tmdb_id: null
+  title: Nine
+  year: 2009
+  runtime: 118
+  director: Rob Marshall
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.48 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: pirates-of-the-caribbean-on-stranger-tides
+  tmdb_id: null
+  title: Pirates of the Caribbean On Stranger Tides
+  year: 2011
+  runtime: 137
+  director: Rob Marshall
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.52 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: parallel-mothers
+  tmdb_id: null
+  title: Parallel Mothers
+  year: 2021
+  runtime: 123
+  director: Pedro Almodovar
+  tags:
+    opacity: 2 # a maternity-ward mix-up the film sits on far longer than seems bearable
+    stillness: 3
+    bleakness: 4
+    humor: 1
+    acclaim: 0.82
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }

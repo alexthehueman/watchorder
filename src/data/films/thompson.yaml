@@ -1,0 +1,57 @@
+# New films for Emma Thompson. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Remains of the Day already exists in hopkins.yaml (a genuine dual lead) — tagged before she
+# had an entity. Sense and Sensibility already exists in winslet.yaml — tagged before she had an
+# entity (she also wrote the screenplay, and won an Oscar for it). In the Name of the Father
+# already exists in day-lewis.yaml (she plays his defense lawyer) — tagged before she had an
+# entity.
+
+- id: howards-end
+  tmdb_id: null
+  title: Howards End
+  year: 1992
+  runtime: 142
+  director: James Ivory
+  tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 2, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: love-actually
+  tmdb_id: null
+  title: Love Actually
+  year: 2003
+  runtime: 135
+  director: Richard Curtis
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: nanny-mcphee
+  tmdb_id: null
+  title: Nanny McPhee
+  year: 2005
+  runtime: 97
+  director: Kirk Jones
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 4, acclaim: 0.62 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: stranger-than-fiction
+  tmdb_id: null
+  title: Stranger than Fiction
+  year: 2006
+  runtime: 113
+  director: Marc Forster
+  tags:
+    opacity: 3 # a novelist whose narration is somehow audible to the man she's writing to death
+    stillness: 2
+    bleakness: 2
+    humor: 3
+    acclaim: 0.72
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: saving-mr-banks
+  tmdb_id: null
+  title: Saving Mr. Banks
+  year: 2013
+  runtime: 125
+  director: John Lee Hancock
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
