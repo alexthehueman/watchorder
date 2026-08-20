@@ -1,0 +1,93 @@
+# New films for Paul Bettany. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Avengers Age of Ultron already exists in olsen.yaml — tagged before he had an entity. A
+# Beautiful Mind and Master and Commander already exist in russell-crowe.yaml. Iron Man
+# already exists in downey.yaml.
+
+- id: a-knights-tale
+  tmdb_id: null
+  title: A Knight's Tale
+  year: 2001
+  runtime: 132
+  director: Brian Helgeland
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-da-vinci-code
+  tmdb_id: null
+  title: The Da Vinci Code
+  year: 2006
+  runtime: 149
+  director: Ron Howard
+  tags:
+    opacity: 2 # who's actually pulling the strings behind the murder stays hidden until the final reveal
+    stillness: 2
+    bleakness: 4
+    humor: 2
+    acclaim: 0.55
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: priest
+  tmdb_id: null
+  title: Priest
+  year: 2011
+  runtime: 87
+  director: Scott Stewart
+  tags:
+    opacity: 2 # how much of the church's own history he's willing to reveal stays withheld until it's forced out of him
+    stillness: 2
+    bleakness: 3
+    humor: 1
+    acclaim: 0.35
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: creation
+  tmdb_id: null
+  title: Creation
+  year: 2009
+  runtime: 108
+  director: Jon Amiel
+  tags:
+    opacity: 2 # how much of his crisis is scientific doubt versus unresolved grief stays deliberately blurred
+    stillness: 4
+    bleakness: 4
+    humor: 2
+    acclaim: 0.60
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 0 }
+
+- id: legion
+  tmdb_id: null
+  title: Legion
+  year: 2010
+  runtime: 100
+  director: Scott Stewart
+  tags:
+    opacity: 3 # whether following God's actual orders or defying them is the right call stays deliberately unresolved
+    stillness: 2
+    bleakness: 4
+    humor: 3
+    acclaim: 0.40
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
+
+- id: transcendence
+  tmdb_id: null
+  title: Transcendence
+  year: 2014
+  runtime: 119
+  director: Wally Pfister
+  tags:
+    opacity: 3 # whether the uploaded consciousness is really his old friend or something else entirely stays unresolved
+    stillness: 3
+    bleakness: 4
+    humor: 2
+    acclaim: 0.40
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: mortdecai
+  tmdb_id: null
+  title: Mortdecai
+  year: 2015
+  runtime: 106
+  director: David Koepp
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 4, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

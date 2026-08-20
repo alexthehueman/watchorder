@@ -1,0 +1,78 @@
+# New films for Hugh Laurie. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Sense and Sensibility already exists in winslet.yaml — tagged before he had an entity. 101
+# Dalmatians already exists in close.yaml.
+
+- id: flight-of-the-phoenix
+  tmdb_id: null
+  title: Flight of the Phoenix
+  year: 2004
+  runtime: 113
+  director: John Moore
+  tags:
+    opacity: 2 # whether the plan to rebuild the plane will actually work, or is a fantasy keeping them going, stays genuinely uncertain
+    stillness: 3
+    bleakness: 4
+    humor: 3
+    acclaim: 0.55
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: street-kings
+  tmdb_id: null
+  title: Street Kings
+  year: 2008
+  runtime: 109
+  director: David Ayer
+  tags:
+    opacity: 3 # how deep the department's own corruption goes, and who's actually complicit, stays hidden until it can't be
+    stillness: 3
+    bleakness: 5
+    humor: 1
+    acclaim: 0.55
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: stuart-little
+  tmdb_id: null
+  title: Stuart Little
+  year: 1999
+  runtime: 84
+  director: Rob Minkoff
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-man-in-the-iron-mask
+  tmdb_id: null
+  title: The Man in the Iron Mask
+  year: 1998
+  runtime: 132
+  director: Randall Wallace
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-oxford-murders
+  tmdb_id: null
+  title: The Oxford Murders
+  year: 2008
+  runtime: 108
+  director: Alex de la Iglesia
+  tags:
+    opacity: 3 # the mathematical logic behind the killings, and who's actually responsible, stays deliberately unclear until the reveal
+    stillness: 4
+    bleakness: 4
+    humor: 2
+    acclaim: 0.50
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: tomorrowland
+  tmdb_id: null
+  title: Tomorrowland
+  year: 2015
+  runtime: 130
+  director: Brad Bird
+  tags:
+    opacity: 2 # what's actually happened to the utopian future they're chasing stays unclear until it's finally reached
+    stillness: 2
+    bleakness: 4
+    humor: 3
+    acclaim: 0.52
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
