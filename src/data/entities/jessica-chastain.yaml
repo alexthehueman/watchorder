@@ -1,0 +1,84 @@
+slug: jessica-chastain
+kind: actor
+name: Jessica Chastain
+blurb: A composed, exacting intelligence deployed most often as the smartest person in a room full of men slow to realize it — a CIA analyst, a poker impresario, a Wall Street trader always several steps ahead.
+
+films:
+  - film: zero-dark-thirty
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A CIA analyst spending a decade single-mindedly tracking Osama bin Laden, playing obsession as the only rational response to the job.
+
+  - film: the-tree-of-life
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: warm
+    gateway: 2
+    note: A 1950s mother whose grace toward her children the film treats as its own kind of cosmology, set against a father's harder discipline.
+
+  - film: molly-s-game
+    signature: 3
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A former Olympic skier turned high-stakes poker impresario, narrating her own rise and federal prosecution with total command of every detail.
+
+  - film: the-eyes-of-tammy-faye
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: warm
+    gateway: 3
+    note: Televangelist Tammy Faye Bakker, playing sincerity and self-delusion as inseparable across a rise, scandal, and reinvention.
+
+  - film: interstellar
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: unhinged
+    gateway: 4
+    note: An adult daughter racing to solve a physics equation that could save humanity, carrying decades of resentment toward the father who left to find it.
+
+  - film: the-martian
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: restrained
+    gateway: 4
+    note: A mission commander forced to decide whether to turn her crew around and risk everything to rescue the man they left behind.
+
+  - film: a-most-violent-year
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: menacing
+    gateway: 3
+    note: A heating-oil company owner's wife, whose willingness to get her hands dirty exceeds her husband's by a wide margin.
+
+  - film: the-help
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: warm
+    gateway: 4
+    note: A social outcast among Jackson's housewives who befriends her Black maid out of genuine loneliness rather than performed liberalism.
+
+curated:
+  curator: house
+  rationale: The two performances that show the range of the composed intelligence first, then everywhere else it's applied.
+  order:
+    - zero-dark-thirty
+    - the-martian
+    - the-help
+    - the-eyes-of-tammy-faye
+    - interstellar
+    - a-most-violent-year
+    - molly-s-game
+    - the-tree-of-life

@@ -1,0 +1,26 @@
+# New films for Jessica Chastain. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Tree of Life already exists in malick.yaml — tagged before she had an entity. Interstellar
+# already exists in mcconaughey.yaml — tagged before she had an entity. The Help already exists
+# in viola-davis.yaml — tagged before she had an entity. Molly's Game already exists in
+# elba.yaml (she's the title lead, he plays her lawyer) — tagged before she had an entity. A
+# Most Violent Year already exists in isaac.yaml (a genuine dual lead) — tagged before she had
+# an entity. The Martian already exists in damon.yaml — tagged before she had an entity.
+
+- id: zero-dark-thirty
+  tmdb_id: null
+  title: Zero Dark Thirty
+  year: 2012
+  runtime: 157
+  director: Kathryn Bigelow
+  tags: { opacity: 2, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: the-eyes-of-tammy-faye
+  tmdb_id: null
+  title: The Eyes of Tammy Faye
+  year: 2021
+  runtime: 126
+  director: Michael Showalter
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.58 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

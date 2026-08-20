@@ -1,0 +1,65 @@
+slug: john-krasinski
+kind: actor
+name: John Krasinski
+blurb: Spent a decade as television's most reliable deadpan everyman before proving, mostly behind and in front of his own camera, that the same steadiness could anchor genuine horror.
+
+films:
+  - film: a-quiet-place
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: A father protecting his family from sound-hunting creatures in near-total silence, directing the film himself as a showcase for exactly how much tension quiet can hold.
+
+  - film: 13-hours
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A private security contractor defending the Benghazi diplomatic compound through one overnight siege, playing competence under fire without a trace of his comic persona.
+
+  - film: a-quiet-place-part-ii
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: restrained
+    gateway: 3
+    note: A brief return as the father from the first film, present mainly in the opening flashback to the day everything changed.
+
+  - film: away-we-go
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: A soon-to-be father touring the country with his pregnant partner to find the right place to raise their child, playing gentle uncertainty as the film's whole register.
+
+  - film: leatherheads
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 5
+    note: A college football star and war hero recruited into a fledgling professional league, playing wholesome celebrity as an easy comic target.
+
+  - film: license-to-wed
+    signature: 2
+    showcase: 2
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: A groom-to-be subjected to an overbearing reverend's marriage-prep gauntlet, playing exasperation as pure, broad comedy.
+
+curated:
+  curator: house
+  rationale: The performance that shows the range past the deadpan persona first, then the persona itself.
+  order:
+    - a-quiet-place
+    - license-to-wed
+    - leatherheads
+    - away-we-go
+    - a-quiet-place-part-ii
+    - 13-hours
