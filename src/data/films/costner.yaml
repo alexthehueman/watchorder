@@ -1,0 +1,63 @@
+# New films for Kevin Costner. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Bull Durham already exists in sarandon.yaml — tagged before he had an entity. JFK already
+# exists in oldman.yaml — tagged before he had an entity.
+
+- id: the-untouchables
+  tmdb_id: null
+  title: The Untouchables
+  year: 1987
+  runtime: 119
+  director: Brian De Palma
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.82 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
+
+- id: field-of-dreams
+  tmdb_id: null
+  title: Field of Dreams
+  year: 1989
+  runtime: 107
+  director: Phil Alden Robinson
+  tags: { opacity: 2, stillness: 3, bleakness: 2, humor: 1, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: dances-with-wolves
+  tmdb_id: null
+  title: Dances with Wolves
+  year: 1990
+  runtime: 181
+  director: Kevin Costner
+  tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.82 }
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: tin-cup
+  tmdb_id: null
+  title: Tin Cup
+  year: 1996
+  runtime: 135
+  director: Ron Shelton
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: the-bodyguard
+  tmdb_id: null
+  title: The Bodyguard
+  year: 1992
+  runtime: 130
+  director: Mick Jackson
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.62 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: mr-brooks
+  tmdb_id: null
+  title: Mr Brooks
+  year: 2007
+  runtime: 120
+  director: Bruce A. Evans
+  tags:
+    opacity: 2 # a serial killer whose internal "addiction" voice the film treats as literally another character
+    stillness: 2
+    bleakness: 5
+    humor: 1
+    acclaim: 0.62
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

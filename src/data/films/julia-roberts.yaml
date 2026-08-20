@@ -1,0 +1,56 @@
+# New films for Julia Roberts. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Ocean's Eleven already exists in pitt.yaml — tagged before she had an entity. August: Osage
+# County already exists in streep.yaml (a genuine dual lead, mother and daughter) — tagged
+# before she had an entity.
+
+- id: pretty-woman
+  tmdb_id: null
+  title: Pretty Woman
+  year: 1990
+  runtime: 119
+  director: Garry Marshall
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: steel-magnolias
+  tmdb_id: null
+  title: Steel Magnolias
+  year: 1989
+  runtime: 118
+  director: Herbert Ross
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 3, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: erin-brockovich
+  tmdb_id: null
+  title: Erin Brockovich
+  year: 2000
+  runtime: 131
+  director: Steven Soderbergh
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.8 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: notting-hill
+  tmdb_id: null
+  title: Notting Hill
+  year: 1999
+  runtime: 124
+  director: Roger Michell
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: closer
+  tmdb_id: null
+  title: Closer
+  year: 2004
+  runtime: 104
+  director: Mike Nichols
+  tags:
+    opacity: 2 # a play-turned-film that withholds what's actually true across four unreliable narrators
+    stillness: 2
+    bleakness: 5
+    humor: 1
+    acclaim: 0.75
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+

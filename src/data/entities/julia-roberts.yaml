@@ -1,0 +1,75 @@
+slug: julia-roberts
+kind: actor
+name: Julia Roberts
+blurb: The megawatt smile made her the biggest movie star of the '90s, and her best work since has been finding out what that same warmth looks like under real pressure.
+
+films:
+  - film: pretty-woman
+    signature: 5
+    must_see: true
+    showcase: 4
+    role_size: lead
+    register: warm
+    gateway: 5
+    note: A Hollywood Boulevard sex worker hired for a week by a corporate raider, in the romantic comedy that made her a star overnight.
+
+  - film: erin-brockovich
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 4
+    note: An unemployed single mother turned legal assistant, building a case against a utility company through sheer stubborn nerve. Won her the Oscar.
+
+  - film: closer
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 2
+    note: A photographer caught in a cruel, four-way romantic tangle that strips the warmth out of her persona entirely.
+
+  - film: steel-magnolias
+    signature: 4
+    showcase: 4
+    role_size: supporting
+    register: warm
+    gateway: 4
+    note: A young Louisiana bride managing a life-threatening diabetes diagnosis with the same defiant humor as everyone else in her small-town circle of friends.
+
+  - film: notting-hill
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: warm
+    gateway: 5
+    note: A world-famous American actress who falls for the owner of a failing travel bookshop in London, playing fame as isolating rather than glamorous.
+
+  - film: august-osage-county
+    signature: 3
+    showcase: 4
+    role_size: supporting
+    register: menacing
+    gateway: 3
+    note: The eldest daughter of a pill-addicted, viciously sharp-tongued mother, matching her volley for volley at a family dinner that curdles fast.
+
+  - film: oceans-eleven
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: restrained
+    gateway: 5
+    note: A casino owner's estranged wife whose approval, unknown to her, is the actual point of the entire heist.
+
+curated:
+  curator: house
+  rationale: The performance that made her a star first, then the range around it.
+  order:
+    - pretty-woman
+    - notting-hill
+    - oceans-eleven
+    - steel-magnolias
+    - erin-brockovich
+    - august-osage-county
+    - closer

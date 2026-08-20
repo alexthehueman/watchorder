@@ -78,6 +78,14 @@ films:
     gateway: 4
     note: A small-town lawyer who gets high for the first time. The film that made him a star.
 
+  - film: the-passenger
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A journalist who assumes a dead stranger's identity, in an Antonioni film that lets the swap unravel his sense of self almost wordlessly.
+
   - film: about-schmidt
     signature: 3
     showcase: 4
@@ -98,4 +106,5 @@ curated:
     - prizzis-honor
     - the-shining
     - five-easy-pieces
+    - the-passenger
     - about-schmidt
