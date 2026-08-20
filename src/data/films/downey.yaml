@@ -1,0 +1,90 @@
+# New films for Robert Downey Jr. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Oppenheimer already exists in cillian-murphy.yaml — tagged before he had an entity.
+
+- id: iron-man
+  tmdb_id: null
+  title: Iron Man
+  year: 2008
+  runtime: 126
+  director: Jon Favreau
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.79 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: tropic-thunder
+  tmdb_id: null
+  title: Tropic Thunder
+  year: 2008
+  runtime: 107
+  director: Ben Stiller
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 5, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: chaplin
+  tmdb_id: null
+  title: Chaplin
+  year: 1992
+  runtime: 143
+  director: Richard Attenborough
+  tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 2, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: zodiac
+  tmdb_id: null
+  title: Zodiac
+  year: 2007
+  runtime: 157
+  director: David Fincher
+  tags:
+    opacity: 4 # a killer never conclusively identified, and the film refuses to grant its investigators any closure
+    stillness: 3
+    bleakness: 4
+    humor: 1
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: sherlock-holmes
+  tmdb_id: null
+  title: Sherlock Holmes
+  year: 2009
+  runtime: 128
+  director: Guy Ritchie
+  tags: { opacity: 2, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: kiss-kiss-bang-bang
+  tmdb_id: null
+  title: Kiss Kiss Bang Bang
+  year: 2005
+  runtime: 103
+  director: Shane Black
+  tags:
+    opacity: 2 # a noir plot that keeps re-tangling itself, narrated by someone openly unreliable about it
+    stillness: 1
+    bleakness: 2
+    humor: 4
+    acclaim: 0.72
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: a-scanner-darkly
+  tmdb_id: null
+  title: A Scanner Darkly
+  year: 2006
+  runtime: 100
+  director: Richard Linklater
+  tags:
+    opacity: 4 # rotoscoped surveillance and drug-induced identity collapse the film never fully untangles
+    stillness: 2
+    bleakness: 4
+    humor: 2
+    acclaim: 0.68
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-judge
+  tmdb_id: null
+  title: The Judge
+  year: 2014
+  runtime: 141
+  director: David Dobkin
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.58 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

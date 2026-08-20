@@ -1,0 +1,85 @@
+slug: anne-hathaway
+kind: actor
+name: Anne Hathaway
+blurb: Started as the studio's go-to fairy-tale ingenue, then spent the years since deliberately proving how much darker and stranger she could get.
+
+films:
+  - film: the-princess-diaries
+    signature: 4
+    must_see: true
+    showcase: 2
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: An awkward San Francisco teenager discovering she's heir to a European throne, playing the transformation from invisible to royal as pure wish fulfillment. Her breakout role.
+
+  - film: les-miserables
+    signature: 4
+    must_see: true
+    showcase: 5
+    role_size: supporting
+    register: unhinged
+    gateway: 2
+    note: A factory worker's descent into destitution and prostitution, built almost entirely around one unbroken, single-take musical number.
+
+  - film: rachel-getting-married
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 2
+    note: A recovering addict returning home for her sister's wedding, playing raw self-sabotage against a family still circling old, unspoken damage.
+
+  - film: the-devil-wears-prada
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: warm
+    gateway: 5
+    note: An aspiring journalist grinding through an assistant job at a brutal fashion magazine, playing her own gradual, uncomfortable assimilation into that world.
+
+  - film: brokeback-mountain
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: restrained
+    gateway: 2
+    note: A rancher's wife slowly realizing, and then quietly living with, what her husband's real life actually is.
+
+  - film: the-dark-knight-rises
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: comic
+    gateway: 4
+    note: A cat burglar playing every allegiance as a live negotiation, never quite confirming which side she's actually on until she has to.
+
+  - film: colossal
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: unhinged
+    gateway: 3
+    note: An unemployed alcoholic who discovers her movements somehow control a monster destroying Seoul, playing personal rock-bottom as literal disaster.
+
+  - film: interstellar
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: restrained
+    gateway: 3
+    note: A scientist on a mission to find humanity a new home, playing clear-eyed resolve against colleagues who keep prioritizing the math over the people left behind.
+
+curated:
+  curator: house
+  rationale: The role that made her a star first, then the range she spent the years since proving.
+  order:
+    - the-princess-diaries
+    - the-devil-wears-prada
+    - the-dark-knight-rises
+    - brokeback-mountain
+    - colossal
+    - interstellar
+    - rachel-getting-married
+    - les-miserables
+

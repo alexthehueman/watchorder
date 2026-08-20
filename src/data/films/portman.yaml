@@ -1,0 +1,60 @@
+# New films for Natalie Portman. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Black Swan already exists in cassel.yaml — tagged before she had an entity. Closer already
+# exists in julia-roberts.yaml — tagged before she had an entity. Léon: The Professional already
+# exists in oldman.yaml — tagged before she had an entity.
+
+- id: v-for-vendetta
+  tmdb_id: null
+  title: V for Vendetta
+  year: 2005
+  runtime: 132
+  director: James McTeigue
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.73 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: jackie
+  tmdb_id: null
+  title: Jackie
+  year: 2016
+  runtime: 100
+  director: Pablo Larrain
+  tags:
+    opacity: 3 # a grief the film keeps refusing to let resolve into a clean public performance
+    stillness: 4
+    bleakness: 5
+    humor: 1
+    acclaim: 0.81
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: garden-state
+  tmdb_id: null
+  title: Garden State
+  year: 2004
+  runtime: 102
+  director: Zach Braff
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.7 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: annihilation
+  tmdb_id: null
+  title: Annihilation
+  year: 2018
+  runtime: 115
+  director: Alex Garland
+  tags:
+    opacity: 4 # what the shimmer actually is, or does, is never resolved even by the film's own ending
+    stillness: 3
+    bleakness: 4
+    humor: 1
+    acclaim: 0.75
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: star-wars-episode-i-the-phantom-menace
+  tmdb_id: null
+  title: Star Wars Episode I The Phantom Menace
+  year: 1999
+  runtime: 136
+  director: George Lucas
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.51 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

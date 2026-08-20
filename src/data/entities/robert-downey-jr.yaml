@@ -1,0 +1,93 @@
+slug: robert-downey-jr
+kind: actor
+name: Robert Downey Jr.
+blurb: Built a comeback on a wit fast enough to outrun any script, then spent the run proving underneath all the quips there was real craft that never left.
+
+films:
+  - film: iron-man
+    signature: 5
+    must_see: true
+    showcase: 4
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: A billionaire arms manufacturer building a suit of armor after a near-death experience abroad, playing genius and self-regard as the same impulse.
+
+  - film: oppenheimer
+    signature: 3
+    must_see: true
+    showcase: 5
+    role_size: supporting
+    register: restrained
+    gateway: 3
+    note: A bureaucrat whose petty grudge against the film's subject the story only reveals gradually was driving the whole account all along.
+
+  - film: chaplin
+    signature: 3
+    showcase: 5
+    role_size: lead
+    register: warm
+    gateway: 2
+    note: A biopic performance built almost entirely from physical mimicry, tracing the silent-film legend from music hall to disgraced old age.
+
+  - film: zodiac
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: unhinged
+    gateway: 3
+    note: A hard-drinking newspaper reporter whose obsession with an unsolved serial killer case slowly consumes his own life.
+
+  - film: tropic-thunder
+    signature: 4
+    showcase: 4
+    role_size: supporting
+    register: comic
+    gateway: 4
+    note: A committed method actor undergoing a controversial skin-darkening procedure to play a role, staying fully in character no matter how absurd it gets.
+
+  - film: sherlock-holmes
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 4
+    note: A brilliant, dissolute detective, playing deductive genius as barely restrained mania rather than cool composure.
+
+  - film: kiss-kiss-bang-bang
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 3
+    note: A small-time thief who stumbles into an acting career and a murder investigation, narrating his own increasingly tangled involvement.
+
+  - film: the-judge
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: warm
+    gateway: 2
+    note: A slick big-city defense attorney forced home to defend his estranged, ailing father against a murder charge.
+
+  - film: a-scanner-darkly
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: unhinged
+    gateway: 1
+    note: An undercover narcotics agent whose own drug use is dissolving his ability to tell which identity he's actually operating under.
+
+curated:
+  curator: house
+  rationale: The role that made the comeback, then the one that proved it was never just charm.
+  order:
+    - kiss-kiss-bang-bang
+    - tropic-thunder
+    - iron-man
+    - sherlock-holmes
+    - the-judge
+    - zodiac
+    - a-scanner-darkly
+    - chaplin
+    - oppenheimer
