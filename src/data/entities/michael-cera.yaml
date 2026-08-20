@@ -1,0 +1,93 @@
+slug: michael-cera
+kind: actor
+name: Michael Cera
+blurb: Built a career on a stammering, hyper-articulate awkwardness so specific it defined an entire strain of 2000s comedy, then spent the years since finding new angles on it.
+
+films:
+  - film: superbad
+    signature: 5
+    must_see: true
+    showcase: 4
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: A neurotic, over-planning high schooler determined to lose his virginity before graduation, playing anxious overthinking as the film's whole comic rhythm.
+
+  - film: juno
+    signature: 5
+    must_see: true
+    showcase: 3
+    role_size: supporting
+    register: warm
+    gateway: 5
+    note: A quietly devoted, easily flustered boyfriend supporting his girlfriend through an unplanned pregnancy, playing understated sincerity against her rapid-fire wit.
+
+  - film: scott-pilgrim-vs-the-world
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: comic
+    gateway: 2
+    note: A slacker musician who must defeat his new girlfriend's seven evil exes in literal video-game combat, playing deadpan confusion against a reality that keeps breaking its own rules.
+
+  - film: youth-in-revolt
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: comic
+    gateway: 3
+    note: A meek teenager who invents a suave, dangerous alter ego to win over the girl he's obsessed with, playing both halves of the same person as genuinely distinct people.
+
+  - film: nick-and-norahs-infinite-playlist
+    signature: 3
+    showcase: 2
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: A heartbroken bassist roped into a night-long scavenger hunt across New York, playing wounded earnestness as the thing that eventually wins someone over.
+
+  - film: this-is-the-end
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: unhinged
+    gateway: 3
+    note: A cocaine-fueled, aggressively obnoxious version of himself at a party interrupted by the actual apocalypse, playing total image subversion as the film's best joke.
+
+  - film: magic-magic
+    signature: 3
+    showcase: 4
+    role_size: supporting
+    register: menacing
+    gateway: 1
+    note: A vacationing friend whose unsettling, needling fixation on a fragile young woman starts to look like it's actively tipping her over the edge.
+
+  - film: 20th-century-women
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: restrained
+    gateway: 2
+    note: A quiet, steady tenant in a shared 1979 Santa Barbara household, playing understated warmth well outside his usual anxious comic register.
+
+  - film: crystal-fairy-and-the-magical-cactus
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: menacing
+    gateway: 2
+    note: An abrasive, self-absorbed American traveling through Chile in search of a hallucinogenic cactus, playing entitled irritation as a rare, unflattering register for him.
+
+curated:
+  curator: house
+  rationale: The two performances that defined the persona first, then everywhere else it gets bent, inverted, or played completely straight.
+  order:
+    - nick-and-norahs-infinite-playlist
+    - juno
+    - superbad
+    - youth-in-revolt
+    - scott-pilgrim-vs-the-world
+    - this-is-the-end
+    - 20th-century-women
+    - magic-magic
+    - crystal-fairy-and-the-magical-cactus

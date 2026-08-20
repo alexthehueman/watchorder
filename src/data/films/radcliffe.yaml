@@ -1,0 +1,59 @@
+# New films for Daniel Radcliffe. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Harry Potter and the Deathly Hallows Part 2 already exists in watson.yaml — tagged before he
+# had an entity.
+
+- id: swiss-army-man
+  tmdb_id: null
+  title: Swiss Army Man
+  year: 2016
+  runtime: 97
+  director: Dan Kwan
+  tags:
+    opacity: 3 # a flatulent corpse that talks, and the film never signals whether any of it is really happening
+    stillness: 2
+    bleakness: 3
+    humor: 4
+    acclaim: 0.68
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 1 }
+
+- id: kill-your-darlings
+  tmdb_id: null
+  title: Kill Your Darlings
+  year: 2013
+  runtime: 104
+  director: John Krokidas
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: the-woman-in-black
+  tmdb_id: null
+  title: The Woman in Black
+  year: 2012
+  runtime: 95
+  director: James Watkins
+  tags: { opacity: 2, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.62 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: true, violence: 1, sex: 0 }
+
+- id: horns
+  tmdb_id: null
+  title: Horns
+  year: 2013
+  runtime: 120
+  director: Alexandre Aja
+  tags:
+    opacity: 3 # a murder investigation entangled with an actual supernatural transformation, and the film keeps both mysteries open at once
+    stillness: 2
+    bleakness: 4
+    humor: 2
+    acclaim: 0.55
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: guns-akimbo
+  tmdb_id: null
+  title: Guns Akimbo
+  year: 2019
+  runtime: 95
+  director: Jason Lei Howden
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.52 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
