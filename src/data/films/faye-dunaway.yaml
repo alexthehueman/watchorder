@@ -1,0 +1,27 @@
+# New films for Faye Dunaway. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Chinatown already exists in nicholson.yaml — tagged before she had an entity.
+# Bonnie and Clyde already exists in hackman.yaml.
+
+- id: network
+  tmdb_id: null
+  title: Network
+  year: 1976
+  runtime: 121
+  director: Sidney Lumet
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 3, acclaim: 0.88 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: mommie-dearest
+  tmdb_id: null
+  title: Mommie Dearest
+  year: 1981
+  runtime: 129
+  director: Frank Perry
+  tags:
+    opacity: 1
+    stillness: 1 # frantic, escalating melodrama rather than the slower-burn dramas around it
+    bleakness: 4
+    humor: 2
+    acclaim: 0.35
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }

@@ -1,0 +1,47 @@
+slug: faye-dunaway
+kind: actor
+name: Faye Dunaway
+blurb: A cool, brittle glamour that could turn razor-sharp or fully unhinged without warning, across three of New Hollywood's defining dramas.
+
+films:
+  - film: chinatown
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A guarded woman hiding a devastating family secret, playing brittle, carefully maintained control.
+
+  - film: network
+    signature: 5
+    showcase: 5
+    role_size: lead
+    register: menacing
+    gateway: 3
+    note: A ruthlessly ambitious television executive who'll exploit anything for ratings, playing cold, predatory ambition.
+
+  - film: bonnie-and-clyde
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: unhinged
+    gateway: 3
+    note: A restless small-town waitress swept into a life of thrill-seeking crime, playing reckless, romanticized doom.
+
+  - film: mommie-dearest
+    signature: 3
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 1
+    note: A controlling, image-obsessed mother whose love curdles into terror, playing volatile, full-throttle menace.
+
+curated:
+  curator: house
+  rationale: The most acclaimed classic first, then the Oscar-winning performance, then the career-defining early role, ending on the infamous late curiosity.
+  order:
+    - chinatown
+    - network
+    - bonnie-and-clyde
+    - mommie-dearest

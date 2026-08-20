@@ -1,0 +1,47 @@
+slug: jane-fonda
+kind: actor
+name: Jane Fonda
+blurb: A guarded, quietly formidable screen presence that moved between paranoid 70s thrillers, socially engaged drama and broad workplace comedy.
+
+films:
+  - film: klute
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A call girl caught up in a missing-persons case and unsure who she can trust, playing guarded, self-protective control.
+
+  - film: coming-home
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: warm
+    gateway: 3
+    note: A dutiful wife discovering real connection while her husband is at war, playing quiet, dawning awakening.
+
+  - film: 9-to-5
+    signature: 4
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: One of three coworkers turning the tables on a sexist, incompetent boss, playing wound-tight, satisfying comic revenge.
+
+  - film: on-golden-pond
+    signature: 3
+    showcase: 4
+    role_size: supporting
+    register: restrained
+    gateway: 3
+    note: A daughter working through decades of distance with her father, playing careful, guarded reconciliation.
+
+curated:
+  curator: house
+  rationale: The Oscar-winning performance first, then the socially engaged drama, then the broad comedy and family drama around it.
+  order:
+    - klute
+    - coming-home
+    - 9-to-5
+    - on-golden-pond

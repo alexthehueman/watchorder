@@ -1,0 +1,13 @@
+# New films for Jon Voight. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Midnight Cowboy already exists in hoffman.yaml — tagged before he had an entity.
+# Deliverance already exists in burt-reynolds.yaml. Runaway Train already exists in cannon.yaml.
+
+- id: coming-home
+  tmdb_id: null
+  title: Coming Home
+  year: 1978
+  runtime: 127
+  director: Hal Ashby
+  tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
