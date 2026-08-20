@@ -1,0 +1,65 @@
+slug: margaret-qualley
+kind: actor
+name: Margaret Qualley
+blurb: A trained dancer's physical control redirected into performances that keep testing exactly how far a body can be pushed before the person inside it gives out.
+
+films:
+  - film: the-substance
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 1
+    note: The younger, "perfected" self an aging star creates through a black-market drug, playing vanity's logical endpoint as the film escalates past anything reasonable.
+
+  - film: poor-things
+    signature: 4
+    showcase: 4
+    role_size: supporting
+    register: comic
+    gateway: 2
+    note: A brothel madam guiding a childlike woman's education in pleasure and philosophy, playing pragmatic worldliness with real, unbothered warmth underneath it.
+
+  - film: novitiate
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A young novice testing her devotion against a convent's rigid, punishing discipline during Vatican II reforms, playing faith as something genuinely, physically costly.
+
+  - film: kinds-of-kindness
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: menacing
+    gateway: 1
+    note: A recurring presence across three unconnected stories, playing calm, unexplained menace the film never bothers to justify.
+
+  - film: drive-away-dolls
+    signature: 3
+    showcase: 2
+    role_size: lead
+    register: comic
+    gateway: 4
+    note: A free-spirited woman dragging her more uptight friend into an accidental crime-comedy road trip, playing chaos as pure, unbothered fun.
+
+  - film: once-upon-a-time-in-hollywood
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: warm
+    gateway: 3
+    note: A young hitchhiker whose easy charm briefly disarms a suspicious stuntman before revealing exactly who she's actually traveling with.
+
+curated:
+  curator: house
+  rationale: The two performances built on how far a controlled body can be pushed, then everywhere else that same physical precision gets put to smaller use.
+  order:
+    - once-upon-a-time-in-hollywood
+    - drive-away-dolls
+    - kinds-of-kindness
+    - poor-things
+    - novitiate
+    - the-substance

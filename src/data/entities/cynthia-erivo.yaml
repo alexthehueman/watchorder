@@ -1,0 +1,57 @@
+slug: cynthia-erivo
+kind: actor
+name: Cynthia Erivo
+blurb: A trained stage voice and a real physical intensity that reads equally well as quiet, controlled resolve or as the biggest thing in the room the moment a musical number calls for it.
+
+films:
+  - film: harriet
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A biopic of Harriet Tubman's escape from slavery and her repeated returns south to free others, playing physical resolve without ever softening the danger of the choice.
+
+  - film: wicked
+    signature: 5
+    must_see: true
+    showcase: 4
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: A green-skinned outcast discovering real magical power and real friendship at a school built to reject her, playing wounded defiance warming into genuine hope.
+
+  - film: the-color-purple-2023
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A woman enduring decades of abuse and separation from her sister, playing endurance across a musical adaptation that never lets the songs soften the material.
+
+  - film: bad-times-at-the-el-royale
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: warm
+    gateway: 2
+    note: A struggling soul singer with a hidden past checking into a rundown hotel full of other people's secrets, playing wary self-protection that gradually opens up.
+
+  - film: widows
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: restrained
+    gateway: 3
+    note: A hairdresser and single mother recruited into a heist she has no experience for, playing practical, unglamorous resolve alongside the film's other widows.
+
+curated:
+  curator: house
+  rationale: The performance built entirely on physical resolve first, then everywhere the trained voice and the same resolve gets put to different use.
+  order:
+    - wicked
+    - widows
+    - bad-times-at-the-el-royale
+    - the-color-purple-2023
+    - harriet

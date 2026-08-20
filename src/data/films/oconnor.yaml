@@ -1,0 +1,44 @@
+# New films for Josh O'Connor. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Challengers already exists in zendaya.yaml — tagged before he had an entity.
+
+- id: gods-own-country
+  tmdb_id: null
+  title: God's Own Country
+  year: 2017
+  runtime: 104
+  director: Francis Lee
+  tags: { opacity: 1, stillness: 4, bleakness: 4, humor: 1, acclaim: 0.82 }
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: la-chimera
+  tmdb_id: null
+  title: La Chimera
+  year: 2023
+  runtime: 133
+  director: Alice Rohrwacher
+  tags:
+    opacity: 4 # a grief-driven gift for finding buried tombs the film never explains and never fully separates from magical realism
+    stillness: 4
+    bleakness: 4
+    humor: 2
+    acclaim: 0.78
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: mothering-sunday
+  tmdb_id: null
+  title: Mothering Sunday
+  year: 2021
+  runtime: 104
+  director: Eva Husson
+  tags: { opacity: 2, stillness: 4, bleakness: 4, humor: 1, acclaim: 0.58 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+
+- id: emma-2020
+  tmdb_id: null
+  title: Emma.
+  year: 2020
+  runtime: 125
+  director: Autumn de Wilde
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 3, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
