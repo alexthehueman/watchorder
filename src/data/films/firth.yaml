@@ -1,0 +1,60 @@
+# New films for Colin Firth. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Love Actually already exists in thompson.yaml — tagged before he had an entity. Tinker Tailor
+# Soldier Spy (2011) already exists in oldman.yaml — tagged before he had an entity. Mamma Mia!
+# already exists in streep.yaml — tagged before he had an entity.
+
+- id: bridget-joness-diary
+  tmdb_id: null
+  title: Bridget Jones's Diary
+  year: 2001
+  runtime: 97
+  director: Sharon Maguire
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 4, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: a-single-man
+  tmdb_id: null
+  title: A Single Man
+  year: 2009
+  runtime: 99
+  director: Tom Ford
+  tags:
+    opacity: 2
+    stillness: 5 # a single day spent deciding whether it will be his last, told almost entirely through composure
+    bleakness: 5
+    humor: 1
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
+
+- id: the-kings-speech
+  tmdb_id: null
+  title: The King's Speech
+  year: 2010
+  runtime: 118
+  director: Tom Hooper
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-railway-man
+  tmdb_id: null
+  title: The Railway Man
+  year: 2013
+  runtime: 116
+  director: Jonathan Teplitzky
+  tags:
+    opacity: 2
+    stillness: 3
+    bleakness: 5 # a WWII POW's trauma the film only lets the audience fully understand alongside him
+    humor: 1
+    acclaim: 0.68
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: kingsman-the-secret-service
+  tmdb_id: null
+  title: Kingsman The Secret Service
+  year: 2014
+  runtime: 129
+  director: Matthew Vaughn
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }

@@ -1,0 +1,56 @@
+# New films for Uma Thurman. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Pulp Fiction, Kill Bill Vol. 1, and Kill Bill Vol. 2 already exist in tarantino.yaml — tagged
+# before she had an entity. Dangerous Liaisons already exists in malkovich.yaml — tagged before
+# she had an entity. The Life Aquatic with Steve Zissou already exists in murray.yaml — tagged
+# before she had an entity.
+
+- id: be-cool
+  tmdb_id: null
+  title: Be Cool
+  year: 2005
+  runtime: 118
+  director: F. Gary Gray
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: prime
+  tmdb_id: null
+  title: Prime
+  year: 2005
+  runtime: 105
+  director: Ben Younger
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 3, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: gattaca
+  tmdb_id: null
+  title: Gattaca
+  year: 1997
+  runtime: 106
+  director: Andrew Niccol
+  tags: { opacity: 2, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
+
+- id: the-producers
+  tmdb_id: null
+  title: The Producers
+  year: 2005
+  runtime: 134
+  director: Susan Stroman
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 5, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: nymphomaniac-vol-2
+  tmdb_id: null
+  title: "Nymphomaniac: Vol. II"
+  year: 2013
+  runtime: 130
+  director: Lars von Trier
+  tags:
+    opacity: 2
+    stillness: 3
+    bleakness: 5 # a single supporting scene that reframes the entire film's moral accounting
+    humor: 1
+    acclaim: 0.65
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 3 }

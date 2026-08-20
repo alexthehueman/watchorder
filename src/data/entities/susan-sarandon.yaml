@@ -1,0 +1,93 @@
+slug: susan-sarandon
+kind: actor
+name: Susan Sarandon
+blurb: Plays intelligence and appetite as the same quality, in women who refuse to apologize for wanting things — whether that's a road trip, a ballplayer, or a stay of execution nobody else believes in.
+
+films:
+  - film: thelma-and-louise
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 4
+    note: A weekend getaway that turns into a fugitive run after one act of violence neither woman can take back, ending on the most quoted freeze-frame in the genre.
+
+  - film: dead-man-walking
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A nun serving as spiritual advisor to a death-row inmate, refusing to let his crime or his humanity cancel each other out. Won her the Oscar.
+
+  - film: atlantic-city
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: warm
+    gateway: 2
+    note: An oyster-bar waitress dreaming of Monte Carlo, drawn into an aging small-time gangster's last, absurd shot at relevance.
+
+  - film: bull-durham
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: A minor-league baseball groupie who picks one player a season to mentor, treating seduction and coaching as the same skill.
+
+  - film: cloud-atlas
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: warm
+    gateway: 2
+    note: One face among a cast playing multiple roles across six interlocking centuries, in a structure the film never once slows down to explain.
+
+  - film: igby-goes-down
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: menacing
+    gateway: 3
+    note: A cold, controlling mother whose teenage son is fleeing every institution she's placed him in, playing the character with no interest in being liked.
+
+  - film: the-client
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: A small-town lawyer defending a boy who knows too much about a Mafia suicide, the only adult in the film who takes him seriously.
+
+  - film: little-women-1994
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: warm
+    gateway: 4
+    note: Marmee March, holding a household of four daughters together through a father's wartime absence with steady, unglamorous warmth.
+
+  - film: the-rocky-horror-picture-show
+    signature: 3
+    showcase: 2
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: A prim, newly engaged ingenue whose flat tire strands her at a transvestite alien's mansion. Her introduction to the cult-classic persona.
+
+curated:
+  curator: house
+  rationale: The two performances that show the range of the appetite first, then everywhere else it's applied.
+  order:
+    - thelma-and-louise
+    - the-rocky-horror-picture-show
+    - bull-durham
+    - igby-goes-down
+    - the-client
+    - little-women-1994
+    - cloud-atlas
+    - atlantic-city
+    - dead-man-walking

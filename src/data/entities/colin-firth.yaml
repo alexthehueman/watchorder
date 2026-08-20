@@ -1,0 +1,84 @@
+slug: colin-firth
+kind: actor
+name: Colin Firth
+blurb: Made a career of British reserve, then spent his best roles finding out exactly what that reserve is protecting — a stutter, a stalled grief, a queasiness about his own line of work.
+
+films:
+  - film: a-single-man
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A grieving professor spending what he's decided will be his last day alive, playing total composure as the thing barely holding him together.
+
+  - film: the-kings-speech
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: King George VI working through a stammer with an unconventional speech therapist, on the eve of a war he'll have to address a nation about. Won him the Oscar.
+
+  - film: tinker-tailor-soldier-spy-2011
+    signature: 4
+    showcase: 4
+    role_size: supporting
+    register: restrained
+    gateway: 2
+    note: One of the suspects in a Cold War mole hunt inside British intelligence, playing plausible loyalty and plausible guilt with the same flat affect.
+
+  - film: bridget-joness-diary
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: warm
+    gateway: 5
+    note: A stiff, socially awkward barrister who turns out to be the reliable option in a romantic comedy built on his rival's obvious charm.
+
+  - film: the-railway-man
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A former POW confronting decades-buried trauma when he learns the Japanese officer who tortured him is still alive.
+
+  - film: kingsman-the-secret-service
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: menacing
+    gateway: 4
+    note: A bespoke-suited secret agent recruiting a working-class kid into an old-school spy outfit, playing gentlemanly violence with real relish.
+
+  - film: mamma-mia
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 5
+    note: One of three possible fathers summoned to a Greek island wedding, singing and dancing along with the same stiff-upper-lip energy he brings to everything else.
+
+  - film: love-actually
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: warm
+    gateway: 5
+    note: A heartbroken writer who falls for his Portuguese housekeeper without either of them sharing a language, in one of the ensemble's gentlest threads.
+
+curated:
+  curator: house
+  rationale: The two performances that show the range behind the reserve first, then everywhere else it's put to work.
+  order:
+    - the-kings-speech
+    - bridget-joness-diary
+    - love-actually
+    - the-railway-man
+    - kingsman-the-secret-service
+    - mamma-mia
+    - tinker-tailor-soldier-spy-2011
+    - a-single-man

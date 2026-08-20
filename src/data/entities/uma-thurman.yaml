@@ -1,0 +1,107 @@
+slug: uma-thurman
+kind: actor
+name: Uma Thurman
+blurb: A statuesque cool that reads as danger in Tarantino's hands and as comedy almost everywhere else — the persona barely changes, only which genre is asking her to weaponize it.
+
+films:
+  - film: pulp-fiction
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 3
+    note: A gangster's wife whose dinner date with an underling spirals through an overdose and a twist contest, in the role that first paired her with Tarantino.
+
+  - film: kill-bill-vol-1
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: menacing
+    gateway: 4
+    note: A former assassin working through a revenge list one former colleague at a time, opening with a sword duel in the snow.
+
+  - film: kill-bill-vol-2
+    signature: 3
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: The revenge quest slows down and turns inward, ending on the buried-alive sequence and the confrontation the whole saga was building toward.
+
+  - film: dangerous-liaisons
+    signature: 4
+    showcase: 4
+    role_size: supporting
+    register: warm
+    gateway: 3
+    note: An innocent young bride used as a pawn in two aristocrats' cruel wager, playing naivety as the one thing the schemers around her can't fully corrupt.
+
+  - film: be-cool
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 4
+    note: A record-label executive falling for a movie producer, mostly there to dance opposite him at a nightclub in a nod to Pulp Fiction's most famous scene.
+
+  - film: prime
+    signature: 2
+    showcase: 2
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: A newly divorced woman dating a much younger man, unaware her therapist is also, unbeknownst to either of them, his mother.
+
+  - film: gattaca
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A geneticist in a world sorted by DNA, drawn into a genetically "invalid" man's scheme to pass as one of the elite.
+
+  - film: nymphomaniac-vol-2
+    signature: 3
+    showcase: 4
+    role_size: supporting
+    register: unhinged
+    gateway: 2
+    note: A wronged wife who marches her sons into her husband's mistress's apartment for a single, devastating confrontation.
+
+  - film: the-life-aquatic-with-steve-zissou
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 3
+    note: A journalist trailing an eccentric oceanographer's crew, playing bemused skepticism as the ensemble's audience surrogate.
+
+  - film: the-producers
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 4
+    note: A Swedish secretary hired to help stage the worst musical on Broadway, playing broad comic naivety in a role built entirely around a Scandinavian accent.
+
+prereqs:
+  - film: kill-bill-vol-2
+    requires: kill-bill-vol-1
+    strength: hard
+
+curated:
+  curator: house
+  rationale: The two performances that define the cool-as-danger persona first, then everywhere it turns comic instead.
+  order:
+    - pulp-fiction
+    - kill-bill-vol-1
+    - kill-bill-vol-2
+    - the-producers
+    - the-life-aquatic-with-steve-zissou
+    - be-cool
+    - prime
+    - gattaca
+    - dangerous-liaisons
+    - nymphomaniac-vol-2
