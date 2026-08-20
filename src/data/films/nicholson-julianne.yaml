@@ -5,7 +5,7 @@
 # exists in neon.yaml — tagged before she had an entity.
 
 - id: may-december
-  tmdb_id: null
+  tmdb_id: 839369
   title: May December
   year: 2023
   runtime: 117
@@ -17,12 +17,16 @@
     humor: 2
     acclaim: 0.75
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: may-december
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/r3/ll/he/8n/97MOhHIgU6ZdLcB9DrAhx3WAqrU-1200-1200-675-675-crop-000000.jpg?v=0e7320df4c
 
 - id: black-mass
-  tmdb_id: null
+  tmdb_id: 261023
   title: Black Mass
   year: 2015
   runtime: 122
   director: Scott Cooper
   tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: black-mass-2015
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/hp/i7/vq/uh/black-mass-1200-1200-675-675-crop-000000.jpg?v=b2fa904d14

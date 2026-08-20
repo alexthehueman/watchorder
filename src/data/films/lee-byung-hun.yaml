@@ -5,7 +5,7 @@
 # choi-min-sik.yaml.
 
 - id: terminator-genisys
-  tmdb_id: null
+  tmdb_id: 87101
   title: Terminator Genisys
   year: 2015
   runtime: 126
@@ -17,12 +17,16 @@
     humor: 2
     acclaim: 0.40
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: terminator-genisys
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/oq/e8/cf/bz/terminator-genisys-1200-1200-675-675-crop-000000.jpg?v=35352b24ad
 
 - id: gi-joe-the-rise-of-cobra
-  tmdb_id: null
+  tmdb_id: 14869
   title: G.I. Joe - The Rise of Cobra
   year: 2009
   runtime: 118
   director: Stephen Sommers
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.35 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: gi-joe-the-rise-of-cobra
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/kk/3a/mv/87/gi-joe-rise-of-the-cobra-1200-1200-675-675-crop-000000.jpg?v=a6d714befe

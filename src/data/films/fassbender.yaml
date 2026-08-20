@@ -5,7 +5,7 @@
 # bardem.yaml — tagged before he had an entity.
 
 - id: hunger
-  tmdb_id: null
+  tmdb_id: 10360
   title: Hunger
   year: 2008
   runtime: 96
@@ -19,9 +19,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0986233
   poster_url: https://m.media-amazon.com/images/M/MV5BMDMwMWZmZjMtZmZkMS00MzNmLTlmNTUtY2MyYTdkYzRiZDg0XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: hunger
 
 - id: shame
-  tmdb_id: null
+  tmdb_id: 76025
   title: Shame
   year: 2011
   runtime: 101
@@ -30,9 +31,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 3 }
   imdb_id: tt1723811
   poster_url: https://m.media-amazon.com/images/M/MV5BM2I4YjYzYmQtNGM4Yy00NmYwLWEzYjUtMDBmNjYzZmViZWE3XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: shame-2011
 
 - id: x-men-first-class
-  tmdb_id: null
+  tmdb_id: 49538
   title: X-Men First Class
   year: 2011
   runtime: 132
@@ -41,9 +43,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt1270798
   poster_url: https://m.media-amazon.com/images/M/MV5BMTg5OTMxNzk4Nl5BMl5BanBnXkFtZTcwOTk1MjAwNQ@@._V1_QL75_UX380_CR0,0,380,562_.jpg
+  letterboxd_slug: x-men-first-class
 
 - id: 12-years-a-slave
-  tmdb_id: null
+  tmdb_id: 76203
   title: 12 Years a Slave
   year: 2013
   runtime: 134
@@ -52,9 +55,10 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
   imdb_id: tt2024544
   poster_url: https://m.media-amazon.com/images/M/MV5BMjExMTEzODkyN15BMl5BanBnXkFtZTcwNTU4NTc4OQ@@._V1_QL75_UX380_CR0,1,380,562_.jpg
+  letterboxd_slug: 12-years-a-slave
 
 - id: macbeth-2015
-  tmdb_id: null
+  tmdb_id: 225728
   title: Macbeth
   year: 2015
   runtime: 113
@@ -68,3 +72,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt2884018
   poster_url: https://m.media-amazon.com/images/M/MV5BNzgyNDczMjU4NV5BMl5BanBnXkFtZTgwMTUwMDI3NjE@._V1_SX300.jpg
+  letterboxd_slug: macbeth-2015

@@ -5,7 +5,7 @@
 # an entity. Monsters, Inc. already exists in pixar.yaml — tagged before he had an entity.
 
 - id: 10-cloverfield-lane
-  tmdb_id: null
+  tmdb_id: 333371
   title: 10 Cloverfield Lane
   year: 2016
   runtime: 104
@@ -17,30 +17,38 @@
     humor: 1
     acclaim: 0.75
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: 10-cloverfield-lane
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/w1/r7/fv/tz/10-cloverfield-lane-1200-1200-675-675-crop-000000.jpg?v=769785a4da
 
 - id: the-artist
-  tmdb_id: null
+  tmdb_id: 74643
   title: The Artist
   year: 2011
   runtime: 100
   director: Michel Hazanavicius
   tags: { opacity: 1, stillness: 4, bleakness: 2, humor: 3, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: the-artist
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/2i/go/tz/5k/the-artist-1200-1200-675-675-crop-000000.jpg?v=2dbadc6b32
 
 - id: argo
-  tmdb_id: null
+  tmdb_id: 68734
   title: Argo
   year: 2012
   runtime: 120
   director: Ben Affleck
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: argo
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/4p/xu/a5/c3/argo-1200-1200-675-675-crop-000000.jpg?v=6db3a8697c
 
 - id: flight
-  tmdb_id: null
+  tmdb_id: 87502
   title: Flight
   year: 2012
   runtime: 138
   director: Robert Zemeckis
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 2, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  letterboxd_slug: flight
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/em/8w/hj/cc/flight-1200-1200-675-675-crop-000000.jpg?v=00a9fd1d9d

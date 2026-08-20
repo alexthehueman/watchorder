@@ -4,7 +4,7 @@
 # entity. The Greatest Showman already exists in jackman.yaml — tagged before she had an entity.
 
 - id: spider-man-homecoming
-  tmdb_id: null
+  tmdb_id: 315635
   title: Spider-Man Homecoming
   year: 2017
   runtime: 133
@@ -13,6 +13,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt2250912
   poster_url: https://m.media-amazon.com/images/M/MV5BODY2MTAzOTQ4M15BMl5BanBnXkFtZTgwNzg5MTE0MjI@._V1_QL75_UX380_CR0,0,380,562_.jpg
+  letterboxd_slug: spider-man-homecoming
 
 - id: malcolm-and-marie
   tmdb_id: null
@@ -24,7 +25,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
 
 - id: challengers
-  tmdb_id: null
+  tmdb_id: 937287
   title: Challengers
   year: 2024
   runtime: 131
@@ -38,9 +39,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
   imdb_id: tt16426418
   poster_url: https://m.media-amazon.com/images/M/MV5BZTcyZGIyODctZGJhOS00MWUyLWI5ZWEtMjg4YzhkMDczMDBhXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg
+  letterboxd_slug: challengers
 
 - id: dune-part-two
-  tmdb_id: null
+  tmdb_id: 693134
   title: Dune Part Two
   year: 2024
   runtime: 166
@@ -49,3 +51,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt15239678
   poster_url: https://m.media-amazon.com/images/M/MV5BNTc0YmQxMjEtODI5MC00NjFiLTlkMWUtOGQ5NjFmYWUyZGJhXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg
+  letterboxd_slug: dune-part-two

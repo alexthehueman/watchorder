@@ -3,16 +3,18 @@
 # Captain Marvel already exists in larson.yaml — tagged before he had an entity.
 
 - id: always-be-my-maybe
-  tmdb_id: null
+  tmdb_id: 513576
   title: Always Be My Maybe
   year: 2019
   runtime: 102
   director: Nahnatchka Khan
   tags: { opacity: 2, stillness: 3, bleakness: 3, humor: 3, acclaim: 0.62 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: always-be-my-maybe-2019
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/cp/tm/n9/v4/always-be-my-maybe-1200-1200-675-675-crop-000000.jpg?v=1641f77e1f
 
 - id: the-interview
-  tmdb_id: null
+  tmdb_id: 228967
   title: The Interview
   year: 2014
   runtime: 112
@@ -24,12 +26,16 @@
     humor: 4
     acclaim: 0.50
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+  letterboxd_slug: the-interview-2014
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/k5/zc/nt/i9/the-interview-2014-1200-1200-675-675-crop-000000.jpg?v=f2e1e842fb
 
 - id: ant-man-and-the-wasp
-  tmdb_id: null
+  tmdb_id: 363088
   title: Ant-Man and the Wasp
   year: 2018
   runtime: 118
   director: Peyton Reed
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: ant-man-and-the-wasp
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/rl/86/k0/y9/ant-man-and-wasp-1200-1200-675-675-crop-000000.jpg?v=e4b20f258f

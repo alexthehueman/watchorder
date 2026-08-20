@@ -4,7 +4,7 @@
 # entity. Avatar already exists in weaver.yaml.
 
 - id: girlfight
-  tmdb_id: null
+  tmdb_id: 19348
   title: Girlfight
   year: 2000
   runtime: 110
@@ -16,9 +16,11 @@
     humor: 2
     acclaim: 0.72
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: girlfight
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/wa/w4/tp/ee/98SEVJUoqhYcOTtXWcIl7PcAWRf-1200-1200-675-675-crop-000000.jpg?v=3227f80fa5
 
 - id: the-assignment
-  tmdb_id: null
+  tmdb_id: 399173
   title: The Assignment
   year: 2016
   runtime: 95
@@ -30,9 +32,11 @@
     humor: 1
     acclaim: 0.30
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: the-assignment-2016
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/v1/vf/8k/is/the-assignment-2016-1200-1200-675-675-crop-000000.jpg?v=0871350fcb
 
 - id: resident-evil
-  tmdb_id: null
+  tmdb_id: 1576
   title: Resident Evil
   year: 2002
   runtime: 100
@@ -44,21 +48,27 @@
     humor: 2
     acclaim: 0.55
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: resident-evil
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/53/h9/n1/6y/resident-evil-1200-1200-675-675-crop-000000.jpg?v=56aaec9044
 
 - id: machete
-  tmdb_id: null
+  tmdb_id: 23631
   title: Machete
   year: 2010
   runtime: 105
   director: Robert Rodriguez
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 4, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+  letterboxd_slug: machete
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/zg/uq/i6/59/machete-1200-1200-675-675-crop-000000.jpg?v=80e2891ce9
 
 - id: 2-fast-2-furious
-  tmdb_id: null
+  tmdb_id: 584
   title: 2 Fast 2 Furious
   year: 2003
   runtime: 107
   director: John Singleton
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: 2-fast-2-furious
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/la/vc/fs/j2/2-fast-2-furious-1200-1200-675-675-crop-000000.jpg?v=fb382602a9

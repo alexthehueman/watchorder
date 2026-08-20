@@ -5,25 +5,29 @@
 # exists in spielberg.yaml.
 
 - id: xxx
-  tmdb_id: null
+  tmdb_id: 7451
   title: xXx
   year: 2002
   runtime: 124
   director: Rob Cohen
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  letterboxd_slug: xxx
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/f2/78/65/a0/xxx-1200-1200-675-675-crop-000000.jpg?v=9dbc682cb9
 
 - id: the-iron-giant
-  tmdb_id: null
+  tmdb_id: 10386
   title: The Iron Giant
   year: 1999
   runtime: 86
   director: Brad Bird
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.90 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: the-iron-giant
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/xq/b9/aq/52/the-iron-giant-1200-1200-675-675-crop-000000.jpg?v=1263519a7f
 
 - id: boiler-room
-  tmdb_id: null
+  tmdb_id: 14181
   title: Boiler Room
   year: 2000
   runtime: 120
@@ -35,9 +39,11 @@
     humor: 2
     acclaim: 0.68
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: boiler-room
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/jr/67/52/0m/boiler-room-1200-1200-675-675-crop-000000.jpg?v=deb668e387
 
 - id: find-me-guilty
-  tmdb_id: null
+  tmdb_id: 9950
   title: Find Me Guilty
   year: 2006
   runtime: 125
@@ -49,3 +55,5 @@
     humor: 3
     acclaim: 0.65
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: find-me-guilty
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/3j/ii/i2/iz/laizoO1KtbCBUBSrsJe7QEkb044-1200-1200-675-675-crop-000000.jpg?v=b18defad0d

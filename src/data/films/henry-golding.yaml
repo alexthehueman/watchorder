@@ -4,7 +4,7 @@
 # Favor already exists in kendrick.yaml.
 
 - id: last-christmas
-  tmdb_id: null
+  tmdb_id: 549053
   title: Last Christmas
   year: 2019
   runtime: 103
@@ -16,6 +16,8 @@
     humor: 3
     acclaim: 0.55
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: last-christmas-2019
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/5g/7k/gx/t8/last-christmas-1200-1200-675-675-crop-000000.jpg?v=1245377fef
 
 - id: snake-eyes
   tmdb_id: null
@@ -27,10 +29,12 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
 
 - id: monsoon
-  tmdb_id: null
+  tmdb_id: 605499
   title: Monsoon
   year: 2019
   runtime: 85
   director: Hong Khaou
   tags: { opacity: 2, stillness: 4, bleakness: 3, humor: 1, acclaim: 0.60 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: monsoon-2019
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/4o/48/py/v3/glgNLDHlrsbrKHGdjvAH2iDWPlf-1200-1200-675-675-crop-000000.jpg?v=eedd0b0865

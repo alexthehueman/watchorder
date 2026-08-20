@@ -4,28 +4,34 @@
 # already exists in waltz.yaml — tagged before he had an entity.
 
 - id: "1917"
-  tmdb_id: null
+  tmdb_id: 530915
   title: "1917"
   year: 2019
   runtime: 119
   director: Sam Mendes
   tags: { opacity: 1, stillness: 1, bleakness: 5, humor: 1, acclaim: 0.82 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: "1917"
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/zc/ui/yj/1h/1917-1200-1200-675-675-crop-000000.jpg?v=24c56f8c71
 
 - id: pride-2014
-  tmdb_id: null
+  tmdb_id: 234200
   title: Pride
   year: 2014
   runtime: 120
   director: Matthew Warchus
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.82 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: pride-2014
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/sq/gd/nj/qx/pride-1200-1200-675-675-crop-000000.jpg?v=6ba1362d48
 
 - id: their-finest
-  tmdb_id: null
+  tmdb_id: 340101
   title: Their Finest
   year: 2016
   runtime: 117
   director: Lone Scherfig
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: their-finest
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/7d/ol/t7/s4/their-finest-1200-1200-675-675-crop-000000.jpg?v=a50d471efa

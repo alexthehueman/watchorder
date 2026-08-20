@@ -4,7 +4,7 @@
 # Dalmatians already exists in close.yaml.
 
 - id: flight-of-the-phoenix
-  tmdb_id: null
+  tmdb_id: 11866
   title: Flight of the Phoenix
   year: 2004
   runtime: 113
@@ -16,9 +16,11 @@
     humor: 3
     acclaim: 0.55
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: flight-of-the-phoenix
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ro/ou/ot/6p/ssrCyDSLMnu0KcEqwOGaSceUegm-1200-1200-675-675-crop-000000.jpg?v=03a2624d5a
 
 - id: street-kings
-  tmdb_id: null
+  tmdb_id: 1266
   title: Street Kings
   year: 2008
   runtime: 109
@@ -30,27 +32,33 @@
     humor: 1
     acclaim: 0.55
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: street-kings
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/3b/24/dn/35/street-kings-1200-1200-675-675-crop-000000.jpg?v=6cc5f4a7c7
 
 - id: stuart-little
-  tmdb_id: null
+  tmdb_id: 10137
   title: Stuart Little
   year: 1999
   runtime: 84
   director: Rob Minkoff
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: stuart-little
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/f5/wb/iw/ua/stuart-little-1200-1200-675-675-crop-000000.jpg?v=4d6645fd7a
 
 - id: the-man-in-the-iron-mask
-  tmdb_id: null
+  tmdb_id: 9313
   title: The Man in the Iron Mask
   year: 1998
   runtime: 132
   director: Randall Wallace
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: the-man-in-the-iron-mask-1998
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/nb/7l/9v/cg/maniniron-1200-1200-675-675-crop-000000.jpg?v=dacd8a7558
 
 - id: the-oxford-murders
-  tmdb_id: null
+  tmdb_id: 12245
   title: The Oxford Murders
   year: 2008
   runtime: 108
@@ -62,9 +70,11 @@
     humor: 2
     acclaim: 0.50
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  letterboxd_slug: the-oxford-murders
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/pz/be/tw/hn/oxford-1200-1200-675-675-crop-000000.jpg?v=194f9ccc0e
 
 - id: tomorrowland
-  tmdb_id: null
+  tmdb_id: 158852
   title: Tomorrowland
   year: 2015
   runtime: 130
@@ -76,3 +86,5 @@
     humor: 3
     acclaim: 0.52
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: tomorrowland
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/7f/80/p6/00/tomorrowland-1200-1200-675-675-crop-000000.jpg?v=54ebbdf9dc

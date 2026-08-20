@@ -3,22 +3,26 @@
 # The Avengers already exists in johansson.yaml — tagged before he had an entity.
 
 - id: the-hurt-locker
-  tmdb_id: null
+  tmdb_id: 12162
   title: The Hurt Locker
   year: 2008
   runtime: 131
   director: Kathryn Bigelow
   tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: the-hurt-locker
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/53/yu/iy/jy/the-hurt-locker-1200-1200-675-675-crop-000000.jpg?v=04ea83c53f
 
 - id: 8-mile
-  tmdb_id: null
+  tmdb_id: 65
   title: 8 Mile
   year: 2002
   runtime: 110
   director: Curtis Hanson
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 2, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  letterboxd_slug: 8-mile
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/fb/ty/u4/o3/8-mile-1200-1200-675-675-crop-000000.jpg?v=cc8455db54
 
 - id: pain-and-gain
   tmdb_id: null

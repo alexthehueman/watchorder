@@ -5,7 +5,7 @@
 # jackman.yaml — tagged before he had an entity.
 
 - id: donnie-darko
-  tmdb_id: null
+  tmdb_id: 141
   title: Donnie Darko
   year: 2001
   runtime: 113
@@ -17,18 +17,22 @@
     humor: 2
     acclaim: 0.78
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: donnie-darko
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/uf/wk/nc/lv/donnie-darko-1200-1200-675-675-crop-000000.jpg?v=b30af6ea3e
 
 - id: nightcrawler
-  tmdb_id: null
+  tmdb_id: 242582
   title: Nightcrawler
   year: 2014
   runtime: 117
   director: Dan Gilroy
   tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.83 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: nightcrawler
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/mb/nq/gx/cq/nightcrawler-1200-1200-675-675-crop-000000.jpg?v=376281b641
 
 - id: enemy
-  tmdb_id: null
+  tmdb_id: 181886
   title: Enemy
   year: 2013
   runtime: 91
@@ -40,6 +44,8 @@
     humor: 1
     acclaim: 0.72
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  letterboxd_slug: enemy
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/n5/fr/vv/nu/enemy-1200-1200-675-675-crop-000000.jpg?v=dd461490dd
 
 - id: love-and-other-drugs
   tmdb_id: null
@@ -51,10 +57,12 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
 
 - id: october-sky
-  tmdb_id: null
+  tmdb_id: 13466
   title: October Sky
   year: 1999
   runtime: 108
   director: Joe Johnston
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: october-sky
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/vq/cs/2w/iu/october-sky-10-1200-1200-675-675-crop-000000.jpg?v=08c776df90

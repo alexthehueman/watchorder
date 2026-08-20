@@ -4,7 +4,7 @@
 # entity. I, Tonya already exists in neon.yaml — tagged before he had an entity.
 
 - id: a-different-man
-  tmdb_id: null
+  tmdb_id: 989662
   title: A Different Man
   year: 2024
   runtime: 112
@@ -16,12 +16,16 @@
     humor: 3
     acclaim: 0.75
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: a-different-man
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/gp/m2/rs/1m/ADifferentMan-1200-1200-675-675-crop-000000.jpg?v=0ad096bcad
 
 - id: the-devil-all-the-time
-  tmdb_id: null
+  tmdb_id: 499932
   title: The Devil All the Time
   year: 2020
   runtime: 138
   director: Antonio Campos
   tags: { opacity: 2, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 3, sex: 0 }
+  letterboxd_slug: the-devil-all-the-time
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/mx/9g/et/b7/devil-all-the-time-1200-1200-675-675-crop-000000.jpg?v=e2180a530e

@@ -8,7 +8,7 @@
 # spoof already tagged as casino-royale-1967 in sellers.yaml.
 
 - id: casino-royale-2006
-  tmdb_id: null
+  tmdb_id: 36557
   title: Casino Royale
   year: 2006
   runtime: 144
@@ -20,15 +20,19 @@
     humor: 2
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  letterboxd_slug: casino-royale-2006
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/og/c2/6d/8e/casino-royale-1200-1200-675-675-crop-000000.jpg?v=293e5f9f36
 
 - id: logan-lucky
-  tmdb_id: null
+  tmdb_id: 399170
   title: Logan Lucky
   year: 2017
   runtime: 119
   director: Steven Soderbergh
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: logan-lucky
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/b3/sc/in/qz/logan-lucky-1200-1200-675-675-crop-000000.jpg?v=ab23981790
 
 - id: glass-onion
   tmdb_id: null
@@ -45,7 +49,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
 
 - id: layer-cake
-  tmdb_id: null
+  tmdb_id: 4836
   title: Layer Cake
   year: 2004
   runtime: 105
@@ -57,3 +61,5 @@
     humor: 2
     acclaim: 0.68
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+  letterboxd_slug: layer-cake
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/2k/wb/02/vy/layer-1200-1200-675-675-crop-000000.jpg?v=3643054b49

@@ -3,43 +3,51 @@
 # Dune (2021) already exists in chalamet.yaml — tagged before he had an entity.
 
 - id: aquaman
-  tmdb_id: null
+  tmdb_id: 297802
   title: Aquaman
   year: 2018
   runtime: 143
   director: James Wan
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.65 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: aquaman-2018
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/bz/v4/ne/ca/4rbszAcobxhioUNHcrbzCaLMFQc-1200-1200-675-675-crop-000000.jpg?v=edc2dfe232
 
 - id: justice-league
-  tmdb_id: null
+  tmdb_id: 141052
   title: Justice League
   year: 2017
   runtime: 120
   director: Zack Snyder
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.45 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: justice-league
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/xp/n2/k8/85/justice-league-1200-1200-675-675-crop-000000.jpg?v=6c42c5a2a7
 
 - id: conan-the-barbarian-2011
-  tmdb_id: null
+  tmdb_id: 37430
   title: Conan the Barbarian
   year: 2011
   runtime: 113
   director: Marcus Nispel
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.35 }
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 1 }
+  letterboxd_slug: conan-the-barbarian-2011
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/jm/dz/3b/y1/conan-2011-1200-1200-675-675-crop-000000.jpg?v=f44bcd4ebc
 
 - id: fast-x
-  tmdb_id: null
+  tmdb_id: 385687
   title: Fast X
   year: 2023
   runtime: 141
   director: Louis Leterrier
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.50 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: fast-x
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/xx/zt/87/rl/fastx-1200-1200-675-675-crop-000000.jpg?v=2c78866af4
 
 - id: the-bad-batch
-  tmdb_id: null
+  tmdb_id: 316154
   title: The Bad Batch
   year: 2016
   runtime: 118
@@ -51,3 +59,5 @@
     humor: 1
     acclaim: 0.45
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: the-bad-batch
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/xc/15/s8/tl/bad-batch-1200-1200-675-675-crop-000000.jpg?v=988aee7618

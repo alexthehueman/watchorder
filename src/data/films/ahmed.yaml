@@ -4,7 +4,7 @@
 # already exists in whitaker.yaml — tagged before he had an entity.
 
 - id: sound-of-metal
-  tmdb_id: null
+  tmdb_id: 502033
   title: Sound of Metal
   year: 2019
   runtime: 120
@@ -16,21 +16,27 @@
     humor: 1
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: sound-of-metal
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/v0/dw/ly/1y/sound-of-metal-1200-1200-675-675-crop-000000.jpg?v=91f317fe38
 
 - id: venom
-  tmdb_id: null
+  tmdb_id: 335983
   title: Venom
   year: 2018
   runtime: 112
   director: Ruben Fleischer
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: venom-2018
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/re/nm/sa/19/venom-1200-1200-675-675-crop-000000.jpg?v=43773bc414
 
 - id: four-lions
-  tmdb_id: null
+  tmdb_id: 37495
   title: Four Lions
   year: 2010
   runtime: 101
   director: Christopher Morris
   tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 4, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 0 }
+  letterboxd_slug: four-lions
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/s5/e5/og/2e/four-lions-1200-1200-675-675-crop-000000.jpg?v=6b3ae3a7f6

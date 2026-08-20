@@ -14,7 +14,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
 
 - id: blade-runner
-  tmdb_id: null
+  tmdb_id: 78
   title: Blade Runner
   year: 1982
   runtime: 117
@@ -26,9 +26,11 @@
     humor: 1
     acclaim: 0.88
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: blade-runner
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ne/pc/iq/wf/blade-runner-1200-1200-675-675-crop-000000.jpg?v=b663a63f34
 
 - id: the-mosquito-coast
-  tmdb_id: null
+  tmdb_id: 11120
   title: The Mosquito Coast
   year: 1986
   runtime: 117
@@ -40,30 +42,38 @@
     humor: 1
     acclaim: 0.65
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: the-mosquito-coast
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/f6/1q/ly/ti/mosquito-coast-1200-1200-675-675-crop-000000.jpg?v=40bd0ee9d5
 
 - id: witness
-  tmdb_id: null
+  tmdb_id: 9281
   title: Witness
   year: 1985
   runtime: 112
   director: Peter Weir
   tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 1 }
+  letterboxd_slug: witness
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/wf/73/x7/qn/witness-1200-1200-675-675-crop-000000.jpg?v=5cb6639223
 
 - id: the-fugitive
-  tmdb_id: null
+  tmdb_id: 5503
   title: The Fugitive
   year: 1993
   runtime: 130
   director: Andrew Davis
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.82 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: the-fugitive-1993
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/e1/dg/mb/km/the-fugitive-1200-1200-675-675-crop-000000.jpg?v=946de9e41b
 
 - id: regarding-henry
-  tmdb_id: null
+  tmdb_id: 11364
   title: Regarding Henry
   year: 1991
   runtime: 107
   director: Mike Nichols
   tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: regarding-henry
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/0y/cl/d2/2e/regarding-henry-40-1200-1200-675-675-crop-000000.jpg?v=2f2d8e1524

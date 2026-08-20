@@ -7,10 +7,12 @@
 # True Grit already exists in bridges.yaml — tagged before he had an entity.
 
 - id: avengers-infinity-war
-  tmdb_id: null
+  tmdb_id: 299536
   title: Avengers Infinity War
   year: 2018
   runtime: 149
   director: Anthony Russo
   tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 2, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: avengers-infinity-war
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/22/q6/od/p6/avengers-infinity-war-1200-1200-675-675-crop-000000.jpg?v=1a4e940b9d

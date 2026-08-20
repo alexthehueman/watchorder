@@ -5,25 +5,29 @@
 # already exists in thompson.yaml — tagged before he had an entity.
 
 - id: four-weddings-and-a-funeral
-  tmdb_id: null
+  tmdb_id: 712
   title: Four Weddings and a Funeral
   year: 1994
   runtime: 117
   director: Mike Newell
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: four-weddings-and-a-funeral
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/hj/pb/ty/lb/four-weddings-funeral-1200-1200-675-675-crop-000000.jpg?v=504fb64359
 
 - id: paddington-2
-  tmdb_id: null
+  tmdb_id: 346648
   title: Paddington 2
   year: 2017
   runtime: 103
   director: Paul King
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.92 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: paddington-2
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/zc/ru/8t/gh/paddington-2-1200-1200-675-675-crop-000000.jpg?v=d1cc3b1607
 
 - id: the-gentlemen
-  tmdb_id: null
+  tmdb_id: 522627
   title: The Gentlemen
   year: 2019
   runtime: 113
@@ -35,3 +39,5 @@
     humor: 4
     acclaim: 0.72
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: the-gentlemen
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/xw/zo/3j/qs/the-gentlemen-1200-1200-675-675-crop-000000.jpg?v=a748ff0255

@@ -5,7 +5,7 @@
 # film role, a brief early cameo) — five significant credits, tagged before he had an entity.
 
 - id: batman-returns
-  tmdb_id: null
+  tmdb_id: 364
   title: Batman Returns
   year: 1992
   runtime: 126
@@ -14,9 +14,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0103776
   poster_url: https://m.media-amazon.com/images/M/MV5BZTliMDVkYTktZDdlMS00NTAwLWJhNzYtMWIwMDZjN2ViMGFiXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: batman-returns
 
 - id: king-of-new-york
-  tmdb_id: null
+  tmdb_id: 9558
   title: King of New York
   year: 1990
   runtime: 103
@@ -30,9 +31,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
   imdb_id: tt0099939
   poster_url: https://m.media-amazon.com/images/M/MV5BOTE2NDcxNzE4N15BMl5BanBnXkFtZTgwMDc1NTk4NjE@._V1_SX300.jpg
+  letterboxd_slug: king-of-new-york
 
 - id: pennies-from-heaven
-  tmdb_id: null
+  tmdb_id: 17450
   title: Pennies from Heaven
   year: 1981
   runtime: 108
@@ -46,3 +48,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 2 }
   imdb_id: tt0082894
   poster_url: https://m.media-amazon.com/images/M/MV5BOWZkZTM2YjMtZDgxNy00ODFhLWEzOGEtZGUxZTZmZWVkMTEzXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: pennies-from-heaven

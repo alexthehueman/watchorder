@@ -5,16 +5,18 @@
 # exists in oldman.yaml — tagged before she had an entity.
 
 - id: v-for-vendetta
-  tmdb_id: null
+  tmdb_id: 752
   title: V for Vendetta
   year: 2005
   runtime: 132
   director: James McTeigue
   tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.73 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: v-for-vendetta
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/mx/jg/tz/ni/v-for-vendetta-1200-1200-675-675-crop-000000.jpg?v=1f545de4aa
 
 - id: jackie
-  tmdb_id: null
+  tmdb_id: 376866
   title: Jackie
   year: 2016
   runtime: 100
@@ -26,18 +28,22 @@
     humor: 1
     acclaim: 0.81
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: jackie-2016
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/0v/6k/fl/yk/fafkhT5N9bphry9TIBqTONSmcGI-1200-1200-675-675-crop-000000.jpg?v=e627678269
 
 - id: garden-state
-  tmdb_id: null
+  tmdb_id: 401
   title: Garden State
   year: 2004
   runtime: 102
   director: Zach Braff
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.7 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: garden-state
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/xg/y1/8q/u2/garden-state-1200-1200-675-675-crop-000000.jpg?v=4327f67a71
 
 - id: annihilation
-  tmdb_id: null
+  tmdb_id: 300668
   title: Annihilation
   year: 2018
   runtime: 115
@@ -49,12 +55,16 @@
     humor: 1
     acclaim: 0.75
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: annihilation
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ph/qw/74/4d/annihilation-1200-1200-675-675-crop-000000.jpg?v=33f21c9a10
 
 - id: star-wars-episode-i-the-phantom-menace
-  tmdb_id: null
+  tmdb_id: 1893
   title: Star Wars Episode I The Phantom Menace
   year: 1999
   runtime: 136
   director: George Lucas
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.51 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: star-wars-episode-i-the-phantom-menace
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/m6/zp/ge/tk/star-wars-episode-i-the-phantom-menace-1200-1200-675-675-crop-000000.jpg?v=42e01a1a7d

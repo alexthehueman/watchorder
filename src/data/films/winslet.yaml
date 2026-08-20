@@ -4,7 +4,7 @@
 # entity.
 
 - id: sense-and-sensibility
-  tmdb_id: null
+  tmdb_id: 4584
   title: Sense and Sensibility
   year: 1995
   runtime: 136
@@ -13,9 +13,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0114388
   poster_url: https://m.media-amazon.com/images/M/MV5BY2MyZWJhNjktMWQ2My00OTgwLWI1NjEtYjUzM2M2N2M4Mzc4XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: sense-and-sensibility
 
 - id: eternal-sunshine-of-the-spotless-mind
-  tmdb_id: null
+  tmdb_id: 38
   title: Eternal Sunshine of the Spotless Mind
   year: 2004
   runtime: 108
@@ -29,9 +30,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0338013
   poster_url: https://m.media-amazon.com/images/M/MV5BMTY4NzcwODg3Nl5BMl5BanBnXkFtZTcwNTEwOTMyMw@@._V1_SX300.jpg
+  letterboxd_slug: eternal-sunshine-of-the-spotless-mind
 
 - id: little-children
-  tmdb_id: null
+  tmdb_id: 1440
   title: Little Children
   year: 2006
   runtime: 137
@@ -40,9 +42,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
   imdb_id: tt0404203
   poster_url: https://m.media-amazon.com/images/M/MV5BMTYwNzEwNTI3MV5BMl5BanBnXkFtZTcwODUyODczMQ@@._V1_SX300.jpg
+  letterboxd_slug: little-children
 
 - id: the-reader
-  tmdb_id: null
+  tmdb_id: 8055
   title: The Reader
   year: 2008
   runtime: 124
@@ -56,9 +59,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
   imdb_id: tt0976051
   poster_url: https://m.media-amazon.com/images/M/MV5BMTM0NDQxNjA0N15BMl5BanBnXkFtZTcwNDUwMzcwMg@@._V1_SX300.jpg
+  letterboxd_slug: the-reader
 
 - id: revolutionary-road
-  tmdb_id: null
+  tmdb_id: 4148
   title: Revolutionary Road
   year: 2008
   runtime: 119
@@ -67,9 +71,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0959337
   poster_url: https://m.media-amazon.com/images/M/MV5BMTczNDgzMjczOV5BMl5BanBnXkFtZTcwOTU3MzMwMg@@._V1_SX300.jpg
+  letterboxd_slug: revolutionary-road
 
 - id: steve-jobs
-  tmdb_id: null
+  tmdb_id: 321697
   title: Steve Jobs
   year: 2015
   runtime: 122
@@ -78,9 +83,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt2080374
   poster_url: https://m.media-amazon.com/images/M/MV5BMjE0NTA2MTEwOV5BMl5BanBnXkFtZTgwNzg4NzU2NjE@._V1_QL75_UX380_CR0,20,380,562_.jpg
+  letterboxd_slug: steve-jobs
 
 - id: the-holiday
-  tmdb_id: null
+  tmdb_id: 1581
   title: The Holiday
   year: 2006
   runtime: 138
@@ -89,3 +95,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0457939
   poster_url: https://m.media-amazon.com/images/M/MV5BZmEwNDg0M2QtMDdiNy00YTliLTk4ZjctOThjZjczODVmMTdkXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-holiday

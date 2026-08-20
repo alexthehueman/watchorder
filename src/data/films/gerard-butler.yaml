@@ -3,16 +3,18 @@
 # Olympus Has Fallen already exists in leo.yaml — tagged before he had an entity.
 
 - id: "300"
-  tmdb_id: null
+  tmdb_id: 1271
   title: "300"
   year: 2006
   runtime: 117
   director: Zack Snyder
   tags: { opacity: 1, stillness: 1, bleakness: 5, humor: 1, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 1 }
+  letterboxd_slug: "300"
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/vw/wc/17/85/300-150-1200-1200-675-675-crop-000000.jpg?v=058a4f0217
 
 - id: law-abiding-citizen
-  tmdb_id: null
+  tmdb_id: 22803
   title: Law Abiding Citizen
   year: 2009
   runtime: 108
@@ -24,9 +26,11 @@
     humor: 1
     acclaim: 0.55
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: law-abiding-citizen
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/8v/pp/cv/mr/law-abiding-citizen-1200-1200-675-675-crop-000000.jpg?v=d490978fb5
 
 - id: the-phantom-of-the-opera-2004
-  tmdb_id: null
+  tmdb_id: 9833
   title: The Phantom of the Opera
   year: 2004
   runtime: 143
@@ -38,18 +42,22 @@
     humor: 1
     acclaim: 0.55
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: the-phantom-of-the-opera-2004
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/x6/tk/48/kt/phantom-of-the-opera-1200-1200-675-675-crop-000000.jpg?v=e335edc89b
 
 - id: den-of-thieves
-  tmdb_id: null
+  tmdb_id: 449443
   title: Den of Thieves
   year: 2018
   runtime: 140
   director: Christian Gudegast
   tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: den-of-thieves
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ab/8w/al/cg/den-thieves-1200-1200-675-675-crop-000000.jpg?v=d23ee2db9d
 
 - id: coriolanus
-  tmdb_id: null
+  tmdb_id: 101173
   title: Coriolanus
   year: 2011
   runtime: 122
@@ -61,21 +69,27 @@
     humor: 1
     acclaim: 0.62
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: coriolanus
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/r0/zv/jl/va/coriolanus-1200-1200-675-675-crop-000000.jpg?v=e0d7faf26a
 
 - id: the-ugly-truth
-  tmdb_id: null
+  tmdb_id: 20943
   title: The Ugly Truth
   year: 2009
   runtime: 96
   director: Robert Luketic
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.50 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: the-ugly-truth
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/6t/f6/sk/ya/ugly-truth-1200-1200-675-675-crop-000000.jpg?v=0d0503fe4d
 
 - id: greenland
-  tmdb_id: null
+  tmdb_id: 524047
   title: Greenland
   year: 2020
   runtime: 119
   director: Ric Roman Waugh
   tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.62 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: greenland
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/w9/x0/6m/or/greenland-1200-1200-675-675-crop-000000.jpg?v=9c80b52877

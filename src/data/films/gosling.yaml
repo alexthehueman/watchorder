@@ -4,7 +4,7 @@
 # already exists in emma-stone.yaml (a genuine dual lead) — tagged before he had an entity.
 
 - id: half-nelson
-  tmdb_id: null
+  tmdb_id: 7859
   title: Half Nelson
   year: 2006
   runtime: 106
@@ -13,9 +13,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0468489
   poster_url: https://m.media-amazon.com/images/M/MV5BMTg4ODg1OTIwNl5BMl5BanBnXkFtZTcwOTA3ODQzMQ@@._V1_SX300.jpg
+  letterboxd_slug: half-nelson
 
 - id: drive
-  tmdb_id: null
+  tmdb_id: 64690
   title: Drive
   year: 2011
   runtime: 100
@@ -29,9 +30,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt0780504
   poster_url: https://m.media-amazon.com/images/M/MV5BYTFmNTFlOTAtNzEyNi00MWU2LTg3MGEtYjA2NWY3MDliNjlkXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg
+  letterboxd_slug: drive-2011
 
 - id: blade-runner-2049
-  tmdb_id: null
+  tmdb_id: 335984
   title: Blade Runner 2049
   year: 2017
   runtime: 164
@@ -45,9 +47,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt1856101
   poster_url: https://m.media-amazon.com/images/M/MV5BNzA1Njg4NzYxOV5BMl5BanBnXkFtZTgwODk5NjU3MzI@._V1_QL75_UX380_CR0,0,380,562_.jpg
+  letterboxd_slug: blade-runner-2049
 
 - id: barbie
-  tmdb_id: null
+  tmdb_id: 346698
   title: Barbie
   year: 2023
   runtime: 114
@@ -56,3 +59,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt1517268
   poster_url: https://m.media-amazon.com/images/M/MV5BYjI3NDU0ZGYtYjA2YS00Y2RlLTgwZDAtYTE2YTM5ZjE1M2JlXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg
+  letterboxd_slug: barbie

@@ -4,7 +4,7 @@
 # already exists in caine.yaml. Furious 7 already exists in dwayne-johnson.yaml.
 
 - id: the-transporter
-  tmdb_id: null
+  tmdb_id: 4108
   title: The Transporter
   year: 2002
   runtime: 92
@@ -16,36 +16,44 @@
     humor: 1
     acclaim: 0.62
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+  letterboxd_slug: the-transporter
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/zr/zm/ji/u9/the-transporter-60-1200-1200-675-675-crop-000000.jpg?v=494fbc2170
 
 - id: crank
-  tmdb_id: null
+  tmdb_id: 1948
   title: Crank
   year: 2006
   runtime: 88
   director: Mark Neveldine
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 2, acclaim: 0.62 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+  letterboxd_slug: crank
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/00/uq/ls/k2/crank-1200-1200-675-675-crop-000000.jpg?v=5013039ffd
 
 - id: snatch
-  tmdb_id: null
+  tmdb_id: 107
   title: Snatch
   year: 2000
   runtime: 102
   director: Guy Ritchie
   tags: { opacity: 2, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: snatch
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/6t/20/ji/66/snatch-1200-1200-675-675-crop-000000.jpg?v=7c36d37511
 
 - id: the-meg
-  tmdb_id: null
+  tmdb_id: 345940
   title: The Meg
   year: 2018
   runtime: 113
   director: Jon Turteltaub
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: the-meg
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/sw/ic/3n/9e/the-meg-1200-1200-675-675-crop-000000.jpg?v=bf9fb8a617
 
 - id: the-bank-job
-  tmdb_id: null
+  tmdb_id: 34021
   title: The Bank Job
   year: 2008
   runtime: 111
@@ -57,9 +65,11 @@
     humor: 2
     acclaim: 0.68
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  letterboxd_slug: the-bank-job
+  poster_url: https://a.ltrbxd.com/resized/film-poster/2/9/4/1/1/29411-the-bank-job-0-230-0-345-crop.jpg?v=9e60333764
 
 - id: redemption
-  tmdb_id: null
+  tmdb_id: 158394
   title: Redemption
   year: 2013
   runtime: 100
@@ -71,3 +81,5 @@
     humor: 1
     acclaim: 0.55
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  letterboxd_slug: redemption-2013
+  poster_url: https://a.ltrbxd.com/resized/film-poster/1/1/8/2/4/0/118240-redemption-0-230-0-345-crop.jpg?v=8f1342b52f

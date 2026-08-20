@@ -4,7 +4,7 @@
 # fiennes.yaml (a supporting assassin role) — tagged before he had an entity.
 
 - id: platoon
-  tmdb_id: null
+  tmdb_id: 792
   title: Platoon
   year: 1986
   runtime: 120
@@ -13,9 +13,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt0091763
   poster_url: https://m.media-amazon.com/images/M/MV5BZjE4YjllODAtZGMxZS00Mjg2LThkOWUtZjNkMjQ5YThiNDU4XkEyXkFqcGc@._V1_QL75_UX380_CR0,16,380,562_.jpg
+  letterboxd_slug: platoon
 
 - id: spider-man
-  tmdb_id: null
+  tmdb_id: 557
   title: Spider-Man
   year: 2002
   runtime: 121
@@ -24,9 +25,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0145487
   poster_url: https://m.media-amazon.com/images/M/MV5BZWM0OWVmNTEtNWVkOS00MzgyLTkyMzgtMmE2ZTZiNjY4MmFiXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: spider-man
 
 - id: shadow-of-the-vampire
-  tmdb_id: null
+  tmdb_id: 10873
   title: Shadow of the Vampire
   year: 2000
   runtime: 92
@@ -40,9 +42,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0189998
   poster_url: https://m.media-amazon.com/images/M/MV5BODcwOWM4MDEtMTMxMS00Zjg0LWJiNmYtYzE5MDFlMWEyYTdhXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: shadow-of-the-vampire
 
 - id: antichrist
-  tmdb_id: null
+  tmdb_id: 17609
   title: Antichrist
   year: 2009
   runtime: 108
@@ -56,3 +59,4 @@
   content: { sexual_violence: true, animal_harm: true, child_harm: true, suicide: false, violence: 3, sex: 2 }
   imdb_id: tt0870984
   poster_url: https://m.media-amazon.com/images/M/MV5BMjE3MjQ2ODc1N15BMl5BanBnXkFtZTcwNjYyMzI5Mg@@._V1_SX300.jpg
+  letterboxd_slug: antichrist

@@ -5,10 +5,12 @@
 # gyllenhaal.yaml — tagged before he had an entity.
 
 - id: american-beauty
-  tmdb_id: null
+  tmdb_id: 14
   title: American Beauty
   year: 1999
   runtime: 122
   director: Sam Mendes
   tags: { opacity: 2, stillness: 2, bleakness: 5, humor: 2, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  letterboxd_slug: american-beauty
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/a6/ai/h6/f7/american-beauty-1200-1200-675-675-crop-000000.jpg?v=a0ad00c26e

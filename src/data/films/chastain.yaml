@@ -8,7 +8,7 @@
 # an entity. The Martian already exists in damon.yaml — tagged before she had an entity.
 
 - id: zero-dark-thirty
-  tmdb_id: null
+  tmdb_id: 97630
   title: Zero Dark Thirty
   year: 2012
   runtime: 157
@@ -17,9 +17,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt1790885
   poster_url: https://m.media-amazon.com/images/M/MV5BMTQ4OTUyNzcwN15BMl5BanBnXkFtZTcwMTQ1NDE3OA@@._V1_QL75_UX380_CR0,0,380,562_.jpg
+  letterboxd_slug: zero-dark-thirty
 
 - id: the-eyes-of-tammy-faye
-  tmdb_id: null
+  tmdb_id: 601470
   title: The Eyes of Tammy Faye
   year: 2021
   runtime: 126
@@ -28,3 +29,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt9115530
   poster_url: https://m.media-amazon.com/images/M/MV5BMzcyY2JkZDYtMDEwNS00YzRlLTgxZTAtMDc1YTJmNWIxZjRlXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-eyes-of-tammy-faye-2021

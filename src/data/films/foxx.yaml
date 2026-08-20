@@ -3,7 +3,7 @@
 # Django Unchained already exists in tarantino.yaml — tagged before he had an entity.
 
 - id: ray
-  tmdb_id: null
+  tmdb_id: 60374
   title: Ray
   year: 2004
   runtime: 152
@@ -12,9 +12,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt0350258
   poster_url: https://m.media-amazon.com/images/M/MV5BMTQxNDQwNjQzOV5BMl5BanBnXkFtZTcwNTQxNDYyMQ@@._V1_SX300.jpg
+  letterboxd_slug: ray
 
 - id: collateral
-  tmdb_id: null
+  tmdb_id: 1538
   title: Collateral
   year: 2004
   runtime: 120
@@ -28,9 +29,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt0369339
   poster_url: https://m.media-amazon.com/images/M/MV5BMjE3NjM5OTMxMV5BMl5BanBnXkFtZTcwOTIzMTQyMw@@._V1_SX300.jpg
+  letterboxd_slug: collateral
 
 - id: baby-driver
-  tmdb_id: null
+  tmdb_id: 339403
   title: Baby Driver
   year: 2017
   runtime: 113
@@ -39,9 +41,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt3890160
   poster_url: https://m.media-amazon.com/images/M/MV5BMjM3MjQ1MzkxNl5BMl5BanBnXkFtZTgwODk1ODgyMjI@._V1_QL75_UX380_CR0,0,380,562_.jpg
+  letterboxd_slug: baby-driver
 
 - id: dreamgirls
-  tmdb_id: null
+  tmdb_id: 1125
   title: Dreamgirls
   year: 2006
   runtime: 130
@@ -50,9 +53,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0443489
   poster_url: https://m.media-amazon.com/images/M/MV5BMTY1MzIwNDQyNl5BMl5BanBnXkFtZTcwNDEwNzYyMw@@._V1_SX300.jpg
+  letterboxd_slug: dreamgirls
 
 - id: any-given-sunday
-  tmdb_id: null
+  tmdb_id: 9563
   title: Any Given Sunday
   year: 1999
   runtime: 162
@@ -61,3 +65,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0146838
   poster_url: https://m.media-amazon.com/images/M/MV5BZDIyMGYxMWYtNmUyZC00N2M3LWI0ZGYtMTIwMTk3NmZiY2RkXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: any-given-sunday

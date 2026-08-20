@@ -5,7 +5,7 @@
 # tagged before she had an entity.
 
 - id: moulin-rouge
-  tmdb_id: null
+  tmdb_id: 824
   title: Moulin Rouge!
   year: 2001
   runtime: 128
@@ -14,9 +14,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt0203009
   poster_url: https://m.media-amazon.com/images/M/MV5BYTgyOGY4OTktZmZhMC00ZmIwLWI4YjUtNjYzNDg1Nzc3ZDg1XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: moulin-rouge-2001
 
 - id: the-hours
-  tmdb_id: null
+  tmdb_id: 590
   title: The Hours
   year: 2002
   runtime: 114
@@ -30,9 +31,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
   imdb_id: tt0274558
   poster_url: https://m.media-amazon.com/images/M/MV5BODA0ZWVkZTktZDk3Ny00MTcwLWJhZTYtMTA3N2U2OTBiYzQ3XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-hours
 
 - id: dogville
-  tmdb_id: null
+  tmdb_id: 553
   title: Dogville
   year: 2003
   runtime: 178
@@ -46,9 +48,10 @@
   content: { sexual_violence: true, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 1 }
   imdb_id: tt0276919
   poster_url: https://m.media-amazon.com/images/M/MV5BMThkZDEzYWEtMDZhMC00NWQwLTlmMWYtNTEwYjMzY2UxMDRjXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: dogville
 
 - id: birth
-  tmdb_id: null
+  tmdb_id: 10740
   title: Birth
   year: 2004
   runtime: 100
@@ -62,9 +65,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0337876
   poster_url: https://m.media-amazon.com/images/M/MV5BMGNiNjdlMzAtMDMwNC00NjQ0LWI5YjgtMDY4Y2UxOWNkZjUyXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: birth-2004
 
 - id: rabbit-hole
-  tmdb_id: null
+  tmdb_id: 27585
   title: Rabbit Hole
   year: 2010
   runtime: 91
@@ -73,9 +77,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0935075
   poster_url: https://m.media-amazon.com/images/M/MV5BMjEzOTU0NjMxNF5BMl5BanBnXkFtZTcwNzc5MDUxNA@@._V1_SX300.jpg
+  letterboxd_slug: rabbit-hole
 
 - id: the-paperboy
-  tmdb_id: null
+  tmdb_id: 82390
   title: The Paperboy
   year: 2012
   runtime: 107
@@ -84,9 +89,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
   imdb_id: tt1496422
   poster_url: https://m.media-amazon.com/images/M/MV5BMTcxMzI3OTQ5MF5BMl5BanBnXkFtZTcwMzA0NzcxOA@@._V1_SX300.jpg
+  letterboxd_slug: the-paperboy
 
 - id: the-others
-  tmdb_id: null
+  tmdb_id: 1933
   title: The Others
   year: 2001
   runtime: 104
@@ -100,3 +106,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0230600
   poster_url: https://m.media-amazon.com/images/M/MV5BZTNhODBkODAtNDllYy00YTg1LWJmNDUtYjgzMzEzOWQ0YWNjXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-others

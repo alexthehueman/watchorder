@@ -4,7 +4,7 @@
 # El Royale already exists in hemsworth.yaml — tagged before she had an entity.
 
 - id: harriet
-  tmdb_id: null
+  tmdb_id: 506528
   title: Harriet
   year: 2019
   runtime: 125
@@ -16,21 +16,27 @@
     humor: 1
     acclaim: 0.72
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: harriet
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/c5/2i/av/23/DBE07905-3174-4A26-BAF5-7979A840C823-1200-1200-675-675-crop-000000.jpg?v=dccbbdf1f5
 
 - id: wicked
-  tmdb_id: null
+  tmdb_id: 402431
   title: Wicked
   year: 2024
   runtime: 160
   director: Jon M. Chu
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.82 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: wicked-2024
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/92/uz/fp/eq/uKb22E0nlzr914bA9KyA5CVCOlV-1200-1200-675-675-crop-000000.jpg?v=fd8fe12586
 
 - id: the-color-purple-2023
-  tmdb_id: null
+  tmdb_id: 558915
   title: The Color Purple
   year: 2023
   runtime: 141
   director: Blitz Bazawule
   tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.68 }
   content: { sexual_violence: true, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: the-color-purple-2023
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/sw/xk/lm/w2/color-purple-2023-1200-1200-675-675-crop-000000.jpg?v=0a55062340

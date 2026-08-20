@@ -5,7 +5,7 @@
 # (a supporting ensemble part) — tagged before he had an entity.
 
 - id: stripes
-  tmdb_id: null
+  tmdb_id: 10890
   title: Stripes
   year: 1981
   runtime: 106
@@ -14,9 +14,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
   imdb_id: tt0083131
   poster_url: https://m.media-amazon.com/images/M/MV5BM2VjZDExMjctMGVjMS00MDQxLWI2NTQtODJjNjNkN2ExY2FkXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: stripes
 
 - id: caddyshack
-  tmdb_id: null
+  tmdb_id: 11977
   title: Caddyshack
   year: 1980
   runtime: 98
@@ -25,9 +26,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0080487
   poster_url: https://m.media-amazon.com/images/M/MV5BZmUwZTBiMTYtODUxOS00NjcxLTkxZWQtODE2MTZlYTgwNDVlXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: caddyshack
 
 - id: groundhog-day
-  tmdb_id: null
+  tmdb_id: 137
   title: Groundhog Day
   year: 1993
   runtime: 101
@@ -41,9 +43,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
   imdb_id: tt0107048
   poster_url: https://m.media-amazon.com/images/M/MV5BOWE3MjQ3ZDAtNDQ2MC00YjBjLTk0ZWYtNjQ0YzQ4YWE3YTEyXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: groundhog-day
 
 - id: rushmore
-  tmdb_id: null
+  tmdb_id: 11545
   title: Rushmore
   year: 1998
   runtime: 93
@@ -52,9 +55,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0128445
   poster_url: https://m.media-amazon.com/images/M/MV5BZmM2MTNhYWItMDc4Yi00MTM3LWI3YTctYjE1NWRjNTczYjI5XkEyXkFqcGc@._V1_QL75_UY562_CR0,0,380,562_.jpg
+  letterboxd_slug: rushmore
 
 - id: lost-in-translation
-  tmdb_id: null
+  tmdb_id: 153
   title: Lost in Translation
   year: 2003
   runtime: 102
@@ -68,9 +72,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0335266
   poster_url: https://m.media-amazon.com/images/M/MV5BMTUxMzk0NDg1MV5BMl5BanBnXkFtZTgwNDg0NjkxMDI@._V1_SX300.jpg
+  letterboxd_slug: lost-in-translation
 
 - id: the-life-aquatic-with-steve-zissou
-  tmdb_id: null
+  tmdb_id: 421
   title: The Life Aquatic with Steve Zissou
   year: 2004
   runtime: 119
@@ -79,9 +84,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0362270
   poster_url: https://m.media-amazon.com/images/M/MV5BMTYzODYzNzg2MF5BMl5BanBnXkFtZTcwMTkzOTQzMw@@._V1_QL75_UY562_CR2,0,380,562_.jpg
+  letterboxd_slug: the-life-aquatic-with-steve-zissou
 
 - id: scrooged
-  tmdb_id: null
+  tmdb_id: 9647
   title: Scrooged
   year: 1988
   runtime: 101
@@ -90,9 +96,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0096061
   poster_url: https://m.media-amazon.com/images/M/MV5BYWY3ODUyZTQtMTQyZS00ZWIyLTk3M2YtYzU5ZWQ3MTEwZGU1XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: scrooged
 
 - id: what-about-bob
-  tmdb_id: null
+  tmdb_id: 10276
   title: What About Bob?
   year: 1991
   runtime: 99
@@ -101,9 +108,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0103241
   poster_url: https://m.media-amazon.com/images/M/MV5BOTM2MzhhZmQtMzg3Zi00OTJkLTlkNjYtY2NkMDMyZmE3NGFlXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: what-about-bob
 
 - id: broken-flowers
-  tmdb_id: null
+  tmdb_id: 308
   title: Broken Flowers
   year: 2005
   runtime: 106
@@ -117,3 +125,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0412019
   poster_url: https://m.media-amazon.com/images/M/MV5BNTRiMDMyZDktZDAzNS00NDZkLWJkN2MtMDM1ZTU3NWM5MDg3XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: broken-flowers

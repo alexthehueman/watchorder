@@ -4,7 +4,7 @@
 # Pitch Perfect already exists in kendrick.yaml — tagged before she had an entity.
 
 - id: slither
-  tmdb_id: null
+  tmdb_id: 9035
   title: Slither
   year: 2006
   runtime: 95
@@ -16,12 +16,16 @@
     humor: 4
     acclaim: 0.65
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: slither
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/1s/zy/zd/vi/slither-1200-1200-675-675-crop-000000.jpg?v=5b5e4e826c
 
 - id: charlies-angels-2019
-  tmdb_id: null
+  tmdb_id: 458897
   title: Charlie's Angels
   year: 2019
   runtime: 118
   director: Elizabeth Banks
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.5 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: charlies-angels-2019
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/pu/rg/8h/26/charlies-angels-2019-1200-1200-675-675-crop-000000.jpg?v=2681f03fbf

@@ -5,7 +5,7 @@
 # before he had an entity.
 
 - id: y-tu-mama-tambien
-  tmdb_id: null
+  tmdb_id: 1391
   title: Y Tu Mama Tambien
   year: 2001
   runtime: 106
@@ -17,9 +17,11 @@
     humor: 3
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+  letterboxd_slug: y-tu-mama-tambien
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/75/nt/h7/s3/y%20tu-1200-1200-675-675-crop-000000.jpg?v=8758549cf7
 
 - id: elysium
-  tmdb_id: null
+  tmdb_id: 68724
   title: Elysium
   year: 2013
   runtime: 109
@@ -31,3 +33,5 @@
     humor: 1
     acclaim: 0.58
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: elysium-2013
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/xm/7o/kw/pi/elysium-chip-1200-1200-675-675-crop-000000.jpg?v=587abf57cf

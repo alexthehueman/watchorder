@@ -4,7 +4,7 @@
 # Revolutionary Road already exists in winslet.yaml — tagged before he had an entity.
 
 - id: take-shelter
-  tmdb_id: null
+  tmdb_id: 64720
   title: Take Shelter
   year: 2011
   runtime: 121
@@ -18,9 +18,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt1675192
   poster_url: https://m.media-amazon.com/images/M/MV5BNzgzODA5MTU3MF5BMl5BanBnXkFtZTcwODY4MDEwNg@@._V1_SX300.jpg
+  letterboxd_slug: take-shelter
 
 - id: man-of-steel
-  tmdb_id: null
+  tmdb_id: 49521
   title: Man of Steel
   year: 2013
   runtime: 143
@@ -29,9 +30,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt0770828
   poster_url: https://m.media-amazon.com/images/M/MV5BMTk5ODk1NDkxMF5BMl5BanBnXkFtZTcwNTA5OTY0OQ@@._V1_QL75_UY562_CR0,0,380,562_.jpg
+  letterboxd_slug: man-of-steel
 
 - id: midnight-special
-  tmdb_id: null
+  tmdb_id: 245703
   title: Midnight Special
   year: 2016
   runtime: 112
@@ -45,9 +47,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt2649554
   poster_url: https://m.media-amazon.com/images/M/MV5BMTUwNDcyNzkyOV5BMl5BanBnXkFtZTgwNzI1NzkyNzE@._V1_SX300.jpg
+  letterboxd_slug: midnight-special
 
 - id: knives-out
-  tmdb_id: null
+  tmdb_id: 546554
   title: Knives Out
   year: 2019
   runtime: 130
@@ -56,3 +59,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt8946378
   poster_url: https://m.media-amazon.com/images/M/MV5BZDU5ZTRkYmItZjg0Mi00ZTQwLThjMWItNWM3MTMxMzVjZmVjXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg
+  letterboxd_slug: knives-out-2019

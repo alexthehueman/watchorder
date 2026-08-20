@@ -5,25 +5,29 @@
 # swinton.yaml — tagged before he had an entity.
 
 - id: not-another-teen-movie
-  tmdb_id: null
+  tmdb_id: 11397
   title: Not Another Teen Movie
   year: 2001
   runtime: 89
   director: Joel Gallen
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.42 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: not-another-teen-movie
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/6b/43/32/xe/not-another-teen-movie-1200-1200-675-675-crop-000000.jpg?v=6f5e18ed24
 
 - id: captain-america-the-first-avenger
-  tmdb_id: null
+  tmdb_id: 1771
   title: Captain America The First Avenger
   year: 2011
   runtime: 124
   director: Joe Johnston
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: captain-america-the-first-avenger
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/fq/ys/wr/mt/captain-america-25-1200-1200-675-675-crop-000000.jpg?v=91843523ae
 
 - id: captain-america-the-winter-soldier
-  tmdb_id: null
+  tmdb_id: 100402
   title: Captain America The Winter Soldier
   year: 2014
   runtime: 136
@@ -35,9 +39,11 @@
     humor: 2
     acclaim: 0.82
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: captain-america-the-winter-soldier
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/o6/qg/sr/lk/captain-america-winter-soldier-1200-1200-675-675-crop-000000.jpg?v=9670009a37
 
 - id: sunshine
-  tmdb_id: null
+  tmdb_id: 1272
   title: Sunshine
   year: 2007
   runtime: 107
@@ -49,12 +55,16 @@
     humor: 1
     acclaim: 0.72
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: sunshine-2007
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/j7/rd/3s/r4/sunshine-2007a-1200-1200-675-675-crop-000000.jpg?v=02b4c9dbd2
 
 - id: gifted
-  tmdb_id: null
+  tmdb_id: 400928
   title: Gifted
   year: 2017
   runtime: 101
   director: Marc Webb
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: gifted-2017
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/tm/ej/df/io/gifted-2017-1200-1200-675-675-crop-000000.jpg?v=eda96cfbea

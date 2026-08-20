@@ -1,7 +1,7 @@
 # New films for Timothee Chalamet. Scales and anchors are in README.md ("The anchor rubric").
 
 - id: call-me-by-your-name
-  tmdb_id: null
+  tmdb_id: 398818
   title: Call Me by Your Name
   year: 2017
   runtime: 132
@@ -10,9 +10,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
   imdb_id: tt5726616
   poster_url: https://m.media-amazon.com/images/M/MV5BNDk3NTEwNjc0MV5BMl5BanBnXkFtZTgwNzYxNTMwMzI@._V1_SX300.jpg
+  letterboxd_slug: call-me-by-your-name
 
 - id: lady-bird
-  tmdb_id: null
+  tmdb_id: 391713
   title: Lady Bird
   year: 2017
   runtime: 94
@@ -21,9 +22,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt4925292
   poster_url: https://m.media-amazon.com/images/M/MV5BNjk5MzcyOWQtNzE1Mi00NzdmLTlkM2QtOTdjZThhMDc2Y2NjXkEyXkFqcGc@._V1_QL75_UY562_CR0,0,380,562_.jpg
+  letterboxd_slug: lady-bird
 
 - id: beautiful-boy
-  tmdb_id: null
+  tmdb_id: 451915
   title: Beautiful Boy
   year: 2018
   runtime: 120
@@ -32,9 +34,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt1226837
   poster_url: https://m.media-amazon.com/images/M/MV5BNTRhNjg3NGMtMDM3Mi00ZmRmLTg0ZDMtYTBhMThiN2YxMTdjXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: beautiful-boy-2018
 
 - id: bones-and-all
-  tmdb_id: null
+  tmdb_id: 791177
   title: Bones and All
   year: 2022
   runtime: 130
@@ -48,9 +51,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
   imdb_id: tt10168670
   poster_url: https://m.media-amazon.com/images/M/MV5BYjUzMWU0ZTEtMjlhYy00YWEwLTlhOTktNzNkMTlhNGNiYmRlXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: bones-and-all
 
 - id: little-women-2019
-  tmdb_id: null
+  tmdb_id: 331482
   title: Little Women
   year: 2019
   runtime: 135
@@ -59,9 +63,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt3281548
   poster_url: https://m.media-amazon.com/images/M/MV5BMWMzYjNiZWMtMDg4NS00MDgyLTk5MWItOTFmNjg4NzRhZmExXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg
+  letterboxd_slug: little-women-2019
 
 - id: dune-2021
-  tmdb_id: null
+  tmdb_id: 438631
   title: Dune
   year: 2021
   runtime: 155
@@ -73,9 +78,11 @@
     humor: 1
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: dune-2021
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/a6/8b/5j/zk/dune-2021a-1200-1200-675-675-crop-000000.jpg?v=7422445327
 
 - id: wonka
-  tmdb_id: null
+  tmdb_id: 787699
   title: Wonka
   year: 2023
   runtime: 116
@@ -84,6 +91,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt6166392
   poster_url: https://m.media-amazon.com/images/M/MV5BM2Y1N2ZhNjctYjVhZC00MDg2LWFhNTItMzI3ZjAwZDhjYmFiXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: wonka
 
 - id: the-french-dispatch
   tmdb_id: null

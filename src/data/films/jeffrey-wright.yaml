@@ -5,7 +5,7 @@
 # Ali already exists in smith.yaml.
 
 - id: basquiat
-  tmdb_id: null
+  tmdb_id: 549
   title: Basquiat
   year: 1996
   runtime: 108
@@ -17,12 +17,16 @@
     humor: 2
     acclaim: 0.62
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: basquiat
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/7u/g7/2r/3e/basquiat-1200-1200-675-675-crop-000000.jpg?v=b08cf2158a
 
 - id: w
-  tmdb_id: null
+  tmdb_id: 10523
   title: W.
   year: 2008
   runtime: 131
   director: Oliver Stone
   tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.50 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: w
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/lb/kc/0j/cq/w-1200-1200-675-675-crop-000000.jpg?v=83de7783ca

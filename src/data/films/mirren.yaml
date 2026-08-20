@@ -17,7 +17,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 2 }
 
 - id: the-madness-of-king-george
-  tmdb_id: null
+  tmdb_id: 11318
   title: The Madness of King George
   year: 1994
   runtime: 110
@@ -26,9 +26,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0110428
   poster_url: https://m.media-amazon.com/images/M/MV5BOWYyMDcyZDUtMzQ0ZC00ZDllLWI1MTMtZjM0M2I5N2JhNDgzXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-madness-of-king-george
 
 - id: the-queen
-  tmdb_id: null
+  tmdb_id: 1165
   title: The Queen
   year: 2006
   runtime: 103
@@ -37,9 +38,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0436697
   poster_url: https://m.media-amazon.com/images/M/MV5BMTQ3NTMxODg1Ml5BMl5BanBnXkFtZTcwMjEyMjczMQ@@._V1_SX300.jpg
+  letterboxd_slug: the-queen-2006
 
 - id: the-last-station
-  tmdb_id: null
+  tmdb_id: 36811
   title: The Last Station
   year: 2009
   runtime: 112
@@ -48,9 +50,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0824758
   poster_url: https://m.media-amazon.com/images/M/MV5BMTA4MTAzNTQzMDNeQTJeQWpwZ15BbWU3MDgzNTg2MDM@._V1_SX300.jpg
+  letterboxd_slug: the-last-station
 
 - id: woman-in-gold
-  tmdb_id: null
+  tmdb_id: 304357
   title: Woman in Gold
   year: 2015
   runtime: 109
@@ -64,9 +67,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt2404425
   poster_url: https://m.media-amazon.com/images/M/MV5BNjc0NzY3OTE0Nl5BMl5BanBnXkFtZTgwNDUyODA4MzE@._V1_SX300.jpg
+  letterboxd_slug: woman-in-gold
 
 - id: hitchcock
-  tmdb_id: null
+  tmdb_id: 112336
   title: Hitchcock
   year: 2012
   runtime: 98
@@ -75,9 +79,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0975645
   poster_url: https://m.media-amazon.com/images/M/MV5BODAwNDI5NjIwN15BMl5BanBnXkFtZTcwNjc4ODc2OA@@._V1_SX300.jpg
+  letterboxd_slug: hitchcock
 
 - id: red
-  tmdb_id: null
+  tmdb_id: 39514
   title: RED
   year: 2010
   runtime: 111
@@ -86,9 +91,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt1245526
   poster_url: https://m.media-amazon.com/images/M/MV5BMzg2Mjg1OTk0NF5BMl5BanBnXkFtZTcwMjQ4MTA3Mw@@._V1_SX300.jpg
+  letterboxd_slug: red-2010
 
 - id: eye-in-the-sky
-  tmdb_id: null
+  tmdb_id: 333352
   title: Eye in the Sky
   year: 2015
   runtime: 102
@@ -102,3 +108,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt2057392
   poster_url: https://m.media-amazon.com/images/M/MV5BNTY4Nzg5MTU0OV5BMl5BanBnXkFtZTgwMjY2MjU2NzE@._V1_SX300.jpg
+  letterboxd_slug: eye-in-the-sky-2015

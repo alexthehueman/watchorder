@@ -7,7 +7,7 @@
 # — tagged before he had an actor entity.
 
 - id: dirty-harry
-  tmdb_id: null
+  tmdb_id: 984
   title: Dirty Harry
   year: 1971
   runtime: 102
@@ -16,9 +16,10 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt0066999
   poster_url: https://m.media-amazon.com/images/M/MV5BYzNmOWVjN2ItMTQzOS00MTI4LTgxZDItMmZjNTVlMjY5Mjc1XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: dirty-harry
 
 - id: play-misty-for-me
-  tmdb_id: null
+  tmdb_id: 15393
   title: Play Misty for Me
   year: 1971
   runtime: 102
@@ -27,9 +28,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
   imdb_id: tt0067588
   poster_url: https://m.media-amazon.com/images/M/MV5BZGE2MWFlOTItYzczNS00NzYwLWE1MWUtYWYyYWQzMTNiOTk3XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: play-misty-for-me
 
 - id: escape-from-alcatraz
-  tmdb_id: null
+  tmdb_id: 10734
   title: Escape from Alcatraz
   year: 1979
   runtime: 112
@@ -43,9 +45,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0079116
   poster_url: https://m.media-amazon.com/images/M/MV5BNWQyMzEwYzctMzYzZC00ZGM0LWIyZDQtZmJjYWE3OTYxNDA5XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: escape-from-alcatraz
 
 - id: the-good-the-bad-and-the-ugly
-  tmdb_id: null
+  tmdb_id: 429
   title: The Good the Bad and the Ugly
   year: 1966
   runtime: 178
@@ -54,9 +57,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt0060196
   poster_url: https://m.media-amazon.com/images/M/MV5BMWM5ZjQxM2YtNDlmYi00ZDNhLWI4MWUtN2VkYjBlMTY1ZTkwXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg
+  letterboxd_slug: the-good-the-bad-and-the-ugly
 
 - id: gran-torino
-  tmdb_id: null
+  tmdb_id: 13223
   title: Gran Torino
   year: 2008
   runtime: 116
@@ -65,9 +69,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt1205489
   poster_url: https://m.media-amazon.com/images/M/MV5BMTc5NTk2OTU1Nl5BMl5BanBnXkFtZTcwMDc3NjAwMg@@._V1_SX300.jpg
+  letterboxd_slug: gran-torino
 
 - id: the-mule
-  tmdb_id: null
+  tmdb_id: 504172
   title: The Mule
   year: 2018
   runtime: 116
@@ -76,3 +81,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt7959026
   poster_url: https://m.media-amazon.com/images/M/MV5BMTc1OTc5NzA4OF5BMl5BanBnXkFtZTgwOTAzMzE2NjM@._V1_SX300.jpg
+  letterboxd_slug: the-mule-2018

@@ -4,37 +4,45 @@
 # already exists in watts.yaml — tagged before he had an entity.
 
 - id: mystic-river
-  tmdb_id: null
+  tmdb_id: 322
   title: Mystic River
   year: 2003
   runtime: 138
   director: Clint Eastwood
   tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.85 }
   content: { sexual_violence: true, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: mystic-river
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/1s/t0/ls/g6/mystic-river-1200-1200-675-675-crop-000000.jpg?v=2355d74a3a
 
 - id: milk
-  tmdb_id: null
+  tmdb_id: 10139
   title: Milk
   year: 2008
   runtime: 128
   director: Gus Van Sant
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 2, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  letterboxd_slug: milk-2008
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/4k/vx/lz/5w/milk-1200-1200-675-675-crop-000000.jpg?v=c3bd0d93b3
 
 - id: fast-times-at-ridgemont-high
-  tmdb_id: null
+  tmdb_id: 13342
   title: Fast Times at Ridgemont High
   year: 1982
   runtime: 90
   director: Amy Heckerling
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+  letterboxd_slug: fast-times-at-ridgemont-high
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/xi/61/4e/zi/fast-times-at-ridgemont-high-1200-1200-675-675-crop-000000.jpg?v=b54ebd306a
 
 - id: i-am-sam
-  tmdb_id: null
+  tmdb_id: 10950
   title: I Am Sam
   year: 2001
   runtime: 132
   director: Jessie Nelson
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.48 }
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: i-am-sam
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ah/r6/cf/xp/i-am-sam-1200-1200-675-675-crop-000000.jpg?v=6fba7f978c

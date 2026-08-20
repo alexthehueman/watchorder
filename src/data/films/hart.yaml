@@ -1,22 +1,26 @@
 # New films for Kevin Hart. Scales and anchors are in README.md ("The anchor rubric").
 
 - id: ride-along
-  tmdb_id: null
+  tmdb_id: 168530
   title: Ride Along
   year: 2014
   runtime: 100
   director: Tim Story
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: ride-along
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/88/9a/jw/70/ride-along-1200-1200-675-675-crop-000000.jpg?v=bdcf4d9674
 
 - id: jumanji-welcome-to-the-jungle
-  tmdb_id: null
+  tmdb_id: 353486
   title: Jumanji Welcome to the Jungle
   year: 2017
   runtime: 119
   director: Jake Kasdan
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: jumanji-welcome-to-the-jungle
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/cl/s8/wp/2f/jumanji-welcome-to-jungle-1200-1200-675-675-crop-000000.jpg?v=3aa0a3d468
 
 - id: the-upside
   tmdb_id: null
@@ -28,28 +32,34 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
 
 - id: central-intelligence
-  tmdb_id: null
+  tmdb_id: 302699
   title: Central Intelligence
   year: 2016
   runtime: 107
   director: Rawson Marshall Thurber
   tags: { opacity: 2, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.58 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: central-intelligence
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/tc/t7/kd/uk/central-intelligence-1200-1200-675-675-crop-000000.jpg?v=d85cc5df0c
 
 - id: fatherhood
-  tmdb_id: null
+  tmdb_id: 607259
   title: Fatherhood
   year: 2021
   runtime: 109
   director: Paul Weitz
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.58 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: fatherhood-2021
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/0s/cm/to/wi/fatherhood-1200-1200-675-675-crop-000000.jpg?v=579291a55f
 
 - id: night-school
-  tmdb_id: null
+  tmdb_id: 454293
   title: Night School
   year: 2018
   runtime: 111
   director: Malcolm D. Lee
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.45 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: night-school-2018
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/a7/bv/gn/xi/night-school-2018-1200-1200-675-675-crop-000000.jpg?v=61ace32e64

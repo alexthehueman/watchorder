@@ -1,25 +1,29 @@
 # New films for Salma Hayek. Scales and anchors are in README.md ("The anchor rubric").
 
 - id: frida
-  tmdb_id: null
+  tmdb_id: 1360
   title: Frida
   year: 2002
   runtime: 123
   director: Julie Taymor
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 2, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  letterboxd_slug: frida
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/xw/of/2d/ot/frida-1200-1200-675-675-crop-000000.jpg?v=31d00a2a73
 
 - id: desperado
-  tmdb_id: null
+  tmdb_id: 8068
   title: Desperado
   year: 1995
   runtime: 104
   director: Robert Rodriguez
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 3, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+  letterboxd_slug: desperado
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/qx/5b/8z/d4/desperado-1200-1200-675-675-crop-000000.jpg?v=6757749da4
 
 - id: from-dusk-till-dawn
-  tmdb_id: null
+  tmdb_id: 755
   title: From Dusk Till Dawn
   year: 1996
   runtime: 108
@@ -31,21 +35,27 @@
     humor: 3
     acclaim: 0.68
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 2 }
+  letterboxd_slug: from-dusk-till-dawn
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/st/lx/pr/h0/from-dusk-till-dawn-1200-1200-675-675-crop-000000.jpg?v=dc14239739
 
 - id: once-upon-a-time-in-mexico
-  tmdb_id: null
+  tmdb_id: 1428
   title: Once Upon a Time in Mexico
   year: 2003
   runtime: 102
   director: Robert Rodriguez
   tags: { opacity: 2, stillness: 1, bleakness: 3, humor: 2, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: once-upon-a-time-in-mexico
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/w3/4i/jo/j4/once%20upon%20a%20time%20in%20mexico-1200-1200-675-675-crop-000000.jpg?v=93d84331e6
 
 - id: the-hitmans-bodyguard
-  tmdb_id: null
+  tmdb_id: 390043
   title: The Hitman's Bodyguard
   year: 2017
   runtime: 118
   director: Patrick Hughes
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+  letterboxd_slug: the-hitmans-bodyguard
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/qj/bb/7x/5g/hitmans-bodyguard-1200-1200-675-675-crop-000000.jpg?v=bcff00b04e

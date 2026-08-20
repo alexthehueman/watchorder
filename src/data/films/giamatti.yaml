@@ -5,7 +5,7 @@
 # fassbender.yaml. Straight Outta Compton already exists in stanfield.yaml.
 
 - id: sideways
-  tmdb_id: null
+  tmdb_id: 9675
   title: Sideways
   year: 2004
   runtime: 127
@@ -17,9 +17,11 @@
     humor: 4
     acclaim: 0.82
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: sideways
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/hc/jd/kw/1g/sideways-1200-1200-675-675-crop-000000.jpg?v=27daf0ed17
 
 - id: american-splendor
-  tmdb_id: null
+  tmdb_id: 2771
   title: American Splendor
   year: 2003
   runtime: 101
@@ -31,18 +33,22 @@
     humor: 3
     acclaim: 0.83
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: american-splendor
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/8z/md/6u/qh/american-splendor-1200-1200-675-675-crop-000000.jpg?v=14bab67a52
 
 - id: win-win
-  tmdb_id: null
+  tmdb_id: 55725
   title: Win Win
   year: 2011
   runtime: 106
   director: Tom McCarthy
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: win-win
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/dm/9s/de/qe/win-win-1200-1200-675-675-crop-000000.jpg?v=33019e691d
 
 - id: barneys-version
-  tmdb_id: null
+  tmdb_id: 46829
   title: Barney's Version
   year: 2010
   runtime: 134
@@ -54,3 +60,5 @@
     humor: 3
     acclaim: 0.68
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: barneys-version
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/tw/i0/x4/fn/barneys-version-1200-1200-675-675-crop-000000.jpg?v=0fb07b641a

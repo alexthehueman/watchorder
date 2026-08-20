@@ -5,7 +5,7 @@
 # hill.yaml — tagged before she had an entity.
 
 - id: blonde
-  tmdb_id: null
+  tmdb_id: 301502
   title: Blonde
   year: 2022
   runtime: 166
@@ -17,9 +17,11 @@
     humor: 1
     acclaim: 0.45
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 2 }
+  letterboxd_slug: blonde-2022
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/q9/5y/wp/en/blonde-2022-1200-1200-675-675-crop-000000.jpg?v=649890a954
 
 - id: deep-water
-  tmdb_id: null
+  tmdb_id: 619979
   title: Deep Water
   year: 2022
   runtime: 116
@@ -31,12 +33,16 @@
     humor: 1
     acclaim: 0.42
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 1, sex: 2 }
+  letterboxd_slug: deep-water-2022
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/6t/vv/08/e1/228B1944-4668-4B11-B0E5-F10C3DADF5D3-1200-1200-675-675-crop-000000.jpg?v=31793876ad
 
 - id: no-time-to-die
-  tmdb_id: null
+  tmdb_id: 370172
   title: No Time to Die
   year: 2021
   runtime: 163
   director: Cary Joji Fukunaga
   tags: { opacity: 1, stillness: 1, bleakness: 4, humor: 2, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 0 }
+  letterboxd_slug: no-time-to-die-2021
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/z5/b5/l2/ek/no-time-to-die-1200-1200-675-675-crop-000000.jpg?v=59b6acfbbf

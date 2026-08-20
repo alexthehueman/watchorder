@@ -6,10 +6,12 @@
 # tagged before he had an entity.
 
 - id: about-time
-  tmdb_id: null
+  tmdb_id: 122906
   title: About Time
   year: 2013
   runtime: 123
   director: Richard Curtis
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: about-time
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/am/me/g7/qk/about-time-1200-1200-675-675-crop-000000.jpg?v=1c599c55f6

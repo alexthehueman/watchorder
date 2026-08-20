@@ -1,34 +1,40 @@
 # New films for Jenna Ortega. Scales and anchors are in README.md ("The anchor rubric").
 
 - id: x-2022
-  tmdb_id: null
+  tmdb_id: 760104
   title: "X"
   year: 2022
   runtime: 105
   director: Ti West
   tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 2, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 2 }
+  letterboxd_slug: x-2022
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/lj/kq/2g/p5/x-1200-1200-675-675-crop-000000.jpg?v=5282aa611d
 
 - id: scream-2022
-  tmdb_id: null
+  tmdb_id: 646385
   title: Scream
   year: 2022
   runtime: 114
   director: Matt Bettinelli-Olpin
   tags: { opacity: 2, stillness: 1, bleakness: 4, humor: 2, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: scream-2022
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/7v/gi/pv/hq/v1PuxThVwlpaxP3s99XuuZA5HX0-1200-1200-675-675-crop-000000.jpg?v=ad95a20c83
 
 - id: the-fallout
-  tmdb_id: null
+  tmdb_id: 795514
   title: The Fallout
   year: 2021
   runtime: 96
   director: Megan Park
   tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: the-fallout
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/dm/m3/83/rt/the-fallout-1200-1200-675-675-crop-000000.jpg?v=0efe28df30
 
 - id: millers-girl
-  tmdb_id: null
+  tmdb_id: 1026436
   title: Miller's Girl
   year: 2024
   runtime: 93
@@ -40,12 +46,16 @@
     humor: 1
     acclaim: 0.42
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: millers-girl
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/gz/3b/ai/e9/millers-1200-1200-675-675-crop-000000.jpg?v=45fb0c83f8
 
 - id: beetlejuice-beetlejuice
-  tmdb_id: null
+  tmdb_id: 917496
   title: Beetlejuice Beetlejuice
   year: 2024
   runtime: 105
   director: Tim Burton
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: beetlejuice-beetlejuice
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/b9/17/c0/3a/beetlejuice-beetlejuice-1200-1200-675-675-crop-000000.jpg?v=6f170c7899

@@ -5,7 +5,7 @@
 # already exists in pta.yaml — tagged before he had an entity.
 
 - id: im-thinking-of-ending-things
-  tmdb_id: null
+  tmdb_id: 500840
   title: I'm Thinking of Ending Things
   year: 2020
   runtime: 134
@@ -17,12 +17,16 @@
     humor: 2
     acclaim: 0.62
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
+  letterboxd_slug: im-thinking-of-ending-things
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ai/41/be/0f/im-thinking-of-ending-things-1200-1200-675-675-crop-000000.jpg?v=125c3a0f57
 
 - id: civil-war-2024
-  tmdb_id: null
+  tmdb_id: 929590
   title: Civil War
   year: 2024
   runtime: 109
   director: Alex Garland
   tags: { opacity: 2, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: civil-war-2024
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/7t/3p/p9/1j/l02SyGL4QaRAy000ZY28IlSiBOx-1200-1200-675-675-crop-000000.jpg?v=85ba445b22

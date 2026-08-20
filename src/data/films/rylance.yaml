@@ -3,7 +3,7 @@
 # Dunkirk already exists in cillian-murphy.yaml — tagged before he had an entity.
 
 - id: bridge-of-spies
-  tmdb_id: null
+  tmdb_id: 296098
   title: Bridge of Spies
   year: 2015
   runtime: 142
@@ -15,21 +15,27 @@
     humor: 2
     acclaim: 0.82
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: bridge-of-spies
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/xg/wq/m2/f0/bridge-of-spies-1200-1200-675-675-crop-000000.jpg?v=cfad9a7a9c
 
 - id: the-bfg
-  tmdb_id: null
+  tmdb_id: 267935
   title: The BFG
   year: 2016
   runtime: 117
   director: Steven Spielberg
   tags: { opacity: 1, stillness: 3, bleakness: 2, humor: 3, acclaim: 0.62 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: the-bfg-2016
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/2l/5w/p5/3x/the-bfg-2016-1200-1200-675-675-crop-000000.jpg?v=473553a4ee
 
 - id: ready-player-one
-  tmdb_id: null
+  tmdb_id: 333339
   title: Ready Player One
   year: 2018
   runtime: 140
   director: Steven Spielberg
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: ready-player-one
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/55/qw/ol/78/ready-player-one-1200-1200-675-675-crop-000000.jpg?v=bb291b3306

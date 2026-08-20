@@ -6,19 +6,23 @@
 # an entity.
 
 - id: end-of-watch
-  tmdb_id: null
+  tmdb_id: 77016
   title: End of Watch
   year: 2012
   runtime: 109
   director: David Ayer
   tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 2, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: end-of-watch
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/0i/bm/gm/c0/end-of-watch-1200-1200-675-675-crop-000000.jpg?v=f0aa839d39
 
 - id: world-trade-center
-  tmdb_id: null
+  tmdb_id: 1852
   title: World Trade Center
   year: 2006
   runtime: 129
   director: Oliver Stone
   tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.65 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: world-trade-center
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/3u/75/pq/un/world-trade-center-1200-1200-675-675-crop-000000.jpg?v=95fa146f21

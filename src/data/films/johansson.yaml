@@ -7,7 +7,7 @@
 # entity.
 
 - id: match-point
-  tmdb_id: null
+  tmdb_id: 116
   title: Match Point
   year: 2005
   runtime: 124
@@ -16,9 +16,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
   imdb_id: tt0416320
   poster_url: https://m.media-amazon.com/images/M/MV5BMTQ1NzQ4OTM4MV5BMl5BanBnXkFtZTcwNzY2OTQzMw@@._V1_SX300.jpg
+  letterboxd_slug: match-point
 
 - id: the-avengers
-  tmdb_id: null
+  tmdb_id: 24428
   title: The Avengers
   year: 2012
   runtime: 143
@@ -27,9 +28,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0848228
   poster_url: https://m.media-amazon.com/images/M/MV5BNGE0YTVjNzUtNzJjOS00NGNlLTgxMzctZTY4YTE1Y2Y1ZTU4XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg
+  letterboxd_slug: the-avengers-2012
 
 - id: marriage-story
-  tmdb_id: null
+  tmdb_id: 492188
   title: Marriage Story
   year: 2019
   runtime: 137
@@ -38,9 +40,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt7653254
   poster_url: https://m.media-amazon.com/images/M/MV5BNmE0OWJlM2MtNzhmMi00YmQyLTlmY2EtZmUzNzBiNGRlN2JkXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: marriage-story-2019
 
 - id: jojo-rabbit
-  tmdb_id: null
+  tmdb_id: 515001
   title: Jojo Rabbit
   year: 2019
   runtime: 108
@@ -49,9 +52,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt2584384
   poster_url: https://m.media-amazon.com/images/M/MV5BYmFmNmUyMjYtZTFjNS00OWQyLThhZmMtMGZkYTQ3YjY0ZDQ1XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: jojo-rabbit
 
 - id: lucy
-  tmdb_id: null
+  tmdb_id: 240832
   title: Lucy
   year: 2014
   runtime: 89
@@ -65,3 +69,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt2872732
   poster_url: https://m.media-amazon.com/images/M/MV5BODcxMzY3ODY1NF5BMl5BanBnXkFtZTgwNzg1NDY4MTE@._V1_SX300.jpg
+  letterboxd_slug: lucy-2014

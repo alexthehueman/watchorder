@@ -4,7 +4,7 @@
 # had an entity. The Natural already exists in redford.yaml — tagged before she had an entity.
 
 - id: the-big-chill
-  tmdb_id: null
+  tmdb_id: 12560
   title: The Big Chill
   year: 1983
   runtime: 105
@@ -13,9 +13,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
   imdb_id: tt0085244
   poster_url: https://m.media-amazon.com/images/M/MV5BOTg3YWQ1MWItMTcxYy00NTczLWJiMDktYjkxMWExNDY3ZjI4XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-big-chill
 
 - id: fatal-attraction
-  tmdb_id: null
+  tmdb_id: 10998
   title: Fatal Attraction
   year: 1987
   runtime: 119
@@ -24,9 +25,10 @@
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 1 }
   imdb_id: tt0093010
   poster_url: https://m.media-amazon.com/images/M/MV5BMTYxY2MxZGUtYWMwYi00YTI4LWE5MTItZjRiZDIzNzdhNWY3XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: fatal-attraction
 
 - id: 101-dalmatians
-  tmdb_id: null
+  tmdb_id: 11674
   title: 101 Dalmatians
   year: 1996
   runtime: 103
@@ -35,9 +37,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0115433
   poster_url: https://m.media-amazon.com/images/M/MV5BOTA5MjAzZWYtZmQxMC00NWE0LWJkNWMtMzczNjg3ZTM1ZGRiXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: 101-dalmatians
 
 - id: air-force-one
-  tmdb_id: null
+  tmdb_id: 9772
   title: Air Force One
   year: 1997
   runtime: 124
@@ -46,9 +49,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0118571
   poster_url: https://m.media-amazon.com/images/M/MV5BOTVlYmFhZjktOTA2ZC00Y2YzLWFmNDMtZGU2YzBkNGZkODY4XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: air-force-one
 
 - id: albert-nobbs
-  tmdb_id: null
+  tmdb_id: 73873
   title: Albert Nobbs
   year: 2011
   runtime: 113
@@ -62,9 +66,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt1602098
   poster_url: https://m.media-amazon.com/images/M/MV5BMTM1MjU1NTYzMV5BMl5BanBnXkFtZTcwODk2NzAwNw@@._V1_SX300.jpg
+  letterboxd_slug: albert-nobbs
 
 - id: the-wife
-  tmdb_id: null
+  tmdb_id: 340613
   title: The Wife
   year: 2017
   runtime: 100
@@ -78,3 +83,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt3750872
   poster_url: https://m.media-amazon.com/images/M/MV5BNjMyYzVjNzYtNzNjNS00NzliLThiYWUtYWJmMmI0Zjc0MmNjXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-wife-2017

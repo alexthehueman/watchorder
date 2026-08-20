@@ -3,7 +3,7 @@
 # Platoon already exists in dafoe.yaml — tagged before he had an entity.
 
 - id: the-last-king-of-scotland
-  tmdb_id: null
+  tmdb_id: 1523
   title: The Last King of Scotland
   year: 2006
   runtime: 123
@@ -12,9 +12,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
   imdb_id: tt0455590
   poster_url: https://m.media-amazon.com/images/M/MV5BZDg4NjA0YzctNWMzMi00NmY1LTkyMGYtZjI4ZjFmZjMzMGE0XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-last-king-of-scotland
 
 - id: the-butler
-  tmdb_id: null
+  tmdb_id: 132363
   title: The Butler
   year: 2013
   runtime: 132
@@ -23,9 +24,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt1327773
   poster_url: https://m.media-amazon.com/images/M/MV5BMjM2NDY3MjkyMF5BMl5BanBnXkFtZTcwMDM5Nzg5OQ@@._V1_SX300.jpg
+  letterboxd_slug: the-butler
 
 - id: bird
-  tmdb_id: null
+  tmdb_id: 24679
   title: Bird
   year: 1988
   runtime: 161
@@ -34,9 +36,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0094747
   poster_url: https://m.media-amazon.com/images/M/MV5BOTViMmEwYjQtMTMxMS00YmVmLTk1NzEtODcxOGRmZjQ3MGEwXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: bird
 
 - id: ghost-dog-the-way-of-the-samurai
-  tmdb_id: null
+  tmdb_id: 4816
   title: Ghost Dog The Way of the Samurai
   year: 1999
   runtime: 116
@@ -50,9 +53,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0165798
   poster_url: https://m.media-amazon.com/images/M/MV5BYmIzNWI3MTMtNGY4Zi00YWIwLWEyMmQtZjcxOTdhNTQ0ZTE5XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: ghost-dog-the-way-of-the-samurai
 
 - id: rogue-one
-  tmdb_id: null
+  tmdb_id: 330459
   title: Rogue One
   year: 2016
   runtime: 133
@@ -61,3 +65,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt22176242
   poster_url: https://m.media-amazon.com/images/M/MV5BYmFjMGMwZTMtNmRlYi00MjJlLTk2NmItYjU4ZTA0MGJmOTE5XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: rogue-one

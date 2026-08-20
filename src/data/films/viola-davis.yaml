@@ -4,7 +4,7 @@
 # washington.yaml (a genuine dual lead) — tagged before she had an entity.
 
 - id: the-help
-  tmdb_id: null
+  tmdb_id: 50014
   title: The Help
   year: 2011
   runtime: 146
@@ -13,9 +13,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt1454029
   poster_url: https://m.media-amazon.com/images/M/MV5BMTM5OTMyMjIxOV5BMl5BanBnXkFtZTcwNzU4MjIwNQ@@._V1_SX300.jpg
+  letterboxd_slug: the-help
 
 - id: widows
-  tmdb_id: null
+  tmdb_id: 401469
   title: Widows
   year: 2018
   runtime: 129
@@ -24,9 +25,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt4218572
   poster_url: https://m.media-amazon.com/images/M/MV5BMjM3ODc5NDEyOF5BMl5BanBnXkFtZTgwMTI4MDcxNjM@._V1_SX300.jpg
+  letterboxd_slug: widows-2018
 
 - id: ma-raineys-black-bottom
-  tmdb_id: null
+  tmdb_id: 615667
   title: Ma Rainey's Black Bottom
   year: 2020
   runtime: 94
@@ -35,9 +37,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt10514222
   poster_url: https://m.media-amazon.com/images/M/MV5BOWIzMTAyZGMtZTIzZi00YTc4LTlmNGEtMzMxYTgzYWM5ODM3XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: ma-raineys-black-bottom
 
 - id: the-woman-king
-  tmdb_id: null
+  tmdb_id: 724495
   title: The Woman King
   year: 2022
   runtime: 135
@@ -46,9 +49,10 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt8093700
   poster_url: https://m.media-amazon.com/images/M/MV5BNzM4ODY0NzctZDIyNC00MzE4LWI3NDYtYjIyYTUyZWFmYzJkXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-woman-king
 
 - id: blackhat
-  tmdb_id: null
+  tmdb_id: 201088
   title: Blackhat
   year: 2015
   runtime: 133
@@ -57,9 +61,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt2717822
   poster_url: https://m.media-amazon.com/images/M/MV5BMTg1NDUyMzk5NV5BMl5BanBnXkFtZTgwOTk1NzUxMzE@._V1_SX300.jpg
+  letterboxd_slug: blackhat
 
 - id: air
-  tmdb_id: null
+  tmdb_id: 964980
   title: Air
   year: 2023
   runtime: 111
@@ -68,9 +73,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt16419074
   poster_url: https://m.media-amazon.com/images/M/MV5BNjdjYzJkZmUtZDNiMC00MzQ0LWE2MGEtYTk4ZGM4NzFkMzM3XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: air-2023
 
 - id: suicide-squad
-  tmdb_id: null
+  tmdb_id: 297761
   title: Suicide Squad
   year: 2016
   runtime: 123
@@ -79,3 +85,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt1386697
   poster_url: https://m.media-amazon.com/images/M/MV5BMjM1OTMxNzUyM15BMl5BanBnXkFtZTgwNjYzMTIzOTE@._V1_QL75_UX380_CR0,0,380,562_.jpg
+  letterboxd_slug: suicide-squad-2016

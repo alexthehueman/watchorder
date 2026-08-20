@@ -3,7 +3,7 @@
 # Man of Steel already exists in shannon.yaml — tagged before she had an entity.
 
 - id: unfaithful
-  tmdb_id: null
+  tmdb_id: 2251
   title: Unfaithful
   year: 2002
   runtime: 124
@@ -15,9 +15,11 @@
     humor: 1
     acclaim: 0.65
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 2 }
+  letterboxd_slug: unfaithful
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/gu/4i/l1/i7/unfaithful-1200-1200-675-675-crop-000000.jpg?v=96234d4d54
 
 - id: a-walk-on-the-moon
-  tmdb_id: null
+  tmdb_id: 28029
   title: A Walk on the Moon
   year: 1999
   runtime: 107
@@ -29,21 +31,27 @@
     humor: 2 # a real, lived-in warmth to the family's Catskills bungalow-colony summer, even as the marriage strains
     acclaim: 0.62
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: a-walk-on-the-moon
+  poster_url: https://a.ltrbxd.com/resized/film-poster/3/3/9/9/1/33991-a-walk-on-the-moon-0-230-0-345-crop.jpg?v=b0be258ecc
 
 - id: the-perfect-storm
-  tmdb_id: null
+  tmdb_id: 2133
   title: The Perfect Storm
   year: 2000
   runtime: 129
   director: Wolfgang Petersen
   tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.6 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: the-perfect-storm
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/45/iy/rs/04/2C2946D6-C621-4846-A7AB-3DD5DCB698E0-1200-1200-675-675-crop-000000.jpg?v=2d7432c5ce
 
 - id: nights-in-rodanthe
-  tmdb_id: null
+  tmdb_id: 14326
   title: Nights in Rodanthe
   year: 2008
   runtime: 97
   director: George C. Wolfe
   tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.48 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: nights-in-rodanthe
+  poster_url: https://a.ltrbxd.com/resized/film-poster/4/3/1/7/3/43173-nights-in-rodanthe-0-230-0-345-crop.jpg?v=7d37c3718a

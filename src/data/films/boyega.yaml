@@ -4,37 +4,45 @@
 # Wars The Last Jedi already exists in driver.yaml — tagged before he had an entity.
 
 - id: attack-the-block
-  tmdb_id: null
+  tmdb_id: 59678
   title: Attack the Block
   year: 2011
   runtime: 88
   director: Joe Cornish
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 3, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: attack-the-block
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/72/wh/2c/nd/attack-the-block-1200-1200-675-675-crop-000000.jpg?v=e3c847aacb
 
 - id: detroit
-  tmdb_id: null
+  tmdb_id: 407448
   title: Detroit
   year: 2017
   runtime: 143
   director: Kathryn Bigelow
   tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: detroit
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/qi/nw/uz/5d/detroit-1200-1200-675-675-crop-000000.jpg?v=4910f1c24e
 
 - id: red-white-and-blue
-  tmdb_id: null
+  tmdb_id: 753972
   title: Red White and Blue
   year: 2020
   runtime: 80
   director: Steve McQueen
   tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: red-white-and-blue-2020
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/1t/li/d4/kq/red-white-blue-2020-1200-1200-675-675-crop-000000.jpg?v=92f18b76df
 
 - id: pacific-rim-uprising
-  tmdb_id: null
+  tmdb_id: 268896
   title: Pacific Rim Uprising
   year: 2018
   runtime: 111
   director: Steven S. DeKnight
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.42 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: pacific-rim-uprising
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/kz/vq/nk/5m/pacific-rim-uprising2-1200-1200-675-675-crop-000000.jpg?v=1949fdfd93

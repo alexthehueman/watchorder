@@ -3,7 +3,7 @@
 # Die Another Day already exists in berry.yaml — tagged before she had an entity.
 
 - id: gone-girl
-  tmdb_id: null
+  tmdb_id: 210577
   title: Gone Girl
   year: 2014
   runtime: 149
@@ -15,9 +15,11 @@
     humor: 2
     acclaim: 0.85
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  letterboxd_slug: gone-girl
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/6g/ja/bv/xf/gone-girl-1200-1200-675-675-crop-000000.jpg?v=19f256dfa8
 
 - id: i-care-a-lot
-  tmdb_id: null
+  tmdb_id: 601666
   title: I Care a Lot
   year: 2020
   runtime: 118
@@ -29,12 +31,16 @@
     humor: 3
     acclaim: 0.6
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: i-care-a-lot
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/pf/gp/jw/ue/i-care-a-lot-1200-1200-675-675-crop-000000.jpg?v=7ef7f18d60
 
 - id: a-united-kingdom
-  tmdb_id: null
+  tmdb_id: 347026
   title: A United Kingdom
   year: 2016
   runtime: 111
   director: Amma Asante
   tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: a-united-kingdom
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/lc/wu/d6/ae/a-united-kingdom-1200-1200-675-675-crop-000000.jpg?v=fb028b7c5d

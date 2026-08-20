@@ -11,7 +11,7 @@
 # and never resolves it either way.
 
 - id: edward-scissorhands
-  tmdb_id: null
+  tmdb_id: 162
   title: Edward Scissorhands
   year: 1990
   runtime: 105
@@ -20,9 +20,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0099487
   poster_url: https://m.media-amazon.com/images/M/MV5BODJhODczYjUtYzdkMy00Yjc4LTllNWMtZTQ3MDZlYWZjYWEzXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: edward-scissorhands
 
 - id: whats-eating-gilbert-grape
-  tmdb_id: null
+  tmdb_id: 1587
   title: What's Eating Gilbert Grape
   year: 1993
   runtime: 118
@@ -36,9 +37,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt0108550
   poster_url: https://m.media-amazon.com/images/M/MV5BNWM5NWI1OTQtMTJiOS00ZDMxLWE1ODQtZjQ4MDc4OGE4ZjQyXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: whats-eating-gilbert-grape
 
 - id: ed-wood
-  tmdb_id: null
+  tmdb_id: 522
   title: Ed Wood
   year: 1994
   runtime: 127
@@ -47,9 +49,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0109707
   poster_url: https://m.media-amazon.com/images/M/MV5BOWU4NzlkZGEtODNmYi00YTVhLWJhYjAtZjBkN2Q1Y2U5NjE4XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: ed-wood
 
 - id: dead-man
-  tmdb_id: null
+  tmdb_id: 922
   title: Dead Man
   year: 1995
   runtime: 120
@@ -63,9 +66,10 @@
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt0112817
   poster_url: https://m.media-amazon.com/images/M/MV5BZjdjN2Q4MzctOWZjMS00ZjZkLTg5OWQtM2NjMTliYmE3MTY1XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: dead-man
 
 - id: donnie-brasco
-  tmdb_id: null
+  tmdb_id: 9366
   title: Donnie Brasco
   year: 1997
   runtime: 126
@@ -79,9 +83,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0119008
   poster_url: https://m.media-amazon.com/images/M/MV5BZWZkNDA2YTctZWJhZS00OTAzLThlODMtY2QyMzg1MTEwYjU2XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: donnie-brasco
 
 - id: fear-and-loathing-in-las-vegas
-  tmdb_id: null
+  tmdb_id: 1878
   title: Fear and Loathing in Las Vegas
   year: 1998
   runtime: 118
@@ -95,9 +100,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0120669
   poster_url: https://m.media-amazon.com/images/M/MV5BNjFkNjdiZjUtNzUzNy00NWM5LWFlNDUtNTRiYmJiZWNiYjkwXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: fear-and-loathing-in-las-vegas
 
 - id: pirates-of-the-caribbean-the-curse-of-the-black-pearl
-  tmdb_id: null
+  tmdb_id: 22
   title: "Pirates of the Caribbean: The Curse of the Black Pearl"
   year: 2003
   runtime: 143
@@ -111,9 +117,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0325980
   poster_url: https://m.media-amazon.com/images/M/MV5BNDhlMzEyNzItMTA5Mi00YWRhLThlNTktYTQyMTA0MDIyNDEyXkEyXkFqcGc@._V1_QL75_UX380_CR0,2,380,562_.jpg
+  letterboxd_slug: pirates-of-the-caribbean-the-curse-of-the-black-pearl
 
 - id: the-ninth-gate
-  tmdb_id: null
+  tmdb_id: 622
   title: The Ninth Gate
   year: 1999
   runtime: 132
@@ -127,9 +134,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 1 }
   imdb_id: tt0142688
   poster_url: https://m.media-amazon.com/images/M/MV5BOTQ2ODM2NjktMzJjMC00MWJiLWI2MjMtMzhiOTFmMzc1ZDUyXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-ninth-gate
 
 - id: sweeney-todd
-  tmdb_id: null
+  tmdb_id: 37924
   title: "Sweeney Todd: The Demon Barber of Fleet Street"
   year: 2007
   runtime: 116
@@ -143,3 +151,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt0408236
   poster_url: https://m.media-amazon.com/images/M/MV5BMTg3NjUxMzM5NV5BMl5BanBnXkFtZTcwMzQ1NjQzMw@@._V1_SX300.jpg
+  letterboxd_slug: sweeney-todd

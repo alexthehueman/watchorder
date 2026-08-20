@@ -3,16 +3,18 @@
 # Maleficent already exists in jolie.yaml — tagged before she had an entity.
 
 - id: the-beguiled
-  tmdb_id: null
+  tmdb_id: 399019
   title: The Beguiled
   year: 2017
   runtime: 94
   director: Sofia Coppola
   tags: { opacity: 2, stillness: 4, bleakness: 4, humor: 1, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  letterboxd_slug: the-beguiled-2017
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/95/ml/ww/iy/the-beguiled-1200-1200-675-675-crop-000000.jpg?v=24e7bc0249
 
 - id: the-neon-demon
-  tmdb_id: null
+  tmdb_id: 301365
   title: The Neon Demon
   year: 2016
   runtime: 117
@@ -24,30 +26,38 @@
     humor: 1
     acclaim: 0.62
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  letterboxd_slug: the-neon-demon
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/md/nu/67/64/the-neon-demon-1200-1200-675-675-crop-000000.jpg?v=e06205543d
 
 - id: super-8
-  tmdb_id: null
+  tmdb_id: 37686
   title: Super 8
   year: 2011
   runtime: 112
   director: J.J. Abrams
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: super-8
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ww/ce/fm/pt/super-8-200-1200-1200-675-675-crop-000000.jpg?v=3a378d76db
 
 - id: somewhere
-  tmdb_id: null
+  tmdb_id: 39210
   title: Somewhere
   year: 2010
   runtime: 97
   director: Sofia Coppola
   tags: { opacity: 1, stillness: 5, bleakness: 3, humor: 1, acclaim: 0.65 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: somewhere
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/du/6x/3u/0i/somewhere-1200-1200-675-675-crop-000000.jpg?v=b2fb1bead8
 
 - id: teen-spirit
-  tmdb_id: null
+  tmdb_id: 440918
   title: Teen Spirit
   year: 2018
   runtime: 92
   director: Max Minghella
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.58 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: teen-spirit-2018
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/wb/fp/5r/sr/teen-spirit-2018-1200-1200-675-675-crop-000000.jpg?v=4231cd2b0b

@@ -5,7 +5,7 @@
 # before she had an entity.
 
 - id: thoroughbreds
-  tmdb_id: null
+  tmdb_id: 397722
   title: Thoroughbreds
   year: 2017
   runtime: 92
@@ -17,12 +17,16 @@
     humor: 3
     acclaim: 0.65
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: thoroughbreds-2017
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/kp/cq/87/x7/thoroughbreds-1200-1200-675-675-crop-000000.jpg?v=745950584f
 
 - id: furiosa
-  tmdb_id: null
+  tmdb_id: 786892
   title: Furiosa A Mad Max Saga
   year: 2024
   runtime: 148
   director: George Miller
   tags: { opacity: 1, stillness: 1, bleakness: 4, humor: 1, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: furiosa
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/95/76/5q/dp/furiosa-1200-1200-675-675-crop-000000.jpg?v=f7e0fda05f

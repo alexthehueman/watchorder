@@ -6,7 +6,7 @@
 # tagged before she had an entity.
 
 - id: run-2020
-  tmdb_id: null
+  tmdb_id: 546121
   title: Run
   year: 2020
   runtime: 90
@@ -18,9 +18,11 @@
     humor: 1
     acclaim: 0.68
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: run-2020
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/rm/oe/ej/xr/run-2020-1200-1200-675-675-crop-000000.jpg?v=1f303eda09
 
 - id: glass
-  tmdb_id: null
+  tmdb_id: 450465
   title: Glass
   year: 2019
   runtime: 129
@@ -32,3 +34,5 @@
     humor: 1
     acclaim: 0.48
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: glass-2019
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/1r/wq/so/j4/xlk29RzQcxqqSpsuccccUiqnNHh-1200-1200-675-675-crop-000000.jpg?v=f6eaeb04fd

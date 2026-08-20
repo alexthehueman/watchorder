@@ -3,25 +3,29 @@
 # Selma already exists in thompson-tessa.yaml — tagged before he had an entity.
 
 - id: john-wick-chapter-2
-  tmdb_id: null
+  tmdb_id: 324552
   title: John Wick Chapter 2
   year: 2017
   runtime: 122
   director: Chad Stahelski
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: john-wick-chapter-2
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/de/gu/a5/e4/john-wick-2-1200-1200-675-675-crop-000000.jpg?v=033ad850c4
 
 - id: just-wright
-  tmdb_id: null
+  tmdb_id: 38093
   title: Just Wright
   year: 2010
   runtime: 102
   director: Sanaa Hamri
   tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 3, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: just-wright
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/wq/zr/cm/u3/just%20wright-1200-1200-675-675-crop-000000.jpg?v=615474cef8
 
 - id: the-kitchen-2019
-  tmdb_id: null
+  tmdb_id: 487680
   title: The Kitchen
   year: 2019
   runtime: 102
@@ -33,3 +37,5 @@
     humor: 1
     acclaim: 0.42
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: the-kitchen-2019
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/4k/er/ud/2p/the-kitchen-1200-1200-675-675-crop-000000.jpg?v=3dc389a87d

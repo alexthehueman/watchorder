@@ -4,7 +4,7 @@
 # already exists in swinton.yaml — tagged before he had an entity.
 
 - id: out-of-sight
-  tmdb_id: null
+  tmdb_id: 1389
   title: Out of Sight
   year: 1998
   runtime: 123
@@ -13,9 +13,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
   imdb_id: tt0120780
   poster_url: https://m.media-amazon.com/images/M/MV5BM2U3OGQ0NTMtNmQxYS00MmRiLTg2OTctZDI3ZjNjZjM5N2NlXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: out-of-sight
 
 - id: syriana
-  tmdb_id: null
+  tmdb_id: 231
   title: Syriana
   year: 2005
   runtime: 128
@@ -29,9 +30,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0365737
   poster_url: https://m.media-amazon.com/images/M/MV5BYWQ0YmNiYjUtODg0NS00YjNkLWJhOTktOGMxNTdmYTM0ZmMzXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: syriana
 
 - id: good-night-and-good-luck
-  tmdb_id: null
+  tmdb_id: 3291
   title: Good Night and Good Luck
   year: 2005
   runtime: 93
@@ -40,9 +42,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
   imdb_id: tt0433383
   poster_url: https://m.media-amazon.com/images/M/MV5BOTJhMmY5OGMtNDZhNS00ZjAyLWFmODQtOTA0NWM5NjMyOTk5XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: good-night-and-good-luck
 
 - id: up-in-the-air
-  tmdb_id: null
+  tmdb_id: 22947
   title: Up in the Air
   year: 2009
   runtime: 109
@@ -51,9 +54,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt1193138
   poster_url: https://m.media-amazon.com/images/M/MV5BMTI3MzYxMTA4NF5BMl5BanBnXkFtZTcwMDE4ODg3Mg@@._V1_SX300.jpg
+  letterboxd_slug: up-in-the-air
 
 - id: the-descendants
-  tmdb_id: null
+  tmdb_id: 65057
   title: The Descendants
   year: 2011
   runtime: 115
@@ -62,9 +66,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt1033575
   poster_url: https://m.media-amazon.com/images/M/MV5BMjAyNTA1MTcyN15BMl5BanBnXkFtZTcwNjEyODczNQ@@._V1_SX300.jpg
+  letterboxd_slug: the-descendants
 
 - id: gravity
-  tmdb_id: null
+  tmdb_id: 49047
   title: Gravity
   year: 2013
   runtime: 91
@@ -73,3 +78,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt1454468
   poster_url: https://m.media-amazon.com/images/M/MV5BNjE5MzYwMzYxMF5BMl5BanBnXkFtZTcwOTk4MTk0OQ@@._V1_SX300.jpg
+  letterboxd_slug: gravity-2013

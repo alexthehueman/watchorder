@@ -7,10 +7,12 @@
 # huston.yaml — tagged before she had an entity.
 
 - id: being-julia
-  tmdb_id: null
+  tmdb_id: 18701
   title: Being Julia
   year: 2004
   runtime: 104
   director: Istvan Szabo
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.65 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: being-julia
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/gd/sm/1p/a2/being%20julia-1200-1200-675-675-crop-000000.jpg?v=94b82732c5

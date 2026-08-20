@@ -5,7 +5,7 @@
 # an entity.
 
 - id: monster
-  tmdb_id: null
+  tmdb_id: 504
   title: Monster
   year: 2003
   runtime: 109
@@ -14,9 +14,10 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
   imdb_id: tt0340855
   poster_url: https://m.media-amazon.com/images/M/MV5BMTI4NzI5NzEwNl5BMl5BanBnXkFtZTcwNjc1NjQyMQ@@._V1_SX300.jpg
+  letterboxd_slug: monster
 
 - id: young-adult
-  tmdb_id: null
+  tmdb_id: 57157
   title: Young Adult
   year: 2011
   runtime: 94
@@ -30,9 +31,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt1625346
   poster_url: https://m.media-amazon.com/images/M/MV5BMTc4NzgyMjQwMV5BMl5BanBnXkFtZTcwNjMxODcwNw@@._V1_SX300.jpg
+  letterboxd_slug: young-adult
 
 - id: mad-max-fury-road
-  tmdb_id: null
+  tmdb_id: 76341
   title: Mad Max Fury Road
   year: 2015
   runtime: 120
@@ -41,9 +43,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt1392190
   poster_url: https://m.media-amazon.com/images/M/MV5BZDRkODJhOTgtOTc1OC00NTgzLTk4NjItNDgxZDY4YjlmNDY2XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: mad-max-fury-road
 
 - id: atomic-blonde
-  tmdb_id: null
+  tmdb_id: 341013
   title: Atomic Blonde
   year: 2017
   runtime: 115
@@ -57,9 +60,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
   imdb_id: tt2406566
   poster_url: https://m.media-amazon.com/images/M/MV5BMjM5NDYzMzg5N15BMl5BanBnXkFtZTgwOTM2NDU1MjI@._V1_SX300.jpg
+  letterboxd_slug: atomic-blonde
 
 - id: tully
-  tmdb_id: null
+  tmdb_id: 400579
   title: Tully
   year: 2018
   runtime: 95
@@ -73,9 +77,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt5610554
   poster_url: https://m.media-amazon.com/images/M/MV5BMTU0OTM4NTMyMF5BMl5BanBnXkFtZTgwNDA5MzUwNTM@._V1_SX300.jpg
+  letterboxd_slug: tully-2018
 
 - id: snow-white-and-the-huntsman
-  tmdb_id: null
+  tmdb_id: 58595
   title: Snow White and the Huntsman
   year: 2012
   runtime: 127
@@ -84,9 +89,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt1735898
   poster_url: https://m.media-amazon.com/images/M/MV5BY2JjYWUyZjUtMDg3OS00MGIyLTgyN2QtYjIyY2VlYzViYThlXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: snow-white-and-the-huntsman
 
 - id: prometheus
-  tmdb_id: null
+  tmdb_id: 70981
   title: Prometheus
   year: 2012
   runtime: 124
@@ -100,9 +106,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt1446714
   poster_url: https://m.media-amazon.com/images/M/MV5BMTY3NzIyNTA2NV5BMl5BanBnXkFtZTcwNzE2NjI4Nw@@._V1_SX300.jpg
+  letterboxd_slug: prometheus
 
 - id: long-shot
-  tmdb_id: null
+  tmdb_id: 459992
   title: Long Shot
   year: 2019
   runtime: 125
@@ -111,9 +118,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt2139881
   poster_url: https://m.media-amazon.com/images/M/MV5BY2E2NDIwMGUtNmFkZC00NDFjLWI5ZWMtMTE1M2E2YTM1OWVlXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: long-shot-2019
 
 - id: bombshell
-  tmdb_id: null
+  tmdb_id: 525661
   title: Bombshell
   year: 2019
   runtime: 108
@@ -122,3 +130,4 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt6394270
   poster_url: https://m.media-amazon.com/images/M/MV5BODY3ODVkYTAtZDFmNS00ZDYyLTlkOTEtNTY3NTFhNDE4ZjFjXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: bombshell-2019

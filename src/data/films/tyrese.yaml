@@ -5,7 +5,7 @@
 # michelle-rodriguez.yaml. Death at a Funeral (2010) already exists in saldana.yaml.
 
 - id: four-brothers
-  tmdb_id: null
+  tmdb_id: 8292
   title: Four Brothers
   year: 2005
   runtime: 109
@@ -17,9 +17,11 @@
     humor: 3
     acclaim: 0.65
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: four-brothers
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/8w/0g/w1/jc/four-brothers-1200-1200-675-675-crop-000000.jpg?v=4d8b64cc97
 
 - id: waist-deep
-  tmdb_id: null
+  tmdb_id: 9917
   title: Waist Deep
   year: 2006
   runtime: 97
@@ -31,9 +33,11 @@
     humor: 3
     acclaim: 0.50
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: waist-deep
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/yo/w0/pk/mz/kblkyMfm0E3qwMf9MIFz6YpMf1t-1200-1200-675-675-crop-000000.jpg?v=3e2a495ce3
 
 - id: black-nativity
-  tmdb_id: null
+  tmdb_id: 175541
   title: Black Nativity
   year: 2013
   runtime: 93
@@ -45,9 +49,11 @@
     humor: 2
     acclaim: 0.45
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: black-nativity
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/cl/6d/gh/qw/black-nativity-1200-1200-675-675-crop-000000.jpg?v=b1edf2787c
 
 - id: transformers
-  tmdb_id: null
+  tmdb_id: 1858
   title: Transformers
   year: 2007
   runtime: 144
@@ -59,3 +65,5 @@
     humor: 3
     acclaim: 0.65
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: transformers
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/d3/yv/iy/mb/transformers-1200-1200-675-675-crop-000000.jpg?v=e236887929

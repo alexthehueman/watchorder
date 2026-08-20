@@ -1,16 +1,18 @@
 # New films for Angelina Jolie. Scales and anchors are in README.md ("The anchor rubric").
 
 - id: girl-interrupted
-  tmdb_id: null
+  tmdb_id: 3558
   title: Girl, Interrupted
   year: 1999
   runtime: 127
   director: James Mangold
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 0 }
+  letterboxd_slug: girl-interrupted
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/av/w8/ds/jl/girl-interrupted-1200-1200-675-675-crop-000000.jpg?v=282d5c03a1
 
 - id: changeling
-  tmdb_id: null
+  tmdb_id: 3580
   title: Changeling
   year: 2008
   runtime: 141
@@ -22,15 +24,19 @@
     humor: 1
     acclaim: 0.75
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: changeling
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/dm/rp/ux/6b/changeling-1200-1200-675-675-crop-000000.jpg?v=66f8fad09a
 
 - id: maleficent
-  tmdb_id: null
+  tmdb_id: 102651
   title: Maleficent
   year: 2014
   runtime: 97
   director: Robert Stromberg
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 2, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: maleficent
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/q0/65/mb/us/maleficent-1200-1200-675-675-crop-000000.jpg?v=882616fab0
 
 - id: mr-and-mrs-smith
   tmdb_id: null
@@ -42,25 +48,29 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
 
 - id: a-mighty-heart
-  tmdb_id: null
+  tmdb_id: 1988
   title: A Mighty Heart
   year: 2007
   runtime: 108
   director: Michael Winterbottom
   tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: a-mighty-heart
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/9i/uv/ek/d8/mighty%20heart-1200-1200-675-675-crop-000000.jpg?v=4d7e76ce86
 
 - id: wanted
-  tmdb_id: null
+  tmdb_id: 8909
   title: Wanted
   year: 2008
   runtime: 110
   director: Timur Bekmambetov
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.58 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+  letterboxd_slug: wanted-2008
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/5p/ry/br/d4/wanted-1200-1200-675-675-crop-000000.jpg?v=f9baed3ad2
 
 - id: by-the-sea
-  tmdb_id: null
+  tmdb_id: 314385
   title: By the Sea
   year: 2015
   runtime: 122
@@ -72,9 +82,11 @@
     humor: 1
     acclaim: 0.42
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: by-the-sea-2015
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/h9/j9/56/25/by-the-sea-2015-1200-1200-675-675-crop-000000.jpg?v=61e2d9bbcc
 
 - id: salt
-  tmdb_id: null
+  tmdb_id: 27576
   title: Salt
   year: 2010
   runtime: 100
@@ -86,3 +98,5 @@
     humor: 1
     acclaim: 0.58
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: salt-2010
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/qs/ea/4e/8t/salt-2010-1200-1200-675-675-crop-000000.jpg?v=13e022ec89

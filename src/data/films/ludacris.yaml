@@ -5,7 +5,7 @@
 # henson.yaml. 2 Fast 2 Furious already exists in michelle-rodriguez.yaml.
 
 - id: gamer
-  tmdb_id: null
+  tmdb_id: 18501
   title: Gamer
   year: 2009
   runtime: 95
@@ -17,12 +17,16 @@
     humor: 3
     acclaim: 0.40
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+  letterboxd_slug: gamer
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/l3/ks/3l/nu/gamer-1200-1200-675-675-crop-000000.jpg?v=4ca71f2239
 
 - id: no-good-deed
-  tmdb_id: null
+  tmdb_id: 136835
   title: No Good Deed
   year: 2014
   runtime: 84
   director: Sam Miller
   tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.35 }
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: no-good-deed-2014
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/5h/4z/vz/n6/no-good-deed-1200-1200-675-675-crop-000000.jpg?v=bde20b8d96

@@ -6,7 +6,7 @@
 # Mystic River already exists in penn.yaml.
 
 - id: deep-cover
-  tmdb_id: null
+  tmdb_id: 20676
   title: Deep Cover
   year: 1992
   runtime: 112
@@ -18,3 +18,5 @@
     humor: 1
     acclaim: 0.68
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  letterboxd_slug: deep-cover
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ss/3p/mk/7y/deep1-1200-1200-675-675-crop-000000.jpg?v=c1ed8ecfb7

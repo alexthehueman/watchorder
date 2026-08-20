@@ -5,7 +5,7 @@
 # Vice already exists in bale.yaml — tagged before he had an entity.
 
 - id: confessions-of-a-dangerous-mind
-  tmdb_id: null
+  tmdb_id: 4912
   title: Confessions of a Dangerous Mind
   year: 2002
   runtime: 113
@@ -17,9 +17,11 @@
     humor: 3
     acclaim: 0.68
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  letterboxd_slug: confessions-of-a-dangerous-mind
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/aw/dm/33/bm/confessions-of-a-dangerous-mind-1200-1200-675-675-crop-000000.jpg?v=798557f3e4
 
 - id: moon
-  tmdb_id: null
+  tmdb_id: 17431
   title: Moon
   year: 2009
   runtime: 97
@@ -31,13 +33,16 @@
     humor: 1
     acclaim: 0.82
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: moon
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/7x/d5/lo/hi/moon-270-1200-1200-675-675-crop-000000.jpg?v=320cf48f63
 
 - id: the-way-way-back
-  tmdb_id: null
+  tmdb_id: 147773
   title: The Way Way Back
   year: 2013
   runtime: 103
   director: Nat Faxon
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
-
+  letterboxd_slug: the-way-way-back
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/vy/1z/wl/i3/way-way-back-1200-1200-675-675-crop-000000.jpg?v=21e55e582d

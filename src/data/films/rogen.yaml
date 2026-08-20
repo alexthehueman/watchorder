@@ -4,19 +4,23 @@
 # exists in cera.yaml — tagged before he had an entity.
 
 - id: knocked-up
-  tmdb_id: null
+  tmdb_id: 4964
   title: Knocked Up
   year: 2007
   runtime: 129
   director: Judd Apatow
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+  letterboxd_slug: knocked-up
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/h4/e2/oz/3q/knocked-up-70-1200-1200-675-675-crop-000000.jpg?v=c25be503ae
 
 - id: pineapple-express
-  tmdb_id: null
+  tmdb_id: 10189
   title: Pineapple Express
   year: 2008
   runtime: 111
   director: David Gordon Green
   tags: { opacity: 2, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.65 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: pineapple-express
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/8o/cj/t9/oi/pineapple-express-1200-1200-675-675-crop-000000.jpg?v=7bd5bd3f5c

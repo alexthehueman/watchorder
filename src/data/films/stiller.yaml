@@ -5,7 +5,7 @@
 # Dodgeball already exists in vaughn.yaml.
 
 - id: meet-the-parents
-  tmdb_id: null
+  tmdb_id: 1597
   title: Meet the Parents
   year: 2000
   runtime: 108
@@ -17,9 +17,11 @@
     humor: 5
     acclaim: 0.68
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: meet-the-parents
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/py/nx/0v/lp/meet-the-parents-1200-1200-675-675-crop-000000.jpg?v=b675917d99
 
 - id: theres-something-about-mary
-  tmdb_id: null
+  tmdb_id: 544
   title: There's Something About Mary
   year: 1998
   runtime: 119
@@ -31,9 +33,11 @@
     humor: 5
     acclaim: 0.72
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  letterboxd_slug: theres-something-about-mary
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/4j/64/e5/cy/theres-something-about-mary-1200-1200-675-675-crop-000000.jpg?v=7ac6490703
 
 - id: greenberg
-  tmdb_id: null
+  tmdb_id: 27583
   title: Greenberg
   year: 2010
   runtime: 107
@@ -45,9 +49,11 @@
     humor: 2
     acclaim: 0.72
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: greenberg
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/1m/7a/vb/zq/greenberg-1200-1200-675-675-crop-000000.jpg?v=12a12260d3
 
 - id: night-at-the-museum
-  tmdb_id: null
+  tmdb_id: 1593
   title: Night at the Museum
   year: 2006
   runtime: 108
@@ -59,3 +65,5 @@
     humor: 4
     acclaim: 0.55
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: night-at-the-museum
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ge/29/wc/qq/night-museum-1200-1200-675-675-crop-000000.jpg?v=fbc332cac9

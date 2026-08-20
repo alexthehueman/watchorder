@@ -4,7 +4,7 @@
 # already exists in daniel-craig.yaml.
 
 - id: scream-vi
-  tmdb_id: null
+  tmdb_id: 934433
   title: Scream VI
   year: 2023
   runtime: 123
@@ -16,12 +16,16 @@
     humor: 2
     acclaim: 0.65
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: scream-vi
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/54/l7/1b/g1/scream-vi-1200-1200-675-675-crop-000000.jpg?v=8281731f61
 
 - id: novocaine
-  tmdb_id: null
+  tmdb_id: 1195506
   title: Novocaine
   year: 2025
   runtime: 110
   director: Robert Olsen
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: novocaine-2025
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/38/3d/53/bd/cP16wq0P6f4in8vg2eTlqLSnaAH-1200-1200-675-675-crop-000000.jpg?v=db72744682

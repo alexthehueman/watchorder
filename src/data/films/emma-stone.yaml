@@ -4,7 +4,7 @@
 # exists in weisz.yaml (a genuine three-way lead) — tagged before she had an entity.
 
 - id: easy-a
-  tmdb_id: null
+  tmdb_id: 37735
   title: Easy A
   year: 2010
   runtime: 92
@@ -13,9 +13,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt1282140
   poster_url: https://m.media-amazon.com/images/M/MV5BMjE1MzU1Mjg1OF5BMl5BanBnXkFtZTcwNDc3NDQ2Mw@@._V1_SX300.jpg
+  letterboxd_slug: easy-a
 
 - id: la-la-land
-  tmdb_id: null
+  tmdb_id: 313369
   title: La La Land
   year: 2016
   runtime: 128
@@ -24,9 +25,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt3783958
   poster_url: https://m.media-amazon.com/images/M/MV5BMzUzNDM2NzM2MV5BMl5BanBnXkFtZTgwNTM3NTg4OTE@._V1_QL75_UX380_CR0,0,380,562_.jpg
+  letterboxd_slug: la-la-land
 
 - id: poor-things
-  tmdb_id: null
+  tmdb_id: 792307
   title: Poor Things
   year: 2023
   runtime: 141
@@ -40,9 +42,10 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 3 }
   imdb_id: tt14230458
   poster_url: https://m.media-amazon.com/images/M/MV5BYWU2MjRjZTYtMjVkMS00MTBjLWFiMTAtYmZlYTk1YjkyMWFkXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg
+  letterboxd_slug: poor-things-2023
 
 - id: cruella
-  tmdb_id: null
+  tmdb_id: 337404
   title: Cruella
   year: 2021
   runtime: 134
@@ -51,3 +54,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt3228774
   poster_url: https://m.media-amazon.com/images/M/MV5BMWY5MjljNjctZjhjZS00MWY0LTgwYzUtZTJiYTVmMmJkM2E0XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: cruella
