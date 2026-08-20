@@ -1,0 +1,53 @@
+# New films for Jason Momoa. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Dune (2021) already exists in chalamet.yaml — tagged before he had an entity.
+
+- id: aquaman
+  tmdb_id: null
+  title: Aquaman
+  year: 2018
+  runtime: 143
+  director: James Wan
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: justice-league
+  tmdb_id: null
+  title: Justice League
+  year: 2017
+  runtime: 120
+  director: Zack Snyder
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: conan-the-barbarian-2011
+  tmdb_id: null
+  title: Conan the Barbarian
+  year: 2011
+  runtime: 113
+  director: Marcus Nispel
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 1 }
+
+- id: fast-x
+  tmdb_id: null
+  title: Fast X
+  year: 2023
+  runtime: 141
+  director: Louis Leterrier
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-bad-batch
+  tmdb_id: null
+  title: The Bad Batch
+  year: 2016
+  runtime: 118
+  director: Ana Lily Amirpour
+  tags:
+    opacity: 3 # a wordless, gentle-giant presence the film never explains or contextualizes beyond what's shown
+    stillness: 4
+    bleakness: 5
+    humor: 1
+    acclaim: 0.45
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }

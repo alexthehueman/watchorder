@@ -1,0 +1,84 @@
+slug: dave-bautista
+kind: actor
+name: Dave Bautista
+blurb: A hulking physical presence turned surprisingly often toward deadpan comic timing or genuine tenderness, well beyond what the build alone would suggest.
+
+films:
+  - film: blade-runner-2049
+    signature: 3
+    must_see: true
+    showcase: 4
+    role_size: supporting
+    register: warm
+    gateway: 1
+    note: A weathered replicant living quietly in exile, playing gentle, resigned humanity in a handful of early scenes.
+
+  - film: guardians-of-the-galaxy
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: supporting
+    register: comic
+    gateway: 4
+    note: A vengeance-driven warrior who takes every metaphor completely literally, playing deadpan literalism as pure comic timing.
+
+  - film: dune-2021
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: menacing
+    gateway: 2
+    note: A brutal Harkonnen enforcer, playing blunt, physically overwhelming menace within a large ensemble.
+
+  - film: knock-at-the-cabin
+    signature: 3
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A gentle, soft-spoken man forced to deliver an apocalyptic ultimatum to a family he's taken hostage, playing sorrowful conviction with none of his usual size played for threat.
+
+  - film: guardians-of-the-galaxy-vol-2
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: comic
+    gateway: 4
+    note: The same literal-minded warrior finding an unlikely kindred spirit, playing the same deadpan comic timing with a little more heart.
+
+  - film: guardians-of-the-galaxy-vol-3
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: restrained
+    gateway: 3
+    note: The same warrior confronting a darker piece of his own backstory, playing quiet resolve underneath the trilogy's usual banter.
+
+  - film: spectre
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: menacing
+    gateway: 3
+    note: A silent, near-unstoppable henchman, playing pure physical threat with almost no dialogue at all.
+
+  - film: glass-onion
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 4
+    note: A blustery men's-rights streamer convinced of his own importance, playing oblivious, easily wounded ego within a large ensemble.
+
+curated:
+  curator: house
+  rationale: The one performance that reveals real range first, then the persona that made him a star, then the rest of the register around it.
+  order:
+    - blade-runner-2049
+    - guardians-of-the-galaxy
+    - knock-at-the-cabin
+    - dune-2021
+    - guardians-of-the-galaxy-vol-2
+    - spectre
+    - glass-onion
+    - guardians-of-the-galaxy-vol-3

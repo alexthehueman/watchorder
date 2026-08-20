@@ -1,0 +1,66 @@
+slug: jason-momoa
+kind: actor
+name: Jason Momoa
+blurb: A towering, easygoing physical presence that reads as warm goofball nearly as often as it reads as genuine threat.
+
+films:
+  - film: aquaman
+    signature: 5
+    must_see: true
+    showcase: 4
+    role_size: lead
+    register: warm
+    gateway: 5
+    note: A reluctant heir to an underwater kingdom, playing brash, good-natured charm as the entire appeal of the role.
+
+  - film: dune-2021
+    signature: 3
+    must_see: true
+    showcase: 3
+    role_size: supporting
+    register: restrained
+    gateway: 2
+    note: A loyal swordmaster training a young heir, playing steady, protective warmth underneath a quietly formal exterior.
+
+  - film: conan-the-barbarian-2011
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: unhinged
+    gateway: 3
+    note: A vengeance-driven barbarian warrior carving through an entire kingdom, playing savage, near-wordless intensity.
+
+  - film: the-bad-batch
+    signature: 3
+    showcase: 5
+    role_size: supporting
+    register: restrained
+    gateway: 1
+    note: A near-silent, gentle presence surviving in a lawless desert exile zone, playing tenderness the film never once explains or softens around.
+
+  - film: fast-x
+    signature: 2
+    showcase: 4
+    role_size: supporting
+    register: menacing
+    gateway: 3
+    note: A flamboyant, theatrical villain seeking elaborate revenge on Dom's family, playing charisma that keeps tipping into real menace.
+
+  - film: justice-league
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 4
+    note: A brash, wisecracking member of a hastily assembled superhero team, playing loud overconfidence within a large ensemble.
+
+curated:
+  curator: house
+  rationale: The role that made him a leading man first, then the range across genuine warmth, menace and quiet restraint.
+  order:
+    - aquaman
+    - conan-the-barbarian-2011
+    - dune-2021
+    - fast-x
+    - justice-league
+    - the-bad-batch

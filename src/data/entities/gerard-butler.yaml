@@ -1,0 +1,84 @@
+slug: gerard-butler
+kind: actor
+name: Gerard Butler
+blurb: A gravelly, physically imposing intensity that peaked in one roared-Spartan-king performance, since carried mostly by stoic action-hero competence.
+
+films:
+  - film: "300"
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 2
+    note: A Spartan king leading three hundred men against an overwhelming Persian army, playing total, roaring battle-fury as the entire performance.
+
+  - film: olympus-has-fallen
+    signature: 4
+    must_see: true
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: A disgraced Secret Service agent single-handedly retaking a captured White House, playing grim, methodical competence.
+
+  - film: law-abiding-citizen
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: menacing
+    gateway: 2
+    note: A man exacting elaborate revenge on the justice system that failed his family, playing calculated, escalating menace from inside a jail cell.
+
+  - film: coriolanus
+    signature: 3
+    showcase: 4
+    role_size: supporting
+    register: unhinged
+    gateway: 1
+    note: A Roman general's sworn enemy who becomes an uneasy ally, playing prideful, volatile intensity in a modern-dress Shakespeare adaptation.
+
+  - film: the-phantom-of-the-opera-2004
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A disfigured, obsessive composer haunting the Paris Opera House, playing tortured longing kept just barely under control.
+
+  - film: den-of-thieves
+    signature: 2
+    showcase: 2
+    role_size: lead
+    register: menacing
+    gateway: 3
+    note: A corrupt, hard-edged sheriff's deputy running his own version of justice, playing weathered, morally compromised authority.
+
+  - film: the-ugly-truth
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 4
+    note: A brash, unfiltered TV relationship expert forced to work with the exact kind of woman he mocks on air, playing loud, abrasive charm entirely for the joke.
+
+  - film: greenland
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: A father racing to get his family to safety before a civilization-ending comet strike, playing steady, protective resolve.
+
+curated:
+  curator: house
+  rationale: The performance that made him a star first, then the action-hero competence he's carried ever since.
+  order:
+    - "300"
+    - olympus-has-fallen
+    - law-abiding-citizen
+    - den-of-thieves
+    - the-ugly-truth
+    - greenland
+    - the-phantom-of-the-opera-2004
+    - coriolanus

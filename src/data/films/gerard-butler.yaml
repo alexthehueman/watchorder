@@ -1,0 +1,81 @@
+# New films for Gerard Butler. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Olympus Has Fallen already exists in leo.yaml — tagged before he had an entity.
+
+- id: "300"
+  tmdb_id: null
+  title: "300"
+  year: 2006
+  runtime: 117
+  director: Zack Snyder
+  tags: { opacity: 1, stillness: 1, bleakness: 5, humor: 1, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 1 }
+
+- id: law-abiding-citizen
+  tmdb_id: null
+  title: Law Abiding Citizen
+  year: 2009
+  runtime: 108
+  director: F. Gary Gray
+  tags:
+    opacity: 2 # the full scope of his plan, and how far it actually reaches, stays hidden until each new escalation reveals it
+    stillness: 2
+    bleakness: 5
+    humor: 1
+    acclaim: 0.55
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
+
+- id: the-phantom-of-the-opera-2004
+  tmdb_id: null
+  title: The Phantom of the Opera
+  year: 2004
+  runtime: 143
+  director: Joel Schumacher
+  tags:
+    opacity: 2 # what actually happened to disfigure and isolate him stays withheld for most of the film
+    stillness: 3
+    bleakness: 4
+    humor: 1
+    acclaim: 0.55
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: den-of-thieves
+  tmdb_id: null
+  title: Den of Thieves
+  year: 2018
+  runtime: 140
+  director: Christian Gudegast
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: coriolanus
+  tmdb_id: null
+  title: Coriolanus
+  year: 2011
+  runtime: 122
+  director: Ralph Fiennes
+  tags:
+    opacity: 3 # whether the alliance with his sworn enemy is genuine or purely tactical stays unresolved until it's tested
+    stillness: 4
+    bleakness: 4
+    humor: 1
+    acclaim: 0.62
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: the-ugly-truth
+  tmdb_id: null
+  title: The Ugly Truth
+  year: 2009
+  runtime: 96
+  director: Robert Luketic
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: greenland
+  tmdb_id: null
+  title: Greenland
+  year: 2020
+  runtime: 119
+  director: Ric Roman Waugh
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.62 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }

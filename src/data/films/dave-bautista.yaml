@@ -1,0 +1,29 @@
+# New films for Dave Bautista. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Guardians of the Galaxy and Vol. 2 already exist in saldana.yaml and debicki.yaml — tagged
+# before he had an entity. Dune (2021) already exists in chalamet.yaml. Blade Runner 2049
+# already exists in gosling.yaml. Spectre already exists in waltz.yaml. Glass Onion already
+# exists in daniel-craig.yaml.
+
+- id: knock-at-the-cabin
+  tmdb_id: null
+  title: Knock at the Cabin
+  year: 2023
+  runtime: 100
+  director: M. Night Shyamalan
+  tags:
+    opacity: 3 # whether the apocalyptic visions are real or a shared delusion stays genuinely unresolved for most of the film
+    stillness: 3
+    bleakness: 5
+    humor: 1
+    acclaim: 0.62
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+
+- id: guardians-of-the-galaxy-vol-3
+  tmdb_id: null
+  title: Guardians of the Galaxy Vol. 3
+  year: 2023
+  runtime: 150
+  director: James Gunn
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 4, acclaim: 0.82 }
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 0 }
