@@ -1,0 +1,47 @@
+slug: kumail-nanjiani
+kind: actor
+name: Kumail Nanjiani
+blurb: A dry, self-deprecating comic voice that turned out to carry real emotional weight the moment a script asked him to play something closer to his own life.
+
+films:
+  - film: the-big-sick
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: warm
+    gateway: 2
+    note: A version of his own real courtship, complicated by his family's expectations and his girlfriend's sudden medical crisis, playing genuine uncertainty about who he's supposed to become.
+
+  - film: eternals
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: comic
+    gateway: 3
+    note: An immortal who's spent centuries becoming a Bollywood movie star, playing self-aware vanity as the film's lightest note among much heavier company.
+
+  - film: men-in-black-international
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 4
+    note: A tiny alien sidekick voicing constant, unsolicited commentary on the film's central mission.
+
+  - film: barb-and-star-go-to-vista-del-mar
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: menacing
+    gateway: 3
+    note: A henchman whose loyalty to the film's villain gets tested by an unexpected, oddly sincere connection with one of the leads.
+
+curated:
+  curator: house
+  rationale: The performance built directly from his own life first, then everywhere else that same dry, self-deprecating voice stays comic.
+  order:
+    - men-in-black-international
+    - barb-and-star-go-to-vista-del-mar
+    - eternals
+    - the-big-sick

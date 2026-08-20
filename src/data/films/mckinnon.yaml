@@ -1,0 +1,22 @@
+# New films for Kate McKinnon. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Ghostbusters already exists in hemsworth.yaml — tagged before she had an entity. Bombshell
+# already exists in theron.yaml — tagged before she had an entity.
+
+- id: yesterday
+  tmdb_id: null
+  title: Yesterday
+  year: 2019
+  runtime: 116
+  director: Danny Boyle
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.58 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-spy-who-dumped-me
+  tmdb_id: null
+  title: The Spy Who Dumped Me
+  year: 2018
+  runtime: 117
+  director: Susanna Fogel
+  tags: { opacity: 2, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.6 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

@@ -1,0 +1,47 @@
+slug: kate-mckinnon
+kind: actor
+name: Kate McKinnon
+blurb: A sketch performer's rubber-faced comic instincts she's carried into film mostly intact, with the occasional real, restrained dramatic turn reminding people it's a choice.
+
+films:
+  - film: bombshell
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: supporting
+    register: restrained
+    gateway: 2
+    note: A closeted producer navigating a toxic newsroom culture with careful, self-protective pragmatism, playing genuine fear underneath dry, deflecting wit.
+
+  - film: ghostbusters-2016
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: unhinged
+    gateway: 3
+    note: An eccentric nuclear engineer building the team's increasingly elaborate ghost-hunting equipment, playing gleeful, off-kilter enthusiasm as pure comic invention.
+
+  - film: the-spy-who-dumped-me
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 4
+    note: A wildly overconfident best friend swept into an international spy plot she's completely unprepared for, playing fearless improvisation as the film's comic engine.
+
+  - film: yesterday
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 4
+    note: A ruthless music executive whose blunt, transactional pitch becomes one of the film's sharpest satirical jabs at the industry.
+
+curated:
+  curator: house
+  rationale: The performance built entirely on restraint underneath deflecting wit first, then everywhere else that same instinct runs fully loose.
+  order:
+    - yesterday
+    - the-spy-who-dumped-me
+    - ghostbusters-2016
+    - bombshell

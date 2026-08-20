@@ -1,0 +1,24 @@
+# New films for Michael Peña. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Crash already exists in bullock.yaml — tagged before he had an entity. Ant-Man already exists
+# in rudd.yaml — tagged before he had an entity. American Hustle already exists in bale.yaml —
+# tagged before he had an entity. The Martian already exists in damon.yaml — tagged before he had
+# an entity.
+
+- id: end-of-watch
+  tmdb_id: null
+  title: End of Watch
+  year: 2012
+  runtime: 109
+  director: David Ayer
+  tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 2, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: world-trade-center
+  tmdb_id: null
+  title: World Trade Center
+  year: 2006
+  runtime: 129
+  director: Oliver Stone
+  tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }

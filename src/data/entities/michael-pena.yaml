@@ -1,0 +1,65 @@
+slug: michael-pena
+kind: actor
+name: Michael Peña
+blurb: A warm, easygoing comic energy he can switch off entirely for real, unglamorous portrayals of the police officers and soldiers he plays just as often.
+
+films:
+  - film: end-of-watch
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A patrol officer whose easy partnership with his fellow cop turns genuinely dangerous once they stumble onto a cartel operation, playing camaraderie as the film's entire emotional foundation.
+
+  - film: world-trade-center
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: unhinged
+    gateway: 1
+    note: A Port Authority officer trapped in the rubble of the World Trade Center, playing survival instinct stripped down to its most basic, physical terms.
+
+  - film: the-martian
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: comic
+    gateway: 4
+    note: A spacecraft pilot who volunteers for a genuinely dangerous rescue mission with visible reluctance and constant deadpan complaining, playing bravery disguised as grumbling.
+
+  - film: american-hustle
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 4
+    note: An FBI agent working undercover in a sting operation, playing nervous overconfidence as the scheme spirals beyond anyone's control.
+
+  - film: crash-2004
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: warm
+    gateway: 3
+    note: A locksmith trying to protect his family in a city defined by suspicion, playing patient decency against a world that keeps assuming the worst of him.
+
+  - film: ant-man
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 4
+    note: A talkative former cellmate whose rambling, digression-filled stories become a running gag every time he opens his mouth.
+
+curated:
+  curator: house
+  rationale: The two performances built entirely on stripped-down survival instinct, then everywhere else that same steadiness gets put to comic use.
+  order:
+    - ant-man
+    - american-hustle
+    - the-martian
+    - crash-2004
+    - world-trade-center
+    - end-of-watch

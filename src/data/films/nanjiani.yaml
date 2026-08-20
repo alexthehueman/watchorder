@@ -1,0 +1,35 @@
+# New films for Kumail Nanjiani. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Eternals already exists in keoghan.yaml — tagged before he had an entity.
+
+- id: the-big-sick
+  tmdb_id: null
+  title: The Big Sick
+  year: 2017
+  runtime: 119
+  director: Michael Showalter
+  tags:
+    opacity: 2 # whether he'll actually choose the relationship over his family's expectations stays genuinely unresolved for most of the film
+    stillness: 2
+    bleakness: 4
+    humor: 3
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: barb-and-star-go-to-vista-del-mar
+  tmdb_id: null
+  title: Barb and Star Go to Vista Del Mar
+  year: 2021
+  runtime: 107
+  director: Josh Greenbaum
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 5, acclaim: 0.6 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: men-in-black-international
+  tmdb_id: null
+  title: Men in Black International
+  year: 2019
+  runtime: 115
+  director: F. Gary Gray
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.42 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
