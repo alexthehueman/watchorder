@@ -12,6 +12,8 @@
   director: Jonathan Demme
   tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.95 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  imdb_id: tt0102926
+  poster_url: https://m.media-amazon.com/images/M/MV5BNDdhOGJhYzctYzYwZC00YmI2LWI0MjctYjg4ODdlMDExYjBlXkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg
 
 - id: the-remains-of-the-day
   tmdb_id: null
@@ -26,6 +28,8 @@
     humor: 1
     acclaim: 0.88
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0107943
+  poster_url: https://m.media-amazon.com/images/M/MV5BOWY5MTFkMmEtNDE2Zi00NzU4LWE2OWMtZGE4ZWY1NmIzN2I0XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: nixon
   tmdb_id: null
@@ -35,6 +39,8 @@
   director: Oliver Stone
   tags: { opacity: 2, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0113987
+  poster_url: https://m.media-amazon.com/images/M/MV5BNDk3YWU1NmEtMDBhMC00ZGYwLWFiNzQtMzkwMzg4YjA4MDY4XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: hannibal
   tmdb_id: null
@@ -49,6 +55,8 @@
     humor: 2 # baroque and operatic where Silence played it stark — Lecter gets room to be almost charming
     acclaim: 0.65
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 1 }
+  imdb_id: tt0212985
+  poster_url: https://m.media-amazon.com/images/M/MV5BYTk3NGUzOWYtNTU5Yy00ZDNjLTg1YzItZDlmNWRhMmVlZTMxXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-father
   tmdb_id: null
@@ -63,3 +71,5 @@
     humor: 1
     acclaim: 0.90
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt10272386
+  poster_url: https://m.media-amazon.com/images/M/MV5BYzUxMDAyMDAtNzIyZi00OGQ1LTllMjEtYzRjOThkZTUxNTliXkEyXkFqcGc@._V1_SX300.jpg
