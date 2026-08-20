@@ -5,7 +5,7 @@
 # tarantino.yaml — tagged before he had an entity.
 
 - id: beetlejuice
-  tmdb_id: null
+  tmdb_id: 4011
   title: Beetlejuice
   year: 1988
   runtime: 92
@@ -14,9 +14,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0094721
   poster_url: https://m.media-amazon.com/images/M/MV5BYjkwNzVlNDEtMTJlNy00OTdlLTljYWItM2RkZmZkYzY3YjM2XkEyXkFqcGc@._V1_QL75_UX380_CR0,2,380,562_.jpg
+  letterboxd_slug: beetlejuice
 
 - id: spotlight
-  tmdb_id: null
+  tmdb_id: 314365
   title: Spotlight
   year: 2015
   runtime: 129
@@ -25,9 +26,10 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt1895587
   poster_url: https://m.media-amazon.com/images/M/MV5BMjIyOTM5OTIzNV5BMl5BanBnXkFtZTgwMDkzODE2NjE@._V1_SX300.jpg
+  letterboxd_slug: spotlight
 
 - id: the-founder
-  tmdb_id: null
+  tmdb_id: 310307
   title: The Founder
   year: 2016
   runtime: 115
@@ -36,9 +38,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt4276820
   poster_url: https://m.media-amazon.com/images/M/MV5BMzExNDg0MDk1M15BMl5BanBnXkFtZTgwNzE1Mjg0MDI@._V1_SX300.jpg
+  letterboxd_slug: the-founder
 
 - id: clean-and-sober
-  tmdb_id: null
+  tmdb_id: 14441
   title: Clean and Sober
   year: 1988
   runtime: 124
@@ -47,9 +50,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt0094884
   poster_url: https://m.media-amazon.com/images/M/MV5BMDRiNzA1ZmItN2U3ZS00NWE2LWJlOTQtZmM2OTQ2NDZmM2VmXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: clean-and-sober
 
 - id: the-trial-of-the-chicago-7
-  tmdb_id: null
+  tmdb_id: 556984
   title: The Trial of the Chicago 7
   year: 2020
   runtime: 129
@@ -58,3 +62,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt1070874
   poster_url: https://m.media-amazon.com/images/M/MV5BZjY2ZGFlOTgtOGQ1MS00YWJhLWIyZjQtNWNmNTQ0YTk0MTZjXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-trial-of-the-chicago-7

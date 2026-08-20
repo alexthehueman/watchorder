@@ -7,16 +7,18 @@
 # exists in fiennes.yaml.
 
 - id: wilde
-  tmdb_id: null
+  tmdb_id: 11365
   title: Wilde
   year: 1997
   runtime: 118
   director: Brian Gilbert
   tags: { opacity: 2, stillness: 3, bleakness: 4, humor: 4, acclaim: 0.65 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: wilde
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/a8/h7/n5/rw/j3vT4SGKomGeAW0j8pT5t0NFboU-1200-1200-675-675-crop-000000.jpg?v=850fc3fabf
 
 - id: cold-mountain
-  tmdb_id: null
+  tmdb_id: 2289
   title: Cold Mountain
   year: 2003
   runtime: 154
@@ -28,3 +30,5 @@
     humor: 1
     acclaim: 0.68
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+  letterboxd_slug: cold-mountain
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/oc/04/b8/gq/cold-mountain-1200-1200-675-675-crop-000000.jpg?v=a1d8eac6aa

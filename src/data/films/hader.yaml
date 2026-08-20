@@ -3,16 +3,18 @@
 # Inside Out already exists in pixar.yaml — tagged before he had an entity.
 
 - id: the-skeleton-twins
-  tmdb_id: null
+  tmdb_id: 244772
   title: The Skeleton Twins
   year: 2014
   runtime: 93
   director: Craig Johnson
   tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 2, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
+  letterboxd_slug: the-skeleton-twins
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/qi/d8/nv/sw/the-skeleton-twins-1200-1200-675-675-crop-000000.jpg?v=926e63139d
 
 - id: trainwreck
-  tmdb_id: null
+  tmdb_id: 271718
   title: Trainwreck
   year: 2015
   runtime: 125
@@ -24,12 +26,16 @@
     humor: 4
     acclaim: 0.62
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+  letterboxd_slug: trainwreck
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/s6/uv/73/od/trainwreck-1200-1200-675-675-crop-000000.jpg?v=427533f379
 
 - id: it-chapter-two
-  tmdb_id: null
+  tmdb_id: 474350
   title: It Chapter Two
   year: 2019
   runtime: 169
   director: Andy Muschietti
   tags: { opacity: 2, stillness: 2, bleakness: 5, humor: 3, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: it-chapter-two
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/5x/qd/4c/p8/87B6987C-2286-411B-97D4-84FF9520BD91-1200-1200-675-675-crop-000000.jpg?v=3dc1f473e4

@@ -9,7 +9,7 @@
 # dual lead) — tagged before she had an entity.
 
 - id: terminal
-  tmdb_id: null
+  tmdb_id: 385332
   title: Terminal
   year: 2018
   runtime: 95
@@ -23,9 +23,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt4463816
   poster_url: https://m.media-amazon.com/images/M/MV5BOTliYzYyYTAtNzBjMy00MGE2LThmOWMtZWM1ZmI0MDE1ZjM3XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: terminal-2018
 
 - id: amsterdam
-  tmdb_id: null
+  tmdb_id: 664469
   title: Amsterdam
   year: 2022
   runtime: 134
@@ -34,9 +35,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt10304142
   poster_url: https://m.media-amazon.com/images/M/MV5BNzgxNTQzYTEtMDI3Yi00OGQ1LWFkNGMtZDEyM2JlYmE0YzUyXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg
+  letterboxd_slug: amsterdam-2022
 
 - id: focus
-  tmdb_id: null
+  tmdb_id: 256591
   title: Focus
   year: 2015
   runtime: 105
@@ -45,6 +47,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt2381941
   poster_url: https://m.media-amazon.com/images/M/MV5BMTUwODg2OTA4OF5BMl5BanBnXkFtZTgwOTE5MTE4MzE@._V1_SX300.jpg
+  letterboxd_slug: focus-2015
 
 - id: birds-of-prey
   tmdb_id: null

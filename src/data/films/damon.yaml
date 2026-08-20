@@ -6,7 +6,7 @@
 # exists in spielberg.yaml — tagged before he had an entity.
 
 - id: good-will-hunting
-  tmdb_id: null
+  tmdb_id: 489
   title: Good Will Hunting
   year: 1997
   runtime: 126
@@ -15,9 +15,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0119217
   poster_url: https://m.media-amazon.com/images/M/MV5BNDdjZGQ5YzEtNTc2My00Mjc0LWFlMTctYzkwMzZlNzdiZWYzXkEyXkFqcGc@._V1_QL75_UX380_CR0,9,380,562_.jpg
+  letterboxd_slug: good-will-hunting
 
 - id: the-bourne-identity
-  tmdb_id: null
+  tmdb_id: 2501
   title: The Bourne Identity
   year: 2002
   runtime: 119
@@ -31,9 +32,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0258463
   poster_url: https://m.media-amazon.com/images/M/MV5BYTk1ZTcyMWMtMWUxYS00MmEzLTlmODYtOTk1MGRjOTg1ZjlmXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-bourne-identity-2002
 
 - id: the-martian
-  tmdb_id: null
+  tmdb_id: 286217
   title: The Martian
   year: 2015
   runtime: 144
@@ -42,9 +44,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt3659388
   poster_url: https://m.media-amazon.com/images/M/MV5BMTc2MTQ3MDA1Nl5BMl5BanBnXkFtZTgwODA3OTI4NjE@._V1_SX300.jpg
+  letterboxd_slug: the-martian
 
 - id: contagion
-  tmdb_id: null
+  tmdb_id: 39538
   title: Contagion
   year: 2011
   runtime: 106
@@ -53,9 +56,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt1598778
   poster_url: https://m.media-amazon.com/images/M/MV5BMTY3MDk5MDc3OV5BMl5BanBnXkFtZTcwNzAyNTg0Ng@@._V1_SX300.jpg
+  letterboxd_slug: contagion
 
 - id: the-informant
-  tmdb_id: null
+  tmdb_id: 26217
   title: The Informant!
   year: 2009
   runtime: 108
@@ -69,3 +73,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt1130080
   poster_url: https://m.media-amazon.com/images/M/MV5BMTgyNjE1OTc4Ml5BMl5BanBnXkFtZTgwNjc4MTA3MjI@._V1_SX300.jpg
+  letterboxd_slug: the-informant

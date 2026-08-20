@@ -5,10 +5,12 @@
 # del-toro.yaml — tagged before he had an entity.
 
 - id: hotel-rwanda
-  tmdb_id: null
+  tmdb_id: 205
   title: Hotel Rwanda
   year: 2004
   runtime: 121
   director: Terry George
   tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.82 }
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: hotel-rwanda
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/re/nv/re/y2/hotel-rwanda-1200-1200-675-675-crop-000000.jpg?v=3cac4ea3f8

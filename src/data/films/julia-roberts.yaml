@@ -5,7 +5,7 @@
 # before she had an entity.
 
 - id: pretty-woman
-  tmdb_id: null
+  tmdb_id: 114
   title: Pretty Woman
   year: 1990
   runtime: 119
@@ -14,9 +14,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt0100405
   poster_url: https://m.media-amazon.com/images/M/MV5BNjk2ODQzNDYxNV5BMl5BanBnXkFtZTgwMTcyNDg4NjE@._V1_SX300.jpg
+  letterboxd_slug: pretty-woman
 
 - id: steel-magnolias
-  tmdb_id: null
+  tmdb_id: 10860
   title: Steel Magnolias
   year: 1989
   runtime: 118
@@ -25,9 +26,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0098384
   poster_url: https://m.media-amazon.com/images/M/MV5BMjE4MTYyOWYtYjBjNy00NjBiLThhYWEtNzQ2MmE4MzY4ZGI2XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: steel-magnolias
 
 - id: erin-brockovich
-  tmdb_id: null
+  tmdb_id: 462
   title: Erin Brockovich
   year: 2000
   runtime: 131
@@ -36,9 +38,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt0195685
   poster_url: https://m.media-amazon.com/images/M/MV5BZTNkNzkzYTEtYTJkMC00MTNkLWE0YjMtOGYxNGI0ODNiMzIwXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: erin-brockovich
 
 - id: notting-hill
-  tmdb_id: null
+  tmdb_id: 509
   title: Notting Hill
   year: 1999
   runtime: 124
@@ -47,9 +50,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt0125439
   poster_url: https://m.media-amazon.com/images/M/MV5BZjY3YWI5OTMtYTdlNy00ZTZiLWEwYjItN2M1MGVkMDM4ZDExXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: notting-hill
 
 - id: closer
-  tmdb_id: null
+  tmdb_id: 2288
   title: Closer
   year: 2004
   runtime: 104
@@ -63,3 +67,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt0376541
   poster_url: https://m.media-amazon.com/images/M/MV5BZDIxYWIyZGMtNTAxZC00NDQxLThkOGQtZTUxNmZiMjFhYTEzXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: closer

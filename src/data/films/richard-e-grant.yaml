@@ -20,7 +20,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
 
 - id: how-to-get-ahead-in-advertising
-  tmdb_id: null
+  tmdb_id: 14776
   title: How to Get Ahead in Advertising
   year: 1989
   runtime: 94
@@ -32,12 +32,16 @@
     humor: 3
     acclaim: 0.55
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: how-to-get-ahead-in-advertising
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/wp/8d/2i/e1/how%20to%20get-1200-1200-675-675-crop-000000.jpg?v=5c3ea8b578
 
 - id: spice-world
-  tmdb_id: null
+  tmdb_id: 6116
   title: Spice World
   year: 1997
   runtime: 93
   director: Bob Spiers
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.40 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: spice-world
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/5i/dq/xn/t3/spice-world-1200-1200-675-675-crop-000000.jpg?v=9dcae7162d

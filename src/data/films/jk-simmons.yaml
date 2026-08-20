@@ -5,7 +5,7 @@
 # exists in clooney.yaml.
 
 - id: spider-man-2
-  tmdb_id: null
+  tmdb_id: 558
   title: Spider-Man 2
   year: 2004
   runtime: 127
@@ -17,9 +17,11 @@
     humor: 3
     acclaim: 0.82
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: spider-man-2
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/w2/of/wm/ou/jz6NCADCgj4dWU8RM81Xvrokey4-1200-1200-675-675-crop-000000.jpg?v=c9c668bc42
 
 - id: spider-man-3
-  tmdb_id: null
+  tmdb_id: 559
   title: Spider-Man 3
   year: 2007
   runtime: 139
@@ -31,9 +33,11 @@
     humor: 3
     acclaim: 0.63
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: spider-man-3
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/8l/e8/c8/6l/spider-man-3-1200-1200-675-675-crop-000000.jpg?v=8c1980ede4
 
 - id: patriots-day
-  tmdb_id: null
+  tmdb_id: 388399
   title: Patriots Day
   year: 2016
   runtime: 133
@@ -45,9 +49,11 @@
     humor: 1
     acclaim: 0.68
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: patriots-day
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/fo/l0/tg/r4/patriots-day-1200-1200-675-675-crop-000000.jpg?v=6392c8ea09
 
 - id: zootopia
-  tmdb_id: null
+  tmdb_id: 269149
   title: Zootopia
   year: 2016
   runtime: 108
@@ -59,9 +65,11 @@
     humor: 4
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: zootopia
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ci/je/02/ul/zootopia2-1200-1200-675-675-crop-000000.jpg?v=756474498f
 
 - id: the-ladykillers-2004
-  tmdb_id: null
+  tmdb_id: 5516
   title: The Ladykillers
   year: 2004
   runtime: 104
@@ -73,3 +81,5 @@
     humor: 4
     acclaim: 0.55
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: the-ladykillers-2004
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/7y/t6/wq/t1/the-ladykillers-1200-1200-675-675-crop-000000.jpg?v=dea1b84825

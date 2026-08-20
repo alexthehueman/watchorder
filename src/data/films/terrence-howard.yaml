@@ -5,7 +5,7 @@
 # Iron Man already exists in downey.yaml.
 
 - id: the-best-man
-  tmdb_id: null
+  tmdb_id: 16162
   title: The Best Man
   year: 1999
   runtime: 121
@@ -17,12 +17,16 @@
     humor: 3
     acclaim: 0.62
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: the-best-man
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/uq/4k/6v/x0/the%20best%20man-1200-1200-675-675-crop-000000.jpg?v=d20b52fe26
 
 - id: dead-presidents
-  tmdb_id: null
+  tmdb_id: 11443
   title: Dead Presidents
   year: 1995
   runtime: 119
   director: Albert Hughes
   tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.60 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: dead-presidents
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/8d/ah/y8/1f/dead%20presidents-1200-1200-675-675-crop-000000.jpg?v=ee45016981

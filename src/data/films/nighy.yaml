@@ -4,7 +4,7 @@
 # already exists in gleeson.yaml — tagged before he had an entity.
 
 - id: living-2022
-  tmdb_id: null
+  tmdb_id: 760099
   title: Living
   year: 2022
   runtime: 102
@@ -16,12 +16,16 @@
     humor: 1
     acclaim: 0.82
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: living-2022
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/xm/4c/uf/gg/living-1200-1200-675-675-crop-000000.jpg?v=a98e3133f8
 
 - id: the-best-exotic-marigold-hotel
-  tmdb_id: null
+  tmdb_id: 74534
   title: The Best Exotic Marigold Hotel
   year: 2011
   runtime: 124
   director: John Madden
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: the-best-exotic-marigold-hotel
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/0l/ug/q1/dh/best-exotic-marigold-hotel-1200-1200-675-675-crop-000000.jpg?v=127b4384a9

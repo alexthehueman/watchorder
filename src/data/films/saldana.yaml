@@ -3,43 +3,51 @@
 # Avatar already exists in weaver.yaml — tagged before she had an entity.
 
 - id: guardians-of-the-galaxy
-  tmdb_id: null
+  tmdb_id: 118340
   title: Guardians of the Galaxy
   year: 2014
   runtime: 121
   director: James Gunn
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.82 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: guardians-of-the-galaxy
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/xl/kd/f5/wk/guardians-of-the-galaxy-1200-1200-675-675-crop-000000.jpg?v=1837002666
 
 - id: star-trek-2009
-  tmdb_id: null
+  tmdb_id: 13475
   title: Star Trek
   year: 2009
   runtime: 127
   director: J.J. Abrams
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: star-trek
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/5d/y2/5j/et/star-trek-1200-1200-675-675-crop-000000.jpg?v=5e0d9c3aa3
 
 - id: center-stage
-  tmdb_id: null
+  tmdb_id: 10560
   title: Center Stage
   year: 2000
   runtime: 115
   director: Nicholas Hytner
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.58 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: center-stage
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/p7/yy/84/da/center%20stage-1200-1200-675-675-crop-000000.jpg?v=e8b9a1c511
 
 - id: colombiana
-  tmdb_id: null
+  tmdb_id: 62835
   title: Colombiana
   year: 2011
   runtime: 108
   director: Olivier Megaton
   tags: { opacity: 1, stillness: 1, bleakness: 4, humor: 1, acclaim: 0.5 }
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: colombiana
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ke/13/lt/i6/colombiana-1200-1200-675-675-crop-000000.jpg?v=154304e185
 
 - id: out-of-the-furnace
-  tmdb_id: null
+  tmdb_id: 164457
   title: Out of the Furnace
   year: 2013
   runtime: 116
@@ -51,9 +59,11 @@
     humor: 1
     acclaim: 0.62
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: out-of-the-furnace
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/t9/ly/ia/mj/out-of-the-furnace-1200-1200-675-675-crop-000000.jpg?v=9257ba0e71
 
 - id: infinitely-polar-bear
-  tmdb_id: null
+  tmdb_id: 244539
   title: Infinitely Polar Bear
   year: 2014
   runtime: 90
@@ -65,9 +75,11 @@
     humor: 2
     acclaim: 0.68
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: infinitely-polar-bear
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/sc/a0/6k/7o/infinitely-polar-bear-1200-1200-675-675-crop-000000.jpg?v=945e151295
 
 - id: vantage-point
-  tmdb_id: null
+  tmdb_id: 7461
   title: Vantage Point
   year: 2008
   runtime: 90
@@ -79,12 +91,16 @@
     humor: 1
     acclaim: 0.55
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: vantage-point
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/v0/6q/fn/iz/vantage-point-1200-1200-675-675-crop-000000.jpg?v=c4eda7dcd8
 
 - id: death-at-a-funeral-2010
-  tmdb_id: null
+  tmdb_id: 34803
   title: Death at a Funeral
   year: 2010
   runtime: 92
   director: Neil LaBute
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 5, acclaim: 0.52 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: death-at-a-funeral-2010
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/jn/69/jv/b2/death-1200-1200-675-675-crop-000000.jpg?v=39388a6f3e

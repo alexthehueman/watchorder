@@ -1,25 +1,29 @@
 # New films for Michael Cera. Scales and anchors are in README.md ("The anchor rubric").
 
 - id: superbad
-  tmdb_id: null
+  tmdb_id: 8363
   title: Superbad
   year: 2007
   runtime: 113
   director: Greg Mottola
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 5, acclaim: 0.82 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+  letterboxd_slug: superbad
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ba/l2/7b/a5/superbad-1200-1200-675-675-crop-000000.jpg?v=1bfdfde52a
 
 - id: juno
-  tmdb_id: null
+  tmdb_id: 7326
   title: Juno
   year: 2007
   runtime: 96
   director: Jason Reitman
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.82 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: juno
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/0h/2u/4h/xz/juno2-1200-1200-675-675-crop-000000.jpg?v=7e9803c259
 
 - id: scott-pilgrim-vs-the-world
-  tmdb_id: null
+  tmdb_id: 22538
   title: Scott Pilgrim vs. the World
   year: 2010
   runtime: 112
@@ -31,36 +35,44 @@
     humor: 4
     acclaim: 0.78
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: scott-pilgrim-vs-the-world
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/tj/1l/fv/xj/scott-pilgrim-170-1200-1200-675-675-crop-000000.jpg?v=a57694ded8
 
 - id: this-is-the-end
-  tmdb_id: null
+  tmdb_id: 109414
   title: This Is the End
   year: 2013
   runtime: 107
   director: Seth Rogen
   tags: { opacity: 2, stillness: 1, bleakness: 3, humor: 4, acclaim: 0.65 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: this-is-the-end
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/4q/bh/e2/nk/thisisthend-1200-1200-675-675-crop-000000.jpg?v=aeadd663c0
 
 - id: youth-in-revolt
-  tmdb_id: null
+  tmdb_id: 22327
   title: Youth in Revolt
   year: 2009
   runtime: 90
   director: Miguel Arteta
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.62 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: youth-in-revolt
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/rc/i2/wi/z7/youth-in-revolt-1200-1200-675-675-crop-000000.jpg?v=4bebf3cf47
 
 - id: nick-and-norahs-infinite-playlist
-  tmdb_id: null
+  tmdb_id: 12182
   title: Nick and Norah's Infinite Playlist
   year: 2008
   runtime: 90
   director: Peter Sollett
   tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 3, acclaim: 0.65 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: nick-and-norahs-infinite-playlist
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ea/fn/jc/54/nick-and-norahs-infinite-playlist-1200-1200-675-675-crop-000000.jpg?v=fef0c1479e
 
 - id: magic-magic
-  tmdb_id: null
+  tmdb_id: 139519
   title: Magic Magic
   year: 2013
   runtime: 100
@@ -72,15 +84,19 @@
     humor: 1
     acclaim: 0.55
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: magic-magic
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/qb/j9/xu/xk/magic-magic-1200-1200-675-675-crop-000000.jpg?v=11eedc29c4
 
 - id: 20th-century-women
-  tmdb_id: null
+  tmdb_id: 342737
   title: 20th Century Women
   year: 2016
   runtime: 119
   director: Mike Mills
   tags: { opacity: 1, stillness: 4, bleakness: 3, humor: 2, acclaim: 0.82 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: 20th-century-women
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/6q/tn/rj/ie/20th-century-women-1200-1200-675-675-crop-000000.jpg?v=de8ece8d46
 
 - id: crystal-fairy-and-the-magical-cactus
   tmdb_id: null

@@ -4,16 +4,18 @@
 # Galaxy already exists in saldana.yaml — tagged before he had an entity.
 
 - id: amistad
-  tmdb_id: null
+  tmdb_id: 11831
   title: Amistad
   year: 1997
   runtime: 155
   director: Steven Spielberg
   tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: amistad
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/9s/hi/so/qe/amistad-1200-1200-675-675-crop-000000.jpg?v=4189379f99
 
 - id: blood-diamond
-  tmdb_id: null
+  tmdb_id: 1372
   title: Blood Diamond
   year: 2006
   runtime: 143
@@ -25,3 +27,5 @@
     humor: 1
     acclaim: 0.78
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: blood-diamond
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/wu/yg/hv/40/blood-diamond-1200-1200-675-675-crop-000000.jpg?v=5fd2bbeea3

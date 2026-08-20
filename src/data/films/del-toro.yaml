@@ -4,16 +4,18 @@
 # in watts.yaml — tagged before he had an entity.
 
 - id: traffic
-  tmdb_id: null
+  tmdb_id: 1900
   title: Traffic
   year: 2000
   runtime: 147
   director: Steven Soderbergh
   tags: { opacity: 2, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.82 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: traffic
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/iz/yw/gw/jd/traffic-1200-1200-675-675-crop-000000.jpg?v=7ab93f9d90
 
 - id: the-usual-suspects
-  tmdb_id: null
+  tmdb_id: 629
   title: The Usual Suspects
   year: 1995
   runtime: 106
@@ -25,12 +27,16 @@
     humor: 2
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: the-usual-suspects
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/7i/1n/bq/2m/usual-suspects-1200-1200-675-675-crop-000000.jpg?v=1c591bc2a9
 
 - id: sin-city
-  tmdb_id: null
+  tmdb_id: 187
   title: Sin City
   year: 2005
   runtime: 124
   director: Frank Miller
   tags: { opacity: 2, stillness: 1, bleakness: 5, humor: 2, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+  letterboxd_slug: sin-city
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ob/ac/1y/g3/sin-city-1200-1200-675-675-crop-000000.jpg?v=b3eaccb76d

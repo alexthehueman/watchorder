@@ -7,7 +7,7 @@
 # entity.
 
 - id: la-confidential
-  tmdb_id: null
+  tmdb_id: 2118
   title: L.A. Confidential
   year: 1997
   runtime: 138
@@ -21,9 +21,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
   imdb_id: tt0119488
   poster_url: https://m.media-amazon.com/images/M/MV5BODdiMjY1OGYtNDk0NC00NGQ1LWI4MDItOTJhMTM0YjE1YTAzXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: la-confidential
 
 - id: a-beautiful-mind
-  tmdb_id: null
+  tmdb_id: 453
   title: A Beautiful Mind
   year: 2001
   runtime: 135
@@ -37,6 +38,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0268978
   poster_url: https://m.media-amazon.com/images/M/MV5BYjgzNjFkMmItOGJhNi00NWM3LWJlYTUtNDExMGQ3ZTI3NjJkXkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg
+  letterboxd_slug: a-beautiful-mind
 
 - id: master-and-commander
   tmdb_id: null
@@ -48,7 +50,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
 
 - id: cinderella-man
-  tmdb_id: null
+  tmdb_id: 921
   title: Cinderella Man
   year: 2005
   runtime: 144
@@ -57,9 +59,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0352248
   poster_url: https://m.media-amazon.com/images/M/MV5BYjQ3M2ZjMzYtNmQwNC00MjNkLTgzOTgtMjhjMDk0YzIzOWZkXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: cinderella-man
 
 - id: noah
-  tmdb_id: null
+  tmdb_id: 86834
   title: Noah
   year: 2014
   runtime: 138
@@ -73,9 +76,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt1959490
   poster_url: https://m.media-amazon.com/images/M/MV5BMjI2OTgyNTc0Ml5BMl5BanBnXkFtZTgwNDM1NTQxMTE@._V1_SX300.jpg
+  letterboxd_slug: noah
 
 - id: the-nice-guys
-  tmdb_id: null
+  tmdb_id: 290250
   title: The Nice Guys
   year: 2016
   runtime: 116
@@ -84,12 +88,15 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt3799694
   poster_url: https://m.media-amazon.com/images/M/MV5BM2YwNWZlZGEtYTEyZi00NjdjLWEwM2ItM2Q2MDMwZjkzMjk0XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-nice-guys
 
 - id: les-miserables
-  tmdb_id: null
+  tmdb_id: 82695
   title: Les Miserables
   year: 2012
   runtime: 158
   director: Tom Hooper
   tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.68 }
   content: { sexual_violence: true, animal_harm: false, child_harm: true, suicide: true, violence: 2, sex: 0 }
+  letterboxd_slug: les-miserables-2012
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/pd/pv/zp/dc/les-miserables-2012-1200-1200-675-675-crop-000000.jpg?v=761af0f8da

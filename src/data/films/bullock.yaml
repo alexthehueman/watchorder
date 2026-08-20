@@ -3,7 +3,7 @@
 # Gravity already exists in clooney.yaml (a genuine dual lead) — tagged before she had an entity.
 
 - id: speed
-  tmdb_id: null
+  tmdb_id: 1637
   title: Speed
   year: 1994
   runtime: 116
@@ -12,9 +12,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0111257
   poster_url: https://m.media-amazon.com/images/M/MV5BMDc2ODI5YWQtMmM2ZS00MTdmLWEyNWEtNmRmOGE5NGZlYWMzXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: speed
 
 - id: miss-congeniality
-  tmdb_id: null
+  tmdb_id: 1493
   title: Miss Congeniality
   year: 2000
   runtime: 110
@@ -23,9 +24,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0212346
   poster_url: https://m.media-amazon.com/images/M/MV5BZjMzOWU2MGQtM2Y2Mi00YzgwLTllOGYtNzJlNmU2OTM1MmJjXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: miss-congeniality
 
 - id: while-you-were-sleeping
-  tmdb_id: null
+  tmdb_id: 2064
   title: While You Were Sleeping
   year: 1995
   runtime: 103
@@ -34,9 +36,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0114924
   poster_url: https://m.media-amazon.com/images/M/MV5BZTJmOWIzY2YtYmE2ZC00NDRiLWIzYmMtNTkyNmNlMTA0N2NkXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: while-you-were-sleeping
 
 - id: oceans-eight
-  tmdb_id: null
+  tmdb_id: 402900
   title: Ocean's Eight
   year: 2018
   runtime: 110
@@ -45,9 +48,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt5164214
   poster_url: https://m.media-amazon.com/images/M/MV5BMjAyNDEyMzc4Ml5BMl5BanBnXkFtZTgwMjEzNjM0NTM@._V1_SX300.jpg
+  letterboxd_slug: oceans-eight
 
 - id: crash-2004
-  tmdb_id: null
+  tmdb_id: 1640
   title: Crash
   year: 2004
   runtime: 112
@@ -56,9 +60,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0375679
   poster_url: https://m.media-amazon.com/images/M/MV5BOTk1OTA1MjIyNV5BMl5BanBnXkFtZTcwODQxMTkyMQ@@._V1_SX300.jpg
+  letterboxd_slug: crash-2004
 
 - id: the-blind-side
-  tmdb_id: null
+  tmdb_id: 22881
   title: The Blind Side
   year: 2009
   runtime: 129
@@ -67,9 +72,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0878804
   poster_url: https://m.media-amazon.com/images/M/MV5BMjEzOTE3ODM3OF5BMl5BanBnXkFtZTcwMzYyODI4Mg@@._V1_SX300.jpg
+  letterboxd_slug: the-blind-side
 
 - id: the-proposal
-  tmdb_id: null
+  tmdb_id: 18240
   title: The Proposal
   year: 2009
   runtime: 108
@@ -78,9 +84,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt1041829
   poster_url: https://m.media-amazon.com/images/M/MV5BYWU3ZmFhYTktNzU4NS00ZTEyLTkwNTYtMWE1M2JjMTFmODVkXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-proposal-2009
 
 - id: bird-box
-  tmdb_id: null
+  tmdb_id: 405774
   title: Bird Box
   year: 2018
   runtime: 124
@@ -94,3 +101,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: true, violence: 2, sex: 0 }
   imdb_id: tt2737304
   poster_url: https://m.media-amazon.com/images/M/MV5BMjAzMTI1MjMyN15BMl5BanBnXkFtZTgwNzU5MTE2NjM@._V1_SX300.jpg
+  letterboxd_slug: bird-box

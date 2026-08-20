@@ -5,10 +5,12 @@
 # Hollywood already exists in tarantino.yaml — tagged before she had an entity.
 
 - id: the-runaways
-  tmdb_id: null
+  tmdb_id: 27586
   title: The Runaways
   year: 2010
   runtime: 106
   director: Floria Sigismondi
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.62 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  letterboxd_slug: the-runaways
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/o3/li/cc/41/the-runaways-1200-1200-675-675-crop-000000.jpg?v=de14864dcd

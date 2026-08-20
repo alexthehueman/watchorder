@@ -4,7 +4,7 @@
 # already exists in chalamet.yaml (a genuine dual lead) — tagged before he had an entity.
 
 - id: the-40-year-old-virgin
-  tmdb_id: null
+  tmdb_id: 6957
   title: The 40 Year Old Virgin
   year: 2005
   runtime: 116
@@ -13,9 +13,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
   imdb_id: tt0405422
   poster_url: https://m.media-amazon.com/images/M/MV5BMzFiNzU2NjQtZTcwZC00Nzc3LTk3NjEtMDZmMDhmYjQ4NTAwXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-40-year-old-virgin
 
 - id: little-miss-sunshine
-  tmdb_id: null
+  tmdb_id: 773
   title: Little Miss Sunshine
   year: 2006
   runtime: 101
@@ -24,9 +25,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
   imdb_id: tt0449059
   poster_url: https://m.media-amazon.com/images/M/MV5BMTgzNTgzODU0NV5BMl5BanBnXkFtZTcwMjEyMjMzMQ@@._V1_SX300.jpg
+  letterboxd_slug: little-miss-sunshine
 
 - id: foxcatcher
-  tmdb_id: null
+  tmdb_id: 87492
   title: Foxcatcher
   year: 2014
   runtime: 134
@@ -40,6 +42,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt1100089
   poster_url: https://m.media-amazon.com/images/M/MV5BMTQ2MjQxNjYxOV5BMl5BanBnXkFtZTgwMzIwODUxMzE@._V1_SX300.jpg
+  letterboxd_slug: foxcatcher
 
 - id: anchorman
   tmdb_id: null

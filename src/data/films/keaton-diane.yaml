@@ -6,7 +6,7 @@
 # it's her defining role and Allen wrote the part for her.
 
 - id: annie-hall
-  tmdb_id: null
+  tmdb_id: 703
   title: Annie Hall
   year: 1977
   runtime: 93
@@ -15,9 +15,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt0075686
   poster_url: https://m.media-amazon.com/images/M/MV5BNjZlOWE5N2UtMTdhZC00NjU5LTg2MjYtOGU4NDhhNWNlMmRlXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: annie-hall
 
 - id: the-first-wives-club
-  tmdb_id: null
+  tmdb_id: 2925
   title: The First Wives Club
   year: 1996
   runtime: 103
@@ -26,9 +27,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0116313
   poster_url: https://m.media-amazon.com/images/M/MV5BODBjMzg2MTktYjhjNS00ODNjLTk3MzYtZjAyYjg2NjZiNjVjXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-first-wives-club
 
 - id: marvins-room
-  tmdb_id: null
+  tmdb_id: 9819
   title: Marvin's Room
   year: 1996
   runtime: 98
@@ -37,9 +39,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0116999
   poster_url: https://m.media-amazon.com/images/M/MV5BZjQzY2E4NjgtMGMwNC00NGQzLWE0ZDEtYzdkNzExMzViYTE3XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: marvins-room
 
 - id: reds
-  tmdb_id: null
+  tmdb_id: 18254
   title: Reds
   year: 1981
   runtime: 195
@@ -53,9 +56,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
   imdb_id: tt0082979
   poster_url: https://m.media-amazon.com/images/M/MV5BNDFjMThlYTMtMjMwMy00MjgxLTlhZjgtZTY2ZTdmYjhmY2U2XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: reds
 
 - id: somethings-gotta-give
-  tmdb_id: null
+  tmdb_id: 6964
   title: Something's Gotta Give
   year: 2003
   runtime: 128
@@ -64,9 +68,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt0337741
   poster_url: https://m.media-amazon.com/images/M/MV5BZjZjMWM4MmQtMGQ5Ni00MzRiLWFiNjAtYzg2NmZmNGJmMGI4XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: somethings-gotta-give
 
 - id: baby-boom
-  tmdb_id: null
+  tmdb_id: 11215
   title: Baby Boom
   year: 1987
   runtime: 110
@@ -75,3 +80,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0092605
   poster_url: https://m.media-amazon.com/images/M/MV5BMTY4NDY2ODMzOV5BMl5BanBnXkFtZTcwMjQ0MTcyNA@@._V1_SX300.jpg
+  letterboxd_slug: baby-boom

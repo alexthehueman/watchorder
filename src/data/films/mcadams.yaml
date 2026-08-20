@@ -5,19 +5,23 @@
 # in keaton-michael.yaml — tagged before she had an entity.
 
 - id: wedding-crashers
-  tmdb_id: null
+  tmdb_id: 9522
   title: Wedding Crashers
   year: 2005
   runtime: 119
   director: David Dobkin
   tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 4, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+  letterboxd_slug: wedding-crashers
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/gi/zl/fc/nv/wedding-crashers-1200-1200-675-675-crop-000000.jpg?v=ae09e481ee
 
 - id: mean-girls
-  tmdb_id: null
+  tmdb_id: 10625
   title: Mean Girls
   year: 2004
   runtime: 97
   director: Mark Waters
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: mean-girls
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/zc/lk/pq/6u/mean-girls-1200-1200-675-675-crop-000000.jpg?v=25c224eb18

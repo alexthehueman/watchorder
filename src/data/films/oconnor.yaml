@@ -3,16 +3,18 @@
 # Challengers already exists in zendaya.yaml — tagged before he had an entity.
 
 - id: gods-own-country
-  tmdb_id: null
+  tmdb_id: 428493
   title: God's Own Country
   year: 2017
   runtime: 104
   director: Francis Lee
   tags: { opacity: 1, stillness: 4, bleakness: 4, humor: 1, acclaim: 0.82 }
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  letterboxd_slug: gods-own-country-2017
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/jt/be/ce/cm/gods-own-country-1200-1200-675-675-crop-000000.jpg?v=f3d1096851
 
 - id: la-chimera
-  tmdb_id: null
+  tmdb_id: 837335
   title: La Chimera
   year: 2023
   runtime: 133
@@ -24,21 +26,27 @@
     humor: 2
     acclaim: 0.78
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: la-chimera
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/s4/qu/cr/yr/la-chimera-1200-1200-675-675-crop-000000.jpg?v=01fedaa12c
 
 - id: mothering-sunday
-  tmdb_id: null
+  tmdb_id: 718838
   title: Mothering Sunday
   year: 2021
   runtime: 104
   director: Eva Husson
   tags: { opacity: 2, stillness: 4, bleakness: 4, humor: 1, acclaim: 0.58 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+  letterboxd_slug: mothering-sunday
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/fj/bt/gg/ie/mothering-sunday-1200-1200-675-675-crop-000000.jpg?v=d6890f41d0
 
 - id: emma-2020
-  tmdb_id: null
+  tmdb_id: 556678
   title: Emma.
   year: 2020
   runtime: 125
   director: Autumn de Wilde
   tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 3, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: emma-2020
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/wt/k4/9g/fa/emma-2020-1200-1200-675-675-crop-000000.jpg?v=1ff013c9f8

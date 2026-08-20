@@ -5,7 +5,7 @@
 # exists in bardem.yaml (a genuine dual lead) — tagged before she had an entity.
 
 - id: winters-bone
-  tmdb_id: null
+  tmdb_id: 39013
   title: Winter's Bone
   year: 2010
   runtime: 100
@@ -14,9 +14,10 @@
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt1399683
   poster_url: https://m.media-amazon.com/images/M/MV5BMjA0OTM3MDMxNF5BMl5BanBnXkFtZTcwMDY1MjI0Mw@@._V1_SX300.jpg
+  letterboxd_slug: winters-bone
 
 - id: the-hunger-games
-  tmdb_id: null
+  tmdb_id: 70160
   title: The Hunger Games
   year: 2012
   runtime: 142
@@ -25,9 +26,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt1392170
   poster_url: https://m.media-amazon.com/images/M/MV5BMWI1OGM4YjQtNmIxNi00YmE2LWJkNTAtY2Q0YjU4NTI5NWQyXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-hunger-games
 
 - id: joy
-  tmdb_id: null
+  tmdb_id: 274479
   title: Joy
   year: 2015
   runtime: 124
@@ -36,9 +38,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt2446980
   poster_url: https://m.media-amazon.com/images/M/MV5BNmEyMWJiNzMtZjU3Mi00YzBjLTk3ZDgtMDZkYWVjNmZjMjQ3XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: joy-2015
 
 - id: x-men-days-of-future-past
-  tmdb_id: null
+  tmdb_id: 127585
   title: X-Men Days of Future Past
   year: 2014
   runtime: 132
@@ -47,9 +50,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt1877832
   poster_url: https://m.media-amazon.com/images/M/MV5BNzNiYWE4NjMtMTU4OS00NmM4LWE4ZjAtYmE5OTA5NjkzODExXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg
+  letterboxd_slug: x-men-days-of-future-past
 
 - id: red-sparrow
-  tmdb_id: null
+  tmdb_id: 401981
   title: Red Sparrow
   year: 2018
   runtime: 140
@@ -58,3 +62,4 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 2 }
   imdb_id: tt2873282
   poster_url: https://m.media-amazon.com/images/M/MV5BMTA3MDkxOTc4NDdeQTJeQWpwZ15BbWU4MDAxNzgyNTQz._V1_SX300.jpg
+  letterboxd_slug: red-sparrow

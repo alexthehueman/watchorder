@@ -6,7 +6,7 @@
 # entity.
 
 - id: junebug
-  tmdb_id: null
+  tmdb_id: 1444
   title: Junebug
   year: 2005
   runtime: 106
@@ -15,9 +15,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0418773
   poster_url: https://m.media-amazon.com/images/M/MV5BNWEzM2Y0ZWEtODZkMC00N2M1LTljNDctMzMxYzE0NzUyZDliXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: junebug
 
 - id: enchanted
-  tmdb_id: null
+  tmdb_id: 4523
   title: Enchanted
   year: 2007
   runtime: 107
@@ -26,9 +27,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0461770
   poster_url: https://m.media-amazon.com/images/M/MV5BMjE4NDQ2Mjc0OF5BMl5BanBnXkFtZTcwNzQ2NDE1MQ@@._V1_SX300.jpg
+  letterboxd_slug: enchanted
 
 - id: nocturnal-animals
-  tmdb_id: null
+  tmdb_id: 340666
   title: Nocturnal Animals
   year: 2016
   runtime: 116
@@ -42,9 +44,10 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt4550098
   poster_url: https://m.media-amazon.com/images/M/MV5BMTYwMzMwMzgxNl5BMl5BanBnXkFtZTgwMTA0MTUzMDI@._V1_SX300.jpg
+  letterboxd_slug: nocturnal-animals
 
 - id: arrival
-  tmdb_id: null
+  tmdb_id: 329865
   title: Arrival
   year: 2016
   runtime: 116
@@ -58,3 +61,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt2543164
   poster_url: https://m.media-amazon.com/images/M/MV5BMTExMzU0ODcxNDheQTJeQWpwZ15BbWU4MDE1OTI4MzAy._V1_SX300.jpg
+  letterboxd_slug: arrival-2016

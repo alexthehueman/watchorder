@@ -5,7 +5,7 @@
 # chalamet.yaml — tagged before he had an entity.
 
 - id: a-most-violent-year
-  tmdb_id: null
+  tmdb_id: 241239
   title: A Most Violent Year
   year: 2014
   runtime: 125
@@ -14,9 +14,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt2937898
   poster_url: https://m.media-amazon.com/images/M/MV5BMjE4OTY4ODg3Ml5BMl5BanBnXkFtZTgwMTI1MTg1MzE@._V1_SX300.jpg
+  letterboxd_slug: a-most-violent-year
 
 - id: star-wars-the-force-awakens
-  tmdb_id: null
+  tmdb_id: 140607
   title: Star Wars The Force Awakens
   year: 2015
   runtime: 138
@@ -25,9 +26,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt29895037
   poster_url: https://m.media-amazon.com/images/M/MV5BYWE3ODExM2YtNzFiNy00OGMzLTlkZTktMWQzZDZjZDBlNTg0XkEyXkFqcGc@._V1_QL75_UY562_CR53,0,380,562_.jpg
+  letterboxd_slug: star-wars-the-force-awakens
 
 - id: the-card-counter
-  tmdb_id: null
+  tmdb_id: 643532
   title: The Card Counter
   year: 2021
   runtime: 112
@@ -41,3 +43,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt11196036
   poster_url: https://m.media-amazon.com/images/M/MV5BMWQzMWNkOGQtN2EwYi00YmVjLWFlMDktY2E1ZTI2YWM4ZDcxXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-card-counter

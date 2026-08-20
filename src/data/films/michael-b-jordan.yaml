@@ -1,7 +1,7 @@
 # New films for Michael B Jordan. Scales and anchors are in README.md ("The anchor rubric").
 
 - id: fruitvale-station
-  tmdb_id: null
+  tmdb_id: 157354
   title: Fruitvale Station
   year: 2013
   runtime: 85
@@ -10,9 +10,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt2334649
   poster_url: https://m.media-amazon.com/images/M/MV5BMTQ0OTU1MDkxMF5BMl5BanBnXkFtZTcwNjI5OTA3OQ@@._V1_SX300.jpg
+  letterboxd_slug: fruitvale-station
 
 - id: creed
-  tmdb_id: null
+  tmdb_id: 312221
   title: Creed
   year: 2015
   runtime: 133
@@ -21,9 +22,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt3076658
   poster_url: https://m.media-amazon.com/images/M/MV5BNWM3NjY2ZDctMGZiYy00OGFlLThkMTktOTY2MDM2YjE2OTliXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: creed
 
 - id: black-panther
-  tmdb_id: null
+  tmdb_id: 284054
   title: Black Panther
   year: 2018
   runtime: 134
@@ -32,9 +34,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt1825683
   poster_url: https://m.media-amazon.com/images/M/MV5BMTg1MTY2MjYzNV5BMl5BanBnXkFtZTgwMTc4NTMwNDI@._V1_QL75_UX380_CR0,0,380,562_.jpg
+  letterboxd_slug: black-panther
 
 - id: chronicle
-  tmdb_id: null
+  tmdb_id: 76726
   title: Chronicle
   year: 2012
   runtime: 84
@@ -48,9 +51,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt1706593
   poster_url: https://m.media-amazon.com/images/M/MV5BMDBmYmExZDUtYWQxZS00MWI4LTkyZTQtYzIxNzg3NjJkZjZhXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: chronicle
 
 - id: that-awkward-moment
-  tmdb_id: null
+  tmdb_id: 225565
   title: That Awkward Moment
   year: 2014
   runtime: 94
@@ -59,9 +63,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt1800246
   poster_url: https://m.media-amazon.com/images/M/MV5BMjExODEyMjMwNV5BMl5BanBnXkFtZTgwMTAyODM1MDE@._V1_SX300.jpg
+  letterboxd_slug: that-awkward-moment
 
 - id: red-tails
-  tmdb_id: null
+  tmdb_id: 72431
   title: Red Tails
   year: 2012
   runtime: 125
@@ -70,6 +75,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0485985
   poster_url: https://m.media-amazon.com/images/M/MV5BNDViZGNhNmMtYWM2OS00ZjIzLTgyMTktNTM0Y2VkYzcwMDAwXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: red-tails
 
 - id: without-remorse
   tmdb_id: null
@@ -83,7 +89,7 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNzE0NjU1MmUtZWUzMS00ZWRiLWE5ZjYtODk3NmRlMmExYWI1XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: just-mercy
-  tmdb_id: null
+  tmdb_id: 522212
   title: Just Mercy
   year: 2019
   runtime: 137
@@ -92,9 +98,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt4916630
   poster_url: https://m.media-amazon.com/images/M/MV5BNmJmYmUyODctZDU2Mi00NDhlLWFmYWYtZDcxZmZhMzUxZTFhXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: just-mercy
 
 - id: fahrenheit-451-2018
-  tmdb_id: null
+  tmdb_id: 401905
   title: Fahrenheit 451
   year: 2018
   runtime: 100
@@ -108,3 +115,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0360556
   poster_url: https://m.media-amazon.com/images/M/MV5BYmY0YWQ1NjktYzkyOS00MTVhLTljZGUtZTc3MTE0ZTQyZjk2XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: fahrenheit-451-2018

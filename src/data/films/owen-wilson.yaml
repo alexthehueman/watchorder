@@ -4,19 +4,23 @@
 # Crashers already exists in mcadams.yaml — tagged before he had an entity.
 
 - id: midnight-in-paris
-  tmdb_id: null
+  tmdb_id: 59436
   title: Midnight in Paris
   year: 2011
   runtime: 94
   director: Woody Allen
   tags: { opacity: 2, stillness: 2, bleakness: 1, humor: 4, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: midnight-in-paris
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/sh/7j/y2/8g/midnight-in-paris-1200-1200-675-675-crop-000000.jpg?v=ffe3c5d93b
 
 - id: zoolander
-  tmdb_id: null
+  tmdb_id: 9398
   title: Zoolander
   year: 2001
   runtime: 89
   director: Ben Stiller
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 5, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: zoolander
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/7r/nx/p5/1s/zoolander-1200-1200-675-675-crop-000000.jpg?v=a2d69e831f

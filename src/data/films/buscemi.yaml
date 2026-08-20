@@ -6,16 +6,18 @@
 # Inc. already exists in pixar.yaml — tagged before he had an entity.
 
 - id: trees-lounge
-  tmdb_id: null
+  tmdb_id: 27845
   title: Trees Lounge
   year: 1996
   runtime: 95
   director: Steve Buscemi
   tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 2, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: trees-lounge
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/mk/bd/hw/yx/trees-lounge-1200-1200-675-675-crop-000000.jpg?v=8ad9a93cc8
 
 - id: ghost-world
-  tmdb_id: null
+  tmdb_id: 1548
   title: Ghost World
   year: 2001
   runtime: 111
@@ -27,9 +29,11 @@
     humor: 3
     acclaim: 0.78
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: ghost-world
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/r5/xf/81/ph/ghost-world-1200-1200-675-675-crop-000000.jpg?v=ea0c228123
 
 - id: living-in-oblivion
-  tmdb_id: null
+  tmdb_id: 9071
   title: Living in Oblivion
   year: 1995
   runtime: 91
@@ -41,12 +45,16 @@
     humor: 4
     acclaim: 0.72
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: living-in-oblivion
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ux/sd/cj/b8/living-in-oblivion-1200-1200-675-675-crop-000000.jpg?v=0f84af2ee3
 
 - id: armageddon
-  tmdb_id: null
+  tmdb_id: 95
   title: Armageddon
   year: 1998
   runtime: 151
   director: Michael Bay
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 3, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: armageddon
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/1d/bq/sy/i7/armageddon-1200-1200-675-675-crop-000000.jpg?v=cce264e3bf

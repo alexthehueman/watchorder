@@ -5,7 +5,7 @@
 # four of his most significant roles, tagged before he had an entity.
 
 - id: driving-miss-daisy
-  tmdb_id: null
+  tmdb_id: 403
   title: Driving Miss Daisy
   year: 1989
   runtime: 99
@@ -14,9 +14,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0097239
   poster_url: https://m.media-amazon.com/images/M/MV5BN2M2MWUyZmQtMmI4Yi00NGE2LWFiZmEtNDZkZmYxNWRlM2Y1XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: driving-miss-daisy
 
 - id: the-bucket-list
-  tmdb_id: null
+  tmdb_id: 7350
   title: The Bucket List
   year: 2007
   runtime: 97
@@ -25,9 +26,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt0825232
   poster_url: https://m.media-amazon.com/images/M/MV5BMTY2NTUyMjIyNF5BMl5BanBnXkFtZTYwNzYwMDM4._V1_SX300.jpg
+  letterboxd_slug: the-bucket-list
 
 - id: invictus
-  tmdb_id: null
+  tmdb_id: 22954
   title: Invictus
   year: 2009
   runtime: 135
@@ -36,9 +38,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt1057500
   poster_url: https://m.media-amazon.com/images/M/MV5BMjAyMzExMDM1N15BMl5BanBnXkFtZTcwNTcyMTQ5Mg@@._V1_SX300.jpg
+  letterboxd_slug: invictus
 
 - id: the-shawshank-redemption
-  tmdb_id: null
+  tmdb_id: 278
   title: The Shawshank Redemption
   year: 1994
   runtime: 142
@@ -47,9 +50,10 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0111161
   poster_url: https://m.media-amazon.com/images/M/MV5BMDAyY2FhYjctNDc5OS00MDNlLThiMGUtY2UxYWVkNGY2ZjljXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg
+  letterboxd_slug: the-shawshank-redemption
 
 - id: million-dollar-baby
-  tmdb_id: null
+  tmdb_id: 70
   title: Million Dollar Baby
   year: 2004
   runtime: 132
@@ -63,3 +67,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 0 }
   imdb_id: tt0405159
   poster_url: https://m.media-amazon.com/images/M/MV5BMTkxNzA1NDQxOV5BMl5BanBnXkFtZTcwNTkyMTIzMw@@._V1_QL75_UY562_CR1,0,380,562_.jpg
+  letterboxd_slug: million-dollar-baby

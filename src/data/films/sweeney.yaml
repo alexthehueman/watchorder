@@ -1,16 +1,18 @@
 # New films for Sydney Sweeney. Scales and anchors are in README.md ("The anchor rubric").
 
 - id: anyone-but-you
-  tmdb_id: null
+  tmdb_id: 1072790
   title: Anyone But You
   year: 2023
   runtime: 103
   director: Will Gluck
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.62 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: anyone-but-you
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/y7/7z/xs/sk/anyone-1200-1200-675-675-crop-000000.jpg?v=347f277dcb
 
 - id: immaculate
-  tmdb_id: null
+  tmdb_id: 1041613
   title: Immaculate
   year: 2024
   runtime: 89
@@ -22,9 +24,11 @@
     humor: 1
     acclaim: 0.62
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: immaculate-2024
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/b6/i3/vx/zo/immaculate-1200-1200-675-675-crop-000000.jpg?v=4af8f05890
 
 - id: reality-2023
-  tmdb_id: null
+  tmdb_id: 985617
   title: Reality
   year: 2023
   runtime: 83
@@ -36,21 +40,27 @@
     humor: 1
     acclaim: 0.72
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: reality-2023
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/pu/91/ko/op/reality-1200-1200-675-675-crop-000000.jpg?v=4cf641d3de
 
 - id: the-voyeurs
-  tmdb_id: null
+  tmdb_id: 645710
   title: The Voyeurs
   year: 2021
   runtime: 116
   director: Michael Mohan
   tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 2 }
+  letterboxd_slug: the-voyeurs-2021
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/jz/d9/c6/f9/the-voyeurs-1200-1200-675-675-crop-000000.jpg?v=b092ca1b20
 
 - id: madame-web
-  tmdb_id: null
+  tmdb_id: 634492
   title: Madame Web
   year: 2024
   runtime: 116
   director: S.J. Clarkson
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.28 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: madame-web
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/2r/v9/d2/tg/madame%20web-1200-1200-675-675-crop-000000.jpg?v=8c5f410c79

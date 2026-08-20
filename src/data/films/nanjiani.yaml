@@ -3,7 +3,7 @@
 # Eternals already exists in keoghan.yaml — tagged before he had an entity.
 
 - id: the-big-sick
-  tmdb_id: null
+  tmdb_id: 416477
   title: The Big Sick
   year: 2017
   runtime: 119
@@ -15,6 +15,8 @@
     humor: 3
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: the-big-sick
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/by/b0/t8/91/the-big-sick-1200-1200-675-675-crop-000000.jpg?v=966794cec3
 
 - id: barb-and-star-go-to-vista-del-mar
   tmdb_id: null
@@ -26,10 +28,12 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
 
 - id: men-in-black-international
-  tmdb_id: null
+  tmdb_id: 479455
   title: Men in Black International
   year: 2019
   runtime: 115
   director: F. Gary Gray
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.42 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: men-in-black-international
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ee/jv/h4/yn/mib-international-1200-1200-675-675-crop-000000.jpg?v=f83aba0f8e

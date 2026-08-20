@@ -5,7 +5,7 @@
 # exists in fassbender.yaml — tagged before she had an entity.
 
 - id: kimi
-  tmdb_id: null
+  tmdb_id: 800510
   title: Kimi
   year: 2022
   runtime: 89
@@ -17,45 +17,55 @@
     humor: 1
     acclaim: 0.72
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: kimi
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/j9/3w/w4/sw/kimi-1200-1200-675-675-crop-000000.jpg?v=8839c0a069
 
 - id: dope
-  tmdb_id: null
+  tmdb_id: 308639
   title: Dope
   year: 2015
   runtime: 103
   director: Rick Famuyiwa
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  letterboxd_slug: dope-2015
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/pc/h0/6f/ig/dope-2015-1200-1200-675-675-crop-000000.jpg?v=9dd7b51887
 
 - id: divergent
-  tmdb_id: null
+  tmdb_id: 157350
   title: Divergent
   year: 2014
   runtime: 139
   director: Neil Burger
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: divergent
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/t5/tj/qn/cd/divergent-1200-1200-675-675-crop-000000.jpg?v=db302cfdd9
 
 - id: fantastic-beasts
-  tmdb_id: null
+  tmdb_id: 259316
   title: Fantastic Beasts and Where to Find Them
   year: 2016
   runtime: 133
   director: David Yates
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: fantastic-beasts-and-where-to-find-them
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/0p/ks/s8/3n/fantastic-beasts-1200-1200-675-675-crop-000000.jpg?v=3634d06aa0
 
 - id: rough-night
-  tmdb_id: null
+  tmdb_id: 397422
   title: Rough Night
   year: 2017
   runtime: 101
   director: Lucia Aniello
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 4, acclaim: 0.5 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  letterboxd_slug: rough-night
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/19/xy/ww/0x/rough-night-1200-1200-675-675-crop-000000.jpg?v=9d1fbc43c4
 
 - id: gemini
-  tmdb_id: null
+  tmdb_id: 412302
   title: Gemini
   year: 2017
   runtime: 93
@@ -67,3 +77,5 @@
     humor: 1
     acclaim: 0.65
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: gemini-2017
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/e8/01/75/cl/gemini-2017-1200-1200-675-675-crop-000000.jpg?v=7c1d7c0b4a

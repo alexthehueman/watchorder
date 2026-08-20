@@ -5,16 +5,18 @@
 # phoenix.yaml — tagged before she had an entity.
 
 - id: the-girl-with-the-dragon-tattoo
-  tmdb_id: null
+  tmdb_id: 65754
   title: The Girl with the Dragon Tattoo
   year: 2011
   runtime: 158
   director: David Fincher
   tags: { opacity: 2, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.78 }
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+  letterboxd_slug: the-girl-with-the-dragon-tattoo-2011
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/8j/mz/4s/lu/girl-with-the-dragon-tattoo-2011-1200-1200-675-675-crop-000000.jpg?v=57d2bfd897
 
 - id: side-effects
-  tmdb_id: null
+  tmdb_id: 109421
   title: Side Effects
   year: 2013
   runtime: 106
@@ -26,9 +28,11 @@
     humor: 1
     acclaim: 0.72
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  letterboxd_slug: side-effects-2013
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/jd/tf/ej/np/side-effects-1200-1200-675-675-crop-000000.jpg?v=cf68814772
 
 - id: a-ghost-story
-  tmdb_id: null
+  tmdb_id: 428449
   title: A Ghost Story
   year: 2017
   runtime: 92
@@ -40,21 +44,27 @@
     humor: 1
     acclaim: 0.75
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
+  letterboxd_slug: a-ghost-story-2017
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/5f/ik/y7/hz/a-ghost-story-1200-1200-675-675-crop-000000.jpg?v=f40c8fbd19
 
 - id: lion
-  tmdb_id: null
+  tmdb_id: 334543
   title: Lion
   year: 2016
   runtime: 118
   director: Garth Davis
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: lion
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/jx/co/k3/vp/lion-1200-1200-675-675-crop-000000.jpg?v=b4cbf1530c
 
 - id: nightmare-alley
-  tmdb_id: null
+  tmdb_id: 597208
   title: Nightmare Alley
   year: 2021
   runtime: 150
   director: Guillermo del Toro
   tags: { opacity: 2, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: nightmare-alley-2021
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/pw/kj/wi/75/nightmare-alley-2021-1200-1200-675-675-crop-000000.jpg?v=65e9c57c01

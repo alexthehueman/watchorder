@@ -5,25 +5,29 @@
 # theron.yaml. The Favourite already exists in weisz.yaml.
 
 - id: warm-bodies
-  tmdb_id: null
+  tmdb_id: 82654
   title: Warm Bodies
   year: 2013
   runtime: 97
   director: Jonathan Levine
   tags: { opacity: 2, stillness: 3, bleakness: 2, humor: 4, acclaim: 0.65 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: warm-bodies
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/aj/e5/e2/ki/warm-bodies-1200-1200-675-675-crop-000000.jpg?v=47daf9f065
 
 - id: tolkien
-  tmdb_id: null
+  tmdb_id: 468224
   title: Tolkien
   year: 2019
   runtime: 112
   director: Dome Karukoski
   tags: { opacity: 2, stillness: 3, bleakness: 3, humor: 2, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: tolkien-2019
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/er/mj/mj/h2/tolkien-1200-1200-675-675-crop-000000.jpg?v=d59175565e
 
 - id: rebel-in-the-rye
-  tmdb_id: null
+  tmdb_id: 390056
   title: Rebel in the Rye
   year: 2017
   runtime: 106
@@ -35,12 +39,16 @@
     humor: 1
     acclaim: 0.50
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: rebel-in-the-rye
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/wx/6j/tk/9t/rebel-in-the-rye-1200-1200-675-675-crop-000000.jpg?v=8cfe92ec70
 
 - id: renfield
-  tmdb_id: null
+  tmdb_id: 649609
   title: Renfield
   year: 2023
   runtime: 93
   director: Chris McKay
   tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 4, acclaim: 0.50 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: renfield
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/xf/r4/yf/ka/renfield-1200-1200-675-675-crop-000000.jpg?v=c3f1bfd1cd

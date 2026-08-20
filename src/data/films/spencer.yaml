@@ -5,16 +5,18 @@
 # an entity.
 
 - id: hidden-figures
-  tmdb_id: null
+  tmdb_id: 381284
   title: Hidden Figures
   year: 2016
   runtime: 127
   director: Theodore Melfi
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: hidden-figures
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/jk/n3/kc/go/hidden%20figures-1200-1200-675-675-crop-000000.jpg?v=61f3782cf5
 
 - id: the-shape-of-water
-  tmdb_id: null
+  tmdb_id: 399055
   title: The Shape of Water
   year: 2017
   runtime: 123
@@ -26,6 +28,8 @@
     humor: 2
     acclaim: 0.82
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  letterboxd_slug: the-shape-of-water
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/uv/se/fv/et/the-shape-of-water-1200-1200-675-675-crop-000000.jpg?v=d584e872cc
 
 - id: the-divergent-series-insurgent
   tmdb_id: null
@@ -37,7 +41,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
 
 - id: ma
-  tmdb_id: null
+  tmdb_id: 502416
   title: Ma
   year: 2019
   runtime: 99
@@ -49,4 +53,5 @@
     humor: 1
     acclaim: 0.52
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
-
+  letterboxd_slug: ma-2019
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/nj/li/w5/63/ma-2019-1200-1200-675-675-crop-000000.jpg?v=ee76b68946

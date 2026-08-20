@@ -6,7 +6,7 @@
 # before he had an entity.
 
 - id: the-batman
-  tmdb_id: null
+  tmdb_id: 414906
   title: The Batman
   year: 2022
   runtime: 176
@@ -18,18 +18,22 @@
     humor: 1
     acclaim: 0.78
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: the-batman
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/h1/on/1p/hg/the-batman-1200-1200-675-675-crop-000000.jpg?v=1f59052f03
 
 - id: good-time
-  tmdb_id: null
+  tmdb_id: 429200
   title: Good Time
   year: 2017
   runtime: 101
   director: Josh Safdie
   tags: { opacity: 1, stillness: 1, bleakness: 5, humor: 1, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: good-time
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ga/f8/i6/1h/good1-1200-1200-675-675-crop-000000.jpg?v=3b5f6be87f
 
 - id: tenet
-  tmdb_id: null
+  tmdb_id: 577922
   title: Tenet
   year: 2020
   runtime: 150
@@ -41,12 +45,16 @@
     humor: 1
     acclaim: 0.68
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: tenet
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/5m/00/ad/bl/tenet-1200-1200-675-675-crop-000000.jpg?v=2f1c9ecacd
 
 - id: remember-me
-  tmdb_id: null
+  tmdb_id: 23169
   title: Remember Me
   year: 2010
   runtime: 113
   director: Allen Coulter
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.5 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: remember-me
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/5u/yi/2b/d3/remember-me-1200-1200-675-675-crop-000000.jpg?v=af4ee961dc

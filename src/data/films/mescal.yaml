@@ -1,7 +1,7 @@
 # New films for Paul Mescal. Scales and anchors are in README.md ("The anchor rubric").
 
 - id: aftersun
-  tmdb_id: null
+  tmdb_id: 965150
   title: Aftersun
   year: 2022
   runtime: 102
@@ -13,9 +13,11 @@
     humor: 1
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: aftersun
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/8p/e8/kc/48/aftersun-1200-1200-675-675-crop-000000.jpg?v=e57125ef44
 
 - id: all-of-us-strangers
-  tmdb_id: null
+  tmdb_id: 994108
   title: All of Us Strangers
   year: 2023
   runtime: 105
@@ -27,9 +29,11 @@
     humor: 1
     acclaim: 0.82
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+  letterboxd_slug: all-of-us-strangers
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/oq/ge/iu/1v/all%20of%20us%20t-1200-1200-675-675-crop-000000.jpg?v=36bc3a6038
 
 - id: gladiator-ii
-  tmdb_id: null
+  tmdb_id: 558449
   title: Gladiator II
   year: 2024
   runtime: 148
@@ -41,21 +45,27 @@
     humor: 2 # the arena crowd-baiting and political scheming carry a real streak of dark, theatrical wit
     acclaim: 0.62
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: gladiator-ii
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/85/h2/uy/p3/gladiator%202-1200-1200-675-675-crop-000000.jpg?v=35462ea2c8
 
 - id: the-lost-daughter
-  tmdb_id: null
+  tmdb_id: 554230
   title: The Lost Daughter
   year: 2021
   runtime: 121
   director: Maggie Gyllenhaal
   tags: { opacity: 2, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: the-lost-daughter-2021
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/sb/tc/q8/dh/the-lost-daughter-1200-1200-675-675-crop-000000.jpg?v=2aa66d6541
 
 - id: carmen-2023
-  tmdb_id: null
+  tmdb_id: 1132994
   title: Carmen
   year: 2023
   runtime: 116
   director: Benjamin Millepied
   tags: { opacity: 2, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.45 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: carmen-2023
+  poster_url: https://a.ltrbxd.com/resized/film-poster/1/0/2/1/1/8/5/1021185-carmen-0-230-0-345-crop.jpg?v=181d517a51

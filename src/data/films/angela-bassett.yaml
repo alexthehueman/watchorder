@@ -5,16 +5,18 @@
 # washington.yaml.
 
 - id: whats-love-got-to-do-with-it
-  tmdb_id: null
+  tmdb_id: 15765
   title: What's Love Got to Do with It
   year: 1993
   runtime: 118
   director: Brian Gibson
   tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: whats-love-got-to-do-with-it
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/vt/9i/5f/vi/MV5BYzMyMDRiZWYtOGFmOS00MTMwLWJkMDctYWUwNzIyNjllMjk2XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_-1200-1200-675-675-crop-000000.jpg?v=65e060d65f
 
 - id: strange-days
-  tmdb_id: null
+  tmdb_id: 281
   title: Strange Days
   year: 1995
   runtime: 145
@@ -26,30 +28,38 @@
     humor: 1
     acclaim: 0.65
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+  letterboxd_slug: strange-days
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/py/d6/gh/71/strange%20days-1200-1200-675-675-crop-000000.jpg?v=0b15d76e23
 
 - id: waiting-to-exhale
-  tmdb_id: null
+  tmdb_id: 31357
   title: Waiting to Exhale
   year: 1995
   runtime: 124
   director: Forest Whitaker
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.60 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: waiting-to-exhale
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/1g/s9/on/fu/waiting-1200-1200-675-675-crop-000000.jpg?v=aa0d38db05
 
 - id: boyz-n-the-hood
-  tmdb_id: null
+  tmdb_id: 650
   title: Boyz n the Hood
   year: 1991
   runtime: 112
   director: John Singleton
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 2, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: boyz-n-the-hood
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/2m/rw/z2/ea/boyz-n-hood-1200-1200-675-675-crop-000000.jpg?v=80ba4b561b
 
 - id: how-stella-got-her-groove-back
-  tmdb_id: null
+  tmdb_id: 33644
   title: How Stella Got Her Groove Back
   year: 1998
   runtime: 124
   director: Kevin Rodney Sullivan
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.50 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: how-stella-got-her-groove-back
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/fn/as/16/3a/how%20stella-1200-1200-675-675-crop-000000.jpg?v=2478facaff

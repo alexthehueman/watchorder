@@ -3,13 +3,15 @@
 # The Aviator already exists in blanchett.yaml — tagged before she had an entity.
 
 - id: underworld
-  tmdb_id: null
+  tmdb_id: 277
   title: Underworld
   year: 2003
   runtime: 121
   director: Len Wiseman
   tags: { opacity: 2, stillness: 1, bleakness: 4, humor: 1, acclaim: 0.62 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+  letterboxd_slug: underworld-2003
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ow/ve/sk/u4/underworld-1200-1200-675-675-crop-000000.jpg?v=852ee1cd38
 
 - id: love-and-friendship
   tmdb_id: null
@@ -26,10 +28,12 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
 
 - id: pearl-harbor
-  tmdb_id: null
+  tmdb_id: 676
   title: Pearl Harbor
   year: 2001
   runtime: 183
   director: Michael Bay
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.5 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  letterboxd_slug: pearl-harbor
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/96/xa/bg/t4/pearl-harbor-195-1200-1200-675-675-crop-000000.jpg?v=bed5927097

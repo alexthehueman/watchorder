@@ -4,7 +4,7 @@
 # already exists in mortensen.yaml — tagged before he had an entity.
 
 - id: gone-baby-gone
-  tmdb_id: null
+  tmdb_id: 4771
   title: Gone Baby Gone
   year: 2007
   runtime: 114
@@ -16,12 +16,16 @@
     humor: 2 # a dark, working-class Boston wit runs through even the film's grimmest exchanges
     acclaim: 0.78
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: gone-baby-gone
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ae/gf/cx/0p/m6TxgXteAkyI1ChReyghVNXyjoM-1200-1200-675-675-crop-000000.jpg?v=c44162f70e
 
 - id: assassins-creed
-  tmdb_id: null
+  tmdb_id: 121856
   title: Assassin's Creed
   year: 2016
   runtime: 115
   director: Justin Kurzel
   tags: { opacity: 2, stillness: 1, bleakness: 4, humor: 1, acclaim: 0.35 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: assassins-creed
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/wo/lt/js/10/assassins-creed-1200-1200-675-675-crop-000000.jpg?v=7c20a0ac45

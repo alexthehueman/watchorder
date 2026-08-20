@@ -5,7 +5,7 @@
 # shannon.yaml — tagged before she had an entity.
 
 - id: the-sixth-sense
-  tmdb_id: null
+  tmdb_id: 745
   title: The Sixth Sense
   year: 1999
   runtime: 107
@@ -19,6 +19,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0167404
   poster_url: https://m.media-amazon.com/images/M/MV5BZWQ2OTY0M2UtMTQxNC00MmIzLTllNDQtNDQ0MTQyYzI2M2ZiXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-sixth-sense
 
 - id: muriels-wedding
   tmdb_id: null
@@ -30,7 +31,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
 
 - id: about-a-boy
-  tmdb_id: null
+  tmdb_id: 245
   title: About a Boy
   year: 2002
   runtime: 101
@@ -44,3 +45,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
   imdb_id: tt0276751
   poster_url: https://m.media-amazon.com/images/M/MV5BMTQ2Mzg4MDAzNV5BMl5BanBnXkFtZTgwMjcxNTYxMTE@._V1_SX300.jpg
+  letterboxd_slug: about-a-boy

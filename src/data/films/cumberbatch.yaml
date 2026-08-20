@@ -4,7 +4,7 @@
 # entity. 12 Years a Slave already exists in fassbender.yaml — tagged before he had an entity.
 
 - id: the-current-war
-  tmdb_id: null
+  tmdb_id: 418879
   title: The Current War
   year: 2017
   runtime: 108
@@ -13,9 +13,10 @@
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt2140507
   poster_url: https://m.media-amazon.com/images/M/MV5BMTk4MzhkMDAtNWMyMi00ZmI4LWEyNTUtZDVkMTVlZjJmYTAzXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-current-war
 
 - id: star-trek-into-darkness
-  tmdb_id: null
+  tmdb_id: 54138
   title: Star Trek Into Darkness
   year: 2013
   runtime: 132
@@ -24,9 +25,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt1408101
   poster_url: https://m.media-amazon.com/images/M/MV5BMTk2NzczOTgxNF5BMl5BanBnXkFtZTcwODQ5ODczOQ@@._V1_SX300.jpg
+  letterboxd_slug: star-trek-into-darkness
 
 - id: the-imitation-game
-  tmdb_id: null
+  tmdb_id: 205596
   title: The Imitation Game
   year: 2014
   runtime: 114
@@ -35,9 +37,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt2084970
   poster_url: https://m.media-amazon.com/images/M/MV5BNjI3NjY1Mjg3MV5BMl5BanBnXkFtZTgwMzk5MDQ3MjE@._V1_SX300.jpg
+  letterboxd_slug: the-imitation-game
 
 - id: the-power-of-the-dog
-  tmdb_id: null
+  tmdb_id: 600583
   title: The Power of the Dog
   year: 2021
   runtime: 128
@@ -51,9 +54,10 @@
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt10293406
   poster_url: https://m.media-amazon.com/images/M/MV5BNzgyMzA2NDEtZWUxNy00MDNmLTllMDYtNzZmNTU5ZWVmMzhlXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-power-of-the-dog
 
 - id: doctor-strange
-  tmdb_id: null
+  tmdb_id: 284052
   title: Doctor Strange
   year: 2016
   runtime: 115
@@ -62,9 +66,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt1211837
   poster_url: https://m.media-amazon.com/images/M/MV5BNjgwNzAzNjk1Nl5BMl5BanBnXkFtZTgwMzQ2NjI1OTE@._V1_QL75_UX380_CR0,0,380,562_.jpg
+  letterboxd_slug: doctor-strange-2016
 
 - id: the-fifth-estate
-  tmdb_id: null
+  tmdb_id: 162903
   title: The Fifth Estate
   year: 2013
   runtime: 128
@@ -73,3 +78,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt1837703
   poster_url: https://m.media-amazon.com/images/M/MV5BMjY1MTY5NTg3M15BMl5BanBnXkFtZTgwMDQyMjgwMDE@._V1_SX300.jpg
+  letterboxd_slug: the-fifth-estate

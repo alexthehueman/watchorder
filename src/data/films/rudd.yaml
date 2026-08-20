@@ -4,7 +4,7 @@
 # Rules already exists in caine.yaml — tagged before he had an entity.
 
 - id: ant-man
-  tmdb_id: null
+  tmdb_id: 102899
   title: Ant-Man
   year: 2015
   runtime: 117
@@ -16,48 +16,60 @@
     humor: 4
     acclaim: 0.72
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: ant-man
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/6n/ne/n7/vu/ant-man-1200-1200-675-675-crop-000000.jpg?v=414d604c13
 
 - id: this-is-40
-  tmdb_id: null
+  tmdb_id: 89492
   title: This Is 40
   year: 2012
   runtime: 134
   director: Judd Apatow
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 4, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: this-is-40
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/31/gq/s9/en/this-is-40-1200-1200-675-675-crop-000000.jpg?v=86361b5a0a
 
 - id: i-love-you-man
-  tmdb_id: null
+  tmdb_id: 16538
   title: I Love You Man
   year: 2009
   runtime: 105
   director: John Hamburg
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: i-love-you-man
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/d2/mg/tp/x4/i-love-you-man-1200-1200-675-675-crop-000000.jpg?v=5d1b1437d6
 
 - id: clueless
-  tmdb_id: null
+  tmdb_id: 9603
   title: Clueless
   year: 1995
   runtime: 97
   director: Amy Heckerling
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: clueless
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/iu/ql/9p/75/clueless-1200-1200-675-675-crop-000000.jpg?v=b4bccafb30
 
 - id: our-idiot-brother
-  tmdb_id: null
+  tmdb_id: 59968
   title: Our Idiot Brother
   year: 2011
   runtime: 90
   director: Jesse Peretz
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.6 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: our-idiot-brother
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ej/bs/0a/sy/our-idiot-brother-2-1200-1200-675-675-crop-000000.jpg?v=16d26f57ce
 
 - id: the-fundamentals-of-caring
-  tmdb_id: null
+  tmdb_id: 318121
   title: The Fundamentals of Caring
   year: 2016
   runtime: 97
   director: Rob Burnett
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 3, acclaim: 0.62 }
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: the-fundamentals-of-caring
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/s4/o1/ld/e0/the-fundamentals-of-caring-1200-1200-675-675-crop-000000.jpg?v=54e9f97e79

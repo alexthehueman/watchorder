@@ -4,7 +4,7 @@
 # exists in viola-davis.yaml — tagged before she had an entity.
 
 - id: carrie-1976
-  tmdb_id: null
+  tmdb_id: 7340
   title: Carrie
   year: 1976
   runtime: 98
@@ -13,6 +13,7 @@
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt0074285
   poster_url: https://m.media-amazon.com/images/M/MV5BNjMwMDVlZjYtMWRlZS00OTU1LTlmYTQtOGViNTdmYTE0ZjRlXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: carrie-1976
 
 - id: coal-miners-daughter
   tmdb_id: null
@@ -24,7 +25,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
 
 - id: missing
-  tmdb_id: null
+  tmdb_id: 15600
   title: Missing
   year: 1982
   runtime: 122
@@ -38,9 +39,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0084335
   poster_url: https://m.media-amazon.com/images/M/MV5BYWZjMmViODItNGU2ZS00YWIxLTk0MDUtOTgxMTQ1OWUyYjYwXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: missing
 
 - id: in-the-bedroom
-  tmdb_id: null
+  tmdb_id: 1999
   title: In the Bedroom
   year: 2001
   runtime: 130
@@ -49,3 +51,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0247425
   poster_url: https://m.media-amazon.com/images/M/MV5BYTFmY2U1N2QtZWE5Mi00MjBjLTkyNjgtZmNkZTk2MTJlMTcxXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: in-the-bedroom

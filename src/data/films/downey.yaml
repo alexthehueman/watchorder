@@ -3,34 +3,40 @@
 # Oppenheimer already exists in cillian-murphy.yaml — tagged before he had an entity.
 
 - id: iron-man
-  tmdb_id: null
+  tmdb_id: 1726
   title: Iron Man
   year: 2008
   runtime: 126
   director: Jon Favreau
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.79 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: iron-man-2008
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/x5/3a/wr/w8/iron-man-1200-1200-675-675-crop-000000.jpg?v=00c10943b3
 
 - id: tropic-thunder
-  tmdb_id: null
+  tmdb_id: 7446
   title: Tropic Thunder
   year: 2008
   runtime: 107
   director: Ben Stiller
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 5, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: tropic-thunder
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/y5/kf/ij/h6/tropic-thunder-1200-1200-675-675-crop-000000.jpg?v=d79773fc2f
 
 - id: chaplin
-  tmdb_id: null
+  tmdb_id: 10435
   title: Chaplin
   year: 1992
   runtime: 143
   director: Richard Attenborough
   tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 2, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: chaplin
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ty/w8/nr/q8/vWaR6UtcwuUyDbTAisHxCfwLFYt-1200-1200-675-675-crop-000000.jpg?v=1237d8f88e
 
 - id: zodiac
-  tmdb_id: null
+  tmdb_id: 1949
   title: Zodiac
   year: 2007
   runtime: 157
@@ -42,18 +48,22 @@
     humor: 1
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: zodiac
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/07/2h/dm/69/zodiac-1200-1200-675-675-crop-000000.jpg?v=e2ccb1a88a
 
 - id: sherlock-holmes
-  tmdb_id: null
+  tmdb_id: 10528
   title: Sherlock Holmes
   year: 2009
   runtime: 128
   director: Guy Ritchie
   tags: { opacity: 2, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.65 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: sherlock-holmes-2009
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/u9/e3/2j/24/sherlock-holmes-80-1200-1200-675-675-crop-000000.jpg?v=e70b4ff396
 
 - id: kiss-kiss-bang-bang
-  tmdb_id: null
+  tmdb_id: 5236
   title: Kiss Kiss Bang Bang
   year: 2005
   runtime: 103
@@ -65,9 +75,11 @@
     humor: 4
     acclaim: 0.72
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  letterboxd_slug: kiss-kiss-bang-bang-2005
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/21/96/av/59/kiss-kiss-bang-bang-1200-1200-675-675-crop-000000.jpg?v=6eb520bcb3
 
 - id: a-scanner-darkly
-  tmdb_id: null
+  tmdb_id: 3509
   title: A Scanner Darkly
   year: 2006
   runtime: 100
@@ -79,12 +91,16 @@
     humor: 2
     acclaim: 0.68
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: a-scanner-darkly
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/e3/kt/un/fi/nZuqo9yQpEo447sH0w0MFBgdT6J-1200-1200-675-675-crop-000000.jpg?v=37085e39de
 
 - id: the-judge
-  tmdb_id: null
+  tmdb_id: 205587
   title: The Judge
   year: 2014
   runtime: 141
   director: David Dobkin
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.58 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: the-judge-2014
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/40/ev/so/s4/the-judge-1200-1200-675-675-crop-000000.jpg?v=c127322b2a

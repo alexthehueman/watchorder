@@ -4,19 +4,23 @@
 # already exists in theron.yaml — tagged before she had an entity.
 
 - id: yesterday
-  tmdb_id: null
+  tmdb_id: 515195
   title: Yesterday
   year: 2019
   runtime: 116
   director: Danny Boyle
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.58 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: yesterday-2019
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/if/vr/pw/sa/yesterday-1200-1200-675-675-crop-000000.jpg?v=da74222a6a
 
 - id: the-spy-who-dumped-me
-  tmdb_id: null
+  tmdb_id: 454992
   title: The Spy Who Dumped Me
   year: 2018
   runtime: 117
   director: Susanna Fogel
   tags: { opacity: 2, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.6 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: the-spy-who-dumped-me
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/vy/3i/sl/g2/106DA2B2-1B48-4E80-A515-707824F2445A-1200-1200-675-675-crop-000000.jpg?v=fc85b867fa

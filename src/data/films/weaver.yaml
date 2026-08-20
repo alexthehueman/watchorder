@@ -5,7 +5,7 @@
 # those two are.
 
 - id: alien
-  tmdb_id: null
+  tmdb_id: 348
   title: Alien
   year: 1979
   runtime: 117
@@ -19,9 +19,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt0078748
   poster_url: https://m.media-amazon.com/images/M/MV5BN2NhMDk2MmEtZDQzOC00MmY5LThhYzAtMDdjZGFjOGZjMjdjXkEyXkFqcGc@._V1_QL75_UX380_CR0,6,380,562_.jpg
+  letterboxd_slug: alien
 
 - id: aliens
-  tmdb_id: null
+  tmdb_id: 679
   title: Aliens
   year: 1986
   runtime: 137
@@ -30,9 +31,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt0090605
   poster_url: https://m.media-amazon.com/images/M/MV5BZjIyNGJhYzYtN2I1My00OTVhLWEyMzItZTVjNDMzOTVkYWViXkEyXkFqcGc@._V1_QL75_UX380_CR0,6,380,562_.jpg
+  letterboxd_slug: aliens
 
 - id: ghostbusters
-  tmdb_id: null
+  tmdb_id: 620
   title: Ghostbusters
   year: 1984
   runtime: 105
@@ -41,9 +43,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt0087332
   poster_url: https://m.media-amazon.com/images/M/MV5BYWE0YzYxNDUtMjk2ZC00NTEyLWE1MjktNzFkMjdjOWEwNTcyXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg
+  letterboxd_slug: ghostbusters
 
 - id: working-girl
-  tmdb_id: null
+  tmdb_id: 3525
   title: Working Girl
   year: 1988
   runtime: 113
@@ -52,9 +55,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt0096463
   poster_url: https://m.media-amazon.com/images/M/MV5BYzZhNGFlNGYtMjgyMi00YmZiLWFjNjktZGIzYjkxM2YyZWJjXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: working-girl
 
 - id: gorillas-in-the-mist
-  tmdb_id: null
+  tmdb_id: 10130
   title: Gorillas in the Mist
   year: 1988
   runtime: 129
@@ -68,9 +72,10 @@
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0095243
   poster_url: https://m.media-amazon.com/images/M/MV5BMzhlNTY5ZGYtNWFkMy00MjM5LWJmNmYtNTlhODVjMzY4NGRiXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: gorillas-in-the-mist
 
 - id: avatar
-  tmdb_id: null
+  tmdb_id: 19995
   title: Avatar
   year: 2009
   runtime: 162
@@ -79,3 +84,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0499549
   poster_url: https://m.media-amazon.com/images/M/MV5BMDEzMmQwZjctZWU2My00MWNlLWE0NjItMDJlYTRlNGJiZjcyXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: avatar

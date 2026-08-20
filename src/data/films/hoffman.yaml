@@ -5,7 +5,7 @@
 # tagged before he had an entity.
 
 - id: the-graduate
-  tmdb_id: null
+  tmdb_id: 37247
   title: The Graduate
   year: 1967
   runtime: 106
@@ -19,9 +19,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt0061722
   poster_url: https://m.media-amazon.com/images/M/MV5BMTQ0ODc4MDk4Nl5BMl5BanBnXkFtZTcwMTEzNzgzNA@@._V1_SX300.jpg
+  letterboxd_slug: the-graduate
 
 - id: midnight-cowboy
-  tmdb_id: null
+  tmdb_id: 3116
   title: Midnight Cowboy
   year: 1969
   runtime: 113
@@ -30,9 +31,10 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 2 }
   imdb_id: tt0064665
   poster_url: https://m.media-amazon.com/images/M/MV5BY2QyNDQ4ZGQtOTFlYy00NDVjLWI5NTEtNTBmYTA5OTI0ODYyXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: midnight-cowboy
 
 - id: tootsie
-  tmdb_id: null
+  tmdb_id: 9576
   title: Tootsie
   year: 1982
   runtime: 116
@@ -41,9 +43,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0084805
   poster_url: https://m.media-amazon.com/images/M/MV5BNzc1YjU5NzEtMmZjYi00NzE2LThjMmEtMzY1ZTg5ZjgyM2EzXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: tootsie
 
 - id: rain-man
-  tmdb_id: null
+  tmdb_id: 380
   title: Rain Man
   year: 1988
   runtime: 134
@@ -52,3 +55,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0095953
   poster_url: https://m.media-amazon.com/images/M/MV5BZDUzODNkNGUtNzJjNi00ODFlLTkzMzktMGNkOTIwYWM2YTQzXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: rain-man

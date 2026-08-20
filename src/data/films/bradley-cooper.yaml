@@ -6,7 +6,7 @@
 # in jennifer-lawrence.yaml. Nightmare Alley already exists in mara.yaml.
 
 - id: a-star-is-born-2018
-  tmdb_id: null
+  tmdb_id: 332562
   title: A Star Is Born
   year: 2018
   runtime: 136
@@ -18,9 +18,11 @@
     humor: 1
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 1 }
+  letterboxd_slug: a-star-is-born-2018
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/8l/86/r3/zo/star-is-born-1200-1200-675-675-crop-000000.jpg?v=93149469ef
 
 - id: american-sniper
-  tmdb_id: null
+  tmdb_id: 190859
   title: American Sniper
   year: 2014
   runtime: 133
@@ -32,3 +34,5 @@
     humor: 1
     acclaim: 0.72
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: american-sniper
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/zu/tj/g4/jf/american-sniper-1200-1200-675-675-crop-000000.jpg?v=7f6c02ffc1

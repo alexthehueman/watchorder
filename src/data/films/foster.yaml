@@ -5,7 +5,7 @@
 # already exists in washington.yaml — tagged before she had an entity.
 
 - id: contact
-  tmdb_id: null
+  tmdb_id: 686
   title: Contact
   year: 1997
   runtime: 150
@@ -19,9 +19,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0118884
   poster_url: https://m.media-amazon.com/images/M/MV5BM2JiYmE1Y2UtNDQ3YS00YTZhLTk5MzAtYzEzMzIyNTM4OTRlXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: contact
 
 - id: panic-room
-  tmdb_id: null
+  tmdb_id: 4547
   title: Panic Room
   year: 2002
   runtime: 112
@@ -30,9 +31,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0258000
   poster_url: https://m.media-amazon.com/images/M/MV5BODU0ZGM0MjctM2YxYy00OWY1LTk2N2YtNWE4ZWQ2ODQwMTI5XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: panic-room
 
 - id: the-accused
-  tmdb_id: null
+  tmdb_id: 10868
   title: The Accused
   year: 1988
   runtime: 111
@@ -41,9 +43,10 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0094608
   poster_url: https://m.media-amazon.com/images/M/MV5BZDU2NGRmNGYtN2JiNi00ZDcyLTllM2UtNzhiNDM4ZTU3ODMxXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-accused-1988
 
 - id: maverick
-  tmdb_id: null
+  tmdb_id: 9359
   title: Maverick
   year: 1994
   runtime: 127
@@ -52,9 +55,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0110478
   poster_url: https://m.media-amazon.com/images/M/MV5BMjk5MzdhYWMtOWU3Yi00MTE5LWEyYTEtOGU5NWM0NWNmZDE1XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: maverick
 
 - id: flightplan
-  tmdb_id: null
+  tmdb_id: 9315
   title: Flightplan
   year: 2005
   runtime: 98
@@ -68,9 +72,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0408790
   poster_url: https://m.media-amazon.com/images/M/MV5BMGQyZmQ1OGItYWNkNi00YzU4LWJmZjktNTQyZjNlOGNmNWJlXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: flightplan
 
 - id: nell
-  tmdb_id: null
+  tmdb_id: 1945
   title: Nell
   year: 1994
   runtime: 113
@@ -79,9 +84,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0110638
   poster_url: https://m.media-amazon.com/images/M/MV5BNTkxY2NkMmItOTNmNy00NGU0LTlhM2UtOGQwNDhmNTBmNzQ3XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: nell
 
 - id: the-brave-one
-  tmdb_id: null
+  tmdb_id: 4413
   title: The Brave One
   year: 2007
   runtime: 122
@@ -90,3 +96,4 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt0476964
   poster_url: https://m.media-amazon.com/images/M/MV5BMTA4OTA4Njk4MDdeQTJeQWpwZ15BbWU3MDc0NDY1MzM@._V1_SX300.jpg
+  letterboxd_slug: the-brave-one

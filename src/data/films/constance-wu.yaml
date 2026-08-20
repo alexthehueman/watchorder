@@ -3,7 +3,7 @@
 # Crazy Rich Asians already exists in awkwafina.yaml — tagged before she had an entity.
 
 - id: hustlers
-  tmdb_id: null
+  tmdb_id: 540901
   title: Hustlers
   year: 2019
   runtime: 110
@@ -15,12 +15,16 @@
     humor: 3
     acclaim: 0.75
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 2 }
+  letterboxd_slug: hustlers-2019
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/29/xg/nc/tk/hustlers-1200-1200-675-675-crop-000000.jpg?v=5377987e60
 
 - id: wheredyou-go-bernadette
-  tmdb_id: null
+  tmdb_id: 405177
   title: Where'd You Go, Bernadette
   year: 2019
   runtime: 130
   director: Richard Linklater
   tags: { opacity: 3, stillness: 3, bleakness: 3, humor: 2, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: whered-you-go-bernadette
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/8l/hs/b9/7q/whered-you-go-bernadette-1200-1200-675-675-crop-000000.jpg?v=e7a677dd13

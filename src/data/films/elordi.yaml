@@ -4,16 +4,18 @@
 # exists in de-armas.yaml — tagged before he had an entity.
 
 - id: priscilla
-  tmdb_id: null
+  tmdb_id: 1020006
   title: Priscilla
   year: 2023
   runtime: 113
   director: Sofia Coppola
   tags: { opacity: 2, stillness: 4, bleakness: 4, humor: 1, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: priscilla
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/62/ms/09/ch/priscilla-2023-1200-1200-675-675-crop-000000.jpg?v=364ae470c1
 
 - id: kinds-of-kindness
-  tmdb_id: null
+  tmdb_id: 1029955
   title: Kinds of Kindness
   year: 2024
   runtime: 165
@@ -25,12 +27,16 @@
     humor: 2
     acclaim: 0.65
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 1 }
+  letterboxd_slug: kinds-of-kindness
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/c0/uk/5z/mx/kinds-1200-1200-675-675-crop-000000.jpg?v=7fe566c98b
 
 - id: the-kissing-booth
-  tmdb_id: null
+  tmdb_id: 454983
   title: The Kissing Booth
   year: 2018
   runtime: 105
   director: Vince Marcello
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.52 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: the-kissing-booth
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/21/dh/68/6j/kissing-booth-1200-1200-675-675-crop-000000.jpg?v=d17fa429a6

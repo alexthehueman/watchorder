@@ -15,7 +15,7 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BOGM1MWUzZjktMWY0MS00N2ZhLWJmZjQtNjIxOGVlNzA1OGI0XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg
 
 - id: away-we-go
-  tmdb_id: null
+  tmdb_id: 19255
   title: Away We Go
   year: 2009
   runtime: 98
@@ -24,9 +24,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt1176740
   poster_url: https://m.media-amazon.com/images/M/MV5BMTYxNzE3NjAwMl5BMl5BanBnXkFtZTcwODkxOTI0Mg@@._V1_SX300.jpg
+  letterboxd_slug: away-we-go
 
 - id: license-to-wed
-  tmdb_id: null
+  tmdb_id: 2959
   title: License to Wed
   year: 2007
   runtime: 91
@@ -35,9 +36,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0762114
   poster_url: https://m.media-amazon.com/images/M/MV5BMTI5MTM2MjQ5NV5BMl5BanBnXkFtZTcwOTc3MDc0MQ@@._V1_SX300.jpg
+  letterboxd_slug: license-to-wed
 
 - id: a-quiet-place-part-ii
-  tmdb_id: null
+  tmdb_id: 520763
   title: A Quiet Place Part II
   year: 2020
   runtime: 97
@@ -51,9 +53,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt8332922
   poster_url: https://m.media-amazon.com/images/M/MV5BNjRiYjk4ZmItNGQ5NS00MmRhLTk4Y2EtMGQ1MTYxZWJhYjU0XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: a-quiet-place-part-ii
 
 - id: leatherheads
-  tmdb_id: null
+  tmdb_id: 4942
   title: Leatherheads
   year: 2008
   runtime: 114
@@ -62,3 +65,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0379865
   poster_url: https://m.media-amazon.com/images/M/MV5BMjU1OTEyMzQxNV5BMl5BanBnXkFtZTcwMDU3NTg1MQ@@._V1_SX300.jpg
+  letterboxd_slug: leatherheads

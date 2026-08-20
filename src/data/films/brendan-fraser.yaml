@@ -4,7 +4,7 @@
 # (1999) already exists in weisz.yaml.
 
 - id: the-whale
-  tmdb_id: null
+  tmdb_id: 785084
   title: The Whale
   year: 2022
   runtime: 117
@@ -16,27 +16,33 @@
     humor: 1
     acclaim: 0.72
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: the-whale-2022
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/4u/0c/5o/i4/the%20whale-1200-1200-675-675-crop-000000.jpg?v=9889bb76dd
 
 - id: george-of-the-jungle
-  tmdb_id: null
+  tmdb_id: 10603
   title: George of the Jungle
   year: 1997
   runtime: 92
   director: Sam Weisman
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 5, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: george-of-the-jungle
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/7p/lj/mm/kk/georgeofthejungle-1200-1200-675-675-crop-000000.jpg?v=0790aa4558
 
 - id: journey-to-the-center-of-the-earth
-  tmdb_id: null
+  tmdb_id: 88751
   title: Journey to the Center of the Earth
   year: 2008
   runtime: 93
   director: Eric Brevig
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: journey-to-the-center-of-the-earth-2008
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/rd/d0/kv/xp/journey-center-of-the-earth-2008-1200-1200-675-675-crop-000000.jpg?v=a81ea64b57
 
 - id: school-ties
-  tmdb_id: null
+  tmdb_id: 14684
   title: School Ties
   year: 1992
   runtime: 107
@@ -48,9 +54,11 @@
     humor: 1
     acclaim: 0.65
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: school-ties
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/l2/2s/yk/pn/schoolties-1200-1200-675-675-crop-000000.jpg?v=707bc1ba95
 
 - id: trust-2010
-  tmdb_id: null
+  tmdb_id: 44945
   title: Trust
   year: 2010
   runtime: 106
@@ -62,9 +70,11 @@
     humor: 1
     acclaim: 0.60
   content: { sexual_violence: true, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: trust-2010
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/fw/26/3z/vp/trust-1200-1200-675-675-crop-000000.jpg?v=46c7874c2a
 
 - id: extraordinary-measures
-  tmdb_id: null
+  tmdb_id: 27569
   title: Extraordinary Measures
   year: 2010
   runtime: 106
@@ -76,9 +86,11 @@
     humor: 1
     acclaim: 0.50
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: extraordinary-measures
+  poster_url: https://a.ltrbxd.com/resized/alternative-backdrop/3/4/3/9/8/tmdb/6W5yUFagQ3x7ma74YrAu9zxacxn-1200-1200-675-675-crop-000000.jpg?v=64bd61788a
 
 - id: gods-and-monsters
-  tmdb_id: null
+  tmdb_id: 3033
   title: Gods and Monsters
   year: 1998
   runtime: 105
@@ -90,9 +102,11 @@
     humor: 2
     acclaim: 0.75
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
+  letterboxd_slug: gods-and-monsters
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/lt/dv/9l/cz/godsandmonsters-1200-1200-675-675-crop-000000.jpg?v=30138b128e
 
 - id: bedazzled
-  tmdb_id: null
+  tmdb_id: 1636
   title: Bedazzled
   year: 2000
   runtime: 93
@@ -104,3 +118,5 @@
     humor: 4
     acclaim: 0.50
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: bedazzled-2000
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/06/aj/jn/62/bedazzled-1200-1200-675-675-crop-000000.jpg?v=1822a6b73f

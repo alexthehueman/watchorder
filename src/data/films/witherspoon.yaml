@@ -5,7 +5,7 @@
 # she had an entity.
 
 - id: election
-  tmdb_id: null
+  tmdb_id: 9451
   title: Election
   year: 1999
   runtime: 103
@@ -14,9 +14,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0126886
   poster_url: https://m.media-amazon.com/images/M/MV5BMTVmMWJiMTgtNmNmMS00NmI2LTgxZTAtNjdhODE2NTBlYTAyXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: election
 
 - id: legally-blonde
-  tmdb_id: null
+  tmdb_id: 8835
   title: Legally Blonde
   year: 2001
   runtime: 96
@@ -25,9 +26,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0250494
   poster_url: https://m.media-amazon.com/images/M/MV5BNTEyNjUwMTkxMV5BMl5BanBnXkFtZTcwNjk0NDk0NA@@._V1_SX300.jpg
+  letterboxd_slug: legally-blonde
 
 - id: wild
-  tmdb_id: null
+  tmdb_id: 228970
   title: Wild
   year: 2014
   runtime: 115
@@ -36,9 +38,10 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt2305051
   poster_url: https://m.media-amazon.com/images/M/MV5BZTJlNTQ5NDUtOTVkNi00ODA5LTkyMjktMzM5YTU4N2Y5YzVlXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: wild
 
 - id: pleasantville
-  tmdb_id: null
+  tmdb_id: 2657
   title: Pleasantville
   year: 1998
   runtime: 124
@@ -52,9 +55,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt0120789
   poster_url: https://m.media-amazon.com/images/M/MV5BYmM4ZThmNzAtYzRmNi00ZjZmLThhYjAtYjU2YTcwMmY3MzRmXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: pleasantville
 
 - id: sweet-home-alabama
-  tmdb_id: null
+  tmdb_id: 11529
   title: Sweet Home Alabama
   year: 2002
   runtime: 108
@@ -63,9 +67,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0256415
   poster_url: https://m.media-amazon.com/images/M/MV5BMjEwMjIwMDQ4OV5BMl5BanBnXkFtZTYwNzc3OTY3._V1_SX300.jpg
+  letterboxd_slug: sweet-home-alabama
 
 - id: cruel-intentions
-  tmdb_id: null
+  tmdb_id: 796
   title: Cruel Intentions
   year: 1999
   runtime: 97
@@ -74,3 +79,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
   imdb_id: tt0139134
   poster_url: https://m.media-amazon.com/images/M/MV5BMjgyYmVjNWYtZTNjOS00YjEyLWI0MjEtMDgwYWI2YzZiMTFkXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: cruel-intentions

@@ -4,28 +4,34 @@
 # already exists in rogen.yaml — tagged before he had an entity.
 
 - id: hot-tub-time-machine
-  tmdb_id: null
+  tmdb_id: 23048
   title: Hot Tub Time Machine
   year: 2010
   runtime: 100
   director: Steve Pink
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  letterboxd_slug: hot-tub-time-machine
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/k3/l4/25/so/hot-tub-time-machine-1200-1200-675-675-crop-000000.jpg?v=d55044d5cf
 
 - id: zack-and-miri-make-a-porno
-  tmdb_id: null
+  tmdb_id: 10358
   title: Zack and Miri Make a Porno
   year: 2008
   runtime: 101
   director: Kevin Smith
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.6 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+  letterboxd_slug: zack-and-miri-make-a-porno
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/s3/nn/yl/15/zack-and-miri-make-a-porno-1200-1200-675-675-crop-000000.jpg?v=45861c8180
 
 - id: morris-from-america
-  tmdb_id: null
+  tmdb_id: 352890
   title: Morris from America
   year: 2016
   runtime: 91
   director: Chad Hartigan
   tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 2, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: morris-from-america
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/tm/et/ta/qc/Morris%20From%20America%202-1200-1200-675-675-crop-000000.jpg?v=f2f931f9b3

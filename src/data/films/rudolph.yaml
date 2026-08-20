@@ -5,16 +5,18 @@
 # krasinski.yaml — tagged before she had an entity.
 
 - id: grown-ups
-  tmdb_id: null
+  tmdb_id: 38365
   title: Grown Ups
   year: 2010
   runtime: 102
   director: Dennis Dugan
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.42 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: grown-ups
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/57/qa/57/rc/grown%20ups-1200-1200-675-675-crop-000000.jpg?v=229b42721a
 
 - id: the-prom
-  tmdb_id: null
+  tmdb_id: 611213
   title: The Prom
   year: 2020
   runtime: 132
@@ -26,3 +28,5 @@
     humor: 3
     acclaim: 0.5
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: the-prom-2020
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/68/m3/b1/0i/mqIl9E9jj3WCoqpN2Q5vG7fBQ1p-1200-1200-675-675-crop-000000.jpg?v=fb4efd95d2

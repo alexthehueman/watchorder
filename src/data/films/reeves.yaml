@@ -5,7 +5,7 @@
 # pacino.yaml — tagged before he had an entity.
 
 - id: the-matrix
-  tmdb_id: null
+  tmdb_id: 603
   title: The Matrix
   year: 1999
   runtime: 136
@@ -17,24 +17,30 @@
     humor: 1
     acclaim: 0.87
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: the-matrix
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/o3/er/ey/ie/matrix-1200-1200-675-675-crop-000000.jpg?v=eea86a2195
 
 - id: john-wick
-  tmdb_id: null
+  tmdb_id: 245891
   title: John Wick
   year: 2014
   runtime: 101
   director: Chad Stahelski
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: john-wick
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/wp/bs/m0/17/john-wick-1200-1200-675-675-crop-000000.jpg?v=a0df875fb4
 
 - id: point-break
-  tmdb_id: null
+  tmdb_id: 1089
   title: Point Break
   year: 1991
   runtime: 122
   director: Kathryn Bigelow
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: point-break
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/n2/ws/gi/xu/point-break-1200-1200-675-675-crop-000000.jpg?v=f112c3bdc0
 
 - id: bill-and-teds-excellent-adventure
   tmdb_id: null
@@ -46,7 +52,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
 
 - id: my-own-private-idaho
-  tmdb_id: null
+  tmdb_id: 468
   title: My Own Private Idaho
   year: 1991
   runtime: 104
@@ -58,3 +64,5 @@
     humor: 1
     acclaim: 0.75
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  letterboxd_slug: my-own-private-idaho
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/zk/j8/ov/z3/my-own-private-idaho-1200-1200-675-675-crop-000000.jpg?v=73b1075f0a

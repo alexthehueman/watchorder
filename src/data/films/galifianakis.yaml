@@ -3,28 +3,34 @@
 # Birdman already exists in norton.yaml — tagged before he had an entity.
 
 - id: the-hangover
-  tmdb_id: null
+  tmdb_id: 18785
   title: The Hangover
   year: 2009
   runtime: 100
   director: Todd Phillips
   tags: { opacity: 2, stillness: 1, bleakness: 2, humor: 5, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  letterboxd_slug: the-hangover
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/d6/w1/tn/jn/the-hangover-1200-1200-675-675-crop-000000.jpg?v=a7a213bf21
 
 - id: masterminds
-  tmdb_id: null
+  tmdb_id: 213681
   title: Masterminds
   year: 2016
   runtime: 94
   director: Jared Hess
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.48 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: masterminds-2016
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/hp/8s/d9/rl/masterminds-1200-1200-675-675-crop-000000.jpg?v=96fc7833cb
 
 - id: due-date
-  tmdb_id: null
+  tmdb_id: 41733
   title: Due Date
   year: 2010
   runtime: 100
   director: Todd Phillips
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.58 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: due-date
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/rh/gd/m5/6k/due-date-1200-1200-675-675-crop-000000.jpg?v=595af95272

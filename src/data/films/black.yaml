@@ -4,7 +4,7 @@
 # already exists in winslet.yaml.
 
 - id: school-of-rock
-  tmdb_id: null
+  tmdb_id: 1584
   title: School of Rock
   year: 2003
   runtime: 109
@@ -16,9 +16,11 @@
     humor: 5
     acclaim: 0.83
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: school-of-rock
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/vf/yb/9d/an/school-of-rock-1200-1200-675-675-crop-000000.jpg?v=eccf413ad4
 
 - id: high-fidelity
-  tmdb_id: null
+  tmdb_id: 243
   title: High Fidelity
   year: 2000
   runtime: 113
@@ -30,9 +32,11 @@
     humor: 4
     acclaim: 0.78
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: high-fidelity
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/1d/zp/xd/8l/high-fidelity-1200-1200-675-675-crop-000000.jpg?v=ef4b42ecbc
 
 - id: kung-fu-panda
-  tmdb_id: null
+  tmdb_id: 9502
   title: Kung Fu Panda
   year: 2008
   runtime: 92
@@ -44,9 +48,11 @@
     humor: 4
     acclaim: 0.86
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: kung-fu-panda
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/q8/hk/5s/lu/kung-fu-panda-110-1200-1200-675-675-crop-000000.jpg?v=8d62e7df56
 
 - id: nacho-libre
-  tmdb_id: null
+  tmdb_id: 9353
   title: Nacho Libre
   year: 2006
   runtime: 92
@@ -58,9 +64,11 @@
     humor: 4
     acclaim: 0.45
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: nacho-libre
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/wt/lx/lv/7c/nacho-libre-1200-1200-675-675-crop-000000.jpg?v=5fcf5dd390
 
 - id: bernie
-  tmdb_id: null
+  tmdb_id: 92591
   title: Bernie
   year: 2011
   runtime: 104
@@ -72,9 +80,11 @@
     humor: 3
     acclaim: 0.78
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: bernie-2011
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/sy/1u/10/20/bernie-2011-1200-1200-675-675-crop-000000.jpg?v=9f6e3b8350
 
 - id: margot-at-the-wedding
-  tmdb_id: null
+  tmdb_id: 13998
   title: Margot at the Wedding
   year: 2007
   runtime: 93
@@ -86,9 +96,11 @@
     humor: 2
     acclaim: 0.58
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: margot-at-the-wedding
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ho/hs/2l/89/margot-at-the-wedding-1200-1200-675-675-crop-000000.jpg?v=f43e832414
 
 - id: shallow-hal
-  tmdb_id: null
+  tmdb_id: 9889
   title: Shallow Hal
   year: 2001
   runtime: 113
@@ -100,3 +112,5 @@
     humor: 4
     acclaim: 0.35
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: shallow-hal
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/7q/ed/no/kc/shallow-hal-1200-1200-675-675-crop-000000.jpg?v=47e8c1c453

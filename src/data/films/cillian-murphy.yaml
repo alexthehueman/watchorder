@@ -3,7 +3,7 @@
 # Batman Begins and The Dark Knight already exist in bale.yaml — tagged before he had an entity.
 
 - id: 28-days-later
-  tmdb_id: null
+  tmdb_id: 170
   title: 28 Days Later
   year: 2002
   runtime: 113
@@ -12,9 +12,10 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt0289043
   poster_url: https://m.media-amazon.com/images/M/MV5BM2I4NTI0ZGQtNGQ2ZC00ODIxLWI2N2QtMDBkNzI1NDhjYjE5XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: 28-days-later
 
 - id: the-wind-that-shakes-the-barley
-  tmdb_id: null
+  tmdb_id: 1116
   title: The Wind That Shakes the Barley
   year: 2006
   runtime: 127
@@ -23,9 +24,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0460989
   poster_url: https://m.media-amazon.com/images/M/MV5BNjA0NDhkZDMtM2E2ZS00ZjY1LTgxN2UtMjNhN2NlMGQ5ZGIxXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-wind-that-shakes-the-barley
 
 - id: inception
-  tmdb_id: null
+  tmdb_id: 27205
   title: Inception
   year: 2010
   runtime: 148
@@ -39,9 +41,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt1375666
   poster_url: https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_QL75_UX380_CR0,0,380,562_.jpg
+  letterboxd_slug: inception
 
 - id: red-eye
-  tmdb_id: null
+  tmdb_id: 11460
   title: Red Eye
   year: 2005
   runtime: 85
@@ -50,9 +53,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0421239
   poster_url: https://m.media-amazon.com/images/M/MV5BNzAxNjc1ODczOF5BMl5BanBnXkFtZTcwMjE3MjEzMw@@._V1_SX300.jpg
+  letterboxd_slug: red-eye
 
 - id: dunkirk
-  tmdb_id: null
+  tmdb_id: 374720
   title: Dunkirk
   year: 2017
   runtime: 106
@@ -61,9 +65,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt5013056
   poster_url: https://m.media-amazon.com/images/M/MV5BMTE0Mjg4MTMwMDZeQTJeQWpwZ15BbWU4MDAwMDQ1ODAy._V1_SX300.jpg
+  letterboxd_slug: dunkirk-2017
 
 - id: oppenheimer
-  tmdb_id: null
+  tmdb_id: 872585
   title: Oppenheimer
   year: 2023
   runtime: 180
@@ -77,3 +82,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt15398776
   poster_url: https://m.media-amazon.com/images/M/MV5BN2JkMDc5MGQtZjg3YS00NmFiLWIyZmQtZTJmNTM5MjVmYTQ4XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg
+  letterboxd_slug: oppenheimer-2023

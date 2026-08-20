@@ -5,7 +5,7 @@
 # he had an entity.
 
 - id: a-time-to-kill
-  tmdb_id: null
+  tmdb_id: 1645
   title: A Time to Kill
   year: 1996
   runtime: 149
@@ -19,9 +19,10 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0117913
   poster_url: https://m.media-amazon.com/images/M/MV5BYmNiYzY1N2ItZDZiNC00ZGMyLWJlZjktZDE1MDI3NDBlYjE5XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: a-time-to-kill-1996
 
 - id: unbreakable
-  tmdb_id: null
+  tmdb_id: 9741
   title: Unbreakable
   year: 2000
   runtime: 106
@@ -35,9 +36,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0217869
   poster_url: https://m.media-amazon.com/images/M/MV5BZWNmMGYwMDQtNGIxMS00MzMzLTlhNmItYzllN2M2M2EwMTZmXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: unbreakable
 
 - id: coach-carter
-  tmdb_id: null
+  tmdb_id: 7214
   title: Coach Carter
   year: 2005
   runtime: 136
@@ -46,3 +48,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0393162
   poster_url: https://m.media-amazon.com/images/M/MV5BNjk0M2Y4ZTUtNzA3MS00MWYwLThmYjktMmYzNzVkYzQ3NmFlXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: coach-carter

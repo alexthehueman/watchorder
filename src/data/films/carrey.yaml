@@ -4,25 +4,29 @@
 # an entity.
 
 - id: ace-ventura
-  tmdb_id: null
+  tmdb_id: 3049
   title: Ace Ventura - Pet Detective
   year: 1994
   runtime: 86
   director: Tom Shadyac
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 5, acclaim: 0.50 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: ace-ventura
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/0o/gu/38/23/ace-ventura-pet-detective-1200-1200-675-675-crop-000000.jpg?v=6bd0c6a1f4
 
 - id: dumb-and-dumber
-  tmdb_id: null
+  tmdb_id: 8467
   title: Dumb and Dumber
   year: 1994
   runtime: 107
   director: Peter Farrelly
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 5, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  letterboxd_slug: dumb-and-dumber
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ih/i4/y1/qs/dumb-dumber-1200-1200-675-675-crop-000000.jpg?v=9bb1c0ce74
 
 - id: the-mask
-  tmdb_id: null
+  tmdb_id: 854
   title: The Mask
   year: 1994
   runtime: 101
@@ -34,9 +38,11 @@
     humor: 4
     acclaim: 0.58
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  letterboxd_slug: the-mask-1994
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/22/02/m2/oa/the-mask-1200-1200-675-675-crop-000000.jpg?v=19b69a05f4
 
 - id: liar-liar
-  tmdb_id: null
+  tmdb_id: 1624
   title: Liar Liar
   year: 1997
   runtime: 86
@@ -48,9 +54,11 @@
     humor: 5
     acclaim: 0.62
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: liar-liar
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/8l/d1/9h/hk/liar-liar-1200-1200-675-675-crop-000000.jpg?v=9cbd81044f
 
 - id: the-cable-guy
-  tmdb_id: null
+  tmdb_id: 9894
   title: The Cable Guy
   year: 1996
   runtime: 96
@@ -62,9 +70,11 @@
     humor: 3
     acclaim: 0.56
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: the-cable-guy
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ju/c4/or/xl/the-cable-guy-1200-1200-675-675-crop-000000.jpg?v=a768755388
 
 - id: the-truman-show
-  tmdb_id: null
+  tmdb_id: 37165
   title: The Truman Show
   year: 1998
   runtime: 103
@@ -76,9 +86,11 @@
     humor: 2
     acclaim: 0.90
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: the-truman-show
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/z0/rf/dt/5l/truman-show-115-1200-1200-675-675-crop-000000.jpg?v=1047828fc6
 
 - id: the-number-23
-  tmdb_id: null
+  tmdb_id: 3594
   title: The Number 23
   year: 2007
   runtime: 95
@@ -90,9 +102,11 @@
     humor: 1
     acclaim: 0.35
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  letterboxd_slug: the-number-23
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/w6/u2/pj/y8/the-number-23-1200-1200-675-675-crop-000000.jpg?v=28fefa3c50
 
 - id: man-on-the-moon
-  tmdb_id: null
+  tmdb_id: 1850
   title: Man on the Moon
   year: 1999
   runtime: 118
@@ -104,3 +118,5 @@
     humor: 3
     acclaim: 0.68
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: man-on-the-moon
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/9i/24/ds/3l/man-on-the-moon-1200-1200-675-675-crop-000000.jpg?v=4effda30ba

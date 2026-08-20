@@ -6,16 +6,18 @@
 # entry into the case.
 
 - id: se7en
-  tmdb_id: null
+  tmdb_id: 807
   title: Se7en
   year: 1995
   runtime: 127
   director: David Fincher
   tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.90 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: se7en
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/om/48/ya/8v/se7en_uLHHCJ-1200-1200-675-675-crop-000000.jpg?v=04e9ff67b6
 
 - id: twelve-monkeys
-  tmdb_id: null
+  tmdb_id: 63
   title: Twelve Monkeys
   year: 1995
   runtime: 129
@@ -27,9 +29,11 @@
     humor: 2
     acclaim: 0.82
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: twelve-monkeys
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/2d/5a/ou/4t/12-monkeys-1200-1200-675-675-crop-000000.jpg?v=5babfd7316
 
 - id: fight-club
-  tmdb_id: null
+  tmdb_id: 550
   title: Fight Club
   year: 1999
   runtime: 139
@@ -43,9 +47,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
   imdb_id: tt0137523
   poster_url: https://m.media-amazon.com/images/M/MV5BOTgyOGQ1NDItNGU3Ny00MjU3LTg2YWEtNmEyYjBiMjI1Y2M5XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg
+  letterboxd_slug: fight-club
 
 - id: oceans-eleven
-  tmdb_id: null
+  tmdb_id: 161
   title: Ocean's Eleven
   year: 2001
   runtime: 116
@@ -54,9 +59,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0240772
   poster_url: https://m.media-amazon.com/images/M/MV5BMmNhZDkxYTgtMDM3ZC00NTQ3LWFjZTUtNzc1Y2QyNWZjNDRmXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: oceans-eleven-2001
 
 - id: moneyball
-  tmdb_id: null
+  tmdb_id: 60308
   title: Moneyball
   year: 2011
   runtime: 133
@@ -65,3 +71,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt1210166
   poster_url: https://m.media-amazon.com/images/M/MV5BMjAxOTU3Mzc1M15BMl5BanBnXkFtZTcwMzk1ODUzNg@@._V1_SX300.jpg
+  letterboxd_slug: moneyball

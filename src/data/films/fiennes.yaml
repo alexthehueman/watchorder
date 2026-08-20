@@ -5,7 +5,7 @@
 # with dafoe.yaml (Dafoe plays a supporting assassin) — tagged here since M. Gustave is the lead.
 
 - id: in-bruges
-  tmdb_id: null
+  tmdb_id: 8321
   title: In Bruges
   year: 2008
   runtime: 107
@@ -19,9 +19,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0780536
   poster_url: https://m.media-amazon.com/images/M/MV5BNjliZjBlNDItOWUyZC00ZTExLTg5NmUtNzE5ZmQyZWVmZmE5XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: in-bruges
 
 - id: the-grand-budapest-hotel
-  tmdb_id: null
+  tmdb_id: 120467
   title: The Grand Budapest Hotel
   year: 2014
   runtime: 99
@@ -35,9 +36,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
   imdb_id: tt2278388
   poster_url: https://m.media-amazon.com/images/M/MV5BMzM5NjUxOTEyMl5BMl5BanBnXkFtZTgwNjEyMDM0MDE@._V1_QL75_UX380_CR0,0,380,562_.jpg
+  letterboxd_slug: the-grand-budapest-hotel
 
 - id: harry-potter-and-the-goblet-of-fire
-  tmdb_id: null
+  tmdb_id: 674
   title: Harry Potter and the Goblet of Fire
   year: 2005
   runtime: 157
@@ -46,9 +48,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0330373
   poster_url: https://m.media-amazon.com/images/M/MV5BMTIzNzUzOTk2NV5BMl5BanBnXkFtZTYwNTI4MDg2._V1_SX300.jpg
+  letterboxd_slug: harry-potter-and-the-goblet-of-fire
 
 - id: skyfall
-  tmdb_id: null
+  tmdb_id: 37724
   title: Skyfall
   year: 2012
   runtime: 143
@@ -57,3 +60,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt1074638
   poster_url: https://m.media-amazon.com/images/M/MV5BNjAzMWNkODUtM2FlMi00NzgyLWJhMGUtMWEyNDYyZGFiN2RlXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: skyfall
