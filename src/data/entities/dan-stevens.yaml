@@ -1,0 +1,48 @@
+slug: dan-stevens
+kind: actor
+name: Dan Stevens
+blurb: A gift for a wide, unpredictable register — genteel period romance, genuine menace, and broad comic absurdity — spread across a genre-hopping post-television career.
+
+films:
+  - film: the-guest
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 1
+    note: A charming stranger claiming to be a fallen soldier's army friend, playing warm hospitality curdling into genuine, controlled menace.
+
+  - film: beauty-and-the-beast-2017
+    signature: 4
+    must_see: true
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: A cursed prince slowly learning to love, playing guarded bitterness thawing into real vulnerability.
+
+  - film: godzilla-x-kong-the-new-empire
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: warm
+    gateway: 4
+    note: A veterinarian specializing in giant monsters, playing easygoing, good-natured expertise within a large ensemble.
+
+  - film: eurovision-song-contest
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: comic
+    gateway: 5
+    note: A flamboyant, wildly overconfident rival pop star, playing total, gleeful self-parody.
+
+curated:
+  curator: house
+  rationale: The role that revealed real menace first, then the wider range across genre work.
+  order:
+    - the-guest
+    - beauty-and-the-beast-2017
+    - eurovision-song-contest
+    - godzilla-x-kong-the-new-empire

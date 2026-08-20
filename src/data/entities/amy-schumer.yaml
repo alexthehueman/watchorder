@@ -1,0 +1,47 @@
+slug: amy-schumer
+kind: actor
+name: Amy Schumer
+blurb: A blunt, confrontational stand-up voice carried into one genre-redefining romantic comedy lead, then a run of broader studio comedy since.
+
+films:
+  - film: trainwreck
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 4
+    note: A commitment-averse writer forced to confront her own patterns when she actually falls for someone, playing defensive deflection cracking into real vulnerability.
+
+  - film: kinda-pregnant
+    signature: 2
+    showcase: 2
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A woman faking a pregnancy to keep pace with her best friend, playing anxious deception that keeps threatening to unravel.
+
+  - film: i-feel-pretty
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: warm
+    gateway: 5
+    note: A woman whose self-image transforms overnight after a head injury, playing newfound, occasionally delusional confidence.
+
+  - film: snatched
+    signature: 2
+    showcase: 2
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: A recently dumped woman dragging her mother on a disastrous vacation, playing broad, high-strung comic panic.
+
+curated:
+  curator: house
+  rationale: The role that defined her film persona first, then the range around it.
+  order:
+    - trainwreck
+    - i-feel-pretty
+    - kinda-pregnant
+    - snatched

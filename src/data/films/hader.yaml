@@ -17,7 +17,12 @@
   year: 2015
   runtime: 125
   director: Judd Apatow
-  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.62 }
+  tags:
+    opacity: 2 # whether she'll actually let herself commit stays genuinely uncertain until the very end
+    stillness: 2
+    bleakness: 3
+    humor: 4
+    acclaim: 0.62
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
 
 - id: it-chapter-two

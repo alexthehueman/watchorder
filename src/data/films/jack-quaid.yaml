@@ -1,0 +1,27 @@
+# New films for Jack Quaid. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Scream (2022) already exists in ortega.yaml — tagged before he had an entity. Logan Lucky
+# already exists in daniel-craig.yaml.
+
+- id: scream-vi
+  tmdb_id: null
+  title: Scream VI
+  year: 2023
+  runtime: 123
+  director: Matt Bettinelli-Olpin
+  tags:
+    opacity: 3 # which of the returning survivors is actually behind the new killings stays hidden until the reveal
+    stillness: 2
+    bleakness: 4
+    humor: 2
+    acclaim: 0.65
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: novocaine
+  tmdb_id: null
+  title: Novocaine
+  year: 2025
+  runtime: 110
+  director: Robert Olsen
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }

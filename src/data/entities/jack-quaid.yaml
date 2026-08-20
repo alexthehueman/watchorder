@@ -1,0 +1,47 @@
+slug: jack-quaid
+kind: actor
+name: Jack Quaid
+blurb: An affable, slightly hapless everyman quality that's carried through both genre horror survival and a run of dependable supporting comic relief.
+
+films:
+  - film: scream-2022
+    signature: 5
+    must_see: true
+    showcase: 4
+    role_size: supporting
+    register: menacing
+    gateway: 2
+    note: A returning legacy character whose loyalty becomes genuinely suspect as the killings escalate, playing warm familiarity curdling into real threat.
+
+  - film: scream-vi
+    signature: 3
+    showcase: 4
+    role_size: supporting
+    register: unhinged
+    gateway: 2
+    note: The same character now fully unmasked, playing unraveling obsession with none of his earlier charm left.
+
+  - film: novocaine
+    signature: 2
+    showcase: 4
+    role_size: lead
+    register: comic
+    gateway: 3
+    note: A man with a rare condition that leaves him unable to feel pain, playing reckless, deadpan improvisation through escalating violence.
+
+  - film: logan-lucky
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: warm
+    gateway: 4
+    note: One of the Logan family's heist crew, playing easygoing, good-natured competence.
+
+curated:
+  curator: house
+  rationale: The role that made him a genre fixture first, then the range around it.
+  order:
+    - scream-2022
+    - scream-vi
+    - novocaine
+    - logan-lucky
