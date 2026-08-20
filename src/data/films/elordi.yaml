@@ -1,0 +1,36 @@
+# New films for Jacob Elordi. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Saltburn already exists in keoghan.yaml — tagged before he had an entity. Deep Water already
+# exists in de-armas.yaml — tagged before he had an entity.
+
+- id: priscilla
+  tmdb_id: null
+  title: Priscilla
+  year: 2023
+  runtime: 113
+  director: Sofia Coppola
+  tags: { opacity: 2, stillness: 4, bleakness: 4, humor: 1, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: kinds-of-kindness
+  tmdb_id: null
+  title: Kinds of Kindness
+  year: 2024
+  runtime: 165
+  director: Yorgos Lanthimos
+  tags:
+    opacity: 4 # three unconnected stories the film refuses to explain the logic linking, played completely straight throughout
+    stillness: 3
+    bleakness: 5
+    humor: 2
+    acclaim: 0.65
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 1 }
+
+- id: the-kissing-booth
+  tmdb_id: null
+  title: The Kissing Booth
+  year: 2018
+  runtime: 105
+  director: Vince Marcello
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.52 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }

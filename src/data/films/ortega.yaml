@@ -1,0 +1,51 @@
+# New films for Jenna Ortega. Scales and anchors are in README.md ("The anchor rubric").
+
+- id: x-2022
+  tmdb_id: null
+  title: "X"
+  year: 2022
+  runtime: 105
+  director: Ti West
+  tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 2, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 2 }
+
+- id: scream-2022
+  tmdb_id: null
+  title: Scream
+  year: 2022
+  runtime: 114
+  director: Matt Bettinelli-Olpin
+  tags: { opacity: 2, stillness: 1, bleakness: 4, humor: 2, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: the-fallout
+  tmdb_id: null
+  title: The Fallout
+  year: 2021
+  runtime: 96
+  director: Megan Park
+  tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
+
+- id: millers-girl
+  tmdb_id: null
+  title: Miller's Girl
+  year: 2024
+  runtime: 93
+  director: Jade Halley Bartlett
+  tags:
+    opacity: 3 # who's actually manipulating whom in this teacher-student entanglement stays a live, shifting question
+    stillness: 3
+    bleakness: 4
+    humor: 1
+    acclaim: 0.42
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: beetlejuice-beetlejuice
+  tmdb_id: null
+  title: Beetlejuice Beetlejuice
+  year: 2024
+  runtime: 105
+  director: Tim Burton
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }

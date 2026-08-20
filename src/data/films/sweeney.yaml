@@ -1,0 +1,56 @@
+# New films for Sydney Sweeney. Scales and anchors are in README.md ("The anchor rubric").
+
+- id: anyone-but-you
+  tmdb_id: null
+  title: Anyone But You
+  year: 2023
+  runtime: 103
+  director: Will Gluck
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.62 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: immaculate
+  tmdb_id: null
+  title: Immaculate
+  year: 2024
+  runtime: 89
+  director: Michael Mohan
+  tags:
+    opacity: 3 # what's actually been done to her, and by whom, stays withheld well past the point of ordinary convent unease
+    stillness: 3
+    bleakness: 5
+    humor: 1
+    acclaim: 0.62
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: reality-2023
+  tmdb_id: null
+  title: Reality
+  year: 2023
+  runtime: 83
+  director: Tina Satter
+  tags:
+    opacity: 2 # a transcript-accurate interrogation that reveals what she actually did only through her own guarded, evasive answers
+    stillness: 4
+    bleakness: 4
+    humor: 1
+    acclaim: 0.72
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-voyeurs
+  tmdb_id: null
+  title: The Voyeurs
+  year: 2021
+  runtime: 116
+  director: Michael Mohan
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 2 }
+
+- id: madame-web
+  tmdb_id: null
+  title: Madame Web
+  year: 2024
+  runtime: 116
+  director: S.J. Clarkson
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.28 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

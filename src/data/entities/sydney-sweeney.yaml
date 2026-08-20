@@ -1,0 +1,57 @@
+slug: sydney-sweeney
+kind: actor
+name: Sydney Sweeney
+blurb: A warm, approachable screen presence she's spent equal time putting toward broad studio comedy and toward roles that quietly weaponize how easy she is to underestimate.
+
+films:
+  - film: anyone-but-you
+    signature: 5
+    must_see: true
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: A woman forced to fake a relationship with her worst enemy at a destination wedding, playing antagonism that keeps giving itself away as something else.
+
+  - film: immaculate
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 1
+    note: An American nun whose miraculous pregnancy at an isolated Italian convent turns out to conceal something the institution has been planning for a long time.
+
+  - film: reality-2023
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: An NSA translator questioned by federal agents in a scene built entirely from the actual declassified transcript, playing guarded evasion under mounting pressure.
+
+  - film: the-voyeurs
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: unhinged
+    gateway: 2
+    note: A woman drawn into obsessively watching, and eventually manipulating, the couple across the street, playing curiosity curdling into something far less innocent.
+
+  - film: madame-web
+    signature: 2
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 3
+    note: One of three young women whose fates become tied to a paramedic's newly discovered precognitive visions, playing skepticism in a role the film gives little room to develop.
+
+curated:
+  curator: house
+  rationale: The role that made her a mainstream lead first, then the run of smaller, stranger films built around the same easy warmth turning unreliable.
+  order:
+    - anyone-but-you
+    - madame-web
+    - the-voyeurs
+    - reality-2023
+    - immaculate

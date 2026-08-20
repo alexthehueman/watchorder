@@ -1,0 +1,57 @@
+slug: jacob-elordi
+kind: actor
+name: Jacob Elordi
+blurb: Traded a teen-romance gateway role for a run of directors interested in exactly how unsettling that same easy charm could become.
+
+films:
+  - film: priscilla
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: menacing
+    gateway: 1
+    note: An older, magnetic Elvis Presley courting a teenager into a controlled, increasingly isolating relationship, playing charisma as a slow-closing trap.
+
+  - film: saltburn
+    signature: 5
+    must_see: true
+    showcase: 4
+    role_size: lead
+    register: warm
+    gateway: 2
+    note: A charmed, oblivious aristocrat who invites a classmate into his family's world without ever suspecting what that classmate actually wants from it.
+
+  - film: kinds-of-kindness
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: unhinged
+    gateway: 1
+    note: A recurring presence across three unconnected stories, playing menace whose actual source or logic the film never once explains.
+
+  - film: deep-water
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: warm
+    gateway: 3
+    note: One of the men circling a marriage's open, dangerous arrangement, playing easy confidence with no idea how far it's about to cost him.
+
+  - film: the-kissing-booth
+    signature: 3
+    showcase: 2
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: A popular, protective older brother whose off-limits status becomes the entire romantic obstacle of the film. His breakout role.
+
+curated:
+  curator: house
+  rationale: The gateway teen-romance role first, then the run of directors who found something considerably stranger in the same easy charm.
+  order:
+    - the-kissing-booth
+    - deep-water
+    - saltburn
+    - kinds-of-kindness
+    - priscilla
