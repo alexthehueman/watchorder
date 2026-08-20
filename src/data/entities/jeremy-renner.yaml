@@ -1,0 +1,84 @@
+slug: jeremy-renner
+kind: actor
+name: Jeremy Renner
+blurb: A coiled, watchful intensity that carried a run of prestige dramas before an MCU supporting role turned it into steady blockbuster utility.
+
+films:
+  - film: the-hurt-locker
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 2
+    note: A bomb-disposal specialist addicted to the adrenaline of near-certain death, playing reckless, near-suicidal focus that reads as competence until it doesn't.
+
+  - film: the-town
+    signature: 4
+    must_see: true
+    showcase: 4
+    role_size: supporting
+    register: menacing
+    gateway: 3
+    note: A volatile career criminal unwilling to let his best friend walk away from the crew, playing loyalty curdling into real threat.
+
+  - film: kill-the-messenger
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: menacing
+    gateway: 1
+    note: A journalist uncovering the CIA's ties to the crack-cocaine epidemic, playing mounting paranoia as the story starts to consume him.
+
+  - film: wind-river
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A wildlife tracker helping investigate a young woman's death on a remote reservation, playing controlled, weathered grief underneath the procedural plotting.
+
+  - film: arrival
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: warm
+    gateway: 3
+    note: A theoretical physicist assisting first-contact communications, playing steady, grounded partnership against the film's unraveling timeline.
+
+  - film: american-hustle
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: warm
+    gateway: 4
+    note: A well-meaning, corruptible New Jersey mayor caught in an FBI sting, playing genuine civic warmth undone by his own compromises.
+
+  - film: mission-impossible-rogue-nation
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: restrained
+    gateway: 4
+    note: A bureaucratic IMF analyst maneuvering behind the scenes to keep the team alive, playing careful, procedural composure.
+
+  - film: avengers-age-of-ultron
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 5
+    note: A veteran archer grounding a team of superpowered colleagues with dry, unbothered wit.
+
+curated:
+  curator: house
+  rationale: The performance that defined the coiled intensity first, then the range across prestige drama, ending on the blockbuster utility work.
+  order:
+    - the-hurt-locker
+    - the-town
+    - kill-the-messenger
+    - wind-river
+    - american-hustle
+    - arrival
+    - mission-impossible-rogue-nation
+    - avengers-age-of-ultron

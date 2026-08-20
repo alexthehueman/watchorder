@@ -1,0 +1,64 @@
+# New films for Olivia Colman. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Lobster and The Favourite already exist in weisz.yaml — tagged before she had an entity.
+# The Father already exists in hopkins.yaml.
+
+- id: hyde-park-on-hudson
+  tmdb_id: null
+  title: Hyde Park on Hudson
+  year: 2012
+  runtime: 94
+  director: Roger Michell
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: nativity
+  tmdb_id: null
+  title: Nativity!
+  year: 2009
+  runtime: 105
+  director: Debbie Isitt
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: tyrannosaur
+  tmdb_id: null
+  title: Tyrannosaur
+  year: 2011
+  runtime: 91
+  director: Paddy Considine
+  tags:
+    opacity: 1
+    stillness: 3
+    bleakness: 5
+    humor: 1
+    acclaim: 0.75
+  content: { sexual_violence: true, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: murder-on-the-orient-express
+  tmdb_id: null
+  title: Murder on the Orient Express
+  year: 2017
+  runtime: 114
+  director: Kenneth Branagh
+  tags:
+    opacity: 3 # one of a dozen suspects, each with a motive the film keeps deliberately obscured until the reveal
+    stillness: 2
+    bleakness: 2
+    humor: 2
+    acclaim: 0.58
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
+
+- id: empire-of-light
+  tmdb_id: null
+  title: Empire of Light
+  year: 2022
+  runtime: 115
+  director: Sam Mendes
+  tags:
+    opacity: 2 # how much of her mental illness she's masking from everyone around her stays hidden until it can't be
+    stillness: 4
+    bleakness: 4
+    humor: 1
+    acclaim: 0.55
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }

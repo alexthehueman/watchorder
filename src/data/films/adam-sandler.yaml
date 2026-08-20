@@ -1,0 +1,97 @@
+# New films for Adam Sandler. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Uncut Gems already exists in a24.yaml — tagged before he had an entity. Punch-Drunk Love
+# already exists in pta.yaml.
+
+- id: billy-madison
+  tmdb_id: null
+  title: Billy Madison
+  year: 1995
+  runtime: 89
+  director: Tamra Davis
+  tags:
+    opacity: 1
+    stillness: 1
+    bleakness: 2 # his father's genuine disapproval and the real threat of losing the company give the stunt-plot a stake
+    humor: 5
+    acclaim: 0.55
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: happy-gilmore
+  tmdb_id: null
+  title: Happy Gilmore
+  year: 1996
+  runtime: 92
+  director: Dennis Dugan
+  tags:
+    opacity: 2 # whether his rage is genuinely uncontrollable or a choice he's making stays an open question the film never quite answers
+    stillness: 1
+    bleakness: 2
+    humor: 5
+    acclaim: 0.62
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-wedding-singer
+  tmdb_id: null
+  title: The Wedding Singer
+  year: 1998
+  runtime: 97
+  director: Frank Coraci
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 3 # a real, humiliating heartbreak sits underneath the eighties nostalgia
+    humor: 4
+    acclaim: 0.68
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: big-daddy
+  tmdb_id: null
+  title: Big Daddy
+  year: 1999
+  runtime: 93
+  director: Dennis Dugan
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 3 # a real custody threat gives the back half genuine emotional stakes
+    humor: 4
+    acclaim: 0.50
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-meyerowitz-stories
+  tmdb_id: null
+  title: The Meyerowitz Stories
+  year: 2017
+  runtime: 112
+  director: Noah Baumbach
+  tags: { opacity: 2, stillness: 3, bleakness: 3, humor: 3, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: funny-people
+  tmdb_id: null
+  title: Funny People
+  year: 2009
+  runtime: 146
+  director: Judd Apatow
+  tags:
+    opacity: 2 # whether the diagnosis has actually changed him, or he's just performing change, stays genuinely unresolved
+    stillness: 4
+    bleakness: 4
+    humor: 2
+    acclaim: 0.58
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: reign-over-me
+  tmdb_id: null
+  title: Reign Over Me
+  year: 2007
+  runtime: 124
+  director: Mike Binder
+  tags:
+    opacity: 2 # how much he actually remembers, and is choosing to block out, stays deliberately unclear for most of the film
+    stillness: 5
+    bleakness: 5
+    humor: 1
+    acclaim: 0.62
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 0 }

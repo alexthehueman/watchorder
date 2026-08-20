@@ -1,0 +1,93 @@
+slug: adam-sandler
+kind: actor
+name: Adam Sandler
+blurb: A man-child comic persona built on sudden, cartoonish rage, wheeled out across two decades of broad studio comedy and, twice, handed to a genuinely serious director instead.
+
+films:
+  - film: happy-gilmore
+    signature: 5
+    must_see: true
+    showcase: 4
+    role_size: lead
+    register: unhinged
+    gateway: 5
+    note: A failed hockey player turned golf phenom with an explosive temper, playing sudden, cartoonish rage as the entire joke.
+
+  - film: uncut-gems
+    signature: 4
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 1
+    note: A compulsive gambler and jeweler chasing one more score against mounting debts, playing frantic, self-destructive momentum with none of his usual comic release.
+
+  - film: billy-madison
+    signature: 4
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 4
+    note: A rich, arrested-development man-child redoing grades one through twelve to inherit his father's company, playing pure, gleeful stupidity.
+
+  - film: punch-drunk-love
+    signature: 3
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A repressed, socially stunted small-business owner whose buried rage finally finds a strange outlet in love, playing anxious tenderness almost entirely straight.
+
+  - film: the-wedding-singer
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: A jilted wedding singer falling for a waitress engaged to someone else, playing earnest, unguarded romantic sincerity underneath the eighties setting.
+
+  - film: the-meyerowitz-stories
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: warm
+    gateway: 2
+    note: An overlooked son still chasing his difficult artist father's approval, playing wounded, low-key sincerity within a wry family ensemble.
+
+  - film: funny-people
+    signature: 2
+    showcase: 4
+    role_size: lead
+    register: menacing
+    gateway: 2
+    note: A famous, self-absorbed comedian confronting his own mortality and the wreckage of his personal relationships, playing genuine cruelty the film never quite lets him off the hook for.
+
+  - film: reign-over-me
+    signature: 2
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A man who lost his family on 9/11 and has since retreated into denial, playing quiet, blocked-off grief with none of his usual energy.
+
+  - film: big-daddy
+    signature: 2
+    showcase: 2
+    role_size: lead
+    register: comic
+    gateway: 4
+    note: An immature slacker suddenly responsible for a young boy, playing broad, easy comic charm.
+
+curated:
+  curator: house
+  rationale: The performance that made the persona first, then the one that turned it inside out, then the range in both directions from there.
+  order:
+    - happy-gilmore
+    - billy-madison
+    - the-wedding-singer
+    - big-daddy
+    - uncut-gems
+    - punch-drunk-love
+    - the-meyerowitz-stories
+    - funny-people
+    - reign-over-me

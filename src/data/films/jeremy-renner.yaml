@@ -1,0 +1,34 @@
+# New films for Jeremy Renner. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Hurt Locker already exists in mackie.yaml — tagged before he had an entity. Wind River
+# and Avengers Age of Ultron already exist in olsen.yaml. Mission Impossible Rogue Nation
+# already exists in ferguson.yaml. Arrival already exists in amy-adams.yaml. American Hustle
+# already exists in bale.yaml.
+
+- id: the-town
+  tmdb_id: null
+  title: The Town
+  year: 2010
+  runtime: 125
+  director: Ben Affleck
+  tags:
+    opacity: 2 # whether his loyalty to the crew will actually let his best friend walk away stays genuinely unclear
+    stillness: 2
+    bleakness: 4
+    humor: 1
+    acclaim: 0.78
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: kill-the-messenger
+  tmdb_id: null
+  title: Kill the Messenger
+  year: 2014
+  runtime: 112
+  director: Michael Cuesta
+  tags:
+    opacity: 3 # how far up the government the crack-cocaine connection actually reaches stays deliberately murky
+    stillness: 4
+    bleakness: 4
+    humor: 1
+    acclaim: 0.65
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
