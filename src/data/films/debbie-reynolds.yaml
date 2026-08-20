@@ -1,0 +1,26 @@
+# New films for Debbie Reynolds. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Singin' in the Rain already exists in mgm.yaml — tagged before she had an entity.
+
+- id: the-unsinkable-molly-brown
+  tmdb_id: null
+  title: The Unsinkable Molly Brown
+  year: 1964
+  runtime: 128
+  director: Charles Walters
+  tags:
+    opacity: 2 # an episodic, almost mythic retelling of her life leaves what's fact and what's legend genuinely unclear
+    stillness: 2
+    bleakness: 2
+    humor: 3
+    acclaim: 0.68
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: tammy-and-the-bachelor
+  tmdb_id: null
+  title: Tammy and the Bachelor
+  year: 1957
+  runtime: 89
+  director: Joseph Pevney
+  tags: { opacity: 2, stillness: 3, bleakness: 2, humor: 4, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

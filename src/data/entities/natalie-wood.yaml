@@ -1,0 +1,38 @@
+slug: natalie-wood
+kind: actor
+name: Natalie Wood
+blurb: A luminous, emotionally raw screen presence that carried three of the defining coming-of-age and romantic dramas of the late 50s and early 60s.
+
+films:
+  - film: west-side-story-1961
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: warm
+    gateway: 5
+    note: An idealistic young woman falling in love across a violent neighborhood divide, playing hopeful, unguarded devotion.
+
+  - film: splendor-in-the-grass
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 5
+    note: A repressed young woman's mental breakdown under social and sexual pressure, playing raw, devastating collapse.
+
+  - film: rebel-without-a-cause
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 5
+    note: A troubled teenager hiding her own turmoil behind cool detachment, playing guarded, aching vulnerability.
+
+curated:
+  curator: house
+  rationale: The most iconic role first, then the most acclaimed performance, then the earlier work.
+  order:
+    - west-side-story-1961
+    - splendor-in-the-grass
+    - rebel-without-a-cause

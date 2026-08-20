@@ -1,0 +1,38 @@
+slug: debbie-reynolds
+kind: actor
+name: Debbie Reynolds
+blurb: A bright, spirited screen presence that anchored the definitive Hollywood musical and carried a run of scrappy, warm-hearted comedy afterward.
+
+films:
+  - film: singin-in-the-rain
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: warm
+    gateway: 5
+    note: An aspiring actress who becomes the film's true heart, playing spirited, unaffected sincerity.
+
+  - film: the-unsinkable-molly-brown
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: unhinged
+    gateway: 5
+    note: A brash, larger-than-life social climber refusing to accept her station, playing gleeful, unstoppable defiance.
+
+  - film: tammy-and-the-bachelor
+    signature: 2
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 5
+    note: A naive backwoods girl navigating high society, playing plainspoken, unaffected honesty.
+
+curated:
+  curator: house
+  rationale: The definitive musical role first, then the Oscar-nominated dramatic showcase, then the lighter comic work.
+  order:
+    - singin-in-the-rain
+    - the-unsinkable-molly-brown
+    - tammy-and-the-bachelor

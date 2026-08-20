@@ -1,0 +1,31 @@
+# New films for Natalie Wood. Scales and anchors are in README.md ("The anchor rubric").
+#
+# West Side Story already exists in robert-wise.yaml — tagged before she had an entity.
+
+- id: rebel-without-a-cause
+  tmdb_id: null
+  title: Rebel Without a Cause
+  year: 1955
+  runtime: 111
+  director: Nicholas Ray
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 4
+    humor: 2 # a streak of sardonic teenage wit runs through the melodrama
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: splendor-in-the-grass
+  tmdb_id: null
+  title: Splendor in the Grass
+  year: 1961
+  runtime: 124
+  director: Elia Kazan
+  tags:
+    opacity: 2 # whether her breakdown is caused by repression, love, or something deeper stays genuinely uncertain
+    stillness: 2
+    bleakness: 5
+    humor: 1
+    acclaim: 0.78
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

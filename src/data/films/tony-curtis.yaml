@@ -1,0 +1,19 @@
+# New films for Tony Curtis. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Some Like It Hot already exists in wilder.yaml — tagged before he had an entity.
+# Spartacus already exists in kirk-douglas.yaml. Sweet Smell of Success already exists
+# in burt-lancaster.yaml. The Defiant Ones already exists in poitier.yaml.
+
+- id: the-boston-strangler
+  tmdb_id: null
+  title: The Boston Strangler
+  year: 1968
+  runtime: 116
+  director: Richard Fleischer
+  tags:
+    opacity: 3 # whether he's genuinely guilty, and the fractured psychological truth behind his confession, stays deliberately unresolved
+    stillness: 2
+    bleakness: 5
+    humor: 1
+    acclaim: 0.65
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

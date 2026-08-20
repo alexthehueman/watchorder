@@ -1,0 +1,56 @@
+slug: tony-curtis
+kind: actor
+name: Tony Curtis
+blurb: A dark-haired matinee handsomeness that turned out to carry real range — from farce to slippery menace to the most acclaimed dramatic role of his career.
+
+films:
+  - film: some-like-it-hot
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: A musician hiding out in an all-female band while also chasing a millionaire's fortune, playing gleeful, escalating comic scheming.
+
+  - film: the-boston-strangler
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A man whose calm hides a fractured, dissociative psyche, playing chillingly controlled ambiguity.
+
+  - film: sweet-smell-of-success
+    signature: 5
+    showcase: 5
+    role_size: lead
+    register: menacing
+    gateway: 5
+    note: A slimy, manipulative press agent willing to destroy anyone for a headline, playing oily, self-interested menace.
+
+  - film: the-defiant-ones
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 3
+    note: An escaped convict chained to a man he despises, forced into desperate cooperation, playing raw, cornered fury.
+
+  - film: spartacus
+    signature: 3
+    showcase: 4
+    role_size: supporting
+    register: warm
+    gateway: 3
+    note: A gentle slave loyal to Spartacus's cause, playing quiet, devoted courage.
+
+curated:
+  curator: house
+  rationale: The most iconic role first, then the most acclaimed dramatic performance, then the range around both.
+  order:
+    - some-like-it-hot
+    - the-boston-strangler
+    - sweet-smell-of-success
+    - the-defiant-ones
+    - spartacus
