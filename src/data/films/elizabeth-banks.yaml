@@ -1,0 +1,27 @@
+# New films for Elizabeth Banks. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Hunger Games already exists in jennifer-lawrence.yaml — tagged before she had an entity.
+# Pitch Perfect already exists in kendrick.yaml — tagged before she had an entity.
+
+- id: slither
+  tmdb_id: null
+  title: Slither
+  year: 2006
+  runtime: 95
+  director: James Gunn
+  tags:
+    opacity: 2 # the full extent of the infection, and who's already lost to it, stays genuinely unclear as the town's situation worsens
+    stillness: 1
+    bleakness: 3
+    humor: 4
+    acclaim: 0.65
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: charlies-angels-2019
+  tmdb_id: null
+  title: Charlie's Angels
+  year: 2019
+  runtime: 118
+  director: Elizabeth Banks
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.5 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

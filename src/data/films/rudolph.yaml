@@ -1,0 +1,28 @@
+# New films for Maya Rudolph. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Bridesmaids already exists in mccarthy.yaml — tagged before she had an entity. Inside Out
+# already exists in pixar.yaml — tagged before she had an entity. Away We Go already exists in
+# krasinski.yaml — tagged before she had an entity.
+
+- id: grown-ups
+  tmdb_id: null
+  title: Grown Ups
+  year: 2010
+  runtime: 102
+  director: Dennis Dugan
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.42 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-prom
+  tmdb_id: null
+  title: The Prom
+  year: 2020
+  runtime: 132
+  director: Ryan Murphy
+  tags:
+    opacity: 2 # the film keeps you genuinely unsure whether the Broadway stars' activism is self-serving or sincere
+    stillness: 2
+    bleakness: 2
+    humor: 3
+    acclaim: 0.5
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

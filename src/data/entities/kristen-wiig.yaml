@@ -1,0 +1,47 @@
+slug: kristen-wiig
+kind: actor
+name: Kristen Wiig
+blurb: A sketch-comedy performer's precise, unhinged commitment redirected toward a real emotional core, whether the film needs a bride's meltdown or a supervillain's transformation.
+
+films:
+  - film: bridesmaids
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 4
+    note: A maid of honor whose life is quietly falling apart just as her best friend's wedding demands she hold it together, playing genuine desperation underneath the film's broad comic set pieces.
+
+  - film: wonder-woman-1984
+    signature: 4
+    showcase: 4
+    role_size: supporting
+    register: unhinged
+    gateway: 2
+    note: A meek, overlooked scientist whose wish for confidence transforms her into a genuinely dangerous rival, playing insecurity curdling into real menace.
+
+  - film: despicable-me
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 5
+    note: A relentlessly chipper orphanage director whose sunny exterior barely masks real menace, playing sinister sweetness as a running joke.
+
+  - film: ghostbusters-2016
+    signature: 2
+    showcase: 2
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: A physicist reuniting with an estranged childhood friend to investigate a real paranormal outbreak, playing reluctant belief slowly winning out over professional caution.
+
+curated:
+  curator: house
+  rationale: The performance built entirely on real desperation underneath broad comedy first, then everywhere else that same commitment gets put to different use.
+  order:
+    - despicable-me
+    - ghostbusters-2016
+    - bridesmaids
+    - wonder-woman-1984

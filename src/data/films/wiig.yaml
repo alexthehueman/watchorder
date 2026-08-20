@@ -1,0 +1,27 @@
+# New films for Kristen Wiig. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Bridesmaids already exists in mccarthy.yaml — tagged before she had an entity. Ghostbusters
+# already exists in hemsworth.yaml — tagged before she had an entity.
+
+- id: wonder-woman-1984
+  tmdb_id: null
+  title: Wonder Woman 1984
+  year: 2020
+  runtime: 151
+  director: Patty Jenkins
+  tags:
+    opacity: 2 # a wish-granting artifact whose full rules and cost the film reveals only as the damage keeps compounding
+    stillness: 2
+    bleakness: 3
+    humor: 2
+    acclaim: 0.42
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: despicable-me
+  tmdb_id: null
+  title: Despicable Me
+  year: 2010
+  runtime: 95
+  director: Pierre Coffin
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }

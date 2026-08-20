@@ -1,0 +1,47 @@
+slug: elizabeth-banks
+kind: actor
+name: Elizabeth Banks
+blurb: A bright, capable comic energy she's spent equally in front of and behind the camera, playing everything from a garish dystopian propagandist to a low-budget horror lead.
+
+films:
+  - film: slither
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 2
+    note: A schoolteacher whose small town is overrun by a parasitic alien infection, playing practical panic as the film's grounding human presence amid full-throttle body horror.
+
+  - film: charlies-angels-2019
+    signature: 4
+    showcase: 3
+    role_size: supporting
+    register: warm
+    gateway: 4
+    note: A handler running an all-female spy network, playing steady authority behind the scenes of her own directorial effort.
+
+  - film: the-hunger-games
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: comic
+    gateway: 4
+    note: A garishly styled propaganda official whose relentless cheer conceals the machinery of a genuinely brutal system.
+
+  - film: pitch-perfect
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 5
+    note: A cutting, deadpan competition commentator whose asides are consistently the film's sharpest jokes.
+
+curated:
+  curator: house
+  rationale: The performance that shows her range as a lead first, then everywhere else that same bright energy gets put to smaller use.
+  order:
+    - pitch-perfect
+    - the-hunger-games
+    - charlies-angels-2019
+    - slither

@@ -1,0 +1,56 @@
+slug: maya-rudolph
+kind: actor
+name: Maya Rudolph
+blurb: A sketch performer's improvisational warmth she's spent almost entirely on ensemble comedy, occasionally let loose on something quieter and more sincere.
+
+films:
+  - film: away-we-go
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: warm
+    gateway: 2
+    note: A pregnant woman traveling cross-country with her partner to find the right place to raise their child, playing hopeful uncertainty as the film's whole emotional register.
+
+  - film: bridesmaids
+    signature: 4
+    showcase: 3
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: A bride whose wedding planning becomes an accidental battleground for her maid of honor's unraveling, playing genuine affection despite the chaos around her.
+
+  - film: grown-ups
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 4
+    note: One of several spouses along for a nostalgic reunion weekend, playing easy comic chemistry within a large ensemble cast.
+
+  - film: the-prom
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 3
+    note: A struggling Broadway performer joining a cause-driven publicity campaign, playing self-aware theatricality as pure comic bit.
+
+  - film: inside-out
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: warm
+    gateway: 5
+    note: A supportive presence in a young girl's inner emotional world, playing steady reassurance in a handful of key scenes.
+
+curated:
+  curator: house
+  rationale: The performance built entirely on quiet, hopeful sincerity first, then everywhere else that same warmth gets put to ensemble comic use.
+  order:
+    - grown-ups
+    - the-prom
+    - inside-out
+    - bridesmaids
+    - away-we-go
