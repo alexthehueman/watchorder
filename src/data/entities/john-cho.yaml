@@ -1,0 +1,93 @@
+slug: john-cho
+kind: actor
+name: John Cho
+blurb: An easy, likable leading-man warmth stretched from broad stoner comedy to Star Trek's helmsman to, once, a genuinely tense screen-life thriller.
+
+films:
+  - film: searching
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A father piecing together his missing daughter's digital footprint, playing controlled panic that keeps threatening to break.
+
+  - film: harold-and-kumar-go-to-white-castle
+    signature: 5
+    must_see: true
+    showcase: 4
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: A stressed investment banker chasing an increasingly absurd late-night craving, playing easy, unguarded comic chemistry with his best friend.
+
+  - film: better-luck-tomorrow
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: unhinged
+    gateway: 2
+    note: An overachieving student drawn into escalating small-time crime with his friends, playing controlled ambition curdling into something genuinely dangerous.
+
+  - film: columbus
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: warm
+    gateway: 2
+    note: A visitor stuck in a small architecture-obsessed town while his estranged father lies dying, playing quiet, searching stillness.
+
+  - film: go-1999
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: comic
+    gateway: 3
+    note: One thread of a chaotic single night told from three overlapping perspectives, playing wry, slightly panicked improvisation.
+
+  - film: star-trek-beyond
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 4
+    note: The Enterprise's steady, capable helmsman navigating the crew through their most personal crisis yet, playing calm competence under pressure.
+
+  - film: star-trek-2009
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: warm
+    gateway: 4
+    note: A gifted young helmsman proving himself under pressure on his first real mission, playing eager, earnest competence.
+
+  - film: star-trek-into-darkness
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: restrained
+    gateway: 4
+    note: The same steady helmsman now navigating a much deadlier crisis, playing calm focus under fire.
+
+  - film: american-pie
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 4
+    note: A high schooler navigating an increasingly chaotic prom night, playing broad, easy comic energy within a large ensemble.
+
+curated:
+  curator: house
+  rationale: The performance that revealed genuine range first, then the persona around it.
+  order:
+    - searching
+    - harold-and-kumar-go-to-white-castle
+    - better-luck-tomorrow
+    - columbus
+    - star-trek-2009
+    - go-1999
+    - star-trek-beyond
+    - star-trek-into-darkness
+    - american-pie

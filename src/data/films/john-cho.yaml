@@ -1,0 +1,82 @@
+# New films for John Cho. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Star Trek (2009) already exists in saldana.yaml — tagged before he had an entity. Star Trek
+# Into Darkness already exists in cumberbatch.yaml.
+
+- id: harold-and-kumar-go-to-white-castle
+  tmdb_id: null
+  title: Harold and Kumar Go to White Castle
+  year: 2004
+  runtime: 88
+  director: Danny Leiner
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 5, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: searching
+  tmdb_id: null
+  title: Searching
+  year: 2018
+  runtime: 102
+  director: Aneesh Chaganty
+  tags:
+    opacity: 4 # what actually happened to his daughter stays withheld, piece by piece, until the very end
+    stillness: 2
+    bleakness: 4
+    humor: 1
+    acclaim: 0.78
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+
+- id: better-luck-tomorrow
+  tmdb_id: null
+  title: Better Luck Tomorrow
+  year: 2002
+  runtime: 101
+  director: Justin Lin
+  tags:
+    opacity: 3 # how far the group's small-time scheming has actually escalated stays hidden from everyone around them
+    stillness: 3
+    bleakness: 5
+    humor: 2
+    acclaim: 0.65
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: columbus
+  tmdb_id: null
+  title: Columbus
+  year: 2017
+  runtime: 100
+  director: Kogonada
+  tags: { opacity: 3, stillness: 4, bleakness: 3, humor: 2, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: american-pie
+  tmdb_id: null
+  title: American Pie
+  year: 1999
+  runtime: 95
+  director: Paul Weitz
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+
+- id: go-1999
+  tmdb_id: null
+  title: Go
+  year: 1999
+  runtime: 102
+  director: Doug Liman
+  tags:
+    opacity: 3 # the same one chaotic night told from three different, overlapping perspectives that never fully agree
+    stillness: 1
+    bleakness: 3
+    humor: 4
+    acclaim: 0.68
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: star-trek-beyond
+  tmdb_id: null
+  title: Star Trek Beyond
+  year: 2016
+  runtime: 122
+  director: Justin Lin
+  tags: { opacity: 2, stillness: 1, bleakness: 3, humor: 3, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

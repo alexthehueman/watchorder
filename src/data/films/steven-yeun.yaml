@@ -1,0 +1,42 @@
+# New films for Steven Yeun. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Okja already exists in bong-joon-ho.yaml — tagged before he had an entity. Sorry to Bother
+# You already exists in thompson-tessa.yaml.
+
+- id: minari
+  tmdb_id: null
+  title: Minari
+  year: 2020
+  runtime: 115
+  director: Lee Isaac Chung
+  tags: { opacity: 1, stillness: 4, bleakness: 3, humor: 2, acclaim: 0.88 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: nope
+  tmdb_id: null
+  title: Nope
+  year: 2022
+  runtime: 130
+  director: Jordan Peele
+  tags:
+    opacity: 3 # what's actually in the sky, and what it wants, stays deliberately withheld for most of the film
+    stillness: 2
+    bleakness: 4
+    humor: 2
+    acclaim: 0.72
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: burning
+  tmdb_id: null
+  title: Burning
+  year: 2018
+  runtime: 148
+  director: Lee Chang-dong
+  tags:
+    opacity: 4 # whether he's a killer, a liar, or exactly what he claims to be never resolves, by design
+    stillness: 4
+    bleakness: 4
+    humor: 1
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+

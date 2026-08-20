@@ -1,0 +1,56 @@
+slug: will-arnett
+kind: actor
+name: Will Arnett
+blurb: A gravelly, self-satisfied comic bravado deployed almost entirely through voice work and broad live-action farce.
+
+films:
+  - film: the-lego-batman-movie
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 4
+    note: A gravelly, narcissistic Batman forced to confront his own fear of connection, playing oblivious self-mythologizing as pure comic bravado.
+
+  - film: the-lego-movie
+    signature: 4
+    showcase: 3
+    role_size: supporting
+    register: comic
+    gateway: 4
+    note: A brooding, self-serious Batman parody making unwanted advances on Wyldstyle, playing pure comic pomposity.
+
+  - film: blades-of-glory
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: unhinged
+    gateway: 3
+    note: One half of a villainous brother-sister figure skating duo, playing gleeful, over-the-top rivalry.
+
+  - film: despicable-me
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: menacing
+    gateway: 4
+    note: A rival supervillain determined to outdo his nemesis's every scheme, playing preening, competitive menace.
+
+  - film: teenage-mutant-ninja-turtles-2014
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: restrained
+    gateway: 4
+    note: A cameraman chasing a story that turns out to be far bigger than he expected, playing skeptical, wisecracking journalism.
+
+curated:
+  curator: house
+  rationale: The performance that best fuses the persona and something like real feeling first, then the broader comic work around it.
+  order:
+    - the-lego-batman-movie
+    - the-lego-movie
+    - blades-of-glory
+    - despicable-me
+    - teenage-mutant-ninja-turtles-2014

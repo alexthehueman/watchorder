@@ -1,0 +1,57 @@
+slug: steven-yeun
+kind: actor
+name: Steven Yeun
+blurb: A gift for quiet, unreadable ambiguity carried across a run of prestige Korean and Korean-American cinema, occasionally traded for broader comic or genre work.
+
+films:
+  - film: burning
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: supporting
+    register: unhinged
+    gateway: 1
+    note: A wealthy, unreadable young man whose casual confession of a strange hobby destabilizes everything around him, playing charm that never resolves into anything legible.
+
+  - film: minari
+    signature: 4
+    must_see: true
+    showcase: 4
+    role_size: lead
+    register: warm
+    gateway: 3
+    note: A Korean-American father risking his family's stability to build a farm from nothing, playing stubborn, quiet hope against mounting setbacks.
+
+  - film: nope
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: menacing
+    gateway: 3
+    note: A former child star turned theme-park owner with a horrifying secret in his past, playing genial showmanship over real, buried trauma.
+
+  - film: okja
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: warm
+    gateway: 4
+    note: A member of an animal-liberation group aiding a girl's fight to save her genetically engineered friend, playing earnest, committed idealism.
+
+  - film: sorry-to-bother-you
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 4
+    note: A telemarketer-turned-union organizer watching his friend's rapid rise pull them apart, playing wry, increasingly frustrated loyalty.
+
+curated:
+  curator: house
+  rationale: The performance built entirely on unreadable ambiguity first, then the range around it.
+  order:
+    - burning
+    - minari
+    - nope
+    - okja
+    - sorry-to-bother-you
