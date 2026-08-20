@@ -1,0 +1,12 @@
+# New films for Lauren Bacall. Scales and anchors are in README.md ("The anchor rubric").
+#
+# To Have and Have Not, The Big Sleep, and Key Largo already exist in bogart.yaml — tagged before she had an entity.
+
+- id: how-to-marry-a-millionaire
+  tmdb_id: null
+  title: How to Marry a Millionaire
+  year: 1953
+  runtime: 96
+  director: Jean Negulesco
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

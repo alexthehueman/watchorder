@@ -1,0 +1,47 @@
+slug: charlton-heston
+kind: actor
+name: Charlton Heston
+blurb: A monumental, granite-jawed authority that anchored the era's biggest epics, and turned that same authority to real terror when the world came apart.
+
+films:
+  - film: ben-hur
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A wrongly enslaved nobleman seeking justice against the empire that betrayed him, playing controlled, righteous resolve.
+
+  - film: planet-of-the-apes
+    signature: 5
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 3
+    note: An astronaut whose disbelief curdles into horror as the truth of this world dawns on him, playing raw, escalating dread.
+
+  - film: the-ten-commandments
+    signature: 4
+    showcase: 3
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: A resolute prophet leading his people out of bondage, playing steady, unwavering conviction.
+
+  - film: soylent-green
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A hardened cop uncovering a horrifying truth about the world he lives in, playing weary, mounting resolve.
+
+curated:
+  curator: house
+  rationale: The most iconic epic first, then the film that turned his monumental authority to horror, then the range around both.
+  order:
+    - ben-hur
+    - planet-of-the-apes
+    - the-ten-commandments
+    - soylent-green

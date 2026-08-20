@@ -1,0 +1,47 @@
+slug: edward-g-robinson
+kind: actor
+name: Edward G. Robinson
+blurb: A compact, forceful presence that founded the Hollywood gangster archetype and carried real gravity into noir and science fiction decades later.
+
+films:
+  - film: double-indemnity
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: supporting
+    register: restrained
+    gateway: 3
+    note: A relentless insurance investigator who senses a fraud he can't quite prove, playing sharp, dogged instinct.
+
+  - film: little-caesar
+    signature: 5
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 2
+    note: A ruthless, ambitious gangster's explosive rise and fall, playing raw, star-making menace.
+
+  - film: key-largo
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: menacing
+    gateway: 3
+    note: A ruthless exiled mobster terrorizing a hotel full of hostages, playing cold, controlling menace.
+
+  - film: soylent-green
+    signature: 3
+    showcase: 4
+    role_size: supporting
+    register: warm
+    gateway: 3
+    note: A gentle, aging friend facing his own quiet, dignified end, playing tender, devastating warmth.
+
+curated:
+  curator: house
+  rationale: The most acclaimed performance first, then the star-making role that defined the archetype, then the range around both.
+  order:
+    - double-indemnity
+    - little-caesar
+    - key-largo
+    - soylent-green
