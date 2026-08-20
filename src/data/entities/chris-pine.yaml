@@ -1,0 +1,84 @@
+slug: chris-pine
+kind: actor
+name: Chris Pine
+blurb: A square-jawed, brash confidence that carries most of his blockbuster leads, occasionally turned toward something genuinely weary or, once, quietly sinister.
+
+films:
+  - film: hell-or-high-water
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A weary bank robber trying to save the family ranch before it's foreclosed on, playing controlled desperation with almost none of his usual swagger.
+
+  - film: star-trek-2009
+    signature: 5
+    must_see: true
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 4
+    note: A brash, rule-breaking young cadet talking his way onto the bridge of a starship, playing pure cocky overconfidence.
+
+  - film: wonder-woman
+    signature: 4
+    showcase: 4
+    role_size: supporting
+    register: warm
+    gateway: 4
+    note: A wartime spy and pilot who becomes Diana's guide to the human world, playing genuine, self-sacrificing warmth underneath the charm.
+
+  - film: dont-worry-darling
+    signature: 3
+    showcase: 4
+    role_size: supporting
+    register: menacing
+    gateway: 1
+    note: The charismatic leader of an idyllic, isolated community, playing warm hospitality that curdles the longer his true agenda stays hidden.
+
+  - film: the-contractor
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: unhinged
+    gateway: 1
+    note: A discharged special forces soldier drawn into a black-ops contract that isn't what it seems, playing controlled competence spiraling into paranoia.
+
+  - film: star-trek-into-darkness
+    signature: 2
+    showcase: 2
+    role_size: lead
+    register: comic
+    gateway: 4
+    note: The same brash captain now forced to reckon with the cost of his own recklessness against a genetically engineered enemy.
+
+  - film: wonder-woman-1984
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: restrained
+    gateway: 3
+    note: A wish-granted return from the dead, playing gentle, unresolved absence within a story that isn't really his.
+
+  - film: into-the-woods
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: warm
+    gateway: 4
+    note: A vain, self-regarding prince serenading his own romantic conquests, playing shallow charm entirely for the joke.
+
+curated:
+  curator: house
+  rationale: The performance that stripped the swagger away first, then the persona itself across its most familiar and most compromised appearances.
+  order:
+    - hell-or-high-water
+    - star-trek-2009
+    - wonder-woman
+    - the-contractor
+    - star-trek-into-darkness
+    - wonder-woman-1984
+    - into-the-woods
+    - dont-worry-darling

@@ -1,0 +1,34 @@
+# New films for Bradley Cooper. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Silver Linings Playbook already exists in de-niro.yaml — tagged before he had an entity.
+# American Hustle already exists in bale.yaml. The Hangover already exists in
+# galifianakis.yaml. Guardians of the Galaxy already exists in saldana.yaml. Joy already exists
+# in jennifer-lawrence.yaml. Nightmare Alley already exists in mara.yaml.
+
+- id: a-star-is-born-2018
+  tmdb_id: null
+  title: A Star Is Born
+  year: 2018
+  runtime: 136
+  director: Bradley Cooper
+  tags:
+    opacity: 1
+    stillness: 3
+    bleakness: 4
+    humor: 1
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 1 }
+
+- id: american-sniper
+  tmdb_id: null
+  title: American Sniper
+  year: 2014
+  runtime: 133
+  director: Clint Eastwood
+  tags:
+    opacity: 2 # how much of the war he brings home with him, and what it's actually cost him, stays unspoken until it can't be
+    stillness: 3
+    bleakness: 4
+    humor: 1
+    acclaim: 0.72
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }

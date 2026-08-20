@@ -1,0 +1,84 @@
+slug: bradley-cooper
+kind: actor
+name: Bradley Cooper
+blurb: A frat-boy charm that kept getting handed heavier and heavier material, until directing and starring in his own prestige drama made the range official.
+
+films:
+  - film: a-star-is-born-2018
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A fading, alcoholic musician mentoring and falling for a rising star, playing a slow, quiet self-destruction he can't quite name.
+
+  - film: silver-linings-playbook
+    signature: 4
+    must_see: true
+    showcase: 4
+    role_size: lead
+    register: unhinged
+    gateway: 4
+    note: A man recently released from a psychiatric hospital trying to reassemble his life, playing volatile, unmedicated highs and lows.
+
+  - film: nightmare-alley
+    signature: 3
+    showcase: 5
+    role_size: lead
+    register: menacing
+    gateway: 1
+    note: A carnival grifter conning his way up through high society with a fake mentalist act, playing charm curdling into genuine predation.
+
+  - film: american-sniper
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A Navy SEAL sniper across four increasingly grim tours, playing controlled, stoic exterior over what the war is actually costing him.
+
+  - film: the-hangover
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: The de facto ringleader of a Vegas bachelor party gone catastrophically wrong, playing smug, fast-talking overconfidence.
+
+  - film: american-hustle
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: comic
+    gateway: 4
+    note: An ambitious, permed FBI agent running a sting operation he can't fully control, playing manic, self-important overreach.
+
+  - film: guardians-of-the-galaxy
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: unhinged
+    gateway: 4
+    note: A genetically engineered, foul-mouthed raccoon voicing chaotic, chip-on-the-shoulder aggression underneath the comic-relief plotting.
+
+  - film: joy
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: warm
+    gateway: 4
+    note: A QVC executive who becomes an unexpected mentor and ally to the film's struggling inventor, playing understated warmth against the ensemble's chaos.
+
+curated:
+  curator: house
+  rationale: The performance that made the dramatic range undeniable first, then the earlier roles that built toward it.
+  order:
+    - a-star-is-born-2018
+    - silver-linings-playbook
+    - nightmare-alley
+    - american-sniper
+    - american-hustle
+    - the-hangover
+    - joy
+    - guardians-of-the-galaxy

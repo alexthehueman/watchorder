@@ -1,0 +1,59 @@
+# New films for Daniel Craig. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Skyfall already exists in fiennes.yaml — tagged before he had an entity. Spectre already
+# exists in waltz.yaml. Knives Out already exists in shannon.yaml. No Time to Die already
+# exists in de-armas.yaml. Munich already exists in spielberg.yaml.
+#
+# Casino Royale (2006) is tagged as casino-royale-2006 — the plain id collides with the 1967
+# spoof already tagged as casino-royale-1967 in sellers.yaml.
+
+- id: casino-royale-2006
+  tmdb_id: null
+  title: Casino Royale
+  year: 2006
+  runtime: 144
+  director: Martin Campbell
+  tags:
+    opacity: 3 # Vesper's true loyalties, and how much of the whole operation was ever what it seemed, stay hidden until the very end
+    stillness: 3 # the poker-table tension is deliberately slow-burn, a long way from the franchise's usual pace
+    bleakness: 3
+    humor: 2
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: logan-lucky
+  tmdb_id: null
+  title: Logan Lucky
+  year: 2017
+  runtime: 119
+  director: Steven Soderbergh
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: glass-onion
+  tmdb_id: null
+  title: Glass Onion - A Knives Out Mystery
+  year: 2022
+  runtime: 139
+  director: Rian Johnson
+  tags:
+    opacity: 2 # the real solution stays hidden behind a deliberately unreliable version of events
+    stillness: 2
+    bleakness: 2
+    humor: 4
+    acclaim: 0.72
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: layer-cake
+  tmdb_id: null
+  title: Layer Cake
+  year: 2004
+  runtime: 105
+  director: Matthew Vaughn
+  tags:
+    opacity: 2 # how many layers of the deal he's actually being played by stay hidden until it's too late to back out
+    stillness: 3
+    bleakness: 4
+    humor: 2
+    acclaim: 0.68
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
