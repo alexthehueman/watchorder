@@ -1,0 +1,66 @@
+slug: robert-redford
+kind: actor
+name: Robert Redford
+blurb: The all-American face used against itself, over and over, in stories about institutions and men that turn out not to deserve the trust he embodies.
+
+films:
+  - film: butch-cassidy-and-the-sundance-kid
+    signature: 5
+    must_see: true
+    showcase: 4
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: An outlaw duo running out of West to run to, played with more charm than the genre usually allows.
+
+  - film: all-the-presidents-men
+    signature: 5
+    must_see: true
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: Bob Woodward, chasing a story that keeps getting bigger than either reporter expected.
+
+  - film: the-sting
+    signature: 4
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: A con-man caper built entirely around a long game the audience is deliberately kept a step behind.
+
+  - film: out-of-africa
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: warm
+    gateway: 3
+    note: A big-game hunter who becomes the love of Karen Blixen's life, in a colonial-era romance that also knows what it's romanticizing.
+
+  - film: three-days-of-the-condor
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A CIA analyst who returns from lunch to find his entire office murdered, and no longer knows who inside the agency to trust.
+
+  - film: the-natural
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: An aging rookie playing baseball as pure American myth, lightning bolts and all.
+
+curated:
+  curator: house
+  rationale: The performance everyone knows first, then the range around it.
+  order:
+    - butch-cassidy-and-the-sundance-kid
+    - the-sting
+    - the-natural
+    - out-of-africa
+    - three-days-of-the-condor
+    - all-the-presidents-men

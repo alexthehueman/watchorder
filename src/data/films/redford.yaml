@@ -1,0 +1,43 @@
+# New films for Robert Redford. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Butch Cassidy and the Sundance Kid and The Sting already exist in newman.yaml — his two most
+# famous pairings with Paul Newman, tagged before he had an entity. All the President's Men is
+# shared with hoffman.yaml (a genuine dual lead) — tagged here. Out of Africa already exists in
+# streep.yaml (her Oscar-nominated lead, opposite him) — tagged before he had an entity.
+
+- id: all-the-presidents-men
+  tmdb_id: null
+  title: "All the President's Men"
+  year: 1976
+  runtime: 138
+  director: Alan J. Pakula
+  tags:
+    opacity: 2 # an investigative-journalism procedural with more sources and names than any viewer can track on a first watch
+    stillness: 3
+    bleakness: 3
+    humor: 1
+    acclaim: 0.88
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: three-days-of-the-condor
+  tmdb_id: null
+  title: Three Days of the Condor
+  year: 1975
+  runtime: 117
+  director: Sydney Pollack
+  tags:
+    opacity: 2 # a CIA analyst who no longer knows which of his own agency's people are trying to kill him
+    stillness: 2
+    bleakness: 4
+    humor: 1
+    acclaim: 0.78
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: the-natural
+  tmdb_id: null
+  title: The Natural
+  year: 1984
+  runtime: 138
+  director: Barry Levinson
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }

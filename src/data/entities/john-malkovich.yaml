@@ -1,0 +1,66 @@
+slug: john-malkovich
+kind: actor
+name: John Malkovich
+blurb: A voice and a stillness nobody else has, deployed as often for genuine menace as for a joke about how strange it is to be famous for exactly that.
+
+films:
+  - film: being-john-malkovich
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: comic
+    gateway: 3
+    note: Plays a fictionalized version of himself after strangers discover a portal into his own head. As strange as it sounds, and stranger.
+
+  - film: dangerous-liaisons
+    signature: 4
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: menacing
+    gateway: 3
+    note: A seducer who treats another person's ruin as a game he's wagered on, and loses more than he bet when it stops being one.
+
+  - film: shadow-of-the-vampire
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 2
+    note: A director increasingly convinced the actor he cast to play a vampire in Nosferatu might genuinely be one.
+
+  - film: in-the-line-of-fire
+    signature: 3
+    showcase: 4
+    role_size: supporting
+    register: menacing
+    gateway: 4
+    note: A former CIA operative stalking a Secret Service agent who failed to protect JFK decades earlier.
+
+  - film: places-in-the-heart
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: restrained
+    gateway: 3
+    note: A blind boarder taken in by a struggling Depression-era widow. His film debut, and an Oscar nomination for it.
+
+  - film: con-air
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: unhinged
+    gateway: 5
+    note: Cyrus "the Virus," leading a hijacked prisoner transport plane. Broad, gleeful villainy — the least subtle thing here.
+
+curated:
+  curator: house
+  rationale: The most purely strange premise first, then the range in every direction around it.
+  order:
+    - being-john-malkovich
+    - con-air
+    - in-the-line-of-fire
+    - dangerous-liaisons
+    - places-in-the-heart
+    - shadow-of-the-vampire

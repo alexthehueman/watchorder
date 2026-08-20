@@ -1,0 +1,66 @@
+slug: dustin-hoffman
+kind: actor
+name: Dustin Hoffman
+blurb: Broke the leading-man mold on arrival and spent the next two decades proving unglamorous, difficult men could carry a film anyway.
+
+films:
+  - film: the-graduate
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: A recent graduate drifting into an affair with an older woman, then chasing her daughter to a wedding he has no right to interrupt.
+
+  - film: kramer-vs-kramer
+    signature: 4
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: A father forced to actually parent for the first time, mid-custody battle. Won him his first Oscar.
+
+  - film: rain-man
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 5
+    note: An autistic savant whose brother slowly stops seeing him as an inheritance problem. Won him his second Oscar.
+
+  - film: tootsie
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: An unemployable actor who becomes a soap-opera star by auditioning as a woman, and can't figure out how to stop.
+
+  - film: midnight-cowboy
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: warm
+    gateway: 2
+    note: Ratso Rizzo, a sickly con man whose friendship with a naive hustler is the only real tenderness in the film.
+
+  - film: all-the-presidents-men
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: Carl Bernstein, chasing the same story as Redford's Woodward, one confirmed source at a time.
+
+curated:
+  curator: house
+  rationale: The role that made him first, then the two Oscar-winning performances, before the range around them.
+  order:
+    - the-graduate
+    - tootsie
+    - kramer-vs-kramer
+    - rain-man
+    - all-the-presidents-men
+    - midnight-cowboy
