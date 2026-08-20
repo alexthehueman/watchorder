@@ -1,0 +1,27 @@
+# New films for Eddie Murphy. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Trading Places already exists in curtis.yaml — tagged before he had an entity. Dreamgirls
+# already exists in foxx.yaml — tagged before he had an entity.
+
+- id: beverly-hills-cop
+  tmdb_id: null
+  title: Beverly Hills Cop
+  year: 1984
+  runtime: 105
+  director: Martin Brest
+  tags:
+    opacity: 2 # who's actually behind the smuggling operation stays genuinely unclear until his own investigating turns it up
+    stillness: 1
+    bleakness: 2
+    humor: 4
+    acclaim: 0.75
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: coming-to-america
+  tmdb_id: null
+  title: Coming to America
+  year: 1988
+  runtime: 117
+  director: John Landis
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }

@@ -1,0 +1,48 @@
+slug: eddie-murphy
+kind: actor
+name: Eddie Murphy
+blurb: Defined a specific brand of eighties action-comedy stardom on pure motor-mouthed charisma, then spent one late, unexpected dramatic turn proving there was real range underneath.
+
+films:
+  - film: beverly-hills-cop
+    signature: 5
+    must_see: true
+    showcase: 4
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: A streetwise Detroit cop investigating a friend's murder in the very different world of Beverly Hills, playing fast talk and total confidence as his only real weapon.
+
+  - film: dreamgirls
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: supporting
+    register: unhinged
+    gateway: 2
+    note: A soul singer whose career declines as the music industry moves past him, playing wounded pride and genuine desperation with none of his usual comic polish.
+
+  - film: coming-to-america
+    signature: 4
+    showcase: 3
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: An African prince posing as a poor immigrant in Queens to find a wife who loves him for himself, playing earnest sincerity underneath the fish-out-of-water comedy.
+
+  - film: trading-places
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 4
+    note: A street hustler thrust into a wealthy commodities broker's life as part of a wealthy family's cruel social experiment, playing quick-witted adaptation as pure comic momentum.
+
+curated:
+  curator: house
+  rationale: The role that defined eighties action-comedy stardom first, then the one unexpected dramatic turn that proved there was more underneath it.
+  order:
+    - beverly-hills-cop
+    - trading-places
+    - coming-to-america
+    - dreamgirls

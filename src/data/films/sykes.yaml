@@ -1,0 +1,47 @@
+# New films for Wanda Sykes. Scales and anchors are in README.md ("The anchor rubric").
+
+- id: bad-moms
+  tmdb_id: null
+  title: Bad Moms
+  year: 2016
+  runtime: 101
+  director: Jon Lucas
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.58 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: monster-in-law
+  tmdb_id: null
+  title: Monster-in-Law
+  year: 2005
+  runtime: 101
+  director: Robert Luketic
+  tags:
+    opacity: 2 # how far the mother-in-law's scheming will actually go, and whether the wedding survives it, stays a real open question
+    stillness: 1
+    bleakness: 1
+    humor: 3 # her scenes play weary exasperation at managing the feud rather than pure broad comic energy
+    acclaim: 0.48
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: evan-almighty
+  tmdb_id: null
+  title: Evan Almighty
+  year: 2007
+  runtime: 96
+  director: Tom Shadyac
+  tags:
+    opacity: 1
+    stillness: 2 # the family scenes questioning whether his transformation is real slow down into quieter, more sincere register than the broad comedy around them
+    bleakness: 1
+    humor: 4
+    acclaim: 0.42
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: over-the-hedge
+  tmdb_id: null
+  title: Over the Hedge
+  year: 2006
+  runtime: 83
+  director: Tim Johnson
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
