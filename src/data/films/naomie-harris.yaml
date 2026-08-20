@@ -1,0 +1,15 @@
+# New films for Naomie Harris. Scales and anchors are in README.md ("The anchor rubric").
+#
+# 28 Days Later already exists in cillian-murphy.yaml — tagged before she had an entity. Mandela:
+# Long Walk to Freedom already exists in elba.yaml — tagged before she had an entity. Skyfall
+# already exists in fiennes.yaml — tagged before she had an entity. Moonlight already exists in
+# a24.yaml — tagged before she had an entity.
+
+- id: southpaw
+  tmdb_id: null
+  title: Southpaw
+  year: 2015
+  runtime: 123
+  director: Antoine Fuqua
+  tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

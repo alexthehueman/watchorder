@@ -1,0 +1,27 @@
+# New films for Michael K. Williams. Scales and anchors are in README.md ("The anchor rubric").
+#
+# 12 Years a Slave already exists in fassbender.yaml — tagged before he had an entity. The Road
+# already exists in mortensen.yaml — tagged before he had an entity.
+
+- id: gone-baby-gone
+  tmdb_id: null
+  title: Gone Baby Gone
+  year: 2007
+  runtime: 114
+  director: Ben Affleck
+  tags:
+    opacity: 2
+    stillness: 2
+    bleakness: 5
+    humor: 2 # a dark, working-class Boston wit runs through even the film's grimmest exchanges
+    acclaim: 0.78
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+
+- id: assassins-creed
+  tmdb_id: null
+  title: Assassin's Creed
+  year: 2016
+  runtime: 115
+  director: Justin Kurzel
+  tags: { opacity: 2, stillness: 1, bleakness: 4, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }

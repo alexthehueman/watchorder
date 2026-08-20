@@ -1,0 +1,57 @@
+slug: naomie-harris
+kind: actor
+name: Naomie Harris
+blurb: A grounded, physical intensity that carried a zombie-outbreak breakout straight into a decade of blockbuster and awards work without ever losing its edge.
+
+films:
+  - film: moonlight
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: supporting
+    register: unhinged
+    gateway: 2
+    note: A mother whose addiction repeatedly fractures her son's already fragile childhood, playing genuine, specific damage the film never asks the audience to fully forgive or condemn.
+
+  - film: 28-days-later
+    signature: 5
+    must_see: true
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A hardened survivor of a viral outbreak leading strangers through a depopulated London, playing pragmatic self-preservation as the film's real survival instinct.
+
+  - film: southpaw
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: warm
+    gateway: 2
+    note: A boxer's wife whose sudden death sets the film's entire redemption arc into motion, appearing mostly in the emotional wreckage her absence leaves behind.
+
+  - film: skyfall
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 4
+    note: A field agent whose partnership with the film's spy lead evolves into a familiar, franchise-defining role by the credits.
+
+  - film: mandela-long-walk-to-freedom
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A biopic performance as Winnie Mandela, playing political conviction hardening across decades of personal cost.
+
+curated:
+  curator: house
+  rationale: The two performances that show the range from grounded survival instinct to genuine devastation, then everywhere else in between.
+  order:
+    - skyfall
+    - southpaw
+    - mandela-long-walk-to-freedom
+    - 28-days-later
+    - moonlight
