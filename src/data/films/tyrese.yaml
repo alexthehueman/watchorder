@@ -1,0 +1,61 @@
+# New films for Tyrese Gibson. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Fast Five and Furious 7 already exist in dwayne-johnson.yaml — tagged before he had an
+# entity. Baby Boy already exists in henson.yaml. 2 Fast 2 Furious already exists in
+# michelle-rodriguez.yaml. Death at a Funeral (2010) already exists in saldana.yaml.
+
+- id: four-brothers
+  tmdb_id: null
+  title: Four Brothers
+  year: 2005
+  runtime: 109
+  director: John Singleton
+  tags:
+    opacity: 2 # who's really behind their mother's murder, and how far up it goes, stays hidden until the investigation forces it out
+    stillness: 3
+    bleakness: 4
+    humor: 3
+    acclaim: 0.65
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: waist-deep
+  tmdb_id: null
+  title: Waist Deep
+  year: 2006
+  runtime: 97
+  director: Vondie Curtis-Hall
+  tags:
+    opacity: 3 # how far he's willing to compromise his own values to save his son stays genuinely uncertain
+    stillness: 3
+    bleakness: 3
+    humor: 3
+    acclaim: 0.50
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
+
+- id: black-nativity
+  tmdb_id: null
+  title: Black Nativity
+  year: 2013
+  runtime: 93
+  director: Kasi Lemmons
+  tags:
+    opacity: 3 # a family rift and its real cause stay withheld from the teenage protagonist for most of the film
+    stillness: 3
+    bleakness: 3
+    humor: 2
+    acclaim: 0.45
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: transformers
+  tmdb_id: null
+  title: Transformers
+  year: 2007
+  runtime: 144
+  director: Michael Bay
+  tags:
+    opacity: 2 # what the Autobots are actually hiding about their own war, and what it means for Earth, stays unresolved for most of the film
+    stillness: 1
+    bleakness: 2
+    humor: 3
+    acclaim: 0.65
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

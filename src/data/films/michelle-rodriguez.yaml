@@ -1,0 +1,64 @@
+# New films for Michelle Rodriguez. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Fast Five and Furious 7 already exist in dwayne-johnson.yaml — tagged before she had an
+# entity. Avatar already exists in weaver.yaml.
+
+- id: girlfight
+  tmdb_id: null
+  title: Girlfight
+  year: 2000
+  runtime: 110
+  director: Karyn Kusama
+  tags:
+    opacity: 2 # whether her fury is something she'll ever actually master, or just learn to aim, stays genuinely unresolved
+    stillness: 3
+    bleakness: 3
+    humor: 2
+    acclaim: 0.72
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-assignment
+  tmdb_id: null
+  title: The Assignment
+  year: 2016
+  runtime: 95
+  director: Walter Hill
+  tags:
+    opacity: 3 # how much of her account of events can actually be trusted stays unresolved, framed entirely through a captor's interrogation
+    stillness: 3
+    bleakness: 5
+    humor: 1
+    acclaim: 0.30
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: resident-evil
+  tmdb_id: null
+  title: Resident Evil
+  year: 2002
+  runtime: 100
+  director: Paul W.S. Anderson
+  tags:
+    opacity: 3 # who's actually behind the outbreak, and what the facility's AI really wants, stays hidden for most of the film
+    stillness: 2
+    bleakness: 4
+    humor: 2
+    acclaim: 0.55
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: machete
+  tmdb_id: null
+  title: Machete
+  year: 2010
+  runtime: 105
+  director: Robert Rodriguez
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 4, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+
+- id: 2-fast-2-furious
+  tmdb_id: null
+  title: 2 Fast 2 Furious
+  year: 2003
+  runtime: 107
+  director: John Singleton
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

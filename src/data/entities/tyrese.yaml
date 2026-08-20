@@ -1,0 +1,93 @@
+slug: tyrese
+kind: actor
+name: Tyrese Gibson
+blurb: An earnest, physically imposing screen presence that started in serious urban drama before settling almost entirely into franchise comic relief.
+
+films:
+  - film: baby-boy
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 1
+    note: An immature man still living with his mother, unable to grow past his own arrested development, playing volatile insecurity that keeps curdling into real danger.
+
+  - film: four-brothers
+    signature: 4
+    must_see: true
+    showcase: 4
+    role_size: lead
+    register: menacing
+    gateway: 2
+    note: One of four adopted brothers hunting down their mother's killers, playing coiled, dangerous grief.
+
+  - film: fast-five
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: comic
+    gateway: 4
+    note: A wisecracking crew member providing comic relief through an increasingly dangerous heist, playing easy, boastful humor.
+
+  - film: waist-deep
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A recently released ex-con dragged back into crime to save his kidnapped son, playing weary, protective desperation.
+
+  - film: furious-7
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 4
+    note: The same wisecracking crew member now pulling off even bigger stunts, playing the same boastful humor a second time.
+
+  - film: death-at-a-funeral-2010
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: warm
+    gateway: 4
+    note: A wedding-averse boyfriend caught up in a funeral spiraling into chaos, playing broad, easygoing comic panic.
+
+  - film: black-nativity
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: restrained
+    gateway: 3
+    note: A preacher holding a long-buried family rift close to the chest during his estranged grandson's visit, playing guarded, unresolved hurt.
+
+  - film: transformers
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: warm
+    gateway: 4
+    note: A steady, dependable Air Force sergeant on the front lines of an alien invasion, playing grounded, competent heroism.
+
+  - film: 2-fast-2-furious
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 4
+    note: An old friend pulled into an undercover street-racing operation, playing loyal, easygoing energy.
+
+curated:
+  curator: house
+  rationale: The two performances that show the most dramatic weight first, then the franchise comic relief he's best known for.
+  order:
+    - baby-boy
+    - four-brothers
+    - waist-deep
+    - fast-five
+    - furious-7
+    - death-at-a-funeral-2010
+    - black-nativity
+    - transformers
+    - 2-fast-2-furious

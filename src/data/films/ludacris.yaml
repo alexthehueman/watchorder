@@ -1,0 +1,28 @@
+# New films for Ludacris. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Fast Five and Furious 7 already exist in dwayne-johnson.yaml — tagged before he had an
+# entity. Crash (2004) already exists in bullock.yaml. Hustle and Flow already exists in
+# henson.yaml. 2 Fast 2 Furious already exists in michelle-rodriguez.yaml.
+
+- id: gamer
+  tmdb_id: null
+  title: Gamer
+  year: 2009
+  runtime: 95
+  director: Mark Neveldine
+  tags:
+    opacity: 2 # how much control the players really have over the death-row inmates stays deliberately murky
+    stillness: 1
+    bleakness: 4
+    humor: 3
+    acclaim: 0.40
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+
+- id: no-good-deed
+  tmdb_id: null
+  title: No Good Deed
+  year: 2014
+  runtime: 84
+  director: Sam Miller
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }

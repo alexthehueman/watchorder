@@ -1,0 +1,84 @@
+slug: michelle-rodriguez
+kind: actor
+name: Michelle Rodriguez
+blurb: A tough, physically committed intensity established in one raw indie boxing drama, carried since through two decades of franchise action work.
+
+films:
+  - film: girlfight
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A furious, underprivileged teenager channeling her anger into amateur boxing, playing raw, unpolished intensity in her first film role.
+
+  - film: fast-five
+    signature: 4
+    must_see: true
+    showcase: 3
+    role_size: supporting
+    register: restrained
+    gateway: 4
+    note: A crew member with her own past to reckon with, playing tough, guarded loyalty within a large ensemble heist.
+
+  - film: furious-7
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: warm
+    gateway: 4
+    note: The same crew member now piecing her own memory back together, playing hard-won tenderness underneath the usual toughness.
+
+  - film: the-assignment
+    signature: 2
+    showcase: 4
+    role_size: lead
+    register: unhinged
+    gateway: 1
+    note: A hitman forcibly and surgically transformed by a rogue doctor seeking revenge, playing raw, disoriented fury filtered through an unreliable framing device.
+
+  - film: resident-evil
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: menacing
+    gateway: 3
+    note: A mercenary trapped in a zombie-infested underground facility, playing cold, weapon-ready competence.
+
+  - film: avatar
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 4
+    note: A no-nonsense helicopter pilot with little patience for military bureaucracy, playing dry, sardonic wit.
+
+  - film: machete
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: unhinged
+    gateway: 3
+    note: A taco-truck vendor moonlighting as a resistance leader, playing gleeful, over-the-top exploitation-film bravado.
+
+  - film: 2-fast-2-furious
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 4
+    note: An undercover cop and old flame roped back into the street-racing world, playing easy, familiar chemistry.
+
+curated:
+  curator: house
+  rationale: The performance that established the raw intensity first, then the franchise work that made her a fixture.
+  order:
+    - girlfight
+    - fast-five
+    - furious-7
+    - the-assignment
+    - resident-evil
+    - machete
+    - avatar
+    - 2-fast-2-furious
