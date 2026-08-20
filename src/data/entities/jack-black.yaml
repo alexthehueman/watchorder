@@ -1,0 +1,92 @@
+slug: jack-black
+kind: actor
+name: Jack Black
+blurb: A rock-star swagger played entirely for comedy, deployed as manic scene-stealing supporting energy about as often as it's handed the lead.
+
+films:
+  - film: school-of-rock
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: warm
+    gateway: 5
+    note: A washed-up wannabe rocker posing as a substitute teacher to mold his class into a battle-of-the-bands act, playing genuine, infectious passion underneath the con.
+
+  - film: kung-fu-panda
+    signature: 4
+    showcase: 3
+    role_size: lead
+    register: warm
+    gateway: 5
+    note: An overweight, unlikely kung fu master voicing a noodle-shop worker's earnest, bumbling path to real competence.
+
+  - film: high-fidelity
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: comic
+    gateway: 3
+    note: A record store clerk with insufferably strong musical opinions, playing loud, abrasive confidence as pure scene-stealing supporting noise.
+
+  - film: nacho-libre
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: unhinged
+    gateway: 3
+    note: A monastery cook moonlighting as a masked luchador to feed the orphans in his care, playing wide-eyed, deluded conviction completely straight.
+
+  - film: king-kong-2005
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: menacing
+    gateway: 2
+    note: A showman filmmaker whose ambition curdles into genuine exploitation once the expedition finds what it came for, playing charm sliding into ruthlessness.
+
+  - film: bernie
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A beloved small-town funeral director who murders the wealthy widow he's befriended, playing genial warmth that never fully cracks even as the town refuses to believe he did it.
+
+  - film: margot-at-the-wedding
+    signature: 1
+    showcase: 3
+    role_size: supporting
+    register: unhinged
+    gateway: 1
+    note: An anxious, passive fiancé absorbing the fallout of two warring sisters' visit, playing quiet discomfort that keeps threatening to curdle.
+
+  - film: shallow-hal
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: restrained
+    gateway: 4
+    note: A shallow womanizer hypnotized into seeing people's inner beauty instead of their appearance, playing a slow, sincere reassessment of his own values.
+
+  - film: the-holiday
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 4
+    note: A film-score composer's genial best friend, playing easygoing comic support at the edges of someone else's romance.
+
+curated:
+  curator: house
+  rationale: The role that made him a lead first, then the rest of the manic-supporting range, ending on the one performance that drops the comedy for something genuinely dark.
+  order:
+    - school-of-rock
+    - kung-fu-panda
+    - nacho-libre
+    - high-fidelity
+    - king-kong-2005
+    - shallow-hal
+    - the-holiday
+    - bernie
+    - margot-at-the-wedding

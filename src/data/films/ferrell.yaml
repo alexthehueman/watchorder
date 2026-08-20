@@ -1,0 +1,88 @@
+# New films for Will Ferrell. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Anchorman already exists in carell.yaml — tagged before he had an entity. Step Brothers
+# already exists in reilly.yaml. Stranger than Fiction already exists in thompson.yaml.
+
+- id: elf
+  tmdb_id: null
+  title: Elf
+  year: 2003
+  runtime: 97
+  director: Jon Favreau
+  tags:
+    opacity: 1
+    stillness: 2 # the quieter search for his birth father and where he actually belongs slows down between the sight gags
+    bleakness: 1
+    humor: 5
+    acclaim: 0.68
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: old-school
+  tmdb_id: null
+  title: Old School
+  year: 2003
+  runtime: 91
+  director: Todd Phillips
+  tags:
+    opacity: 1
+    stillness: 1
+    bleakness: 2 # a midlife divorce and real domestic wreckage sit underneath the frat-house chaos
+    humor: 4
+    acclaim: 0.62
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: talladega-nights
+  tmdb_id: null
+  title: Talladega Nights - The Ballad of Ricky Bobby
+  year: 2006
+  runtime: 108
+  director: Adam McKay
+  tags:
+    opacity: 1
+    stillness: 1
+    bleakness: 2 # a real family-estrangement and public-humiliation rock bottom sits at the film's center before the comeback
+    humor: 5
+    acclaim: 0.63
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: everything-must-go
+  tmdb_id: null
+  title: Everything Must Go
+  year: 2010
+  runtime: 97
+  director: Dan Rush
+  tags:
+    opacity: 3 # whether he actually turns his life around, or is just circling the same rock bottom, stays open until the very end
+    stillness: 5
+    bleakness: 5
+    humor: 2
+    acclaim: 0.55
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: winter-passing
+  tmdb_id: null
+  title: Winter Passing
+  year: 2005
+  runtime: 98
+  director: Adam Rapp
+  tags:
+    opacity: 2
+    stillness: 3
+    bleakness: 3
+    humor: 1
+    acclaim: 0.40
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-other-guys
+  tmdb_id: null
+  title: The Other Guys
+  year: 2010
+  runtime: 107
+  director: Adam McKay
+  tags:
+    opacity: 2 # the financial fraud plot underneath the buddy-cop parody stays genuinely tangled until the closing-credits infographics spell it out
+    stillness: 2
+    bleakness: 2
+    humor: 4
+    acclaim: 0.60
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

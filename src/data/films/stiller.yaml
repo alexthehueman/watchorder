@@ -1,0 +1,61 @@
+# New films for Ben Stiller. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Zoolander already exists in owen-wilson.yaml — tagged before he had an entity. The Royal
+# Tenenbaums already exists in hackman.yaml. Tropic Thunder already exists in downey.yaml.
+# Dodgeball already exists in vaughn.yaml.
+
+- id: meet-the-parents
+  tmdb_id: null
+  title: Meet the Parents
+  year: 2000
+  runtime: 108
+  director: Jay Roach
+  tags:
+    opacity: 2 # whether Jack will ever actually accept Greg, or is just waiting to catch him out, stays genuinely unresolved for most of the runtime
+    stillness: 1
+    bleakness: 2 # the lie he's trapped in and the real threat to the relationship give the escalating humiliation genuine stakes
+    humor: 5
+    acclaim: 0.68
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: theres-something-about-mary
+  tmdb_id: null
+  title: There's Something About Mary
+  year: 1998
+  runtime: 119
+  director: Bobby Farrelly
+  tags:
+    opacity: 1
+    stillness: 2 # years of unresolved longing give the framing story a quieter, wistful pull between the gags
+    bleakness: 2 # a stalker subplot and years of heartbreak sit underneath the gross-out gags
+    humor: 5
+    acclaim: 0.72
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: greenberg
+  tmdb_id: null
+  title: Greenberg
+  year: 2010
+  runtime: 107
+  director: Noah Baumbach
+  tags:
+    opacity: 3 # what Greenberg actually wants, and whether he's capable of change, stays genuinely unresolved
+    stillness: 4
+    bleakness: 3
+    humor: 2
+    acclaim: 0.72
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: night-at-the-museum
+  tmdb_id: null
+  title: Night at the Museum
+  year: 2006
+  runtime: 108
+  director: Shawn Levy
+  tags:
+    opacity: 2 # why the exhibits come alive at all stays a mystery until the tablet's backstory finally surfaces
+    stillness: 2
+    bleakness: 1
+    humor: 4
+    acclaim: 0.55
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

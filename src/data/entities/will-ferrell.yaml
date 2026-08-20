@@ -1,0 +1,93 @@
+slug: will-ferrell
+kind: actor
+name: Will Ferrell
+blurb: A gift for total, oblivious commitment to absurd male vanity, occasionally turned toward something genuinely tender or, once, quietly existential.
+
+films:
+  - film: anchorman
+    signature: 5
+    must_see: true
+    showcase: 4
+    role_size: lead
+    register: comic
+    gateway: 4
+    note: A vain, none-too-bright seventies news anchor watching his newsroom turf war spiral into total absurdity, playing pure blustery self-regard.
+
+  - film: talladega-nights
+    signature: 5
+    must_see: true
+    showcase: 4
+    role_size: lead
+    register: comic
+    gateway: 3
+    note: A swaggering NASCAR champion undone by his own arrogance and a rival driver's mind games, playing wounded macho pride as pure comic collapse.
+
+  - film: step-brothers
+    signature: 4
+    showcase: 3
+    role_size: lead
+    register: unhinged
+    gateway: 3
+    note: A grown man still living with his mother, thrown into open warfare with a new stepbrother his own age, playing arrested-development rage as slapstick.
+
+  - film: elf
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: warm
+    gateway: 5
+    note: A human raised as one of Santa's elves searching New York for his birth father, playing wide-eyed, unguarded sincerity against the city's cynicism.
+
+  - film: old-school
+    signature: 3
+    showcase: 2
+    role_size: supporting
+    register: unhinged
+    gateway: 4
+    note: A newly divorced man throwing himself back into fraternity chaos, playing manic overcompensation for a life quietly falling apart.
+
+  - film: the-other-guys
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A mild-mannered desk cop suddenly thrust into a real investigation, playing buttoned-down mundanity that keeps slipping to reveal something stranger.
+
+  - film: stranger-than-fiction
+    signature: 2
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: An IRS auditor who begins hearing his own life narrated aloud, playing quiet, dawning existential panic almost entirely straight.
+
+  - film: winter-passing
+    signature: 1
+    showcase: 3
+    role_size: supporting
+    register: menacing
+    gateway: 1
+    note: A reclusive, addiction-battling former rock star largely absent from his own daughter's life, playing withdrawn, unpredictable damage with none of the usual warmth.
+
+  - film: everything-must-go
+    signature: 1
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A newly divorced, newly fired alcoholic living out of his own front yard, playing slow, unglamorous rock bottom with none of the usual comic release.
+
+curated:
+  curator: house
+  rationale: The persona at full, oblivious volume first, then the same commitment turned progressively warmer and quieter, ending on the two performances that drop the bluster entirely.
+  order:
+    - anchorman
+    - talladega-nights
+    - step-brothers
+    - old-school
+    - elf
+    - the-other-guys
+    - stranger-than-fiction
+    - winter-passing
+    - everything-must-go

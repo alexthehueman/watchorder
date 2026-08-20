@@ -1,0 +1,102 @@
+# New films for Jack Black. Scales and anchors are in README.md ("The anchor rubric").
+#
+# King Kong (2005) already exists in watts.yaml — tagged before he had an entity. The Holiday
+# already exists in winslet.yaml.
+
+- id: school-of-rock
+  tmdb_id: null
+  title: School of Rock
+  year: 2003
+  runtime: 109
+  director: Richard Linklater
+  tags:
+    opacity: 1
+    stillness: 1
+    bleakness: 2 # a real fear of washed-up failure sits underneath the scheme
+    humor: 5
+    acclaim: 0.83
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: high-fidelity
+  tmdb_id: null
+  title: High Fidelity
+  year: 2000
+  runtime: 113
+  director: Stephen Frears
+  tags:
+    opacity: 2 # whether the narrator's romantic self-diagnosis can actually be trusted stays unresolved for most of the runtime
+    stillness: 2
+    bleakness: 2
+    humor: 4
+    acclaim: 0.78
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: kung-fu-panda
+  tmdb_id: null
+  title: Kung Fu Panda
+  year: 2008
+  runtime: 92
+  director: Mark Osborne
+  tags:
+    opacity: 2 # whether Po is genuinely "the chosen one" stays an open question for most of the film
+    stillness: 2
+    bleakness: 1
+    humor: 4
+    acclaim: 0.86
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: nacho-libre
+  tmdb_id: null
+  title: Nacho Libre
+  year: 2006
+  runtime: 92
+  director: Jared Hess
+  tags:
+    opacity: 1
+    stillness: 1
+    bleakness: 2 # a real yearning for legitimacy and his orphans' respect sits underneath the absurdist wrestling plot
+    humor: 4
+    acclaim: 0.45
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: bernie
+  tmdb_id: null
+  title: Bernie
+  year: 2011
+  runtime: 104
+  director: Richard Linklater
+  tags:
+    opacity: 4 # why the whole town refuses to believe their beloved funeral director did it stays genuinely unresolved
+    stillness: 3
+    bleakness: 4
+    humor: 3
+    acclaim: 0.78
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: margot-at-the-wedding
+  tmdb_id: null
+  title: Margot at the Wedding
+  year: 2007
+  runtime: 93
+  director: Noah Baumbach
+  tags:
+    opacity: 3 # what's actually driving the sisters' mutual cruelty stays genuinely elusive
+    stillness: 4
+    bleakness: 4
+    humor: 2
+    acclaim: 0.58
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: shallow-hal
+  tmdb_id: null
+  title: Shallow Hal
+  year: 2001
+  runtime: 113
+  director: Bobby Farrelly
+  tags:
+    opacity: 2 # whether the hypnotic "cure" is real or will hold stays an open question until the very end
+    stillness: 1
+    bleakness: 2 # the hypnotic premise turns on a real cruelty about how the world treats its protagonist that the film never fully lets off the hook
+    humor: 4
+    acclaim: 0.35
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
