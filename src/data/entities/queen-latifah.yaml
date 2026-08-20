@@ -1,0 +1,56 @@
+slug: queen-latifah
+kind: actor
+name: Queen Latifah
+blurb: A commanding, warm screen presence built on real musical charisma, deployed across broad studio comedy, prison-drama grit and one Oscar-nominated musical turn.
+
+films:
+  - film: chicago
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: supporting
+    register: menacing
+    gateway: 2
+    note: A corrupt prison matron running her own protection racket, playing tough, transactional authority underneath the musical spectacle.
+
+  - film: set-it-off
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: unhinged
+    gateway: 1
+    note: One of four women driven to bank robbery by systemic desperation, playing volatile, cornered rage.
+
+  - film: hairspray
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: warm
+    gateway: 4
+    note: A record-shop owner and mother fighting for integration on a local dance show, playing steady, principled warmth.
+
+  - film: last-holiday
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A shy department-store worker who splurges on a dream vacation after a terminal diagnosis, playing quiet self-discovery.
+
+  - film: bringing-down-the-house
+    signature: 2
+    showcase: 2
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: A wrongly imprisoned woman upending a buttoned-up lawyer's household, playing broad, disruptive comic energy.
+
+curated:
+  curator: house
+  rationale: The performance with the most acclaim and range first, then the rest of the register around it.
+  order:
+    - chicago
+    - set-it-off
+    - hairspray
+    - last-holiday
+    - bringing-down-the-house

@@ -1,0 +1,35 @@
+# New films for Chris Tucker. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Jackie Brown already exists in tarantino.yaml — tagged before he had an entity.
+
+- id: rush-hour
+  tmdb_id: null
+  title: Rush Hour
+  year: 1998
+  runtime: 98
+  director: Brett Ratner
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 5, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: rush-hour-2
+  tmdb_id: null
+  title: Rush Hour 2
+  year: 2001
+  runtime: 90
+  director: Brett Ratner
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.62 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: friday
+  tmdb_id: null
+  title: Friday
+  year: 1995
+  runtime: 91
+  director: F. Gary Gray
+  tags:
+    opacity: 2 # whether the neighborhood's simmering tensions actually boil over by the end of the day stays genuinely uncertain
+    stillness: 2
+    bleakness: 2
+    humor: 4
+    acclaim: 0.72
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }

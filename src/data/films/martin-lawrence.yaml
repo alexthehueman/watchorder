@@ -1,0 +1,35 @@
+# New films for Martin Lawrence. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Bad Boys already exists in smith.yaml — tagged before he had an entity.
+
+- id: bad-boys-ii
+  tmdb_id: null
+  title: Bad Boys II
+  year: 2003
+  runtime: 147
+  director: Michael Bay
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 3, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+
+- id: big-momma-house
+  tmdb_id: null
+  title: Big Momma's House
+  year: 2000
+  runtime: 98
+  director: Raja Gosnell
+  tags:
+    opacity: 1
+    stillness: 2 # settles into the domestic masquerade for long stretches before the case forces it back into motion
+    bleakness: 1
+    humor: 4
+    acclaim: 0.40
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: blue-streak
+  tmdb_id: null
+  title: Blue Streak
+  year: 1999
+  runtime: 93
+  director: Les Mayfield
+  tags: { opacity: 2, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
