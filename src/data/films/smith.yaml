@@ -1,0 +1,83 @@
+# New films for Will Smith. Scales and anchors are in README.md ("The anchor rubric").
+
+- id: men-in-black
+  tmdb_id: null
+  title: Men in Black
+  year: 1997
+  runtime: 98
+  director: Barry Sonnenfeld
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: ali
+  tmdb_id: null
+  title: Ali
+  year: 2001
+  runtime: 165
+  director: Michael Mann
+  tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-pursuit-of-happyness
+  tmdb_id: null
+  title: The Pursuit of Happyness
+  year: 2006
+  runtime: 117
+  director: Gabriele Muccino
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 0 }
+
+- id: independence-day
+  tmdb_id: null
+  title: Independence Day
+  year: 1996
+  runtime: 145
+  director: Roland Emmerich
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: bad-boys
+  tmdb_id: null
+  title: Bad Boys
+  year: 1995
+  runtime: 118
+  director: Michael Bay
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.62 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: i-am-legend
+  tmdb_id: null
+  title: I Am Legend
+  year: 2007
+  runtime: 101
+  director: Francis Lawrence
+  tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.71 }
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: seven-pounds
+  tmdb_id: null
+  title: Seven Pounds
+  year: 2008
+  runtime: 123
+  director: Gabriele Muccino
+  tags:
+    opacity: 4 # what he's actually doing, and why, is deliberately withheld until the final act
+    stillness: 3
+    bleakness: 5
+    humor: 1
+    acclaim: 0.5
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: true, violence: 0, sex: 1 }
+
+- id: six-degrees-of-separation
+  tmdb_id: null
+  title: Six Degrees of Separation
+  year: 1993
+  runtime: 111
+  director: Fred Schepisi
+  tags:
+    opacity: 3 # a con man's real identity and motives the film keeps peeling back one layer at a time
+    stillness: 3
+    bleakness: 3
+    humor: 2
+    acclaim: 0.72
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 1 }

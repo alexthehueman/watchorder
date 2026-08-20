@@ -1,0 +1,26 @@
+# New films for Mark Ruffalo. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Foxcatcher already exists in carell.yaml — tagged before he had an entity. Spotlight already
+# exists in keaton-michael.yaml — tagged before he had an entity. The Kids Are All Right already
+# exists in moore.yaml — tagged before he had an entity. The Avengers already exists in
+# johansson.yaml — tagged before he had an entity. Zodiac already exists in downey.yaml —
+# tagged before he had an entity. Shutter Island already exists in von-sydow.yaml — tagged
+# before he had an entity.
+
+- id: you-can-count-on-me
+  tmdb_id: null
+  title: You Can Count on Me
+  year: 2000
+  runtime: 111
+  director: Kenneth Lonergan
+  tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 2, acclaim: 0.82 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: begin-again
+  tmdb_id: null
+  title: Begin Again
+  year: 2013
+  runtime: 104
+  director: John Carney
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

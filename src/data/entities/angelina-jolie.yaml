@@ -1,0 +1,84 @@
+slug: angelina-jolie
+kind: actor
+name: Angelina Jolie
+blurb: An intensity that reads as dangerous even standing still, spent as often on real grief as on the action stardom it just as easily built.
+
+films:
+  - film: girl-interrupted
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: supporting
+    register: unhinged
+    gateway: 2
+    note: A charismatic sociopath in a 1960s psychiatric ward, playing magnetism as a genuine threat to everyone drawn into her orbit.
+
+  - film: changeling
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A mother fighting a corrupt police department's insistence that a returned boy is her missing son, playing controlled grief against institutional gaslighting.
+
+  - film: a-mighty-heart
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A journalist's wife holding herself together while authorities search for her kidnapped husband, playing composure as its own act of will.
+
+  - film: mr-and-mrs-smith
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: An assassin unknowingly married to a rival assassin, playing marital suspicion and professional lethality as the exact same instinct.
+
+  - film: maleficent
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: menacing
+    gateway: 5
+    note: A wronged fairy godmother recast as the protagonist of her own villain origin story, playing wounded fury softening against her will.
+
+  - film: by-the-sea
+    signature: 2
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A writer's wife adrift in a stalled marriage during a slow French seaside vacation, playing withheld grief as a kind of quiet hostility.
+
+  - film: salt
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A CIA officer accused of being a deep-cover Russian sleeper agent, playing denial the film refuses to let you fully trust.
+
+  - film: wanted
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: menacing
+    gateway: 3
+    note: A lethal member of a secret assassins' guild recruiting an unremarkable office worker into their ranks, playing recruitment as seduction.
+
+curated:
+  curator: house
+  rationale: The two performances built around real, unglamorous intensity, then the action stardom built on the same raw material.
+  order:
+    - maleficent
+    - mr-and-mrs-smith
+    - wanted
+    - salt
+    - by-the-sea
+    - a-mighty-heart
+    - girl-interrupted
+    - changeling

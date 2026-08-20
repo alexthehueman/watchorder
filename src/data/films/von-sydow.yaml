@@ -131,7 +131,12 @@
   year: 2010
   runtime: 138
   director: Martin Scorsese
-  tags: { opacity: 3, stillness: 3, bleakness: 4, humor: 2, acclaim: 0.75 }
+  tags:
+    opacity: 4 # a detective investigation the film ultimately reveals was never what it appeared to be
+    stillness: 3
+    bleakness: 4
+    humor: 2
+    acclaim: 0.75
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt1130884
   poster_url: https://m.media-amazon.com/images/M/MV5BN2FjNWExYzEtY2YzOC00YjNlLTllMTQtNmIwM2Q1YzBhOWM1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg

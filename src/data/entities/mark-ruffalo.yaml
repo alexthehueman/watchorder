@@ -1,0 +1,84 @@
+slug: mark-ruffalo
+kind: actor
+name: Mark Ruffalo
+blurb: A shambling, unforced naturalism that makes him equally believable as a small-town screwup, a dogged investigator, or a rage monster barely holding it together.
+
+films:
+  - film: you-can-count-on-me
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: warm
+    gateway: 2
+    note: A drifting screwup returning to his hometown and his sister's fragile stability, playing genuine warmth and total unreliability as the same trait. His breakout role.
+
+  - film: spotlight
+    signature: 5
+    must_see: true
+    showcase: 4
+    role_size: supporting
+    register: restrained
+    gateway: 3
+    note: An investigative reporter uncovering the scale of a cover-up one source at a time, playing dogged obsession as the film's own procedural rhythm.
+
+  - film: zodiac
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: restrained
+    gateway: 3
+    note: A homicide detective chasing an uncatchable serial killer across a case that outlasts his own career on it.
+
+  - film: foxcatcher
+    signature: 3
+    showcase: 4
+    role_size: supporting
+    register: warm
+    gateway: 2
+    note: An Olympic wrestler drawn into his brother's orbit around an unstable, wealthy benefactor, playing protective instinct against a threat he can't quite name.
+
+  - film: the-kids-are-all-right
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: warm
+    gateway: 4
+    note: A laid-back sperm donor who unexpectedly becomes part of the family he helped create, complicating a marriage that wasn't looking for him.
+
+  - film: the-avengers
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: unhinged
+    gateway: 4
+    note: A scientist perpetually one bad moment from transforming into an uncontrollable rage monster, playing quiet self-restraint as the character's real story.
+
+  - film: begin-again
+    signature: 2
+    showcase: 2
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: A disgraced record executive who hears something real in a stranger's busking performance, playing burnout thawing back into enthusiasm.
+
+  - film: shutter-island
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: restrained
+    gateway: 2
+    note: A federal marshal's partner investigating a disappearance at an island psychiatric facility, playing procedural steadiness the film keeps giving reasons to doubt.
+
+curated:
+  curator: house
+  rationale: The two performances built entirely around dogged, unglamorous persistence, then everywhere else that same quality shows up.
+  order:
+    - the-avengers
+    - the-kids-are-all-right
+    - begin-again
+    - you-can-count-on-me
+    - foxcatcher
+    - shutter-island
+    - zodiac
+    - spotlight
