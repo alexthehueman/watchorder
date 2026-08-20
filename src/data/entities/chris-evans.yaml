@@ -1,0 +1,84 @@
+slug: chris-evans
+kind: actor
+name: Chris Evans
+blurb: Spent a decade as the most straightforwardly decent man in the biggest franchise on earth, then used the downtime between installments to prove he could play smug, entitled, and genuinely dangerous just as easily.
+
+films:
+  - film: captain-america-the-winter-soldier
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: A super-soldier discovering the organization he serves has been compromised from within, forced to decide who's actually left to trust.
+
+  - film: snowpiercer
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A reluctant leader of a train's tail-section underclass, leading a revolt toward the engine while hiding exactly what he did to survive back there.
+
+  - film: knives-out
+    signature: 2
+    showcase: 5
+    role_size: lead
+    register: menacing
+    gateway: 4
+    note: A wealthy family's black-sheep grandson, playing entitled cruelty with a sweater-vest charm that makes the character's true nature land harder.
+
+  - film: sunshine
+    signature: 3
+    showcase: 4
+    role_size: supporting
+    register: restrained
+    gateway: 3
+    note: A physicist and weapons expert on a mission to reignite the dying sun, playing pragmatic resolve as the crew's decisions grow increasingly desperate.
+
+  - film: gifted
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: A guardian raising his late sister's mathematically gifted daughter, fighting a custody battle against her grandmother's plans to exploit the child's genius.
+
+  - film: captain-america-the-first-avenger
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: warm
+    gateway: 5
+    note: A scrawny, rejected army volunteer transformed into a super-soldier, playing the character's decency as unchanged before and after the transformation.
+
+  - film: the-avengers
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: restrained
+    gateway: 5
+    note: A soldier out of his own time trying to lead a team of superpowered egos who don't yet respect the chain of command he represents.
+
+  - film: not-another-teen-movie
+    signature: 3
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 5
+    note: A clueless jock in a broad teen-movie parody, playing every genre cliche completely straight for maximum comic effect.
+
+curated:
+  curator: house
+  rationale: The two performances that show the range past the Captain America persona first, then the persona itself.
+  order:
+    - not-another-teen-movie
+    - captain-america-the-first-avenger
+    - the-avengers
+    - sunshine
+    - gifted
+    - knives-out
+    - captain-america-the-winter-soldier
+    - snowpiercer

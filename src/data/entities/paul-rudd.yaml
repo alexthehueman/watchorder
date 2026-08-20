@@ -1,0 +1,84 @@
+slug: paul-rudd
+kind: actor
+name: Paul Rudd
+blurb: A boyish, self-deprecating charm that's aged in real time on screen for three decades without ever losing the easy comic timing that got him cast in the first place.
+
+films:
+  - film: i-love-you-man
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: A newly engaged man with no close male friends, forced into a series of increasingly awkward "man-dates" to find a best man for his wedding.
+
+  - film: clueless
+    signature: 5
+    must_see: true
+    showcase: 4
+    role_size: lead
+    register: warm
+    gateway: 5
+    note: The exasperated, more grounded ex-stepbrother a Beverly Hills matchmaker slowly realizes she's actually in love with. His breakout role.
+
+  - film: ant-man
+    signature: 5
+    must_see: true
+    showcase: 4
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: An ex-con recruited to become a size-shifting superhero, playing reluctant heroism as mostly bewildered improvisation.
+
+  - film: the-fundamentals-of-caring
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: warm
+    gateway: 3
+    note: A grieving father who becomes a caretaker for a teenager with muscular dystrophy, playing quiet grief underneath a steady, undemonstrative competence.
+
+  - film: anchorman
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 5
+    note: A vain, cologne-obsessed field reporter on a 1970s San Diego news team, playing broad workplace rivalry as pure comic ego.
+
+  - film: this-is-40
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 4
+    note: A husband navigating a marriage, two kids, and a failing record label all turning forty at once, playing exhaustion as the film's comic engine.
+
+  - film: our-idiot-brother
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: A relentlessly honest, recently paroled optimist who upends his three sisters' carefully managed lives just by telling the truth.
+
+  - film: the-cider-house-rules
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: restrained
+    gateway: 2
+    note: A well-off orphanage benefactor's son falling for the same woman as the film's actual lead, an early dramatic role well outside his usual comic register.
+
+curated:
+  curator: house
+  rationale: The performance that made his name first, then the range around it.
+  order:
+    - clueless
+    - ant-man
+    - i-love-you-man
+    - anchorman
+    - our-idiot-brother
+    - this-is-40
+    - the-fundamentals-of-caring
+    - the-cider-house-rules

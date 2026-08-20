@@ -10,7 +10,12 @@
   year: 1992
   runtime: 99
   director: Quentin Tarantino
-  tags: { opacity: 2, stillness: 1, bleakness: 4, humor: 2, acclaim: 0.85 }
+  tags:
+    opacity: 3 # which member of the crew is the undercover cop stays deliberately concealed until the reveal
+    stillness: 1
+    bleakness: 4
+    humor: 2
+    acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt0105236
   poster_url: https://m.media-amazon.com/images/M/MV5BMmMzYjg4NDctYWY0Mi00OGViLWIzMTMtYWNlZGY5ZDJmYjk3XkEyXkFqcGc@._V1_SX300.jpg
@@ -122,7 +127,7 @@
   runtime: 168
   director: Quentin Tarantino
   tags:
-    opacity: 2
+    opacity: 3 # who's actually working with whom, and who poisoned the coffee, stays a real mystery until the reveal
     stillness: 3
     bleakness: 5 # one room, eight liars, and nobody in it deserves or receives any mercy
     humor: 2

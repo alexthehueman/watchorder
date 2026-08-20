@@ -1,0 +1,60 @@
+# New films for Chris Evans. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Avengers already exists in johansson.yaml — tagged before he had an entity. Knives Out
+# already exists in shannon.yaml — tagged before he had an entity. Snowpiercer already exists in
+# swinton.yaml — tagged before he had an entity.
+
+- id: not-another-teen-movie
+  tmdb_id: null
+  title: Not Another Teen Movie
+  year: 2001
+  runtime: 89
+  director: Joel Gallen
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.42 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: captain-america-the-first-avenger
+  tmdb_id: null
+  title: Captain America The First Avenger
+  year: 2011
+  runtime: 124
+  director: Joe Johnston
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: captain-america-the-winter-soldier
+  tmdb_id: null
+  title: Captain America The Winter Soldier
+  year: 2014
+  runtime: 136
+  director: Anthony Russo
+  tags:
+    opacity: 2 # a conspiracy inside his own organization the film keeps him piecing together in real time
+    stillness: 1
+    bleakness: 3
+    humor: 2
+    acclaim: 0.82
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: sunshine
+  tmdb_id: null
+  title: Sunshine
+  year: 2007
+  runtime: 107
+  director: Danny Boyle
+  tags:
+    opacity: 2 # a mission-critical decision late in the film the crew's own sanity makes genuinely hard to trust
+    stillness: 3
+    bleakness: 4
+    humor: 1
+    acclaim: 0.72
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: gifted
+  tmdb_id: null
+  title: Gifted
+  year: 2017
+  runtime: 101
+  director: Marc Webb
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
