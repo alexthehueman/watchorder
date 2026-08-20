@@ -1,0 +1,67 @@
+# New films for Cillian Murphy. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Batman Begins and The Dark Knight already exist in bale.yaml — tagged before he had an entity.
+
+- id: 28-days-later
+  tmdb_id: null
+  title: 28 Days Later
+  year: 2002
+  runtime: 113
+  director: Danny Boyle
+  tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.78 }
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: the-wind-that-shakes-the-barley
+  tmdb_id: null
+  title: The Wind That Shakes the Barley
+  year: 2006
+  runtime: 127
+  director: Ken Loach
+  tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: inception
+  tmdb_id: null
+  title: Inception
+  year: 2010
+  runtime: 148
+  director: Christopher Nolan
+  tags:
+    opacity: 3 # a heist across nested dream layers, and the final shot refuses to resolve the ambiguity
+    stillness: 2
+    bleakness: 3
+    humor: 1
+    acclaim: 0.88
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: red-eye
+  tmdb_id: null
+  title: Red Eye
+  year: 2005
+  runtime: 85
+  director: Wes Craven
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: dunkirk
+  tmdb_id: null
+  title: Dunkirk
+  year: 2017
+  runtime: 106
+  director: Christopher Nolan
+  tags: { opacity: 1, stillness: 1, bleakness: 4, humor: 1, acclaim: 0.82 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: oppenheimer
+  tmdb_id: null
+  title: Oppenheimer
+  year: 2023
+  runtime: 180
+  director: Christopher Nolan
+  tags:
+    opacity: 2 # a security hearing structured to keep withholding whether he's actually guilty of what's implied
+    stillness: 2
+    bleakness: 5
+    humor: 1
+    acclaim: 0.9
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }

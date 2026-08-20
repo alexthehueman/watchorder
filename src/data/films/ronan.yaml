@@ -1,0 +1,92 @@
+# New films for Saoirse Ronan. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Little Women (2019) already exists in chalamet.yaml (a genuine dual lead in the ensemble) —
+# tagged before she had an entity. Lady Bird already exists in chalamet.yaml — tagged before she
+# had an entity.
+
+- id: atonement
+  tmdb_id: null
+  title: Atonement
+  year: 2007
+  runtime: 123
+  director: Joe Wright
+  tags:
+    opacity: 2 # a child's false accusation whose full weight the film only settles late, and revises
+    stillness: 3
+    bleakness: 5
+    humor: 1
+    acclaim: 0.82
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: hanna
+  tmdb_id: null
+  title: Hanna
+  year: 2011
+  runtime: 111
+  director: Joe Wright
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
+
+- id: brooklyn
+  tmdb_id: null
+  title: Brooklyn
+  year: 2015
+  runtime: 111
+  director: John Crowley
+  tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 2, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: lady-macbeth
+  tmdb_id: null
+  title: Lady Macbeth
+  year: 2016
+  runtime: 89
+  director: William Oldroyd
+  tags:
+    opacity: 2
+    stillness: 3
+    bleakness: 5 # a young wife's escalating ruthlessness the film never once moralizes about
+    humor: 1
+    acclaim: 0.75
+  content: { sexual_violence: false, animal_harm: true, child_harm: true, suicide: false, violence: 3, sex: 1 }
+
+- id: on-chesil-beach
+  tmdb_id: null
+  title: On Chesil Beach
+  year: 2017
+  runtime: 110
+  director: Dominic Cooke
+  tags: { opacity: 2, stillness: 4, bleakness: 5, humor: 1, acclaim: 0.62 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: see-how-they-run
+  tmdb_id: null
+  title: See How They Run
+  year: 2022
+  runtime: 98
+  director: Tom George
+  tags: { opacity: 2, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.62 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: ammonite
+  tmdb_id: null
+  title: Ammonite
+  year: 2020
+  runtime: 120
+  director: Francis Lee
+  tags:
+    opacity: 2
+    stillness: 5 # a wordless courtship told almost entirely through what the two women don't say
+    bleakness: 4
+    humor: 1
+    acclaim: 0.68
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+
+- id: mary-queen-of-scots
+  tmdb_id: null
+  title: Mary Queen of Scots
+  year: 2018
+  runtime: 124
+  director: Josie Rourke
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

@@ -1,0 +1,83 @@
+# New films for Timothee Chalamet. Scales and anchors are in README.md ("The anchor rubric").
+
+- id: call-me-by-your-name
+  tmdb_id: null
+  title: Call Me by Your Name
+  year: 2017
+  runtime: 132
+  director: Luca Guadagnino
+  tags: { opacity: 1, stillness: 4, bleakness: 3, humor: 1, acclaim: 0.9 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+
+- id: lady-bird
+  tmdb_id: null
+  title: Lady Bird
+  year: 2017
+  runtime: 94
+  director: Greta Gerwig
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.88 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: beautiful-boy
+  tmdb_id: null
+  title: Beautiful Boy
+  year: 2018
+  runtime: 120
+  director: Felix Van Groeningen
+  tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: bones-and-all
+  tmdb_id: null
+  title: Bones and All
+  year: 2022
+  runtime: 130
+  director: Luca Guadagnino
+  tags:
+    opacity: 2
+    stillness: 3
+    bleakness: 5 # a road-trip romance between two cannibals, played with total sincerity
+    humor: 1
+    acclaim: 0.72
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+
+- id: little-women-2019
+  tmdb_id: null
+  title: Little Women
+  year: 2019
+  runtime: 135
+  director: Greta Gerwig
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.88 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: dune-2021
+  tmdb_id: null
+  title: Dune
+  year: 2021
+  runtime: 155
+  director: Denis Villeneuve
+  tags:
+    opacity: 2 # a first-half prophecy the film withholds the full weight of until the sequel
+    stillness: 3
+    bleakness: 4
+    humor: 1
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: wonka
+  tmdb_id: null
+  title: Wonka
+  year: 2023
+  runtime: 116
+  director: Paul King
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-french-dispatch
+  tmdb_id: null
+  title: The French Dispatch
+  year: 2021
+  runtime: 108
+  director: Wes Anderson
+  tags: { opacity: 2, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

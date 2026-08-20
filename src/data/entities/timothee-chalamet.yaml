@@ -1,0 +1,83 @@
+slug: timothee-chalamet
+kind: actor
+name: Timothee Chalamet
+blurb: Made his name playing adolescence as a genuinely open wound — every early role lets a feeling cross his face before he's decided whether to let it — and has spent his ascent to blockbuster lead trying not to lose that.
+
+films:
+  - film: call-me-by-your-name
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: warm
+    gateway: 3
+    note: A seventeen-year-old's first summer romance with his father's graduate student, culminating in an unbroken final shot of him processing heartbreak in real time.
+
+  - film: lady-bird
+    signature: 4
+    showcase: 4
+    role_size: supporting
+    register: comic
+    gateway: 4
+    note: The aloof, faux-intellectual boyfriend a Sacramento teenager briefly mistakes for sophistication.
+
+  - film: beautiful-boy
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 2
+    note: A young man cycling through meth addiction and relapse, playing the toll on his own body and his father's patience without softening either.
+
+  - film: bones-and-all
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: unhinged
+    gateway: 2
+    note: One half of a young cannibal couple on a road trip across the Reagan-era Midwest, playing tenderness and horror as the same impulse.
+
+  - film: little-women-2019
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: warm
+    gateway: 4
+    note: Laurie, the March sisters' wealthy neighbor, in love with one of them for most of the film and a poor match for the ones he actually pursues.
+
+  - film: dune-2021
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 5
+    note: A duke's son inheriting a desert planet, a prophecy, and a war he didn't ask for, playing the weight of all three settling on him at once.
+
+  - film: wonka
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: warm
+    gateway: 5
+    note: A young Willy Wonka arriving penniless in a chocolate-cartel-controlled city, playing pure, untroubled whimsy against genre norms.
+
+  - film: the-french-dispatch
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 3
+    note: A student revolutionary in one of the anthology film's three magazine-story segments, playing radical politics as mostly about a girl.
+
+curated:
+  curator: house
+  rationale: The performance that made his name first, then the range around it.
+  order:
+    - call-me-by-your-name
+    - dune-2021
+    - lady-bird
+    - wonka
+    - the-french-dispatch
+    - little-women-2019
+    - bones-and-all
+    - beautiful-boy

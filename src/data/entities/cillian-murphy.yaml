@@ -1,0 +1,84 @@
+slug: cillian-murphy
+kind: actor
+name: Cillian Murphy
+blurb: Those pale, unblinking eyes have carried a horror-outbreak survivor, a supervillain, a gangster, and the father of the atomic bomb with the same unsettling total stillness.
+
+films:
+  - film: oppenheimer
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: J. Robert Oppenheimer, playing genius, guilt, and self-destruction as three settings on the same quiet dial across a three-hour running time.
+
+  - film: 28-days-later
+    signature: 5
+    must_see: true
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: A bike courier waking from a coma into a Britain emptied by a rage virus, playing disorientation as the film's real opening horror.
+
+  - film: the-wind-that-shakes-the-barley
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: An Irish medical student turned IRA volunteer during the War of Independence, watching the cause fracture his own family.
+
+  - film: red-eye
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: menacing
+    gateway: 4
+    note: A charming stranger on a red-eye flight who turns out to be a hitman coercing a hotel manager into an assassination plot.
+
+  - film: inception
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: restrained
+    gateway: 5
+    note: An heir whose subconscious is the target of an elaborate dream-heist, unaware he's being emotionally manipulated as much as robbed.
+
+  - film: dunkirk
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: unhinged
+    gateway: 4
+    note: A shell-shocked soldier pulled from the sea, whose panic aboard a rescue boat turns the film's civilian sequence genuinely dangerous.
+
+  - film: batman-begins
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: menacing
+    gateway: 5
+    note: Dr. Jonathan Crane, a psychiatrist moonlighting as the fear-gas-wielding Scarecrow.
+
+  - film: the-dark-knight
+    signature: 2
+    showcase: 2
+    role_size: cameo
+    register: menacing
+    gateway: 5
+    note: A brief return as Crane, now reduced to running a black-market fear-toxin operation under the Joker's larger chaos.
+
+curated:
+  curator: house
+  rationale: The two performances that show the range of the stillness first, then everywhere else it's been put to work.
+  order:
+    - oppenheimer
+    - inception
+    - batman-begins
+    - the-dark-knight
+    - red-eye
+    - dunkirk
+    - 28-days-later
+    - the-wind-that-shakes-the-barley
