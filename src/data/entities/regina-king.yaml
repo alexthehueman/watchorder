@@ -1,0 +1,65 @@
+slug: regina-king
+kind: actor
+name: Regina King
+blurb: Spent three decades as one of the most reliable supporting presences in American film before a run of lead roles proved she'd always had far more range than the parts were asking for.
+
+films:
+  - film: if-beale-street-could-talk
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: supporting
+    register: restrained
+    gateway: 2
+    note: A mother fighting to clear her future son-in-law's name from a false accusation, playing fierce, controlled love against a system built to wear her down.
+
+  - film: ray
+    signature: 4
+    showcase: 4
+    role_size: supporting
+    register: warm
+    gateway: 3
+    note: A backup singer whose affair with Ray Charles becomes one of the film's clearest windows into his contradictions, playing genuine intimacy without excusing him for it.
+
+  - film: jerry-maguire
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: warm
+    gateway: 4
+    note: A football star's protective, no-nonsense wife, playing grounded skepticism toward the sports agent trying to win her husband's trust back.
+
+  - film: enemy-of-the-state
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: restrained
+    gateway: 3
+    note: A lawyer's wife whose ordinary life gets swept into a surveillance conspiracy neither of them saw coming.
+
+  - film: miss-congeniality
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 4
+    note: An FBI agent's no-nonsense partner keeping a barely-covert pageant investigation from spinning out of control.
+
+  - film: legally-blonde
+    signature: 2
+    showcase: 1
+    role_size: cameo
+    register: comic
+    gateway: 5
+    note: A brief courtroom presence during the film's climactic case, playing procedural skepticism in a handful of scenes.
+
+curated:
+  curator: house
+  rationale: The performance that finally got her the lead billing her range always deserved, then three decades of the supporting work that built to it.
+  order:
+    - legally-blonde
+    - miss-congeniality
+    - jerry-maguire
+    - enemy-of-the-state
+    - ray
+    - if-beale-street-could-talk

@@ -1,0 +1,21 @@
+# New films for Regina King. Scales and anchors are in README.md ("The anchor rubric").
+#
+# If Beale Street Could Talk already exists in jenkins.yaml — tagged before she had an entity.
+# Ray already exists in foxx.yaml — tagged before she had an entity. Jerry Maguire already exists
+# in cruise.yaml — tagged before she had an entity. Miss Congeniality already exists in
+# bullock.yaml — tagged before she had an entity. Legally Blonde already exists in
+# witherspoon.yaml — tagged before she had an entity.
+
+- id: enemy-of-the-state
+  tmdb_id: null
+  title: Enemy of the State
+  year: 1998
+  runtime: 132
+  director: Tony Scott
+  tags:
+    opacity: 2 # a surveillance conspiracy the film keeps revealing is bigger, and closer to home, than it first appears
+    stillness: 1
+    bleakness: 3
+    humor: 1
+    acclaim: 0.68
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
