@@ -1,0 +1,18 @@
+# New films for Simu Liu. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Shang-Chi already exists in awkwafina.yaml — tagged before he had an entity. Barbie already
+# exists in gosling.yaml.
+
+- id: arthur-the-king
+  tmdb_id: null
+  title: Arthur the King
+  year: 2024
+  runtime: 108
+  director: Simon Cellan Jones
+  tags:
+    opacity: 3 # whether the stray dog will actually make it through the race, or the team, stays genuinely uncertain
+    stillness: 3
+    bleakness: 3
+    humor: 1
+    acclaim: 0.55
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 1, sex: 0 }

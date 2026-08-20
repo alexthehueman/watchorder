@@ -1,0 +1,84 @@
+slug: angela-bassett
+kind: actor
+name: Angela Bassett
+blurb: A commanding, ferociously controlled intensity built across three decades of biographical drama and blockbuster matriarchy alike.
+
+films:
+  - film: whats-love-got-to-do-with-it
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 1
+    note: A biographical portrait of Tina Turner's rise and escape from an abusive marriage, playing raw survival and eventual, hard-won fury.
+
+  - film: black-panther-wakanda-forever
+    signature: 4
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: menacing
+    gateway: 3
+    note: A grieving queen holding a nation together while a new underwater threat emerges, playing regal authority curdling into fierce, protective menace.
+
+  - film: malcolm-x
+    signature: 3
+    showcase: 4
+    role_size: supporting
+    register: restrained
+    gateway: 2
+    note: A steadfast wife supporting her husband through his political transformation and eventual assassination, playing quiet, unwavering strength.
+
+  - film: boyz-n-the-hood
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: warm
+    gateway: 3
+    note: A determined single mother fighting to give her son a future outside the neighborhood's cycle of violence, playing fierce, protective love.
+
+  - film: black-panther
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: warm
+    gateway: 4
+    note: A grieving queen mourning her husband while guiding her son toward the throne, playing dignified, steady warmth.
+
+  - film: strange-days
+    signature: 2
+    showcase: 4
+    role_size: supporting
+    register: menacing
+    gateway: 1
+    note: A bodyguard and confidante drawn into a conspiracy after a murder is recorded and traded on the black market, playing wary, protective toughness.
+
+  - film: waiting-to-exhale
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A recently divorced woman burning her ex-husband's belongings and rebuilding her life, playing controlled rage giving way to real healing.
+
+  - film: how-stella-got-her-groove-back
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: comic
+    gateway: 4
+    note: A successful, buttoned-up stockbroker who falls for a much younger man on vacation, playing loosened, rediscovered joy.
+
+curated:
+  curator: house
+  rationale: The performance that defined the commanding intensity first, then the range across biographical drama and blockbuster matriarchy.
+  order:
+    - whats-love-got-to-do-with-it
+    - malcolm-x
+    - boyz-n-the-hood
+    - waiting-to-exhale
+    - strange-days
+    - black-panther
+    - black-panther-wakanda-forever
+    - how-stella-got-her-groove-back

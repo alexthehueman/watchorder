@@ -1,0 +1,93 @@
+slug: richard-e-grant
+kind: actor
+name: Richard E. Grant
+blurb: A precise, theatrical intensity established in one cult comic performance, carried since through decades of biting supporting work in period drama and blockbuster villainy alike.
+
+films:
+  - film: withnail-and-i
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 2
+    note: An unemployed, perpetually drunk actor dragging his reluctant friend through a disastrous countryside holiday, playing manic, theatrical self-destruction.
+
+  - film: can-you-ever-forgive-me
+    signature: 4
+    must_see: true
+    showcase: 4
+    role_size: supporting
+    register: comic
+    gateway: 2
+    note: A charming, drug-dealing con man who becomes a literary forger's only real friend, playing flamboyant, self-aware roguishness.
+
+  - film: gosford-park
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: restrained
+    gateway: 3
+    note: A footman with his own quiet resentments and observations, playing careful, class-conscious composure within a large ensemble.
+
+  - film: logan
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: menacing
+    gateway: 2
+    note: A geneticist behind the program that created a generation of weaponized mutants, playing cold, clinical menace.
+
+  - film: the-player
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: comic
+    gateway: 4
+    note: An ambitious, opportunistic studio executive circling a rival's job, playing sleek, satirical Hollywood self-interest.
+
+  - film: star-wars-the-rise-of-skywalker
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: menacing
+    gateway: 4
+    note: A ruthless First Order general pursuing total galactic control, playing icy, militaristic authority.
+
+  - film: how-to-get-ahead-in-advertising
+    signature: 2
+    showcase: 4
+    role_size: lead
+    register: unhinged
+    gateway: 2
+    note: An advertising executive whose moral disgust with his own profession manifests as a literal, talking growth on his neck, playing escalating breakdown as pure absurdist satire.
+
+  - film: bram-stokers-dracula
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: restrained
+    gateway: 3
+    note: An asylum doctor treating a patient whose ravings turn out to be connected to a much larger horror, playing rational composure fraying at the edges.
+
+  - film: spice-world
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 5
+    note: A harried, overwhelmed manager trying to keep his clients on schedule, playing broad, exasperated comic panic.
+
+curated:
+  curator: house
+  rationale: The performance that made him a cult favorite first, then the range across supporting work ever since.
+  order:
+    - withnail-and-i
+    - can-you-ever-forgive-me
+    - gosford-park
+    - the-player
+    - logan
+    - star-wars-the-rise-of-skywalker
+    - how-to-get-ahead-in-advertising
+    - bram-stokers-dracula
+    - spice-world
