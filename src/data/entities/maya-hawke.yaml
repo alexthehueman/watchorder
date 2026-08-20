@@ -1,0 +1,47 @@
+slug: maya-hawke
+kind: actor
+name: Maya Hawke
+blurb: A wry, watchful screen presence that carries an easy comic timing about as often as a genuine, unsettled restlessness.
+
+films:
+  - film: once-upon-a-time-in-hollywood
+    signature: 5
+    must_see: true
+    showcase: 3
+    role_size: supporting
+    register: unhinged
+    gateway: 3
+    note: A member of the Manson Family drifting through the film's fringes, playing glassy-eyed, unsettling conviction.
+
+  - film: asteroid-city
+    signature: 3
+    showcase: 4
+    role_size: supporting
+    register: restrained
+    gateway: 2
+    note: A teacher chaperoning a group of students through a strange, deadpan desert convention, playing composed bewilderment.
+
+  - film: mainstream
+    signature: 3
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 1
+    note: An aimless young woman swept into an internet personality's rapid, destabilizing rise to fame, playing eager complicity curdling into real unease.
+
+  - film: do-revenge
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: comic
+    gateway: 4
+    note: A wry, sharp-tongued classmate caught up in an escalating high-school revenge scheme, playing knowing comic detachment.
+
+curated:
+  curator: house
+  rationale: The role that revealed real unease first, then the range around it.
+  order:
+    - mainstream
+    - once-upon-a-time-in-hollywood
+    - asteroid-city
+    - do-revenge

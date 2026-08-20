@@ -1,0 +1,57 @@
+slug: lee-byung-hun
+kind: actor
+name: Lee Byung-hun
+blurb: A magnetic, controlled intensity carried across Korean genre classics into a second act of dependable Hollywood blockbuster villainy.
+
+films:
+  - film: i-saw-the-devil
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 1
+    note: A grieving fiancé exacting an escalating, sadistic revenge on his partner's killer, playing controlled brutality tipping into something monstrous.
+
+  - film: the-good-the-bad-the-weird
+    signature: 4
+    must_see: true
+    showcase: 4
+    role_size: lead
+    register: menacing
+    gateway: 3
+    note: A ruthless, stylish assassin chasing a treasure map across Manchuria, playing cold, precise menace.
+
+  - film: the-magnificent-seven
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: comic
+    gateway: 4
+    note: A knife-wielding gambler and gunslinger among a hired band of outlaws, playing wry, unbothered confidence.
+
+  - film: terminator-genisys
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: menacing
+    gateway: 4
+    note: A shapeshifting assassin sent back through time, playing cold, relentless pursuit.
+
+  - film: gi-joe-the-rise-of-cobra
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: unhinged
+    gateway: 4
+    note: A masked, silent ninja assassin, playing pure physical menace with almost no dialogue.
+
+curated:
+  curator: house
+  rationale: The performance with the most range and control first, then the rest of the register around it.
+  order:
+    - i-saw-the-devil
+    - the-good-the-bad-the-weird
+    - the-magnificent-seven
+    - terminator-genisys
+    - gi-joe-the-rise-of-cobra

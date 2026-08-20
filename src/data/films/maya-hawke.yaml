@@ -1,0 +1,41 @@
+# New films for Maya Hawke. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Once Upon a Time in Hollywood already exists in tarantino.yaml — tagged before she had an
+# entity.
+
+- id: do-revenge
+  tmdb_id: null
+  title: Do Revenge
+  year: 2022
+  runtime: 118
+  director: Jennifer Kaytin Robinson
+  tags:
+    opacity: 2 # how much of the new friendship is genuine versus a calculated setup stays deliberately unclear
+    stillness: 2
+    bleakness: 3
+    humor: 4
+    acclaim: 0.60
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: asteroid-city
+  tmdb_id: null
+  title: Asteroid City
+  year: 2023
+  runtime: 105
+  director: Wes Anderson
+  tags: { opacity: 3, stillness: 3, bleakness: 2, humor: 3, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: mainstream
+  tmdb_id: null
+  title: Mainstream
+  year: 2020
+  runtime: 94
+  director: Gia Coppola
+  tags:
+    opacity: 2 # how much of his online persona is genuine belief versus pure performance stays unresolved
+    stillness: 2
+    bleakness: 4
+    humor: 2
+    acclaim: 0.40
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

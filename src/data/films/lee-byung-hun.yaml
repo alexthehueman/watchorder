@@ -1,0 +1,28 @@
+# New films for Lee Byung-hun. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Good, the Bad, the Weird already exists in song-kang-ho.yaml — tagged before he had an
+# entity. The Magnificent Seven already exists in pratt.yaml. I Saw the Devil already exists in
+# choi-min-sik.yaml.
+
+- id: terminator-genisys
+  tmdb_id: null
+  title: Terminator Genisys
+  year: 2015
+  runtime: 126
+  director: Alan Taylor
+  tags:
+    opacity: 2 # whether this timeline's version of events can even be trusted stays genuinely unclear
+    stillness: 1
+    bleakness: 3
+    humor: 2
+    acclaim: 0.40
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: gi-joe-the-rise-of-cobra
+  tmdb_id: null
+  title: G.I. Joe - The Rise of Cobra
+  year: 2009
+  runtime: 118
+  director: Stephen Sommers
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
