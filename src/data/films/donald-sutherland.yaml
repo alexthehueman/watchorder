@@ -1,0 +1,27 @@
+# New films for Donald Sutherland. Scales and anchors are in README.md ("The anchor rubric").
+#
+# MASH already exists in altman.yaml — tagged before he had an entity.
+# JFK already exists in oldman.yaml.
+
+- id: invasion-of-the-body-snatchers
+  tmdb_id: null
+  title: Invasion of the Body Snatchers
+  year: 1978
+  runtime: 115
+  director: Philip Kaufman
+  tags:
+    opacity: 2 # whether the people around him have really been replaced, or he's losing his mind, stays deliberately uncertain
+    stillness: 2
+    bleakness: 5
+    humor: 1
+    acclaim: 0.83
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: ordinary-people
+  tmdb_id: null
+  title: Ordinary People
+  year: 1980
+  runtime: 124
+  director: Robert Redford
+  tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.82 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }

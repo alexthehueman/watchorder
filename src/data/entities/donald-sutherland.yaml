@@ -1,0 +1,47 @@
+slug: donald-sutherland
+kind: actor
+name: Donald Sutherland
+blurb: A tall, unnerving screen presence equally comfortable in dark comedy, genuine paranoia, and quiet devastating grief.
+
+films:
+  - film: mash
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: An irreverent, anti-authority army surgeon treating war with dark comic detachment, playing gleeful, subversive cool.
+
+  - film: ordinary-people
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 5
+    note: A father struggling to hold his fracturing family together, playing controlled, aching grief.
+
+  - film: invasion-of-the-body-snatchers
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: unhinged
+    gateway: 3
+    note: A man's paranoia curdling into full-blown terror as reality itself turns against him, playing raw, escalating dread.
+
+  - film: jfk
+    signature: 3
+    showcase: 4
+    role_size: supporting
+    register: menacing
+    gateway: 2
+    note: A shadowy government insider revealing a chilling, methodical conspiracy, playing cold, unsettling authority.
+
+curated:
+  curator: house
+  rationale: The most iconic role first, then the Oscar-winning drama, then the range of paranoia and menace around both.
+  order:
+    - mash
+    - ordinary-people
+    - invasion-of-the-body-snatchers
+    - jfk
