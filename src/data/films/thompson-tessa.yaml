@@ -1,0 +1,46 @@
+# New films for Tessa Thompson. Scales and anchors are in README.md ("The anchor rubric").
+# Filename disambiguates from thompson.yaml, which belongs to Emma Thompson.
+#
+# Creed already exists in michael-b-jordan.yaml — tagged before she had an entity. Thor: Ragnarok
+# already exists in blanchett.yaml — tagged before she had an entity.
+
+- id: sorry-to-bother-you
+  tmdb_id: null
+  title: Sorry to Bother You
+  year: 2018
+  runtime: 111
+  director: Boots Riley
+  tags:
+    opacity: 4 # a satire that escalates into something genuinely unclassifiable, and never signals when it's crossed that line
+    stillness: 2
+    bleakness: 4
+    humor: 3
+    acclaim: 0.78
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: dear-white-people
+  tmdb_id: null
+  title: Dear White People
+  year: 2014
+  runtime: 100
+  director: Justin Simien
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: selma
+  tmdb_id: null
+  title: Selma
+  year: 2014
+  runtime: 128
+  director: Ava DuVernay
+  tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: little-woods
+  tmdb_id: null
+  title: Little Woods
+  year: 2018
+  runtime: 105
+  director: Nia DaCosta
+  tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

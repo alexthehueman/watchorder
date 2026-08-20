@@ -1,0 +1,66 @@
+slug: tessa-thompson
+kind: actor
+name: Tessa Thompson
+blurb: A watchful intelligence that reads as effortless composure in a blockbuster and as genuine menace in something stranger, often within the same year.
+
+films:
+  - film: creed
+    signature: 5
+    must_see: true
+    showcase: 4
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: A singer losing her hearing who becomes the emotional anchor for a young boxer stepping out of his father's shadow, playing steadiness without ever softening her own ambition.
+
+  - film: sorry-to-bother-you
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 1
+    note: A radical performance artist and telemarketer's girlfriend, playing conviction against a film that keeps escalating past anything her politics prepared her for.
+
+  - film: selma
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: restrained
+    gateway: 3
+    note: A civil rights organizer working alongside Martin Luther King Jr. during the Selma marches, playing disciplined resolve under real, documented danger.
+
+  - film: little-woods
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A woman running out of legal options to support her sister, playing quiet desperation as economic hardship pushes her back toward crimes she'd sworn off.
+
+  - film: dear-white-people
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: menacing
+    gateway: 3
+    note: A biracial student hosting a provocative campus radio show, playing sharp, weaponized wit as both armor and genuine conviction.
+
+  - film: thor-ragnarok
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 4
+    note: A hard-drinking former warrior recruited to help retake a fallen kingdom, playing world-weary swagger as the film's coolest, driest joke.
+
+curated:
+  curator: house
+  rationale: The two performances that show how far the same watchful composure can swing, then everywhere else it gets put to smaller use.
+  order:
+    - thor-ragnarok
+    - selma
+    - dear-white-people
+    - creed
+    - little-woods
+    - sorry-to-bother-you

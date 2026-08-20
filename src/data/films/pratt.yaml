@@ -1,0 +1,60 @@
+# New films for Chris Pratt. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Guardians of the Galaxy already exists in saldana.yaml — tagged before he had an entity.
+# Moneyball already exists in pitt.yaml — tagged before he had an entity. Zero Dark Thirty already
+# exists in chastain.yaml — tagged before he had an entity.
+
+- id: jurassic-world
+  tmdb_id: null
+  title: Jurassic World
+  year: 2015
+  runtime: 124
+  director: Colin Trevorrow
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-lego-movie
+  tmdb_id: null
+  title: The Lego Movie
+  year: 2014
+  runtime: 100
+  director: Phil Lord
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 5, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: passengers
+  tmdb_id: null
+  title: Passengers
+  year: 2016
+  runtime: 116
+  director: Morten Tyldum
+  tags:
+    opacity: 3 # a decision the film keeps him hiding from her, and lets the audience sit with the ethics of, longer than expected
+    stillness: 3
+    bleakness: 4
+    humor: 1
+    acclaim: 0.55
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: the-tomorrow-war
+  tmdb_id: null
+  title: The Tomorrow War
+  year: 2021
+  runtime: 140
+  director: Chris McKay
+  tags:
+    opacity: 2 # the timeline the draftees are being sent into keeps revealing its stakes were misunderstood from the start
+    stillness: 1
+    bleakness: 4
+    humor: 1
+    acclaim: 0.6
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: the-magnificent-seven
+  tmdb_id: null
+  title: The Magnificent Seven
+  year: 2016
+  runtime: 133
+  director: Antoine Fuqua
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 2, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }

@@ -1,0 +1,84 @@
+slug: chris-pratt
+kind: actor
+name: Chris Pratt
+blurb: Traded a decade of doughy comic-relief sidekick roles for a body transformation and a run of blockbuster leads, without ever quite losing the goofball underneath.
+
+films:
+  - film: guardians-of-the-galaxy
+    signature: 5
+    must_see: true
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: A wisecracking interstellar thief recruited into an unlikely team of misfits, playing genuine heroism as something he keeps pretending not to feel.
+
+  - film: moneyball
+    signature: 5
+    must_see: true
+    showcase: 3
+    role_size: supporting
+    register: warm
+    gateway: 2
+    note: A washed-up catcher given one more shot by a general manager willing to bet on unconventional metrics, playing quiet gratitude without much screen time to do it in.
+
+  - film: jurassic-world
+    signature: 3
+    showcase: 2
+    role_size: lead
+    register: restrained
+    gateway: 5
+    note: A velociraptor trainer called in when a genetically engineered dinosaur escapes containment, playing capable calm as the disaster escalates around him.
+
+  - film: zero-dark-thirty
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: restrained
+    gateway: 2
+    note: A member of the Navy SEAL team assigned to the raid the film spends its entire second half building toward.
+
+  - film: passengers
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: unhinged
+    gateway: 2
+    note: A mechanic who wakes ninety years early from cryosleep aboard a colony ship, playing loneliness curdle into a decision the film refuses to let him off the hook for.
+
+  - film: the-tomorrow-war
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: warm
+    gateway: 3
+    note: A teacher drafted into a war against an alien invasion decades in the future, playing ordinary decency thrown into a mission whose real stakes keep shifting.
+
+  - film: the-magnificent-seven
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 3
+    note: A gambler and con man recruited into a ragtag posse defending a town from a ruthless industrialist, playing charm as the group's comic pressure valve.
+
+  - film: the-lego-movie
+    signature: 3
+    showcase: 2
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: An utterly ordinary construction worker mistaken for a legendary hero, playing cheerful obliviousness as the joke the whole plot is built on.
+
+curated:
+  curator: house
+  rationale: The two performances that show the range underneath the blockbuster physique, then everywhere the goofball charm gets put to bigger use.
+  order:
+    - the-lego-movie
+    - jurassic-world
+    - the-magnificent-seven
+    - passengers
+    - the-tomorrow-war
+    - zero-dark-thirty
+    - guardians-of-the-galaxy
+    - moneyball
