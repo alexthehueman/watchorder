@@ -1,0 +1,66 @@
+slug: sigourney-weaver
+kind: actor
+name: Sigourney Weaver
+blurb: Ellen Ripley redefined what a horror-movie survivor could be, and everything else she's done since has quietly built on the same steel.
+
+films:
+  - film: alien
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: A haunted-house film with a spaceship instead of a house, and she's the only one still thinking clearly by the end.
+
+  - film: aliens
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 4
+    note: The sequel that turns survival horror into a war film, and gives her the "get away from her" speech people still quote.
+
+  - film: ghostbusters
+    signature: 4
+    showcase: 3
+    role_size: supporting
+    register: comic
+    gateway: 5
+    note: A cellist possessed by an ancient god, played completely straight against everyone else's comedy.
+
+  - film: gorillas-in-the-mist
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: warm
+    gateway: 3
+    note: Dian Fossey, whose real, unsolved murder followed years fighting poachers to protect the gorillas she studied.
+
+  - film: working-girl
+    signature: 3
+    showcase: 4
+    role_size: supporting
+    register: menacing
+    gateway: 4
+    note: A boss who steals her assistant's idea without a second thought — the film's actual villain, played with total charm.
+
+  - film: avatar
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: warm
+    gateway: 5
+    note: A scientist who believes in the world she's studying more than the humans exploiting it.
+
+curated:
+  curator: house
+  rationale: Ripley across both defining films first, then the range in every direction around them.
+  order:
+    - alien
+    - ghostbusters
+    - aliens
+    - working-girl
+    - gorillas-in-the-mist
+    - avatar

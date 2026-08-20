@@ -1,0 +1,74 @@
+slug: willem-dafoe
+kind: actor
+name: Willem Dafoe
+blurb: A face built for extremity — saints, killers, and lighthouse keepers alike — used just as often for total, unguarded tenderness.
+
+films:
+  - film: the-lighthouse
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 2
+    note: A grizzled lighthouse keeper slowly driving his younger keeper mad, or possibly the other way around. Nobody involved seems entirely sane by the end.
+
+  - film: the-florida-project
+    signature: 4
+    must_see: true
+    showcase: 5
+    role_size: supporting
+    register: warm
+    gateway: 3
+    note: A budget motel manager doing his quiet, unglamorous best for the kids running wild around his property.
+
+  - film: platoon
+    signature: 4
+    showcase: 4
+    role_size: supporting
+    register: warm
+    gateway: 4
+    note: A sergeant who represents the war's better instinct, killed for it. His first major role.
+
+  - film: shadow-of-the-vampire
+    signature: 3
+    showcase: 4
+    role_size: supporting
+    register: unhinged
+    gateway: 3
+    note: A fictionalized account of Nosferatu's shoot in which the star cast to play a vampire may genuinely be one.
+
+  - film: the-grand-budapest-hotel
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: menacing
+    gateway: 4
+    note: A silent, brutal assassin stalking through Wes Anderson's most colorful film like something from a different genre entirely.
+
+  - film: spider-man
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: unhinged
+    gateway: 5
+    note: A scientist whose own formula splits him into a literal second, murderous personality. Broad, and clearly having fun with it.
+
+  - film: antichrist
+    signature: 3
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 1
+    note: A therapist trying to treat his wife's grief in an isolated cabin, in Lars von Trier's most confrontational film. Not a place to start.
+
+curated:
+  curator: house
+  rationale: The performance that shows his range most clearly first, then outward into genre work, saving the hardest film for last.
+  order:
+    - the-florida-project
+    - spider-man
+    - platoon
+    - the-grand-budapest-hotel
+    - shadow-of-the-vampire
+    - the-lighthouse

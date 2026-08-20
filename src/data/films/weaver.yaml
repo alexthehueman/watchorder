@@ -1,0 +1,69 @@
+# Films for Sigourney Weaver. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Ripley across the two Cameron/Scott collaborations that made her the reason "final girl" stopped
+# meaning "victim" — plus the range on either side of it that gets forgotten because of how good
+# those two are.
+
+- id: alien
+  tmdb_id: null
+  title: Alien
+  year: 1979
+  runtime: 117
+  director: Ridley Scott
+  tags:
+    opacity: 2 # withholds the creature's biology and the "Space Jockey" wreck's origin entirely, on purpose
+    stillness: 3
+    bleakness: 5 # a haunted-house film with a spaceship instead of a house, and it never once lets up
+    humor: 1
+    acclaim: 0.93
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: aliens
+  tmdb_id: null
+  title: Aliens
+  year: 1986
+  runtime: 137
+  director: James Cameron
+  tags: { opacity: 1, stillness: 1, bleakness: 4, humor: 2, acclaim: 0.90 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: ghostbusters
+  tmdb_id: null
+  title: Ghostbusters
+  year: 1984
+  runtime: 105
+  director: Ivan Reitman
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 5, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: working-girl
+  tmdb_id: null
+  title: Working Girl
+  year: 1988
+  runtime: 113
+  director: Mike Nichols
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: gorillas-in-the-mist
+  tmdb_id: null
+  title: Gorillas in the Mist
+  year: 1988
+  runtime: 129
+  director: Michael Apted
+  tags:
+    opacity: 1
+    stillness: 3
+    bleakness: 5 # Dian Fossey's real, unsolved murder, after years fighting poachers to protect the gorillas
+    humor: 1
+    acclaim: 0.72
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: avatar
+  tmdb_id: null
+  title: Avatar
+  year: 2009
+  runtime: 162
+  director: James Cameron
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

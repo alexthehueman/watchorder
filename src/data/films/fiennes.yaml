@@ -1,0 +1,51 @@
+# New films for Ralph Fiennes. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Schindler's List and The English Patient already exist in spielberg.yaml and binoche.yaml — two
+# of his most acclaimed roles, tagged before he had an entity. The Grand Budapest Hotel is shared
+# with dafoe.yaml (Dafoe plays a supporting assassin) — tagged here since M. Gustave is the lead.
+
+- id: in-bruges
+  tmdb_id: null
+  title: In Bruges
+  year: 2008
+  runtime: 107
+  director: Martin McDonagh
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 4 # two hitmen hiding out after a job that killed a child by accident
+    humor: 4
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+
+- id: the-grand-budapest-hotel
+  tmdb_id: null
+  title: The Grand Budapest Hotel
+  year: 2014
+  runtime: 99
+  director: Wes Anderson
+  tags:
+    opacity: 2 # a story nested inside a story inside a story, narrated across three different timelines
+    stillness: 2
+    bleakness: 3
+    humor: 5
+    acclaim: 0.90
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: harry-potter-and-the-goblet-of-fire
+  tmdb_id: null
+  title: Harry Potter and the Goblet of Fire
+  year: 2005
+  runtime: 157
+  director: Mike Newell
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 2, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+
+- id: skyfall
+  tmdb_id: null
+  title: Skyfall
+  year: 2012
+  runtime: 143
+  director: Sam Mendes
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

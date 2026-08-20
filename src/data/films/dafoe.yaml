@@ -1,0 +1,50 @@
+# New films for Willem Dafoe. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Lighthouse and The Florida Project already exist in a24.yaml, and The Grand Budapest Hotel in
+# fiennes.yaml (a supporting assassin role) — tagged before he had an entity.
+
+- id: platoon
+  tmdb_id: null
+  title: Platoon
+  year: 1986
+  runtime: 120
+  director: Oliver Stone
+  tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: spider-man
+  tmdb_id: null
+  title: Spider-Man
+  year: 2002
+  runtime: 121
+  director: Sam Raimi
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: shadow-of-the-vampire
+  tmdb_id: null
+  title: Shadow of the Vampire
+  year: 2000
+  runtime: 92
+  director: E. Elias Merhige
+  tags:
+    opacity: 2 # a fictionalized account of Nosferatu's shoot, where the star may genuinely be a vampire
+    stillness: 2
+    bleakness: 4
+    humor: 2
+    acclaim: 0.72
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: antichrist
+  tmdb_id: null
+  title: Antichrist
+  year: 2009
+  runtime: 108
+  director: Lars von Trier
+  tags:
+    opacity: 3 # grief processed through dream logic and symbolism the film never translates for you
+    stillness: 3
+    bleakness: 5
+    humor: 1
+    acclaim: 0.60
+  content: { sexual_violence: true, animal_harm: true, child_harm: true, suicide: false, violence: 3, sex: 2 }
