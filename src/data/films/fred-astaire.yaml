@@ -1,0 +1,31 @@
+# New films for Fred Astaire. Scales and anchors are in README.md ("The anchor rubric").
+#
+# You Were Never Lovelier already exists in rita-hayworth.yaml — tagged before he had an entity.
+
+- id: top-hat
+  tmdb_id: null
+  title: Top Hat
+  year: 1935
+  runtime: 101
+  director: Mark Sandrich
+  tags:
+    opacity: 1
+    stillness: 3 # elaborate, lingering dance numbers slow the pace against the farce around them
+    bleakness: 2 # a case of mistaken identity carries real jealousy and romantic stakes underneath the farce
+    humor: 4
+    acclaim: 0.82
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: swing-time
+  tmdb_id: null
+  title: Swing Time
+  year: 1936
+  runtime: 103
+  director: George Stevens
+  tags:
+    opacity: 2 # a mistaken-identity engagement subplot keeps real romantic uncertainty in play
+    stillness: 2
+    bleakness: 3 # a genuinely bittersweet, melancholic undertone runs through the final act before the resolution
+    humor: 3
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

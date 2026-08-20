@@ -13,7 +13,7 @@
     stillness: 2
     bleakness: 4
     humor: 2
-    acclaim: 0.70
+    acclaim: 0.83
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
 
 - id: you-were-never-lovelier
@@ -22,5 +22,5 @@
   year: 1942
   runtime: 97
   director: William A. Seiter
-  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.78 }
+  tags: { opacity: 2, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.88 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

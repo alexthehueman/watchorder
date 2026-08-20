@@ -1,0 +1,38 @@
+slug: fred-astaire
+kind: actor
+name: Fred Astaire
+blurb: An effortlessly precise, elegant physicality that defined the Hollywood musical, built across a run of iconic dance partnerships.
+
+films:
+  - film: top-hat
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: A dancer whose late-night tap routine sets off a case of mistaken identity, playing breezy, effortless charm.
+
+  - film: swing-time
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: warm
+    gateway: 5
+    note: A gambler-turned-dancer falling for his instructor while secretly engaged elsewhere, playing tender, guilty devotion.
+
+  - film: you-were-never-lovelier
+    signature: 2
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 5
+    note: A bandleader drawn into a family's elaborate matchmaking scheme, playing courtly, understated pursuit.
+
+curated:
+  curator: house
+  rationale: The most iconic partnership first, then its most acclaimed entry, then the later pairing with a different partner.
+  order:
+    - top-hat
+    - swing-time
+    - you-were-never-lovelier

@@ -1,0 +1,17 @@
+# New films for Gene Kelly. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Singin' in the Rain and An American in Paris already exist in mgm.yaml — tagged before he had an entity.
+
+- id: on-the-town
+  tmdb_id: null
+  title: On the Town
+  year: 1949
+  runtime: 98
+  director: Gene Kelly
+  tags:
+    opacity: 2 # whether the sailors' 24-hour romances will actually last past their shore leave stays genuinely uncertain
+    stillness: 3
+    bleakness: 2
+    humor: 4
+    acclaim: 0.78
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
