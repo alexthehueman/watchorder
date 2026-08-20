@@ -1,0 +1,47 @@
+slug: ellen-burstyn
+kind: actor
+name: Ellen Burstyn
+blurb: A raw, unguarded intensity that carried some of the 70s' most acclaimed dramas, from a mother facing the unimaginable to a widow chasing a second life.
+
+films:
+  - film: the-exorcist
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A mother holding herself together as her daughter's condition defies explanation, playing controlled, unraveling desperation.
+
+  - film: requiem-for-a-dream
+    signature: 5
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 1
+    note: A lonely widow's amphetamine addiction spiraling into full psychological collapse, playing devastating, hallucinatory breakdown.
+
+  - film: alice-doesnt-live-here-anymore
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: warm
+    gateway: 3
+    note: A newly widowed woman chasing independence and a fresh start with her son, playing scrappy, hard-won hope.
+
+  - film: same-time-next-year
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 3
+    note: One half of a decades-spanning yearly affair, playing warm, witty self-awareness about their own arrangement.
+
+curated:
+  curator: house
+  rationale: The most iconic role first, then the most acclaimed performance, then the range of resilience around both.
+  order:
+    - the-exorcist
+    - requiem-for-a-dream
+    - alice-doesnt-live-here-anymore
+    - same-time-next-year

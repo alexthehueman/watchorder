@@ -1,0 +1,47 @@
+# New films for Richard Pryor. Scales and anchors are in README.md ("The anchor rubric").
+
+- id: silver-streak
+  tmdb_id: null
+  title: Silver Streak
+  year: 1976
+  runtime: 114
+  director: Arthur Hiller
+  tags:
+    opacity: 2 # the conspiracy tangled up in the murder aboard the train stays genuinely uncertain for a long stretch
+    stillness: 1
+    bleakness: 2
+    humor: 4
+    acclaim: 0.68
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: stir-crazy
+  tmdb_id: null
+  title: Stir Crazy
+  year: 1980
+  runtime: 111
+  director: Sidney Poitier
+  tags:
+    opacity: 2 # whether their disguise-heavy escape plan will actually hold carries real, unresolved tension
+    stillness: 2
+    bleakness: 3
+    humor: 4
+    acclaim: 0.65
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: harlem-nights
+  tmdb_id: null
+  title: Harlem Nights
+  year: 1989
+  runtime: 116
+  director: Eddie Murphy
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: brewsters-millions
+  tmdb_id: null
+  title: Brewster's Millions
+  year: 1985
+  runtime: 102
+  director: Walter Hill
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.60 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

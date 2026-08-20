@@ -1,0 +1,47 @@
+slug: james-earl-jones
+kind: actor
+name: James Earl Jones
+blurb: A voice of towering, unmistakable authority — the most famous villain in film history, and a warm, commanding presence in everything else.
+
+films:
+  - film: star-wars-a-new-hope
+    signature: 5
+    must_see: true
+    showcase: 3
+    role_size: supporting
+    register: menacing
+    gateway: 5
+    note: The voice of a masked enforcer choking dissent out of his own officers, playing pure, imposing menace.
+
+  - film: field-of-dreams
+    signature: 4
+    showcase: 4
+    role_size: supporting
+    register: warm
+    gateway: 3
+    note: A reclusive writer rediscovering wonder he'd stopped believing in, playing gentle, rekindled faith.
+
+  - film: coming-to-america
+    signature: 3
+    showcase: 4
+    role_size: supporting
+    register: comic
+    gateway: 4
+    note: A regal, imperious African king exasperated by his son's rebellion, playing booming comic pomposity.
+
+  - film: the-hunt-for-red-october
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: restrained
+    gateway: 3
+    note: A composed CIA analyst piecing together what a defecting submarine captain is really doing, playing measured, deliberate authority.
+
+curated:
+  curator: house
+  rationale: The most iconic voice performance first, then the range of warmth and command around it.
+  order:
+    - star-wars-a-new-hope
+    - field-of-dreams
+    - coming-to-america
+    - the-hunt-for-red-october

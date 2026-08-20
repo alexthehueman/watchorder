@@ -1,0 +1,35 @@
+# New films for Ellen Burstyn. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Exorcist already exists in von-sydow.yaml — tagged before she had an entity.
+
+- id: requiem-for-a-dream
+  tmdb_id: null
+  title: Requiem for a Dream
+  year: 2000
+  runtime: 102
+  director: Darren Aronofsky
+  tags:
+    opacity: 2 # whether her hallucinatory decline is really happening or a drug-fueled break from reality blurs further as it goes
+    stillness: 2
+    bleakness: 5
+    humor: 1
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: alice-doesnt-live-here-anymore
+  tmdb_id: null
+  title: Alice Doesn't Live Here Anymore
+  year: 1974
+  runtime: 112
+  director: Martin Scorsese
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: same-time-next-year
+  tmdb_id: null
+  title: Same Time, Next Year
+  year: 1978
+  runtime: 119
+  director: Robert Mulligan
+  tags: { opacity: 1, stillness: 3, bleakness: 2, humor: 3, acclaim: 0.62 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
