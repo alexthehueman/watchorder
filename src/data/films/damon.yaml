@@ -1,0 +1,61 @@
+# New films for Matt Damon. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Talented Mr. Ripley already exists in blanchett.yaml — tagged before he had an entity. The
+# Departed already exists in scorsese.yaml — tagged before he had an entity. Ocean's Eleven
+# already exists in pitt.yaml — tagged before he had an entity. Saving Private Ryan already
+# exists in spielberg.yaml — tagged before he had an entity.
+
+- id: good-will-hunting
+  tmdb_id: null
+  title: Good Will Hunting
+  year: 1997
+  runtime: 126
+  director: Gus Van Sant
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-bourne-identity
+  tmdb_id: null
+  title: The Bourne Identity
+  year: 2002
+  runtime: 119
+  director: Doug Liman
+  tags:
+    opacity: 3 # a spy who doesn't know who he is, and neither, structurally, does the audience
+    stillness: 1
+    bleakness: 3
+    humor: 1
+    acclaim: 0.78
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-martian
+  tmdb_id: null
+  title: The Martian
+  year: 2015
+  runtime: 144
+  director: Ridley Scott
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 4, acclaim: 0.82 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: contagion
+  tmdb_id: null
+  title: Contagion
+  year: 2011
+  runtime: 106
+  director: Steven Soderbergh
+  tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 0 }
+
+- id: the-informant
+  tmdb_id: null
+  title: The Informant!
+  year: 2009
+  runtime: 108
+  director: Steven Soderbergh
+  tags:
+    opacity: 3 # an unreliable narrator whose version of events the film only gradually stops trusting
+    stillness: 2
+    bleakness: 2
+    humor: 4
+    acclaim: 0.68
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

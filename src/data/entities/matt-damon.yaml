@@ -1,0 +1,93 @@
+slug: matt-damon
+kind: actor
+name: Matt Damon
+blurb: An open, trustworthy face put to work again and again as a mask — for a genius, a con man, a spy who's forgotten who he is, or just a movie star having fun with how likable he seems.
+
+films:
+  - film: good-will-hunting
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 5
+    note: A janitor and unrecognized genius resisting every hand held out to him, in the script he co-wrote that made him a star.
+
+  - film: the-talented-mr-ripley
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 3
+    note: A social chameleon whose envy of a wealthy acquaintance's life curdles into something much further than envy.
+
+  - film: the-departed
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: menacing
+    gateway: 4
+    note: A mole planted inside the Massachusetts State Police by organized crime, playing charm as camouflage for something rotten underneath.
+
+  - film: the-bourne-identity
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: An amnesiac assassin reconstructing his own identity one lethal reflex at a time.
+
+  - film: saving-private-ryan
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: warm
+    gateway: 3
+    note: The soldier a squad is sent behind enemy lines to retrieve, mostly absent until the film's final act makes the mission's cost explicit.
+
+  - film: the-martian
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: An astronaut stranded alone on Mars, narrating his own survival with a wisecracking optimism the film never lets curdle into denial.
+
+  - film: contagion
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: restrained
+    gateway: 4
+    note: A husband immune to the virus killing everyone around him, trying to protect his daughter through a pandemic told mostly from the ground up.
+
+  - film: the-informant
+    signature: 2
+    showcase: 4
+    role_size: lead
+    register: comic
+    gateway: 3
+    note: A corporate whistleblower whose internal narration is so confidently, cheerfully wrong that the film becomes a comedy about self-deception.
+
+  - film: oceans-eleven
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 5
+    note: The junior member of an eleven-man casino heist crew, mostly there to be teased by everyone with more experience than him.
+
+curated:
+  curator: house
+  rationale: The two performances that made his name first, then the range on both sides of them.
+  order:
+    - good-will-hunting
+    - oceans-eleven
+    - the-martian
+    - the-informant
+    - the-bourne-identity
+    - saving-private-ryan
+    - contagion
+    - the-departed
+    - the-talented-mr-ripley

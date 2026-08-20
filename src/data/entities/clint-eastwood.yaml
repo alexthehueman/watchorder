@@ -1,0 +1,93 @@
+slug: clint-eastwood
+kind: actor
+name: Clint Eastwood
+blurb: Built a screen persona on total self-possession, then spent his later films — many of which he directed himself — quietly interrogating what that persona cost the men who lived it.
+
+films:
+  - film: unforgiven
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A retired gunslinger pulled back for one last job, in a film he also directed specifically to dismantle the myth he'd spent decades building.
+
+  - film: dirty-harry
+    signature: 5
+    must_see: true
+    showcase: 4
+    role_size: lead
+    register: menacing
+    gateway: 5
+    note: A San Francisco cop hunting a serial killer with a .44 Magnum and no patience for procedure. The role that defined the persona for a generation.
+
+  - film: play-misty-for-me
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: menacing
+    gateway: 3
+    note: A late-night radio DJ stalked by a one-night stand who won't accept it was only one night. His feature directing debut.
+
+  - film: escape-from-alcatraz
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: A prisoner engineering the only escape ever attempted from Alcatraz, playing the plan almost entirely through patience and silence.
+
+  - film: the-good-the-bad-and-the-ugly
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 5
+    note: The nameless bounty hunter of Leone's Dollars trilogy, playing stillness itself as a weapon across a three-way standoff.
+
+  - film: million-dollar-baby
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: An aging boxing trainer who takes on a female fighter he doesn't want, in a film he also directed toward an ending few saw coming.
+
+  - film: gran-torino
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: menacing
+    gateway: 4
+    note: A bigoted, widowed Korean War vet forced into an unlikely bond with his immigrant neighbors, directed by Eastwood as a direct reckoning with his own screen legacy.
+
+  - film: in-the-line-of-fire
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: A veteran Secret Service agent still haunted by failing to stop JFK's assassination, now stalked by an assassin who knows it.
+
+  - film: the-mule
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: warm
+    gateway: 3
+    note: An elderly, broke horticulturist who starts running drugs for a cartel, playing the role as an old man's late, wry reckoning with his own family.
+
+curated:
+  curator: house
+  rationale: The two performances that define and then dismantle the persona first, then everywhere else it shows up.
+  order:
+    - dirty-harry
+    - play-misty-for-me
+    - escape-from-alcatraz
+    - the-good-the-bad-and-the-ugly
+    - in-the-line-of-fire
+    - unforgiven
+    - gran-torino
+    - million-dollar-baby
+    - the-mule

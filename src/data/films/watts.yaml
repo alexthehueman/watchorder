@@ -1,0 +1,61 @@
+# New films for Naomi Watts. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Mulholland Drive already exists in lynch.yaml (her breakout role) — tagged before she had an
+# entity. Birdman already exists in norton.yaml — tagged before she had an entity. Eastern
+# Promises already exists in cronenberg.yaml — tagged before she had an entity.
+
+- id: the-ring
+  tmdb_id: null
+  title: The Ring
+  year: 2002
+  runtime: 115
+  director: Gore Verbinski
+  tags:
+    opacity: 3 # a cursed videotape whose rules the film reveals only as its journalist protagonist does
+    stillness: 2
+    bleakness: 4
+    humor: 1
+    acclaim: 0.68
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
+
+- id: 21-grams
+  tmdb_id: null
+  title: 21 Grams
+  year: 2003
+  runtime: 124
+  director: Alejandro G. Inarritu
+  tags:
+    opacity: 3 # told out of chronological order, withholding how the three lives connect until late
+    stillness: 3
+    bleakness: 5
+    humor: 1
+    acclaim: 0.78
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+
+- id: king-kong-2005
+  tmdb_id: null
+  title: King Kong
+  year: 2005
+  runtime: 187
+  director: Peter Jackson
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: fair-game
+  tmdb_id: null
+  title: Fair Game
+  year: 2010
+  runtime: 108
+  director: Doug Liman
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-impossible
+  tmdb_id: null
+  title: The Impossible
+  year: 2012
+  runtime: 114
+  director: Juan Antonio Bayona
+  tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+

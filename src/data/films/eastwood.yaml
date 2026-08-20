@@ -1,0 +1,66 @@
+# New films for Clint Eastwood (as actor). Scales and anchors are in README.md ("The anchor
+# rubric").
+#
+# Unforgiven already exists in hackman.yaml (he also directed it) — tagged before he had an
+# actor entity. In the Line of Fire already exists in malkovich.yaml — tagged before he had an
+# actor entity. Million Dollar Baby already exists in morgan-freeman.yaml (he also directed it)
+# — tagged before he had an actor entity.
+
+- id: dirty-harry
+  tmdb_id: null
+  title: Dirty Harry
+  year: 1971
+  runtime: 102
+  director: Don Siegel
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.82 }
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: play-misty-for-me
+  tmdb_id: null
+  title: Play Misty for Me
+  year: 1971
+  runtime: 102
+  director: Clint Eastwood
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: escape-from-alcatraz
+  tmdb_id: null
+  title: Escape from Alcatraz
+  year: 1979
+  runtime: 112
+  director: Don Siegel
+  tags:
+    opacity: 2 # ends on a genuinely unresolved historical mystery — did they survive the swim
+    stillness: 3
+    bleakness: 3
+    humor: 1
+    acclaim: 0.78
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-good-the-bad-and-the-ugly
+  tmdb_id: null
+  title: The Good the Bad and the Ugly
+  year: 1966
+  runtime: 178
+  director: Sergio Leone
+  tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 2, acclaim: 0.9 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: gran-torino
+  tmdb_id: null
+  title: Gran Torino
+  year: 2008
+  runtime: 116
+  director: Clint Eastwood
+  tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 2, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-mule
+  tmdb_id: null
+  title: The Mule
+  year: 2018
+  runtime: 116
+  director: Clint Eastwood
+  tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 2, acclaim: 0.62 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
