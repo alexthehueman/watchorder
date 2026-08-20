@@ -1,0 +1,47 @@
+slug: robert-duvall
+kind: actor
+name: Robert Duvall
+blurb: A quietly commanding, deeply controlled presence — the calm at the center of two of cinema's most acclaimed sagas, and one of its most reckless supporting turns.
+
+films:
+  - film: the-godfather
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: supporting
+    register: restrained
+    gateway: 5
+    note: A calm, calculating family lawyer navigating violence with cool professionalism, playing controlled, unshowy authority.
+
+  - film: the-godfather-part-ii
+    signature: 4
+    showcase: 4
+    role_size: supporting
+    register: restrained
+    gateway: 5
+    note: The same consigliere now watching the family he serves hollow out from within, playing weary, loyal disillusionment.
+
+  - film: apocalypse-now
+    signature: 3
+    showcase: 5
+    role_size: supporting
+    register: unhinged
+    gateway: 5
+    note: A gleefully reckless cavalry commander who loves the smell of napalm in the morning, playing gung-ho, oblivious mania.
+
+  - film: to-kill-a-mockingbird
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: warm
+    gateway: 5
+    note: A nearly wordless film debut as the mysterious neighbor Boo Radley, playing shy, protective tenderness.
+
+curated:
+  curator: house
+  rationale: The most iconic role first, then its sequel, then the range of control and chaos around both.
+  order:
+    - the-godfather
+    - the-godfather-part-ii
+    - apocalypse-now
+    - to-kill-a-mockingbird

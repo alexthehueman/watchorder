@@ -1,0 +1,18 @@
+# New films for James Dean. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Rebel Without a Cause already exists in natalie-wood.yaml — tagged before he had an entity.
+# Giant already exists in taylor.yaml.
+
+- id: east-of-eden
+  tmdb_id: null
+  title: East of Eden
+  year: 1955
+  runtime: 118
+  director: Elia Kazan
+  tags:
+    opacity: 2 # whether his self-destructive behavior is genuine cruelty or just desperate, unmet need for love stays somewhat ambiguous
+    stillness: 3
+    bleakness: 4
+    humor: 1
+    acclaim: 0.88
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }

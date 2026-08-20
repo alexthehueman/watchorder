@@ -1,0 +1,47 @@
+slug: vincent-price
+kind: actor
+name: Vincent Price
+blurb: A rich, theatrical voice and unmistakable relish for the macabre that defined a whole genre of gothic horror camp.
+
+films:
+  - film: the-abominable-dr-phibes
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 5
+    note: A grotesquely theatrical, vengeful killer working through a biblical-plague revenge plot, playing gleeful, operatic menace.
+
+  - film: theatre-of-blood
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: A scorned actor murdering his critics via Shakespearean death scenes, playing gleeful, hammy revenge.
+
+  - film: house-of-wax
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: menacing
+    gateway: 3
+    note: A disfigured sculptor preserving his victims in wax, playing controlled, chilling obsession.
+
+  - film: the-fly-1958
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: restrained
+    gateway: 2
+    note: A horrified brother trying to help before it's too late, playing controlled, mounting dread.
+
+curated:
+  curator: house
+  rationale: The most iconic role first, then the campiest highlight, then the range of horror around both.
+  order:
+    - the-abominable-dr-phibes
+    - theatre-of-blood
+    - house-of-wax
+    - the-fly-1958
