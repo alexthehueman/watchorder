@@ -1,0 +1,84 @@
+slug: woody-harrelson
+kind: actor
+name: Woody Harrelson
+blurb: A sunny, drawling likability that keeps working even when the character underneath it is a serial killer, a corrupt cop, or a media provocateur nobody's supposed to root for.
+
+films:
+  - film: natural-born-killers
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 2
+    note: One half of a spree-killing couple turned media sensation, playing charisma and violence as the same American product.
+
+  - film: no-country-for-old-men
+    signature: 5
+    must_see: true
+    showcase: 4
+    role_size: supporting
+    register: restrained
+    gateway: 4
+    note: A confident bounty hunter hired to track down a killer he badly underestimates, playing overconfidence as its own kind of doom.
+
+  - film: three-billboards-outside-ebbing-missouri
+    signature: 4
+    showcase: 4
+    role_size: supporting
+    register: warm
+    gateway: 4
+    note: A small-town police chief targeted by a grieving mother's public billboards, playing decency under a terminal diagnosis with real, understated grace.
+
+  - film: the-people-vs-larry-flynt
+    signature: 3
+    showcase: 5
+    role_size: lead
+    register: comic
+    gateway: 3
+    note: Pornographer-turned-free-speech-crusader Larry Flynt, playing vulgarity and genuine principle as the same unbothered conviction.
+
+  - film: zombieland
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: A zombie-apocalypse survivor with a singular, escalating obsession with finding a Twinkie, playing chaos as pure comic relief.
+
+  - film: war-for-the-planet-of-the-apes
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: menacing
+    gateway: 4
+    note: A ruthless human colonel waging a genocidal campaign against a sentient ape colony, playing zealotry as the film's genuine horror.
+
+  - film: seven-psychopaths
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: unhinged
+    gateway: 3
+    note: A gangster whose beloved kidnapped dog sends him on an escalating rampage through a screenwriter's own would-be movie plot.
+
+  - film: the-hunger-games
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: comic
+    gateway: 4
+    note: A washed-up former champion turned reluctant mentor, playing burnout as gallows humor for two doomed teenage tributes.
+
+curated:
+  curator: house
+  rationale: The two performances that show the range of the sunny likability first, then everywhere else it's spent.
+  order:
+    - zombieland
+    - the-hunger-games
+    - the-people-vs-larry-flynt
+    - war-for-the-planet-of-the-apes
+    - seven-psychopaths
+    - three-billboards-outside-ebbing-missouri
+    - no-country-for-old-men
+    - natural-born-killers

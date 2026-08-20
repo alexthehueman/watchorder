@@ -1,0 +1,71 @@
+# New films for Matthew McConaughey. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Wolf of Wall Street already exists in scorsese.yaml — tagged before he had an entity.
+
+- id: dazed-and-confused
+  tmdb_id: null
+  title: Dazed and Confused
+  year: 1993
+  runtime: 102
+  director: Richard Linklater
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 4, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: dallas-buyers-club
+  tmdb_id: null
+  title: Dallas Buyers Club
+  year: 2013
+  runtime: 117
+  director: Jean-Marc Vallee
+  tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 2, acclaim: 0.82 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: magic-mike
+  tmdb_id: null
+  title: Magic Mike
+  year: 2012
+  runtime: 110
+  director: Steven Soderbergh
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+
+- id: the-lincoln-lawyer
+  tmdb_id: null
+  title: The Lincoln Lawyer
+  year: 2011
+  runtime: 118
+  director: Brad Furman
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: killer-joe
+  tmdb_id: null
+  title: Killer Joe
+  year: 2011
+  runtime: 102
+  director: William Friedkin
+  tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 2, acclaim: 0.68 }
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+
+- id: mud
+  tmdb_id: null
+  title: Mud
+  year: 2012
+  runtime: 130
+  director: Jeff Nichols
+  tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.8 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: interstellar
+  tmdb_id: null
+  title: Interstellar
+  year: 2014
+  runtime: 169
+  director: Christopher Nolan
+  tags:
+    opacity: 3 # a fifth-dimensional resolution the film only lets you piece together after the fact
+    stillness: 2
+    bleakness: 4
+    humor: 1
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
