@@ -1,0 +1,93 @@
+slug: liam-neeson
+kind: actor
+name: Liam Neeson
+blurb: A weathered, authoritative gravity that carried prestige drama for two decades before an unexpected second act turned the same gravity into an action-thriller anchor.
+
+films:
+  - film: schindlers-list
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A profiteering businessman gradually risking everything to save the Jewish workers in his factories, playing quiet, accumulating moral weight.
+
+  - film: taken
+    signature: 5
+    must_see: true
+    showcase: 3
+    role_size: lead
+    register: menacing
+    gateway: 5
+    note: A retired covert operative hunting down the traffickers who kidnapped his daughter, playing cold, methodical authority as pure threat.
+
+  - film: batman-begins
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: menacing
+    gateway: 4
+    note: A mentor whose training conceals a far more extreme agenda, playing warm authority curdling into fanaticism once his true aims surface.
+
+  - film: kinsey
+    signature: 2
+    showcase: 4
+    role_size: lead
+    register: warm
+    gateway: 2
+    note: A pioneering sex researcher whose scientific crusade slowly overtakes his personal life, playing earnest curiosity that never quite admits its own cost.
+
+  - film: the-grey
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: unhinged
+    gateway: 2
+    note: A plane-crash survivor leading a dwindling group against a wolf pack in the Alaskan wilderness, playing hard-earned, weary resolve with nowhere left to hide it.
+
+  - film: non-stop
+    signature: 2
+    showcase: 2
+    role_size: lead
+    register: unhinged
+    gateway: 4
+    note: An air marshal accused of hijacking his own flight, playing controlled, increasingly cornered authority as the accusations mount.
+
+  - film: love-actually
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: warm
+    gateway: 4
+    note: A newly widowed stepfather helping his young son chase his first crush, playing gentle, grounded warmth within a large ensemble.
+
+  - film: the-lego-movie
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 4
+    note: A dual-personality police officer voicing broad, cartoonish comic menace with none of the usual gravity.
+
+  - film: star-wars-episode-i-the-phantom-menace
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: restrained
+    gateway: 3
+    note: A serene Jedi Master guiding a fragile peace negotiation toward war, playing calm, measured authority within a large ensemble.
+
+curated:
+  curator: house
+  rationale: The role that defined his prestige-drama gravity first, then the same gravity carried into the action-thriller second act.
+  order:
+    - schindlers-list
+    - kinsey
+    - the-grey
+    - batman-begins
+    - non-stop
+    - taken
+    - love-actually
+    - the-lego-movie
+    - star-wars-episode-i-the-phantom-menace

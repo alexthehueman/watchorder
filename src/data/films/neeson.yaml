@@ -1,0 +1,48 @@
+# New films for Liam Neeson. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Schindler's List already exists in spielberg.yaml — tagged before he had an entity. Batman
+# Begins already exists in bale.yaml. Non-Stop already exists in nyongo.yaml. Star Wars Episode
+# I already exists in portman.yaml. Love Actually already exists in thompson.yaml. The Lego
+# Movie already exists in pratt.yaml.
+
+- id: taken
+  tmdb_id: null
+  title: Taken
+  year: 2008
+  runtime: 93
+  director: Pierre Morel
+  tags:
+    opacity: 2 # how far he's willing to go, and whether any of it was avoidable, stays an open question until the credits
+    stillness: 1
+    bleakness: 3 # the trafficking ring underneath the rescue-thriller plotting is played with real, ugly menace
+    humor: 1
+    acclaim: 0.62
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: kinsey
+  tmdb_id: null
+  title: Kinsey
+  year: 2004
+  runtime: 118
+  director: Bill Condon
+  tags:
+    opacity: 3 # how much of his own crusade is genuine science and how much is personal compulsion stays genuinely unresolved
+    stillness: 4
+    bleakness: 3
+    humor: 2
+    acclaim: 0.62
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+
+- id: the-grey
+  tmdb_id: null
+  title: The Grey
+  year: 2011
+  runtime: 117
+  director: Joe Carnahan
+  tags:
+    opacity: 2 # whether survival is even the point, given where the film chooses to end, stays genuinely ambiguous
+    stillness: 3
+    bleakness: 5 # a bleak, one-by-one wilderness attrition with almost no one left standing by the end
+    humor: 1
+    acclaim: 0.65
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 0 }

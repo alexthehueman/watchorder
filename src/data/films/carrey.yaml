@@ -1,0 +1,106 @@
+# New films for Jim Carrey. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Eternal Sunshine of the Spotless Mind already exists in winslet.yaml — tagged before he had
+# an entity.
+
+- id: ace-ventura
+  tmdb_id: null
+  title: Ace Ventura - Pet Detective
+  year: 1994
+  runtime: 86
+  director: Tom Shadyac
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 5, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: dumb-and-dumber
+  tmdb_id: null
+  title: Dumb and Dumber
+  year: 1994
+  runtime: 107
+  director: Peter Farrelly
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 5, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: the-mask
+  tmdb_id: null
+  title: The Mask
+  year: 1994
+  runtime: 101
+  director: Chuck Russell
+  tags:
+    opacity: 2 # whether the mask is externally magical or just an eruption of his own repressed persona stays genuinely ambiguous
+    stillness: 1
+    bleakness: 1
+    humor: 4
+    acclaim: 0.58
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: liar-liar
+  tmdb_id: null
+  title: Liar Liar
+  year: 1997
+  runtime: 86
+  director: Tom Shadyac
+  tags:
+    opacity: 1
+    stillness: 1
+    bleakness: 2 # a strained relationship with his son and a real risk of losing him give the compulsion premise actual stakes
+    humor: 5
+    acclaim: 0.62
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-cable-guy
+  tmdb_id: null
+  title: The Cable Guy
+  year: 1996
+  runtime: 96
+  director: Ben Stiller
+  tags:
+    opacity: 2 # whether he's just desperately lonely or genuinely dangerous stays deliberately unresolved for most of the film
+    stillness: 2
+    bleakness: 3 # the stalking escalates into something the film plays as genuinely unsettling, not just farcical
+    humor: 3
+    acclaim: 0.56
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-truman-show
+  tmdb_id: null
+  title: The Truman Show
+  year: 1998
+  runtime: 103
+  director: Peter Weir
+  tags:
+    opacity: 3 # the full scope of the deception, and how far the network will go to keep him inside it, unfolds gradually
+    stillness: 3
+    bleakness: 3
+    humor: 2
+    acclaim: 0.90
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-number-23
+  tmdb_id: null
+  title: The Number 23
+  year: 2007
+  runtime: 95
+  director: Joel Schumacher
+  tags:
+    opacity: 4 # how much of the numerological spiral is real and how much is his own unraveling stays genuinely unclear
+    stillness: 3
+    bleakness: 4
+    humor: 1
+    acclaim: 0.35
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: man-on-the-moon
+  tmdb_id: null
+  title: Man on the Moon
+  year: 1999
+  runtime: 118
+  director: Milos Forman
+  tags:
+    opacity: 4 # whether any of it, including the death, was ever really a bit stays deliberately unresolved
+    stillness: 3
+    bleakness: 4
+    humor: 3
+    acclaim: 0.68
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

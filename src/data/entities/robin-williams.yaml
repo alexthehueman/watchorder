@@ -1,0 +1,84 @@
+slug: robin-williams
+kind: actor
+name: Robin Williams
+blurb: A manic, improvisational comic energy stretched, again and again, over a real vein of loneliness and yearning underneath the jokes.
+
+films:
+  - film: mrs-doubtfire
+    signature: 5
+    must_see: true
+    showcase: 4
+    role_size: lead
+    register: warm
+    gateway: 5
+    note: A divorced father disguising himself as an elderly nanny to stay close to his kids, playing improvisational comic invention in service of real, aching devotion.
+
+  - film: good-will-hunting
+    signature: 4
+    must_see: true
+    showcase: 5
+    role_size: supporting
+    register: restrained
+    gateway: 2
+    note: A grieving therapist gently working past a genius janitor's defenses, playing quiet, hard-won wisdom with almost none of the manic energy on display.
+
+  - film: dead-poets-society
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: warm
+    gateway: 3
+    note: An unconventional English teacher pushing his students toward genuine self-expression, playing infectious enthusiasm that curdles into real tragedy.
+
+  - film: good-morning-vietnam
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: comic
+    gateway: 3
+    note: An irreverent armed forces radio DJ clashing with military brass as the war closes in, playing improvisational riffing that keeps outrunning the truth around him.
+
+  - film: aladdin
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: comic
+    gateway: 5
+    note: A shape-shifting, wisecracking genie voicing pure improvisational chaos at the center of an animated fairy tale.
+
+  - film: the-fisher-king
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: unhinged
+    gateway: 2
+    note: A homeless man chasing a delusional grail quest after a personal tragedy, playing genuine derangement the film refuses to fully separate from real redemption.
+
+  - film: one-hour-photo
+    signature: 3
+    showcase: 5
+    role_size: lead
+    register: menacing
+    gateway: 1
+    note: A lonely photo technician whose fixation on a family he develops photos for tips into genuine obsession, playing quiet menace with none of the usual warmth.
+
+  - film: jumanji
+    signature: 2
+    showcase: 2
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: A man returning as an adult after decades trapped inside a magical board game, playing haunted, guarded unease underneath the family-adventure plotting.
+
+curated:
+  curator: house
+  rationale: The performance that fuses the manic warmth and the real ache most completely first, then the range in both directions from there.
+  order:
+    - mrs-doubtfire
+    - dead-poets-society
+    - good-will-hunting
+    - good-morning-vietnam
+    - jumanji
+    - aladdin
+    - the-fisher-king
+    - one-hour-photo

@@ -1,0 +1,93 @@
+slug: jim-carrey
+kind: actor
+name: Jim Carrey
+blurb: A rubber-faced, full-body physical comedy that occasionally turns the same manic commitment toward something genuinely unsettling.
+
+films:
+  - film: dumb-and-dumber
+    signature: 5
+    must_see: true
+    showcase: 4
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: A dim-witted limo driver chasing a woman across the country with his equally dim-witted best friend, playing pure, unfiltered physical comedy.
+
+  - film: the-cable-guy
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: menacing
+    gateway: 2
+    note: A lonely, controlling cable installer inserting himself into a new friend's life, playing manic charm curdling into something genuinely unsettling.
+
+  - film: the-truman-show
+    signature: 4
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A man slowly realizing his entire life has been staged for a hit television show, playing dawning unease and quiet desperation almost entirely straight.
+
+  - film: ace-ventura
+    signature: 4
+    showcase: 3
+    role_size: lead
+    register: unhinged
+    gateway: 4
+    note: An eccentric pet detective investigating the Miami Dolphins' mascot kidnapping, playing total, gleeful physical abandon.
+
+  - film: liar-liar
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 4
+    note: A lawyer magically compelled to tell the truth for twenty-four hours, playing escalating comic panic against a real risk of losing his son.
+
+  - film: the-mask
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: unhinged
+    gateway: 4
+    note: A mild bank clerk transformed by a magic mask into a cartoonish, unstoppable id, playing manic physical performance with almost no restraint left.
+
+  - film: the-number-23
+    signature: 1
+    showcase: 4
+    role_size: lead
+    register: unhinged
+    gateway: 1
+    note: A dog catcher spiraling into a numerological obsession that seems to be rewriting his own past, playing paranoid unraveling completely straight.
+
+  - film: man-on-the-moon
+    signature: 2
+    showcase: 5
+    role_size: lead
+    register: menacing
+    gateway: 1
+    note: A biopic of Andy Kaufman, whose comedy blurred into deliberately confrontational performance art, playing commitment so total it stops reading as a joke at all.
+
+  - film: eternal-sunshine-of-the-spotless-mind
+    signature: 2
+    showcase: 5
+    role_size: lead
+    register: warm
+    gateway: 2
+    note: A heartbroken man erasing a failed relationship from his memory only to fight to keep it, playing aching, sincere longing with none of the usual mania.
+
+curated:
+  curator: house
+  rationale: The role that made the physical-comedy persona first, then the same total commitment turned progressively stranger and quieter.
+  order:
+    - dumb-and-dumber
+    - ace-ventura
+    - the-mask
+    - liar-liar
+    - the-cable-guy
+    - the-truman-show
+    - eternal-sunshine-of-the-spotless-mind
+    - the-number-23
+    - man-on-the-moon
