@@ -1,0 +1,35 @@
+# New films for Hailee Steinfeld. Scales and anchors are in README.md ("The anchor rubric").
+#
+# True Grit already exists in bridges.yaml — tagged before she had an entity.
+
+- id: bumblebee
+  tmdb_id: null
+  title: Bumblebee
+  year: 2018
+  runtime: 114
+  director: Travis Knight
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-edge-of-seventeen
+  tmdb_id: null
+  title: The Edge of Seventeen
+  year: 2016
+  runtime: 104
+  director: Kelly Fremon Craig
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.82 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: spider-man-into-the-spider-verse
+  tmdb_id: null
+  title: Spider-Man Into the Spider-Verse
+  year: 2018
+  runtime: 117
+  director: Bob Persichetti
+  tags:
+    opacity: 2 # a multiverse structure the film trusts the audience to piece together without much hand-holding
+    stillness: 1
+    bleakness: 2
+    humor: 3
+    acclaim: 0.92
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }

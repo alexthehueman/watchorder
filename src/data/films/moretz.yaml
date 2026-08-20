@@ -1,0 +1,42 @@
+# New films for Chloë Grace Moretz. Scales and anchors are in README.md ("The anchor rubric").
+
+- id: kick-ass
+  tmdb_id: null
+  title: Kick-Ass
+  year: 2010
+  runtime: 117
+  director: Matthew Vaughn
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 4, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
+
+- id: let-me-in
+  tmdb_id: null
+  title: Let Me In
+  year: 2010
+  runtime: 116
+  director: Matt Reeves
+  tags:
+    opacity: 3 # what she actually is, and what that means for the boy who loves her, stays genuinely unresolved
+    stillness: 3
+    bleakness: 5
+    humor: 1
+    acclaim: 0.78
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+
+- id: hugo
+  tmdb_id: null
+  title: Hugo
+  year: 2011
+  runtime: 126
+  director: Martin Scorsese
+  tags: { opacity: 1, stillness: 3, bleakness: 2, humor: 2, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: carrie-2013
+  tmdb_id: null
+  title: Carrie
+  year: 2013
+  runtime: 100
+  director: Kimberly Peirce
+  tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 0 }

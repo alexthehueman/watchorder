@@ -1,0 +1,14 @@
+# New films for Dakota Fanning. Scales and anchors are in README.md ("The anchor rubric").
+#
+# War of the Worlds already exists in spielberg.yaml — tagged before she had an entity. Man on
+# Fire already exists in washington.yaml — tagged before she had an entity. Once Upon a Time in
+# Hollywood already exists in tarantino.yaml — tagged before she had an entity.
+
+- id: the-runaways
+  tmdb_id: null
+  title: The Runaways
+  year: 2010
+  runtime: 106
+  director: Floria Sigismondi
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.62 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
