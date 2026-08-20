@@ -1,0 +1,28 @@
+# New films for Tina Fey. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Mean Girls already exists in mcadams.yaml — tagged before she had an entity. Sisters already
+# exists in poehler.yaml — tagged before she had an entity. Baby Mama already exists in
+# poehler.yaml (a genuine dual lead) — tagged before she had an entity.
+
+- id: whiskey-tango-foxtrot
+  tmdb_id: null
+  title: Whiskey Tango Foxtrot
+  year: 2016
+  runtime: 112
+  director: Glenn Ficarra
+  tags:
+    opacity: 2 # who she can actually trust among fixers, soldiers, and rival journalists stays genuinely unclear
+    stillness: 2
+    bleakness: 4
+    humor: 3
+    acclaim: 0.58
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: date-night
+  tmdb_id: null
+  title: Date Night
+  year: 2010
+  runtime: 88
+  director: Shawn Levy
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }

@@ -1,0 +1,41 @@
+# New films for Amy Poehler. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Mean Girls already exists in mcadams.yaml — tagged before she had an entity. Inside Out already
+# exists in pixar.yaml — tagged before she had an entity.
+
+- id: sisters-2015
+  tmdb_id: null
+  title: Sisters
+  year: 2015
+  runtime: 118
+  director: Jason Moore
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: wine-country
+  tmdb_id: null
+  title: Wine Country
+  year: 2019
+  runtime: 103
+  director: Amy Poehler
+  tags:
+    opacity: 2 # a friendship's real, unspoken tensions surface only gradually across the trip
+    stillness: 2
+    bleakness: 2
+    humor: 3
+    acclaim: 0.52
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: baby-mama
+  tmdb_id: null
+  title: Baby Mama
+  year: 2008
+  runtime: 99
+  director: Michael McCullers
+  tags:
+    opacity: 1
+    stillness: 1
+    bleakness: 3 # a real, unresolved grief about infertility sits underneath the film's broader comic premise
+    humor: 4
+    acclaim: 0.52
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

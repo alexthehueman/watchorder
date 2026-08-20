@@ -1,0 +1,48 @@
+slug: vince-vaughn
+kind: actor
+name: Vince Vaughn
+blurb: A motor-mouthed, fast-talking charm that defined a whole era of 2000s comedy, occasionally aimed at something considerably more brutal instead.
+
+films:
+  - film: swingers
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: comic
+    gateway: 3
+    note: A fast-talking, overconfident wingman coaching his heartbroken friend through the LA dating scene, playing rapid-fire bravado as a genuine cultural touchstone. His breakout role.
+
+  - film: brawl-in-cell-block-99
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 1
+    note: A former boxer turned drug courier forced into increasingly brutal prison violence to protect his family, playing controlled menace with none of his usual comic rhythm.
+
+  - film: wedding-crashers
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 4
+    note: A divorce mediator who treats wedding-crashing as an art form alongside his best friend, playing motor-mouthed excess as the film's comic engine.
+
+  - film: dodgeball
+    signature: 2
+    showcase: 2
+    role_size: lead
+    register: comic
+    gateway: 4
+    note: The struggling owner of a rundown gym entering a dodgeball tournament to save it from a corporate rival, playing scrappy underdog charm.
+
+curated:
+  curator: house
+  rationale: The role that defined the fast-talking persona first, then the one film that dropped it entirely.
+  order:
+    - dodgeball
+    - wedding-crashers
+    - swingers
+    - brawl-in-cell-block-99

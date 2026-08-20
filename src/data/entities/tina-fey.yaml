@@ -1,0 +1,56 @@
+slug: tina-fey
+kind: actor
+name: Tina Fey
+blurb: A dry, whip-smart delivery she's spent mostly on capable women getting quietly exasperated by the chaos around them, whether that chaos is a war zone or a suburban dinner party.
+
+films:
+  - film: whiskey-tango-foxtrot
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A cable news producer who volunteers for a war-zone assignment and finds herself increasingly at home there, playing dry composure against genuinely dangerous chaos.
+
+  - film: baby-mama
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: comic
+    gateway: 3
+    note: A driven, single businesswoman hiring a surrogate to carry her child, playing controlled exasperation as her carefully planned life collides with someone far messier.
+
+  - film: mean-girls
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: restrained
+    gateway: 5
+    note: A frazzled math teacher trying to referee a high school's social warfare, playing weary adult perspective on chaos she can only partly manage.
+
+  - film: date-night
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 4
+    note: A bored suburban wife whose attempt at a normal date night with her husband spirals into a case of mistaken identity and real danger.
+
+  - film: sisters-2015
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 4
+    note: A chaotic, irresponsible sister throwing one last wild house party, playing loose, unrestrained energy against her far more buttoned-up sibling.
+
+curated:
+  curator: house
+  rationale: The performance built entirely around dry composure under real pressure first, then everywhere else that same wit gets aimed at smaller-scale chaos.
+  order:
+    - date-night
+    - mean-girls
+    - sisters-2015
+    - baby-mama
+    - whiskey-tango-foxtrot

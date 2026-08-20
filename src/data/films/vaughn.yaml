@@ -1,0 +1,35 @@
+# New films for Vince Vaughn. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Wedding Crashers already exists in mcadams.yaml — tagged before he had an entity.
+
+- id: swingers
+  tmdb_id: null
+  title: Swingers
+  year: 1996
+  runtime: 96
+  director: Doug Liman
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: brawl-in-cell-block-99
+  tmdb_id: null
+  title: Brawl in Cell Block 99
+  year: 2017
+  runtime: 132
+  director: S. Craig Zahler
+  tags:
+    opacity: 2 # exactly who's pulling the strings behind his family's kidnapping stays unclear until deep into the film
+    stillness: 3
+    bleakness: 5
+    humor: 1
+    acclaim: 0.68
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: dodgeball
+  tmdb_id: null
+  title: Dodgeball
+  year: 2004
+  runtime: 92
+  director: Rawson Marshall Thurber
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 5, acclaim: 0.62 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }

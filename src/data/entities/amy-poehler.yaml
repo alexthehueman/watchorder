@@ -1,0 +1,56 @@
+slug: amy-poehler
+kind: actor
+name: Amy Poehler
+blurb: A relentlessly upbeat, high-energy comic instinct she's applied to everyone from an over-earnest small-town bureaucrat to the literal embodiment of Joy.
+
+films:
+  - film: inside-out
+    signature: 5
+    must_see: true
+    showcase: 4
+    role_size: lead
+    register: warm
+    gateway: 3
+    note: The voice of Joy, one of five emotions steering a young girl through a difficult move, playing relentless optimism the film gradually complicates.
+
+  - film: mean-girls
+    signature: 3
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 4
+    note: A queen bee's oblivious, try-hard "cool mom," playing embarrassing enthusiasm as one of the film's sharpest running jokes.
+
+  - film: sisters-2015
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 4
+    note: A responsible, uptight sister thrown into one last wild house party with her more chaotic sibling, playing controlled panic finally giving way to chaos.
+
+  - film: baby-mama
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 3
+    note: A crass, unfiltered surrogate mother whose complete lack of boundaries becomes the film's steady source of comic friction.
+
+  - film: wine-country
+    signature: 2
+    showcase: 2
+    role_size: lead
+    register: warm
+    gateway: 3
+    note: The controlling organizer of a group birthday trip who can't quite let anyone else make a decision, also her feature directorial debut.
+
+curated:
+  curator: house
+  rationale: The performance built entirely around relentless optimism first, then everywhere else that same high-energy instinct gets put to different use.
+  order:
+    - mean-girls
+    - baby-mama
+    - wine-country
+    - sisters-2015
+    - inside-out
