@@ -1,0 +1,57 @@
+slug: jesse-plemons
+kind: actor
+name: Jesse Plemons
+blurb: A doughy, unassuming stillness that reads as harmless right up until a director uses it to make something genuinely unsettling, a trick he's built an entire career around.
+
+films:
+  - film: killers-of-the-flower-moon
+    signature: 5
+    must_see: true
+    showcase: 4
+    role_size: supporting
+    register: restrained
+    gateway: 3
+    note: An FBI agent investigating a string of murders targeting a wealthy Osage community, playing careful, methodical procedure against an atrocity the film never lets feel distant.
+
+  - film: im-thinking-of-ending-things
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 1
+    note: A man bringing his new girlfriend home to meet his parents on a snowy night that keeps subtly, unexplainably shifting its own reality.
+
+  - film: civil-war-2024
+    signature: 3
+    showcase: 4
+    role_size: supporting
+    register: menacing
+    gateway: 3
+    note: A soldier whose single, quietly terrifying interrogation scene becomes the film's most direct confrontation with what the conflict has actually done to people.
+
+  - film: kinds-of-kindness
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: unhinged
+    gateway: 1
+    note: A recurring presence across three unconnected stories, playing calm, unexplained menace the film never bothers to justify.
+
+  - film: the-master
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: restrained
+    gateway: 1
+    note: A skeptical family member questioning a charismatic movement's teachings, playing quiet doubt against total conviction.
+
+curated:
+  curator: house
+  rationale: The two performances that show how far the doughy, harmless-seeming stillness can curdle, then everywhere else it gets put to smaller use.
+  order:
+    - the-master
+    - kinds-of-kindness
+    - civil-war-2024
+    - killers-of-the-flower-moon
+    - im-thinking-of-ending-things

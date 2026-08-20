@@ -1,0 +1,28 @@
+# New films for Jesse Plemons. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Killers of the Flower Moon already exists in scorsese.yaml — tagged before he had an entity.
+# Kinds of Kindness already exists in elordi.yaml — tagged before he had an entity. The Master
+# already exists in pta.yaml — tagged before he had an entity.
+
+- id: im-thinking-of-ending-things
+  tmdb_id: null
+  title: I'm Thinking of Ending Things
+  year: 2020
+  runtime: 134
+  director: Charlie Kaufman
+  tags:
+    opacity: 5 # ages, names, and even the reality of the relationship itself keep shifting without explanation
+    stillness: 4
+    bleakness: 5
+    humor: 2
+    acclaim: 0.62
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
+
+- id: civil-war-2024
+  tmdb_id: null
+  title: Civil War
+  year: 2024
+  runtime: 109
+  director: Alex Garland
+  tags: { opacity: 2, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }

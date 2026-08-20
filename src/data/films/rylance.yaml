@@ -1,0 +1,35 @@
+# New films for Mark Rylance. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Dunkirk already exists in cillian-murphy.yaml — tagged before he had an entity.
+
+- id: bridge-of-spies
+  tmdb_id: null
+  title: Bridge of Spies
+  year: 2015
+  runtime: 142
+  director: Steven Spielberg
+  tags:
+    opacity: 2 # a Soviet spy whose true loyalties and intentions the film keeps deliberately unreadable behind total calm
+    stillness: 3
+    bleakness: 3
+    humor: 2
+    acclaim: 0.82
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-bfg
+  tmdb_id: null
+  title: The BFG
+  year: 2016
+  runtime: 117
+  director: Steven Spielberg
+  tags: { opacity: 1, stillness: 3, bleakness: 2, humor: 3, acclaim: 0.62 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: ready-player-one
+  tmdb_id: null
+  title: Ready Player One
+  year: 2018
+  runtime: 140
+  director: Steven Spielberg
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
