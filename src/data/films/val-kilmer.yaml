@@ -1,0 +1,41 @@
+# New films for Val Kilmer. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Heat already exists in de-niro.yaml — tagged before he had an entity.
+# Top Gun already exists in cruise.yaml.
+
+- id: tombstone
+  tmdb_id: null
+  title: Tombstone
+  year: 1993
+  runtime: 130
+  director: George P. Cosmatos
+  tags:
+    opacity: 2 # what's actually killing him, tuberculosis or the death wish, stays unspoken until late
+    stillness: 2
+    bleakness: 4
+    humor: 3
+    acclaim: 0.75
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: the-doors
+  tmdb_id: null
+  title: The Doors
+  year: 1991
+  runtime: 141
+  director: Oliver Stone
+  tags:
+    opacity: 3 # a hallucinatory biopic that immerses rather than explains
+    stillness: 3
+    bleakness: 5
+    humor: 1
+    acclaim: 0.60
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 2 }
+
+- id: batman-forever
+  tmdb_id: null
+  title: Batman Forever
+  year: 1995
+  runtime: 121
+  director: Joel Schumacher
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

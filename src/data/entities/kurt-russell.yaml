@@ -1,0 +1,65 @@
+slug: kurt-russell
+kind: actor
+name: Kurt Russell
+blurb: A rugged, wry screen presence built almost entirely on two long collaborations — with John Carpenter and, decades later, Quentin Tarantino.
+
+films:
+  - film: escape-from-new-york
+    signature: 5
+    must_see: true
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: A one-eyed convict-mercenary sent into a walled-off Manhattan, playing terse, unbothered cool.
+
+  - film: the-thing
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: menacing
+    gateway: 3
+    note: A helicopter pilot holding a paranoid, disintegrating crew together, playing cornered, distrustful edge.
+
+  - film: big-trouble-in-little-china
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: A blustering trucker who thinks he's the hero of someone else's kung-fu movie, playing gleeful, self-inflated comic swagger.
+
+  - film: the-hateful-eight
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: unhinged
+    gateway: 2
+    note: A bounty hunter dragging his prisoner through a blizzard of suspicion, playing gruff, quick-to-violence menace.
+
+  - film: death-proof
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: menacing
+    gateway: 2
+    note: A scarred stuntman stalking women with his death-proof car, playing charming surface over genuine predation.
+
+  - film: escape-from-la
+    signature: 2
+    showcase: 2
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: The same one-eyed convict, older and wearier, back for one more mission, playing weathered repetition of the original cool.
+
+curated:
+  curator: house
+  rationale: The role that defined the Carpenter partnership first, then its most acclaimed entry, then the range around both eras.
+  order:
+    - escape-from-new-york
+    - the-thing
+    - big-trouble-in-little-china
+    - the-hateful-eight
+    - death-proof
+    - escape-from-la

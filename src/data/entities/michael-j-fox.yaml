@@ -1,0 +1,47 @@
+slug: michael-j-fox
+kind: actor
+name: Michael J. Fox
+blurb: An earnest, quick-witted everyman charm that carried a defining time-travel franchise and a run of 80s and 90s comedy.
+
+films:
+  - film: back-to-the-future
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: warm
+    gateway: 5
+    note: A teenager stranded in his parents' own high school years, playing earnest, likable panic.
+
+  - film: back-to-the-future-part-ii
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: unhinged
+    gateway: 5
+    note: The same time traveler juggling two collapsing timelines at once, playing frantic, breathless improvisation.
+
+  - film: teen-wolf
+    signature: 2
+    showcase: 2
+    role_size: lead
+    register: comic
+    gateway: 3
+    note: An awkward teenager who turns out to be a werewolf, playing broad, delighted comic transformation.
+
+  - film: the-american-president
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: restrained
+    gateway: 3
+    note: A principled White House aide pushing back against political compromise, playing measured, exasperated conviction.
+
+curated:
+  curator: house
+  rationale: The role that defined him first, then its sequel, then the range of comedy and drama around it.
+  order:
+    - back-to-the-future
+    - back-to-the-future-part-ii
+    - teen-wolf
+    - the-american-president
