@@ -1,0 +1,46 @@
+# New films for John Goodman. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Raising Arizona already exists in cage.yaml — tagged before he had an entity. Barton Fink, The
+# Big Lebowski, and O Brother, Where Art Thou? already exist in coens.yaml — tagged before he had
+# an entity. Monsters, Inc. already exists in pixar.yaml — tagged before he had an entity.
+
+- id: 10-cloverfield-lane
+  tmdb_id: null
+  title: 10 Cloverfield Lane
+  year: 2016
+  runtime: 104
+  director: Dan Trachtenberg
+  tags:
+    opacity: 3 # whether the outside world is really as dangerous as he claims stays a live, unresolved question for most of the runtime
+    stillness: 2
+    bleakness: 4
+    humor: 1
+    acclaim: 0.75
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-artist
+  tmdb_id: null
+  title: The Artist
+  year: 2011
+  runtime: 100
+  director: Michel Hazanavicius
+  tags: { opacity: 1, stillness: 4, bleakness: 2, humor: 3, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: argo
+  tmdb_id: null
+  title: Argo
+  year: 2012
+  runtime: 120
+  director: Ben Affleck
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: flight
+  tmdb_id: null
+  title: Flight
+  year: 2012
+  runtime: 138
+  director: Robert Zemeckis
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 2, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }

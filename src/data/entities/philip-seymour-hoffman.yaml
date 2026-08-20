@@ -1,0 +1,84 @@
+slug: philip-seymour-hoffman
+kind: actor
+name: Philip Seymour Hoffman
+blurb: Made a career out of characters who are trying too hard, wanting too much, or hiding something they can barely stand to look at themselves — often all three at once.
+
+films:
+  - film: capote
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 2
+    note: A biopic of the writer during his years reporting In Cold Blood, playing genuine sympathy for a killer curdling into something closer to exploitation.
+
+  - film: boogie-nights
+    signature: 5
+    must_see: true
+    showcase: 4
+    role_size: supporting
+    register: unhinged
+    gateway: 3
+    note: A boom operator on a 1970s porn set nursing an unspoken crush on the film's rising star, playing longing as pure, exposed vulnerability.
+
+  - film: the-master
+    signature: 3
+    showcase: 5
+    role_size: lead
+    register: menacing
+    gateway: 1
+    note: The charismatic leader of a postwar movement built around his own invented philosophy, playing total conviction the film never confirms or denies is genuine.
+
+  - film: magnolia
+    signature: 3
+    showcase: 4
+    role_size: supporting
+    register: warm
+    gateway: 2
+    note: A hospice nurse trying to track down the estranged son of a dying man, playing patient decency as the film's calmest presence amid total chaos.
+
+  - film: almost-famous
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: warm
+    gateway: 4
+    note: A real-life rock critic mentoring a teenage journalist over the phone, playing world-weary wisdom as genuine, unglamorous care.
+
+  - film: the-talented-mr-ripley
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: menacing
+    gateway: 3
+    note: A wealthy, entitled friend whose casual cruelty toward an outsider sets the plot's real danger in motion without him ever realizing it.
+
+  - film: charlie-wilsons-war
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: comic
+    gateway: 4
+    note: A rumpled, foul-mouthed CIA operative helping fund a covert war, playing bureaucratic exhaustion as its own kind of dark comedy.
+
+  - film: doubt
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A parish priest accused of misconduct by a suspicious nun, playing wounded innocence the film never lets the audience confirm either way.
+
+curated:
+  curator: house
+  rationale: The two performances built entirely around exposed want, then everywhere else that same rawness shows up in smaller doses.
+  order:
+    - charlie-wilsons-war
+    - almost-famous
+    - the-talented-mr-ripley
+    - magnolia
+    - doubt
+    - boogie-nights
+    - capote
+    - the-master
