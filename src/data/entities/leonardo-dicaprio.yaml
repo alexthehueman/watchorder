@@ -1,0 +1,100 @@
+slug: leonardo-dicaprio
+kind: actor
+name: Leonardo DiCaprio
+blurb: Spent the 2000s and 2010s as Scorsese's default leading man, in roles that keep making his characters' own certainty the thing the film is most suspicious of.
+
+films:
+  - film: titanic
+    signature: 5
+    must_see: true
+    showcase: 4
+    role_size: lead
+    register: warm
+    gateway: 5
+    note: The role that made him a movie star, in the film that made him one of the highest-grossing actors alive. Still the easiest entry point by far.
+
+  - film: the-departed
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: An undercover cop trying to stay one lie ahead of a mole hunting the same information he's feeding out.
+
+  - film: the-wolf-of-wall-street
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 4
+    note: Three hours of total, gleeful excess, and the film never once tells you when to stop laughing at it.
+
+  - film: the-revenant
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: Mauled by a bear, left for dead, and the film makes you sit in every mile of the crawl back. Won him the Oscar.
+
+  - film: shutter-island
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: unhinged
+    gateway: 4
+    note: A U.S. Marshal investigating a disappearance on an island asylum, and the investigation is not what it appears to be.
+
+  - film: the-aviator
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: unhinged
+    gateway: 3
+    note: Howard Hughes's genius curdling into paranoia and compulsion in real time, across two decades.
+
+  - film: gangs-of-new-york
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: menacing
+    gateway: 3
+    note: A young man infiltrating the gang that killed his father, in 1860s Five Points New York.
+
+  - film: catch-me-if-you-can
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: A teenage con artist impersonating a pilot, a doctor and a lawyer, one step ahead of the FBI agent chasing him.
+
+  - film: once-upon-a-time-in-hollywood
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: warm
+    gateway: 3
+    note: A fading Western TV star watching the industry and the era both move past him, alongside his stunt double.
+
+  - film: killers-of-the-flower-moon
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: menacing
+    gateway: 2
+    note: A none-too-bright accomplice to the murder of his own Osage wife's family, for oil money he barely understands.
+
+curated:
+  curator: house
+  rationale: The role everyone already knows first, then the Scorsese run that defines the rest of his career, before the two hardest, longest films.
+  order:
+    - titanic
+    - catch-me-if-you-can
+    - the-departed
+    - the-aviator
+    - shutter-island
+    - once-upon-a-time-in-hollywood
+    - the-wolf-of-wall-street
+    - the-revenant

@@ -1,0 +1,28 @@
+# New films for Leonardo DiCaprio. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Aviator, Gangs of New York, Catch Me If You Can, Shutter Island, Once Upon a Time in
+# Hollywood, The Departed, The Wolf of Wall Street and Killers of the Flower Moon already exist —
+# eight of his most consequential roles, tagged before he had an entity. Only these two are new.
+
+- id: titanic
+  tmdb_id: null
+  title: Titanic
+  year: 1997
+  runtime: 194
+  director: James Cameron
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 2, acclaim: 0.82 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: the-revenant
+  tmdb_id: null
+  title: The Revenant
+  year: 2015
+  runtime: 156
+  director: Alejandro G. Iñárritu
+  tags:
+    opacity: 1
+    stillness: 3
+    bleakness: 5 # mauled, left for dead, and the film makes you sit in every mile of the crawl back
+    humor: 1
+    acclaim: 0.82
+  content: { sexual_violence: true, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 0 }
