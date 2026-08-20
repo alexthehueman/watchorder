@@ -1,0 +1,16 @@
+# New films for Josh Brolin. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Sicario already exists in blunt.yaml — tagged before he had an entity. Dune already exists in
+# chalamet.yaml — tagged before he had an entity. No Country for Old Men already exists in
+# coens.yaml — tagged before he had an entity. Milk already exists in penn.yaml — tagged before
+# he had an entity. Inherent Vice already exists in pta.yaml — tagged before he had an entity.
+# True Grit already exists in bridges.yaml — tagged before he had an entity.
+
+- id: avengers-infinity-war
+  tmdb_id: null
+  title: Avengers Infinity War
+  year: 2018
+  runtime: 149
+  director: Anthony Russo
+  tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 2, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

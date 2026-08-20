@@ -1,0 +1,57 @@
+slug: benicio-del-toro
+kind: actor
+name: Benicio del Toro
+blurb: A mumbled, unhurried opacity he's turned into a genuine screen weapon, letting the audience do the work of deciding whether a character is dangerous, damaged, or both.
+
+films:
+  - film: the-usual-suspects
+    signature: 5
+    must_see: true
+    showcase: 4
+    role_size: supporting
+    register: menacing
+    gateway: 2
+    note: A nearly unintelligible con man in a lineup of career criminals, playing deliberate obscurity as its own kind of menace inside a film built entirely on unreliable testimony.
+
+  - film: traffic
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A Mexican police officer navigating cartel corruption from every direction, playing quiet, exhausted integrity as the film's one genuinely trustworthy figure.
+
+  - film: sicario
+    signature: 3
+    showcase: 4
+    role_size: supporting
+    register: menacing
+    gateway: 2
+    note: A former prosecutor with an unclear, increasingly violent personal agenda inside a black-ops task force, playing calm as the most unsettling thing about him.
+
+  - film: 21-grams
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: unhinged
+    gateway: 1
+    note: An ex-convict turned born-again Christian whose fatal accident ties three strangers' lives together, playing guilt and faith colliding without resolution.
+
+  - film: sin-city
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: menacing
+    gateway: 3
+    note: A corrupt cop entangled in a noir city's worst impulses, playing weary self-interest as the norm rather than the exception.
+
+curated:
+  curator: house
+  rationale: The performance built entirely on deliberate unreadability first, then everywhere else that same quality gets put to different use.
+  order:
+    - sin-city
+    - the-usual-suspects
+    - sicario
+    - traffic
+    - 21-grams

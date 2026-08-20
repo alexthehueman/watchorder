@@ -1,0 +1,35 @@
+# New films for Naomi Ackie. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Lady Macbeth already exists in pugh.yaml — tagged before she had an entity.
+
+- id: whitney-houston-i-wanna-dance-with-somebody
+  tmdb_id: null
+  title: Whitney Houston I Wanna Dance with Somebody
+  year: 2022
+  runtime: 146
+  director: Kasi Lemmons
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: blink-twice
+  tmdb_id: null
+  title: Blink Twice
+  year: 2024
+  runtime: 102
+  director: Zoe Kravitz
+  tags:
+    opacity: 4 # what's actually happening to the women on this island stays deliberately, disorientingly withheld
+    stillness: 2
+    bleakness: 5
+    humor: 2
+    acclaim: 0.62
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: star-wars-the-rise-of-skywalker
+  tmdb_id: null
+  title: Star Wars The Rise of Skywalker
+  year: 2019
+  runtime: 141
+  director: J.J. Abrams
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 2, acclaim: 0.52 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

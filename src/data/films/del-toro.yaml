@@ -1,0 +1,36 @@
+# New films for Benicio del Toro. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Sicario already exists in blunt.yaml — tagged before he had an entity. 21 Grams already exists
+# in watts.yaml — tagged before he had an entity.
+
+- id: traffic
+  tmdb_id: null
+  title: Traffic
+  year: 2000
+  runtime: 147
+  director: Steven Soderbergh
+  tags: { opacity: 2, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.82 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-usual-suspects
+  tmdb_id: null
+  title: The Usual Suspects
+  year: 1995
+  runtime: 106
+  director: Bryan Singer
+  tags:
+    opacity: 5 # the entire film is structured around a confession the audience has no way to verify
+    stillness: 2
+    bleakness: 4
+    humor: 2
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: sin-city
+  tmdb_id: null
+  title: Sin City
+  year: 2005
+  runtime: 124
+  director: Frank Miller
+  tags: { opacity: 2, stillness: 1, bleakness: 5, humor: 2, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }

@@ -1,0 +1,47 @@
+slug: naomi-ackie
+kind: actor
+name: Naomi Ackie
+blurb: Went from a quietly withering maid in a Victorian corset drama to headlining a pop icon's biopic in the space of a few years, without ever losing the same watchful intelligence.
+
+films:
+  - film: whitney-houston-i-wanna-dance-with-somebody
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 2
+    note: A biopic of Whitney Houston's rise and unraveling, playing performance and genuine collapse as the film keeps refusing to separate the two.
+
+  - film: blink-twice
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A cocktail waitress invited to a tech billionaire's private island, playing growing unease the film keeps giving her genuine reasons to doubt.
+
+  - film: lady-macbeth
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: restrained
+    gateway: 2
+    note: A household maid caught between loyalty and complicity as her mistress's ambitions turn openly murderous.
+
+  - film: star-wars-the-rise-of-skywalker
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: warm
+    gateway: 4
+    note: A resistance mechanic and pilot, playing steady competence as part of the film's ensemble cast.
+
+curated:
+  curator: house
+  rationale: The performance that made her a lead first, then the range that got her there.
+  order:
+    - star-wars-the-rise-of-skywalker
+    - lady-macbeth
+    - blink-twice
+    - whitney-houston-i-wanna-dance-with-somebody
