@@ -1,0 +1,47 @@
+slug: walter-matthau
+kind: actor
+name: Walter Matthau
+blurb: A rumpled, unbothered gruffness that made slovenliness and bad behavior genuinely lovable, most famously opposite one long-running comic foil.
+
+films:
+  - film: the-odd-couple
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: A slovenly sportswriter taking in his freshly divorced, neurotic friend, playing easygoing, unbothered indifference.
+
+  - film: the-bad-news-bears
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: unhinged
+    gateway: 3
+    note: A washed-up, boozy pool cleaner drafted into coaching a hopeless Little League team, playing foul-mouthed, gleeful irresponsibility.
+
+  - film: grumpy-old-men
+    signature: 4
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 4
+    note: One half of a decades-long feud between neighbors, playing needling, competitive orneriness.
+
+  - film: charade
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: menacing
+    gateway: 3
+    note: A government agent whose actual allegiance stays a mystery, playing genially duplicitous threat.
+
+curated:
+  curator: house
+  rationale: The defining comic pairing first, then the range of orneriness and menace around it.
+  order:
+    - the-odd-couple
+    - the-bad-news-bears
+    - grumpy-old-men
+    - charade

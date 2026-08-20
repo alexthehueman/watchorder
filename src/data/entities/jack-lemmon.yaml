@@ -1,0 +1,56 @@
+slug: jack-lemmon
+kind: actor
+name: Jack Lemmon
+blurb: An anxious, deeply human everyman quality that carried a run of acclaimed Billy Wilder classics and a decades-long comic partnership.
+
+films:
+  - film: the-apartment
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: warm
+    gateway: 3
+    note: A lonely office worker lending out his apartment to climb the corporate ladder, playing quiet, aching decency underneath the compromise.
+
+  - film: some-like-it-hot
+    signature: 5
+    showcase: 4
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: A musician hiding out in an all-female band in drag, playing gleeful, increasingly committed comic chaos.
+
+  - film: glengarry-glen-ross
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A desperate, aging salesman running out of road, playing quiet, devastating unraveling.
+
+  - film: the-odd-couple
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: unhinged
+    gateway: 4
+    note: A neurotic, freshly divorced neat freak moving in with his slovenly friend, playing high-strung, fussy anxiety.
+
+  - film: grumpy-old-men
+    signature: 2
+    showcase: 2
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: One half of a decades-long feud between neighbors, playing wry, begrudging affection.
+
+curated:
+  curator: house
+  rationale: The most acclaimed Billy Wilder collaboration first, then the range around it, ending on the late-career comic partnership.
+  order:
+    - the-apartment
+    - some-like-it-hot
+    - glengarry-glen-ross
+    - the-odd-couple
+    - grumpy-old-men

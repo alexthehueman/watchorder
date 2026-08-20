@@ -1,0 +1,27 @@
+# New films for Jack Lemmon. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Some Like It Hot and The Apartment already exist in wilder.yaml — tagged before he had an entity.
+# Glengarry Glen Ross already exists in pacino.yaml.
+
+- id: the-odd-couple
+  tmdb_id: null
+  title: The Odd Couple
+  year: 1968
+  runtime: 105
+  director: Gene Saks
+  tags:
+    opacity: 2 # whether their opposite temperaments will actually wreck the friendship stays uncertain through long stretches
+    stillness: 2
+    bleakness: 1
+    humor: 4
+    acclaim: 0.78
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: grumpy-old-men
+  tmdb_id: null
+  title: Grumpy Old Men
+  year: 1993
+  runtime: 103
+  director: Donald Petrie
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.60 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

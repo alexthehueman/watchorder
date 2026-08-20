@@ -1,0 +1,13 @@
+# New films for Walter Matthau. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Odd Couple and Grumpy Old Men already exist in jack-lemmon.yaml — tagged before he had an entity.
+# Charade already exists in grant.yaml.
+
+- id: the-bad-news-bears
+  tmdb_id: null
+  title: The Bad News Bears
+  year: 1976
+  runtime: 102
+  director: Michael Ritchie
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 4, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

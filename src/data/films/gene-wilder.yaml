@@ -1,0 +1,47 @@
+# New films for Gene Wilder. Scales and anchors are in README.md ("The anchor rubric").
+
+- id: willy-wonka-and-the-chocolate-factory
+  tmdb_id: null
+  title: Willy Wonka & the Chocolate Factory
+  year: 1971
+  runtime: 100
+  director: Mel Stuart
+  tags:
+    opacity: 2 # whether the whole tour is a moral test, and what he actually wants from it, stays hidden until near the end
+    stillness: 2
+    bleakness: 2
+    humor: 3
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 0 }
+
+- id: young-frankenstein
+  tmdb_id: null
+  title: Young Frankenstein
+  year: 1974
+  runtime: 106
+  director: Mel Brooks
+  tags:
+    opacity: 2 # whether the monster is a menace or a misunderstood creature stays open a beat longer than the jokes let on
+    stillness: 1
+    bleakness: 3
+    humor: 5
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-producers-1968
+  tmdb_id: null
+  title: The Producers
+  year: 1968
+  runtime: 88
+  director: Mel Brooks
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 5, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: blazing-saddles
+  tmdb_id: null
+  title: Blazing Saddles
+  year: 1974
+  runtime: 93
+  director: Mel Brooks
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 5, acclaim: 0.80 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
