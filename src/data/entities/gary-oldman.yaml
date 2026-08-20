@@ -1,0 +1,93 @@
+slug: gary-oldman
+kind: actor
+name: Gary Oldman
+blurb: A punk-rock suicide, a corrupt DEA agent, a campy space-opera villain, and the most restrained spymaster in English cinema — often within a few years of each other.
+
+films:
+  - film: true-romance
+    signature: 3
+    showcase: 4
+    role_size: supporting
+    register: unhinged
+    gateway: 3
+    note: Fewer than ten minutes of screen time as a dreadlocked pimp, written by Tarantino, and he steals the entire film anyway.
+
+  - film: leon-the-professional
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: supporting
+    register: unhinged
+    gateway: 4
+    note: A corrupt DEA agent who murders a family on-screen, played with a theatrical relish that makes the whole thing worse.
+
+  - film: tinker-tailor-soldier-spy-2011
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: George Smiley, played with almost no visible affect at all — the total opposite of everything else on this list.
+
+  - film: darkest-hour
+    signature: 3
+    showcase: 5
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: Winston Churchill, buried under prosthetics and still finding real warmth underneath the bombast. Won him the Oscar.
+
+  - film: sid-and-nancy
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: unhinged
+    gateway: 2
+    note: Sid Vicious's slow self-destruction, played from the inside with no distance from the wreckage at all.
+
+  - film: bram-stokers-dracula
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A Dracula played as tragic and romantic across several ages and forms — young count, ancient count, wolf, bat.
+
+  - film: the-fifth-element
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: comic
+    gateway: 5
+    note: A gloriously campy space-opera villain with a Southern-fried accent and a haircut to match. Pure fun.
+
+  - film: jfk
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: restrained
+    gateway: 3
+    note: Lee Harvey Oswald, a small but pivotal role inside Stone's sprawling conspiracy procedural.
+
+  - film: the-dark-knight
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: warm
+    gateway: 5
+    note: Commissioner Gordon, the one grounded, unglamorous moral center in a film full of extremity. His most mainstream role by audience size.
+
+curated:
+  curator: house
+  rationale: The performance that proves the range first, then his most controlled work, before the rest of the spread in both directions.
+  order:
+    - leon-the-professional
+    - the-dark-knight
+    - the-fifth-element
+    - true-romance
+    - darkest-hour
+    - bram-stokers-dracula
+    - sid-and-nancy
+    - jfk
+    - tinker-tailor-soldier-spy-2011

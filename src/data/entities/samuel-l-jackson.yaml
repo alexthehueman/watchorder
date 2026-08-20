@@ -1,0 +1,84 @@
+slug: samuel-l-jackson
+kind: actor
+name: Samuel L. Jackson
+blurb: A voice built for both scripture and profanity, deployed across Tarantino's whole run and a very different, more earnest register in the mainstream work around it.
+
+films:
+  - film: pulp-fiction
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 4
+    note: Jules Winnfield, reciting scripture before every execution. The performance most people mean when they say his name.
+
+  - film: django-unchained
+    signature: 4
+    must_see: true
+    showcase: 5
+    role_size: supporting
+    register: menacing
+    gateway: 3
+    note: Stephen, a house slave more vicious in defense of the plantation than its owner. His darkest performance.
+
+  - film: jackie-brown
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: comic
+    gateway: 3
+    note: A gun runner playing every side against every other, with real menace under the wardrobe and the wit.
+
+  - film: the-hateful-eight
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: menacing
+    gateway: 2
+    note: A bounty hunter and former Union officer, trapped in one cabin with seven people who all have reason to want him dead.
+
+  - film: a-time-to-kill
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: warm
+    gateway: 3
+    note: A father who kills the men who raped his daughter, and the film puts the whole town's conscience on trial alongside him.
+
+  - film: unbreakable
+    signature: 3
+    showcase: 4
+    role_size: supporting
+    register: restrained
+    gateway: 3
+    note: A fragile comic-shop owner whose real motive stays hidden until the last scene reframes everything before it.
+
+  - film: do-the-right-thing
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: warm
+    gateway: 3
+    note: Mister Señor Love Daddy, the radio DJ narrating the block's heat and its slow boil toward the ending.
+
+  - film: coach-carter
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: warm
+    gateway: 5
+    note: A high school basketball coach who benches an undefeated team over their grades. His most mainstream, least ironic role.
+
+curated:
+  curator: house
+  rationale: The signature Tarantino performances first, then the mainstream, more earnest work around them.
+  order:
+    - pulp-fiction
+    - coach-carter
+    - a-time-to-kill
+    - unbreakable
+    - do-the-right-thing
+    - jackie-brown
+    - the-hateful-eight
+    - django-unchained

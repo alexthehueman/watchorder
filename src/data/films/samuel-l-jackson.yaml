@@ -1,0 +1,42 @@
+# New films for Samuel L. Jackson. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Do the Right Thing, Pulp Fiction, Jackie Brown, Django Unchained and The Hateful Eight already
+# exist in spike-lee.yaml and tarantino.yaml — five of his most consequential roles, tagged before
+# he had an entity.
+
+- id: a-time-to-kill
+  tmdb_id: null
+  title: A Time to Kill
+  year: 1996
+  runtime: 149
+  director: Joel Schumacher
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 5 # a father kills the men who raped his daughter, and the film puts the whole town on trial with him
+    humor: 1
+    acclaim: 0.78
+  content: { sexual_violence: true, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+
+- id: unbreakable
+  tmdb_id: null
+  title: Unbreakable
+  year: 2000
+  runtime: 106
+  director: M. Night Shyamalan
+  tags:
+    opacity: 2 # a comic-shop owner's real motive stays hidden until the last scene reframes everything before it
+    stillness: 3
+    bleakness: 3
+    humor: 1
+    acclaim: 0.78
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: coach-carter
+  tmdb_id: null
+  title: Coach Carter
+  year: 2005
+  runtime: 136
+  director: Thomas Carter
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.70 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
