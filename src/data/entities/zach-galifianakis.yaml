@@ -1,0 +1,47 @@
+slug: zach-galifianakis
+kind: actor
+name: Zach Galifianakis
+blurb: A bearded, oddball comic energy that made him a sudden A-list fixture in his forties, occasionally let loose on something considerably stranger and more dramatic.
+
+films:
+  - film: the-hangover
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: A groom's deeply strange future brother-in-law along for a Vegas bachelor party gone catastrophically wrong, playing total social obliviousness as pure comic gold. His breakout role.
+
+  - film: birdman
+    signature: 4
+    showcase: 4
+    role_size: supporting
+    register: restrained
+    gateway: 2
+    note: A struggling actor-director's lawyer and best friend, trying to hold a collapsing Broadway production together while barely restraining his own panic.
+
+  - film: due-date
+    signature: 2
+    showcase: 2
+    role_size: lead
+    register: comic
+    gateway: 4
+    note: An aspiring actor sharing a disastrous cross-country road trip with a stranger, playing oblivious enthusiasm as the film's whole comic engine.
+
+  - film: masterminds
+    signature: 2
+    showcase: 2
+    role_size: lead
+    register: comic
+    gateway: 4
+    note: A dim-witted armored-car driver talked into masterminding a real-life heist, playing total, guileless incompetence with complete conviction.
+
+curated:
+  curator: house
+  rationale: The role that made him a sudden star first, then everywhere else that same oddball energy gets put to different use.
+  order:
+    - masterminds
+    - due-date
+    - the-hangover
+    - birdman
