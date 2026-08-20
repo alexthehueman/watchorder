@@ -1,0 +1,53 @@
+# New films for Kristen Stewart. Scales and anchors are in README.md ("The anchor rubric").
+# Filename disambiguates from stewart.yaml, which belongs to James Stewart.
+#
+# Twilight already exists in kendrick.yaml — tagged before she had an entity. Clouds of Sils
+# Maria already exists in binoche.yaml — tagged before she had an entity. Panic Room already
+# exists in foster.yaml — tagged before she had an entity. Spencer already exists in neon.yaml —
+# tagged before she had an entity.
+
+- id: personal-shopper
+  tmdb_id: null
+  title: Personal Shopper
+  year: 2016
+  runtime: 105
+  director: Olivier Assayas
+  tags:
+    opacity: 4 # a possible ghost, a possible stalker, and a possible breakdown, with the film never settling on which
+    stillness: 4
+    bleakness: 4
+    humor: 1
+    acclaim: 0.72
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: adventureland
+  tmdb_id: null
+  title: Adventureland
+  year: 2009
+  runtime: 107
+  director: Greg Mottola
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: seberg
+  tmdb_id: null
+  title: Seberg
+  year: 2019
+  runtime: 102
+  director: Benedict Andrews
+  tags:
+    opacity: 3 # a surveillance campaign that keeps blurring where real threats end and her own paranoia begins
+    stillness: 3
+    bleakness: 5
+    humor: 1
+    acclaim: 0.5
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 0 }
+
+- id: certain-women
+  tmdb_id: null
+  title: Certain Women
+  year: 2016
+  runtime: 107
+  director: Kelly Reichardt
+  tags: { opacity: 1, stillness: 5, bleakness: 3, humor: 1, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

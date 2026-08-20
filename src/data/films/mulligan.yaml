@@ -1,0 +1,60 @@
+# New films for Carey Mulligan. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Inside Llewyn Davis already exists in coens.yaml — tagged before she had an entity. Shame
+# already exists in fassbender.yaml — tagged before she had an entity. Drive already exists in
+# gosling.yaml — tagged before she had an entity.
+
+- id: an-education
+  tmdb_id: null
+  title: An Education
+  year: 2009
+  runtime: 100
+  director: Lone Scherfig
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.82 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: promising-young-woman
+  tmdb_id: null
+  title: Promising Young Woman
+  year: 2020
+  runtime: 113
+  director: Emerald Fennell
+  tags:
+    opacity: 3 # what she's actually planning, and how far she'll go, stays deliberately unclear until it isn't
+    stillness: 2
+    bleakness: 5
+    humor: 3
+    acclaim: 0.78
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: never-let-me-go
+  tmdb_id: null
+  title: Never Let Me Go
+  year: 2010
+  runtime: 103
+  director: Mark Romanek
+  tags:
+    opacity: 3 # the true nature of the school, and what the students are actually being raised for, unfolds only gradually
+    stillness: 4
+    bleakness: 5
+    humor: 1
+    acclaim: 0.72
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: mudbound
+  tmdb_id: null
+  title: Mudbound
+  year: 2017
+  runtime: 134
+  director: Dee Rees
+  tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.82 }
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: wall-street-money-never-sleeps
+  tmdb_id: null
+  title: Wall Street Money Never Sleeps
+  year: 2010
+  runtime: 133
+  director: Oliver Stone
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

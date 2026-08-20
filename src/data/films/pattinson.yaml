@@ -1,0 +1,52 @@
+# New films for Robert Pattinson. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Twilight already exists in kendrick.yaml — tagged before he had an entity. Water for Elephants
+# already exists in waltz.yaml — tagged before he had an entity. The Lighthouse already exists in
+# a24.yaml — tagged before he had an entity. High Life already exists in denis.yaml — tagged
+# before he had an entity.
+
+- id: the-batman
+  tmdb_id: null
+  title: The Batman
+  year: 2022
+  runtime: 176
+  director: Matt Reeves
+  tags:
+    opacity: 2 # a killer's riddles the film keeps you decoding at the same pace as its own detective
+    stillness: 3
+    bleakness: 5
+    humor: 1
+    acclaim: 0.78
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: good-time
+  tmdb_id: null
+  title: Good Time
+  year: 2017
+  runtime: 101
+  director: Josh Safdie
+  tags: { opacity: 1, stillness: 1, bleakness: 5, humor: 1, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: tenet
+  tmdb_id: null
+  title: Tenet
+  year: 2020
+  runtime: 150
+  director: Christopher Nolan
+  tags:
+    opacity: 5 # a plot built on time inversion that the film declines to fully explain even by its own ending
+    stillness: 2
+    bleakness: 4
+    humor: 1
+    acclaim: 0.68
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: remember-me
+  tmdb_id: null
+  title: Remember Me
+  year: 2010
+  runtime: 113
+  director: Allen Coulter
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.5 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }

@@ -1,0 +1,84 @@
+slug: kristen-stewart
+kind: actor
+name: Kristen Stewart
+blurb: Spent a franchise being underestimated for looking uncomfortable on camera, then rebuilt a career on directors who realized that exact discomfort was the whole point.
+
+films:
+  - film: spencer
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 2
+    note: Princess Diana over one claustrophobic royal Christmas, playing a woman's public composure fracturing in real time under a fable the film treats as literally true.
+
+  - film: clouds-of-sils-maria
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: supporting
+    register: restrained
+    gateway: 2
+    note: A veteran actress's personal assistant, playing a working relationship whose real intimacy the film never quite lets either woman name.
+
+  - film: personal-shopper
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: unhinged
+    gateway: 1
+    note: A celebrity's personal shopper waiting for a sign from her recently dead twin brother, playing grief the film refuses to resolve into either ghost story or breakdown.
+
+  - film: panic-room
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: restrained
+    gateway: 3
+    note: A diabetic teenager trapped with her mother in a home invasion, playing fear as a very physical, practical problem to solve.
+
+  - film: twilight
+    signature: 3
+    showcase: 2
+    role_size: lead
+    register: restrained
+    gateway: 5
+    note: A withdrawn teenager falling for a vampire in a small Pacific Northwest town, playing guarded reluctance as the emotional register of the entire franchise.
+
+  - film: adventureland
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: A college-bound theme park employee navigating a summer romance she doesn't entirely trust, playing wary attraction as its own kind of honesty.
+
+  - film: seberg
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: unhinged
+    gateway: 1
+    note: Actress Jean Seberg under a covert FBI surveillance campaign for her activism, playing paranoia the film never fully lets you dismiss as unfounded.
+
+  - film: certain-women
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: restrained
+    gateway: 1
+    note: A law-school graduate teaching a night class four hours from home, drawing the quiet, wordless attention of a lonely ranch hand in the class.
+
+curated:
+  curator: house
+  rationale: The two performances that show how deliberately the discomfort gets used, then the franchise built on the same raw material.
+  order:
+    - twilight
+    - adventureland
+    - panic-room
+    - certain-women
+    - seberg
+    - clouds-of-sils-maria
+    - personal-shopper
+    - spencer
