@@ -1,0 +1,82 @@
+# New films for Javier Bardem. Scales and anchors are in README.md ("The anchor rubric").
+#
+# No Country for Old Men already exists in coens.yaml — tagged before he had an entity. Skyfall
+# already exists in fiennes.yaml — tagged before he had an entity.
+
+- id: before-night-falls
+  tmdb_id: null
+  title: Before Night Falls
+  year: 2000
+  runtime: 133
+  director: Julian Schnabel
+  tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: vicky-cristina-barcelona
+  tmdb_id: null
+  title: Vicky Cristina Barcelona
+  year: 2008
+  runtime: 96
+  director: Woody Allen
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: biutiful
+  tmdb_id: null
+  title: Biutiful
+  year: 2010
+  runtime: 148
+  director: Alejandro G. Inarritu
+  tags:
+    opacity: 2
+    stillness: 4
+    bleakness: 5 # a dying father putting his affairs in order across Barcelona's undocumented underclass
+    humor: 1
+    acclaim: 0.72
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-counselor
+  tmdb_id: null
+  title: The Counselor
+  year: 2013
+  runtime: 117
+  director: Ridley Scott
+  tags:
+    opacity: 3 # a cartel deal whose exact mechanics the film withholds until it's already too late
+    stillness: 3
+    bleakness: 5
+    humor: 1
+    acclaim: 0.45
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: mother-2017
+  tmdb_id: null
+  title: mother!
+  year: 2017
+  runtime: 121
+  director: Darren Aronofsky
+  tags:
+    opacity: 4 # a domestic drama that reveals itself as biblical allegory only in pieces, and late
+    stillness: 2
+    bleakness: 5
+    humor: 1
+    acclaim: 0.58
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+
+- id: eat-pray-love
+  tmdb_id: null
+  title: Eat Pray Love
+  year: 2010
+  runtime: 133
+  director: Ryan Murphy
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 3, acclaim: 0.48 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-sea-inside
+  tmdb_id: null
+  title: The Sea Inside
+  year: 2004
+  runtime: 125
+  director: Alejandro Amenabar
+  tags: { opacity: 1, stillness: 4, bleakness: 5, humor: 2, acclaim: 0.8 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }

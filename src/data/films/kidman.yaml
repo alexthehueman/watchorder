@@ -1,0 +1,88 @@
+# New films for Nicole Kidman. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Eyes Wide Shut already exists in kubrick.yaml (a genuine dual lead with Cruise) — tagged before
+# she had an entity. To Die For already exists in phoenix.yaml (his film debut, opposite her) —
+# tagged before she had an entity.
+
+- id: moulin-rouge
+  tmdb_id: null
+  title: Moulin Rouge!
+  year: 2001
+  runtime: 128
+  director: Baz Luhrmann
+  tags: { opacity: 1, stillness: 1, bleakness: 4, humor: 3, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: the-hours
+  tmdb_id: null
+  title: The Hours
+  year: 2002
+  runtime: 114
+  director: Stephen Daldry
+  tags:
+    opacity: 3 # three timelines linked by a single day, and the connection isn't spelled out until late
+    stillness: 4
+    bleakness: 5
+    humor: 1
+    acclaim: 0.82
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
+
+- id: dogville
+  tmdb_id: null
+  title: Dogville
+  year: 2003
+  runtime: 178
+  director: Lars von Trier
+  tags:
+    opacity: 2
+    stillness: 4
+    bleakness: 5 # a small American town's cruelty escalates on a bare soundstage with chalk-outline walls
+    humor: 1
+    acclaim: 0.78
+  content: { sexual_violence: true, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 1 }
+
+- id: birth
+  tmdb_id: null
+  title: Birth
+  year: 2004
+  runtime: 100
+  director: Jonathan Glazer
+  tags:
+    opacity: 4 # never resolves whether the boy is who he claims to be, and refuses to want to
+    stillness: 5
+    bleakness: 4
+    humor: 1
+    acclaim: 0.65
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: rabbit-hole
+  tmdb_id: null
+  title: Rabbit Hole
+  year: 2010
+  runtime: 91
+  director: John Cameron Mitchell
+  tags: { opacity: 1, stillness: 4, bleakness: 5, humor: 1, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 0 }
+
+- id: the-paperboy
+  tmdb_id: null
+  title: The Paperboy
+  year: 2012
+  runtime: 107
+  director: Lee Daniels
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.5 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: the-others
+  tmdb_id: null
+  title: The Others
+  year: 2001
+  runtime: 104
+  director: Alejandro Amenabar
+  tags:
+    opacity: 4 # a ghost story whose entire structure is built around a reveal it never telegraphs
+    stillness: 4
+    bleakness: 4
+    humor: 1
+    acclaim: 0.78
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

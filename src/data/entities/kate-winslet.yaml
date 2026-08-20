@@ -1,0 +1,84 @@
+slug: kate-winslet
+kind: actor
+name: Kate Winslet
+blurb: Turned period-drama credibility into a career-long willingness to play women whose composure the film is actively testing, whatever century it's set in.
+
+films:
+  - film: revolutionary-road
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: menacing
+    gateway: 3
+    note: A suburban wife whose plan to escape into a life she actually wants collides with a marriage built on not wanting things too loudly.
+
+  - film: eternal-sunshine-of-the-spotless-mind
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: A free spirit reconstructed entirely through a bitter ex's fading, unreliable memory of her.
+
+  - film: the-reader
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A former SS guard on trial, hiding a secret shame more urgent to her than the one everyone assumes.
+
+  - film: little-children
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A bored suburban mother drifting into an affair with another parent, in a novel-thin town that's watching closer than either of them realizes.
+
+  - film: titanic
+    signature: 4
+    showcase: 3
+    role_size: lead
+    register: warm
+    gateway: 5
+    note: A first-class passenger suffocating under her engagement, until a steerage ticket changes what the rest of the voyage means.
+
+  - film: sense-and-sensibility
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: The impulsive Marianne Dashwood, whose romanticism the film both indulges and quietly corrects.
+
+  - film: steve-jobs
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: restrained
+    gateway: 3
+    note: Apple's marketing chief, the one person willing to tell Jobs the truth backstage before every product launch.
+
+  - film: the-holiday
+    signature: 2
+    showcase: 2
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: A lovelorn columnist swapping houses with a stranger for the holidays, in a broad, deliberately comforting romantic comedy.
+
+curated:
+  curator: house
+  rationale: The two performances built entirely around composure cracking, then the range around them.
+  order:
+    - revolutionary-road
+    - eternal-sunshine-of-the-spotless-mind
+    - titanic
+    - the-holiday
+    - sense-and-sensibility
+    - steve-jobs
+    - little-children
+    - the-reader
