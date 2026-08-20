@@ -1,0 +1,111 @@
+slug: russell-crowe
+kind: actor
+name: Russell Crowe
+blurb: A physical, forceful presence in almost anything, deployed as often for a man's principled stubbornness as for the violence that stubbornness eventually turns into.
+
+films:
+  - film: gladiator
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 5
+    note: A Roman general sold into slavery who fights his way back toward the emperor who ordered his family's murder. Won him the Oscar.
+
+  - film: la-confidential
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: menacing
+    gateway: 3
+    note: A brutal, by-the-book LAPD detective whose willingness to use his fists is the one thing the department can't quite train out of him.
+
+  - film: a-beautiful-mind
+    signature: 3
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: Mathematician John Nash, whose brilliant career is slowly revealed to be entangled with a paranoid schizophrenia the film hides from the audience too.
+
+  - film: the-insider
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A tobacco-industry whistleblower risking his career, his marriage, and his safety to get one interview onto national television.
+
+  - film: cinderella-man
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: A washed-up Depression-era boxer given one improbable shot at a title, playing desperation and dignity as the same thing.
+
+  - film: master-and-commander
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: A Royal Navy captain pursuing a French warship across the Pacific during the Napoleonic Wars, commanding through competence rather than charisma.
+
+  - film: noah
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: unhinged
+    gateway: 2
+    note: A man convinced God has commanded him to save his family and every animal on earth while letting the rest of humanity drown, played with real, escalating fanaticism.
+
+  - film: american-gangster
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: menacing
+    gateway: 4
+    note: A detective spending years building an airtight case against a heroin kingpin, playing dogged, incorruptible patience against a much flashier opponent.
+
+  - film: 3-10-to-yuma
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: menacing
+    gateway: 3
+    note: A captured outlaw testing the resolve of the struggling rancher escorting him to a prison train, playing danger as charm rather than force for most of the ride.
+
+  - film: the-nice-guys
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 4
+    note: A hired enforcer reluctantly partnered with a bumbling private eye, playing tough-guy competence as the film's comic straight man.
+
+  - film: les-miserables
+    signature: 3
+    showcase: 2
+    role_size: lead
+    register: menacing
+    gateway: 3
+    note: Inspector Javert, pursuing an escaped convict across decades with a rigid, unbending belief in the law that the film treats as its own tragedy.
+
+curated:
+  curator: house
+  rationale: The two performances that show the range of the physical force first, then everywhere else it's channeled.
+  order:
+    - gladiator
+    - master-and-commander
+    - cinderella-man
+    - a-beautiful-mind
+    - noah
+    - american-gangster
+    - 3-10-to-yuma
+    - the-nice-guys
+    - les-miserables
+    - the-insider
+    - la-confidential

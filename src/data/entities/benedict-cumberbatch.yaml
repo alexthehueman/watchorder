@@ -1,0 +1,84 @@
+slug: benedict-cumberbatch
+kind: actor
+name: Benedict Cumberbatch
+blurb: Plays exceptional, often cruel intelligence so precisely that the same register works equally well for a genius, a sociopath, and a man just barely holding a difficult personality together.
+
+films:
+  - film: the-power-of-the-dog
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: menacing
+    gateway: 2
+    note: A domineering Montana rancher whose contempt for his brother's new wife and her son conceals something the film only reveals at the very end.
+
+  - film: the-imitation-game
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: Alan Turing, breaking the Nazi Enigma code while concealing his sexuality from a country that would later prosecute him for it.
+
+  - film: tinker-tailor-soldier-spy-2011
+    signature: 4
+    showcase: 4
+    role_size: supporting
+    register: restrained
+    gateway: 3
+    note: A loyal intelligence officer assisting a retired spymaster's off-the-books hunt for a Soviet mole inside British intelligence.
+
+  - film: 12-years-a-slave
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: warm
+    gateway: 3
+    note: A comparatively humane plantation owner whose kindness never once translates into the freedom it would actually take to matter.
+
+  - film: the-current-war
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: menacing
+    gateway: 3
+    note: Thomas Edison, waging a ruthless publicity war against George Westinghouse over which electrical current will power the country.
+
+  - film: star-trek-into-darkness
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: menacing
+    gateway: 5
+    note: A genetically engineered supersoldier posing as a Starfleet officer, playing controlled menace under a very thin layer of cooperation.
+
+  - film: doctor-strange
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: An arrogant, brilliant surgeon who loses the use of his hands and finds a new, stranger kind of mastery in the mystic arts.
+
+  - film: the-fifth-estate
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: menacing
+    gateway: 3
+    note: Julian Assange, playing WikiLeaks' founder as a man whose commitment to radical transparency curdles into something closer to control.
+
+curated:
+  curator: house
+  rationale: The two performances that show the range of the precise intelligence first, then the range around them.
+  order:
+    - doctor-strange
+    - the-current-war
+    - star-trek-into-darkness
+    - tinker-tailor-soldier-spy-2011
+    - the-imitation-game
+    - the-fifth-estate
+    - 12-years-a-slave
+    - the-power-of-the-dog

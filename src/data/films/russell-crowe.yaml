@@ -1,0 +1,85 @@
+# New films for Russell Crowe. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Gladiator already exists in phoenix.yaml — tagged before he had an entity. The Insider already
+# exists in pacino.yaml (a genuine dual lead) — tagged before he had an entity. American Gangster
+# already exists in washington.yaml (a genuine dual lead) — tagged before he had an entity.
+# 3:10 to Yuma already exists in bale.yaml (a genuine dual lead) — tagged before he had an
+# entity.
+
+- id: la-confidential
+  tmdb_id: null
+  title: L.A. Confidential
+  year: 1997
+  runtime: 138
+  director: Curtis Hanson
+  tags:
+    opacity: 2 # a noir procedural that keeps three detectives working from partial, conflicting pictures of the same case
+    stillness: 2
+    bleakness: 5
+    humor: 1
+    acclaim: 0.88
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+
+- id: a-beautiful-mind
+  tmdb_id: null
+  title: A Beautiful Mind
+  year: 2001
+  runtime: 135
+  director: Ron Howard
+  tags:
+    opacity: 3 # the film withholds, on purpose, which of his relationships are real
+    stillness: 2
+    bleakness: 4
+    humor: 2
+    acclaim: 0.82
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: master-and-commander
+  tmdb_id: null
+  title: Master and Commander
+  year: 2003
+  runtime: 138
+  director: Peter Weir
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.8 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: cinderella-man
+  tmdb_id: null
+  title: Cinderella Man
+  year: 2005
+  runtime: 144
+  director: Ron Howard
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: noah
+  tmdb_id: null
+  title: Noah
+  year: 2014
+  runtime: 138
+  director: Darren Aronofsky
+  tags:
+    opacity: 3 # visions the film never confirms as literal divine communication or a man's own certainty
+    stillness: 3
+    bleakness: 5
+    humor: 1
+    acclaim: 0.65
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-nice-guys
+  tmdb_id: null
+  title: The Nice Guys
+  year: 2016
+  runtime: 116
+  director: Shane Black
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: les-miserables
+  tmdb_id: null
+  title: Les Miserables
+  year: 2012
+  runtime: 158
+  director: Tom Hooper
+  tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.68 }
+  content: { sexual_violence: true, animal_harm: false, child_harm: true, suicide: true, violence: 2, sex: 0 }
