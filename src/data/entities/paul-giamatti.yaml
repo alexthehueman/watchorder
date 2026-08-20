@@ -1,0 +1,84 @@
+slug: paul-giamatti
+kind: actor
+name: Paul Giamatti
+blurb: A gift for irritable, self-sabotaging intelligence, carried as often into lead roles as into pointed, morally compromised supporting turns.
+
+films:
+  - film: sideways
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A struggling, wine-obsessed novelist on a wine-country road trip before his friend's wedding, playing real, unglamorous midlife despair underneath the comedy.
+
+  - film: barneys-version
+    signature: 4
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: warm
+    gateway: 2
+    note: An irascible TV producer looking back on three marriages and a life he can't quite account for, playing gruff, unreliable warmth underneath the bluster.
+
+  - film: american-splendor
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: comic
+    gateway: 3
+    note: A biopic of underground comic writer Harvey Pekar, playing cranky, deadpan resignation against the real man's own on-camera commentary.
+
+  - film: win-win
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: A struggling lawyer and wrestling coach whose small ethical compromise spirals out of control, playing quiet, mounting guilt underneath a likable exterior.
+
+  - film: cinderella-man
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: warm
+    gateway: 4
+    note: A boxing manager sticking by his fighter through the Depression's worst years, playing loyal, scrappy warmth.
+
+  - film: the-illusionist-2006
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: menacing
+    gateway: 3
+    note: A police inspector caught between political pressure and his own suspicions, playing controlled, calculating authority.
+
+  - film: 12-years-a-slave
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: menacing
+    gateway: 1
+    note: A slave trader conducting his transactions with chilling, businesslike detachment.
+
+  - film: straight-outta-compton
+    signature: 1
+    showcase: 3
+    role_size: supporting
+    register: unhinged
+    gateway: 2
+    note: N.W.A's volatile, exploitative manager, playing charm curdling into open financial betrayal.
+
+curated:
+  curator: house
+  rationale: The two roles that carry the most weight and warmth first, then the range of morally compromised supporting turns.
+  order:
+    - sideways
+    - barneys-version
+    - american-splendor
+    - win-win
+    - cinderella-man
+    - the-illusionist-2006
+    - straight-outta-compton
+    - 12-years-a-slave

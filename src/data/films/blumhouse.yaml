@@ -63,7 +63,12 @@
   year: 2014
   runtime: 106
   director: Damien Chazelle
-  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.93 }
+  tags:
+    opacity: 2 # whether the final performance is a triumph or the abuse simply working stays genuinely unresolved
+    stillness: 2
+    bleakness: 3
+    humor: 1
+    acclaim: 0.93
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt2582802
   poster_url: https://m.media-amazon.com/images/M/MV5BMDFjOWFkYzktYzhhMC00NmYyLTkwY2EtYjViMDhmNzg0OGFkXkEyXkFqcGc@._V1_SX300.jpg

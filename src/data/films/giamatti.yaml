@@ -1,0 +1,56 @@
+# New films for Paul Giamatti. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Illusionist (2006) already exists in norton.yaml — tagged before he had an entity.
+# Cinderella Man already exists in russell-crowe.yaml. 12 Years a Slave already exists in
+# fassbender.yaml. Straight Outta Compton already exists in stanfield.yaml.
+
+- id: sideways
+  tmdb_id: null
+  title: Sideways
+  year: 2004
+  runtime: 127
+  director: Alexander Payne
+  tags:
+    opacity: 1
+    stillness: 3
+    bleakness: 3 # a real, unglamorous midlife failure sits underneath the wine-country comedy
+    humor: 4
+    acclaim: 0.82
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: american-splendor
+  tmdb_id: null
+  title: American Splendor
+  year: 2003
+  runtime: 101
+  director: Shari Springer Berman
+  tags:
+    opacity: 2 # the film deliberately blurs the dramatized story with the real Harvey Pekar on camera
+    stillness: 3
+    bleakness: 3
+    humor: 3
+    acclaim: 0.83
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: win-win
+  tmdb_id: null
+  title: Win Win
+  year: 2011
+  runtime: 106
+  director: Tom McCarthy
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: barneys-version
+  tmdb_id: null
+  title: Barney's Version
+  year: 2010
+  runtime: 134
+  director: Richard J. Lewis
+  tags:
+    opacity: 2 # an unreliable narrator looking back on his own messy life, including a death he may or may not be responsible for
+    stillness: 2
+    bleakness: 3
+    humor: 3
+    acclaim: 0.68
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }

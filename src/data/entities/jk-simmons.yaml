@@ -1,0 +1,93 @@
+slug: jk-simmons
+kind: actor
+name: J.K. Simmons
+blurb: A blustery, barking authority figure so reliable it became a career-defining joke — until one performance turned the exact same intensity into pure terror.
+
+films:
+  - film: whiplash
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: menacing
+    gateway: 2
+    note: A ferocious, abusive music conservatory instructor pushing a young drummer past every reasonable limit, playing controlled cruelty with no comic release.
+
+  - film: spider-man
+    signature: 4
+    must_see: true
+    showcase: 3
+    role_size: supporting
+    register: comic
+    gateway: 4
+    note: A blustery newspaper editor barking orders and insults at everyone in earshot, playing pure comic bravado.
+
+  - film: spider-man-2
+    signature: 3
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 4
+    note: The same blustery editor, playing the exact bravado audiences had already come to expect from him.
+
+  - film: juno
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: warm
+    gateway: 5
+    note: A pregnant teenager's easygoing, supportive father, playing understated warmth against the film's rapid-fire dialogue.
+
+  - film: patriots-day
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: restrained
+    gateway: 2
+    note: A veteran police sergeant coordinating the manhunt after the Boston Marathon bombing, playing grim, procedural focus with no room for bravado.
+
+  - film: zootopia
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: warm
+    gateway: 5
+    note: A blustery city mayor voiced with the same barking, self-important bravado, playing broad comic authority in a handful of scenes.
+
+  - film: the-ladykillers-2004
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: unhinged
+    gateway: 3
+    note: An irritable, high-strung demolitions expert posing as a Renaissance-music ensemble member, playing manic, oddball intensity.
+
+  - film: spider-man-3
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: unhinged
+    gateway: 4
+    note: The same blustery editor now ricocheting between competing front-page crises, playing frantic, escalating panic.
+
+  - film: up-in-the-air
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: restrained
+    gateway: 3
+    note: A recently laid-off employee absorbing the news with quiet, wounded disbelief, playing a brief moment entirely straight.
+
+curated:
+  curator: house
+  rationale: The performance that upended the persona first, then the persona itself across its most familiar and most varied appearances.
+  order:
+    - whiplash
+    - spider-man
+    - spider-man-2
+    - juno
+    - the-ladykillers-2004
+    - zootopia
+    - spider-man-3
+    - patriots-day
+    - up-in-the-air

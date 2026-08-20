@@ -1,0 +1,75 @@
+# New films for J.K. Simmons. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Spider-Man (2002) already exists in dafoe.yaml — tagged before he had an entity. Whiplash
+# already exists in blumhouse.yaml. Juno already exists in cera.yaml. Up in the Air already
+# exists in clooney.yaml.
+
+- id: spider-man-2
+  tmdb_id: null
+  title: Spider-Man 2
+  year: 2004
+  runtime: 127
+  director: Sam Raimi
+  tags:
+    opacity: 2 # how far Doc Ock's own will versus the AI arms' influence is driving him stays genuinely unclear
+    stillness: 1
+    bleakness: 2
+    humor: 3
+    acclaim: 0.82
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: spider-man-3
+  tmdb_id: null
+  title: Spider-Man 3
+  year: 2007
+  runtime: 139
+  director: Sam Raimi
+  tags:
+    opacity: 2 # the symbiote's hold over Parker, and how far it's spreading, stays unclear for most of the film
+    stillness: 1
+    bleakness: 2
+    humor: 3
+    acclaim: 0.63
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: patriots-day
+  tmdb_id: null
+  title: Patriots Day
+  year: 2016
+  runtime: 133
+  director: Peter Berg
+  tags:
+    opacity: 1
+    stillness: 4
+    bleakness: 5
+    humor: 1
+    acclaim: 0.68
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: zootopia
+  tmdb_id: null
+  title: Zootopia
+  year: 2016
+  runtime: 108
+  director: Byron Howard
+  tags:
+    opacity: 2 # whether the mayor is complicit in the conspiracy or covering for someone else stays unclear until it's revealed
+    stillness: 1
+    bleakness: 2
+    humor: 4
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-ladykillers-2004
+  tmdb_id: null
+  title: The Ladykillers
+  year: 2004
+  runtime: 104
+  director: Joel Coen
+  tags:
+    opacity: 2 # whether the old landlady is really as oblivious as she seems stays an open question until it isn't
+    stillness: 1
+    bleakness: 2
+    humor: 4
+    acclaim: 0.55
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }

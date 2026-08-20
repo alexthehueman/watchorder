@@ -1,0 +1,47 @@
+# New films for John Turturro. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Barton Fink, The Big Lebowski, O Brother Where Art Thou, and Miller's Crossing already exist
+# in coens.yaml — tagged before he had an entity. Do the Right Thing already exists in
+# spike-lee.yaml.
+
+- id: quiz-show
+  tmdb_id: null
+  title: Quiz Show
+  year: 1994
+  runtime: 133
+  director: Robert Redford
+  tags:
+    opacity: 2 # how far up the network the complicity actually goes stays unresolved for most of the investigation
+    stillness: 2
+    bleakness: 3 # a real, wronged man's slow-burning bitterness sits at the center of the scandal
+    humor: 2
+    acclaim: 0.78
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: fading-gigolo
+  tmdb_id: null
+  title: Fading Gigolo
+  year: 2013
+  runtime: 90
+  director: John Turturro
+  tags:
+    opacity: 2 # how much of his sudden new career is financial necessity versus genuine reinvention stays gently unresolved
+    stillness: 3
+    bleakness: 2
+    humor: 3
+    acclaim: 0.65
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+
+- id: rounders
+  tmdb_id: null
+  title: Rounders
+  year: 1998
+  runtime: 121
+  director: John Dahl
+  tags:
+    opacity: 2 # whether Knish is actually looking out for the kid or steering him toward his own old habits stays unclear
+    stillness: 2
+    bleakness: 3 # a real financial ruin sits underneath the poker-table bravado
+    humor: 2
+    acclaim: 0.68
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
