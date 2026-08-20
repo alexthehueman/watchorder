@@ -1,0 +1,47 @@
+slug: michael-sheen
+kind: actor
+name: Michael Sheen
+blurb: A precise, transformative gift for playing real public figures without ever settling for simple impression, then a genuine appetite for full-blooded genre villainy on the side.
+
+films:
+  - film: frost-nixon
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A British talk-show host preparing for a career-defining interview with a disgraced former president, playing ambition and genuine journalistic conviction as inseparable.
+
+  - film: the-queen
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: warm
+    gateway: 3
+    note: A newly elected Prime Minister trying to bridge the gap between a grieving public and a famously reserved monarchy, playing political instinct as genuine, if calculated, sympathy.
+
+  - film: beautiful-boy
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: restrained
+    gateway: 2
+    note: A steady, professional presence supporting a family through a son's addiction crisis, appearing briefly but with real, grounded compassion.
+
+  - film: twilight
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: menacing
+    gateway: 4
+    note: A powerful, ancient vampire leader whose rare appearances carry real, unhurried menace against the franchise's younger cast.
+
+curated:
+  curator: house
+  rationale: The performance built entirely on precise, transformative impression first, then everywhere else that same precision gets put to different use.
+  order:
+    - twilight
+    - beautiful-boy
+    - the-queen
+    - frost-nixon

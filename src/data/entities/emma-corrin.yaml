@@ -1,0 +1,47 @@
+slug: emma-corrin
+kind: actor
+name: Emma Corrin
+blurb: A restless, searching quality applied to characters caught inside relationships and roles that don't let them be fully themselves.
+
+films:
+  - film: my-policeman
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A schoolteacher married to a policeman who's secretly in love with another man, playing devotion to a marriage she can feel is incomplete.
+
+  - film: lady-chatterleys-lover
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: warm
+    gateway: 2
+    note: An aristocrat trapped in a loveless marriage who finds real vitality in an affair with her groundskeeper, playing awakening as the film's entire emotional argument.
+
+  - film: misbehaviour
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: warm
+    gateway: 3
+    note: A beauty pageant contestant caught between the era's expectations and a growing feminist movement outside, appearing briefly but with real, specific presence.
+
+  - film: deadpool-and-wolverine
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: menacing
+    gateway: 4
+    note: A villain whose theatrical menace plays comfortably alongside the film's constant fourth-wall-breaking irony.
+
+curated:
+  curator: house
+  rationale: The two performances built entirely on searching for real vitality inside a constrained role, then the blockbuster where that instinct gets aimed at villainy instead.
+  order:
+    - deadpool-and-wolverine
+    - misbehaviour
+    - lady-chatterleys-lover
+    - my-policeman

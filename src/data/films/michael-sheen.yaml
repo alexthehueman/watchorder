@@ -1,0 +1,19 @@
+# New films for Michael Sheen. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Queen already exists in mirren.yaml — tagged before he had an entity. Twilight already
+# exists in kendrick.yaml — tagged before he had an entity. Beautiful Boy already exists in
+# chalamet.yaml — tagged before he had an entity.
+
+- id: frost-nixon
+  tmdb_id: null
+  title: Frost/Nixon
+  year: 2008
+  runtime: 122
+  director: Ron Howard
+  tags:
+    opacity: 2 # whether he can actually land a real confession stays a live, uncertain question through most of the interviews
+    stillness: 2
+    bleakness: 3
+    humor: 2
+    acclaim: 0.78
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

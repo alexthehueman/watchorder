@@ -1,0 +1,37 @@
+# New films for Emma Corrin. Scales and anchors are in README.md ("The anchor rubric").
+
+- id: my-policeman
+  tmdb_id: null
+  title: My Policeman
+  year: 2022
+  runtime: 113
+  director: Michael Grandage
+  tags: { opacity: 2, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: lady-chatterleys-lover
+  tmdb_id: null
+  title: Lady Chatterley's Lover
+  year: 2022
+  runtime: 126
+  director: Laure de Clermont-Tonnerre
+  tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.62 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+
+- id: misbehaviour
+  tmdb_id: null
+  title: Misbehaviour
+  year: 2020
+  runtime: 106
+  director: Philippa Lorthiraj
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.62 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: deadpool-and-wolverine
+  tmdb_id: null
+  title: Deadpool and Wolverine
+  year: 2024
+  runtime: 128
+  director: Shawn Levy
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 4, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
