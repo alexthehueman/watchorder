@@ -1,0 +1,47 @@
+slug: adrien-brody
+kind: actor
+name: Adrien Brody
+blurb: Built a career on gaunt, watchful intensity, at its most demanding in a single career-defining transformation and at its most playful inside Wes Anderson's ensembles.
+
+films:
+  - film: the-pianist
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A Polish-Jewish pianist surviving the Warsaw Ghetto and years in hiding, playing physical and psychological erosion across a performance built on almost total silence.
+
+  - film: detachment
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A substitute teacher drifting through a failing school while deliberately avoiding any lasting connection, playing emotional withdrawal as a survival strategy.
+
+  - film: the-grand-budapest-hotel
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: menacing
+    gateway: 3
+    note: A wealthy family's entitled, vindictive heir contesting a will, playing petty cruelty as pure comic villainy.
+
+  - film: king-kong-2005
+    signature: 2
+    showcase: 2
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: A playwright caught up in an expedition to a mysterious island, playing genuine tenderness toward a giant ape the rest of the crew only sees as a threat.
+
+curated:
+  curator: house
+  rationale: The performance built entirely on physical transformation and silence, then everywhere else that same watchful intensity gets put to different use.
+  order:
+    - king-kong-2005
+    - the-grand-budapest-hotel
+    - detachment
+    - the-pianist

@@ -1,0 +1,47 @@
+slug: julianne-nicholson
+kind: actor
+name: Julianne Nicholson
+blurb: A watchful, understated presence that's spent decades in reliable supporting work before a run of lead roles proved exactly how much control was underneath it.
+
+films:
+  - film: may-december
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A woman whose relationship with a much younger man decades earlier becomes the subject of an actress's research visit, playing self-possession the film never lets you fully trust.
+
+  - film: black-mass
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: restrained
+    gateway: 2
+    note: The wife of an FBI agent whose informant relationship with a violent gangster puts her own family at increasing risk, playing quiet dread as the situation worsens.
+
+  - film: novitiate
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: warm
+    gateway: 2
+    note: A devout mother watching her daughter commit to convent life with a mix of pride and quiet loss.
+
+  - film: i-tonya
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: warm
+    gateway: 3
+    note: A skating official offering one of the film's few moments of genuine sympathy toward its disgraced subject.
+
+curated:
+  curator: house
+  rationale: The performance built entirely on unreadable self-possession first, then everywhere else that same watchfulness gets put to supporting use.
+  order:
+    - i-tonya
+    - novitiate
+    - black-mass
+    - may-december

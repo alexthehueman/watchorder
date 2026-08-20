@@ -1,0 +1,57 @@
+slug: domhnall-gleeson
+kind: actor
+name: Domhnall Gleeson
+blurb: An open, faintly nervous decency that works equally well as a rom-com lead, a franchise villain, or the one uneasy conscience in a room full of people who've stopped asking questions.
+
+films:
+  - film: ex-machina
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A programmer invited to administer a Turing test to a strikingly advanced AI, playing growing unease as he loses any confident read on what's actually being tested.
+
+  - film: about-time
+    signature: 5
+    must_see: true
+    showcase: 4
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: A young man who discovers his family can time travel and tries to use it to find love, playing earnest, unguarded sincerity across the whole film.
+
+  - film: the-revenant
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: menacing
+    gateway: 2
+    note: A frontier company captain whose commands set the film's central betrayal in motion, playing authority curdling into complicity.
+
+  - film: brooklyn
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: warm
+    gateway: 3
+    note: A steady, decent Irish suitor competing for the protagonist's future against a life she's already built in America.
+
+  - film: star-wars-the-force-awakens
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: menacing
+    gateway: 4
+    note: A rigid, ambitious First Order officer pushing an aggressive military strategy, playing cold conviction as a franchise-scale antagonist.
+
+curated:
+  curator: house
+  rationale: The two performances that show the range from open sincerity to genuine unease, then everywhere else in between.
+  order:
+    - about-time
+    - brooklyn
+    - star-wars-the-force-awakens
+    - the-revenant
+    - ex-machina

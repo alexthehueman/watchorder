@@ -1,0 +1,22 @@
+# New films for Adrien Brody. Scales and anchors are in README.md ("The anchor rubric").
+#
+# King Kong already exists in watts.yaml — tagged before he had an entity. The Grand Budapest
+# Hotel already exists in fiennes.yaml — tagged before he had an entity.
+
+- id: the-pianist
+  tmdb_id: null
+  title: The Pianist
+  year: 2002
+  runtime: 150
+  director: Roman Polanski
+  tags: { opacity: 1, stillness: 4, bleakness: 5, humor: 1, acclaim: 0.9 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
+
+- id: detachment
+  tmdb_id: null
+  title: Detachment
+  year: 2011
+  runtime: 98
+  director: Tony Kaye
+  tags: { opacity: 2, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 0 }

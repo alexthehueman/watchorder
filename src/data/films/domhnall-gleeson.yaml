@@ -1,0 +1,15 @@
+# New films for Domhnall Gleeson. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Ex Machina already exists in a24.yaml — tagged before he had an entity. The Revenant already
+# exists in dicaprio.yaml — tagged before he had an entity. Brooklyn already exists in ronan.yaml
+# — tagged before he had an entity. Star Wars The Force Awakens already exists in isaac.yaml —
+# tagged before he had an entity.
+
+- id: about-time
+  tmdb_id: null
+  title: About Time
+  year: 2013
+  runtime: 123
+  director: Richard Curtis
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
