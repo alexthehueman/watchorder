@@ -1,0 +1,96 @@
+# New films for Rachel Weisz. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Fountain already exists in jackman.yaml (a genuine dual lead) — tagged before she had an
+# entity.
+
+- id: the-mummy-1999
+  tmdb_id: null
+  title: The Mummy
+  year: 1999
+  runtime: 124
+  director: Stephen Sommers
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-constant-gardener
+  tmdb_id: null
+  title: The Constant Gardener
+  year: 2005
+  runtime: 129
+  director: Fernando Meirelles
+  tags:
+    opacity: 3 # a grieving husband reconstructing his wife's murder investigation from fragments she never shared with him
+    stillness: 3
+    bleakness: 5
+    humor: 1
+    acclaim: 0.82
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-lobster
+  tmdb_id: null
+  title: The Lobster
+  year: 2015
+  runtime: 118
+  director: Yorgos Lanthimos
+  tags:
+    opacity: 3 # a deadpan dystopian premise the film never once explains the origin or rules of beyond what's shown
+    stillness: 3
+    bleakness: 4
+    humor: 3
+    acclaim: 0.78
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: disobedience
+  tmdb_id: null
+  title: Disobedience
+  year: 2017
+  runtime: 114
+  director: Sebastian Lelio
+  tags: { opacity: 1, stillness: 4, bleakness: 4, humor: 1, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+
+- id: definitely-maybe
+  tmdb_id: null
+  title: Definitely Maybe
+  year: 2008
+  runtime: 112
+  director: Adam Brooks
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-bourne-legacy
+  tmdb_id: null
+  title: The Bourne Legacy
+  year: 2012
+  runtime: 135
+  director: Tony Gilroy
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.6 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: my-cousin-rachel
+  tmdb_id: null
+  title: My Cousin Rachel
+  year: 2017
+  runtime: 106
+  director: Roger Michell
+  tags:
+    opacity: 4 # never resolves whether she's a grieving widow or a calculating poisoner
+    stillness: 3
+    bleakness: 4
+    humor: 1
+    acclaim: 0.65
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: the-favourite
+  tmdb_id: null
+  title: The Favourite
+  year: 2018
+  runtime: 121
+  director: Yorgos Lanthimos
+  tags:
+    opacity: 2
+    stillness: 2
+    bleakness: 4 # a court intrigue whose loyalties the film keeps deliberately slippery until the final shot
+    humor: 4
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 2 }

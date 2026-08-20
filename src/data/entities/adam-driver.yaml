@@ -1,0 +1,93 @@
+slug: adam-driver
+kind: actor
+name: Adam Driver
+blurb: A big, unusual physical presence used for genuine tenderness as often as for menace — a bus-driving poet and a brooding Sith apprentice, played with the same total sincerity.
+
+films:
+  - film: marriage-story
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 4
+    note: A theater director watching an amicable divorce turn adversarial the moment lawyers get involved, playing wounded pride escalating past his own control.
+
+  - film: silence
+    signature: 3
+    showcase: 4
+    role_size: supporting
+    register: restrained
+    gateway: 2
+    note: A Jesuit missionary in 17th-century Japan, watching his faith tested past the point where conviction and survival can both be honored.
+
+  - film: annette
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: unhinged
+    gateway: 2
+    note: A stand-up comedian whose marriage to an opera singer produces a daughter who is, inexplicably and without comment from the film, a wooden puppet.
+
+  - film: paterson
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A bus driver and secret poet living the same quiet week on repeat, in a film built entirely around noticing small things.
+
+  - film: star-wars-the-force-awakens
+    signature: 2
+    showcase: 4
+    role_size: lead
+    register: menacing
+    gateway: 5
+    note: Kylo Ren, a Force-sensitive warrior torn between his family's legacy and the dark side he's already chosen, badly.
+
+  - film: the-last-duel
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: menacing
+    gateway: 2
+    note: A squire whose account of an assault is the second of three conflicting versions the film forces the audience to weigh against each other.
+
+  - film: blackkklansman
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: restrained
+    gateway: 3
+    note: A Jewish detective going undercover in person for a real Black officer's phone-only infiltration of the KKK, wearing a different kind of danger than his partner.
+
+  - film: house-of-gucci
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: Maurizio Gucci, drawn into his wife's ambition for the family fashion house until it consumes both the marriage and the company.
+
+  - film: star-wars-the-last-jedi
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: unhinged
+    gateway: 4
+    note: Kylo Ren's internal war between the dark side and Rey's influence reaches its most volatile, unresolved point in the trilogy.
+
+curated:
+  curator: house
+  rationale: The two performances that show the range of the physical presence first, then everywhere else it's applied.
+  order:
+    - star-wars-the-force-awakens
+    - star-wars-the-last-jedi
+    - house-of-gucci
+    - marriage-story
+    - blackkklansman
+    - paterson
+    - silence
+    - annette
+    - the-last-duel

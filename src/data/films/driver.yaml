@@ -1,0 +1,69 @@
+# New films for Adam Driver. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Star Wars The Force Awakens already exists in isaac.yaml — tagged before he had an entity.
+# Marriage Story already exists in johansson.yaml (a genuine dual lead) — tagged before he had
+# an entity. BlacKkKlansman already exists in spike-lee.yaml — tagged before he had an entity.
+
+- id: silence
+  tmdb_id: null
+  title: Silence
+  year: 2016
+  runtime: 161
+  director: Martin Scorsese
+  tags: { opacity: 2, stillness: 4, bleakness: 5, humor: 1, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: annette
+  tmdb_id: null
+  title: Annette
+  year: 2021
+  runtime: 141
+  director: Leos Carax
+  tags:
+    opacity: 3 # a rock-opera fable that keeps its own central conceit — a puppet infant — entirely unexplained
+    stillness: 2
+    bleakness: 5
+    humor: 1
+    acclaim: 0.62
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: paterson
+  tmdb_id: null
+  title: Paterson
+  year: 2016
+  runtime: 118
+  director: Jim Jarmusch
+  tags: { opacity: 2, stillness: 5, bleakness: 2, humor: 2, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-last-duel
+  tmdb_id: null
+  title: The Last Duel
+  year: 2021
+  runtime: 152
+  director: Ridley Scott
+  tags:
+    opacity: 3 # the same events told three times from three conflicting perspectives, on purpose
+    stillness: 3
+    bleakness: 5
+    humor: 1
+    acclaim: 0.72
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+
+- id: house-of-gucci
+  tmdb_id: null
+  title: House of Gucci
+  year: 2021
+  runtime: 158
+  director: Ridley Scott
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 3, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: star-wars-the-last-jedi
+  tmdb_id: null
+  title: Star Wars The Last Jedi
+  year: 2017
+  runtime: 152
+  director: Rian Johnson
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

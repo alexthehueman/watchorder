@@ -30,14 +30,6 @@ films:
     gateway: 4
     note: An Irish immigrant torn between a new life in 1950s Brooklyn and the home she left behind, playing homesickness and ambition as equally real.
 
-  - film: lady-macbeth
-    signature: 3
-    showcase: 5
-    role_size: lead
-    register: unhinged
-    gateway: 2
-    note: A young wife married into a loveless Victorian estate, whose pursuit of freedom turns colder and more ruthless with every obstacle removed.
-
   - film: little-women-2019
     signature: 3
     showcase: 4
@@ -70,6 +62,14 @@ films:
     gateway: 4
     note: A junior police constable investigating a backstage murder at a West End production of The Mousetrap, playing eager competence for broad comedy.
 
+  - film: how-i-live-now
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: unhinged
+    gateway: 2
+    note: An American teenager stranded in the English countryside with her cousins when a nuclear war breaks out, forced to survive on instinct alone.
+
   - film: ammonite
     signature: 3
     showcase: 4
@@ -96,7 +96,7 @@ curated:
     - hanna
     - atonement
     - mary-queen-of-scots
-    - lady-macbeth
     - see-how-they-run
+    - how-i-live-now
     - ammonite
     - on-chesil-beach

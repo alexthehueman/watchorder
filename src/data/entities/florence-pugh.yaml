@@ -1,0 +1,84 @@
+slug: florence-pugh
+kind: actor
+name: Florence Pugh
+blurb: A fierce, unblinking directness that made her breakout roles about women refusing to shrink, whatever the genre asks of her since.
+
+films:
+  - film: lady-macbeth
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 2
+    note: A young wife married into a loveless Victorian estate, whose pursuit of freedom turns colder and more ruthless with every obstacle removed. Her breakout role.
+
+  - film: midsommar
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 3
+    note: A grieving woman drawn into a Swedish pagan cult's midsummer festival, playing a slow, sunlit descent into something that starts to look like belonging.
+
+  - film: little-women-2019
+    signature: 3
+    showcase: 4
+    role_size: supporting
+    register: warm
+    gateway: 4
+    note: Amy March, refusing to be dismissed as the spoiled younger sister the story usually flattens her into.
+
+  - film: dont-worry-darling
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: unhinged
+    gateway: 3
+    note: A 1950s housewife in a picture-perfect company town whose growing suspicion that something is deeply wrong the film treats as the whole plot.
+
+  - film: a-good-person
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A woman spiraling into opioid addiction after surviving a car accident that killed her future sister-in-law's parents.
+
+  - film: oppenheimer
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: unhinged
+    gateway: 3
+    note: Jean Tatlock, a Communist Party psychiatrist whose relationship with Oppenheimer haunts both his marriage and his eventual security clearance hearing.
+
+  - film: black-widow
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: comic
+    gateway: 5
+    note: A former Russian assassin reuniting with her estranged "sister" for one last mission, playing sibling sniping as the film's real emotional engine.
+
+  - film: fighting-with-my-family
+    signature: 2
+    showcase: 2
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: A real-life British wrestler clawing her way into WWE against her family's expectations, playing scrappy determination as pure, unfiltered comedy.
+
+curated:
+  curator: house
+  rationale: The two performances that define the fierce directness first, then everywhere else it's applied.
+  order:
+    - lady-macbeth
+    - midsommar
+    - fighting-with-my-family
+    - oppenheimer
+    - black-widow
+    - little-women-2019
+    - dont-worry-darling
+    - a-good-person

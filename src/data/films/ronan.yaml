@@ -36,20 +36,6 @@
   tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 2, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
 
-- id: lady-macbeth
-  tmdb_id: null
-  title: Lady Macbeth
-  year: 2016
-  runtime: 89
-  director: William Oldroyd
-  tags:
-    opacity: 2
-    stillness: 3
-    bleakness: 5 # a young wife's escalating ruthlessness the film never once moralizes about
-    humor: 1
-    acclaim: 0.75
-  content: { sexual_violence: false, animal_harm: true, child_harm: true, suicide: false, violence: 3, sex: 1 }
-
 - id: on-chesil-beach
   tmdb_id: null
   title: On Chesil Beach
@@ -67,6 +53,15 @@
   director: Tom George
   tags: { opacity: 2, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.62 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: how-i-live-now
+  tmdb_id: null
+  title: How I Live Now
+  year: 2013
+  runtime: 101
+  director: Kevin Macdonald
+  tags: { opacity: 2, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.6 }
+  content: { sexual_violence: false, animal_harm: true, child_harm: true, suicide: false, violence: 3, sex: 1 }
 
 - id: ammonite
   tmdb_id: null
