@@ -1,0 +1,66 @@
+slug: ana-de-armas
+kind: actor
+name: Ana de Armas
+blurb: A warmth that reads as completely disarming right up until a director uses it to hide something colder underneath, a trick she's built an entire run of genre films around.
+
+films:
+  - film: blonde
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 1
+    note: A heavily fictionalized account of Marilyn Monroe's life told almost entirely from inside her own unraveling perspective, playing collapse without the usual biopic distance.
+
+  - film: knives-out
+    signature: 5
+    must_see: true
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: A private nurse with a compulsive tell whose testimony anchors the film's entire murder investigation, playing anxious honesty as the story's one reliable thread.
+
+  - film: blade-runner-2049
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: warm
+    gateway: 2
+    note: A hologram companion whose devotion the film keeps framing as both genuinely moving and unresolvably artificial.
+
+  - film: deep-water
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: menacing
+    gateway: 2
+    note: A wife openly flaunting affairs as part of a marriage's twisted private arrangement, playing provocation without ever showing her hand on how far it's meant to go.
+
+  - film: no-time-to-die
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: comic
+    gateway: 3
+    note: A rookie CIA agent whose single high-energy set piece steals the film out from under its own franchise lead.
+
+  - film: war-dogs
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: warm
+    gateway: 3
+    note: A girlfriend growing increasingly uneasy as her partner's arms-dealing side business spirals past anything he's willing to admit to her.
+
+curated:
+  curator: house
+  rationale: The two performances that show how far the warmth can curdle into something else, then everywhere else it stays intact.
+  order:
+    - no-time-to-die
+    - war-dogs
+    - blade-runner-2049
+    - knives-out
+    - deep-water
+    - blonde

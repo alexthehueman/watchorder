@@ -1,0 +1,58 @@
+# New films for Barry Keoghan. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Dunkirk already exists in cillian-murphy.yaml — tagged before he had an entity.
+
+- id: the-killing-of-a-sacred-deer
+  tmdb_id: null
+  title: The Killing of a Sacred Deer
+  year: 2017
+  runtime: 121
+  director: Yorgos Lanthimos
+  tags:
+    opacity: 4 # a curse the film never explains the mechanics of, delivered in a flat, disquieting register throughout
+    stillness: 4
+    bleakness: 5
+    humor: 1
+    acclaim: 0.68
+  content: { sexual_violence: false, animal_harm: true, child_harm: true, suicide: false, violence: 1, sex: 0 }
+
+- id: saltburn
+  tmdb_id: null
+  title: Saltburn
+  year: 2023
+  runtime: 131
+  director: Emerald Fennell
+  tags:
+    opacity: 4 # what he actually wants from this family, and how far he's already gone to get it, stays hidden until the film is ready to show its hand
+    stillness: 2
+    bleakness: 5
+    humor: 2
+    acclaim: 0.58
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 2 }
+
+- id: the-banshees-of-inisherin
+  tmdb_id: null
+  title: The Banshees of Inisherin
+  year: 2022
+  runtime: 114
+  director: Martin McDonagh
+  tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 2, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: american-animals
+  tmdb_id: null
+  title: American Animals
+  year: 2018
+  runtime: 116
+  director: Bart Layton
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 2, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: eternals
+  tmdb_id: null
+  title: Eternals
+  year: 2021
+  runtime: 156
+  director: Chloe Zhao
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.5 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

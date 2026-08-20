@@ -1,0 +1,61 @@
+# New films for Paul Mescal. Scales and anchors are in README.md ("The anchor rubric").
+
+- id: aftersun
+  tmdb_id: null
+  title: Aftersun
+  year: 2022
+  runtime: 102
+  director: Charlotte Wells
+  tags:
+    opacity: 3 # a father's private unraveling the film only ever shows through a child's incomplete memory of it
+    stillness: 4
+    bleakness: 4
+    humor: 1
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: all-of-us-strangers
+  tmdb_id: null
+  title: All of Us Strangers
+  year: 2023
+  runtime: 105
+  director: Andrew Haigh
+  tags:
+    opacity: 4 # the film never signals when it slips from present-tense reality into something else entirely
+    stillness: 4
+    bleakness: 5
+    humor: 1
+    acclaim: 0.82
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+
+- id: gladiator-ii
+  tmdb_id: null
+  title: Gladiator II
+  year: 2024
+  runtime: 148
+  director: Ridley Scott
+  tags:
+    opacity: 1
+    stillness: 1
+    bleakness: 3
+    humor: 2 # the arena crowd-baiting and political scheming carry a real streak of dark, theatrical wit
+    acclaim: 0.62
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: the-lost-daughter
+  tmdb_id: null
+  title: The Lost Daughter
+  year: 2021
+  runtime: 121
+  director: Maggie Gyllenhaal
+  tags: { opacity: 2, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: carmen-2023
+  tmdb_id: null
+  title: Carmen
+  year: 2023
+  runtime: 116
+  director: Benjamin Millepied
+  tags: { opacity: 2, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
