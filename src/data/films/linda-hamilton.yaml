@@ -1,0 +1,22 @@
+# New films for Linda Hamilton. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Terminator and Terminator 2: Judgment Day already exist in arnold-schwarzenegger.yaml —
+# tagged before she had an entity.
+
+- id: dantes-peak
+  tmdb_id: null
+  title: Dante's Peak
+  year: 1997
+  runtime: 108
+  director: Roger Donaldson
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: king-kong-lives
+  tmdb_id: null
+  title: King Kong Lives
+  year: 1986
+  runtime: 105
+  director: John Guillermin
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.25 }
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 1, sex: 0 }

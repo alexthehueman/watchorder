@@ -1,0 +1,27 @@
+# New films for Carrie Fisher. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Star Wars A New Hope already exists in ford-harrison.yaml — tagged before she had an entity.
+# When Harry Met Sally already exists in billy-crystal.yaml.
+
+- id: the-empire-strikes-back
+  tmdb_id: null
+  title: The Empire Strikes Back
+  year: 1980
+  runtime: 124
+  director: Irvin Kershner
+  tags:
+    opacity: 2 # the true parentage reveal and Han's fate stay genuinely unresolved until the very end
+    stillness: 2
+    bleakness: 3
+    humor: 2
+    acclaim: 0.95
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: return-of-the-jedi
+  tmdb_id: null
+  title: Return of the Jedi
+  year: 1983
+  runtime: 131
+  director: Richard Marquand
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 3, acclaim: 0.82 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

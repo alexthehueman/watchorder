@@ -1,0 +1,47 @@
+slug: mark-hamill
+kind: actor
+name: Mark Hamill
+blurb: An earnest, idealistic screen presence that carried one of cinema's most iconic hero's journeys across a single trilogy.
+
+films:
+  - film: the-empire-strikes-back
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 5
+    note: A young hero pushed to his limits, losing a hand and discovering a devastating truth about his family, playing raw, shattering realization.
+
+  - film: star-wars-a-new-hope
+    signature: 5
+    showcase: 4
+    role_size: lead
+    register: warm
+    gateway: 5
+    note: An eager, idealistic farm boy dreaming of something bigger, playing earnest, unguarded hope.
+
+  - film: return-of-the-jedi
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 5
+    note: A matured, composed Jedi facing down his father with quiet resolve, playing controlled, hard-won calm.
+
+  - film: corvette-summer
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: A car-obsessed teenager chasing his stolen Corvette across the desert, playing scrappy, determined charm.
+
+curated:
+  curator: house
+  rationale: The most acclaimed entry first, then the role that started it, then the range around both.
+  order:
+    - the-empire-strikes-back
+    - star-wars-a-new-hope
+    - return-of-the-jedi
+    - corvette-summer

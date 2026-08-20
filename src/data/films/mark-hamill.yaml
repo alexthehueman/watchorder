@@ -1,0 +1,13 @@
+# New films for Mark Hamill. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Star Wars A New Hope already exists in ford-harrison.yaml — tagged before he had an entity.
+# The Empire Strikes Back and Return of the Jedi already exist in carrie-fisher.yaml.
+
+- id: corvette-summer
+  tmdb_id: null
+  title: Corvette Summer
+  year: 1978
+  runtime: 105
+  director: Matthew Robbins
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.42 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }

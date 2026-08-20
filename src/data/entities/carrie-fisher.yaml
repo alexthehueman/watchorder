@@ -1,0 +1,47 @@
+slug: carrie-fisher
+kind: actor
+name: Carrie Fisher
+blurb: A sharp-witted, fierce screen presence that defined a generation's idea of a princess who didn't need rescuing, with real comic bite everywhere else.
+
+films:
+  - film: star-wars-a-new-hope
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: warm
+    gateway: 5
+    note: A fierce, quick-witted princess determined to save her people, playing defiant, unshakeable hope.
+
+  - film: the-empire-strikes-back
+    signature: 5
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 5
+    note: A commander bearing the weight of a losing war with real composure, playing controlled, hardened resolve.
+
+  - film: return-of-the-jedi
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: unhinged
+    gateway: 5
+    note: A warrior driven to desperate, decisive action to save the people she loves, playing raw, fearless resolve.
+
+  - film: when-harry-met-sally
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: comic
+    gateway: 5
+    note: A sharp-tongued best friend offering blunt romantic advice, playing dry, knowing wit.
+
+curated:
+  curator: house
+  rationale: The most iconic role first, then its most acclaimed sequel, then the range around both.
+  order:
+    - star-wars-a-new-hope
+    - the-empire-strikes-back
+    - return-of-the-jedi
+    - when-harry-met-sally
