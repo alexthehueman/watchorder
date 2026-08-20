@@ -1,0 +1,48 @@
+slug: berenice-bejo
+kind: actor
+name: Bérénice Bejo
+blurb: A bright, expressive warmth she's spent as often on real emotional devastation as on old-Hollywood-style charm, sometimes within the same film.
+
+films:
+  - film: the-artist
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: warm
+    gateway: 2
+    note: A rising young star whose career ascends just as a silent-film idol's collapses, playing genuine gratitude and affection without ever tipping into pity.
+
+  - film: the-past
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 1
+    note: A woman finalizing her divorce while a family secret slowly resurfaces, playing accumulating guilt and grief the film reveals only in careful pieces.
+
+  - film: asterix-at-the-olympic-games
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 4
+    note: A princess whose romantic subplot threads through the ancient Gauls' chaotic bid for Olympic gold, playing broad comic charm in a film built entirely for that register.
+
+  - film: the-search-2014
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A humanitarian worker caring for a traumatized boy orphaned by the Chechen conflict, playing patient, unglamorous compassion.
+
+curated:
+  curator: house
+  rationale: The performance built entirely on old-Hollywood warmth first, then the one where that same expressiveness gets aimed at real devastation.
+  order:
+    - asterix-at-the-olympic-games
+    - the-search-2014
+    - the-artist
+    - the-past

@@ -1,0 +1,19 @@
+# New films for Charlotte Gainsbourg. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Melancholia already exists in dunst.yaml — tagged before she had an entity. Antichrist already
+# exists in dafoe.yaml — tagged before she had an entity. I'm Not There already exists in
+# blanchett.yaml — tagged before she had an entity.
+
+- id: nymphomaniac
+  tmdb_id: null
+  title: Nymphomaniac
+  year: 2013
+  runtime: 152
+  director: Lars von Trier
+  tags:
+    opacity: 2 # a life story recounted to a stranger whose reliability, and whose listener's own motives, stay genuinely unclear
+    stillness: 3
+    bleakness: 5
+    humor: 2
+    acclaim: 0.62
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 3 }

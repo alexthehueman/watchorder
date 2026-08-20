@@ -1,0 +1,48 @@
+slug: charlotte-gainsbourg
+kind: actor
+name: Charlotte Gainsbourg
+blurb: A fragile, exposed intensity she's spent almost entirely in Lars von Trier's most punishing films, occasionally applied to a much gentler kind of fragmentation instead.
+
+films:
+  - film: antichrist
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 1
+    note: A grieving mother whose retreat to an isolated cabin with her husband curdles into something the film processes entirely through dream logic and unexplained symbolism.
+
+  - film: melancholia
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A woman trying to hold her family together as a rogue planet approaches Earth, playing controlled dread as the counterweight to her sister's depressive calm.
+
+  - film: nymphomaniac
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A woman recounting her sexual history to a stranger who took her in, playing a life story the film never lets settle into simple confession or performance.
+
+  - film: im-not-there
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: warm
+    gateway: 2
+    note: A wife and mother appearing in one of six fragmented, non-linear portraits of the same iconic musician, playing devotion the film never explains is being addressed to which version of him.
+
+curated:
+  curator: house
+  rationale: The two performances built entirely on fragile, exposed intensity, then everywhere else that same quality gets put to smaller use.
+  order:
+    - im-not-there
+    - nymphomaniac
+    - melancholia
+    - antichrist

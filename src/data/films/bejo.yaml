@@ -1,0 +1,35 @@
+# New films for Bérénice Bejo. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Artist already exists in goodman.yaml — tagged before she had an entity.
+
+- id: the-past
+  tmdb_id: null
+  title: The Past
+  year: 2013
+  runtime: 130
+  director: Asghar Farhadi
+  tags:
+    opacity: 3 # a family secret the film reveals in pieces, each one recasting what the audience thought it already understood
+    stillness: 3
+    bleakness: 4
+    humor: 1
+    acclaim: 0.82
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
+
+- id: asterix-at-the-olympic-games
+  tmdb_id: null
+  title: Asterix at the Olympic Games
+  year: 2008
+  runtime: 116
+  director: Frederic Forestier
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-search-2014
+  tmdb_id: null
+  title: The Search
+  year: 2014
+  runtime: 149
+  director: Michel Hazanavicius
+  tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }

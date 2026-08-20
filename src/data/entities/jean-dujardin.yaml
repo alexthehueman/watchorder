@@ -1,0 +1,48 @@
+slug: jean-dujardin
+kind: actor
+name: Jean Dujardin
+blurb: A matinee-idol grin and a genuine gift for silent-era physical comedy that carried him from French spy spoofs to a single, near-wordless Oscar-winning lead.
+
+films:
+  - film: the-artist
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A silent film star whose career collapses as sound pictures take over, playing wounded pride and physical expressiveness across a performance built almost entirely without dialogue.
+
+  - film: oss-117
+    signature: 5
+    must_see: true
+    showcase: 4
+    role_size: lead
+    register: comic
+    gateway: 3
+    note: A hilariously oblivious 1950s French secret agent, playing total, unearned confidence as a deliberate parody of an entire genre.
+
+  - film: the-wolf-of-wall-street
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: menacing
+    gateway: 3
+    note: A Swiss banker helping launder a stockbroker's fortune, playing smooth, amused complicity in a scheme he clearly finds entertaining.
+
+  - film: the-monuments-men
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: warm
+    gateway: 3
+    note: One of a small team of art experts racing to recover stolen masterpieces before the war destroys them, playing quiet resolve alongside a much larger ensemble.
+
+curated:
+  curator: house
+  rationale: The two performances that show the range from full comic parody to near-wordless dramatic lead, then everywhere else in between.
+  order:
+    - the-monuments-men
+    - the-wolf-of-wall-street
+    - oss-117
+    - the-artist
