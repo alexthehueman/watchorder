@@ -1,0 +1,38 @@
+slug: joan-crawford
+kind: actor
+name: Joan Crawford
+blurb: A steely, fiercely driven screen presence built on maternal sacrifice curdling into obsession, and later on genuine, unsettling terror.
+
+films:
+  - film: mildred-pierce
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: A determined mother whose sacrifices for her daughter curdle into obsession, playing controlled, escalating desperation.
+
+  - film: whatever-happened-to-baby-jane
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: unhinged
+    gateway: 4
+    note: A wheelchair-bound former star tormented by her decayed sister, playing brittle, genuinely frightening fragility.
+
+  - film: the-women
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: menacing
+    gateway: 4
+    note: A predatory shopgirl scheming to steal another woman's husband, playing sharp, unapologetic ambition.
+
+curated:
+  curator: house
+  rationale: The Oscar-winning performance first, then the film that turned her into a horror icon, then the earlier, catty ensemble work.
+  order:
+    - mildred-pierce
+    - whatever-happened-to-baby-jane
+    - the-women

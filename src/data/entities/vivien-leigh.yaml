@@ -1,0 +1,38 @@
+slug: vivien-leigh
+kind: actor
+name: Vivien Leigh
+blurb: A luminous, fragile intensity that anchored two of classic Hollywood's most towering female roles, one drowning in fantasy, the other shattered by reality.
+
+films:
+  - film: a-streetcar-named-desire
+    signature: 5
+    must_see: true
+    showcase: 4
+    role_size: lead
+    register: unhinged
+    gateway: 2
+    note: A fading Southern belle's grip on reality shattering completely, playing raw, devastating collapse.
+
+  - film: gone-with-the-wind
+    signature: 5
+    showcase: 5
+    role_size: lead
+    register: menacing
+    gateway: 3
+    note: A ruthlessly self-interested survivor who'll do anything to protect what's hers, playing calculating, magnetic will.
+
+  - film: waterloo-bridge
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A woman hiding a devastating secret from the soldier she loves, playing guarded, aching restraint.
+
+curated:
+  curator: house
+  rationale: The Oscar-winning, most acclaimed performance first, then the most iconic role, then the range around both.
+  order:
+    - a-streetcar-named-desire
+    - gone-with-the-wind
+    - waterloo-bridge

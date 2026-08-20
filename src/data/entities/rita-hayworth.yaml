@@ -1,0 +1,38 @@
+slug: rita-hayworth
+kind: actor
+name: Rita Hayworth
+blurb: A luminous screen glamour that defined the classic femme fatale, capable of turning that same magnetism to warm, effortless musical charm.
+
+films:
+  - film: gilda
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 3
+    note: A woman's provocative, self-destructive performance of desire aimed at the husband who wronged her, playing reckless, wounded defiance.
+
+  - film: the-lady-from-shanghai
+    signature: 5
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A coolly manipulative femme fatale whose true motives stay hidden until the mirrors shatter, playing composed, calculated allure.
+
+  - film: you-were-never-lovelier
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: warm
+    gateway: 3
+    note: A dancer resisting her father's matchmaking, playing effortless, radiant charm.
+
+curated:
+  curator: house
+  rationale: The most iconic role first, then the most acclaimed noir, then the lighter musical work.
+  order:
+    - gilda
+    - the-lady-from-shanghai
+    - you-were-never-lovelier

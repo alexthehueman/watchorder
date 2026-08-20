@@ -1,0 +1,38 @@
+# New films for Joan Crawford. Scales and anchors are in README.md ("The anchor rubric").
+
+- id: mildred-pierce
+  tmdb_id: null
+  title: Mildred Pierce
+  year: 1945
+  runtime: 111
+  director: Michael Curtiz
+  tags:
+    opacity: 2 # a murder-mystery frame around the melodrama keeps you guessing who actually did it
+    stillness: 2
+    bleakness: 4
+    humor: 1
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: whatever-happened-to-baby-jane
+  tmdb_id: null
+  title: Whatever Happened to Baby Jane?
+  year: 1962
+  runtime: 134
+  director: Robert Aldrich
+  tags:
+    opacity: 2 # whether Jane's delusion is genuine or a performance for her sister stays hazy for a while
+    stillness: 2
+    bleakness: 5
+    humor: 2
+    acclaim: 0.75
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-women
+  tmdb_id: null
+  title: The Women
+  year: 1939
+  runtime: 133
+  director: George Cukor
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 4, acclaim: 0.80 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

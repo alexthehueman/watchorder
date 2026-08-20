@@ -1,0 +1,26 @@
+# New films for Rita Hayworth. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Lady from Shanghai already exists in welles.yaml — tagged before she had an entity.
+
+- id: gilda
+  tmdb_id: null
+  title: Gilda
+  year: 1946
+  runtime: 110
+  director: Charles Vidor
+  tags:
+    opacity: 2 # how much of her provocation is genuine feeling versus a calculated performance for her husband stays deliberately unclear
+    stillness: 2
+    bleakness: 4
+    humor: 2
+    acclaim: 0.70
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: you-were-never-lovelier
+  tmdb_id: null
+  title: You Were Never Lovelier
+  year: 1942
+  runtime: 97
+  director: William A. Seiter
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
