@@ -1,0 +1,20 @@
+# New films for Stanley Tucci. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Devil Wears Prada already exists in streep.yaml (which also has Julie & Julia, tagged
+# before he had an entity). Spotlight already exists in keaton-michael.yaml — tagged before he
+# had an entity. The Hunger Games already exists in jennifer-lawrence.yaml — tagged before he
+# had an entity.
+
+- id: big-night
+  tmdb_id: null
+  title: Big Night
+  year: 1996
+  runtime: 107
+  director: Stanley Tucci
+  tags:
+    opacity: 2 # a brother's compromises the film lets simmer under a mostly wordless final scene rather than resolving them outright
+    stillness: 3
+    bleakness: 3
+    humor: 3
+    acclaim: 0.82
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

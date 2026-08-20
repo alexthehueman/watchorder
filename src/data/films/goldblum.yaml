@@ -1,0 +1,17 @@
+# New films for Jeff Goldblum. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Fly already exists in cronenberg.yaml — tagged before he had an entity. Jurassic Park
+# already exists in spielberg.yaml — tagged before he had an entity. Independence Day already
+# exists in smith.yaml — tagged before he had an entity. Thor: Ragnarok already exists in
+# blanchett.yaml — tagged before he had an entity. The Grand Budapest Hotel already exists in
+# fiennes.yaml — tagged before he had an entity. The Life Aquatic with Steve Zissou already
+# exists in murray.yaml — tagged before he had an entity.
+
+- id: isle-of-dogs
+  tmdb_id: null
+  title: Isle of Dogs
+  year: 2018
+  runtime: 101
+  director: Wes Anderson
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 1, sex: 0 }

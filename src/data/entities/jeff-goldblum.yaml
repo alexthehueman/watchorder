@@ -1,0 +1,66 @@
+slug: jeff-goldblum
+kind: actor
+name: Jeff Goldblum
+blurb: A rambling, halting delivery that turns every line into a live improvisation, deployed across four decades of blockbuster monsters and Wes Anderson ensembles alike.
+
+films:
+  - film: jurassic-park
+    signature: 5
+    must_see: true
+    showcase: 3
+    role_size: supporting
+    register: comic
+    gateway: 5
+    note: A chaos theorist warning that the dinosaur park is a catastrophe waiting to happen, playing nervous, self-satisfied intelligence as the film's funniest voice of doom.
+
+  - film: the-fly
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 1
+    note: A scientist whose teleportation experiment fuses him with a housefly at the genetic level, playing a slow, horrifying physical transformation with total commitment.
+
+  - film: the-grand-budapest-hotel
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: restrained
+    gateway: 3
+    note: A meticulous executor of a wealthy woman's will, playing procedural precision that becomes surprisingly important once her death turns out to be murder.
+
+  - film: independence-day
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 4
+    note: A satellite engineer who figures out how to save the world with a laptop virus, playing anxious brilliance as the film's most reliably entertaining voice.
+
+  - film: isle-of-dogs
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 3
+    note: A gossipy stray dog voicing rambling, digressive theories about the island's politics to anyone who'll listen.
+
+  - film: thor-ragnarok
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 4
+    note: A flamboyant alien overseer running gladiatorial contests for his own entertainment, playing camp indulgence as pure comic excess.
+
+curated:
+  curator: house
+  rationale: The two performances that show the range from body-horror commitment to blockbuster comic relief, then everywhere else that same rambling energy shows up.
+  order:
+    - isle-of-dogs
+    - thor-ragnarok
+    - the-grand-budapest-hotel
+    - jurassic-park
+    - independence-day
+    - the-fly
