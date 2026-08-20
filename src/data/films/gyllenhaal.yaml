@@ -1,0 +1,60 @@
+# New films for Jake Gyllenhaal. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Brokeback Mountain already exists in hathaway.yaml — tagged before he had an entity. Zodiac
+# already exists in downey.yaml — tagged before he had an entity. Prisoners already exists in
+# jackman.yaml — tagged before he had an entity.
+
+- id: donnie-darko
+  tmdb_id: null
+  title: Donnie Darko
+  year: 2001
+  runtime: 113
+  director: Richard Kelly
+  tags:
+    opacity: 5 # a time-travel mythology the film deliberately declines to fully resolve even on repeat viewing
+    stillness: 3
+    bleakness: 4
+    humor: 2
+    acclaim: 0.78
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: nightcrawler
+  tmdb_id: null
+  title: Nightcrawler
+  year: 2014
+  runtime: 117
+  director: Dan Gilroy
+  tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.83 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: enemy
+  tmdb_id: null
+  title: Enemy
+  year: 2013
+  runtime: 91
+  director: Denis Villeneuve
+  tags:
+    opacity: 5 # a man and his exact double, and the film never once clarifies which of them is which or why
+    stillness: 3
+    bleakness: 4
+    humor: 1
+    acclaim: 0.72
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: love-and-other-drugs
+  tmdb_id: null
+  title: Love and Other Drugs
+  year: 2010
+  runtime: 112
+  director: Edward Zwick
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.62 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+
+- id: october-sky
+  tmdb_id: null
+  title: October Sky
+  year: 1999
+  runtime: 108
+  director: Joe Johnston
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

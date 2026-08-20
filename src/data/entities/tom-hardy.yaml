@@ -1,0 +1,66 @@
+slug: tom-hardy
+kind: actor
+name: Tom Hardy
+blurb: Disappears behind masks, accents, and prosthetics so completely and so often that the through-line is the wounded stillness he keeps finding underneath all of them.
+
+films:
+  - film: bronson
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 1
+    note: A biopic of Britain's most violent prisoner, staged as a theatrical performance the character is directly narrating to camera. His breakout role.
+
+  - film: mad-max-fury-road
+    signature: 5
+    must_see: true
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: A road warrior swept up in a desert war-rig chase, playing near-wordless survival instinct across a film built almost entirely on momentum.
+
+  - film: locke
+    signature: 3
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A construction manager unraveling his own life over a single phone-call-filled night drive, carrying the entire film alone from a car seat.
+
+  - film: warrior
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: An ex-Marine entering a mixed martial arts tournament against his estranged brother, playing years of buried resentment as barely contained physical force.
+
+  - film: the-dark-knight-rises
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: menacing
+    gateway: 4
+    note: A masked mercenary leading a citywide uprising, playing total conviction through a performance built entirely around his eyes and a distorted voice.
+
+  - film: inception
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: comic
+    gateway: 3
+    note: A dream-heist forger and the team's resident wit, playing effortless charm as the group's pressure valve against the stakes around him.
+
+curated:
+  curator: house
+  rationale: The role that announced how completely he could vanish into a part, then the two poles of scale that talent gets used for.
+  order:
+    - inception
+    - the-dark-knight-rises
+    - mad-max-fury-road
+    - warrior
+    - locke
+    - bronson
