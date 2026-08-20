@@ -1,0 +1,14 @@
+# New films for Chris Cooper. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Adaptation already exists in cage.yaml — tagged before he had an entity. The Bourne Identity
+# already exists in damon.yaml — tagged before he had an entity. October Sky already exists in
+# gyllenhaal.yaml — tagged before he had an entity.
+
+- id: american-beauty
+  tmdb_id: null
+  title: American Beauty
+  year: 1999
+  runtime: 122
+  director: Sam Mendes
+  tags: { opacity: 2, stillness: 2, bleakness: 5, humor: 2, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }

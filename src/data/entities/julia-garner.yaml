@@ -1,0 +1,48 @@
+slug: julia-garner
+kind: actor
+name: Julia Garner
+blurb: A watchful, deliberately understated presence that reads as naivety right up until it becomes the exact quality a film needs to make its dread land.
+
+films:
+  - film: the-assistant
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A junior film-studio assistant moving through one ordinary day at the office, playing quiet, accumulating unease about her powerful, unseen boss.
+
+  - film: we-are-what-we-are
+    signature: 5
+    must_see: true
+    showcase: 4
+    role_size: lead
+    register: unhinged
+    gateway: 1
+    note: A daughter inheriting her family's secretive, ritualistic obligations after her mother's death, playing dutiful compliance the film slowly reveals is genuinely horrifying.
+
+  - film: waves-2019
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: warm
+    gateway: 2
+    note: A teenager finding tentative new love while her family reels from her brother's crisis, playing hesitant openness against a household in genuine pain.
+
+  - film: electrick-children
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: warm
+    gateway: 3
+    note: A sheltered teenager from an isolated religious community who leaves home convinced a cassette tape caused her pregnancy, playing total sincerity without a hint of camp.
+
+curated:
+  curator: house
+  rationale: The performance built entirely on quiet, accumulating dread first, then everywhere else that same watchfulness shows up.
+  order:
+    - electrick-children
+    - waves-2019
+    - we-are-what-we-are
+    - the-assistant

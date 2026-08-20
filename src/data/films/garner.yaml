@@ -1,0 +1,47 @@
+# New films for Julia Garner. Scales and anchors are in README.md ("The anchor rubric").
+
+- id: the-assistant
+  tmdb_id: null
+  title: The Assistant
+  year: 2019
+  runtime: 87
+  director: Kitty Green
+  tags:
+    opacity: 3 # the film never confirms outright what the boss is doing, letting a single ordinary workday accumulate its own dread
+    stillness: 4
+    bleakness: 4
+    humor: 1
+    acclaim: 0.75
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: we-are-what-we-are
+  tmdb_id: null
+  title: We Are What We Are
+  year: 2013
+  runtime: 105
+  director: Jim Mickle
+  tags:
+    opacity: 4 # a family ritual the film withholds the full nature of until well past the point of comfortable guessing
+    stillness: 3
+    bleakness: 5
+    humor: 1
+    acclaim: 0.62
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: waves-2019
+  tmdb_id: null
+  title: Waves
+  year: 2019
+  runtime: 135
+  director: Trey Edward Shults
+  tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: electrick-children
+  tmdb_id: null
+  title: Electrick Children
+  year: 2012
+  runtime: 96
+  director: Rebecca Thomas
+  tags: { opacity: 2, stillness: 3, bleakness: 2, humor: 2, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

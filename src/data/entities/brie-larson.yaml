@@ -1,0 +1,48 @@
+slug: brie-larson
+kind: actor
+name: Brie Larson
+blurb: Built a career on raw, unglamorous emotional access before a franchise lead asked her to play confidence instead — a register she'd spent her best work deliberately withholding.
+
+films:
+  - film: room
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 1
+    note: A woman raising her young son inside the single room where she's been held captive for years, playing controlled endurance that finally cracks once escape becomes real.
+
+  - film: short-term-12
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A supervisor at a group home for at-risk teens, playing hard-won professional composure against her own unresolved past catching up with her.
+
+  - film: captain-marvel
+    signature: 3
+    showcase: 2
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: An amnesiac soldier discovering her memories and powers were manipulated by the very people she trusted, playing guarded confidence built on ground she can't fully verify.
+
+  - film: 21-jump-street
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: warm
+    gateway: 4
+    note: A popular high schooler who becomes the love interest of one of the film's undercover cops, playing easy warmth inside a broad comedy.
+
+curated:
+  curator: house
+  rationale: The two performances built entirely on raw emotional access, then the franchise lead that asked for something more guarded.
+  order:
+    - 21-jump-street
+    - captain-marvel
+    - short-term-12
+    - room
