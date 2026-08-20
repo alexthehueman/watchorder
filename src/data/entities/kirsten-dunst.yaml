@@ -1,0 +1,75 @@
+slug: kirsten-dunst
+kind: actor
+name: Kirsten Dunst
+blurb: Grew up on screen from a preternaturally composed child actress into a specialist in women whose bright exterior is quietly, precisely cracking — sometimes over a whole planet's worth of dread.
+
+films:
+  - film: melancholia
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 2
+    note: A newly married woman sinking into catatonic depression on the same timeline as a rogue planet on a collision course with Earth, the two crises treated as one.
+
+  - film: the-power-of-the-dog
+    signature: 4
+    showcase: 4
+    role_size: supporting
+    register: restrained
+    gateway: 2
+    note: A widowed innkeeper married into a ranch dominated by her new brother-in-law's cruelty, playing quiet unraveling as the film's real tension.
+
+  - film: the-virgin-suicides
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: One of five sisters whose lives a suburban neighborhood mythologizes without ever actually understanding, narrated entirely by boys who watched from a distance.
+
+  - film: interview-with-the-vampire
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 3
+    note: A child turned into a vampire and trapped forever in a girl's body, playing the horror of arrested development from the inside at age eleven.
+
+  - film: spider-man
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: warm
+    gateway: 5
+    note: The girl next door a masked hero can't tell he's in love with her, in the role that made her a household name.
+
+  - film: marie-antoinette
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: warm
+    gateway: 3
+    note: A teenage Austrian archduchess thrust into Versailles excess and isolation, playing decadence as loneliness dressed up in period detail.
+
+  - film: bring-it-on
+    signature: 3
+    showcase: 2
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: A newly appointed cheerleading captain discovering her squad's championship routine was stolen, playing teen-movie earnestness completely straight.
+
+curated:
+  curator: house
+  rationale: The performance that shows the full range of the cracking composure first, then everywhere else it started.
+  order:
+    - bring-it-on
+    - spider-man
+    - marie-antoinette
+    - interview-with-the-vampire
+    - the-virgin-suicides
+    - the-power-of-the-dog
+    - melancholia

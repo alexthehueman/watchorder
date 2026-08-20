@@ -1,0 +1,78 @@
+# New films for Jodie Foster. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Silence of the Lambs already exists in hopkins.yaml — tagged before she had an entity.
+# Taxi Driver already exists in de-niro.yaml — tagged before she had an entity. Inside Man
+# already exists in washington.yaml — tagged before she had an entity.
+
+- id: contact
+  tmdb_id: null
+  title: Contact
+  year: 1997
+  runtime: 150
+  director: Robert Zemeckis
+  tags:
+    opacity: 3 # never confirms, on screen, whether her journey happened or exists purely as personal faith
+    stillness: 3
+    bleakness: 2
+    humor: 1
+    acclaim: 0.82
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: panic-room
+  tmdb_id: null
+  title: Panic Room
+  year: 2002
+  runtime: 112
+  director: David Fincher
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-accused
+  tmdb_id: null
+  title: The Accused
+  year: 1988
+  runtime: 111
+  director: Jonathan Kaplan
+  tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.78 }
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: maverick
+  tmdb_id: null
+  title: Maverick
+  year: 1994
+  runtime: 127
+  director: Richard Donner
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 4, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: flightplan
+  tmdb_id: null
+  title: Flightplan
+  year: 2005
+  runtime: 98
+  director: Robert Schwentke
+  tags:
+    opacity: 2 # a missing daughter the film keeps genuinely ambiguous — grief hallucination or real conspiracy
+    stillness: 2
+    bleakness: 4
+    humor: 1
+    acclaim: 0.55
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
+
+- id: nell
+  tmdb_id: null
+  title: Nell
+  year: 1994
+  runtime: 113
+  director: Michael Apted
+  tags: { opacity: 2, stillness: 4, bleakness: 3, humor: 1, acclaim: 0.62 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-brave-one
+  tmdb_id: null
+  title: The Brave One
+  year: 2007
+  runtime: 122
+  director: Neil Jordan
+  tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.65 }
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }

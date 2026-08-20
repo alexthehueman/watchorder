@@ -1,0 +1,61 @@
+# New films for Kirsten Dunst. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Spider-Man already exists in dafoe.yaml — tagged before she had an entity. Eternal Sunshine of
+# the Spotless Mind already exists in winslet.yaml — tagged before she had an entity. The Power
+# of the Dog already exists in cumberbatch.yaml (a genuine dual lead) — tagged before she had an
+# entity.
+
+- id: interview-with-the-vampire
+  tmdb_id: null
+  title: Interview with the Vampire
+  year: 1994
+  runtime: 123
+  director: Neil Jordan
+  tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+
+- id: the-virgin-suicides
+  tmdb_id: null
+  title: The Virgin Suicides
+  year: 1999
+  runtime: 97
+  director: Sofia Coppola
+  tags:
+    opacity: 2 # narrated entirely by neighborhood boys who never actually understand what happened
+    stillness: 4
+    bleakness: 5
+    humor: 1
+    acclaim: 0.72
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
+
+- id: melancholia
+  tmdb_id: null
+  title: Melancholia
+  year: 2011
+  runtime: 136
+  director: Lars von Trier
+  tags:
+    opacity: 2
+    stillness: 5 # a depression drama that fuses with a literal end-of-the-world film without ever flagging the tonal seam
+    bleakness: 5
+    humor: 1
+    acclaim: 0.78
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 1 }
+
+- id: marie-antoinette
+  tmdb_id: null
+  title: Marie Antoinette
+  year: 2006
+  runtime: 123
+  director: Sofia Coppola
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.62 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: bring-it-on
+  tmdb_id: null
+  title: Bring It On
+  year: 2000
+  runtime: 98
+  director: Peyton Reed
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.62 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

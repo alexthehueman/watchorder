@@ -1,0 +1,66 @@
+slug: jamie-foxx
+kind: actor
+name: Jamie Foxx
+blurb: Started as a sketch-comedy performer before proving he could carry a music biopic, a Michael Mann thriller, and a Tarantino western with the same total, unforced conviction.
+
+films:
+  - film: ray
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: Ray Charles, from blind Georgia orphan to music legend, playing genius and addiction as the same restless engine. Won him the Oscar.
+
+  - film: collateral
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A cab driver taken hostage for one night by a contract killer working through a list, forced to match the assassin's cool or die.
+
+  - film: django-unchained
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: menacing
+    gateway: 4
+    note: A freed slave turned bounty hunter, hunting his way toward the plantation holding his wife captive with an escalating, righteous fury.
+
+  - film: dreamgirls
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: menacing
+    gateway: 4
+    note: A calculating music manager whose devotion to his girl group curdles into control the moment their success threatens his authority.
+
+  - film: baby-driver
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: menacing
+    gateway: 5
+    note: A volatile heist crew member whose paranoia about the film's getaway driver makes him the most dangerous man in every room he's in.
+
+  - film: any-given-sunday
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: comic
+    gateway: 4
+    note: A backup quarterback whose sudden shot at stardom goes to his head faster than his coaches can manage it.
+
+curated:
+  curator: house
+  rationale: The two performances that show the range of the unforced conviction first, then everywhere else it's applied.
+  order:
+    - any-given-sunday
+    - baby-driver
+    - dreamgirls
+    - django-unchained
+    - collateral
+    - ray
