@@ -1,0 +1,46 @@
+# New films for Nicholas Hoult. Scales and anchors are in README.md ("The anchor rubric").
+#
+# About a Boy already exists in collette.yaml — tagged before he had an entity. X-Men Days of
+# Future Past already exists in jennifer-lawrence.yaml. Mad Max Fury Road already exists in
+# theron.yaml. The Favourite already exists in weisz.yaml.
+
+- id: warm-bodies
+  tmdb_id: null
+  title: Warm Bodies
+  year: 2013
+  runtime: 97
+  director: Jonathan Levine
+  tags: { opacity: 2, stillness: 3, bleakness: 2, humor: 4, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: tolkien
+  tmdb_id: null
+  title: Tolkien
+  year: 2019
+  runtime: 112
+  director: Dome Karukoski
+  tags: { opacity: 2, stillness: 3, bleakness: 3, humor: 2, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: rebel-in-the-rye
+  tmdb_id: null
+  title: Rebel in the Rye
+  year: 2017
+  runtime: 106
+  director: Danny Strong
+  tags:
+    opacity: 4 # how much of his own wartime trauma is driving his creative retreat from the world stays unresolved
+    stillness: 4
+    bleakness: 4
+    humor: 1
+    acclaim: 0.50
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: renfield
+  tmdb_id: null
+  title: Renfield
+  year: 2023
+  runtime: 93
+  director: Chris McKay
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 4, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }

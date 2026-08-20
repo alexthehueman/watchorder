@@ -1,0 +1,39 @@
+slug: constance-wu
+kind: actor
+name: Constance Wu
+blurb: A sharp comic timing built on television stardom, carried into film through one glossy romantic lead and, since, a run of quieter dramatic turns.
+
+films:
+  - film: crazy-rich-asians
+    signature: 5
+    must_see: true
+    showcase: 4
+    role_size: lead
+    register: warm
+    gateway: 5
+    note: An economics professor meeting her boyfriend's absurdly wealthy family for the first time, playing grounded, principled warmth against the excess around her.
+
+  - film: hustlers
+    signature: 4
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 2
+    note: A stripper drawn into an escalating scheme to con Wall Street clients, playing ambition curdling into real recklessness.
+
+  - film: wheredyou-go-bernadette
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: restrained
+    gateway: 5
+    note: A concerned neighbor navigating a family's unraveling, playing watchful, understated unease.
+
+curated:
+  curator: house
+  rationale: The role that made her a film lead first, then the range around it.
+  order:
+    - crazy-rich-asians
+    - hustlers
+    - wheredyou-go-bernadette

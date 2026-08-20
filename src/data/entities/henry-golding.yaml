@@ -1,0 +1,57 @@
+slug: henry-golding
+kind: actor
+name: Henry Golding
+blurb: A magnetic, effortless leading-man charm introduced fully formed in one blockbuster debut, carried since across romance, mystery and action alike.
+
+films:
+  - film: crazy-rich-asians
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: warm
+    gateway: 5
+    note: A wealthy heir bringing his girlfriend home to meet a family that disapproves of her, playing easy, disarming warmth throughout.
+
+  - film: a-simple-favor
+    signature: 4
+    must_see: true
+    showcase: 4
+    role_size: supporting
+    register: menacing
+    gateway: 2
+    note: A husband whose wife's disappearance uncovers a marriage built on real deception, playing charm that curdles the more the mystery unravels.
+
+  - film: monsoon
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A man returning to Vietnam for the first time since childhood to scatter his mother's ashes, playing quiet, searching displacement.
+
+  - film: last-christmas
+    signature: 2
+    showcase: 2
+    role_size: lead
+    register: warm
+    gateway: 5
+    note: A mysterious, endlessly cheerful presence who keeps appearing at exactly the right moment, playing warmth the film slowly reveals has a real cost.
+
+  - film: snake-eyes
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 4
+    note: A loyal ninja clan member training alongside the film's outsider hero, playing disciplined, good-natured camaraderie.
+
+curated:
+  curator: house
+  rationale: The role that made him a star first, then the range around it.
+  order:
+    - crazy-rich-asians
+    - a-simple-favor
+    - monsoon
+    - last-christmas
+    - snake-eyes

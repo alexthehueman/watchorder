@@ -35,7 +35,12 @@
   year: 2002
   runtime: 101
   director: Chris Weitz
-  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.75 }
+  tags:
+    opacity: 2 # how close his mother's depression actually comes to a crisis stays withheld until it happens
+    stillness: 2
+    bleakness: 3
+    humor: 3
+    acclaim: 0.75
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
   imdb_id: tt0276751
   poster_url: https://m.media-amazon.com/images/M/MV5BMTQ2Mzg4MDAzNV5BMl5BanBnXkFtZTgwMjcxNTYxMTE@._V1_SX300.jpg

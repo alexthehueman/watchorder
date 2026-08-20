@@ -1,0 +1,84 @@
+slug: nicholas-hoult
+kind: actor
+name: Nicholas Hoult
+blurb: A boyish, watchful intensity carried from one beloved child performance through two decades of range across genre spectacle and period drama.
+
+films:
+  - film: the-favourite
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: supporting
+    register: comic
+    gateway: 2
+    note: A preening, scheming court politician maneuvering for influence, playing foppish self-interest as pure comic performance.
+
+  - film: about-a-boy
+    signature: 4
+    must_see: true
+    showcase: 4
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: An awkward, bullied twelve-year-old who forms an unlikely friendship with a directionless bachelor, playing wounded, earnest vulnerability.
+
+  - film: mad-max-fury-road
+    signature: 4
+    showcase: 4
+    role_size: supporting
+    register: menacing
+    gateway: 3
+    note: A fanatical war boy willing to die gloriously for his warlord, playing zealous, chaotic devotion.
+
+  - film: x-men-days-of-future-past
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: restrained
+    gateway: 3
+    note: A young, guarded mutant hiding his true form from the world, playing controlled anguish underneath forced composure.
+
+  - film: tolkien
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: A biographical portrait of J.R.R. Tolkien's formative years, playing quiet, studious longing.
+
+  - film: warm-bodies
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: warm
+    gateway: 5
+    note: A zombie slowly regaining his humanity after falling for a living girl, playing halting, wordless tenderness.
+
+  - film: rebel-in-the-rye
+    signature: 2
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 1
+    note: A biographical portrait of J.D. Salinger's wartime trauma and retreat from public life, playing withdrawn anguish that keeps threatening to break.
+
+  - film: renfield
+    signature: 1
+    showcase: 3
+    role_size: lead
+    register: unhinged
+    gateway: 3
+    note: Dracula's exhausted, codependent familiar finally attempting to break free, playing manic, self-loathing desperation for comic effect.
+
+curated:
+  curator: house
+  rationale: The performance that revealed real range first, then the boyish vulnerability that made him a star, then the rest of the register around it.
+  order:
+    - the-favourite
+    - about-a-boy
+    - mad-max-fury-road
+    - x-men-days-of-future-past
+    - tolkien
+    - warm-bodies
+    - rebel-in-the-rye
+    - renfield

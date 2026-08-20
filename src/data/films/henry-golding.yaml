@@ -1,0 +1,36 @@
+# New films for Henry Golding. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Crazy Rich Asians already exists in awkwafina.yaml — tagged before he had an entity. A Simple
+# Favor already exists in kendrick.yaml.
+
+- id: last-christmas
+  tmdb_id: null
+  title: Last Christmas
+  year: 2019
+  runtime: 103
+  director: Paul Feig
+  tags:
+    opacity: 3 # what he actually is, and why he keeps appearing exactly when she needs him, stays hidden until the final act
+    stillness: 2
+    bleakness: 3
+    humor: 3
+    acclaim: 0.55
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: snake-eyes
+  tmdb_id: null
+  title: Snake Eyes
+  year: 2021
+  runtime: 121
+  director: Robert Schwentke
+  tags: { opacity: 2, stillness: 1, bleakness: 3, humor: 2, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: monsoon
+  tmdb_id: null
+  title: Monsoon
+  year: 2019
+  runtime: 85
+  director: Hong Khaou
+  tags: { opacity: 2, stillness: 4, bleakness: 3, humor: 1, acclaim: 0.60 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
