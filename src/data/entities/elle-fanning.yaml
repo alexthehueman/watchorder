@@ -1,0 +1,66 @@
+slug: elle-fanning
+kind: actor
+name: Elle Fanning
+blurb: Grew up on screen playing a preternatural composure, then spent the years since deliberately testing how far that composure could be pushed into genuine unease.
+
+films:
+  - film: the-neon-demon
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 1
+    note: An aspiring model whose natural beauty draws increasingly predatory attention in the LA fashion world, playing innocence curdling into something far stranger by the film's final act.
+
+  - film: the-beguiled
+    signature: 5
+    must_see: true
+    showcase: 4
+    role_size: supporting
+    register: restrained
+    gateway: 2
+    note: A teenage student at an isolated girls' boarding school where a wounded soldier's arrival quietly upends every relationship in the house.
+
+  - film: super-8
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: warm
+    gateway: 5
+    note: A teenage actress in a group of kids' amateur film shoot that stumbles onto a genuine, escalating mystery, playing precocious talent as the group's emotional center.
+
+  - film: maleficent
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: warm
+    gateway: 5
+    note: A cursed princess raised partly by the fairy who wronged her, playing unguarded warmth toward a guardian the audience knows has every reason to resent her.
+
+  - film: somewhere
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: restrained
+    gateway: 2
+    note: A movie star's watchful, self-possessed young daughter, quietly registering everything hollow about her father's life without ever saying so directly.
+
+  - film: teen-spirit
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: warm
+    gateway: 3
+    note: A shy farm girl entering a televised singing competition, playing guarded ambition finally given somewhere to go.
+
+curated:
+  curator: house
+  rationale: The two performances that show how far the composure can curdle, then everywhere else it holds.
+  order:
+    - super-8
+    - maleficent
+    - teen-spirit
+    - somewhere
+    - the-beguiled
+    - the-neon-demon

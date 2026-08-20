@@ -1,0 +1,66 @@
+slug: miles-teller
+kind: actor
+name: Miles Teller
+blurb: A cocky, wounded intensity he's spent a career pushing to physical extremes — drumming until his hands bleed, boxing through real injury — in service of characters who won't admit they're breaking.
+
+films:
+  - film: whiplash
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 2
+    note: A driven music student pushed past reasonable limits by an abusive conservatory instructor, playing ambition curdling into something genuinely dangerous to his own body.
+
+  - film: the-spectacular-now
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: warm
+    gateway: 3
+    note: A charming, functioning-alcoholic high school senior whose relationship with a more grounded classmate forces him to confront what "living in the now" is actually costing him.
+
+  - film: top-gun-maverick
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: menacing
+    gateway: 5
+    note: A hotshot pilot carrying real, unresolved resentment toward his mentor over his father's death, playing guarded hostility slowly thawing under pressure.
+
+  - film: bleed-for-this
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: unhinged
+    gateway: 2
+    note: A boxer determined to return to the ring after a near-fatal car accident leaves him told he'll never fight again, playing stubborn will as both his strength and his flaw.
+
+  - film: rabbit-hole
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: restrained
+    gateway: 2
+    note: The young driver responsible for a couple's son's death, playing guilt he's never been given permission to fully express.
+
+  - film: war-dogs
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A struggling masseur drawn by an old friend into international arms dealing, playing naive complicity as the scheme escalates past what he ever agreed to.
+
+curated:
+  curator: house
+  rationale: The two performances that show the physical extremes he'll push a character to, then everywhere else that same wounded intensity shows up.
+  order:
+    - top-gun-maverick
+    - the-spectacular-now
+    - rabbit-hole
+    - war-dogs
+    - bleed-for-this
+    - whiplash

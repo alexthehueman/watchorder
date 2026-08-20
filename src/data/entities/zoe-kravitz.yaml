@@ -1,0 +1,93 @@
+slug: zoe-kravitz
+kind: actor
+name: Zoë Kravitz
+blurb: A cool, unhurried self-possession that reads as effortless in a blockbuster ensemble and as genuinely dangerous the moment a director hands her the lead.
+
+films:
+  - film: kimi
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 2
+    note: An agoraphobic tech worker who stumbles onto evidence of a crime buried in ambiguous audio, playing anxiety forced into action by a threat only she believes is real.
+
+  - film: the-batman
+    signature: 5
+    must_see: true
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A cat burglar working her own angle on a case that keeps intersecting with a masked vigilante's, playing guarded self-interest that gradually reveals real conviction underneath.
+
+  - film: rough-night
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 4
+    note: One member of a bachelorette party gone catastrophically wrong, playing panicked improvisation as the group scrambles to cover up an accident.
+
+  - film: gemini
+    signature: 2
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A celebrity's personal assistant drawn into investigating her boss's murder, playing wary, exhausted competence as the case keeps implicating her further.
+
+  - film: mad-max-fury-road
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: restrained
+    gateway: 4
+    note: One of five escaped brides fleeing a warlord across a post-apocalyptic wasteland, playing hardened survival instinct alongside the film's larger cast.
+
+  - film: x-men-first-class
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: restrained
+    gateway: 3
+    note: A young mutant with insect-like abilities recruited into an early incarnation of the X-Men, playing wary loyalty as the team's allegiances start to splinter.
+
+  - film: dope
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: warm
+    gateway: 3
+    note: A skater friend and love interest who drags a straight-laced nerd toward the drug deal that upends his college application, playing effortless charm as its own quiet complication.
+
+  - film: divergent
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: warm
+    gateway: 4
+    note: A steady, dependable friend inside a rigid caste-based dystopia, playing loyalty as one of the few stable things in the protagonist's new life.
+
+  - film: fantastic-beasts
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: warm
+    gateway: 3
+    note: A gifted young witch caught between her sister's secretive work and a wizarding world on the edge of exposure.
+
+curated:
+  curator: house
+  rationale: The two performances that show how much the cool self-possession can carry as a lead, then everywhere else it settles into an ensemble.
+  order:
+    - divergent
+    - fantastic-beasts
+    - x-men-first-class
+    - mad-max-fury-road
+    - dope
+    - the-batman
+    - rough-night
+    - gemini
+    - kimi
