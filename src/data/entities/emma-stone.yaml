@@ -1,0 +1,66 @@
+slug: emma-stone
+kind: actor
+name: Emma Stone
+blurb: A quick, self-aware wit that carried her through a decade of comedies before she started deliberately spending it on characters daring the audience to find them likable anyway.
+
+films:
+  - film: poor-things
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 2
+    note: A reanimated Victorian corpse discovering the entire world — language, sex, philosophy, cruelty — with no inherited shame to filter any of it through.
+
+  - film: la-la-land
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: An aspiring actress whose romance with a struggling jazz pianist is staged as a full-color musical the film knows it can't let last.
+
+  - film: birdman
+    signature: 4
+    showcase: 4
+    role_size: supporting
+    register: unhinged
+    gateway: 3
+    note: A recovering addict serving as her washed-up actor father's assistant, delivering the film's most unfiltered assessment of what he's actually doing with his career.
+
+  - film: the-favourite
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: menacing
+    gateway: 3
+    note: A disgraced noblewoman clawing her way back into court favor, playing sweetness as a weapon in a three-way fight for the queen's attention.
+
+  - film: easy-a
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: A high schooler whose fake sexual reputation, adopted as a joke, spirals into a modern-dress reenactment of The Scarlet Letter she stages herself.
+
+  - film: cruella
+    signature: 2
+    showcase: 2
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: A young Estella clawing her way up the London fashion scene, playing the character's origin as pure, gleeful supervillain theater.
+
+curated:
+  curator: house
+  rationale: The two performances that show the range of the self-aware wit first, then everywhere else it's been spent.
+  order:
+    - easy-a
+    - la-la-land
+    - cruella
+    - birdman
+    - the-favourite
+    - poor-things

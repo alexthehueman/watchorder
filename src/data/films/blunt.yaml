@@ -1,0 +1,46 @@
+# New films for Emily Blunt. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Oppenheimer already exists in cillian-murphy.yaml (a genuine dual lead) — tagged before she had
+# an entity. The Devil Wears Prada already exists in streep.yaml — tagged before she had an
+# entity.
+
+- id: sicario
+  tmdb_id: null
+  title: Sicario
+  year: 2015
+  runtime: 121
+  director: Denis Villeneuve
+  tags:
+    opacity: 3 # kept in the dark alongside its own protagonist about the actual chain of command
+    stillness: 2
+    bleakness: 5
+    humor: 1
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: a-quiet-place
+  tmdb_id: null
+  title: A Quiet Place
+  year: 2018
+  runtime: 90
+  director: John Krasinski
+  tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.82 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+
+- id: mary-poppins-returns
+  tmdb_id: null
+  title: Mary Poppins Returns
+  year: 2018
+  runtime: 130
+  director: Rob Marshall
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: edge-of-tomorrow
+  tmdb_id: null
+  title: Edge of Tomorrow
+  year: 2014
+  runtime: 113
+  director: Doug Liman
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 3, acclaim: 0.82 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

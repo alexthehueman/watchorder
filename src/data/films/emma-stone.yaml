@@ -1,0 +1,45 @@
+# New films for Emma Stone. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Birdman already exists in norton.yaml — tagged before she had an entity. The Favourite already
+# exists in weisz.yaml (a genuine three-way lead) — tagged before she had an entity.
+
+- id: easy-a
+  tmdb_id: null
+  title: Easy A
+  year: 2010
+  runtime: 92
+  director: Will Gluck
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: la-la-land
+  tmdb_id: null
+  title: La La Land
+  year: 2016
+  runtime: 128
+  director: Damien Chazelle
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: poor-things
+  tmdb_id: null
+  title: Poor Things
+  year: 2023
+  runtime: 141
+  director: Yorgos Lanthimos
+  tags:
+    opacity: 2 # a Frankenstein premise the film lets you piece together at the same rate its protagonist does
+    stillness: 2
+    bleakness: 3
+    humor: 4
+    acclaim: 0.82
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 3 }
+
+- id: cruella
+  tmdb_id: null
+  title: Cruella
+  year: 2021
+  runtime: 134
+  director: Craig Gillespie
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }

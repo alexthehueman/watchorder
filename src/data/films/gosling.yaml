@@ -1,0 +1,50 @@
+# New films for Ryan Gosling. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Notebook already exists in rowlands.yaml — tagged before he had an entity. La La Land
+# already exists in emma-stone.yaml (a genuine dual lead) — tagged before he had an entity.
+
+- id: half-nelson
+  tmdb_id: null
+  title: Half Nelson
+  year: 2006
+  runtime: 106
+  director: Ryan Fleck
+  tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: drive
+  tmdb_id: null
+  title: Drive
+  year: 2011
+  runtime: 100
+  director: Nicolas Winding Refn
+  tags:
+    opacity: 2 # a near-silent protagonist the film gives almost no backstory to
+    stillness: 2
+    bleakness: 5
+    humor: 1
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: blade-runner-2049
+  tmdb_id: null
+  title: Blade Runner 2049
+  year: 2017
+  runtime: 164
+  director: Denis Villeneuve
+  tags:
+    opacity: 3 # withholds, for most of its runtime, whether he's actually who he starts to believe he is
+    stillness: 4
+    bleakness: 5
+    humor: 1
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: barbie
+  tmdb_id: null
+  title: Barbie
+  year: 2023
+  runtime: 114
+  director: Greta Gerwig
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 5, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

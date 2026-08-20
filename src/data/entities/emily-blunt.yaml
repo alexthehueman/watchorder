@@ -1,0 +1,66 @@
+slug: emily-blunt
+kind: actor
+name: Emily Blunt
+blurb: A crisp, exacting British precision that scales from withering assistant to hardened field operative to a nanny with actual magic behind her composure — the control is always the point.
+
+films:
+  - film: sicario
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: An idealistic FBI agent recruited into a black-ops cartel operation that keeps her — and the audience — deliberately in the dark about who's actually in charge.
+
+  - film: oppenheimer
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: menacing
+    gateway: 3
+    note: Kitty Oppenheimer, watching her husband's genius consume their marriage and then defending him with a ferocity no one at his security hearing expects.
+
+  - film: edge-of-tomorrow
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: A legendary soldier training a reluctant recruit through a time loop neither of them can escape, playing hardened competence as the film's real anchor.
+
+  - film: the-devil-wears-prada
+    signature: 3
+    showcase: 4
+    role_size: supporting
+    register: menacing
+    gateway: 5
+    note: A fashion magazine's senior assistant, delivering withering judgment on the new girl with total, weary precision.
+
+  - film: a-quiet-place
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: A pregnant mother protecting her family from sound-hunting creatures, in a film that asks her to convey terror almost entirely without dialogue.
+
+  - film: mary-poppins-returns
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: warm
+    gateway: 5
+    note: A new generation's Mary Poppins, playing the character's brisk, no-nonsense magic as directly descended from the original rather than imitating it.
+
+curated:
+  curator: house
+  rationale: The two performances that show the range of the exacting precision first, then everywhere else it's applied.
+  order:
+    - the-devil-wears-prada
+    - mary-poppins-returns
+    - edge-of-tomorrow
+    - a-quiet-place
+    - sicario
+    - oppenheimer
