@@ -1,0 +1,63 @@
+# New films for Christoph Waltz. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Inglourious Basterds and Django Unchained already exist in tarantino.yaml — tagged before he
+# had an entity.
+
+- id: alita-battle-angel
+  tmdb_id: null
+  title: Alita Battle Angel
+  year: 2019
+  runtime: 122
+  director: Robert Rodriguez
+  tags: { opacity: 2, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.62 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: water-for-elephants
+  tmdb_id: null
+  title: Water for Elephants
+  year: 2011
+  runtime: 122
+  director: Francis Lawrence
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.62 }
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: spectre
+  tmdb_id: null
+  title: Spectre
+  year: 2015
+  runtime: 148
+  director: Sam Mendes
+  tags: { opacity: 2, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.6 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-zero-theorem
+  tmdb_id: null
+  title: The Zero Theorem
+  year: 2013
+  runtime: 107
+  director: Terry Gilliam
+  tags:
+    opacity: 4 # a math problem meant to prove existence is meaningless, staged as pure surreal allegory
+    stillness: 3
+    bleakness: 4
+    humor: 2
+    acclaim: 0.55
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: big-eyes
+  tmdb_id: null
+  title: Big Eyes
+  year: 2014
+  runtime: 106
+  director: Tim Burton
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-legend-of-tarzan
+  tmdb_id: null
+  title: The Legend of Tarzan
+  year: 2016
+  runtime: 110
+  director: David Yates
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.42 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

@@ -1,0 +1,66 @@
+slug: steve-carell
+kind: actor
+name: Steve Carell
+blurb: A comedic persona built on wounded, oblivious earnestness that turned out to translate almost perfectly into genuine dramatic menace and grief once directors started asking for it straight.
+
+films:
+  - film: foxcatcher
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: menacing
+    gateway: 2
+    note: Wealthy heir John du Pont, bankrolling an Olympic wrestling team out of a need for validation that curdles into something the film lets metastasize in full view.
+
+  - film: the-40-year-old-virgin
+    signature: 5
+    must_see: true
+    showcase: 4
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: A middle-aged electronics store employee whose sexual inexperience becomes his coworkers' pet project, playing the premise with total, unguarded sincerity.
+
+  - film: little-miss-sunshine
+    signature: 4
+    showcase: 4
+    role_size: supporting
+    register: restrained
+    gateway: 4
+    note: A suicidal Proust scholar rejoining his sister's chaotic family for a cross-country road trip, playing depression as dry, deadpan exhaustion.
+
+  - film: beautiful-boy
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A father cycling through hope and devastation as his son relapses into meth addiction again and again, playing helplessness without a trace of his comic timing.
+
+  - film: the-big-short
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: unhinged
+    gateway: 4
+    note: A hedge fund manager whose fury at Wall Street's fraud only grows once he realizes he's about to profit from the same collapse he's outraged by.
+
+  - film: anchorman
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: comic
+    gateway: 5
+    note: A famously dim-witted weatherman, delivering the film's most quotably absurd non sequiturs with complete, unblinking confidence.
+
+curated:
+  curator: house
+  rationale: The performance that shows how far the persona could travel first, then everywhere it started.
+  order:
+    - anchorman
+    - the-40-year-old-virgin
+    - little-miss-sunshine
+    - the-big-short
+    - beautiful-boy
+    - foxcatcher

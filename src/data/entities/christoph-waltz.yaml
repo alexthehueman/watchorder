@@ -1,0 +1,84 @@
+slug: christoph-waltz
+kind: actor
+name: Christoph Waltz
+blurb: A courtly, multilingual charm that Tarantino discovered could curdle into pure menace mid-sentence — the same silky delivery works just as well playing a Bond villain or a circus ringmaster.
+
+films:
+  - film: inglourious-basterds
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: menacing
+    gateway: 3
+    note: A Nazi detective nicknamed "the Jew Hunter," conducting interrogations as leisurely multilingual conversations that never once raise their volume. Won him the Oscar.
+
+  - film: django-unchained
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: A bounty hunter posing as a dentist who frees and partners with an enslaved man, playing genuine decency as the film's rarest commodity. Won him a second Oscar.
+
+  - film: the-zero-theorem
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: unhinged
+    gateway: 2
+    note: A reclusive computer genius tasked with proving existence is meaningless, in a surreal bureaucratic dystopia that never once explains its own rules.
+
+  - film: spectre
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: menacing
+    gateway: 4
+    note: The head of a global crime syndicate with a long-buried personal connection to Bond, playing supervillain menace with unnerving calm.
+
+  - film: alita-battle-angel
+    signature: 2
+    showcase: 2
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: A cyborg doctor with a hidden past as a bounty hunter, playing warmth toward his creation alongside an unresolved capacity for violence.
+
+  - film: water-for-elephants
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: unhinged
+    gateway: 4
+    note: A volatile, abusive circus owner whose charm toward outsiders masks the violence he directs at everyone under his employ.
+
+  - film: big-eyes
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: comic
+    gateway: 4
+    note: An artist claiming credit for his wife's paintings, playing self-aggrandizing charm as the film's engine of quiet fraud.
+
+  - film: the-legend-of-tarzan
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: restrained
+    gateway: 5
+    note: A Belgian colonial envoy plundering the Congo under diplomatic cover, playing genteel manners over genuinely brutal ends.
+
+curated:
+  curator: house
+  rationale: The two Oscar-winning performances first, then the range on both sides of them.
+  order:
+    - django-unchained
+    - inglourious-basterds
+    - spectre
+    - the-legend-of-tarzan
+    - big-eyes
+    - alita-battle-angel
+    - water-for-elephants
+    - the-zero-theorem

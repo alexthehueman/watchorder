@@ -1,0 +1,46 @@
+# New films for Steve Carell. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Big Short already exists in bale.yaml — tagged before he had an entity. Beautiful Boy
+# already exists in chalamet.yaml (a genuine dual lead) — tagged before he had an entity.
+
+- id: the-40-year-old-virgin
+  tmdb_id: null
+  title: The 40 Year Old Virgin
+  year: 2005
+  runtime: 116
+  director: Judd Apatow
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 5, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+
+- id: little-miss-sunshine
+  tmdb_id: null
+  title: Little Miss Sunshine
+  year: 2006
+  runtime: 101
+  director: Jonathan Dayton
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 4, acclaim: 0.82 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
+
+- id: foxcatcher
+  tmdb_id: null
+  title: Foxcatcher
+  year: 2014
+  runtime: 134
+  director: Bennett Miller
+  tags:
+    opacity: 2 # a wealthy patron's motives for bankrolling two wrestlers the film keeps you guessing about until it's too late
+    stillness: 4
+    bleakness: 5
+    humor: 1
+    acclaim: 0.78
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: anchorman
+  tmdb_id: null
+  title: Anchorman
+  year: 2004
+  runtime: 94
+  director: Adam McKay
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 5, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+

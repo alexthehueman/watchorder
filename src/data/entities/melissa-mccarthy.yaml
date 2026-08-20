@@ -1,0 +1,66 @@
+slug: melissa-mccarthy
+kind: actor
+name: Melissa McCarthy
+blurb: Built a comedy career on total physical and verbal fearlessness, then spent a handful of dramatic roles proving the same commitment works just as well without a single joke in it.
+
+films:
+  - film: bridesmaids
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: supporting
+    register: comic
+    gateway: 5
+    note: The groom's blunt, unfiltered sister, stealing nearly every scene she's in and earning an Oscar nomination for a broadly comic supporting role.
+
+  - film: can-you-ever-forgive-me
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: Real-life biographer Lee Israel, forging celebrity letters to survive after her career collapses, playing bitterness without a shred of the usual comic softening.
+
+  - film: spy
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: comic
+    gateway: 4
+    note: A deskbound CIA analyst sent into the field for the first time, playing competence hidden under years of being underestimated.
+
+  - film: the-heat
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 4
+    note: A foul-mouthed Boston detective forced to partner with an uptight FBI agent, playing chaos as a legitimate investigative method.
+
+  - film: identity-thief
+    signature: 2
+    showcase: 2
+    role_size: lead
+    register: comic
+    gateway: 4
+    note: A con artist who's stolen a man's identity, dragged cross-country by her victim to face the consequences, playing chaos as pure self-preservation.
+
+  - film: st-vincent
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: warm
+    gateway: 4
+    note: A single mother whose son befriends a cantankerous neighbor, mostly present as the film's grounded emotional throughline.
+
+curated:
+  curator: house
+  rationale: The performance that made her name first, then the range on both sides of it.
+  order:
+    - bridesmaids
+    - spy
+    - the-heat
+    - identity-thief
+    - st-vincent
+    - can-you-ever-forgive-me
