@@ -1,0 +1,47 @@
+slug: winona-ryder
+kind: actor
+name: Winona Ryder
+blurb: A wry, wounded screen presence that defined a generation of outsiders — from suburban goth teenager to institutionalized young woman finding her way back.
+
+films:
+  - film: girl-interrupted
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A young woman committed after a breakdown, watching the ward around her more than she speaks, playing quiet, internal unraveling.
+
+  - film: heathers
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 3
+    note: A popular girl drawn into her boyfriend's escalating murder spree, playing a spiral from complicity into real horror.
+
+  - film: edward-scissorhands
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: A suburban teenager slowly falling for the gentle, handmade outsider next door, playing unguarded, growing tenderness.
+
+  - film: beetlejuice
+    signature: 4
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: A deadpan goth teenager delighted to discover her house is haunted, playing dry, morbid comic charm.
+
+curated:
+  curator: house
+  rationale: The most acclaimed, most fully dramatic performance first, then the range of tone around it.
+  order:
+    - girl-interrupted
+    - heathers
+    - edward-scissorhands
+    - beetlejuice

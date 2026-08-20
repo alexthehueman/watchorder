@@ -1,0 +1,19 @@
+# New films for Winona Ryder. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Edward Scissorhands already exists in depp.yaml — tagged before she had an entity.
+# Girl, Interrupted already exists in jolie.yaml.
+# Beetlejuice already exists in keaton-michael.yaml.
+
+- id: heathers
+  tmdb_id: null
+  title: Heathers
+  year: 1988
+  runtime: 102
+  director: Michael Lehmann
+  tags:
+    opacity: 2 # how far her complicity actually goes, and whether she can stop it, stays uncertain for a long stretch
+    stillness: 1
+    bleakness: 4
+    humor: 3
+    acclaim: 0.72
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 0 }

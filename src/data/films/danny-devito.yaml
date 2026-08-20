@@ -1,0 +1,36 @@
+# New films for Danny DeVito. Scales and anchors are in README.md ("The anchor rubric").
+#
+# One Flew Over the Cuckoo's Nest already exists in nicholson.yaml — tagged before he had an entity.
+# Batman Returns already exists in walken.yaml.
+
+- id: twins
+  tmdb_id: null
+  title: Twins
+  year: 1988
+  runtime: 107
+  director: Ivan Reitman
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: matilda
+  tmdb_id: null
+  title: Matilda
+  year: 1996
+  runtime: 98
+  director: Danny DeVito
+  tags:
+    opacity: 2 # whether the neglect is deliberate cruelty or oblivious self-absorption stays a little unresolved, played for both comedy and sadness
+    stillness: 1
+    bleakness: 2
+    humor: 4
+    acclaim: 0.72
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 0 }
+
+- id: throw-momma-from-the-train
+  tmdb_id: null
+  title: Throw Momma from the Train
+  year: 1987
+  runtime: 88
+  director: Danny DeVito
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 4, acclaim: 0.62 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }

@@ -1,0 +1,56 @@
+slug: danny-devito
+kind: actor
+name: Danny DeVito
+blurb: A gleefully grotesque comic presence that ranged from a genuinely acclaimed dramatic supporting turn to a run of dark, self-directed comedy.
+
+films:
+  - film: batman-returns
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: menacing
+    gateway: 3
+    note: A grotesque, sewer-dwelling villain seeking revenge on Gotham, playing genuinely unsettling menace under the grand-guignol camp.
+
+  - film: one-flew-over-the-cuckoos-nest
+    signature: 4
+    showcase: 4
+    role_size: supporting
+    register: restrained
+    gateway: 2
+    note: A gentle, childlike patient among the ward's misfits, playing quiet, unassuming warmth.
+
+  - film: throw-momma-from-the-train
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: unhinged
+    gateway: 3
+    note: A put-upon son plotting to be rid of his overbearing mother, playing increasingly frantic dark-comic desperation.
+
+  - film: matilda
+    signature: 3
+    showcase: 4
+    role_size: supporting
+    register: menacing
+    gateway: 4
+    note: A neglectful, crooked used-car salesman father, playing petty, self-absorbed cruelty for dark laughs.
+
+  - film: twins
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 4
+    note: The mismatched genetic "twin" of a towering, wholesome brother, playing scrappy, streetwise comic energy.
+
+curated:
+  curator: house
+  rationale: The most iconic villain role first, then the acclaimed early dramatic work, then the dark comedy he'd go on to direct himself.
+  order:
+    - batman-returns
+    - one-flew-over-the-cuckoos-nest
+    - throw-momma-from-the-train
+    - matilda
+    - twins

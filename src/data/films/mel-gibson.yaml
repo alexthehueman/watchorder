@@ -1,0 +1,35 @@
+# New films for Mel Gibson. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Ransom already exists in delroy-lindo.yaml — tagged before he had an entity.
+
+- id: lethal-weapon
+  tmdb_id: null
+  title: Lethal Weapon
+  year: 1987
+  runtime: 110
+  director: Richard Donner
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 4, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: braveheart
+  tmdb_id: null
+  title: Braveheart
+  year: 1995
+  runtime: 178
+  director: Mel Gibson
+  tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
+
+- id: signs
+  tmdb_id: null
+  title: Signs
+  year: 2002
+  runtime: 106
+  director: M Night Shyamalan
+  tags:
+    opacity: 3 # whether any of it is providence or coincidence stays genuinely unresolved
+    stillness: 3
+    bleakness: 3
+    humor: 2
+    acclaim: 0.68
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 1, sex: 0 }
