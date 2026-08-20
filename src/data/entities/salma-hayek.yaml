@@ -1,0 +1,57 @@
+slug: salma-hayek
+kind: actor
+name: Salma Hayek
+blurb: Built a career on a magnetic physicality that Hollywood spent years reducing to genre thrillers, before an artist's biopic proved exactly how much more she could do with it.
+
+films:
+  - film: frida
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 2
+    note: A biopic of painter Frida Kahlo tracing chronic pain, a volatile marriage, and a singular creative vision, playing suffering and defiance as the same fuel.
+
+  - film: desperado
+    signature: 5
+    must_see: true
+    showcase: 3
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: A bookshop owner drawn into a gun-slinging musician's revenge mission, playing genuine romantic warmth against a film built almost entirely around style and violence.
+
+  - film: from-dusk-till-dawn
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: unhinged
+    gateway: 2
+    note: A bar owner whose true nature the film reveals only once the story swerves into an entirely different genre halfway through.
+
+  - film: once-upon-a-time-in-mexico
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: warm
+    gateway: 3
+    note: A gunslinger's wife appearing mostly in flashback, whose memory drives much of his motivation across the film's tangled plot.
+
+  - film: the-hitmans-bodyguard
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 4
+    note: A foul-mouthed, incarcerated wife needling her husband over the phone through an escalating action plot, playing pure comic chaos in every scene she gets.
+
+curated:
+  curator: house
+  rationale: The performance that proved there was far more range than the genre thrillers were asking for, then everywhere else that range gets put to smaller use.
+  order:
+    - the-hitmans-bodyguard
+    - once-upon-a-time-in-mexico
+    - desperado
+    - from-dusk-till-dawn
+    - frida

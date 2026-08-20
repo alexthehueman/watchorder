@@ -1,0 +1,33 @@
+# New films for Diego Luna. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Frida already exists in hayek.yaml — tagged before he had an entity. Milk already exists in
+# penn.yaml — tagged before he had an entity. Rogue One already exists in whitaker.yaml — tagged
+# before he had an entity.
+
+- id: y-tu-mama-tambien
+  tmdb_id: null
+  title: Y Tu Mama Tambien
+  year: 2001
+  runtime: 106
+  director: Alfonso Cuaron
+  tags:
+    opacity: 2 # an unspoken tension between the two friends that the narration only resolves after the trip is already over
+    stillness: 2
+    bleakness: 4
+    humor: 3
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+
+- id: elysium
+  tmdb_id: null
+  title: Elysium
+  year: 2013
+  runtime: 109
+  director: Neill Blomkamp
+  tags:
+    opacity: 1
+    stillness: 1
+    bleakness: 3 # a friend's steady loyalty keeps the film's otherwise grim class divide from ever fully closing in on him
+    humor: 1
+    acclaim: 0.58
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }

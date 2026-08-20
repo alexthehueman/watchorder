@@ -1,0 +1,56 @@
+slug: diego-luna
+kind: actor
+name: Diego Luna
+blurb: Broke through in a film about the last summer of adolescence, then spent the decades since moving fluidly between intimate Mexican drama and Hollywood's biggest franchises.
+
+films:
+  - film: y-tu-mama-tambien
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: warm
+    gateway: 2
+    note: One of two teenage friends taking an older woman on a spontaneous road trip, playing bravado and real vulnerability as the same performance for each other. His breakout role.
+
+  - film: rogue-one
+    signature: 4
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: A rebel intelligence officer whose morally compromised methods the film never lets him off the hook for, playing conviction as something genuinely costly.
+
+  - film: milk
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: unhinged
+    gateway: 2
+    note: A volatile young activist whose relationship with the film's subject spirals into personal crisis alongside the political movement around them.
+
+  - film: frida
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: warm
+    gateway: 3
+    note: A friend and occasional lover moving through the artist's circle, playing loyalty as one of the few steady things in her life.
+
+  - film: elysium
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: restrained
+    gateway: 3
+    note: A steady, loyal friend supporting a desperate mission to reach a utopian space station, playing quiet competence against the film's much larger action set pieces.
+
+curated:
+  curator: house
+  rationale: The performance that made his name first, then everywhere else that same warmth gets put to different use.
+  order:
+    - elysium
+    - frida
+    - milk
+    - rogue-one
+    - y-tu-mama-tambien
