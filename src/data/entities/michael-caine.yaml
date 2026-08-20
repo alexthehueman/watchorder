@@ -1,0 +1,83 @@
+slug: michael-caine
+kind: actor
+name: Michael Caine
+blurb: Six decades of working constantly, in roles that range from Cockney charm to butler's discretion, with the accent as the one thing that never changes.
+
+films:
+  - film: the-dark-knight
+    signature: 4
+    must_see: true
+    showcase: 4
+    role_size: supporting
+    register: warm
+    gateway: 5
+    note: Alfred, the one person in Gotham allowed to tell Bruce Wayne the truth without consequence.
+
+  - film: alfie
+    signature: 4
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: comic
+    gateway: 4
+    note: A womanizer who narrates his own conquests straight to camera, until the film quietly stops believing his own justifications.
+
+  - film: hannah-and-her-sisters
+    signature: 3
+    showcase: 4
+    role_size: supporting
+    register: warm
+    gateway: 4
+    note: A man infatuated with his wife's sister, in Woody Allen's warmest ensemble. Won him his first Oscar.
+
+  - film: the-cider-house-rules
+    signature: 3
+    showcase: 4
+    role_size: supporting
+    register: restrained
+    gateway: 3
+    note: An orphanage doctor performing illegal abortions out of conviction, and quietly training his successor to disagree with him.
+
+  - film: children-of-men
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: comic
+    gateway: 3
+    note: An aging hippie growing weed in a dying world, and the closest thing the film has to comic relief.
+
+  - film: get-carter
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: menacing
+    gateway: 3
+    note: A London gangster tearing his hometown apart to find out who really killed his brother. The coldest thing he's ever played.
+
+  - film: the-italian-job
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: A heist orchestrated around gridlocking Turin traffic with three Mini Coopers. Ends on a cliffhanger it never resolves.
+
+  - film: batman-begins
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: restrained
+    gateway: 5
+    note: Alfred's introduction — the same role, before the weight of everything that follows.
+
+curated:
+  curator: house
+  rationale: Alfred first, since it's how most people know him now, then the roles that made his reputation decades earlier.
+  order:
+    - the-dark-knight
+    - the-italian-job
+    - alfie
+    - hannah-and-her-sisters
+    - children-of-men
+    - the-cider-house-rules
+    - get-carter

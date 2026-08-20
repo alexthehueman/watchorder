@@ -1,0 +1,101 @@
+slug: diane-keaton
+kind: actor
+name: Diane Keaton
+blurb: The outsider who married into the Corleone family and the neurotic New Yorker Woody Allen wrote just for her — the two roles that somehow both define her.
+
+films:
+  - film: annie-hall
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: Written for her, named after her real surname, and it won her the Oscar. Still the most obvious place to start.
+
+  - film: the-godfather
+    signature: 4
+    must_see: true
+    showcase: 4
+    role_size: supporting
+    register: restrained
+    gateway: 4
+    note: Kay, an outsider who marries into the Corleone family without understanding what that actually means yet.
+
+  - film: the-godfather-part-ii
+    signature: 4
+    showcase: 4
+    role_size: supporting
+    register: restrained
+    gateway: 3
+    note: Kay finally understands exactly what she married into, and the door closes on her for it.
+
+  - film: the-first-wives-club
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: Three divorced women engineering revenge on their ex-husbands. Broad, unapologetic comfort watching.
+
+  - film: marvins-room
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A woman who gave up her own life to care for her dying father, tested by the sister who never did. Edged out Streep for the Oscar nomination that year.
+
+  - film: reds
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: warm
+    gateway: 2
+    note: A journalist and activist across the Russian Revolution, in a three-hour epic structured around real elderly witnesses.
+
+  - film: somethings-gotta-give
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: A playwright falling for a much younger man's father, in one of the few mainstream romances built around a woman her age.
+
+  - film: the-godfather-part-iii
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: restrained
+    gateway: 2
+    note: Kay's brief return, years later, to a family that never really let either of them go.
+
+  - film: baby-boom
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 4
+    note: A high-powered executive whose entire life reroutes around an inherited baby. Straightforward comfort watching.
+
+prereqs:
+  - film: the-godfather-part-ii
+    requires: the-godfather
+    strength: hard
+  - film: the-godfather-part-iii
+    requires: the-godfather-part-ii
+    strength: hard
+
+curated:
+  curator: house
+  rationale: The role everyone already knows first, then the Godfather trilogy in order, with the lighter later work around it.
+  order:
+    - annie-hall
+    - baby-boom
+    - somethings-gotta-give
+    - the-godfather
+    - the-godfather-part-ii
+    - the-godfather-part-iii
+    - the-first-wives-club
+    - marvins-room
+    - reds

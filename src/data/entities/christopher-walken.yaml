@@ -1,0 +1,84 @@
+slug: christopher-walken
+kind: actor
+name: Christopher Walken
+blurb: A cadence nobody else has, deployed across war trauma, psychic dread, mob menace, and a Bond-villain golf swing, often within the same decade.
+
+films:
+  - film: the-deer-hunter
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 3
+    note: A soldier who never fully leaves the war, or the game that came to define it. Won him the Oscar.
+
+  - film: catch-me-if-you-can
+    signature: 4
+    must_see: true
+    showcase: 4
+    role_size: supporting
+    register: warm
+    gateway: 5
+    note: A father whose own con-artist instincts taught his son everything, played with real heartbreak underneath.
+
+  - film: true-romance
+    signature: 2
+    showcase: 5
+    role_size: supporting
+    register: menacing
+    gateway: 3
+    note: A mob consigliere interrogating a man about Sicilians, in one unbroken scene of pure, quiet menace.
+
+  - film: batman-returns
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: menacing
+    gateway: 4
+    note: A corrupt industrialist named Max Shreck, after the actor who played the original Nosferatu — a joke on his own vampiric business ethics.
+
+  - film: king-of-new-york
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: unhinged
+    gateway: 2
+    note: A drug lord fresh out of prison, funding a children's hospital with the same money that funds the killing.
+
+  - film: the-dead-zone
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A man who wakes from a coma with the ability to see a person's future by touching them, and has to decide what to do with it.
+
+  - film: annie-hall
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: unhinged
+    gateway: 4
+    note: A single scene as Annie's brother, describing a recurring urge to crash his car into oncoming traffic. His first notable film role.
+
+  - film: pennies-from-heaven
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: menacing
+    gateway: 2
+    note: A pimp who gets one full musical number, tap-dancing in a scene that has nothing to do with the film's Depression-era misery around it.
+
+curated:
+  curator: house
+  rationale: The performance that made him first, then the range around it, saving the strangest and smallest roles for last.
+  order:
+    - the-deer-hunter
+    - catch-me-if-you-can
+    - true-romance
+    - batman-returns
+    - the-dead-zone
+    - king-of-new-york
+    - pennies-from-heaven
+    - annie-hall
