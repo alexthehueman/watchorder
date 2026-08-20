@@ -5,7 +5,7 @@
 # exists in coens.yaml — tagged before she had an entity.
 
 - id: safe
-  tmdb_id: null
+  tmdb_id: 32646
   title: Safe
   year: 1995
   runtime: 119
@@ -19,9 +19,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0114323
   poster_url: https://m.media-amazon.com/images/M/MV5BMmFlNmIyZGEtMzdjZS00NTQwLTg3NmEtNjFmMDU0NTQwOGRmXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: safe
 
 - id: far-from-heaven
-  tmdb_id: null
+  tmdb_id: 10712
   title: Far from Heaven
   year: 2002
   runtime: 107
@@ -30,9 +31,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0297884
   poster_url: https://m.media-amazon.com/images/M/MV5BMTE5ODI3MTM4OV5BMl5BanBnXkFtZTYwNjE5OTg2._V1_SX300.jpg
+  letterboxd_slug: far-from-heaven
 
 - id: the-kids-are-all-right
-  tmdb_id: null
+  tmdb_id: 39781
   title: The Kids Are All Right
   year: 2010
   runtime: 106
@@ -41,9 +43,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt0842926
   poster_url: https://m.media-amazon.com/images/M/MV5BMjE4NTMwNDg5MF5BMl5BanBnXkFtZTcwNDY2ODE0Mw@@._V1_SX300.jpg
+  letterboxd_slug: the-kids-are-all-right
 
 - id: still-alice
-  tmdb_id: null
+  tmdb_id: 284293
   title: Still Alice
   year: 2014
   runtime: 101
@@ -57,9 +60,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt3316960
   poster_url: https://m.media-amazon.com/images/M/MV5BMjIzNzAxNjY1Nl5BMl5BanBnXkFtZTgwMDg4ODQxMzE@._V1_SX300.jpg
+  letterboxd_slug: still-alice
 
 - id: maps-to-the-stars
-  tmdb_id: null
+  tmdb_id: 157851
   title: Maps to the Stars
   year: 2014
   runtime: 111
@@ -68,3 +72,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 1 }
   imdb_id: tt2172584
   poster_url: https://m.media-amazon.com/images/M/MV5BMTY3MjQwNzYyNV5BMl5BanBnXkFtZTgwNTY3NDQ5MzE@._V1_SX300.jpg
+  letterboxd_slug: maps-to-the-stars

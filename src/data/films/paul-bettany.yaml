@@ -5,16 +5,18 @@
 # already exists in downey.yaml.
 
 - id: a-knights-tale
-  tmdb_id: null
+  tmdb_id: 9476
   title: A Knight's Tale
   year: 2001
   runtime: 132
   director: Brian Helgeland
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: a-knights-tale
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ej/yv/5e/40/a-knights-tale-1200-1200-675-675-crop-000000.jpg?v=6416d8979f
 
 - id: the-da-vinci-code
-  tmdb_id: null
+  tmdb_id: 591
   title: The Da Vinci Code
   year: 2006
   runtime: 149
@@ -26,9 +28,11 @@
     humor: 2
     acclaim: 0.55
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: the-da-vinci-code
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/2v/5i/3o/ml/da-vinci-code-1200-1200-675-675-crop-000000.jpg?v=c5e345f06e
 
 - id: priest
-  tmdb_id: null
+  tmdb_id: 38321
   title: Priest
   year: 2011
   runtime: 87
@@ -40,9 +44,11 @@
     humor: 1
     acclaim: 0.35
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: priest-2011
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/8a/75/u0/so/priest-1200-1200-675-675-crop-000000.jpg?v=468768b0f5
 
 - id: creation
-  tmdb_id: null
+  tmdb_id: 30431
   title: Creation
   year: 2009
   runtime: 108
@@ -54,9 +60,11 @@
     humor: 2
     acclaim: 0.60
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: creation
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/a8/zy/8n/k5/creation-1200-1200-675-675-crop-000000.jpg?v=7d5b05b53e
 
 - id: legion
-  tmdb_id: null
+  tmdb_id: 22894
   title: Legion
   year: 2010
   runtime: 100
@@ -68,9 +76,11 @@
     humor: 3
     acclaim: 0.40
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: legion-2010
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/4j/sj/qk/o9/8kJflsQ4SU9CJQFnht9mpXDW2cF-1200-1200-675-675-crop-000000.jpg?v=a778e31da1
 
 - id: transcendence
-  tmdb_id: null
+  tmdb_id: 157353
   title: Transcendence
   year: 2014
   runtime: 119
@@ -82,12 +92,16 @@
     humor: 2
     acclaim: 0.40
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: transcendence
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/4x/p6/sb/30/transcendence-1200-1200-675-675-crop-000000.jpg?v=6988fed122
 
 - id: mortdecai
-  tmdb_id: null
+  tmdb_id: 210860
   title: Mortdecai
   year: 2015
   runtime: 106
   director: David Koepp
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 4, acclaim: 0.30 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: mortdecai
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/18/5n/j8/2o/mortdecai-1200-1200-675-675-crop-000000.jpg?v=d68b0f5ddf

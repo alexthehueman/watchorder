@@ -13,7 +13,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
 
 - id: searching
-  tmdb_id: null
+  tmdb_id: 489999
   title: Searching
   year: 2018
   runtime: 102
@@ -25,9 +25,11 @@
     humor: 1
     acclaim: 0.78
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: searching-2018
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/zc/9v/ha/7y/searching-1200-1200-675-675-crop-000000.jpg?v=148a5e0e2a
 
 - id: better-luck-tomorrow
-  tmdb_id: null
+  tmdb_id: 14290
   title: Better Luck Tomorrow
   year: 2002
   runtime: 101
@@ -39,27 +41,33 @@
     humor: 2
     acclaim: 0.65
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  letterboxd_slug: better-luck-tomorrow
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/l0/tc/2u/2o/wCX4K0NZI5Xy9uRCtETzBQM1v2J-1200-1200-675-675-crop-000000.jpg?v=924c5fc6d3
 
 - id: columbus
-  tmdb_id: null
+  tmdb_id: 414453
   title: Columbus
   year: 2017
   runtime: 100
   director: Kogonada
   tags: { opacity: 3, stillness: 4, bleakness: 3, humor: 2, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: columbus-2017
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/gz/5y/bf/ns/columbus-1200-1200-675-675-crop-000000.jpg?v=e058bb485c
 
 - id: american-pie
-  tmdb_id: null
+  tmdb_id: 2105
   title: American Pie
   year: 1999
   runtime: 95
   director: Paul Weitz
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.65 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+  letterboxd_slug: american-pie
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/j4/ab/fr/kq/american-pie-10-alt-1200-1200-675-675-crop-000000.jpg?v=851bda503f
 
 - id: go-1999
-  tmdb_id: null
+  tmdb_id: 9430
   title: Go
   year: 1999
   runtime: 102
@@ -71,12 +79,16 @@
     humor: 4
     acclaim: 0.68
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  letterboxd_slug: go
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/bs/5r/x0/cj/go-1200-1200-675-675-crop-000000.jpg?v=0eda27af2b
 
 - id: star-trek-beyond
-  tmdb_id: null
+  tmdb_id: 188927
   title: Star Trek Beyond
   year: 2016
   runtime: 122
   director: Justin Lin
   tags: { opacity: 2, stillness: 1, bleakness: 3, humor: 3, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: star-trek-beyond
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/3r/7k/gm/g3/mLrQMqyZgLeP8FrT5LCobKAiqmK-1200-1200-675-675-crop-000000.jpg?v=6b08214f3a

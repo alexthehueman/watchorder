@@ -4,16 +4,18 @@
 # in Hollywood already exists in tarantino.yaml — tagged before he had an entity.
 
 - id: elvis
-  tmdb_id: null
+  tmdb_id: 614934
   title: Elvis
   year: 2022
   runtime: 159
   director: Baz Luhrmann
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: elvis-2022
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/8x/tc/l7/bz/elvis-1200-1200-675-675-crop-000000.jpg?v=ee26bdce3b
 
 - id: master-gardener
-  tmdb_id: null
+  tmdb_id: 869612
   title: Master Gardener
   year: 2022
   runtime: 111
@@ -25,12 +27,16 @@
     humor: 1
     acclaim: 0.62
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  letterboxd_slug: master-gardener
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/r9/rz/hf/4h/master-1200-1200-675-675-crop-000000.jpg?v=32aed73f5f
 
 - id: the-bikeriders
-  tmdb_id: null
+  tmdb_id: 1008409
   title: The Bikeriders
   year: 2023
   runtime: 116
   director: Jeff Nichols
   tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: the-bikeriders
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/im/ge/jo/zw/the-bikeriders-1200-1200-675-675-crop-000000.jpg?v=15adcf3b1a

@@ -3,7 +3,7 @@
 # The Wolf of Wall Street already exists in scorsese.yaml — tagged before he had an entity.
 
 - id: dazed-and-confused
-  tmdb_id: null
+  tmdb_id: 9571
   title: Dazed and Confused
   year: 1993
   runtime: 102
@@ -12,9 +12,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0106677
   poster_url: https://m.media-amazon.com/images/M/MV5BMTM5MDY5MDQyOV5BMl5BanBnXkFtZTgwMzM3NzMxMDE@._V1_SX300.jpg
+  letterboxd_slug: dazed-and-confused
 
 - id: dallas-buyers-club
-  tmdb_id: null
+  tmdb_id: 152532
   title: Dallas Buyers Club
   year: 2013
   runtime: 117
@@ -23,9 +24,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
   imdb_id: tt0790636
   poster_url: https://m.media-amazon.com/images/M/MV5BMTYwMTA4MzgyNF5BMl5BanBnXkFtZTgwMjEyMjE0MDE@._V1_SX300.jpg
+  letterboxd_slug: dallas-buyers-club
 
 - id: magic-mike
-  tmdb_id: null
+  tmdb_id: 77930
   title: Magic Mike
   year: 2012
   runtime: 110
@@ -34,9 +36,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
   imdb_id: tt1915581
   poster_url: https://m.media-amazon.com/images/M/MV5BMTQzMDMzOTA5M15BMl5BanBnXkFtZTcwMjc4MTg4Nw@@._V1_SX300.jpg
+  letterboxd_slug: magic-mike
 
 - id: the-lincoln-lawyer
-  tmdb_id: null
+  tmdb_id: 50348
   title: The Lincoln Lawyer
   year: 2011
   runtime: 118
@@ -45,9 +48,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt1189340
   poster_url: https://m.media-amazon.com/images/M/MV5BMTQ4NDE4NTY5MV5BMl5BanBnXkFtZTcwODQyMTkxNA@@._V1_SX300.jpg
+  letterboxd_slug: the-lincoln-lawyer
 
 - id: killer-joe
-  tmdb_id: null
+  tmdb_id: 73567
   title: Killer Joe
   year: 2011
   runtime: 102
@@ -56,9 +60,10 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
   imdb_id: tt1726669
   poster_url: https://m.media-amazon.com/images/M/MV5BNDZmNDk5NGUtYTYwOS00MGRlLWFhZjAtOGE2MzMzM2YzNGUyXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: killer-joe
 
 - id: mud
-  tmdb_id: null
+  tmdb_id: 103731
   title: Mud
   year: 2012
   runtime: 130
@@ -67,9 +72,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt1935179
   poster_url: https://m.media-amazon.com/images/M/MV5BMTU2MzcyODgyNV5BMl5BanBnXkFtZTcwNTc4MDYwOQ@@._V1_SX300.jpg
+  letterboxd_slug: mud
 
 - id: interstellar
-  tmdb_id: null
+  tmdb_id: 157336
   title: Interstellar
   year: 2014
   runtime: 169
@@ -83,3 +89,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0816692
   poster_url: https://m.media-amazon.com/images/M/MV5BYzdjMDAxZGItMjI2My00ODA1LTlkNzItOWFjMDU5ZDJlYWY3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg
+  letterboxd_slug: interstellar

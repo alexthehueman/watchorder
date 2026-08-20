@@ -5,7 +5,7 @@
 # poehler.yaml (a genuine dual lead) — tagged before she had an entity.
 
 - id: whiskey-tango-foxtrot
-  tmdb_id: null
+  tmdb_id: 279641
   title: Whiskey Tango Foxtrot
   year: 2016
   runtime: 112
@@ -17,12 +17,16 @@
     humor: 3
     acclaim: 0.58
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  letterboxd_slug: whiskey-tango-foxtrot
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/wl/ln/8b/0v/whiskey-tango-foxtrot-1200-1200-675-675-crop-000000.jpg?v=db6a11024c
 
 - id: date-night
-  tmdb_id: null
+  tmdb_id: 35056
   title: Date Night
   year: 2010
   runtime: 88
   director: Shawn Levy
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: date-night
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/10/if/ki/6a/date-night-1200-1200-675-675-crop-000000.jpg?v=1b7e8f4350

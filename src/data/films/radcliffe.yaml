@@ -4,7 +4,7 @@
 # had an entity.
 
 - id: swiss-army-man
-  tmdb_id: null
+  tmdb_id: 347031
   title: Swiss Army Man
   year: 2016
   runtime: 97
@@ -16,27 +16,33 @@
     humor: 4
     acclaim: 0.68
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 1 }
+  letterboxd_slug: swiss-army-man
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/xw/bo/h7/ud/swiss-army-man-1200-1200-675-675-crop-000000.jpg?v=f7ee152d75
 
 - id: kill-your-darlings
-  tmdb_id: null
+  tmdb_id: 157370
   title: Kill Your Darlings
   year: 2013
   runtime: 104
   director: John Krokidas
   tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  letterboxd_slug: kill-your-darlings-2013
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/6d/ta/se/ba/kill-your-darlings-1200-1200-675-675-crop-000000.jpg?v=aa35e91a71
 
 - id: the-woman-in-black
-  tmdb_id: null
+  tmdb_id: 65086
   title: The Woman in Black
   year: 2012
   runtime: 95
   director: James Watkins
   tags: { opacity: 2, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.62 }
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: true, violence: 1, sex: 0 }
+  letterboxd_slug: the-woman-in-black-2012
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/b4/v0/r7/py/the-woman-in-black-2012-1200-1200-675-675-crop-000000.jpg?v=fdbfab9e57
 
 - id: horns
-  tmdb_id: null
+  tmdb_id: 149509
   title: Horns
   year: 2013
   runtime: 120
@@ -48,12 +54,16 @@
     humor: 2
     acclaim: 0.55
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  letterboxd_slug: horns
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ws/wc/01/e9/horns-1200-1200-675-675-crop-000000.jpg?v=9425354cab
 
 - id: guns-akimbo
-  tmdb_id: null
+  tmdb_id: 457335
   title: Guns Akimbo
   year: 2019
   runtime: 95
   director: Jason Lei Howden
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.52 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: guns-akimbo
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/kx/t3/ou/5e/guns%20akimbo-1200-1200-675-675-crop-000000.jpg?v=f7fe68aa73

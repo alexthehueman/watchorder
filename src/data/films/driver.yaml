@@ -5,7 +5,7 @@
 # an entity. BlacKkKlansman already exists in spike-lee.yaml — tagged before he had an entity.
 
 - id: silence
-  tmdb_id: null
+  tmdb_id: 68730
   title: Silence
   year: 2016
   runtime: 161
@@ -14,9 +14,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0490215
   poster_url: https://m.media-amazon.com/images/M/MV5BMjY3OTk0NjA2NV5BMl5BanBnXkFtZTgwNTg3Mjc2MDI@._V1_SX300.jpg
+  letterboxd_slug: silence
 
 - id: annette
-  tmdb_id: null
+  tmdb_id: 424277
   title: Annette
   year: 2021
   runtime: 141
@@ -30,9 +31,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt6217926
   poster_url: https://m.media-amazon.com/images/M/MV5BOTQxODc0NTMtMTlhOS00YjM4LTgzMTMtNDkxYmQ3MjczZTY4XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: annette
 
 - id: paterson
-  tmdb_id: null
+  tmdb_id: 370755
   title: Paterson
   year: 2016
   runtime: 118
@@ -41,9 +43,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt5247022
   poster_url: https://m.media-amazon.com/images/M/MV5BMTUzODA4Nzk0OF5BMl5BanBnXkFtZTgwNzE1MDIwMDI@._V1_SX300.jpg
+  letterboxd_slug: paterson
 
 - id: the-last-duel
-  tmdb_id: null
+  tmdb_id: 617653
   title: The Last Duel
   year: 2021
   runtime: 152
@@ -57,9 +60,10 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
   imdb_id: tt4244994
   poster_url: https://m.media-amazon.com/images/M/MV5BZGZiNDFkNDgtNDlmNS00NzZmLTg4MmItMzJkYjdmMjJkZDliXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-last-duel-2021
 
 - id: house-of-gucci
-  tmdb_id: null
+  tmdb_id: 644495
   title: House of Gucci
   year: 2021
   runtime: 158
@@ -68,12 +72,15 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
   imdb_id: tt11214590
   poster_url: https://m.media-amazon.com/images/M/MV5BMmQ3OTRiYWItMGRiOC00ZTVmLWJjMjEtNjZhNDQ5NjIxODNjXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: house-of-gucci
 
 - id: star-wars-the-last-jedi
-  tmdb_id: null
+  tmdb_id: 181808
   title: Star Wars The Last Jedi
   year: 2017
   runtime: 152
   director: Rian Johnson
   tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: star-wars-the-last-jedi
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/rl/8a/j7/0r/star-wars-last-jedi-1200-1200-675-675-crop-000000.jpg?v=7cb82939a1

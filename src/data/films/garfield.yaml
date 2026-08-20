@@ -3,7 +3,7 @@
 # Silence already exists in driver.yaml — tagged before he had an entity.
 
 - id: the-social-network
-  tmdb_id: null
+  tmdb_id: 37799
   title: The Social Network
   year: 2010
   runtime: 120
@@ -17,9 +17,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt1285016
   poster_url: https://m.media-amazon.com/images/M/MV5BMjlkNTE5ZTUtNGEwNy00MGVhLThmZjMtZjU1NDE5Zjk1NDZkXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-social-network
 
 - id: the-amazing-spider-man
-  tmdb_id: null
+  tmdb_id: 1930
   title: The Amazing Spider-Man
   year: 2012
   runtime: 136
@@ -28,9 +29,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0948470
   poster_url: https://m.media-amazon.com/images/M/MV5BMjMyOTM4MDMxNV5BMl5BanBnXkFtZTcwNjIyNzExOA@@._V1_QL75_UX380_CR0,1,380,562_.jpg
+  letterboxd_slug: the-amazing-spider-man
 
 - id: hacksaw-ridge
-  tmdb_id: null
+  tmdb_id: 324786
   title: Hacksaw Ridge
   year: 2016
   runtime: 139
@@ -39,9 +41,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt2119532
   poster_url: https://m.media-amazon.com/images/M/MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@._V1_QL75_UX380_CR0,12,380,562_.jpg
+  letterboxd_slug: hacksaw-ridge
 
 - id: tick-tick-boom
-  tmdb_id: null
+  tmdb_id: 537116
   title: Tick Tick Boom
   year: 2021
   runtime: 121
@@ -50,9 +53,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt8721424
   poster_url: https://m.media-amazon.com/images/M/MV5BOGYyNGJmNzctYzZjZi00MzUzLTg3YTYtYjk0OTNjMzA1OTE4XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: tick-tick-boom-2021
 
 - id: under-the-silver-lake
-  tmdb_id: null
+  tmdb_id: 396461
   title: Under the Silver Lake
   year: 2018
   runtime: 139
@@ -66,3 +70,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 2 }
   imdb_id: tt5691670
   poster_url: https://m.media-amazon.com/images/M/MV5BMTMzN2JkZDAtYjgyMy00M2QxLWE2NWItNTEyZGVlNTgyYTViXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: under-the-silver-lake

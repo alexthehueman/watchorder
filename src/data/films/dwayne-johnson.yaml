@@ -4,16 +4,18 @@
 # before he had an entity. Pain and Gain already exists in mackie.yaml.
 
 - id: fast-five
-  tmdb_id: null
+  tmdb_id: 51497
   title: Fast Five
   year: 2011
   runtime: 130
   director: Justin Lin
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: fast-five
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/yu/57/fi/p8/fast-five-1200-1200-675-675-crop-000000.jpg?v=9236879474
 
 - id: furious-7
-  tmdb_id: null
+  tmdb_id: 168259
   title: Furious 7
   year: 2015
   runtime: 137
@@ -25,18 +27,22 @@
     humor: 2
     acclaim: 0.68
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: furious-7
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/9o/e7/zp/4k/furious-7-1200-1200-675-675-crop-000000.jpg?v=380fe56e32
 
 - id: moana
-  tmdb_id: null
+  tmdb_id: 277834
   title: Moana
   year: 2016
   runtime: 107
   director: Ron Clements
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: moana-2016
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/2a/dc/ev/uk/moana-1200-1200-675-675-crop-000000.jpg?v=505f3aed6d
 
 - id: san-andreas
-  tmdb_id: null
+  tmdb_id: 254128
   title: San Andreas
   year: 2015
   runtime: 114
@@ -48,9 +54,11 @@
     humor: 1
     acclaim: 0.55
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: san-andreas
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/z3/wu/ef/4a/san-andreas-1200-1200-675-675-crop-000000.jpg?v=b3ced78496
 
 - id: jungle-cruise
-  tmdb_id: null
+  tmdb_id: 451048
   title: Jungle Cruise
   year: 2021
   runtime: 127
@@ -62,9 +70,11 @@
     humor: 4
     acclaim: 0.60
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: jungle-cruise
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/52/m8/dn/l3/jungle-cruise-1200-1200-675-675-crop-000000.jpg?v=5cf7d6f357
 
 - id: walking-tall
-  tmdb_id: null
+  tmdb_id: 11358
   title: Walking Tall
   year: 2004
   runtime: 86
@@ -76,9 +86,11 @@
     humor: 1
     acclaim: 0.50
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: walking-tall-2004
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/i9/11/e5/fa/walking-tall-2004-1200-1200-675-675-crop-000000.jpg?v=36823363aa
 
 - id: snitch
-  tmdb_id: null
+  tmdb_id: 134411
   title: Snitch
   year: 2013
   runtime: 112
@@ -90,3 +102,5 @@
     humor: 1
     acclaim: 0.55
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: snitch
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/p8/lk/9o/zd/snitch-1200-1200-675-675-crop-000000.jpg?v=ca07ae4a82

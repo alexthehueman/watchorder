@@ -4,25 +4,29 @@
 # already exists in saldana.yaml — tagged before he had an entity.
 
 - id: thor
-  tmdb_id: null
+  tmdb_id: 10195
   title: Thor
   year: 2011
   runtime: 115
   director: Kenneth Branagh
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: thor
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/o8/mt/91/41/thor-20-1200-1200-675-675-crop-000000.jpg?v=4d6fafd09b
 
 - id: rush
-  tmdb_id: null
+  tmdb_id: 96721
   title: Rush
   year: 2013
   runtime: 123
   director: Ron Howard
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.82 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  letterboxd_slug: rush-2013
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/hj/qm/jr/40/rush-1200-1200-675-675-crop-000000.jpg?v=75730b7d17
 
 - id: bad-times-at-the-el-royale
-  tmdb_id: null
+  tmdb_id: 446021
   title: Bad Times at the El Royale
   year: 2018
   runtime: 141
@@ -34,12 +38,16 @@
     humor: 2
     acclaim: 0.68
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: bad-times-at-the-el-royale
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/en/ad/g2/u2/bad-times-at-the-el-royale-1200-1200-675-675-crop-000000.jpg?v=4d4ed29d5a
 
 - id: ghostbusters-2016
-  tmdb_id: null
+  tmdb_id: 43074
   title: Ghostbusters
   year: 2016
   runtime: 116
   director: Paul Feig
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.52 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: ghostbusters-2016
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/43/54/xj/n0/ghostbusters-2016-1200-1200-675-675-crop-000000.jpg?v=272abaf254

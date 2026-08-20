@@ -1,7 +1,7 @@
 # New films for Julia Garner. Scales and anchors are in README.md ("The anchor rubric").
 
 - id: the-assistant
-  tmdb_id: null
+  tmdb_id: 627463
   title: The Assistant
   year: 2019
   runtime: 87
@@ -13,9 +13,11 @@
     humor: 1
     acclaim: 0.75
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: the-assistant-2019
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/41/vu/h8/sr/assistant-1200-1200-675-675-crop-000000.jpg?v=76ab6af3b9
 
 - id: we-are-what-we-are
-  tmdb_id: null
+  tmdb_id: 159128
   title: We Are What We Are
   year: 2013
   runtime: 105
@@ -27,21 +29,27 @@
     humor: 1
     acclaim: 0.62
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: we-are-what-we-are-2013
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/fp/v0/rj/o8/we-are-what-we-are-1200-1200-675-675-crop-000000.jpg?v=8c54c4f755
 
 - id: waves-2019
-  tmdb_id: null
+  tmdb_id: 533444
   title: Waves
   year: 2019
   runtime: 135
   director: Trey Edward Shults
   tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  letterboxd_slug: waves-2019
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/kz/7z/b0/br/waves-1200-1200-675-675-crop-000000.jpg?v=547b39f804
 
 - id: electrick-children
-  tmdb_id: null
+  tmdb_id: 89237
   title: Electrick Children
   year: 2012
   runtime: 96
   director: Rebecca Thomas
   tags: { opacity: 2, stillness: 3, bleakness: 2, humor: 2, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: electrick-children
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/x5/uv/m8/ao/electrick-children-1200-1200-675-675-crop-000000.jpg?v=605b9bd69a

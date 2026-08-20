@@ -5,25 +5,29 @@
 # exists in chastain.yaml — tagged before he had an entity.
 
 - id: jurassic-world
-  tmdb_id: null
+  tmdb_id: 135397
   title: Jurassic World
   year: 2015
   runtime: 124
   director: Colin Trevorrow
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.65 }
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: jurassic-world
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/7c/u4/4v/r2/jurassic-world-1200-1200-675-675-crop-000000.jpg?v=a5f905ad8a
 
 - id: the-lego-movie
-  tmdb_id: null
+  tmdb_id: 137106
   title: The Lego Movie
   year: 2014
   runtime: 100
   director: Phil Lord
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 5, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: the-lego-movie
+  poster_url: https://a.ltrbxd.com/resized/alternative-backdrop/1/0/5/1/8/8/tmdb/d4zaHEoI1yrpeQxBkulo8H9FEQP-1200-1200-675-675-crop-000000.jpg?v=500c7e755c
 
 - id: passengers
-  tmdb_id: null
+  tmdb_id: 274870
   title: Passengers
   year: 2016
   runtime: 116
@@ -35,9 +39,11 @@
     humor: 1
     acclaim: 0.55
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: passengers-2016
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ki/g0/gy/nw/passengers-2016-1200-1200-675-675-crop-000000.jpg?v=b2a065e080
 
 - id: the-tomorrow-war
-  tmdb_id: null
+  tmdb_id: 588228
   title: The Tomorrow War
   year: 2021
   runtime: 140
@@ -49,12 +55,16 @@
     humor: 1
     acclaim: 0.6
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: the-tomorrow-war
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/2c/z3/5v/fh/the-tomorrow-war-1200-1200-675-675-crop-000000.jpg?v=b9601ff6fc
 
 - id: the-magnificent-seven
-  tmdb_id: null
+  tmdb_id: 333484
   title: The Magnificent Seven
   year: 2016
   runtime: 133
   director: Antoine Fuqua
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 2, acclaim: 0.65 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: the-magnificent-seven-2016
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/u5/9q/vo/8d/the-magnificent-seven-2016-1200-1200-675-675-crop-000000.jpg?v=754976e681

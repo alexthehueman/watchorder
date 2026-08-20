@@ -4,7 +4,7 @@
 # genuinely be a vampire) — tagged before he had an entity.
 
 - id: being-john-malkovich
-  tmdb_id: null
+  tmdb_id: 492
   title: Being John Malkovich
   year: 1999
   runtime: 113
@@ -18,9 +18,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt0120601
   poster_url: https://m.media-amazon.com/images/M/MV5BNDExODk1MTktNzRiYS00MWEyLTgyOWItYTI1OWY4NzI1NDM2XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: being-john-malkovich
 
 - id: dangerous-liaisons
-  tmdb_id: null
+  tmdb_id: 859
   title: Dangerous Liaisons
   year: 1988
   runtime: 119
@@ -34,9 +35,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 2 }
   imdb_id: tt0094947
   poster_url: https://m.media-amazon.com/images/M/MV5BYmJkMzZhNzktYjgyYi00N2ZjLTgxN2EtN2JhOGY1NTE3ZWY0XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: dangerous-liaisons
 
 - id: in-the-line-of-fire
-  tmdb_id: null
+  tmdb_id: 9386
   title: In the Line of Fire
   year: 1993
   runtime: 128
@@ -45,9 +47,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0107206
   poster_url: https://m.media-amazon.com/images/M/MV5BYmNiNjNjYmQtZTQzNC00M2I1LThiMDgtNWNmM2VjY2Y3NzQxXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: in-the-line-of-fire
 
 - id: places-in-the-heart
-  tmdb_id: null
+  tmdb_id: 13681
   title: Places in the Heart
   year: 1984
   runtime: 111
@@ -56,9 +59,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0087921
   poster_url: https://m.media-amazon.com/images/M/MV5BZDcxNjk4NzUtMzgyOC00YzliLWEzMTctZmE5ZWVkN2ExNzU2XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: places-in-the-heart
 
 - id: con-air
-  tmdb_id: null
+  tmdb_id: 1701
   title: Con Air
   year: 1997
   runtime: 115
@@ -67,3 +71,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt0118880
   poster_url: https://m.media-amazon.com/images/M/MV5BODcxOGFjOTEtM2M3Zi00ZWNiLWFjMTYtZDQ0Yjg2NTE2MzNiXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: con-air

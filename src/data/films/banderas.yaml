@@ -4,16 +4,18 @@
 # exists in washington.yaml — tagged before he had an entity.
 
 - id: the-mask-of-zorro
-  tmdb_id: null
+  tmdb_id: 9342
   title: The Mask of Zorro
   year: 1998
   runtime: 136
   director: Martin Campbell
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: the-mask-of-zorro
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/zx/i4/fz/dd/mask-1200-1200-675-675-crop-000000.jpg?v=f0f382c572
 
 - id: pain-and-glory
-  tmdb_id: null
+  tmdb_id: 519010
   title: Pain and Glory
   year: 2019
   runtime: 113
@@ -25,12 +27,16 @@
     humor: 2
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: pain-and-glory
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/3q/ik/8l/vu/pain-glory-1200-1200-675-675-crop-000000.jpg?v=9f7aa45bbb
 
 - id: puss-in-boots
-  tmdb_id: null
+  tmdb_id: 417859
   title: Puss in Boots
   year: 2011
   runtime: 90
   director: Chris Miller
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: puss-in-boots
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/mx/sd/xa/19/puss-in-boots-1200-1200-675-675-crop-000000.jpg?v=916ec71885

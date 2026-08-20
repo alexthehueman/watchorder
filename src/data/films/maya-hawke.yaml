@@ -4,7 +4,7 @@
 # entity.
 
 - id: do-revenge
-  tmdb_id: null
+  tmdb_id: 762968
   title: Do Revenge
   year: 2022
   runtime: 118
@@ -16,18 +16,22 @@
     humor: 4
     acclaim: 0.60
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: do-revenge
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/i4/o9/ql/hv/do-revenge-1200-1200-675-675-crop-000000.jpg?v=90ece3e1e1
 
 - id: asteroid-city
-  tmdb_id: null
+  tmdb_id: 747188
   title: Asteroid City
   year: 2023
   runtime: 105
   director: Wes Anderson
   tags: { opacity: 3, stillness: 3, bleakness: 2, humor: 3, acclaim: 0.65 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: asteroid-city
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/j4/pi/fy/cf/525FJ1YD28efjP5cI7V2gDro6Qc-1200-1200-675-675-crop-000000.jpg?v=c93e68da37
 
 - id: mainstream
-  tmdb_id: null
+  tmdb_id: 557950
   title: Mainstream
   year: 2020
   runtime: 94
@@ -39,3 +43,5 @@
     humor: 2
     acclaim: 0.40
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: mainstream-2020
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/yc/1e/ew/yr/mainstream-1200-1200-675-675-crop-000000.jpg?v=6b60ef2feb

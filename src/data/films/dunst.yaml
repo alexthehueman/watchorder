@@ -6,7 +6,7 @@
 # entity.
 
 - id: interview-with-the-vampire
-  tmdb_id: null
+  tmdb_id: 628
   title: Interview with the Vampire
   year: 1994
   runtime: 123
@@ -15,9 +15,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0110148
   poster_url: https://m.media-amazon.com/images/M/MV5BYzJlN2NiZDQtZmI4NC00ZWFiLWFmMTUtMWM4ODVlOGFlODY1XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: interview-with-the-vampire
 
 - id: the-virgin-suicides
-  tmdb_id: null
+  tmdb_id: 1443
   title: The Virgin Suicides
   year: 1999
   runtime: 97
@@ -31,9 +32,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
   imdb_id: tt0159097
   poster_url: https://m.media-amazon.com/images/M/MV5BMmNhYTE5MjQtMzI2Ny00MDRhLWE4ZjAtYTg0YjNhNjZmMTVlXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-virgin-suicides
 
 - id: melancholia
-  tmdb_id: null
+  tmdb_id: 62215
   title: Melancholia
   year: 2011
   runtime: 136
@@ -47,9 +49,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 1 }
   imdb_id: tt1527186
   poster_url: https://m.media-amazon.com/images/M/MV5BMTk4NjM0MjI3MV5BMl5BanBnXkFtZTcwNjcxMDYzNg@@._V1_SX300.jpg
+  letterboxd_slug: melancholia
 
 - id: marie-antoinette
-  tmdb_id: null
+  tmdb_id: 1887
   title: Marie Antoinette
   year: 2006
   runtime: 123
@@ -58,9 +61,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt0422720
   poster_url: https://m.media-amazon.com/images/M/MV5BMmE4NzQzNGItNTY4My00ZTBhLTk2ZjItZDJkMjRlYTE2MGRiXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: marie-antoinette-2006
 
 - id: bring-it-on
-  tmdb_id: null
+  tmdb_id: 1588
   title: Bring It On
   year: 2000
   runtime: 98
@@ -69,3 +73,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0204946
   poster_url: https://m.media-amazon.com/images/M/MV5BYTQ2NTFlNzQtMTEzMi00MzA1LWI5MjgtOGQwMTU5ZGVjY2YyXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: bring-it-on

@@ -5,25 +5,29 @@
 # carpenter.yaml — tagged before he had an entity.
 
 - id: crazy-heart
-  tmdb_id: null
+  tmdb_id: 25196
   title: Crazy Heart
   year: 2009
   runtime: 112
   director: Scott Cooper
   tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: crazy-heart
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/fm/xm/2f/2z/a1mmbW5rC1BgnEtH2J7hkdczT0K-1200-1200-675-675-crop-000000.jpg?v=47b5483e16
 
 - id: true-grit-2010
-  tmdb_id: null
+  tmdb_id: 44264
   title: True Grit
   year: 2010
   runtime: 110
   director: Ethan Coen
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 3, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: true-grit-2010
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/fa/kg/o6/xu/iGQJj4qO2JrngQMGfn443Xoi4j9-1200-1200-675-675-crop-000000.jpg?v=b6d7ad2515
 
 - id: the-fisher-king
-  tmdb_id: null
+  tmdb_id: 177
   title: The Fisher King
   year: 1991
   runtime: 137
@@ -35,21 +39,27 @@
     humor: 3
     acclaim: 0.78
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 0 }
+  letterboxd_slug: the-fisher-king
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/lu/hl/lr/q4/the-fisher-king-1200-1200-675-675-crop-000000.jpg?v=cd0d11d5f0
 
 - id: hell-or-high-water
-  tmdb_id: null
+  tmdb_id: 338766
   title: Hell or High Water
   year: 2016
   runtime: 102
   director: David Mackenzie
   tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 2, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: hell-or-high-water
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/04/pi/k0/46/hell-or-high-water-1200-1200-675-675-crop-000000.jpg?v=52d7045667
 
 - id: tron
-  tmdb_id: null
+  tmdb_id: 97
   title: Tron
   year: 1982
   runtime: 96
   director: Steven Lisberger
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.62 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: tron
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/o6/mh/mw/mq/BC1B0C13-2050-49F6-8B3E-9316562D1F0A-1200-1200-675-675-crop-000000.jpg?v=8a1f5035e1

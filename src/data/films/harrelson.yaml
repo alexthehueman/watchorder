@@ -6,7 +6,7 @@
 # entity.
 
 - id: natural-born-killers
-  tmdb_id: null
+  tmdb_id: 241
   title: Natural Born Killers
   year: 1994
   runtime: 118
@@ -20,9 +20,10 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
   imdb_id: tt0110632
   poster_url: https://m.media-amazon.com/images/M/MV5BNTlmYjkxNzYtYWMwMC00NTNhLWExZjEtNmUwMzlmYWJhOGFjXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: natural-born-killers
 
 - id: the-people-vs-larry-flynt
-  tmdb_id: null
+  tmdb_id: 1630
   title: The People vs Larry Flynt
   year: 1996
   runtime: 129
@@ -31,9 +32,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
   imdb_id: tt0117318
   poster_url: https://m.media-amazon.com/images/M/MV5BNDU2ZTYxMDItNzRjNy00YWNkLTg1YTAtYmZlYTQxMzA3NjFmXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-people-vs-larry-flynt
 
 - id: zombieland
-  tmdb_id: null
+  tmdb_id: 19908
   title: Zombieland
   year: 2009
   runtime: 88
@@ -42,9 +44,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt1156398
   poster_url: https://m.media-amazon.com/images/M/MV5BMTU5MDg0NTQ1N15BMl5BanBnXkFtZTcwMjA4Mjg3Mg@@._V1_SX300.jpg
+  letterboxd_slug: zombieland
 
 - id: seven-psychopaths
-  tmdb_id: null
+  tmdb_id: 86838
   title: Seven Psychopaths
   year: 2012
   runtime: 110
@@ -53,9 +56,10 @@
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt1931533
   poster_url: https://m.media-amazon.com/images/M/MV5BMTgwMzUxMjc0M15BMl5BanBnXkFtZTcwMzQ2MjYyOA@@._V1_SX300.jpg
+  letterboxd_slug: seven-psychopaths
 
 - id: war-for-the-planet-of-the-apes
-  tmdb_id: null
+  tmdb_id: 281338
   title: War for the Planet of the Apes
   year: 2017
   runtime: 140
@@ -64,3 +68,4 @@
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt3450958
   poster_url: https://m.media-amazon.com/images/M/MV5BMzNhMzNiZDYtMzYxYy00YTYwLTkxNmYtNTJhOGU1Yjg5ODI5XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: war-for-the-planet-of-the-apes

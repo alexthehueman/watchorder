@@ -6,10 +6,12 @@
 # already exists in keoghan.yaml. Minority Report already exists in spielberg.yaml.
 
 - id: phone-booth
-  tmdb_id: null
+  tmdb_id: 1817
   title: Phone Booth
   year: 2002
   runtime: 81
   director: Joel Schumacher
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.65 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: phone-booth
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/k4/pa/9x/pa/14Jb0vOZKxbkyx5h0cQ8uj0sD3V-1200-1200-675-675-crop-000000.jpg?v=9b3fc10b77

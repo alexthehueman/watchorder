@@ -8,10 +8,12 @@
 # exists in murray.yaml — tagged before he had an entity.
 
 - id: isle-of-dogs
-  tmdb_id: null
+  tmdb_id: 399174
   title: Isle of Dogs
   year: 2018
   runtime: 101
   director: Wes Anderson
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: isle-of-dogs-2018
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/w4/nv/ni/8l/isle-of-dogs-1200-1200-675-675-crop-000000.jpg?v=a95eb8683a

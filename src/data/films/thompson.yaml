@@ -7,7 +7,7 @@
 # entity.
 
 - id: howards-end
-  tmdb_id: null
+  tmdb_id: 8293
   title: Howards End
   year: 1992
   runtime: 142
@@ -16,9 +16,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0104454
   poster_url: https://m.media-amazon.com/images/M/MV5BMTk3MDY3NDc2NF5BMl5BanBnXkFtZTgwODcwNjgzOTE@._V1_SX300.jpg
+  letterboxd_slug: howards-end
 
 - id: love-actually
-  tmdb_id: null
+  tmdb_id: 508
   title: Love Actually
   year: 2003
   runtime: 135
@@ -27,9 +28,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt0314331
   poster_url: https://m.media-amazon.com/images/M/MV5BYWRlZjcwYTgtYWJkOS00MGYwLTk3Y2ItNmU4NTg5Nzg2YTQ2XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: love-actually
 
 - id: nanny-mcphee
-  tmdb_id: null
+  tmdb_id: 11283
   title: Nanny McPhee
   year: 2005
   runtime: 97
@@ -38,9 +40,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0396752
   poster_url: https://m.media-amazon.com/images/M/MV5BMjAwNDUxODEwMF5BMl5BanBnXkFtZTcwMzgyMTIzMQ@@._V1_SX300.jpg
+  letterboxd_slug: nanny-mcphee
 
 - id: stranger-than-fiction
-  tmdb_id: null
+  tmdb_id: 1262
   title: Stranger than Fiction
   year: 2006
   runtime: 113
@@ -54,9 +57,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0420223
   poster_url: https://m.media-amazon.com/images/M/MV5BNzFmZjZhOTktYWIxZS00YzM1LWEzNmQtMDM2YjlhYmI2MDVlXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: stranger-than-fiction-2006
 
 - id: saving-mr-banks
-  tmdb_id: null
+  tmdb_id: 140823
   title: Saving Mr. Banks
   year: 2013
   runtime: 125
@@ -65,3 +69,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt2140373
   poster_url: https://m.media-amazon.com/images/M/MV5BMTc0MTQ3NzE4Nl5BMl5BanBnXkFtZTcwMzA4NDM5OQ@@._V1_SX300.jpg
+  letterboxd_slug: saving-mr-banks

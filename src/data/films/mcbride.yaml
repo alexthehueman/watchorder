@@ -5,19 +5,23 @@
 # in downey.yaml — tagged before he had an entity.
 
 - id: alien-covenant
-  tmdb_id: null
+  tmdb_id: 126889
   title: Alien Covenant
   year: 2017
   runtime: 122
   director: Ridley Scott
   tags: { opacity: 2, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.62 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: alien-covenant
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/58/8u/fz/1u/alien-covenant-40-1200-1200-675-675-crop-000000.jpg?v=bb06cd498f
 
 - id: the-foot-fist-way
-  tmdb_id: null
+  tmdb_id: 13484
   title: The Foot Fist Way
   year: 2006
   runtime: 84
   director: Jody Hill
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.52 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: the-foot-fist-way
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/h2/e9/6u/d6/9U06wm9ACaLNbWkRIovVOBdGhzv-1200-1200-675-675-crop-000000.jpg?v=f538b31b4f

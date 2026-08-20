@@ -1,16 +1,18 @@
 # New films for Wanda Sykes. Scales and anchors are in README.md ("The anchor rubric").
 
 - id: bad-moms
-  tmdb_id: null
+  tmdb_id: 376659
   title: Bad Moms
   year: 2016
   runtime: 101
   director: Jon Lucas
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.58 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: bad-moms
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/7s/5v/oj/lv/bad-moms-1200-1200-675-675-crop-000000.jpg?v=8a9a71c2fa
 
 - id: monster-in-law
-  tmdb_id: null
+  tmdb_id: 4379
   title: Monster-in-Law
   year: 2005
   runtime: 101
@@ -22,9 +24,11 @@
     humor: 3 # her scenes play weary exasperation at managing the feud rather than pure broad comic energy
     acclaim: 0.48
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: monster-in-law
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/va/yf/bi/0x/monster%20in%20law-1200-1200-675-675-crop-000000.jpg?v=7060c593b1
 
 - id: evan-almighty
-  tmdb_id: null
+  tmdb_id: 2698
   title: Evan Almighty
   year: 2007
   runtime: 96
@@ -36,12 +40,16 @@
     humor: 4
     acclaim: 0.42
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: evan-almighty
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/5d/8p/s8/2g/evan-almighty-1200-1200-675-675-crop-000000.jpg?v=a08b70f50f
 
 - id: over-the-hedge
-  tmdb_id: null
+  tmdb_id: 7518
   title: Over the Hedge
   year: 2006
   runtime: 83
   director: Tim Johnson
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: over-the-hedge
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/5m/bo/d6/36/over-the-hedge-1200-1200-675-675-crop-000000.jpg?v=2e6bc708ca

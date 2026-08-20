@@ -5,16 +5,18 @@
 # gosling.yaml — tagged before she had an entity.
 
 - id: an-education
-  tmdb_id: null
+  tmdb_id: 24684
   title: An Education
   year: 2009
   runtime: 100
   director: Lone Scherfig
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.82 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: an-education
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/do/rr/bt/38/an-education-1200-1200-675-675-crop-000000.jpg?v=0a27a2206d
 
 - id: promising-young-woman
-  tmdb_id: null
+  tmdb_id: 582014
   title: Promising Young Woman
   year: 2020
   runtime: 113
@@ -26,9 +28,11 @@
     humor: 3
     acclaim: 0.78
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  letterboxd_slug: promising-young-woman
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/x1/bt/3e/m8/promising-young-woman-1200-1200-675-675-crop-000000.jpg?v=1f0669f36e
 
 - id: never-let-me-go
-  tmdb_id: null
+  tmdb_id: 42188
   title: Never Let Me Go
   year: 2010
   runtime: 103
@@ -40,21 +44,27 @@
     humor: 1
     acclaim: 0.72
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: never-let-me-go-2010
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/gn/0w/nf/vi/never-let-me-go-30-1200-1200-675-675-crop-000000.jpg?v=a2b7a8c1e7
 
 - id: mudbound
-  tmdb_id: null
+  tmdb_id: 414425
   title: Mudbound
   year: 2017
   runtime: 134
   director: Dee Rees
   tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.82 }
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: mudbound
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/0k/yd/6w/q4/mudbound-1200-1200-675-675-crop-000000.jpg?v=1d8189739a
 
 - id: wall-street-money-never-sleeps
-  tmdb_id: null
+  tmdb_id: 33909
   title: Wall Street Money Never Sleeps
   year: 2010
   runtime: 133
   director: Oliver Stone
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: wall-street-money-never-sleeps
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/61/h4/jc/t4/wall-street-money-never-sleeps-1200-1200-675-675-crop-000000.jpg?v=626904d375

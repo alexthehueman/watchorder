@@ -12,7 +12,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
 
 - id: blink-twice
-  tmdb_id: null
+  tmdb_id: 840705
   title: Blink Twice
   year: 2024
   runtime: 102
@@ -24,12 +24,16 @@
     humor: 2
     acclaim: 0.62
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  letterboxd_slug: blink-twice
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ey/6d/u3/di/blink%20twice-1200-1200-675-675-crop-000000.jpg?v=a6b7b8a331
 
 - id: star-wars-the-rise-of-skywalker
-  tmdb_id: null
+  tmdb_id: 181812
   title: Star Wars The Rise of Skywalker
   year: 2019
   runtime: 141
   director: J.J. Abrams
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 2, acclaim: 0.52 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: star-wars-the-rise-of-skywalker
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/zu/h2/t8/pd/star-wars-rise-of-skywalker-1200-1200-675-675-crop-000000.jpg?v=9cf1d0e01a

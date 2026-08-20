@@ -3,16 +3,18 @@
 # Ingrid Goes West already exists in neon.yaml — tagged before she had an entity.
 
 - id: emily-the-criminal
-  tmdb_id: null
+  tmdb_id: 862965
   title: Emily the Criminal
   year: 2022
   runtime: 97
   director: John Patton Ford
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: emily-the-criminal
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/1a/8l/ye/rd/emily-1200-1200-675-675-crop-000000.jpg?v=26ba36edec
 
 - id: black-bear
-  tmdb_id: null
+  tmdb_id: 624788
   title: Black Bear
   year: 2020
   runtime: 104
@@ -24,21 +26,27 @@
     humor: 2
     acclaim: 0.65
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  letterboxd_slug: black-bear
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/8u/do/xg/wj/A98DDC44-F9C4-4C99-AB29-8A713873B89F-1200-1200-675-675-crop-000000.jpg?v=bda6f05701
 
 - id: happiest-season
-  tmdb_id: null
+  tmdb_id: 520172
   title: Happiest Season
   year: 2020
   runtime: 102
   director: Clea DuVall
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.65 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: happiest-season
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/zb/of/9z/qo/happiest-season-1200-1200-675-675-crop-000000.jpg?v=abb80ef9f5
 
 - id: childs-play-2019
-  tmdb_id: null
+  tmdb_id: 533642
   title: Child's Play
   year: 2019
   runtime: 90
   director: Lars Klevberg
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 2, acclaim: 0.58 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: childs-play-2019
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/l9/pk/8c/9r/childs-play-2019-1200-1200-675-675-crop-000000.jpg?v=b8d158e2b9

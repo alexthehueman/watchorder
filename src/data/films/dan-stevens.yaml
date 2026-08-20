@@ -1,7 +1,7 @@
 # New films for Dan Stevens. Scales and anchors are in README.md ("The anchor rubric").
 
 - id: the-guest
-  tmdb_id: null
+  tmdb_id: 241848
   title: The Guest
   year: 2014
   runtime: 100
@@ -13,24 +13,30 @@
     humor: 3
     acclaim: 0.68
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: the-guest-2014
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/95/c6/0o/iq/the-guest-1200-1200-675-675-crop-000000.jpg?v=162cbe313d
 
 - id: beauty-and-the-beast-2017
-  tmdb_id: null
+  tmdb_id: 321612
   title: Beauty and the Beast
   year: 2017
   runtime: 129
   director: Bill Condon
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.62 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: beauty-and-the-beast-2017
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/op/ow/pu/rc/beauty-and-beast-2017-1200-1200-675-675-crop-000000.jpg?v=888a33b67c
 
 - id: eurovision-song-contest
-  tmdb_id: null
+  tmdb_id: 531454
   title: Eurovision Song Contest - The Story of Fire Saga
   year: 2020
   runtime: 123
   director: David Dobkin
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: eurovision-song-contest-the-story-of-fire-saga
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/6w/qg/g5/pr/eurovision-song-contest-the-story-of-fire-saga-1200-1200-675-675-crop-000000.jpg?v=9a2cdf968a
 
 - id: godzilla-x-kong-the-new-empire
   tmdb_id: null

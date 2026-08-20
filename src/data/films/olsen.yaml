@@ -3,7 +3,7 @@
 # Ingrid Goes West already exists in neon.yaml — tagged before she had an entity.
 
 - id: martha-marcy-may-marlene
-  tmdb_id: null
+  tmdb_id: 50837
   title: Martha Marcy May Marlene
   year: 2011
   runtime: 102
@@ -15,27 +15,33 @@
     humor: 1
     acclaim: 0.78
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  letterboxd_slug: martha-marcy-may-marlene
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/2t/48/x5/a9/martha-marcy-may-marlene-1200-1200-675-675-crop-000000.jpg?v=a67ee1ab13
 
 - id: wind-river
-  tmdb_id: null
+  tmdb_id: 395834
   title: Wind River
   year: 2017
   runtime: 111
   director: Taylor Sheridan
   tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.78 }
   content: { sexual_violence: true, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: wind-river-2017
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/sk/qn/cm/ad/wind-river-1200-1200-675-675-crop-000000.jpg?v=37ef17d94b
 
 - id: doctor-strange-in-the-multiverse-of-madness
-  tmdb_id: null
+  tmdb_id: 453395
   title: Doctor Strange in the Multiverse of Madness
   year: 2022
   runtime: 126
   director: Sam Raimi
   tags: { opacity: 2, stillness: 1, bleakness: 4, humor: 2, acclaim: 0.62 }
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: doctor-strange-in-the-multiverse-of-madness
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/m0/ks/k8/uw/dr%20strange-1200-1200-675-675-crop-000000.jpg?v=8bbfc10c4e
 
 - id: silent-house
-  tmdb_id: null
+  tmdb_id: 92182
   title: Silent House
   year: 2011
   runtime: 88
@@ -47,9 +53,11 @@
     humor: 1
     acclaim: 0.42
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: silent-house
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/bn/8k/vu/fc/slient-house-1200-1200-675-675-crop-000000.jpg?v=b7ec232e9f
 
 - id: oldboy-2013
-  tmdb_id: null
+  tmdb_id: 87516
   title: Oldboy
   year: 2013
   runtime: 104
@@ -61,31 +69,38 @@
     humor: 1
     acclaim: 0.5
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+  letterboxd_slug: oldboy-2013
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/q1/9q/91/gf/oldboy-2013-1200-1200-675-675-crop-000000.jpg?v=b70fcb1de3
 
 - id: godzilla-2014
-  tmdb_id: null
+  tmdb_id: 124905
   title: Godzilla
   year: 2014
   runtime: 123
   director: Gareth Edwards
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.65 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: godzilla-2014
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/2o/l4/sx/2f/godzilla-1200-1200-675-675-crop-000000.jpg?v=c3c7d51fb0
 
 - id: kodachrome
-  tmdb_id: null
+  tmdb_id: 419635
   title: Kodachrome
   year: 2017
   runtime: 106
   director: Mark Raso
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.65 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: kodachrome
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/n2/a0/zo/gn/kodachrome-1200-1200-675-675-crop-000000.jpg?v=2597ccd894
 
 - id: avengers-age-of-ultron
-  tmdb_id: null
+  tmdb_id: 99861
   title: Avengers Age of Ultron
   year: 2015
   runtime: 141
   director: Joss Whedon
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 3, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
-
+  letterboxd_slug: avengers-age-of-ultron
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/gz/xu/8d/m4/avengers-age-of-ultron-1200-1200-675-675-crop-000000.jpg?v=489fa4b87c

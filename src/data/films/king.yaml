@@ -7,7 +7,7 @@
 # witherspoon.yaml — tagged before she had an entity.
 
 - id: enemy-of-the-state
-  tmdb_id: null
+  tmdb_id: 9798
   title: Enemy of the State
   year: 1998
   runtime: 132
@@ -19,3 +19,5 @@
     humor: 1
     acclaim: 0.68
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: enemy-of-the-state
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/nz/za/dr/3p/enemy%20of%20the%20state-1200-1200-675-675-crop-000000.jpg?v=f3a053c7f2

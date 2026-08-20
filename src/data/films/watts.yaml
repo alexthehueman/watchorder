@@ -5,7 +5,7 @@
 # Promises already exists in cronenberg.yaml — tagged before she had an entity.
 
 - id: the-ring
-  tmdb_id: null
+  tmdb_id: 565
   title: The Ring
   year: 2002
   runtime: 115
@@ -19,9 +19,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0298130
   poster_url: https://m.media-amazon.com/images/M/MV5BNDA2NTg2NjE4Ml5BMl5BanBnXkFtZTYwMjYxMDg5._V1_SX300.jpg
+  letterboxd_slug: the-ring-2002
 
 - id: 21-grams
-  tmdb_id: null
+  tmdb_id: 470
   title: 21 Grams
   year: 2003
   runtime: 124
@@ -35,9 +36,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0315733
   poster_url: https://m.media-amazon.com/images/M/MV5BMjA4MjI2OTM5N15BMl5BanBnXkFtZTcwNDA1NjUzMw@@._V1_SX300.jpg
+  letterboxd_slug: 21-grams
 
 - id: king-kong-2005
-  tmdb_id: null
+  tmdb_id: 254
   title: King Kong
   year: 2005
   runtime: 187
@@ -46,9 +48,10 @@
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0360717
   poster_url: https://m.media-amazon.com/images/M/MV5BMWY0NWE0ZjUtNjRlOS00ZDViLTgxNTQtMGMwN2FhNDY1YTg2XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: king-kong-2005
 
 - id: fair-game
-  tmdb_id: null
+  tmdb_id: 38363
   title: Fair Game
   year: 2010
   runtime: 108
@@ -57,9 +60,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0977855
   poster_url: https://m.media-amazon.com/images/M/MV5BMjIyOTg1NzU0Ml5BMl5BanBnXkFtZTcwMjA2OTY5Mw@@._V1_SX300.jpg
+  letterboxd_slug: fair-game-2010
 
 - id: the-impossible
-  tmdb_id: null
+  tmdb_id: 80278
   title: The Impossible
   year: 2012
   runtime: 114
@@ -68,3 +72,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt1649419
   poster_url: https://m.media-amazon.com/images/M/MV5BZjM1ZTJkMjctY2M0ZC00ZTkyLTliYTktNzYxYWIzYTAyOTRjXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-impossible

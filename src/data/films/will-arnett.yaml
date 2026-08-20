@@ -4,7 +4,7 @@
 # already exists in wiig.yaml.
 
 - id: the-lego-batman-movie
-  tmdb_id: null
+  tmdb_id: 324849
   title: The Lego Batman Movie
   year: 2017
   runtime: 104
@@ -16,21 +16,27 @@
     humor: 5
     acclaim: 0.75
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: the-lego-batman-movie
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/rr/3t/0c/j2/the-lego-batman-movie-1200-1200-675-675-crop-000000.jpg?v=384ad2376c
 
 - id: blades-of-glory
-  tmdb_id: null
+  tmdb_id: 9955
   title: Blades of Glory
   year: 2007
   runtime: 93
   director: Josh Gordon
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  letterboxd_slug: blades-of-glory
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/sm/iw/dn/27/blades-of-glory-1200-1200-675-675-crop-000000.jpg?v=e2cf087de8
 
 - id: teenage-mutant-ninja-turtles-2014
-  tmdb_id: null
+  tmdb_id: 98566
   title: Teenage Mutant Ninja Turtles
   year: 2014
   runtime: 101
   director: Jonathan Liebesman
   tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.35 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: teenage-mutant-ninja-turtles-2014
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/97/0w/fi/d2/teenage-mutant-ninja-turtles-2014-1200-1200-675-675-crop-000000.jpg?v=70b190eb6a

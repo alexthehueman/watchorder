@@ -1,7 +1,7 @@
 # New films for Melissa McCarthy. Scales and anchors are in README.md ("The anchor rubric").
 
 - id: bridesmaids
-  tmdb_id: null
+  tmdb_id: 55721
   title: Bridesmaids
   year: 2011
   runtime: 125
@@ -10,9 +10,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt1478338
   poster_url: https://m.media-amazon.com/images/M/MV5BMjAyOTMyMzUxNl5BMl5BanBnXkFtZTcwODI4MzE0NA@@._V1_SX300.jpg
+  letterboxd_slug: bridesmaids
 
 - id: spy
-  tmdb_id: null
+  tmdb_id: 238713
   title: Spy
   year: 2015
   runtime: 120
@@ -21,9 +22,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt3079380
   poster_url: https://m.media-amazon.com/images/M/MV5BNjI5OTQ0MDQxM15BMl5BanBnXkFtZTgwMzcwNjMyNTE@._V1_SX300.jpg
+  letterboxd_slug: spy
 
 - id: the-heat
-  tmdb_id: null
+  tmdb_id: 136795
   title: The Heat
   year: 2013
   runtime: 117
@@ -32,9 +34,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt2404463
   poster_url: https://m.media-amazon.com/images/M/MV5BMjA2MDQ2ODM3MV5BMl5BanBnXkFtZTcwNDUzMTQ3OQ@@._V1_SX300.jpg
+  letterboxd_slug: the-heat
 
 - id: can-you-ever-forgive-me
-  tmdb_id: null
+  tmdb_id: 401847
   title: Can You Ever Forgive Me
   year: 2018
   runtime: 106
@@ -48,9 +51,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt4595882
   poster_url: https://m.media-amazon.com/images/M/MV5BYWQ0YmU1YzktMTFmYi00YzNjLWFjNmItNTIwMThkNjdmYmIyXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: can-you-ever-forgive-me
 
 - id: identity-thief
-  tmdb_id: null
+  tmdb_id: 109431
   title: Identity Thief
   year: 2013
   runtime: 111
@@ -59,9 +63,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt2024432
   poster_url: https://m.media-amazon.com/images/M/MV5BMTY3NzM5MTk2Nl5BMl5BanBnXkFtZTcwMDQ4MjQ3OA@@._V1_SX300.jpg
+  letterboxd_slug: identity-thief
 
 - id: st-vincent
-  tmdb_id: null
+  tmdb_id: 239563
   title: St Vincent
   year: 2014
   runtime: 103
@@ -70,3 +75,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt2170593
   poster_url: https://m.media-amazon.com/images/M/MV5BMTk5NzI5OTA4MF5BMl5BanBnXkFtZTgwNjc4NTM3MjE@._V1_SX300.jpg
+  letterboxd_slug: st-vincent

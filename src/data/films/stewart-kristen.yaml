@@ -7,7 +7,7 @@
 # tagged before she had an entity.
 
 - id: personal-shopper
-  tmdb_id: null
+  tmdb_id: 340676
   title: Personal Shopper
   year: 2016
   runtime: 105
@@ -19,18 +19,22 @@
     humor: 1
     acclaim: 0.72
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: personal-shopper
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/w7/hm/56/ov/personal-shopper-1200-1200-675-675-crop-000000.jpg?v=b9a1a57187
 
 - id: adventureland
-  tmdb_id: null
+  tmdb_id: 16614
   title: Adventureland
   year: 2009
   runtime: 107
   director: Greg Mottola
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: adventureland
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/32/p5/ry/io/adventureland-1200-1200-675-675-crop-000000.jpg?v=41d623583b
 
 - id: seberg
-  tmdb_id: null
+  tmdb_id: 510298
   title: Seberg
   year: 2019
   runtime: 102
@@ -42,12 +46,16 @@
     humor: 1
     acclaim: 0.5
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 0 }
+  letterboxd_slug: seberg
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/7b/gj/di/v4/seberg-1200-1200-675-675-crop-000000.jpg?v=bc571a0d30
 
 - id: certain-women
-  tmdb_id: null
+  tmdb_id: 340487
   title: Certain Women
   year: 2016
   runtime: 107
   director: Kelly Reichardt
   tags: { opacity: 1, stillness: 5, bleakness: 3, humor: 1, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: certain-women
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/os/zm/wn/ym/certain-women-1200-1200-675-675-crop-000000.jpg?v=ff464ef554

@@ -3,16 +3,18 @@
 # Wedding Crashers already exists in mcadams.yaml — tagged before he had an entity.
 
 - id: swingers
-  tmdb_id: null
+  tmdb_id: 10218
   title: Swingers
   year: 1996
   runtime: 96
   director: Doug Liman
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: swingers
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/sv/tl/nv/um/swingers-1200-1200-675-675-crop-000000.jpg?v=a8874eb05f
 
 - id: brawl-in-cell-block-99
-  tmdb_id: null
+  tmdb_id: 398175
   title: Brawl in Cell Block 99
   year: 2017
   runtime: 132
@@ -24,6 +26,8 @@
     humor: 1
     acclaim: 0.68
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: brawl-in-cell-block-99
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/mu/e7/3q/ds/brawl-cell-block-99-1200-1200-675-675-crop-000000.jpg?v=88e34ca614
 
 - id: dodgeball
   tmdb_id: null

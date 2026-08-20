@@ -6,7 +6,7 @@
 # spymaster in English cinema, often within a few years of each other.
 
 - id: sid-and-nancy
-  tmdb_id: null
+  tmdb_id: 14924
   title: Sid and Nancy
   year: 1986
   runtime: 114
@@ -15,9 +15,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
   imdb_id: tt0091954
   poster_url: https://m.media-amazon.com/images/M/MV5BOGY1NTc0M2MtY2UxOS00OTllLTk1NjItZWIwOWE2OTUzYjdiXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: sid-and-nancy
 
 - id: jfk
-  tmdb_id: null
+  tmdb_id: 820
   title: JFK
   year: 1991
   runtime: 188
@@ -31,9 +32,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0102138
   poster_url: https://m.media-amazon.com/images/M/MV5BMDhhZTc0MWUtZmVjOS00YTNkLTk0YzgtNTNlNzY5ZWU4MTMyXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: jfk
 
 - id: true-romance
-  tmdb_id: null
+  tmdb_id: 319
   title: True Romance
   year: 1993
   runtime: 118
@@ -42,9 +44,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
   imdb_id: tt0108399
   poster_url: https://m.media-amazon.com/images/M/MV5BYzQ5OGMwMDAtMzcyOS00YTA4LWEwM2MtOTA1MDZjZGEyYmI1XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: true-romance
 
 - id: leon-the-professional
-  tmdb_id: null
+  tmdb_id: 101
   title: "Léon: The Professional"
   year: 1994
   runtime: 110
@@ -58,9 +61,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt0110413
   poster_url: https://m.media-amazon.com/images/M/MV5BNGRkYTNhOWQtYmI0Ni00MjZhLWJmMzAtMTA2Mjg4NGNiNDU0XkEyXkFqcGc@._V1_QL75_UX380_CR0,2,380,562_.jpg
+  letterboxd_slug: leon-the-professional
 
 - id: the-fifth-element
-  tmdb_id: null
+  tmdb_id: 18
   title: The Fifth Element
   year: 1997
   runtime: 126
@@ -69,9 +73,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0119116
   poster_url: https://m.media-amazon.com/images/M/MV5BODU4ZTE5MWYtNmY2MC00NDkyLTk0NDgtNTk5YjgzMzc4NmQwXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-fifth-element
 
 - id: tinker-tailor-soldier-spy-2011
-  tmdb_id: null
+  tmdb_id: 49517
   title: Tinker Tailor Soldier Spy
   year: 2011
   runtime: 127
@@ -85,9 +90,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt1340800
   poster_url: https://m.media-amazon.com/images/M/MV5BMTU2OTkwNzMyM15BMl5BanBnXkFtZTcwOTI4ODg2Ng@@._V1_SX300.jpg
+  letterboxd_slug: tinker-tailor-soldier-spy-2011
 
 - id: darkest-hour
-  tmdb_id: null
+  tmdb_id: 399404
   title: Darkest Hour
   year: 2017
   runtime: 125
@@ -96,3 +102,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt4555426
   poster_url: https://m.media-amazon.com/images/M/MV5BMjIyNDkyMTgzMV5BMl5BanBnXkFtZTgwNTQwNjg2MzI@._V1_SX300.jpg
+  letterboxd_slug: darkest-hour

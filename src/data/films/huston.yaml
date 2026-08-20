@@ -5,7 +5,7 @@
 # before she had an entity.
 
 - id: the-grifters
-  tmdb_id: null
+  tmdb_id: 18129
   title: The Grifters
   year: 1990
   runtime: 110
@@ -19,9 +19,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
   imdb_id: tt0099703
   poster_url: https://m.media-amazon.com/images/M/MV5BYTcyNDA4Y2ItZGJiNy00YWJjLWFhNDgtMzM4M2NkNWQ1NDVmXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-grifters
 
 - id: the-addams-family
-  tmdb_id: null
+  tmdb_id: 2907
   title: The Addams Family
   year: 1991
   runtime: 99
@@ -30,9 +31,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0101272
   poster_url: https://m.media-amazon.com/images/M/MV5BZWY0MzVlNGEtYzM1MC00OTI4LWE3ZTQtNWJjYzk2Y2MyNjVkXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-addams-family
 
 - id: the-witches
-  tmdb_id: null
+  tmdb_id: 10166
   title: The Witches
   year: 1990
   runtime: 91
@@ -41,9 +43,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0100944
   poster_url: https://m.media-amazon.com/images/M/MV5BMjI1MDg5NzAyMV5BMl5BanBnXkFtZTgwNzU5Mzk4NjE@._V1_SX300.jpg
+  letterboxd_slug: the-witches
 
 - id: crimes-and-misdemeanors
-  tmdb_id: null
+  tmdb_id: 11562
   title: Crimes and Misdemeanors
   year: 1989
   runtime: 104
@@ -57,18 +60,21 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0097123
   poster_url: https://m.media-amazon.com/images/M/MV5BNTQwZjFjODItNzI3ZS00ODUzLWI3MWUtNjU2NDQwNjQxMjhlXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: crimes-and-misdemeanors
 
 - id: ever-after
-  tmdb_id: null
+  tmdb_id: 9454
   title: Ever After
   year: 1998
   runtime: 121
   director: Andy Tennant
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.65 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: ever-after-1998
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/9s/bq/gj/dv/everafter-1200-1200-675-675-crop-000000.jpg?v=760eed933e
 
 - id: the-dead
-  tmdb_id: null
+  tmdb_id: 39507
   title: The Dead
   year: 1987
   runtime: 83
@@ -82,3 +88,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0092843
   poster_url: https://m.media-amazon.com/images/M/MV5BNzNiMTExNmEtOTEzYS00MDIwLWExOTEtMzM0MTQ2MTFkYjQ1XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-dead

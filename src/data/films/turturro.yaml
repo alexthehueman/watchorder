@@ -5,7 +5,7 @@
 # spike-lee.yaml.
 
 - id: quiz-show
-  tmdb_id: null
+  tmdb_id: 11450
   title: Quiz Show
   year: 1994
   runtime: 133
@@ -17,9 +17,11 @@
     humor: 2
     acclaim: 0.78
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: quiz-show
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/i8/c4/2z/sb/2qDxqeUClJrNO5NDgD9M59TlHEC-1200-1200-675-675-crop-000000.jpg?v=a6a1c9412d
 
 - id: fading-gigolo
-  tmdb_id: null
+  tmdb_id: 214030
   title: Fading Gigolo
   year: 2013
   runtime: 90
@@ -31,9 +33,11 @@
     humor: 3
     acclaim: 0.65
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+  letterboxd_slug: fading-gigolo
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/jh/1a/45/k3/fading-gigolo-1200-1200-675-675-crop-000000.jpg?v=a821149413
 
 - id: rounders
-  tmdb_id: null
+  tmdb_id: 10220
   title: Rounders
   year: 1998
   runtime: 121
@@ -45,3 +49,5 @@
     humor: 2
     acclaim: 0.68
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: rounders
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/aq/j1/ea/u4/rounders-1200-1200-675-675-crop-000000.jpg?v=34598ca652

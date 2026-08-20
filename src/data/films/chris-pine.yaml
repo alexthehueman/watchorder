@@ -6,16 +6,18 @@
 # cumberbatch.yaml. Don't Worry Darling already exists in pugh.yaml.
 
 - id: wonder-woman
-  tmdb_id: null
+  tmdb_id: 297762
   title: Wonder Woman
   year: 2017
   runtime: 141
   director: Patty Jenkins
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 1 }
+  letterboxd_slug: wonder-woman-2017
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/td/xv/mp/of/hA5oCgvgCxj5MEWcLpjXXTwEANF-1200-1200-675-675-crop-000000.jpg?v=351d3f5525
 
 - id: the-contractor
-  tmdb_id: null
+  tmdb_id: 628900
   title: The Contractor
   year: 2022
   runtime: 103
@@ -27,3 +29,5 @@
     humor: 1
     acclaim: 0.50
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: the-contractor-2022
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/of/04/c0/ag/FB0202DB-18DB-4219-B4D1-42E7908DCFC8-1200-1200-675-675-crop-000000.jpg?v=7e528f6452

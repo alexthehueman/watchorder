@@ -4,7 +4,7 @@
 # entity.
 
 - id: the-mummy-1999
-  tmdb_id: null
+  tmdb_id: 564
   title: The Mummy
   year: 1999
   runtime: 124
@@ -13,9 +13,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0120616
   poster_url: https://m.media-amazon.com/images/M/MV5BMTY4YWE0OGMtNjU0Yi00YzIwLTk3NTktM2ZiYWQwNjM4MmMxXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-mummy-1999
 
 - id: the-constant-gardener
-  tmdb_id: null
+  tmdb_id: 1985
   title: The Constant Gardener
   year: 2005
   runtime: 129
@@ -29,9 +30,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0387131
   poster_url: https://m.media-amazon.com/images/M/MV5BOTU3OWMzMzgtMjYwMi00ZGIyLTk0YTctNDVkYzRmMTM5ZjlmXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-constant-gardener
 
 - id: the-lobster
-  tmdb_id: null
+  tmdb_id: 254320
   title: The Lobster
   year: 2015
   runtime: 118
@@ -45,9 +47,10 @@
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt3464902
   poster_url: https://m.media-amazon.com/images/M/MV5BNDQ1NDE5NzQ1NF5BMl5BanBnXkFtZTgwNzA5OTM2NTE@._V1_SX300.jpg
+  letterboxd_slug: the-lobster
 
 - id: disobedience
-  tmdb_id: null
+  tmdb_id: 419743
   title: Disobedience
   year: 2017
   runtime: 114
@@ -56,9 +59,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
   imdb_id: tt6108178
   poster_url: https://m.media-amazon.com/images/M/MV5BMzYxNDI5OTcwMV5BMl5BanBnXkFtZTgwODc4MzE3NDM@._V1_SX300.jpg
+  letterboxd_slug: disobedience-2017
 
 - id: definitely-maybe
-  tmdb_id: null
+  tmdb_id: 8390
   title: Definitely Maybe
   year: 2008
   runtime: 112
@@ -67,9 +71,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0832266
   poster_url: https://m.media-amazon.com/images/M/MV5BMTc1Mzc1ODMxMF5BMl5BanBnXkFtZTcwNDY1MzU1MQ@@._V1_SX300.jpg
+  letterboxd_slug: definitely-maybe
 
 - id: the-bourne-legacy
-  tmdb_id: null
+  tmdb_id: 49040
   title: The Bourne Legacy
   year: 2012
   runtime: 135
@@ -78,9 +83,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt1194173
   poster_url: https://m.media-amazon.com/images/M/MV5BMTc4Njk3MDM1Nl5BMl5BanBnXkFtZTcwODgyOTMxOA@@._V1_SX300.jpg
+  letterboxd_slug: the-bourne-legacy
 
 - id: my-cousin-rachel
-  tmdb_id: null
+  tmdb_id: 413998
   title: My Cousin Rachel
   year: 2017
   runtime: 106
@@ -94,9 +100,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
   imdb_id: tt4411596
   poster_url: https://m.media-amazon.com/images/M/MV5BMzNmZTE0YWMtZmI0OC00NGY4LTgzZGYtNDM0ZDAzODJhOTExXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: my-cousin-rachel-2017
 
 - id: the-favourite
-  tmdb_id: null
+  tmdb_id: 375262
   title: The Favourite
   year: 2018
   runtime: 121
@@ -110,3 +117,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 2 }
   imdb_id: tt5083738
   poster_url: https://m.media-amazon.com/images/M/MV5BMTg1NzQwMDQxNV5BMl5BanBnXkFtZTgwNDg2NDYyNjM@._V1_SX300.jpg
+  letterboxd_slug: the-favourite

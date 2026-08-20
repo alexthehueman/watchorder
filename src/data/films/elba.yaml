@@ -3,7 +3,7 @@
 # American Gangster already exists in washington.yaml — tagged before he had an entity.
 
 - id: beasts-of-no-nation
-  tmdb_id: null
+  tmdb_id: 283587
   title: Beasts of No Nation
   year: 2015
   runtime: 137
@@ -17,9 +17,10 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt1365050
   poster_url: https://m.media-amazon.com/images/M/MV5BMTYwMzMzMDI0NF5BMl5BanBnXkFtZTgwNDQ3NjI3NjE@._V1_SX300.jpg
+  letterboxd_slug: beasts-of-no-nation
 
 - id: mandela-long-walk-to-freedom
-  tmdb_id: null
+  tmdb_id: 192136
   title: Mandela Long Walk to Freedom
   year: 2013
   runtime: 141
@@ -28,9 +29,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt2304771
   poster_url: https://m.media-amazon.com/images/M/MV5BMTg1NTQ1NDczNV5BMl5BanBnXkFtZTcwNDQyMDU1OQ@@._V1_SX300.jpg
+  letterboxd_slug: mandela-long-walk-to-freedom
 
 - id: pacific-rim
-  tmdb_id: null
+  tmdb_id: 68726
   title: Pacific Rim
   year: 2013
   runtime: 132
@@ -39,9 +41,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt1663662
   poster_url: https://m.media-amazon.com/images/M/MV5BMTY3MTI5NjQ4Nl5BMl5BanBnXkFtZTcwOTU1OTU0OQ@@._V1_SX300.jpg
+  letterboxd_slug: pacific-rim
 
 - id: the-suicide-squad
-  tmdb_id: null
+  tmdb_id: 436969
   title: The Suicide Squad
   year: 2021
   runtime: 132
@@ -50,9 +53,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt6334354
   poster_url: https://m.media-amazon.com/images/M/MV5BMWU3Y2NlZmEtMjJjNS00ZWMxLWE1MzctYWYyMjMzMDdkNTE4XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg
+  letterboxd_slug: the-suicide-squad
 
 - id: molly-s-game
-  tmdb_id: null
+  tmdb_id: 396371
   title: Molly's Game
   year: 2017
   runtime: 140
@@ -61,3 +65,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt4209788
   poster_url: https://m.media-amazon.com/images/M/MV5BNmYxYTg1ZDktNjc1Yy00MjVlLTk2Y2MtNmMzZTBkZDNjZjdlXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: mollys-game

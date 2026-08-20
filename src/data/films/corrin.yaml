@@ -1,31 +1,37 @@
 # New films for Emma Corrin. Scales and anchors are in README.md ("The anchor rubric").
 
 - id: my-policeman
-  tmdb_id: null
+  tmdb_id: 744114
   title: My Policeman
   year: 2022
   runtime: 113
   director: Michael Grandage
   tags: { opacity: 2, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: my-policeman
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/1s/gl/kf/si/my%20policeman-1200-1200-675-675-crop-000000.jpg?v=2786493715
 
 - id: lady-chatterleys-lover
-  tmdb_id: null
+  tmdb_id: 814338
   title: Lady Chatterley's Lover
   year: 2022
   runtime: 126
   director: Laure de Clermont-Tonnerre
   tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.62 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+  letterboxd_slug: lady-chatterleys-lover-2022
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/y0/9w/4h/ta/lady-1200-1200-675-675-crop-000000.jpg?v=41b21629f5
 
 - id: misbehaviour
-  tmdb_id: null
+  tmdb_id: 567965
   title: Misbehaviour
   year: 2020
   runtime: 106
   director: Philippa Lorthiraj
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.62 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: misbehaviour-2020
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/1b/s5/rf/s8/misbehaviour-1200-1200-675-675-crop-000000.jpg?v=7fa1a66721
 
 - id: deadpool-and-wolverine
   tmdb_id: null

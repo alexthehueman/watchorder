@@ -4,7 +4,7 @@
 # already exists in fiennes.yaml — tagged before he had an entity.
 
 - id: before-night-falls
-  tmdb_id: null
+  tmdb_id: 5001
   title: Before Night Falls
   year: 2000
   runtime: 133
@@ -13,9 +13,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
   imdb_id: tt0247196
   poster_url: https://m.media-amazon.com/images/M/MV5BMTI2ODRiYjEtY2JkMC00ZDM0LWIzYzQtNzllNzEzYjkwZTM5XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: before-night-falls
 
 - id: vicky-cristina-barcelona
-  tmdb_id: null
+  tmdb_id: 5038
   title: Vicky Cristina Barcelona
   year: 2008
   runtime: 96
@@ -24,9 +25,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt0497465
   poster_url: https://m.media-amazon.com/images/M/MV5BOGYyZTllMmUtZDFmYS00ZjJhLThhNmEtZmQwYzkzNjkyNzhlXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: vicky-cristina-barcelona
 
 - id: biutiful
-  tmdb_id: null
+  tmdb_id: 45958
   title: Biutiful
   year: 2010
   runtime: 148
@@ -40,9 +42,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt1164999
   poster_url: https://m.media-amazon.com/images/M/MV5BMzI4OTQ0MDQyNl5BMl5BanBnXkFtZTcwODY5MjQwNA@@._V1_SX300.jpg
+  letterboxd_slug: biutiful
 
 - id: the-counselor
-  tmdb_id: null
+  tmdb_id: 109091
   title: The Counselor
   year: 2013
   runtime: 117
@@ -56,9 +59,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
   imdb_id: tt2193215
   poster_url: https://m.media-amazon.com/images/M/MV5BMTc3ODk0MTY0N15BMl5BanBnXkFtZTgwOTU2MTEzMDE@._V1_SX300.jpg
+  letterboxd_slug: the-counselor
 
 - id: mother-2017
-  tmdb_id: null
+  tmdb_id: 381283
   title: mother!
   year: 2017
   runtime: 121
@@ -72,9 +76,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt5109784
   poster_url: https://m.media-amazon.com/images/M/MV5BMzc5ODExODE0MV5BMl5BanBnXkFtZTgwNDkzNDUxMzI@._V1_SX300.jpg
+  letterboxd_slug: mother-2017
 
 - id: eat-pray-love
-  tmdb_id: null
+  tmdb_id: 38167
   title: Eat Pray Love
   year: 2010
   runtime: 133
@@ -83,9 +88,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0879870
   poster_url: https://m.media-amazon.com/images/M/MV5BMTY5NDkyNzkyM15BMl5BanBnXkFtZTcwNDQyNDk0Mw@@._V1_SX300.jpg
+  letterboxd_slug: eat-pray-love
 
 - id: the-sea-inside
-  tmdb_id: null
+  tmdb_id: 1913
   title: The Sea Inside
   year: 2004
   runtime: 125
@@ -94,3 +100,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
   imdb_id: tt0369702
   poster_url: https://m.media-amazon.com/images/M/MV5BNjFlNzg5ZTYtNDhkOC00Y2EwLTk2YzUtODNmZDMyOTMyMjhkXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-sea-inside

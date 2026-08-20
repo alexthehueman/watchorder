@@ -5,7 +5,7 @@
 # in cillian-murphy.yaml — tagged before she had an entity.
 
 - id: lady-macbeth
-  tmdb_id: null
+  tmdb_id: 410117
   title: Lady Macbeth
   year: 2016
   runtime: 89
@@ -19,9 +19,10 @@
   content: { sexual_violence: false, animal_harm: true, child_harm: true, suicide: false, violence: 3, sex: 1 }
   imdb_id: tt4291600
   poster_url: https://m.media-amazon.com/images/M/MV5BN2ZmMzNmZTMtYzc2NC00YjQ3LThmNDYtZjQyNWQ0NTNkMWFhXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: lady-macbeth
 
 - id: fighting-with-my-family
-  tmdb_id: null
+  tmdb_id: 445629
   title: Fighting with My Family
   year: 2019
   runtime: 108
@@ -30,9 +31,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt6513120
   poster_url: https://m.media-amazon.com/images/M/MV5BYjliMDY3N2YtOTI2NS00MjQ0LWFjOGItMjQ1MzYyZGVlMDJiXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: fighting-with-my-family
 
 - id: black-widow
-  tmdb_id: null
+  tmdb_id: 497698
   title: Black Widow
   year: 2021
   runtime: 134
@@ -41,6 +43,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt3480822
   poster_url: https://m.media-amazon.com/images/M/MV5BZTMyZTA0ZTItYjY3Yi00ODNjLWExYTgtYzgxZTk0NTg0Y2FlXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg
+  letterboxd_slug: black-widow-2021
 
 - id: dont-worry-darling
   tmdb_id: null
@@ -57,7 +60,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
 
 - id: a-good-person
-  tmdb_id: null
+  tmdb_id: 800787
   title: A Good Person
   year: 2023
   runtime: 129
@@ -66,3 +69,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt14153080
   poster_url: https://m.media-amazon.com/images/M/MV5BMTJmYWM4ZjUtYzI5NC00MTM3LWI4YTUtYmE4ODAyOGYzNjlkXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: a-good-person-2023

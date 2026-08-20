@@ -4,7 +4,7 @@
 # already exists in pta.yaml.
 
 - id: billy-madison
-  tmdb_id: null
+  tmdb_id: 11017
   title: Billy Madison
   year: 1995
   runtime: 89
@@ -16,9 +16,11 @@
     humor: 5
     acclaim: 0.55
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: billy-madison
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/9w/ov/e6/5d/billy-madison-1200-1200-675-675-crop-000000.jpg?v=a7150460e0
 
 - id: happy-gilmore
-  tmdb_id: null
+  tmdb_id: 9614
   title: Happy Gilmore
   year: 1996
   runtime: 92
@@ -30,9 +32,11 @@
     humor: 5
     acclaim: 0.62
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: happy-gilmore
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ig/vq/wb/iz/happy-gilmore-210-1200-1200-675-675-crop-000000.jpg?v=4a86de75b0
 
 - id: the-wedding-singer
-  tmdb_id: null
+  tmdb_id: 11003
   title: The Wedding Singer
   year: 1998
   runtime: 97
@@ -44,9 +48,11 @@
     humor: 4
     acclaim: 0.68
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: the-wedding-singer
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/yu/d2/f2/k0/the-wedding-singer-80-1200-1200-675-675-crop-000000.jpg?v=ed32d7fc78
 
 - id: big-daddy
-  tmdb_id: null
+  tmdb_id: 9032
   title: Big Daddy
   year: 1999
   runtime: 93
@@ -58,6 +64,8 @@
     humor: 4
     acclaim: 0.50
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: big-daddy
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/7n/ow/es/wy/big-daddy-1200-1200-675-675-crop-000000.jpg?v=41709bc76f
 
 - id: the-meyerowitz-stories
   tmdb_id: null
@@ -69,7 +77,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
 
 - id: funny-people
-  tmdb_id: null
+  tmdb_id: 20829
   title: Funny People
   year: 2009
   runtime: 146
@@ -81,9 +89,11 @@
     humor: 2
     acclaim: 0.58
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: funny-people
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/wr/j2/qn/0q/funny-people-2-1200-1200-675-675-crop-000000.jpg?v=48f4f37790
 
 - id: reign-over-me
-  tmdb_id: null
+  tmdb_id: 2355
   title: Reign Over Me
   year: 2007
   runtime: 124
@@ -95,3 +105,5 @@
     humor: 1
     acclaim: 0.62
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: reign-over-me
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/nx/94/dw/9w/reign-over-me-1200-1200-675-675-crop-000000.jpg?v=82a6a849f4

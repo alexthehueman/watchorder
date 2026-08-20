@@ -5,7 +5,7 @@
 # before he had an entity.
 
 - id: x-men-2000
-  tmdb_id: null
+  tmdb_id: 447399
   title: X-Men
   year: 2000
   runtime: 104
@@ -14,9 +14,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0120903
   poster_url: https://m.media-amazon.com/images/M/MV5BNzNjZjQwOTAtNWQ3NC00MmJlLThlZDEtZmUyMWQ3NmE4Y2Y5XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg
+  letterboxd_slug: x-men-2000
 
 - id: the-fountain
-  tmdb_id: null
+  tmdb_id: 1381
   title: The Fountain
   year: 2006
   runtime: 96
@@ -30,6 +31,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0414993
   poster_url: https://m.media-amazon.com/images/M/MV5BMTU5OTczMTcxMV5BMl5BanBnXkFtZTcwNDg3MTEzMw@@._V1_SX300.jpg
+  letterboxd_slug: the-fountain
 
 - id: kate-and-leopold
   tmdb_id: null
@@ -41,7 +43,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
 
 - id: prisoners
-  tmdb_id: null
+  tmdb_id: 146233
   title: Prisoners
   year: 2013
   runtime: 153
@@ -55,9 +57,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt1392214
   poster_url: https://m.media-amazon.com/images/M/MV5BMTg0NTIzMjQ1NV5BMl5BanBnXkFtZTcwNDc3MzM5OQ@@._V1_SX300.jpg
+  letterboxd_slug: prisoners
 
 - id: logan
-  tmdb_id: null
+  tmdb_id: 263115
   title: Logan
   year: 2017
   runtime: 137
@@ -66,9 +69,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt3315342
   poster_url: https://m.media-amazon.com/images/M/MV5BM2JjODdkMGMtNmY2YS00OGM2LThiY2YtZGYyNzE4Nzc2ODA0XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: logan-2017
 
 - id: the-greatest-showman
-  tmdb_id: null
+  tmdb_id: 316029
   title: The Greatest Showman
   year: 2017
   runtime: 105
@@ -77,3 +81,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt1485796
   poster_url: https://m.media-amazon.com/images/M/MV5BMjI1NDYzNzY2Ml5BMl5BanBnXkFtZTgwODQwODczNTM@._V1_SX300.jpg
+  letterboxd_slug: the-greatest-showman

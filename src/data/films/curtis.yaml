@@ -4,28 +4,34 @@
 # Everywhere All at Once already exists in a24.yaml — tagged before she had an entity.
 
 - id: trading-places
-  tmdb_id: null
+  tmdb_id: 1621
   title: Trading Places
   year: 1983
   runtime: 116
   director: John Landis
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: trading-places
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/xs/nt/u3/gl/trading-1200-1200-675-675-crop-000000.jpg?v=3b1c078edf
 
 - id: a-fish-called-wanda
-  tmdb_id: null
+  tmdb_id: 623
   title: A Fish Called Wanda
   year: 1988
   runtime: 108
   director: Charles Crichton
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  letterboxd_slug: a-fish-called-wanda
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/0r/1t/h6/8y/fish%20called%20wanda-1200-1200-675-675-crop-000000.jpg?v=b91a185ac4
 
 - id: freaky-friday
-  tmdb_id: null
+  tmdb_id: 10330
   title: Freaky Friday
   year: 2003
   runtime: 97
   director: Mark Waters
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.65 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: freaky-friday-2003
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/c7/ug/mc/um/freaky-friday-1200-1200-675-675-crop-000000.jpg?v=44185774a7

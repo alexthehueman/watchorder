@@ -3,16 +3,18 @@
 # Bad Boys already exists in smith.yaml — tagged before he had an entity.
 
 - id: bad-boys-ii
-  tmdb_id: null
+  tmdb_id: 8961
   title: Bad Boys II
   year: 2003
   runtime: 147
   director: Michael Bay
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 3, acclaim: 0.50 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+  letterboxd_slug: bad-boys-ii
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/86/iw/8s/r2/bad-boys-ii-1200-1200-675-675-crop-000000.jpg?v=368e3c8a87
 
 - id: big-momma-house
-  tmdb_id: null
+  tmdb_id: 9600
   title: Big Momma's House
   year: 2000
   runtime: 98
@@ -24,12 +26,16 @@
     humor: 4
     acclaim: 0.40
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: big-mommas-house
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/uh/xm/z3/6p/big-mommas-house-1200-1200-675-675-crop-000000.jpg?v=1c45586bb8
 
 - id: blue-streak
-  tmdb_id: null
+  tmdb_id: 11001
   title: Blue Streak
   year: 1999
   runtime: 93
   director: Les Mayfield
   tags: { opacity: 2, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.50 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: blue-streak
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/48/kz/xt/52/blue%20streak-1200-1200-675-675-crop-000000.jpg?v=100393ad7c

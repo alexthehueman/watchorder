@@ -8,19 +8,23 @@
 # before he had an entity.
 
 - id: you-can-count-on-me
-  tmdb_id: null
+  tmdb_id: 14295
   title: You Can Count on Me
   year: 2000
   runtime: 111
   director: Kenneth Lonergan
   tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 2, acclaim: 0.82 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: you-can-count-on-me
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/eo/mp/5a/hu/you-can-count-on-me-1200-1200-675-675-crop-000000.jpg?v=b6c8865f24
 
 - id: begin-again
-  tmdb_id: null
+  tmdb_id: 198277
   title: Begin Again
   year: 2013
   runtime: 104
   director: John Carney
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: begin-again
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/kn/dk/zv/93/begin-again-1200-1200-675-675-crop-000000.jpg?v=e8aedc5913

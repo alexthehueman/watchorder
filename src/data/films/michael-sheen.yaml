@@ -5,7 +5,7 @@
 # chalamet.yaml — tagged before he had an entity.
 
 - id: frost-nixon
-  tmdb_id: null
+  tmdb_id: 11499
   title: Frost/Nixon
   year: 2008
   runtime: 122
@@ -17,3 +17,5 @@
     humor: 2
     acclaim: 0.78
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: frost-nixon
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/0v/5f/ul/2z/frost-1200-1200-675-675-crop-000000.jpg?v=41389193dd

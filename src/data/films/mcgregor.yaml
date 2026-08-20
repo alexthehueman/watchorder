@@ -4,7 +4,7 @@
 # I: The Phantom Menace already exists in portman.yaml — tagged before he had an entity.
 
 - id: trainspotting
-  tmdb_id: null
+  tmdb_id: 627
   title: Trainspotting
   year: 1996
   runtime: 93
@@ -16,12 +16,16 @@
     humor: 4
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 1 }
+  letterboxd_slug: trainspotting
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/jq/84/k3/al/trainspotting-55-1200-1200-675-675-crop-000000.jpg?v=c019cea1ec
 
 - id: beginners
-  tmdb_id: null
+  tmdb_id: 55347
   title: Beginners
   year: 2010
   runtime: 105
   director: Mike Mills
   tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 2, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: beginners
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/a4/b0/k2/sa/beginners-1200-1200-675-675-crop-000000.jpg?v=4d2e7fb8c0

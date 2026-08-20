@@ -4,25 +4,29 @@
 # The Father already exists in hopkins.yaml.
 
 - id: hyde-park-on-hudson
-  tmdb_id: null
+  tmdb_id: 87504
   title: Hyde Park on Hudson
   year: 2012
   runtime: 94
   director: Roger Michell
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.50 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: hyde-park-on-hudson
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ez/zn/ew/w0/hyde-park-on-hudson-1200-1200-675-675-crop-000000.jpg?v=2072ba8f2b
 
 - id: nativity
-  tmdb_id: null
+  tmdb_id: 49522
   title: Nativity!
   year: 2009
   runtime: 105
   director: Debbie Isitt
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: nativity
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/mo/kj/7l/ht/CVNtLkeOQ5wOq8ckMpEang7Cg5-1200-1200-675-675-crop-000000.jpg?v=56da061799
 
 - id: tyrannosaur
-  tmdb_id: null
+  tmdb_id: 76543
   title: Tyrannosaur
   year: 2011
   runtime: 91
@@ -34,9 +38,11 @@
     humor: 1
     acclaim: 0.75
   content: { sexual_violence: true, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: tyrannosaur
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ic/j0/5c/y9/tyrannosaur-1200-1200-675-675-crop-000000.jpg?v=9122bbb2d6
 
 - id: murder-on-the-orient-express
-  tmdb_id: null
+  tmdb_id: 392044
   title: Murder on the Orient Express
   year: 2017
   runtime: 114
@@ -48,9 +54,11 @@
     humor: 2
     acclaim: 0.58
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: murder-on-the-orient-express-2017
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/14/lz/74/qx/murder-on-orient-express-1200-1200-675-675-crop-000000.jpg?v=d4418747c7
 
 - id: empire-of-light
-  tmdb_id: null
+  tmdb_id: 814757
   title: Empire of Light
   year: 2022
   runtime: 115
@@ -62,3 +70,5 @@
     humor: 1
     acclaim: 0.55
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  letterboxd_slug: empire-of-light
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/dn/o4/ub/el/empire-1200-1200-675-675-crop-000000.jpg?v=ccb0a5abc8

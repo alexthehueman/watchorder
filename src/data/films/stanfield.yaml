@@ -5,7 +5,7 @@
 # exists in shannon.yaml — tagged before he had an entity.
 
 - id: judas-and-the-black-messiah
-  tmdb_id: null
+  tmdb_id: 583406
   title: Judas and the Black Messiah
   year: 2021
   runtime: 126
@@ -17,12 +17,16 @@
     humor: 1
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: judas-and-the-black-messiah
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/qm/28/c0/hg/judas-and-the-black-messiah-1200-1200-675-675-crop-000000.jpg?v=900f8b6d7e
 
 - id: straight-outta-compton
-  tmdb_id: null
+  tmdb_id: 277216
   title: Straight Outta Compton
   year: 2015
   runtime: 147
   director: F. Gary Gray
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 2, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  letterboxd_slug: straight-outta-compton
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/4r/6l/qy/6t/straight-outta-compton-1200-1200-675-675-crop-000000.jpg?v=4e29958557

@@ -1,31 +1,37 @@
 # New films for Awkwafina. Scales and anchors are in README.md ("The anchor rubric").
 
 - id: the-farewell
-  tmdb_id: null
+  tmdb_id: 565310
   title: The Farewell
   year: 2019
   runtime: 100
   director: Lulu Wang
   tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 3, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: the-farewell-2019
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/8d/1c/w0/52/the-farewell-1200-1200-675-675-crop-000000.jpg?v=f421d6af5d
 
 - id: crazy-rich-asians
-  tmdb_id: null
+  tmdb_id: 455207
   title: Crazy Rich Asians
   year: 2018
   runtime: 121
   director: Jon M. Chu
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: crazy-rich-asians
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/dv/al/4i/s4/crazy-rich-asians-1200-1200-675-675-crop-000000.jpg?v=7a597f1911
 
 - id: shang-chi
-  tmdb_id: null
+  tmdb_id: 566525
   title: Shang-Chi and the Legend of the Ten Rings
   year: 2021
   runtime: 132
   director: Destin Daniel Cretton
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 3, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: shang-chi
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/g3/ha/ra/bu/shang-chi-1200-1200-675-675-crop-000000.jpg?v=813ec0e7aa
 
 - id: oceans-8
   tmdb_id: null
@@ -37,19 +43,23 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
 
 - id: raya-and-the-last-dragon
-  tmdb_id: null
+  tmdb_id: 527774
   title: Raya and the Last Dragon
   year: 2021
   runtime: 107
   director: Don Hall
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: raya-and-the-last-dragon
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/j4/cm/kj/5m/raya-1200-1200-675-675-crop-000000.jpg?v=6fb362dd7c
 
 - id: jumanji-the-next-level
-  tmdb_id: null
+  tmdb_id: 512200
   title: Jumanji The Next Level
   year: 2019
   runtime: 123
   director: Jake Kasdan
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.65 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: jumanji-the-next-level
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/96/6w/b8/il/jumanji-next-level-1200-1200-675-675-crop-000000.jpg?v=7c47c330b7

@@ -4,7 +4,7 @@
 # had an entity.
 
 - id: alita-battle-angel
-  tmdb_id: null
+  tmdb_id: 399579
   title: Alita Battle Angel
   year: 2019
   runtime: 122
@@ -13,9 +13,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0437086
   poster_url: https://m.media-amazon.com/images/M/MV5BYmZhZGQzM2MtMWEyZC00YTU1LTk4YTQtMTg3ZjEzM2U1NTkxXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: alita-battle-angel
 
 - id: water-for-elephants
-  tmdb_id: null
+  tmdb_id: 55787
   title: Water for Elephants
   year: 2011
   runtime: 122
@@ -24,9 +25,10 @@
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt1067583
   poster_url: https://m.media-amazon.com/images/M/MV5BMTQzMDU3NDEwN15BMl5BanBnXkFtZTcwMTI3MDU0NA@@._V1_SX300.jpg
+  letterboxd_slug: water-for-elephants
 
 - id: spectre
-  tmdb_id: null
+  tmdb_id: 206647
   title: Spectre
   year: 2015
   runtime: 148
@@ -35,9 +37,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt2379713
   poster_url: https://m.media-amazon.com/images/M/MV5BMzA5MzFiNDAtYTI0NC00MDE5LTljYTctYTNkODk1OTZlODI5XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: spectre-2015
 
 - id: the-zero-theorem
-  tmdb_id: null
+  tmdb_id: 157834
   title: The Zero Theorem
   year: 2013
   runtime: 107
@@ -51,9 +54,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt2333804
   poster_url: https://m.media-amazon.com/images/M/MV5BMTc4NTIxMTE0OF5BMl5BanBnXkFtZTgwNTQ5NTYxMjE@._V1_SX300.jpg
+  letterboxd_slug: the-zero-theorem
 
 - id: big-eyes
-  tmdb_id: null
+  tmdb_id: 87093
   title: Big Eyes
   year: 2014
   runtime: 106
@@ -62,9 +66,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt1126590
   poster_url: https://m.media-amazon.com/images/M/MV5BMjA2ODM5MDE3N15BMl5BanBnXkFtZTgwOTIxNjc1MzE@._V1_SX300.jpg
+  letterboxd_slug: big-eyes
 
 - id: the-legend-of-tarzan
-  tmdb_id: null
+  tmdb_id: 258489
   title: The Legend of Tarzan
   year: 2016
   runtime: 110
@@ -73,3 +78,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0918940
   poster_url: https://m.media-amazon.com/images/M/MV5BMzY3OTI0OTcyMF5BMl5BanBnXkFtZTgwNjkxNTAwOTE@._V1_SX300.jpg
+  letterboxd_slug: the-legend-of-tarzan

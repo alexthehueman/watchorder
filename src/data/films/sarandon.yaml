@@ -3,7 +3,7 @@
 # Cloud Atlas already exists in hanks.yaml — tagged before she had an entity.
 
 - id: the-rocky-horror-picture-show
-  tmdb_id: null
+  tmdb_id: 36685
   title: The Rocky Horror Picture Show
   year: 1975
   runtime: 100
@@ -12,9 +12,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
   imdb_id: tt0073629
   poster_url: https://m.media-amazon.com/images/M/MV5BOTg2YzY5ZGYtNDk1My00N2Q2LWFhN2YtZWU5YTkzODIyZGRmXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-rocky-horror-picture-show
 
 - id: atlantic-city
-  tmdb_id: null
+  tmdb_id: 23954
   title: Atlantic City
   year: 1980
   runtime: 104
@@ -23,9 +24,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
   imdb_id: tt0080388
   poster_url: https://m.media-amazon.com/images/M/MV5BMzY3Mzc5YmEtMGYwNS00YjJkLWE2NjQtOWNiM2RlNWFhMTY1XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: atlantic-city
 
 - id: bull-durham
-  tmdb_id: null
+  tmdb_id: 287
   title: Bull Durham
   year: 1988
   runtime: 108
@@ -34,6 +36,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
   imdb_id: tt0094812
   poster_url: https://m.media-amazon.com/images/M/MV5BOGJiNmFmZjYtYzQzZi00ZTk1LWI2MGUtZjI1NDI3YmU4Y2FhXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: bull-durham
 
 - id: thelma-and-louise
   tmdb_id: null
@@ -45,7 +48,7 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 1 }
 
 - id: dead-man-walking
-  tmdb_id: null
+  tmdb_id: 687
   title: Dead Man Walking
   year: 1995
   runtime: 122
@@ -59,9 +62,10 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0112818
   poster_url: https://m.media-amazon.com/images/M/MV5BMTM3NzA1MjM2N15BMl5BanBnXkFtZTcwMzY3MTMzNA@@._V1_SX300.jpg
+  letterboxd_slug: dead-man-walking
 
 - id: igby-goes-down
-  tmdb_id: null
+  tmdb_id: 9685
   title: Igby Goes Down
   year: 2002
   runtime: 98
@@ -70,9 +74,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   imdb_id: tt0280760
   poster_url: https://m.media-amazon.com/images/M/MV5BY2ExYWY0ZTEtYWNmZC00ZmYwLWE4MzQtYmNmYWU2OWI5MTY3XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: igby-goes-down
 
 - id: the-client
-  tmdb_id: null
+  tmdb_id: 10731
   title: The Client
   year: 1994
   runtime: 120
@@ -81,9 +86,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0109446
   poster_url: https://m.media-amazon.com/images/M/MV5BNWQzNGEyODctZGY4My00ZjA3LWI0OWUtMWQ3NzVkMzQyN2ZjXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-client
 
 - id: little-women-1994
-  tmdb_id: null
+  tmdb_id: 9587
   title: Little Women
   year: 1994
   runtime: 118
@@ -92,3 +98,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0110367
   poster_url: https://m.media-amazon.com/images/M/MV5BNjk0MGY3Y2ItMDQzMy00MGNlLThmOWMtNzE3N2ZhMTQ2YTkwXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: little-women-1994

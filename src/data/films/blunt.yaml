@@ -5,7 +5,7 @@
 # entity.
 
 - id: sicario
-  tmdb_id: null
+  tmdb_id: 273481
   title: Sicario
   year: 2015
   runtime: 121
@@ -19,9 +19,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt3397884
   poster_url: https://m.media-amazon.com/images/M/MV5BMjA5NjM3NTk1M15BMl5BanBnXkFtZTgwMzg1MzU2NjE@._V1_SX300.jpg
+  letterboxd_slug: sicario-2015
 
 - id: a-quiet-place
-  tmdb_id: null
+  tmdb_id: 447332
   title: A Quiet Place
   year: 2018
   runtime: 90
@@ -30,9 +31,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt6644200
   poster_url: https://m.media-amazon.com/images/M/MV5BMjI0MDMzNTQ0M15BMl5BanBnXkFtZTgwMTM5NzM3NDM@._V1_SX300.jpg
+  letterboxd_slug: a-quiet-place-2018
 
 - id: mary-poppins-returns
-  tmdb_id: null
+  tmdb_id: 400650
   title: Mary Poppins Returns
   year: 2018
   runtime: 130
@@ -41,9 +43,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt5028340
   poster_url: https://m.media-amazon.com/images/M/MV5BMTk0NDIzMTA1MF5BMl5BanBnXkFtZTgwMzM0MTUzNjM@._V1_SX300.jpg
+  letterboxd_slug: mary-poppins-returns
 
 - id: edge-of-tomorrow
-  tmdb_id: null
+  tmdb_id: 137113
   title: Edge of Tomorrow
   year: 2014
   runtime: 113
@@ -52,3 +55,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt1631867
   poster_url: https://m.media-amazon.com/images/M/MV5BMTc5OTk4MTM3M15BMl5BanBnXkFtZTgwODcxNjg3MDE@._V1_QL75_UX380_CR0,0,380,562_.jpg
+  letterboxd_slug: edge-of-tomorrow

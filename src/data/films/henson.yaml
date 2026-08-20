@@ -12,16 +12,18 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 2 }
 
 - id: the-curious-case-of-benjamin-button
-  tmdb_id: null
+  tmdb_id: 4922
   title: The Curious Case of Benjamin Button
   year: 2008
   runtime: 166
   director: David Fincher
   tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: the-curious-case-of-benjamin-button
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/e3/dz/1d/x6/the-curious-case-of-benjamin-button-1200-1200-675-675-crop-000000.jpg?v=159ec9c4e0
 
 - id: baby-boy
-  tmdb_id: null
+  tmdb_id: 16161
   title: Baby Boy
   year: 2001
   runtime: 130
@@ -33,12 +35,16 @@
     humor: 1
     acclaim: 0.65
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  letterboxd_slug: baby-boy
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/1z/aj/1u/xs/baby%20boy-1200-1200-675-675-crop-000000.jpg?v=0a2c2f0a2d
 
 - id: what-men-want
-  tmdb_id: null
+  tmdb_id: 487297
   title: What Men Want
   year: 2019
   runtime: 117
   director: Adam Shankman
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: what-men-want
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/9i/c3/mw/3o/what-men-want-1200-1200-675-675-crop-000000.jpg?v=41756e7d0b

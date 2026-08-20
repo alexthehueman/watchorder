@@ -5,7 +5,7 @@
 # already exists in blanchett.yaml — tagged before she had an entity.
 
 - id: sorry-to-bother-you
-  tmdb_id: null
+  tmdb_id: 424781
   title: Sorry to Bother You
   year: 2018
   runtime: 111
@@ -17,30 +17,38 @@
     humor: 3
     acclaim: 0.78
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: sorry-to-bother-you
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ou/ct/uo/mt/sorry-to-bother-you-1200-1200-675-675-crop-000000.jpg?v=005084f098
 
 - id: dear-white-people
-  tmdb_id: null
+  tmdb_id: 114750
   title: Dear White People
   year: 2014
   runtime: 100
   director: Justin Simien
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: dear-white-people
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/k2/j9/an/ze/dear-white-people-1200-1200-675-675-crop-000000.jpg?v=24fc2f98cc
 
 - id: selma
-  tmdb_id: null
+  tmdb_id: 273895
   title: Selma
   year: 2014
   runtime: 128
   director: Ava DuVernay
   tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: selma
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/k9/n3/1n/4g/selma-1200-1200-675-675-crop-000000.jpg?v=a383337b04
 
 - id: little-woods
-  tmdb_id: null
+  tmdb_id: 451918
   title: Little Woods
   year: 2018
   runtime: 105
   director: Nia DaCosta
   tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: little-woods
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/eh/ya/0n/4z/little-woods-1200-1200-675-675-crop-000000.jpg?v=4b24558caa

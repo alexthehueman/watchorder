@@ -1,16 +1,18 @@
 # New films for Chloë Grace Moretz. Scales and anchors are in README.md ("The anchor rubric").
 
 - id: kick-ass
-  tmdb_id: null
+  tmdb_id: 23483
   title: Kick-Ass
   year: 2010
   runtime: 117
   director: Matthew Vaughn
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 4, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: kick-ass
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ha/3s/2q/qz/kick-ass-1200-1200-675-675-crop-000000.jpg?v=3597c5b525
 
 - id: let-me-in
-  tmdb_id: null
+  tmdb_id: 41402
   title: Let Me In
   year: 2010
   runtime: 116
@@ -22,21 +24,27 @@
     humor: 1
     acclaim: 0.78
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: let-me-in
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/40/24/az/w8/let-me-in-1200-1200-675-675-crop-000000.jpg?v=6b5fe0c67f
 
 - id: hugo
-  tmdb_id: null
+  tmdb_id: 44826
   title: Hugo
   year: 2011
   runtime: 126
   director: Martin Scorsese
   tags: { opacity: 1, stillness: 3, bleakness: 2, humor: 2, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: hugo
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/8t/7j/ae/lx/hugo-1200-1200-675-675-crop-000000.jpg?v=b67326a75a
 
 - id: carrie-2013
-  tmdb_id: null
+  tmdb_id: 133805
   title: Carrie
   year: 2013
   runtime: 100
   director: Kimberly Peirce
   tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: carrie-2013
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ou/99/74/pr/carrie-1200-1200-675-675-crop-000000.jpg?v=924ade43b5

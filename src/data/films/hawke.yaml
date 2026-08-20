@@ -4,16 +4,18 @@
 # exists in washington.yaml — tagged before he had an entity.
 
 - id: before-sunrise
-  tmdb_id: null
+  tmdb_id: 76
   title: Before Sunrise
   year: 1995
   runtime: 101
   director: Richard Linklater
   tags: { opacity: 1, stillness: 4, bleakness: 2, humor: 2, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: before-sunrise
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/jr/x9/lb/om/before-sunrise-1200-1200-675-675-crop-000000.jpg?v=7d4eb3b9e1
 
 - id: first-reformed
-  tmdb_id: null
+  tmdb_id: 458737
   title: First Reformed
   year: 2017
   runtime: 113
@@ -25,30 +27,38 @@
     humor: 1
     acclaim: 0.82
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
+  letterboxd_slug: first-reformed
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/7z/nb/kw/h1/first-reformed-1200-1200-675-675-crop-000000.jpg?v=7839d88e99
 
 - id: dead-poets-society
-  tmdb_id: null
+  tmdb_id: 207
   title: Dead Poets Society
   year: 1989
   runtime: 128
   director: Peter Weir
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 2, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
+  letterboxd_slug: dead-poets-society
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/6e/ah/fr/pn/dead-poets-society-1200-1200-675-675-crop-000000.jpg?v=f2a7da1105
 
 - id: boyhood
-  tmdb_id: null
+  tmdb_id: 85350
   title: Boyhood
   year: 2014
   runtime: 165
   director: Richard Linklater
   tags: { opacity: 1, stillness: 4, bleakness: 3, humor: 2, acclaim: 0.88 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: boyhood
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/fu/dy/lm/3p/boyhood-1200-1200-675-675-crop-000000.jpg?v=a3f7b01929
 
 - id: reality-bites
-  tmdb_id: null
+  tmdb_id: 2788
   title: Reality Bites
   year: 1994
   runtime: 99
   director: Ben Stiller
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.62 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: reality-bites
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/cv/sq/3a/3v/reality-bites-1200-1200-675-675-crop-000000.jpg?v=dadbcfc57f

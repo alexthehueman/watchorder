@@ -4,7 +4,7 @@
 # already exists in jennifer-lawrence.yaml — tagged before he had an entity.
 
 - id: infamous
-  tmdb_id: null
+  tmdb_id: 9672
   title: Infamous
   year: 2006
   runtime: 118
@@ -16,9 +16,11 @@
     humor: 2
     acclaim: 0.65
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: infamous
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/tn/ru/y7/ox/infamous-1200-1200-675-675-crop-000000.jpg?v=4dc8971180
 
 - id: tinker-tailor-soldier-spy
-  tmdb_id: null
+  tmdb_id: 49517
   title: Tinker Tailor Soldier Spy
   year: 2011
   runtime: 127
@@ -30,3 +32,5 @@
     humor: 1
     acclaim: 0.78
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: tinker-tailor-soldier-spy
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/lx/6u/lt/fy/tinker-tailor-soldier-spy-1200-1200-675-675-crop-000000.jpg?v=c7e3783fed

@@ -7,7 +7,7 @@
 # mcdormand.yaml — tagged before he had an entity.
 
 - id: primal-fear
-  tmdb_id: null
+  tmdb_id: 1592
   title: Primal Fear
   year: 1996
   runtime: 129
@@ -21,9 +21,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0117381
   poster_url: https://m.media-amazon.com/images/M/MV5BZTJlYjM5MTYtZWU3YS00ZDRhLTk1MWEtZGQyODc1ZDU2MWEwXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: primal-fear
 
 - id: american-history-x
-  tmdb_id: null
+  tmdb_id: 73
   title: American History X
   year: 1998
   runtime: 119
@@ -32,9 +33,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   imdb_id: tt0120586
   poster_url: https://m.media-amazon.com/images/M/MV5BMzhiOTQ0NDItOTg0Zi00OGVmLWE0OGEtMTI4NDM0NWMxZWU4XkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg
+  letterboxd_slug: american-history-x
 
 - id: birdman
-  tmdb_id: null
+  tmdb_id: 435092
   title: Birdman
   year: 2014
   runtime: 119
@@ -47,9 +49,11 @@
     acclaim: 0.88
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt5130912
+  letterboxd_slug: birdman
+  poster_url: https://a.ltrbxd.com/resized/film-poster/3/6/8/0/3/7/368037-birdman-0-230-0-345-crop.jpg?v=cf533bc466
 
 - id: the-illusionist-2006
-  tmdb_id: null
+  tmdb_id: 1491
   title: The Illusionist
   year: 2006
   runtime: 110
@@ -63,3 +67,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0443543
   poster_url: https://m.media-amazon.com/images/M/MV5BNzNmYmI4YWMtMGFkOS00ODVkLTg3MTEtOTExNDg3ZjQ0MGM3XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-illusionist

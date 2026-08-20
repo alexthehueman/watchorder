@@ -4,19 +4,23 @@
 # Street already exists in scorsese.yaml — tagged before he had an entity.
 
 - id: oss-117
-  tmdb_id: null
+  tmdb_id: 15152
   title: OSS 117 Cairo Nest of Spies
   year: 2006
   runtime: 99
   director: Michel Hazanavicius
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 5, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: oss-117
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/7o/la/4b/w7/oss-1200-1200-675-675-crop-000000.jpg?v=4050cb4a40
 
 - id: the-monuments-men
-  tmdb_id: null
+  tmdb_id: 152760
   title: The Monuments Men
   year: 2014
   runtime: 118
   director: George Clooney
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.58 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: the-monuments-men
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/93/aw/71/ke/the-monuments-men-1200-1200-675-675-crop-000000.jpg?v=b84bcfe319

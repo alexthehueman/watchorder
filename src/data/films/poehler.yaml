@@ -4,16 +4,18 @@
 # exists in pixar.yaml — tagged before she had an entity.
 
 - id: sisters-2015
-  tmdb_id: null
+  tmdb_id: 266294
   title: Sisters
   year: 2015
   runtime: 118
   director: Jason Moore
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  letterboxd_slug: sisters-2015
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/13/rj/00/n5/sisters-2015-1200-1200-675-675-crop-000000.jpg?v=38b83aab4c
 
 - id: wine-country
-  tmdb_id: null
+  tmdb_id: 513083
   title: Wine Country
   year: 2019
   runtime: 103
@@ -25,9 +27,11 @@
     humor: 3
     acclaim: 0.52
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: wine-country
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/w0/pk/cz/az/wine-country-1200-1200-675-675-crop-000000.jpg?v=45f6c71c72
 
 - id: baby-mama
-  tmdb_id: null
+  tmdb_id: 8780
   title: Baby Mama
   year: 2008
   runtime: 99
@@ -39,3 +43,5 @@
     humor: 4
     acclaim: 0.52
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: baby-mama
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/65/7u/yn/7c/baby-mama-1200-1200-675-675-crop-000000.jpg?v=6b0fab3615
