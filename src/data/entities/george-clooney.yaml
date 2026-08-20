@@ -1,0 +1,84 @@
+slug: george-clooney
+kind: actor
+name: George Clooney
+blurb: Trades on old-Hollywood charm so effortlessly that his best work uses it against itself — a con man, a fixer, a company man — daring the audience to keep liking him anyway.
+
+films:
+  - film: out-of-sight
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: An escaped bank robber falling for the federal marshal he kidnaps, in the role that first proved the charm could carry a whole film.
+
+  - film: michael-clayton
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A law firm's off-the-books fixer, cleaning up other people's messes until one finally implicates him.
+
+  - film: syriana
+    signature: 4
+    showcase: 4
+    role_size: supporting
+    register: restrained
+    gateway: 2
+    note: A veteran CIA operative caught inside a global oil conspiracy bigger and more compromised than he's able to see from inside it.
+
+  - film: good-night-and-good-luck
+    signature: 4
+    showcase: 3
+    role_size: supporting
+    register: restrained
+    gateway: 3
+    note: The producer backing Edward R. Murrow's on-air stand against McCarthyism, in a film he also directed and shot in stark black and white.
+
+  - film: up-in-the-air
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: warm
+    gateway: 5
+    note: A corporate downsizing consultant who lives entirely out of a suitcase, built almost entirely around how far the charm can carry a man who avoids attachment.
+
+  - film: the-descendants
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: A father learning his comatose wife was having an affair, while trying to hold his daughters and a massive land inheritance together at once.
+
+  - film: gravity
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: warm
+    gateway: 5
+    note: A veteran astronaut running out the clock on a doomed spacewalk with the same easy charm he'd bring to any other room.
+
+  - film: oceans-eleven
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: The ringleader of an eleven-man casino heist, treating the entire con as a chance to show off in front of his ex-wife.
+
+curated:
+  curator: house
+  rationale: The two performances that define the charm and its cost first, then the range everywhere else it goes.
+  order:
+    - out-of-sight
+    - oceans-eleven
+    - up-in-the-air
+    - the-descendants
+    - gravity
+    - michael-clayton
+    - good-night-and-good-luck
+    - syriana

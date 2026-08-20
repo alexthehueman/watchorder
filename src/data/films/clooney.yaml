@@ -1,0 +1,63 @@
+# New films for George Clooney. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Ocean's Eleven already exists in pitt.yaml — tagged before he had an entity. Michael Clayton
+# already exists in swinton.yaml — tagged before he had an entity.
+
+- id: out-of-sight
+  tmdb_id: null
+  title: Out of Sight
+  year: 1998
+  runtime: 123
+  director: Steven Soderbergh
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.82 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: syriana
+  tmdb_id: null
+  title: Syriana
+  year: 2005
+  runtime: 128
+  director: Stephen Gaghan
+  tags:
+    opacity: 3 # a global oil conspiracy told across five storylines the film never fully reconciles
+    stillness: 2
+    bleakness: 4
+    humor: 1
+    acclaim: 0.72
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: good-night-and-good-luck
+  tmdb_id: null
+  title: Good Night and Good Luck
+  year: 2005
+  runtime: 93
+  director: George Clooney
+  tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.82 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
+
+- id: up-in-the-air
+  tmdb_id: null
+  title: Up in the Air
+  year: 2009
+  runtime: 109
+  director: Jason Reitman
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.82 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: the-descendants
+  tmdb_id: null
+  title: The Descendants
+  year: 2011
+  runtime: 115
+  director: Alexander Payne
+  tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 3, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: gravity
+  tmdb_id: null
+  title: Gravity
+  year: 2013
+  runtime: 91
+  director: Alfonso Cuaron
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 0 }

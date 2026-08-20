@@ -1,0 +1,93 @@
+slug: scarlett-johansson
+kind: actor
+name: Scarlett Johansson
+blurb: Made her name playing stillness and withheld feeling for arthouse directors, then spent a decade proving the same control could anchor a blockbuster franchise just as easily.
+
+films:
+  - film: lost-in-translation
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: A young wife adrift in Tokyo, forming an ambiguous, unresolved bond with a stranger twice her age.
+
+  - film: under-the-skin
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 2
+    note: An alien predator wearing a human woman's body, hunting men across Scotland in a film that gives her almost no dialogue to work with.
+
+  - film: her
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: warm
+    gateway: 3
+    note: An operating system falling in love with the lonely man who bought her, played entirely through voice.
+
+  - film: marriage-story
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: An actress navigating a divorce that starts amicable and turns adversarial the moment lawyers get involved.
+
+  - film: match-point
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: warm
+    gateway: 3
+    note: A struggling actress whose affair with a married man sets a class-conscious thriller in motion.
+
+  - film: jojo-rabbit
+    signature: 3
+    showcase: 4
+    role_size: supporting
+    register: warm
+    gateway: 4
+    note: A single mother secretly hiding a Jewish girl in her attic, raising her fanatically Hitler-obsessed son with as much warmth as the danger allows.
+
+  - film: lucy
+    signature: 2
+    showcase: 2
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: A woman whose brain capacity keeps expanding after an accidental overdose, playing the character's humanity draining away in real time.
+
+  - film: vicky-cristina-barcelona
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: warm
+    gateway: 5
+    note: One half of a pair of American friends drawn into a painter's open relationship with his volatile ex-wife over a Barcelona summer.
+
+  - film: the-avengers
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: restrained
+    gateway: 5
+    note: A former Russian spy turned Avenger, holding her own in an ensemble of superpowered egos with nothing but training and nerve.
+
+curated:
+  curator: house
+  rationale: The two performances that define the stillness first, then everywhere it gets tested.
+  order:
+    - lost-in-translation
+    - the-avengers
+    - jojo-rabbit
+    - match-point
+    - vicky-cristina-barcelona
+    - lucy
+    - her
+    - marriage-story
+    - under-the-skin

@@ -1,0 +1,60 @@
+# New films for Michael Fassbender. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Prometheus already exists in theron.yaml — tagged before he had an entity. Steve Jobs already
+# exists in winslet.yaml — tagged before he had an entity. The Counselor already exists in
+# bardem.yaml — tagged before he had an entity.
+
+- id: hunger
+  tmdb_id: null
+  title: Hunger
+  year: 2008
+  runtime: 96
+  director: Steve McQueen
+  tags:
+    opacity: 1
+    stillness: 5
+    bleakness: 5 # a hunger strike filmed with almost no dialogue for its final stretch
+    humor: 1
+    acclaim: 0.78
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: shame
+  tmdb_id: null
+  title: Shame
+  year: 2011
+  runtime: 101
+  director: Steve McQueen
+  tags: { opacity: 2, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 3 }
+
+- id: x-men-first-class
+  tmdb_id: null
+  title: X-Men First Class
+  year: 2011
+  runtime: 132
+  director: Matthew Vaughn
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: 12-years-a-slave
+  tmdb_id: null
+  title: 12 Years a Slave
+  year: 2013
+  runtime: 134
+  director: Steve McQueen
+  tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.9 }
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+
+- id: macbeth-2015
+  tmdb_id: null
+  title: Macbeth
+  year: 2015
+  runtime: 113
+  director: Justin Kurzel
+  tags:
+    opacity: 2 # staged as fever-dream battlefield hallucination as much as tragedy
+    stillness: 3
+    bleakness: 5
+    humor: 1
+    acclaim: 0.68
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
