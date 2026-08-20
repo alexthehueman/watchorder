@@ -1,0 +1,35 @@
+# New films for Bette Midler. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The First Wives Club already exists in keaton-diane.yaml — tagged before she had an entity.
+
+- id: beaches
+  tmdb_id: null
+  title: Beaches
+  year: 1988
+  runtime: 123
+  director: Garry Marshall
+  tags:
+    opacity: 2 # how much she actually knows about her friend's condition, and whether the friendship survives the years apart, stays uncertain
+    stillness: 2
+    bleakness: 4
+    humor: 2
+    acclaim: 0.65
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: hocus-pocus
+  tmdb_id: null
+  title: Hocus Pocus
+  year: 1993
+  runtime: 96
+  director: Kenny Ortega
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.60 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 0 }
+
+- id: ruthless-people
+  tmdb_id: null
+  title: Ruthless People
+  year: 1986
+  runtime: 93
+  director: Jim Abrahams
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

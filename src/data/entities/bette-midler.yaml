@@ -1,0 +1,47 @@
+slug: bette-midler
+kind: actor
+name: Bette Midler
+blurb: A brassy, big-voiced screen presence that could turn on a dime from tearjerking devotion to gleeful, theatrical menace.
+
+films:
+  - film: beaches
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: warm
+    gateway: 3
+    note: One half of a decades-long friendship tested by fame and illness, playing brash devotion underneath the ego.
+
+  - film: the-first-wives-club
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: comic
+    gateway: 4
+    note: One of three ex-wives plotting revenge on their exes, playing loud, unapologetic comic energy.
+
+  - film: hocus-pocus
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: unhinged
+    gateway: 5
+    note: The leader of a trio of resurrected witches out for revenge, playing gleeful, over-the-top theatrical menace.
+
+  - film: ruthless-people
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: menacing
+    gateway: 3
+    note: A kidnapping victim who realizes her captors are actually doing her husband a favor, playing gleeful, vindictive complicity.
+
+curated:
+  curator: house
+  rationale: The most acclaimed, most beloved performance first, then the range of comic and theatrical energy around it.
+  order:
+    - beaches
+    - the-first-wives-club
+    - hocus-pocus
+    - ruthless-people

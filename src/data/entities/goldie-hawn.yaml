@@ -1,0 +1,47 @@
+slug: goldie-hawn
+kind: actor
+name: Goldie Hawn
+blurb: A sunny, ditzy-on-the-surface comic charm that repeatedly revealed real steel underneath, across four decades of studio comedy.
+
+films:
+  - film: private-benjamin
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: A pampered widow who accidentally joins the Army, playing spoiled naivety hardening into real resolve.
+
+  - film: the-first-wives-club
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: One of three ex-wives plotting revenge on their exes, playing brittle vanity giving way to genuine solidarity.
+
+  - film: overboard
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 3
+    note: A spoiled heiress with amnesia convinced she's a working-class wife and mother, playing comic disorientation softening into real affection.
+
+  - film: death-becomes-her
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: unhinged
+    gateway: 3
+    note: A woman locked in a vanity-fueled rivalry that spirals into literal immortality, playing gleeful, deranged escalation.
+
+curated:
+  curator: house
+  rationale: The role that defined her range first, then the friendship comedy, then the broader range around both.
+  order:
+    - private-benjamin
+    - the-first-wives-club
+    - overboard
+    - death-becomes-her

@@ -1,0 +1,56 @@
+slug: sally-field
+kind: actor
+name: Sally Field
+blurb: A warm, fiercely determined screen presence that won two Oscars playing women pushed to stand up for themselves, and defined maternal devotion everywhere else.
+
+films:
+  - film: places-in-the-heart
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A newly widowed mother refusing to lose her family's farm during the Depression, playing quiet, unshakeable resolve.
+
+  - film: norma-rae
+    signature: 5
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 2
+    note: A textile worker who becomes a union organizer, playing defiant, galvanizing courage.
+
+  - film: steel-magnolias
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A mother watching her diabetic daughter's health decline, playing controlled worry that finally breaks.
+
+  - film: forrest-gump
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: warm
+    gateway: 5
+    note: A devoted single mother determined to give her son every chance, playing steady, protective warmth.
+
+  - film: mrs-doubtfire
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: warm
+    gateway: 4
+    note: A mother trying to hold her family together through a difficult divorce, playing exasperated, loving patience.
+
+curated:
+  curator: house
+  rationale: The two Oscar-winning performances first, then the range of maternal warmth around them.
+  order:
+    - places-in-the-heart
+    - norma-rae
+    - steel-magnolias
+    - forrest-gump
+    - mrs-doubtfire

@@ -1,0 +1,19 @@
+# New films for Sally Field. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Places in the Heart already exists in malkovich.yaml — tagged before she had an entity.
+# Forrest Gump already exists in hanks.yaml. Steel Magnolias already exists in julia-roberts.yaml.
+# Mrs. Doubtfire already exists in robin-williams.yaml.
+
+- id: norma-rae
+  tmdb_id: null
+  title: Norma Rae
+  year: 1979
+  runtime: 114
+  director: Martin Ritt
+  tags:
+    opacity: 2 # whether the company will actually cave, and how far she can push before losing everything, stays genuinely uncertain
+    stillness: 2
+    bleakness: 3
+    humor: 2
+    acclaim: 0.82
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
