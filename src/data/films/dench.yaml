@@ -1,0 +1,58 @@
+# New films for Judi Dench. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Skyfall already exists in fiennes.yaml — tagged before she had an entity. Notes on a Scandal
+# already exists in blanchett.yaml (a genuine dual lead) — tagged before she had an entity.
+
+- id: shakespeare-in-love
+  tmdb_id: null
+  title: Shakespeare in Love
+  year: 1998
+  runtime: 123
+  director: John Madden
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: goldeneye
+  tmdb_id: null
+  title: GoldenEye
+  year: 1995
+  runtime: 130
+  director: Martin Campbell
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: mrs-brown
+  tmdb_id: null
+  title: Mrs Brown
+  year: 1997
+  runtime: 103
+  director: John Madden
+  tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: iris
+  tmdb_id: null
+  title: Iris
+  year: 2001
+  runtime: 91
+  director: Richard Eyre
+  tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: tea-with-mussolini
+  tmdb_id: null
+  title: Tea with Mussolini
+  year: 1999
+  runtime: 117
+  director: Franco Zeffirelli
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.62 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: philomena
+  tmdb_id: null
+  title: Philomena
+  year: 2013
+  runtime: 98
+  director: Stephen Frears
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 3, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 0 }

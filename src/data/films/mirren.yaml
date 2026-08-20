@@ -1,0 +1,90 @@
+# New films for Helen Mirren. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Gosford Park already exists in altman.yaml — tagged before she had an entity.
+
+- id: the-cook-the-thief-his-wife-and-her-lover
+  tmdb_id: null
+  title: The Cook the Thief His Wife and Her Lover
+  year: 1989
+  runtime: 124
+  director: Peter Greenaway
+  tags:
+    opacity: 2
+    stillness: 2
+    bleakness: 5 # a revenge fable staged like a tableau, brutal in ways the formalism never softens
+    humor: 1
+    acclaim: 0.75
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 2 }
+
+- id: the-madness-of-king-george
+  tmdb_id: null
+  title: The Madness of King George
+  year: 1994
+  runtime: 110
+  director: Nicholas Hytner
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-queen
+  tmdb_id: null
+  title: The Queen
+  year: 2006
+  runtime: 103
+  director: Stephen Frears
+  tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 2, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-last-station
+  tmdb_id: null
+  title: The Last Station
+  year: 2009
+  runtime: 112
+  director: Michael Hoffman
+  tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 2, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: woman-in-gold
+  tmdb_id: null
+  title: Woman in Gold
+  year: 2015
+  runtime: 109
+  director: Simon Curtis
+  tags:
+    opacity: 2 # a restitution case built on a family history the film reveals only through her reluctant flashbacks
+    stillness: 3
+    bleakness: 3
+    humor: 2
+    acclaim: 0.6
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: hitchcock
+  tmdb_id: null
+  title: Hitchcock
+  year: 2012
+  runtime: 98
+  director: Sacha Gervasi
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.58 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: red
+  tmdb_id: null
+  title: RED
+  year: 2010
+  runtime: 111
+  director: Robert Schwentke
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.62 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: eye-in-the-sky
+  tmdb_id: null
+  title: Eye in the Sky
+  year: 2015
+  runtime: 102
+  director: Gavin Hood
+  tags:
+    opacity: 1
+    stillness: 3
+    bleakness: 4 # a drone strike calculus argued in real time, with no version of the outcome that isn't a moral cost
+    humor: 1
+    acclaim: 0.78
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }

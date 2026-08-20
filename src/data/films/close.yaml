@@ -1,0 +1,68 @@
+# New films for Glenn Close. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Dangerous Liaisons already exists in malkovich.yaml (a genuine dual lead) — tagged before she
+# had an entity. The Natural already exists in redford.yaml — tagged before she had an entity.
+
+- id: the-big-chill
+  tmdb_id: null
+  title: The Big Chill
+  year: 1983
+  runtime: 105
+  director: Lawrence Kasdan
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
+
+- id: fatal-attraction
+  tmdb_id: null
+  title: Fatal Attraction
+  year: 1987
+  runtime: 119
+  director: Adrian Lyne
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 1 }
+
+- id: 101-dalmatians
+  tmdb_id: null
+  title: 101 Dalmatians
+  year: 1996
+  runtime: 103
+  director: Stephen Herek
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: air-force-one
+  tmdb_id: null
+  title: Air Force One
+  year: 1997
+  runtime: 124
+  director: Wolfgang Petersen
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: albert-nobbs
+  tmdb_id: null
+  title: Albert Nobbs
+  year: 2011
+  runtime: 113
+  director: Rodrigo Garcia
+  tags:
+    opacity: 2 # a decades-long disguise the film sits inside of rather than explains
+    stillness: 4
+    bleakness: 4
+    humor: 1
+    acclaim: 0.62
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-wife
+  tmdb_id: null
+  title: The Wife
+  year: 2017
+  runtime: 100
+  director: Bjorn Runge
+  tags:
+    opacity: 3 # decades of authorship the film only reveals piece by piece, on the night it matters most
+    stillness: 3
+    bleakness: 4
+    humor: 1
+    acclaim: 0.75
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
