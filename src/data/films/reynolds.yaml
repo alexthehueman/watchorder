@@ -1,0 +1,37 @@
+# New films for Ryan Reynolds. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Proposal already exists in bullock.yaml — tagged before he had an entity. Woman in Gold
+# already exists in mirren.yaml — tagged before he had an entity. Definitely, Maybe already exists
+# in weisz.yaml — tagged before he had an entity.
+
+- id: deadpool
+  tmdb_id: null
+  title: Deadpool
+  year: 2016
+  runtime: 108
+  director: Tim Miller
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 5, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+
+- id: buried
+  tmdb_id: null
+  title: Buried
+  year: 2010
+  runtime: 95
+  director: Rodrigo Cortes
+  tags:
+    opacity: 2 # who's actually responsible for the situation, and whether help is coming, stays genuinely uncertain for the whole runtime
+    stillness: 5
+    bleakness: 5
+    humor: 1
+    acclaim: 0.68
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: free-guy
+  tmdb_id: null
+  title: Free Guy
+  year: 2021
+  runtime: 115
+  director: Shawn Levy
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }

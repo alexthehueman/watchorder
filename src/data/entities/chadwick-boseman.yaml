@@ -1,0 +1,66 @@
+slug: chadwick-boseman
+kind: actor
+name: Chadwick Boseman
+blurb: Spent a run of biopics playing men history had already flattened into icons, and made a specialty of finding the person underneath before the superhero role ever arrived.
+
+films:
+  - film: "42"
+    signature: 5
+    must_see: true
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A biopic of Jackie Robinson breaking baseball's color line, playing controlled restraint under provocation as the performance's entire dramatic engine.
+
+  - film: ma-raineys-black-bottom
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 1
+    note: An ambitious, volatile trumpeter chafing against a recording session's racial indignities, playing ambition curdling into rage across his final screen performance.
+
+  - film: black-panther
+    signature: 4
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: A newly crowned king balancing his nation's isolationist tradition against a cousin's violent challenge to everything it stands for.
+
+  - film: get-on-up
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: unhinged
+    gateway: 2
+    note: A biopic of James Brown told out of chronological order, playing volcanic stage charisma against a much colder private self.
+
+  - film: da-5-bloods
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: warm
+    gateway: 2
+    note: A beloved Vietnam squad leader appearing mainly in flashback, whose memory drives his surviving friends' fraught return to the jungle decades later.
+
+  - film: marshall
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A young Thurgood Marshall defending a Black chauffeur against a wealthy white woman's assault accusation, playing measured composure inside an openly hostile courtroom.
+
+curated:
+  curator: house
+  rationale: The two performances that show the range of the biopics, then the franchise role built on the same controlled presence.
+  order:
+    - marshall
+    - black-panther
+    - da-5-bloods
+    - get-on-up
+    - "42"
+    - ma-raineys-black-bottom

@@ -1,0 +1,75 @@
+slug: emma-watson
+kind: actor
+name: Emma Watson
+blurb: Grew up on screen inside the biggest franchise of her generation, then spent the years after deliberately choosing roles that had nothing to do with magic at all.
+
+films:
+  - film: harry-potter-and-the-deathly-hallows-part-2
+    signature: 5
+    must_see: true
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: The trilogy's brightest student facing the franchise's final battle, playing eight years of accumulated competence and loss in a single extended climax.
+
+  - film: the-perks-of-being-a-wallflower
+    signature: 5
+    must_see: true
+    showcase: 4
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: A magnetic, free-spirited senior who pulls a withdrawn freshman into her friend group, playing warmth over a past the film reveals is more complicated than it looks.
+
+  - film: regression
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A young woman whose recovered memories of ritual abuse anchor a police investigation the film keeps quietly undermining.
+
+  - film: the-circle
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A new hire at a powerful tech company gradually consumed by its culture of total transparency, playing willing complicity curdling into unease.
+
+  - film: the-bling-ring
+    signature: 3
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 3
+    note: A vapid, fame-obsessed teenager burglarizing celebrity homes with her friend group, playing shallow self-regard completely without judgment from the film.
+
+  - film: beauty-and-the-beast
+    signature: 3
+    showcase: 2
+    role_size: lead
+    register: warm
+    gateway: 5
+    note: A bookish provincial girl who trades her freedom for her father's, playing wary intelligence against a household the film wants her to see past its curse.
+
+  - film: little-women-2019
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: warm
+    gateway: 4
+    note: The eldest March sister who chooses conventional stability over her family's more romantic instincts, playing that choice as a genuine strength rather than a compromise.
+
+curated:
+  curator: house
+  rationale: The two performances that show who she became after the franchise, then the eight years that made her famous in the first place.
+  order:
+    - beauty-and-the-beast
+    - little-women-2019
+    - the-bling-ring
+    - harry-potter-and-the-deathly-hallows-part-2
+    - the-circle
+    - the-perks-of-being-a-wallflower
+    - regression

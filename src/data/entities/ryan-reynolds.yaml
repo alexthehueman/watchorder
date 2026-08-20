@@ -1,0 +1,66 @@
+slug: ryan-reynolds
+kind: actor
+name: Ryan Reynolds
+blurb: A rapid-fire, self-aware wit that took two decades of mediocre studio comedies to find the exact role built entirely around it — and one very different film built around its total absence.
+
+films:
+  - film: deadpool
+    signature: 5
+    must_see: true
+    showcase: 4
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: A mercenary turned disfigured antihero who narrates his own movie directly to the audience, playing constant fourth-wall-breaking irony as the character's entire worldview.
+
+  - film: buried
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 1
+    note: A contractor in Iraq who wakes up buried alive in a coffin with only a lighter and a phone, carrying the entire film alone from inside a box.
+
+  - film: the-proposal
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 4
+    note: An overworked assistant forced into a sham engagement with his tyrannical boss to prevent her deportation, playing reluctant charm warming into something real.
+
+  - film: free-guy
+    signature: 3
+    showcase: 2
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: A background character in an open-world video game who becomes self-aware, playing wide-eyed sincerity as a bank teller discovering he might actually matter.
+
+  - film: definitely-maybe
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: warm
+    gateway: 3
+    note: A divorced father recounting his complicated romantic history to his daughter as a guessing game about which woman she'll turn out to be.
+
+  - film: woman-in-gold
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: restrained
+    gateway: 2
+    note: A young lawyer pursuing an elderly woman's restitution case against the Austrian government, playing professional persistence without the usual quips.
+
+curated:
+  curator: house
+  rationale: The two performances that show the range on either side of the constant wit, then everywhere else it gets put to smaller use.
+  order:
+    - the-proposal
+    - definitely-maybe
+    - free-guy
+    - woman-in-gold
+    - deadpool
+    - buried
