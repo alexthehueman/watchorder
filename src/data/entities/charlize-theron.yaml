@@ -1,0 +1,111 @@
+slug: charlize-theron
+kind: actor
+name: Charlize Theron
+blurb: Spent early roles trading on glamour the industry wanted from her, then built a second career on physically and morally transforming past the point of recognition.
+
+films:
+  - film: monster
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 3
+    note: A serial killer working Florida's highways, played without a trace of the star underneath thirty pounds of prosthetics and rage.
+
+  - film: mad-max-fury-road
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 5
+    note: A one-armed rig driver smuggling five enslaved wives across a wasteland, in a chase film that hands her its moral center.
+
+  - film: young-adult
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: unhinged
+    gateway: 3
+    note: A ghostwriter of teen fiction driving home to steal back her married high-school boyfriend, with zero self-awareness the film ever grants her.
+
+  - film: atomic-blonde
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: menacing
+    gateway: 4
+    note: An MI6 agent working Cold War Berlin, doing her own brutal, unbroken-take fight choreography.
+
+  - film: the-devils-advocate
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: restrained
+    gateway: 4
+    note: A lawyer's wife unraveling inside a Manhattan firm that turns out to be exactly what it looks like.
+
+  - film: north-country
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: An Iron Range miner filing one of the first major sexual-harassment class actions, opposite Frances McDormand as her lawyer.
+
+  - film: tully
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: warm
+    gateway: 3
+    note: An exhausted mother of three hiring a night nanny who understands her better than the film initially lets on.
+
+  - film: snow-white-and-the-huntsman
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: menacing
+    gateway: 4
+    note: An evil queen feeding on the youth of others, playing the fairy-tale villain as pure, vain terror.
+
+  - film: prometheus
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A corporate mission commander keeping her own agenda close as a search for humanity's creators goes badly wrong.
+
+  - film: long-shot
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 4
+    note: A Secretary of State running for president who hires her awkward childhood babysitter as a speechwriter, and then falls for him.
+
+  - film: bombshell
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A Fox News anchor navigating the fallout of the network's culture of harassment, under a prosthetic transformation of her own.
+
+curated:
+  curator: house
+  rationale: The performance that rewrote what people expected from her first, then the range on both sides of it.
+  order:
+    - monster
+    - mad-max-fury-road
+    - young-adult
+    - atomic-blonde
+    - tully
+    - north-country
+    - the-devils-advocate
+    - snow-white-and-the-huntsman
+    - prometheus
+    - long-shot
+    - bombshell

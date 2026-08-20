@@ -1,0 +1,58 @@
+# New films for Edward Norton. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Fight Club already exists in pitt.yaml (a genuine dual lead, and the twist belongs to both of
+# them) — tagged before he had an entity. The Grand Budapest Hotel already exists in fiennes.yaml
+# (a supporting ensemble part) — tagged before he had an entity. 25th Hour already exists in
+# spike-lee.yaml — tagged before he had an entity. Moonrise Kingdom already exists in
+# mcdormand.yaml — tagged before he had an entity.
+
+- id: primal-fear
+  tmdb_id: null
+  title: Primal Fear
+  year: 1996
+  runtime: 129
+  director: Gregory Hoblit
+  tags:
+    opacity: 3 # the whole film is built on withholding exactly what its defendant actually is
+    stillness: 2
+    bleakness: 4
+    humor: 1
+    acclaim: 0.78
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: american-history-x
+  tmdb_id: null
+  title: American History X
+  year: 1998
+  runtime: 119
+  director: Tony Kaye
+  tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: birdman
+  tmdb_id: null
+  title: Birdman
+  year: 2014
+  runtime: 119
+  director: Alejandro G. Inarritu
+  tags:
+    opacity: 3 # whether the powers are real or a breakdown is never resolved, by design
+    stillness: 2
+    bleakness: 3
+    humor: 3
+    acclaim: 0.88
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-illusionist-2006
+  tmdb_id: null
+  title: The Illusionist
+  year: 2006
+  runtime: 110
+  director: Neil Burger
+  tags:
+    opacity: 3 # a magic act the film lets you believe is real for most of its runtime
+    stillness: 3
+    bleakness: 2
+    humor: 1
+    acclaim: 0.75
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }

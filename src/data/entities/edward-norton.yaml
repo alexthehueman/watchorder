@@ -1,0 +1,84 @@
+slug: edward-norton
+kind: actor
+name: Edward Norton
+blurb: Arrived fully formed as an actor who could make you doubt what you'd just watched, then spent the rest of his career alternating between that unease and puckish, controlled comedy.
+
+films:
+  - film: fight-club
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 4
+    note: An unnamed narrator whose insomnia curdles into something the film spends its whole runtime concealing the shape of.
+
+  - film: american-history-x
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: menacing
+    gateway: 3
+    note: A neo-Nazi trying to keep his younger brother off the path he's already walked, in black and white flashback against the wreckage in color.
+
+  - film: primal-fear
+    signature: 4
+    showcase: 5
+    role_size: supporting
+    register: unhinged
+    gateway: 4
+    note: A stuttering altar boy accused of murder. His film debut, and the twist it's built around still lands.
+
+  - film: birdman
+    signature: 3
+    showcase: 4
+    role_size: supporting
+    register: unhinged
+    gateway: 3
+    note: A combustible Method actor derailing a Broadway production from the inside, mid-way through the film's single unbroken take.
+
+  - film: the-illusionist-2006
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A stage magician in Vienna whose act may or may not be genuine sorcery, and whose real trick is patience.
+
+  - film: 25th-hour
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A convicted drug dealer spending his last day of freedom saying goodbye to a city and the people in it.
+
+  - film: moonrise-kingdom
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: comic
+    gateway: 4
+    note: A hapless scout master leading a search party after two runaway kids, playing every ounce of institutional seriousness dead straight.
+
+  - film: the-grand-budapest-hotel
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 3
+    note: A police inspector chasing a stolen painting and a wrongly accused concierge across a fictional Alpine republic.
+
+curated:
+  curator: house
+  rationale: The two performances that made his name first, then the range in every direction around them.
+  order:
+    - fight-club
+    - american-history-x
+    - primal-fear
+    - birdman
+    - moonrise-kingdom
+    - the-grand-budapest-hotel
+    - the-illusionist-2006
+    - 25th-hour

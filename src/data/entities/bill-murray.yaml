@@ -1,0 +1,111 @@
+slug: bill-murray
+kind: actor
+name: Bill Murray
+blurb: Started as the deadpan wiseass in every broad comedy of the '80s, then spent his second act getting quietly, devastatingly sad in exactly the same register.
+
+films:
+  - film: groundhog-day
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: A weatherman reliving the same day forever, until the joke of it becomes something closer to a spiritual exercise.
+
+  - film: lost-in-translation
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A fading actor adrift in Tokyo, forming a friendship with a stranger that the film refuses to name or resolve.
+
+  - film: rushmore
+    signature: 4
+    showcase: 4
+    role_size: supporting
+    register: restrained
+    gateway: 3
+    note: A wealthy industrialist pulled into an escalating rivalry with a precocious teenager over the same woman. His first turn toward stillness.
+
+  - film: the-life-aquatic-with-steve-zissou
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: An oceanographer hunting the shark that ate his best friend, narrating his own mid-life crisis like a nature documentary.
+
+  - film: scrooged
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 4
+    note: A callous TV executive visited by three ghosts on live television, in a modernized, meaner Christmas Carol built entirely around his persona.
+
+  - film: what-about-bob
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 4
+    note: A phobia-riddled patient who follows his psychiatrist on vacation and slowly, gleefully takes over the man's family and sanity.
+
+  - film: broken-flowers
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A retired Don Juan visiting a string of old flames to find out which one sent an anonymous letter about a son he never knew he had.
+
+  - film: stripes
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 4
+    note: A cab driver who talks his way into the Army on a whim. Early, broad, exactly the persona before it got complicated.
+
+  - film: caddyshack
+    signature: 3
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 5
+    note: A groundskeeper waging one-sided war on a gopher. Barely a role — mostly improvised, entirely quotable.
+
+  - film: ghostbusters
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: A con-man parapsychologist who backs into actually fighting the supernatural. The role that made him a movie star.
+
+  - film: the-grand-budapest-hotel
+    signature: 2
+    showcase: 2
+    role_size: cameo
+    register: comic
+    gateway: 2
+    note: One face in Wes Anderson's ensemble of concierges — a small part in a director he'd go on to become a fixture for.
+
+curated:
+  curator: house
+  rationale: The performance that reveals the whole second act first, then the deadpan comedy that came before it.
+  order:
+    - groundhog-day
+    - ghostbusters
+    - caddyshack
+    - stripes
+    - rushmore
+    - lost-in-translation
+    - scrooged
+    - what-about-bob
+    - broken-flowers
+    - the-life-aquatic-with-steve-zissou
+    - the-grand-budapest-hotel

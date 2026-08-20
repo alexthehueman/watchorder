@@ -1,0 +1,101 @@
+# New films for Bill Murray. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Ghostbusters already exists in weaver.yaml (a genuine ensemble, and it's her franchise entry
+# too) — tagged before he had an entity. The Grand Budapest Hotel already exists in fiennes.yaml
+# (a supporting ensemble part) — tagged before he had an entity.
+
+- id: stripes
+  tmdb_id: null
+  title: Stripes
+  year: 1981
+  runtime: 106
+  director: Ivan Reitman
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 5, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: caddyshack
+  tmdb_id: null
+  title: Caddyshack
+  year: 1980
+  runtime: 98
+  director: Harold Ramis
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 5, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: groundhog-day
+  tmdb_id: null
+  title: Groundhog Day
+  year: 1993
+  runtime: 101
+  director: Harold Ramis
+  tags:
+    opacity: 2 # the loop's cause and rules are never explained, and the film is better for it
+    stillness: 2
+    bleakness: 2
+    humor: 4
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
+
+- id: rushmore
+  tmdb_id: null
+  title: Rushmore
+  year: 1998
+  runtime: 93
+  director: Wes Anderson
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: lost-in-translation
+  tmdb_id: null
+  title: Lost in Translation
+  year: 2003
+  runtime: 102
+  director: Sofia Coppola
+  tags:
+    opacity: 2 # what actually happens between them in that last whisper is deliberately withheld
+    stillness: 4
+    bleakness: 3
+    humor: 2
+    acclaim: 0.9
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-life-aquatic-with-steve-zissou
+  tmdb_id: null
+  title: The Life Aquatic with Steve Zissou
+  year: 2004
+  runtime: 119
+  director: Wes Anderson
+  tags: { opacity: 2, stillness: 3, bleakness: 3, humor: 3, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: scrooged
+  tmdb_id: null
+  title: Scrooged
+  year: 1988
+  runtime: 101
+  director: Richard Donner
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: what-about-bob
+  tmdb_id: null
+  title: What About Bob?
+  year: 1991
+  runtime: 99
+  director: Frank Oz
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 5, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: broken-flowers
+  tmdb_id: null
+  title: Broken Flowers
+  year: 2005
+  runtime: 106
+  director: Jim Jarmusch
+  tags:
+    opacity: 3 # an anonymous letter sends him hunting old girlfriends for a son who's never named or found
+    stillness: 4
+    bleakness: 3
+    humor: 2
+    acclaim: 0.78
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
