@@ -1,0 +1,42 @@
+# New films for Steven Seagal. Scales and anchors are in README.md ("The anchor rubric").
+
+- id: under-siege
+  tmdb_id: null
+  title: Under Siege
+  year: 1992
+  runtime: 103
+  director: Andrew Davis
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: above-the-law
+  tmdb_id: null
+  title: Above the Law
+  year: 1988
+  runtime: 99
+  director: Andrew Davis
+  tags:
+    opacity: 2 # a CIA conspiracy tangled up in his own past stays genuinely murky for much of the film
+    stillness: 1
+    bleakness: 3
+    humor: 1
+    acclaim: 0.58
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: hard-to-kill
+  tmdb_id: null
+  title: Hard to Kill
+  year: 1990
+  runtime: 96
+  director: Bruce Malmuth
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.52 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: marked-for-death
+  tmdb_id: null
+  title: Marked for Death
+  year: 1990
+  runtime: 93
+  director: Dwight H. Little
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.48 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }

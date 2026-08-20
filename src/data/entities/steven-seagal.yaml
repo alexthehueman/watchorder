@@ -1,0 +1,47 @@
+slug: steven-seagal
+kind: actor
+name: Steven Seagal
+blurb: A stone-faced, aikido-trained physicality that defined a run of late-80s and early-90s action vehicles built entirely around his own unstoppable calm.
+
+films:
+  - film: under-siege
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 5
+    note: A former Navy SEAL cook methodically taking down hijackers from the shadows, playing controlled, patient efficiency.
+
+  - film: above-the-law
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: unhinged
+    gateway: 5
+    note: A cop whose past CIA ties resurface into a personal, explosive vendetta, playing simmering rage finally breaking loose.
+
+  - film: hard-to-kill
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: menacing
+    gateway: 5
+    note: A cop faking amnesia while plotting cold, patient revenge, playing quiet, calculated threat.
+
+  - film: marked-for-death
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: warm
+    gateway: 5
+    note: A former agent drawn back into protecting his community from a drug cartel, playing protective, community-minded resolve.
+
+curated:
+  curator: house
+  rationale: His most acclaimed film first, then the range of genre work around it.
+  order:
+    - under-siege
+    - above-the-law
+    - hard-to-kill
+    - marked-for-death

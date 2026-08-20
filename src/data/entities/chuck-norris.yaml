@@ -1,0 +1,47 @@
+slug: chuck-norris
+kind: actor
+name: Chuck Norris
+blurb: A stern, unshakeable martial-arts presence that anchored a decade of Cold War-era action cinema, beginning opposite Bruce Lee.
+
+films:
+  - film: way-of-the-dragon
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: menacing
+    gateway: 5
+    note: A formidable, coldly skilled martial arts champion facing off against Bruce Lee, playing composed, dangerous confidence.
+
+  - film: lone-wolf-mcquade
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 5
+    note: A lone, principled Texas Ranger unraveling a gun-running conspiracy, playing quiet, unshakeable resolve.
+
+  - film: the-delta-force
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: warm
+    gateway: 5
+    note: A veteran commando leading a hostage-rescue mission, playing steady, protective camaraderie.
+
+  - film: missing-in-action
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: unhinged
+    gateway: 5
+    note: A haunted former POW returning to Vietnam on a driven, obsessive rescue mission, playing consumed, single-minded determination.
+
+curated:
+  curator: house
+  rationale: His breakout role first, then the range of genre work around it.
+  order:
+    - way-of-the-dragon
+    - lone-wolf-mcquade
+    - the-delta-force
+    - missing-in-action

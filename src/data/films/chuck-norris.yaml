@@ -1,0 +1,35 @@
+# New films for Chuck Norris. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Missing in Action already exists in cannon.yaml — tagged before he had an entity.
+
+- id: way-of-the-dragon
+  tmdb_id: null
+  title: Way of the Dragon
+  year: 1972
+  runtime: 90
+  director: Bruce Lee
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: lone-wolf-mcquade
+  tmdb_id: null
+  title: Lone Wolf McQuade
+  year: 1983
+  runtime: 107
+  director: Steve Carver
+  tags:
+    opacity: 2 # a corrupt gun-running operation's full scope stays genuinely murky for much of the film
+    stillness: 2
+    bleakness: 3
+    humor: 1
+    acclaim: 0.58
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: the-delta-force
+  tmdb_id: null
+  title: The Delta Force
+  year: 1986
+  runtime: 129
+  director: Menahem Golan
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }

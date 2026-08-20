@@ -1,0 +1,40 @@
+# New films for Jean-Claude Van Damme. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Kickboxer already exists in cannon.yaml — tagged before he had an entity.
+
+- id: bloodsport
+  tmdb_id: null
+  title: Bloodsport
+  year: 1988
+  runtime: 92
+  director: Newt Arnold
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.62 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: universal-soldier
+  tmdb_id: null
+  title: Universal Soldier
+  year: 1992
+  runtime: 102
+  director: Roland Emmerich
+  tags:
+    opacity: 2 # whether he's regaining his real memories or being manipulated stays genuinely uncertain
+    stillness: 1
+    bleakness: 3
+    humor: 2
+    acclaim: 0.58
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: timecop
+  tmdb_id: null
+  title: Timecop
+  year: 1994
+  runtime: 98
+  director: Peter Hyams
+  tags:
+    opacity: 2 # the time-travel paradox mechanics and who's manipulating the timeline stay genuinely tangled
+    stillness: 2
+    bleakness: 2
+    humor: 2
+    acclaim: 0.60
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

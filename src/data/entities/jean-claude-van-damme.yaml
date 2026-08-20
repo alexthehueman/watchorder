@@ -1,0 +1,47 @@
+slug: jean-claude-van-damme
+kind: actor
+name: Jean-Claude Van Damme
+blurb: A precise, balletic physicality that defined a wave of late-80s and early-90s action cinema, built almost entirely on martial-arts spectacle.
+
+films:
+  - film: bloodsport
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 5
+    note: A driven fighter risking his life in an illegal underground tournament, playing single-minded, escalating intensity.
+
+  - film: kickboxer
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 5
+    note: A vengeful brother training with monk-like discipline for a rematch, playing controlled, focused resolve.
+
+  - film: timecop
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: warm
+    gateway: 5
+    note: A time-cop racing to save his murdered wife, playing genuine, aching devotion.
+
+  - film: universal-soldier
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: unhinged
+    gateway: 5
+    note: A resurrected soldier whose fractured memories and violent programming keep resurfacing, playing disoriented, volatile instability.
+
+curated:
+  curator: house
+  rationale: The breakout role first, then the range of genre work around it.
+  order:
+    - bloodsport
+    - kickboxer
+    - timecop
+    - universal-soldier
