@@ -10,6 +10,8 @@
   director: Taylor Hackford
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 2, acclaim: 0.82 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  imdb_id: tt0350258
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTQxNDQwNjQzOV5BMl5BanBnXkFtZTcwNTQxNDYyMQ@@._V1_SX300.jpg
 
 - id: collateral
   tmdb_id: null
@@ -24,6 +26,8 @@
     humor: 1
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  imdb_id: tt0369339
+  poster_url: https://m.media-amazon.com/images/M/MV5BMjE3NjM5OTMxMV5BMl5BanBnXkFtZTcwOTIzMTQyMw@@._V1_SX300.jpg
 
 - id: baby-driver
   tmdb_id: null
@@ -33,6 +37,8 @@
   director: Edgar Wright
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 3, acclaim: 0.82 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  imdb_id: tt3890160
+  poster_url: https://m.media-amazon.com/images/M/MV5BMjM3MjQ1MzkxNl5BMl5BanBnXkFtZTgwODk1ODgyMjI@._V1_QL75_UX380_CR0,0,380,562_.jpg
 
 - id: dreamgirls
   tmdb_id: null
@@ -42,6 +48,8 @@
   director: Bill Condon
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0443489
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTY1MzIwNDQyNl5BMl5BanBnXkFtZTcwNDEwNzYyMw@@._V1_SX300.jpg
 
 - id: any-given-sunday
   tmdb_id: null
@@ -51,3 +59,5 @@
   director: Oliver Stone
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.65 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0146838
+  poster_url: https://m.media-amazon.com/images/M/MV5BZDIyMGYxMWYtNmUyZC00N2M3LWI0ZGYtMTIwMTk3NmZiY2RkXkEyXkFqcGc@._V1_SX300.jpg

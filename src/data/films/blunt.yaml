@@ -17,6 +17,8 @@
     humor: 1
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  imdb_id: tt3397884
+  poster_url: https://m.media-amazon.com/images/M/MV5BMjA5NjM3NTk1M15BMl5BanBnXkFtZTgwMzg1MzU2NjE@._V1_SX300.jpg
 
 - id: a-quiet-place
   tmdb_id: null
@@ -26,6 +28,8 @@
   director: John Krasinski
   tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.82 }
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt6644200
+  poster_url: https://m.media-amazon.com/images/M/MV5BMjI0MDMzNTQ0M15BMl5BanBnXkFtZTgwMTM5NzM3NDM@._V1_SX300.jpg
 
 - id: mary-poppins-returns
   tmdb_id: null
@@ -35,6 +39,8 @@
   director: Rob Marshall
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt5028340
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTk0NDIzMTA1MF5BMl5BanBnXkFtZTgwMzM0MTUzNjM@._V1_SX300.jpg
 
 - id: edge-of-tomorrow
   tmdb_id: null
@@ -44,3 +50,5 @@
   director: Doug Liman
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 3, acclaim: 0.82 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt1631867
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTc5OTk4MTM3M15BMl5BanBnXkFtZTgwODcxNjg3MDE@._V1_QL75_UX380_CR0,0,380,562_.jpg

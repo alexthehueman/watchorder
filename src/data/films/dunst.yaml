@@ -13,6 +13,8 @@
   director: Neil Jordan
   tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0110148
+  poster_url: https://m.media-amazon.com/images/M/MV5BYzJlN2NiZDQtZmI4NC00ZWFiLWFmMTUtMWM4ODVlOGFlODY1XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-virgin-suicides
   tmdb_id: null
@@ -27,6 +29,8 @@
     humor: 1
     acclaim: 0.72
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
+  imdb_id: tt0159097
+  poster_url: https://m.media-amazon.com/images/M/MV5BMmNhYTE5MjQtMzI2Ny00MDRhLWE4ZjAtYTg0YjNhNjZmMTVlXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: melancholia
   tmdb_id: null
@@ -41,6 +45,8 @@
     humor: 1
     acclaim: 0.78
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 1 }
+  imdb_id: tt1527186
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTk4NjM0MjI3MV5BMl5BanBnXkFtZTcwNjcxMDYzNg@@._V1_SX300.jpg
 
 - id: marie-antoinette
   tmdb_id: null
@@ -50,6 +56,8 @@
   director: Sofia Coppola
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.62 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  imdb_id: tt0422720
+  poster_url: https://m.media-amazon.com/images/M/MV5BMmE4NzQzNGItNTY4My00ZTBhLTk2ZjItZDJkMjRlYTE2MGRiXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: bring-it-on
   tmdb_id: null
@@ -59,3 +67,5 @@
   director: Peyton Reed
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.62 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0204946
+  poster_url: https://m.media-amazon.com/images/M/MV5BYTQ2NTFlNzQtMTEzMi00MzA1LWI5MjgtOGQwMTU5ZGVjY2YyXkEyXkFqcGc@._V1_SX300.jpg

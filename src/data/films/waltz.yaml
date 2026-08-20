@@ -11,6 +11,8 @@
   director: Robert Rodriguez
   tags: { opacity: 2, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.62 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0437086
+  poster_url: https://m.media-amazon.com/images/M/MV5BYmZhZGQzM2MtMWEyZC00YTU1LTk4YTQtMTg3ZjEzM2U1NTkxXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: water-for-elephants
   tmdb_id: null
@@ -20,6 +22,8 @@
   director: Francis Lawrence
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.62 }
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt1067583
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTQzMDU3NDEwN15BMl5BanBnXkFtZTcwMTI3MDU0NA@@._V1_SX300.jpg
 
 - id: spectre
   tmdb_id: null
@@ -29,6 +33,8 @@
   director: Sam Mendes
   tags: { opacity: 2, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.6 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt2379713
+  poster_url: https://m.media-amazon.com/images/M/MV5BMzA5MzFiNDAtYTI0NC00MDE5LTljYTctYTNkODk1OTZlODI5XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: the-zero-theorem
   tmdb_id: null
@@ -43,6 +49,8 @@
     humor: 2
     acclaim: 0.55
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt2333804
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTc4NTIxMTE0OF5BMl5BanBnXkFtZTgwNTQ5NTYxMjE@._V1_SX300.jpg
 
 - id: big-eyes
   tmdb_id: null
@@ -52,6 +60,8 @@
   director: Tim Burton
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.65 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt1126590
+  poster_url: https://m.media-amazon.com/images/M/MV5BMjA2ODM5MDE3N15BMl5BanBnXkFtZTgwOTIxNjc1MzE@._V1_SX300.jpg
 
 - id: the-legend-of-tarzan
   tmdb_id: null
@@ -61,3 +71,5 @@
   director: David Yates
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.42 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0918940
+  poster_url: https://m.media-amazon.com/images/M/MV5BMzY3OTI0OTcyMF5BMl5BanBnXkFtZTgwNjkxNTAwOTE@._V1_SX300.jpg

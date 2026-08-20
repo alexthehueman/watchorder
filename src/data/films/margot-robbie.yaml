@@ -21,6 +21,8 @@
     humor: 1
     acclaim: 0.35
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt4463816
+  poster_url: https://m.media-amazon.com/images/M/MV5BOTliYzYyYTAtNzBjMy00MGE2LThmOWMtZWM1ZmI0MDE1ZjM3XkEyXkFqcGc@._V1_SX300.jpg
 
 - id: amsterdam
   tmdb_id: null
@@ -30,6 +32,8 @@
   director: David O. Russell
   tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.45 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt10304142
+  poster_url: https://m.media-amazon.com/images/M/MV5BNzgxNTQzYTEtMDI3Yi00OGQ1LWFkNGMtZDEyM2JlYmE0YzUyXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg
 
 - id: focus
   tmdb_id: null
@@ -39,6 +43,8 @@
   director: Glenn Ficarra
   tags: { opacity: 2, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.62 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  imdb_id: tt2381941
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTUwODg2OTA4OF5BMl5BanBnXkFtZTgwOTE5MTE4MzE@._V1_SX300.jpg
 
 - id: birds-of-prey
   tmdb_id: null
@@ -48,3 +54,5 @@
   director: Cathy Yan
   tags: { opacity: 2, stillness: 1, bleakness: 3, humor: 4, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  imdb_id: tt12451874
+  poster_url: https://m.media-amazon.com/images/M/MV5BYjYyZmIwZWYtZTVjNS00ZDA1LWIyY2UtM2ZmNzc3ODBmZDcxXkEyXkFqcGdeQXVyODA4MTIxMDQ@._V1_SX300.jpg

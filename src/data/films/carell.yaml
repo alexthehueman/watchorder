@@ -11,6 +11,8 @@
   director: Judd Apatow
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 5, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+  imdb_id: tt0405422
+  poster_url: https://m.media-amazon.com/images/M/MV5BMzFiNzU2NjQtZTcwZC00Nzc3LTk3NjEtMDZmMDhmYjQ4NTAwXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: little-miss-sunshine
   tmdb_id: null
@@ -20,6 +22,8 @@
   director: Jonathan Dayton
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 4, acclaim: 0.82 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
+  imdb_id: tt0449059
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTgzNTgzODU0NV5BMl5BanBnXkFtZTcwMjEyMjMzMQ@@._V1_SX300.jpg
 
 - id: foxcatcher
   tmdb_id: null
@@ -34,6 +38,8 @@
     humor: 1
     acclaim: 0.78
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt1100089
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTQ2MjQxNjYxOV5BMl5BanBnXkFtZTgwMzIwODUxMzE@._V1_SX300.jpg
 
 - id: anchorman
   tmdb_id: null
@@ -43,4 +49,3 @@
   director: Adam McKay
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 5, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
-

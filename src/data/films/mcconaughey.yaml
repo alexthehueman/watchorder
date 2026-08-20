@@ -10,6 +10,8 @@
   director: Richard Linklater
   tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 4, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0106677
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTM5MDY5MDQyOV5BMl5BanBnXkFtZTgwMzM3NzMxMDE@._V1_SX300.jpg
 
 - id: dallas-buyers-club
   tmdb_id: null
@@ -19,6 +21,8 @@
   director: Jean-Marc Vallee
   tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 2, acclaim: 0.82 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  imdb_id: tt0790636
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTYwMTA4MzgyNF5BMl5BanBnXkFtZTgwMjEyMjE0MDE@._V1_SX300.jpg
 
 - id: magic-mike
   tmdb_id: null
@@ -28,6 +32,8 @@
   director: Steven Soderbergh
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+  imdb_id: tt1915581
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTQzMDMzOTA5M15BMl5BanBnXkFtZTcwMjc4MTg4Nw@@._V1_SX300.jpg
 
 - id: the-lincoln-lawyer
   tmdb_id: null
@@ -37,6 +43,8 @@
   director: Brad Furman
   tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  imdb_id: tt1189340
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTQ4NDE4NTY5MV5BMl5BanBnXkFtZTcwODQyMTkxNA@@._V1_SX300.jpg
 
 - id: killer-joe
   tmdb_id: null
@@ -46,6 +54,8 @@
   director: William Friedkin
   tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 2, acclaim: 0.68 }
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+  imdb_id: tt1726669
+  poster_url: https://m.media-amazon.com/images/M/MV5BNDZmNDk5NGUtYTYwOS00MGRlLWFhZjAtOGE2MzMzM2YzNGUyXkEyXkFqcGc@._V1_SX300.jpg
 
 - id: mud
   tmdb_id: null
@@ -55,6 +65,8 @@
   director: Jeff Nichols
   tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.8 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt1935179
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTU2MzcyODgyNV5BMl5BanBnXkFtZTcwNTc4MDYwOQ@@._V1_SX300.jpg
 
 - id: interstellar
   tmdb_id: null
@@ -69,3 +81,5 @@
     humor: 1
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  imdb_id: tt0816692
+  poster_url: https://m.media-amazon.com/images/M/MV5BYzdjMDAxZGItMjI2My00ODA1LTlkNzItOWFjMDU5ZDJlYWY3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg
