@@ -1,0 +1,47 @@
+slug: colman-domingo
+kind: actor
+name: Colman Domingo
+blurb: A theater-trained warmth and precision he's spent decades applying to supporting work before a run of lead roles proved exactly how much he could carry alone.
+
+films:
+  - film: rustin
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: warm
+    gateway: 2
+    note: A biopic of civil rights organizer Bayard Rustin fighting for recognition within his own movement while orchestrating the March on Washington, playing charisma as strategy and conviction at once.
+
+  - film: zola
+    signature: 4
+    showcase: 4
+    role_size: supporting
+    register: menacing
+    gateway: 1
+    note: A pimp whose shifting names, accents, and stories the film treats as genuinely dangerous rather than a running joke.
+
+  - film: the-color-purple-2023
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: unhinged
+    gateway: 2
+    note: An abusive husband whose cruelty the film never softens even as the musical numbers around him stay vibrant.
+
+  - film: selma
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: restrained
+    gateway: 3
+    note: A civil rights organizer working alongside Martin Luther King Jr. during the Selma marches, playing disciplined resolve under real danger.
+
+curated:
+  curator: house
+  rationale: The performance that proved he could carry a film alone, then everywhere else that same precision gets put to supporting use.
+  order:
+    - selma
+    - the-color-purple-2023
+    - zola
+    - rustin

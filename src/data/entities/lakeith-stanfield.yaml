@@ -1,0 +1,56 @@
+slug: lakeith-stanfield
+kind: actor
+name: LaKeith Stanfield
+blurb: A loose-limbed, unpredictable energy that reads as comic detachment right up until a director aims it at something genuinely dangerous instead.
+
+films:
+  - film: judas-and-the-black-messiah
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 2
+    note: An FBI informant infiltrating the Black Panther Party under threat of prosecution, playing self-preservation curdling into a betrayal he can't undo.
+
+  - film: get-out
+    signature: 4
+    showcase: 4
+    role_size: supporting
+    register: unhinged
+    gateway: 3
+    note: A guest at a family gathering whose sudden, terrifying break from a placid facade becomes the film's first real warning sign.
+
+  - film: sorry-to-bother-you
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: comic
+    gateway: 1
+    note: A telemarketer whose success adopting a "white voice" pulls him deeper into a corporate scheme the film escalates past anything reasonable.
+
+  - film: straight-outta-compton
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: restrained
+    gateway: 3
+    note: A biopic performance built almost entirely around capturing a specific rap icon's physical presence rather than his life story.
+
+  - film: knives-out
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: restrained
+    gateway: 4
+    note: A local detective quietly working the same case as the film's celebrity investigator, mostly there to ask the questions the audience is already asking.
+
+curated:
+  curator: house
+  rationale: The two performances that show how far the loose, unpredictable energy can curdle into real danger, then everywhere else it stays comic or procedural.
+  order:
+    - knives-out
+    - straight-outta-compton
+    - get-out
+    - sorry-to-bother-you
+    - judas-and-the-black-messiah

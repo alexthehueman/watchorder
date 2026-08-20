@@ -1,0 +1,47 @@
+slug: danielle-deadwyler
+kind: actor
+name: Danielle Deadwyler
+blurb: A controlled, physically exact intensity that can carry an entire film on restraint alone, or turn a single scene into the whole reason it exists.
+
+films:
+  - film: till
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: Mamie Till-Mobley transforming her son's murder into a public reckoning, playing grief as a controlled, deliberate act of will rather than a breakdown.
+
+  - film: the-piano-lesson
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A woman refusing to sell her family's heirloom piano despite her brother's financial desperation, playing quiet, unmovable conviction against pressure from every side.
+
+  - film: the-devil-to-pay
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: menacing
+    gateway: 1
+    note: A widowed farmer drawn into a violent debt dispute with a backwoods crime family, playing cornered resolve as the situation escalates past any peaceful resolution.
+
+  - film: the-harder-they-fall
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: menacing
+    gateway: 3
+    note: A gunslinger riding with an outlaw gang bent on revenge, playing lethal competence without ever needing to raise her voice.
+
+curated:
+  curator: house
+  rationale: The performance built entirely on controlled, deliberate grief, then everywhere else that same precision gets put to different use.
+  order:
+    - the-harder-they-fall
+    - the-devil-to-pay
+    - the-piano-lesson
+    - till
