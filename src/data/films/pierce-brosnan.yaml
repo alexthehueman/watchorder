@@ -1,0 +1,18 @@
+# New films for Pierce Brosnan. Scales and anchors are in README.md ("The anchor rubric").
+#
+# GoldenEye already exists in dench.yaml — tagged before he had an entity.
+# Mrs. Doubtfire already exists in robin-williams.yaml. Mamma Mia! already exists in streep.yaml.
+
+- id: the-thomas-crown-affair
+  tmdb_id: null
+  title: The Thomas Crown Affair
+  year: 1999
+  runtime: 113
+  director: John McTiernan
+  tags:
+    opacity: 2 # whether he's genuinely falling for her or still playing a con stays deliberately unclear
+    stillness: 2
+    bleakness: 2
+    humor: 3
+    acclaim: 0.68
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }

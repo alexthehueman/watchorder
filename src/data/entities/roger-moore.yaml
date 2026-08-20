@@ -1,0 +1,47 @@
+slug: roger-moore
+kind: actor
+name: Roger Moore
+blurb: A raised-eyebrow, tongue-in-cheek suavity that defined the most playful era of the spy franchise, with one surprising turn toward real grit.
+
+films:
+  - film: the-spy-who-loved-me
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: Widely considered his finest turn as Bond, playing effortless, self-amused wit.
+
+  - film: live-and-let-die
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: warm
+    gateway: 5
+    note: A charming, easygoing Bond navigating a lighter, breezier adventure, playing relaxed, genial confidence.
+
+  - film: the-man-with-the-golden-gun
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 5
+    note: A controlled Bond matching wits with a legendary assassin, playing composed, watchful cool.
+
+  - film: the-wild-geese
+    signature: 3
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 3
+    note: A mercenary leader facing brutal betrayal and moral collapse in the field, playing hardened, desperate resolve.
+
+curated:
+  curator: house
+  rationale: His most acclaimed Bond entry first, then the range of tone across the franchise, ending on the grittiest departure.
+  order:
+    - the-spy-who-loved-me
+    - live-and-let-die
+    - the-man-with-the-golden-gun
+    - the-wild-geese
