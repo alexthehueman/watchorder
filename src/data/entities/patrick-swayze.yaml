@@ -1,0 +1,47 @@
+slug: patrick-swayze
+kind: actor
+name: Patrick Swayze
+blurb: A physical, romantic screen presence that swung from tender devotion to zen-surfer menace across three genre-defining late-80s roles.
+
+films:
+  - film: ghost
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: A murdered man desperate to protect and reach the woman he loves, playing aching, devoted warmth.
+
+  - film: dirty-dancing
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: warm
+    gateway: 5
+    note: A resort dance instructor drawn to a guest above his station, playing confident, tender charm.
+
+  - film: point-break
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: unhinged
+    gateway: 3
+    note: A surfer-philosopher leading a gang of bank-robbing thrill-seekers, playing charismatic, escalating zealotry.
+
+  - film: road-house
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A philosophy-quoting bouncer cleaning up a rough bar, playing calm, controlled menace.
+
+curated:
+  curator: house
+  rationale: The most beloved, most iconic role first, then the range around it.
+  order:
+    - ghost
+    - dirty-dancing
+    - point-break
+    - road-house

@@ -1,0 +1,22 @@
+# New films for Patrick Swayze. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Ghost already exists in whoopi-goldberg.yaml — tagged before he had an entity.
+# Point Break already exists in reeves.yaml.
+
+- id: dirty-dancing
+  tmdb_id: null
+  title: Dirty Dancing
+  year: 1987
+  runtime: 100
+  director: Emile Ardolino
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: road-house
+  tmdb_id: null
+  title: Road House
+  year: 1989
+  runtime: 114
+  director: Rowdy Herrington
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 2, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }

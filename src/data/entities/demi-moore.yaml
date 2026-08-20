@@ -1,0 +1,47 @@
+slug: demi-moore
+kind: actor
+name: Demi Moore
+blurb: A steely, committed screen presence that ranged from a career-defining romantic lead to grueling physical transformation and morally fraught drama.
+
+films:
+  - film: ghost
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: A grieving woman slowly realizing her dead boyfriend is still trying to reach her, playing raw, unguarded devotion.
+
+  - film: gi-jane
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 2
+    note: The first woman pushed through brutal Navy SEAL training, playing grinding, defiant physical breakdown and rebuild.
+
+  - film: a-few-good-men
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: restrained
+    gateway: 3
+    note: A Navy lawyer building the case against a cover-up, playing composed, professional conviction.
+
+  - film: indecent-proposal
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A woman weighing a life-altering offer with her husband, playing internal, conflicted restraint.
+
+curated:
+  curator: house
+  rationale: The most iconic role first, then the acclaimed physical transformation, then the range of dramatic work around both.
+  order:
+    - ghost
+    - gi-jane
+    - a-few-good-men
+    - indecent-proposal

@@ -1,0 +1,35 @@
+# New films for Sean Connery. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Untouchables already exists in costner.yaml — tagged before he had an entity.
+
+- id: goldfinger
+  tmdb_id: null
+  title: Goldfinger
+  year: 1964
+  runtime: 110
+  director: Guy Hamilton
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.80 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: indiana-jones-and-the-last-crusade
+  tmdb_id: null
+  title: Indiana Jones and the Last Crusade
+  year: 1989
+  runtime: 127
+  director: Steven Spielberg
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.82 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-hunt-for-red-october
+  tmdb_id: null
+  title: The Hunt for Red October
+  year: 1990
+  runtime: 135
+  director: John McTiernan
+  tags:
+    opacity: 2 # whether he's defecting or attacking stays deliberately uncertain for a long stretch
+    stillness: 3
+    bleakness: 3
+    humor: 1
+    acclaim: 0.78
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

@@ -1,0 +1,27 @@
+# New films for Demi Moore. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Ghost already exists in whoopi-goldberg.yaml — tagged before she had an entity.
+# A Few Good Men already exists in nicholson.yaml.
+
+- id: gi-jane
+  tmdb_id: null
+  title: G.I. Jane
+  year: 1997
+  runtime: 125
+  director: Ridley Scott
+  tags:
+    opacity: 1
+    stillness: 1 # the grueling training-montage propulsion sets it apart from the slower-burn dramas around it
+    bleakness: 3
+    humor: 1
+    acclaim: 0.58
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: indecent-proposal
+  tmdb_id: null
+  title: Indecent Proposal
+  year: 1993
+  runtime: 117
+  director: Adrian Lyne
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
