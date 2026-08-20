@@ -1,0 +1,35 @@
+# New films for Common. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Selma already exists in thompson-tessa.yaml — tagged before he had an entity.
+
+- id: john-wick-chapter-2
+  tmdb_id: null
+  title: John Wick Chapter 2
+  year: 2017
+  runtime: 122
+  director: Chad Stahelski
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: just-wright
+  tmdb_id: null
+  title: Just Wright
+  year: 2010
+  runtime: 102
+  director: Sanaa Hamri
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 3, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-kitchen-2019
+  tmdb_id: null
+  title: The Kitchen
+  year: 2019
+  runtime: 102
+  director: Andrea Berloff
+  tags:
+    opacity: 2 # a federal investigation that keeps circling the wrong suspects while the real scheme stays hidden
+    stillness: 2
+    bleakness: 4
+    humor: 1
+    acclaim: 0.42
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }

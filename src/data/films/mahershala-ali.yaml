@@ -1,0 +1,23 @@
+# New films for Mahershala Ali. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Moonlight already exists in a24.yaml — tagged before he had an entity. Green Book already
+# exists in mortensen.yaml — tagged before he had an entity. Hidden Figures already exists in
+# spencer.yaml — tagged before he had an entity.
+
+- id: the-place-beyond-the-pines
+  tmdb_id: null
+  title: The Place Beyond the Pines
+  year: 2012
+  runtime: 140
+  director: Derek Cianfrance
+  tags: { opacity: 2, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: alpha-2018
+  tmdb_id: null
+  title: Alpha
+  year: 2018
+  runtime: 96
+  director: Albert Hughes
+  tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 1, sex: 0 }

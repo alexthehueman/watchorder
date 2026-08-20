@@ -1,0 +1,57 @@
+slug: mahershala-ali
+kind: actor
+name: Mahershala Ali
+blurb: A calm, measured gravity that reads as quiet authority in almost any register, deployed across two Oscar-winning performances built on very different kinds of restraint.
+
+films:
+  - film: moonlight
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: supporting
+    register: warm
+    gateway: 2
+    note: A drug dealer who becomes an unlikely father figure to a bullied boy, playing genuine tenderness the film never lets you forget is complicated by what he actually does for a living.
+
+  - film: green-book
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: A classical pianist touring the segregated South with a driver he has little in common with, playing controlled dignity under constant, exhausting provocation.
+
+  - film: the-place-beyond-the-pines
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: restrained
+    gateway: 1
+    note: A police officer whose own compromises quietly ripple into the next generation of the film's multi-decade story.
+
+  - film: hidden-figures
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: warm
+    gateway: 4
+    note: A steady, respectful suitor courting one of the film's three mathematicians, playing quiet decency against the era's more casual prejudices.
+
+  - film: alpha-2018
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: restrained
+    gateway: 2
+    note: A Stone Age tribal leader whose exacting standards for his son drive the film's survival story into motion.
+
+curated:
+  curator: house
+  rationale: The two Oscar-winning performances built on very different kinds of restraint, then everywhere else that same calm authority shows up.
+  order:
+    - hidden-figures
+    - alpha-2018
+    - the-place-beyond-the-pines
+    - moonlight
+    - green-book
