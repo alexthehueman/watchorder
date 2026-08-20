@@ -97,7 +97,12 @@
   year: 2018
   runtime: 124
   director: Josie Rourke
-  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.55 }
+  tags:
+    opacity: 2 # how much of the court's scheming she can actually see, versus is blindsided by, stays genuinely uncertain
+    stillness: 2
+    bleakness: 4
+    humor: 1
+    acclaim: 0.55
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt2328900
   poster_url: https://m.media-amazon.com/images/M/MV5BNTk2ZjI2ZWMtMTg4Yy00NTZkLTk5ZjAtNDc0ZjE4YzEzZjJmXkEyXkFqcGc@._V1_SX300.jpg

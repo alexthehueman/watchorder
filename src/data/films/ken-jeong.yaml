@@ -1,0 +1,31 @@
+# New films for Ken Jeong. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Hangover already exists in galifianakis.yaml — tagged before he had an entity. Knocked Up
+# already exists in rogen.yaml.
+
+- id: the-hangover-part-ii
+  tmdb_id: null
+  title: The Hangover Part II
+  year: 2011
+  runtime: 102
+  director: Todd Phillips
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 4, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: the-hangover-part-iii
+  tmdb_id: null
+  title: The Hangover Part III
+  year: 2013
+  runtime: 100
+  director: Todd Phillips
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 3, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: role-models
+  tmdb_id: null
+  title: Role Models
+  year: 2008
+  runtime: 99
+  director: David Wain
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }

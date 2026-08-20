@@ -1,0 +1,56 @@
+slug: ken-jeong
+kind: actor
+name: Ken Jeong
+blurb: A manic, boundary-free comic energy built almost entirely around a single, escalating trilogy of chaos, deployed elsewhere in smaller doses.
+
+films:
+  - film: the-hangover
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: supporting
+    register: unhinged
+    gateway: 3
+    note: A volatile, pantsless gangster who explodes out of a car trunk mid-film, playing total, unpredictable menace played entirely for shock comedy.
+
+  - film: the-hangover-part-ii
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: unhinged
+    gateway: 3
+    note: The same volatile gangster escalating the exact same chaos in a new city, playing the same unpredictable menace a second time.
+
+  - film: role-models
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: comic
+    gateway: 4
+    note: A live-action-roleplay antagonist taking his medieval kingdom's rules far too seriously, playing earnest, self-important absurdity.
+
+  - film: knocked-up
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 4
+    note: An unbothered obstetrician delivering unsettling news with total professional detachment, playing deadpan comic timing in a handful of scenes.
+
+  - film: the-hangover-part-iii
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: unhinged
+    gateway: 3
+    note: The same volatile gangster now driving the plot directly, playing the character's chaos with even less restraint than before.
+
+curated:
+  curator: house
+  rationale: The role that made him famous first, then its sequels, then the smaller supporting work around it.
+  order:
+    - the-hangover
+    - the-hangover-part-ii
+    - the-hangover-part-iii
+    - role-models
+    - knocked-up

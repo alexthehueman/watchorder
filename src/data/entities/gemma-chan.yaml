@@ -1,0 +1,47 @@
+slug: gemma-chan
+kind: actor
+name: Gemma Chan
+blurb: A composed, poised screen presence carried from lavish rom-com through blockbuster ensemble into a rare, weightier historical lead.
+
+films:
+  - film: crazy-rich-asians
+    signature: 5
+    must_see: true
+    showcase: 4
+    role_size: supporting
+    register: restrained
+    gateway: 5
+    note: A wealthy family member trapped in an unhappy marriage, playing composed, private unhappiness underneath the glamour.
+
+  - film: mary-queen-of-scots
+    signature: 3
+    showcase: 5
+    role_size: lead
+    register: menacing
+    gateway: 1
+    note: A queen navigating a court of rivals determined to see her fail, playing icy political calculation under constant threat.
+
+  - film: life-2017
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: unhinged
+    gateway: 1
+    note: A quarantine officer on a space station hunting a rapidly evolving alien organism, playing controlled terror as the crew's options run out.
+
+  - film: eternals
+    signature: 5
+    showcase: 4
+    role_size: lead
+    register: warm
+    gateway: 5
+    note: A gentle, empathic immortal reluctant to use her powers for violence, playing quiet moral conviction within a large ensemble.
+
+curated:
+  curator: house
+  rationale: The role that made her a lead first, then the range around it.
+  order:
+    - crazy-rich-asians
+    - eternals
+    - mary-queen-of-scots
+    - life-2017

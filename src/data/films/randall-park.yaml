@@ -1,0 +1,35 @@
+# New films for Randall Park. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Captain Marvel already exists in larson.yaml — tagged before he had an entity.
+
+- id: always-be-my-maybe
+  tmdb_id: null
+  title: Always Be My Maybe
+  year: 2019
+  runtime: 102
+  director: Nahnatchka Khan
+  tags: { opacity: 2, stillness: 3, bleakness: 3, humor: 3, acclaim: 0.62 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: the-interview
+  tmdb_id: null
+  title: The Interview
+  year: 2014
+  runtime: 112
+  director: Seth Rogen
+  tags:
+    opacity: 2 # how much of his charm is genuine and how much is calculated control stays deliberately unclear until it breaks
+    stillness: 2
+    bleakness: 4
+    humor: 4
+    acclaim: 0.50
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+
+- id: ant-man-and-the-wasp
+  tmdb_id: null
+  title: Ant-Man and the Wasp
+  year: 2018
+  runtime: 118
+  director: Peyton Reed
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
