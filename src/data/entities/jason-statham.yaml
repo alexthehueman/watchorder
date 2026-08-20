@@ -1,0 +1,93 @@
+slug: jason-statham
+kind: actor
+name: Jason Statham
+blurb: A blunt, economical physicality built on real martial-arts and stunt credibility, deployed across two decades of lean action pictures with barely a wasted line of dialogue.
+
+films:
+  - film: the-transporter
+    signature: 5
+    must_see: true
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: A precise, rule-bound freelance driver whose professional detachment cracks once he breaks his own first rule, playing controlled menace throughout.
+
+  - film: snatch
+    signature: 4
+    must_see: true
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 4
+    note: An unlicensed boxing promoter narrating his way through London's criminal underworld, playing dry, fast-talking cockney wit.
+
+  - film: crank
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: unhinged
+    gateway: 3
+    note: A poisoned hitman keeping his adrenaline artificially spiked to survive the next ninety minutes, playing frantic, escalating mania throughout.
+
+  - film: spy
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: unhinged
+    gateway: 4
+    note: A blustery, self-mythologizing field agent whose outlandish claims about his own exploits are the film's running joke.
+
+  - film: the-bank-job
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: menacing
+    gateway: 2
+    note: A small-time garage owner talked into a heist that turns out to have much bigger stakes than a simple robbery, playing wary calculation as the conspiracy widens.
+
+  - film: redemption
+    signature: 2
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A homeless, traumatized ex-soldier funding his survival through underworld violence, playing quiet self-destruction with none of his usual cool.
+
+  - film: the-meg
+    signature: 2
+    showcase: 2
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: A traumatized deep-sea rescue diver drawn back into danger to save others, playing steady, understated heroism.
+
+  - film: the-italian-job
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: warm
+    gateway: 3
+    note: A getaway driver and part of a tight-knit heist crew, playing easy, good-natured camaraderie.
+
+  - film: furious-7
+    signature: 1
+    showcase: 3
+    role_size: supporting
+    register: menacing
+    gateway: 3
+    note: A vengeful assassin hunting down the crew responsible for his brother's death, playing cold, singular menace.
+
+curated:
+  curator: house
+  rationale: The role that defined the lean, economical action persona first, then the rest of the range around it.
+  order:
+    - the-transporter
+    - crank
+    - snatch
+    - spy
+    - the-meg
+    - furious-7
+    - the-italian-job
+    - the-bank-job
+    - redemption

@@ -1,0 +1,92 @@
+# New films for Dwayne Johnson. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Jumanji Welcome to the Jungle and Central Intelligence already exist in hart.yaml — tagged
+# before he had an entity. Pain and Gain already exists in mackie.yaml.
+
+- id: fast-five
+  tmdb_id: null
+  title: Fast Five
+  year: 2011
+  runtime: 130
+  director: Justin Lin
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: furious-7
+  tmdb_id: null
+  title: Furious 7
+  year: 2015
+  runtime: 137
+  director: James Wan
+  tags:
+    opacity: 2 # how he'll actually get back into the fight after the hospital, and what it costs him, stays unresolved until the final act
+    stillness: 1
+    bleakness: 3
+    humor: 2
+    acclaim: 0.68
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: moana
+  tmdb_id: null
+  title: Moana
+  year: 2016
+  runtime: 107
+  director: Ron Clements
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: san-andreas
+  tmdb_id: null
+  title: San Andreas
+  year: 2015
+  runtime: 114
+  director: Brad Peyton
+  tags:
+    opacity: 2 # how bad it's actually going to get, and whether his family survives it, stays deliberately unclear
+    stillness: 2
+    bleakness: 3
+    humor: 1
+    acclaim: 0.55
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: jungle-cruise
+  tmdb_id: null
+  title: Jungle Cruise
+  year: 2021
+  runtime: 127
+  director: Jaume Collet-Serra
+  tags:
+    opacity: 3 # a century-old curse and his own real identity stay genuinely unresolved for most of the film
+    stillness: 2
+    bleakness: 2
+    humor: 4
+    acclaim: 0.60
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: walking-tall
+  tmdb_id: null
+  title: Walking Tall
+  year: 2004
+  runtime: 86
+  director: Kevin Bray
+  tags:
+    opacity: 3 # how deep the casino owners' corruption actually reaches into the town stays hidden until he starts digging
+    stillness: 2
+    bleakness: 3
+    humor: 1
+    acclaim: 0.50
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: snitch
+  tmdb_id: null
+  title: Snitch
+  year: 2013
+  runtime: 112
+  director: Ric Roman Waugh
+  tags:
+    opacity: 4 # whether going undercover will actually save his son, or destroy them both, stays genuinely unresolved
+    stillness: 4
+    bleakness: 4
+    humor: 1
+    acclaim: 0.55
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
