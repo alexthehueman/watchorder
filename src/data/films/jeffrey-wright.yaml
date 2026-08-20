@@ -1,0 +1,28 @@
+# New films for Jeffrey Wright. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Casino Royale already exists in daniel-craig.yaml — tagged before he had an entity.
+# The Batman already exists in pattinson.yaml.
+# Ali already exists in smith.yaml.
+
+- id: basquiat
+  tmdb_id: null
+  title: Basquiat
+  year: 1996
+  runtime: 108
+  director: Julian Schnabel
+  tags:
+    opacity: 3 # an impressionistic biopic that drifts through his life rather than explaining it
+    stillness: 3
+    bleakness: 4
+    humor: 2
+    acclaim: 0.62
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: w
+  tmdb_id: null
+  title: W.
+  year: 2008
+  runtime: 131
+  director: Oliver Stone
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }

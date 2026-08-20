@@ -1,0 +1,56 @@
+slug: terrence-howard
+kind: actor
+name: Terrence Howard
+blurb: A smooth, wounded-charisma screen presence built on one breakout dramatic lead and a run of ensemble drama and studio franchise work.
+
+films:
+  - film: hustle-and-flow
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A Memphis pimp chasing a rap career as a last shot at reinvention, playing weary, aching self-belief.
+
+  - film: crash-2004
+    signature: 3
+    showcase: 4
+    role_size: supporting
+    register: menacing
+    gateway: 3
+    note: A television director humiliated at a traffic stop who unravels over one long night, playing controlled rage breaking loose.
+
+  - film: iron-man
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: warm
+    gateway: 4
+    note: Tony Stark's steady military liaison and friend, playing loyal, exasperated warmth.
+
+  - film: the-best-man
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: comic
+    gateway: 4
+    note: The group's unapologetic wild card at a friend's wedding, playing loose, mischievous charm.
+
+  - film: dead-presidents
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: unhinged
+    gateway: 1
+    note: A friend swept into an armed robbery gone wrong, playing panicked desperation.
+
+curated:
+  curator: house
+  rationale: The breakout lead role first, then the acclaimed ensemble work, then the franchise and comic supporting turns.
+  order:
+    - hustle-and-flow
+    - crash-2004
+    - iron-man
+    - the-best-man
+    - dead-presidents

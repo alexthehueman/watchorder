@@ -1,0 +1,31 @@
+# New films for Delroy Lindo. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Malcolm X already exists in washington.yaml — tagged before he had an entity.
+# Da 5 Bloods already exists in spike-lee.yaml.
+
+- id: crooklyn
+  tmdb_id: null
+  title: Crooklyn
+  year: 1994
+  runtime: 115
+  director: Spike Lee
+  tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 3, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: get-shorty
+  tmdb_id: null
+  title: Get Shorty
+  year: 1995
+  runtime: 105
+  director: Barry Sonnenfeld
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: ransom
+  tmdb_id: null
+  title: Ransom
+  year: 1996
+  runtime: 121
+  director: Ron Howard
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

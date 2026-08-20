@@ -1,0 +1,56 @@
+slug: delroy-lindo
+kind: actor
+name: Delroy Lindo
+blurb: A booming, forceful screen presence anchored by one long collaboration with Spike Lee and a run of crime-adjacent supporting work.
+
+films:
+  - film: da-5-bloods
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 3
+    note: A Trump-hat-wearing Vietnam vet unraveling on the return trip that made him, playing raw, escalating breakdown.
+
+  - film: malcolm-x
+    signature: 3
+    showcase: 4
+    role_size: supporting
+    register: menacing
+    gateway: 2
+    note: A numbers-running Harlem gangster who takes young Malcolm under his wing, playing smooth, dangerous authority.
+
+  - film: crooklyn
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: A struggling jazz musician trying to hold a big Brooklyn family together, playing tired, loving frustration.
+
+  - film: get-shorty
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: comic
+    gateway: 4
+    note: A drug dealer with movie-producer ambitions, playing smooth, self-amused menace played for laughs.
+
+  - film: ransom
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: restrained
+    gateway: 3
+    note: The FBI agent overseeing a kidnapping investigation, playing controlled, procedural calm.
+
+curated:
+  curator: house
+  rationale: The role that finally won him overdue recognition first, then the Spike Lee collaboration around it, then the genre work.
+  order:
+    - da-5-bloods
+    - malcolm-x
+    - crooklyn
+    - get-shorty
+    - ransom
