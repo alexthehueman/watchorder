@@ -1,0 +1,47 @@
+slug: billy-crystal
+kind: actor
+name: Billy Crystal
+blurb: A fast-talking, self-deprecating warmth that anchored a defining romantic comedy and a run of beloved 90s ensemble work.
+
+films:
+  - film: when-harry-met-sally
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: A cynic slowly falling for the friend he swore he never would, playing charming, deflecting vulnerability.
+
+  - film: city-slickers
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: A burned-out ad executive searching for purpose on a cattle drive, playing quiet midlife reckoning under the jokes.
+
+  - film: monsters-inc
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: A one-eyed monster paired with an accident-prone giant, playing fussy, high-strung comic energy.
+
+  - film: analyze-this
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 3
+    note: A psychiatrist stuck treating a panicking mob boss, playing motormouthed, escalating anxiety.
+
+curated:
+  curator: house
+  rationale: The defining romantic comedy first, then the range of ensemble and voice work around it.
+  order:
+    - when-harry-met-sally
+    - city-slickers
+    - monsters-inc
+    - analyze-this

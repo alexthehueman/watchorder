@@ -1,0 +1,35 @@
+# New films for Whoopi Goldberg. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Color Purple already exists in spielberg.yaml — tagged before she had an entity.
+
+- id: ghost
+  tmdb_id: null
+  title: Ghost
+  year: 1990
+  runtime: 127
+  director: Jerry Zucker
+  tags:
+    opacity: 2 # whether she's really channeling the dead or running a con stays an open question at first
+    stillness: 2
+    bleakness: 2
+    humor: 4
+    acclaim: 0.75
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: sister-act
+  tmdb_id: null
+  title: Sister Act
+  year: 1992
+  runtime: 100
+  director: Emile Ardolino
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-lion-king
+  tmdb_id: null
+  title: The Lion King
+  year: 1994
+  runtime: 88
+  director: Roger Allers
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 3, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }

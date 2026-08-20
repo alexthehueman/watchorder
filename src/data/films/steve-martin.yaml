@@ -1,0 +1,51 @@
+# New films for Steve Martin. Scales and anchors are in README.md ("The anchor rubric").
+
+- id: the-jerk
+  tmdb_id: null
+  title: The Jerk
+  year: 1979
+  runtime: 94
+  director: Carl Reiner
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 5, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: roxanne
+  tmdb_id: null
+  title: Roxanne
+  year: 1987
+  runtime: 107
+  director: Fred Schepisi
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: three-amigos
+  tmdb_id: null
+  title: Three Amigos
+  year: 1986
+  runtime: 104
+  director: John Landis
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: father-of-the-bride
+  tmdb_id: null
+  title: Father of the Bride
+  year: 1991
+  runtime: 105
+  director: Charles Shyer
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 3, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: planes-trains-and-automobiles
+  tmdb_id: null
+  title: Planes, Trains and Automobiles
+  year: 1987
+  runtime: 93
+  director: John Hughes
+  tags:
+    opacity: 2 # what Del's actually going through, and going home to, stays hidden until the very end
+    stillness: 2
+    bleakness: 2
+    humor: 4
+    acclaim: 0.78
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

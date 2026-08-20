@@ -1,0 +1,47 @@
+slug: whoopi-goldberg
+kind: actor
+name: Whoopi Goldberg
+blurb: A wry, warm comic presence that swung between a career-defining dramatic lead and a run of beloved 90s comedy.
+
+films:
+  - film: the-color-purple
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: Celie enduring decades of abuse before finding her own voice, playing quiet, gathering resolve.
+
+  - film: ghost
+    signature: 4
+    showcase: 4
+    role_size: supporting
+    register: comic
+    gateway: 5
+    note: A skeptical psychic suddenly stuck actually channeling a ghost, playing motormouthed disbelief that turns into real heart.
+
+  - film: sister-act
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 4
+    note: A lounge singer hiding out as a nun and reluctantly reviving the choir, playing brash fish-out-of-water energy.
+
+  - film: the-lion-king
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: menacing
+    gateway: 4
+    note: One of Scar's hyena enforcers, playing sly, cackling threat.
+
+curated:
+  curator: house
+  rationale: The performance that announced her range first, then the Oscar-winning comic breakthrough, then the lighter work around both.
+  order:
+    - the-color-purple
+    - ghost
+    - sister-act
+    - the-lion-king

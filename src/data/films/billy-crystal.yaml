@@ -1,0 +1,40 @@
+# New films for Billy Crystal. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Monsters, Inc. already exists in pixar.yaml — tagged before he had an entity.
+
+- id: when-harry-met-sally
+  tmdb_id: null
+  title: When Harry Met Sally...
+  year: 1989
+  runtime: 96
+  director: Rob Reiner
+  tags:
+    opacity: 2 # whether the friendship can survive becoming something more stays genuinely uncertain across a decade
+    stillness: 2
+    bleakness: 2
+    humor: 4
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: city-slickers
+  tmdb_id: null
+  title: City Slickers
+  year: 1991
+  runtime: 114
+  director: Ron Underwood
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 2
+    humor: 3 # the midlife-crisis ache pulls back on the comedy more than the other three
+    acclaim: 0.68
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: analyze-this
+  tmdb_id: null
+  title: Analyze This
+  year: 1999
+  runtime: 103
+  director: Harold Ramis
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.62 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
