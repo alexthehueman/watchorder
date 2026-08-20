@@ -1,0 +1,32 @@
+# New films for Matthew Broderick. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Producers already exists in thurman.yaml — tagged before he had an entity.
+# Election already exists in witherspoon.yaml.
+
+- id: ferris-buellers-day-off
+  tmdb_id: null
+  title: Ferris Bueller's Day Off
+  year: 1986
+  runtime: 103
+  director: John Hughes
+  tags:
+    opacity: 1
+    stillness: 2 # reflective, fourth-wall-breaking pauses punctuate the chaos throughout
+    bleakness: 1
+    humor: 5
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: war-games
+  tmdb_id: null
+  title: WarGames
+  year: 1983
+  runtime: 114
+  director: John Badham
+  tags:
+    opacity: 2 # whether the AI's simulation and real nuclear launch protocols can actually be told apart stays genuinely uncertain
+    stillness: 2
+    bleakness: 3
+    humor: 2
+    acclaim: 0.75
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

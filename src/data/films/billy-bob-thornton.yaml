@@ -1,0 +1,27 @@
+# New films for Billy Bob Thornton. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Armageddon already exists in buscemi.yaml — tagged before he had an entity.
+# Monster's Ball already exists in berry.yaml.
+
+- id: sling-blade
+  tmdb_id: null
+  title: Sling Blade
+  year: 1996
+  runtime: 135
+  director: Billy Bob Thornton
+  tags:
+    opacity: 2 # what actually happened the night of the original murder, and what he's capable of now, stays genuinely uncertain
+    stillness: 3
+    bleakness: 5
+    humor: 1
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: bad-santa
+  tmdb_id: null
+  title: Bad Santa
+  year: 2003
+  runtime: 91
+  director: Terry Zwigoff
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 4, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
