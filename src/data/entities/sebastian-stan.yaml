@@ -1,0 +1,48 @@
+slug: sebastian-stan
+kind: actor
+name: Sebastian Stan
+blurb: Spent a decade as a franchise's reliably brooding supporting soldier, then used the years around it to chase roles built entirely around identity coming apart.
+
+films:
+  - film: a-different-man
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 1
+    note: A man who undergoes an experimental procedure to fix his facial disfigurement, only to find a new face solves nothing about who he actually is.
+
+  - film: the-devil-all-the-time
+    signature: 5
+    must_see: true
+    showcase: 4
+    role_size: supporting
+    register: menacing
+    gateway: 1
+    note: A corrupt small-town sheriff whose casual authority conceals real, escalating rot, playing menace as an unremarkable Sunday-morning fact of local life.
+
+  - film: captain-america-the-winter-soldier
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: restrained
+    gateway: 4
+    note: A brainwashed assassin whose fragmented memories of his own past keep resurfacing against his handlers' control.
+
+  - film: i-tonya
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: comic
+    gateway: 3
+    note: An abusive, self-mythologizing husband whose account of events the film treats with open, comic skepticism.
+
+curated:
+  curator: house
+  rationale: The two performances built entirely on identity coming apart, then everywhere else that same instinct gets put to franchise or comic use.
+  order:
+    - i-tonya
+    - captain-america-the-winter-soldier
+    - the-devil-all-the-time
+    - a-different-man

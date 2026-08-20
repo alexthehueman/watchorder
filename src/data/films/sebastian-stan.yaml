@@ -1,0 +1,27 @@
+# New films for Sebastian Stan. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Captain America: The Winter Soldier already exists in evans.yaml — tagged before he had an
+# entity. I, Tonya already exists in neon.yaml — tagged before he had an entity.
+
+- id: a-different-man
+  tmdb_id: null
+  title: A Different Man
+  year: 2024
+  runtime: 112
+  director: Aaron Schimberg
+  tags:
+    opacity: 4 # a facial transformation that resolves nothing about who he actually is underneath it
+    stillness: 3
+    bleakness: 4
+    humor: 3
+    acclaim: 0.75
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-devil-all-the-time
+  tmdb_id: null
+  title: The Devil All the Time
+  year: 2020
+  runtime: 138
+  director: Antonio Campos
+  tags: { opacity: 2, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 3, sex: 0 }

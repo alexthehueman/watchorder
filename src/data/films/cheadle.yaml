@@ -1,0 +1,14 @@
+# New films for Don Cheadle. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Ocean's Eleven already exists in pitt.yaml — tagged before he had an entity. Crash already
+# exists in bullock.yaml — tagged before he had an entity. Traffic already exists in
+# del-toro.yaml — tagged before he had an entity.
+
+- id: hotel-rwanda
+  tmdb_id: null
+  title: Hotel Rwanda
+  year: 2004
+  runtime: 121
+  director: Terry George
+  tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.82 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
