@@ -1,0 +1,60 @@
+# New films for Lupita Nyong'o. Scales and anchors are in README.md ("The anchor rubric").
+#
+# 12 Years a Slave already exists in fassbender.yaml — tagged before she had an entity. Star Wars
+# The Force Awakens already exists in isaac.yaml — tagged before she had an entity. Black Panther
+# already exists in michael-b-jordan.yaml — tagged before she had an entity.
+
+- id: us-2019
+  tmdb_id: null
+  title: Us
+  year: 2019
+  runtime: 116
+  director: Jordan Peele
+  tags:
+    opacity: 3 # a doppelganger uprising whose full origin and rules the film only lets you piece together gradually
+    stillness: 2
+    bleakness: 5
+    humor: 2
+    acclaim: 0.78
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
+
+- id: black-panther-wakanda-forever
+  tmdb_id: null
+  title: Black Panther Wakanda Forever
+  year: 2022
+  runtime: 161
+  director: Ryan Coogler
+  tags:
+    opacity: 2 # a new underwater civilization and its king's actual intentions stay genuinely unclear for most of the film
+    stillness: 2
+    bleakness: 4
+    humor: 2
+    acclaim: 0.72
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: queen-of-katwe
+  tmdb_id: null
+  title: Queen of Katwe
+  year: 2016
+  runtime: 124
+  director: Mira Nair
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: non-stop
+  tmdb_id: null
+  title: Non-Stop
+  year: 2014
+  runtime: 106
+  director: Jaume Collet-Serra
+  tags: { opacity: 2, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.62 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: little-monsters
+  tmdb_id: null
+  title: Little Monsters
+  year: 2019
+  runtime: 94
+  director: Abe Forsythe
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

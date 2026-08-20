@@ -1,0 +1,75 @@
+slug: ethan-hawke
+kind: actor
+name: Ethan Hawke
+blurb: A restless, literary intensity that's spent three decades gravitating toward directors interested in how people actually talk when they're figuring themselves out in real time.
+
+films:
+  - film: before-sunrise
+    signature: 5
+    must_see: true
+    showcase: 4
+    role_size: lead
+    register: warm
+    gateway: 3
+    note: An American backpacker who convinces a French student to spend one night walking Vienna with him, playing an entire relationship compressed into hours of conversation.
+
+  - film: training-day
+    signature: 5
+    must_see: true
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: A rookie narcotics officer discovering his new mentor's methods are far more corrupt than advertised, playing dawning horror across a single brutal shift.
+
+  - film: first-reformed
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 1
+    note: A small-town pastor whose crisis of faith deepens after counseling an environmental activist, playing a spiritual unraveling the film never fully resolves.
+
+  - film: boyhood
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: warm
+    gateway: 3
+    note: A divorced, inconsistent father reappearing across his son's childhood over twelve years of real time, playing gradual, hard-won maturity.
+
+  - film: dead-poets-society
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: warm
+    gateway: 4
+    note: A shy prep-school student slowly finding his own voice under an unconventional English teacher's influence.
+
+  - film: gattaca
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A genetically "invalid" man assuming a borrowed identity to pursue a space program that would otherwise reject him, playing careful deception under constant risk of exposure.
+
+  - film: reality-bites
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 4
+    note: A directionless, cynically charming slacker complicating his best friend's relationship with an ambitious yuppie.
+
+curated:
+  curator: house
+  rationale: The two performances that show the range of his restlessness first, then everywhere else that same searching quality shows up.
+  order:
+    - reality-bites
+    - dead-poets-society
+    - gattaca
+    - before-sunrise
+    - boyhood
+    - training-day
+    - first-reformed

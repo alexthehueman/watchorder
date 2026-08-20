@@ -1,0 +1,55 @@
+# New films for Jeff Bridges. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Big Lebowski already exists in coens.yaml — tagged before he had an entity. Iron Man
+# already exists in downey.yaml — tagged before he had an entity. Starman already exists in
+# carpenter.yaml — tagged before he had an entity.
+
+- id: crazy-heart
+  tmdb_id: null
+  title: Crazy Heart
+  year: 2009
+  runtime: 112
+  director: Scott Cooper
+  tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: true-grit-2010
+  tmdb_id: null
+  title: True Grit
+  year: 2010
+  runtime: 110
+  director: Ethan Coen
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 3, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: the-fisher-king
+  tmdb_id: null
+  title: The Fisher King
+  year: 1991
+  runtime: 137
+  director: Terry Gilliam
+  tags:
+    opacity: 3 # a grail-quest delusion the film keeps refusing to fully separate from genuine, earned redemption
+    stillness: 2
+    bleakness: 4
+    humor: 3
+    acclaim: 0.78
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 0 }
+
+- id: hell-or-high-water
+  tmdb_id: null
+  title: Hell or High Water
+  year: 2016
+  runtime: 102
+  director: David Mackenzie
+  tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 2, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: tron
+  tmdb_id: null
+  title: Tron
+  year: 1982
+  runtime: 96
+  director: Steven Lisberger
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.62 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
