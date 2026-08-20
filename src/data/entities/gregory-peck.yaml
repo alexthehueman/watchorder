@@ -1,0 +1,47 @@
+slug: gregory-peck
+kind: actor
+name: Gregory Peck
+blurb: A steady, morally upright screen presence that defined a generation's idea of decency, with real grit underneath the composure.
+
+films:
+  - film: to-kill-a-mockingbird
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: warm
+    gateway: 3
+    note: A principled small-town lawyer modeling quiet moral courage for his children, playing steady, unwavering decency.
+
+  - film: roman-holiday
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: A reporter who falls for the runaway princess he's supposed to be exploiting, playing charming warmth winning out over ambition.
+
+  - film: cape-fear-1962
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A father protecting his family from a man he once helped convict, playing controlled, mounting desperation.
+
+  - film: the-guns-of-navarone
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A resourceful commando leader holding a fractious team together under pressure, playing calm, decisive command.
+
+curated:
+  curator: house
+  rationale: The Oscar-winning, defining role first, then the classic that made him a star, then the range around both.
+  order:
+    - to-kill-a-mockingbird
+    - roman-holiday
+    - cape-fear-1962
+    - the-guns-of-navarone

@@ -1,0 +1,27 @@
+# New films for Gregory Peck. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Roman Holiday already exists in hepburn-audrey.yaml — tagged before he had an entity.
+# Cape Fear already exists in mitchum.yaml.
+
+- id: to-kill-a-mockingbird
+  tmdb_id: null
+  title: To Kill a Mockingbird
+  year: 1962
+  runtime: 129
+  director: Robert Mulligan
+  tags:
+    opacity: 2 # what actually happened the night Tom Robinson's accuser was attacked, and who Boo Radley really is, stay hidden for most of the film
+    stillness: 3
+    bleakness: 3
+    humor: 1
+    acclaim: 0.92
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-guns-of-navarone
+  tmdb_id: null
+  title: The Guns of Navarone
+  year: 1961
+  runtime: 158
+  director: J Lee Thompson
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

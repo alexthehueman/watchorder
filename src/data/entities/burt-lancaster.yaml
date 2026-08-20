@@ -1,0 +1,47 @@
+slug: burt-lancaster
+kind: actor
+name: Burt Lancaster
+blurb: A charismatic, gleaming-toothed magnetism that could curdle into real menace — an Oscar-winning evangelist, a predatory columnist, and a would-be coup leader.
+
+films:
+  - film: elmer-gantry
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 3
+    note: A con man turned traveling evangelist whose showmanship blurs into genuine, dangerous fervor, playing charismatic, escalating conviction.
+
+  - film: sweet-smell-of-success
+    signature: 5
+    showcase: 5
+    role_size: lead
+    register: menacing
+    gateway: 2
+    note: A predatory gossip columnist who destroys careers for sport, playing cold, calculating power.
+
+  - film: seven-days-in-may
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: menacing
+    gateway: 3
+    note: A charismatic general secretly plotting to overthrow the government, playing controlled, chilling ambition.
+
+  - film: gunfight-at-the-ok-corral
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: Wyatt Earp holding the line against a town's lawlessness, playing steady, lawful resolve.
+
+curated:
+  curator: house
+  rationale: The Oscar-winning performance first, then the most acclaimed, then the range of ambition and menace around both.
+  order:
+    - elmer-gantry
+    - sweet-smell-of-success
+    - seven-days-in-may
+    - gunfight-at-the-ok-corral

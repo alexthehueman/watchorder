@@ -1,0 +1,26 @@
+# New films for Kirk Douglas. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Paths of Glory and Spartacus already exist in kubrick.yaml — tagged before he had an entity.
+
+- id: seven-days-in-may
+  tmdb_id: null
+  title: Seven Days in May
+  year: 1964
+  runtime: 118
+  director: John Frankenheimer
+  tags:
+    opacity: 2 # whether the coup is real, and how far it will actually go, stays genuinely tense and uncertain
+    stillness: 3
+    bleakness: 3
+    humor: 1
+    acclaim: 0.78
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: gunfight-at-the-ok-corral
+  tmdb_id: null
+  title: Gunfight at the O.K. Corral
+  year: 1957
+  runtime: 122
+  director: John Sturges
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

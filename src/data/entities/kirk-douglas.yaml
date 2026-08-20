@@ -1,0 +1,47 @@
+slug: kirk-douglas
+kind: actor
+name: Kirk Douglas
+blurb: A jaw-jutting, forceful intensity that anchored two Kubrick classics and a run of the era's defining epics and westerns.
+
+films:
+  - film: spartacus
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: warm
+    gateway: 3
+    note: A slave leading a rebellion built on loyalty and brotherhood, playing steady, unifying conviction.
+
+  - film: paths-of-glory
+    signature: 5
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A colonel fighting a doomed battle against his own command's cowardice, playing controlled, principled fury.
+
+  - film: seven-days-in-may
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A loyal officer forced to expose a conspiracy he never wanted to see, playing quiet, agonized duty.
+
+  - film: gunfight-at-the-ok-corral
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: unhinged
+    gateway: 4
+    note: A consumptive, volatile gunslinger with nothing left to lose, playing reckless, self-destructive bravado.
+
+curated:
+  curator: house
+  rationale: The most iconic epic first, then the most acclaimed performance, then the range around both.
+  order:
+    - spartacus
+    - paths-of-glory
+    - seven-days-in-may
+    - gunfight-at-the-ok-corral

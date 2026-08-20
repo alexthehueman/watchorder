@@ -1,0 +1,21 @@
+# New films for Burt Lancaster. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Seven Days in May and Gunfight at the O.K. Corral already exist in kirk-douglas.yaml — tagged before he had an entity.
+
+- id: elmer-gantry
+  tmdb_id: null
+  title: Elmer Gantry
+  year: 1960
+  runtime: 146
+  director: Richard Brooks
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: sweet-smell-of-success
+  tmdb_id: null
+  title: Sweet Smell of Success
+  year: 1957
+  runtime: 96
+  director: Alexander Mackendrick
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 2, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
