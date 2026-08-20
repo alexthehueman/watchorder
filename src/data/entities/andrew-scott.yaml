@@ -1,0 +1,56 @@
+slug: andrew-scott
+kind: actor
+name: Andrew Scott
+blurb: A precise, coiled intensity that reads as charm right up until it tips into menace, or as menace right up until it tips into genuine, exposed grief.
+
+films:
+  - film: all-of-us-strangers
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A screenwriter revisiting his childhood home and finding his long-dead parents seemingly unchanged, playing grief the film never signals is anything other than literally happening.
+
+  - film: "1917"
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: restrained
+    gateway: 3
+    note: A shell-shocked lieutenant briefly guiding two soldiers through the trenches, playing exhausted resignation in a single unbroken scene.
+
+  - film: spectre
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: menacing
+    gateway: 3
+    note: A bureaucrat pushing to replace field agents with mass surveillance, playing procedural ambition as its own quiet threat.
+
+  - film: their-finest
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: comic
+    gateway: 3
+    note: A vain, self-regarding actor cast in a wartime propaganda film, playing wounded ego as pure, well-timed comic relief.
+
+  - film: pride-2014
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: warm
+    gateway: 4
+    note: A member of a gay rights group supporting striking Welsh miners, playing cautious solidarity warming into real, hard-won friendship.
+
+curated:
+  curator: house
+  rationale: The performance built entirely around exposed grief, then everywhere else the same precise intensity gets put to smaller use.
+  order:
+    - their-finest
+    - pride-2014
+    - spectre
+    - "1917"
+    - all-of-us-strangers

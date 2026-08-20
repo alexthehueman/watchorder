@@ -1,0 +1,56 @@
+slug: austin-butler
+kind: actor
+name: Austin Butler
+blurb: Disappeared so completely into a career-making impression that he's spent every role since proving it wasn't a fluke of mimicry but an actual, transferable instinct.
+
+films:
+  - film: elvis
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 3
+    note: A biopic tracing Elvis Presley's rise and unraveling through his manager's exploitative control, playing performance and genuine collapse as increasingly the same thing.
+
+  - film: the-bikeriders
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A magnetic, volatile member of a 1960s motorcycle club watching the group curdle from brotherhood into something more dangerous, playing danger as pure, unbothered cool.
+
+  - film: master-gardener
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: warm
+    gateway: 1
+    note: A meticulous horticulturalist hiding a violent past, playing rigid self-discipline warming into real mentorship of the estate owner's troubled grand-niece.
+
+  - film: dune-part-two
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: menacing
+    gateway: 3
+    note: A sadistic heir to a rival house, playing cold, theatrical menace as a deliberate contrast to the film's more restrained hero.
+
+  - film: once-upon-a-time-in-hollywood
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 3
+    note: A member of the Manson Family testing a stuntman's patience at his desert ranch home, playing entitled bravado that curdles into an absurd, uneasy comedy of manners before it curdles into something worse.
+
+curated:
+  curator: house
+  rationale: The performance that announced total commitment first, then everywhere else that same discipline gets put to different use.
+  order:
+    - once-upon-a-time-in-hollywood
+    - dune-part-two
+    - the-bikeriders
+    - master-gardener
+    - elvis

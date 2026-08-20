@@ -1,0 +1,57 @@
+slug: aubrey-plaza
+kind: actor
+name: Aubrey Plaza
+blurb: A flat, deadpan affect she built a comic career on, then started aiming at roles where the same blankness reads as something closer to a warning sign.
+
+films:
+  - film: black-bear
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 1
+    note: An actress-turned-filmmaker whose weekend at a lake house plays out twice, once as tense drama and once as its own warped mirror, with neither version confirmed as the "true" one.
+
+  - film: emily-the-criminal
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A debt-saddled gig worker drawn into credit card fraud, playing calculated survival instinct without asking the film to make her sympathetic about it.
+
+  - film: ingrid-goes-west
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: unhinged
+    gateway: 3
+    note: A lonely woman who moves across the country to insert herself into an Instagram influencer's life, playing obsession as a logical extension of her deadpan detachment.
+
+  - film: happiest-season
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 4
+    note: A woman's confident, unresolved ex-girlfriend complicating a holiday visit to her family, playing dry provocation as pure comic mischief.
+
+  - film: childs-play-2019
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: restrained
+    gateway: 4
+    note: A single mother whose gift of a smart doll to her son turns out to be far more dangerous than the toy company advertised.
+
+curated:
+  curator: house
+  rationale: The two performances that show how far the deadpan flatness can curdle into genuine menace, then everywhere else it stays comic.
+  order:
+    - happiest-season
+    - childs-play-2019
+    - ingrid-goes-west
+    - emily-the-criminal
+    - black-bear

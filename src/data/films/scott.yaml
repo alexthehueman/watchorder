@@ -1,0 +1,31 @@
+# New films for Andrew Scott. Scales and anchors are in README.md ("The anchor rubric").
+#
+# All of Us Strangers already exists in mescal.yaml — tagged before he had an entity. Spectre
+# already exists in waltz.yaml — tagged before he had an entity.
+
+- id: "1917"
+  tmdb_id: null
+  title: "1917"
+  year: 2019
+  runtime: 119
+  director: Sam Mendes
+  tags: { opacity: 1, stillness: 1, bleakness: 5, humor: 1, acclaim: 0.82 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: pride-2014
+  tmdb_id: null
+  title: Pride
+  year: 2014
+  runtime: 120
+  director: Matthew Warchus
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.82 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: their-finest
+  tmdb_id: null
+  title: Their Finest
+  year: 2016
+  runtime: 117
+  director: Lone Scherfig
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }

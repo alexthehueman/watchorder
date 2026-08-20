@@ -1,0 +1,44 @@
+# New films for Aubrey Plaza. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Ingrid Goes West already exists in neon.yaml — tagged before she had an entity.
+
+- id: emily-the-criminal
+  tmdb_id: null
+  title: Emily the Criminal
+  year: 2022
+  runtime: 97
+  director: John Patton Ford
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: black-bear
+  tmdb_id: null
+  title: Black Bear
+  year: 2020
+  runtime: 104
+  director: Lawrence Michael Levine
+  tags:
+    opacity: 5 # the film restarts halfway through as an entirely different, contradictory version of the same story, never reconciled
+    stillness: 3
+    bleakness: 5
+    humor: 2
+    acclaim: 0.65
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: happiest-season
+  tmdb_id: null
+  title: Happiest Season
+  year: 2020
+  runtime: 102
+  director: Clea DuVall
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: childs-play-2019
+  tmdb_id: null
+  title: Child's Play
+  year: 2019
+  runtime: 90
+  director: Lars Klevberg
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 2, acclaim: 0.58 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
