@@ -1,0 +1,47 @@
+slug: michael-madsen
+kind: actor
+name: Michael Madsen
+blurb: A low, gravel-voiced screen presence who could make menace look almost lazy, at his best in roles that let the danger sit and simmer.
+
+films:
+  - film: reservoir-dogs
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 5
+    note: A psychotic gangster whose casual cruelty escalates into the film's most notorious scene, playing gleeful, unhinged sadism.
+
+  - film: kill-bill-vol-2
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A washed-up assassin hiding out in a trailer, resigned to whatever's finally caught up to him, playing weary, unbothered fatalism.
+
+  - film: donnie-brasco
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: menacing
+    gateway: 5
+    note: A mob captain whose loyalty comes with a short fuse, playing volatile, simmering threat.
+
+  - film: kill-bill-vol-1
+    signature: 3
+    showcase: 4
+    role_size: supporting
+    register: menacing
+    gateway: 3
+    note: The same assassin still in the game, negotiating a hit with cold professional detachment, playing calm, unhurried menace.
+
+curated:
+  curator: house
+  rationale: The scene he's most remembered for first, then the fuller arc of the same character, then the range outside Tarantino.
+  order:
+    - reservoir-dogs
+    - kill-bill-vol-1
+    - kill-bill-vol-2
+    - donnie-brasco
