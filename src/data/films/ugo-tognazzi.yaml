@@ -1,0 +1,35 @@
+# New films for Ugo Tognazzi. Scales and anchors are in README.md ("The anchor rubric").
+#
+# La Grande Bouffe already exists in mastroianni.yaml.
+
+- id: la-cage-aux-folles
+  tmdb_id: null
+  title: La Cage aux Folles
+  year: 1978
+  runtime: 91
+  director: Edouard Molinaro
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: amici-miei
+  tmdb_id: null
+  title: Amici Miei
+  year: 1975
+  runtime: 154
+  director: Mario Monicelli
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 3 # elaborate pranks pulled by men quietly coping with how disappointing their lives turned out
+    humor: 4
+    acclaim: 0.75
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: barbarella
+  tmdb_id: null
+  title: Barbarella
+  year: 1968
+  runtime: 98
+  director: Roger Vadim
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }

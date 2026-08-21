@@ -1,0 +1,22 @@
+# New films for Alberto Sordi. Scales and anchors are in README.md ("The anchor rubric").
+#
+# I Vitelloni already exists in fellini.yaml. La Grande Guerra already exists
+# in vittorio-gassman.yaml.
+
+- id: an-american-in-rome
+  tmdb_id: null
+  title: An American in Rome
+  year: 1954
+  runtime: 100
+  director: Steno
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 5, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: un-borghese-piccolo-piccolo
+  tmdb_id: null
+  title: Un Borghese Piccolo Piccolo
+  year: 1977
+  runtime: 108
+  director: Mario Monicelli
+  tags: { opacity: 1, stillness: 4, bleakness: 5, humor: 1, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

@@ -1,0 +1,47 @@
+slug: alberto-sordi
+kind: actor
+name: Alberto Sordi
+blurb: A hugely popular Italian comic actor whose blustery, self-deluded characters could turn genuinely poignant the moment reality caught up with them.
+
+films:
+  - film: i-vitelloni
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: comic
+    gateway: 4
+    note: One of five aimless young men stalling their way through adulthood in a small seaside town, playing overgrown, self-satisfied immaturity.
+
+  - film: la-grande-guerra
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: warm
+    gateway: 3
+    note: A cynical, self-preserving WWI soldier who finds a scrap of real courage when it finally matters, playing blustery bravado giving way to quiet decency.
+
+  - film: an-american-in-rome
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 5
+    note: A young Roman man so infatuated with American culture he can barely function in his own city, playing manic, oblivious comic delusion.
+
+  - film: un-borghese-piccolo-piccolo
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: menacing
+    gateway: 2
+    note: A mild, unremarkable bureaucrat whose grief over his son's murder curdles into methodical revenge, playing controlled fury breaking down into something darker.
+
+curated:
+  curator: house
+  rationale: The signature role first, then the range either side of it.
+  order:
+    - i-vitelloni
+    - an-american-in-rome
+    - la-grande-guerra
+    - un-borghese-piccolo-piccolo
