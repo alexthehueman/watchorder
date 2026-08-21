@@ -1,0 +1,32 @@
+# New films for Lance Henriksen. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Aliens already exists in weaver.yaml. The Terminator already exists in
+# arnold-schwarzenegger.yaml.
+
+- id: near-dark
+  tmdb_id: null
+  title: Near Dark
+  year: 1987
+  runtime: 94
+  director: Kathryn Bigelow
+  tags:
+    opacity: 2 # the word "vampire" is never said once, so what these people actually are stays deliberately open
+    stillness: 2
+    bleakness: 4
+    humor: 1
+    acclaim: 0.72
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: pumpkinhead
+  tmdb_id: null
+  title: Pumpkinhead
+  year: 1988
+  runtime: 86
+  director: Stan Winston
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 3 # a cautionary-tale shape underneath the horror, not a story without any way back
+    humor: 1
+    acclaim: 0.65
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }

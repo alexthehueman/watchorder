@@ -1,0 +1,18 @@
+# New films for Michael Biehn. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Terminator already exists in arnold-schwarzenegger.yaml. Aliens already
+# exists in weaver.yaml. Tombstone already exists in val-kilmer.yaml.
+
+- id: the-abyss
+  tmdb_id: null
+  title: The Abyss
+  year: 1989
+  runtime: 145
+  director: James Cameron
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 3 # a genuinely hopeful ending underneath the deep-sea dread
+    humor: 1
+    acclaim: 0.75
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

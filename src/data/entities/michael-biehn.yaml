@@ -1,0 +1,47 @@
+slug: michael-biehn
+kind: actor
+name: Michael Biehn
+blurb: An intense, wiry action lead who specialized in soldiers pushed past their limits, equally convincing devoted or coming apart.
+
+films:
+  - film: the-terminator
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: A soldier sent back through time to protect a woman he already loves from history books, playing desperate, unwavering devotion.
+
+  - film: aliens
+    signature: 4
+    showcase: 4
+    role_size: supporting
+    register: restrained
+    gateway: 5
+    note: A calm, competent marine corporal who becomes the last steady thing his squad has left, playing composed, dependable resolve.
+
+  - film: tombstone
+    signature: 3
+    showcase: 4
+    role_size: supporting
+    register: unhinged
+    gateway: 3
+    note: A brilliant, self-destructive gunslinger daring the world to finally kill him, playing volatile, death-courting bravado.
+
+  - film: the-abyss
+    signature: 3
+    showcase: 4
+    role_size: supporting
+    register: menacing
+    gateway: 2
+    note: A Navy SEAL whose paranoia under pressure curdles into something genuinely dangerous, playing unraveling, twitchy menace.
+
+curated:
+  curator: house
+  rationale: The signature role first, then the range either side of it.
+  order:
+    - the-terminator
+    - aliens
+    - tombstone
+    - the-abyss

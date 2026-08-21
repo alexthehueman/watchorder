@@ -1,0 +1,18 @@
+# New films for Donald Pleasence. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Halloween and Escape from New York already exist in carpenter.yaml. The Great
+# Escape already exists in steve-mcqueen.yaml.
+
+- id: you-only-live-twice
+  tmdb_id: null
+  title: You Only Live Twice
+  year: 1967
+  runtime: 117
+  director: Lewis Gilbert
+  tags:
+    opacity: 2 # how much of the world-domination scheme is bluff versus real capability stays deliberately vague
+    stillness: 3 # long stretches of plotting and surveillance between the set pieces
+    bleakness: 2
+    humor: 2
+    acclaim: 0.68
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
