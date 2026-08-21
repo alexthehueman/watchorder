@@ -1,0 +1,32 @@
+# New films for Brian Cox. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Adaptation already exists in cage.yaml. The Bourne Identity already exists in
+# damon.yaml.
+
+- id: manhunter
+  tmdb_id: null
+  title: Manhunter
+  year: 1986
+  runtime: 120
+  director: Michael Mann
+  tags:
+    opacity: 2 # a controlled, articulate killer who reveals almost nothing of what's actually driving him
+    stillness: 2
+    bleakness: 3
+    humor: 1
+    acclaim: 0.78
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: x2
+  tmdb_id: null
+  title: X2
+  year: 2003
+  runtime: 134
+  director: Bryan Singer
+  tags:
+    opacity: 1
+    stillness: 1
+    bleakness: 2 # a blockbuster ending, whatever the cost along the way
+    humor: 2
+    acclaim: 0.78
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

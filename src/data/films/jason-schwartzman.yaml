@@ -1,0 +1,13 @@
+# New films for Jason Schwartzman. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Rushmore and The Life Aquatic with Steve Zissou already exist in murray.yaml.
+# Marie Antoinette already exists in dunst.yaml.
+
+- id: the-darjeeling-limited
+  tmdb_id: null
+  title: The Darjeeling Limited
+  year: 2007
+  runtime: 91
+  director: Wes Anderson
+  tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 3, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }

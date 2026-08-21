@@ -1,0 +1,18 @@
+# New films for Luke Wilson. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Royal Tenenbaums already exists in hackman.yaml. Old School already exists
+# in ferrell.yaml. Legally Blonde already exists in witherspoon.yaml.
+
+- id: bottle-rocket
+  tmdb_id: null
+  title: Bottle Rocket
+  year: 1996
+  runtime: 91
+  director: Wes Anderson
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 2
+    humor: 3 # a gentler, more melancholic comedy than the caper premise suggests
+    acclaim: 0.68
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
