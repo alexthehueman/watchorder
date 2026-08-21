@@ -1,0 +1,42 @@
+slug: wes-craven
+kind: director
+name: Wes Craven
+blurb: The genre's most self-aware architect, forever finding a new way to make the audience complicit in what it came to see.
+
+films:
+  - film: a-nightmare-on-elm-street
+    signature: 5
+    must_see: true
+    gateway: 5
+    note: A dream demon starts killing teenagers in their sleep, and staying awake stops being optional.
+
+  - film: scream
+    signature: 5
+    must_see: true
+    gateway: 5
+    note: A masked killer stalks a small town full of teenagers who have all seen enough horror movies to know the rules, and it doesn't save them.
+
+  - film: wes-cravens-new-nightmare
+    signature: 3
+    gateway: 2
+    note: The cast and crew of the original Elm Street films find themselves stalked by a version of Freddy that's escaped the franchise entirely.
+
+  - film: red-eye
+    signature: 3
+    gateway: 4
+    note: A hotel manager on a red-eye flight discovers the stranger next to her is there specifically for her, and the plane isn't landing until she cooperates.
+
+  - film: the-last-house-on-the-left
+    signature: 3
+    gateway: 1
+    note: Two teenage girls fall into the hands of a group of escaped convicts, who then unknowingly seek shelter with one victim's own parents.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - a-nightmare-on-elm-street
+    - scream
+    - red-eye
+    - wes-cravens-new-nightmare
+    - the-last-house-on-the-left

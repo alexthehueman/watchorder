@@ -1,0 +1,22 @@
+# New films for Wes Craven. Scales and anchors are in README.md ("The anchor rubric").
+#
+# A Nightmare on Elm Street and Wes Craven's New Nightmare already exist in
+# robert-englund.yaml. Red Eye already exists in cillian-murphy.yaml.
+
+- id: scream
+  tmdb_id: null
+  title: Scream
+  year: 1996
+  runtime: 111
+  director: Wes Craven
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 4, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: the-last-house-on-the-left
+  tmdb_id: null
+  title: The Last House on the Left
+  year: 1972
+  runtime: 84
+  director: Wes Craven
+  tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.62 }
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }

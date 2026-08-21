@@ -1,0 +1,66 @@
+slug: sam-raimi
+kind: director
+name: Sam Raimi
+blurb: A camera that never stops moving, splatstick horror turned pure joy, and a career-long insistence that a superhero movie can still be genuinely weird.
+
+films:
+  - film: spider-man-2
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: Peter Parker's double life finally collapses under its own weight, right as a scientist fuses himself to four sentient robotic arms.
+
+  - film: evil-dead-ii
+    signature: 5
+    must_see: true
+    gateway: 5
+    note: A cabin's sole survivor battles his own possessed hand and an army of demons, in a film that's basically a live-action cartoon by the end.
+
+  - film: spider-man
+    signature: 4
+    gateway: 5
+    note: A science-nerd teenager gets bitten by a genetically modified spider and has to figure out what that actually means before his city does.
+
+  - film: the-evil-dead
+    signature: 4
+    gateway: 3
+    note: Five friends read the wrong passage from the wrong book in the wrong cabin, and only one of them is walking out.
+
+  - film: a-simple-plan
+    signature: 4
+    gateway: 2
+    note: Two brothers find millions in a crashed plane and agree to keep it quiet, which is the last decision in the film anyone actually keeps.
+
+  - film: drag-me-to-hell
+    signature: 3
+    gateway: 4
+    note: A loan officer denies the wrong old woman a mortgage extension and gets cursed with three days to live before something drags her under.
+
+  - film: army-of-darkness
+    signature: 3
+    gateway: 3
+    note: A hapless shopping-mall clerk gets flung into medieval times and drafted into a war against the undead, mostly by accident.
+
+  - film: doctor-strange-in-the-multiverse-of-madness
+    signature: 3
+    gateway: 3
+    note: A sorcerer chases a young multiversal traveler across realities while a scorned Avenger hunts them both.
+
+  - film: spider-man-3
+    signature: 2
+    gateway: 1
+    note: Three villains, an alien symbiote, and a jazz-club dance number compete for space in the same overstuffed sequel.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - spider-man-2
+    - evil-dead-ii
+    - spider-man
+    - the-evil-dead
+    - a-simple-plan
+    - drag-me-to-hell
+    - army-of-darkness
+    - doctor-strange-in-the-multiverse-of-madness
+    - spider-man-3

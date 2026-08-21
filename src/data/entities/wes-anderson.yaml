@@ -1,0 +1,66 @@
+slug: wes-anderson
+kind: director
+name: Wes Anderson
+blurb: Symmetrical frames, deadpan delivery, and grief hiding in plain sight underneath every carefully arranged diorama.
+
+films:
+  - film: the-grand-budapest-hotel
+    signature: 5
+    must_see: true
+    gateway: 5
+    note: A hotel concierge and his protege get tangled in a stolen painting, a prison break, and the last gasp of a vanishing Europe.
+
+  - film: rushmore
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A precocious prep-school overachiever wages a two-front war for a teacher's affection and his own sense of importance.
+
+  - film: the-royal-tenenbaums
+    signature: 5
+    gateway: 4
+    note: A family of former child prodigies reassembles under one roof when their estranged father announces he's dying, which isn't true.
+
+  - film: isle-of-dogs
+    signature: 3
+    gateway: 4
+    note: A boy flies alone into a trash-island quarantine zone to find his exiled dog, and picks up a pack of strays along the way.
+
+  - film: bottle-rocket
+    signature: 3
+    gateway: 3
+    note: Two friends, fresh out of a mental hospital and a suburb respectively, plan an ambitious crime spree they're comically unequipped for.
+
+  - film: the-darjeeling-limited
+    signature: 3
+    gateway: 3
+    note: Three estranged brothers take a "spiritual" train journey across India that goes about as well as their actual relationship.
+
+  - film: the-life-aquatic-with-steve-zissou
+    signature: 3
+    gateway: 2
+    note: An aging oceanographer sets out to find and kill the shark that ate his best friend, with a documentary crew and a possible son in tow.
+
+  - film: the-french-dispatch
+    signature: 3
+    gateway: 2
+    note: The final issue of an American magazine's Paris bureau, told as three unrelated stories bound together by one editor's death.
+
+  - film: asteroid-city
+    signature: 3
+    gateway: 1
+    note: A play about a stargazing convention interrupted by an alien, nested inside a making-of documentary about the play itself.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - the-grand-budapest-hotel
+    - rushmore
+    - the-royal-tenenbaums
+    - isle-of-dogs
+    - bottle-rocket
+    - the-darjeeling-limited
+    - the-life-aquatic-with-steve-zissou
+    - the-french-dispatch
+    - asteroid-city

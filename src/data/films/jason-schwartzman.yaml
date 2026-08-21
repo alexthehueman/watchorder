@@ -9,5 +9,10 @@
   year: 2007
   runtime: 91
   director: Wes Anderson
-  tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 3, acclaim: 0.72 }
+  tags:
+    opacity: 2 # the brothers' father's funeral only surfaces gradually, in flashback, well after the reasons for the rift do
+    stillness: 4 # long, quiet stretches of train travel between the incidents
+    bleakness: 4 # a real death and a real estrangement sit underneath the deadpan comic surface
+    humor: 3
+    acclaim: 0.72
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }

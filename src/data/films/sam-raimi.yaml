@@ -1,0 +1,24 @@
+# New films for Sam Raimi. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Evil Dead, Evil Dead II, and Army of Darkness already exist in
+# bruce-campbell.yaml. Spider-Man already exists in dafoe.yaml. Spider-Man 2
+# and Spider-Man 3 already exist in jk-simmons.yaml. Doctor Strange in the
+# Multiverse of Madness already exists in olsen.yaml.
+
+- id: a-simple-plan
+  tmdb_id: null
+  title: A Simple Plan
+  year: 1998
+  runtime: 121
+  director: Sam Raimi
+  tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.82 }
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: drag-me-to-hell
+  tmdb_id: null
+  title: Drag Me to Hell
+  year: 2009
+  runtime: 99
+  director: Sam Raimi
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 4, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 0 }
