@@ -1,0 +1,66 @@
+slug: james-cameron
+kind: director
+name: James Cameron
+blurb: Blockbuster clarity taken as far as it goes — huge, expensive, technically obsessive spectacle built around stories that are never once hard to follow.
+
+films:
+  - film: terminator-2-judgment-day
+    signature: 5
+    must_see: true
+    gateway: 5
+    note: The killing machine from the first film is reprogrammed and sent back to protect the boy he was once sent to kill, from a newer, better model that can't be stopped the same way.
+
+  - film: aliens
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: Ripley returns to the planet where her crew first found the creature, this time with a squad of marines, and finds a colony that's already gone quiet.
+
+  - film: titanic
+    signature: 4
+    gateway: 4
+    note: A penniless artist and a young woman trapped in her engagement fall for each other aboard the "unsinkable" ship, on the one voyage it will ever make.
+
+  - film: the-terminator
+    signature: 4
+    gateway: 3
+    note: A machine sent back from a future war has one job — kill the woman whose unborn son will lead the resistance — and a soldier sent back the same way has to stop it.
+
+  - film: avatar
+    signature: 3
+    gateway: 4
+    note: A paralyzed marine piloting a remote alien body falls for the world he was sent to help strip-mine, and for the people who are about to lose it.
+
+  - film: the-abyss
+    signature: 3
+    gateway: 2
+    note: A civilian oil-rig crew is recruited to help recover a sunken submarine, and finds something at the bottom of the trench that isn't part of the recovery mission at all.
+
+  - film: true-lies
+    signature: 2
+    gateway: 4
+    note: A secret agent who's kept his job hidden from his wife for fifteen years has to bring her into his world all at once when a nuclear terror plot crosses paths with both their lives.
+
+  - film: avatar-the-way-of-water
+    signature: 2
+    gateway: 1
+    note: Years after the first film, the same family goes into hiding with a reef-dwelling clan when the humans they fought off the first time come back for a second try.
+
+  - film: avatar-fire-and-ash
+    signature: 2
+    gateway: 1
+    note: A newly introduced, openly hostile Na'vi clan forces the family into a war they can no longer avoid, on top of the humans they were already fighting.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - terminator-2-judgment-day
+    - aliens
+    - titanic
+    - the-terminator
+    - avatar
+    - the-abyss
+    - true-lies
+    - avatar-the-way-of-water
+    - avatar-fire-and-ash

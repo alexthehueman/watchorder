@@ -1,0 +1,61 @@
+# New films for Brian De Palma. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Untouchables already exists in costner.yaml. Scarface already exists in
+# pacino.yaml. Carrie already exists in spacek.yaml. Mission Impossible already exists
+# in ving-rhames.yaml.
+
+- id: blow-out
+  tmdb_id: null
+  title: Blow Out
+  year: 1981
+  runtime: 107
+  director: Brian De Palma
+  tags:
+    opacity: 2
+    stillness: 2
+    bleakness: 5 # a conspiracy thriller that ends about as far from a rescue as it's possible to get
+    humor: 1
+    acclaim: 0.82
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: dressed-to-kill
+  tmdb_id: null
+  title: Dressed to Kill
+  year: 1980
+  runtime: 105
+  director: Brian De Palma
+  tags:
+    opacity: 3 # Hitchcockian misdirection about who's actually being followed, and by whom, for most of the runtime
+    stillness: 2
+    bleakness: 4
+    humor: 2 # a campy, self-aware wit runs under the giallo-style shocks
+    acclaim: 0.68
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 2 }
+
+- id: body-double
+  tmdb_id: null
+  title: Body Double
+  year: 1984
+  runtime: 114
+  director: Brian De Palma
+  tags:
+    opacity: 3 # what he's actually witnessing through the telescope keeps turning out to be staged for him specifically
+    stillness: 2
+    bleakness: 4
+    humor: 2
+    acclaim: 0.62
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 2 }
+
+- id: carlitos-way
+  tmdb_id: null
+  title: Carlito's Way
+  year: 1993
+  runtime: 144
+  director: Brian De Palma
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 5 # doomed from its opening frame, and the film never once pretends otherwise
+    humor: 1
+    acclaim: 0.82
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }

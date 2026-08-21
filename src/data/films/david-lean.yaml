@@ -1,0 +1,34 @@
+# New films for David Lean. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Great Expectations, Oliver Twist, and The Bridge on the River Kwai already exist in
+# guinness.yaml. Summertime already exists in hepburn-katharine.yaml. Doctor Zhivago
+# already exists in kinski.yaml. Ryan's Daughter already exists in mitchum.yaml.
+# Lawrence of Arabia already exists in otoole.yaml.
+
+- id: brief-encounter
+  tmdb_id: null
+  title: Brief Encounter
+  year: 1945
+  runtime: 86
+  director: David Lean
+  tags:
+    opacity: 1
+    stillness: 4 # an entire affair conducted almost entirely in what two people don't let themselves say out loud
+    bleakness: 3
+    humor: 1
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: a-passage-to-india
+  tmdb_id: null
+  title: A Passage to India
+  year: 1984
+  runtime: 164
+  director: David Lean
+  tags:
+    opacity: 2 # what actually happened in the caves stays genuinely unresolved, for the characters and for the film
+    stillness: 3
+    bleakness: 4
+    humor: 1
+    acclaim: 0.75
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }

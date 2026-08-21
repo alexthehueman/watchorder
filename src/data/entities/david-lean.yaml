@@ -1,0 +1,66 @@
+slug: david-lean
+kind: director
+name: David Lean
+blurb: Vast desert and steppe epics built around people trying to hold onto something private and quiet, filmed with the same patience whether the scale is a train platform or an empire.
+
+films:
+  - film: lawrence-of-arabia
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A British officer sent to assess an Arab revolt against the Ottomans becomes the figure who leads it, and the desert slowly remakes him into someone his own command no longer recognizes.
+
+  - film: the-bridge-on-the-river-kwai
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A British colonel in a Japanese POW camp throws himself into building the enemy's bridge with such disciplined pride that he stops noticing what he's actually helping win.
+
+  - film: brief-encounter
+    signature: 4
+    gateway: 4
+    note: A married woman and a married doctor meet by chance at a train station and fall into a love affair conducted almost entirely in stolen platform minutes, never once consummated.
+
+  - film: doctor-zhivago
+    signature: 4
+    gateway: 3
+    note: A poet and physician's decades-long devotion to one woman survives revolution, war, and two marriages, refracted through his half-brother's search for the daughter he never knew existed.
+
+  - film: great-expectations-1946
+    signature: 3
+    gateway: 5
+    note: An orphan boy raised by his sister is anonymously funded into gentleman's society, and spends years assuming he knows exactly who to thank for it.
+
+  - film: a-passage-to-india
+    signature: 3
+    gateway: 2
+    note: An Englishwoman's accusation against an Indian doctor during a cave expedition splits a colonial town along every fault line it had been pretending not to have.
+
+  - film: oliver-twist-1948
+    signature: 2
+    gateway: 4
+    note: An orphan escapes the workhouse for London, only to be taken in by a gang of child pickpockets run by a man with much worse plans for him than picking pockets.
+
+  - film: summertime
+    signature: 2
+    gateway: 3
+    note: An unmarried American secretary on her first trip to Venice falls for a charming local shopkeeper who turns out to already have a wife.
+
+  - film: ryans-daughter
+    signature: 2
+    gateway: 1
+    note: A schoolteacher's new wife in a small Irish village falls for a shell-shocked British officer stationed there during the Easter Rising, and the whole town notices.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - lawrence-of-arabia
+    - the-bridge-on-the-river-kwai
+    - brief-encounter
+    - doctor-zhivago
+    - great-expectations-1946
+    - a-passage-to-india
+    - oliver-twist-1948
+    - summertime
+    - ryans-daughter

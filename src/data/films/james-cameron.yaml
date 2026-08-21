@@ -1,0 +1,28 @@
+# New films for James Cameron. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Terminator, Terminator 2, and True Lies already exist in arnold-schwarzenegger.yaml.
+# Titanic already exists in dicaprio.yaml. The Abyss already exists in michael-biehn.yaml.
+# Aliens and Avatar already exist in weaver.yaml.
+
+- id: avatar-the-way-of-water
+  tmdb_id: null
+  title: "Avatar: The Way of Water"
+  year: 2022
+  runtime: 192
+  director: James Cameron
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+
+- id: avatar-fire-and-ash
+  tmdb_id: null
+  title: "Avatar: Fire and Ash"
+  year: 2025
+  runtime: 195
+  director: James Cameron
+  tags:
+    opacity: 2 # what actually drives the new clan's hostility stays withheld well into the film
+    stillness: 2
+    bleakness: 4 # a new, openly hostile Na'vi clan pushes the saga into darker territory than the first two entries
+    humor: 2
+    acclaim: 0.70
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }

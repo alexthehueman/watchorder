@@ -1,0 +1,60 @@
+slug: brian-de-palma
+kind: director
+name: Brian De Palma
+blurb: Hitchcock's tricks pushed past good taste on purpose — split diopters, extended set-pieces, and a camera that's always a little too interested in who's watching whom.
+
+films:
+  - film: scarface
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A Cuban refugee claws his way from dishwasher to Miami's biggest cocaine kingpin, and the film stretches his rise and fall out until "excess" stops being a strong enough word.
+
+  - film: carrie-1976
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A bullied, sheltered teenager discovers she has telekinetic powers right as her classmates plan the prom-night humiliation that finally pushes her to use them.
+
+  - film: the-untouchables
+    signature: 4
+    gateway: 5
+    note: A by-the-book Treasury agent assembles a small, incorruptible team to bring down Al Capone in Prohibition-era Chicago, one violent setback at a time.
+
+  - film: mission-impossible
+    signature: 3
+    gateway: 5
+    note: An IMF agent framed for his own team's massacre has to figure out who set him up and clear his name, starting with a vault heist inside CIA headquarters itself.
+
+  - film: carlitos-way
+    signature: 3
+    gateway: 3
+    note: A Puerto Rican gangster paroled early and determined to go straight keeps getting pulled back in by the one man he owes his freedom to.
+
+  - film: blow-out
+    signature: 3
+    gateway: 2
+    note: A movie sound engineer recording effects late one night accidentally captures audio proof that a car crash killing a presidential candidate wasn't an accident at all.
+
+  - film: dressed-to-kill
+    signature: 2
+    gateway: 1
+    note: A woman's afternoon affair ends in her murder in an elevator, witnessed by a call girl who becomes the killer's next target while a detective closes in.
+
+  - film: body-double
+    signature: 2
+    gateway: 2
+    note: An out-of-work actor house-sitting a stranger's apartment starts watching his beautiful neighbor through a telescope every night, and one night he watches her get murdered.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - scarface
+    - carrie-1976
+    - the-untouchables
+    - mission-impossible
+    - carlitos-way
+    - blow-out
+    - dressed-to-kill
+    - body-double
