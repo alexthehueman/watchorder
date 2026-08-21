@@ -1,0 +1,60 @@
+slug: pedro-almodovar
+kind: director
+name: Pedro Almodovar
+blurb: Saturated color, women in crisis, and melodrama played with total sincerity right up until it turns, without warning, genuinely funny.
+
+films:
+  - film: all-about-my-mother
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A mother travels to Barcelona after her son's death, searching for the father he never knew, and finds an unlikely found family instead.
+
+  - film: talk-to-her
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: Two men form an unlikely friendship while caring for the comatose women they each love, and one of them takes "caring" much further than it should go.
+
+  - film: volver
+    signature: 4
+    gateway: 5
+    note: A woman's dead mother appears to be back among the living, right as a body needs burying and nobody in the family can afford any more secrets.
+
+  - film: women-on-the-verge-of-a-nervous-breakdown
+    signature: 4
+    gateway: 5
+    note: A woman spikes a pitcher of gazpacho with sleeping pills to keep her ex from leaving, and her apartment fills up with everyone else's chaos too.
+
+  - film: pain-and-glory
+    signature: 4
+    gateway: 3
+    note: An ailing filmmaker reconnects with his past collaborators and his own memories while barely able to work anymore.
+
+  - film: parallel-mothers
+    signature: 3
+    gateway: 3
+    note: Two women who give birth on the same day form a friendship neither can maintain once a maternity-ward mix-up finally surfaces.
+
+  - film: broken-embraces
+    signature: 3
+    gateway: 2
+    note: A blind screenwriter reconstructs a tragic love affair from years earlier, one carefully withheld detail at a time.
+
+  - film: the-skin-i-live-in
+    signature: 4
+    gateway: 1
+    note: A plastic surgeon keeps a mysterious patient confined to his estate, perfecting a synthetic skin on her for reasons the film withholds as long as it can.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - all-about-my-mother
+    - talk-to-her
+    - volver
+    - women-on-the-verge-of-a-nervous-breakdown
+    - pain-and-glory
+    - parallel-mothers
+    - broken-embraces
+    - the-skin-i-live-in

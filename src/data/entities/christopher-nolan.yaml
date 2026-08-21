@@ -1,0 +1,66 @@
+slug: christopher-nolan
+kind: director
+name: Christopher Nolan
+blurb: Time bent, folded, or run backward, in stories built around a structural puzzle that the emotional stakes never get to hide behind.
+
+films:
+  - film: inception
+    signature: 5
+    must_see: true
+    gateway: 5
+    note: A thief who steals secrets from inside people's dreams is offered one last job, planting an idea instead of stealing one, across dreams nested inside dreams.
+
+  - film: the-dark-knight
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: Batman, Gordon, and Harvey Dent take on an anarchist crime lord who has no demands and no plan beyond watching the city tear itself apart.
+
+  - film: interstellar
+    signature: 4
+    gateway: 4
+    note: A pilot leaves his children behind to search for a habitable planet through a wormhole, racing a relativity clock that ages everyone he loves faster than him.
+
+  - film: oppenheimer
+    signature: 4
+    gateway: 2
+    note: The physicist who built the atomic bomb spends the back half of his life defending, in a closed security hearing, the choices that made him famous.
+
+  - film: memento
+    signature: 4
+    gateway: 2
+    note: A man who can't form new memories hunts his wife's killer using notes and tattoos, and the film unfolds backward in step with his own confusion.
+
+  - film: dunkirk
+    signature: 3
+    gateway: 3
+    note: Soldiers trapped on a beach, a civilian boat crossing the channel to help, and a pilot running out of fuel, all told on three different timescales that converge at the end.
+
+  - film: tenet
+    signature: 3
+    gateway: 0
+    note: An operative is recruited into a shadow war fought with objects moving backward through time, and the film mostly declines to slow down and explain how.
+
+  - film: the-dark-knight-rises
+    signature: 2
+    gateway: 1
+    note: Years after taking the fall for Harvey Dent, Batman comes out of retirement when a masked mercenary threatens to level the city he's spent a decade trying to protect.
+
+  - film: batman-begins
+    signature: 3
+    gateway: 3
+    note: A young Bruce Wayne trains abroad with a secretive order before returning to Gotham to build the identity and the arsenal he'll need to fight its corruption.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - inception
+    - the-dark-knight
+    - interstellar
+    - oppenheimer
+    - memento
+    - dunkirk
+    - tenet
+    - the-dark-knight-rises
+    - batman-begins

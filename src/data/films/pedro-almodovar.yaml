@@ -1,0 +1,27 @@
+# New films for Pedro Almodovar. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Pain and Glory already exists in banderas.yaml. All About My Mother, Talk to
+# Her, Volver, Broken Embraces, and Parallel Mothers already exist in cruz.yaml.
+
+- id: women-on-the-verge-of-a-nervous-breakdown
+  tmdb_id: null
+  title: Women on the Verge of a Nervous Breakdown
+  year: 1988
+  runtime: 89
+  director: Pedro Almodovar
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 5, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: the-skin-i-live-in
+  tmdb_id: null
+  title: The Skin I Live In
+  year: 2011
+  runtime: 120
+  director: Pedro Almodovar
+  tags:
+    opacity: 4 # what the surgeon actually did to his captive patient, and why, is withheld until deep in
+    stillness: 3
+    bleakness: 5 # a genre-bending revenge thriller with none of the comedy's warmth
+    humor: 1
+    acclaim: 0.85
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 2 }

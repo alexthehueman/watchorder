@@ -1,0 +1,20 @@
+# New films for Christopher Nolan. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Inception, Dunkirk, and Oppenheimer already exist in cillian-murphy.yaml. The Dark
+# Knight Rises already exists in hathaway.yaml. Interstellar already exists in
+# mcconaughey.yaml. Tenet already exists in pattinson.yaml. The Dark Knight and Batman
+# Begins already exist in bale.yaml.
+
+- id: memento
+  tmdb_id: null
+  title: Memento
+  year: 2000
+  runtime: 113
+  director: Christopher Nolan
+  tags:
+    opacity: 5 # told in reverse order by a narrator who can't form new memories; the film withholds more than it ever confirms
+    stillness: 1
+    bleakness: 4
+    humor: 2 # Teddy's sardonic asides and the tattoo-instructions-to-self device carry a dry, ironic wit through an otherwise grim revenge plot
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

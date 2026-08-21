@@ -1,0 +1,20 @@
+# New films for Denis Villeneuve. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Arrival already exists in amy-adams.yaml. Sicario already exists in blunt.yaml.
+# Dune (2021) already exists in chalamet.yaml. Blade Runner 2049 already exists in
+# gosling.yaml. Enemy already exists in gyllenhaal.yaml. Prisoners already exists in
+# jackman.yaml. Dune: Part Two already exists in zendaya.yaml.
+
+- id: maelstrom
+  tmdb_id: null
+  title: Maelstrom
+  year: 2000
+  runtime: 87
+  director: Denis Villeneuve
+  tags:
+    opacity: 3 # narrated by a dying, philosophical fish; whether the ending is real or a fable stays open
+    stillness: 3
+    bleakness: 3 # a hit-and-run and its guilt, but played toward absurdist redemption rather than his usual dread
+    humor: 4 # the deadpan, philosophizing fish narration is the one genuinely funny idea in his filmography
+    acclaim: 0.65
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 1, sex: 1 }

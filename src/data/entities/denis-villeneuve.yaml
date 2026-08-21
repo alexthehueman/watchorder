@@ -1,0 +1,60 @@
+slug: denis-villeneuve
+kind: director
+name: Denis Villeneuve
+blurb: Vast, awed, and dread-soaked, in stories where the scale of the mystery always outpaces anyone's ability to control it.
+
+films:
+  - film: arrival
+    signature: 5
+    must_see: true
+    gateway: 5
+    note: A linguist is recruited to communicate with aliens who have parked twelve ships around the world, and the shape of their language turns out to be the whole point.
+
+  - film: blade-runner-2049
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: A blade runner uncovers a secret that could unravel what's left of society, decades after the original film's replicant hunt.
+
+  - film: sicario
+    signature: 4
+    gateway: 4
+    note: An idealistic FBI agent joins a black-ops task force targeting a drug cartel and quickly realizes she has no idea whose rules she's playing by.
+
+  - film: dune-2021
+    signature: 4
+    gateway: 4
+    note: The heir to a doomed noble house flees into the desert after his family is betrayed, and the film ends just as his path forward becomes clear.
+
+  - film: dune-part-two
+    signature: 4
+    gateway: 1
+    note: The heir joins the desert people who sheltered him and starts becoming the messianic figure the first film only gestured toward, at a cost the film doesn't let him ignore.
+
+  - film: prisoners
+    signature: 3
+    gateway: 4
+    note: A father takes the search for his missing daughter into his own hands after the police investigation stalls, and keeps going well past where it should have stopped.
+
+  - film: enemy
+    signature: 2
+    gateway: 0
+    note: A man spots his exact double in a movie and tracks him down, and the closer they get to each other the less either of them makes sense.
+
+  - film: maelstrom
+    signature: 2
+    gateway: 1
+    note: A woman fleeing a hit-and-run drifts through Montreal while a dying fish, gutted at a market, narrates her story from somewhere outside of it.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - arrival
+    - blade-runner-2049
+    - sicario
+    - dune-2021
+    - dune-part-two
+    - prisoners
+    - enemy
+    - maelstrom
