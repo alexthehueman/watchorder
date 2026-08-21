@@ -1,0 +1,47 @@
+slug: burt-young
+kind: actor
+name: Burt Young
+blurb: A stocky, gruff character actor equally convincing as a lovable underdog's brother-in-law or the seediest man in the room.
+
+films:
+  - film: chinatown
+    signature: 4
+    must_see: true
+    showcase: 4
+    role_size: supporting
+    register: menacing
+    gateway: 2
+    note: A grieving fisherman whose small, wounded anger opens the door to a much bigger conspiracy, playing raw, working-class grief.
+
+  - film: rocky
+    signature: 5
+    showcase: 5
+    role_size: lead
+    register: warm
+    gateway: 5
+    note: A meatpacker whose gruff exterior can't quite hide how much he needs his sister's boyfriend to actually make it, playing prickly, insecure affection.
+
+  - film: the-pope-of-greenwich-village
+    signature: 4
+    showcase: 4
+    role_size: supporting
+    register: unhinged
+    gateway: 3
+    note: A loan shark whose calm veneer snaps into real violence the moment he's crossed, playing volatile, menacing unpredictability.
+
+  - film: back-to-school
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: comic
+    gateway: 4
+    note: A working-class driver keeping a wealthy friend's chaotic new life in order, playing easygoing, deadpan comic support.
+
+curated:
+  curator: house
+  rationale: The most acclaimed role first, then the range either side of it.
+  order:
+    - chinatown
+    - rocky
+    - the-pope-of-greenwich-village
+    - back-to-school

@@ -1,0 +1,56 @@
+slug: john-cazale
+kind: actor
+name: John Cazale
+blurb: An actor who appeared in only five films in his entire career, and all five were nominated for Best Picture — a fragile, wounded presence who made weakness feel like the whole truth of a person.
+
+films:
+  - film: the-godfather-part-ii
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: supporting
+    register: unhinged
+    gateway: 2
+    note: A weak, resentful brother whose betrayal costs him everything, playing raw, desperate self-justification.
+
+  - film: the-godfather
+    signature: 5
+    showcase: 4
+    role_size: supporting
+    register: warm
+    gateway: 4
+    note: An overlooked son aching for a respect the family will never quite give him, playing wounded, needy devotion.
+
+  - film: dog-day-afternoon
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 5
+    note: A bank robber's eerily calm accomplice, unreadable even as the whole operation collapses, playing quiet, unsettling detachment.
+
+  - film: the-conversation
+    signature: 3
+    showcase: 4
+    role_size: supporting
+    register: menacing
+    gateway: 3
+    note: A surveillance technician's assistant whose easy confidence hides real menace, playing smug, quietly threatening authority.
+
+  - film: the-deer-hunter
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: unhinged
+    gateway: 3
+    note: A hot-headed friend whose bravado can't survive what the war does to the people he loves, playing volatile, insecure bluster.
+
+curated:
+  curator: house
+  rationale: The most acclaimed, defining performance first, then the range around it.
+  order:
+    - the-godfather-part-ii
+    - the-godfather
+    - dog-day-afternoon
+    - the-conversation
+    - the-deer-hunter

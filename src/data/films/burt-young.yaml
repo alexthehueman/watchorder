@@ -1,0 +1,27 @@
+# New films for Burt Young. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Rocky already exists in sylvester-stallone.yaml. Chinatown already exists in
+# nicholson.yaml.
+
+- id: the-pope-of-greenwich-village
+  tmdb_id: null
+  title: The Pope of Greenwich Village
+  year: 1984
+  runtime: 121
+  director: Stuart Rosenberg
+  tags:
+    opacity: 1
+    stillness: 3 # a slower-burn crime drama built around two friends' conversations more than incident
+    bleakness: 4
+    humor: 1
+    acclaim: 0.65
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: back-to-school
+  tmdb_id: null
+  title: Back to School
+  year: 1986
+  runtime: 94
+  director: Alan Metter
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.62 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
