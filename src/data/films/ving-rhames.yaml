@@ -1,0 +1,27 @@
+# New films for Ving Rhames. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Pulp Fiction already exists in tarantino.yaml. Con Air already exists in
+# malkovich.yaml.
+
+- id: mission-impossible
+  tmdb_id: null
+  title: Mission Impossible
+  year: 1996
+  runtime: 110
+  director: Brian De Palma
+  tags:
+    opacity: 3 # a plot built entirely around who the mole is, and the reveal keeps recontextualizing everything before it
+    stillness: 2
+    bleakness: 2
+    humor: 2
+    acclaim: 0.72
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: dawn-of-the-dead-2004
+  tmdb_id: null
+  title: Dawn of the Dead
+  year: 2004
+  runtime: 101
+  director: Zack Snyder
+  tags: { opacity: 1, stillness: 1, bleakness: 4, humor: 2, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
