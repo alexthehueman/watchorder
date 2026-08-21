@@ -1,0 +1,14 @@
+# New films for Maggie Smith. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Harry Potter and the Goblet of Fire already exists in fiennes.yaml. Harry Potter
+# and the Deathly Hallows Part 2 already exists in watson.yaml. Gosford Park already
+# exists in altman.yaml.
+
+- id: a-room-with-a-view
+  tmdb_id: null
+  title: A Room with a View
+  year: 1985
+  runtime: 117
+  director: James Ivory
+  tags: { opacity: 1, stillness: 3, bleakness: 1, humor: 4, acclaim: 0.80 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }

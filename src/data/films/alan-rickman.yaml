@@ -1,0 +1,20 @@
+# Films for Alan Rickman. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Harry Potter and the Goblet of Fire already exists in fiennes.yaml. Harry Potter
+# and the Deathly Hallows Part 2 already exists in watson.yaml. Die Hard already
+# exists in bruce-willis.yaml. Sense and Sensibility already exists in winslet.yaml.
+# Truly Madly Deeply below is his own — his breakout leading role, outside both corpora.
+
+- id: truly-madly-deeply
+  tmdb_id: null
+  title: Truly Madly Deeply
+  year: 1990
+  runtime: 107
+  director: Anthony Minghella
+  tags:
+    opacity: 2 # whether her dead partner's return is a real haunting or her own grief given shape is left open
+    stillness: 3
+    bleakness: 3
+    humor: 3
+    acclaim: 0.78
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

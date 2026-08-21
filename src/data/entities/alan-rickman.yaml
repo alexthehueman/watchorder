@@ -1,0 +1,56 @@
+slug: alan-rickman
+kind: actor
+name: Alan Rickman
+blurb: A velvet-voiced screen villain who could make cruelty sound like poetry, and who spent a decade quietly proving there was real feeling underneath it.
+
+films:
+  - film: die-hard
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: menacing
+    gateway: 5
+    note: A cultured, meticulously prepared terrorist-thief running rings around one cop, playing icy, urbane control.
+
+  - film: sense-and-sensibility
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: A quietly devoted suitor who has waited years to be noticed, playing patient, unshowy tenderness.
+
+  - film: harry-potter-and-the-goblet-of-fire
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: menacing
+    gateway: 3
+    note: A hostile potions master whose contempt for his students never lets up, playing sneering, needling cruelty.
+
+  - film: harry-potter-and-the-deathly-hallows-part-2
+    signature: 5
+    showcase: 5
+    role_size: supporting
+    register: warm
+    gateway: 2
+    note: The same man's decades of hidden devotion finally revealed in his last moments, playing wrenching, unguarded love.
+
+  - film: truly-madly-deeply
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A grieving woman's dead partner returned to her flat, playing tender, matter-of-fact devotion that never quite explains itself.
+
+curated:
+  curator: house
+  rationale: The career-defining villain first, then the range around him, saving the Harry Potter payoff for last.
+  order:
+    - die-hard
+    - sense-and-sensibility
+    - truly-madly-deeply
+    - harry-potter-and-the-goblet-of-fire
+    - harry-potter-and-the-deathly-hallows-part-2
