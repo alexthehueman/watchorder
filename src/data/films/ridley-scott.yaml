@@ -1,0 +1,21 @@
+# Films for Ridley Scott — all already tagged elsewhere, no new films needed.
+#
+# Alien already exists in weaver.yaml. Blade Runner already exists in ford-harrison.yaml.
+# Gladiator already exists in phoenix.yaml. Thelma and Louise already exists in
+# sarandon.yaml. The Martian already exists in damon.yaml. American Gangster already
+# exists in washington.yaml. Hannibal already exists in hopkins.yaml. Prometheus
+# already exists in theron.yaml.
+
+- id: black-hawk-down
+  tmdb_id: null
+  title: Black Hawk Down
+  year: 2001
+  runtime: 144
+  director: Ridley Scott
+  tags:
+    opacity: 1
+    stillness: 1 # a single mission that goes wrong and never lets up for the rest of the runtime
+    bleakness: 5
+    humor: 1
+    acclaim: 0.83
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }

@@ -1,0 +1,66 @@
+slug: darren-aronofsky
+kind: director
+name: Darren Aronofsky
+blurb: Obsession filmed as a slow physical and psychological collapse, in stories that treat addiction, ambition, and devotion as the same disease wearing different faces.
+
+films:
+  - film: black-swan
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A disciplined ballerina cast as the lead in Swan Lake starts losing her grip on which parts of her transformation into the role are real.
+
+  - film: requiem-for-a-dream
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: Four people chasing four different highs — heroin, diet pills, television fame — spiral toward the same winter, cut together to make the collapse feel simultaneous.
+
+  - film: the-wrestler
+    signature: 4
+    gateway: 5
+    note: A washed-up professional wrestler tries to rebuild a relationship with his estranged daughter while his body keeps telling him the ring is going to kill him.
+
+  - film: the-whale
+    signature: 3
+    gateway: 3
+    note: A reclusive, morbidly obese online writing instructor tries to reconnect with the daughter he abandoned years earlier, over the course of one final week.
+
+  - film: mother-2017
+    signature: 3
+    gateway: 1
+    note: A woman's quiet life with her poet husband is overrun, gradually and then all at once, by a stream of uninvited guests who won't leave.
+
+  - film: pi
+    signature: 3
+    gateway: 2
+    note: A reclusive mathematician believes he's found a number pattern underlying the universe, and both Wall Street and a Kabbalah sect want it from him for very different reasons.
+
+  - film: noah
+    signature: 2
+    gateway: 3
+    note: A man tasked by visions with building an ark ahead of a coming flood has to decide how far his understanding of that mission is allowed to go.
+
+  - film: the-fountain
+    signature: 2
+    gateway: 1
+    note: A scientist, a conquistador, and a space traveler — the same man across three timelines — all search for a way to keep the woman he loves from dying.
+
+  - film: caught-stealing
+    signature: 3
+    gateway: 5
+    note: A washed-up former ballplayer tending bar in New York gets dragged into a citywide chase after agreeing to watch his neighbor's cat for a few days.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - black-swan
+    - requiem-for-a-dream
+    - the-wrestler
+    - the-whale
+    - mother-2017
+    - pi
+    - noah
+    - the-fountain
+    - caught-stealing

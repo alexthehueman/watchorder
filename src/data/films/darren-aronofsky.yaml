@@ -1,0 +1,50 @@
+# New films for Darren Aronofsky. Scales and anchors are in README.md ("The anchor rubric").
+#
+# mother! already exists in bardem.yaml. The Whale already exists in brendan-fraser.yaml.
+# Black Swan already exists in cassel.yaml. Requiem for a Dream already exists in
+# ellen-burstyn.yaml. The Fountain already exists in jackman.yaml. Noah already exists
+# in russell-crowe.yaml. All six of those are tagged bleakness 5, humor 1 — a flat tie
+# on both axes at once. Pi, The Wrestler, and Caught Stealing are added specifically to
+# break it.
+
+- id: pi
+  tmdb_id: null
+  title: Pi
+  year: 1998
+  runtime: 84
+  director: Darren Aronofsky
+  tags:
+    opacity: 5 # whether the number he's found means anything or he's just spiraling stays genuinely unresolved
+    stillness: 2
+    bleakness: 5
+    humor: 1
+    acclaim: 0.78
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-wrestler
+  tmdb_id: null
+  title: The Wrestler
+  year: 2008
+  runtime: 109
+  director: Darren Aronofsky
+  tags:
+    opacity: 1
+    stillness: 3
+    bleakness: 4 # a human-scale tragedy rather than the apocalyptic or hallucinatory register the rest of his catalog runs at
+    humor: 2 # real, if grim, camaraderie in the locker-room scenes — the closest thing to warmth anywhere in his filmography
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: caught-stealing
+  tmdb_id: null
+  title: Caught Stealing
+  year: 2025
+  runtime: 107
+  director: Darren Aronofsky
+  tags:
+    opacity: 2
+    stillness: 2
+    bleakness: 2 # a crime caper with real danger, but played closer to pulpy comic chaos than his usual doom
+    humor: 4 # the first film in his catalog that's actually trying to be funny, not just grim with a joke in it
+    acclaim: 0.65
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

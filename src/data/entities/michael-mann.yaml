@@ -1,0 +1,59 @@
+slug: michael-mann
+kind: director
+name: Michael Mann
+blurb: Professionals doing precise, disciplined work on both sides of the law, shot with a cool, nocturnal glow that makes competence itself look dangerous.
+
+films:
+  - film: heat
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A career thief planning one last string of scores and the detective built to catch him circle each other for three hours before they finally sit down for coffee.
+
+  - film: collateral
+    signature: 4
+    gateway: 5
+    note: A cab driver picks up a contract killer who needs a ride to five stops across one night in Los Angeles, and never mentions what's waiting at each address.
+
+  - film: the-insider
+    signature: 4
+    gateway: 3
+    note: A tobacco-industry whistleblower and the producer trying to get his story on 60 Minutes both find out how far a corporation will go to keep him quiet.
+
+  - film: last-of-the-mohicans
+    signature: 3
+    gateway: 4
+    note: A frontiersman raised by Mohicans escorts two sisters through the French and Indian War, and falls for one of them along the way.
+
+  - film: manhunter
+    signature: 3
+    gateway: 2
+    note: An FBI profiler comes out of retirement to catch a serial killer by getting back inside the mind of the imprisoned cannibal who taught him how.
+
+  - film: miami-vice
+    signature: 3
+    gateway: 2
+    note: Two undercover detectives go deep enough into a drug-trafficking operation that the line between the job and the life starts to disappear entirely.
+
+  - film: ali
+    signature: 2
+    gateway: 3
+    note: A decade of Muhammad Ali's life, from the Liston fight through the exile over the draft to the Rumble in the Jungle, told with no framing device to soften any of it.
+
+  - film: blackhat
+    signature: 2
+    gateway: 1
+    note: A convicted hacker is released to help track down whoever used his old code to trigger a nuclear plant meltdown and manipulate global commodity markets.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - heat
+    - collateral
+    - the-insider
+    - last-of-the-mohicans
+    - manhunter
+    - miami-vice
+    - ali
+    - blackhat

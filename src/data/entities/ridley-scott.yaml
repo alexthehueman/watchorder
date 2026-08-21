@@ -1,0 +1,66 @@
+slug: ridley-scott
+kind: director
+name: Ridley Scott
+blurb: Enormous, tactile worlds built to hold whatever genre he's raiding that decade, from haunted spaceships to Roman arenas to Scottish whisky towns.
+
+films:
+  - film: alien
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: The crew of a commercial towing ship investigates a distress signal on a derelict craft and brings something back aboard with them that was never in the contract.
+
+  - film: blade-runner
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: A blade runner hunts down escaped replicants through a rain-soaked future Los Angeles, and the film is in no hurry to tell you why he should feel bad about it.
+
+  - film: gladiator
+    signature: 4
+    gateway: 5
+    note: A betrayed Roman general is sold into slavery and fights his way back up through the arena toward the men who murdered his family.
+
+  - film: the-martian
+    signature: 3
+    gateway: 5
+    note: An astronaut stranded alone on Mars has to science his way through supply shortages, dust storms, and NASA's own bureaucracy just to stay alive long enough to be rescued.
+
+  - film: thelma-and-louise
+    signature: 3
+    gateway: 4
+    note: A weekend fishing trip turns into a fugitive road spree after one of the two friends shoots a man who won't stop assaulting the other.
+
+  - film: american-gangster
+    signature: 3
+    gateway: 3
+    note: A Harlem drug kingpin builds an empire on a smuggling route nobody else thought to use, while the one honest cop in the city slowly closes in.
+
+  - film: hannibal
+    signature: 2
+    gateway: 2
+    note: Years after their first encounter, a disgraced FBI agent and an escaped Hannibal Lecter are drawn back toward each other by a wealthy survivor bent on revenge.
+
+  - film: prometheus
+    signature: 2
+    gateway: 1
+    note: A scientific expedition follows a star map left by humanity's possible creators to a distant moon, and finds out why that particular invitation should have stayed unanswered.
+
+  - film: black-hawk-down
+    signature: 4
+    gateway: 2
+    note: A routine raid to capture a Somali warlord's lieutenants turns into an overnight siege after two Black Hawk helicopters go down in the middle of the city.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - alien
+    - blade-runner
+    - gladiator
+    - the-martian
+    - thelma-and-louise
+    - american-gangster
+    - hannibal
+    - prometheus
+    - black-hawk-down
