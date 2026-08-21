@@ -1,0 +1,66 @@
+slug: david-fincher
+kind: director
+name: David Fincher
+blurb: Cold, exacting, and obsessive, in stories about people who won't stop pulling on a thread long after any sane person would have let go.
+
+films:
+  - film: se7en
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: Two detectives chase a serial killer staging murders around the seven deadly sins, and the ending is not the one anyone is braced for.
+
+  - film: fight-club
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: An insomniac office drone starts an underground fight club with a stranger he just met, and it stops being about fighting almost immediately.
+
+  - film: the-social-network
+    signature: 4
+    gateway: 5
+    note: The founding of Facebook told as a bitter falling-out between friends, reconstructed entirely through two competing depositions.
+
+  - film: gone-girl
+    signature: 4
+    gateway: 5
+    note: A wife goes missing on her fifth wedding anniversary, and her husband becomes the prime suspect in a case that isn't what it looks like from either side.
+
+  - film: zodiac
+    signature: 4
+    gateway: 2
+    note: A serial killer taunts the police and press with ciphers for years, and the film follows the investigators long after the case itself goes cold.
+
+  - film: the-girl-with-the-dragon-tattoo
+    signature: 3
+    gateway: 3
+    note: A disgraced journalist and a troubled hacker investigate a decades-old disappearance for a wealthy industrialist's family.
+
+  - film: panic-room
+    signature: 3
+    gateway: 4
+    note: A mother and daughter hide in their new house's safe room the same night three burglars break in specifically looking for what's inside it.
+
+  - film: the-curious-case-of-benjamin-button
+    signature: 3
+    gateway: 2
+    note: A man born elderly ages backward through the twentieth century, and the film treats the reversal as a fact of life rather than a gimmick.
+
+  - film: mank
+    signature: 3
+    gateway: 1
+    note: A washed-up, alcoholic screenwriter races to finish the script that will become Citizen Kane before the studio system decides he's finished.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - se7en
+    - fight-club
+    - the-social-network
+    - gone-girl
+    - zodiac
+    - the-girl-with-the-dragon-tattoo
+    - panic-room
+    - the-curious-case-of-benjamin-button
+    - mank

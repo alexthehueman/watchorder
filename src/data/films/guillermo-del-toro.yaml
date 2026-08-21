@@ -1,0 +1,32 @@
+# New films for Guillermo del Toro. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Pacific Rim already exists in elba.yaml. Nightmare Alley already exists in
+# mara.yaml. The Shape of Water already exists in spencer.yaml.
+
+- id: pans-labyrinth
+  tmdb_id: null
+  title: Pan's Labyrinth
+  year: 2006
+  runtime: 118
+  director: Guillermo del Toro
+  tags:
+    opacity: 3 # whether the fairy-tale world is real or a child's coping mechanism for Franco's Spain is never settled
+    stillness: 3
+    bleakness: 5
+    humor: 1
+    acclaim: 0.92
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
+
+- id: crimson-peak
+  tmdb_id: null
+  title: Crimson Peak
+  year: 2015
+  runtime: 119
+  director: Guillermo del Toro
+  tags:
+    opacity: 2 # whether the ghosts mean harm or are trying to warn her stays genuinely unclear
+    stillness: 2
+    bleakness: 3
+    humor: 2
+    acclaim: 0.68
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }

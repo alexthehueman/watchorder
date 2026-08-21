@@ -1,0 +1,42 @@
+slug: guillermo-del-toro
+kind: director
+name: Guillermo del Toro
+blurb: Monsters treated with more tenderness than the humans around them, in stories that never once apologize for believing in fairy tales.
+
+films:
+  - film: pans-labyrinth
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: A girl in fascist Spain retreats into a brutal fairy-tale underworld that may or may not be entirely in her own head.
+
+  - film: the-shape-of-water
+    signature: 5
+    must_see: true
+    gateway: 5
+    note: A mute cleaning woman at a Cold War research facility falls in love with the amphibious creature being held captive there.
+
+  - film: nightmare-alley
+    signature: 3
+    gateway: 3
+    note: A carnival grifter cons his way up to high-society mentalism, and finds out the wealthy have their own, much crueler version of the con.
+
+  - film: crimson-peak
+    signature: 3
+    gateway: 4
+    note: A young writer marries into a crumbling gothic estate that turns out to be exactly as haunted as it looks, for reasons that get worse the longer she stays.
+
+  - film: pacific-rim
+    signature: 3
+    gateway: 5
+    note: Giant robots pilot themselves into hand-to-hand combat with giant sea monsters, and it's played with total sincerity from start to finish.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - pans-labyrinth
+    - the-shape-of-water
+    - crimson-peak
+    - nightmare-alley
+    - pacific-rim

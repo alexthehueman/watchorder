@@ -1,0 +1,21 @@
+# New films for David Fincher. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Zodiac already exists in downey.yaml. Panic Room already exists in
+# foster.yaml. The Social Network already exists in garfield.yaml. The
+# Curious Case of Benjamin Button already exists in henson.yaml. The Girl
+# with the Dragon Tattoo already exists in mara.yaml. Gone Girl already
+# exists in pike.yaml. Se7en and Fight Club already exist in pitt.yaml.
+
+- id: mank
+  tmdb_id: null
+  title: Mank
+  year: 2020
+  runtime: 131
+  director: David Fincher
+  tags:
+    opacity: 2 # a fractured, flashback-driven structure mirroring the screenplay its subject is fighting to write
+    stillness: 3
+    bleakness: 3
+    humor: 3
+    acclaim: 0.68
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
