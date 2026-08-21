@@ -1,0 +1,26 @@
+# New films for Barry Fitzgerald. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Quiet Man and How Green Was My Valley already exist in ford.yaml.
+
+- id: going-my-way
+  tmdb_id: null
+  title: Going My Way
+  year: 1944
+  runtime: 126
+  director: Leo McCarey
+  tags: { opacity: 1, stillness: 3, bleakness: 2, humor: 3, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: and-then-there-were-none
+  tmdb_id: null
+  title: And Then There Were None
+  year: 1945
+  runtime: 98
+  director: Rene Clair
+  tags:
+    opacity: 3 # a classic whodunit that withholds the killer's identity by design
+    stillness: 2
+    bleakness: 4
+    humor: 2
+    acclaim: 0.78
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

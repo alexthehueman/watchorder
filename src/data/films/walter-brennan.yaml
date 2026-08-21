@@ -1,0 +1,18 @@
+# Films for Walter Brennan. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Rio Bravo and Sergeant York already exist in hawks.yaml. My Darling
+# Clementine already exists in ford.yaml. The Westerner below is his own.
+
+- id: the-westerner
+  tmdb_id: null
+  title: The Westerner
+  year: 1940
+  runtime: 100
+  director: William Wyler
+  tags:
+    opacity: 2 # a self-appointed hanging judge whose next move, mercy or the rope, is never predictable
+    stillness: 2
+    bleakness: 3
+    humor: 3
+    acclaim: 0.72
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

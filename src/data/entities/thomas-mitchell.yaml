@@ -1,0 +1,47 @@
+slug: thomas-mitchell
+kind: actor
+name: Thomas Mitchell
+blurb: One of Hollywood's great utility players, equally convincing as a drunken outcast, a warmly exasperated father, or a hard-drinking frontier doctor.
+
+films:
+  - film: stagecoach
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 5
+    note: A disgraced, alcoholic doctor rediscovering his purpose over one dangerous journey, playing self-loathing wit giving way to real courage.
+
+  - film: gone-with-the-wind
+    signature: 4
+    showcase: 4
+    role_size: supporting
+    register: warm
+    gateway: 4
+    note: A hot-tempered but devoted father determined to hold his land together at any cost, playing blustery, protective love.
+
+  - film: its-a-wonderful-life
+    signature: 3
+    showcase: 4
+    role_size: supporting
+    register: comic
+    gateway: 3
+    note: A forgetful, well-meaning uncle whose one mistake threatens to ruin everything, playing bumbling, guilt-stricken panic.
+
+  - film: only-angels-have-wings
+    signature: 3
+    showcase: 4
+    role_size: supporting
+    register: restrained
+    gateway: 2
+    note: An aging pilot hiding failing eyesight from the crew that depends on him, playing stoic, unspoken dread.
+
+curated:
+  curator: house
+  rationale: The Oscar-winning role first, then the range either side of it.
+  order:
+    - stagecoach
+    - gone-with-the-wind
+    - its-a-wonderful-life
+    - only-angels-have-wings
