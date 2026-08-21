@@ -1,0 +1,47 @@
+slug: kurtwood-smith
+kind: actor
+name: Kurtwood Smith
+blurb: A sharp-featured character actor who made a career out of authority figures, from a gleefully sadistic crime boss to a Klingon statesman to an overbearing father.
+
+films:
+  - film: robocop
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 5
+    note: A sadistic crime boss who takes genuine pleasure in every act of cruelty, playing gleeful, remorseless brutality.
+
+  - film: dead-poets-society
+    signature: 4
+    showcase: 4
+    role_size: supporting
+    register: menacing
+    gateway: 4
+    note: A controlling father who cannot tolerate his son wanting a life of his own, playing cold, unyielding authority.
+
+  - film: star-trek-vi-the-undiscovered-country
+    signature: 3
+    showcase: 4
+    role_size: supporting
+    register: restrained
+    gateway: 2
+    note: A Klingon chancellor risking everything on a fragile peace, playing dignified, principled resolve.
+
+  - film: deep-cover
+    signature: 3
+    showcase: 4
+    role_size: supporting
+    register: menacing
+    gateway: 3
+    note: A corrupt federal official running his own agenda underneath a supposedly clean operation, playing smooth, self-serving duplicity.
+
+curated:
+  curator: house
+  rationale: The signature role first, then the range either side of it.
+  order:
+    - robocop
+    - dead-poets-society
+    - deep-cover
+    - star-trek-vi-the-undiscovered-country

@@ -1,0 +1,47 @@
+slug: bruce-campbell
+kind: actor
+name: Bruce Campbell
+blurb: A square-jawed, endlessly game B-movie icon whose gift for physical comedy turned a reluctant demon-fighter into one of horror's most beloved leading men.
+
+films:
+  - film: evil-dead-ii
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: A cabin's sole survivor battling his own possessed hand and an army of demons, playing manic, over-the-top slapstick chaos.
+
+  - film: the-evil-dead
+    signature: 5
+    showcase: 4
+    role_size: lead
+    register: unhinged
+    gateway: 4
+    note: A college friend fighting for his life as an ancient evil picks off everyone around him, playing desperate, panicked survival.
+
+  - film: army-of-darkness
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: comic
+    gateway: 3
+    note: A hapless shopping-mall clerk flung into medieval times to fight the undead, playing swaggering, self-satisfied comic bravado.
+
+  - film: bubba-ho-tep
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: warm
+    gateway: 5
+    note: An aging nursing-home resident who may or may not really be Elvis, battling a soul-sucking mummy, playing rueful, melancholic dignity.
+
+curated:
+  curator: house
+  rationale: The signature role first, then the range either side of it.
+  order:
+    - evil-dead-ii
+    - the-evil-dead
+    - army-of-darkness
+    - bubba-ho-tep

@@ -1,0 +1,27 @@
+# New films for Kurtwood Smith. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Dead Poets Society already exists in hawke.yaml. Deep Cover already exists in
+# fishburne.yaml.
+
+- id: robocop
+  tmdb_id: null
+  title: RoboCop
+  year: 1987
+  runtime: 102
+  director: Paul Verhoeven
+  tags: { opacity: 1, stillness: 1, bleakness: 4, humor: 2, acclaim: 0.82 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: star-trek-vi-the-undiscovered-country
+  tmdb_id: null
+  title: "Star Trek VI: The Undiscovered Country"
+  year: 1991
+  runtime: 113
+  director: Nicholas Meyer
+  tags:
+    opacity: 2 # a political assassination-conspiracy plot laid over the usual Star Trek adventure
+    stillness: 3
+    bleakness: 3
+    humor: 1
+    acclaim: 0.78
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }

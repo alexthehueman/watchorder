@@ -1,0 +1,47 @@
+slug: john-saxon
+kind: actor
+name: John Saxon
+blurb: A steady, square-jawed leading man who spent as much time as a martial-arts hero as he did the skeptical cop or worried father in genre horror.
+
+films:
+  - film: enter-the-dragon
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 5
+    note: A gambler-fighter recruited into a deadly martial-arts tournament, playing composed, disciplined integrity.
+
+  - film: black-christmas
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: A detective racing to find a killer stalking a sorority house before Christmas, playing focused, mounting urgency.
+
+  - film: a-nightmare-on-elm-street
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: warm
+    gateway: 3
+    note: A skeptical police lieutenant unable to see the real danger his daughter is in, playing gruff, protective worry.
+
+  - film: battle-beyond-the-stars
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: menacing
+    gateway: 4
+    note: A ruthless alien warlord terrorizing a peaceful farming planet, playing campy, theatrical villainy.
+
+curated:
+  curator: house
+  rationale: The signature role first, then the range either side of it.
+  order:
+    - enter-the-dragon
+    - black-christmas
+    - a-nightmare-on-elm-street
+    - battle-beyond-the-stars
