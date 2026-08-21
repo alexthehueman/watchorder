@@ -1,0 +1,60 @@
+slug: elia-kazan
+kind: director
+name: Elia Kazan
+blurb: Method-acting intensity pointed at corruption, repression, and the exact moment someone finally says the thing they've been holding back.
+
+films:
+  - film: on-the-waterfront
+    signature: 5
+    must_see: true
+    gateway: 5
+    note: A washed-up boxer turned dockworker has to decide whether to testify against the union bosses who control the only life he knows.
+
+  - film: a-streetcar-named-desire
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A fading Southern belle moves in with her sister and brutish brother-in-law, and neither side survives the visit intact.
+
+  - film: east-of-eden
+    signature: 4
+    gateway: 4
+    note: A son desperate for his stern father's approval instead gets a rival brother's inheritance and a mother he was told was dead.
+
+  - film: a-face-in-the-crowd
+    signature: 4
+    gateway: 4
+    note: A folksy drifter is discovered on a small-town radio show and becomes a national demagogue almost by accident, then not by accident at all.
+
+  - film: viva-zapata
+    signature: 3
+    gateway: 3
+    note: A Mexican revolutionary leader wins his war, then discovers that winning power is a different, uglier problem than fighting for it.
+
+  - film: splendor-in-the-grass
+    signature: 3
+    gateway: 2
+    note: Two teenagers in 1920s Kansas are pulled apart by the exact kind of sexual repression that eventually breaks one of them completely.
+
+  - film: baby-doll
+    signature: 3
+    gateway: 1
+    note: A cotton gin owner methodically seduces his rival's child-bride wife as an act of revenge, and the film was banned in several cities for it.
+
+  - film: panic-in-the-streets
+    signature: 3
+    gateway: 5
+    note: A public health officer has forty-eight hours to find a killer carrying plague before the city finds out and the panic makes everything worse.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - on-the-waterfront
+    - a-streetcar-named-desire
+    - east-of-eden
+    - a-face-in-the-crowd
+    - panic-in-the-streets
+    - viva-zapata
+    - splendor-in-the-grass
+    - baby-doll

@@ -1,0 +1,72 @@
+slug: sidney-lumet
+kind: director
+name: Sidney Lumet
+blurb: New York, institutions that fail the people inside them, and a camera that trusts a good argument more than a good stunt.
+
+films:
+  - film: twelve-angry-men
+    signature: 5
+    must_see: true
+    gateway: 5
+    note: One juror holds out against a unanimous guilty verdict, and the whole film is the room slowly turning to face him.
+
+  - film: network
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A news anchor has an on-air breakdown and the network turns it into the highest-rated show on television.
+
+  - film: dog-day-afternoon
+    signature: 4
+    gateway: 4
+    note: A bank robbery goes wrong in the first five minutes and turns into a hostage standoff, a media circus, and a folk hero, all before lunch.
+
+  - film: serpico
+    signature: 4
+    gateway: 4
+    note: An honest cop refuses to take payoffs, and finds out exactly how a department punishes an officer for that.
+
+  - film: the-verdict
+    signature: 4
+    gateway: 3
+    note: A washed-up, ambulance-chasing lawyer turns down a settlement on a malpractice case he has no real business trying to win.
+
+  - film: murder-on-the-orient-express-1974
+    signature: 3
+    gateway: 5
+    note: A detective snowed in on a luxury train has to solve a stabbing with a car full of suspects who all have an alibi that's a little too clean.
+
+  - film: long-days-journey-into-night
+    signature: 3
+    gateway: 1
+    note: One family, one house, one day, and four people saying out loud everything they've spent years not saying.
+
+  - film: the-fugitive-kind
+    signature: 3
+    gateway: 2
+    note: A drifter with a guitar takes a job in a small Southern town and becomes exactly the kind of trouble the town was afraid he'd be.
+
+  - film: find-me-guilty
+    signature: 2
+    gateway: 3
+    note: A mobster represents himself at his own RICO trial and turns the whole courtroom into his personal audience.
+
+  - film: the-wiz
+    signature: 2
+    gateway: 4
+    note: A shy Harlem schoolteacher gets swept into an all-Black musical reimagining of Oz, complete with a wizard hiding behind a much smaller curtain than expected.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - twelve-angry-men
+    - network
+    - dog-day-afternoon
+    - serpico
+    - the-verdict
+    - murder-on-the-orient-express-1974
+    - long-days-journey-into-night
+    - the-fugitive-kind
+    - find-me-guilty
+    - the-wiz

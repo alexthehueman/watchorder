@@ -1,0 +1,18 @@
+# Films for Sidney Lumet. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Murder on the Orient Express already exists in bergman-ingrid.yaml. Network
+# already exists in faye-dunaway.yaml. 12 Angry Men already exists in
+# fonda-henry.yaml. Long Day's Journey Into Night already exists in
+# hepburn-katharine.yaml. The Fugitive Kind already exists in magnani.yaml.
+# The Verdict already exists in newman.yaml. Serpico and Dog Day Afternoon
+# already exist in pacino.yaml. Find Me Guilty already exists in vin-diesel.yaml.
+# The Wiz below is his own — a real outlier in an otherwise heavy filmography.
+
+- id: the-wiz
+  tmdb_id: null
+  title: The Wiz
+  year: 1978
+  runtime: 134
+  director: Sidney Lumet
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 5, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

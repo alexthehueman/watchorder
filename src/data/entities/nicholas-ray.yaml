@@ -1,0 +1,35 @@
+slug: nicholas-ray
+kind: director
+name: Nicholas Ray
+blurb: Wounded, restless outsiders who never quite fit the world built around them, filmed with a romanticism that never once softens the loneliness.
+
+films:
+  - film: rebel-without-a-cause
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A troubled teenager new in town gets pulled into a game of chicken and a fragile new friend group he can't afford to lose either of.
+
+  - film: in-a-lonely-place
+    signature: 4
+    gateway: 5
+    note: A screenwriter becomes the prime suspect in a murder, and the woman falling for him starts to wonder if the accusation is really so unlikely.
+
+  - film: johnny-guitar
+    signature: 3
+    gateway: 3
+    note: A saloon owner and a rival rancher face off in a Western that cares far more about the two women's feud than the men standing between them.
+
+  - film: king-of-kings
+    signature: 2
+    gateway: 2
+    note: A controversial, humanized screen portrayal of Jesus that drew as much criticism for its restraint as its ambition.
+
+curated:
+  curator: house
+  rationale: The signature role first, then the range around it.
+  order:
+    - rebel-without-a-cause
+    - in-a-lonely-place
+    - johnny-guitar
+    - king-of-kings

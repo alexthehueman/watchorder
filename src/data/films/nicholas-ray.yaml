@@ -1,0 +1,14 @@
+# New films for Nicholas Ray. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Rebel Without a Cause already exists in natalie-wood.yaml. King of Kings
+# already exists in jeffrey-hunter.yaml. In a Lonely Place already exists in
+# bogart.yaml.
+
+- id: johnny-guitar
+  tmdb_id: null
+  title: Johnny Guitar
+  year: 1954
+  runtime: 110
+  director: Nicholas Ray
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

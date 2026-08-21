@@ -1,0 +1,34 @@
+# New films for Elia Kazan. Scales and anchors are in README.md ("The anchor rubric").
+#
+# A Streetcar Named Desire, Viva Zapata!, and On the Waterfront already exist
+# in brando.yaml. East of Eden already exists in james-dean.yaml. Splendor in
+# the Grass already exists in natalie-wood.yaml. Baby Doll already exists in
+# eli-wallach.yaml.
+
+- id: a-face-in-the-crowd
+  tmdb_id: null
+  title: A Face in the Crowd
+  year: 1957
+  runtime: 126
+  director: Elia Kazan
+  tags:
+    opacity: 1
+    stillness: 3
+    bleakness: 4
+    humor: 2
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: panic-in-the-streets
+  tmdb_id: null
+  title: Panic in the Streets
+  year: 1950
+  runtime: 96
+  director: Elia Kazan
+  tags:
+    opacity: 1
+    stillness: 1
+    bleakness: 2 # a noir thriller that resolves cleanly, not one of his tragedies
+    humor: 3 # a wry, procedural noir energy runs through the manhunt
+    acclaim: 0.75
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
