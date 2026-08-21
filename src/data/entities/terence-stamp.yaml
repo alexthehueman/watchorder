@@ -1,0 +1,38 @@
+slug: terence-stamp
+kind: actor
+name: Terence Stamp
+blurb: A cold, aristocratic screen presence whose stillness could read as menace, grief, or doomed innocence depending entirely on what the film needed.
+
+films:
+  - film: the-limey
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 3
+    note: An ex-con tearing through Los Angeles to find out who really killed his daughter, playing grief-fueled, volatile menace.
+
+  - film: billy-budd
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: An innocent young sailor whose goodness makes him a target aboard a ship that has no place for it, playing guileless, doomed decency.
+
+  - film: superman-ii
+    signature: 4
+    showcase: 4
+    role_size: supporting
+    register: menacing
+    gateway: 5
+    note: A Kryptonian tyrant demanding the whole planet kneel before him, playing icy, absolute contempt.
+
+curated:
+  curator: house
+  rationale: The performance that shows the real range first, then the debut, then the blockbuster villain.
+  order:
+    - the-limey
+    - billy-budd
+    - superman-ii

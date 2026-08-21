@@ -1,0 +1,18 @@
+# New films for Sophia Loren. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Two Women already exists in de-sica.yaml. Marriage Italian Style, Yesterday
+# Today and Tomorrow, and A Special Day already exist in mastroianni.yaml.
+
+- id: sunflower
+  tmdb_id: null
+  title: Sunflower
+  year: 1970
+  runtime: 107
+  director: Vittorio De Sica
+  tags:
+    opacity: 3 # whether the husband she's searching for has actually moved on stays unresolved for most of the runtime
+    stillness: 3
+    bleakness: 4
+    humor: 1
+    acclaim: 0.72
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }

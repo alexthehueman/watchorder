@@ -1,0 +1,33 @@
+# New films for Terence Stamp. Scales and anchors are in README.md ("The anchor rubric").
+
+- id: superman-ii
+  tmdb_id: null
+  title: Superman II
+  year: 1980
+  runtime: 127
+  director: Richard Lester
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-limey
+  tmdb_id: null
+  title: The Limey
+  year: 1999
+  runtime: 89
+  director: Steven Soderbergh
+  tags:
+    opacity: 4 # a fractured, non-chronological structure that mirrors a man's own scrambled memory
+    stillness: 3
+    bleakness: 4
+    humor: 1
+    acclaim: 0.80
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: billy-budd
+  tmdb_id: null
+  title: Billy Budd
+  year: 1962
+  runtime: 123
+  director: Peter Ustinov
+  tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
