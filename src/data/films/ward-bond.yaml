@@ -1,0 +1,13 @@
+# Films for Ward Bond. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Fort Apache, The Quiet Man, and The Searchers already exist in ford.yaml.
+# Wagon Master below is his own — a rare lead role in the Ford stock company.
+
+- id: wagon-master
+  tmdb_id: null
+  title: Wagon Master
+  year: 1950
+  runtime: 86
+  director: John Ford
+  tags: { opacity: 1, stillness: 3, bleakness: 2, humor: 3, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }

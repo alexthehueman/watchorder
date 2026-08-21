@@ -1,0 +1,38 @@
+slug: victor-mclaglen
+kind: actor
+name: Victor McLaglen
+blurb: A hulking, big-hearted former boxer whose Oscar-winning dramatic weight could give way, just as easily, to broad comic brawling.
+
+films:
+  - film: the-informer
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 2
+    note: A desperate, guilt-wracked man whose betrayal of a friend unravels him over one long night, playing anguished, self-destructive remorse.
+
+  - film: fort-apache
+    signature: 4
+    showcase: 4
+    role_size: supporting
+    register: comic
+    gateway: 4
+    note: A blustery cavalry sergeant major always one drink away from real trouble, playing boisterous, good-natured brawling.
+
+  - film: the-quiet-man
+    signature: 4
+    showcase: 4
+    role_size: supporting
+    register: menacing
+    gateway: 5
+    note: A domineering local squire furious over his sister's marriage and the dowry he's owed, playing blustering, territorial anger.
+
+curated:
+  curator: house
+  rationale: The Oscar-winning role first, then the range either side of it.
+  order:
+    - the-informer
+    - fort-apache
+    - the-quiet-man
