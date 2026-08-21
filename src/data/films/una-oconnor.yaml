@@ -1,0 +1,22 @@
+# New films for Una O'Connor. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Bride of Frankenstein already exists in boris-karloff.yaml. The Invisible
+# Man already exists in claude-rains.yaml.
+
+- id: the-adventures-of-robin-hood
+  tmdb_id: null
+  title: The Adventures of Robin Hood
+  year: 1938
+  runtime: 102
+  director: Michael Curtiz
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: david-copperfield
+  tmdb_id: null
+  title: David Copperfield
+  year: 1935
+  runtime: 133
+  director: George Cukor
+  tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 2, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

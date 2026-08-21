@@ -1,0 +1,18 @@
+# New films for Claude Rains. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Casablanca and Notorious already exist in bergman-ingrid.yaml. Mr. Smith
+# Goes to Washington already exists in stewart.yaml.
+
+- id: the-invisible-man
+  tmdb_id: null
+  title: The Invisible Man
+  year: 1933
+  runtime: 71
+  director: James Whale
+  tags:
+    opacity: 2 # how much is the formula and how much is the man himself stays genuinely unclear early on
+    stillness: 1 # a kinetic manhunt once the invisibility takes hold, not a film that sits still
+    bleakness: 4
+    humor: 3
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
