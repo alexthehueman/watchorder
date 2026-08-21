@@ -1,0 +1,47 @@
+slug: charles-bronson
+kind: actor
+name: Charles Bronson
+blurb: A granite-faced, near-silent screen presence who could carry a whole scene on stillness alone, before becoming the face of the seventies vigilante thriller.
+
+films:
+  - film: once-upon-a-time-in-the-west
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: menacing
+    gateway: 3
+    note: A near-silent gunslinger whose harmonica hides a decades-old reason for revenge, playing coiled, unreadable purpose.
+
+  - film: death-wish
+    signature: 5
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 4
+    note: A mild-mannered architect turned vigilante after tragedy destroys his family, playing grim, escalating rage.
+
+  - film: the-magnificent-seven-1960
+    signature: 3
+    showcase: 4
+    role_size: supporting
+    register: restrained
+    gateway: 4
+    note: A hired gun who quietly becomes the one the village's children actually trust, playing gruff, understated decency.
+
+  - film: the-great-escape
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: comic
+    gateway: 5
+    note: A claustrophobic tunnel-digging specialist keeping his nerve through sheer stubbornness, playing wry, hard-won resolve.
+
+curated:
+  curator: house
+  rationale: The signature Leone role first, then the vigilante role that defined the rest of his career, then the ensemble work.
+  order:
+    - once-upon-a-time-in-the-west
+    - death-wish
+    - the-magnificent-seven-1960
+    - the-great-escape

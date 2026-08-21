@@ -1,0 +1,14 @@
+# New films for Charles Bronson. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Once Upon a Time in the West already exists in fonda-henry.yaml. The Great Escape
+# already exists in steve-mcqueen.yaml. The Magnificent Seven already exists in
+# eli-wallach.yaml.
+
+- id: death-wish
+  tmdb_id: null
+  title: Death Wish
+  year: 1974
+  runtime: 93
+  director: Michael Winner
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.68 }
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }

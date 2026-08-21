@@ -1,0 +1,18 @@
+# New films for Claudia Cardinale. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Once Upon a Time in the West already exists in fonda-henry.yaml. The Leopard
+# already exists in delon.yaml. The Pink Panther already exists in sellers.yaml.
+
+- id: eight-and-a-half
+  tmdb_id: null
+  title: "8½"
+  year: 1963
+  runtime: 138
+  director: Federico Fellini
+  tags:
+    opacity: 5 # memory, fantasy, and the film he's actually failing to make blur together with no signposted boundary
+    stillness: 3
+    bleakness: 2
+    humor: 3
+    acclaim: 0.95
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }

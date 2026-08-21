@@ -1,0 +1,27 @@
+# New films for Jason Robards. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Once Upon a Time in the West already exists in fonda-henry.yaml. All the
+# President's Men already exists in redford.yaml.
+
+- id: julia
+  tmdb_id: null
+  title: Julia
+  year: 1977
+  runtime: 118
+  director: Fred Zinnemann
+  tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 2, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: melvin-and-howard
+  tmdb_id: null
+  title: Melvin and Howard
+  year: 1980
+  runtime: 95
+  director: Jonathan Demme
+  tags:
+    opacity: 1 # a plain, straightforward tall-tale-turned-slice-of-life, nothing withheld
+    stillness: 3
+    bleakness: 2
+    humor: 3
+    acclaim: 0.70
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
