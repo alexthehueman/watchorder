@@ -1,0 +1,47 @@
+slug: molly-ringwald
+kind: actor
+name: Molly Ringwald
+blurb: The defining face of eighties teen cinema, equally convincing as the class-conscious romantic and the popular girl with more going on underneath.
+
+films:
+  - film: the-breakfast-club
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: warm
+    gateway: 5
+    note: A popular girl forced to spend a Saturday facing down everyone she'd normally ignore, playing guarded, gradually thawing honesty.
+
+  - film: sixteen-candles
+    signature: 5
+    showcase: 5
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: A teenager whose entire family forgets her sixteenth birthday, playing exasperated, wry comic misfortune.
+
+  - film: pretty-in-pink
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: warm
+    gateway: 5
+    note: A working-class girl caught between the boy she loves and the world that thinks she doesn't belong with him, playing hopeful, class-conscious yearning.
+
+  - film: the-pick-up-artist
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 3
+    note: A young woman pursued by a chronic, self-aware womanizer who can't quite talk his way past her, playing wry, unimpressed skepticism.
+
+curated:
+  curator: house
+  rationale: The most acclaimed of the four first, then the range around it.
+  order:
+    - the-breakfast-club
+    - sixteen-candles
+    - pretty-in-pink
+    - the-pick-up-artist

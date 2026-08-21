@@ -1,0 +1,50 @@
+# New films for Molly Ringwald. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Breakfast Club and Sixteen Candles are tagged here first — Anthony Michael Hall
+# and Judd Nelson both share them.
+
+- id: the-breakfast-club
+  tmdb_id: null
+  title: The Breakfast Club
+  year: 1985
+  runtime: 97
+  director: John Hughes
+  tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 3, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: sixteen-candles
+  tmdb_id: null
+  title: Sixteen Candles
+  year: 1984
+  runtime: 93
+  director: John Hughes
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: the-pick-up-artist
+  tmdb_id: null
+  title: The Pick-up Artist
+  year: 1987
+  runtime: 81
+  director: James Toback
+  tags:
+    opacity: 2 # how much of his patter is a practiced routine and how much is genuine stays hard to read
+    stillness: 2
+    bleakness: 2
+    humor: 3
+    acclaim: 0.55
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: pretty-in-pink
+  tmdb_id: null
+  title: Pretty in Pink
+  year: 1986
+  runtime: 96
+  director: Howard Deutch
+  tags:
+    opacity: 1
+    stillness: 3
+    bleakness: 4 # the ending papers over a class divide it spent the whole film taking seriously
+    humor: 3
+    acclaim: 0.70
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

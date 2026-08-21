@@ -1,0 +1,27 @@
+# New films for Judd Nelson. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Breakfast Club already exists in molly-ringwald.yaml. New Jack City already
+# exists in chris-rock.yaml.
+
+- id: airheads
+  tmdb_id: null
+  title: Airheads
+  year: 1994
+  runtime: 92
+  director: Michael Lehmann
+  tags:
+    opacity: 2 # a hostage standoff that keeps you guessing how much of the plan is bluff
+    stillness: 1
+    bleakness: 1
+    humor: 5
+    acclaim: 0.55
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: st-elmos-fire
+  tmdb_id: null
+  title: St. Elmo's Fire
+  year: 1985
+  runtime: 108
+  director: Joel Schumacher
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 2, acclaim: 0.62 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }

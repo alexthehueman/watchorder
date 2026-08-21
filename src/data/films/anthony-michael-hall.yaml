@@ -1,0 +1,18 @@
+# New films for Anthony Michael Hall. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Breakfast Club and Sixteen Candles already exist in molly-ringwald.yaml.
+# Edward Scissorhands already exists in depp.yaml.
+
+- id: weird-science
+  tmdb_id: null
+  title: Weird Science
+  year: 1985
+  runtime: 94
+  director: John Hughes
+  tags:
+    opacity: 2 # never quite explains whether the AI-built woman is real magic, a shared delusion, or both
+    stillness: 2
+    bleakness: 1
+    humor: 5
+    acclaim: 0.65
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
