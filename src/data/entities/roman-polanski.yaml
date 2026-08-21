@@ -1,0 +1,42 @@
+slug: roman-polanski
+kind: director
+name: Roman Polanski
+blurb: Confinement, paranoia, and a camera that never gives you a wide enough angle to feel safe.
+
+films:
+  - film: chinatown
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A private detective pulls one thread of a water-rights scam and finds a conspiracy that goes all the way to the top, and further than that.
+
+  - film: rosemarys-baby
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A pregnant woman in a new apartment starts to suspect her unusually attentive neighbors want something specific from her baby.
+
+  - film: repulsion
+    signature: 4
+    gateway: 1
+    note: A young woman left alone in her sister's apartment for a week comes apart from the inside, filmed entirely from within her own breakdown.
+
+  - film: the-pianist
+    signature: 4
+    gateway: 3
+    note: A Polish-Jewish pianist survives the Warsaw ghetto and its liquidation by disappearing, piece by piece, into the ruins of the city.
+
+  - film: knife-in-the-water
+    signature: 3
+    gateway: 4
+    note: A married couple invites a young hitchhiker aboard their sailboat for a weekend that curdles into a slow-burning power struggle.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - chinatown
+    - rosemarys-baby
+    - repulsion
+    - the-pianist
+    - knife-in-the-water

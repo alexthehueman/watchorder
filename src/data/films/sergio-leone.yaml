@@ -1,0 +1,28 @@
+# New films for Sergio Leone. Scales and anchors are in README.md ("The anchor rubric").
+#
+# A Fistful of Dollars already exists in gian-maria-volonte.yaml. For a Few Dollars
+# More already exists in kinski.yaml. The Good the Bad and the Ugly already exists
+# in eastwood.yaml. Once Upon a Time in the West already exists in fonda-henry.yaml.
+
+- id: once-upon-a-time-in-america
+  tmdb_id: null
+  title: Once Upon a Time in America
+  year: 1984
+  runtime: 229
+  director: Sergio Leone
+  tags:
+    opacity: 4 # a fragmented, non-chronological structure that leaves open how much of the ending is even real
+    stillness: 4
+    bleakness: 5
+    humor: 1
+    acclaim: 0.90
+  content: { sexual_violence: true, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 2 }
+
+- id: duck-you-sucker
+  tmdb_id: null
+  title: Duck, You Sucker!
+  year: 1971
+  runtime: 157
+  director: Sergio Leone
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 3, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }

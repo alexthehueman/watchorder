@@ -1,0 +1,60 @@
+slug: john-cassavetes
+kind: director
+name: John Cassavetes
+blurb: Handheld, unscripted-feeling, and unwilling to cut away from a feeling until it's fully played out — the father of American independent film.
+
+films:
+  - film: a-woman-under-the-influence
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: A working-class wife's breakdown and her husband's clumsy, desperate attempts to hold their family together, filmed in real time.
+
+  - film: faces
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A marriage dissolves over one long, drunken night, shot so close and so raw it barely feels staged.
+
+  - film: the-killing-of-a-chinese-bookie
+    signature: 4
+    gateway: 1
+    note: A strip-club owner in debt to the mob gets one impossible way out, told at a pace that refuses to rush any of it.
+
+  - film: opening-night
+    signature: 4
+    gateway: 2
+    note: An actress unravels during the out-of-town tryouts for a play about a woman she can't stand playing.
+
+  - film: husbands
+    signature: 3
+    gateway: 4
+    note: Three friends respond to a sudden death by abandoning their lives for a few days of drinking, gambling, and avoidance.
+
+  - film: minnie-and-moskowitz
+    signature: 3
+    gateway: 5
+    note: A scruffy parking attendant and a woman who's given up on romance fall for each other anyway.
+
+  - film: gloria
+    signature: 3
+    gateway: 5
+    note: A gangster's former moll becomes the reluctant protector of a six-year-old with a target on his back.
+
+  - film: love-streams
+    signature: 4
+    gateway: 3
+    note: A brother and sister, both incapable of settling down, converge for a few days that neither of them can really afford emotionally.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - a-woman-under-the-influence
+    - faces
+    - gloria
+    - minnie-and-moskowitz
+    - husbands
+    - opening-night
+    - the-killing-of-a-chinese-bookie
+    - love-streams

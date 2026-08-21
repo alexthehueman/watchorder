@@ -1,0 +1,32 @@
+# New films for Roman Polanski. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Chinatown already exists in nicholson.yaml. The Pianist already exists in
+# brody.yaml. Repulsion already exists in deneuve.yaml.
+
+- id: rosemarys-baby
+  tmdb_id: null
+  title: Rosemary's Baby
+  year: 1968
+  runtime: 137
+  director: Roman Polanski
+  tags:
+    opacity: 3 # a satanic conspiracy or a pregnant woman's paranoia, kept genuinely undecidable for most of the runtime
+    stillness: 3
+    bleakness: 5
+    humor: 1
+    acclaim: 0.90
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 2 }
+
+- id: knife-in-the-water
+  tmdb_id: null
+  title: Knife in the Water
+  year: 1962
+  runtime: 94
+  director: Roman Polanski
+  tags:
+    opacity: 2 # what actually happens on the boat's final night is left deliberately unresolved
+    stillness: 3
+    bleakness: 3
+    humor: 1
+    acclaim: 0.80
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }

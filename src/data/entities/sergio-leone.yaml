@@ -1,0 +1,48 @@
+slug: sergio-leone
+kind: director
+name: Sergio Leone
+blurb: The man who took the western apart in extreme close-up and Morricone score, then spent his last film taking apart the American gangster epic the same way.
+
+films:
+  - film: the-good-the-bad-and-the-ugly
+    signature: 5
+    must_see: true
+    gateway: 5
+    note: Three men chase the same buried gold across a Civil War landscape that doesn't care which of them survives.
+
+  - film: once-upon-a-time-in-the-west
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A harmonica, a widow, and a railroad man who has waited his entire life for one specific reckoning.
+
+  - film: a-fistful-of-dollars
+    signature: 4
+    gateway: 5
+    note: A wandering gunslinger plays two rival gangs against each other for a fee, and invented the entire genre doing it.
+
+  - film: for-a-few-dollars-more
+    signature: 4
+    gateway: 4
+    note: Two bounty hunters, one job, and a personal grudge one of them has been carrying for far longer than the other knows.
+
+  - film: once-upon-a-time-in-america
+    signature: 4
+    gateway: 1
+    note: A four-hour, decades-spanning gangster epic told so far out of order it's still debated how much of the ending really happened.
+
+  - film: duck-you-sucker
+    signature: 3
+    gateway: 3
+    note: A bandit and an Irish revolutionary stumble into the Mexican Revolution, and it costs both of them more than either expected.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the Dollars trilogy that built it, closing on the epic that reinvents it.
+  order:
+    - the-good-the-bad-and-the-ugly
+    - once-upon-a-time-in-the-west
+    - a-fistful-of-dollars
+    - for-a-few-dollars-more
+    - duck-you-sucker
+    - once-upon-a-time-in-america
