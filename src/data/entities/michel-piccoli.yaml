@@ -1,0 +1,38 @@
+slug: michel-piccoli
+kind: actor
+name: Michel Piccoli
+blurb: A suave, unsettlingly composed French leading man who spent decades exploring what respectable men do with their private appetites.
+
+films:
+  - film: belle-de-jour
+    signature: 5
+    must_see: true
+    showcase: 4
+    role_size: supporting
+    register: menacing
+    gateway: 3
+    note: A friend of the family whose polite exterior barely conceals genuine depravity, playing smooth, unhurried menace.
+
+  - film: contempt
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: A screenwriter watching his marriage quietly dissolve while he compromises his way through a doomed production, playing guarded, self-deceiving denial.
+
+  - film: la-grande-bouffe
+    signature: 5
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 2
+    note: One of four friends who gather for a weekend of eating themselves to death, playing gleeful, deliberate self-destruction.
+
+curated:
+  curator: house
+  rationale: The signature role first, then the range either side of it.
+  order:
+    - belle-de-jour
+    - contempt
+    - la-grande-bouffe

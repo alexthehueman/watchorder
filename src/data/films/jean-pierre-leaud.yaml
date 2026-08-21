@@ -1,0 +1,13 @@
+# Films for Jean-Pierre Leaud. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The 400 Blows, Stolen Kisses, and Day for Night already exist in truffaut.yaml.
+# The Mother and the Whore below is his own — outside the Truffaut corpus entirely.
+
+- id: the-mother-and-the-whore
+  tmdb_id: null
+  title: The Mother and the Whore
+  year: 1973
+  runtime: 217
+  director: Jean Eustache
+  tags: { opacity: 1, stillness: 5, bleakness: 4, humor: 2, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
