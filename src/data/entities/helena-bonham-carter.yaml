@@ -1,0 +1,56 @@
+slug: helena-bonham-carter
+kind: actor
+name: Helena Bonham Carter
+blurb: A wild, unpredictable screen presence who spent a decade as English period cinema's favorite ingenue before remaking herself as its favorite lunatic.
+
+films:
+  - film: fight-club
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 4
+    note: A chain-smoking nihilist pulled into a stranger's collapsing double life, playing reckless, self-destructive chaos.
+
+  - film: sweeney-todd
+    signature: 5
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 3
+    note: A pie-maker who finds a gruesome use for the bodies stacking up next door, playing cheerful, murderous delight.
+
+  - film: the-kings-speech
+    signature: 4
+    showcase: 4
+    role_size: supporting
+    register: warm
+    gateway: 5
+    note: A future queen quietly steering her stammering husband toward the help he needs, playing steady, devoted support.
+
+  - film: a-room-with-a-view
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: A young Englishwoman torn between propriety and a genuine, inconvenient passion, playing yearning, repressed longing.
+
+  - film: harry-potter-and-the-deathly-hallows-part-2
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: menacing
+    gateway: 2
+    note: A cackling, fanatically loyal witch relishing every cruelty she gets to commit, playing gleeful, sadistic menace.
+
+curated:
+  curator: house
+  rationale: The two performances that show her real range first, then the period work, closing on the Potter villain.
+  order:
+    - fight-club
+    - sweeney-todd
+    - the-kings-speech
+    - a-room-with-a-view
+    - harry-potter-and-the-deathly-hallows-part-2
