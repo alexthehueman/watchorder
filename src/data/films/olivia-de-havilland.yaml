@@ -1,0 +1,18 @@
+# New films for Olivia de Havilland. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Adventures of Robin Hood already exists in una-oconnor.yaml. Gone with
+# the Wind already exists in vivien-leigh.yaml.
+
+- id: the-heiress
+  tmdb_id: null
+  title: The Heiress
+  year: 1949
+  runtime: 115
+  director: William Wyler
+  tags:
+    opacity: 2 # whether her suitor's love was ever real is never actually settled
+    stillness: 4
+    bleakness: 4
+    humor: 1
+    acclaim: 0.90
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

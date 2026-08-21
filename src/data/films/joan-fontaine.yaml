@@ -1,0 +1,17 @@
+# New films for Joan Fontaine. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Rebecca already exists in hitchcock.yaml. Suspicion already exists in grant.yaml.
+
+- id: letter-from-an-unknown-woman
+  tmdb_id: null
+  title: Letter from an Unknown Woman
+  year: 1948
+  runtime: 90
+  director: Max Ophuls
+  tags:
+    opacity: 3 # a letter read after her death, framing a devotion he may never have truly understood or even remembered
+    stillness: 4
+    bleakness: 5
+    humor: 2 # a few genuinely wry touches in the earlier, more romantic passages
+    acclaim: 0.90
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 1 }

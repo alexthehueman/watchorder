@@ -1,0 +1,38 @@
+slug: olivia-de-havilland
+kind: actor
+name: Olivia de Havilland
+blurb: A radiant, quietly steely golden-age star whose gentlest roles hid real backbone, and whose later work found real devastation underneath the poise.
+
+films:
+  - film: the-heiress
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 2
+    note: A plain, wealthy woman whose devastating heartbreak hardens into something genuinely cold, playing wounded, calculating transformation.
+
+  - film: gone-with-the-wind
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: A gentle, generous woman whose quiet strength holds a family together through war and ruin, playing steady, unshowy grace.
+
+  - film: the-adventures-of-robin-hood
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: A spirited noblewoman drawn to the outlaw defying her king, playing playful, headstrong charm.
+
+curated:
+  curator: house
+  rationale: The most acclaimed dramatic performance first, then the range either side of it.
+  order:
+    - the-heiress
+    - gone-with-the-wind
+    - the-adventures-of-robin-hood
