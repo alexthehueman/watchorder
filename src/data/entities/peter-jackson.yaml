@@ -1,0 +1,60 @@
+slug: peter-jackson
+kind: director
+name: Peter Jackson
+blurb: Splatter-comedy roots that grew into the biggest fantasy epic ever attempted, with the same appetite for excess running underneath both.
+
+films:
+  - film: fellowship-of-the-ring
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A hobbit inherits a ring that turns out to be the one thing capable of returning an ancient evil to power, and sets out with eight companions to see it destroyed.
+
+  - film: the-return-of-the-king
+    signature: 5
+    must_see: true
+    gateway: 1
+    note: The fellowship's scattered members converge on Gondor's last stand while two hobbits carry the ring to the one place it can actually be destroyed.
+
+  - film: the-lord-of-the-rings-the-two-towers
+    signature: 4
+    gateway: 1
+    note: The fellowship, broken apart at the end of the first film, fights on three fronts at once while the ring keeps working on the one hobbit still carrying it.
+
+  - film: heavenly-creatures
+    signature: 3
+    gateway: 2
+    note: Two teenage girls build an obsessive friendship and a shared fantasy world so consuming that they decide the only obstacle left is one of their mothers.
+
+  - film: king-kong-2005
+    signature: 3
+    gateway: 4
+    note: A struggling filmmaker drags his cast and crew to a forbidden island for a shot at his next picture, and comes back with a giant ape who falls for his leading lady.
+
+  - film: the-hobbit-an-unexpected-journey
+    signature: 2
+    gateway: 4
+    note: A comfort-loving hobbit is recruited into a company of dwarves determined to reclaim their mountain home from the dragon that drove them out of it.
+
+  - film: dead-alive
+    signature: 2
+    gateway: 3
+    note: A man's overbearing mother is bitten by a rare zombifying monkey, and his attempts to keep her condition quiet escalate into the goriest house party in horror history.
+
+  - film: the-frighteners
+    signature: 2
+    gateway: 3
+    note: A con man who can see and talk to ghosts runs a small business faking hauntings for cash, until an actual supernatural serial killer starts working the same town.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - fellowship-of-the-ring
+    - the-return-of-the-king
+    - the-lord-of-the-rings-the-two-towers
+    - heavenly-creatures
+    - king-kong-2005
+    - the-hobbit-an-unexpected-journey
+    - dead-alive
+    - the-frighteners

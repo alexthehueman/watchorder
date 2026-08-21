@@ -1,0 +1,20 @@
+# New films for Sofia Coppola. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Virgin Suicides and Marie Antoinette already exist in dunst.yaml. Priscilla
+# already exists in elordi.yaml. The Beguiled and Somewhere already exist in
+# fanning.yaml. Lost in Translation already exists in murray.yaml. The Bling Ring
+# already exists in watson.yaml.
+
+- id: on-the-rocks
+  tmdb_id: null
+  title: On the Rocks
+  year: 2020
+  runtime: 97
+  director: Sofia Coppola
+  tags:
+    opacity: 3 # a lightly comic surface hides real ambiguity about whether her husband actually cheated at all
+    stillness: 2
+    bleakness: 1
+    humor: 4 # her warmest, funniest film by a clear margin, built around a roguish father-daughter double act
+    acclaim: 0.68
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

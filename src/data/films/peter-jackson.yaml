@@ -1,0 +1,65 @@
+# New films for Peter Jackson. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Fellowship of the Ring already exists in blanchett.yaml (also tagged separately
+# in mortensen.yaml under a different id). The Two Towers already exists in
+# karl-urban.yaml. King Kong already exists in watts.yaml.
+
+- id: the-return-of-the-king
+  tmdb_id: null
+  title: "The Lord of the Rings: The Return of the King"
+  year: 2003
+  runtime: 201
+  director: Peter Jackson
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.94 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: dead-alive
+  tmdb_id: null
+  title: Dead Alive
+  year: 1992
+  runtime: 97
+  director: Peter Jackson
+  tags:
+    opacity: 1
+    stillness: 1
+    bleakness: 2 # played entirely for splatter-comedy shock rather than genuine dread
+    humor: 5 # the goriest possible version of a broad slapstick comedy, by design
+    acclaim: 0.68
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: heavenly-creatures
+  tmdb_id: null
+  title: Heavenly Creatures
+  year: 1994
+  runtime: 99
+  director: Peter Jackson
+  tags:
+    opacity: 3 # how much of what the girls share is delusion versus a private mythology stays open
+    stillness: 2
+    bleakness: 5
+    humor: 1
+    acclaim: 0.78
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-hobbit-an-unexpected-journey
+  tmdb_id: null
+  title: "The Hobbit: An Unexpected Journey"
+  year: 2012
+  runtime: 169
+  director: Peter Jackson
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-frighteners
+  tmdb_id: null
+  title: The Frighteners
+  year: 1996
+  runtime: 110
+  director: Peter Jackson
+  tags:
+    opacity: 3 # who's actually behind the real killings stays a genuine mystery under the ghost-comedy surface
+    stillness: 3
+    bleakness: 3
+    humor: 3
+    acclaim: 0.68
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

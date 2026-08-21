@@ -1,0 +1,60 @@
+slug: sofia-coppola
+kind: director
+name: Sofia Coppola
+blurb: Quiet, cocooned women — princesses, movie stars, teenage sisters — drifting through gorgeous rooms that can't quite protect them from how alone they actually are.
+
+films:
+  - film: lost-in-translation
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A washed-up movie star and a young woman left to her own devices in Tokyo strike up a friendship neither of them can fully name, over one jet-lagged week.
+
+  - film: the-virgin-suicides
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: Five sisters kept increasingly sheltered by their parents become an unsolvable mystery to the neighborhood boys who spend the rest of their lives trying to understand what happened to them.
+
+  - film: marie-antoinette
+    signature: 4
+    gateway: 3
+    note: A teenage Austrian archduchess is married off to the future king of France and drowns the isolation of Versailles in cake, gowns, and parties nobody actually enjoys.
+
+  - film: priscilla
+    signature: 3
+    gateway: 3
+    note: A fourteen-year-old meets Elvis Presley on a US Army base in Germany, and the film follows the decade of her life inside Graceland that most Elvis stories skip past.
+
+  - film: the-beguiled
+    signature: 3
+    gateway: 3
+    note: A wounded Union soldier taken in by an isolated girls' boarding school in Confederate Virginia turns the house's quiet routines into a slow-building rivalry.
+
+  - film: the-bling-ring
+    signature: 2
+    gateway: 4
+    note: A group of fame-obsessed teenagers start robbing celebrities' homes by tracking their social media, and get away with it for far longer than seems possible.
+
+  - film: on-the-rocks
+    signature: 4
+    gateway: 4
+    note: A woman who suspects her husband is having an affair recruits her charming, unreliable father to help her investigate, whether she actually wants his help or not.
+
+  - film: somewhere
+    signature: 2
+    gateway: 1
+    note: A burned-out actor coasting through a Chateau Marmont residency of parties and strippers has to figure out what to do when his young daughter comes to stay for a while.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - lost-in-translation
+    - the-virgin-suicides
+    - marie-antoinette
+    - priscilla
+    - the-beguiled
+    - the-bling-ring
+    - on-the-rocks
+    - somewhere

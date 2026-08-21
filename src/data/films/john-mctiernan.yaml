@@ -1,0 +1,28 @@
+# New films for John McTiernan. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Predator already exists in arnold-schwarzenegger.yaml. Die Hard already exists in
+# bruce-willis.yaml. The Thomas Crown Affair already exists in pierce-brosnan.yaml. The
+# Hunt for Red October already exists in sean-connery.yaml.
+
+- id: die-hard-with-a-vengeance
+  tmdb_id: null
+  title: Die Hard with a Vengeance
+  year: 1995
+  runtime: 131
+  director: John McTiernan
+  tags: { opacity: 2, stillness: 1, bleakness: 3, humor: 3, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: the-last-action-hero
+  tmdb_id: null
+  title: Last Action Hero
+  year: 1993
+  runtime: 130
+  director: John McTiernan
+  tags:
+    opacity: 1
+    stillness: 1
+    bleakness: 1
+    humor: 5 # a satirical, self-aware spoof of his own genre — nothing else in his filmography is trying to be funny
+    acclaim: 0.55
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

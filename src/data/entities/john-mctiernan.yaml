@@ -1,0 +1,48 @@
+slug: john-mctiernan
+kind: director
+name: John McTiernan
+blurb: The action-thriller architecture that every genre film since has been quoting — one location, one clock, one guy who happens to be exactly the right person for this.
+
+films:
+  - film: die-hard
+    signature: 5
+    must_see: true
+    gateway: 5
+    note: An off-duty cop visiting his estranged wife's office Christmas party is the only person in the building when terrorists take it over, and has no shoes for most of it.
+
+  - film: predator
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: An elite rescue team sent into the jungle on what looks like a standard mission realizes partway through that something is hunting them one at a time.
+
+  - film: the-hunt-for-red-october
+    signature: 4
+    gateway: 3
+    note: A CIA analyst has to convince the US military that a Soviet submarine captain going dark isn't launching an attack — he's trying to defect, submarine and all.
+
+  - film: die-hard-with-a-vengeance
+    signature: 3
+    gateway: 3
+    note: A bomber forces a suspended NYPD detective and a Harlem store owner into a citywide scavenger hunt of increasingly deadly puzzles, tied to a decades-old grudge.
+
+  - film: the-thomas-crown-affair
+    signature: 2
+    gateway: 3
+    note: An insurance investigator falls for the billionaire she's certain masterminded a museum heist, and neither of them is willing to be the first to stop playing games.
+
+  - film: the-last-action-hero
+    signature: 1
+    gateway: 2
+    note: A kid obsessed with a fictional action franchise gets pulled through a magic ticket into the movie itself, right as its invincible hero starts figuring out he's in one.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - die-hard
+    - predator
+    - the-hunt-for-red-october
+    - die-hard-with-a-vengeance
+    - the-thomas-crown-affair
+    - the-last-action-hero
