@@ -1,0 +1,19 @@
+# Films for Dwight Frye. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Dracula already exists in bela-lugosi.yaml. Frankenstein and Bride of
+# Frankenstein already exist in boris-karloff.yaml. The Vampire Bat below is
+# his own — a lead role outside the Universal horror corpus.
+
+- id: the-vampire-bat
+  tmdb_id: null
+  title: The Vampire Bat
+  year: 1933
+  runtime: 63
+  director: Frank R. Strayer
+  tags:
+    opacity: 3 # a mystery-horror that keeps genuine vampires and a human cover story equally plausible
+    stillness: 3
+    bleakness: 3
+    humor: 1
+    acclaim: 0.55
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

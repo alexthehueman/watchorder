@@ -1,0 +1,13 @@
+# Films for Edward Van Sloan. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Dracula already exists in bela-lugosi.yaml. Frankenstein and The Mummy
+# already exist in boris-karloff.yaml. The Mask of Fu Manchu below is his own.
+
+- id: the-mask-of-fu-manchu
+  tmdb_id: null
+  title: The Mask of Fu Manchu
+  year: 1932
+  runtime: 68
+  director: Charles Brabin
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 2, acclaim: 0.62 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
