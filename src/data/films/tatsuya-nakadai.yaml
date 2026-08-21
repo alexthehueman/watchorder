@@ -1,0 +1,19 @@
+# Films for Tatsuya Nakadai. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Yojimbo, Sanjuro, and High and Low already exist in mifune.yaml. Kagemusha
+# and Ran already exist in kurosawa.yaml. Harakiri below is his own — a Kobayashi
+# film outside both those corpora, and the only one of his five where he's the director's man.
+
+- id: harakiri
+  tmdb_id: null
+  title: Harakiri
+  year: 1962
+  runtime: 133
+  director: Masaki Kobayashi
+  tags:
+    opacity: 2 # a story told back into itself through flashback, the ronin's true purpose withheld until it lands
+    stillness: 4
+    bleakness: 5 # a ritual-suicide frame story that ends as an indictment of the whole samurai code
+    humor: 1
+    acclaim: 0.94
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 3, sex: 0 }

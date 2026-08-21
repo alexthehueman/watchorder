@@ -1,0 +1,56 @@
+slug: takashi-shimura
+kind: actor
+name: Takashi Shimura
+blurb: A warm, deeply humane screen presence that anchored some of Kurosawa's greatest ensemble and solo dramas, before lending real gravity to a giant monster movie.
+
+films:
+  - film: seven-samurai
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: supporting
+    register: warm
+    gateway: 5
+    note: A wise, weathered leader of a band of samurai defending a village out of genuine conviction, playing steady, unshowy moral authority.
+
+  - film: ikiru
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: A dying bureaucrat quietly searching for meaning in his final months, playing understated, devastating awakening.
+
+  - film: rashomon
+    signature: 3
+    showcase: 4
+    role_size: supporting
+    register: unhinged
+    gateway: 3
+    note: A woodcutter unraveling as the truth behind a crime keeps shifting, playing mounting, guilt-ridden distress.
+
+  - film: throne-of-blood
+    signature: 3
+    showcase: 4
+    role_size: supporting
+    register: menacing
+    gateway: 3
+    note: A ghostly forest spirit prophesying doom, playing unsettling, otherworldly authority.
+
+  - film: godzilla-1954
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 5
+    note: A scientist torn between his duty to destroy the creature and his awe of it, playing anguished, principled conflict.
+
+curated:
+  curator: house
+  rationale: The most iconic ensemble role first, then the most acclaimed solo performance, then the range around both.
+  order:
+    - seven-samurai
+    - ikiru
+    - rashomon
+    - throne-of-blood
+    - godzilla-1954

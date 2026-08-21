@@ -1,0 +1,47 @@
+slug: myrna-loy
+kind: actor
+name: Myrna Loy
+blurb: A witty, unflappable screen presence that defined the modern movie marriage — sharp-tongued and devoted in equal measure.
+
+films:
+  - film: the-thin-man
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: comic
+    gateway: 5
+    note: A sharp, martini-fueled amateur detective's wife matching wits and quips with her husband, playing dry, effortless banter.
+
+  - film: the-best-years-of-our-lives
+    signature: 4
+    showcase: 5
+    role_size: supporting
+    register: restrained
+    gateway: 3
+    note: A devoted wife holding her family together as her husband struggles to readjust after the war, playing steady, unshowy resolve.
+
+  - film: manhattan-melodrama
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: A woman caught between two childhood friends whose paths diverge into very different lives, playing torn, genuine affection.
+
+  - film: test-pilot
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: A woman devoted to a reckless test pilot she can never quite stop worrying about, playing anxious, loving devotion.
+
+curated:
+  curator: house
+  rationale: The most iconic role first, then the Oscar-winning drama, then the range of warmth around both.
+  order:
+    - the-thin-man
+    - the-best-years-of-our-lives
+    - manhattan-melodrama
+    - test-pilot
