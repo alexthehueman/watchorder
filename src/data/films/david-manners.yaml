@@ -1,0 +1,18 @@
+# Films for David Manners. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Dracula already exists in bela-lugosi.yaml. The Mummy and The Black Cat
+# already exist in boris-karloff.yaml. The Death Kiss below is his own.
+
+- id: the-death-kiss
+  tmdb_id: null
+  title: The Death Kiss
+  year: 1932
+  runtime: 75
+  director: Edwin L. Marin
+  tags:
+    opacity: 2
+    stillness: 2
+    bleakness: 3
+    humor: 3 # a wry, self-aware mystery about a murder on a film set, poking fun at Hollywood along the way
+    acclaim: 0.55
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }

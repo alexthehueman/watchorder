@@ -1,0 +1,26 @@
+# New films for Zita Johann. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Mummy already exists in boris-karloff.yaml.
+
+- id: tiger-shark
+  tmdb_id: null
+  title: Tiger Shark
+  year: 1932
+  runtime: 80
+  director: Howard Hawks
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.62 }
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-sin-of-nora-moran
+  tmdb_id: null
+  title: The Sin of Nora Moran
+  year: 1933
+  runtime: 65
+  director: Phil Goldstone
+  tags:
+    opacity: 4 # a genuinely fractured, non-chronological flashback structure decades ahead of its time
+    stillness: 3
+    bleakness: 5
+    humor: 1
+    acclaim: 0.60
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
