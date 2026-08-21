@@ -1,0 +1,66 @@
+slug: christopher-lee
+kind: actor
+name: Christopher Lee
+blurb: A towering, sonorous screen presence who defined an era of horror villainy, then spent his later decades lending real menace to blockbuster franchises.
+
+films:
+  - film: horror-of-dracula
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: menacing
+    gateway: 5
+    note: The definitive screen Dracula, all predatory poise until the fangs come out, playing seductive, aristocratic menace.
+
+  - film: the-curse-of-frankenstein
+    signature: 4
+    showcase: 3
+    role_size: lead
+    register: unhinged
+    gateway: 4
+    note: The Creature, mute and feral beneath the stitched-together horror, playing wordless, pitiable rage.
+
+  - film: the-wicker-man
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 2
+    note: The genial, unshakeable lord of a pagan island welcoming a doomed investigator, playing beaming, fervent conviction.
+
+  - film: the-man-with-the-golden-gun
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: A three-nippled assassin who treats killing as a connoisseur's art, playing cool, amused professionalism.
+
+  - film: the-lord-of-the-rings-the-fellowship-of-the-ring
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: restrained
+    gateway: 4
+    note: A once-trusted wizard whose betrayal is delivered with perfect, unhurried calm, playing measured, chilling authority.
+
+  - film: the-lord-of-the-rings-the-two-towers
+    signature: 3
+    showcase: 4
+    role_size: supporting
+    register: menacing
+    gateway: 3
+    note: The same fallen wizard now openly marshaling an army for war, playing commanding, unhidden threat.
+
+curated:
+  curator: house
+  rationale: The signature role first, then the range of horror and villainy that followed it, closing on the two blockbuster turns.
+  order:
+    - horror-of-dracula
+    - the-curse-of-frankenstein
+    - the-wicker-man
+    - the-man-with-the-golden-gun
+    - the-lord-of-the-rings-the-fellowship-of-the-ring
+    - the-lord-of-the-rings-the-two-towers

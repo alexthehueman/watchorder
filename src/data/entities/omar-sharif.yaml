@@ -1,0 +1,47 @@
+slug: omar-sharif
+kind: actor
+name: Omar Sharif
+blurb: A soulful, romantic leading man who carried some of the biggest epics of the sixties, then kept working with real range for decades after.
+
+films:
+  - film: doctor-zhivago
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: warm
+    gateway: 5
+    note: A poet-physician swept between love and revolution across a collapsing empire, playing tender, helpless devotion.
+
+  - film: lawrence-of-arabia
+    signature: 5
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: A Bedouin leader whose loyalty to Lawrence is tested by everything the desert war costs him, playing watchful, principled resolve.
+
+  - film: funny-girl
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: comic
+    gateway: 4
+    note: A charming gambler who sweeps a rising star off her feet, playing effortless, easy charisma.
+
+  - film: monsieur-ibrahim
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: warm
+    gateway: 3
+    note: An elderly shopkeeper quietly mentoring a neglected teenage boy, playing unhurried, generous warmth.
+
+curated:
+  curator: house
+  rationale: The two epics that made him a star, then the range either side of them.
+  order:
+    - doctor-zhivago
+    - lawrence-of-arabia
+    - funny-girl
+    - monsieur-ibrahim

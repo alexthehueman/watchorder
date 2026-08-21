@@ -1,0 +1,20 @@
+# New films for Christopher Lee. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Curse of Frankenstein and Horror of Dracula already exist in hammer.yaml.
+# The Lord of the Rings: The Fellowship of the Ring already exists in mortensen.yaml.
+# The Lord of the Rings: The Two Towers already exists in karl-urban.yaml.
+# The Man with the Golden Gun already exists in roger-moore.yaml.
+
+- id: the-wicker-man
+  tmdb_id: null
+  title: The Wicker Man
+  year: 1973
+  runtime: 88
+  director: Robin Hardy
+  tags:
+    opacity: 4 # a pagan island whose hospitality could be sincere belief or an elaborate trap — genuinely unclear until the very last scene
+    stillness: 2
+    bleakness: 4
+    humor: 2
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 2 }

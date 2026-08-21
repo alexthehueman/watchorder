@@ -1,0 +1,26 @@
+# New films for David Niven. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Guns of Navarone already exists in gregory-peck.yaml. The Pink Panther already exists in sellers.yaml.
+
+- id: around-the-world-in-eighty-days
+  tmdb_id: null
+  title: Around the World in Eighty Days
+  year: 1956
+  runtime: 175
+  director: Michael Anderson
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 3, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: separate-tables
+  tmdb_id: null
+  title: Separate Tables
+  year: 1958
+  runtime: 100
+  director: Delbert Mann
+  tags:
+    opacity: 1
+    stillness: 4 # a residential hotel dining room, a handful of quiet conversations, nothing louder than that
+    bleakness: 4 # a disgraced man's private shame laid bare in front of the only people who know him
+    humor: 1
+    acclaim: 0.77
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }

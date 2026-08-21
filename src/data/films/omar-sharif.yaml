@@ -1,0 +1,26 @@
+# New films for Omar Sharif. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Lawrence of Arabia already exists in otoole.yaml. Doctor Zhivago already exists in kinski.yaml.
+
+- id: funny-girl
+  tmdb_id: null
+  title: Funny Girl
+  year: 1968
+  runtime: 155
+  director: William Wyler
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: monsieur-ibrahim
+  tmdb_id: null
+  title: Monsieur Ibrahim
+  year: 2003
+  runtime: 95
+  director: Francois Dupeyron
+  tags:
+    opacity: 2
+    stillness: 4 # a quiet, unhurried friendship picture with almost nowhere it needs to be
+    bleakness: 2
+    humor: 2
+    acclaim: 0.76
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 1 }
