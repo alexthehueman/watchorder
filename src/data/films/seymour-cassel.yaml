@@ -1,0 +1,19 @@
+# Films for Seymour Cassel. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Faces and Minnie and Moskowitz already exist in rowlands.yaml. Rushmore
+# already exists in murray.yaml. The Killing of a Chinese Bookie below is his
+# own — another Cassavetes film outside that shared corpus.
+
+- id: the-killing-of-a-chinese-bookie
+  tmdb_id: null
+  title: The Killing of a Chinese Bookie
+  year: 1976
+  runtime: 135
+  director: John Cassavetes
+  tags:
+    opacity: 2 # a moody, elliptical crime film that withholds motive as often as it withholds plot
+    stillness: 4
+    bleakness: 4
+    humor: 1
+    acclaim: 0.75
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }

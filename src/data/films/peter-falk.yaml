@@ -1,0 +1,26 @@
+# New films for Peter Falk. Scales and anchors are in README.md ("The anchor rubric").
+#
+# A Woman Under the Influence already exists in rowlands.yaml.
+
+- id: the-princess-bride
+  tmdb_id: null
+  title: The Princess Bride
+  year: 1987
+  runtime: 98
+  director: Rob Reiner
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 4, acclaim: 0.90 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: wings-of-desire
+  tmdb_id: null
+  title: Wings of Desire
+  year: 1987
+  runtime: 128
+  director: Wim Wenders
+  tags:
+    opacity: 3 # a poetic, philosophical film about angels perceiving a world they can't quite touch
+    stillness: 4
+    bleakness: 3
+    humor: 2
+    acclaim: 0.88
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
