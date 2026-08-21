@@ -1,0 +1,47 @@
+slug: john-carradine
+kind: actor
+name: John Carradine
+blurb: A gaunt, sonorous character actor who moved between Ford's prestige dramas and Universal's monster pictures without ever losing his theatrical gravity.
+
+films:
+  - film: the-grapes-of-wrath
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: supporting
+    register: warm
+    gateway: 3
+    note: A disillusioned former preacher who finds a new, harder-won faith in solidarity with the dispossessed, playing weary, hard-earned conviction.
+
+  - film: stagecoach
+    signature: 4
+    showcase: 4
+    role_size: supporting
+    register: restrained
+    gateway: 5
+    note: A courtly, doomed Southern gambler who's found one thing worth protecting on this particular ride, playing gallant, fatalistic composure.
+
+  - film: house-of-frankenstein
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: menacing
+    gateway: 2
+    note: A traveling showman secretly harboring Dracula's remains for his own revenge scheme, playing suave, predatory calculation.
+
+  - film: the-ten-commandments
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: comic
+    gateway: 4
+    note: A brother caught between faith and the crowd's demand for a golden idol, playing anxious, wavering compromise.
+
+curated:
+  curator: house
+  rationale: The most acclaimed role first, then the range either side of it.
+  order:
+    - the-grapes-of-wrath
+    - stagecoach
+    - house-of-frankenstein
+    - the-ten-commandments

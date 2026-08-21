@@ -1,0 +1,18 @@
+# New films for John Carradine. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Stagecoach and The Grapes of Wrath already exist in ford.yaml. The Ten
+# Commandments already exists in charlton-heston.yaml.
+
+- id: house-of-frankenstein
+  tmdb_id: null
+  title: House of Frankenstein
+  year: 1944
+  runtime: 71
+  director: Erle C. Kenton
+  tags:
+    opacity: 2 # a traveling showman, a hidden vampire, and a circus full of disguised identities
+    stillness: 2
+    bleakness: 4
+    humor: 1
+    acclaim: 0.60
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

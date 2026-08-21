@@ -1,0 +1,35 @@
+# New films for Jeffrey Hunter. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Searchers already exists in ford.yaml.
+
+- id: king-of-kings
+  tmdb_id: null
+  title: King of Kings
+  year: 1961
+  runtime: 168
+  director: Nicholas Ray
+  tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.62 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+
+- id: sergeant-rutledge
+  tmdb_id: null
+  title: Sergeant Rutledge
+  year: 1960
+  runtime: 111
+  director: John Ford
+  tags:
+    opacity: 2 # a courtroom flashback structure that keeps what actually happened genuinely in question
+    stillness: 3
+    bleakness: 4
+    humor: 2
+    acclaim: 0.75
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: no-down-payment
+  tmdb_id: null
+  title: No Down Payment
+  year: 1957
+  runtime: 105
+  director: Martin Ritt
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.68 }
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }

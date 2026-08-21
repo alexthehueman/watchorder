@@ -1,0 +1,18 @@
+# New films for Vera Miles. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Searchers and The Man Who Shot Liberty Valance already exist in ford.yaml.
+# Psycho already exists in hitchcock.yaml.
+
+- id: the-wrong-man
+  tmdb_id: null
+  title: The Wrong Man
+  year: 1956
+  runtime: 105
+  director: Alfred Hitchcock
+  tags:
+    opacity: 1 # a true-crime story told with deliberate, un-Hitchcockian restraint — nothing here is a puzzle
+    stillness: 3
+    bleakness: 4
+    humor: 1
+    acclaim: 0.78
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
