@@ -1,0 +1,47 @@
+slug: abe-vigoda
+kind: actor
+name: Abe Vigoda
+blurb: A hangdog, world-weary character actor whose sad eyes could sell both a mafia captain's fatal miscalculation and a sitcom grandpa's deadpan one-liner.
+
+films:
+  - film: the-godfather-part-ii
+    signature: 5
+    must_see: true
+    showcase: 4
+    role_size: supporting
+    register: restrained
+    gateway: 3
+    note: A trusted family capo whose loyalty turns out to have a price after all, playing guarded, quietly devastating betrayal.
+
+  - film: the-godfather
+    signature: 5
+    showcase: 5
+    role_size: supporting
+    register: warm
+    gateway: 4
+    note: A loyal, capable capo who's genuinely part of the family, right up until he isn't, playing steady, unsuspecting warmth.
+
+  - film: look-whos-talking
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: comic
+    gateway: 5
+    note: A deadpan grandfather dispensing blunt commentary on a chaotic new baby, playing dry, unbothered wit.
+
+  - film: joe-versus-the-volcano
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: warm
+    gateway: 4
+    note: A tribal chief presiding over an island's odd customs with total sincerity, playing genial, deadpan hospitality.
+
+curated:
+  curator: house
+  rationale: The signature role first, then the range either side of it.
+  order:
+    - the-godfather
+    - the-godfather-part-ii
+    - look-whos-talking
+    - joe-versus-the-volcano

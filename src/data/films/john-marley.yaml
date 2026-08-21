@@ -1,0 +1,26 @@
+# New films for John Marley. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Godfather already exists in brando.yaml. Faces already exists in rowlands.yaml.
+
+- id: love-story
+  tmdb_id: null
+  title: Love Story
+  year: 1970
+  runtime: 100
+  director: Arthur Hiller
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 3 # a gentler, more sentimental tragedy than the other two share
+    humor: 2
+    acclaim: 0.68
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: cat-ballou
+  tmdb_id: null
+  title: Cat Ballou
+  year: 1965
+  runtime: 96
+  director: Elliot Silverstein
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

@@ -1,0 +1,19 @@
+# Films for Sterling Hayden. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Godfather already exists in brando.yaml. Dr. Strangelove and The Killing
+# already exist in kubrick.yaml. The Long Goodbye below is his own — outside
+# both of those corpora.
+
+- id: the-long-goodbye
+  tmdb_id: null
+  title: The Long Goodbye
+  year: 1973
+  runtime: 112
+  director: Robert Altman
+  tags:
+    opacity: 2 # a hazy, revisionist noir where the novelist's own collapse is as unreadable as the mystery
+    stillness: 3
+    bleakness: 4
+    humor: 2
+    acclaim: 0.82
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 0 }

@@ -1,0 +1,47 @@
+slug: sterling-hayden
+kind: actor
+name: Sterling Hayden
+blurb: A towering, gravel-voiced presence who could play a corrupt cop, a doomed heist mastermind, or a general convinced the fluoride is out to get him, without ever losing his weight.
+
+films:
+  - film: the-godfather
+    signature: 4
+    must_see: true
+    showcase: 4
+    role_size: supporting
+    register: menacing
+    gateway: 4
+    note: A corrupt police captain protecting a rival family for a price, playing brutal, contemptuous authority.
+
+  - film: dr-strangelove
+    signature: 5
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 3
+    note: A general convinced fluoridated water is a communist plot, calmly launching a nuclear war over it, playing deadpan, unshakeable paranoia.
+
+  - film: the-killing
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: A racetrack heist mastermind whose meticulous plan comes apart over one small detail, playing controlled, weary determination.
+
+  - film: the-long-goodbye
+    signature: 3
+    showcase: 4
+    role_size: supporting
+    register: warm
+    gateway: 2
+    note: A blocked, self-destructive novelist whose charisma can't quite cover how far gone he really is, playing magnetic, doomed instability.
+
+curated:
+  curator: house
+  rationale: The most iconic performance first, then the range around it.
+  order:
+    - dr-strangelove
+    - the-killing
+    - the-godfather
+    - the-long-goodbye

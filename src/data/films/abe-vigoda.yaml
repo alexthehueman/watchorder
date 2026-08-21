@@ -1,0 +1,22 @@
+# New films for Abe Vigoda. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Godfather already exists in brando.yaml. The Godfather Part II already
+# exists in de-niro.yaml.
+
+- id: look-whos-talking
+  tmdb_id: null
+  title: Look Who's Talking
+  year: 1989
+  runtime: 93
+  director: Amy Heckerling
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: joe-versus-the-volcano
+  tmdb_id: null
+  title: Joe Versus the Volcano
+  year: 1990
+  runtime: 102
+  director: John Patrick Shanley
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 4, acclaim: 0.58 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
