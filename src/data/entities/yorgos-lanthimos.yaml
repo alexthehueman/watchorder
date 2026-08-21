@@ -1,0 +1,60 @@
+slug: yorgos-lanthimos
+kind: director
+name: Yorgos Lanthimos
+blurb: Deadpan, flatly-delivered absurdism dropped into otherwise ordinary lives, where nobody in the cast ever signals that the premise is insane.
+
+films:
+  - film: poor-things
+    signature: 5
+    must_see: true
+    gateway: 5
+    note: A woman revived from suicide with her unborn child's brain grows up at the speed of the plot itself, running off with a rakish lawyer to learn about the world with zero inherited shame.
+
+  - film: the-favourite
+    signature: 5
+    must_see: true
+    gateway: 5
+    note: Two women compete for the ailing Queen Anne's favor and the political power that comes with it, in a court where affection and strategy stop being distinguishable.
+
+  - film: the-lobster
+    signature: 4
+    gateway: 3
+    note: Newly single adults check into a hotel with forty-five days to find a new partner, or be turned into the animal of their choice and released into the woods.
+
+  - film: dogtooth
+    signature: 4
+    gateway: 1
+    note: Three adult siblings have been raised entirely inside their family's walled property, taught a private vocabulary for the outside world, and told it's too dangerous to ever leave.
+
+  - film: the-killing-of-a-sacred-deer
+    signature: 3
+    gateway: 1
+    note: A surgeon's growing friendship with a teenage boy turns into something closer to a curse, forcing an impossible choice on his own family with no explanation for why.
+
+  - film: kinds-of-kindness
+    signature: 2
+    gateway: 2
+    note: Three unconnected stories, the same small cast playing different roles in each, all circling the same idea of what people will do for someone else's approval.
+
+  - film: bugonia
+    signature: 2
+    gateway: 3
+    note: Two conspiracy-obsessed cousins kidnap a pharmaceutical CEO they're convinced is an alien, and interrogate her in a basement to save the planet before it's too late.
+
+  - film: alps
+    signature: 2
+    gateway: 1
+    note: A small group runs a clandestine business impersonating the recently deceased to help grieving families cope, and one of them starts losing track of where the role-play stops.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - poor-things
+    - the-favourite
+    - the-lobster
+    - dogtooth
+    - the-killing-of-a-sacred-deer
+    - bugonia
+    - kinds-of-kindness
+    - alps

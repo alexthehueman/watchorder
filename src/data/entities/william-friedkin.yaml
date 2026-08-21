@@ -1,0 +1,48 @@
+slug: william-friedkin
+kind: director
+name: William Friedkin
+blurb: Gritty, documentary-style tension applied to whatever genre he's working in that decade, with a camera that never once lets the audience feel safe.
+
+films:
+  - film: the-exorcist
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A mother watches her twelve-year-old daughter's behavior turn violently, inexplicably wrong, and turns to two priests when medicine runs out of explanations.
+
+  - film: the-french-connection
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: Two narcotics detectives tail a French heroin smuggling operation through New York, in a pursuit that culminates in one of the most relentless car chases ever put on film.
+
+  - film: to-live-and-die-in-la
+    signature: 3
+    gateway: 4
+    note: A Secret Service agent obsessed with catching his partner's killer, a master counterfeiter, starts breaking every rule his badge is supposed to represent to do it.
+
+  - film: sorcerer
+    signature: 3
+    gateway: 2
+    note: Four fugitives stranded in a South American village take a suicide job driving trucks of unstable, sweating dynamite through the jungle to cap a burning oil well.
+
+  - film: killer-joe
+    signature: 3
+    gateway: 2
+    note: A broke family hires a police detective who moonlights as a contract killer to murder their mother for the insurance money, and can't actually pay him until the payout clears.
+
+  - film: bug
+    signature: 2
+    gateway: 1
+    note: A lonely motel-dwelling waitress takes in a drifter convinced the government implanted bugs under his skin, and starts believing him more than she believes her own senses.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - the-exorcist
+    - the-french-connection
+    - to-live-and-die-in-la
+    - sorcerer
+    - killer-joe
+    - bug

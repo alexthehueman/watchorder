@@ -1,0 +1,47 @@
+# New films for Yorgos Lanthimos. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Kinds of Kindness already exists in elordi.yaml. Poor Things already exists in
+# emma-stone.yaml. The Killing of a Sacred Deer already exists in keoghan.yaml. The
+# Lobster and The Favourite already exist in weisz.yaml.
+
+- id: dogtooth
+  tmdb_id: null
+  title: Dogtooth
+  year: 2009
+  runtime: 94
+  director: Yorgos Lanthimos
+  tags:
+    opacity: 4 # the parents' actual reasons for the isolation, and how it will possibly end, both stay withheld
+    stillness: 4
+    bleakness: 5
+    humor: 1
+    acclaim: 0.78
+  content: { sexual_violence: true, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 2 }
+
+- id: bugonia
+  tmdb_id: null
+  title: Bugonia
+  year: 2025
+  runtime: 118
+  director: Yorgos Lanthimos
+  tags:
+    opacity: 3 # whether she's actually an alien or the two men have simply convinced themselves stays open
+    stillness: 2
+    bleakness: 4
+    humor: 3
+    acclaim: 0.72
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: alps
+  tmdb_id: null
+  title: Alps
+  year: 2011
+  runtime: 93
+  director: Yorgos Lanthimos
+  tags:
+    opacity: 4 # the group's own rules for who they can impersonate, and why, are never once explained outright
+    stillness: 3
+    bleakness: 5
+    humor: 2
+    acclaim: 0.68
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }

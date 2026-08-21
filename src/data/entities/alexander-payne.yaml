@@ -1,0 +1,60 @@
+slug: alexander-payne
+kind: director
+name: Alexander Payne
+blurb: Wry, deflated Midwestern men taking stock of a life that didn't go the way they planned, played for comedy right up until it very much isn't.
+
+films:
+  - film: sideways
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A depressive, unpublished novelist and his soon-to-be-married actor friend spend a week wine-tasting through Santa Barbara before the wedding neither of them wants to talk about.
+
+  - film: election
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A high school teacher's quiet contempt for his class's most driven, ambitious student leads him to rig her unopposed run for student council president.
+
+  - film: the-descendants
+    signature: 4
+    gateway: 4
+    note: A Hawaiian land trustee has to reconnect with his two estranged daughters and decide what to do about his wife's affair, all while she lies dying in a coma.
+
+  - film: about-schmidt
+    signature: 4
+    gateway: 3
+    note: A newly retired, newly widowed insurance actuary sets out on a road trip to his daughter's wedding, writing increasingly candid letters to a boy he sponsors overseas along the way.
+
+  - film: the-holdovers
+    signature: 3
+    gateway: 5
+    note: A strict, unpopular classics teacher gets stuck supervising the handful of students with nowhere to go over Christmas break, and slowly bonds with the one kid he can't get rid of.
+
+  - film: nebraska
+    signature: 3
+    gateway: 2
+    note: An elderly, possibly delusional father is convinced he's won a magazine sweepstakes and insists on driving to Nebraska to claim it, so his estranged son agrees to take him.
+
+  - film: citizen-ruth
+    signature: 2
+    gateway: 2
+    note: A homeless woman facing charges for inhalant abuse gets pregnant again, and finds herself fought over by pro-life and pro-choice activists who both see her as a cause rather than a person.
+
+  - film: downsizing
+    signature: 2
+    gateway: 2
+    note: A man undergoes an irreversible procedure to shrink himself to five inches tall for a better life and a smaller footprint, only to watch the plan fall apart almost immediately.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - sideways
+    - election
+    - the-descendants
+    - about-schmidt
+    - the-holdovers
+    - nebraska
+    - citizen-ruth
+    - downsizing

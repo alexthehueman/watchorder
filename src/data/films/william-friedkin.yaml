@@ -1,0 +1,46 @@
+# New films for William Friedkin. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The French Connection already exists in hackman.yaml. Killer Joe already exists in
+# mcconaughey.yaml. The Exorcist already exists in von-sydow.yaml.
+
+- id: to-live-and-die-in-la
+  tmdb_id: null
+  title: To Live and Die in L.A.
+  year: 1985
+  runtime: 116
+  director: William Friedkin
+  tags:
+    opacity: 2 # how far the agent is willing to go stays an open question the film keeps pushing past the last acceptable answer
+    stillness: 1
+    bleakness: 5
+    humor: 1
+    acclaim: 0.75
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+
+- id: sorcerer
+  tmdb_id: null
+  title: Sorcerer
+  year: 1977
+  runtime: 121
+  director: William Friedkin
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 5
+    humor: 1
+    acclaim: 0.75
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: bug
+  tmdb_id: null
+  title: Bug
+  year: 2006
+  runtime: 102
+  director: William Friedkin
+  tags:
+    opacity: 3 # whether the infestation is real or a shared delusion is the entire film, and it never settles the question
+    stillness: 2
+    bleakness: 5
+    humor: 1
+    acclaim: 0.65
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
