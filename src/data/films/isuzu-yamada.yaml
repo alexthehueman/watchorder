@@ -1,0 +1,14 @@
+# Films for Isuzu Yamada. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Throne of Blood and Yojimbo already exist in mifune.yaml. Osaka Elegy already
+# exists in mizoguchi.yaml. Sisters of the Gion below is her own — another
+# Mizoguchi film outside the shared corpus.
+
+- id: sisters-of-the-gion
+  tmdb_id: null
+  title: Sisters of the Gion
+  year: 1936
+  runtime: 69
+  director: Kenji Mizoguchi
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }

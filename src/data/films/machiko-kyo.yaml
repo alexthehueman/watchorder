@@ -1,0 +1,17 @@
+# New films for Machiko Kyo. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Rashomon already exists in mifune.yaml. Ugetsu already exists in mizoguchi.yaml.
+
+- id: gate-of-hell
+  tmdb_id: null
+  title: Gate of Hell
+  year: 1953
+  runtime: 89
+  director: Teinosuke Kinugasa
+  tags:
+    opacity: 1
+    stillness: 2 # a more forward-driving tragedy than the contemplative pace its two leads' other films share
+    bleakness: 4
+    humor: 1
+    acclaim: 0.72
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 0 }
