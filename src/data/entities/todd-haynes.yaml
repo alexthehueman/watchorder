@@ -1,0 +1,60 @@
+slug: todd-haynes
+kind: director
+name: Todd Haynes
+blurb: Old Hollywood melodrama's visual grammar borrowed and pointed at everything it used to leave out — repression, illness, identity — without ever losing the polish.
+
+films:
+  - film: carol
+    signature: 5
+    must_see: true
+    gateway: 5
+    note: A young department-store clerk falls for an older, wealthy woman in the middle of a bitter divorce, in 1950s New York where neither of them can be seen falling for anyone like this.
+
+  - film: far-from-heaven
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A seemingly perfect 1950s Connecticut housewife's world comes apart when she discovers her husband's secret and finds herself drawn to their Black gardener instead.
+
+  - film: safe
+    signature: 4
+    gateway: 2
+    note: A wealthy suburban housewife develops a mysterious, worsening illness that doctors can't explain, and retreats to a New Age wellness center that may be making it worse.
+
+  - film: may-december
+    signature: 4
+    gateway: 4
+    note: An actress researching her role as a woman notorious for a decades-old scandal moves in with the woman and her much-younger husband, and the boundaries between research and reality blur fast.
+
+  - film: im-not-there
+    signature: 3
+    gateway: 1
+    note: Six different actors play six fragments of the same iconic, constantly self-reinventing musician, and the film never bothers explaining how the pieces fit together.
+
+  - film: velvet-goldmine
+    signature: 3
+    gateway: 2
+    note: A journalist investigates the decade-old, staged assassination of a glam-rock star, uncovering a hidden queer history the official story left out entirely.
+
+  - film: dark-waters
+    signature: 2
+    gateway: 4
+    note: A corporate defense lawyer takes on the chemical company he's spent his career protecting clients like, after learning it's been poisoning a small town's water for decades.
+
+  - film: poison
+    signature: 2
+    gateway: 1
+    note: Three unconnected stories — a tabloid-style documentary, a sci-fi horror riff, a prison drama — circle the same idea of what a community decides is too transgressive to tolerate.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - carol
+    - far-from-heaven
+    - safe
+    - may-december
+    - im-not-there
+    - velvet-goldmine
+    - dark-waters
+    - poison

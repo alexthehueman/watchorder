@@ -1,0 +1,53 @@
+slug: rian-johnson
+kind: director
+name: Rian Johnson
+blurb: Genre mechanics taken apart and rebuilt in public — noir, whodunit, time-travel thriller — always with the structure itself as much a part of the fun as the story.
+
+films:
+  - film: knives-out
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A celebrated crime novelist is found dead the night of his eighty-fifth birthday, and a famous detective nobody hired starts working the case anyway.
+
+  - film: brick
+    signature: 5
+    gateway: 1
+    note: A high schooler investigates his ex-girlfriend's death by working his way into the school's drug underworld, treating every hallway and locker room like a hardboiled crime scene.
+
+  - film: glass-onion
+    signature: 4
+    gateway: 4
+    note: A tech billionaire invites his old friend group to his private Greek island for a murder-mystery weekend, and gets an actual murder instead of the game he planned.
+
+  - film: looper
+    signature: 4
+    gateway: 3
+    note: A contract killer who executes targets sent back from thirty years in the future has to decide what to do when his own future self shows up as the next job.
+
+  - film: star-wars-the-last-jedi
+    signature: 3
+    gateway: 4
+    note: The last Jedi in hiding refuses to train the woman who tracked him down, while the Resistance's fleet gets whittled down to almost nothing in a slow-motion retreat.
+
+  - film: wake-up-dead-man
+    signature: 4
+    gateway: 4
+    note: Benoit Blanc investigates a murder tangled up in a small parish's affairs, working alongside a magnetic priest whose sermons don't quite match what's happening behind them.
+
+  - film: the-brothers-bloom
+    signature: 2
+    gateway: 3
+    note: Two con-artist brothers plan one final job against an eccentric heiress, and the one running the scheme starts falling for her in ways the con didn't account for.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - knives-out
+    - brick
+    - glass-onion
+    - looper
+    - star-wars-the-last-jedi
+    - wake-up-dead-man
+    - the-brothers-bloom

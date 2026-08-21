@@ -1,0 +1,60 @@
+slug: edgar-wright
+kind: director
+name: Edgar Wright
+blurb: Whip-fast editing and genre parody that loves the genre too much to actually mock it, cut to the beat of whatever's playing on the soundtrack.
+
+films:
+  - film: shaun-of-the-dead
+    signature: 5
+    must_see: true
+    gateway: 5
+    note: A directionless guy tries to win back his ex, patch things up with his mum, and get through one more day with his best mate, and barely clocks that a zombie outbreak is happening around all of it.
+
+  - film: hot-fuzz
+    signature: 5
+    must_see: true
+    gateway: 5
+    note: A big-city super-cop is reassigned to a suspiciously perfect small village and starts noticing the "accidents" there are a lot less accidental than everyone insists.
+
+  - film: baby-driver
+    signature: 4
+    gateway: 4
+    note: A young getaway driver who scores every job to his own personal soundtrack tries to walk away from crime for the girl he just met, right before his last job goes wrong.
+
+  - film: scott-pilgrim-vs-the-world
+    signature: 4
+    gateway: 3
+    note: A slacker bassist falling for the new girl in town learns he has to defeat her seven evil exes in literal video-game combat before he's allowed to date her.
+
+  - film: the-worlds-end
+    signature: 3
+    gateway: 2
+    note: Five childhood friends reunite to finally finish an epic pub crawl they never completed as teenagers, and find their hometown quietly overrun by something that isn't human anymore.
+
+  - film: the-running-man-2025
+    signature: 2
+    gateway: 4
+    note: A desperate man enters a deadly televised game show where he has to survive thirty days while professional hunters try to kill him on live television.
+
+  - film: last-night-in-soho
+    signature: 2
+    gateway: 1
+    note: An aspiring fashion designer's vivid dreams keep pulling her into the life of a 1960s singer chasing the same city's promises, until the dream starts turning into something else.
+
+  - film: a-fistful-of-fingers
+    signature: 2
+    gateway: 3
+    note: A gunslinger's quest for revenge against his father's killer, spoofed on a shoestring budget by a film student who hadn't made anything else yet.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - shaun-of-the-dead
+    - hot-fuzz
+    - baby-driver
+    - scott-pilgrim-vs-the-world
+    - the-worlds-end
+    - the-running-man-2025
+    - last-night-in-soho
+    - a-fistful-of-fingers
