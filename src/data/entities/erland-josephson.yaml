@@ -1,0 +1,38 @@
+slug: erland-josephson
+kind: actor
+name: Erland Josephson
+blurb: A gentle, deeply intelligent Bergman regular, equally believable as a marriage's slow unraveling and a family's quiet source of comfort.
+
+films:
+  - film: scenes-from-a-marriage
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A husband whose comfortable marriage unravels in real time across years of painfully honest conversation, playing guarded, self-justifying denial.
+
+  - film: cries-and-whispers
+    signature: 3
+    showcase: 4
+    role_size: supporting
+    register: warm
+    gateway: 4
+    note: A family doctor offering the one moment of real tenderness in a house consumed by grief, playing quiet, compassionate care.
+
+  - film: fanny-and-alexander
+    signature: 4
+    showcase: 4
+    role_size: supporting
+    register: comic
+    gateway: 5
+    note: A kindly old family friend whose bag of tricks turns out to be full of real magic, playing playful, twinkling mischief.
+
+curated:
+  curator: house
+  rationale: The signature role first, then the range either side of it.
+  order:
+    - scenes-from-a-marriage
+    - fanny-and-alexander
+    - cries-and-whispers

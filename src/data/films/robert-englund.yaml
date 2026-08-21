@@ -1,0 +1,52 @@
+# New films for Robert Englund. Scales and anchors are in README.md ("The anchor rubric").
+
+- id: a-nightmare-on-elm-street
+  tmdb_id: null
+  title: A Nightmare on Elm Street
+  year: 1984
+  runtime: 91
+  director: Wes Craven
+  tags:
+    opacity: 2 # a dream-logic slasher where what's real and what's nightmare stays deliberately blurred
+    stillness: 2
+    bleakness: 4
+    humor: 2
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
+
+- id: wes-cravens-new-nightmare
+  tmdb_id: null
+  title: Wes Craven's New Nightmare
+  year: 1994
+  runtime: 112
+  director: Wes Craven
+  tags:
+    opacity: 3 # a horror franchise's own actors stalked by a version of the villain that's escaped the fiction
+    stillness: 2
+    bleakness: 4
+    humor: 1
+    acclaim: 0.72
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+
+- id: urban-legend
+  tmdb_id: null
+  title: Urban Legend
+  year: 1998
+  runtime: 99
+  director: Jamie Blanks
+  tags:
+    opacity: 1
+    stillness: 3 # a slower-burn campus mystery before the slasher stuff kicks in
+    bleakness: 3
+    humor: 2
+    acclaim: 0.55
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-mangler
+  tmdb_id: null
+  title: The Mangler
+  year: 1995
+  runtime: 106
+  director: Tobe Hooper
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
