@@ -1,0 +1,26 @@
+# New films for Janet Leigh. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Psycho already exists in hitchcock.yaml. Touch of Evil already exists in welles.yaml.
+
+- id: the-manchurian-candidate
+  tmdb_id: null
+  title: The Manchurian Candidate
+  year: 1962
+  runtime: 126
+  director: John Frankenheimer
+  tags:
+    opacity: 3 # a Cold War conspiracy told through brainwashed perception, deliberately hard to trust
+    stillness: 1 # a tense, propulsive Cold War thriller, not a film that sits still
+    bleakness: 4
+    humor: 1
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: little-women-1949
+  tmdb_id: null
+  title: Little Women
+  year: 1949
+  runtime: 121
+  director: Mervyn LeRoy
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.62 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

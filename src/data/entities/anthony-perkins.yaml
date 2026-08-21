@@ -1,0 +1,47 @@
+slug: anthony-perkins
+kind: actor
+name: Anthony Perkins
+blurb: A nervy, boyish screen presence whose warmth could curdle into something genuinely disturbing without ever raising its voice.
+
+films:
+  - film: psycho
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 5
+    note: A polite, awkward motel manager hiding an unspeakable secret about his mother, playing chillingly split, unstable calm.
+
+  - film: the-trial
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A man arrested for a crime that's never named, unraveling through an endless bureaucratic nightmare, playing mounting, helpless anxiety.
+
+  - film: pretty-poison
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: unhinged
+    gateway: 3
+    note: A paroled fantasist who draws a teenager into his private delusion of espionage, playing eager, untrustworthy self-invention.
+
+  - film: friendly-persuasion
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: warm
+    gateway: 5
+    note: A Quaker son torn between his faith's pacifism and the war closing in on his family, playing earnest, conflicted devotion.
+
+curated:
+  curator: house
+  rationale: The signature role first, then the range either side of it.
+  order:
+    - psycho
+    - the-trial
+    - pretty-poison
+    - friendly-persuasion

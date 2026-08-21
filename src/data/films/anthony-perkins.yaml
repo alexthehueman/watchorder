@@ -1,0 +1,26 @@
+# New films for Anthony Perkins. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Psycho already exists in hitchcock.yaml. The Trial already exists in welles.yaml.
+
+- id: pretty-poison
+  tmdb_id: null
+  title: Pretty Poison
+  year: 1968
+  runtime: 89
+  director: Noel Black
+  tags:
+    opacity: 2 # never quite clear how much of his own story he believes before she takes it further than he meant
+    stillness: 2
+    bleakness: 4
+    humor: 2
+    acclaim: 0.68
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: friendly-persuasion
+  tmdb_id: null
+  title: Friendly Persuasion
+  year: 1956
+  runtime: 137
+  director: William Wyler
+  tags: { opacity: 1, stillness: 3, bleakness: 2, humor: 3, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }

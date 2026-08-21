@@ -1,0 +1,32 @@
+# New films for Joseph Cotten. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Citizen Kane already exists in welles.yaml. Shadow of a Doubt already exists in
+# hitchcock.yaml.
+
+- id: the-third-man
+  tmdb_id: null
+  title: The Third Man
+  year: 1949
+  runtime: 104
+  director: Carol Reed
+  tags:
+    opacity: 3 # a postwar noir mystery about a friend who may or may not really be dead
+    stillness: 2
+    bleakness: 4
+    humor: 2
+    acclaim: 0.92
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+
+- id: portrait-of-jennie
+  tmdb_id: null
+  title: Portrait of Jennie
+  year: 1948
+  runtime: 86
+  director: William Dieterle
+  tags:
+    opacity: 4 # whether she's a ghost, a girl slipping through time, or his own invention is never resolved
+    stillness: 4
+    bleakness: 3
+    humor: 1
+    acclaim: 0.68
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
