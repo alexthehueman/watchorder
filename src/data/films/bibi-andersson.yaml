@@ -1,0 +1,13 @@
+# Films for Bibi Andersson. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Seventh Seal and Wild Strawberries already exist in von-sydow.yaml.
+# Persona already exists in ullmann.yaml. The Touch below is her own.
+
+- id: the-touch
+  tmdb_id: null
+  title: The Touch
+  year: 1971
+  runtime: 115
+  director: Ingmar Bergman
+  tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 2, acclaim: 0.62 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }

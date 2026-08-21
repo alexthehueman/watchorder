@@ -1,0 +1,14 @@
+# Films for Harriet Andersson. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Through a Glass Darkly already exists in von-sydow.yaml. Cries and Whispers
+# and Fanny and Alexander already exist in ullmann.yaml and bergman-ingmar.yaml
+# respectively. Summer with Monika below is her own — the breakout role.
+
+- id: summer-with-monika
+  tmdb_id: null
+  title: Summer with Monika
+  year: 1953
+  runtime: 96
+  director: Ingmar Bergman
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }

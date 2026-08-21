@@ -1,0 +1,19 @@
+# Films for Ingrid Thulin. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Winter Light and The Silence already exist in bergman-ingmar.yaml. Cries and
+# Whispers already exists in ullmann.yaml. The Damned below is her own — a
+# Visconti film outside the Bergman corpus entirely.
+
+- id: the-damned
+  tmdb_id: null
+  title: The Damned
+  year: 1969
+  runtime: 156
+  director: Luchino Visconti
+  tags:
+    opacity: 2
+    stillness: 3 # a family's collapse staged with more forward momentum than Bergman's stillness
+    bleakness: 5
+    humor: 1
+    acclaim: 0.78
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 1 }

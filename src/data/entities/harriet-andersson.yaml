@@ -1,0 +1,47 @@
+slug: harriet-andersson
+kind: actor
+name: Harriet Andersson
+blurb: A fierce, physically fearless Bergman regular who could play raw bodily suffering and cold cruelty with equal, unflinching commitment.
+
+films:
+  - film: cries-and-whispers
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 3
+    note: A woman dying of cancer, her suffering rendered with almost unbearable physical honesty, playing raw, terrified agony.
+
+  - film: through-a-glass-darkly
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A young woman slipping into psychosis over the course of a single island weekend, playing unsettling, quietly escalating detachment.
+
+  - film: fanny-and-alexander
+    signature: 3
+    showcase: 4
+    role_size: supporting
+    register: menacing
+    gateway: 4
+    note: A household's cold, punitive housekeeper who makes the children's lives a private hell, playing controlled, chilling cruelty.
+
+  - film: summer-with-monika
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: warm
+    gateway: 5
+    note: A restless young woman running off for a summer of freedom before real life catches up with her, playing reckless, hungry vitality.
+
+curated:
+  curator: house
+  rationale: The most demanding, defining role first, then the range either side of it.
+  order:
+    - cries-and-whispers
+    - through-a-glass-darkly
+    - fanny-and-alexander
+    - summer-with-monika
