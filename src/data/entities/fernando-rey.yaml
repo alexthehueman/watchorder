@@ -1,0 +1,38 @@
+slug: fernando-rey
+kind: actor
+name: Fernando Rey
+blurb: A courtly, silver-tongued Spanish actor whose sophistication made him equally convincing as Buñuel's favorite bourgeois target and as a real-world drug kingpin.
+
+films:
+  - film: tristana
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: menacing
+    gateway: 2
+    note: A respectable guardian whose care for his ward curdles into possessive cruelty, playing charming, self-justifying control.
+
+  - film: the-discreet-charm-of-the-bourgeoisie
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: comic
+    gateway: 4
+    note: An ambassador running a drug operation on the side while his dinner party keeps mysteriously falling apart, playing unbothered, absurdist composure.
+
+  - film: the-french-connection
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 5
+    note: A suave, untouchable heroin smuggler always one step ahead of the cop obsessed with catching him, playing elegant, unhurried confidence.
+
+curated:
+  curator: house
+  rationale: The signature Buñuel role first, then the range either side of it.
+  order:
+    - tristana
+    - the-discreet-charm-of-the-bourgeoisie
+    - the-french-connection
