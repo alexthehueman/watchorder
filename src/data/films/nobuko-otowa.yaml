@@ -1,0 +1,52 @@
+# New films for Nobuko Otowa. Scales and anchors are in README.md ("The anchor rubric").
+
+- id: onibaba
+  tmdb_id: null
+  title: Onibaba
+  year: 1964
+  runtime: 103
+  director: Kaneto Shindo
+  tags:
+    opacity: 2 # whether the demon mask's curse is real or her own guilt made physical is left open
+    stillness: 2
+    bleakness: 5
+    humor: 1
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+
+- id: kuroneko
+  tmdb_id: null
+  title: Kuroneko
+  year: 1968
+  runtime: 99
+  director: Kaneto Shindo
+  tags:
+    opacity: 3 # a dreamlike ghost story that never quite tells you which scenes are real
+    stillness: 3
+    bleakness: 5
+    humor: 1
+    acclaim: 0.80
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: children-of-hiroshima
+  tmdb_id: null
+  title: Children of Hiroshima
+  year: 1952
+  runtime: 97
+  director: Kaneto Shindo
+  tags:
+    opacity: 1
+    stillness: 3
+    bleakness: 5
+    humor: 2 # small, real moments of children's play and resilience break through the grief
+    acclaim: 0.68
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 0 }
+
+- id: the-naked-island
+  tmdb_id: null
+  title: The Naked Island
+  year: 1960
+  runtime: 94
+  director: Kaneto Shindo
+  tags: { opacity: 1, stillness: 5, bleakness: 4, humor: 1, acclaim: 0.82 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 0 }

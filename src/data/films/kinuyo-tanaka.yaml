@@ -1,0 +1,18 @@
+# Films for Kinuyo Tanaka. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Ugetsu, Sansho the Bailiff, and The Life of Oharu already exist in mizoguchi.yaml.
+# Sandakan No. 8 below is her own — a later, more reflective role outside Mizoguchi.
+
+- id: sandakan-no-8
+  tmdb_id: null
+  title: Sandakan No. 8
+  year: 1974
+  runtime: 122
+  director: Kei Kumai
+  tags:
+    opacity: 2 # her past only surfaces gradually, through a researcher's fragmented interviews
+    stillness: 4
+    bleakness: 3
+    humor: 2 # a few genuinely wry, weary moments in her exchanges with the researcher
+    acclaim: 0.78
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

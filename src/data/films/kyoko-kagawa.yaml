@@ -1,0 +1,14 @@
+# Films for Kyoko Kagawa. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Tokyo Story already exists in hara.yaml. High and Low and The Bad Sleep Well
+# already exist in mifune.yaml. Sansho the Bailiff already exists in mizoguchi.yaml.
+# Mothra below is her own — a lighter genre role outside all of that.
+
+- id: mothra
+  tmdb_id: null
+  title: Mothra
+  year: 1961
+  runtime: 101
+  director: Ishiro Honda
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
