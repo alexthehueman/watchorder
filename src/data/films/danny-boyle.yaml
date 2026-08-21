@@ -1,0 +1,48 @@
+# New films for Danny Boyle. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Trance already exists in cassel.yaml. 28 Days Later already exists in
+# cillian-murphy.yaml. Sunshine already exists in evans.yaml (also tagged separately as
+# sunshine-2007 in yeoh.yaml). Yesterday already exists in mckinnon.yaml. Trainspotting
+# already exists in mcgregor.yaml. Steve Jobs already exists in winslet.yaml.
+
+- id: slumdog-millionaire
+  tmdb_id: null
+  title: Slumdog Millionaire
+  year: 2008
+  runtime: 120
+  director: Danny Boyle
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 3 # a hard childhood in the slums, but built toward a fairy-tale romance and a triumphant ending
+    humor: 3
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+
+- id: 127-hours
+  tmdb_id: null
+  title: 127 Hours
+  year: 2010
+  runtime: 94
+  director: Danny Boyle
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 4
+    humor: 2 # real charm and dark wit in the canyoneer's video-diary monologues before it turns into pure survival
+    acclaim: 0.82
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: the-beach
+  tmdb_id: null
+  title: The Beach
+  year: 2000
+  runtime: 119
+  director: Danny Boyle
+  tags:
+    opacity: 2
+    stillness: 2
+    bleakness: 4 # a backpacker utopia that curdles into paranoia and violence once the group has to defend it
+    humor: 2
+    acclaim: 0.55
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }

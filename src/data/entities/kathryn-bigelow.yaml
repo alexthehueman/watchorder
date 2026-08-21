@@ -1,0 +1,60 @@
+slug: kathryn-bigelow
+kind: director
+name: Kathryn Bigelow
+blurb: Bodies under extreme, procedural pressure, whether it's a bomb tech's next call or a decade-long manhunt, shot with an action director's eye for how tension actually moves.
+
+films:
+  - film: the-hurt-locker
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: An Army bomb disposal specialist rotates through one impossible defusal after another in Baghdad, chasing a kind of clarity he can't find anywhere outside the suit.
+
+  - film: zero-dark-thirty
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A CIA analyst spends a decade tracking one lead through interrogation rooms and dead ends, certain it will eventually lead to Bin Laden.
+
+  - film: point-break
+    signature: 4
+    gateway: 5
+    note: An FBI agent goes undercover with a crew of surfers he suspects of bank robbery, and starts to mean it a lot more than an undercover agent is supposed to.
+
+  - film: near-dark
+    signature: 3
+    gateway: 3
+    note: A small-town Oklahoma kid gets bitten by a drifter and pulled into her family of nomadic vampires, none of whom particularly want him kept alive.
+
+  - film: strange-days
+    signature: 3
+    gateway: 2
+    note: A dealer in illegal recordings of other people's memories gets pulled into a murder captured on one of his own tapes, on the last two days of 1999.
+
+  - film: detroit
+    signature: 3
+    gateway: 2
+    note: A police raid during the 1967 Detroit riots escalates into a night of interrogation and violence at the Algiers Motel, reconstructed from the survivors' accounts.
+
+  - film: k-19-the-widowmaker
+    signature: 2
+    gateway: 3
+    note: The crew of a Soviet nuclear submarine on its maiden voyage has to jury-rig a fix for a failing reactor before it triggers a meltdown their captain refuses to report.
+
+  - film: blue-steel
+    signature: 2
+    gateway: 2
+    note: A rookie cop's first day ends in a shooting witnessed by a Wall Street trader who takes her dropped gun and starts using it to stage crimes only she gets blamed for.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - the-hurt-locker
+    - zero-dark-thirty
+    - point-break
+    - near-dark
+    - strange-days
+    - detroit
+    - k-19-the-widowmaker
+    - blue-steel

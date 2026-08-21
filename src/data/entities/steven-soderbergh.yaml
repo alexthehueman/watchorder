@@ -1,0 +1,66 @@
+slug: steven-soderbergh
+kind: director
+name: Steven Soderbergh
+blurb: Restless and genre-promiscuous, moving from ensemble heist comedy to clinical outbreak thriller to fractured noir without ever settling on one house style.
+
+films:
+  - film: traffic
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: Three interlocking stories — a judge's new drug czar, an undercover DEA operation, and a cartel wife forced to take over the family business — track the drug trade from every side of the border at once.
+
+  - film: oceans-eleven
+    signature: 4
+    must_see: true
+    gateway: 5
+    note: A career con man assembles a crew of ten specialists to rob three Las Vegas casino vaults simultaneously, on opening night, from the inside.
+
+  - film: erin-brockovich
+    signature: 4
+    gateway: 5
+    note: An unemployed single mother talks her way into a law-office job and ends up building the case that takes on a utility company poisoning a town's water supply.
+
+  - film: out-of-sight
+    signature: 4
+    gateway: 4
+    note: An escaped convict and the federal marshal he kidnaps during the breakout can't stop circling each other, even with her entire job now built around bringing him in.
+
+  - film: contagion
+    signature: 3
+    gateway: 3
+    note: A novel virus spreads from a business trip to a global pandemic in days, tracked through the doctors, officials, and ordinary people trying to outrun it.
+
+  - film: the-limey
+    signature: 3
+    gateway: 2
+    note: A British ex-con flies to Los Angeles to find out who really killed his daughter, and the film keeps slipping out of chronological order right along with his own memory of it.
+
+  - film: magic-mike
+    signature: 2
+    gateway: 3
+    note: A veteran male stripper takes a younger dancer under his wing while trying to figure out an exit from the club into something that actually lasts.
+
+  - film: logan-lucky
+    signature: 2
+    gateway: 4
+    note: Two down-on-their-luck brothers recruit a demolitions expert doing time to help them rob the vault under Charlotte Motor Speedway during a NASCAR race.
+
+  - film: the-informant
+    signature: 2
+    gateway: 1
+    note: A rising executive turns FBI informant against his own price-fixing company, and the film only gradually reveals how much of what he's telling everyone is actually true.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - traffic
+    - oceans-eleven
+    - erin-brockovich
+    - out-of-sight
+    - contagion
+    - the-limey
+    - magic-mike
+    - logan-lucky
+    - the-informant

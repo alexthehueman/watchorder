@@ -1,0 +1,24 @@
+# New films for Kathryn Bigelow. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Strange Days already exists in angela-bassett.yaml. Detroit already exists in
+# boyega.yaml. Zero Dark Thirty already exists in chastain.yaml. Near Dark already
+# exists in lance-henriksen.yaml. The Hurt Locker already exists in mackie.yaml. Point
+# Break already exists in reeves.yaml.
+
+- id: blue-steel
+  tmdb_id: null
+  title: Blue Steel
+  year: 1990
+  runtime: 102
+  director: Kathryn Bigelow
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.62 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+
+- id: k-19-the-widowmaker
+  tmdb_id: null
+  title: K-19 The Widowmaker
+  year: 2002
+  runtime: 138
+  director: Kathryn Bigelow
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.62 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

@@ -1,0 +1,66 @@
+slug: danny-boyle
+kind: director
+name: Danny Boyle
+blurb: Kinetic, propulsive, and genre-hopping, chasing whatever wakes an audience up this time — heroin, a zombie plague, a game show, a stranded arm.
+
+films:
+  - film: trainspotting
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A group of Edinburgh heroin addicts drift between highs, betrayals, and half-hearted attempts to get clean, narrated by the one who keeps almost getting out.
+
+  - film: slumdog-millionaire
+    signature: 5
+    must_see: true
+    gateway: 5
+    note: A Mumbai teenager from the slums is one question from winning India's biggest game show, and the police who assume he's cheating get the story of his life instead.
+
+  - film: 28-days-later
+    signature: 4
+    gateway: 2
+    note: A man wakes from a coma to find London empty, and it takes him no time at all to learn why everyone left in such a hurry.
+
+  - film: 127-hours
+    signature: 3
+    gateway: 3
+    note: A solo canyoneer gets his arm pinned under a boulder in a remote slot canyon, and has five days to decide what he's willing to do about it.
+
+  - film: steve-jobs
+    signature: 3
+    gateway: 3
+    note: Three product launches, backstage, each one a pressure cooker of the same unresolved relationships Steve Jobs never lets himself deal with anywhere else.
+
+  - film: sunshine
+    signature: 2
+    gateway: 1
+    note: A crew flies a ship carrying a stellar bomb toward a dying sun to reignite it, and the mission stops being about physics well before they arrive.
+
+  - film: trance
+    signature: 2
+    gateway: 2
+    note: An art auctioneer who helped steal a painting can't remember where he hid it after a blow to the head, so his partners bring in a hypnotherapist to dig it out of him.
+
+  - film: yesterday
+    signature: 1
+    gateway: 5
+    note: A struggling musician wakes up after a blackout to discover he's the only person on Earth who remembers the Beatles ever existed.
+
+  - film: the-beach
+    signature: 2
+    gateway: 3
+    note: A backpacker chasing a rumor of a hidden island paradise off Thailand finds the community that's been guarding it, and watches how fast paradise turns on itself.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - trainspotting
+    - slumdog-millionaire
+    - 28-days-later
+    - 127-hours
+    - steve-jobs
+    - sunshine
+    - trance
+    - yesterday
+    - the-beach
