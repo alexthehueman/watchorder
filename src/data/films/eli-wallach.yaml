@@ -1,0 +1,32 @@
+# New films for Eli Wallach. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Good the Bad and the Ugly already exists in eastwood.yaml. The Misfits
+# already exists in monroe.yaml.
+
+- id: the-magnificent-seven-1960
+  tmdb_id: null
+  title: The Magnificent Seven
+  year: 1960
+  runtime: 128
+  director: John Sturges
+  tags:
+    opacity: 1
+    stillness: 3
+    bleakness: 4 # a village extorted into starvation before the seven ever show up
+    humor: 2
+    acclaim: 0.82
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: baby-doll
+  tmdb_id: null
+  title: Baby Doll
+  year: 1956
+  runtime: 114
+  director: Elia Kazan
+  tags:
+    opacity: 2 # how calculated his seduction of her really is stays deliberately hard to pin down
+    stillness: 3
+    bleakness: 4 # a revenge scheme built entirely on exploiting a woman who never had any real power to begin with
+    humor: 2
+    acclaim: 0.72
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }

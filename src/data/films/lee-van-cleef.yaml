@@ -1,0 +1,20 @@
+# Films for Lee Van Cleef. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Good the Bad and the Ugly already exists in eastwood.yaml. For a Few Dollars
+# More already exists in kinski.yaml. Escape from New York already exists in
+# carpenter.yaml. Sabata below is his own — the signature gunslinger franchise role
+# outside all three.
+
+- id: sabata
+  tmdb_id: null
+  title: Sabata
+  year: 1969
+  runtime: 106
+  director: Gianfranco Parolini
+  tags:
+    opacity: 2 # a plot built entirely on hidden double-crosses that unravel one by one
+    stillness: 2
+    bleakness: 4 # a town's respectable citizens turn out to be the actual criminals
+    humor: 3
+    acclaim: 0.68
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

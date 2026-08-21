@@ -1,0 +1,47 @@
+slug: lee-van-cleef
+kind: actor
+name: Lee Van Cleef
+blurb: A gaunt, hawk-eyed screen villain whose stillness carried more threat than most actors' shouting, before he got to be the hero for once.
+
+films:
+  - film: sabata
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: comic
+    gateway: 3
+    note: A sharpshooting gunslinger who's always three moves ahead of the corrupt men trying to double-cross him, playing wry, unbothered self-assurance.
+
+  - film: the-good-the-bad-and-the-ugly
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: menacing
+    gateway: 5
+    note: A ruthless bounty hunter who never breaks a sweat chasing down the men on his list, playing cold, methodical menace.
+
+  - film: for-a-few-dollars-more
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: A veteran bounty hunter with a personal grudge he never lets show, playing composed, patient resolve.
+
+  - film: escape-from-new-york
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: restrained
+    gateway: 4
+    note: A weary police commissioner sending a convict on a suicide mission with no real intention of honoring the deal, playing gruff, unsentimental authority.
+
+curated:
+  curator: house
+  rationale: The role that made him a leading man first, then the villain work, closing on the late-career genre turn.
+  order:
+    - sabata
+    - the-good-the-bad-and-the-ugly
+    - for-a-few-dollars-more
+    - escape-from-new-york
