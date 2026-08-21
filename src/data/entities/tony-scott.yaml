@@ -1,0 +1,60 @@
+slug: tony-scott
+kind: director
+name: Tony Scott
+blurb: Glossy, kinetic, hyper-edited action built around men who are extremely good at one high-pressure job, filmed like every frame owes the audience an adrenaline spike.
+
+films:
+  - film: top-gun
+    signature: 5
+    must_see: true
+    gateway: 5
+    note: A hotshot Navy pilot competes to be the best in an elite fighter-pilot school, chasing a rivalry and a romance while a friend's death he can't shake follows him through it.
+
+  - film: true-romance
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: A comic-shop clerk and the call girl he falls for on their first date accidentally walk off with a suitcase of mob cocaine, and spend the rest of the film trying to outrun who it belongs to.
+
+  - film: crimson-tide
+    signature: 4
+    gateway: 4
+    note: A nuclear submarine's captain and his executive officer clash over whether a garbled launch order means they should fire on Russia, with no way to confirm it before it might be too late.
+
+  - film: man-on-fire
+    signature: 4
+    gateway: 3
+    note: A burned-out former operative hired to protect a wealthy family's daughter in Mexico City goes after everyone responsible once she's kidnapped anyway.
+
+  - film: enemy-of-the-state
+    signature: 3
+    gateway: 3
+    note: A lawyer who unknowingly ends up with evidence of a political murder becomes the target of an NSA surveillance operation that can track him through almost anything he owns.
+
+  - film: the-hunger
+    signature: 3
+    gateway: 1
+    note: An ageless, centuries-old woman's latest companion starts rapidly aging after she promised him eternal life, so she sets her sights on the doctor investigating his sudden decline.
+
+  - film: the-last-boy-scout
+    signature: 2
+    gateway: 4
+    note: A washed-up bodyguard and a disgraced ex-football player reluctantly team up after the case they're both tangled in turns out to run through a point-shaving scandal and a murder.
+
+  - film: days-of-thunder
+    signature: 2
+    gateway: 3
+    note: A hotheaded rookie stock car driver claws his way up NASCAR's ranks, feuding with a rival on the track and falling for the doctor treating his injuries off it.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - top-gun
+    - true-romance
+    - crimson-tide
+    - man-on-fire
+    - enemy-of-the-state
+    - the-hunger
+    - the-last-boy-scout
+    - days-of-thunder

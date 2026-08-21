@@ -1,0 +1,20 @@
+# New films for Tim Burton. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Edward Scissorhands, Ed Wood, and Sweeney Todd already exist in depp.yaml. Beetlejuice
+# already exists in keaton-michael.yaml. Batman already exists in nicholson.yaml.
+# Beetlejuice Beetlejuice already exists in ortega.yaml. Batman Returns already exists
+# in walken.yaml. Big Eyes already exists in waltz.yaml.
+
+- id: sleepy-hollow
+  tmdb_id: null
+  title: Sleepy Hollow
+  year: 1999
+  runtime: 105
+  director: Tim Burton
+  tags:
+    opacity: 3 # a whodunit under the ghost story — who's actually directing the horseman stays withheld until late
+    stillness: 2
+    bleakness: 4
+    humor: 2
+    acclaim: 0.72
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }

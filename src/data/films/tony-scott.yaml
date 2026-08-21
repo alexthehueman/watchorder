@@ -1,0 +1,29 @@
+# New films for Tony Scott. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Top Gun already exists in cruise.yaml. The Hunger already exists in deneuve.yaml.
+# Crimson Tide already exists in hackman.yaml. Enemy of the State already exists in
+# king.yaml. True Romance already exists in oldman.yaml. Man on Fire already exists in
+# washington.yaml.
+
+- id: the-last-boy-scout
+  tmdb_id: null
+  title: The Last Boy Scout
+  year: 1991
+  runtime: 105
+  director: Tony Scott
+  tags:
+    opacity: 1
+    stillness: 1
+    bleakness: 3
+    humor: 4 # Shane Black's wisecracking buddy-action script is the funniest thing in Scott's filmography by a wide margin
+    acclaim: 0.68
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+
+- id: days-of-thunder
+  tmdb_id: null
+  title: Days of Thunder
+  year: 1990
+  runtime: 107
+  director: Tony Scott
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }

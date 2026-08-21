@@ -1,0 +1,60 @@
+slug: robert-zemeckis
+kind: director
+name: Robert Zemeckis
+blurb: Big, technically ambitious high concepts — time travel, cartoons sharing the frame with humans, a man alone on an island — played completely straight and built to move you anyway.
+
+films:
+  - film: forrest-gump
+    signature: 5
+    must_see: true
+    gateway: 5
+    note: A kind, simple man drifts through three decades of American history — Vietnam, Watergate, the AIDS crisis — narrating all of it from a bus-stop bench, always circling back to one woman.
+
+  - film: back-to-the-future
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A teenager accidentally sent thirty years into the past has to make sure his own future parents fall in love, or he'll never exist to invent the time machine that stranded him there.
+
+  - film: who-framed-roger-rabbit
+    signature: 4
+    gateway: 4
+    note: A washed-up private eye investigating a murder in a Los Angeles where cartoons and humans coexist finds out the case runs straight through the studio system's biggest star.
+
+  - film: cast-away
+    signature: 4
+    gateway: 4
+    note: A FedEx systems engineer survives a plane crash and spends four years alone on a deserted island, slowly losing the version of himself that ever expected to be rescued.
+
+  - film: contact
+    signature: 3
+    gateway: 2
+    note: A radio astronomer decodes an alien signal containing blueprints for a machine, and becomes the one person chosen to use it, with no way to prove what happens next actually happened.
+
+  - film: back-to-the-future-part-ii
+    signature: 3
+    gateway: 1
+    note: A trip to fix his kids' future goes wrong when his own rival gets hold of a sports almanac from the future, forcing a return to the exact night the first film already used up.
+
+  - film: death-becomes-her
+    signature: 2
+    gateway: 3
+    note: Two rivals who've spent decades competing over the same man both drink a potion promising eternal youth, only to discover immortality doesn't undo the damage they keep doing to each other.
+
+  - film: flight
+    signature: 2
+    gateway: 2
+    note: A airline captain who saves nearly everyone aboard a catastrophic mid-flight failure becomes a hero right as the investigation into his own blood-alcohol level begins.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - forrest-gump
+    - back-to-the-future
+    - who-framed-roger-rabbit
+    - cast-away
+    - contact
+    - back-to-the-future-part-ii
+    - death-becomes-her
+    - flight

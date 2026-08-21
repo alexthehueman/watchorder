@@ -1,0 +1,66 @@
+slug: tim-burton
+kind: director
+name: Tim Burton
+blurb: Gothic outsiders in candy-colored suburbs, told through stop-motion textures and matte-black eyeliner whether the genre is horror, superhero, or children's fable.
+
+films:
+  - film: edward-scissorhands
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: An artificial man with blades for hands, left unfinished when his inventor died, is taken in by a suburban family and falls for their teenage daughter.
+
+  - film: beetlejuice
+    signature: 5
+    must_see: true
+    gateway: 5
+    note: A recently deceased couple haunting their old house hires a freelance "bio-exorcist" to scare off the family that's moved in, and he turns out to be much harder to control than expected.
+
+  - film: batman-1989
+    signature: 4
+    gateway: 4
+    note: A vigilante in a bat costume takes on a gangster who falls into a vat of chemicals and comes out the other side calling himself the Joker.
+
+  - film: sweeney-todd
+    signature: 4
+    gateway: 2
+    note: A barber wrongly exiled by a corrupt judge returns to London under a new name and starts working his way toward revenge one straight-razor shave at a time.
+
+  - film: sleepy-hollow
+    signature: 3
+    gateway: 4
+    note: A constable sent to investigate a string of beheadings in a small Dutch village becomes convinced the legendary headless horseman is real, and someone is directing him.
+
+  - film: ed-wood
+    signature: 3
+    gateway: 2
+    note: The famously untalented director of Plan 9 from Outer Space scrapes together a film career through sheer, unkillable enthusiasm and a friendship with an aging Bela Lugosi.
+
+  - film: batman-returns
+    signature: 3
+    gateway: 3
+    note: Batman faces a deformed crime boss and a mild-mannered secretary reborn as a vengeful cat burglar, both of whom Gotham's elite created and then discarded.
+
+  - film: beetlejuice-beetlejuice
+    signature: 2
+    gateway: 3
+    note: Decades later, the same family finds themselves back in the same haunted house, and the freelance bio-exorcist gets another shot at the woman who first summoned him.
+
+  - film: big-eyes
+    signature: 2
+    gateway: 1
+    note: A painter finds her portraits of wide-eyed children becoming a commercial phenomenon, all credited to the husband who's been claiming her work as his own.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - edward-scissorhands
+    - beetlejuice
+    - batman-1989
+    - sweeney-todd
+    - sleepy-hollow
+    - ed-wood
+    - batman-returns
+    - beetlejuice-beetlejuice
+    - big-eyes
