@@ -1,0 +1,42 @@
+slug: adam-mckay
+kind: director
+name: Adam McKay
+blurb: Started as an SNL and Anchorman-era absurdist and pivoted, film by film, into using that same broad comic instinct to explain financial fraud, corporate malfeasance, and civilizational denial.
+
+films:
+  - film: anchorman
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A vain, chauvinistic 1970s San Diego news anchor's entire dominant-male world starts falling apart the moment the station hires its first female co-anchor.
+
+  - film: dont-look-up
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: Two astronomers discover a planet-killing comet on a direct collision course with Earth, and can't get anyone in media or government to take it seriously enough to actually do anything.
+
+  - film: step-brothers
+    signature: 4
+    gateway: 4
+    note: Two middle-aged, unemployed men become stepbrothers when their single parents marry, and their rivalry over the household escalates into something closer to warfare than sibling friction.
+
+  - film: the-other-guys
+    signature: 3
+    gateway: 3
+    note: Two deskbound, disrespected NYPD detectives get a shot at real fieldwork when the department's star cops are sidelined, and stumble into a financial fraud case none of the actual heroes wanted.
+
+  - film: talladega-nights
+    signature: 3
+    gateway: 4
+    note: A NASCAR champion's career and self-image collapse after a humiliating loss to a smooth-talking French Formula One driver, forcing him to rebuild everything from nothing.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - anchorman
+    - dont-look-up
+    - step-brothers
+    - talladega-nights
+    - the-other-guys

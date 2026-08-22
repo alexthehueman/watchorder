@@ -1,0 +1,41 @@
+slug: john-singleton
+kind: director
+name: John Singleton
+blurb: Broke through at 23 with a searing account of life in South Central LA, then spent the following decades moving between that same unflinching social realism and glossy studio action.
+
+films:
+  - film: boyz-n-the-hood
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: Three friends growing up in South Central LA head toward increasingly divergent futures, while the neighborhood's daily violence keeps closing in around whichever path any of them tries to take.
+
+  - film: baby-boy
+    signature: 4
+    gateway: 2
+    note: A twenty-year-old who still lives with his mother resists adulthood on every front, while her new boyfriend's presence in the house forces a reckoning he's spent years avoiding.
+
+  - film: higher-learning
+    signature: 4
+    gateway: 2
+    note: Three college freshmen — Black, white, and a woman navigating a fraternity culture built to exclude her — find their friendships and safety tested as campus racial tension escalates toward violence.
+
+  - film: four-brothers
+    signature: 3
+    gateway: 3
+    note: Four adopted brothers reunite in Detroit after their mother is murdered in what looks like a robbery, and start digging into a conspiracy that goes further up than any of them expected.
+
+  - film: 2-fast-2-furious
+    signature: 2
+    gateway: 4
+    note: An ex-cop street racer teams up with an old friend and an undercover agent to infiltrate a drug lord's smuggling operation, with his own criminal record hanging over the deal.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - boyz-n-the-hood
+    - higher-learning
+    - baby-boy
+    - four-brothers
+    - 2-fast-2-furious

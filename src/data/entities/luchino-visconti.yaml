@@ -1,0 +1,42 @@
+slug: luchino-visconti
+kind: director
+name: Luchino Visconti
+blurb: An aristocrat-turned-Marxist who fused Italian neorealism with full operatic grandeur, equally drawn to working-class collapse and the slow, gorgeous death of the old European order.
+
+films:
+  - film: the-leopard
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A Sicilian prince watches his entire aristocratic world dissolve as Italy unifies around him, and spends a lavish, nearly hour-long ballroom sequence quietly presiding over its final night.
+
+  - film: rocco-and-his-brothers
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A widow and her five sons migrate from rural southern Italy to industrial Milan for a better life, and the family fractures, one brother at a time, under the pressure of the city.
+
+  - film: the-damned
+    signature: 4
+    gateway: 2
+    note: A wealthy German industrialist family tears itself apart in a Shakespearean power struggle over control of the family steelworks, right as the Nazi party is consolidating its grip on the country.
+
+  - film: white-nights-1957
+    signature: 3
+    gateway: 3
+    note: A lonely young man falls for a woman who spends their nights together waiting for the lodger she loves to return, and has to decide whether to compete for her or let her keep waiting.
+
+  - film: bellissima
+    signature: 2
+    gateway: 4
+    note: A working-class Roman mother becomes consumed with getting her young daughter cast in a film, and the audition process exposes exactly how little the industry actually cares about either of them.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - the-leopard
+    - rocco-and-his-brothers
+    - the-damned
+    - white-nights-1957
+    - bellissima
