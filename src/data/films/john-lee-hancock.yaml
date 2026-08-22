@@ -1,0 +1,19 @@
+# New film for John Lee Hancock. Scales and anchors are in README.md ("The anchor
+# rubric").
+#
+# The Blind Side already exists in bullock.yaml. The Founder already exists in
+# keaton-michael.yaml. Saving Mr. Banks already exists in thompson.yaml.
+
+- id: the-little-things
+  tmdb_id: null
+  title: The Little Things
+  year: 2021
+  runtime: 128
+  director: John Lee Hancock
+  tags:
+    opacity: 4 # whether the prime suspect actually committed the murders is never confirmed, on purpose
+    stillness: 3
+    bleakness: 5
+    humor: 1
+    acclaim: 0.55
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

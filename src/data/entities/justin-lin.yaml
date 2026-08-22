@@ -1,0 +1,35 @@
+slug: justin-lin
+kind: director
+name: Justin Lin
+blurb: An indie-crime director who became the architect of one of Hollywood's biggest franchise reinventions, redefining a set of street-racing movies around family, loyalty, and escalating physics-defying spectacle.
+
+films:
+  - film: fast-five
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A crew of street racers turned fugitives plans one final heist against a corrupt businessman in Rio, pulling together every character from the franchise's first four films into one team.
+
+  - film: better-luck-tomorrow
+    signature: 5
+    gateway: 1
+    note: A group of overachieving Asian-American high schoolers running a small-time cheat-sheet business escalate into increasingly serious crime, entirely unnoticed by the adults who only see their perfect grades.
+
+  - film: star-trek-beyond
+    signature: 3
+    gateway: 3
+    note: The Enterprise crew is stranded on a hostile alien planet after an ambush, and has to reunite and improvise their way off it before a weapon capable of galaxy-wide destruction falls into the wrong hands.
+
+  - film: the-fast-and-the-furious-tokyo-drift
+    signature: 3
+    gateway: 3
+    note: A reckless American teenager sent to live with his father in Tokyo gets pulled into the city's underground drifting scene, and racks up a debt to a yakuza-connected racer he can't easily pay off.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - fast-five
+    - better-luck-tomorrow
+    - the-fast-and-the-furious-tokyo-drift
+    - star-trek-beyond

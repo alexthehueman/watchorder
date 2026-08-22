@@ -1,0 +1,19 @@
+# New film for Penny Marshall. Scales and anchors are in README.md ("The anchor
+# rubric").
+#
+# Awakenings already exists in de-niro.yaml. A League of Their Own already exists in
+# geena-davis.yaml. Big already exists in hanks.yaml.
+
+- id: riding-in-cars-with-boys
+  tmdb_id: null
+  title: Riding in Cars with Boys
+  year: 2001
+  runtime: 132
+  director: Penny Marshall
+  tags:
+    opacity: 2 # how much of her framing narration is honest reckoning versus self-serving retrospect stays genuinely unresolved
+    stillness: 3
+    bleakness: 4
+    humor: 2
+    acclaim: 0.60
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }

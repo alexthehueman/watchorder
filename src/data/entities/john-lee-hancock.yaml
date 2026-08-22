@@ -1,0 +1,35 @@
+slug: john-lee-hancock
+kind: director
+name: John Lee Hancock
+blurb: A steady chronicler of real-life American stories, drawn to ordinary decency under pressure — and, once, to a much colder, more withholding account of what decency actually costs to fake.
+
+films:
+  - film: the-blind-side
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A wealthy Memphis family takes in a homeless Black teenager with an extraordinary gift for football, and the film follows both his path to a college scholarship and what the family gains from taking him in.
+
+  - film: the-founder
+    signature: 5
+    gateway: 3
+    note: A struggling traveling salesman meets two brothers running an efficient, small-scale burger stand, and methodically maneuvers his way into ownership of the McDonald's name and empire out from under them.
+
+  - film: saving-mr-banks
+    signature: 4
+    gateway: 3
+    note: Walt Disney personally courts the notoriously protective author of Mary Poppins to secure the film rights, and her resistance turns out to be rooted in something far more personal than creative control.
+
+  - film: the-little-things
+    signature: 2
+    gateway: 1
+    note: A small-town deputy sheriff and a big-city detective investigate a string of murders, focusing on a suspect whose guilt the film deliberately never confirms.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - the-blind-side
+    - the-founder
+    - saving-mr-banks
+    - the-little-things

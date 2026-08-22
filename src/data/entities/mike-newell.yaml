@@ -1,0 +1,36 @@
+slug: mike-newell
+kind: director
+name: Mike Newell
+blurb: A versatile British journeyman equally comfortable in ensemble romantic comedy, deep-cover crime drama, and studio franchise filmmaking, with no single genre he's ever seemed boxed into.
+
+films:
+  - film: four-weddings-and-a-funeral
+    signature: 5
+    must_see: true
+    gateway: 5
+    note: A commitment-phobic Englishman keeps running into the same American woman at a string of his friends' weddings, and one funeral, over several years, and can never quite bring himself to say what he actually feels.
+
+  - film: donnie-brasco
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: An FBI agent goes deep undercover in the mafia for years, and the mentorship of the low-level mobster who vouches for him starts becoming more real to him than his own actual life.
+
+  - film: harry-potter-and-the-goblet-of-fire
+    signature: 4
+    gateway: 3
+    note: Harry is mysteriously entered into a dangerous international wizarding tournament meant only for older students, right as signs mount that Voldemort is finally moving to return.
+
+  - film: great-expectations-2012
+    signature: 2
+    gateway: 3
+    note: An orphaned blacksmith's apprentice is anonymously funded into gentlemanly society, and builds an entire identity on an assumption about his benefactor that turns out to be completely wrong.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - four-weddings-and-a-funeral
+    - donnie-brasco
+    - harry-potter-and-the-goblet-of-fire
+    - great-expectations-2012

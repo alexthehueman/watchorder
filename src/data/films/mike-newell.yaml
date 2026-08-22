@@ -1,0 +1,20 @@
+# New film for Mike Newell. Scales and anchors are in README.md ("The anchor
+# rubric").
+#
+# Donnie Brasco already exists in depp.yaml. Harry Potter and the Goblet of Fire
+# already exists in fiennes.yaml. Four Weddings and a Funeral already exists in
+# grant-hugh.yaml.
+
+- id: great-expectations-2012
+  tmdb_id: null
+  title: Great Expectations
+  year: 2012
+  runtime: 128
+  director: Mike Newell
+  tags:
+    opacity: 2 # who's actually funding his rise into gentlemanly society stays withheld until well after he's built a whole life on the assumption
+    stillness: 3
+    bleakness: 4
+    humor: 1
+    acclaim: 0.62
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }

@@ -1,0 +1,36 @@
+slug: penny-marshall
+kind: director
+name: Penny Marshall
+blurb: A former sitcom actress turned director whose biggest commercial hits shared a real, unforced tenderness for people trying to reclaim something — a childhood, a career, a life — that was taken from them too soon.
+
+films:
+  - film: big
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A frustrated twelve-year-old boy makes a carnival wish to be big, and wakes up the next morning in an adult body, navigating a real career and adult relationships with a kid's actual understanding of the world.
+
+  - film: a-league-of-their-own
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: Women recruited into a professional baseball league during World War II fight for the sport to be taken seriously, with two feuding sisters and a burned-out former star coach at the center of it.
+
+  - film: awakenings
+    signature: 4
+    gateway: 2
+    note: A doctor treating catatonic patients discovers an experimental drug that temporarily wakes one of them from decades of unresponsiveness, and has to face what happens as the effect starts wearing off.
+
+  - film: riding-in-cars-with-boys
+    signature: 3
+    gateway: 3
+    note: A woman who became a teenage mother recounts decades of resentment and reluctant love for the son who upended her plans, on a road trip neither of them expected to end in reconciliation.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - big
+    - a-league-of-their-own
+    - awakenings
+    - riding-in-cars-with-boys

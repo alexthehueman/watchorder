@@ -1,0 +1,19 @@
+# New film for Justin Lin. Scales and anchors are in README.md ("The anchor
+# rubric").
+#
+# Fast Five already exists in dwayne-johnson.yaml. Better Luck Tomorrow and Star Trek
+# Beyond already exist in john-cho.yaml.
+
+- id: the-fast-and-the-furious-tokyo-drift
+  tmdb_id: null
+  title: "The Fast and the Furious: Tokyo Drift"
+  year: 2006
+  runtime: 104
+  director: Justin Lin
+  tags:
+    opacity: 1
+    stillness: 1
+    bleakness: 2
+    humor: 2
+    acclaim: 0.55
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
