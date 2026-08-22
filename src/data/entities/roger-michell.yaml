@@ -1,0 +1,35 @@
+slug: roger-michell
+kind: director
+name: Roger Michell
+blurb: A British director who moved fluidly between glossy romantic comedy, prestige royal drama, and — occasionally — real moral menace, always anchored in precisely observed character behavior.
+
+films:
+  - film: notting-hill
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A humble London bookshop owner's chance encounter with the world's biggest movie star turns into an unlikely romance, constantly threatened by the sheer gap between their two very different lives.
+
+  - film: my-cousin-rachel
+    signature: 4
+    gateway: 2
+    note: A young man convinced his newly widowed cousin poisoned his guardian falls for her instead, and the film never resolves whether she's genuinely innocent or exactly as dangerous as he first suspected.
+
+  - film: changing-lanes
+    signature: 3
+    gateway: 2
+    note: A minor traffic accident between a Wall Street lawyer and a recovering-alcoholic insurance salesman escalates, over one single day, into an all-out war neither of them can afford to lose.
+
+  - film: hyde-park-on-hudson
+    signature: 2
+    gateway: 3
+    note: FDR's distant cousin becomes his confidante and mistress at his country retreat, right as he prepares to host the King and Queen of England for a visit meant to secure wartime support.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - notting-hill
+    - my-cousin-rachel
+    - changing-lanes
+    - hyde-park-on-hudson

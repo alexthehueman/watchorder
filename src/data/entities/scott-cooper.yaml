@@ -1,0 +1,35 @@
+slug: scott-cooper
+kind: director
+name: Scott Cooper
+blurb: A director drawn to broken, weathered men in dying American towns, and — once — to what happens when that same rot gets a literal monster to embody it.
+
+films:
+  - film: crazy-heart
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A washed-up, alcoholic country singer scraping by on bar gigs gets a shot at redemption through a music journalist who actually believes in him, right as his drinking keeps threatening to cost him the chance.
+
+  - film: black-mass
+    signature: 5
+    gateway: 3
+    note: A South Boston mob boss becomes an FBI informant against a rival gang, and uses the protection it buys him to build one of the most violent criminal empires in the city's history.
+
+  - film: out-of-the-furnace
+    signature: 4
+    gateway: 2
+    note: A steel mill worker searches for his missing veteran brother, who disappeared after getting mixed up in an underground fighting ring run by a dangerous backwoods crime family.
+
+  - film: antlers
+    signature: 3
+    gateway: 2
+    note: A small-town teacher grows concerned about a withdrawn student whose home life seems to be hiding something, and the truth turns out to be a literal, ancient monster feeding on his family.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - crazy-heart
+    - black-mass
+    - out-of-the-furnace
+    - antlers

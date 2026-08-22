@@ -1,0 +1,36 @@
+slug: ron-shelton
+kind: director
+name: Ron Shelton
+blurb: The sharpest sports-comedy writer-director in American film, less interested in the games themselves than in what competing at a mediocre level does to grown adults' egos and relationships.
+
+films:
+  - film: bull-durham
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A veteran minor-league catcher is brought in to mentor a wildly talented but immature young pitcher, and both men end up competing for the same baseball groupie's attention along the way.
+
+  - film: white-men-cant-jump
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A hustler talks his way into a basketball partnership with a street-court legend, and the two run a string of pickup-game scams that keeps threatening to blow up their fragile trust in each other.
+
+  - film: tin-cup
+    signature: 4
+    gateway: 3
+    note: A talented but self-sabotaging driving-range pro qualifies for the U.S. Open, and has to decide whether to play it safe for a real shot at winning or go for broke chasing the woman he's fallen for.
+
+  - film: blaze
+    signature: 2
+    gateway: 2
+    note: Louisiana governor Earl Long carries on a scandalous public affair with a burlesque stripper throughout his final, increasingly erratic term in office, with neither of them willing to hide it.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - bull-durham
+    - white-men-cant-jump
+    - tin-cup
+    - blaze

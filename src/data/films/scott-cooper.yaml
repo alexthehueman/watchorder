@@ -1,0 +1,19 @@
+# New film for Scott Cooper. Scales and anchors are in README.md ("The anchor
+# rubric").
+#
+# Crazy Heart already exists in bridges.yaml. Black Mass already exists in
+# nicholson-julianne.yaml. Out of the Furnace already exists in saldana.yaml.
+
+- id: antlers
+  tmdb_id: null
+  title: Antlers
+  year: 2021
+  runtime: 99
+  director: Scott Cooper
+  tags:
+    opacity: 3 # what's actually living in the family's home, and how far it's already spread, is withheld until the investigation forces it out
+    stillness: 3
+    bleakness: 5
+    humor: 1
+    acclaim: 0.55
+  content: { sexual_violence: false, animal_harm: true, child_harm: true, suicide: false, violence: 2, sex: 0 }

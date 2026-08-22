@@ -1,0 +1,19 @@
+# New film for Roger Michell. Scales and anchors are in README.md ("The anchor
+# rubric").
+#
+# Notting Hill already exists in julia-roberts.yaml. Hyde Park on Hudson already
+# exists in olivia-colman.yaml. My Cousin Rachel already exists in weisz.yaml.
+
+- id: changing-lanes
+  tmdb_id: null
+  title: Changing Lanes
+  year: 2002
+  runtime: 99
+  director: Roger Michell
+  tags:
+    opacity: 2 # each man's real motive for escalating the feud stays genuinely ambiguous as it spirals past what either intended
+    stillness: 2
+    bleakness: 4
+    humor: 1
+    acclaim: 0.65
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }

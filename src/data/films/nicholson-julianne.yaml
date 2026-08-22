@@ -26,7 +26,12 @@
   year: 2015
   runtime: 122
   director: Scott Cooper
-  tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.68 }
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 5
+    humor: 2 # Bulger's charisma carries a real, unsettling dry wit against the rest of his filmography
+    acclaim: 0.68
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   letterboxd_slug: black-mass-2015
   poster_url: https://a.ltrbxd.com/resized/sm/upload/hp/i7/vq/uh/black-mass-1200-1200-675-675-crop-000000.jpg?v=b2fa904d14

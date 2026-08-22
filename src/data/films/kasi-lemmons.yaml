@@ -1,0 +1,19 @@
+# New film for Kasi Lemmons. Scales and anchors are in README.md ("The anchor
+# rubric").
+#
+# Whitney Houston: I Wanna Dance with Somebody already exists in ackie.yaml. Harriet
+# already exists in erivo.yaml. Black Nativity already exists in tyrese.yaml.
+
+- id: eves-bayou
+  tmdb_id: null
+  title: Eve's Bayou
+  year: 1997
+  runtime: 109
+  director: Kasi Lemmons
+  tags:
+    opacity: 3 # the film revises what actually happened between father and daughter more than once, and lets the contradiction stand
+    stillness: 3
+    bleakness: 4
+    humor: 1
+    acclaim: 0.80
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 1 }

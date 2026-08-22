@@ -1,0 +1,19 @@
+# New film for Ron Shelton. Scales and anchors are in README.md ("The anchor
+# rubric").
+#
+# Tin Cup already exists in costner.yaml. Bull Durham already exists in sarandon.yaml.
+# White Men Can't Jump already exists in wesley-snipes.yaml.
+
+- id: blaze
+  tmdb_id: null
+  title: Blaze
+  year: 1989
+  runtime: 119
+  director: Ron Shelton
+  tags:
+    opacity: 2 # how much the affair actually shapes his politics stays genuinely unresolved through most of his career
+    stillness: 3
+    bleakness: 3
+    humor: 2
+    acclaim: 0.55
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }

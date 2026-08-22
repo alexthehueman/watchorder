@@ -1,0 +1,35 @@
+slug: kasi-lemmons
+kind: director
+name: Kasi Lemmons
+blurb: A former actress turned director whose films return to Black women navigating family secrets and public legacy at once, equally at home in Southern gothic and biographical epic.
+
+films:
+  - film: harriet
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: Harriet Tubman escapes slavery alone on foot, then repeatedly returns south to guide dozens of others to freedom, evading slave catchers who put an enormous bounty on her capture.
+
+  - film: eves-bayou
+    signature: 5
+    gateway: 2
+    note: A young girl in 1960s Louisiana witnesses something between her father and another woman that she doesn't fully understand, and her account of it starts reshaping the whole family's version of events.
+
+  - film: whitney-houston-i-wanna-dance-with-somebody
+    signature: 3
+    gateway: 4
+    note: Whitney Houston's rise from a gifted church singer to one of the best-selling artists of all time is traced alongside the pressures — family, fame, addiction — that complicated every part of it.
+
+  - film: black-nativity
+    signature: 2
+    gateway: 3
+    note: A Baltimore teenager sent to stay with grandparents he's never met in Harlem for Christmas uncovers a long-standing family rift that's kept him from them his whole life.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - harriet
+    - eves-bayou
+    - whitney-houston-i-wanna-dance-with-somebody
+    - black-nativity
