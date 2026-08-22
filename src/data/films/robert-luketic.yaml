@@ -1,0 +1,19 @@
+# New film for Robert Luketic. Scales and anchors are in README.md ("The anchor
+# rubric").
+#
+# The Ugly Truth already exists in gerard-butler.yaml. Monster-in-Law already exists
+# in sykes.yaml. Legally Blonde already exists in witherspoon.yaml.
+
+- id: "21"
+  tmdb_id: null
+  title: "21"
+  year: 2008
+  runtime: 123
+  director: Robert Luketic
+  tags:
+    opacity: 3 # how much their professor-turned-ringleader is actually protecting them versus using them stays unresolved for most of the film
+    stillness: 2
+    bleakness: 3
+    humor: 2
+    acclaim: 0.60
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }

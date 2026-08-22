@@ -1,0 +1,35 @@
+slug: robert-luketic
+kind: director
+name: Robert Luketic
+blurb: A studio comedy specialist whose best work takes a dismissed-as-shallow woman and lets her turn out to be the smartest person in the room the whole time.
+
+films:
+  - film: legally-blonde
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A sorority president written off as an airhead follows her ex-boyfriend to Harvard Law School to win him back, and ends up discovering she's genuinely gifted at the law itself.
+
+  - film: "21"
+    signature: 4
+    gateway: 2
+    note: A brilliant MIT student is recruited into a secret card-counting team that runs weekend blackjack raids on Vegas casinos, and the money and risk start changing who he is faster than he notices.
+
+  - film: monster-in-law
+    signature: 3
+    gateway: 4
+    note: A woman's engagement is threatened by her fiancé's controlling, recently unemployed mother, who launches an escalating campaign to sabotage the wedding before it happens.
+
+  - film: the-ugly-truth
+    signature: 3
+    gateway: 4
+    note: An idealistic morning show producer is paired with a cynical, brutally honest relationship expert whose blunt advice about men keeps working better than she wants to admit.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - legally-blonde
+    - "21"
+    - the-ugly-truth
+    - monster-in-law

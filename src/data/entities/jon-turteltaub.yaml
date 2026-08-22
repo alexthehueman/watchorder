@@ -1,0 +1,36 @@
+slug: jon-turteltaub
+kind: director
+name: Jon Turteltaub
+blurb: A dependable studio entertainer across four decades — earnest romantic comedy, family-friendly underdog sports story, treasure-hunt adventure, and giant-shark spectacle, all handled with the same brisk, crowd-pleasing confidence.
+
+films:
+  - film: national-treasure
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A historian races to steal the Declaration of Independence before a rival treasure hunter can, convinced it holds an encoded map to a fortune hidden by the Founding Fathers.
+
+  - film: while-you-were-sleeping
+    signature: 5
+    must_see: true
+    gateway: 5
+    note: A lonely transit worker saves a stranger's life and is mistaken by his family for his fiancée while he's in a coma, and has to decide how long she can keep up the lie once he wakes up.
+
+  - film: cool-runnings
+    signature: 4
+    gateway: 4
+    note: Four Jamaican sprinters who fail to qualify for the Summer Olympics turn to bobsledding instead, training under a disgraced former gold medalist for a sport none of them have ever even seen snow for.
+
+  - film: the-meg
+    signature: 3
+    gateway: 3
+    note: A deep-sea rescue diver is called back into action when a research submersible is attacked by a massive prehistoric shark thought to have gone extinct millions of years ago.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - national-treasure
+    - while-you-were-sleeping
+    - cool-runnings
+    - the-meg

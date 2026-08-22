@@ -1,0 +1,19 @@
+# New film for Jon Turteltaub. Scales and anchors are in README.md ("The anchor
+# rubric").
+#
+# While You Were Sleeping already exists in bullock.yaml. The Meg already exists in
+# jason-statham.yaml. Cool Runnings already exists in john-candy.yaml.
+
+- id: national-treasure
+  tmdb_id: null
+  title: National Treasure
+  year: 2004
+  runtime: 131
+  director: Jon Turteltaub
+  tags:
+    opacity: 3 # each clue only reveals part of the trail, and the treasure's true location stays withheld until the very end
+    stillness: 1
+    bleakness: 1
+    humor: 2 # played straighter as an earnest adventure-thriller than the broad comic register of his other three films
+    acclaim: 0.65
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
