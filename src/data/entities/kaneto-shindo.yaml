@@ -1,0 +1,35 @@
+slug: kaneto-shindo
+kind: director
+name: Kaneto Shindo
+blurb: A Japanese independent filmmaker whose work returned repeatedly to bodies under total physical and moral strain — folk horror, nuclear devastation, and survival stripped down to its most brutal daily mechanics.
+
+films:
+  - film: onibaba
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: Two women survive the chaos of a medieval civil war by killing stray soldiers and selling their gear, until a demon mask one of them starts wearing seems to take on a horrifying will of its own.
+
+  - film: the-naked-island
+    signature: 5
+    gateway: 2
+    note: A farming family on a tiny, waterless island survives entirely on water hand-carried by boat from the mainland, told almost without dialogue through the sheer daily repetition of the labor itself.
+
+  - film: kuroneko
+    signature: 4
+    gateway: 2
+    note: A mother and daughter-in-law murdered by samurai return as vengeful spirits who lure and kill soldiers in the woods, until one of the swordsmen sent to stop the killings turns out to be someone they both once loved.
+
+  - film: children-of-hiroshima
+    signature: 3
+    gateway: 3
+    note: A young teacher returns to Hiroshima years after the bombing to find her former students, and the film moves through the ordinary, devastating ways the city's survivors have had to keep living.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - onibaba
+    - the-naked-island
+    - kuroneko
+    - children-of-hiroshima

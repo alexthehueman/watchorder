@@ -1,0 +1,42 @@
+slug: zack-snyder
+kind: director
+name: Zack Snyder
+blurb: A maximalist visual stylist obsessed with mythic scale and slow-motion spectacle, drawn again and again to gods, superheroes, and soldiers pushed to sacrifice everything for a cause bigger than themselves.
+
+films:
+  - film: watchmen
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: A retired, government-sanctioned team of vigilantes reunites after one of their own is murdered, and the investigation uncovers a plan for world peace that requires an atrocity none of them can accept.
+
+  - film: "300"
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: Three hundred Spartan soldiers hold a narrow mountain pass against the entire invading Persian army, buying time for the rest of Greece to mobilize while knowing none of them will survive to see it.
+
+  - film: dawn-of-the-dead-2004
+    signature: 4
+    gateway: 4
+    note: A small group of survivors barricade themselves inside a shopping mall during a sudden, fast-spreading zombie outbreak, and have to figure out an escape before their supplies or their nerves run out.
+
+  - film: man-of-steel
+    signature: 3
+    gateway: 3
+    note: A Kryptonian raised on Earth reveals his powers publicly for the first time to stop a group of surviving Kryptonian militants intent on remaking Earth into a new version of the planet he lost.
+
+  - film: justice-league
+    signature: 2
+    gateway: 4
+    note: A team of superheroes assembles for the first time to stop an ancient alien invader from claiming three world-ending artifacts before he can unite them into a single unstoppable weapon.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - "300"
+    - watchmen
+    - dawn-of-the-dead-2004
+    - man-of-steel
+    - justice-league

@@ -1,0 +1,20 @@
+# New film for Zack Snyder. Scales and anchors are in README.md ("The anchor
+# rubric").
+#
+# 300 already exists in gerard-butler.yaml. Justice League already exists in
+# jason-momoa.yaml. Man of Steel already exists in shannon.yaml. Dawn of the Dead
+# (2004) already exists in ving-rhames.yaml.
+
+- id: watchmen
+  tmdb_id: null
+  title: Watchmen
+  year: 2009
+  runtime: 162
+  director: Zack Snyder
+  tags:
+    opacity: 3 # who's actually murdering retired masked vigilantes, and what they're covering up, stays a real mystery for most of the film
+    stillness: 2
+    bleakness: 5
+    humor: 1
+    acclaim: 0.68
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 2 }

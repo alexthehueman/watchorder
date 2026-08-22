@@ -1,0 +1,35 @@
+slug: jonathan-levine
+kind: director
+name: Jonathan Levine
+blurb: A comedy director unafraid to let real illness, grief, or political cynicism sit right up against the jokes, trusting the tonal whiplash rather than smoothing it out.
+
+films:
+  - film: 50-50
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A twenty-seven-year-old is diagnosed with a rare spinal cancer and leans on his best friend's inappropriate humor and a young therapist to get through treatment, while the film refuses to soften how frightening the odds actually are.
+
+  - film: warm-bodies
+    signature: 4
+    gateway: 4
+    note: A zombie who's slowly regaining fragments of his humanity falls for a living survivor after eating her boyfriend's brain and absorbing his memories, and the connection starts spreading a strange cure through the rest of the infected.
+
+  - film: long-shot
+    signature: 3
+    gateway: 4
+    note: An idealistic, unemployed journalist reconnects with his former babysitter, now the U.S. Secretary of State running for president, and gets hired as her speechwriter right as their old chemistry resurfaces.
+
+  - film: snatched
+    signature: 2
+    gateway: 3
+    note: A recently dumped woman convinces her cautious mother to join her on a South American vacation, and the trip spirals into a kidnapping plot neither of them is remotely equipped to survive.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - 50-50
+    - warm-bodies
+    - long-shot
+    - snatched

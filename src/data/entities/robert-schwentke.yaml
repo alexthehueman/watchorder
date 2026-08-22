@@ -1,0 +1,35 @@
+slug: robert-schwentke
+kind: director
+name: Robert Schwentke
+blurb: A German-born genre journeyman who moves comfortably between studio thriller, franchise blockbuster, and broad ensemble action-comedy without settling into any one house style.
+
+films:
+  - film: flightplan
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A recently widowed woman wakes up mid-flight to find her young daughter has vanished from the plane, and no one aboard — including the crew — will admit the girl ever boarded at all.
+
+  - film: red
+    signature: 4
+    gateway: 4
+    note: A retired black-ops CIA agent is targeted for assassination and reassembles his old team of equally retired operatives to figure out who wants them all dead and why.
+
+  - film: the-divergent-series-insurgent
+    signature: 3
+    gateway: 3
+    note: A young woman who doesn't fit into her dystopian society's rigid personality factions goes on the run with a small resistance group, while the ruling faction hunts for a mysterious box only someone like her can open.
+
+  - film: snake-eyes
+    signature: 2
+    gateway: 3
+    note: A small-time fighter is taken in by a secretive ninja clan after saving one of their own, and has to prove his loyalty is real before the clan's ancient enemies force a reckoning.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - flightplan
+    - red
+    - the-divergent-series-insurgent
+    - snake-eyes
