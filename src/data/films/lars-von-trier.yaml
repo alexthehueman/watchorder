@@ -1,0 +1,24 @@
+# New film for Lars von Trier. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Antichrist already exists in dafoe.yaml. Dancer in the Dark already exists in
+# deneuve.yaml. Melancholia already exists in dunst.yaml. Nymphomaniac already exists
+# in gainsbourg.yaml. Dogville already exists in kidman.yaml. Nymphomaniac: Vol. II
+# already exists in thurman.yaml.
+#
+# Every pre-existing film sat at bleakness 5, a hard flat-tag risk. Breaking the Waves
+# is genuinely bleak but ends on a note the rest of his filmography deliberately
+# withholds, so it's the honest film to break the pattern rather than an invented one.
+
+- id: breaking-the-waves
+  tmdb_id: null
+  title: Breaking the Waves
+  year: 1996
+  runtime: 159
+  director: Lars von Trier
+  tags:
+    opacity: 2 # whether the closing miracle is real, or her own delusion finally granted a happy shape, is left open
+    stillness: 3
+    bleakness: 4 # devastating, but the only von Trier ending in this set that offers anything like grace
+    humor: 1
+    acclaim: 0.85
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 2 }

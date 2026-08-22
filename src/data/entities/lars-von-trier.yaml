@@ -1,0 +1,48 @@
+slug: lars-von-trier
+kind: director
+name: Lars von Trier
+blurb: A provocateur who builds elaborate formal constraints — Brechtian soundstages, digressive chapter structures, deliberately ugly digital video — around stories engineered to make suffering unbearable to look away from.
+
+films:
+  - film: dogville
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: A woman fleeing gangsters takes refuge in a small American town that agrees to hide her, staged entirely on a bare soundstage with chalk outlines standing in for walls, and the town's gratitude curdles into something much worse.
+
+  - film: melancholia
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A woman's crippling depression collides with the discovery that a rogue planet is on a collision course with Earth, and her family has to decide how to spend the time they have left.
+
+  - film: breaking-the-waves
+    signature: 4
+    gateway: 2
+    note: A devout young newlywed's husband is paralyzed in an oil rig accident, and to keep him alive she starts acting out increasingly degrading requests he insists are the only thing helping him survive.
+
+  - film: dancer-in-the-dark
+    signature: 4
+    gateway: 2
+    note: A factory worker going blind saves every cent for her son's operation to prevent the same fate, escaping into elaborate musical fantasies right up until a theft accusation puts everything she's saved at risk.
+
+  - film: antichrist
+    signature: 4
+    gateway: 1
+    note: A grieving couple retreat to a remote cabin to process the accidental death of their child, and the wife's grief starts curdling into something the husband, a therapist, can no longer treat or control.
+
+  - film: nymphomaniac
+    signature: 3
+    gateway: 2
+    note: An older man finds a badly beaten woman in an alley and takes her in, and she repays his hospitality by recounting her entire sexual history to him in unsparing, chapter-by-chapter detail.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - dogville
+    - melancholia
+    - breaking-the-waves
+    - dancer-in-the-dark
+    - nymphomaniac
+    - antichrist

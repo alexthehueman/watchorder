@@ -1,0 +1,41 @@
+slug: mario-monicelli
+kind: director
+name: Mario Monicelli
+blurb: A founding father of commedia all'italiana — comedy built on real desperation, where the jokes come from people who genuinely can't afford for the plan to fail.
+
+films:
+  - film: big-deal-on-madonna-street
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A group of small-time, thoroughly incompetent crooks plan an elaborate jewelry heist, and nearly every step of the plan goes wrong in a way none of them anticipated.
+
+  - film: la-grande-guerra
+    signature: 4
+    gateway: 3
+    note: Two cowardly, scheming Italian soldiers try every trick they know to avoid combat during World War I, until circumstance finally corners them into a choice that actually matters.
+
+  - film: amici-miei
+    signature: 4
+    gateway: 3
+    note: A group of middle-aged Florentine friends stage increasingly elaborate pranks on strangers and each other, using humor as the only thing keeping them from admitting how disappointing their lives turned out.
+
+  - film: un-borghese-piccolo-piccolo
+    signature: 3
+    gateway: 2
+    note: A mild-mannered bureaucrat's son is killed in a botched robbery, and his grief curdles into a methodical, increasingly monstrous campaign to track down and punish everyone responsible.
+
+  - film: la-ragazza-con-la-pistola
+    signature: 3
+    gateway: 4
+    note: A Sicilian woman travels to England to track down and kill the man who dishonored her, and finds her rigid ideas about honor and revenge slowly unraveling the longer she stays.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - big-deal-on-madonna-street
+    - la-grande-guerra
+    - amici-miei
+    - la-ragazza-con-la-pistola
+    - un-borghese-piccolo-piccolo
