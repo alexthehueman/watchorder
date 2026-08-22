@@ -1,0 +1,49 @@
+# New films for Amblin Entertainment. Scales and anchors are in README.md ("The anchor
+# rubric").
+#
+# Who Framed Roger Rabbit already exists in robert-zemeckis.yaml. Back to the Future
+# and Back to the Future Part II already exist in michael-j-fox.yaml. Jurassic Park
+# and Empire of the Sun already exist in spielberg.yaml. The Goonies already exists in
+# richard-donner.yaml.
+
+- id: e-t-the-extra-terrestrial
+  tmdb_id: null
+  title: E.T. the Extra-Terrestrial
+  year: 1982
+  runtime: 115
+  director: Steven Spielberg
+  tags:
+    opacity: 2 # what E.T. actually needs, and whether he can survive long enough to get it, stays genuinely uncertain
+    stillness: 3
+    bleakness: 3
+    humor: 2
+    acclaim: 0.90
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: poltergeist
+  tmdb_id: null
+  title: Poltergeist
+  year: 1982
+  runtime: 114
+  director: Tobe Hooper
+  tags:
+    opacity: 4 # what's actually haunting the house, and what it wants with their daughter, stays withheld until the family is already trapped in it
+    stillness: 2
+    bleakness: 4
+    humor: 1
+    acclaim: 0.78
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+
+- id: gremlins
+  tmdb_id: null
+  title: Gremlins
+  year: 1984
+  runtime: 106
+  director: Joe Dante
+  tags:
+    opacity: 3 # a strict three-rule warning nobody fully understands until every single rule gets broken
+    stillness: 2
+    bleakness: 3
+    humor: 3
+    acclaim: 0.78
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 0 }

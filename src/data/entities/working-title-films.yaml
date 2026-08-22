@@ -1,0 +1,69 @@
+slug: working-title-films
+kind: studio
+name: Working Title Films
+blurb: The British production house that turned floppy-haired Hugh Grant apologizing into a genre, before proving the same house style could survive zombies just fine.
+
+eras:
+  - id: rom-com-run
+    name: The founding rom-com run
+    from: 1994
+  - id: genre-expansion
+    name: Genre expansion
+    from: 2002
+
+films:
+  - film: love-actually
+    era: genre-expansion
+    signature: 5
+    must_see: true
+    gateway: 5
+    note: Ten loosely connected London love stories play out over the same countdown to Christmas, tangling everyone from the new Prime Minister to a washed-up rock star trying for one last hit.
+
+  - film: four-weddings-and-a-funeral
+    era: rom-com-run
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A commitment-phobic Englishman keeps running into the same American woman at a string of his friends' weddings, and one funeral, over several years, and can never quite bring himself to say what he actually feels.
+
+  - film: notting-hill
+    era: rom-com-run
+    signature: 4
+    gateway: 5
+    note: A humble London bookshop owner's chance encounter with the world's biggest movie star turns into an unlikely romance, constantly threatened by the sheer gap between their two very different lives.
+
+  - film: bridget-joness-diary
+    era: rom-com-run
+    signature: 4
+    gateway: 4
+    note: A chaotic, self-deprecating single woman resolves to get her life together in one year, tracked in scrupulous diary detail, while two very different men both start taking a real interest.
+
+  - film: shaun-of-the-dead
+    era: genre-expansion
+    signature: 4
+    gateway: 3
+    note: A directionless London slacker barely notices a zombie apocalypse has started around him, and has to rally his equally unmotivated friends and family to survive it, one pub at a time.
+
+  - film: pride-and-prejudice-2005
+    era: genre-expansion
+    signature: 3
+    gateway: 4
+    note: A sharp-witted young woman clashes with a proud, wealthy landowner whose first impression of her is as insulting as hers of him, and the two spend the rest of the story slowly proving each other wrong.
+
+  - film: about-a-boy
+    era: genre-expansion
+    signature: 3
+    gateway: 3
+    note: A wealthy, aimless bachelor who invents a fake son to meet single mothers ends up genuinely bonding with a lonely, awkward real boy, and starts having to actually grow up alongside him.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - love-actually
+    - four-weddings-and-a-funeral
+    - notting-hill
+    - bridget-joness-diary
+    - about-a-boy
+    - pride-and-prejudice-2005
+    - shaun-of-the-dead

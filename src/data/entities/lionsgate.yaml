@@ -1,0 +1,80 @@
+slug: lionsgate
+kind: studio
+name: Lionsgate
+blurb: The mini-major that built an empire on the films the bigger studios were too nervous to greenlight — puzzle-box horror, transgressive satire, and one dystopian franchise that made them a genuine player.
+
+eras:
+  - id: mini-major
+    name: The mini-major years
+    from: 2000
+
+films:
+  - film: the-hunger-games
+    era: mini-major
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A teenage girl volunteers to take her younger sister's place in a televised fight to the death between children from Panem's twelve impoverished districts, forced to decide how much of herself she'll compromise to survive it.
+
+  - film: saw
+    era: mini-major
+    signature: 5
+    must_see: true
+    gateway: 1
+    note: Two strangers wake up chained in a filthy bathroom with a dead body between them, a tape recorder, and a set of instructions from a captor who's built an entire method around punishing people for wasting their lives.
+
+  - film: american-psycho
+    era: mini-major
+    signature: 4
+    gateway: 2
+    note: A wealthy, vapid Wall Street executive with a meticulously maintained public persona narrates an escalating string of murders the film never fully confirms are actually happening.
+
+  - film: john-wick
+    era: mini-major
+    signature: 4
+    gateway: 3
+    note: A retired hitman is pulled back into the criminal underworld after gangsters kill the dog his late wife left him, and the entire hidden world of assassins turns out to know exactly who he used to be.
+
+  - film: la-la-land
+    era: mini-major
+    signature: 3
+    gateway: 4
+    note: An aspiring actress and a jazz pianist fall in love while both chasing careers that keep threatening to pull them apart, in a Los Angeles staged as an old Hollywood musical.
+
+  - film: silver-linings-playbook
+    era: mini-major
+    signature: 3
+    gateway: 4
+    note: A man released from a psychiatric hospital after a breakdown moves back in with his parents determined to win back his estranged wife, and forms an unexpected bond with a volatile young widow instead.
+
+  - film: the-cabin-in-the-woods
+    era: mini-major
+    signature: 3
+    gateway: 1
+    note: Five college friends on a weekend retreat at a remote cabin are actually being manipulated, room by room, by an unseen organization running the entire "horror movie" they think they're living through.
+
+  - film: precious
+    era: mini-major
+    signature: 3
+    gateway: 1
+    note: An illiterate, obese Harlem teenager pregnant with her second child by her own father escapes into vivid fantasies of stardom, while an alternative school teacher tries to give her a real way out.
+
+  - film: knives-out
+    era: mini-major
+    signature: 3
+    gateway: 3
+    note: A wealthy crime novelist is found dead the night of his birthday party, and the detective investigating quickly realizes almost everyone in his family had a real motive to want him gone.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - the-hunger-games
+    - john-wick
+    - la-la-land
+    - silver-linings-playbook
+    - american-psycho
+    - saw
+    - the-cabin-in-the-woods
+    - precious
+    - knives-out

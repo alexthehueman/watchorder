@@ -21,7 +21,12 @@
   year: 2016
   runtime: 128
   director: Damien Chazelle
-  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.85 }
+  tags:
+    opacity: 2 # a closing fantasy sequence the film lets blur into the real ending without ever marking where one stops and the other begins
+    stillness: 2
+    bleakness: 3
+    humor: 2
+    acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt3783958
   poster_url: https://m.media-amazon.com/images/M/MV5BMzUzNDM2NzM2MV5BMl5BanBnXkFtZTgwNTM3NTg4OTE@._V1_QL75_UX380_CR0,0,380,562_.jpg

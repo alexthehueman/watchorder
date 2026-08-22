@@ -1,0 +1,83 @@
+slug: amblin-entertainment
+kind: studio
+name: Amblin Entertainment
+blurb: Spielberg's own production shingle — the house style for the entire 1980s idea of a blockbuster, built on ordinary kids or families, one genuinely strange thing entering their world, and real wonder treated as seriously as real danger.
+
+eras:
+  - id: golden-run
+    name: The golden run
+    from: 1982
+  - id: expansion
+    name: Expansion beyond Spielberg
+    from: 1993
+
+films:
+  - film: e-t-the-extra-terrestrial
+    era: golden-run
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A lonely boy befriends a stranded alien hiding in his suburban garage, and has to keep it safe from the government agents closing in while it tries to find a way home.
+
+  - film: back-to-the-future
+    era: golden-run
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A teenager accidentally sent thirty years into the past has to make sure his own future parents fall in love, all while trying to get back to his own time before he erases himself from existence.
+
+  - film: jurassic-park
+    era: expansion
+    signature: 5
+    gateway: 4
+    note: A billionaire's genetically resurrected dinosaur theme park goes catastrophically wrong on its first tour, trapping the visiting scientists and his own grandchildren inside with predators nobody can actually contain.
+
+  - film: who-framed-roger-rabbit
+    era: golden-run
+    signature: 4
+    gateway: 3
+    note: A washed-up private eye investigating an animated star's wife's affair gets pulled into a real murder case, in a Los Angeles where cartoons and humans share the same streets and the same crimes.
+
+  - film: gremlins
+    era: golden-run
+    signature: 4
+    gateway: 3
+    note: A father buys his son an adorable, strictly rule-bound new pet for Christmas, and every single one of those rules gets broken by morning, unleashing chaos across the entire small town.
+
+  - film: poltergeist
+    era: golden-run
+    signature: 4
+    gateway: 1
+    note: A suburban family's home is invaded by increasingly violent supernatural forces after their youngest daughter starts talking to the television static, and the haunting escalates faster than anyone outside the family believes.
+
+  - film: the-goonies
+    era: golden-run
+    signature: 3
+    gateway: 4
+    note: A group of kids facing the foreclosure of their neighborhood find an old treasure map in an attic and set off on one last adventure to save their homes, with an escaped family of criminals on their trail.
+
+  - film: back-to-the-future-part-ii
+    era: golden-run
+    signature: 3
+    gateway: 2
+    note: A trip meant to fix his kids' future instead creates a nightmare alternate 1985, forcing a return to the original 1955 to fix a second timeline without ever running into his past self.
+
+  - film: empire-of-the-sun
+    era: golden-run
+    signature: 2
+    gateway: 1
+    note: A privileged British boy is separated from his parents during the Japanese invasion of Shanghai and has to survive years in an internment camp entirely on his own resourcefulness.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - e-t-the-extra-terrestrial
+    - back-to-the-future
+    - jurassic-park
+    - gremlins
+    - poltergeist
+    - who-framed-roger-rabbit
+    - the-goonies
+    - back-to-the-future-part-ii
+    - empire-of-the-sun

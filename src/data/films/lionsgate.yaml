@@ -1,0 +1,49 @@
+# New film for Lionsgate. Scales and anchors are in README.md ("The anchor rubric").
+#
+# American Psycho already exists in bale.yaml — it was missing a director field, filled
+# in there rather than duplicated here. John Wick already exists in reeves.yaml. La La
+# Land already exists in emma-stone.yaml. The Hunger Games already exists in
+# jennifer-lawrence.yaml. Silver Linings Playbook already exists in de-niro.yaml.
+# Knives Out already exists in shannon.yaml.
+
+- id: the-cabin-in-the-woods
+  tmdb_id: null
+  title: The Cabin in the Woods
+  year: 2012
+  runtime: 95
+  director: Drew Goddard
+  tags:
+    opacity: 5 # what's actually orchestrating the horror-movie scenario the kids are trapped in is withheld until the film has almost no runtime left
+    stillness: 1
+    bleakness: 4
+    humor: 3
+    acclaim: 0.78
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+
+- id: precious
+  tmdb_id: null
+  title: Precious
+  year: 2009
+  runtime: 110
+  director: Lee Daniels
+  tags:
+    opacity: 2 # she escapes into elaborate fantasy sequences the film lets bleed into reality before pulling back
+    stillness: 3
+    bleakness: 5
+    humor: 1
+    acclaim: 0.75
+  content: { sexual_violence: true, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+
+- id: saw
+  tmdb_id: null
+  title: Saw
+  year: 2004
+  runtime: 103
+  director: James Wan
+  tags:
+    opacity: 4 # two men wake up chained in a bathroom with no memory of how they got there, and the puzzle behind it is withheld until the very last minute
+    stillness: 2
+    bleakness: 5
+    humor: 1
+    acclaim: 0.68
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }

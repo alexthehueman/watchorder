@@ -1,0 +1,34 @@
+# New films for RKO Radio Pictures. Scales and anchors are in README.md ("The anchor
+# rubric").
+#
+# Citizen Kane and The Magnificent Ambersons already exist in welles.yaml. Notorious
+# already exists in bergman-ingrid.yaml. Out of the Past already exists in
+# mitchum.yaml. It's a Wonderful Life already exists in stewart.yaml.
+
+- id: king-kong-1933
+  tmdb_id: null
+  title: King Kong
+  year: 1933
+  runtime: 100
+  director: Merian C. Cooper
+  tags:
+    opacity: 2 # a hidden island the expedition knows almost nothing about before landing on it, and Kong's own nature stays ambiguous longer than the poster suggests
+    stillness: 2
+    bleakness: 4
+    humor: 1
+    acclaim: 0.80
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: cat-people
+  tmdb_id: null
+  title: Cat People
+  year: 1942
+  runtime: 73
+  director: Jacques Tourneur
+  tags:
+    opacity: 4 # the film never confirms whether her curse is real or her own psychological break, on purpose
+    stillness: 3
+    bleakness: 4
+    humor: 1
+    acclaim: 0.78
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 1, sex: 1 }

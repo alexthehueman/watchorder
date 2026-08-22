@@ -1,0 +1,66 @@
+slug: rko-radio-pictures
+kind: studio
+name: RKO Radio Pictures
+blurb: The Golden Age major that gambled hardest on shadow and doubt — the home studio of both the greatest B-movie horror unit in Hollywood history and the film that's still argued about as the best ever made.
+
+eras:
+  - id: golden-age
+    name: The Golden Age run
+    from: 1933
+
+films:
+  - film: citizen-kane
+    era: golden-age
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A reporter investigates the true meaning of a media tycoon's dying word, piecing together his life through the conflicting, incomplete accounts of everyone who actually knew him.
+
+  - film: king-kong-1933
+    era: golden-age
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A film crew sails to an uncharted island and captures a giant ape worshipped as a god by its inhabitants, hauling him back to New York as a spectacle neither the city nor Kong himself can survive.
+
+  - film: notorious
+    era: golden-age
+    signature: 4
+    gateway: 3
+    note: A disgraced Nazi collaborator's daughter is recruited to infiltrate a ring of her father's former associates in Brazil, and has to marry one of them without her handler admitting how he actually feels about it.
+
+  - film: cat-people
+    era: golden-age
+    signature: 4
+    gateway: 1
+    note: A newlywed convinced she carries an ancestral curse that turns her into a panther when aroused avoids consummating her marriage, and the film never settles whether the threat is real or entirely in her mind.
+
+  - film: out-of-the-past
+    era: golden-age
+    signature: 4
+    gateway: 2
+    note: A private eye who buried his old life running a small-town gas station is dragged back by the one client he never fully escaped, and every choice from there closes off one more way out.
+
+  - film: the-magnificent-ambersons
+    era: golden-age
+    signature: 3
+    gateway: 2
+    note: A wealthy Midwestern family's fortune and social standing quietly collapse across a generation, while the pampered heir remains the last person in the family to notice it happening.
+
+  - film: its-a-wonderful-life
+    era: golden-age
+    signature: 3
+    gateway: 4
+    note: A man who's spent his whole life sacrificing his own dreams for his small town is shown, by an angel sent to stop his suicide, what the town would have become if he'd never been born at all.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - citizen-kane
+    - king-kong-1933
+    - its-a-wonderful-life
+    - notorious
+    - out-of-the-past
+    - the-magnificent-ambersons
+    - cat-people
