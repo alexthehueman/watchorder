@@ -1,0 +1,36 @@
+slug: ang-lee
+kind: director
+name: Ang Lee
+blurb: A director whose restraint disguises real formal daring — precise, decorous surfaces (Austen, wuxia, a survival tale) that keep circling what happens to desire a person isn't allowed to name.
+
+films:
+  - film: brokeback-mountain
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: Two ranch hands fall in love one summer herding sheep in 1960s Wyoming, and spend the next twenty years unable to build a life together in a world that would destroy them for trying.
+
+  - film: crouching-tiger-hidden-dragon
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A legendary warrior asks a fellow fighter to deliver his sword to safety, and its theft by a rebellious young noblewoman pulls both of them into a battle over what she actually wants her own life to be.
+
+  - film: life-of-pi
+    signature: 4
+    gateway: 3
+    note: A young man survives a shipwreck adrift on a lifeboat with a Bengal tiger for company, and later offers his rescuers a second, far more disturbing version of how he actually survived.
+
+  - film: sense-and-sensibility
+    signature: 3
+    gateway: 4
+    note: Two sisters with opposite temperaments — one guarded, one openly emotional — navigate courtship and financial ruin after their father's death leaves them dependent on relatives for a home.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - brokeback-mountain
+    - crouching-tiger-hidden-dragon
+    - life-of-pi
+    - sense-and-sensibility

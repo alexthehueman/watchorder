@@ -1,0 +1,19 @@
+# New film for Baz Luhrmann. Scales and anchors are in README.md ("The anchor
+# rubric").
+#
+# Elvis already exists in butler.yaml. The Great Gatsby already exists in
+# debicki.yaml. Moulin Rouge! already exists in kidman.yaml.
+
+- id: romeo-and-juliet-1996
+  tmdb_id: null
+  title: Romeo + Juliet
+  year: 1996
+  runtime: 120
+  director: Baz Luhrmann
+  tags:
+    opacity: 2 # a fractured, hyper-collaged visual grammar that withholds a clean sense of place more than his other three films
+    stillness: 1
+    bleakness: 5 # the only one of his four films that actually ends in the deaths of both leads
+    humor: 2
+    acclaim: 0.75
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 1 }

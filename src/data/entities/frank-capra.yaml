@@ -1,0 +1,36 @@
+slug: frank-capra
+kind: director
+name: Frank Capra
+blurb: The great populist of studio-era Hollywood, whose sunny reputation for warmth conceals just how close every one of his films actually lets its hero get to despair before pulling back.
+
+films:
+  - film: its-a-wonderful-life
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A man who's spent his whole life sacrificing his own dreams for his small town is shown, by an angel sent to stop his suicide, what the town would have become if he'd never been born at all.
+
+  - film: mr-smith-goes-to-washington
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A naively idealistic new senator discovers the political system he believed in is riddled with corruption, and stages a one-man filibuster to expose it before it destroys him.
+
+  - film: it-happened-one-night
+    signature: 4
+    gateway: 5
+    note: A runaway heiress and a recently fired newspaperman share a bus trip and, later, a single motel room across a modesty-preserving blanket, trading barbs that slowly turn into something else.
+
+  - film: meet-john-doe
+    signature: 3
+    gateway: 2
+    note: A reporter invents a fake letter from a suicidal everyman to save her job, then has to find a real person willing to play the role once the story becomes a genuine national movement.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - its-a-wonderful-life
+    - mr-smith-goes-to-washington
+    - it-happened-one-night
+    - meet-john-doe

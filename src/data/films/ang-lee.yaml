@@ -1,0 +1,18 @@
+# New film for Ang Lee. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Brokeback Mountain already exists in hathaway.yaml. Sense and Sensibility already
+# exists in winslet.yaml. Crouching Tiger, Hidden Dragon already exists in yeoh.yaml.
+
+- id: life-of-pi
+  tmdb_id: null
+  title: Life of Pi
+  year: 2012
+  runtime: 127
+  director: Ang Lee
+  tags:
+    opacity: 4 # the film ends by offering a second, more brutal version of the story and refuses to say which one actually happened
+    stillness: 3
+    bleakness: 4
+    humor: 1
+    acclaim: 0.82
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 1, sex: 0 }

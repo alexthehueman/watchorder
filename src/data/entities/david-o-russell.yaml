@@ -1,0 +1,36 @@
+slug: david-o-russell
+kind: director
+name: David O. Russell
+blurb: A chaotic-energy specialist whose films run on characters talking over each other at full volume, chasing reinvention — of a marriage, a con, a product, a life — that never goes quite as planned.
+
+films:
+  - film: american-hustle
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A con artist and his partner are forced by an ambitious FBI agent into running an elaborate sting operation against corrupt politicians, and the scheme spirals well past what any of them actually planned.
+
+  - film: silver-linings-playbook
+    signature: 5
+    must_see: true
+    gateway: 5
+    note: A man released from a psychiatric hospital after a breakdown moves back in with his parents determined to win back his estranged wife, and forms an unexpected bond with a volatile young widow instead.
+
+  - film: joy
+    signature: 3
+    gateway: 3
+    note: A struggling single mother invents a revolutionary self-wringing mop, and has to out-negotiate her own fractured, undermining family just to get the product a fair shot at market.
+
+  - film: amsterdam
+    signature: 2
+    gateway: 2
+    note: Three friends who met recovering from World War I injuries become the prime suspects in a murder, and uncover a much larger political conspiracy while trying to clear their own names.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - american-hustle
+    - silver-linings-playbook
+    - joy
+    - amsterdam

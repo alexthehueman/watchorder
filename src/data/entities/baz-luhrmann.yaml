@@ -1,0 +1,35 @@
+slug: baz-luhrmann
+kind: director
+name: Baz Luhrmann
+blurb: A maximalist Australian showman whose films run entirely on excess — anachronistic music, saturated color, breakneck editing — deployed in service of stories that are, underneath it all, sincerely romantic and often genuinely tragic.
+
+films:
+  - film: moulin-rouge
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A penniless writer falls for the star courtesan of a bohemian Parisian nightclub, and the two carry on a secret affair while she's contracted to seduce a wealthy duke into funding the club's survival.
+
+  - film: romeo-and-juliet-1996
+    signature: 5
+    gateway: 2
+    note: Two teenagers from rival crime families in a modern, gang-war Verona Beach fall instantly and totally in love, racing against their families' violence toward the same ending Shakespeare always wrote for them.
+
+  - film: elvis
+    signature: 4
+    gateway: 3
+    note: Elvis Presley's rise from a Memphis unknown to the biggest star in the world is told through the eyes of his controlling manager, Colonel Tom Parker, who never lets you fully trust his version of events.
+
+  - film: the-great-gatsby
+    signature: 3
+    gateway: 3
+    note: A young Midwesterner is drawn into the orbit of his mysterious, fabulously wealthy neighbor, whose lavish parties turn out to be an elaborate, decade-long campaign to win back a lost love.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - moulin-rouge
+    - elvis
+    - the-great-gatsby
+    - romeo-and-juliet-1996

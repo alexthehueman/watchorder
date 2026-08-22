@@ -1,0 +1,19 @@
+# New film for Frank Capra. Scales and anchors are in README.md ("The anchor
+# rubric").
+#
+# Meet John Doe already exists in stanwyck.yaml. Mr. Smith Goes to Washington and It's
+# a Wonderful Life already exist in stewart.yaml.
+
+- id: it-happened-one-night
+  tmdb_id: null
+  title: It Happened One Night
+  year: 1934
+  runtime: 105
+  director: Frank Capra
+  tags:
+    opacity: 2 # she travels the whole trip hiding her real identity from him, and he plays along longer than he lets on
+    stillness: 1 # a fast, screwball road-trip pace against the slower, more deliberate rhythm of his other three films
+    bleakness: 1
+    humor: 4
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
