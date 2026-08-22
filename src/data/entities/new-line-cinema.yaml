@@ -1,0 +1,86 @@
+slug: new-line-cinema
+kind: studio
+name: New Line Cinema
+blurb: The house that Freddy built — a scrappy horror distributor that grew into the studio confident enough to bet its entire future on three simultaneously shot fantasy epics, and won.
+
+eras:
+  - id: elm-street
+    name: The house that Freddy built
+    from: 1984
+  - id: multiplex
+    name: The multiplex years
+    from: 1994
+  - id: middle-earth
+    name: Middle-earth and after
+    from: 2001
+
+films:
+  - film: the-return-of-the-king
+    era: middle-earth
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: The final battle for Middle-earth converges on Minas Tirith while Frodo and Sam make the last, hardest leg of the journey into Mordor alone.
+
+  - film: the-lord-of-the-rings-the-fellowship-of-the-ring
+    era: middle-earth
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A hobbit inherits a ring capable of ending the world, and a fellowship of nine forms to carry it out of the Shire toward the one place it can actually be destroyed.
+
+  - film: se7en
+    era: multiplex
+    signature: 5
+    gateway: 1
+    note: Two homicide detectives track a serial killer staging each murder around one of the seven deadly sins, and the case builds toward an ending the film never lets you see coming.
+
+  - film: a-nightmare-on-elm-street
+    era: elm-street
+    signature: 5
+    gateway: 2
+    note: A group of teenagers start dying in their sleep at the hands of a disfigured killer who can only reach them in their dreams, and staying awake stops being optional.
+
+  - film: the-lord-of-the-rings-the-two-towers
+    era: middle-earth
+    signature: 4
+    gateway: 1
+    note: The fellowship splits three ways as the war for Middle-earth truly begins, with Rohan besieged at Helm's Deep while Frodo and Sam pick up a treacherous new guide.
+
+  - film: elf
+    era: middle-earth
+    signature: 4
+    gateway: 5
+    note: A human raised as one of Santa's elves travels to New York to find his birth father, whose unimpressed reaction to Christmas cheer he's entirely unprepared for.
+
+  - film: rush-hour
+    era: multiplex
+    signature: 3
+    gateway: 4
+    note: A Hong Kong detective and a loudmouthed LAPD cop are forced to partner on a kidnapping case neither of them wants the other involved in, with predictably chaotic results.
+
+  - film: the-notebook
+    era: middle-earth
+    signature: 3
+    gateway: 4
+    note: A man reads a notebook to a woman with memory loss, recounting a decades-old, class-crossed summer romance that both of them are only slowly realizing was actually their own.
+
+  - film: the-mask
+    era: elm-street
+    signature: 3
+    gateway: 4
+    note: A meek bank clerk discovers an ancient mask that unleashes an uninhibited, cartoonishly chaotic alter ego every time he puts it on.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - the-lord-of-the-rings-the-fellowship-of-the-ring
+    - se7en
+    - a-nightmare-on-elm-street
+    - the-return-of-the-king
+    - the-lord-of-the-rings-the-two-towers
+    - elf
+    - rush-hour
+    - the-notebook
+    - the-mask
