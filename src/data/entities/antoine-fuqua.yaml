@@ -1,0 +1,41 @@
+slug: antoine-fuqua
+kind: director
+name: Antoine Fuqua
+blurb: A muscular action-thriller specialist drawn to men whose moral codes have curdled under pressure — corrupt cops, vigilantes, and fighters pushed past whatever line they used to hold.
+
+films:
+  - film: training-day
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A rookie narcotics cop spends his first day under a legendary, deeply corrupt detective, watching the line between good policing and outright criminality dissolve in real time.
+
+  - film: the-equalizer
+    signature: 4
+    gateway: 3
+    note: A quiet former black-ops operative living an unremarkable retail life comes out of retirement to protect a young woman from the Russian mob that's been trafficking her, and his old skills come back fast.
+
+  - film: southpaw
+    signature: 4
+    gateway: 2
+    note: A champion boxer's life collapses after a personal tragedy costs him everything — his title, his daughter, his career — and he has to rebuild himself from nothing under a trainer who has no patience for his excuses.
+
+  - film: the-magnificent-seven
+    signature: 3
+    gateway: 4
+    note: Seven gunfighters are hired to defend a mining town from a ruthless industrialist's private army, training the townspeople themselves for the final stand none of them can avoid.
+
+  - film: olympus-has-fallen
+    signature: 2
+    gateway: 3
+    note: A disgraced former Secret Service agent is the only person left inside the White House once a paramilitary group seizes it and takes the President hostage.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - training-day
+    - the-equalizer
+    - southpaw
+    - the-magnificent-seven
+    - olympus-has-fallen

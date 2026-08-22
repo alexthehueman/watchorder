@@ -1,0 +1,41 @@
+slug: garry-marshall
+kind: director
+name: Garry Marshall
+blurb: A sitcom veteran turned the defining director of the modern studio romantic comedy, with a real, unforced instinct for the sentimental moment underneath the star vehicle.
+
+films:
+  - film: pretty-woman
+    signature: 5
+    must_see: true
+    gateway: 5
+    note: A wealthy corporate raider hires a sex worker to be his companion for a week of business functions, and the arrangement starts turning into something neither of them planned for or believes they deserve.
+
+  - film: the-princess-diaries
+    signature: 4
+    gateway: 4
+    note: An awkward San Francisco teenager learns she's secretly the heir to a European throne, and her estranged grandmother the queen has one summer to turn her into someone ready to rule.
+
+  - film: beaches
+    signature: 4
+    gateway: 3
+    note: Two women from wildly different backgrounds sustain a decades-long friendship through career highs, marriages, and distance, right up until one of them is diagnosed with a serious illness.
+
+  - film: overboard
+    signature: 3
+    gateway: 4
+    note: A wealthy, cruel heiress loses her memory after falling off her yacht, and the carpenter she humiliated days earlier convinces her she's actually his wife and the mother of his four unruly kids.
+
+  - film: nothing-in-common
+    signature: 2
+    gateway: 2
+    note: A successful ad executive is forced back into his estranged, ailing father's life right as his own career and relationship start falling apart around him.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - pretty-woman
+    - the-princess-diaries
+    - overboard
+    - beaches
+    - nothing-in-common

@@ -1,0 +1,42 @@
+slug: jason-reitman
+kind: director
+name: Jason Reitman
+blurb: A dialogue-driven satirist of American self-justification — smart, funny people talking their way around the thing they actually can't face, until the film finally makes them face it.
+
+films:
+  - film: juno
+    signature: 5
+    must_see: true
+    gateway: 5
+    note: A sharp-tongued sixteen-year-old navigates an unplanned pregnancy on her own terms, choosing the adoptive parents herself and staying determinedly wry about it right up until it stops being easy to be wry about.
+
+  - film: up-in-the-air
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A corporate downsizing consultant who's built his entire identity around living out of a suitcase is forced to confront what that freedom has actually cost him, right as the company tries to ground him for good.
+
+  - film: thank-you-for-smoking
+    signature: 4
+    gateway: 4
+    note: A charismatic tobacco lobbyist defends his industry on television with total, unbothered conviction, while his young son starts asking exactly the questions his job depends on nobody asking.
+
+  - film: tully
+    signature: 3
+    gateway: 2
+    note: An exhausted mother of three hires a night nanny to help her survive the newborn stage, and the arrangement turns out to be carrying a lot more than either of them initially let on.
+
+  - film: young-adult
+    signature: 3
+    gateway: 2
+    note: A ghostwriter for a fading teen book series returns to her hometown convinced she can win her married ex-boyfriend back, and the film refuses to give her the redemption arc a normal comedy would.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - juno
+    - up-in-the-air
+    - thank-you-for-smoking
+    - young-adult
+    - tully

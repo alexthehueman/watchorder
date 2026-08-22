@@ -1,0 +1,20 @@
+# New film for Garry Marshall. Scales and anchors are in README.md ("The anchor
+# rubric").
+#
+# Beaches already exists in bette-midler.yaml. Overboard already exists in
+# goldie-hawn.yaml. The Princess Diaries already exists in hathaway.yaml. Pretty Woman
+# already exists in julia-roberts.yaml.
+
+- id: nothing-in-common
+  tmdb_id: null
+  title: Nothing in Common
+  year: 1986
+  runtime: 118
+  director: Garry Marshall
+  tags:
+    opacity: 2 # how much of his father's failing health he's actually being told stays withheld from him and the audience together
+    stillness: 3
+    bleakness: 3
+    humor: 3
+    acclaim: 0.58
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

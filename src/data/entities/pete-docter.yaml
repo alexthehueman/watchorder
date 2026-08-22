@@ -1,0 +1,36 @@
+slug: pete-docter
+kind: director
+name: Pete Docter
+blurb: Pixar's resident philosopher — every film built around one huge, deceptively simple emotional idea (grief, mortality, the literal architecture of feeling) rendered legible enough for a six-year-old and devastating enough for the adult next to them.
+
+films:
+  - film: up
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A grieving widower ties thousands of balloons to his house to finally take the South American trip he and his late wife always planned, and discovers a stowaway Boy Scout has come along for the ride.
+
+  - film: inside-out
+    signature: 5
+    must_see: true
+    gateway: 5
+    note: A young girl's five core emotions — led by Joy, who's convinced she has to keep Sadness from ever taking the wheel — scramble to keep her stable through a disorienting cross-country move.
+
+  - film: monsters-inc
+    signature: 4
+    gateway: 5
+    note: Two monster coworkers who generate power by scaring children accidentally let a human toddler into the monster world, and have to smuggle her back home before anyone realizes what happened.
+
+  - film: soul
+    signature: 3
+    gateway: 2
+    note: A middle school music teacher finally gets his big break the same day he falls into a coma, and has to fight his way back to his body from a cosmic way station for souls not yet ready to be born.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - up
+    - inside-out
+    - monsters-inc
+    - soul

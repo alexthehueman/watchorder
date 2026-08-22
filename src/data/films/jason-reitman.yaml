@@ -1,0 +1,19 @@
+# New film for Jason Reitman. Scales and anchors are in README.md ("The anchor
+# rubric").
+#
+# Juno already exists in cera.yaml. Up in the Air already exists in clooney.yaml.
+# Young Adult and Tully already exist in theron.yaml.
+
+- id: thank-you-for-smoking
+  tmdb_id: null
+  title: Thank You for Smoking
+  year: 2005
+  runtime: 92
+  director: Jason Reitman
+  tags:
+    opacity: 2 # how much of his charm is genuine conviction and how much is trained deflection stays deliberately unclear
+    stillness: 2
+    bleakness: 2
+    humor: 4
+    acclaim: 0.75
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }

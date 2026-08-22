@@ -1,0 +1,20 @@
+# New film for Antoine Fuqua. Scales and anchors are in README.md ("The anchor
+# rubric").
+#
+# Olympus Has Fallen already exists in leo.yaml. Southpaw already exists in
+# naomie-harris.yaml. The Magnificent Seven (2016) already exists in pratt.yaml.
+# Training Day already exists in washington.yaml.
+
+- id: the-equalizer
+  tmdb_id: null
+  title: The Equalizer
+  year: 2014
+  runtime: 132
+  director: Antoine Fuqua
+  tags:
+    opacity: 2 # how much of his quiet former life was ever real stays withheld until the violence forces it out
+    stillness: 2
+    bleakness: 3
+    humor: 1
+    acclaim: 0.65
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
