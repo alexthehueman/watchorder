@@ -1,0 +1,42 @@
+slug: luc-besson
+kind: director
+name: Luc Besson
+blurb: A French genre stylist who moved fluidly between hyper-stylized action, glossy sci-fi spectacle, and quiet character studies of women shaped into weapons against their will.
+
+films:
+  - film: leon-the-professional
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A solitary hitman reluctantly takes in the twelve-year-old girl next door after her family is murdered by a corrupt DEA agent, and starts training her in his trade so she can get her revenge.
+
+  - film: the-fifth-element
+    signature: 5
+    must_see: true
+    gateway: 5
+    note: A New York cabbie is pulled into an ancient prophecy to save Earth from a rapidly approaching evil, alongside a genetically perfect woman who's the last living piece of the only weapon that can stop it.
+
+  - film: nikita
+    signature: 4
+    gateway: 2
+    note: A drug-addicted criminal is given a choice between execution and secret training as a government assassin, and has to figure out how much of her old self survives the transformation.
+
+  - film: lucy
+    signature: 3
+    gateway: 3
+    note: A woman accidentally exposed to a massive dose of a synthetic drug begins accessing exponentially more of her brain's capacity, and starts evolving into something the film insists is barely human anymore.
+
+  - film: the-lady
+    signature: 2
+    gateway: 2
+    note: Aung San Suu Kyi spends years under house arrest in Myanmar for leading a pro-democracy movement, separated from her husband and children by a regime betting she'll eventually give up.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - leon-the-professional
+    - the-fifth-element
+    - nikita
+    - lucy
+    - the-lady

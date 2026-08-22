@@ -1,0 +1,42 @@
+slug: brad-bird
+kind: director
+name: Brad Bird
+blurb: An animation veteran whose obsession with competence and hidden extraordinary ability under ordinary surfaces carried cleanly into live-action blockbuster filmmaking the moment he tried it.
+
+films:
+  - film: the-incredibles
+    signature: 5
+    must_see: true
+    gateway: 5
+    note: A family of retired superheroes forced into ordinary suburban life is pulled back into action when a vengeful former fan-turned-villain starts targeting supers directly.
+
+  - film: ratatouille
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A rat with a genuine culinary gift teams up with a talentless kitchen worker at a prestigious Paris restaurant, secretly guiding his cooking from underneath his chef's hat.
+
+  - film: the-iron-giant
+    signature: 4
+    gateway: 3
+    note: A lonely boy befriends a massive alien robot with amnesia and a hidden weapons-grade programming buried inside it, and has to convince it — and the paranoid government agent hunting it — what it actually wants to be.
+
+  - film: mission-impossible-ghost-protocol
+    signature: 3
+    gateway: 3
+    note: An elite spy team is disavowed after being framed for bombing the Kremlin, and has to stop a nuclear extremist with zero official support and no idea who set them up.
+
+  - film: tomorrowland
+    signature: 2
+    gateway: 2
+    note: A brilliant, disillusioned former boy-genius and a relentlessly optimistic teenager chase a mysterious pin that transports its holder to a hidden utopian city, racing against the collapse of the world they left behind.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - the-incredibles
+    - ratatouille
+    - the-iron-giant
+    - mission-impossible-ghost-protocol
+    - tomorrowland

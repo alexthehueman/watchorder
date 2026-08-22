@@ -1,0 +1,18 @@
+# New film for Brad Bird. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Tomorrowland already exists in hugh-laurie.yaml. The Incredibles and Ratatouille
+# already exist in pixar.yaml. The Iron Giant already exists in vin-diesel.yaml.
+
+- id: mission-impossible-ghost-protocol
+  tmdb_id: null
+  title: "Mission: Impossible - Ghost Protocol"
+  year: 2011
+  runtime: 133
+  director: Brad Bird
+  tags:
+    opacity: 2 # a nuclear plot the disavowed team has to unravel with no official backing and no confirmation who's actually behind it
+    stillness: 1
+    bleakness: 2
+    humor: 3
+    acclaim: 0.78
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

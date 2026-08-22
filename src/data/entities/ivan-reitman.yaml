@@ -1,0 +1,41 @@
+slug: ivan-reitman
+kind: director
+name: Ivan Reitman
+blurb: The director who defined 1980s studio comedy's biggest premise-first hits — a high concept, a mismatched pair, and a broad, crowd-pleasing engine built to run on both.
+
+films:
+  - film: ghostbusters
+    signature: 5
+    must_see: true
+    gateway: 5
+    note: Three eccentric parapsychologists start a for-profit ghost-catching business in New York right as a genuine, city-threatening supernatural event begins building toward its climax.
+
+  - film: stripes
+    signature: 4
+    gateway: 4
+    note: Two aimless friends enlist in the Army on a whim, and their misfit platoon has to be whipped into some kind of fighting shape before an actual international crisis lands in their lap.
+
+  - film: dave
+    signature: 4
+    gateway: 4
+    note: A kind-hearted look-alike is recruited to impersonate the President for a public appearance, and ends up staying in the role after the real president is incapacitated, with no one but two staffers aware of the switch.
+
+  - film: kindergarten-cop
+    signature: 3
+    gateway: 3
+    note: A tough undercover detective poses as a kindergarten teacher to track down a dangerous drug dealer's ex-wife and son, and finds actually running a classroom far harder than any stakeout.
+
+  - film: twins
+    signature: 2
+    gateway: 4
+    note: A genetically engineered, physically perfect man discovers he has a twin brother who got all the leftover genetic material, and the two mismatched siblings meet for the first time as adults.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - ghostbusters
+    - stripes
+    - dave
+    - twins
+    - kindergarten-cop

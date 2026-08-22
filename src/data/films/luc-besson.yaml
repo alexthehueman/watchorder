@@ -1,0 +1,19 @@
+# New film for Luc Besson. Scales and anchors are in README.md ("The anchor
+# rubric").
+#
+# Lucy already exists in johansson.yaml. Léon: The Professional and The Fifth Element
+# already exist in oldman.yaml. The Lady already exists in yeoh.yaml.
+
+- id: nikita
+  tmdb_id: null
+  title: Nikita
+  year: 1990
+  runtime: 117
+  director: Luc Besson
+  tags:
+    opacity: 2 # how much of the woman she's becoming is genuine and how much is the agency's programming stays unresolved
+    stillness: 2
+    bleakness: 4
+    humor: 1
+    acclaim: 0.75
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }

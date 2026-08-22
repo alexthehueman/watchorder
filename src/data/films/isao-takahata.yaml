@@ -1,0 +1,19 @@
+# New film for Isao Takahata. Scales and anchors are in README.md ("The anchor
+# rubric").
+#
+# Grave of the Fireflies, Only Yesterday, Pom Poko, and The Tale of the Princess
+# Kaguya already exist in ghibli.yaml.
+
+- id: my-neighbors-the-yamadas
+  tmdb_id: null
+  title: My Neighbors the Yamadas
+  year: 1999
+  runtime: 104
+  director: Isao Takahata
+  tags:
+    opacity: 1
+    stillness: 3
+    bleakness: 1
+    humor: 4
+    acclaim: 0.72
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

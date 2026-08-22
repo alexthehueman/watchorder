@@ -1,0 +1,41 @@
+slug: isao-takahata
+kind: director
+name: Isao Takahata
+blurb: Studio Ghibli's co-founder and its formal restlessness — the same studio that gave you Miyazaki's magic also made his devastating war elegy and his loose watercolor family comedy, and both were Takahata.
+
+films:
+  - film: grave-of-the-fireflies
+    signature: 5
+    must_see: true
+    gateway: 1
+    note: A teenage boy and his little sister struggle to survive on their own in the final months of World War II Japan, after firebombing raids leave them orphaned and with nowhere safe left to go.
+
+  - film: the-tale-of-the-princess-kaguya
+    signature: 4
+    gateway: 2
+    note: A tiny girl found inside a glowing bamboo stalk grows at an impossible rate into a young woman being pressured into a life of aristocratic marriage she never wanted, while quietly grieving the simpler world she came from.
+
+  - film: pom-poko
+    signature: 4
+    gateway: 3
+    note: A community of shapeshifting raccoon dogs wages an increasingly desperate campaign against the suburban development destroying their forest home, using every trick and disguise their folklore allows.
+
+  - film: only-yesterday
+    signature: 3
+    gateway: 3
+    note: A woman on a countryside trip finds herself flooded with vivid memories of her tenth-grade self, and starts reevaluating the choices that led her to the unmarried city life she's currently living.
+
+  - film: my-neighbors-the-yamadas
+    signature: 2
+    gateway: 4
+    note: An ordinary Japanese family's daily squabbles, embarrassments, and small victories are told in a loose string of comic vignettes, drawn in a deliberately sketchy, watercolor style unlike anything else at the studio.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - grave-of-the-fireflies
+    - the-tale-of-the-princess-kaguya
+    - pom-poko
+    - only-yesterday
+    - my-neighbors-the-yamadas
