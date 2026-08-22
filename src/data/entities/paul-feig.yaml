@@ -1,0 +1,59 @@
+slug: paul-feig
+kind: director
+name: Paul Feig
+blurb: Women-led ensemble comedy built on heavy improvisation, funny enough to obscure how carefully structured the underlying plot usually is.
+
+films:
+  - film: bridesmaids
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A broke maid of honor competes with her best friend's glamorous new friend for control of the wedding, while her own life quietly falls apart around her.
+
+  - film: spy
+    signature: 4
+    gateway: 5
+    note: A deskbound CIA analyst who's only ever talked field agents through their missions gets sent into the field herself when the whole active roster is compromised.
+
+  - film: the-heat
+    signature: 3
+    gateway: 4
+    note: An uptight FBI agent and a foul-mouthed Boston cop are forced to work together to take down a drug kingpin neither of them can stand doing it with the other.
+
+  - film: a-simple-favor
+    signature: 3
+    gateway: 3
+    note: A mommy-vlogger's glamorous new best friend vanishes without a trace, and the vlogger's own amateur investigation keeps turning up reasons her friend might have wanted to disappear.
+
+  - film: jackpot
+    signature: 1
+    gateway: 4
+    note: A woman who wins a jackpot in a lottery where killing the winner nets you their prize has to survive one chaotic day in Los Angeles with a bodyguard who's only in it for a cut.
+
+  - film: last-christmas
+    signature: 2
+    gateway: 3
+    note: A perpetually self-sabotaging woman working as a department-store elf starts falling for a man who seems to appear in her life at exactly the moments she needs him most.
+
+  - film: ghostbusters-2016
+    signature: 2
+    gateway: 2
+    note: Four women reboot the ghost-hunting business after a wave of paranormal activity hits New York, fighting both the supernatural and a city that refuses to take them seriously.
+
+  - film: unaccompanied-minors
+    signature: 2
+    gateway: 4
+    note: A group of kids stranded overnight at an airport during a blizzard team up to sneak past security and have the unsupervised adventure none of their parents would ever allow.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - bridesmaids
+    - spy
+    - the-heat
+    - a-simple-favor
+    - jackpot
+    - last-christmas
+    - ghostbusters-2016
+    - unaccompanied-minors

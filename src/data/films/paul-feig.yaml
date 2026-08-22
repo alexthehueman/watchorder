@@ -1,0 +1,33 @@
+# New film for Paul Feig. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Last Christmas already exists in henry-golding.yaml. Ghostbusters (2016) already
+# exists in hemsworth.yaml. A Simple Favor already exists in kendrick.yaml.
+# Bridesmaids, Spy, and The Heat already exist in mccarthy.yaml.
+
+- id: jackpot
+  tmdb_id: null
+  title: "Jackpot!"
+  year: 2024
+  runtime: 106
+  director: Paul Feig
+  tags:
+    opacity: 2 # exactly who set up the lottery-hunting rules, and why, stays withheld for most of the runtime
+    stillness: 1
+    bleakness: 2
+    humor: 4
+    acclaim: 0.55
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: unaccompanied-minors
+  tmdb_id: null
+  title: Unaccompanied Minors
+  year: 2006
+  runtime: 90
+  director: Paul Feig
+  tags:
+    opacity: 2 # a will-they-get-caught structure that keeps the security chief's next move genuinely unpredictable
+    stillness: 1
+    bleakness: 1
+    humor: 4
+    acclaim: 0.45
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

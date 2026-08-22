@@ -1,0 +1,72 @@
+# New films for Bryan Singer. Scales and anchors are in README.md ("The anchor rubric").
+#
+# X-Men already exists in berry.yaml (also separately in jackman.yaml under a
+# different id). X2 already exists in brian-cox.yaml. The Usual Suspects already
+# exists in del-toro.yaml. X-Men: Days of Future Past already exists in
+# jennifer-lawrence.yaml. Bohemian Rhapsody already exists in malek.yaml. All five
+# were humor 2 flat across the board; Valkyrie and Apt Pupil break the tie.
+
+- id: valkyrie
+  tmdb_id: null
+  title: Valkyrie
+  year: 2008
+  runtime: 121
+  director: Bryan Singer
+  tags:
+    opacity: 2 # which officers in the conspiracy can actually be trusted stays deliberately uncertain throughout
+    stillness: 2
+    bleakness: 4
+    humor: 1
+    acclaim: 0.68
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: apt-pupil
+  tmdb_id: null
+  title: Apt Pupil
+  year: 1998
+  runtime: 111
+  director: Bryan Singer
+  tags:
+    opacity: 2 # how much of what he's recounting is true, versus performed for his blackmailer's benefit, stays unclear
+    stillness: 2
+    bleakness: 5
+    humor: 1
+    acclaim: 0.62
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: superman-returns
+  tmdb_id: null
+  title: Superman Returns
+  year: 2006
+  runtime: 154
+  director: Bryan Singer
+  tags:
+    opacity: 2 # where he actually was during the years-long absence stays a mystery the film never resolves
+    stillness: 3
+    bleakness: 3
+    humor: 2
+    acclaim: 0.60
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: jack-the-giant-slayer
+  tmdb_id: null
+  title: Jack the Giant Slayer
+  year: 2013
+  runtime: 114
+  director: Bryan Singer
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: x-men-apocalypse
+  tmdb_id: null
+  title: X-Men Apocalypse
+  year: 2016
+  runtime: 144
+  director: Bryan Singer
+  tags:
+    opacity: 2 # the full scope of the ancient mutant's actual power, and how to counter it, unfolds gradually across the film
+    stillness: 2
+    bleakness: 3
+    humor: 2
+    acclaim: 0.62
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

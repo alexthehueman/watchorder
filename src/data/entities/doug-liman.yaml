@@ -1,0 +1,60 @@
+slug: doug-liman
+kind: director
+name: Doug Liman
+blurb: Kinetic, handheld energy applied to spies, soldiers, and slackers alike, moving fast enough that the plot mechanics rarely get time to feel like mechanics.
+
+films:
+  - film: the-bourne-identity
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A man pulled half-dead from the Mediterranean has no memory of who he is, only a set of lethal reflexes, and starts piecing together his own identity one violent encounter at a time.
+
+  - film: edge-of-tomorrow
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A media officer thrown into a losing alien war gets killed on his first day and wakes up to relive the same battle over and over, getting incrementally better at surviving it each time.
+
+  - film: mr-and-mrs-smith
+    signature: 4
+    gateway: 5
+    note: A married couple's dull suburban life turns out to be a cover for the fact that they're both secretly assassins, working for rival agencies that just assigned them to kill each other.
+
+  - film: swingers
+    signature: 3
+    gateway: 4
+    note: A struggling actor freshly out of a long relationship gets dragged around the Los Angeles nightlife scene by his more confident friends, trying to remember how dating is supposed to work.
+
+  - film: go-1999
+    signature: 3
+    gateway: 3
+    note: One frantic night involving a drug deal gone wrong, a rave, and a car accident is told three separate times, from three different characters whose versions of events keep contradicting each other.
+
+  - film: american-made
+    signature: 3
+    gateway: 4
+    note: A commercial airline pilot recruited by the CIA to run covert missions in Central America starts smuggling drugs and guns on the side, and loses control of how many people are relying on him.
+
+  - film: jumper
+    signature: 2
+    gateway: 4
+    note: A young man who discovers he can teleport anywhere instantly gets pulled into a secret, generations-long war between people like him and the ancient order determined to wipe them out.
+
+  - film: fair-game
+    signature: 2
+    gateway: 2
+    note: A covert CIA operative is publicly outed by the White House after her husband challenges the administration's justification for war, and has to watch her career and cover both burn.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - the-bourne-identity
+    - edge-of-tomorrow
+    - mr-and-mrs-smith
+    - swingers
+    - go-1999
+    - american-made
+    - jumper
+    - fair-game

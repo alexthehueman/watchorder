@@ -1,0 +1,29 @@
+# New film for Doug Liman. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Edge of Tomorrow already exists in blunt.yaml. The Bourne Identity already exists in
+# damon.yaml. Go already exists in john-cho.yaml. Mr. and Mrs. Smith already exists in
+# jolie.yaml. Swingers already exists in vaughn.yaml. Fair Game already exists in
+# watts.yaml.
+
+- id: american-made
+  tmdb_id: null
+  title: American Made
+  year: 2017
+  runtime: 115
+  director: Doug Liman
+  tags:
+    opacity: 2 # how much of the operation he actually understands, versus how much he's just told to do, keeps shifting
+    stillness: 2
+    bleakness: 3
+    humor: 3
+    acclaim: 0.72
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: jumper
+  tmdb_id: null
+  title: Jumper
+  year: 2008
+  runtime: 88
+  director: Doug Liman
+  tags: { opacity: 2, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
