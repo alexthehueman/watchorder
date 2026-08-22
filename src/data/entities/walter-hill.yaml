@@ -1,0 +1,35 @@
+slug: walter-hill
+kind: director
+name: Walter Hill
+blurb: A lean, economical action stylist obsessed with tribal codes and turf — gangs, mercenaries, and outlaws all governed by rules that matter more to them than the law ever could.
+
+films:
+  - film: the-warriors
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A New York street gang is falsely blamed for the assassination of a citywide gang summit's host, and has to fight their way home across the length of the city with every other gang hunting them.
+
+  - film: the-assignment
+    signature: 4
+    gateway: 1
+    note: A ruthless hitman wakes up after a botched job to discover a rogue surgeon has forcibly reassigned his body, and sets out for revenge against the doctor who did it to him.
+
+  - film: trespass
+    signature: 3
+    gateway: 2
+    note: Two firefighters searching a condemned building for hidden gold accidentally witness a gang execution, and have to survive the night while the gang hunts them down inside their own hideout.
+
+  - film: brewsters-millions
+    signature: 2
+    gateway: 4
+    note: A minor-league baseball pitcher inherits a fortune with an eccentric catch — he has to spend thirty million dollars in thirty days, with nothing to show for it, to inherit a much larger sum.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - the-warriors
+    - trespass
+    - the-assignment
+    - brewsters-millions

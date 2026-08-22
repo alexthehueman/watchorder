@@ -1,0 +1,19 @@
+# New film for Michael Apted. Scales and anchors are in README.md ("The anchor
+# rubric").
+#
+# Nell already exists in foster.yaml. Coal Miner's Daughter already exists in
+# spacek.yaml. Gorillas in the Mist already exists in weaver.yaml.
+
+- id: gorky-park
+  tmdb_id: null
+  title: Gorky Park
+  year: 1983
+  runtime: 128
+  director: Michael Apted
+  tags:
+    opacity: 3 # who's actually behind the triple murder, and how far the cover-up reaches into the state itself, stays hidden for most of the investigation
+    stillness: 3
+    bleakness: 4
+    humor: 1
+    acclaim: 0.68
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

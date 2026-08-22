@@ -1,0 +1,19 @@
+# New film for Mervyn LeRoy. Scales and anchors are in README.md ("The anchor
+# rubric").
+#
+# Little Caesar already exists in edward-g-robinson.yaml. Little Women (1949) already
+# exists in janet-leigh.yaml. Waterloo Bridge already exists in vivien-leigh.yaml.
+
+- id: random-harvest
+  tmdb_id: null
+  title: Random Harvest
+  year: 1942
+  runtime: 126
+  director: Mervyn LeRoy
+  tags:
+    opacity: 3 # an amnesiac husband has no idea his new secretary is actually the wife his memory erased
+    stillness: 2
+    bleakness: 4
+    humor: 1
+    acclaim: 0.72
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

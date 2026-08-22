@@ -1,0 +1,29 @@
+slug: todd-field
+kind: director
+name: Todd Field
+blurb: A patient, exacting chronicler of people whose public composure is quietly outrunning what's actually happening underneath it, released rarely and always to major acclaim.
+
+films:
+  - film: tar
+    signature: 5
+    must_see: true
+    gateway: 1
+    note: A celebrated composer-conductor at the peak of her career starts losing her grip on both her orchestra and her own version of events, as past behavior she's never had to answer for finally starts catching up with her.
+
+  - film: in-the-bedroom
+    signature: 5
+    gateway: 2
+    note: A couple's grief over their son's murder curdles into something neither of them expected, once the killer's plea deal makes clear he may never really be punished for it.
+
+  - film: little-children
+    signature: 4
+    gateway: 3
+    note: Two unhappily married suburban parents begin an affair after meeting at the local playground, right as a recently released sex offender's return to the neighborhood puts the whole community on edge.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - tar
+    - in-the-bedroom
+    - little-children

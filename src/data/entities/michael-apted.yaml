@@ -1,0 +1,35 @@
+slug: michael-apted
+kind: director
+name: Michael Apted
+blurb: A British documentary-trained director whose narrative films kept the same instinct for real, lived-in biography — musicians, scientists, activists, and spies grounded in exhaustive, unglamorous specificity.
+
+films:
+  - film: coal-miners-daughter
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: Loretta Lynn rises from a dirt-poor Kentucky childhood and a teenage marriage into one of country music's biggest stars, without the film softening how hard and strange that climb actually was.
+
+  - film: gorillas-in-the-mist
+    signature: 4
+    gateway: 2
+    note: Primatologist Dian Fossey dedicates her life to studying and protecting a population of mountain gorillas in Rwanda, and her escalating war against poachers costs her more than she ever expected to pay.
+
+  - film: gorky-park
+    signature: 3
+    gateway: 2
+    note: A Moscow police investigator uncovers a triple murder in Gorky Park with the victims' faces and fingerprints deliberately removed, and the case pulls him into a conspiracy that goes well above his own department.
+
+  - film: nell
+    signature: 3
+    gateway: 3
+    note: A doctor discovers a young woman who's lived her entire life isolated in the woods, speaking a private language only her late mother understood, and has to decide how much of civilization she actually needs.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - coal-miners-daughter
+    - gorillas-in-the-mist
+    - nell
+    - gorky-park

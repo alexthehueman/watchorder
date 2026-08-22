@@ -1,0 +1,19 @@
+# New film for Walter Hill. Scales and anchors are in README.md ("The anchor
+# rubric").
+#
+# Trespass already exists in ice-cube.yaml. The Assignment already exists in
+# michelle-rodriguez.yaml. Brewster's Millions already exists in richard-pryor.yaml.
+
+- id: the-warriors
+  tmdb_id: null
+  title: The Warriors
+  year: 1979
+  runtime: 92
+  director: Walter Hill
+  tags:
+    opacity: 1
+    stillness: 1
+    bleakness: 4
+    humor: 1
+    acclaim: 0.75
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }

@@ -1,0 +1,35 @@
+slug: mervyn-leroy
+kind: director
+name: Mervyn LeRoy
+blurb: A Warner Bros. studio-era workhorse who helped define the gangster picture, then spent decades moving fluidly between hard-edged crime and lush, prestige melodrama.
+
+films:
+  - film: little-caesar
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A small-time hood's ruthless ambition drives him to the top of Chicago's underworld, and the same vanity that got him there makes his eventual fall impossible to avoid.
+
+  - film: waterloo-bridge
+    signature: 4
+    gateway: 2
+    note: A ballerina falls in love with a soldier on leave during World War I, and a devastating wartime misunderstanding pushes her toward a life she has to hide from him when he returns.
+
+  - film: random-harvest
+    signature: 4
+    gateway: 2
+    note: A shell-shocked amnesiac war veteran marries a stage performer, only to recover his pre-war memory in an accident that wipes out everything after it, including any memory of her.
+
+  - film: little-women-1949
+    signature: 3
+    gateway: 4
+    note: Four sisters growing up in Civil War-era New England navigate love, ambition, and loss together, each pulling in a different direction as they figure out what kind of adult life they actually want.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - little-caesar
+    - waterloo-bridge
+    - random-harvest
+    - little-women-1949
