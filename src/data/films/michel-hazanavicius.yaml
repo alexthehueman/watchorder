@@ -1,0 +1,19 @@
+# New film for Michel Hazanavicius. Scales and anchors are in README.md ("The anchor
+# rubric").
+#
+# The Search already exists in bejo.yaml. OSS 117 already exists in dujardin.yaml. The
+# Artist already exists in goodman.yaml.
+
+- id: redoubtable
+  tmdb_id: null
+  title: Redoubtable
+  year: 2017
+  runtime: 107
+  director: Michel Hazanavicius
+  tags:
+    opacity: 2 # a self-aware, formally playful portrait that keeps blurring the line between the real Godard and his own myth
+    stillness: 2
+    bleakness: 2
+    humor: 3
+    acclaim: 0.58
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }

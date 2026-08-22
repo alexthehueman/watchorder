@@ -1,0 +1,36 @@
+slug: joe-wright
+kind: director
+name: Joe Wright
+blurb: A British costume-drama specialist with an unusually kinetic camera, equally capable of a five-minute unbroken beach-evacuation take and a razor-sharp Austen drawing room.
+
+films:
+  - film: atonement
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: A young girl's jealous, false accusation against her sister's lover destroys both their lives just as war breaks out, and the girl spends the rest of hers trying to atone for a lie she can never undo.
+
+  - film: pride-and-prejudice-2005
+    signature: 5
+    must_see: true
+    gateway: 5
+    note: A sharp-witted young woman clashes with a proud, wealthy landowner whose first impression of her is as insulting as hers of him, and the two spend the rest of the story slowly proving each other wrong.
+
+  - film: darkest-hour
+    signature: 4
+    gateway: 3
+    note: Winston Churchill's first weeks as prime minister are consumed by a brutal internal fight over whether to negotiate with Hitler or fight on with Britain's survival genuinely in question.
+
+  - film: hanna
+    signature: 3
+    gateway: 3
+    note: A teenage girl raised in total isolation by her ex-CIA father to be the perfect assassin is sent out into the world for the first time, hunted by the agent who wants both of them dead.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - pride-and-prejudice-2005
+    - atonement
+    - darkest-hour
+    - hanna

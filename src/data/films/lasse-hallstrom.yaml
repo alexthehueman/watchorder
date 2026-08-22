@@ -1,0 +1,20 @@
+# New film for Lasse Hallström. Scales and anchors are in README.md ("The anchor
+# rubric").
+#
+# The Cider House Rules already exists in caine.yaml. What's Eating Gilbert Grape
+# already exists in depp.yaml. Something to Talk About already exists in
+# rowlands.yaml.
+
+- id: chocolat
+  tmdb_id: null
+  title: Chocolat
+  year: 2000
+  runtime: 121
+  director: Lasse Hallström
+  tags:
+    opacity: 2 # a light touch of magical realism the film never confirms or explains
+    stillness: 3
+    bleakness: 2
+    humor: 2
+    acclaim: 0.68
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }

@@ -1,0 +1,36 @@
+slug: jonathan-glazer
+kind: director
+name: Jonathan Glazer
+blurb: A formalist who releases a film once a decade and makes every one of them a genuine unsettling event — cold, precise, and deliberately withholding the exact thing you most want explained.
+
+films:
+  - film: the-zone-of-interest
+    signature: 5
+    must_see: true
+    gateway: 1
+    note: The commandant of Auschwitz and his family build an idyllic domestic life in a house that shares a wall with the camp, and the film never once shows what's happening on the other side of it.
+
+  - film: under-the-skin
+    signature: 5
+    must_see: true
+    gateway: 1
+    note: An alien in human disguise drives through Scotland luring men to their deaths, and starts experiencing something disturbingly close to a human reaction to what she's actually doing.
+
+  - film: birth
+    signature: 4
+    gateway: 2
+    note: A widow about to remarry is confronted by a ten-year-old boy insistently claiming to be her dead husband reincarnated, and the film refuses to resolve whether he's telling the truth.
+
+  - film: sexy-beast
+    signature: 3
+    gateway: 3
+    note: A retired safecracker enjoying a quiet Spanish retirement is strong-armed by a terrifying former associate into coming back for one last job he has absolutely no interest in doing.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - under-the-skin
+    - the-zone-of-interest
+    - birth
+    - sexy-beast

@@ -1,0 +1,35 @@
+slug: michel-hazanavicius
+kind: director
+name: Michel Hazanavicius
+blurb: A French director whose work keeps circling the same question from opposite directions — genre pastiche played completely straight, and real history treated with a formalist's playful remove.
+
+films:
+  - film: the-artist
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A beloved silent-film star's career collapses with the arrival of talkies right as a young actress he mentored becomes Hollywood's biggest new sound star, and pride keeps him from accepting the help she wants to give him.
+
+  - film: oss-117
+    signature: 4
+    gateway: 3
+    note: A hopelessly oblivious, casually offensive 1950s French secret agent bumbles his way through a Cairo espionage plot, entirely convinced of his own competence the whole time.
+
+  - film: the-search-2014
+    signature: 3
+    gateway: 1
+    note: A humanitarian aid worker in war-torn Chechnya takes in a boy orphaned by the conflict, and the film follows both his slow recovery and the machinery of a war grinding on around them.
+
+  - film: redoubtable
+    signature: 2
+    gateway: 3
+    note: Jean-Luc Godard's marriage to a much younger actress unravels alongside his politics and his filmmaking in the aftermath of May 1968, told with the same formal playfulness Godard himself was known for.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - the-artist
+    - oss-117
+    - redoubtable
+    - the-search-2014

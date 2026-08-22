@@ -1,0 +1,36 @@
+slug: lasse-hallstrom
+kind: director
+name: Lasse Hallström
+blurb: A Swedish-born sentimentalist specializing in small-town Americana — quirky, loving families holding themselves together against real hardship, filmed with a warmth that never quite curdles into saccharine.
+
+films:
+  - film: whats-eating-gilbert-grape
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A grocery clerk in a stagnant Iowa town holds his family together — a morbidly obese mother, a developmentally disabled brother, two sisters — while quietly giving up any life of his own to do it.
+
+  - film: the-cider-house-rules
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: An orphan raised by the doctor who runs his orphanage's clinic, trained in medicine but never legally certified, leaves to see the world and has to decide what he actually owes the man who raised him.
+
+  - film: chocolat
+    signature: 4
+    gateway: 4
+    note: A free-spirited chocolatier and her daughter open a shop in a rigidly traditional French village right as Lent begins, and her sensuous confections start quietly upending the town's buttoned-up morality.
+
+  - film: something-to-talk-about
+    signature: 2
+    gateway: 3
+    note: A woman discovers her husband's infidelity and has to decide whether to blow up her marriage and her tight-knit Southern family's expectations, or quietly absorb it the way the women before her always have.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - whats-eating-gilbert-grape
+    - the-cider-house-rules
+    - chocolat
+    - something-to-talk-about

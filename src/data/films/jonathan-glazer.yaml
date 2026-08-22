@@ -1,0 +1,19 @@
+# New film for Jonathan Glazer. Scales and anchors are in README.md ("The anchor
+# rubric").
+#
+# Under the Skin and The Zone of Interest already exist in a24.yaml. Birth already
+# exists in kidman.yaml.
+
+- id: sexy-beast
+  tmdb_id: null
+  title: Sexy Beast
+  year: 2000
+  runtime: 89
+  director: Jonathan Glazer
+  tags:
+    opacity: 2 # how far his old crew will actually go to force him back stays a live, escalating threat
+    stillness: 2
+    bleakness: 3
+    humor: 2
+    acclaim: 0.75
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
