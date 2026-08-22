@@ -1,0 +1,107 @@
+slug: miramax
+kind: studio
+name: Miramax
+blurb: The independent distributor that taught Hollywood a swearing, bleeding art film could open wide and win Best Picture, before its own founders' story curdled the legacy underneath it.
+
+eras:
+  - id: breakthrough
+    name: The Weinstein breakthrough
+    from: 1989
+  - id: disney
+    name: The Disney years
+    from: 1993
+  - id: powerhouse
+    name: Awards powerhouse
+    from: 1999
+
+films:
+  - film: pulp-fiction
+    era: disney
+    signature: 5
+    must_see: true
+    gateway: 5
+    note: The film that proved a violent, structurally scrambled crime picture with unknown-quantity dialogue could be a genuine cultural event, not just a festival darling.
+
+  - film: shakespeare-in-love
+    era: powerhouse
+    signature: 4
+    must_see: true
+    gateway: 5
+    note: Best Picture over Saving Private Ryan, and the moment the industry understood Miramax's Oscar campaigning was itself a genuine competitive weapon.
+
+  - film: good-will-hunting
+    era: disney
+    signature: 4
+    gateway: 5
+    note: A janitor at MIT with an unclaimed genius for mathematics is given a choice between a comfortable, protected life and one that actually requires him to be known.
+
+  - film: chicago
+    era: powerhouse
+    signature: 4
+    gateway: 4
+    note: Two rival murderesses fight for the same tabloid spotlight in Jazz-Age Chicago, staged as an all-singing, all-dancing indictment of how fame and celebrity criminal defense actually work.
+
+  - film: scream
+    era: disney
+    signature: 4
+    gateway: 4
+    note: A masked killer stalks a small town of teenagers who have all seen enough slasher movies to know the rules, and gets to use their own genre-savviness against them.
+
+  - film: reservoir-dogs
+    era: breakthrough
+    signature: 4
+    gateway: 2
+    note: A diamond heist goes wrong before the film ever shows it happening, and the surviving crew spend the rest of the runtime in one warehouse trying to work out which of them is the informant.
+
+  - film: gangs-of-new-york
+    era: powerhouse
+    signature: 3
+    gateway: 3
+    note: A young Irish immigrant infiltrates the gang of the man who murdered his father decades earlier, in a Five Points slum run entirely on tribal turf war and civic corruption.
+
+  - film: the-cider-house-rules
+    era: disney
+    signature: 3
+    gateway: 3
+    note: An orphan raised and trained in medicine by the doctor who runs his orphanage's clinic leaves to see the world, and has to decide what he actually owes the man who raised him.
+
+  - film: jackie-brown
+    era: disney
+    signature: 3
+    gateway: 2
+    note: A flight attendant caught smuggling cash for a gun runner plays the ATF, the gun runner, and a bail bondsman against each other to walk away with the money herself.
+
+  - film: kill-bill-vol-1
+    era: powerhouse
+    signature: 3
+    gateway: 3
+    note: A former assassin left for dead at her own wedding wakes from a coma and starts working her way down a list of the people responsible, one increasingly bloody confrontation at a time.
+
+  - film: kill-bill-vol-2
+    era: powerhouse
+    signature: 3
+    gateway: 2
+    note: The assassin's revenge tour reaches the two people who hurt her most, and the film slows down long enough to explain exactly what happened at the wedding and why.
+
+  - film: my-left-foot
+    era: breakthrough
+    signature: 2
+    gateway: 1
+    note: An Irish writer and painter born with cerebral palsy, able to control only his left foot, recounts the years of being underestimated that came before anyone recognized what he could actually do.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - pulp-fiction
+    - shakespeare-in-love
+    - good-will-hunting
+    - chicago
+    - scream
+    - gangs-of-new-york
+    - reservoir-dogs
+    - the-cider-house-rules
+    - kill-bill-vol-1
+    - jackie-brown
+    - kill-bill-vol-2
+    - my-left-foot

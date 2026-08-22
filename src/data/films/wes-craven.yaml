@@ -9,7 +9,12 @@
   year: 1996
   runtime: 111
   director: Wes Craven
-  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 4, acclaim: 0.85 }
+  tags:
+    opacity: 3 # the killer's identity is the entire film's engine, and it stays a genuine whodunit until the unmasking
+    stillness: 2
+    bleakness: 3
+    humor: 4
+    acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
 
 - id: the-last-house-on-the-left
