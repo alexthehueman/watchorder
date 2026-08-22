@@ -1,0 +1,18 @@
+# New film for Mel Brooks. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Young Frankenstein and The Producers already exist in gene-wilder.yaml. Blazing
+# Saddles already exists in gene-wilder.yaml.
+
+- id: life-stinks
+  tmdb_id: null
+  title: Life Stinks
+  year: 1991
+  runtime: 95
+  director: Mel Brooks
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 3
+    humor: 3 # a grounded, character-driven dramedy against the rest of his broad-parody filmography
+    acclaim: 0.55
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

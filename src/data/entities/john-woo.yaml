@@ -1,0 +1,42 @@
+slug: john-woo
+kind: director
+name: John Woo
+blurb: The inventor of "heroic bloodshed" — gun battles staged like ballet, doves in slow motion, and a code of brotherhood and betrayal that survived the jump from Hong Kong crime films to Hollywood spectacle intact.
+
+films:
+  - film: the-killer
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: An assassin accidentally blinds a nightclub singer during his last hit and vows to pay for her surgery, while the cop hunting him grows to respect him more than the criminals he's supposed to be working for.
+
+  - film: hard-boiled
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A relentless Hong Kong cop teams up with an undercover operative embedded in a gun-smuggling triad, and the investigation builds toward one of the most sustained shootouts ever staged in a hospital.
+
+  - film: a-better-tomorrow
+    signature: 4
+    gateway: 2
+    note: A counterfeiter trying to go straight for his younger brother's sake gets pulled back into the underworld when his former partner is released from prison seeking revenge for the betrayal that put him there.
+
+  - film: face-off
+    signature: 4
+    gateway: 4
+    note: An FBI agent and the terrorist who murdered his son swap faces via experimental surgery, and each has to live inside the other's identity and family while the surgery's effects can't easily be undone.
+
+  - film: once-a-thief
+    signature: 2
+    gateway: 4
+    note: Three orphans raised together as elite art thieves by a ruthless mentor try to break free of his control for a normal life, right as one last impossible heist pulls them back in.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - the-killer
+    - hard-boiled
+    - a-better-tomorrow
+    - face-off
+    - once-a-thief

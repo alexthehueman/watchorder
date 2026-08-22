@@ -1,0 +1,36 @@
+slug: otto-preminger
+kind: director
+name: Otto Preminger
+blurb: A Hollywood provocateur who spent his career deliberately courting the censors — rape, addiction, obsession — filmed with a cool, unhurried classicism that made the taboo subject matter land even harder.
+
+films:
+  - film: anatomy-of-a-murder
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A small-town lawyer defends an army lieutenant accused of murdering the man who allegedly raped his wife, and the trial itself becomes an extended, deliberately unresolved argument over what actually happened and why it matters.
+
+  - film: laura
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A detective investigating a young woman's murder becomes obsessed with her portrait and the life he's piecing together from her friends' accounts, right before the case takes a turn nobody saw coming.
+
+  - film: angel-face
+    signature: 4
+    gateway: 2
+    note: An ambulance driver falls for a wealthy young woman with a disturbing hold over her family, and gets pulled deeper into her orbit even as the people around her keep dying.
+
+  - film: bonjour-tristesse
+    signature: 3
+    gateway: 2
+    note: A teenage girl enjoying an idle, hedonistic summer with her widowed father schemes to sabotage his new relationship, and the plan curdles into a tragedy she has to live with for the rest of her life.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - anatomy-of-a-murder
+    - laura
+    - angel-face
+    - bonjour-tristesse

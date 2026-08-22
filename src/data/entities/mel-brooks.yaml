@@ -1,0 +1,36 @@
+slug: mel-brooks
+kind: director
+name: Mel Brooks
+blurb: The reigning master of the genre parody — westerns, horror, and Broadway all sent up with total, gleeful shamelessness, packing more jokes per minute than any film had any right to.
+
+films:
+  - film: blazing-saddles
+    signature: 5
+    must_see: true
+    gateway: 5
+    note: A Black railroad worker is appointed sheriff of a racist frontier town as part of a corrupt politician's scheme to drive the residents out, and turns out to be smarter than everyone conspiring against him.
+
+  - film: young-frankenstein
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: Dr. Frankenstein's grandson, determined to distance himself from the family's infamous reputation, inherits the estate and can't resist trying the experiment himself.
+
+  - film: the-producers-1968
+    signature: 4
+    gateway: 3
+    note: A washed-up Broadway producer and his timid accountant scheme to get rich by staging the worst musical ever conceived, betting a flop pays out better than a hit — and the show turns out to be a hit.
+
+  - film: life-stinks
+    signature: 2
+    gateway: 2
+    note: A ruthless billionaire developer bets a rival he can survive thirty days homeless on the streets of Los Angeles, and the experience starts genuinely changing what he actually wants to do with his fortune.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - blazing-saddles
+    - young-frankenstein
+    - the-producers-1968
+    - life-stinks

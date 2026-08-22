@@ -1,0 +1,36 @@
+slug: sydney-pollack
+kind: director
+name: Sydney Pollack
+blurb: A prestige studio craftsman who moved comfortably between glossy romance and paranoid political thriller, always centered on people who can't quite tell how much they're actually being played.
+
+films:
+  - film: tootsie
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A talented but unemployable actor disguises himself as a woman to land a role on a soap opera, and the disguise starts teaching him things about how he's treated women that he can't easily unlearn.
+
+  - film: out-of-africa
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A Danish woman moves to Kenya to run a coffee plantation with her unfaithful husband, and finds real intimacy instead with a free-spirited big-game hunter who has no interest in being tied down either.
+
+  - film: three-days-of-the-condor
+    signature: 4
+    gateway: 2
+    note: A CIA researcher returns from lunch to find his entire office murdered, and has no way to tell which parts of his own agency he can still trust enough to stay alive.
+
+  - film: the-way-we-were
+    signature: 3
+    gateway: 3
+    note: A passionate political activist and a carefree, apolitical writer fall in love in college and stay together through a marriage that the McCarthy era eventually pulls apart.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - tootsie
+    - out-of-africa
+    - three-days-of-the-condor
+    - the-way-we-were

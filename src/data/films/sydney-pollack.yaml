@@ -1,0 +1,19 @@
+# New film for Sydney Pollack. Scales and anchors are in README.md ("The anchor
+# rubric").
+#
+# Tootsie already exists in hoffman.yaml. Three Days of the Condor already exists in
+# redford.yaml. Out of Africa already exists in streep.yaml.
+
+- id: the-way-we-were
+  tmdb_id: null
+  title: The Way We Were
+  year: 1973
+  runtime: 118
+  director: Sydney Pollack
+  tags:
+    opacity: 1
+    stillness: 3
+    bleakness: 3
+    humor: 2
+    acclaim: 0.75
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }

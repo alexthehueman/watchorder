@@ -1,0 +1,19 @@
+# New film for Otto Preminger. Scales and anchors are in README.md ("The anchor
+# rubric").
+#
+# Bonjour Tristesse already exists in jean-seberg.yaml. Angel Face already exists in
+# mitchum.yaml. Anatomy of a Murder already exists in stewart.yaml.
+
+- id: laura
+  tmdb_id: null
+  title: Laura
+  year: 1944
+  runtime: 88
+  director: Otto Preminger
+  tags:
+    opacity: 3 # a detective investigating a murder falls for the dead woman through her portrait, before the film upends what he thinks he knows
+    stillness: 2
+    bleakness: 3
+    humor: 2
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
