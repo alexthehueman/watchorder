@@ -1,0 +1,60 @@
+slug: joel-schumacher
+kind: director
+name: Joel Schumacher
+blurb: A glossy studio journeyman equally comfortable in pulpy thriller, teen cult classic, and prestige courtroom drama, never afraid of neon, melodrama, or a swing that doesn't land.
+
+films:
+  - film: falling-down
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A laid-off, divorced engineer abandons his car in gridlocked LA traffic and starts walking home, and every small indignity along the way pushes him further past the point of no return.
+
+  - film: the-lost-boys
+    signature: 4
+    must_see: true
+    gateway: 4
+    note: A teenager who's just moved to a boardwalk town falls in with a gang of older kids who turn out to be vampires, and finding a way to undo it means figuring out who's already too far gone.
+
+  - film: a-time-to-kill
+    signature: 4
+    gateway: 3
+    note: A father is put on trial for killing the men who raped his young daughter, and his young defense lawyer has to persuade an all-white Mississippi jury that the killing was justice.
+
+  - film: batman-forever
+    signature: 3
+    gateway: 3
+    note: Batman faces off against a former district attorney turned obsessive villain and a manic ex-employee of Wayne Enterprises, while a new orphaned acrobat pushes his way into becoming his sidekick.
+
+  - film: the-client
+    signature: 3
+    gateway: 3
+    note: A young boy who witnesses a mob lawyer's suicide becomes the target of both the mafia and the federal government once they realize he knows more than he's told anyone.
+
+  - film: the-phantom-of-the-opera-2004
+    signature: 4
+    gateway: 2
+    note: A disfigured, hidden composer secretly trains and falls for a young opera singer from the shadows beneath the theater, and grows more possessive as she gets closer to a life without him.
+
+  - film: st-elmos-fire
+    signature: 3
+    gateway: 3
+    note: A tight-knit group of college friends struggle to hold onto each other in the first messy year after graduation, as their romances, ambitions, and addictions start pulling them in different directions.
+
+  - film: the-number-23
+    signature: 2
+    gateway: 1
+    note: A mild-mannered dog catcher becomes obsessed with a novel that seems to mirror his own life, and starts seeing the number 23 everywhere as the line between the book and his reality dissolves.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - falling-down
+    - the-lost-boys
+    - a-time-to-kill
+    - batman-forever
+    - the-client
+    - st-elmos-fire
+    - the-phantom-of-the-opera-2004
+    - the-number-23

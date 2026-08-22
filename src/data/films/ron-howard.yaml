@@ -1,0 +1,34 @@
+# New films for Ron Howard. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Apollo 13 already exists in bill-paxton.yaml. Ransom already exists in
+# delroy-lindo.yaml. Rush already exists in hemsworth.yaml. Frost/Nixon already exists
+# in michael-sheen.yaml. The Da Vinci Code already exists in paul-bettany.yaml. A
+# Beautiful Mind and Cinderella Man already exist in russell-crowe.yaml.
+
+- id: parenthood
+  tmdb_id: null
+  title: Parenthood
+  year: 1989
+  runtime: 124
+  director: Ron Howard
+  tags:
+    opacity: 1
+    stillness: 3
+    bleakness: 2
+    humor: 4 # an ensemble of one extended family cracking jokes through every real crisis parenting throws at them
+    acclaim: 0.72
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: backdraft
+  tmdb_id: null
+  title: Backdraft
+  year: 1991
+  runtime: 137
+  director: Ron Howard
+  tags:
+    opacity: 3 # who's setting the string of arson fires, and why, stays a live mystery until the investigation closes in
+    stillness: 1
+    bleakness: 3
+    humor: 1
+    acclaim: 0.62
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

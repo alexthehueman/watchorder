@@ -1,0 +1,60 @@
+slug: roger-corman
+kind: director
+name: Roger Corman
+blurb: The B-movie king who ran his own genre factory on impossible schedules and no budget, then spent the 1960s turning a run of cheap Vincent Price Poe adaptations into something genuinely gothic.
+
+films:
+  - film: house-of-usher
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A young man arrives at his fiancée's ancestral home to find her brother convinced the entire bloodline is cursed, and the house itself seems determined to prove him right before the wedding can happen.
+
+  - film: the-masque-of-the-red-death
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A cruel prince shelters his nobility from a plague ravaging the countryside behind his castle walls, hosting a lavish masquerade while a mysterious red-cloaked figure makes its way toward the party.
+
+  - film: the-pit-and-the-pendulum
+    signature: 4
+    gateway: 4
+    note: A man investigating his sister's death at her husband's remote castle uncovers a family history of torture and premature burial that the husband seems to be reliving against his own will.
+
+  - film: the-tomb-of-ligeia
+    signature: 4
+    gateway: 2
+    note: A widower's second marriage is haunted by the increasingly literal presence of his first wife, and the film never quite confirms whether she's actually returned or he's willing her back.
+
+  - film: the-raven-1963
+    signature: 3
+    gateway: 5
+    note: A washed-up sorcerer is visited by a talking raven who turns out to be a rival magician transformed by an even more powerful one, and the two team up on a rescue mission that turns into a duel of increasingly absurd spells.
+
+  - film: the-wild-angels
+    signature: 3
+    gateway: 3
+    note: A California motorcycle gang's search for a stolen bike spirals into a funeral for one of their own, and the funeral itself curdles into a riot the film refuses to look away from.
+
+  - film: the-trip
+    signature: 3
+    gateway: 1
+    note: A burned-out commercial director takes LSD for the first time under a friend's supervision, and the film abandons plot almost entirely to stage his hallucinations from the inside.
+
+  - film: attack-of-the-crab-monsters
+    signature: 2
+    gateway: 3
+    note: A team of scientists on a remote Pacific island start disappearing one by one, and the survivors realize a colony of giant, telepathic crabs has been absorbing the minds of everyone it kills.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - house-of-usher
+    - the-masque-of-the-red-death
+    - the-pit-and-the-pendulum
+    - the-raven-1963
+    - the-tomb-of-ligeia
+    - the-wild-angels
+    - the-trip
+    - attack-of-the-crab-monsters

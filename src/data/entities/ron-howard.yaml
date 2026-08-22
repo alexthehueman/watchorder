@@ -1,0 +1,66 @@
+slug: ron-howard
+kind: director
+name: Ron Howard
+blurb: A former child star turned the most reliably crowd-pleasing director in mainstream American film — true-story crises, ensembles under pressure, and a sincerity that never curdles into cynicism.
+
+films:
+  - film: apollo-13
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A NASA moon mission turns into a survival crisis when an oxygen tank explodes en route, and the crew and ground control have to improvise a way home with a spacecraft that was never built to make it.
+
+  - film: a-beautiful-mind
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A brilliant but troubled mathematician's groundbreaking career is derailed by escalating paranoid delusions, and the film withholds, on purpose, which of his relationships are even real.
+
+  - film: rush
+    signature: 4
+    gateway: 3
+    note: Two Formula One rivals, one a disciplined perfectionist and one a reckless playboy, push each other toward a career-defining season where the margin between them is measured in inches and seconds.
+
+  - film: frost-nixon
+    signature: 3
+    gateway: 3
+    note: A lightweight British talk-show host stakes his career on landing the interview that never happened, a real confession from a disgraced president, and spends the whole shoot unsure he can actually pull it off.
+
+  - film: cinderella-man
+    signature: 3
+    gateway: 3
+    note: A washed-up Depression-era boxer gets one final shot at a title fight to save his family from poverty, against an opponent who has already killed two men in the ring.
+
+  - film: parenthood
+    signature: 3
+    gateway: 3
+    note: Three generations of one extended family stumble through the daily chaos of raising kids, with every sibling convinced their own approach to parenting is the one that's finally going to work.
+
+  - film: backdraft
+    signature: 2
+    gateway: 2
+    note: Two firefighter brothers investigate a string of murders staged as arson, and the deeper they dig the more the case points toward someone inside their own department.
+
+  - film: ransom
+    signature: 2
+    gateway: 3
+    note: A wealthy businessman's son is kidnapped, and when the ransom drop goes wrong he publicly turns the payoff into a bounty on the kidnappers' heads instead.
+
+  - film: the-da-vinci-code
+    signature: 2
+    gateway: 4
+    note: A symbologist is pulled into a murder investigation at the Louvre that unravels into a centuries-old conspiracy over a secret the Church has been protecting for two thousand years.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - apollo-13
+    - a-beautiful-mind
+    - rush
+    - frost-nixon
+    - cinderella-man
+    - the-da-vinci-code
+    - ransom
+    - backdraft
+    - parenthood

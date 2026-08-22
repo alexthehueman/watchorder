@@ -1,0 +1,22 @@
+# New film for Joel Schumacher. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Number 23 already exists in carrey.yaml. Phone Booth already exists in
+# colin-farrell.yaml. The Phantom of the Opera (2004) already exists in
+# gerard-butler.yaml. St. Elmo's Fire already exists in judd-nelson.yaml. Falling Down
+# already exists in michael-douglas.yaml. A Time to Kill already exists in
+# samuel-l-jackson.yaml. The Client already exists in sarandon.yaml. Batman Forever
+# already exists in val-kilmer.yaml.
+
+- id: the-lost-boys
+  tmdb_id: null
+  title: The Lost Boys
+  year: 1987
+  runtime: 97
+  director: Joel Schumacher
+  tags:
+    opacity: 2 # which of the boardwalk's teenagers are already vampires, and what it actually takes to turn one back, stays unclear well into the film
+    stillness: 2
+    bleakness: 3
+    humor: 3
+    acclaim: 0.72
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
