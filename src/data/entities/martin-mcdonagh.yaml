@@ -1,0 +1,36 @@
+slug: martin-mcdonagh
+kind: director
+name: Martin McDonagh
+blurb: An Anglo-Irish playwright whose films fuse pitch-black comedy with real, unresolved grief — violent men saying very funny things right up until the film makes you feel exactly how much damage they've done.
+
+films:
+  - film: in-bruges
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: Two hitmen hide out in a picturesque Belgian town after a job that accidentally killed a child, and their sightseeing small talk keeps colliding with how much neither of them can live with what happened.
+
+  - film: three-billboards-outside-ebbing-missouri
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A grieving mother rents three roadside billboards calling out the local police chief for failing to solve her daughter's murder, and the escalating fallout pulls the whole town into her fight.
+
+  - film: the-banshees-of-inisherin
+    signature: 4
+    gateway: 3
+    note: A man's lifelong best friend abruptly and inexplicably ends their friendship on a remote Irish island, and refuses to give any reason beyond simply not liking him anymore.
+
+  - film: seven-psychopaths
+    signature: 3
+    gateway: 2
+    note: A struggling screenwriter's dognapping friends accidentally steal a gangster's beloved Shih Tzu, and the increasingly violent fallout starts writing his script for him in real time.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - in-bruges
+    - three-billboards-outside-ebbing-missouri
+    - the-banshees-of-inisherin
+    - seven-psychopaths

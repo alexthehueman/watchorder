@@ -1,0 +1,19 @@
+# New film for Matt Reeves. Scales and anchors are in README.md ("The anchor
+# rubric").
+#
+# War for the Planet of the Apes already exists in harrelson.yaml. Let Me In already
+# exists in moretz.yaml. The Batman already exists in pattinson.yaml.
+
+- id: cloverfield
+  tmdb_id: null
+  title: Cloverfield
+  year: 2008
+  runtime: 85
+  director: Matt Reeves
+  tags:
+    opacity: 4 # a found-footage monster attack the film never explains the origin or nature of
+    stillness: 1
+    bleakness: 4
+    humor: 2 # the found-footage party-tape framing keeps a nervy, joking energy going even as the attack escalates
+    acclaim: 0.65
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

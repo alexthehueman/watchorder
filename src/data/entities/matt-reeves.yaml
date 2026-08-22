@@ -1,0 +1,35 @@
+slug: matt-reeves
+kind: director
+name: Matt Reeves
+blurb: A genre director whose blockbusters keep an unusually patient, character-first instinct — monsters, apes, and detectives all given real interior weight the spectacle never gets to overwhelm.
+
+films:
+  - film: the-batman
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: A younger, still-unproven Batman tracks a serial killer who's targeting Gotham's corrupt elite and leaving riddles addressed directly to him, forcing him to confront how much of the city's rot his own family is tied to.
+
+  - film: war-for-the-planet-of-the-apes
+    signature: 5
+    gateway: 2
+    note: Caesar leads the remaining ape population against a ruthless colonel's renegade militia in a war that's costing the apes everything, and Caesar's own restraint keeps getting tested past what he can bear.
+
+  - film: let-me-in
+    signature: 4
+    gateway: 2
+    note: A bullied twelve-year-old boy befriends the strange new girl next door, and the friendship deepens even as the deaths accumulating around their apartment complex point directly back to her.
+
+  - film: cloverfield
+    signature: 3
+    gateway: 3
+    note: A going-away party in Manhattan is interrupted by a massive, unexplained creature attack, and a small group of friends film their own escape through the wreckage on a single handheld camera.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - the-batman
+    - war-for-the-planet-of-the-apes
+    - let-me-in
+    - cloverfield

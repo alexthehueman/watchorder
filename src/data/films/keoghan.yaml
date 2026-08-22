@@ -40,7 +40,12 @@
   year: 2022
   runtime: 114
   director: Martin McDonagh
-  tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 2, acclaim: 0.85 }
+  tags:
+    opacity: 1
+    stillness: 3
+    bleakness: 5 # a friendship-breakup that escalates to real, permanent self-harm, bleaker in the end than his other three films
+    humor: 2
+    acclaim: 0.85
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: the-banshees-of-inisherin
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ys/e3/qp/ue/the-banshees-of-inisherin-1200-1200-675-675-crop-000000.jpg?v=3833cedbcc

@@ -1,0 +1,19 @@
+# New film for Mikio Naruse. Scales and anchors are in README.md ("The anchor
+# rubric").
+#
+# Repast and Sound of the Mountain already exist in hara.yaml. When a Woman Ascends
+# the Stairs already exists in toho.yaml.
+
+- id: floating-clouds
+  tmdb_id: null
+  title: Floating Clouds
+  year: 1955
+  runtime: 123
+  director: Mikio Naruse
+  tags:
+    opacity: 2 # whether he ever really loved her, or simply needed somewhere to return to, stays unresolved through the entire relationship
+    stillness: 4
+    bleakness: 5
+    humor: 1
+    acclaim: 0.82
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }

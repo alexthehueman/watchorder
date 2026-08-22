@@ -1,0 +1,35 @@
+slug: robert-benton
+kind: director
+name: Robert Benton
+blurb: A screenwriter-turned-director who specialized in unglamorous decency — ordinary people, often men learning belatedly how to actually care for someone, filmed without a trace of sentimentality.
+
+films:
+  - film: kramer-vs-kramer
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A workaholic father is left to raise his young son alone after his wife leaves them both, and has to learn real parenting from scratch right before she returns to fight him for custody.
+
+  - film: places-in-the-heart
+    signature: 4
+    gateway: 3
+    note: A newly widowed Texas mother during the Depression fights to keep her family's farm and her children fed, aided by a homeless Black drifter and a blind boarder that the town would rather she turned away.
+
+  - film: nobodys-fool
+    signature: 4
+    gateway: 3
+    note: An aging, chronically underachieving handyman in a small upstate New York town reconnects with the son and grandson he's spent years avoiding, right as an old injury lawsuit threatens what little stability he has.
+
+  - film: the-late-show
+    signature: 2
+    gateway: 2
+    note: A retired, half-deaf private eye comes out of retirement to investigate his old partner's murder, and reluctantly teams up with a scattered, well-meaning amateur who hired the dead man in the first place.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - kramer-vs-kramer
+    - places-in-the-heart
+    - nobodys-fool
+    - the-late-show

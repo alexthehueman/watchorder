@@ -1,0 +1,19 @@
+# New film for Robert Benton. Scales and anchors are in README.md ("The anchor
+# rubric").
+#
+# Places in the Heart already exists in malkovich.yaml. Nobody's Fool already exists
+# in newman.yaml. Kramer vs. Kramer already exists in streep.yaml.
+
+- id: the-late-show
+  tmdb_id: null
+  title: The Late Show
+  year: 1977
+  runtime: 94
+  director: Robert Benton
+  tags:
+    opacity: 3 # a retired private eye's murdered old partner leaves a case whose real motive stays hidden until the very end
+    stillness: 3
+    bleakness: 3
+    humor: 3
+    acclaim: 0.72
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
