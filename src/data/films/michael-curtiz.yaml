@@ -1,0 +1,37 @@
+# New films for Michael Curtiz. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Casablanca already exists in bergman-ingrid.yaml. Mildred Pierce already exists in
+# joan-crawford.yaml. Yankee Doodle Dandy and Angels with Dirty Faces already exist in
+# james-cagney.yaml. The Adventures of Robin Hood already exists in una-oconnor.yaml.
+
+- id: white-christmas
+  tmdb_id: null
+  title: White Christmas
+  year: 1954
+  runtime: 120
+  director: Michael Curtiz
+  tags: { opacity: 1, stillness: 3, bleakness: 1, humor: 3, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: captain-blood
+  tmdb_id: null
+  title: Captain Blood
+  year: 1935
+  runtime: 119
+  director: Michael Curtiz
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-sea-wolf
+  tmdb_id: null
+  title: The Sea Wolf
+  year: 1941
+  runtime: 100
+  director: Michael Curtiz
+  tags:
+    opacity: 2 # whether the captain's nihilism is genuine philosophy or a performance for his own crew stays unresolved
+    stillness: 2
+    bleakness: 5
+    humor: 1
+    acclaim: 0.72
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

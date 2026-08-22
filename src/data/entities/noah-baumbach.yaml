@@ -1,0 +1,66 @@
+slug: noah-baumbach
+kind: director
+name: Noah Baumbach
+blurb: Smart, articulate people using their intelligence as a weapon against each other, in divorces and family reunions where the dialogue cuts closer than anything physical could.
+
+films:
+  - film: marriage-story
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A married couple's amicable plan to divorce without lawyers falls apart almost immediately, and the process of splitting up turns out to require becoming much crueler than either of them wanted to be.
+
+  - film: the-squid-and-the-whale
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: Two brothers navigate their parents' divorce in 1980s Brooklyn, each pulled toward a different parent in ways that start reshaping who they're becoming.
+
+  - film: frances-ha
+    signature: 4
+    gateway: 5
+    note: A broke, aimless 27-year-old apprentice dancer in New York bounces between apartments and friendships, chasing an adulthood that keeps refusing to actually arrive.
+
+  - film: the-meyerowitz-stories
+    signature: 3
+    gateway: 3
+    note: Three adult siblings reunite around their difficult, underappreciated sculptor father, each of them still competing for validation he was never quite willing to give.
+
+  - film: greenberg
+    signature: 2
+    gateway: 2
+    note: A prickly, unemployed man house-sitting his brother's Los Angeles home starts an uneasy relationship with the family's assistant, mostly by being honest in ways nobody asked him to be.
+
+  - film: margot-at-the-wedding
+    signature: 2
+    gateway: 1
+    note: A writer brings her son to her sister's wedding at their childhood home, and the two sisters' old, unresolved cruelty toward each other resurfaces almost immediately.
+
+  - film: while-were-young
+    signature: 2
+    gateway: 3
+    note: A middle-aged documentary filmmaker and his wife befriend a younger, seemingly freer couple, and start questioning how much of their own life has quietly calcified into routine.
+
+  - film: white-noise
+    signature: 2
+    gateway: 1
+    note: A college professor and his family flee an "airborne toxic event" while quietly, separately obsessing over their own mortality, in a satire that never settles on how seriously to take any of it.
+
+  - film: kicking-and-screaming
+    signature: 2
+    gateway: 3
+    note: A group of recent college graduates can't bring themselves to actually leave campus, drifting through trivia nights and half-relationships instead of starting the lives waiting for them.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - marriage-story
+    - the-squid-and-the-whale
+    - frances-ha
+    - the-meyerowitz-stories
+    - greenberg
+    - margot-at-the-wedding
+    - while-were-young
+    - white-noise
+    - kicking-and-screaming

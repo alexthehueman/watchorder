@@ -1,0 +1,53 @@
+slug: paolo-sorrentino
+kind: director
+name: Paolo Sorrentino
+blurb: Baroque, elegant excess pointed at aging men reckoning with what all their wealth, power, or fame actually amounted to, shot like every room is a museum they're not sure they belong in.
+
+films:
+  - film: the-great-beauty
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: An aging Roman writer who published one acclaimed novel decades ago and nothing since drifts through the city's decadent party circuit, taking stock of what the beautiful life actually cost him.
+
+  - film: the-hand-of-god
+    signature: 4
+    gateway: 4
+    note: A teenager in 1980s Naples, obsessed with Maradona's arrival at the local football club, has his life upended by a sudden family tragedy that reroutes everything he thought he wanted.
+
+  - film: il-divo
+    signature: 4
+    gateway: 1
+    note: Seven-time Italian prime minister Giulio Andreotti navigates a web of Mafia ties, political assassinations, and corruption trials, all from behind the same impassive, unreadable expression.
+
+  - film: the-consequences-of-love
+    signature: 3
+    gateway: 2
+    note: A silent, disciplined man living an isolated hotel-room existence turns out to be laundering Mafia money, and a small act of connection with a waitress starts to cost him his careful invisibility.
+
+  - film: youth
+    signature: 3
+    gateway: 4
+    note: A retired composer and his filmmaker best friend spend a summer at a luxury Alpine spa, reflecting on mortality, regret, and the work neither of them is willing to call finished.
+
+  - film: this-must-be-the-place
+    signature: 2
+    gateway: 3
+    note: A retired, reclusive goth rock star sets out across America to track down the former Nazi camp guard responsible for his late father's suffering.
+
+  - film: loro
+    signature: 2
+    gateway: 2
+    note: An ambitious social climber schemes his way into Silvio Berlusconi's orbit during the height of the media mogul's power, chasing an invitation into a world built entirely on spectacle.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - the-great-beauty
+    - the-hand-of-god
+    - il-divo
+    - the-consequences-of-love
+    - youth
+    - this-must-be-the-place
+    - loro

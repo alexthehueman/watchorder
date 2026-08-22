@@ -1,0 +1,59 @@
+slug: m-night-shyamalan
+kind: director
+name: M. Night Shyamalan
+blurb: A withheld fact built into the premise itself, in stories that only make complete sense once you already know how they end.
+
+films:
+  - film: the-sixth-sense
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A child psychologist tries to help a boy who claims he can see dead people, and the case ends up revealing something the psychologist himself never saw coming.
+
+  - film: unbreakable
+    signature: 4
+    gateway: 3
+    note: The lone survivor of a catastrophic train crash, with no injuries at all, is approached by a comic-book obsessive convinced he's something more than human.
+
+  - film: signs
+    signature: 5
+    gateway: 5
+    note: A former priest and his family find mysterious crop circles carved into their farm, and have to figure out fast whether they're under invasion or losing their grip on reality.
+
+  - film: split
+    signature: 4
+    gateway: 4
+    note: Three teenagers kidnapped by a man with twenty-three distinct personalities have to figure out which of his identities might actually help them escape before a twenty-fourth, far more dangerous one takes control.
+
+  - film: the-village
+    signature: 3
+    gateway: 2
+    note: A secluded 19th-century village lives under a fragile truce with mysterious creatures said to inhabit the surrounding woods, a truce a blind woman's journey through the forest threatens to break.
+
+  - film: glass
+    signature: 3
+    gateway: 1
+    note: A psychiatrist who believes superpowers are delusions gets three patients who all claim otherwise committed to the same facility, and sets out to convince all three they're wrong.
+
+  - film: knock-at-the-cabin
+    signature: 2
+    gateway: 3
+    note: A family vacationing at a remote cabin is held hostage by four strangers who insist the family has to make an impossible choice to prevent the apocalypse.
+
+  - film: old
+    signature: 2
+    gateway: 3
+    note: A family vacationing at a secluded tropical resort discovers the beach they're relaxing on ages them decades within a single day, and someone at the resort already knows why.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - the-sixth-sense
+    - unbreakable
+    - signs
+    - split
+    - the-village
+    - glass
+    - knock-at-the-cabin
+    - old

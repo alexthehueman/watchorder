@@ -1,0 +1,60 @@
+slug: michael-curtiz
+kind: director
+name: Michael Curtiz
+blurb: Old Hollywood studio craft at its most versatile, moving between swashbuckler, musical, gangster picture, and wartime romance without ever losing the same crisp, forward-moving control.
+
+films:
+  - film: casablanca
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A cynical American expatriate running a nightclub in Vichy-controlled Morocco has to decide what he actually owes the woman who broke his heart, now that she's arrived with her resistance-leader husband in tow.
+
+  - film: the-adventures-of-robin-hood
+    signature: 5
+    must_see: true
+    gateway: 5
+    note: A dispossessed Saxon nobleman leads a band of outlaws against the tyrannical Norman regent, robbing the rich to fund a rebellion and falling for the regent's own ward along the way.
+
+  - film: yankee-doodle-dandy
+    signature: 4
+    gateway: 3
+    note: A Broadway songwriter and performer's life story is told through the songs that made him famous, from vaudeville beginnings to a private meeting with the president.
+
+  - film: mildred-pierce
+    signature: 4
+    gateway: 2
+    note: A divorced mother builds a restaurant empire from nothing to win her ungrateful, status-obsessed daughter's approval, right as a murder investigation starts unraveling exactly what that ambition cost her.
+
+  - film: captain-blood
+    signature: 3
+    gateway: 4
+    note: A wrongly enslaved doctor escapes his sentence and becomes a pirate captain, leading a rebellion against the same colonial powers that stole his freedom.
+
+  - film: angels-with-dirty-faces
+    signature: 3
+    gateway: 2
+    note: A gangster returns to his old neighborhood to find his childhood best friend now a priest working to keep local kids from following the same path he took.
+
+  - film: white-christmas
+    signature: 2
+    gateway: 5
+    note: Two war-veteran song-and-dance men team up with a sister act to save their old commanding officer's failing Vermont inn, staging one last big show to save it.
+
+  - film: the-sea-wolf
+    signature: 3
+    gateway: 1
+    note: A tyrannical, nihilistic sea captain terrorizes his own crew and two shipwreck survivors he's taken aboard, testing whether anyone under his command still has the will to resist him.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - casablanca
+    - the-adventures-of-robin-hood
+    - yankee-doodle-dandy
+    - mildred-pierce
+    - captain-blood
+    - angels-with-dirty-faces
+    - white-christmas
+    - the-sea-wolf

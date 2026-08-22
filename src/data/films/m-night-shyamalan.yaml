@@ -1,0 +1,34 @@
+# New films for M. Night Shyamalan. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Split already exists in blumhouse.yaml. Knock at the Cabin already exists in
+# dave-bautista.yaml. Glass already exists in paulson.yaml. Unbreakable already exists
+# in samuel-l-jackson.yaml. The Sixth Sense already exists in collette.yaml. Signs
+# already exists in mel-gibson.yaml.
+
+- id: the-village
+  tmdb_id: null
+  title: The Village
+  year: 2004
+  runtime: 108
+  director: M. Night Shyamalan
+  tags:
+    opacity: 4 # the true nature of the creatures in the woods, and of the village itself, is the entire withheld premise
+    stillness: 3
+    bleakness: 3
+    humor: 1
+    acclaim: 0.62
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: old
+  tmdb_id: null
+  title: Old
+  year: 2021
+  runtime: 108
+  director: M. Night Shyamalan
+  tags:
+    opacity: 3 # who's actually orchestrating the beach's effect, and why, stays withheld until the very end
+    stillness: 2
+    bleakness: 4
+    humor: 1
+    acclaim: 0.55
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }

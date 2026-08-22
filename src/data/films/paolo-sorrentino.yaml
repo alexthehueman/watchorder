@@ -1,0 +1,32 @@
+# New films for Paolo Sorrentino. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Consequences of Love, Il Divo, The Great Beauty, Loro, and The Hand of God
+# already exist in servillo.yaml.
+
+- id: youth
+  tmdb_id: null
+  title: Youth
+  year: 2015
+  runtime: 124
+  director: Paolo Sorrentino
+  tags:
+    opacity: 2 # what each man is actually still hiding from the other stays withheld under decades of easy friendship
+    stillness: 4
+    bleakness: 3
+    humor: 2
+    acclaim: 0.72
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: this-must-be-the-place
+  tmdb_id: null
+  title: This Must Be the Place
+  year: 2011
+  runtime: 118
+  director: Paolo Sorrentino
+  tags:
+    opacity: 2 # what he's actually chasing on the road — justice, his father's approval, or just distraction — stays unclear
+    stillness: 3
+    bleakness: 3
+    humor: 2
+    acclaim: 0.55
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }

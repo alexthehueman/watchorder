@@ -1,0 +1,62 @@
+# New films for Noah Baumbach. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Meyerowitz Stories already exists in adam-sandler.yaml. Margot at the Wedding
+# already exists in black.yaml. The Squid and the Whale already exists in
+# jeff-daniels.yaml. Marriage Story already exists in johansson.yaml. Greenberg
+# already exists in stiller.yaml.
+
+- id: kicking-and-screaming
+  tmdb_id: null
+  title: Kicking and Screaming
+  year: 1995
+  runtime: 96
+  director: Noah Baumbach
+  tags:
+    opacity: 2 # whether any of them are actually capable of leaving campus stays an open question right to the end
+    stillness: 2
+    bleakness: 2
+    humor: 4
+    acclaim: 0.68
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: frances-ha
+  tmdb_id: null
+  title: Frances Ha
+  year: 2012
+  runtime: 86
+  director: Noah Baumbach
+  tags:
+    opacity: 2 # whether she's actually growing into her own life or just drifting further from it stays open
+    stillness: 2
+    bleakness: 2
+    humor: 4
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: white-noise
+  tmdb_id: null
+  title: White Noise
+  year: 2022
+  runtime: 136
+  director: Noah Baumbach
+  tags:
+    opacity: 4 # a satirical tone that keeps refusing to settle on how seriously the "airborne toxic event" is meant to be taken
+    stillness: 2
+    bleakness: 3
+    humor: 3
+    acclaim: 0.55
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: while-were-young
+  tmdb_id: null
+  title: While We're Young
+  year: 2014
+  runtime: 97
+  director: Noah Baumbach
+  tags:
+    opacity: 2 # how much of the younger couple's authenticity is genuine versus a performance for their new friends stays open
+    stillness: 3
+    bleakness: 2
+    humor: 4
+    acclaim: 0.68
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
