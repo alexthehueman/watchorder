@@ -68,7 +68,12 @@
   year: 2012
   runtime: 130
   director: Jeff Nichols
-  tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.8 }
+  tags:
+    opacity: 1
+    stillness: 3
+    bleakness: 3
+    humor: 2 # the boys' friendship with him carries real, unforced warmth against the rest of his filmography
+    acclaim: 0.8
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt1935179
   poster_url: https://m.media-amazon.com/images/M/MV5BMTU2MzcyODgyNV5BMl5BanBnXkFtZTcwNTc4MDYwOQ@@._V1_SX300.jpg

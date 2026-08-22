@@ -1,0 +1,42 @@
+slug: jeff-nichols
+kind: director
+name: Jeff Nichols
+blurb: An Arkansas-rooted American realist who keeps returning to fathers protecting families against threats the film may or may not fully confirm are real — grounded, plainspoken, and unhurried even at its strangest.
+
+films:
+  - film: take-shelter
+    signature: 5
+    must_see: true
+    gateway: 1
+    note: A husband and father starts having apocalyptic visions of an approaching storm, and has to decide whether he's a man of genuine prophetic insight or in the early stages of the same mental illness that institutionalized his mother.
+
+  - film: mud
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: Two boys discover a fugitive hiding out on a river island, and agree to help him reunite with the woman he loves in exchange for the boat he's living in, without fully understanding what he actually did.
+
+  - film: midnight-special
+    signature: 4
+    gateway: 2
+    note: A father goes on the run with his young son, whose strange, escalating abilities have made him the target of both a religious cult and the federal government, refusing to explain what the boy actually is until he has no choice.
+
+  - film: loving
+    signature: 3
+    gateway: 3
+    note: An interracial couple in 1950s Virginia are arrested for their marriage and forced into exile, and their quiet refusal to stop fighting for the right to go home eventually reaches the Supreme Court.
+
+  - film: the-bikeriders
+    signature: 3
+    gateway: 3
+    note: A Midwestern motorcycle club's original camaraderie curdles into something more violent and business-minded across the 1960s and '70s, told through the eyes of one member's increasingly worried wife.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - take-shelter
+    - mud
+    - midnight-special
+    - loving
+    - the-bikeriders

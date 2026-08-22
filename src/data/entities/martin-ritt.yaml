@@ -1,0 +1,42 @@
+slug: martin-ritt
+kind: director
+name: Martin Ritt
+blurb: A blacklisted director who returned to filmmaking preoccupied with dignity under pressure — sharecroppers, factory workers, and Cold War operatives all forced to decide what they'll actually sacrifice to keep it.
+
+films:
+  - film: hud
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A ruthless, magnetic Texas rancher's son clashes with his aging father over the family cattle operation, while his nephew has to decide which of the two men he actually wants to become.
+
+  - film: the-spy-who-came-in-from-the-cold
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: A burned-out British intelligence officer is sent on one final mission into East Germany, and can't tell how much of his own operation is real until it's already cost him everything.
+
+  - film: norma-rae
+    signature: 4
+    gateway: 4
+    note: A textile mill worker reluctantly becomes the face of a union organizing drive, risking her job, her marriage, and her standing in town to fight for conditions the company has no intention of improving on its own.
+
+  - film: sounder
+    signature: 3
+    gateway: 3
+    note: A Black sharecropping family in the Depression-era South struggles to survive after the father is arrested for stealing food, and the eldest son takes on the burden of holding the family together.
+
+  - film: no-down-payment
+    signature: 2
+    gateway: 2
+    note: Four young couples in a brand-new California suburb navigate infidelity, class resentment, and prejudice hiding just underneath their identical prosperous lawns.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - hud
+    - the-spy-who-came-in-from-the-cold
+    - norma-rae
+    - sounder
+    - no-down-payment

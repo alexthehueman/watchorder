@@ -1,0 +1,20 @@
+# New film for Martin Ritt. Scales and anchors are in README.md ("The anchor
+# rubric").
+#
+# No Down Payment already exists in jeffrey-hunter.yaml. Hud already exists in
+# newman.yaml. The Spy Who Came in from the Cold already exists in richard-burton.yaml.
+# Norma Rae already exists in sally-field.yaml.
+
+- id: sounder
+  tmdb_id: null
+  title: Sounder
+  year: 1972
+  runtime: 105
+  director: Martin Ritt
+  tags:
+    opacity: 1
+    stillness: 3
+    bleakness: 3
+    humor: 1
+    acclaim: 0.78
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

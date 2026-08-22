@@ -1,0 +1,42 @@
+slug: matthew-vaughn
+kind: director
+name: Matthew Vaughn
+blurb: A British genre stylist who moves between glossy blockbuster spectacle and hard-edged crime with the same confident, slightly self-aware wink — everything shot like it knows exactly how fun it's supposed to be.
+
+films:
+  - film: kingsman-the-secret-service
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A rough-around-the-edges London kid is recruited into a secret, impeccably tailored spy organization, right as a tech billionaire's plan to "cure" climate change turns out to require killing most of humanity.
+
+  - film: kick-ass
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: An ordinary teenager with no powers or training decides to become a real-life superhero, and gets pulled into an actual war between crime lords and a father-daughter vigilante team who take it far more seriously than he does.
+
+  - film: layer-cake
+    signature: 4
+    gateway: 2
+    note: A meticulous, about-to-retire London cocaine dealer takes one last job locating a missing girl, and discovers every layer of the criminal underworld around him is playing a longer game than he realized.
+
+  - film: x-men-first-class
+    signature: 4
+    gateway: 3
+    note: A young Charles Xavier and Erik Lehnsherr form an uneasy friendship while recruiting the first generation of mutants, right as the Cuban Missile Crisis pushes both of their ideologies toward an irreversible split.
+
+  - film: stardust
+    signature: 3
+    gateway: 3
+    note: A young man crosses into a magical kingdom to retrieve a fallen star for the girl he loves, and discovers the star is actually a woman being hunted by witches and warring princes who all want her for their own reasons.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - kingsman-the-secret-service
+    - kick-ass
+    - x-men-first-class
+    - layer-cake
+    - stardust

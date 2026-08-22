@@ -1,0 +1,20 @@
+# New film for Matthew Vaughn. Scales and anchors are in README.md ("The anchor
+# rubric").
+#
+# Layer Cake already exists in daniel-craig.yaml. X-Men First Class already exists in
+# fassbender.yaml. Kingsman: The Secret Service already exists in firth.yaml. Kick-Ass
+# already exists in moretz.yaml.
+
+- id: stardust
+  tmdb_id: null
+  title: Stardust
+  year: 2007
+  runtime: 127
+  director: Matthew Vaughn
+  tags:
+    opacity: 2 # which of the travelers he meets in the magical kingdom can actually be trusted stays genuinely unclear
+    stillness: 2
+    bleakness: 2
+    humor: 3
+    acclaim: 0.75
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

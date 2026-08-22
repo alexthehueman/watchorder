@@ -1,0 +1,19 @@
+# New film for Luca Guadagnino. Scales and anchors are in README.md ("The anchor
+# rubric").
+#
+# Call Me by Your Name and Bones and All already exist in chalamet.yaml. I Am Love
+# already exists in swinton.yaml. Challengers already exists in zendaya.yaml.
+
+- id: suspiria-2018
+  tmdb_id: null
+  title: Suspiria
+  year: 2018
+  runtime: 152
+  director: Luca Guadagnino
+  tags:
+    opacity: 4 # what the dance academy's coven is actually planning, and who's really in control of it, stays withheld until the ritual finale
+    stillness: 3
+    bleakness: 5
+    humor: 1
+    acclaim: 0.68
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }

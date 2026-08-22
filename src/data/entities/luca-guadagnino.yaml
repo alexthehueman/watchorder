@@ -1,0 +1,42 @@
+slug: luca-guadagnino
+kind: director
+name: Luca Guadagnino
+blurb: An Italian sensualist obsessed with desire that overwhelms good sense — bodies, appetite, and self-control all dissolving under a gorgeous, sun-warmed or genuinely horrifying surface depending on the film.
+
+films:
+  - film: call-me-by-your-name
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A seventeen-year-old spends a languid Italian summer falling for his father's graduate student research assistant, and the two circle each other for weeks before either admits what's actually happening.
+
+  - film: challengers
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A former tennis prodigy turned coach maneuvers her husband into a lower-tier match against the man they both once loved, and the film cuts between the match and a decade of the triangle's history to explain why it matters so much.
+
+  - film: suspiria-2018
+    signature: 4
+    gateway: 1
+    note: An American dancer joins a prestigious Berlin dance academy secretly run by a coven of witches, and rises through the ranks without realizing what the company actually intends to use her for.
+
+  - film: i-am-love
+    signature: 4
+    gateway: 2
+    note: The Russian-born matriarch of a wealthy Milanese industrial family has a passionate affair with her son's business partner, and it starts unraveling the rigid, decades-long role she's played inside the family.
+
+  - film: bones-and-all
+    signature: 3
+    gateway: 2
+    note: Two young cannibals fall in love on a road trip across the Reagan-era Midwest, trying to build something real together despite what they both have to do to survive.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - call-me-by-your-name
+    - challengers
+    - i-am-love
+    - bones-and-all
+    - suspiria-2018

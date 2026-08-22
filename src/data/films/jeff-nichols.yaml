@@ -1,0 +1,19 @@
+# New film for Jeff Nichols. Scales and anchors are in README.md ("The anchor
+# rubric").
+#
+# The Bikeriders already exists in butler.yaml. Mud already exists in mcconaughey.yaml.
+# Take Shelter and Midnight Special already exist in shannon.yaml.
+
+- id: loving
+  tmdb_id: null
+  title: Loving
+  year: 2016
+  runtime: 123
+  director: Jeff Nichols
+  tags:
+    opacity: 1
+    stillness: 4
+    bleakness: 3
+    humor: 1
+    acclaim: 0.82
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
