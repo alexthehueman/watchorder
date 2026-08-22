@@ -1,0 +1,62 @@
+slug: focus-features
+kind: studio
+name: Focus Features
+blurb: The arthouse arm built to give auteur directors real studio money without asking them to compromise the strangeness that made their films worth financing in the first place.
+
+# Unlike Cannon, Hammer or Miramax, Focus never went through a real identity break — it's stayed
+# the same Universal-owned prestige arm since its 2002 founding — so this roster runs one era
+# rather than staging a pivot that never happened.
+eras:
+  - id: focus
+    name: The Focus Features era
+    from: 2002
+
+films:
+  - film: eternal-sunshine-of-the-spotless-mind
+    era: focus
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: A heartbroken man undergoes an experimental procedure to erase all memory of his ex-girlfriend, and starts fighting to hold onto her partway through the erasure, from inside his own unraveling mind.
+
+  - film: nocturnal-animals
+    era: focus
+    signature: 5
+    must_see: true
+    gateway: 1
+    note: An art gallery owner receives a violent novel manuscript from her ex-husband dedicated to her, and reading it starts forcing her to confront exactly why their marriage actually ended.
+
+  - film: phantom-thread
+    era: focus
+    signature: 4
+    gateway: 2
+    note: A controlling, meticulous 1950s London dressmaker takes on a new muse and lover, and the power in their relationship shifts in a direction neither the dressmaker nor the audience initially expects.
+
+  - film: lost-in-translation
+    era: focus
+    signature: 4
+    gateway: 3
+    note: A washed-up actor and a recently married young woman, both jet-lagged and adrift in the same Tokyo hotel, form an intimate, undefined connection over one strange week neither of them can quite name.
+
+  - film: moonrise-kingdom
+    era: focus
+    signature: 3
+    gateway: 4
+    note: Two twelve-year-olds run away together into the New England wilderness, and the entire adult search party's assumptions about childhood, love, and control keep proving wrong.
+
+  - film: dallas-buyers-club
+    era: focus
+    signature: 3
+    gateway: 3
+    note: A homophobic electrician diagnosed with AIDS in 1985 starts smuggling unapproved medication into the country, building an underground buyers' club that puts him in direct conflict with the FDA.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - eternal-sunshine-of-the-spotless-mind
+    - lost-in-translation
+    - moonrise-kingdom
+    - dallas-buyers-club
+    - phantom-thread
+    - nocturnal-animals

@@ -1,0 +1,86 @@
+slug: dreamworks-animation
+kind: studio
+name: DreamWorks Animation
+blurb: Founded to give Pixar and Disney a real fight, and it found its actual voice the moment it stopped trying to be prestige and leaned all the way into the fart jokes and pop-culture needle drops.
+
+eras:
+  - id: prestige-gambit
+    name: The Katzenberg gambit
+    from: 1998
+  - id: shrek-era
+    name: The Shrek era
+    from: 2001
+  - id: second-wind
+    name: Second wind
+    from: 2008
+
+films:
+  - film: shrek
+    era: shrek-era
+    signature: 5
+    must_see: true
+    gateway: 5
+    note: A grumpy, solitary ogre is forced to rescue a princess from a dragon-guarded tower to get his swamp back, and finds actual companionship with the annoying talking donkey he never wanted along for the ride.
+
+  - film: how-to-train-your-dragon
+    era: second-wind
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A young Viking too gentle for his tribe's dragon-slaying culture secretly befriends the very dragon he was supposed to kill, and has to hide it from everyone he loves.
+
+  - film: kung-fu-panda
+    era: second-wind
+    signature: 4
+    gateway: 4
+    note: An overweight, clumsy panda obsessed with kung fu is improbably chosen as the prophesied Dragon Warrior, and has to figure out fast what he's actually capable of before a real threat arrives.
+
+  - film: madagascar
+    era: shrek-era
+    signature: 3
+    gateway: 4
+    note: Four pampered Central Park Zoo animals accidentally ship themselves to the wild coast of Madagascar, and have to relearn instincts none of them ever actually needed in captivity.
+
+  - film: the-prince-of-egypt
+    era: prestige-gambit
+    signature: 3
+    gateway: 2
+    note: Two brothers raised together in the Egyptian royal family are torn apart once one of them learns he was born a Hebrew slave, setting the two on an unavoidable collision course as adults.
+
+  - film: trolls
+    era: second-wind
+    signature: 2
+    gateway: 4
+    note: A relentlessly upbeat troll and a pessimistic survivalist have to team up to rescue her friends from the gloomy, troll-eating Bergens, whose only path to happiness is eating one.
+
+  - film: antz
+    era: prestige-gambit
+    signature: 2
+    gateway: 3
+    note: A neurotic worker ant switches places with a soldier for one day of freedom, and accidentally ends up leading a doomed military campaign he never volunteered for.
+
+  - film: the-croods
+    era: second-wind
+    signature: 2
+    gateway: 3
+    note: An overprotective caveman father clashes with his adventurous daughter as their family is forced to leave the cave that's kept them safe for generations and cross a genuinely unfamiliar world.
+
+  - film: the-bad-guys
+    era: second-wind
+    signature: 3
+    gateway: 3
+    note: A crew of notorious animal criminals stages a public redemption to dodge a conviction, and their leader starts genuinely questioning whether being "good" was ever actually the con.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - shrek
+    - how-to-train-your-dragon
+    - kung-fu-panda
+    - madagascar
+    - the-croods
+    - the-bad-guys
+    - trolls
+    - antz
+    - the-prince-of-egypt

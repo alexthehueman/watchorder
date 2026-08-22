@@ -1,0 +1,116 @@
+# New films for DreamWorks Animation. Scales and anchors are in README.md ("The anchor
+# rubric").
+#
+# Kung Fu Panda already exists in black.yaml.
+
+- id: the-prince-of-egypt
+  tmdb_id: null
+  title: The Prince of Egypt
+  year: 1998
+  runtime: 99
+  director: Brenda Chapman
+  tags:
+    opacity: 2 # a man raised as royalty spends the first act genuinely not knowing his own origin, and the film withholds it alongside him
+    stillness: 3
+    bleakness: 4
+    humor: 1
+    acclaim: 0.78
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+
+- id: antz
+  tmdb_id: null
+  title: Antz
+  year: 1998
+  runtime: 83
+  director: Eric Darnell
+  tags:
+    opacity: 2 # a propaganda-fed colony he only gradually realizes is lying to him about what the war is actually for
+    stillness: 2
+    bleakness: 3
+    humor: 3
+    acclaim: 0.62
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: shrek
+  tmdb_id: null
+  title: Shrek
+  year: 2001
+  runtime: 90
+  director: Andrew Adamson
+  tags:
+    opacity: 1
+    stillness: 1
+    bleakness: 1
+    humor: 4
+    acclaim: 0.82
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: madagascar
+  tmdb_id: null
+  title: Madagascar
+  year: 2005
+  runtime: 86
+  director: Eric Darnell
+  tags:
+    opacity: 1
+    stillness: 1
+    bleakness: 1
+    humor: 4
+    acclaim: 0.62
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: how-to-train-your-dragon
+  tmdb_id: null
+  title: How to Train Your Dragon
+  year: 2010
+  runtime: 98
+  director: Dean DeBlois
+  tags:
+    opacity: 2 # whether the dragon everyone fears is actually dangerous, or just as scared as he is, stays a real question through the middle of the film
+    stillness: 2
+    bleakness: 2
+    humor: 3
+    acclaim: 0.88
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-croods
+  tmdb_id: null
+  title: The Croods
+  year: 2013
+  runtime: 98
+  director: Kirk DeMicco
+  tags:
+    opacity: 1
+    stillness: 1
+    bleakness: 2
+    humor: 4
+    acclaim: 0.62
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-bad-guys
+  tmdb_id: null
+  title: The Bad Guys
+  year: 2022
+  runtime: 100
+  director: Pierre Perifel
+  tags:
+    opacity: 3 # a crew of career criminals stages a public redemption to pull one last con, and whether any of it turns genuine stays unresolved until the very end
+    stillness: 1
+    bleakness: 2
+    humor: 4
+    acclaim: 0.68
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: trolls
+  tmdb_id: null
+  title: Trolls
+  year: 2016
+  runtime: 92
+  director: Mike Mitchell
+  tags:
+    opacity: 1
+    stillness: 1
+    bleakness: 1
+    humor: 4
+    acclaim: 0.55
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
