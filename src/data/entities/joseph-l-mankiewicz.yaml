@@ -1,0 +1,41 @@
+slug: joseph-l-mankiewicz
+kind: director
+name: Joseph L. Mankiewicz
+blurb: A screenwriter's director whose wit was the whole engine — dialogue sharp enough to double as a weapon, deployed on people far too smart to see the blade coming.
+
+films:
+  - film: all-about-eve
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: An aging Broadway star takes a devoted young fan under her wing as an assistant, only to watch the girl maneuver, smile by smile, toward stealing her career, her friends, and her stage.
+
+  - film: guys-and-dolls
+    signature: 3
+    gateway: 5
+    note: A big-time gambler bets he can take a straitlaced missionary to Havana, and finds the sure thing isn't nearly as sure as he thought once he actually starts falling for her.
+
+  - film: julius-caesar-1953
+    signature: 3
+    gateway: 2
+    note: A group of Roman senators convinced Caesar's growing power threatens the republic conspire to assassinate him, and then have to survive the funeral oration of the one ally they let live.
+
+  - film: suddenly-last-summer
+    signature: 4
+    gateway: 2
+    note: A wealthy widow pressures a surgeon to lobotomize her niece to silence her account of what really happened to her cousin the summer he died, and the truth comes out only in pieces.
+
+  - film: no-way-out-1950
+    signature: 3
+    gateway: 3
+    note: A young Black doctor treats a violently racist criminal's brother, who dies on the table, and has to prove the death wasn't murder while the man's family incites a race riot against him.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - all-about-eve
+    - guys-and-dolls
+    - no-way-out-1950
+    - julius-caesar-1953
+    - suddenly-last-summer

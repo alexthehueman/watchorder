@@ -1,0 +1,42 @@
+slug: fred-zinnemann
+kind: director
+name: Fred Zinnemann
+blurb: A quiet, precise classicist who returned again and again to people holding a moral line alone under enormous pressure to give it up.
+
+films:
+  - film: from-here-to-eternity
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A soldier stationed in Hawaii refuses his commanding officer's order to box for the regiment, and the retaliation for his refusal spreads through the base right as tensions with Japan are about to erupt.
+
+  - film: high-noon
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A retiring marshal learns a man he sent to prison is arriving on the noon train for revenge, and spends the morning begging the townspeople who owe him for their safety to stand with him.
+
+  - film: a-man-for-all-seasons
+    signature: 4
+    gateway: 3
+    note: Sir Thomas More refuses to publicly endorse King Henry VIII's divorce and remarriage, and holds to that refusal even as the political cost of his silence keeps rising toward his own execution.
+
+  - film: the-nuns-story
+    signature: 4
+    gateway: 2
+    note: A devoted young nun sent to work as a nurse in the Belgian Congo, and later through the German occupation, finds her vow of religious obedience increasingly at odds with her own conscience.
+
+  - film: julia
+    signature: 3
+    gateway: 3
+    note: A playwright is asked by a childhood friend turned anti-fascist resistance member to smuggle money across Nazi Germany, risking everything for a cause she only half understands.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - high-noon
+    - from-here-to-eternity
+    - a-man-for-all-seasons
+    - julia
+    - the-nuns-story

@@ -1,0 +1,33 @@
+# New films for Jim Jarmusch. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Dead Man already exists in depp.yaml. Paterson already exists in driver.yaml. Broken
+# Flowers already exists in murray.yaml. Only Lovers Left Alive already exists in
+# swinton.yaml. Ghost Dog: The Way of the Samurai already exists in whitaker.yaml.
+
+- id: stranger-than-paradise
+  tmdb_id: null
+  title: Stranger Than Paradise
+  year: 1984
+  runtime: 89
+  director: Jim Jarmusch
+  tags:
+    opacity: 3 # three drifting characters move between three cities and almost nothing is explained about why any of them do what they do
+    stillness: 5
+    bleakness: 2
+    humor: 2
+    acclaim: 0.80
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: down-by-law
+  tmdb_id: null
+  title: Down by Law
+  year: 1986
+  runtime: 107
+  director: Jim Jarmusch
+  tags:
+    opacity: 3 # three cellmates escape into a Louisiana swamp with no clear plan and the film never supplies one
+    stillness: 4
+    bleakness: 3
+    humor: 2
+    acclaim: 0.78
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

@@ -1,0 +1,21 @@
+# New film for Todd Phillips. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Old School already exists in ferrell.yaml. The Hangover and Due Date already exist
+# in galifianakis.yaml. War Dogs already exists in hill.yaml. The Hangover Part II and
+# The Hangover Part III already exist in ken-jeong.yaml. Joker already exists in
+# phoenix.yaml — it was missing a director field, filled in there rather than
+# duplicated here.
+
+- id: starsky-and-hutch
+  tmdb_id: null
+  title: Starsky & Hutch
+  year: 2004
+  runtime: 101
+  director: Todd Phillips
+  tags:
+    opacity: 2 # a cocaine-smuggling scheme the two mismatched cops keep half-solving and half-blundering into deeper
+    stillness: 1
+    bleakness: 1
+    humor: 4
+    acclaim: 0.48
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }

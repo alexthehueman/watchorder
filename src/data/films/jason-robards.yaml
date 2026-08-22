@@ -9,7 +9,12 @@
   year: 1977
   runtime: 118
   director: Fred Zinnemann
-  tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 2, acclaim: 0.72 }
+  tags:
+    opacity: 3 # how much danger she's actually placing her friend in, and what the money is really funding, stays deliberately vague throughout
+    stillness: 3
+    bleakness: 3
+    humor: 2
+    acclaim: 0.72
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
 
 - id: melvin-and-howard

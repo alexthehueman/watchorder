@@ -1,0 +1,41 @@
+slug: herbert-ross
+kind: director
+name: Herbert Ross
+blurb: A former choreographer who moved fluidly between women's ensemble drama, backstage musical, and star vehicle, always attentive to the mechanics of performance itself.
+
+films:
+  - film: steel-magnolias
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A close circle of women in a small-town Louisiana beauty parlor gather through weddings, illness, and loss, trading jokes as sharp as anything they're actually going through.
+
+  - film: the-goodbye-girl
+    signature: 4
+    gateway: 5
+    note: A single mother and her daughter are stuck sharing an apartment with a struggling actor neither of them wants there, after her ex sublet it out from under her on his way out of town.
+
+  - film: pennies-from-heaven
+    signature: 4
+    gateway: 2
+    note: A Depression-era sheet-music salesman escapes his failing marriage and worsening luck into elaborate musical fantasies, which the film stages in full even as his real life collapses around him.
+
+  - film: the-turning-point
+    signature: 4
+    gateway: 3
+    note: A former ballerina who gave up her career for family reconciles with the old friend who chose the stage instead, as her own daughter now starts down the same path that once divided them.
+
+  - film: goodbye-mr-chips-1969
+    signature: 3
+    gateway: 3
+    note: A shy, awkward schoolmaster spends decades at the same English boarding school, and the film traces the one marriage and generations of students that slowly turn him into someone beloved.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - steel-magnolias
+    - the-goodbye-girl
+    - the-turning-point
+    - goodbye-mr-chips-1969
+    - pennies-from-heaven

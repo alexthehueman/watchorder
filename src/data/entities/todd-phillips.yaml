@@ -1,0 +1,60 @@
+slug: todd-phillips
+kind: director
+name: Todd Phillips
+blurb: Built a career on escalating-disaster comedies before making a hard, unexpected pivot into one of the bleakest studio films of the decade.
+
+films:
+  - film: the-hangover
+    signature: 5
+    must_see: true
+    gateway: 5
+    note: Three groomsmen wake up in a trashed Vegas hotel room with no memory of the night before, a tiger in the bathroom, and no groom anywhere to be found, with the wedding just hours away.
+
+  - film: joker
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: A failed clown and aspiring stand-up comedian, worn down by a city that has stopped seeing him at all, slides further into violence that the city starts mistaking for a movement.
+
+  - film: old-school
+    signature: 3
+    gateway: 4
+    note: Three friends stuck in various stages of arrested development start an unofficial fraternity for grown men, which quickly spirals past anything the actual university can tolerate.
+
+  - film: war-dogs
+    signature: 3
+    gateway: 3
+    note: Two twenty-something arms dealers land a massive Pentagon contract to supply the Afghan army, and start cutting corners on an increasingly illegal scale to fulfill it.
+
+  - film: due-date
+    signature: 2
+    gateway: 3
+    note: A high-strung father-to-be gets stuck cross-country road-tripping with an aspiring actor he's never met, after a mix-up gets them both banned from every flight home.
+
+  - film: starsky-and-hutch
+    signature: 2
+    gateway: 3
+    note: Two mismatched, rule-breaking cops are forced into an uneasy partnership just as a local drug dealer's new, undetectable cocaine hits the street.
+
+  - film: the-hangover-part-ii
+    signature: 2
+    gateway: 3
+    note: The same group reunites for a wedding in Bangkok, and wakes up to an even more disastrous blackout night than the one that started it all.
+
+  - film: the-hangover-part-iii
+    signature: 1
+    gateway: 2
+    note: The group is forced on one final road trip to deliver an old enemy to a crime boss, and this time nobody even gets to black out first.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - the-hangover
+    - joker
+    - old-school
+    - war-dogs
+    - due-date
+    - starsky-and-hutch
+    - the-hangover-part-ii
+    - the-hangover-part-iii

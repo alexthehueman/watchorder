@@ -1,0 +1,54 @@
+slug: jim-jarmusch
+kind: director
+name: Jim Jarmusch
+blurb: The godfather of American deadpan — plotless drift, dry humor, and total sincerity toward whatever strange code his characters happen to live by, filmed in unhurried static takes.
+
+films:
+  - film: dead-man
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: A meek accountant is mistaken for a notorious outlaw after a shooting leaves him fatally wounded, and drifts west through an increasingly hallucinatory frontier guided by a Native American man who thinks he's already dead.
+
+  - film: stranger-than-paradise
+    signature: 5
+    gateway: 1
+    note: A New York loner's routine is disrupted when his Hungarian cousin comes to visit, and the two of them, plus a friend, drift from New York to Cleveland to Florida without any of them quite knowing why.
+
+  - film: broken-flowers
+    signature: 4
+    must_see: true
+    gateway: 4
+    note: An aging bachelor gets an anonymous letter claiming he has a son he's never met, and sets out to visit four old girlfriends to figure out which of them sent it.
+
+  - film: ghost-dog-the-way-of-the-samurai
+    signature: 4
+    gateway: 3
+    note: A mob hitman who lives entirely by the samurai code of an ancient text finds himself marked for death by the same crime family that trained him.
+
+  - film: down-by-law
+    signature: 3
+    gateway: 2
+    note: Three mismatched cellmates — a DJ, a pimp, and an Italian tourist framed for murder he didn't understand he committed — break out of a Louisiana prison with no plan for what comes next.
+
+  - film: only-lovers-left-alive
+    signature: 3
+    gateway: 3
+    note: Two centuries-old vampire lovers, one a reclusive musician and one an itinerant reader, reunite as the world's blood supply grows too contaminated to safely feed on.
+
+  - film: paterson
+    signature: 3
+    gateway: 4
+    note: A bus driver and part-time poet in Paterson, New Jersey lives out one quiet, structurally identical week after another, finding what he needs in the small variations between them.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - dead-man
+    - broken-flowers
+    - paterson
+    - ghost-dog-the-way-of-the-samurai
+    - only-lovers-left-alive
+    - down-by-law
+    - stranger-than-paradise
