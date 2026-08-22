@@ -1,0 +1,36 @@
+slug: tom-shadyac
+kind: director
+name: Tom Shadyac
+blurb: The director of choice for 1990s Jim Carrey mania — broad, elastic-faced high-concept comedy built entirely around one performer's total physical commitment to the bit.
+
+films:
+  - film: liar-liar
+    signature: 5
+    must_see: true
+    gateway: 5
+    note: A habitually lying lawyer is cursed by his son's birthday wish to be unable to tell a single lie for twenty-four hours, right as his biggest case depends on him doing exactly that.
+
+  - film: ace-ventura
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: An eccentric, over-the-top pet detective is hired to find the Miami Dolphins' kidnapped mascot dolphin right before the Super Bowl, and treats the case with the seriousness of a real murder investigation.
+
+  - film: bruce-almighty
+    signature: 4
+    gateway: 4
+    note: A frustrated local news reporter who blames God for his bad luck is granted all of God's powers for a week to prove he could do the job better, and quickly discovers how much harder it actually is.
+
+  - film: evan-almighty
+    signature: 2
+    gateway: 3
+    note: A newly elected congressman is instructed by God to build a full-sized ark in his suburban backyard ahead of a coming flood, wrecking his political career and family life in the process.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - liar-liar
+    - ace-ventura
+    - bruce-almighty
+    - evan-almighty

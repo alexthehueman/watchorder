@@ -1,0 +1,35 @@
+slug: ruben-fleischer
+kind: director
+name: Ruben Fleischer
+blurb: A studio genre generalist who moved from zombie-apocalypse comedy to superhero spectacle to prestige-adjacent crime drama without ever quite losing a taste for broad, punchy set pieces.
+
+films:
+  - film: zombieland
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: Four strangers survivors of a zombie apocalypse, each following their own idiosyncratic rules for staying alive, team up on a road trip toward an amusement park rumored to be zombie-free.
+
+  - film: venom
+    signature: 4
+    gateway: 4
+    note: An investigative journalist's body is invaded by an alien symbiote that grants him violent powers and a very opinionated, hungry voice in his head, and the two have to learn to work together to survive.
+
+  - film: gangster-squad
+    signature: 3
+    gateway: 2
+    note: A secret LAPD task force wages an off-the-books war against a ruthless mob boss who's taken over 1940s Los Angeles, with the corruption reaching further into the department than any of them expected.
+
+  - film: uncharted
+    signature: 2
+    gateway: 3
+    note: A street-smart bartender and a seasoned treasure hunter chase clues to a five-hundred-year-old lost fortune, racing a rival who's willing to kill for the same map.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - zombieland
+    - venom
+    - gangster-squad
+    - uncharted

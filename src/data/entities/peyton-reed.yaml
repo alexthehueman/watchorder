@@ -1,0 +1,36 @@
+slug: peyton-reed
+kind: director
+name: Peyton Reed
+blurb: A comedy specialist whose sensibility carried surprisingly intact into blockbuster filmmaking — bright, quippy, and never quite taking its own stakes as seriously as the genre usually demands.
+
+films:
+  - film: ant-man
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A recently paroled thief is recruited by an aging scientist to steal a shrinking suit before it falls into the wrong hands, and ends up learning to use it to pull off the heist himself.
+
+  - film: bring-it-on
+    signature: 5
+    must_see: true
+    gateway: 5
+    note: A newly elected cheerleading captain discovers her championship-winning squad's routines were all stolen from a rival inner-city team, and has to figure out how to compete honestly before nationals.
+
+  - film: ant-man-and-the-wasp
+    signature: 4
+    gateway: 4
+    note: A now-grounded ex-con teams up with his mentor's daughter to rescue her mother from the quantum realm, while dodging a black-market dealer and a phasing thief both after the same shrinking technology.
+
+  - film: down-with-love
+    signature: 3
+    gateway: 3
+    note: A bestselling 1960s feminist author and the womanizing magazine writer determined to expose her as a fraud fall into an elaborate, escalating game of seduction, deception, and one-upmanship.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - ant-man
+    - bring-it-on
+    - ant-man-and-the-wasp
+    - down-with-love

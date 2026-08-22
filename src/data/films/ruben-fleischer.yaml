@@ -1,0 +1,19 @@
+# New film for Ruben Fleischer. Scales and anchors are in README.md ("The anchor
+# rubric").
+#
+# Venom already exists in ahmed.yaml. Zombieland already exists in harrelson.yaml.
+# Uncharted already exists in holland.yaml.
+
+- id: gangster-squad
+  tmdb_id: null
+  title: Gangster Squad
+  year: 2013
+  runtime: 113
+  director: Ruben Fleischer
+  tags:
+    opacity: 2 # how deep the corruption inside the LAPD's own ranks actually reaches stays unresolved for most of the investigation
+    stillness: 2
+    bleakness: 3
+    humor: 1
+    acclaim: 0.55
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }

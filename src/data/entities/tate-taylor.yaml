@@ -1,0 +1,35 @@
+slug: tate-taylor
+kind: director
+name: Tate Taylor
+blurb: A director who moves between earnest historical drama and genuinely nasty genre thrillers, unafraid to let a story's central woman be dangerous rather than simply sympathetic.
+
+films:
+  - film: the-help
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A young white writer in 1960s Jackson, Mississippi secretly interviews Black domestic workers about their treatment by the families that employ them, risking all their safety to publish the accounts.
+
+  - film: get-on-up
+    signature: 4
+    gateway: 3
+    note: James Brown's rise from poverty and abandonment to inventing an entirely new sound in American music is told out of chronological order, jumping between the decades that made and nearly broke him.
+
+  - film: the-girl-on-the-train
+    signature: 3
+    gateway: 2
+    note: An alcoholic divorcée who rides the same commuter train past her old house every day becomes convinced she witnessed a crime during one of her blackouts, and can't trust her own memory enough to prove it.
+
+  - film: ma
+    signature: 3
+    gateway: 2
+    note: A lonely woman befriends a group of teenagers and offers her basement as a place for them to party, and her generosity gradually reveals itself as something far more controlling and dangerous.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - the-help
+    - get-on-up
+    - the-girl-on-the-train
+    - ma

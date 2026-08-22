@@ -1,0 +1,19 @@
+# New film for Peyton Reed. Scales and anchors are in README.md ("The anchor
+# rubric").
+#
+# Bring It On already exists in dunst.yaml. Ant-Man and the Wasp already exists in
+# randall-park.yaml. Ant-Man already exists in rudd.yaml.
+
+- id: down-with-love
+  tmdb_id: null
+  title: Down with Love
+  year: 2003
+  runtime: 101
+  director: Peyton Reed
+  tags:
+    opacity: 2 # a Doris Day-style romance pastiche whose two leads are both running a con on each other, and on the audience
+    stillness: 2
+    bleakness: 1
+    humor: 3
+    acclaim: 0.55
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }

@@ -1,0 +1,19 @@
+# New film for Tom Shadyac. Scales and anchors are in README.md ("The anchor
+# rubric").
+#
+# Ace Ventura and Liar Liar already exist in carrey.yaml. Evan Almighty already exists
+# in sykes.yaml.
+
+- id: bruce-almighty
+  tmdb_id: null
+  title: Bruce Almighty
+  year: 2003
+  runtime: 101
+  director: Tom Shadyac
+  tags:
+    opacity: 2 # how much of what God actually does versus lets him do stays genuinely ambiguous through most of his rampage
+    stillness: 1
+    bleakness: 2
+    humor: 4
+    acclaim: 0.62
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }

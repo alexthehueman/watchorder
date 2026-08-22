@@ -1,0 +1,19 @@
+# New film for Tate Taylor. Scales and anchors are in README.md ("The anchor
+# rubric").
+#
+# Get On Up already exists in boseman.yaml. Ma already exists in spencer.yaml. The
+# Help already exists in viola-davis.yaml.
+
+- id: the-girl-on-the-train
+  tmdb_id: null
+  title: The Girl on the Train
+  year: 2016
+  runtime: 112
+  director: Tate Taylor
+  tags:
+    opacity: 4 # an alcoholic, unreliable narrator's blackout memories the film withholds and revises alongside her own uncertainty
+    stillness: 3
+    bleakness: 4
+    humor: 1
+    acclaim: 0.55
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
