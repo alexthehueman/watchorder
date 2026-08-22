@@ -1,0 +1,48 @@
+slug: james-whale
+kind: director
+name: James Whale
+blurb: The director who made Universal horror an art form, threading genuine dread, camp wit, and real tenderness for his monsters through the studio's defining run of the early 1930s.
+
+films:
+  - film: frankenstein-1931
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A scientist obsessed with conquering death assembles and animates a creature from corpses, and abandons it in horror the moment it actually opens its eyes.
+
+  - film: bride-of-frankenstein
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: The doctor is blackmailed into building his creature a mate, while the original creature wanders the countryside learning, in fits and starts, what it might mean to be less alone.
+
+  - film: the-invisible-man
+    signature: 4
+    gateway: 3
+    note: A scientist's experimental invisibility formula works perfectly, and also starts quietly destroying his sanity, leaving everyone around him unable to tell where the chemistry ends and the man begins.
+
+  - film: the-old-dark-house
+    signature: 3
+    gateway: 3
+    note: A group of stranded travelers take shelter from a storm in a decaying mansion, and slowly discover just how many secrets — and how many dangerous relatives — the family sheltering them is keeping upstairs.
+
+  - film: waterloo-bridge-1931
+    signature: 2
+    gateway: 2
+    note: A chorus girl turned wartime sex worker falls in love with a soldier who has no idea what she's had to do to survive since they last met, and can't bring herself to tell him.
+
+  - film: show-boat-1936
+    signature: 2
+    gateway: 3
+    note: A riverboat gambler courts the captain's daughter as she pursues a stage career, while a mixed-race performer aboard the same boat hides a secret that could destroy her marriage and career alike.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - frankenstein-1931
+    - bride-of-frankenstein
+    - the-invisible-man
+    - the-old-dark-house
+    - show-boat-1936
+    - waterloo-bridge-1931

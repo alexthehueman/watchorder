@@ -1,0 +1,33 @@
+# New films for Roberto Rossellini. Scales and anchors are in README.md ("The anchor
+# rubric").
+#
+# Stromboli and Journey to Italy already exist in bergman-ingrid.yaml. Rome, Open City
+# and L'Amore already exist in magnani.yaml.
+
+- id: paisan
+  tmdb_id: null
+  title: Paisan
+  year: 1946
+  runtime: 134
+  director: Roberto Rossellini
+  tags:
+    opacity: 2
+    stillness: 3
+    bleakness: 4
+    humor: 2
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: germany-year-zero
+  tmdb_id: null
+  title: Germany Year Zero
+  year: 1948
+  runtime: 78
+  director: Roberto Rossellini
+  tags:
+    opacity: 1
+    stillness: 3
+    bleakness: 5 # a devastated child in a devastated city, and the film does not soften where it ends
+    humor: 1
+    acclaim: 0.80
+  content: { sexual_violence: false, animal_harm: true, child_harm: true, suicide: true, violence: 2, sex: 0 }

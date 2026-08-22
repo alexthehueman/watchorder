@@ -1,0 +1,48 @@
+slug: louis-malle
+kind: director
+name: Louis Malle
+blurb: A restless French New Wave-adjacent director who never settled into one register — noir thriller, taboo romance, wartime memoir, or two men just talking through an entire dinner — and made all of them feel urgent.
+
+films:
+  - film: elevator-to-the-gallows
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A businessman murders his lover's husband and executes a nearly perfect getaway, until getting trapped in an elevator sets off a spiraling chain of unrelated crimes he has no way to stop or even witness.
+
+  - film: au-revoir-les-enfants
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A boy at a Catholic boarding school in occupied France slowly realizes his quiet new classmate is a Jewish child hidden there under a false name, and has to decide what that knowledge is worth.
+
+  - film: my-dinner-with-andre
+    signature: 4
+    gateway: 1
+    note: Two old friends, one a struggling playwright and one a theater director who's spent years chasing increasingly extreme spiritual experiences, talk through an entire dinner about what a meaningful life actually requires.
+
+  - film: atlantic-city
+    signature: 3
+    gateway: 3
+    note: An aging, small-time numbers runner gets an unexpected shot at real criminal significance when a young woman's ex shows up in Atlantic City with a stash of stolen drugs.
+
+  - film: the-lovers
+    signature: 3
+    gateway: 2
+    note: A bored, unhappily married woman begins an affair with a stranger she meets by chance, and abandons her entire settled life for him over the course of one night.
+
+  - film: viva-maria
+    signature: 2
+    gateway: 4
+    note: Two cabaret performers, one a professional entertainer and one a former revolutionary's daughter, get swept into an actual Central American revolution after their strip-tease act accidentally becomes a political statement.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - elevator-to-the-gallows
+    - au-revoir-les-enfants
+    - atlantic-city
+    - the-lovers
+    - viva-maria
+    - my-dinner-with-andre

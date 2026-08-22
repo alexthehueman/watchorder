@@ -1,0 +1,33 @@
+# New films for Louis Malle. Scales and anchors are in README.md ("The anchor
+# rubric").
+#
+# Elevator to the Gallows, The Lovers, and Viva Maria! already exist in moreau.yaml.
+# Atlantic City already exists in sarandon.yaml.
+
+- id: au-revoir-les-enfants
+  tmdb_id: null
+  title: Au Revoir les Enfants
+  year: 1987
+  runtime: 104
+  director: Louis Malle
+  tags:
+    opacity: 2 # a new boy's hidden identity at the Catholic boarding school is withheld from the audience the same way it's withheld from the other students
+    stillness: 3
+    bleakness: 5
+    humor: 1
+    acclaim: 0.90
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
+
+- id: my-dinner-with-andre
+  tmdb_id: null
+  title: My Dinner with Andre
+  year: 1981
+  runtime: 111
+  director: Louis Malle
+  tags:
+    opacity: 1
+    stillness: 5 # almost the entire runtime is two men talking at one restaurant table
+    bleakness: 2
+    humor: 2
+    acclaim: 0.82
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

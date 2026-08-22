@@ -1,0 +1,33 @@
+# New films for Jean-Pierre Melville. Scales and anchors are in README.md ("The
+# anchor rubric").
+#
+# Le Samouraï, Le Cercle Rouge, and Un Flic already exist in delon.yaml. Le Doulos
+# already exists in jean-paul-belmondo.yaml.
+
+- id: bob-le-flambeur
+  tmdb_id: null
+  title: Bob le Flambeur
+  year: 1956
+  runtime: 102
+  director: Jean-Pierre Melville
+  tags:
+    opacity: 1
+    stillness: 3
+    bleakness: 2
+    humor: 2
+    acclaim: 0.78
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: army-of-shadows
+  tmdb_id: null
+  title: Army of Shadows
+  year: 1969
+  runtime: 145
+  director: Jean-Pierre Melville
+  tags:
+    opacity: 2 # who's actually been compromised inside the cell stays a live, paranoid question throughout
+    stillness: 4
+    bleakness: 5
+    humor: 1
+    acclaim: 0.90
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 3, sex: 0 }

@@ -1,0 +1,48 @@
+slug: roberto-rossellini
+kind: director
+name: Roberto Rossellini
+blurb: The founder of Italian neorealism — real streets, non-actors, and a camera trained on ordinary people surviving a devastated country, then, later, the collapse of one particular marriage inside it.
+
+films:
+  - film: rome-open-city
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A group of Resistance members, priests, and ordinary Romans shelter a wanted partisan leader from the occupying Gestapo, filmed on the actual bombed-out streets less than a year after they were liberated.
+
+  - film: journey-to-italy
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: An English couple's marriage quietly comes apart during a trip to settle a relative's estate near Naples, with almost nothing dramatic happening except the slow, plain accumulation of distance between them.
+
+  - film: paisan
+    signature: 4
+    gateway: 3
+    note: Six loosely connected episodes follow Italians and American soldiers across the country during the Allied liberation, each one ending before it resolves into anything as clean as a moral.
+
+  - film: germany-year-zero
+    signature: 4
+    gateway: 1
+    note: A twelve-year-old boy scrambles to help his starving, bedridden family survive amid the literal rubble of postwar Berlin, and the film follows him without once looking away from where that need eventually leads him.
+
+  - film: stromboli
+    signature: 3
+    gateway: 2
+    note: A refugee marries a fisherman to escape an internment camp and finds herself trapped instead on his remote volcanic island, increasingly desperate to escape a marriage and a landscape both closing in on her.
+
+  - film: lamore
+    signature: 2
+    gateway: 3
+    note: Two short, unrelated pieces follow women pushed to emotional extremes — one abandoned and pleading into a phone, one a peasant who believes a stranger who seduces her is literally Saint Joseph.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - rome-open-city
+    - paisan
+    - germany-year-zero
+    - journey-to-italy
+    - stromboli
+    - lamore

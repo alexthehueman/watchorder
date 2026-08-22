@@ -1,0 +1,48 @@
+slug: jean-pierre-melville
+kind: director
+name: Jean-Pierre Melville
+blurb: The father of the French crime film — trench coats, total silence, and a code of professional honor that his heroes follow to their own deaths, filmed with total stillness and control.
+
+films:
+  - film: le-samourai
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A meticulous, nearly silent hitman constructs an ironclad alibi after a hit, only to find a witness, a jazz pianist, and the police all closing in on the one detail he couldn't control.
+
+  - film: army-of-shadows
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: Members of the French Resistance carry out sabotage and executions under the constant threat of betrayal from within their own cell, with no guarantee any of them survive the war.
+
+  - film: le-cercle-rouge
+    signature: 4
+    gateway: 2
+    note: An ex-con, an escaped prisoner, and a disgraced ex-cop turned marksman are pulled together into one meticulously planned jewelry heist, each of them running from something the others don't know about.
+
+  - film: le-doulos
+    signature: 4
+    gateway: 3
+    note: A small-time crook is suspected by his own circle of being a police informant after a string of arrests, and the film keeps the truth of his loyalty genuinely unresolved until the very end.
+
+  - film: bob-le-flambeur
+    signature: 3
+    gateway: 4
+    note: An aging, gentlemanly gambler down on his luck plans one last casino heist, more out of professional pride than any real need for the money.
+
+  - film: un-flic
+    signature: 3
+    gateway: 2
+    note: A world-weary police commissioner investigates a bank robbery while secretly involved with the girlfriend of one of the men he's hunting, and the line between cop and criminal keeps thinning.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - le-samourai
+    - le-cercle-rouge
+    - le-doulos
+    - army-of-shadows
+    - bob-le-flambeur
+    - un-flic
