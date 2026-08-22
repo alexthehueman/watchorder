@@ -1,0 +1,21 @@
+# Films for John Huston — all already tagged elsewhere, no new films needed.
+#
+# The African Queen already exists in hepburn-katharine.yaml. The Dead already exists
+# in huston.yaml (Anjelica Huston, his daughter and the film's lead). The Asphalt
+# Jungle and The Misfits already exist in monroe.yaml. Prizzi's Honor already exists in
+# nicholson.yaml. The Maltese Falcon, The Treasure of the Sierra Madre, and Key Largo
+# already exist in bogart.yaml.
+
+- id: the-man-who-would-be-king
+  tmdb_id: null
+  title: The Man Who Would Be King
+  year: 1975
+  runtime: 129
+  director: John Huston
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 4
+    humor: 3 # a rollicking buddy-adventure tone right up until the con starts costing them something real
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

@@ -1,0 +1,32 @@
+# New film for Robert Rodriguez. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Desperado and From Dusk Till Dawn already exist in hayek.yaml. Once Upon a Time in
+# Mexico already exists in hayek.yaml. Machete already exists in michelle-rodriguez.yaml.
+# Alita: Battle Angel already exists in waltz.yaml. Sin City already exists in
+# del-toro.yaml, tagged there under his Sin City 2 co-director Frank Miller — Rodriguez
+# co-directed the first film with Miller and is credited as its director here too. All
+# five pre-existing films were stillness 1 and bleakness 3 flat across the board;
+# Spy Kids breaks both ties.
+
+- id: spy-kids
+  tmdb_id: null
+  title: Spy Kids
+  year: 2001
+  runtime: 88
+  director: Robert Rodriguez
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 4, acclaim: 0.62 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-faculty
+  tmdb_id: null
+  title: The Faculty
+  year: 1998
+  runtime: 104
+  director: Robert Rodriguez
+  tags:
+    opacity: 2 # who's already been taken over stays genuinely unclear as the body count climbs
+    stillness: 3 # a slow-building paranoia piece before it ever turns into an action movie
+    bleakness: 4
+    humor: 2
+    acclaim: 0.62
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

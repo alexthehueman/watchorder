@@ -1,0 +1,53 @@
+slug: jonathan-demme
+kind: director
+name: Jonathan Demme
+blurb: Warm curiosity about people on the margins, whether the film is a serial-killer thriller or a screwball comedy, always shot with the same close, generous attention to faces.
+
+films:
+  - film: the-silence-of-the-lambs
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: An FBI trainee is sent to interview an imprisoned cannibal psychiatrist for insight into a different serial killer, and finds he's much more interested in her than in the case.
+
+  - film: philadelphia
+    signature: 4
+    gateway: 4
+    note: A lawyer fired from his firm after his employers learn he has AIDS convinces a homophobic small-time attorney to take his wrongful-termination case.
+
+  - film: rachel-getting-married
+    signature: 3
+    gateway: 1
+    note: A woman out of rehab for her sister's wedding weekend finds the family still hasn't processed the tragedy that sent her there in the first place.
+
+  - film: something-wild
+    signature: 3
+    gateway: 3
+    note: A buttoned-up executive is talked into skipping out on a lunch meeting by a free-spirited stranger, and the joyride gets a lot more dangerous once her actual ex-husband shows up.
+
+  - film: melvin-and-howard
+    signature: 3
+    gateway: 3
+    note: A gas-station attendant who once gave a stranded old man a ride finds out years later that the man was Howard Hughes, and that he apparently left him part of his fortune.
+
+  - film: married-to-the-mob
+    signature: 2
+    gateway: 4
+    note: A mafia widow tries to build a normal, mob-free life for herself and her son in Manhattan, but neither the FBI nor a persistent mob boss are willing to leave her alone about it.
+
+  - film: the-manchurian-candidate-2004
+    signature: 2
+    gateway: 3
+    note: A Gulf War veteran starts doubting his own memory of a celebrated combat rescue, and uncovers a conspiracy tying a powerful corporation to his squad's captain running for vice president.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - the-silence-of-the-lambs
+    - philadelphia
+    - something-wild
+    - melvin-and-howard
+    - married-to-the-mob
+    - the-manchurian-candidate-2004
+    - rachel-getting-married

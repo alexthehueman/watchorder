@@ -1,0 +1,60 @@
+slug: robert-rodriguez
+kind: director
+name: Robert Rodriguez
+blurb: Scrappy, DIY genre filmmaking that turned a tiny budget into a whole aesthetic — gunslingers, vampires, grindhouse gore, spy kids — made fast and cheap on purpose.
+
+films:
+  - film: desperado
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A gunslinging former musician hunts through a Mexican border town for the drug lord who destroyed his old life, leaving a trail of bodies and one bookstore owner he can't stop noticing.
+
+  - film: sin-city
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: Three interlocking hardboiled crime stories play out in a rain-soaked, high-contrast black-and-white city where every hero is one bad decision from becoming a villain.
+
+  - film: from-dusk-till-dawn
+    signature: 4
+    gateway: 3
+    note: Two bank-robbing brothers on the run kidnap a family and hole up in a Mexican strip club for the night, which turns out to be a very bad place to wait out a police search.
+
+  - film: spy-kids
+    signature: 3
+    gateway: 5
+    note: Two siblings discover their parents are retired secret agents the same day the parents are kidnapped, and have to activate their own inherited spy gadgets to go get them back.
+
+  - film: machete
+    signature: 3
+    gateway: 4
+    note: A former Mexican federale set up and left for dead by the man who hired him for a hit goes on a bloody revenge campaign against everyone involved in the betrayal.
+
+  - film: once-upon-a-time-in-mexico
+    signature: 2
+    gateway: 2
+    note: A CIA agent recruits the legendary gunslinger from the first two films to stop a coup against the Mexican president, tangling in a dozen more schemes than anyone bargained for.
+
+  - film: alita-battle-angel
+    signature: 2
+    gateway: 4
+    note: A cyborg with no memory of her past is rebuilt by a scientist in a decaying future city, and starts uncovering exactly what she used to be built for.
+
+  - film: the-faculty
+    signature: 2
+    gateway: 3
+    note: High schoolers start suspecting their teachers have been taken over by a parasitic alien organism, and have to figure out who's still human before the infection spreads to the whole town.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - desperado
+    - sin-city
+    - from-dusk-till-dawn
+    - spy-kids
+    - machete
+    - once-upon-a-time-in-mexico
+    - alita-battle-angel
+    - the-faculty

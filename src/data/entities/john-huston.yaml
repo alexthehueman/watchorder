@@ -1,0 +1,66 @@
+slug: john-huston
+kind: director
+name: John Huston
+blurb: Doomed quests for money, treasure, or a bird statue, undertaken by people whose worst instincts the mission exists specifically to expose.
+
+films:
+  - film: the-maltese-falcon
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A private detective's partner is murdered the same night a client hires them to find a priceless statuette, and everyone chasing it turns out to be lying about something.
+
+  - film: the-treasure-of-the-sierra-madre
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: Three American drifters prospecting for gold in the Mexican mountains find a real vein, and watch the wealth turn each of them progressively more paranoid about the other two.
+
+  - film: the-african-queen
+    signature: 4
+    gateway: 5
+    note: A gin-soaked riverboat captain and a prim missionary flee downriver from an advancing German army, and fall for each other somewhere between arguments about the plan.
+
+  - film: key-largo
+    signature: 4
+    gateway: 4
+    note: A war veteran visiting a Florida hotel gets trapped there with the other guests when a gangster holes up inside to ride out a hurricane and a police manhunt at the same time.
+
+  - film: the-asphalt-jungle
+    signature: 3
+    gateway: 2
+    note: A newly released career criminal assembles a crew for one meticulously planned jewel heist, and watches the plan come apart through small human failures none of them could plan around.
+
+  - film: the-misfits
+    signature: 3
+    gateway: 1
+    note: A recently divorced woman falls in with a trio of aging cowboys rounding up wild mustangs for slaughter, and starts to see exactly what the work is actually costing them.
+
+  - film: the-man-who-would-be-king
+    signature: 3
+    gateway: 4
+    note: Two former British soldiers scheme their way into becoming kings of a remote Central Asian kingdom, and one of them starts believing his own con is destiny.
+
+  - film: prizzis-honor
+    signature: 2
+    gateway: 4
+    note: Two contract killers for the same crime family fall in love, get married, and then get assigned to kill each other, which complicates the honeymoon considerably.
+
+  - film: the-dead
+    signature: 2
+    gateway: 1
+    note: A dinner party in early-1900s Dublin winds down into one husband's quiet, devastating realization about a memory his wife has never told him she was still carrying.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - the-maltese-falcon
+    - the-treasure-of-the-sierra-madre
+    - the-african-queen
+    - key-largo
+    - the-asphalt-jungle
+    - the-misfits
+    - the-man-who-would-be-king
+    - prizzis-honor
+    - the-dead
