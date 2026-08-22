@@ -1,0 +1,60 @@
+slug: stephen-frears
+kind: director
+name: Stephen Frears
+blurb: Genre-hopping range built on the same interest in people performing a role — a con, a seduction, a public face — right up until the performance costs them something real.
+
+films:
+  - film: dangerous-liaisons
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: Two aristocrats wager over the seduction and ruin of a virtuous married woman, treating cruelty as a game right up until one of them starts feeling something real.
+
+  - film: the-queen
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: Queen Elizabeth II's instinct to grieve Princess Diana's death privately collides with a newly elected prime minister trying to convince her the public needs to see her mourn.
+
+  - film: the-grifters
+    signature: 4
+    gateway: 2
+    note: A small-time con man caught between his manipulative con-artist mother and his scheming girlfriend has to figure out which one of them is actually running a game on him.
+
+  - film: my-beautiful-laundrette
+    signature: 3
+    gateway: 2
+    note: A young Pakistani man in Thatcher-era London takes over his uncle's failing laundrette and rekindles a relationship with a childhood friend, testing both families' expectations.
+
+  - film: high-fidelity
+    signature: 3
+    gateway: 5
+    note: A record store owner obsessed with top-five lists works through his own history of breakups after his latest girlfriend leaves him, tracking down his exes to ask what actually went wrong.
+
+  - film: philomena
+    signature: 3
+    gateway: 4
+    note: A woman searches for the son taken from her decades earlier by the Catholic nuns who ran the home where she gave birth, with a cynical journalist along for what he thinks will be a simple story.
+
+  - film: florence-foster-jenkins
+    signature: 2
+    gateway: 4
+    note: A wealthy, tone-deaf socialite convinced she's a gifted opera singer is protected from the truth by her devoted husband, right up until she decides to perform at Carnegie Hall.
+
+  - film: mrs-henderson-presents
+    signature: 2
+    gateway: 3
+    note: An eccentric widow opens a London theatre and hires a producer to stage risque nude revues, defying wartime censorship and propriety in more or less equal measure.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - dangerous-liaisons
+    - the-queen
+    - the-grifters
+    - my-beautiful-laundrette
+    - high-fidelity
+    - philomena
+    - florence-foster-jenkins
+    - mrs-henderson-presents

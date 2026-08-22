@@ -1,0 +1,43 @@
+# New films for Bill Condon. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Gods and Monsters already exists in brendan-fraser.yaml. The Fifth Estate already
+# exists in cumberbatch.yaml. Beauty and the Beast already exists in dan-stevens.yaml
+# (also separately in watson.yaml under a different id). Dreamgirls already exists in
+# foxx.yaml. Kinsey already exists in neeson.yaml.
+
+- id: mr-holmes
+  tmdb_id: null
+  title: Mr. Holmes
+  year: 2015
+  runtime: 104
+  director: Bill Condon
+  tags:
+    opacity: 2 # his own fading memory means the case he's trying to reconstruct stays genuinely unclear even to him
+    stillness: 4
+    bleakness: 4
+    humor: 2
+    acclaim: 0.72
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: breaking-dawn-part-2
+  tmdb_id: null
+  title: "The Twilight Saga: Breaking Dawn - Part 2"
+  year: 2012
+  runtime: 115
+  director: Bill Condon
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: candyman-farewell-to-the-flesh
+  tmdb_id: null
+  title: "Candyman: Farewell to the Flesh"
+  year: 1995
+  runtime: 95
+  director: Bill Condon
+  tags:
+    opacity: 2 # how much of the legend is supernatural versus a story her own family has hidden stays unresolved
+    stillness: 2
+    bleakness: 5
+    humor: 1
+    acclaim: 0.50
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }

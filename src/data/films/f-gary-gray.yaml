@@ -1,0 +1,34 @@
+# New film for F. Gary Gray. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Friday already exists in chris-tucker.yaml. Law Abiding Citizen already exists in
+# gerard-butler.yaml. Men in Black International already exists in nanjiani.yaml. Set
+# It Off already exists in queen-latifah.yaml. Straight Outta Compton already exists in
+# stanfield.yaml. Be Cool already exists in thurman.yaml.
+
+- id: the-fate-of-the-furious
+  tmdb_id: null
+  title: The Fate of the Furious
+  year: 2017
+  runtime: 136
+  director: F. Gary Gray
+  tags:
+    opacity: 3 # exactly why Dom has turned on his own family stays withheld until the reveal forces it into the open
+    stillness: 2
+    bleakness: 3
+    humor: 2
+    acclaim: 0.60
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: the-italian-job-2003
+  tmdb_id: null
+  title: The Italian Job
+  year: 2003
+  runtime: 111
+  director: F. Gary Gray
+  tags:
+    opacity: 4 # who's actually double-crossing whom keeps reversing across the job
+    stillness: 2
+    bleakness: 2
+    humor: 3
+    acclaim: 0.68
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

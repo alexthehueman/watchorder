@@ -1,0 +1,60 @@
+slug: f-gary-gray
+kind: director
+name: F. Gary Gray
+blurb: Music-video-sharp energy carried into feature filmmaking across heist films, biopics, and blockbuster franchise work, never losing a sense of who a scene actually belongs to.
+
+films:
+  - film: friday
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: Two friends with no money and a debt to a local dealer spend one long, increasingly chaotic day on a South Central porch, waiting to see how the day is actually going to end.
+
+  - film: straight-outta-compton
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: N.W.A's rise from Compton to the center of a national controversy over their music is told from inside the group, as fame and internal betrayals start pulling them apart.
+
+  - film: set-it-off
+    signature: 4
+    gateway: 3
+    note: Four friends fed up with dead-end jobs and a system that keeps failing them plan a string of bank robberies, and find out how fast the plan curdles once real money and real danger enter it.
+
+  - film: the-fate-of-the-furious
+    signature: 4
+    gateway: 5
+    note: A mysterious cyberterrorist blackmails Dom into betraying his own family, and the crew has to figure out how to stop him without believing he's actually turned against them for good.
+
+  - film: law-abiding-citizen
+    signature: 3
+    gateway: 3
+    note: A man watches the justice system let his family's killers off easy through a plea deal, and starts orchestrating an escalating campaign of revenge against everyone he holds responsible.
+
+  - film: be-cool
+    signature: 2
+    gateway: 3
+    note: A former loan shark turned movie producer tries to break into the music business by managing a talented young singer, right as the mob takes an unwanted interest in the deal.
+
+  - film: the-italian-job-2003
+    signature: 3
+    gateway: 5
+    note: A crew of thieves seeks payback on the partner who betrayed and robbed them after their last job in Venice, tracking him down in Los Angeles for one more heist.
+
+  - film: men-in-black-international
+    signature: 1
+    gateway: 2
+    note: A new recruit at the international division of the secret alien-policing agency gets paired with the agency's best agent to hunt down a mole leaking classified information.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - friday
+    - straight-outta-compton
+    - set-it-off
+    - the-fate-of-the-furious
+    - law-abiding-citizen
+    - be-cool
+    - the-italian-job-2003
+    - men-in-black-international

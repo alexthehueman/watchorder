@@ -1,0 +1,59 @@
+slug: bill-condon
+kind: director
+name: Bill Condon
+blurb: Biography and adaptation handled with real craft across wildly different genres, from an aging horror director to a sex researcher to a singing beast.
+
+films:
+  - film: gods-and-monsters
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: The elderly, ailing director of Frankenstein forms a strange friendship with his gardener, and the boundary between mentorship and something else keeps shifting.
+
+  - film: dreamgirls
+    signature: 4
+    gateway: 4
+    note: A Supremes-inspired girl group's rise to fame comes at the cost of the powerhouse singer their manager decides isn't the image he wants leading the group.
+
+  - film: beauty-and-the-beast-2017
+    signature: 4
+    gateway: 5
+    note: A young woman takes her father's place as prisoner of a cursed beast in an enchanted castle, and slowly falls for the man underneath the curse before it's too late to break it.
+
+  - film: kinsey
+    signature: 3
+    gateway: 2
+    note: A biology professor's groundbreaking, controversial research into human sexuality turns him into a lightning rod in 1950s America, testing both his marriage and his own convictions.
+
+  - film: mr-holmes
+    signature: 3
+    gateway: 3
+    note: A retired, memory-failing Sherlock Holmes tries to piece together the true account of his final case, years after the popular version made him uncomfortable with his own legend.
+
+  - film: the-fifth-estate
+    signature: 2
+    gateway: 2
+    note: A young collaborator's partnership with the founder of WikiLeaks curdles as he watches the site's uncompromising transparency start costing real people real safety.
+
+  - film: breaking-dawn-part-2
+    signature: 2
+    gateway: 1
+    note: A newly-turned vampire and her husband have to protect their rapidly growing hybrid daughter from a vampire ruling council convinced the child is a forbidden abomination.
+
+  - film: candyman-farewell-to-the-flesh
+    signature: 2
+    gateway: 1
+    note: A New Orleans professor's research into a local urban legend uncovers her own family's buried connection to the murderous, hook-handed figure at the center of it.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - gods-and-monsters
+    - dreamgirls
+    - beauty-and-the-beast-2017
+    - kinsey
+    - mr-holmes
+    - the-fifth-estate
+    - breaking-dawn-part-2
+    - candyman-farewell-to-the-flesh
