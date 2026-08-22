@@ -1,0 +1,19 @@
+# New film for Martin Campbell. Scales and anchors are in README.md ("The anchor
+# rubric").
+#
+# The Mask of Zorro already exists in banderas.yaml. Casino Royale already exists in
+# daniel-craig.yaml. GoldenEye already exists in dench.yaml.
+
+- id: edge-of-darkness
+  tmdb_id: null
+  title: Edge of Darkness
+  year: 2010
+  runtime: 117
+  director: Martin Campbell
+  tags:
+    opacity: 3 # why his daughter was really killed, and how far up the cover-up goes, stays hidden until the investigation forces it out
+    stillness: 2
+    bleakness: 5
+    humor: 1
+    acclaim: 0.62
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }

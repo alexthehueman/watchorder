@@ -1,0 +1,35 @@
+slug: stanley-donen
+kind: director
+name: Stanley Donen
+blurb: A choreographer-turned-director whose musicals moved the camera the way his dancers moved their bodies, and who could turn the same fluid instinct toward the quiet unraveling of a marriage just as easily.
+
+films:
+  - film: singin-in-the-rain
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A silent-film star's career is threatened by the coming of sound, and the studio's desperate solution — dubbing his shrill-voiced leading lady with a talented unknown — spirals into a full-blown romantic and professional mess.
+
+  - film: seven-brides-for-seven-brothers
+    signature: 4
+    gateway: 4
+    note: A backwoods Oregon settler brings home a wife, and his six unmarried, uncivilized younger brothers decide the solution to their own loneliness is to go get wives of their own, whether the women agree or not.
+
+  - film: two-for-the-road
+    signature: 4
+    gateway: 2
+    note: A married couple's decade of road trips through France are cut together out of chronological order, tracing the exact same route across the best and worst years of a marriage that's coming apart.
+
+  - film: funny-face
+    signature: 3
+    gateway: 4
+    note: A bookish Greenwich Village shop clerk is discovered by a fashion photographer and swept to Paris to become the face of a major magazine, despite caring far more about philosophy than modeling.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - singin-in-the-rain
+    - seven-brides-for-seven-brothers
+    - funny-face
+    - two-for-the-road

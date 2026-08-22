@@ -1,0 +1,35 @@
+slug: john-madden
+kind: director
+name: John Madden
+blurb: A British director equally comfortable in warm period comedy and cold political thriller, with a consistent gift for large, precisely calibrated ensembles.
+
+films:
+  - film: shakespeare-in-love
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A young, blocked William Shakespeare falls for a nobleman's daughter secretly disguised as a boy actor, and the affair becomes the unlikely spark that finishes Romeo and Juliet.
+
+  - film: miss-sloane
+    signature: 4
+    gateway: 2
+    note: An elite, ruthlessly effective Washington lobbyist takes on the gun lobby in a losing fight, and the film reveals only in the final act how many moves ahead of everyone she's actually been playing.
+
+  - film: mrs-brown
+    signature: 4
+    gateway: 3
+    note: Queen Victoria's prolonged, scandalous mourning for her late husband draws her into a close, controversial friendship with her Scottish servant, threatening both her reputation and the monarchy's standing.
+
+  - film: the-best-exotic-marigold-hotel
+    signature: 3
+    gateway: 4
+    note: A group of British retirees relocate to a dilapidated, optimistically advertised hotel in India, and each has to figure out what they actually want from the unfamiliar life they've landed in.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - shakespeare-in-love
+    - mrs-brown
+    - the-best-exotic-marigold-hotel
+    - miss-sloane

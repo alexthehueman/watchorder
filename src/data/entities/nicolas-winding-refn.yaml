@@ -1,0 +1,35 @@
+slug: nicolas-winding-refn
+kind: director
+name: Nicolas Winding Refn
+blurb: A Danish stylist obsessed with silent, near-mythic men of violence, staged in saturated neon color with almost no dialogue to soften the ritual, formal quality of what happens to them.
+
+films:
+  - film: drive
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A nearly silent Hollywood stunt driver who moonlights as a getaway wheelman falls for his neighbor, and a heist gone wrong pulls him into a slow-burning, escalating war with the criminals behind it.
+
+  - film: only-god-forgives
+    signature: 5
+    gateway: 1
+    note: A Bangkok drug smuggler's mother arrives demanding revenge for her son's death, forcing him to confront both the man responsible and an untouchable, sword-wielding vigilante cop who enforces his own brutal code of justice.
+
+  - film: the-neon-demon
+    signature: 4
+    gateway: 2
+    note: A teenage model new to the cutthroat Los Angeles fashion scene becomes an object of obsession for the models and stylists around her, and the industry's hunger for her youth turns literal.
+
+  - film: bronson
+    signature: 3
+    gateway: 3
+    note: One of Britain's most notoriously violent prisoners narrates his own life as a theatrical performance, staging his brutal history as though it were the only art form he was ever actually good at.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - drive
+    - bronson
+    - the-neon-demon
+    - only-god-forgives

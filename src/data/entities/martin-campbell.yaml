@@ -1,0 +1,36 @@
+slug: martin-campbell
+kind: director
+name: Martin Campbell
+blurb: A journeyman action director trusted twice with the job of relaunching James Bond from scratch, equally at home in swashbuckling adventure and grim political conspiracy thriller.
+
+films:
+  - film: casino-royale-2006
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A newly promoted James Bond takes on a high-stakes poker game against a financier bankrolling global terrorism, and falls for the Treasury agent overseeing his funds in a way that complicates everything about the mission.
+
+  - film: goldeneye
+    signature: 5
+    must_see: true
+    gateway: 5
+    note: James Bond investigates a former MI6 agent presumed dead who's now working with Russian criminals to steal a satellite weapon capable of disabling any electronics on Earth.
+
+  - film: the-mask-of-zorro
+    signature: 4
+    gateway: 4
+    note: An aging, imprisoned Zorro trains a reckless bandit to take up the mask and finish the fight against the corrupt governor who destroyed both their families.
+
+  - film: edge-of-darkness
+    signature: 3
+    gateway: 2
+    note: A police detective investigates his own daughter's murder and uncovers a cover-up involving a defense contractor's illegal nuclear weapons work, with the trail leading dangerously close to his own government contacts.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - casino-royale-2006
+    - goldeneye
+    - the-mask-of-zorro
+    - edge-of-darkness

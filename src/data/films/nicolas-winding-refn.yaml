@@ -1,0 +1,19 @@
+# New film for Nicolas Winding Refn. Scales and anchors are in README.md ("The
+# anchor rubric").
+#
+# The Neon Demon already exists in fanning.yaml. Drive already exists in gosling.yaml.
+# Bronson already exists in hardy.yaml.
+
+- id: only-god-forgives
+  tmdb_id: null
+  title: Only God Forgives
+  year: 2013
+  runtime: 90
+  director: Nicolas Winding Refn
+  tags:
+    opacity: 4 # a near-wordless revenge story staged as ritual, and the vigilante cop's own status is never explained
+    stillness: 4
+    bleakness: 5
+    humor: 1
+    acclaim: 0.52
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
