@@ -1,0 +1,60 @@
+slug: mike-nichols
+kind: director
+name: Mike Nichols
+blurb: Sharp, verbally vicious relationship dramas and comedies from a director who came out of improv and never lost the ear for how people actually wound each other in conversation.
+
+films:
+  - film: the-graduate
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A directionless college graduate starts an affair with an older family friend, right before falling for her daughter, in a decision that gets messier the longer he refuses to think it through.
+
+  - film: whos-afraid-of-virginia-woolf
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: A middle-aged couple invite a younger couple over for late-night drinks, and spend the whole night using them as an audience for a marriage-long fight.
+
+  - film: the-birdcage
+    signature: 3
+    gateway: 5
+    note: A gay nightclub owner and his drag-performer partner pretend to be a "normal" straight couple for one dinner, right as their son's ultra-conservative future in-laws come to meet them.
+
+  - film: working-girl
+    signature: 3
+    gateway: 4
+    note: An ambitious secretary takes over her injured boss's identity and deals to prove she belongs in the boardroom, racing to close it before the boss recovers and finds out.
+
+  - film: closer
+    signature: 3
+    gateway: 2
+    note: Four Londoners pair off, cheat, and confess to each other across several years, in conversations that function less like intimacy and more like interrogations.
+
+  - film: catch-22
+    signature: 3
+    gateway: 1
+    note: A World War II bombardier tries every possible loophole to get grounded from flying more missions, and the film circles the same trauma from a different angle each time.
+
+  - film: charlie-wilsons-war
+    signature: 2
+    gateway: 4
+    note: A hard-partying congressman teams up with a CIA operative and a Houston socialite to covertly fund the Afghan resistance against the Soviets, with consequences nobody in the room is thinking about yet.
+
+  - film: regarding-henry
+    signature: 1
+    gateway: 3
+    note: A ruthless lawyer shot during a robbery loses his memory and much of his old personality, and has to relearn who he wants to be with no access to who he used to be.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - the-graduate
+    - whos-afraid-of-virginia-woolf
+    - the-birdcage
+    - working-girl
+    - closer
+    - catch-22
+    - charlie-wilsons-war
+    - regarding-henry

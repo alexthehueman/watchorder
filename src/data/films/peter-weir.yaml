@@ -1,0 +1,29 @@
+# New films for Peter Weir. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Truman Show already exists in carrey.yaml. Green Card already exists in
+# depardieu.yaml. The Mosquito Coast and Witness already exist in ford-harrison.yaml.
+# Dead Poets Society already exists in hawke.yaml. Master and Commander already exists
+# in russell-crowe.yaml.
+
+- id: picnic-at-hanging-rock
+  tmdb_id: null
+  title: Picnic at Hanging Rock
+  year: 1975
+  runtime: 107
+  director: Peter Weir
+  tags:
+    opacity: 5 # a group of schoolgirls vanishes at a rock formation, and the film never once offers an explanation
+    stillness: 4
+    bleakness: 4
+    humor: 1
+    acclaim: 0.82
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: gallipoli
+  tmdb_id: null
+  title: Gallipoli
+  year: 1981
+  runtime: 110
+  director: Peter Weir
+  tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 2, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

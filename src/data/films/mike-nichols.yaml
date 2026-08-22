@@ -1,0 +1,16 @@
+# New film for Mike Nichols. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Catch-22 already exists in alan-arkin.yaml. Regarding Henry already exists in
+# ford-harrison.yaml. Charlie Wilson's War already exists in hoffman-philip.yaml. The
+# Graduate already exists in hoffman.yaml. Closer already exists in julia-roberts.yaml.
+# Working Girl already exists in weaver.yaml. Who's Afraid of Virginia Woolf? already
+# exists in taylor.yaml (also separately in richard-burton.yaml).
+
+- id: the-birdcage
+  tmdb_id: null
+  title: The Birdcage
+  year: 1996
+  runtime: 117
+  director: Mike Nichols
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 5, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

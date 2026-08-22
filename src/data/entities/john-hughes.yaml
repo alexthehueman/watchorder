@@ -1,0 +1,60 @@
+slug: john-hughes
+kind: director
+name: John Hughes
+blurb: 1980s Chicagoland teenagers and suburban dads treated with total sincerity, funny and sentimental in the same scene without ever picking one over the other.
+
+films:
+  - film: the-breakfast-club
+    signature: 5
+    must_see: true
+    gateway: 5
+    note: Five high schoolers from five different cliques spend a Saturday in detention together and end up saying more honest things to each other than to anyone they actually know.
+
+  - film: ferris-buellers-day-off
+    signature: 5
+    must_see: true
+    gateway: 5
+    note: A charismatic high schooler fakes sick to skip school for a day in downtown Chicago, dragging his anxious best friend and reluctant girlfriend along while a suspicious principal closes in.
+
+  - film: sixteen-candles
+    signature: 4
+    gateway: 4
+    note: A girl's family completely forgets her sixteenth birthday in the chaos of her sister's wedding, right while she's also trying to get the attention of the senior she's been quietly in love with.
+
+  - film: planes-trains-and-automobiles
+    signature: 4
+    gateway: 5
+    note: A marketing executive trying to get home for Thanksgiving keeps getting stuck traveling with an overbearing, well-meaning shower-ring salesman neither of them can seem to shake.
+
+  - film: uncle-buck
+    signature: 3
+    gateway: 4
+    note: An irresponsible, unemployed bachelor is the only relative available to watch his brother's three kids on short notice, and turns out to be much better at it than anyone expected.
+
+  - film: weird-science
+    signature: 2
+    gateway: 3
+    note: Two unpopular teenagers use a home computer to digitally build their ideal woman, and she turns out to have plans for their social lives well beyond what they programmed.
+
+  - film: shes-having-a-baby
+    signature: 3
+    gateway: 3
+    note: A young married man drifts through the early years of adulthood, wondering whether the safe life he's building is the one he actually wanted, right as his wife gets pregnant.
+
+  - film: curly-sue
+    signature: 1
+    gateway: 2
+    note: A con man and the young orphan girl he's raised on small street grifts run their latest scheme on a wealthy divorce lawyer, who starts caring about the girl more than the mark should.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - the-breakfast-club
+    - ferris-buellers-day-off
+    - sixteen-candles
+    - planes-trains-and-automobiles
+    - uncle-buck
+    - weird-science
+    - shes-having-a-baby
+    - curly-sue

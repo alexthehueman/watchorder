@@ -1,0 +1,60 @@
+slug: peter-weir
+kind: director
+name: Peter Weir
+blurb: Ordinary reality quietly cracking open — a manufactured town, a girls' school, a boy under a hidden dome of expectation — and nobody inside gets a clean explanation for it.
+
+films:
+  - film: dead-poets-society
+    signature: 5
+    must_see: true
+    gateway: 5
+    note: An unconventional English teacher at a strict prep school pushes his students toward independent thought, and one of them takes the lesson somewhere his father can't accept.
+
+  - film: the-truman-show
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A man slowly realizes his entire life has been broadcast as a reality show since birth, and everyone he's ever known, including his wife, is an actor.
+
+  - film: picnic-at-hanging-rock
+    signature: 4
+    gateway: 1
+    note: A group of Australian schoolgirls climb a volcanic rock formation on a Valentine's Day picnic, and several of them simply never come back down.
+
+  - film: witness
+    signature: 3
+    gateway: 4
+    note: A big-city detective hides out on an Amish farm to protect the young boy who witnessed a murder, and starts falling for the boy's widowed mother while he waits it out.
+
+  - film: master-and-commander
+    signature: 3
+    gateway: 3
+    note: A British naval captain pursues a French warship across two oceans during the Napoleonic Wars, testing both his crew's endurance and his own judgment as commander.
+
+  - film: gallipoli
+    signature: 3
+    gateway: 2
+    note: Two young Australian sprinters enlist together and end up at the doomed WWI Gallipoli campaign, their friendship tested by the war's final, senseless battle.
+
+  - film: the-mosquito-coast
+    signature: 2
+    gateway: 2
+    note: An inventor convinced America is doomed drags his family to the Central American jungle to build a self-sufficient utopia, and his certainty stops looking like vision and starts looking like something else.
+
+  - film: green-card
+    signature: 2
+    gateway: 4
+    note: A Frenchman and an American woman enter a marriage of convenience for a green card and an apartment, and have to fake a real relationship when immigration comes to investigate.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - dead-poets-society
+    - the-truman-show
+    - picnic-at-hanging-rock
+    - witness
+    - master-and-commander
+    - gallipoli
+    - the-mosquito-coast
+    - green-card

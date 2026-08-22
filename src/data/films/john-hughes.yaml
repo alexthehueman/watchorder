@@ -1,0 +1,34 @@
+# New films for John Hughes. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Weird Science already exists in anthony-michael-hall.yaml. Uncle Buck already exists
+# in john-candy.yaml. Ferris Bueller's Day Off already exists in matthew-broderick.yaml.
+# The Breakfast Club and Sixteen Candles already exist in molly-ringwald.yaml. Planes,
+# Trains and Automobiles already exists in steve-martin.yaml.
+
+- id: shes-having-a-baby
+  tmdb_id: null
+  title: She's Having a Baby
+  year: 1988
+  runtime: 106
+  director: John Hughes
+  tags:
+    opacity: 2 # whether he's genuinely happy or just going along with the life expected of him stays quietly unresolved
+    stillness: 3
+    bleakness: 3 # real anxiety about losing himself in domesticity sits under the comic voiceover
+    humor: 3
+    acclaim: 0.55
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: curly-sue
+  tmdb_id: null
+  title: Curly Sue
+  year: 1991
+  runtime: 101
+  director: John Hughes
+  tags:
+    opacity: 2 # whether the con man actually cares about her or is just running a longer grift stays open for a while
+    stillness: 2
+    bleakness: 3
+    humor: 3
+    acclaim: 0.45
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
