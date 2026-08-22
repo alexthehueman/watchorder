@@ -1,0 +1,41 @@
+slug: ishiro-honda
+kind: director
+name: Ishiro Honda
+blurb: The director who invented the kaiju film and gave it real moral weight from the start — nuclear dread staged as spectacle, with the monsters standing in for a catastrophe still fresh in living memory.
+
+films:
+  - film: gojira
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A prehistoric creature awakened and mutated by nuclear testing rises from the sea to level Tokyo, and the scientists who might be able to stop it have to weigh using a weapon just as terrifying as the monster itself.
+
+  - film: mothra-vs-godzilla
+    signature: 4
+    gateway: 4
+    note: A giant moth deity is summoned to defend her tiny island priestesses from human exploitation, right as Godzilla resurfaces and threatens to destroy the whole country before she can even reach him.
+
+  - film: destroy-all-monsters
+    signature: 3
+    gateway: 3
+    note: Nearly every monster in the Toho universe is kept peacefully contained on one island, until an alien force seizes control of them and sets them loose on the world's major cities simultaneously.
+
+  - film: mothra
+    signature: 3
+    gateway: 4
+    note: Two tiny twin priestesses are kidnapped from their island and exploited as a stage act in Tokyo, and the giant moth goddess who protects their people comes to the mainland to bring them home.
+
+  - film: rodan
+    signature: 2
+    gateway: 3
+    note: Mysterious deaths in a Japanese mining town turn out to be the work of enormous prehistoric flying creatures, awakened from underground by the same nuclear-age disturbances reshaping the rest of the world.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - gojira
+    - mothra-vs-godzilla
+    - mothra
+    - destroy-all-monsters
+    - rodan

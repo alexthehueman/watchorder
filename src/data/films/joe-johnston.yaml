@@ -1,0 +1,20 @@
+# New film for Joe Johnston. Scales and anchors are in README.md ("The anchor
+# rubric").
+#
+# Captain America: The First Avenger already exists in evans.yaml. October Sky already
+# exists in gyllenhaal.yaml. Jumanji already exists in robin-williams.yaml. The
+# Rocketeer already exists in timothy-dalton.yaml.
+
+- id: honey-i-shrunk-the-kids
+  tmdb_id: null
+  title: Honey, I Shrunk the Kids
+  year: 1989
+  runtime: 93
+  director: Joe Johnston
+  tags:
+    opacity: 1
+    stillness: 1
+    bleakness: 1
+    humor: 4
+    acclaim: 0.65
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }

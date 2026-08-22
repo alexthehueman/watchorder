@@ -1,0 +1,20 @@
+# New film for Gary Ross. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Ocean's Eight already exists in bullock.yaml as oceans-eight (also duplicated as
+# oceans-8 in awkwafina.yaml; this entity references the bullock.yaml id). The Hunger
+# Games already exists in jennifer-lawrence.yaml. Pleasantville already exists in
+# witherspoon.yaml.
+
+- id: seabiscuit
+  tmdb_id: null
+  title: Seabiscuit
+  year: 2003
+  runtime: 141
+  director: Gary Ross
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 3
+    humor: 1
+    acclaim: 0.75
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

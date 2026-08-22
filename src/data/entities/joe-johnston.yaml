@@ -1,0 +1,41 @@
+slug: joe-johnston
+kind: director
+name: Joe Johnston
+blurb: An Industrial Light & Magic veteran turned director of earnest, old-fashioned adventure — pulpy serial thrills and family spectacle built with total sincerity, never a wink at the audience.
+
+films:
+  - film: captain-america-the-first-avenger
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A scrawny, rejected army volunteer is transformed by an experimental serum into a physically perfect super-soldier, and has to prove his character was the real qualification all along by taking on a Nazi splinter group building weapons beyond anything else in the war.
+
+  - film: jumanji
+    signature: 4
+    gateway: 4
+    note: Two kids release a man who's been trapped inside a magical board game for decades, and have to finish the game themselves to reverse the chaos it keeps unleashing on their town.
+
+  - film: october-sky
+    signature: 4
+    gateway: 3
+    note: A coal miner's son in 1950s West Virginia becomes obsessed with rocketry after Sputnik's launch, chasing a science-fair path out of the mines against his father's wishes for his future.
+
+  - film: the-rocketeer
+    signature: 3
+    gateway: 3
+    note: A stunt pilot in 1930s Los Angeles discovers a prototype jetpack hidden by mobsters, and becomes an unlikely masked hero right as Nazi agents start hunting for the same technology.
+
+  - film: honey-i-shrunk-the-kids
+    signature: 2
+    gateway: 4
+    note: An inventor's experimental shrink ray accidentally miniaturizes his kids and the neighbors' children, who now have to survive a trek across the increasingly dangerous backyard to get home.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - captain-america-the-first-avenger
+    - jumanji
+    - october-sky
+    - the-rocketeer
+    - honey-i-shrunk-the-kids

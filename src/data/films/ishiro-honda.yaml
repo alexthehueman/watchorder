@@ -1,0 +1,35 @@
+# New films for Ishiro Honda. Scales and anchors are in README.md ("The anchor
+# rubric").
+#
+# Godzilla (1954) already exists in toho.yaml as gojira (also duplicated as
+# godzilla-1954 in takashi-shimura.yaml; this entity references the toho.yaml id).
+# Mothra already exists in kyoko-kagawa.yaml. Mothra vs. Godzilla already exists in
+# toho.yaml.
+
+- id: rodan
+  tmdb_id: null
+  title: Rodan
+  year: 1956
+  runtime: 82
+  director: Ishiro Honda
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 3
+    humor: 1
+    acclaim: 0.68
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: destroy-all-monsters
+  tmdb_id: null
+  title: Destroy All Monsters
+  year: 1968
+  runtime: 89
+  director: Ishiro Honda
+  tags:
+    opacity: 2 # who's secretly controlling the monsters, and why, is withheld as a real mystery for the first half
+    stillness: 1
+    bleakness: 2
+    humor: 2
+    acclaim: 0.65
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }

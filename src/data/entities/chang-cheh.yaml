@@ -1,0 +1,41 @@
+slug: chang-cheh
+kind: director
+name: Chang Cheh
+blurb: The Shaw Brothers' reigning "godfather of kung fu cinema" — blood-soaked heroic bloodshed, brotherhood pushed to self-sacrifice, and wounded men fighting on past the point any sane person would stop.
+
+films:
+  - film: the-one-armed-swordsman
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A swordsman who loses his arm protecting his master's daughter retreats to a quiet farming life, only to be pulled back into swordplay when his old school comes under a deadly new threat.
+
+  - film: the-boxer-from-shantung
+    signature: 5
+    gateway: 2
+    note: A penniless migrant laborer rises through Shanghai's criminal underworld purely on raw boxing talent and nerve, and pushes his ambition further than his body can actually sustain.
+
+  - film: five-deadly-venoms
+    signature: 4
+    gateway: 3
+    note: A dying martial arts master sends his last student to track down five former disciples, each a master of a different lethal fighting style, after learning one of them has turned to crime.
+
+  - film: heroes-two
+    signature: 3
+    gateway: 3
+    note: A Shaolin survivor and a folk hero team up against the same corrupt Qing forces that destroyed their temple, training together to take on an enemy neither of them can beat alone.
+
+  - film: the-kid-with-the-golden-arm
+    signature: 3
+    gateway: 3
+    note: A courier tasked with delivering a fortune in gold to famine victims is targeted by a gang of assassins, each with a different lethal specialty, hired to intercept the shipment before it arrives.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - the-one-armed-swordsman
+    - the-boxer-from-shantung
+    - five-deadly-venoms
+    - heroes-two
+    - the-kid-with-the-golden-arm

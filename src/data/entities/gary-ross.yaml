@@ -1,0 +1,36 @@
+slug: gary-ross
+kind: director
+name: Gary Ross
+blurb: A screenwriter-turned-director drawn to worlds with an invisible, unjust set of rules — a walled-off sitcom town, a televised death match, a true-story underdog — and the people who start pushing back against them.
+
+films:
+  - film: the-hunger-games
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A teenage girl volunteers to take her younger sister's place in a televised fight to the death between children from Panem's twelve impoverished districts, forced to decide how much of herself she'll compromise to survive it.
+
+  - film: pleasantville
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: Two 1990s siblings get zapped into their small town's black-and-white 1950s sitcom rerun, and their modern sensibilities start literally introducing color into a world built on never changing.
+
+  - film: seabiscuit
+    signature: 3
+    gateway: 3
+    note: An undersized, ill-tempered racehorse nobody wanted becomes an unlikely Depression-era phenomenon, brought together with a washed-up jockey and a trainer who both see something in him everyone else missed.
+
+  - film: oceans-eight
+    signature: 2
+    gateway: 4
+    note: A career con artist assembles an all-female crew to pull off an elaborate heist at the Met Gala, targeting a diamond necklace worth tens of millions of dollars.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - pleasantville
+    - the-hunger-games
+    - seabiscuit
+    - oceans-eight
