@@ -1,0 +1,21 @@
+# New film for Sam Mendes. Scales and anchors are in README.md ("The anchor rubric").
+#
+# American Beauty already exists in chris-cooper.yaml. Skyfall already exists in
+# fiennes.yaml. Away We Go already exists in krasinski.yaml. Road to Perdition already
+# exists in newman.yaml. Empire of Light already exists in olivia-colman.yaml. 1917
+# already exists in scott.yaml. Spectre already exists in waltz.yaml. Revolutionary
+# Road already exists in winslet.yaml.
+
+- id: jarhead
+  tmdb_id: null
+  title: Jarhead
+  year: 2005
+  runtime: 123
+  director: Sam Mendes
+  tags:
+    opacity: 2 # how much of his own account is embellished swagger versus what actually happened stays genuinely blurred
+    stillness: 4 # a war film defined almost entirely by waiting, boredom, and unraveling nerves rather than combat
+    bleakness: 4
+    humor: 2
+    acclaim: 0.68
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }

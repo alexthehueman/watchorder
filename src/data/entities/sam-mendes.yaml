@@ -1,0 +1,66 @@
+slug: sam-mendes
+kind: director
+name: Sam Mendes
+blurb: Immaculate, painterly compositions applied to whatever's underneath suburban American life or a war, always with a formal control that never once loosens.
+
+films:
+  - film: american-beauty
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A suburban father narrates his own last year alive, midlife-crisising his way through an obsession with his daughter's friend right as his marriage quietly disintegrates.
+
+  - film: "1917"
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: Two young soldiers are sent across enemy territory to hand-deliver an order calling off an attack, shot and cut to look like one unbroken take the whole way there.
+
+  - film: skyfall
+    signature: 4
+    gateway: 4
+    note: A cyberterrorist with a personal grudge against MI6 forces a wounded, aging Bond to confront his own obsolescence right as the agency's past comes back to attack it directly.
+
+  - film: road-to-perdition
+    signature: 4
+    gateway: 3
+    note: A mob enforcer and his young son go on the run after witnessing something they weren't supposed to see, hunted by the crime family that raised him.
+
+  - film: revolutionary-road
+    signature: 3
+    gateway: 2
+    note: A 1950s suburban couple convinced they're better than the life they're living plan an escape to Paris, and watch the plan expose exactly how trapped they already are.
+
+  - film: spectre
+    signature: 2
+    gateway: 3
+    note: A cryptic message from Bond's past leads him to a shadowy organization whose reach extends into every operation he's run since he became a double-0.
+
+  - film: empire-of-light
+    signature: 2
+    gateway: 2
+    note: A cinema manager struggling with her mental health forms a bond with a new younger colleague, against the backdrop of a seaside town's rising racial tensions.
+
+  - film: away-we-go
+    signature: 3
+    gateway: 4
+    note: An unmarried couple expecting their first child tour a string of North American cities, visiting friends and family to figure out where they actually want to raise a kid.
+
+  - film: jarhead
+    signature: 3
+    gateway: 3
+    note: A Marine sniper deployed for the Gulf War spends most of his tour waiting in the desert for a war that barely arrives, and the boredom does more damage than the combat would have.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - american-beauty
+    - "1917"
+    - skyfall
+    - road-to-perdition
+    - revolutionary-road
+    - spectre
+    - empire-of-light
+    - away-we-go
+    - jarhead

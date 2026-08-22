@@ -1,0 +1,66 @@
+slug: richard-linklater
+kind: director
+name: Richard Linklater
+blurb: Time passing in real, uncompressed increments — a single night, a childhood, a decade between two people — treated as more dramatic than anything that could happen in it.
+
+films:
+  - film: before-sunrise
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: Two strangers who meet on a train to Vienna get off together on a whim and spend one night walking the city, talking, with no plan to ever see each other again.
+
+  - film: boyhood
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: A boy is filmed for a few days each year over twelve real years, growing into a young man on screen as the same actors around him age right along with him.
+
+  - film: dazed-and-confused
+    signature: 4
+    gateway: 4
+    note: A loose ensemble of Texas high schoolers spends the last day of school 1976 driving around, hazing incoming freshmen, and looking for the next party.
+
+  - film: school-of-rock
+    signature: 4
+    gateway: 5
+    note: A washed-up, broke musician poses as a substitute teacher at a strict prep school and secretly turns his class into a band to compete in a local battle of the bands.
+
+  - film: before-sunset
+    signature: 4
+    gateway: 1
+    note: Nine years after that one night in Vienna, the same two people run into each other again in Paris, with only the length of one afternoon before he has to catch a flight.
+
+  - film: bernie
+    signature: 3
+    gateway: 4
+    note: A beloved small-town funeral director murders the wealthy widow he's been caring for, and the whole town refuses to believe he could possibly be guilty.
+
+  - film: before-midnight
+    signature: 3
+    gateway: 0
+    note: Another nine years on, the same couple is now together with twin daughters, and one long evening's argument surfaces everything the relationship has quietly become.
+
+  - film: a-scanner-darkly
+    signature: 2
+    gateway: 1
+    note: An undercover narcotics agent surveilling a group of addicts, rotoscoped into shifting animated disguise, starts losing track of which side of the investigation he's actually on.
+
+  - film: wheredyou-go-bernadette
+    signature: 2
+    gateway: 3
+    note: A brilliant, reclusive architect and mother vanishes right before a family trip to Antarctica, and her teenage daughter pieces together where she went and why.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - before-sunrise
+    - boyhood
+    - dazed-and-confused
+    - school-of-rock
+    - before-sunset
+    - bernie
+    - before-midnight
+    - a-scanner-darkly
+    - wheredyou-go-bernadette

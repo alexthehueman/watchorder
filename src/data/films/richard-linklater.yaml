@@ -1,0 +1,24 @@
+# New films for Richard Linklater. Scales and anchors are in README.md ("The anchor rubric").
+#
+# School of Rock and Bernie already exist in black.yaml. Where'd You Go, Bernadette
+# already exists in constance-wu.yaml. A Scanner Darkly already exists in downey.yaml.
+# Before Sunrise and Boyhood already exist in hawke.yaml. Dazed and Confused already
+# exists in mcconaughey.yaml.
+
+- id: before-sunset
+  tmdb_id: null
+  title: Before Sunset
+  year: 2004
+  runtime: 80
+  director: Richard Linklater
+  tags: { opacity: 1, stillness: 4, bleakness: 2, humor: 2, acclaim: 0.90 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: before-midnight
+  tmdb_id: null
+  title: Before Midnight
+  year: 2013
+  runtime: 109
+  director: Richard Linklater
+  tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 2, acclaim: 0.88 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
