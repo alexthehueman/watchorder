@@ -1,0 +1,66 @@
+slug: william-wyler
+kind: director
+name: William Wyler
+blurb: Meticulous, deep-focus studio craft applied to just about every genre the Golden Age had to offer, holding the record for the most acting Oscar nominations any director ever drew out of a cast.
+
+films:
+  - film: ben-hur
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A Jewish prince betrayed and enslaved by his childhood friend, now a Roman officer, works his way back from the galleys to a chariot race that settles everything between them.
+
+  - film: the-best-years-of-our-lives
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: Three servicemen return home from World War II on the same flight and each try to rebuild a civilian life that doesn't quite fit the men they've become.
+
+  - film: roman-holiday
+    signature: 4
+    gateway: 5
+    note: A sheltered princess slips away from her official duties for one unsupervised day in Rome, and falls for the reporter who recognizes her but doesn't let on right away.
+
+  - film: the-heiress
+    signature: 5
+    gateway: 3
+    note: A plain, wealthy young woman's suitor charms her father's suspicion right up until the will gets rewritten, and she has to decide whether his love was ever real.
+
+  - film: mrs-miniver
+    signature: 3
+    gateway: 3
+    note: An English housewife holds her family together through the early years of World War II, as the war stops being something happening elsewhere and starts arriving at her own front door.
+
+  - film: the-little-foxes
+    signature: 3
+    gateway: 2
+    note: A ruthless Southern family fights over a business deal that could make them all rich, and the matriarch is willing to let her own husband's medical crisis go unanswered to win it.
+
+  - film: the-letter
+    signature: 4
+    gateway: 3
+    note: A plantation owner's wife claims she killed a man in self-defense, but a letter surfaces that could unravel the story she's telling everyone, including her own husband.
+
+  - film: funny-girl
+    signature: 2
+    gateway: 4
+    note: A gawky, stage-struck girl from the Lower East Side becomes one of the biggest stars on Broadway, while her marriage to a charming gambler quietly starts falling apart.
+
+  - film: the-westerner
+    signature: 2
+    gateway: 4
+    note: A drifter arrested by a self-appointed hanging judge talks his way out of the noose by claiming a personal connection to the judge's favorite actress, and has to keep the con running.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - ben-hur
+    - the-best-years-of-our-lives
+    - roman-holiday
+    - the-heiress
+    - mrs-miniver
+    - the-little-foxes
+    - the-letter
+    - funny-girl
+    - the-westerner

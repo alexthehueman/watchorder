@@ -1,0 +1,72 @@
+slug: george-cukor
+kind: director
+name: George Cukor
+blurb: Known as Hollywood's "women's director," equally at home in razor-sharp comedy and full-blown melodrama, and trusted with more classic screen actresses' best performances than almost anyone else in the Golden Age.
+
+films:
+  - film: the-philadelphia-story
+    signature: 5
+    must_see: true
+    gateway: 5
+    note: A socialite about to remarry has her wedding weekend crashed by her ex-husband and a tabloid reporter, and has to figure out which of the three men actually knows her at all.
+
+  - film: my-fair-lady
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A brash phonetics professor makes a bet that he can pass a Cockney flower girl off as a duchess after months of speech training, and doesn't plan for what happens once he actually succeeds.
+
+  - film: a-star-is-born-1954
+    signature: 5
+    gateway: 4
+    note: An alcoholic, fading movie star discovers a talented singer and helps launch her to stardom, right as his own career and marriage start collapsing under the weight of her rise.
+
+  - film: gaslight
+    signature: 5
+    gateway: 3
+    note: A woman's new husband starts quietly, methodically convincing her she's losing her mind, isolating her from anyone who might notice what he's actually doing.
+
+  - film: adams-rib
+    signature: 3
+    gateway: 5
+    note: A married couple end up on opposite sides of the same courtroom case, one prosecuting and one defending a woman accused of shooting her husband, and take the fight home with them every night.
+
+  - film: the-women
+    signature: 3
+    gateway: 4
+    note: A New York socialite's friends can't wait to tell her about her husband's affair, and the gossip network that spreads it turns out to be more vicious than the affair itself.
+
+  - film: dinner-at-eight
+    signature: 3
+    gateway: 3
+    note: A high-society dinner party's guest list unravels into a web of affairs, bankruptcies, and secrets, most of which the hostess planning the seating chart has no idea about.
+
+  - film: david-copperfield
+    signature: 2
+    gateway: 2
+    note: An orphaned boy survives a cruel stepfather, child labor, and a string of eccentric guardians on his way to adulthood, narrating his own unlikely path to a stable life.
+
+  - film: wild-is-the-wind
+    signature: 2
+    gateway: 1
+    note: An Italian woman who marries her late sister's widower on a remote Nevada ranch struggles to become the wife he actually wants, rather than a replacement for the one he lost.
+
+  - film: bhowani-junction
+    signature: 4
+    gateway: 4
+    note: An Anglo-Indian railway officer is torn between two men and two worlds as India transitions out of British colonial rule, unsure which side she actually belongs to.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - the-philadelphia-story
+    - my-fair-lady
+    - a-star-is-born-1954
+    - gaslight
+    - adams-rib
+    - the-women
+    - dinner-at-eight
+    - david-copperfield
+    - wild-is-the-wind
+    - bhowani-junction

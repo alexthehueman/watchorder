@@ -1,0 +1,59 @@
+slug: alan-j-pakula
+kind: director
+name: Alan J. Pakula
+blurb: Paranoid conspiracy thrillers where the institution itself — a corporation, the government, the justice system — turns out to be the thing worth being afraid of.
+
+films:
+  - film: all-the-presidents-men
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: Two Washington Post reporters follow a small break-in story through an ever-widening web of sources and denials, until it leads all the way to the president.
+
+  - film: klute
+    signature: 4
+    gateway: 2
+    note: A small-town detective investigating a friend's disappearance enlists a New York call girl who may have information, and the two of them realize someone is watching her much more closely than either expected.
+
+  - film: sophies-choice
+    signature: 4
+    gateway: 2
+    note: A young writer becomes close with a Polish Holocaust survivor and her volatile lover, and slowly uncovers the devastating choice she was once forced to make.
+
+  - film: the-parallax-view
+    signature: 4
+    gateway: 1
+    note: A journalist investigating a senator's assassination uncovers a mysterious corporation that seems to be behind a pattern of political killings, and gets pulled dangerously close to finding out how.
+
+  - film: presumed-innocent
+    signature: 3
+    gateway: 3
+    note: A prosecutor becomes the prime suspect in the murder of a colleague he was secretly having an affair with, and has to build a defense around a truth he can't tell anyone.
+
+  - film: the-pelican-brief
+    signature: 2
+    gateway: 4
+    note: A law student's theoretical brief speculating on who benefits from two Supreme Court justices' assassinations turns out to be alarmingly close to the real conspiracy.
+
+  - film: consenting-adults
+    signature: 2
+    gateway: 3
+    note: A suburban husband is drawn into a wife-swapping arrangement with his charismatic new neighbor, and becomes the prime suspect in a murder he insists he didn't commit.
+
+  - film: the-devils-own
+    signature: 2
+    gateway: 2
+    note: An IRA fugitive posing as a construction worker takes refuge with an NYPD cop's family, secretly using the cop's own connections to acquire weapons for the cause back home.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - all-the-presidents-men
+    - klute
+    - sophies-choice
+    - the-parallax-view
+    - presumed-innocent
+    - the-pelican-brief
+    - consenting-adults
+    - the-devils-own

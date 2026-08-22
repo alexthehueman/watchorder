@@ -1,0 +1,22 @@
+# Films for George Cukor — all already tagged elsewhere, no new films needed.
+#
+# Gaslight already exists in bergman-ingrid.yaml. Little Women (1933), The
+# Philadelphia Story, and Adam's Rib already exist in hepburn-katharine.yaml. My Fair
+# Lady already exists in hepburn-audrey.yaml. The Women already exists in
+# joan-crawford.yaml. Wild Is the Wind already exists in magnani.yaml. Dinner at Eight
+# already exists in mgm.yaml. David Copperfield already exists in una-oconnor.yaml. A
+# Star Is Born (1954) already exists in garland.yaml.
+
+- id: bhowani-junction
+  tmdb_id: null
+  title: Bhowani Junction
+  year: 1956
+  runtime: 110
+  director: George Cukor
+  tags:
+    opacity: 4 # her true loyalties, and which of two men she actually wants, stay genuinely unresolved for most of the film
+    stillness: 2
+    bleakness: 4
+    humor: 1
+    acclaim: 0.62
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }

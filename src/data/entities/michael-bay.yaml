@@ -1,0 +1,66 @@
+slug: michael-bay
+kind: director
+name: Michael Bay
+blurb: Maximalist, orange-and-teal action filmmaking built entirely around scale — explosions, hardware, slow-motion heroics — with subtlety treated as a problem to be blown past.
+
+films:
+  - film: the-rock
+    signature: 5
+    must_see: true
+    gateway: 5
+    note: A disgraced ex-con who's the only man to ever escape Alcatraz has to break back into the prison, now held by rogue Marines with chemical weapons, alongside an FBI chemist with no field experience.
+
+  - film: armageddon
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: NASA recruits a crew of oil drillers, not astronauts, to fly to an asteroid the size of Texas and drill it open before it wipes out life on Earth.
+
+  - film: bad-boys
+    signature: 4
+    gateway: 5
+    note: Two mismatched Miami narcotics detectives have to recover a shipment of stolen heroin before internal affairs shuts their unit down, and switch identities along the way for reasons that keep making things worse.
+
+  - film: transformers
+    signature: 3
+    gateway: 3
+    note: A teenager's first car turns out to be a sentient alien robot in disguise, and he's pulled into a war between two factions of Transformers fighting over an ancient artifact hidden on Earth.
+
+  - film: pearl-harbor
+    signature: 3
+    gateway: 2
+    note: Two lifelong best friends both in love with the same nurse become fighter pilots right as the Japanese attack on Pearl Harbor upends both their romance and the war neither of them expected yet.
+
+  - film: pain-and-gain
+    signature: 3
+    gateway: 3
+    note: Three bodybuilders hatch a scheme to kidnap and extort a wealthy client, and the plan spirals into an escalating string of crimes far past what any of them actually planned for.
+
+  - film: bad-boys-ii
+    signature: 2
+    gateway: 3
+    note: The same two detectives take on an Ecstasy trafficking ring, with the case complicated by one of their sisters secretly dating the other one.
+
+  - film: the-island
+    signature: 4
+    gateway: 4
+    note: Two residents of a sealed, seemingly utopian facility discover the horrifying truth about what their community really is and why residents keep getting "selected" to leave.
+
+  - film: 13-hours
+    signature: 2
+    gateway: 2
+    note: A team of security contractors defends the CIA's Benghazi outpost through an overnight assault, with the promised military backup never actually arriving.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - the-rock
+    - armageddon
+    - bad-boys
+    - transformers
+    - pearl-harbor
+    - pain-and-gain
+    - bad-boys-ii
+    - the-island
+    - 13-hours

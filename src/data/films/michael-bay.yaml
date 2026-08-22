@@ -1,0 +1,21 @@
+# New film for Michael Bay. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Pearl Harbor already exists in beckinsale.yaml. Armageddon already exists in
+# buscemi.yaml. 13 Hours already exists in krasinski.yaml. Pain and Gain already
+# exists in mackie.yaml. Bad Boys II already exists in martin-lawrence.yaml. Bad Boys
+# already exists in smith.yaml. Transformers already exists in tyrese.yaml. The Rock
+# already exists in cage.yaml.
+
+- id: the-island
+  tmdb_id: null
+  title: The Island
+  year: 2005
+  runtime: 136
+  director: Michael Bay
+  tags:
+    opacity: 4 # what the sealed facility's residents are actually being kept for is withheld until it's already too late to matter
+    stillness: 2
+    bleakness: 4
+    humor: 2
+    acclaim: 0.55
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
