@@ -1,0 +1,22 @@
+# New film for Stanley Kramer. Scales and anchors are in README.md ("The anchor
+# rubric").
+#
+# Guess Who's Coming to Dinner already exists in hepburn-katharine.yaml. The Secret of
+# Santa Vittoria already exists in magnani.yaml. The Defiant Ones already exists in
+# poitier.yaml. Inherit the Wind already exists in spencer-tracy.yaml. Judgment at
+# Nuremberg already exists in garland.yaml — it was missing a director field, filled
+# in there rather than duplicated here.
+
+- id: its-a-mad-mad-mad-mad-world
+  tmdb_id: null
+  title: It's a Mad, Mad, Mad, Mad World
+  year: 1963
+  runtime: 154
+  director: Stanley Kramer
+  tags:
+    opacity: 1
+    stillness: 1
+    bleakness: 1
+    humor: 5
+    acclaim: 0.68
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }

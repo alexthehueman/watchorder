@@ -1,0 +1,48 @@
+slug: stanley-kramer
+kind: director
+name: Stanley Kramer
+blurb: A "message picture" specialist who spent decades tackling racism, nuclear war, fascism, and censorship head-on in mainstream star vehicles — earnest, sometimes didactic, and rarely subtle about which side you're meant to take.
+
+films:
+  - film: judgment-at-nuremberg
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: An American judge presides over the trial of four German judges accused of enforcing Nazi law, forced to weigh individual culpability against a legal system that made atrocity officially lawful.
+
+  - film: guess-whos-coming-to-dinner
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A progressive white couple's principles are tested in real time when their daughter brings home her Black fiancé and announces they're engaged, all within a single dinner.
+
+  - film: the-defiant-ones
+    signature: 4
+    gateway: 3
+    note: A white convict and a Black convict, chained together after escaping a prison transport, have to set aside their mutual hatred to survive a manhunt neither of them can outrun alone.
+
+  - film: inherit-the-wind
+    signature: 4
+    gateway: 3
+    note: A small-town teacher is put on trial for illegally teaching evolution, and two legendary lawyers turn the courtroom into a national referendum on science, faith, and the right to think freely.
+
+  - film: its-a-mad-mad-mad-mad-world
+    signature: 3
+    gateway: 4
+    note: A group of strangers who witness a dying criminal's confession about buried loot race each other across the state to find it first, each willing to wreck nearly anything to get there.
+
+  - film: the-secret-of-santa-vittoria
+    signature: 2
+    gateway: 3
+    note: A small Italian village's mayor organizes the entire town to hide over a million bottles of wine from the occupying Germans before they can requisition it all.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - guess-whos-coming-to-dinner
+    - judgment-at-nuremberg
+    - the-defiant-ones
+    - inherit-the-wind
+    - the-secret-of-santa-vittoria
+    - its-a-mad-mad-mad-mad-world

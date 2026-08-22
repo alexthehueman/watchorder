@@ -1,0 +1,42 @@
+slug: john-sturges
+kind: director
+name: John Sturges
+blurb: A master of the large-ensemble action picture — professionals under pressure, filmed with total clarity, built to make you understand exactly what every single member of the team is good for.
+
+films:
+  - film: the-magnificent-seven-1960
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A poor Mexican village hires seven gunfighters to defend them from a bandit gang that returns every year to strip the harvest, and the seven have to weld the villagers into a fighting force before the bandits come back.
+
+  - film: the-great-escape
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: Allied POWs held in a supposedly escape-proof German camp mount an enormous, meticulously organized tunnel operation to get as many men out and back to Britain as possible.
+
+  - film: bad-day-at-black-rock
+    signature: 4
+    gateway: 3
+    note: A one-armed stranger gets off the train in a nearly abandoned desert town asking after a Japanese farmer, and the town's hostile stonewalling makes clear something happened to the man he's looking for.
+
+  - film: ice-station-zebra
+    signature: 3
+    gateway: 2
+    note: A U.S. nuclear submarine races to a remote Arctic research station to recover a downed satellite's film capsule, while suspecting one of the men aboard is secretly working for the Soviets.
+
+  - film: gunfight-at-the-ok-corral
+    signature: 3
+    gateway: 3
+    note: Wyatt Earp and Doc Holliday form an uneasy alliance as lawmen in Tombstone, building toward the legendary shootout against the Clanton gang that neither man can walk away from.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - the-magnificent-seven-1960
+    - the-great-escape
+    - bad-day-at-black-rock
+    - gunfight-at-the-ok-corral
+    - ice-station-zebra

@@ -1,0 +1,47 @@
+slug: george-lucas
+kind: director
+name: George Lucas
+blurb: A dystopian-arthouse USC grad who built the biggest space opera in film history, then spent decades pulled between the pulpy mythmaking that made him famous and the sterile formalism he actually started with.
+
+films:
+  - film: star-wars
+    signature: 5
+    must_see: true
+    gateway: 5
+    note: A farm boy on a desert planet joins a rebellion against a galactic empire after inheriting a stranded droid, an old hermit's forgotten past, and a call to rescue a captured princess.
+
+  - film: american-graffiti
+    signature: 4
+    gateway: 4
+    note: A group of recent high school graduates spend one last cruising, drag-racing night in their small California town before scattering to colleges and adulthood the next morning.
+
+  - film: thx-1138
+    signature: 4
+    gateway: 1
+    note: A drug-sedated worker in an underground, totally surveilled society stops taking his mandatory medication and starts falling in love, an offense that puts him in direct danger from the system running his life.
+
+  - film: star-wars-episode-iii-revenge-of-the-sith
+    signature: 3
+    gateway: 2
+    note: A young Jedi's fear of losing the people he loves is exploited by a hidden Sith lord, pulling him step by step toward the atrocity that will end the Jedi order and create the galaxy's next tyrant.
+
+  - film: star-wars-episode-ii-attack-of-the-clones
+    signature: 2
+    gateway: 2
+    note: A Jedi knight investigates an assassination attempt on a senator while secretly falling for her, as a mysterious clone army and a separatist movement push the galaxy toward all-out war.
+
+  - film: star-wars-episode-i-the-phantom-menace
+    signature: 2
+    gateway: 3
+    note: Two Jedi knights escort a planetary queen through a trade blockade and a droid invasion, discovering a gifted young slave boy along the way whose midi-chlorian count suggests he might be the Chosen One.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - star-wars
+    - american-graffiti
+    - thx-1138
+    - star-wars-episode-i-the-phantom-menace
+    - star-wars-episode-ii-attack-of-the-clones
+    - star-wars-episode-iii-revenge-of-the-sith

@@ -1,0 +1,34 @@
+# New films for Terry Gilliam. Scales and anchors are in README.md ("The anchor
+# rubric").
+#
+# The Fisher King already exists in bridges.yaml. Fear and Loathing in Las Vegas
+# already exists in depp.yaml. Twelve Monkeys already exists in pitt.yaml. The Zero
+# Theorem already exists in waltz.yaml.
+
+- id: brazil
+  tmdb_id: null
+  title: Brazil
+  year: 1985
+  runtime: 132
+  director: Terry Gilliam
+  tags:
+    opacity: 4 # a bureaucratic dystopia whose rules keep shifting, and an ending the film never confirms as real
+    stillness: 2
+    bleakness: 5
+    humor: 3
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-adventures-of-baron-munchausen
+  tmdb_id: null
+  title: The Adventures of Baron Munchausen
+  year: 1988
+  runtime: 126
+  director: Terry Gilliam
+  tags:
+    opacity: 2 # whether any of his outlandish stories actually happened is left permanently, gleefully unresolved
+    stillness: 1
+    bleakness: 1
+    humor: 4
+    acclaim: 0.72
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }

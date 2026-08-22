@@ -1,0 +1,20 @@
+# New film for John Sturges. Scales and anchors are in README.md ("The anchor
+# rubric").
+#
+# The Magnificent Seven already exists in eli-wallach.yaml. Gunfight at the O.K.
+# Corral already exists in kirk-douglas.yaml. Bad Day at Black Rock already exists in
+# spencer-tracy.yaml. The Great Escape already exists in steve-mcqueen.yaml.
+
+- id: ice-station-zebra
+  tmdb_id: null
+  title: Ice Station Zebra
+  year: 1968
+  runtime: 152
+  director: John Sturges
+  tags:
+    opacity: 3 # which of the men aboard the submarine is actually a Soviet agent stays unresolved for most of the mission
+    stillness: 3
+    bleakness: 3
+    humor: 1
+    acclaim: 0.62
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

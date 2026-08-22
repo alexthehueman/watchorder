@@ -1,0 +1,48 @@
+slug: terry-gilliam
+kind: director
+name: Terry Gilliam
+blurb: A former Monty Python animator whose live-action films kept the same manic visual imagination, aimed at bureaucratic dystopia, delusion, and the fragile line between fantasy and total mental collapse.
+
+films:
+  - film: brazil
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: A low-level bureaucrat in a paperwork-choked dystopian society escapes into elaborate flying dreams, right as a clerical error triggers a chain of terrorism accusations he has no real way to untangle.
+
+  - film: twelve-monkeys
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: A prisoner from a plague-ravaged future is sent back in time to gather information on the virus's origin, and can't get anyone in the present to believe he isn't simply delusional.
+
+  - film: the-fisher-king
+    signature: 4
+    gateway: 3
+    note: A washed-up radio shock jock, wracked with guilt over a tragedy his words indirectly caused, is pulled into helping a traumatized homeless man complete a delusional grail quest across New York.
+
+  - film: fear-and-loathing-in-las-vegas
+    signature: 4
+    gateway: 2
+    note: A journalist and his attorney descend on Las Vegas with a trunk full of drugs, nominally to cover a motorcycle race, and the assignment dissolves almost immediately into pure hallucinatory excess.
+
+  - film: the-adventures-of-baron-munchausen
+    signature: 3
+    gateway: 3
+    note: An elderly nobleman interrupts a theatrical retelling of his own legend to insist the outlandish stories are all true, and sets off with a besieged town's help to prove it.
+
+  - film: the-zero-theorem
+    signature: 2
+    gateway: 1
+    note: A reclusive, existentially exhausted computer programmer is assigned to solve an equation meant to prove whether life has any meaning at all, working from inside a decaying chapel he never leaves.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - brazil
+    - twelve-monkeys
+    - the-fisher-king
+    - fear-and-loathing-in-las-vegas
+    - the-adventures-of-baron-munchausen
+    - the-zero-theorem
