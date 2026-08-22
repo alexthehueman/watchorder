@@ -18,7 +18,12 @@
   year: 1999
   runtime: 139
   director: Anthony Minghella
-  tags: { opacity: 2, stillness: 3, bleakness: 3, humor: 2, acclaim: 0.80 }
+  tags:
+    opacity: 2
+    stillness: 2 # a con escalating in real time keeps this more propulsive than the rest of his filmography
+    bleakness: 3
+    humor: 2
+    acclaim: 0.80
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
   imdb_id: tt0134119
   poster_url: https://m.media-amazon.com/images/M/MV5BYzI2ZmU3MWMtZmRlMi00ZmVlLTkwMDMtZmI1YTg4YzcwMDE0XkEyXkFqcGc@._V1_SX300.jpg

@@ -1,0 +1,35 @@
+# New films for William A. Wellman. Scales and anchors are in README.md ("The anchor
+# rubric").
+#
+# The Ox-Bow Incident already exists in fonda-henry.yaml. The Public Enemy already
+# exists in james-cagney.yaml (also duplicated as the-public-enemy in mae-clarke.yaml;
+# this entity references the james-cagney.yaml id). The Story of G.I. Joe already
+# exists in mitchum.yaml.
+
+- id: wings
+  tmdb_id: null
+  title: Wings
+  year: 1927
+  runtime: 144
+  director: William A. Wellman
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 3
+    humor: 2
+    acclaim: 0.78
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: a-star-is-born-1937
+  tmdb_id: null
+  title: A Star Is Born
+  year: 1937
+  runtime: 111
+  director: William A. Wellman
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 4
+    humor: 2
+    acclaim: 0.75
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }

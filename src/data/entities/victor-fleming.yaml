@@ -1,0 +1,36 @@
+slug: victor-fleming
+kind: director
+name: Victor Fleming
+blurb: A studio-system journeyman who happened to direct two of the most beloved films ever made in the same single year, then spent the rest of his career proving it wasn't a fluke.
+
+films:
+  - film: the-wizard-of-oz
+    signature: 5
+    must_see: true
+    gateway: 5
+    note: A Kansas farm girl is swept by a tornado into a magical land and has to follow a road of yellow brick to find the only wizard who might be able to send her home.
+
+  - film: gone-with-the-wind
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A willful Southern belle survives the Civil War and Reconstruction through sheer stubbornness, chasing a married man she's convinced she loves while the one man who truly understands her keeps walking away.
+
+  - film: joan-of-arc-1948
+    signature: 3
+    gateway: 2
+    note: A peasant girl convinced she's been chosen by God leads the French army to a string of impossible victories, and is ultimately betrayed, tried, and executed for the same visions that made her a hero.
+
+  - film: test-pilot
+    signature: 3
+    gateway: 3
+    note: A reckless aviation test pilot marries a woman who has to learn to live with the constant possibility that the next flight he takes will be the one that kills him.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - the-wizard-of-oz
+    - gone-with-the-wind
+    - test-pilot
+    - joan-of-arc-1948

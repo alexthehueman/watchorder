@@ -1,0 +1,20 @@
+# New film for Adrian Lyne. Scales and anchors are in README.md ("The anchor
+# rubric").
+#
+# Fatal Attraction already exists in close.yaml. Deep Water already exists in
+# de-armas.yaml. Indecent Proposal already exists in demi-moore.yaml. Unfaithful
+# already exists in lane.yaml.
+
+- id: flashdance
+  tmdb_id: null
+  title: Flashdance
+  year: 1983
+  runtime: 96
+  director: Adrian Lyne
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 2
+    humor: 2
+    acclaim: 0.55
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }

@@ -1,0 +1,41 @@
+slug: william-a-wellman
+kind: director
+name: William A. Wellman
+blurb: A former WWI fighter pilot turned prolific studio-era journeyman, equally at home in aerial spectacle, gangster pictures, and unflinching accounts of American cruelty.
+
+films:
+  - film: the-public-enemy
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A poor Chicago kid rises fast through bootlegging and organized crime during Prohibition, and the film refuses to let his charm soften what that rise actually costs the people around him.
+
+  - film: wings
+    signature: 4
+    gateway: 3
+    note: Two young men in love with the same woman both enlist as fighter pilots in World War I, and their rivalry gives way to a friendship neither of them expects to survive the war.
+
+  - film: the-ox-bow-incident
+    signature: 4
+    gateway: 2
+    note: A posse forms to hunt down suspected cattle rustlers and murderers, and lynches three men before the truth about what actually happened arrives too late to matter.
+
+  - film: the-story-of-gi-joe
+    signature: 3
+    gateway: 3
+    note: A war correspondent embeds with an infantry company through the grinding, unglamorous reality of the Italian campaign, following the same soldiers from landing to eventual loss.
+
+  - film: a-star-is-born-1937
+    signature: 3
+    gateway: 3
+    note: A small-town girl's rise to Hollywood stardom happens right as the fading star who discovered and married her sees his own career collapsing under the weight of her success.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - the-public-enemy
+    - wings
+    - the-ox-bow-incident
+    - a-star-is-born-1937
+    - the-story-of-gi-joe

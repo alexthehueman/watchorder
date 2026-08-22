@@ -1,0 +1,20 @@
+# New film for Anthony Minghella. Scales and anchors are in README.md ("The anchor
+# rubric").
+#
+# Truly Madly Deeply already exists in alan-rickman.yaml. The English Patient already
+# exists in binoche.yaml. The Talented Mr. Ripley already exists in blanchett.yaml.
+# Cold Mountain already exists in jude-law.yaml.
+
+- id: breaking-and-entering
+  tmdb_id: null
+  title: Breaking and Entering
+  year: 2006
+  runtime: 119
+  director: Anthony Minghella
+  tags:
+    opacity: 2 # how much of his growing involvement with the boy's mother is guilt, attraction, or genuine care stays unresolved
+    stillness: 3
+    bleakness: 3
+    humor: 2
+    acclaim: 0.60
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }

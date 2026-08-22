@@ -1,0 +1,42 @@
+slug: anthony-minghella
+kind: director
+name: Anthony Minghella
+blurb: A prestige-drama specialist drawn to grief, disguise, and identity slipping loose from itself, working in lush, sweeping period settings that never quite let the ache underneath go quiet.
+
+films:
+  - film: the-english-patient
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: A badly burned, amnesiac patient in a WWII field hospital gradually reveals a devastating desert love affair to the nurse caring for him, one fragmented memory at a time.
+
+  - film: the-talented-mr-ripley
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A young con man sent to Italy to retrieve a wealthy heir grows so enamored with his target's charmed life that he starts, step by irreversible step, taking it for himself.
+
+  - film: cold-mountain
+    signature: 4
+    gateway: 3
+    note: A wounded Confederate deserter treks hundreds of miles home through a collapsing South to reunite with the woman he barely knew before the war took him from her.
+
+  - film: truly-madly-deeply
+    signature: 3
+    gateway: 4
+    note: A grieving woman's dead partner returns as a ghost only she can see, and she has to decide whether holding onto him is keeping her alive or keeping her from actually living.
+
+  - film: breaking-and-entering
+    signature: 2
+    gateway: 3
+    note: An architect whose office keeps getting burglarized tracks the culprit to a teenage boy, and starts an uneasy, morally compromised relationship with the boy's refugee mother instead of turning him in.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - the-english-patient
+    - the-talented-mr-ripley
+    - truly-madly-deeply
+    - cold-mountain
+    - breaking-and-entering
