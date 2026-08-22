@@ -1,0 +1,19 @@
+# New film for Wolfgang Petersen. Scales and anchors are in README.md ("The anchor
+# rubric").
+#
+# Air Force One already exists in close.yaml. The Perfect Storm already exists in
+# lane.yaml. In the Line of Fire already exists in malkovich.yaml.
+
+- id: das-boot
+  tmdb_id: null
+  title: Das Boot
+  year: 1981
+  runtime: 149
+  director: Wolfgang Petersen
+  tags:
+    opacity: 2 # a crew slowly losing their grip in a sealed steel tube, and how much of what they hear outside is real
+    stillness: 3
+    bleakness: 5
+    humor: 2
+    acclaim: 0.90
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

@@ -1,0 +1,35 @@
+slug: paul-schrader
+kind: director
+name: Paul Schrader
+blurb: A Calvinist-raised director obsessed with disciplined, solitary men keeping a private ledger of their own moral rot, journaling their way toward a reckoning the film never quite lets them escape.
+
+films:
+  - film: first-reformed
+    signature: 5
+    must_see: true
+    gateway: 1
+    note: A small-town pastor's crisis of faith deepens after counseling a despairing environmental activist, and the film ends on an image it deliberately refuses to explain.
+
+  - film: american-gigolo
+    signature: 4
+    gateway: 3
+    note: A high-end male escort catering to wealthy Beverly Hills clients is framed for a murder he didn't commit, and has to figure out who set him up before his carefully curated life collapses entirely.
+
+  - film: the-card-counter
+    signature: 4
+    gateway: 2
+    note: A disciplined former military interrogator now grinding out a living at poker tables takes a troubled young man under his wing, planning one final act of reckoning with the men who trained him to torture.
+
+  - film: master-gardener
+    signature: 3
+    gateway: 2
+    note: A meticulous horticulturist with a violent, hidden past agrees to mentor his wealthy patron's troubled grandniece, and the arrangement starts forcing the past back to the surface.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - first-reformed
+    - american-gigolo
+    - the-card-counter
+    - master-gardener

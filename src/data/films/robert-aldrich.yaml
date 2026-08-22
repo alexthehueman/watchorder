@@ -1,0 +1,34 @@
+# New films for Robert Aldrich. Scales and anchors are in README.md ("The anchor
+# rubric").
+#
+# What Ever Happened to Baby Jane? already exists in davis.yaml (also duplicated as
+# whatever-happened-to-baby-jane in joan-crawford.yaml; this entity references the
+# davis.yaml id). The Longest Yard already exists in burt-reynolds.yaml.
+
+- id: kiss-me-deadly
+  tmdb_id: null
+  title: Kiss Me Deadly
+  year: 1955
+  runtime: 106
+  director: Robert Aldrich
+  tags:
+    opacity: 4 # a mysterious locked box everyone is chasing that the film withholds the true, apocalyptic contents of until the last minutes
+    stillness: 2
+    bleakness: 5
+    humor: 1
+    acclaim: 0.82
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+
+- id: the-dirty-dozen
+  tmdb_id: null
+  title: The Dirty Dozen
+  year: 1967
+  runtime: 150
+  director: Robert Aldrich
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 4
+    humor: 2
+    acclaim: 0.80
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }

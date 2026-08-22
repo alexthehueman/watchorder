@@ -1,0 +1,19 @@
+# New film for Vincente Minnelli. Scales and anchors are in README.md ("The anchor
+# rubric").
+#
+# Meet Me in St. Louis, An American in Paris, and The Band Wagon already exist in
+# mgm.yaml.
+
+- id: some-came-running
+  tmdb_id: null
+  title: Some Came Running
+  year: 1958
+  runtime: 137
+  director: Vincente Minnelli
+  tags:
+    opacity: 2 # a returning soldier's actual intentions toward the two women in his life stay genuinely undecided for most of the film
+    stillness: 3
+    bleakness: 4
+    humor: 1
+    acclaim: 0.72
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }

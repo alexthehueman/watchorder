@@ -1,0 +1,35 @@
+slug: wolfgang-petersen
+kind: director
+name: Wolfgang Petersen
+blurb: A German war-film master who moved to Hollywood and kept the same instinct — put ordinary people under total, sustained physical pressure and watch exactly how they hold up.
+
+films:
+  - film: das-boot
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: A German U-boat crew during World War II endures months of claustrophobic depth-charge attacks and dwindling supplies, the war reduced to whether their steel hull can survive one more strike.
+
+  - film: in-the-line-of-fire
+    signature: 4
+    gateway: 3
+    note: A Secret Service agent still haunted by failing to stop JFK's assassination becomes the personal target of a meticulous would-be presidential assassin who wants him watching.
+
+  - film: the-perfect-storm
+    signature: 3
+    gateway: 3
+    note: A commercial fishing crew pushes further out to sea for one last big catch, right as three separate weather systems converge into a storm none of the era's forecasting equipment saw coming.
+
+  - film: air-force-one
+    signature: 3
+    gateway: 4
+    note: Russian nationalist terrorists hijack the presidential plane mid-flight, and the president, a former soldier, has to fight back from inside his own aircraft to save his family and crew.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - das-boot
+    - in-the-line-of-fire
+    - air-force-one
+    - the-perfect-storm

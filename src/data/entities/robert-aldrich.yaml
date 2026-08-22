@@ -1,0 +1,35 @@
+slug: robert-aldrich
+kind: director
+name: Robert Aldrich
+blurb: A director drawn to closed groups under extreme pressure — soldiers, has-been actresses, doomed private eyes — pushed toward whatever grotesque or violent endpoint the genre would normally soften.
+
+films:
+  - film: what-ever-happened-to-baby-jane
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A former child star and her wheelchair-bound sister, once a genuine film actress, live out a decaying, mutually resentful old age together in one Los Angeles mansion that turns steadily more disturbing.
+
+  - film: kiss-me-deadly
+    signature: 5
+    gateway: 1
+    note: A brutish private detective picks up a hitchhiker fleeing a mental institution, and her murder pulls him into a hunt for a mysterious locked box that everyone involved is willing to kill for.
+
+  - film: the-dirty-dozen
+    signature: 4
+    gateway: 3
+    note: A maverick army officer trains twelve convicted military prisoners for a suicide mission behind enemy lines, offering them a pardon if any of them survive it.
+
+  - film: the-longest-yard
+    signature: 3
+    gateway: 4
+    note: A disgraced former pro quarterback serving time in prison is pressured into organizing a football game between the inmates and the guards, and turns it into a genuine act of rebellion.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - what-ever-happened-to-baby-jane
+    - kiss-me-deadly
+    - the-dirty-dozen
+    - the-longest-yard

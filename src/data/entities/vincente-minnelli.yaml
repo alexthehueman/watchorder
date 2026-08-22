@@ -1,0 +1,36 @@
+slug: vincente-minnelli
+kind: director
+name: Vincente Minnelli
+blurb: MGM's reigning stylist of color and movement, equally gifted directing the studio's biggest musical spectacles and the quieter melodramas underneath the same glossy house style.
+
+films:
+  - film: an-american-in-paris
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: An American painter living in postwar Paris falls for a young Frenchwoman already secretly engaged to the man who saved her during the war, all building to an extended, wordless ballet through the city.
+
+  - film: meet-me-in-st-louis
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A close-knit St. Louis family spends a year of seasons anticipating the 1904 World's Fair, right as their father announces a job transfer that would move them all to New York.
+
+  - film: the-band-wagon
+    signature: 4
+    gateway: 4
+    note: A washed-up movie musical star agrees to headline a Broadway comeback, only for the show's pretentious director to turn it into an overwrought modern retelling of Faust that nobody in the cast actually wants to perform.
+
+  - film: some-came-running
+    signature: 3
+    gateway: 2
+    note: A disillusioned army veteran and aspiring writer returns to his small Indiana hometown, torn between a respectable schoolteacher and the devoted, unglamorous woman who followed him home from his last stop.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - an-american-in-paris
+    - meet-me-in-st-louis
+    - the-band-wagon
+    - some-came-running
