@@ -1,0 +1,34 @@
+# New films for Richard Donner. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Superman already exists in brando.yaml (also duplicated in hackman.yaml as
+# superman-hackman; this entity references the brando.yaml id). Maverick already
+# exists in foster.yaml. Lethal Weapon already exists in mel-gibson.yaml. Scrooged
+# already exists in murray.yaml.
+
+- id: the-omen-1976
+  tmdb_id: null
+  title: The Omen
+  year: 1976
+  runtime: 111
+  director: Richard Donner
+  tags:
+    opacity: 3 # whether the boy is truly the antichrist or his father's paranoia is inventing a monster stays deliberately unresolved for most of the film
+    stillness: 2
+    bleakness: 5
+    humor: 1
+    acclaim: 0.75
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: true, violence: 3, sex: 0 }
+
+- id: the-goonies
+  tmdb_id: null
+  title: The Goonies
+  year: 1985
+  runtime: 114
+  director: Richard Donner
+  tags:
+    opacity: 2 # the treasure map's riddles, and whether the family upstairs is actually as dangerous as they seem, stay unresolved deep into the search
+    stillness: 1
+    bleakness: 1
+    humor: 3
+    acclaim: 0.72
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }

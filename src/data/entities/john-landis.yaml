@@ -1,0 +1,48 @@
+slug: john-landis
+kind: director
+name: John Landis
+blurb: A comedy specialist from the anarchic late-'70s and '80s who built his reputation on total tonal confidence — sketch-fast gags, real music, and, once, a horror film that never stops being funny while it's scaring you.
+
+films:
+  - film: the-blues-brothers
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: Two brothers reunite a soul band for one last show to save the Catholic orphanage that raised them, triggering a city-wide chase involving Nazis, a mystery woman, and every police car in Chicago.
+
+  - film: an-american-werewolf-in-london
+    signature: 4
+    must_see: true
+    gateway: 3
+    note: A backpacker survives an animal attack on the English moors that killed his best friend, and starts getting visited by his friend's increasingly decayed ghost warning him what he's about to become.
+
+  - film: trading-places
+    signature: 4
+    gateway: 4
+    note: Two wealthy brothers make a bet that they can ruin a rising commodities broker and turn a street hustler into a success just by swapping their circumstances, with neither man aware he's part of an experiment.
+
+  - film: coming-to-america
+    signature: 4
+    gateway: 4
+    note: An African prince travels incognito to Queens to find a wife who'll love him for who he is rather than his title, and takes a minimum-wage job to keep the disguise convincing.
+
+  - film: three-amigos
+    signature: 3
+    gateway: 3
+    note: Three washed-up silent-film stars are hired by a Mexican village to scare off a real bandit, mistakenly believing the job is just another performance.
+
+  - film: spies-like-us
+    signature: 2
+    gateway: 2
+    note: Two incompetent government employees are deliberately chosen to fail a covert mission, unaware they've been set up as decoys for the operation that actually matters.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - the-blues-brothers
+    - trading-places
+    - an-american-werewolf-in-london
+    - coming-to-america
+    - three-amigos
+    - spies-like-us

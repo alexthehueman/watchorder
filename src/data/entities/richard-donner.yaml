@@ -1,0 +1,48 @@
+slug: richard-donner
+kind: director
+name: Richard Donner
+blurb: A journeyman blockbuster director who kept proving genre pictures could still have a heart — comic-book earnestness, buddy-cop chemistry, and one properly terrifying horror film along the way.
+
+films:
+  - film: superman-1978
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A baby sent to Earth from a dying planet grows up to become the world's first superhero, and has to decide how visibly to use his powers without losing the human life he's built alongside them.
+
+  - film: lethal-weapon
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A strait-laced, about-to-retire detective gets partnered with a reckless, suicidal narcotics cop, and the two have to learn to trust each other fast once their case turns into something much bigger.
+
+  - film: the-omen-1976
+    signature: 4
+    gateway: 2
+    note: A diplomat's adopted son survives an unnerving string of deaths around him, and his father has to decide whether to believe the mounting evidence that his son isn't what he seems.
+
+  - film: the-goonies
+    signature: 3
+    gateway: 4
+    note: A group of kids facing the foreclosure of their neighborhood find an old treasure map in an attic and set off on one last adventure to save their homes, with an escaped family of criminals on their trail.
+
+  - film: maverick
+    signature: 3
+    gateway: 4
+    note: A charming gambler cons, bluffs, and negotiates his way toward the entry fee for the biggest poker tournament of his life, teaming up with a lawman and a fellow con artist along the way.
+
+  - film: scrooged
+    signature: 2
+    gateway: 3
+    note: A cold, ratings-obsessed TV executive is visited by three ghosts on Christmas Eve determined to talk him out of the callous life he's built for himself, right before he broadcasts his network's live Scrooge special.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - superman-1978
+    - lethal-weapon
+    - the-goonies
+    - maverick
+    - scrooged
+    - the-omen-1976

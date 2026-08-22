@@ -1,0 +1,61 @@
+# New films for Harold Ramis. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Analyze This already exists in billy-crystal.yaml. Bedazzled already exists in
+# brendan-fraser.yaml. National Lampoon's Vacation already exists in chevy-chase.yaml.
+# Caddyshack and Groundhog Day already exist in murray.yaml.
+
+- id: multiplicity
+  tmdb_id: null
+  title: Multiplicity
+  year: 1996
+  runtime: 117
+  director: Harold Ramis
+  tags:
+    opacity: 2 # each new clone drifts further from the original, and which of them is "really" him gets genuinely harder to say
+    stillness: 2
+    bleakness: 1
+    humor: 4
+    acclaim: 0.48
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: year-one
+  tmdb_id: null
+  title: Year One
+  year: 2009
+  runtime: 97
+  director: Harold Ramis
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 1
+    humor: 3
+    acclaim: 0.25
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: stuart-saves-his-family
+  tmdb_id: null
+  title: Stuart Saves His Family
+  year: 1995
+  runtime: 97
+  director: Harold Ramis
+  tags:
+    opacity: 1
+    stillness: 3
+    bleakness: 3
+    humor: 2
+    acclaim: 0.42
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-ice-harvest
+  tmdb_id: null
+  title: The Ice Harvest
+  year: 2005
+  runtime: 89
+  director: Harold Ramis
+  tags:
+    opacity: 3 # a lawyer spends Christmas Eve trying to skip town with stolen mob money, and who's actually double-crossing whom stays unsettled until the last act
+    stillness: 2
+    bleakness: 4
+    humor: 2
+    acclaim: 0.58
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }

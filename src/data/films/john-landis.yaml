@@ -1,0 +1,19 @@
+# New film for John Landis. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Trading Places already exists in curtis.yaml. The Blues Brothers and Spies Like Us
+# already exist in dan-aykroyd.yaml. Coming to America already exists in
+# eddie-murphy.yaml. Three Amigos already exists in steve-martin.yaml.
+
+- id: an-american-werewolf-in-london
+  tmdb_id: null
+  title: An American Werewolf in London
+  year: 1981
+  runtime: 97
+  director: John Landis
+  tags:
+    opacity: 2 # exactly what the curse requires to end, and whether his dead friend's warnings can even be trusted, stays unresolved
+    stillness: 2
+    bleakness: 4
+    humor: 3
+    acclaim: 0.75
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }

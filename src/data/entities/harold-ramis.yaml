@@ -1,0 +1,66 @@
+slug: harold-ramis
+kind: director
+name: Harold Ramis
+blurb: A National Lampoon and SCTV alumnus who became one of American comedy's most reliable directors, threading real melancholy and structural cleverness through what could have just been broad studio comedies.
+
+films:
+  - film: groundhog-day
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A cynical weatherman is stuck reliving the same small-town day over and over, and has to figure out — through sheer repetition — what kind of person he'd actually have to become to escape it.
+
+  - film: caddyshack
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A working-class caddy tries to win a college scholarship at a snobbish country club overrun by a gopher no one can catch, a slobbish new-money member, and a burned-out greenskeeper waging his own private war.
+
+  - film: national-lampoons-vacation
+    signature: 4
+    gateway: 5
+    note: A relentlessly upbeat father drags his family on a cross-country road trip to a theme park, and every single thing that could go wrong along the way does.
+
+  - film: the-ice-harvest
+    signature: 3
+    gateway: 2
+    note: A mob lawyer and his partner steal over a million dollars from their boss on Christmas Eve, and spend the rest of the night trying to actually get out of town with it while everyone they know gets more suspicious.
+
+  - film: analyze-this
+    signature: 3
+    gateway: 3
+    note: A stressed-out mob boss starts seeing a psychiatrist right before a sit-down with New York's other families, and the therapist gets pulled deeper into his patient's world than any doctor-patient relationship should allow.
+
+  - film: multiplicity
+    signature: 3
+    gateway: 3
+    note: An overworked man has himself cloned to free up more time for his job, his family, and himself, and each successive copy of him comes out a little more degraded than the last.
+
+  - film: bedazzled
+    signature: 2
+    gateway: 3
+    note: A hopeless nobody sells his soul to the devil for seven wishes meant to win over his coworker crush, and each wish gets granted in some cruelly literal way that ruins it.
+
+  - film: year-one
+    signature: 1
+    gateway: 2
+    note: Two exiled hunter-gatherers stumble through a string of Old Testament episodes on their way toward a walled city, with no idea how much danger they're wandering into at each stop.
+
+  - film: stuart-saves-his-family
+    signature: 2
+    gateway: 1
+    note: A self-help TV host tries to apply his own on-air advice to an actual family reunion, and finds that his relatives' dysfunction doesn't resolve nearly as neatly as it does on his show.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - groundhog-day
+    - caddyshack
+    - national-lampoons-vacation
+    - analyze-this
+    - bedazzled
+    - multiplicity
+    - the-ice-harvest
+    - year-one
+    - stuart-saves-his-family
