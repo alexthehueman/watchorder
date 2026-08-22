@@ -1,0 +1,19 @@
+# New film for Paul Verhoeven. Scales and anchors are in README.md ("The anchor
+# rubric").
+#
+# Total Recall already exists in arnold-schwarzenegger.yaml. RoboCop already exists in
+# kurtwood-smith.yaml. Basic Instinct already exists in michael-douglas.yaml.
+
+- id: starship-troopers
+  tmdb_id: null
+  title: Starship Troopers
+  year: 1997
+  runtime: 129
+  director: Paul Verhoeven
+  tags:
+    opacity: 2 # a militaristic recruitment-film pastiche the movie never breaks character to explain is satire
+    stillness: 1
+    bleakness: 3
+    humor: 3
+    acclaim: 0.68
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }

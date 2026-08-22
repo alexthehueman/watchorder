@@ -1,0 +1,41 @@
+slug: shawn-levy
+kind: director
+name: Shawn Levy
+blurb: A high-concept crowd-pleaser specialist who built a career on broad studio comedy before finding a second life directing star-driven blockbusters with the same unpretentious, audience-first instinct.
+
+films:
+  - film: deadpool-and-wolverine
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A washed-up, multiverse-hopping Deadpool is recruited by a shadowy organization to find a variant capable of saving his own dying timeline, and drags a reluctant Wolverine along for the ride.
+
+  - film: free-guy
+    signature: 4
+    gateway: 4
+    note: A background character in an open-world video game becomes self-aware and starts acting like the hero of his own story, right as the game's creators plan to shut the whole thing down.
+
+  - film: night-at-the-museum
+    signature: 4
+    gateway: 5
+    note: A struggling divorced dad takes a night security job at a natural history museum, only to discover every exhibit comes to life after dark, and he's responsible for keeping all of it under control until morning.
+
+  - film: date-night
+    signature: 3
+    gateway: 4
+    note: A bored married couple's attempt to spice up their routine with a night out at a trendy restaurant spirals into a genuine crime-thriller mix-up after they take another couple's dinner reservation.
+
+  - film: this-is-where-i-leave-you
+    signature: 2
+    gateway: 3
+    note: Four adult siblings are forced to move back into their childhood home for a week of mourning after their father's death, and every old family resentment resurfaces under one roof.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - night-at-the-museum
+    - free-guy
+    - deadpool-and-wolverine
+    - date-night
+    - this-is-where-i-leave-you

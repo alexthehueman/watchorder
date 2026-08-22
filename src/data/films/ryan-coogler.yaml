@@ -1,0 +1,19 @@
+# New film for Ryan Coogler. Scales and anchors are in README.md ("The anchor
+# rubric").
+#
+# Fruitvale Station, Creed, and Black Panther already exist in
+# michael-b-jordan.yaml. Black Panther: Wakanda Forever already exists in nyongo.yaml.
+
+- id: sinners
+  tmdb_id: null
+  title: Sinners
+  year: 2025
+  runtime: 137
+  director: Ryan Coogler
+  tags:
+    opacity: 3 # what's actually stalking the juke joint, and how much of it is genuine supernatural evil versus metaphor, stays deliberately unresolved for most of the film
+    stillness: 2
+    bleakness: 4
+    humor: 2
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }

@@ -1,0 +1,42 @@
+slug: ryan-coogler
+kind: director
+name: Ryan Coogler
+blurb: A director who moves between intimate social-realist tragedy and massive studio spectacle without losing the same core interest — Black legacy, inheritance, and what's owed to the people who came before you.
+
+films:
+  - film: black-panther
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: The new king of a secretly advanced African nation must defend his throne and his country's isolationist legacy against a challenger with a legitimate, painful claim to both the crown and a different vision for its future.
+
+  - film: fruitvale-station
+    signature: 5
+    must_see: true
+    gateway: 1
+    note: The final day in the life of Oscar Grant, a young father shot by transit police in Oakland, is reconstructed hour by hour, building an unbearable dramatic irony into every ordinary thing he does.
+
+  - film: sinners
+    signature: 4
+    gateway: 2
+    note: Twin brothers open a juke joint in 1930s Mississippi Delta, and the opening night's celebration is disrupted by a supernatural threat that feeds on exactly the kind of joy and music they built the place to hold.
+
+  - film: creed
+    signature: 4
+    gateway: 4
+    note: The son of Apollo Creed, determined to build his own boxing career outside his father's shadow, convinces a reluctant Rocky Balboa to train him for a shot at the world title.
+
+  - film: black-panther-wakanda-forever
+    signature: 3
+    gateway: 3
+    note: Wakanda's royal family and allies mourn their king's death while a hidden underwater civilization, provoked by outside interference, emerges to threaten the nation just as it's at its most vulnerable.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - black-panther
+    - fruitvale-station
+    - creed
+    - sinners
+    - black-panther-wakanda-forever

@@ -1,0 +1,20 @@
+# New film for Shawn Levy. Scales and anchors are in README.md ("The anchor
+# rubric").
+#
+# Deadpool and Wolverine already exists in corrin.yaml. Date Night already exists in
+# fey.yaml. Free Guy already exists in reynolds.yaml. Night at the Museum already
+# exists in stiller.yaml.
+
+- id: this-is-where-i-leave-you
+  tmdb_id: null
+  title: This Is Where I Leave You
+  year: 2014
+  runtime: 103
+  director: Shawn Levy
+  tags:
+    opacity: 1
+    stillness: 3
+    bleakness: 3
+    humor: 3
+    acclaim: 0.60
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }

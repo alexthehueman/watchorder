@@ -1,0 +1,42 @@
+slug: james-mangold
+kind: director
+name: James Mangold
+blurb: A restless studio journeyman who's made a real western, a real musical biopic, and a real superhero elegy, treating each genre with total sincerity rather than reflexive irony.
+
+films:
+  - film: logan
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: An aging, ailing Wolverine reluctantly agrees to transport a young mutant girl with powers eerily like his own across a near-future America hunting down the last of their kind.
+
+  - film: walk-the-line
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: Johnny Cash's rise from a hardscrabble childhood through addiction and a decades-long pursuit of June Carter is told as much through the music as the biography.
+
+  - film: girl-interrupted
+    signature: 4
+    gateway: 3
+    note: A troubled teenager committed to a psychiatric hospital in the late 1960s befriends a charismatic, dangerous fellow patient, and the two push each other toward very different outcomes.
+
+  - film: cop-land
+    signature: 4
+    gateway: 3
+    note: A hearing-impaired small-town sheriff, largely dismissed by the corrupt NYPD officers who live in his town, uncovers a cover-up that finally forces him to prove he's capable of real police work.
+
+  - film: kate-and-leopold
+    signature: 2
+    gateway: 4
+    note: A 19th-century duke accidentally travels through a time portal into modern New York City, and falls for the ambitious career woman renting the apartment in his old family home.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - logan
+    - walk-the-line
+    - cop-land
+    - girl-interrupted
+    - kate-and-leopold

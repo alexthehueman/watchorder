@@ -1,0 +1,36 @@
+slug: paul-verhoeven
+kind: director
+name: Paul Verhoeven
+blurb: A Dutch provocateur who smuggled genuinely biting satire into glossy, ultraviolent Hollywood spectacle, betting American audiences would take the surface at face value while the film mocked exactly that instinct.
+
+films:
+  - film: robocop
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A Detroit police officer is rebuilt as a corporate-owned cyborg after being gunned down by criminals, and has to reclaim fragments of his own suppressed humanity while cleaning up the city that killed him.
+
+  - film: total-recall
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A construction worker buys a virtual vacation memory of being a secret agent on Mars, and can't tell afterward whether the resulting spy conspiracy chasing him is real or the implant malfunctioning.
+
+  - film: starship-troopers
+    signature: 4
+    gateway: 2
+    note: Idealistic young recruits enlist to fight a genocidal interstellar war against giant alien bugs, and the film plays the propaganda completely straight while quietly daring you to notice it's propaganda.
+
+  - film: basic-instinct
+    signature: 3
+    gateway: 2
+    note: A homicide detective investigating a brutal murder becomes dangerously entangled with the primary suspect, a novelist whose own book predicted the killing in exact detail.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - robocop
+    - total-recall
+    - starship-troopers
+    - basic-instinct
