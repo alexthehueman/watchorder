@@ -1,0 +1,54 @@
+slug: james-gunn
+kind: director
+name: James Gunn
+blurb: Genuine sincerity smuggled inside comic-book irreverence, built around found families of misfits who mean every dumb joke and every real feeling at once.
+
+films:
+  - film: guardians-of-the-galaxy
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A small-time thief steals a mysterious orb and ends up recruiting a ragtag crew of criminals to keep it out of the hands of a fanatic who wants to use it to destroy a planet.
+
+  - film: guardians-of-the-galaxy-vol-3
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: The crew races to save one of their own from the geneticist who created him, and the mission forces the team to finally reckon with everything that made them who they are.
+
+  - film: superman-2025
+    signature: 3
+    gateway: 4
+    note: A journalist balancing his double life as the world's most powerful being has to stop Lex Luthor's latest scheme while figuring out where he actually belongs among the people he protects.
+
+  - film: the-suicide-squad
+    signature: 4
+    gateway: 4
+    note: A team of expendable supervillains is sent on a black-ops mission to a hostile island nation, with every one of them fully aware the mission is designed to kill most of them.
+
+  - film: guardians-of-the-galaxy-vol-2
+    signature: 4
+    gateway: 1
+    note: The crew gets pulled into a conflict with a powerful being claiming to be one of their own father, right as old tensions within the team start resurfacing.
+
+  - film: super
+    signature: 2
+    gateway: 2
+    note: A short-order cook whose wife left him for a drug dealer decides to become a masked vigilante, and his crusade against crime gets a lot more disturbing than the costume suggests.
+
+  - film: slither
+    signature: 2
+    gateway: 3
+    note: A small town gets overrun by a parasitic alien organism that turns its infected hosts into something between zombies and monsters, and the local sheriff has to figure out how to stop it spreading.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - guardians-of-the-galaxy
+    - guardians-of-the-galaxy-vol-3
+    - superman-2025
+    - the-suicide-squad
+    - guardians-of-the-galaxy-vol-2
+    - super
+    - slither

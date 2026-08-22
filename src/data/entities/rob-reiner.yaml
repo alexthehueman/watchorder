@@ -1,0 +1,66 @@
+slug: rob-reiner
+kind: director
+name: Rob Reiner
+blurb: Genre-hopping crowd-pleaser range — fairy tale, courtroom drama, psychological horror, the rom-com that defined the form — united by a total lack of cynicism about any of it.
+
+films:
+  - film: the-princess-bride
+    signature: 5
+    must_see: true
+    gateway: 5
+    note: A farmhand-turned-pirate has to rescue his true love from an arranged marriage to a scheming prince, fighting his way past a giant, a swordsman, and a Sicilian along the way.
+
+  - film: when-harry-met-sally
+    signature: 5
+    must_see: true
+    gateway: 5
+    note: Two people who can't stand each other on a cross-country drive keep running into one another over the next decade, arguing the whole time about whether men and women can really just be friends.
+
+  - film: stand-by-me
+    signature: 4
+    gateway: 3
+    note: Four twelve-year-old boys set out on a two-day hike to find the body of a missing kid, and the trip becomes the last real adventure of their childhood together.
+
+  - film: a-few-good-men
+    signature: 4
+    gateway: 4
+    note: A Navy lawyer defending two Marines accused of murder uncovers a code of command responsibility that goes a lot higher up than anyone wants him digging into.
+
+  - film: misery
+    signature: 3
+    gateway: 2
+    note: A novelist rescued from a car crash by his self-proclaimed biggest fan realizes, once he's snowed in and immobile at her isolated house, exactly how far her devotion goes.
+
+  - film: the-american-president
+    signature: 2
+    gateway: 3
+    note: A widowed president falls for a lobbyist working the opposite side of an issue from him, and has to decide how much of his approval rating he's willing to spend on being seen with her.
+
+  - film: the-bucket-list
+    signature: 2
+    gateway: 4
+    note: Two terminally ill strangers who meet in the same hospital room decide to spend whatever time they have left checking off a list of things they always meant to do.
+
+  - film: this-is-spinal-tap
+    signature: 3
+    gateway: 3
+    note: A fictional British hard rock band gets followed by a documentary crew through a disastrous, dwindling American tour, and never once seems to notice how badly it's going.
+
+  - film: ghosts-of-mississippi
+    signature: 2
+    gateway: 2
+    note: A prosecutor reopens the decades-old murder case of civil rights leader Medgar Evers, chasing down witnesses and evidence that a first, all-white jury conveniently never saw.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - the-princess-bride
+    - when-harry-met-sally
+    - stand-by-me
+    - a-few-good-men
+    - misery
+    - the-american-president
+    - the-bucket-list
+    - this-is-spinal-tap
+    - ghosts-of-mississippi

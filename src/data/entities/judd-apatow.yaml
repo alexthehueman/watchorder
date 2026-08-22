@@ -1,0 +1,48 @@
+slug: judd-apatow
+kind: director
+name: Judd Apatow
+blurb: R-rated comedies that run long, improvise heavily, and keep circling real anxiety about adulthood — commitment, parenthood, mortality — underneath the raunch.
+
+films:
+  - film: the-40-year-old-virgin
+    signature: 5
+    must_see: true
+    gateway: 5
+    note: A middle-aged electronics store employee's coworkers find out he's never had sex and take it upon themselves to fix that for him, whether he actually wants the help or not.
+
+  - film: knocked-up
+    signature: 5
+    must_see: true
+    gateway: 5
+    note: A one-night stand between a slacker and a rising entertainment reporter results in a pregnancy neither of them planned, and forces both of them to figure out who they actually are.
+
+  - film: trainwreck
+    signature: 3
+    gateway: 4
+    note: A commitment-averse magazine writer who's never had a relationship last starts falling for the sports doctor she was only supposed to be profiling.
+
+  - film: funny-people
+    signature: 3
+    gateway: 2
+    note: A famous but lonely comedian diagnosed with a rare illness hires a struggling young comic as his assistant and joke writer, and starts trying to repair the relationships he's neglected.
+
+  - film: the-king-of-staten-island
+    signature: 2
+    gateway: 3
+    note: A tattoo artist still adrift years after his firefighter father's death struggles to grow up, especially once his mother starts dating a firefighter of her own.
+
+  - film: this-is-40
+    signature: 2
+    gateway: 2
+    note: A married couple both turning forty in the same week deal with money trouble, aging parents, and a marriage that's comfortable right up until it very much isn't.
+
+curated:
+  curator: house
+  rationale: The two films that define the reputation, then the range around them.
+  order:
+    - the-40-year-old-virgin
+    - knocked-up
+    - trainwreck
+    - funny-people
+    - the-king-of-staten-island
+    - this-is-40

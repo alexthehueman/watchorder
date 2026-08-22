@@ -1,0 +1,34 @@
+# New films for James Gunn. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Guardians of the Galaxy Vol. 2 and Vol. 3 already exist in debicki.yaml and
+# dave-bautista.yaml. The Suicide Squad already exists in elba.yaml. Slither already
+# exists in elizabeth-banks.yaml. Guardians of the Galaxy already exists in
+# saldana.yaml. All five were stillness 1 flat across the board; Super breaks the tie.
+
+- id: super
+  tmdb_id: null
+  title: Super
+  year: 2010
+  runtime: 96
+  director: James Gunn
+  tags:
+    opacity: 3 # whether he's a genuine hero or a delusional, dangerous vigilante is the film's whole unresolved question
+    stillness: 2 # a much more restrained, character-driven register than his blockbuster work
+    bleakness: 4
+    humor: 2
+    acclaim: 0.62
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+
+- id: superman-2025
+  tmdb_id: null
+  title: Superman
+  year: 2025
+  runtime: 130
+  director: James Gunn
+  tags:
+    opacity: 2 # Luthor's actual endgame stays withheld for most of the film's runtime
+    stillness: 2
+    bleakness: 2
+    humor: 3
+    acclaim: 0.75
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

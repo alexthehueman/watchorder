@@ -1,0 +1,58 @@
+# New films for Rob Reiner. Scales and anchors are in README.md ("The anchor rubric").
+#
+# When Harry Met Sally... already exists in billy-crystal.yaml. The American President
+# already exists in michael-j-fox.yaml. The Bucket List already exists in
+# morgan-freeman.yaml. A Few Good Men already exists in nicholson.yaml. The Princess
+# Bride already exists in peter-falk.yaml. All five were stillness 2 flat across the
+# board; Stand by Me and Misery break the tie.
+
+- id: stand-by-me
+  tmdb_id: null
+  title: Stand by Me
+  year: 1986
+  runtime: 89
+  director: Rob Reiner
+  tags:
+    opacity: 2 # filtered through an adult narrator's memory of a trip that changed more than it seemed to at the time
+    stillness: 3
+    bleakness: 4
+    humor: 3
+    acclaim: 0.90
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: misery
+  tmdb_id: null
+  title: Misery
+  year: 1990
+  runtime: 107
+  director: Rob Reiner
+  tags:
+    opacity: 3 # exactly how far she's willing to go stays genuinely unclear until she's already done it
+    stillness: 2
+    bleakness: 5
+    humor: 1
+    acclaim: 0.82
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: this-is-spinal-tap
+  tmdb_id: null
+  title: This Is Spinal Tap
+  year: 1984
+  runtime: 82
+  director: Rob Reiner
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 5, acclaim: 0.88 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: ghosts-of-mississippi
+  tmdb_id: null
+  title: Ghosts of Mississippi
+  year: 1996
+  runtime: 130
+  director: Rob Reiner
+  tags:
+    opacity: 2 # reconstructing a thirty-year-old murder case means real, unresolved gaps in the buried evidence
+    stillness: 3
+    bleakness: 4
+    humor: 1
+    acclaim: 0.62
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }

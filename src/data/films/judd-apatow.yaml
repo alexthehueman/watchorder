@@ -1,0 +1,14 @@
+# New film for Judd Apatow. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Funny People already exists in adam-sandler.yaml. The 40 Year Old Virgin already
+# exists in carell.yaml. Trainwreck already exists in hader.yaml. Knocked Up already
+# exists in rogen.yaml. This Is 40 already exists in rudd.yaml.
+
+- id: the-king-of-staten-island
+  tmdb_id: null
+  title: The King of Staten Island
+  year: 2020
+  runtime: 137
+  director: Judd Apatow
+  tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 3, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
