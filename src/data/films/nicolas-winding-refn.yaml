@@ -5,7 +5,7 @@
 # Bronson already exists in hardy.yaml.
 
 - id: only-god-forgives
-  tmdb_id: null
+  tmdb_id: 77987
   title: Only God Forgives
   year: 2013
   runtime: 90
@@ -17,3 +17,5 @@
     humor: 1
     acclaim: 0.52
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+  letterboxd_slug: only-god-forgives
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/xr/g3/fv/2v/image-1200-1200-675-675-crop-000000.jpg?v=87e943c3c2

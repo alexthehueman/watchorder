@@ -4,16 +4,18 @@
 # Speed already exists in bullock.yaml.
 
 - id: the-squid-and-the-whale
-  tmdb_id: null
+  tmdb_id: 10707
   title: The Squid and the Whale
   year: 2005
   runtime: 81
   director: Noah Baumbach
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 3, acclaim: 0.82 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: the-squid-and-the-whale
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/kb/no/pz/ks/squid-and-whale-1200-1200-675-675-crop-000000.jpg?v=2468f3fdff
 
 - id: gettysburg
-  tmdb_id: null
+  tmdb_id: 10655
   title: Gettysburg
   year: 1993
   runtime: 271
@@ -25,3 +27,5 @@
     humor: 1
     acclaim: 0.72
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: gettysburg
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/v8/6e/sm/zc/ikwP1BTRHlqula7bbPtT7Hk0Fkq-1200-1200-675-675-crop-000000.jpg?v=da30b9675f

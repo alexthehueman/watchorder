@@ -5,7 +5,7 @@
 # mitchum.yaml. Anatomy of a Murder already exists in stewart.yaml.
 
 - id: laura
-  tmdb_id: null
+  tmdb_id: 1939
   title: Laura
   year: 1944
   runtime: 88
@@ -17,3 +17,5 @@
     humor: 2
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: laura
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/qg/9e/2t/t2/laura-1200-1200-675-675-crop-000000.jpg?v=9f689d18bd

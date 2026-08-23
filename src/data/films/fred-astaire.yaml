@@ -3,7 +3,7 @@
 # You Were Never Lovelier already exists in rita-hayworth.yaml — tagged before he had an entity.
 
 - id: top-hat
-  tmdb_id: null
+  tmdb_id: 3080
   title: Top Hat
   year: 1935
   runtime: 101
@@ -15,9 +15,11 @@
     humor: 4
     acclaim: 0.82
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: top-hat
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/9a/6s/bn/ht/top%20hat-1200-1200-675-675-crop-000000.jpg?v=4c763c10e3
 
 - id: swing-time
-  tmdb_id: null
+  tmdb_id: 20325
   title: Swing Time
   year: 1936
   runtime: 103
@@ -29,3 +31,5 @@
     humor: 3
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: swing-time
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/fr/iu/5g/20/swingtime-1200-1200-675-675-crop-000000.jpg?v=97cc79e476

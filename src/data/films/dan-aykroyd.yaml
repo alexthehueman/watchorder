@@ -4,16 +4,18 @@
 # Trading Places already exists in curtis.yaml.
 
 - id: the-blues-brothers
-  tmdb_id: null
+  tmdb_id: 525
   title: The Blues Brothers
   year: 1980
   runtime: 148
   director: John Landis
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 5, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: the-blues-brothers
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ul/fz/rt/sp/blues-brothers-1200-1200-675-675-crop-000000.jpg?v=5c2cef4651
 
 - id: spies-like-us
-  tmdb_id: null
+  tmdb_id: 9080
   title: Spies Like Us
   year: 1985
   runtime: 109
@@ -25,12 +27,16 @@
     humor: 4
     acclaim: 0.55
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: spies-like-us
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/4h/05/ia/mn/spies%20like%20us-1200-1200-675-675-crop-000000.jpg?v=37e00d004b
 
 - id: the-great-outdoors
-  tmdb_id: null
+  tmdb_id: 2617
   title: The Great Outdoors
   year: 1988
   runtime: 91
   director: Howard Deutch
   tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 4, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: the-great-outdoors
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/1v/ly/d8/ij/great-outdoors-1200-1200-675-675-crop-000000.jpg?v=bfece3f995

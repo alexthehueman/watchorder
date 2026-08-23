@@ -7,7 +7,7 @@
 # duplicated here.
 
 - id: starsky-and-hutch
-  tmdb_id: null
+  tmdb_id: 9384
   title: Starsky & Hutch
   year: 2004
   runtime: 101
@@ -19,3 +19,5 @@
     humor: 4
     acclaim: 0.48
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: starsky-hutch
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/al/aq/m8/70/starsky-hutch-1200-1200-675-675-crop-000000.jpg?v=1fea0c8d00

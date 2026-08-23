@@ -6,7 +6,7 @@
 # Theorem already exists in waltz.yaml.
 
 - id: brazil
-  tmdb_id: null
+  tmdb_id: 68
   title: Brazil
   year: 1985
   runtime: 132
@@ -18,9 +18,11 @@
     humor: 3
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: brazil
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/2u/3s/a4/fh/brazil-1200-1200-675-675-crop-000000.jpg?v=842009a058
 
 - id: the-adventures-of-baron-munchausen
-  tmdb_id: null
+  tmdb_id: 14506
   title: The Adventures of Baron Munchausen
   year: 1988
   runtime: 126
@@ -32,3 +34,5 @@
     humor: 4
     acclaim: 0.72
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: the-adventures-of-baron-munchausen
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/n1/vm/ft/31/baron-von-munchausen-1200-1200-675-675-crop-000000.jpg?v=9abac1007d

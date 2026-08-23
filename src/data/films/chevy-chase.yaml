@@ -5,16 +5,18 @@
 # Spies Like Us already exists in dan-aykroyd.yaml.
 
 - id: national-lampoons-vacation
-  tmdb_id: null
+  tmdb_id: 11153
   title: National Lampoon's Vacation
   year: 1983
   runtime: 98
   director: Harold Ramis
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: national-lampoons-vacation
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/r8/ys/xd/hc/6F1DB132-C9F9-463C-8555-2AD180F271F0-1200-1200-675-675-crop-000000.jpg?v=45f3e7e837
 
 - id: fletch
-  tmdb_id: null
+  tmdb_id: 9749
   title: Fletch
   year: 1985
   runtime: 98
@@ -26,3 +28,5 @@
     humor: 4
     acclaim: 0.62
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: fletch
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/it/lg/nk/d7/fletch-1200-1200-675-675-crop-000000.jpg?v=a161c1fb73

@@ -3,16 +3,18 @@
 # Creed already exists in michael-b-jordan.yaml — tagged before he had an entity.
 
 - id: rocky
-  tmdb_id: null
+  tmdb_id: 1366
   title: Rocky
   year: 1976
   runtime: 120
   director: John G. Avildsen
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.88 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: rocky
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/rz/7d/gf/se/14YmXr5ojtOFcABW3CPP5gKjgNU-0-2000-0-2000-1200-1200-675-675-crop-000000.jpg?v=fa45557073
 
 - id: first-blood
-  tmdb_id: null
+  tmdb_id: 1368
   title: First Blood
   year: 1982
   runtime: 93
@@ -24,12 +26,16 @@
     humor: 1
     acclaim: 0.72
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: first-blood
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/cb/4h/oq/7v/first-blood-1200-1200-675-675-crop-000000.jpg?v=f00818c735
 
 - id: the-expendables
-  tmdb_id: null
+  tmdb_id: 27578
   title: The Expendables
   year: 2010
   runtime: 103
   director: Sylvester Stallone
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.45 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: the-expendables
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/sy/uu/vy/p6/expendables-1200-1200-675-675-crop-000000.jpg?v=6e114d9e00

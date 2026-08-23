@@ -5,7 +5,7 @@
 # nicholson-julianne.yaml. Out of the Furnace already exists in saldana.yaml.
 
 - id: antlers
-  tmdb_id: null
+  tmdb_id: 516329
   title: Antlers
   year: 2021
   runtime: 99
@@ -17,3 +17,5 @@
     humor: 1
     acclaim: 0.55
   content: { sexual_violence: false, animal_harm: true, child_harm: true, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: antlers
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/u8/fr/tu/jk/antlers-1200-1200-675-675-crop-000000.jpg?v=4cdb90e965

@@ -6,7 +6,7 @@
 # Trains and Automobiles already exists in steve-martin.yaml.
 
 - id: shes-having-a-baby
-  tmdb_id: null
+  tmdb_id: 12714
   title: She's Having a Baby
   year: 1988
   runtime: 106
@@ -18,9 +18,11 @@
     humor: 3
     acclaim: 0.55
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: shes-having-a-baby
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ag/77/fj/9d/mn2BuLh5hiJ9uFT9ORjVhS1EwSm-1200-1200-675-675-crop-000000.jpg?v=a03b489ff4
 
 - id: curly-sue
-  tmdb_id: null
+  tmdb_id: 11894
   title: Curly Sue
   year: 1991
   runtime: 101
@@ -32,3 +34,5 @@
     humor: 3
     acclaim: 0.45
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: curly-sue
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/74/bx/nu/4o/n2X4mJJqUn1qJamrIYYoVhEHquM-1200-1200-675-675-crop-000000.jpg?v=5ed4e3a46a

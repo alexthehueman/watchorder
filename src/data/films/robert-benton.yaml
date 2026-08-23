@@ -5,7 +5,7 @@
 # in newman.yaml. Kramer vs. Kramer already exists in streep.yaml.
 
 - id: the-late-show
-  tmdb_id: null
+  tmdb_id: 42228
   title: The Late Show
   year: 1977
   runtime: 94
@@ -17,3 +17,5 @@
     humor: 3
     acclaim: 0.72
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: the-late-show
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/8c/5g/3t/r4/kuM3UzI8ScoVMEVNFUHvRP64CoY-1200-1200-675-675-crop-000000.jpg?v=b99134e18d

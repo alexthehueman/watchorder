@@ -5,7 +5,7 @@
 # in eastwood.yaml. Once Upon a Time in the West already exists in fonda-henry.yaml.
 
 - id: once-upon-a-time-in-america
-  tmdb_id: null
+  tmdb_id: 311
   title: Once Upon a Time in America
   year: 1984
   runtime: 229
@@ -17,12 +17,16 @@
     humor: 1
     acclaim: 0.90
   content: { sexual_violence: true, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 2 }
+  letterboxd_slug: once-upon-a-time-in-america
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/1f/n2/rx/0s/image%20(5)-1200-1200-675-675-crop-000000.jpg?v=babf4f7ba5
 
 - id: duck-you-sucker
-  tmdb_id: null
+  tmdb_id: 336
   title: Duck, You Sucker!
   year: 1971
   runtime: 157
   director: Sergio Leone
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 3, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: duck-you-sucker
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ou/2f/hn/kt/duck%20you%20sucker-1200-1200-675-675-crop-000000.jpg?v=dc8d24fd92

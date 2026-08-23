@@ -4,10 +4,12 @@
 # already exist in boris-karloff.yaml. The Mask of Fu Manchu below is his own.
 
 - id: the-mask-of-fu-manchu
-  tmdb_id: null
+  tmdb_id: 3484
   title: The Mask of Fu Manchu
   year: 1932
   runtime: 68
   director: Charles Brabin
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 2, acclaim: 0.62 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: the-mask-of-fu-manchu
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/jy/gk/0x/ia/9ppVHnGYlvTB2BkAxkjjSw7x7Ws-1200-1200-675-675-crop-000000.jpg?v=35f25543f6

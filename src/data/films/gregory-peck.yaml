@@ -4,7 +4,7 @@
 # Cape Fear already exists in mitchum.yaml.
 
 - id: to-kill-a-mockingbird
-  tmdb_id: null
+  tmdb_id: 595
   title: To Kill a Mockingbird
   year: 1962
   runtime: 129
@@ -16,12 +16,16 @@
     humor: 1
     acclaim: 0.92
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: to-kill-a-mockingbird
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/2l/38/fr/zr/to-kill-a-mockingbird-1200-1200-675-675-crop-000000.jpg?v=3bcc7ca324
 
 - id: the-guns-of-navarone
-  tmdb_id: null
+  tmdb_id: 10911
   title: The Guns of Navarone
   year: 1961
   runtime: 158
   director: J Lee Thompson
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: the-guns-of-navarone
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/7l/ab/zf/86/guns-1200-1200-675-675-crop-000000.jpg?v=6c4ca8baad

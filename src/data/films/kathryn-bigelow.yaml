@@ -6,19 +6,23 @@
 # Break already exists in reeves.yaml.
 
 - id: blue-steel
-  tmdb_id: null
+  tmdb_id: 9491
   title: Blue Steel
   year: 1990
   runtime: 102
   director: Kathryn Bigelow
   tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.62 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+  letterboxd_slug: blue-steel-1990
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/h4/9f/a8/a4/blue-steel-1200-1200-675-675-crop-000000.jpg?v=3da809a11d
 
 - id: k-19-the-widowmaker
-  tmdb_id: null
+  tmdb_id: 8665
   title: K-19 The Widowmaker
   year: 2002
   runtime: 138
   director: Kathryn Bigelow
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.62 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: k-19-the-widowmaker
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/vj/zu/tq/bq/k19-1200-1200-675-675-crop-000000.jpg?v=9f09912cf2

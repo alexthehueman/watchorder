@@ -6,7 +6,7 @@
 # already exists in mel-gibson.yaml.
 
 - id: the-village
-  tmdb_id: null
+  tmdb_id: 6947
   title: The Village
   year: 2004
   runtime: 108
@@ -18,9 +18,11 @@
     humor: 1
     acclaim: 0.62
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: the-village
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/0y/0u/q3/p4/the-village-200-1200-1200-675-675-crop-000000.jpg?v=1497119d9a
 
 - id: old
-  tmdb_id: null
+  tmdb_id: 631843
   title: Old
   year: 2021
   runtime: 108
@@ -32,3 +34,5 @@
     humor: 1
     acclaim: 0.55
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: old-2021
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/cl/p2/rx/rz/old-1200-1200-675-675-crop-000000.jpg?v=5c234d6b5b

@@ -12,7 +12,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
 
 - id: separate-tables
-  tmdb_id: null
+  tmdb_id: 43136
   title: Separate Tables
   year: 1958
   runtime: 100
@@ -24,3 +24,5 @@
     humor: 1
     acclaim: 0.77
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: separate-tables
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/5k/ed/x6/2l/separatetables-1200-1200-675-675-crop-000000.jpg?v=09e1178e3c

@@ -4,7 +4,7 @@
 # Coming Home already exists in jon-voight.yaml.
 
 - id: klute
-  tmdb_id: null
+  tmdb_id: 466
   title: Klute
   year: 1971
   runtime: 114
@@ -16,6 +16,8 @@
     humor: 1
     acclaim: 0.78
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  letterboxd_slug: klute
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/et/gg/60/q8/klute-1200-1200-675-675-crop-000000.jpg?v=75ed473df4
 
 - id: 9-to-5
   tmdb_id: null

@@ -5,25 +5,29 @@
 # james-cagney.yaml. The Adventures of Robin Hood already exists in una-oconnor.yaml.
 
 - id: white-christmas
-  tmdb_id: null
+  tmdb_id: 13368
   title: White Christmas
   year: 1954
   runtime: 120
   director: Michael Curtiz
   tags: { opacity: 1, stillness: 3, bleakness: 1, humor: 3, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: white-christmas
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/in/3u/d0/wr/white-christmas-1200-1200-675-675-crop-000000.jpg?v=7dc5d27388
 
 - id: captain-blood
-  tmdb_id: null
+  tmdb_id: 16905
   title: Captain Blood
   year: 1935
   runtime: 119
   director: Michael Curtiz
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: captain-blood
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ns/fh/t5/ju/captain-blood-1200-1200-675-675-crop-000000.jpg?v=3354ee0608
 
 - id: the-sea-wolf
-  tmdb_id: null
+  tmdb_id: 33931
   title: The Sea Wolf
   year: 1941
   runtime: 100
@@ -35,3 +39,5 @@
     humor: 1
     acclaim: 0.72
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: the-sea-wolf
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/la/it/0r/d2/rvZXG4rNyyvzpDtriNt5WRiWoRJ-1200-1200-675-675-crop-000000.jpg?v=50e2ff08c7

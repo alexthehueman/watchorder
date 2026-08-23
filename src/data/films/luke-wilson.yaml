@@ -4,7 +4,7 @@
 # in ferrell.yaml. Legally Blonde already exists in witherspoon.yaml.
 
 - id: bottle-rocket
-  tmdb_id: null
+  tmdb_id: 13685
   title: Bottle Rocket
   year: 1996
   runtime: 91
@@ -16,3 +16,5 @@
     humor: 3 # a gentler, more melancholic comedy than the caper premise suggests
     acclaim: 0.68
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: bottle-rocket-1996
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/dm/i8/9q/5m/bottle-rocket-1200-1200-675-675-crop-000000.jpg?v=2b07977ac2

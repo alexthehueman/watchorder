@@ -4,16 +4,18 @@
 # fishburne.yaml.
 
 - id: robocop
-  tmdb_id: null
+  tmdb_id: 5548
   title: RoboCop
   year: 1987
   runtime: 102
   director: Paul Verhoeven
   tags: { opacity: 1, stillness: 1, bleakness: 4, humor: 2, acclaim: 0.82 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: robocop
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/5p/cu/9l/n8/robocop-1200-1200-675-675-crop-000000.jpg?v=5b960ef9a0
 
 - id: star-trek-vi-the-undiscovered-country
-  tmdb_id: null
+  tmdb_id: 174
   title: "Star Trek VI: The Undiscovered Country"
   year: 1991
   runtime: 113
@@ -25,3 +27,5 @@
     humor: 1
     acclaim: 0.78
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: star-trek-vi-the-undiscovered-country
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/fs/8x/uq/9c/star-trek-vi-the-undiscovered-country-1200-1200-675-675-crop-000000.jpg?v=361c924102

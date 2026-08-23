@@ -6,7 +6,7 @@
 # already exists in julia-roberts.yaml.
 
 - id: nothing-in-common
-  tmdb_id: null
+  tmdb_id: 29968
   title: Nothing in Common
   year: 1986
   runtime: 118
@@ -18,3 +18,5 @@
     humor: 3
     acclaim: 0.58
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: nothing-in-common
+  poster_url: https://a.ltrbxd.com/resized/alternative-backdrop/3/2/3/8/2/tmdb/1ISqiWSbKc1UVMheI2xlO66Z6Lb-1200-1200-675-675-crop-000000.jpg?v=200edc7a4c

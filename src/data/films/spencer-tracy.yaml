@@ -4,16 +4,18 @@
 # Judgment at Nuremberg already exists in garland.yaml.
 
 - id: inherit-the-wind
-  tmdb_id: null
+  tmdb_id: 1908
   title: Inherit the Wind
   year: 1960
   runtime: 128
   director: Stanley Kramer
   tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 2, acclaim: 0.82 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: inherit-the-wind
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/hj/bx/61/s4/inherit%20the%20wind-1200-1200-675-675-crop-000000.jpg?v=6e86236d9d
 
 - id: bad-day-at-black-rock
-  tmdb_id: null
+  tmdb_id: 14554
   title: Bad Day at Black Rock
   year: 1955
   runtime: 81
@@ -25,3 +27,5 @@
     humor: 1
     acclaim: 0.78
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: bad-day-at-black-rock
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ly/ym/tl/wi/bad%20day-1200-1200-675-675-crop-000000.jpg?v=11aa50eae2

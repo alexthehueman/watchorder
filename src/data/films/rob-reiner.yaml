@@ -7,7 +7,7 @@
 # board; Stand by Me and Misery break the tie.
 
 - id: stand-by-me
-  tmdb_id: null
+  tmdb_id: 235
   title: Stand by Me
   year: 1986
   runtime: 89
@@ -19,9 +19,11 @@
     humor: 3
     acclaim: 0.90
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: stand-by-me
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/kv/9l/ks/8f/stand-by-me-1200-1200-675-675-crop-000000.jpg?v=3617274520
 
 - id: misery
-  tmdb_id: null
+  tmdb_id: 1700
   title: Misery
   year: 1990
   runtime: 107
@@ -33,18 +35,22 @@
     humor: 1
     acclaim: 0.82
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: misery
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/7x/a0/x3/zw/misery-1200-1200-675-675-crop-000000.jpg?v=6248d439ec
 
 - id: this-is-spinal-tap
-  tmdb_id: null
+  tmdb_id: 11031
   title: This Is Spinal Tap
   year: 1984
   runtime: 82
   director: Rob Reiner
   tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 5, acclaim: 0.88 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: this-is-spinal-tap
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/9t/g0/rr/84/this-is-spinal-tap-1200-1200-675-675-crop-000000.jpg?v=e59ed2e535
 
 - id: ghosts-of-mississippi
-  tmdb_id: null
+  tmdb_id: 31908
   title: Ghosts of Mississippi
   year: 1996
   runtime: 130
@@ -56,3 +62,5 @@
     humor: 1
     acclaim: 0.62
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: ghosts-of-mississippi
+  poster_url: https://a.ltrbxd.com/resized/alternative-backdrop/3/0/8/0/8/tmdb/6KUc0HjKPpU5UT8FYjVcCHUtjvX-1200-1200-675-675-crop-000000.jpg?v=c495397355

@@ -7,7 +7,7 @@
 # already exists in theron.yaml.
 
 - id: black-hawk-down
-  tmdb_id: null
+  tmdb_id: 855
   title: Black Hawk Down
   year: 2001
   runtime: 144
@@ -19,3 +19,5 @@
     humor: 1
     acclaim: 0.83
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: black-hawk-down
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/sw/s8/22/rk/black-hawk-down-1200-1200-675-675-crop-000000.jpg?v=68b2b48bbd

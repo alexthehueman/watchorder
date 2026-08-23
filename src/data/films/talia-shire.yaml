@@ -4,7 +4,7 @@
 # The Godfather already exists in brando.yaml. The Godfather Part II already exists in de-niro.yaml.
 
 - id: rocky-ii
-  tmdb_id: null
+  tmdb_id: 1367
   title: Rocky II
   year: 1979
   runtime: 119
@@ -16,3 +16,5 @@
     humor: 2
     acclaim: 0.72
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: rocky-ii
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/tz/29/60/f0/rocky-2-1200-1200-675-675-crop-000000.jpg?v=a6f2cbdd6b

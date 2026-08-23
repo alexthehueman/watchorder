@@ -21,7 +21,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
 
 - id: poltergeist
-  tmdb_id: null
+  tmdb_id: 609
   title: Poltergeist
   year: 1982
   runtime: 114
@@ -33,9 +33,11 @@
     humor: 1
     acclaim: 0.78
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: poltergeist
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/u4/1q/34/uj/poltergeist-120-1200-1200-675-675-crop-000000.jpg?v=b84705d123
 
 - id: gremlins
-  tmdb_id: null
+  tmdb_id: 927
   title: Gremlins
   year: 1984
   runtime: 106
@@ -47,3 +49,5 @@
     humor: 3
     acclaim: 0.78
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: gremlins
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/nf/i5/ti/xm/r5xlOGwg4tEbLb5RiYzL51YzSHl-1200-1200-675-675-crop-000000.jpg?v=e63ade647c

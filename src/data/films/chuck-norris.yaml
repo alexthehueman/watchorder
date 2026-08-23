@@ -3,16 +3,18 @@
 # Missing in Action already exists in cannon.yaml — tagged before he had an entity.
 
 - id: way-of-the-dragon
-  tmdb_id: null
+  tmdb_id: 9462
   title: Way of the Dragon
   year: 1972
   runtime: 90
   director: Bruce Lee
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: way-of-the-dragon-1972
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ty/ha/2t/f7/way%20of%20the%20dragon-1200-1200-675-675-crop-000000.jpg?v=78e4f37866
 
 - id: lone-wolf-mcquade
-  tmdb_id: null
+  tmdb_id: 14854
   title: Lone Wolf McQuade
   year: 1983
   runtime: 107
@@ -24,12 +26,16 @@
     humor: 1
     acclaim: 0.58
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: lone-wolf-mcquade
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/oj/bg/qg/04/lone-wolf-1200-1200-675-675-crop-000000.jpg?v=29cd255c0f
 
 - id: the-delta-force
-  tmdb_id: null
+  tmdb_id: 16113
   title: The Delta Force
   year: 1986
   runtime: 129
   director: Menahem Golan
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: the-delta-force
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/j9/ji/kv/nz/oenQl9P7lX6dggOzEG6AsAtiDS7-1200-1200-675-675-crop-000000.jpg?v=3b256a6079

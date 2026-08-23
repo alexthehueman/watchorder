@@ -7,7 +7,7 @@
 # already exists in richard-dreyfuss.yaml.
 
 - id: thx-1138
-  tmdb_id: null
+  tmdb_id: 636
   title: THX 1138
   year: 1971
   runtime: 88
@@ -19,9 +19,11 @@
     humor: 1
     acclaim: 0.70
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: thx-1138
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/9r/k2/8a/4l/thx-1138-1200-1200-675-675-crop-000000.jpg?v=59b83a5083
 
 - id: star-wars-episode-ii-attack-of-the-clones
-  tmdb_id: null
+  tmdb_id: 1894
   title: Star Wars Episode II Attack of the Clones
   year: 2002
   runtime: 142
@@ -33,9 +35,11 @@
     humor: 2
     acclaim: 0.55
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: star-wars-episode-ii-attack-of-the-clones
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/t8/jn/ez/5u/attack-of-the-clones-1200-1200-675-675-crop-000000.jpg?v=d7991186bc
 
 - id: star-wars-episode-iii-revenge-of-the-sith
-  tmdb_id: null
+  tmdb_id: 1895
   title: Star Wars Episode III Revenge of the Sith
   year: 2005
   runtime: 140
@@ -47,3 +51,5 @@
     humor: 1
     acclaim: 0.68
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: star-wars-episode-iii-revenge-of-the-sith
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/uw/c3/ob/q6/revenge-of-the-sith-1200-1200-675-675-crop-000000.jpg?v=369b9ff7cb

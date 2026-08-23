@@ -3,7 +3,7 @@
 # Paths of Glory and Spartacus already exist in kubrick.yaml — tagged before he had an entity.
 
 - id: seven-days-in-may
-  tmdb_id: null
+  tmdb_id: 23518
   title: Seven Days in May
   year: 1964
   runtime: 118
@@ -15,12 +15,16 @@
     humor: 1
     acclaim: 0.78
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: seven-days-in-may
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/cp/pb/e8/yq/seven-days-in-may-1200-1200-675-675-crop-000000.jpg?v=256c1bb0f8
 
 - id: gunfight-at-the-ok-corral
-  tmdb_id: null
+  tmdb_id: 22201
   title: Gunfight at the O.K. Corral
   year: 1957
   runtime: 122
   director: John Sturges
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: gunfight-at-the-ok-corral
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/dm/f9/zt/1c/gunfight-1200-1200-675-675-crop-000000.jpg?v=c154b720f3

@@ -5,7 +5,7 @@
 # Visconti film outside the Bergman corpus entirely.
 
 - id: the-damned
-  tmdb_id: null
+  tmdb_id: 41876
   title: The Damned
   year: 1969
   runtime: 156
@@ -17,3 +17,5 @@
     humor: 1
     acclaim: 0.78
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 1 }
+  letterboxd_slug: the-damned
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/4l/0d/au/85/damned-1200-1200-675-675-crop-000000.jpg?v=c01ab2a067

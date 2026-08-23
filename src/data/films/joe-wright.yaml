@@ -5,7 +5,7 @@
 # ronan.yaml.
 
 - id: pride-and-prejudice-2005
-  tmdb_id: null
+  tmdb_id: 4348
   title: Pride & Prejudice
   year: 2005
   runtime: 129
@@ -17,3 +17,5 @@
     humor: 3
     acclaim: 0.82
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: pride-prejudice
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/zk/e2/qu/vg/pride-and-prejudice-1200-1200-675-675-crop-000000.jpg?v=630ff9c95f

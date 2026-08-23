@@ -4,7 +4,7 @@
 # Election already exists in witherspoon.yaml.
 
 - id: ferris-buellers-day-off
-  tmdb_id: null
+  tmdb_id: 9377
   title: Ferris Bueller's Day Off
   year: 1986
   runtime: 103
@@ -16,9 +16,11 @@
     humor: 5
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: ferris-buellers-day-off
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ee/2s/51/cz/ferris-buellers-day-off-1200-1200-675-675-crop-000000.jpg?v=7177f26dd0
 
 - id: war-games
-  tmdb_id: null
+  tmdb_id: 860
   title: WarGames
   year: 1983
   runtime: 114
@@ -30,3 +32,5 @@
     humor: 2
     acclaim: 0.75
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: war-games-1983
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/g8/0c/td/qo/wargames-1200-1200-675-675-crop-000000.jpg?v=6b97783174

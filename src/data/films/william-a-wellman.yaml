@@ -7,7 +7,7 @@
 # exists in mitchum.yaml.
 
 - id: wings
-  tmdb_id: null
+  tmdb_id: 28966
   title: Wings
   year: 1927
   runtime: 144
@@ -19,9 +19,11 @@
     humor: 2
     acclaim: 0.78
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: wings
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/tl/pp/jz/1n/wings-1200-1200-675-675-crop-000000.jpg?v=fbfe949ecd
 
 - id: a-star-is-born-1937
-  tmdb_id: null
+  tmdb_id: 22692
   title: A Star Is Born
   year: 1937
   runtime: 111
@@ -33,3 +35,5 @@
     humor: 2
     acclaim: 0.75
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
+  letterboxd_slug: a-star-is-born
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/a5/mp/9n/fp/astarisborn-1200-1200-675-675-crop-000000.jpg?v=33e00e11fd

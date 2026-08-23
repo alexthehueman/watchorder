@@ -6,7 +6,7 @@
 # mitchum.yaml. It's a Wonderful Life already exists in stewart.yaml.
 
 - id: king-kong-1933
-  tmdb_id: null
+  tmdb_id: 244
   title: King Kong
   year: 1933
   runtime: 100
@@ -18,9 +18,11 @@
     humor: 1
     acclaim: 0.80
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: king-kong
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/lo/0g/0a/9d/king-kong-1200-1200-675-675-crop-000000.jpg?v=c484629b47
 
 - id: cat-people
-  tmdb_id: null
+  tmdb_id: 25508
   title: Cat People
   year: 1942
   runtime: 73
@@ -32,3 +34,5 @@
     humor: 1
     acclaim: 0.78
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  letterboxd_slug: cat-people
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/z9/z2/zb/b5/cat-people-1200-1200-675-675-crop-000000.jpg?v=0bdf8d1e83

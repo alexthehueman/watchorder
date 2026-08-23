@@ -4,7 +4,7 @@
 # hitchcock.yaml.
 
 - id: the-third-man
-  tmdb_id: null
+  tmdb_id: 1092
   title: The Third Man
   year: 1949
   runtime: 104
@@ -16,9 +16,11 @@
     humor: 2
     acclaim: 0.92
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: the-third-man
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/o3/gz/sr/4b/4p0SUm1gvGcHskHHjMadt1TlIVi-1200-1200-675-675-crop-000000.jpg?v=0aeadce9fb
 
 - id: portrait-of-jennie
-  tmdb_id: null
+  tmdb_id: 32558
   title: Portrait of Jennie
   year: 1948
   runtime: 86
@@ -30,3 +32,5 @@
     humor: 1
     acclaim: 0.68
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: portrait-of-jennie
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/54/j8/qa/ju/portrait-of-jennie-1200-1200-675-675-crop-000000.jpg?v=fa0c51d685

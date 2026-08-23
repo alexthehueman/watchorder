@@ -6,7 +6,7 @@
 # already exist in michael-j-fox.yaml.
 
 - id: who-framed-roger-rabbit
-  tmdb_id: null
+  tmdb_id: 856
   title: Who Framed Roger Rabbit
   year: 1988
   runtime: 104
@@ -18,3 +18,5 @@
     humor: 4
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: who-framed-roger-rabbit
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/y6/xl/q3/pm/who-framed-roger-rabbit-1200-1200-675-675-crop-000000.jpg?v=4e540d3300

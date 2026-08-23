@@ -10,7 +10,7 @@
 # withholds, so it's the honest film to break the pattern rather than an invented one.
 
 - id: breaking-the-waves
-  tmdb_id: null
+  tmdb_id: 145
   title: Breaking the Waves
   year: 1996
   runtime: 159
@@ -22,3 +22,5 @@
     humor: 1
     acclaim: 0.85
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 2 }
+  letterboxd_slug: breaking-the-waves
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/fo/ci/x3/57/breaking%20the%20waves-1200-1200-675-675-crop-000000.jpg?v=6cd2a8bfb6

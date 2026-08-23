@@ -4,19 +4,23 @@
 # exists in de-niro.yaml.
 
 - id: look-whos-talking
-  tmdb_id: null
+  tmdb_id: 9494
   title: Look Who's Talking
   year: 1989
   runtime: 93
   director: Amy Heckerling
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: look-whos-talking
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/wb/g6/rp/98/look-whos-talking-1200-1200-675-675-crop-000000.jpg?v=c147d02cd8
 
 - id: joe-versus-the-volcano
-  tmdb_id: null
+  tmdb_id: 2565
   title: Joe Versus the Volcano
   year: 1990
   runtime: 102
   director: John Patrick Shanley
   tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 4, acclaim: 0.58 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: joe-versus-the-volcano
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/8i/qe/xd/nh/BDE50D05-301D-4EA1-8A7B-BFB17284FFA2-1200-1200-675-675-crop-000000.jpg?v=3168df8fd0

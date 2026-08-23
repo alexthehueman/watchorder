@@ -3,7 +3,7 @@
 # The Lady from Shanghai already exists in welles.yaml — tagged before she had an entity.
 
 - id: gilda
-  tmdb_id: null
+  tmdb_id: 3767
   title: Gilda
   year: 1946
   runtime: 110
@@ -15,12 +15,16 @@
     humor: 2
     acclaim: 0.83
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  letterboxd_slug: gilda
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/wr/0k/gq/6x/gilda-1200-1200-675-675-crop-000000.jpg?v=318ee9f2fb
 
 - id: you-were-never-lovelier
-  tmdb_id: null
+  tmdb_id: 43787
   title: You Were Never Lovelier
   year: 1942
   runtime: 97
   director: William A. Seiter
   tags: { opacity: 2, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.88 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: you-were-never-lovelier
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/4w/1z/lz/iq/you%20were%20never%20lovelier-1200-1200-675-675-crop-000000.jpg?v=00cfbe6940

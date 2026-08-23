@@ -3,7 +3,7 @@
 # Singin' in the Rain and An American in Paris already exist in mgm.yaml — tagged before he had an entity.
 
 - id: on-the-town
-  tmdb_id: null
+  tmdb_id: 31516
   title: On the Town
   year: 1949
   runtime: 98
@@ -15,3 +15,5 @@
     humor: 4
     acclaim: 0.78
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: on-the-town
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/2t/iy/4h/rq/on-the-town-1200-1200-675-675-crop-000000.jpg?v=9210893f57

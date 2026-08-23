@@ -4,7 +4,7 @@
 # goodman.yaml. Wait Until Dark already exists in hepburn-audrey.yaml.
 
 - id: catch-22
-  tmdb_id: null
+  tmdb_id: 10364
   title: Catch-22
   year: 1970
   runtime: 122
@@ -16,3 +16,5 @@
     humor: 3
     acclaim: 0.68
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  letterboxd_slug: catch-22
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/z4/eq/56/c6/catch%2022-1200-1200-675-675-crop-000000.jpg?v=eac95e243f

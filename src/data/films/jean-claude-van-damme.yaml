@@ -3,16 +3,18 @@
 # Kickboxer already exists in cannon.yaml — tagged before he had an entity.
 
 - id: bloodsport
-  tmdb_id: null
+  tmdb_id: 11690
   title: Bloodsport
   year: 1988
   runtime: 92
   director: Newt Arnold
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.62 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: bloodsport
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/xf/7p/ws/ht/bloodsport-1200-1200-675-675-crop-000000.jpg?v=db38bb2f6b
 
 - id: universal-soldier
-  tmdb_id: null
+  tmdb_id: 9349
   title: Universal Soldier
   year: 1992
   runtime: 102
@@ -24,9 +26,11 @@
     humor: 2
     acclaim: 0.58
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: universal-soldier
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/54/xb/ry/n5/universal-soldier-1200-1200-675-675-crop-000000.jpg?v=a214de8cc3
 
 - id: timecop
-  tmdb_id: null
+  tmdb_id: 8831
   title: Timecop
   year: 1994
   runtime: 98
@@ -38,3 +42,5 @@
     humor: 2
     acclaim: 0.60
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: timecop
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/dx/7p/te/00/timecop-1200-1200-675-675-crop-000000.jpg?v=464fc818ce

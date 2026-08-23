@@ -6,7 +6,7 @@
 # already exists in murray.yaml.
 
 - id: the-omen-1976
-  tmdb_id: null
+  tmdb_id: 794
   title: The Omen
   year: 1976
   runtime: 111
@@ -18,9 +18,11 @@
     humor: 1
     acclaim: 0.75
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: true, violence: 3, sex: 0 }
+  letterboxd_slug: the-omen
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/tn/io/vh/ns/the-omen-1200-1200-675-675-crop-000000.jpg?v=f4d4ec383e
 
 - id: the-goonies
-  tmdb_id: null
+  tmdb_id: 9340
   title: The Goonies
   year: 1985
   runtime: 114
@@ -32,3 +34,5 @@
     humor: 3
     acclaim: 0.72
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: the-goonies
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/nw/yt/uz/i9/goonies-125-1200-1200-675-675-crop-000000.jpg?v=f5c54079c5

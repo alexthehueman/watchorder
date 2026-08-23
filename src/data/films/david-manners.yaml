@@ -4,7 +4,7 @@
 # already exist in boris-karloff.yaml. The Death Kiss below is his own.
 
 - id: the-death-kiss
-  tmdb_id: null
+  tmdb_id: 59158
   title: The Death Kiss
   year: 1932
   runtime: 75
@@ -16,3 +16,5 @@
     humor: 3 # a wry, self-aware mystery about a murder on a film set, poking fun at Hollywood along the way
     acclaim: 0.55
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: the-death-kiss
+  poster_url: https://a.ltrbxd.com/resized/alternative-backdrop/7/1/9/6/tmdb/aywosu5Dthu0yUGVod4Hm4d7Gfw-1200-1200-675-675-crop-000000.jpg?v=7c0f37a505

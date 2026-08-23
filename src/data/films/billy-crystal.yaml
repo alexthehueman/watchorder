@@ -3,7 +3,7 @@
 # Monsters, Inc. already exists in pixar.yaml — tagged before he had an entity.
 
 - id: when-harry-met-sally
-  tmdb_id: null
+  tmdb_id: 639
   title: When Harry Met Sally...
   year: 1989
   runtime: 96
@@ -15,9 +15,11 @@
     humor: 4
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: when-harry-met-sally
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/j0/9s/29/l4/when-harry-met-sally-1200-1200-675-675-crop-000000.jpg?v=593a2f5ee2
 
 - id: city-slickers
-  tmdb_id: null
+  tmdb_id: 1406
   title: City Slickers
   year: 1991
   runtime: 114
@@ -29,12 +31,16 @@
     humor: 3 # the midlife-crisis ache pulls back on the comedy more than the other three
     acclaim: 0.68
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: city-slickers
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/o2/9f/j1/wm/city-slickers-1200-1200-675-675-crop-000000.jpg?v=a004f44a2b
 
 - id: analyze-this
-  tmdb_id: null
+  tmdb_id: 9535
   title: Analyze This
   year: 1999
   runtime: 103
   director: Harold Ramis
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.62 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: analyze-this
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/oy/ql/nk/8p/analyze%20this-1200-1200-675-675-crop-000000.jpg?v=cc89f84eda

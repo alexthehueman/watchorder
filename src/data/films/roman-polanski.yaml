@@ -4,7 +4,7 @@
 # brody.yaml. Repulsion already exists in deneuve.yaml.
 
 - id: rosemarys-baby
-  tmdb_id: null
+  tmdb_id: 805
   title: Rosemary's Baby
   year: 1968
   runtime: 137
@@ -16,9 +16,11 @@
     humor: 1
     acclaim: 0.90
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 2 }
+  letterboxd_slug: rosemarys-baby
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/jk/ct/nn/po/rosemarys-baby-1200-1200-675-675-crop-000000.jpg?v=094ebe28de
 
 - id: knife-in-the-water
-  tmdb_id: null
+  tmdb_id: 11502
   title: Knife in the Water
   year: 1962
   runtime: 94
@@ -30,3 +32,5 @@
     humor: 1
     acclaim: 0.80
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  letterboxd_slug: knife-in-the-water
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/c1/l3/a8/tt/knife-in-water-1200-1200-675-675-crop-000000.jpg?v=6e8a48b723

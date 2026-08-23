@@ -5,7 +5,7 @@
 # kurtwood-smith.yaml. Basic Instinct already exists in michael-douglas.yaml.
 
 - id: starship-troopers
-  tmdb_id: null
+  tmdb_id: 563
   title: Starship Troopers
   year: 1997
   runtime: 129
@@ -17,3 +17,5 @@
     humor: 3
     acclaim: 0.68
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+  letterboxd_slug: starship-troopers
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/eo/78/dk/kr/starship-troopers-2-1200-1200-675-675-crop-000000.jpg?v=291392791e

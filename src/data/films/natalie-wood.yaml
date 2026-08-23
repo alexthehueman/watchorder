@@ -3,7 +3,7 @@
 # West Side Story already exists in robert-wise.yaml — tagged before she had an entity.
 
 - id: rebel-without-a-cause
-  tmdb_id: null
+  tmdb_id: 221
   title: Rebel Without a Cause
   year: 1955
   runtime: 111
@@ -15,9 +15,11 @@
     humor: 2 # a streak of sardonic teenage wit runs through the melodrama
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: rebel-without-a-cause
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/22/or/rr/yu/rebel-1200-1200-675-675-crop-000000.jpg?v=92fe4a88d3
 
 - id: splendor-in-the-grass
-  tmdb_id: null
+  tmdb_id: 28569
   title: Splendor in the Grass
   year: 1961
   runtime: 124
@@ -29,3 +31,5 @@
     humor: 1
     acclaim: 0.78
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: splendor-in-the-grass
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/71/31/oh/tm/splendor-1200-1200-675-675-crop-000000.jpg?v=e80abc499a

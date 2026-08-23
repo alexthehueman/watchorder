@@ -3,19 +3,23 @@
 # Reservoir Dogs and Pulp Fiction already exist in tarantino.yaml.
 
 - id: rob-roy
-  tmdb_id: null
+  tmdb_id: 11780
   title: Rob Roy
   year: 1995
   runtime: 139
   director: Michael Caton-Jones
   tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.78 }
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+  letterboxd_slug: rob-roy
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ln/5p/bi/v0/rob-roy-1200-1200-675-675-crop-000000.jpg?v=fb2be221fe
 
 - id: four-rooms
-  tmdb_id: null
+  tmdb_id: 5
   title: Four Rooms
   year: 1995
   runtime: 98
   director: Allison Anders
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 5, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  letterboxd_slug: four-rooms
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ff/ph/vk/wz/four-rooms-1200-1200-675-675-crop-000000.jpg?v=f4124fca6f

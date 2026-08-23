@@ -4,7 +4,7 @@
 # nicholson.yaml.
 
 - id: the-pope-of-greenwich-village
-  tmdb_id: null
+  tmdb_id: 32081
   title: The Pope of Greenwich Village
   year: 1984
   runtime: 121
@@ -16,12 +16,16 @@
     humor: 1
     acclaim: 0.65
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: the-pope-of-greenwich-village
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/j4/tt/ev/wk/z8xwqTByXvBMRcYTDVvGL8rdNNX-1200-1200-675-675-crop-000000.jpg?v=eb3a4dd464
 
 - id: back-to-school
-  tmdb_id: null
+  tmdb_id: 15596
   title: Back to School
   year: 1986
   runtime: 94
   director: Alan Metter
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.62 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: back-to-school
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/0r/cj/j6/x8/back-to-school-1200-1200-675-675-crop-000000.jpg?v=ec5e4f350f

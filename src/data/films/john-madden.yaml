@@ -5,7 +5,7 @@
 # Marigold Hotel already exists in nighy.yaml.
 
 - id: miss-sloane
-  tmdb_id: null
+  tmdb_id: 376290
   title: Miss Sloane
   year: 2016
   runtime: 132
@@ -17,3 +17,5 @@
     humor: 1
     acclaim: 0.68
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: miss-sloane
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/mi/4r/wf/77/miss-sloane-1200-1200-675-675-crop-000000.jpg?v=510d7bc244

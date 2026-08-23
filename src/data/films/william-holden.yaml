@@ -4,10 +4,12 @@
 # Network already exists in faye-dunaway.yaml.
 
 - id: the-wild-bunch
-  tmdb_id: null
+  tmdb_id: 576
   title: The Wild Bunch
   year: 1969
   runtime: 145
   director: Sam Peckinpah
   tags: { opacity: 1, stillness: 1, bleakness: 5, humor: 1, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: the-wild-bunch
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/uj/hy/jn/pp/the-wild-bunch-1200-1200-675-675-crop-000000.jpg?v=443c8a1301

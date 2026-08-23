@@ -4,7 +4,7 @@
 # the Wind already exists in vivien-leigh.yaml.
 
 - id: the-heiress
-  tmdb_id: null
+  tmdb_id: 28571
   title: The Heiress
   year: 1949
   runtime: 115
@@ -16,3 +16,5 @@
     humor: 1
     acclaim: 0.90
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: the-heiress
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/p1/13/li/vj/heiress-1200-1200-675-675-crop-000000.jpg?v=44bdedde41

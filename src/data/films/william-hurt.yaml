@@ -4,7 +4,7 @@
 # A History of Violence already exists in cronenberg.yaml. The Big Chill already exists in close.yaml.
 
 - id: kiss-of-the-spider-woman
-  tmdb_id: null
+  tmdb_id: 11703
   title: Kiss of the Spider Woman
   year: 1985
   runtime: 120
@@ -16,3 +16,5 @@
     humor: 1
     acclaim: 0.78
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  letterboxd_slug: kiss-of-the-spider-woman
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/tf/lb/5t/i9/kiss-of-spider-woman-1200-1200-675-675-crop-000000.jpg?v=4db6be877e

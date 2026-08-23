@@ -4,7 +4,7 @@
 # exists in stewart.yaml.
 
 - id: husbands
-  tmdb_id: null
+  tmdb_id: 52105
   title: Husbands
   year: 1970
   runtime: 154
@@ -16,3 +16,5 @@
     humor: 2
     acclaim: 0.68
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: husbands
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/0z/jn/rd/i0/husbands-1200-1200-675-675-crop-000000.jpg?v=7993f15e25

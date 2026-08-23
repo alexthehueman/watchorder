@@ -5,7 +5,7 @@
 # Beetlejuice already exists in keaton-michael.yaml.
 
 - id: heathers
-  tmdb_id: null
+  tmdb_id: 2640
   title: Heathers
   year: 1988
   runtime: 102
@@ -17,3 +17,5 @@
     humor: 3
     acclaim: 0.72
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 0 }
+  letterboxd_slug: heathers
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/c1/6j/s0/zh/heathers-1200-1200-675-675-crop-000000.jpg?v=2fc42a23f9

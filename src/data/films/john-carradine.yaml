@@ -4,7 +4,7 @@
 # Commandments already exists in charlton-heston.yaml.
 
 - id: house-of-frankenstein
-  tmdb_id: null
+  tmdb_id: 3103
   title: House of Frankenstein
   year: 1944
   runtime: 71
@@ -16,3 +16,5 @@
     humor: 1
     acclaim: 0.60
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: house-of-frankenstein
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/cl/ml/ce/hi/house-1200-1200-675-675-crop-000000.jpg?v=83076b15a7

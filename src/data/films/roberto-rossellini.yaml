@@ -5,7 +5,7 @@
 # and L'Amore already exist in magnani.yaml.
 
 - id: paisan
-  tmdb_id: null
+  tmdb_id: 8429
   title: Paisan
   year: 1946
   runtime: 134
@@ -17,9 +17,11 @@
     humor: 2
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: paisan
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/vs/yh/x3/zk/paisan-1200-1200-675-675-crop-000000.jpg?v=73da692722
 
 - id: germany-year-zero
-  tmdb_id: null
+  tmdb_id: 8016
   title: Germany Year Zero
   year: 1948
   runtime: 78
@@ -31,3 +33,5 @@
     humor: 1
     acclaim: 0.80
   content: { sexual_violence: false, animal_harm: true, child_harm: true, suicide: true, violence: 2, sex: 0 }
+  letterboxd_slug: germany-year-zero
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ov/xu/dv/ei/vblx2TkQFrBrEORsEssizgEqakT-1200-1200-675-675-crop-000000.jpg?v=782f45f9c1

@@ -4,7 +4,7 @@
 # redford.yaml. Sophie's Choice already exists in streep.yaml.
 
 - id: the-parallax-view
-  tmdb_id: null
+  tmdb_id: 17365
   title: The Parallax View
   year: 1974
   runtime: 102
@@ -16,9 +16,11 @@
     humor: 1
     acclaim: 0.82
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: the-parallax-view
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/jr/ru/js/c7/parallax-view-1200-1200-675-675-crop-000000.jpg?v=2ac9ed52db
 
 - id: presumed-innocent
-  tmdb_id: null
+  tmdb_id: 11092
   title: Presumed Innocent
   year: 1990
   runtime: 127
@@ -30,9 +32,11 @@
     humor: 1
     acclaim: 0.72
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 2 }
+  letterboxd_slug: presumed-innocent
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/gn/95/sx/bp/presumed-innocent-1200-1200-675-675-crop-000000.jpg?v=f231622722
 
 - id: the-pelican-brief
-  tmdb_id: null
+  tmdb_id: 9944
   title: The Pelican Brief
   year: 1993
   runtime: 141
@@ -44,9 +48,11 @@
     humor: 1
     acclaim: 0.62
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: the-pelican-brief
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/pd/kz/fx/e8/IMG_2904-1200-1200-675-675-crop-000000.jpg?v=b677dfd018
 
 - id: consenting-adults
-  tmdb_id: null
+  tmdb_id: 37753
   title: Consenting Adults
   year: 1992
   runtime: 100
@@ -58,9 +64,11 @@
     humor: 2 # a pulpier, more ironic register than the rest of his filmography
     acclaim: 0.55
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 2 }
+  letterboxd_slug: consenting-adults
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/u1/sm/n4/55/sCBEywMPvO8sS3dvubMNYt7onCD-1200-1200-675-675-crop-000000.jpg?v=8d46a65278
 
 - id: the-devils-own
-  tmdb_id: null
+  tmdb_id: 4477
   title: The Devil's Own
   year: 1997
   runtime: 111
@@ -72,3 +80,5 @@
     humor: 1
     acclaim: 0.55
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: the-devils-own
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/64/9p/u3/2k/devils%20ow-1200-1200-675-675-crop-000000.jpg?v=b96caebaa2

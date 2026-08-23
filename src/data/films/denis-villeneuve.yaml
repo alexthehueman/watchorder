@@ -6,7 +6,7 @@
 # jackman.yaml. Dune: Part Two already exists in zendaya.yaml.
 
 - id: maelstrom
-  tmdb_id: null
+  tmdb_id: 35650
   title: Maelstrom
   year: 2000
   runtime: 87
@@ -18,3 +18,5 @@
     humor: 4 # the deadpan, philosophizing fish narration is the one genuinely funny idea in his filmography
     acclaim: 0.65
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  letterboxd_slug: maelstrom
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/8s/op/qk/bs/maelstrom-1200-1200-675-675-crop-000000.jpg?v=5fb1a2cec6

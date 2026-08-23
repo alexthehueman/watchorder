@@ -5,7 +5,7 @@
 # in sykes.yaml. Legally Blonde already exists in witherspoon.yaml.
 
 - id: "21"
-  tmdb_id: null
+  tmdb_id: 8065
   title: "21"
   year: 2008
   runtime: 123
@@ -17,3 +17,5 @@
     humor: 2
     acclaim: 0.60
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: "21"
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/rh/t7/dy/2d/21-1200-1200-675-675-crop-000000.jpg?v=441b4483d1

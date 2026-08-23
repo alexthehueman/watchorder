@@ -4,16 +4,18 @@
 # Reds already exists in keaton-diane.yaml.
 
 - id: shampoo
-  tmdb_id: null
+  tmdb_id: 31121
   title: Shampoo
   year: 1975
   runtime: 109
   director: Hal Ashby
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 4, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+  letterboxd_slug: shampoo
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/rs/tp/p3/1m/shampoo-1200-1200-675-675-crop-000000.jpg?v=88d05d2a0f
 
 - id: heaven-can-wait
-  tmdb_id: null
+  tmdb_id: 12185
   title: Heaven Can Wait
   year: 1978
   runtime: 101
@@ -25,3 +27,5 @@
     humor: 4
     acclaim: 0.72
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: heaven-can-wait-1978
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/sz/eg/w2/p5/heaven-can-wait-1200-1200-675-675-crop-000000.jpg?v=c5f633c0b9

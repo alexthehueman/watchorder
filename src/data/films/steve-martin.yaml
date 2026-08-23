@@ -1,43 +1,51 @@
 # New films for Steve Martin. Scales and anchors are in README.md ("The anchor rubric").
 
 - id: the-jerk
-  tmdb_id: null
+  tmdb_id: 6471
   title: The Jerk
   year: 1979
   runtime: 94
   director: Carl Reiner
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 5, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: the-jerk
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/nb/b0/r1/vy/the-jerk-1200-1200-675-675-crop-000000.jpg?v=3eea2e9dca
 
 - id: roxanne
-  tmdb_id: null
+  tmdb_id: 11584
   title: Roxanne
   year: 1987
   runtime: 107
   director: Fred Schepisi
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: roxanne
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/os/2m/ez/y5/rozanne-1200-1200-675-675-crop-000000.jpg?v=d692361a34
 
 - id: three-amigos
-  tmdb_id: null
+  tmdb_id: 8388
   title: Three Amigos
   year: 1986
   runtime: 104
   director: John Landis
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: three-amigos
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ve/gz/bw/g0/three-amigos-1200-1200-675-675-crop-000000.jpg?v=f32711486c
 
 - id: father-of-the-bride
-  tmdb_id: null
+  tmdb_id: 11846
   title: Father of the Bride
   year: 1991
   runtime: 105
   director: Charles Shyer
   tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 3, acclaim: 0.65 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: father-of-the-bride-1991
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/c3/ci/9s/j6/father-of-the-bride-1200-1200-675-675-crop-000000.jpg?v=c5da1611b6
 
 - id: planes-trains-and-automobiles
-  tmdb_id: null
+  tmdb_id: 2609
   title: Planes, Trains and Automobiles
   year: 1987
   runtime: 93
@@ -49,3 +57,5 @@
     humor: 4
     acclaim: 0.78
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: planes-trains-and-automobiles
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/or/9w/t2/zr/planes-1200-1200-675-675-crop-000000.jpg?v=1a2e7a6a57

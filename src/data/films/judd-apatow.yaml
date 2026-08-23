@@ -5,10 +5,12 @@
 # exists in rogen.yaml. This Is 40 already exists in rudd.yaml.
 
 - id: the-king-of-staten-island
-  tmdb_id: null
+  tmdb_id: 579583
   title: The King of Staten Island
   year: 2020
   runtime: 137
   director: Judd Apatow
   tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 3, acclaim: 0.65 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  letterboxd_slug: the-king-of-staten-island
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/4g/1n/b9/fv/king-1200-1200-675-675-crop-000000.jpg?v=21aa282a32

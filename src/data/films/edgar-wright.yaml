@@ -4,7 +4,7 @@
 # in foxx.yaml. Hot Fuzz already exists in timothy-dalton.yaml.
 
 - id: a-fistful-of-fingers
-  tmdb_id: null
+  tmdb_id: 52996
   title: A Fistful of Fingers
   year: 1995
   runtime: 77
@@ -16,27 +16,33 @@
     humor: 4 # a scrappy, ultra-low-budget spaghetti-western spoof, made while he was still a film student
     acclaim: 0.45
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: a-fistful-of-fingers
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/8s/5b/a3/cd/fistful-1200-1200-675-675-crop-000000.jpg?v=6e68c908d8
 
 - id: shaun-of-the-dead
-  tmdb_id: null
+  tmdb_id: 747
   title: Shaun of the Dead
   year: 2004
   runtime: 99
   director: Edgar Wright
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 5, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: shaun-of-the-dead
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/62/sy/ca/vf/shaun-of-the-dead-1200-1200-675-675-crop-000000.jpg?v=ad4a57c450
 
 - id: the-worlds-end
-  tmdb_id: null
+  tmdb_id: 107985
   title: The World's End
   year: 2013
   runtime: 109
   director: Edgar Wright
   tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 4, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: the-worlds-end
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/q4/l2/kg/2e/the-worlds-end-30-1200-1200-675-675-crop-000000.jpg?v=352b36356a
 
 - id: last-night-in-soho
-  tmdb_id: null
+  tmdb_id: 576845
   title: Last Night in Soho
   year: 2021
   runtime: 116
@@ -48,12 +54,16 @@
     humor: 1
     acclaim: 0.68
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  letterboxd_slug: last-night-in-soho
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/in/lt/lr/1o/last-night-in-soho-1200-1200-675-675-crop-000000.jpg?v=1245b54e2b
 
 - id: the-running-man-2025
-  tmdb_id: null
+  tmdb_id: 798645
   title: The Running Man
   year: 2025
   runtime: 133
   director: Edgar Wright
   tags: { opacity: 1, stillness: 1, bleakness: 4, humor: 2, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: the-running-man-2025
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/76/9d/qq/sn/arPneKwUK8aHXx2Q552vJSW8xzc-1200-1200-675-675-crop-000000.jpg?v=5605098ac5

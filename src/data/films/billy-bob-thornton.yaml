@@ -4,7 +4,7 @@
 # Monster's Ball already exists in berry.yaml.
 
 - id: sling-blade
-  tmdb_id: null
+  tmdb_id: 12498
   title: Sling Blade
   year: 1996
   runtime: 135
@@ -16,12 +16,16 @@
     humor: 1
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: sling-blade
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/o3/av/hm/i0/sling-blade-1200-1200-675-675-crop-000000.jpg?v=6d47d176d1
 
 - id: bad-santa
-  tmdb_id: null
+  tmdb_id: 10147
   title: Bad Santa
   year: 2003
   runtime: 91
   director: Terry Zwigoff
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 4, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  letterboxd_slug: bad-santa
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ae/gi/x4/td/bad-santa-1200-1200-675-675-crop-000000.jpg?v=a7d89ef11f

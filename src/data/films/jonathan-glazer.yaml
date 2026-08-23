@@ -5,7 +5,7 @@
 # exists in kidman.yaml.
 
 - id: sexy-beast
-  tmdb_id: null
+  tmdb_id: 11826
   title: Sexy Beast
   year: 2000
   runtime: 89
@@ -17,3 +17,5 @@
     humor: 2
     acclaim: 0.75
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: sexy-beast
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/pw/h3/5e/v7/sexy%20beast-1200-1200-675-675-crop-000000.jpg?v=fe92754151

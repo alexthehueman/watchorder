@@ -4,7 +4,7 @@
 # damon.yaml.
 
 - id: manhunter
-  tmdb_id: null
+  tmdb_id: 11454
   title: Manhunter
   year: 1986
   runtime: 120
@@ -16,9 +16,11 @@
     humor: 1
     acclaim: 0.78
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: manhunter
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/aq/d2/hw/3c/manhunter-1200-1200-675-675-crop-000000.jpg?v=30765b19a2
 
 - id: x2
-  tmdb_id: null
+  tmdb_id: 36658
   title: X2
   year: 2003
   runtime: 134
@@ -30,3 +32,5 @@
     humor: 2
     acclaim: 0.78
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: x2
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/0n/us/7t/hj/x2-xmen-1200-1200-675-675-crop-000000.jpg?v=7552a86824

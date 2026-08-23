@@ -5,7 +5,7 @@
 # michelle-rodriguez.yaml. Brewster's Millions already exists in richard-pryor.yaml.
 
 - id: the-warriors
-  tmdb_id: null
+  tmdb_id: 11474
   title: The Warriors
   year: 1979
   runtime: 92
@@ -17,3 +17,5 @@
     humor: 1
     acclaim: 0.75
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: the-warriors
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/uh/a1/6s/6z/the-warriors-1200-1200-675-675-crop-000000.jpg?v=775f36527c

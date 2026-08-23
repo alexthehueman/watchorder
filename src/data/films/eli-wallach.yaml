@@ -4,7 +4,7 @@
 # already exists in monroe.yaml.
 
 - id: the-magnificent-seven-1960
-  tmdb_id: null
+  tmdb_id: 966
   title: The Magnificent Seven
   year: 1960
   runtime: 128
@@ -16,9 +16,11 @@
     humor: 2
     acclaim: 0.82
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: the-magnificent-seven
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/yr/oe/y9/8l/the-magnificent-seven-1200-1200-675-675-crop-000000.jpg?v=db2f5b8fd2
 
 - id: baby-doll
-  tmdb_id: null
+  tmdb_id: 40478
   title: Baby Doll
   year: 1956
   runtime: 114
@@ -30,3 +32,5 @@
     humor: 2
     acclaim: 0.72
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+  letterboxd_slug: baby-doll
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/dm/br/ur/7f/1Nl4BgHZ7R6CnreBsMos7sZDaZF-1200-1200-675-675-crop-000000.jpg?v=95f7210388

@@ -5,7 +5,7 @@
 # Take Shelter and Midnight Special already exist in shannon.yaml.
 
 - id: loving
-  tmdb_id: null
+  tmdb_id: 339419
   title: Loving
   year: 2016
   runtime: 123
@@ -17,3 +17,5 @@
     humor: 1
     acclaim: 0.82
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: loving-2016
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/b1/il/qk/xm/loving-2016-1200-1200-675-675-crop-000000.jpg?v=4c17bc4ca3

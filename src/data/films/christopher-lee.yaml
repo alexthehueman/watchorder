@@ -6,7 +6,7 @@
 # The Man with the Golden Gun already exists in roger-moore.yaml.
 
 - id: the-wicker-man
-  tmdb_id: null
+  tmdb_id: 16307
   title: The Wicker Man
   year: 1973
   runtime: 88
@@ -18,3 +18,5 @@
     humor: 2
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 2 }
+  letterboxd_slug: the-wicker-man
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/vx/bd/dl/zs/the-wicker-man-1200-1200-675-675-crop-000000.jpg?v=2bc0ea2ce4

@@ -5,7 +5,7 @@
 # Young Adult and Tully already exist in theron.yaml.
 
 - id: thank-you-for-smoking
-  tmdb_id: null
+  tmdb_id: 9388
   title: Thank You for Smoking
   year: 2005
   runtime: 92
@@ -17,3 +17,5 @@
     humor: 4
     acclaim: 0.75
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: thank-you-for-smoking
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/st/7b/q1/3g/thank-you-for-smoking-1200-1200-675-675-crop-000000.jpg?v=d9c91177ea

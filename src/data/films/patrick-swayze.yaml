@@ -4,19 +4,23 @@
 # Point Break already exists in reeves.yaml.
 
 - id: dirty-dancing
-  tmdb_id: null
+  tmdb_id: 88
   title: Dirty Dancing
   year: 1987
   runtime: 100
   director: Emile Ardolino
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: dirty-dancing
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/do/6u/y1/8c/dirty-dancing-1200-1200-675-675-crop-000000.jpg?v=de0e159291
 
 - id: road-house
-  tmdb_id: null
+  tmdb_id: 10135
   title: Road House
   year: 1989
   runtime: 114
   director: Rowdy Herrington
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 2, acclaim: 0.45 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+  letterboxd_slug: road-house
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/wd/1y/jf/69/road-house-1200-1200-675-675-crop-000000.jpg?v=77f2880627
