@@ -5,7 +5,7 @@
 # eddie-murphy.yaml. Three Amigos already exists in steve-martin.yaml.
 
 - id: an-american-werewolf-in-london
-  tmdb_id: null
+  tmdb_id: 814
   title: An American Werewolf in London
   year: 1981
   runtime: 97
@@ -17,3 +17,5 @@
     humor: 3
     acclaim: 0.75
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+  letterboxd_slug: an-american-werewolf-in-london
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/1n/pe/uf/5o/an-american-werewolf-in-london-1200-1200-675-675-crop-000000.jpg?v=05a3e1250a

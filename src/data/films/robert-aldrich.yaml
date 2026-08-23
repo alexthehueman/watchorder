@@ -6,7 +6,7 @@
 # davis.yaml id). The Longest Yard already exists in burt-reynolds.yaml.
 
 - id: kiss-me-deadly
-  tmdb_id: null
+  tmdb_id: 18030
   title: Kiss Me Deadly
   year: 1955
   runtime: 106
@@ -18,9 +18,11 @@
     humor: 1
     acclaim: 0.82
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+  letterboxd_slug: kiss-me-deadly
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/qc/mp/z9/gb/kiss-me-deadly-1200-1200-675-675-crop-000000.jpg?v=ad69b20be6
 
 - id: the-dirty-dozen
-  tmdb_id: null
+  tmdb_id: 1654
   title: The Dirty Dozen
   year: 1967
   runtime: 150
@@ -32,3 +34,5 @@
     humor: 2
     acclaim: 0.80
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: the-dirty-dozen
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/2d/e1/pe/31/the-dirty-dozen-1200-1200-675-675-crop-000000.jpg?v=4616672c71

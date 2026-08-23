@@ -6,7 +6,7 @@
 # stanfield.yaml. Be Cool already exists in thurman.yaml.
 
 - id: the-fate-of-the-furious
-  tmdb_id: null
+  tmdb_id: 337339
   title: The Fate of the Furious
   year: 2017
   runtime: 136
@@ -18,9 +18,11 @@
     humor: 2
     acclaim: 0.60
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: the-fate-of-the-furious
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/j7/a3/0y/0g/f8-1200-1200-675-675-crop-000000.jpg?v=3138f2a4a6
 
 - id: the-italian-job-2003
-  tmdb_id: null
+  tmdb_id: 9654
   title: The Italian Job
   year: 2003
   runtime: 111
@@ -32,3 +34,5 @@
     humor: 3
     acclaim: 0.68
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: the-italian-job-2003
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/2s/mc/9b/pw/the-italian-job-2003-1200-1200-675-675-crop-000000.jpg?v=397aa930db

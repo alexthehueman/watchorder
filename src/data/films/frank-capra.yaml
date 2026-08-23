@@ -5,7 +5,7 @@
 # a Wonderful Life already exist in stewart.yaml.
 
 - id: it-happened-one-night
-  tmdb_id: null
+  tmdb_id: 3078
   title: It Happened One Night
   year: 1934
   runtime: 105
@@ -17,3 +17,5 @@
     humor: 4
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: it-happened-one-night
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/kk/g3/ad/re/it%20happened-1200-1200-675-675-crop-000000.jpg?v=32dad83be3

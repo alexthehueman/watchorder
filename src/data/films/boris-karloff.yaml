@@ -1,25 +1,29 @@
 # New films for Boris Karloff. Scales and anchors are in README.md ("The anchor rubric").
 
 - id: frankenstein-1931
-  tmdb_id: null
+  tmdb_id: 3035
   title: Frankenstein
   year: 1931
   runtime: 70
   director: James Whale
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.82 }
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: frankenstein-1931
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/oi/pa/7p/a6/frankenstein-1200-1200-675-675-crop-000000.jpg?v=d83a8df273
 
 - id: bride-of-frankenstein
-  tmdb_id: null
+  tmdb_id: 229
   title: Bride of Frankenstein
   year: 1935
   runtime: 75
   director: James Whale
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.90 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: bride-of-frankenstein
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/t0/wc/5d/86/the-bride-of-frankenstein-1200-1200-675-675-crop-000000.jpg?v=7de4e4ecd3
 
 - id: the-mummy-1932
-  tmdb_id: null
+  tmdb_id: 15849
   title: The Mummy
   year: 1932
   runtime: 73
@@ -31,9 +35,11 @@
     humor: 1
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: the-mummy
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/dz/jh/j7/vb/the-mummy-1200-1200-675-675-crop-000000.jpg?v=cbd21f3c05
 
 - id: the-black-cat
-  tmdb_id: null
+  tmdb_id: 24106
   title: The Black Cat
   year: 1934
   runtime: 65
@@ -45,3 +51,5 @@
     humor: 1
     acclaim: 0.68
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: the-black-cat
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/r9/8g/bq/z9/black%20cat-1200-1200-675-675-crop-000000.jpg?v=e58ee383d3

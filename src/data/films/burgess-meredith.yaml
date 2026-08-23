@@ -4,7 +4,7 @@
 # Rocky II already exists in talia-shire.yaml.
 
 - id: the-day-of-the-locust
-  tmdb_id: null
+  tmdb_id: 5122
   title: The Day of the Locust
   year: 1975
   runtime: 144
@@ -16,12 +16,16 @@
     humor: 1
     acclaim: 0.68
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: the-day-of-the-locust
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/8j/x4/eb/ej/day%20of%20the%20locust-1200-1200-675-675-crop-000000.jpg?v=639ee4c354
 
 - id: batman-the-movie
-  tmdb_id: null
+  tmdb_id: 2661
   title: "Batman: The Movie"
   year: 1966
   runtime: 105
   director: Leslie H. Martinson
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 5, acclaim: 0.62 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: batman-the-movie
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/jk/ll/jw/r5/batman-1200-1200-675-675-crop-000000.jpg?v=05d77968cf

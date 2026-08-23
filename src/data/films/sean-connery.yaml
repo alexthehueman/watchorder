@@ -3,25 +3,29 @@
 # The Untouchables already exists in costner.yaml — tagged before he had an entity.
 
 - id: goldfinger
-  tmdb_id: null
+  tmdb_id: 658
   title: Goldfinger
   year: 1964
   runtime: 110
   director: Guy Hamilton
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.80 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  letterboxd_slug: goldfinger
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/1l/mi/je/dh/goldfinger-1200-1200-675-675-crop-000000.jpg?v=566f8ee9f7
 
 - id: indiana-jones-and-the-last-crusade
-  tmdb_id: null
+  tmdb_id: 89
   title: Indiana Jones and the Last Crusade
   year: 1989
   runtime: 127
   director: Steven Spielberg
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.82 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: indiana-jones-and-the-last-crusade
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/0u/gu/pz/x0/indiana-jones-and-the-last-crusade-1200-1200-675-675-crop-000000.jpg?v=3d519f0516
 
 - id: the-hunt-for-red-october
-  tmdb_id: null
+  tmdb_id: 1669
   title: The Hunt for Red October
   year: 1990
   runtime: 135
@@ -33,3 +37,5 @@
     humor: 1
     acclaim: 0.78
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: the-hunt-for-red-october
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/x8/hq/bf/p3/hunt-for-red-october-1200-1200-675-675-crop-000000.jpg?v=f6d1b436a7

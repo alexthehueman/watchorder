@@ -5,7 +5,7 @@
 # daniel-craig.yaml. GoldenEye already exists in dench.yaml.
 
 - id: edge-of-darkness
-  tmdb_id: null
+  tmdb_id: 12201
   title: Edge of Darkness
   year: 2010
   runtime: 117
@@ -17,3 +17,5 @@
     humor: 1
     acclaim: 0.62
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: edge-of-darkness-2010
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/6k/6c/i4/qn/9cEKSnkYsgrBZTc7MaVbCKiho6W-1200-1200-675-675-crop-000000.jpg?v=21d23f3dfe

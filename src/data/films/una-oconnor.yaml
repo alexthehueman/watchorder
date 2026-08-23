@@ -4,19 +4,23 @@
 # Man already exists in claude-rains.yaml.
 
 - id: the-adventures-of-robin-hood
-  tmdb_id: null
+  tmdb_id: 10907
   title: The Adventures of Robin Hood
   year: 1938
   runtime: 102
   director: Michael Curtiz
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: the-adventures-of-robin-hood
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/sh/7f/9r/99/the-adventures-of-robin-hood-1200-1200-675-675-crop-000000.jpg?v=493f2b819e
 
 - id: david-copperfield
-  tmdb_id: null
+  tmdb_id: 43899
   title: David Copperfield
   year: 1935
   runtime: 133
   director: George Cukor
   tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 2, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: david-copperfield-1935
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/lc/e3/ze/hk/wkKhhLVUWGDjbe1REgMBKfDVI2k-1200-1200-675-675-crop-000000.jpg?v=c7935f0da6

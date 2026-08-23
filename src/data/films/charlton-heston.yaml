@@ -4,7 +4,7 @@
 # Soylent Green already exists in edward-g-robinson.yaml.
 
 - id: planet-of-the-apes
-  tmdb_id: null
+  tmdb_id: 871
   title: Planet of the Apes
   year: 1968
   runtime: 112
@@ -16,12 +16,16 @@
     humor: 1
     acclaim: 0.82
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: planet-of-the-apes
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/a6/1m/bo/r6/planet-of-the-apes-1200-1200-675-675-crop-000000.jpg?v=449acd3065
 
 - id: the-ten-commandments
-  tmdb_id: null
+  tmdb_id: 6844
   title: The Ten Commandments
   year: 1956
   runtime: 220
   director: Cecil B. DeMille
   tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: the-ten-commandments-1956
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/5q/0g/xx/si/the-ten-commandments-1200-1200-675-675-crop-000000.jpg?v=c896b95033

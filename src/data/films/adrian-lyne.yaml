@@ -6,7 +6,7 @@
 # already exists in lane.yaml.
 
 - id: flashdance
-  tmdb_id: null
+  tmdb_id: 535
   title: Flashdance
   year: 1983
   runtime: 96
@@ -18,3 +18,5 @@
     humor: 2
     acclaim: 0.55
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: flashdance
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/1d/9c/5t/gk/flashdance-1200-1200-675-675-crop-000000.jpg?v=2648cddfc0

@@ -4,10 +4,12 @@
 # Deliverance already exists in burt-reynolds.yaml. Runaway Train already exists in cannon.yaml.
 
 - id: coming-home
-  tmdb_id: null
+  tmdb_id: 31657
   title: Coming Home
   year: 1978
   runtime: 127
   director: Hal Ashby
   tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  letterboxd_slug: coming-home
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/qz/5m/f4/u5/cominghome-1200-1200-675-675-crop-000000.jpg?v=ac4e410bd8

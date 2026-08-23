@@ -5,7 +5,7 @@
 # exists in janet-leigh.yaml. Waterloo Bridge already exists in vivien-leigh.yaml.
 
 - id: random-harvest
-  tmdb_id: null
+  tmdb_id: 22387
   title: Random Harvest
   year: 1942
   runtime: 126
@@ -17,3 +17,5 @@
     humor: 1
     acclaim: 0.72
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: random-harvest
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/al/66/qi/2r/qEOCkootbmhYKoqv84f1YOoCYaZ-1200-1200-675-675-crop-000000.jpg?v=1471a6bc42

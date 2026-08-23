@@ -4,7 +4,7 @@
 # The Apartment already exists in wilder.yaml. Steel Magnolias already exists in julia-roberts.yaml.
 
 - id: the-turning-point
-  tmdb_id: null
+  tmdb_id: 61280
   title: The Turning Point
   year: 1977
   runtime: 119
@@ -16,3 +16,5 @@
     humor: 2
     acclaim: 0.68
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: the-turning-point-1977
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/d6/k2/15/m6/turningpoint-1200-1200-675-675-crop-000000.jpg?v=0a76ddd395

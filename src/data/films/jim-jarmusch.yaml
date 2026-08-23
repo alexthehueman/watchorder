@@ -5,7 +5,7 @@
 # swinton.yaml. Ghost Dog: The Way of the Samurai already exists in whitaker.yaml.
 
 - id: stranger-than-paradise
-  tmdb_id: null
+  tmdb_id: 469
   title: Stranger Than Paradise
   year: 1984
   runtime: 89
@@ -17,9 +17,11 @@
     humor: 2
     acclaim: 0.80
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: stranger-than-paradise
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/hb/e4/la/vc/stranger-1200-1200-675-675-crop-000000.jpg?v=4371da6650
 
 - id: down-by-law
-  tmdb_id: null
+  tmdb_id: 1554
   title: Down by Law
   year: 1986
   runtime: 107
@@ -31,3 +33,5 @@
     humor: 2
     acclaim: 0.78
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: down-by-law
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/qn/xh/md/3k/down-by-law-1200-1200-675-675-crop-000000.jpg?v=a3cb07fb73

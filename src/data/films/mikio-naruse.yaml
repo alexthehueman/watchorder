@@ -5,7 +5,7 @@
 # the Stairs already exists in toho.yaml.
 
 - id: floating-clouds
-  tmdb_id: null
+  tmdb_id: 77285
   title: Floating Clouds
   year: 1955
   runtime: 123
@@ -17,3 +17,5 @@
     humor: 1
     acclaim: 0.82
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: floating-clouds
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/it/lw/oi/p2/floating-clouds-1200-1200-675-675-crop-000000.jpg?v=54d7ad35ad

@@ -7,7 +7,7 @@
 # exists in pike.yaml. Se7en and Fight Club already exist in pitt.yaml.
 
 - id: mank
-  tmdb_id: null
+  tmdb_id: 614560
   title: Mank
   year: 2020
   runtime: 131
@@ -19,3 +19,5 @@
     humor: 3
     acclaim: 0.68
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: mank
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/zt/mf/n2/xb/mank-1200-1200-675-675-crop-000000.jpg?v=2debba694f

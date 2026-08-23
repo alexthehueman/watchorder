@@ -6,7 +6,7 @@
 # in russell-crowe.yaml.
 
 - id: picnic-at-hanging-rock
-  tmdb_id: null
+  tmdb_id: 11020
   title: Picnic at Hanging Rock
   year: 1975
   runtime: 107
@@ -18,12 +18,16 @@
     humor: 1
     acclaim: 0.82
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: picnic-at-hanging-rock
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/0c/yr/r3/1z/picnic-at-hanging-rock-1200-1200-675-675-crop-000000.jpg?v=a230a5507c
 
 - id: gallipoli
-  tmdb_id: null
+  tmdb_id: 11646
   title: Gallipoli
   year: 1981
   runtime: 110
   director: Peter Weir
   tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 2, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: gallipoli
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/35/44/qy/to/gallipoli-1200-1200-675-675-crop-000000.jpg?v=c8f8cd90ac

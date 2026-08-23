@@ -3,7 +3,7 @@
 # Tootsie already exists in hoffman.yaml — tagged before she had an entity.
 
 - id: blue-sky
-  tmdb_id: null
+  tmdb_id: 57834
   title: Blue Sky
   year: 1994
   runtime: 101
@@ -15,21 +15,27 @@
     humor: 2
     acclaim: 0.65
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: blue-sky
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/re/3o/el/hk/bluesky-1200-1200-675-675-crop-000000.jpg?v=29ca84ff04
 
 - id: frances
-  tmdb_id: null
+  tmdb_id: 3526
   title: Frances
   year: 1982
   runtime: 140
   director: Graeme Clifford
   tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.72 }
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: frances
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/1j/u2/s8/sh/france-1200-1200-675-675-crop-000000.jpg?v=9ab76f160e
 
 - id: king-kong-1976
-  tmdb_id: null
+  tmdb_id: 10730
   title: King Kong
   year: 1976
   runtime: 134
   director: John Guillermin
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.45 }
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: king-kong-1976
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/bl/lp/ao/l7/king-kong-1976-1200-1200-675-675-crop-000000.jpg?v=e4dfdeb23c

@@ -6,7 +6,7 @@
 # Begins already exist in bale.yaml.
 
 - id: memento
-  tmdb_id: null
+  tmdb_id: 77
   title: Memento
   year: 2000
   runtime: 113
@@ -18,3 +18,5 @@
     humor: 2 # Teddy's sardonic asides and the tattoo-instructions-to-self device carry a dry, ironic wit through an otherwise grim revenge plot
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: memento
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/za/7s/m0/sh/memento-1200-1200-675-675-crop-000000.jpg?v=d37b27369d

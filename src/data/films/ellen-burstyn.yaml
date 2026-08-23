@@ -3,7 +3,7 @@
 # The Exorcist already exists in von-sydow.yaml — tagged before she had an entity.
 
 - id: requiem-for-a-dream
-  tmdb_id: null
+  tmdb_id: 641
   title: Requiem for a Dream
   year: 2000
   runtime: 102
@@ -15,21 +15,27 @@
     humor: 1
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  letterboxd_slug: requiem-for-a-dream
+  poster_url: https://a.ltrbxd.com/resized/alternative-backdrop/5/1/4/8/3/tmdb/b0EzdzbXZhPmlHkjmQOkjGFCpDl-1200-1200-675-675-crop-000000.jpg?v=074641238e
 
 - id: alice-doesnt-live-here-anymore
-  tmdb_id: null
+  tmdb_id: 16153
   title: Alice Doesn't Live Here Anymore
   year: 1974
   runtime: 112
   director: Martin Scorsese
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: alice-doesnt-live-here-anymore
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/tl/mq/xv/58/alice-doesnt-live-here-anymore-1200-1200-675-675-crop-000000.jpg?v=0d8a3b0262
 
 - id: same-time-next-year
-  tmdb_id: null
+  tmdb_id: 37672
   title: Same Time, Next Year
   year: 1978
   runtime: 119
   director: Robert Mulligan
   tags: { opacity: 1, stillness: 3, bleakness: 2, humor: 3, acclaim: 0.62 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: same-time-next-year
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/eh/k1/uc/22/g3yCzSnN5z6EvwdbQN4ncRuHr08-1200-1200-675-675-crop-000000.jpg?v=a2ae73917a

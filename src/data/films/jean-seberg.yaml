@@ -3,7 +3,7 @@
 # Breathless already exists in godard.yaml.
 
 - id: bonjour-tristesse
-  tmdb_id: null
+  tmdb_id: 1937
   title: Bonjour Tristesse
   year: 1958
   runtime: 94
@@ -15,18 +15,22 @@
     humor: 2
     acclaim: 0.75
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 1 }
+  letterboxd_slug: bonjour-tristesse
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/s3/7u/wh/dk/bonjour-1200-1200-675-675-crop-000000.jpg?v=90406a2847
 
 - id: paint-your-wagon
-  tmdb_id: null
+  tmdb_id: 20391
   title: Paint Your Wagon
   year: 1969
   runtime: 166
   director: Joshua Logan
   tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 3, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: paint-your-wagon
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/7o/fg/w6/xa/paint-1200-1200-675-675-crop-000000.jpg?v=2acdf0c1d6
 
 - id: lilith
-  tmdb_id: null
+  tmdb_id: 60437
   title: Lilith
   year: 1964
   runtime: 114
@@ -38,3 +42,5 @@
     humor: 1
     acclaim: 0.68
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: lilith
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/bs/tv/b8/ft/lilth-1200-1200-675-675-crop-000000.jpg?v=09aca312ba

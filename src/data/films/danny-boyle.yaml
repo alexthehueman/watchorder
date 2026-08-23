@@ -6,7 +6,7 @@
 # already exists in mcgregor.yaml. Steve Jobs already exists in winslet.yaml.
 
 - id: slumdog-millionaire
-  tmdb_id: null
+  tmdb_id: 12405
   title: Slumdog Millionaire
   year: 2008
   runtime: 120
@@ -18,9 +18,11 @@
     humor: 3
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: slumdog-millionaire
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/hs/8w/zu/6c/slumdog-millionaire-1200-1200-675-675-crop-000000.jpg?v=75cd062a0c
 
 - id: 127-hours
-  tmdb_id: null
+  tmdb_id: 44115
   title: 127 Hours
   year: 2010
   runtime: 94
@@ -32,9 +34,11 @@
     humor: 2 # real charm and dark wit in the canyoneer's video-diary monologues before it turns into pure survival
     acclaim: 0.82
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: 127-hours
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/af/yu/je/7t/127-hours-1200-1200-675-675-crop-000000.jpg?v=1e81ce312e
 
 - id: the-beach
-  tmdb_id: null
+  tmdb_id: 1907
   title: The Beach
   year: 2000
   runtime: 119
@@ -46,3 +50,5 @@
     humor: 2
     acclaim: 0.55
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  letterboxd_slug: the-beach
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/5v/r9/g7/pu/the-beach-1200-1200-675-675-crop-000000.jpg?v=d738e416ce

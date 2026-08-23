@@ -4,7 +4,7 @@
 # robert-englund.yaml. Red Eye already exists in cillian-murphy.yaml.
 
 - id: scream
-  tmdb_id: null
+  tmdb_id: 4232
   title: Scream
   year: 1996
   runtime: 111
@@ -16,12 +16,16 @@
     humor: 4
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  letterboxd_slug: scream
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/z9/jc/wv/pg/scream-1200-1200-675-675-crop-000000.jpg?v=4e05ce8832
 
 - id: the-last-house-on-the-left
-  tmdb_id: null
+  tmdb_id: 15516
   title: The Last House on the Left
   year: 1972
   runtime: 84
   director: Wes Craven
   tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.62 }
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+  letterboxd_slug: the-last-house-on-the-left
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/h3/87/zj/i0/last-house-on-the-left-1200-1200-675-675-crop-000000.jpg?v=62cc5b58d7

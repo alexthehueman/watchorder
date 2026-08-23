@@ -3,25 +3,29 @@
 # Frankenstein already exists in boris-karloff.yaml.
 
 - id: the-public-enemy
-  tmdb_id: null
+  tmdb_id: 17687
   title: The Public Enemy
   year: 1931
   runtime: 83
   director: William A. Wellman
   tags: { opacity: 1, stillness: 1, bleakness: 4, humor: 2, acclaim: 0.80 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: the-public-enemy
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/9y/ue/5i/sv/the-public-enemy-1200-1200-675-675-crop-000000.jpg?v=52921d783b
 
 - id: waterloo-bridge-1931
-  tmdb_id: null
+  tmdb_id: 95797
   title: Waterloo Bridge
   year: 1931
   runtime: 82
   director: James Whale
   tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: waterloo-bridge-1931
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/1a/4d/cz/ua/22LO5yLJHr3f8UTq1cmA4rK5CS6-1200-1200-675-675-crop-000000.jpg?v=01fe6e740d
 
 - id: lady-killer
-  tmdb_id: null
+  tmdb_id: 43597
   title: Lady Killer
   year: 1933
   runtime: 76
@@ -33,3 +37,5 @@
     humor: 3
     acclaim: 0.62
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: lady-killer
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/4s/qy/fs/kj/mqk4GxyxgGWkkm8zyfSQ5yW0OXG-1200-1200-675-675-crop-000000.jpg?v=ffb32fcd1b

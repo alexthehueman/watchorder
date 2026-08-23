@@ -4,7 +4,7 @@
 # arnold-schwarzenegger.yaml.
 
 - id: near-dark
-  tmdb_id: null
+  tmdb_id: 11879
   title: Near Dark
   year: 1987
   runtime: 94
@@ -16,9 +16,11 @@
     humor: 1
     acclaim: 0.72
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: near-dark
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ox/3t/m8/95/near-dark-1200-1200-675-675-crop-000000.jpg?v=dff1ec0a76
 
 - id: pumpkinhead
-  tmdb_id: null
+  tmdb_id: 26515
   title: Pumpkinhead
   year: 1988
   runtime: 86
@@ -30,3 +32,5 @@
     humor: 1
     acclaim: 0.65
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: pumpkinhead
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/9x/rp/vh/wv/pumpkinhead-1200-1200-675-675-crop-000000.jpg?v=610d3c877b

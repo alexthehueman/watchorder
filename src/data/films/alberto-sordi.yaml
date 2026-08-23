@@ -4,13 +4,15 @@
 # in vittorio-gassman.yaml.
 
 - id: an-american-in-rome
-  tmdb_id: null
+  tmdb_id: 43294
   title: An American in Rome
   year: 1954
   runtime: 100
   director: Steno
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 5, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: an-american-in-rome
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/dm/wz/ty/vd/an%20american%20in%20rome-1200-1200-675-675-crop-000000.jpg?v=de9f781671
 
 - id: un-borghese-piccolo-piccolo
   tmdb_id: null

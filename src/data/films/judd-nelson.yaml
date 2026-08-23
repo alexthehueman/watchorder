@@ -4,7 +4,7 @@
 # exists in chris-rock.yaml.
 
 - id: airheads
-  tmdb_id: null
+  tmdb_id: 13595
   title: Airheads
   year: 1994
   runtime: 92
@@ -16,12 +16,16 @@
     humor: 5
     acclaim: 0.55
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: airheads
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/vs/86/ze/qm/airheads-1200-1200-675-675-crop-000000.jpg?v=2e731131c5
 
 - id: st-elmos-fire
-  tmdb_id: null
+  tmdb_id: 11557
   title: St. Elmo's Fire
   year: 1985
   runtime: 108
   director: Joel Schumacher
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 2, acclaim: 0.62 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: st-elmos-fire
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/wo/zi/h5/sq/st-elmos-fire-1200-1200-675-675-crop-000000.jpg?v=187f191736

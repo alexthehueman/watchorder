@@ -5,7 +5,7 @@
 # exists in dench.yaml.
 
 - id: nuns-on-the-run
-  tmdb_id: null
+  tmdb_id: 11131
   title: Nuns on the Run
   year: 1990
   runtime: 91
@@ -17,3 +17,5 @@
     humor: 5
     acclaim: 0.62
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: nuns-on-the-run
+  poster_url: https://a.ltrbxd.com/resized/alternative-backdrop/4/5/5/7/5/tmdb/elBPA8Ra4DOe1ROoJkAVRaCU5kj-1200-1200-675-675-crop-000000.jpg?v=9f89f082c4

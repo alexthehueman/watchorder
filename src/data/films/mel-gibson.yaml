@@ -3,25 +3,29 @@
 # Ransom already exists in delroy-lindo.yaml — tagged before he had an entity.
 
 - id: lethal-weapon
-  tmdb_id: null
+  tmdb_id: 941
   title: Lethal Weapon
   year: 1987
   runtime: 110
   director: Richard Donner
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 4, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: lethal-weapon
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/9v/h5/ld/93/lethal-weapon-1200-1200-675-675-crop-000000.jpg?v=256475565b
 
 - id: braveheart
-  tmdb_id: null
+  tmdb_id: 197
   title: Braveheart
   year: 1995
   runtime: 178
   director: Mel Gibson
   tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: braveheart
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/4p/ir/5d/x5/braveheart-1200-1200-675-675-crop-000000.jpg?v=4e7634216e
 
 - id: signs
-  tmdb_id: null
+  tmdb_id: 2675
   title: Signs
   year: 2002
   runtime: 106
@@ -33,3 +37,5 @@
     humor: 2
     acclaim: 0.68
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: signs
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/w5/cm/94/vh/signs-3-1200-1200-675-675-crop-000000.jpg?v=ae68712126

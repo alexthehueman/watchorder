@@ -3,7 +3,7 @@
 # Breathless and Pierrot le Fou already exist in godard.yaml.
 
 - id: le-doulos
-  tmdb_id: null
+  tmdb_id: 20778
   title: Le Doulos
   year: 1962
   runtime: 108
@@ -15,12 +15,16 @@
     humor: 1
     acclaim: 0.82
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: le-doulos
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/u9/w7/w0/mu/le%20doulos-1200-1200-675-675-crop-000000.jpg?v=b4943c66d5
 
 - id: that-man-from-rio
-  tmdb_id: null
+  tmdb_id: 4034
   title: That Man from Rio
   year: 1964
   runtime: 114
   director: Philippe de Broca
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: that-man-from-rio
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/r9/a2/9e/rj/man%20from%20rio-1200-1200-675-675-crop-000000.jpg?v=24795aed7c

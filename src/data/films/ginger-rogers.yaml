@@ -3,10 +3,12 @@
 # Top Hat and Swing Time already exist in fred-astaire.yaml — tagged before she had an entity.
 
 - id: kitty-foyle
-  tmdb_id: null
+  tmdb_id: 77744
   title: Kitty Foyle
   year: 1940
   runtime: 108
   director: Sam Wood
   tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 2, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: kitty-foyle
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/rn/r9/1y/sl/kitty%20foyle-1200-1200-675-675-crop-000000.jpg?v=b13e0b17ef

@@ -3,19 +3,23 @@
 # Seven Days in May and Gunfight at the O.K. Corral already exist in kirk-douglas.yaml — tagged before he had an entity.
 
 - id: elmer-gantry
-  tmdb_id: null
+  tmdb_id: 22013
   title: Elmer Gantry
   year: 1960
   runtime: 146
   director: Richard Brooks
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: elmer-gantry
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/gk/0n/02/i0/elmergantry-1200-1200-675-675-crop-000000.jpg?v=310dba7d5b
 
 - id: sweet-smell-of-success
-  tmdb_id: null
+  tmdb_id: 976
   title: Sweet Smell of Success
   year: 1957
   runtime: 96
   director: Alexander Mackendrick
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 2, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: sweet-smell-of-success
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/dr/8y/j5/es/the-sweet-smell-of-success-1200-1200-675-675-crop-000000.jpg?v=ea3f6763f3

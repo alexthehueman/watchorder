@@ -4,16 +4,18 @@
 # Batman Returns already exists in walken.yaml.
 
 - id: twins
-  tmdb_id: null
+  tmdb_id: 9493
   title: Twins
   year: 1988
   runtime: 107
   director: Ivan Reitman
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: twins
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/hn/ur/7s/n8/lcsWvdDQ2aoLd8q9HPTUTe44clv-1200-1200-675-675-crop-000000.jpg?v=6c2796e244
 
 - id: matilda
-  tmdb_id: null
+  tmdb_id: 10830
   title: Matilda
   year: 1996
   runtime: 98
@@ -25,12 +27,16 @@
     humor: 4
     acclaim: 0.72
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: matilda
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/o6/eu/lh/89/matilda-1200-1200-675-675-crop-000000.jpg?v=e70d4fd758
 
 - id: throw-momma-from-the-train
-  tmdb_id: null
+  tmdb_id: 11896
   title: Throw Momma from the Train
   year: 1987
   runtime: 88
   director: Danny DeVito
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 4, acclaim: 0.62 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: throw-momma-from-the-train
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/px/db/4c/y6/vcbwK9RArNldhG8VX6QuiZxk5DM-1200-1200-675-675-crop-000000.jpg?v=c73194a22e

@@ -5,10 +5,12 @@
 # exists in altman.yaml.
 
 - id: a-room-with-a-view
-  tmdb_id: null
+  tmdb_id: 11257
   title: A Room with a View
   year: 1985
   runtime: 117
   director: James Ivory
   tags: { opacity: 1, stillness: 3, bleakness: 1, humor: 4, acclaim: 0.80 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: a-room-with-a-view
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/tu/zn/fy/n9/a-room-with-a-view-1200-1200-675-675-crop-000000.jpg?v=6e19d80d9b

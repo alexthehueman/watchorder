@@ -4,7 +4,7 @@
 # Double Indemnity already exists in wilder.yaml.
 
 - id: little-caesar
-  tmdb_id: null
+  tmdb_id: 27899
   title: Little Caesar
   year: 1931
   runtime: 79
@@ -16,9 +16,11 @@
     humor: 2 # a streak of vain, self-mythologizing swagger runs through his rise before the fall
     acclaim: 0.68
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: little-caesar
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/i6/uz/7s/36/little-caesar-1200-1200-675-675-crop-000000.jpg?v=14b26856e1
 
 - id: soylent-green
-  tmdb_id: null
+  tmdb_id: 12101
   title: Soylent Green
   year: 1973
   runtime: 97
@@ -30,3 +32,5 @@
     humor: 1
     acclaim: 0.68
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 0 }
+  letterboxd_slug: soylent-green
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/dw/gt/fo/sn/soylent-green-1200-1200-675-675-crop-000000.jpg?v=fec71ce0cb

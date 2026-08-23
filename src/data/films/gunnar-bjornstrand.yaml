@@ -3,7 +3,7 @@
 # The Seventh Seal and Wild Strawberries already exist in von-sydow.yaml.
 
 - id: the-magician
-  tmdb_id: null
+  tmdb_id: 29453
   title: The Magician
   year: 1958
   runtime: 100
@@ -15,12 +15,16 @@
     humor: 2
     acclaim: 0.78
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: the-magician-1958
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ar/4m/9a/lx/magician-1200-1200-675-675-crop-000000.jpg?v=cd733da597
 
 - id: smiles-of-a-summer-night
-  tmdb_id: null
+  tmdb_id: 11700
   title: Smiles of a Summer Night
   year: 1955
   runtime: 108
   director: Ingmar Bergman
   tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 5, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: smiles-of-a-summer-night
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/nk/mo/sk/z6/smiles-of-a-summer-night-1200-1200-675-675-crop-000000.jpg?v=323f0cb586

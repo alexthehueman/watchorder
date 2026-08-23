@@ -4,7 +4,7 @@
 # already exist in servillo.yaml.
 
 - id: youth
-  tmdb_id: null
+  tmdb_id: 310593
   title: Youth
   year: 2015
   runtime: 124
@@ -16,9 +16,11 @@
     humor: 2
     acclaim: 0.72
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: youth-2015
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/s1/z5/j0/8l/youth-2015-1200-1200-675-675-crop-000000.jpg?v=27c8d2c243
 
 - id: this-must-be-the-place
-  tmdb_id: null
+  tmdb_id: 53487
   title: This Must Be the Place
   year: 2011
   runtime: 118
@@ -30,3 +32,5 @@
     humor: 2
     acclaim: 0.55
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: this-must-be-the-place
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/sk/e3/nr/xh/zwBkGFO24bVV3eVeMe5kWHNH5cg-1200-1200-675-675-crop-000000.jpg?v=3ad141215d

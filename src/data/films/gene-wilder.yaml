@@ -1,7 +1,7 @@
 # New films for Gene Wilder. Scales and anchors are in README.md ("The anchor rubric").
 
 - id: willy-wonka-and-the-chocolate-factory
-  tmdb_id: null
+  tmdb_id: 252
   title: Willy Wonka & the Chocolate Factory
   year: 1971
   runtime: 100
@@ -13,9 +13,11 @@
     humor: 3
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: willy-wonka-the-chocolate-factory
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/55/ry/17/4c/willy-wonka-the-chocolate-factory-1200-1200-675-675-crop-000000.jpg?v=bab54adc3a
 
 - id: young-frankenstein
-  tmdb_id: null
+  tmdb_id: 3034
   title: Young Frankenstein
   year: 1974
   runtime: 106
@@ -27,21 +29,27 @@
     humor: 5
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: young-frankenstein
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/1k/5z/dr/gm/young-frankenstein-1200-1200-675-675-crop-000000.jpg?v=e6d9e0a25a
 
 - id: the-producers-1968
-  tmdb_id: null
+  tmdb_id: 30197
   title: The Producers
   year: 1968
   runtime: 88
   director: Mel Brooks
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 5, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: the-producers
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ts/5r/mc/xk/the-producers-1200-1200-675-675-crop-000000.jpg?v=a1d49d761b
 
 - id: blazing-saddles
-  tmdb_id: null
+  tmdb_id: 11072
   title: Blazing Saddles
   year: 1974
   runtime: 93
   director: Mel Brooks
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 5, acclaim: 0.80 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: blazing-saddles
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/rd/xf/u5/09/blazing-saddles-1200-1200-675-675-crop-000000.jpg?v=1d5dceaad2

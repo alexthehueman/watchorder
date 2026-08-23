@@ -3,7 +3,7 @@
 # The First Wives Club already exists in keaton-diane.yaml — tagged before she had an entity.
 
 - id: beaches
-  tmdb_id: null
+  tmdb_id: 15592
   title: Beaches
   year: 1988
   runtime: 123
@@ -15,21 +15,27 @@
     humor: 2
     acclaim: 0.65
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: beaches
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/tx/wd/o6/go/ywiB2gsGca82BkEdetIyQLkkcW4-1200-1200-675-675-crop-000000.jpg?v=723fb4d0d1
 
 - id: hocus-pocus
-  tmdb_id: null
+  tmdb_id: 10439
   title: Hocus Pocus
   year: 1993
   runtime: 96
   director: Kenny Ortega
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.60 }
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: hocus-pocus
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/da/5u/8r/7c/hocus-pocus-1200-1200-675-675-crop-000000.jpg?v=7dda02211a
 
 - id: ruthless-people
-  tmdb_id: null
+  tmdb_id: 12151
   title: Ruthless People
   year: 1986
   runtime: 93
   director: Jim Abrahams
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.65 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: ruthless-people
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/un/5i/ua/qv/ruthless-people-1200-1200-675-675-crop-000000.jpg?v=9e06481eaa

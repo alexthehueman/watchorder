@@ -8,7 +8,7 @@
 # already exists in val-kilmer.yaml.
 
 - id: the-lost-boys
-  tmdb_id: null
+  tmdb_id: 1547
   title: The Lost Boys
   year: 1987
   runtime: 97
@@ -20,3 +20,5 @@
     humor: 3
     acclaim: 0.72
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: the-lost-boys
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/m9/5x/qz/up/the-lost-boys-1200-1200-675-675-crop-000000.jpg?v=8bd504bebf

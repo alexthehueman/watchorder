@@ -3,7 +3,7 @@
 # Rebecca already exists in hitchcock.yaml. Suspicion already exists in grant.yaml.
 
 - id: letter-from-an-unknown-woman
-  tmdb_id: null
+  tmdb_id: 946
   title: Letter from an Unknown Woman
   year: 1948
   runtime: 90
@@ -15,3 +15,5 @@
     humor: 2 # a few genuinely wry touches in the earlier, more romantic passages
     acclaim: 0.90
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: letter-from-an-unknown-woman
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/9r/6y/xr/1m/letter-from-an-unknown-woman-1200-1200-675-675-crop-000000.jpg?v=f71b4f562f

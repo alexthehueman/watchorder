@@ -4,7 +4,7 @@
 # Saddles already exists in gene-wilder.yaml.
 
 - id: life-stinks
-  tmdb_id: null
+  tmdb_id: 6524
   title: Life Stinks
   year: 1991
   runtime: 95
@@ -16,3 +16,5 @@
     humor: 3 # a grounded, character-driven dramedy against the rest of his broad-parody filmography
     acclaim: 0.55
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: life-stinks
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/zu/rp/qe/w1/life%20stinks-1200-1200-675-675-crop-000000.jpg?v=9858c6a7e3

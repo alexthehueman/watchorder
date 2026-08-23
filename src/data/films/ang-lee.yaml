@@ -4,7 +4,7 @@
 # exists in winslet.yaml. Crouching Tiger, Hidden Dragon already exists in yeoh.yaml.
 
 - id: life-of-pi
-  tmdb_id: null
+  tmdb_id: 87827
   title: Life of Pi
   year: 2012
   runtime: 127
@@ -16,3 +16,5 @@
     humor: 1
     acclaim: 0.82
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: life-of-pi
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/u7/gh/at/2f/life-of-pi-1200-1200-675-675-crop-000000.jpg?v=5eb47cad5b

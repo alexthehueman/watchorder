@@ -4,7 +4,7 @@
 # cronenberg.yaml.
 
 - id: desperately-seeking-susan
-  tmdb_id: null
+  tmdb_id: 8130
   title: Desperately Seeking Susan
   year: 1985
   runtime: 104
@@ -16,9 +16,11 @@
     humor: 4
     acclaim: 0.68
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  letterboxd_slug: desperately-seeking-susan
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/tj/sd/xg/6p/desperately-seeking-susan-1200-1200-675-675-crop-000000.jpg?v=3d3f6aa02b
 
 - id: after-hours
-  tmdb_id: null
+  tmdb_id: 10843
   title: After Hours
   year: 1985
   runtime: 97
@@ -30,3 +32,5 @@
     humor: 3
     acclaim: 0.78
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 1 }
+  letterboxd_slug: after-hours
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/wa/pe/3a/2d/after%20hours-1200-1200-675-675-crop-000000.jpg?v=cce9e99eab

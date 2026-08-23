@@ -4,10 +4,12 @@
 # The Empire Strikes Back and Return of the Jedi already exist in carrie-fisher.yaml.
 
 - id: corvette-summer
-  tmdb_id: null
+  tmdb_id: 27201
   title: Corvette Summer
   year: 1978
   runtime: 105
   director: Matthew Robbins
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.42 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: corvette-summer
+  poster_url: https://a.ltrbxd.com/resized/alternative-backdrop/3/4/7/2/6/tmdb/lZDOhVWyFjsJ3WU4fonMdqpxQwd-1200-1200-675-675-crop-000000.jpg?v=dc4bfab1cd

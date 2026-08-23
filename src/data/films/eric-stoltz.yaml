@@ -3,7 +3,7 @@
 # Pulp Fiction already exists in tarantino.yaml.
 
 - id: killing-zoe
-  tmdb_id: null
+  tmdb_id: 507
   title: Killing Zoe
   year: 1994
   runtime: 96
@@ -15,21 +15,27 @@
     humor: 1
     acclaim: 0.65
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+  letterboxd_slug: killing-zoe
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ey/c6/0t/uk/yTFEjB4JXtppBrZPABpdR7PlgSF-1200-1200-675-675-crop-000000.jpg?v=915272d525
 
 - id: mask
-  tmdb_id: null
+  tmdb_id: 11177
   title: Mask
   year: 1985
   runtime: 120
   director: Peter Bogdanovich
   tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 2, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: mask
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/if/ly/fb/cg/mask-1200-1200-675-675-crop-000000.jpg?v=c5ade4cfc7
 
 - id: some-kind-of-wonderful
-  tmdb_id: null
+  tmdb_id: 15143
   title: Some Kind of Wonderful
   year: 1987
   runtime: 93
   director: Howard Deutch
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: some-kind-of-wonderful
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ol/3v/h3/4g/some-kind-of-wonderful-1200-1200-675-675-crop-000000.jpg?v=b40e100274

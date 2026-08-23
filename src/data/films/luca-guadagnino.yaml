@@ -5,7 +5,7 @@
 # already exists in swinton.yaml. Challengers already exists in zendaya.yaml.
 
 - id: suspiria-2018
-  tmdb_id: null
+  tmdb_id: 361292
   title: Suspiria
   year: 2018
   runtime: 152
@@ -17,3 +17,5 @@
     humor: 1
     acclaim: 0.68
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+  letterboxd_slug: suspiria-2018
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/0b/oz/8a/zm/suspiria-2018-1200-1200-675-675-crop-000000.jpg?v=dd5730a196

@@ -3,7 +3,7 @@
 # Psycho already exists in hitchcock.yaml. Touch of Evil already exists in welles.yaml.
 
 - id: the-manchurian-candidate
-  tmdb_id: null
+  tmdb_id: 982
   title: The Manchurian Candidate
   year: 1962
   runtime: 126
@@ -15,12 +15,16 @@
     humor: 1
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: the-manchurian-candidate
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/c1/12/j7/vv/manchurian-1200-1200-675-675-crop-000000.jpg?v=744e060867
 
 - id: little-women-1949
-  tmdb_id: null
+  tmdb_id: 43436
   title: Little Women
   year: 1949
   runtime: 121
   director: Mervyn LeRoy
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.62 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: little-women-1949
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/y2/72/gc/gz/little-women-1949-1200-1200-675-675-crop-000000.jpg?v=dd440ec443

@@ -5,7 +5,7 @@
 # already exists in jean-paul-belmondo.yaml.
 
 - id: bob-le-flambeur
-  tmdb_id: null
+  tmdb_id: 26030
   title: Bob le Flambeur
   year: 1956
   runtime: 102
@@ -17,9 +17,11 @@
     humor: 2
     acclaim: 0.78
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: bob-le-flambeur
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/is/vz/6l/9v/bob-le-flambeur-1200-1200-675-675-crop-000000.jpg?v=343b569b74
 
 - id: army-of-shadows
-  tmdb_id: null
+  tmdb_id: 15383
   title: Army of Shadows
   year: 1969
   runtime: 145
@@ -31,3 +33,5 @@
     humor: 1
     acclaim: 0.90
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 3, sex: 0 }
+  letterboxd_slug: army-of-shadows
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/l7/ei/8m/i5/army-1200-1200-675-675-crop-000000.jpg?v=d93263079c

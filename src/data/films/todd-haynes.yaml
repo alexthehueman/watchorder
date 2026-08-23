@@ -4,7 +4,7 @@
 # already exist in moore.yaml. May December already exists in nicholson-julianne.yaml.
 
 - id: velvet-goldmine
-  tmdb_id: null
+  tmdb_id: 1808
   title: Velvet Goldmine
   year: 1998
   runtime: 124
@@ -16,18 +16,22 @@
     humor: 2
     acclaim: 0.68
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+  letterboxd_slug: velvet-goldmine
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ig/hm/ez/xg/velvet-goldmine-1200-1200-675-675-crop-000000.jpg?v=dc5ce9f40c
 
 - id: dark-waters
-  tmdb_id: null
+  tmdb_id: 552178
   title: Dark Waters
   year: 2019
   runtime: 126
   director: Todd Haynes
   tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: dark-waters-2019
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/eg/uj/8j/n1/dark-waters-1200-1200-675-675-crop-000000.jpg?v=c46a6c4022
 
 - id: poison
-  tmdb_id: null
+  tmdb_id: 47620
   title: Poison
   year: 1991
   runtime: 85
@@ -39,3 +43,5 @@
     humor: 1
     acclaim: 0.65
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  letterboxd_slug: poison
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/49/44/nb/9d/poison-1200-1200-675-675-crop-000000.jpg?v=2a3319a2ef

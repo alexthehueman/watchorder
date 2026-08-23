@@ -7,7 +7,7 @@
 # were humor 2 flat across the board; Valkyrie and Apt Pupil break the tie.
 
 - id: valkyrie
-  tmdb_id: null
+  tmdb_id: 2253
   title: Valkyrie
   year: 2008
   runtime: 121
@@ -19,9 +19,11 @@
     humor: 1
     acclaim: 0.68
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: valkyrie
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/8q/za/di/3q/valkyrie-1200-1200-675-675-crop-000000.jpg?v=1cf461b537
 
 - id: apt-pupil
-  tmdb_id: null
+  tmdb_id: 9445
   title: Apt Pupil
   year: 1998
   runtime: 111
@@ -33,9 +35,11 @@
     humor: 1
     acclaim: 0.62
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: apt-pupil
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ba/ft/6p/od/apt%20pupil-1200-1200-675-675-crop-000000.jpg?v=913846d7e8
 
 - id: superman-returns
-  tmdb_id: null
+  tmdb_id: 1452
   title: Superman Returns
   year: 2006
   runtime: 154
@@ -47,18 +51,22 @@
     humor: 2
     acclaim: 0.60
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: superman-returns
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/09/nf/p8/lj/superman-returns-40-1200-1200-675-675-crop-000000.jpg?v=a8312776c5
 
 - id: jack-the-giant-slayer
-  tmdb_id: null
+  tmdb_id: 81005
   title: Jack the Giant Slayer
   year: 2013
   runtime: 114
   director: Bryan Singer
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: jack-the-giant-slayer
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/m9/iw/dj/kq/jack-giant-slayer-1200-1200-675-675-crop-000000.jpg?v=7e788896ea
 
 - id: x-men-apocalypse
-  tmdb_id: null
+  tmdb_id: 246655
   title: X-Men Apocalypse
   year: 2016
   runtime: 144
@@ -70,3 +78,5 @@
     humor: 2
     acclaim: 0.62
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: x-men-apocalypse
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/tp/p7/h6/q5/x-men-apocalypse-1200-1200-675-675-crop-000000.jpg?v=e6e2b0c1c9

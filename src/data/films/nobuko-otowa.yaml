@@ -1,7 +1,7 @@
 # New films for Nobuko Otowa. Scales and anchors are in README.md ("The anchor rubric").
 
 - id: onibaba
-  tmdb_id: null
+  tmdb_id: 3763
   title: Onibaba
   year: 1964
   runtime: 103
@@ -13,9 +13,11 @@
     humor: 1
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+  letterboxd_slug: onibaba
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/yy/45/xp/3w/onibaba-1200-1200-675-675-crop-000000.jpg?v=1dc072f899
 
 - id: kuroneko
-  tmdb_id: null
+  tmdb_id: 40149
   title: Kuroneko
   year: 1968
   runtime: 99
@@ -27,9 +29,11 @@
     humor: 1
     acclaim: 0.80
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: kuroneko
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/0b/gl/y5/36/kuroneko-1200-1200-675-675-crop-000000.jpg?v=741b098556
 
 - id: children-of-hiroshima
-  tmdb_id: null
+  tmdb_id: 77057
   title: Children of Hiroshima
   year: 1952
   runtime: 97
@@ -41,12 +45,16 @@
     humor: 2 # small, real moments of children's play and resilience break through the grief
     acclaim: 0.68
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: children-of-hiroshima
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/pu/e7/t6/li/emaZCB01LvUlWEnUIGbjk7HJK3H-1200-1200-675-675-crop-000000.jpg?v=d1f40af656
 
 - id: the-naked-island
-  tmdb_id: null
+  tmdb_id: 3764
   title: The Naked Island
   year: 1960
   runtime: 94
   director: Kaneto Shindo
   tags: { opacity: 1, stillness: 5, bleakness: 4, humor: 1, acclaim: 0.82 }
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: the-naked-island
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/l0/5h/5i/53/naked-island-1200-1200-675-675-crop-000000.jpg?v=98bc3d1f23

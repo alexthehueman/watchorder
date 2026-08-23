@@ -5,7 +5,7 @@
 # in ving-rhames.yaml.
 
 - id: blow-out
-  tmdb_id: null
+  tmdb_id: 11644
   title: Blow Out
   year: 1981
   runtime: 107
@@ -17,9 +17,11 @@
     humor: 1
     acclaim: 0.82
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  letterboxd_slug: blow-out
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/wn/ia/3s/a3/blow-out-1200-1200-675-675-crop-000000.jpg?v=d5f4e4bff2
 
 - id: dressed-to-kill
-  tmdb_id: null
+  tmdb_id: 11033
   title: Dressed to Kill
   year: 1980
   runtime: 105
@@ -31,9 +33,11 @@
     humor: 2 # a campy, self-aware wit runs under the giallo-style shocks
     acclaim: 0.68
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 2 }
+  letterboxd_slug: dressed-to-kill-1980
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/kd/eo/gc/s5/dressed-to-kill-1200-1200-675-675-crop-000000.jpg?v=5255c196a2
 
 - id: body-double
-  tmdb_id: null
+  tmdb_id: 11507
   title: Body Double
   year: 1984
   runtime: 114
@@ -45,9 +49,11 @@
     humor: 2
     acclaim: 0.62
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 2 }
+  letterboxd_slug: body-double
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ku/3e/fp/75/body%20double-1200-1200-675-675-crop-000000.jpg?v=6cbcd6e923
 
 - id: carlitos-way
-  tmdb_id: null
+  tmdb_id: 6075
   title: Carlito's Way
   year: 1993
   runtime: 144
@@ -59,3 +65,5 @@
     humor: 1
     acclaim: 0.82
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+  letterboxd_slug: carlitos-way
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/0j/ns/j4/kz/carlitos-way-1200-1200-675-675-crop-000000.jpg?v=341035cfc3

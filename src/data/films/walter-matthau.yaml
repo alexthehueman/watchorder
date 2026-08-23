@@ -4,10 +4,12 @@
 # Charade already exists in grant.yaml.
 
 - id: the-bad-news-bears
-  tmdb_id: null
+  tmdb_id: 23479
   title: The Bad News Bears
   year: 1976
   runtime: 102
   director: Michael Ritchie
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 4, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: the-bad-news-bears
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/q7/0n/qz/06/bad%20news%20bears-1200-1200-675-675-crop-000000.jpg?v=492a3d43cf

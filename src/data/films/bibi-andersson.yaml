@@ -4,10 +4,12 @@
 # Persona already exists in ullmann.yaml. The Touch below is her own.
 
 - id: the-touch
-  tmdb_id: null
+  tmdb_id: 105254
   title: The Touch
   year: 1971
   runtime: 115
   director: Ingmar Bergman
   tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 2, acclaim: 0.62 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+  letterboxd_slug: the-touch-1971
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/c2/5i/aj/2w/touch-1200-1200-675-675-crop-000000.jpg?v=3eeb9db58b

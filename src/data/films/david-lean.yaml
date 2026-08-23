@@ -6,7 +6,7 @@
 # Lawrence of Arabia already exists in otoole.yaml.
 
 - id: brief-encounter
-  tmdb_id: null
+  tmdb_id: 851
   title: Brief Encounter
   year: 1945
   runtime: 86
@@ -18,9 +18,11 @@
     humor: 1
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: brief-encounter
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/em/xg/tk/z6/brief-encounter-1200-1200-675-675-crop-000000.jpg?v=94447fbac0
 
 - id: a-passage-to-india
-  tmdb_id: null
+  tmdb_id: 15927
   title: A Passage to India
   year: 1984
   runtime: 164
@@ -32,3 +34,5 @@
     humor: 1
     acclaim: 0.75
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: a-passage-to-india
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/hy/nb/2r/ww/a-passage-to-india-1200-1200-675-675-crop-000000.jpg?v=c6dd19e3af

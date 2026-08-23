@@ -5,7 +5,7 @@
 # in sykes.yaml.
 
 - id: bruce-almighty
-  tmdb_id: null
+  tmdb_id: 310
   title: Bruce Almighty
   year: 2003
   runtime: 101
@@ -17,3 +17,5 @@
     humor: 4
     acclaim: 0.62
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: bruce-almighty
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/32/w2/0c/x8/bruce-almighty-1200-1200-675-675-crop-000000.jpg?v=68ad5fbef0

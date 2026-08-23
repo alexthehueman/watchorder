@@ -4,19 +4,23 @@
 # tagged before she had an entity.
 
 - id: dantes-peak
-  tmdb_id: null
+  tmdb_id: 9619
   title: Dante's Peak
   year: 1997
   runtime: 108
   director: Roger Donaldson
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: dantes-peak
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/fg/eg/oq/cv/dantes-peak-1200-1200-675-675-crop-000000.jpg?v=294e20d871
 
 - id: king-kong-lives
-  tmdb_id: null
+  tmdb_id: 31947
   title: King Kong Lives
   year: 1986
   runtime: 105
   director: John Guillermin
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.25 }
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: king-kong-lives
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/g3/w8/r9/1b/king%20kong-1200-1200-675-675-crop-000000.jpg?v=2a128fc2b2

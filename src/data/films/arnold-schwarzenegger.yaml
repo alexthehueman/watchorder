@@ -1,7 +1,7 @@
 # New films for Arnold Schwarzenegger. Scales and anchors are in README.md ("The anchor rubric").
 
 - id: the-terminator
-  tmdb_id: null
+  tmdb_id: 218
   title: The Terminator
   year: 1984
   runtime: 107
@@ -13,18 +13,22 @@
     humor: 1
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+  letterboxd_slug: the-terminator
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/nj/wr/az/8d/the-terminator-1200-1200-675-675-crop-000000.jpg?v=76a3a0bb28
 
 - id: terminator-2-judgment-day
-  tmdb_id: null
+  tmdb_id: 280
   title: "Terminator 2: Judgment Day"
   year: 1991
   runtime: 137
   director: James Cameron
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 3, acclaim: 0.90 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: terminator-2-judgment-day
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/5p/1d/0w/o6/terminator-2-1200-1200-675-675-crop-000000.jpg?v=2c7e91bc29
 
 - id: predator
-  tmdb_id: null
+  tmdb_id: 106
   title: Predator
   year: 1987
   runtime: 107
@@ -36,9 +40,11 @@
     humor: 2
     acclaim: 0.75
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: predator
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/qs/kc/25/pb/predator-1200-1200-675-675-crop-000000.jpg?v=ecd51f5ebd
 
 - id: total-recall
-  tmdb_id: null
+  tmdb_id: 861
   title: Total Recall
   year: 1990
   runtime: 113
@@ -50,12 +56,16 @@
     humor: 3
     acclaim: 0.75
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+  letterboxd_slug: total-recall
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/w3/ry/fn/kt/total-recall-1200-1200-675-675-crop-000000.jpg?v=301a6b7ab4
 
 - id: true-lies
-  tmdb_id: null
+  tmdb_id: 36955
   title: True Lies
   year: 1994
   runtime: 141
   director: James Cameron
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  letterboxd_slug: true-lies
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/rc/fz/x0/4j/true-lies-1200-1200-675-675-crop-000000.jpg?v=25d87bb82f

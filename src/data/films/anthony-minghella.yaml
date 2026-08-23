@@ -6,7 +6,7 @@
 # Cold Mountain already exists in jude-law.yaml.
 
 - id: breaking-and-entering
-  tmdb_id: null
+  tmdb_id: 1253
   title: Breaking and Entering
   year: 2006
   runtime: 119
@@ -18,3 +18,5 @@
     humor: 2
     acclaim: 0.60
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  letterboxd_slug: breaking-and-entering
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/bf/t7/t3/11/breaking-entering-1200-1200-675-675-crop-000000.jpg?v=40c348fb65

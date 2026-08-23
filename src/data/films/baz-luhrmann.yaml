@@ -5,7 +5,7 @@
 # debicki.yaml. Moulin Rouge! already exists in kidman.yaml.
 
 - id: romeo-and-juliet-1996
-  tmdb_id: null
+  tmdb_id: 454
   title: Romeo + Juliet
   year: 1996
   runtime: 120
@@ -17,3 +17,5 @@
     humor: 2
     acclaim: 0.75
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 1 }
+  letterboxd_slug: romeo-juliet-1996
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/kg/nv/1m/1u/romeo-and-juliet-1996-1200-1200-675-675-crop-000000.jpg?v=331b6bcf53

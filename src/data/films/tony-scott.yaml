@@ -6,7 +6,7 @@
 # washington.yaml.
 
 - id: the-last-boy-scout
-  tmdb_id: null
+  tmdb_id: 9319
   title: The Last Boy Scout
   year: 1991
   runtime: 105
@@ -18,12 +18,16 @@
     humor: 4 # Shane Black's wisecracking buddy-action script is the funniest thing in Scott's filmography by a wide margin
     acclaim: 0.68
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+  letterboxd_slug: the-last-boy-scout
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/sw/xr/8e/qn/last-boy-scout-1200-1200-675-675-crop-000000.jpg?v=f3c2e5a39c
 
 - id: days-of-thunder
-  tmdb_id: null
+  tmdb_id: 2119
   title: Days of Thunder
   year: 1990
   runtime: 107
   director: Tony Scott
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  letterboxd_slug: days-of-thunder
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/17/k6/0i/nz/days-of-thunder-1200-1200-675-675-crop-000000.jpg?v=38ebd1d28c

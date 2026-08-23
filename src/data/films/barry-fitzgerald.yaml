@@ -3,16 +3,18 @@
 # The Quiet Man and How Green Was My Valley already exist in ford.yaml.
 
 - id: going-my-way
-  tmdb_id: null
+  tmdb_id: 17661
   title: Going My Way
   year: 1944
   runtime: 126
   director: Leo McCarey
   tags: { opacity: 1, stillness: 3, bleakness: 2, humor: 3, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: going-my-way
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/po/gd/dp/85/going-1200-1200-675-675-crop-000000.jpg?v=a3f1c9446f
 
 - id: and-then-there-were-none
-  tmdb_id: null
+  tmdb_id: 4886
   title: And Then There Were None
   year: 1945
   runtime: 98
@@ -24,3 +26,5 @@
     humor: 2
     acclaim: 0.78
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: and-then-there-were-none
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/cy/md/uv/01/andthentherewerenone-1200-1200-675-675-crop-000000.jpg?v=15f0fd86a3

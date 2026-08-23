@@ -4,7 +4,7 @@
 # JFK already exists in oldman.yaml.
 
 - id: invasion-of-the-body-snatchers
-  tmdb_id: null
+  tmdb_id: 11850
   title: Invasion of the Body Snatchers
   year: 1978
   runtime: 115
@@ -16,12 +16,16 @@
     humor: 1
     acclaim: 0.83
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: invasion-of-the-body-snatchers-1978
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/13/5q/tg/bp/invasions-1200-1200-675-675-crop-000000.jpg?v=e4354df0ab
 
 - id: ordinary-people
-  tmdb_id: null
+  tmdb_id: 16619
   title: Ordinary People
   year: 1980
   runtime: 124
   director: Robert Redford
   tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.82 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
+  letterboxd_slug: ordinary-people
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/m6/a5/3u/5r/ordinary-people-1200-1200-675-675-crop-000000.jpg?v=5b5d658f3e

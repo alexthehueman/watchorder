@@ -4,7 +4,7 @@
 # Beginners already exists in mcgregor.yaml. Knives Out already exists in shannon.yaml.
 
 - id: all-the-money-in-the-world
-  tmdb_id: null
+  tmdb_id: 446791
   title: All the Money in the World
   year: 2017
   runtime: 132
@@ -16,3 +16,5 @@
     humor: 1
     acclaim: 0.68
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: all-the-money-in-the-world
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/zv/pm/xl/v8/all-money-in-world-1200-1200-675-675-crop-000000.jpg?v=9eb08f0653

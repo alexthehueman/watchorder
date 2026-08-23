@@ -5,7 +5,7 @@
 # Help already exists in viola-davis.yaml.
 
 - id: the-girl-on-the-train
-  tmdb_id: null
+  tmdb_id: 346685
   title: The Girl on the Train
   year: 2016
   runtime: 112
@@ -17,3 +17,5 @@
     humor: 1
     acclaim: 0.55
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  letterboxd_slug: the-girl-on-the-train-2016
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/55/0i/fb/y0/fpq86AP0YBYUwNgDvUj5kxwycxH-1200-1200-675-675-crop-000000.jpg?v=45e833098b

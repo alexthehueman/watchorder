@@ -6,7 +6,7 @@
 # Beautiful Mind and Cinderella Man already exist in russell-crowe.yaml.
 
 - id: parenthood
-  tmdb_id: null
+  tmdb_id: 1552
   title: Parenthood
   year: 1989
   runtime: 124
@@ -18,9 +18,11 @@
     humor: 4 # an ensemble of one extended family cracking jokes through every real crisis parenting throws at them
     acclaim: 0.72
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: parenthood
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/74/8q/yn/im/parenthood-1200-1200-675-675-crop-000000.jpg?v=360da38c14
 
 - id: backdraft
-  tmdb_id: null
+  tmdb_id: 2924
   title: Backdraft
   year: 1991
   runtime: 137
@@ -32,3 +34,5 @@
     humor: 1
     acclaim: 0.62
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: backdraft
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/1j/j6/56/e9/backdraft-1200-1200-675-675-crop-000000.jpg?v=fbc39f6edd

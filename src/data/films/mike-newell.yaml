@@ -6,7 +6,7 @@
 # grant-hugh.yaml.
 
 - id: great-expectations-2012
-  tmdb_id: null
+  tmdb_id: 121674
   title: Great Expectations
   year: 2012
   runtime: 128
@@ -18,3 +18,5 @@
     humor: 1
     acclaim: 0.62
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: great-expectations-2012
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/wp/k1/vz/rg/great-expectations-2012-1200-1200-675-675-crop-000000.jpg?v=e1ca2b075c

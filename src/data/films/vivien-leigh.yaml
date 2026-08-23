@@ -3,7 +3,7 @@
 # A Streetcar Named Desire already exists in brando.yaml — tagged before she had an entity.
 
 - id: gone-with-the-wind
-  tmdb_id: null
+  tmdb_id: 770
   title: Gone with the Wind
   year: 1939
   runtime: 238
@@ -15,9 +15,11 @@
     humor: 2
     acclaim: 0.88
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: gone-with-the-wind
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/dt/xr/d0/7k/gone-with-the-wind-1200-1200-675-675-crop-000000.jpg?v=f2d4fce32b
 
 - id: waterloo-bridge
-  tmdb_id: null
+  tmdb_id: 43824
   title: Waterloo Bridge
   year: 1940
   runtime: 108
@@ -29,3 +31,5 @@
     humor: 1
     acclaim: 0.75
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
+  letterboxd_slug: waterloo-bridge
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/o7/7k/vo/na/y4dqA8VIV2gkb7diJWpq4eQQKcA-1200-1200-675-675-crop-000000.jpg?v=ce6fdb6a76

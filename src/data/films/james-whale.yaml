@@ -6,7 +6,7 @@
 # mae-clarke.yaml.
 
 - id: the-old-dark-house
-  tmdb_id: null
+  tmdb_id: 31592
   title: The Old Dark House
   year: 1932
   runtime: 72
@@ -18,9 +18,11 @@
     humor: 4
     acclaim: 0.75
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: the-old-dark-house
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ow/sz/jl/j7/old%20dark%20hourse-1200-1200-675-675-crop-000000.jpg?v=4cb589d339
 
 - id: show-boat-1936
-  tmdb_id: null
+  tmdb_id: 31548
   title: Show Boat
   year: 1936
   runtime: 113
@@ -32,3 +34,5 @@
     humor: 3
     acclaim: 0.68
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: show-boat
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/fc/nx/8f/mg/showboat-1200-1200-675-675-crop-000000.jpg?v=f00cb66907

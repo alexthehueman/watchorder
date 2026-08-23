@@ -5,7 +5,7 @@
 # both of those corpora.
 
 - id: the-long-goodbye
-  tmdb_id: null
+  tmdb_id: 1847
   title: The Long Goodbye
   year: 1973
   runtime: 112
@@ -17,3 +17,5 @@
     humor: 2
     acclaim: 0.82
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 0 }
+  letterboxd_slug: the-long-goodbye
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/nn/ng/49/zp/long2-1200-1200-675-675-crop-000000.jpg?v=a02af636e7

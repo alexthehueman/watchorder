@@ -5,7 +5,7 @@
 # Bridesmaids, Spy, and The Heat already exist in mccarthy.yaml.
 
 - id: jackpot
-  tmdb_id: null
+  tmdb_id: 1114746
   title: "Jackpot!"
   year: 2024
   runtime: 106
@@ -17,9 +17,11 @@
     humor: 4
     acclaim: 0.55
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: jackpot
+  poster_url: https://a.ltrbxd.com/resized/film-poster/1/0/0/4/9/1/5/1004915-jackpot-0-230-0-345-crop.jpg?v=afa6aa8136
 
 - id: unaccompanied-minors
-  tmdb_id: null
+  tmdb_id: 18147
   title: Unaccompanied Minors
   year: 2006
   runtime: 90
@@ -31,3 +33,5 @@
     humor: 4
     acclaim: 0.45
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: unaccompanied-minors
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/t1/vw/wx/12/lIr1IYxjpJnteDjnw9iqTfO4ybQ-1200-1200-675-675-crop-000000.jpg?v=9ba50d7202

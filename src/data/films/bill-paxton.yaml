@@ -4,16 +4,18 @@
 # True Lies already exists in arnold-schwarzenegger.yaml.
 
 - id: apollo-13
-  tmdb_id: null
+  tmdb_id: 568
   title: Apollo 13
   year: 1995
   runtime: 140
   director: Ron Howard
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.88 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: apollo-13
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/3a/y4/uy/89/apollo-13-1200-1200-675-675-crop-000000.jpg?v=893bd1d204
 
 - id: twister
-  tmdb_id: null
+  tmdb_id: 664
   title: Twister
   year: 1996
   runtime: 113
@@ -25,3 +27,5 @@
     humor: 2
     acclaim: 0.62
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: twister
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/z8/2s/m7/5q/twister-1200-1200-675-675-crop-000000.jpg?v=12d95f66e9

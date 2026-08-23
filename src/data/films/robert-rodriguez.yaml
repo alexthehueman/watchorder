@@ -9,16 +9,18 @@
 # Spy Kids breaks both ties.
 
 - id: spy-kids
-  tmdb_id: null
+  tmdb_id: 10054
   title: Spy Kids
   year: 2001
   runtime: 88
   director: Robert Rodriguez
   tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 4, acclaim: 0.62 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: spy-kids
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/dt/q6/fl/v2/spy-kids-1200-1200-675-675-crop-000000.jpg?v=1b22b63119
 
 - id: the-faculty
-  tmdb_id: null
+  tmdb_id: 9276
   title: The Faculty
   year: 1998
   runtime: 104
@@ -30,3 +32,5 @@
     humor: 2
     acclaim: 0.62
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: the-faculty
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/rt/t6/zm/jt/the-faculty-1200-1200-675-675-crop-000000.jpg?v=b4982a16c5

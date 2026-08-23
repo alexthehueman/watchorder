@@ -4,7 +4,7 @@
 # Psycho already exists in hitchcock.yaml.
 
 - id: the-wrong-man
-  tmdb_id: null
+  tmdb_id: 22527
   title: The Wrong Man
   year: 1956
   runtime: 105
@@ -16,3 +16,5 @@
     humor: 1
     acclaim: 0.78
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: the-wrong-man
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/uw/pl/17/h1/wrong%20man-1200-1200-675-675-crop-000000.jpg?v=19512d10bf

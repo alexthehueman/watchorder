@@ -4,7 +4,7 @@
 # mcconaughey.yaml. The Exorcist already exists in von-sydow.yaml.
 
 - id: to-live-and-die-in-la
-  tmdb_id: null
+  tmdb_id: 9846
   title: To Live and Die in L.A.
   year: 1985
   runtime: 116
@@ -16,9 +16,11 @@
     humor: 1
     acclaim: 0.75
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+  letterboxd_slug: to-live-and-die-in-la
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/in/n9/e2/vo/to-live-die-la-1200-1200-675-675-crop-000000.jpg?v=14d0d58695
 
 - id: sorcerer
-  tmdb_id: null
+  tmdb_id: 38985
   title: Sorcerer
   year: 1977
   runtime: 121
@@ -30,9 +32,11 @@
     humor: 1
     acclaim: 0.75
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: sorcerer
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/69/v1/la/oi/sorcerer-1200-1200-675-675-crop-000000.jpg?v=56b00457f1
 
 - id: bug
-  tmdb_id: null
+  tmdb_id: 12526
   title: Bug
   year: 2006
   runtime: 102
@@ -44,3 +48,5 @@
     humor: 1
     acclaim: 0.65
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  letterboxd_slug: bug-2006
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/8j/5e/hs/rs/bug-1200-1200-675-675-crop-000000.jpg?v=5a01d44dc9

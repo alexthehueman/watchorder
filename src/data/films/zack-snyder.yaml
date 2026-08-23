@@ -6,7 +6,7 @@
 # (2004) already exists in ving-rhames.yaml.
 
 - id: watchmen
-  tmdb_id: null
+  tmdb_id: 13183
   title: Watchmen
   year: 2009
   runtime: 162
@@ -18,3 +18,5 @@
     humor: 1
     acclaim: 0.68
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 2 }
+  letterboxd_slug: watchmen
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/m0/e3/ld/ym/watchmen-1200-1200-675-675-crop-000000.jpg?v=fbf58bdf12

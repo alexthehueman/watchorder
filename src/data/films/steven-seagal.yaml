@@ -1,16 +1,18 @@
 # New films for Steven Seagal. Scales and anchors are in README.md ("The anchor rubric").
 
 - id: under-siege
-  tmdb_id: null
+  tmdb_id: 8845
   title: Under Siege
   year: 1992
   runtime: 103
   director: Andrew Davis
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: under-siege
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/rn/pg/e7/yo/under-siege-1200-1200-675-675-crop-000000.jpg?v=1fb0474e60
 
 - id: above-the-law
-  tmdb_id: null
+  tmdb_id: 9395
   title: Above the Law
   year: 1988
   runtime: 99
@@ -22,21 +24,27 @@
     humor: 1
     acclaim: 0.58
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: above-the-law
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/5c/za/pk/r5/above-the-law-1200-1200-675-675-crop-000000.jpg?v=1d45bbe722
 
 - id: hard-to-kill
-  tmdb_id: null
+  tmdb_id: 9569
   title: Hard to Kill
   year: 1990
   runtime: 96
   director: Bruce Malmuth
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.52 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: hard-to-kill
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ad/u5/ei/wm/hard-to-kill-1200-1200-675-675-crop-000000.jpg?v=450eabe3f5
 
 - id: marked-for-death
-  tmdb_id: null
+  tmdb_id: 10173
   title: Marked for Death
   year: 1990
   runtime: 93
   director: Dwight H. Little
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.48 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: marked-for-death
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/5s/j3/f4/ao/fuo3wILNnjRfkuMdpLx8pYgDCA6-1200-1200-675-675-crop-000000.jpg?v=fe989debc5

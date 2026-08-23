@@ -4,7 +4,7 @@
 # The Great Outdoors already exists in dan-aykroyd.yaml.
 
 - id: uncle-buck
-  tmdb_id: null
+  tmdb_id: 2616
   title: Uncle Buck
   year: 1989
   runtime: 100
@@ -16,12 +16,16 @@
     humor: 4
     acclaim: 0.65
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: uncle-buck
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/3y/tf/6q/rk/uncle-buck-1200-1200-675-675-crop-000000.jpg?v=705c558190
 
 - id: cool-runnings
-  tmdb_id: null
+  tmdb_id: 864
   title: Cool Runnings
   year: 1993
   runtime: 98
   director: Jon Turteltaub
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.70 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: cool-runnings
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/h3/q1/5l/1m/cool-runnings-1200-1200-675-675-crop-000000.jpg?v=ea7a472172

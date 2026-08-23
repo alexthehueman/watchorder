@@ -4,7 +4,7 @@
 # Scarface already exists in pacino.yaml. Dangerous Liaisons already exists in malkovich.yaml.
 
 - id: the-fabulous-baker-boys
-  tmdb_id: null
+  tmdb_id: 10875
   title: The Fabulous Baker Boys
   year: 1989
   runtime: 113
@@ -16,3 +16,5 @@
     humor: 2
     acclaim: 0.78
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: the-fabulous-baker-boys
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/t9/27/yu/ys/fabulous-1200-1200-675-675-crop-000000.jpg?v=6be854d253
