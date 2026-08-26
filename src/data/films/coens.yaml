@@ -109,13 +109,18 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYTQ0MWU5ODItMmY0Yy00NTM1LWJjMmItMjg4MDgwMTE5YmY5XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: a-serious-man
 
-- id: true-grit
+- id: true-grit-2010
   tmdb_id: 44264
   title: True Grit
   year: 2010
   runtime: 110
   director: Joel Coen
-  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.80 }
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 4 # a severed arm, a rattlesnake pit, and an epilogue about the cost of the chase that never pretends it was worth it
+    humor: 3
+    acclaim: 0.80
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt1403865
   poster_url: https://m.media-amazon.com/images/M/MV5BMTU5MjU3MTI4OF5BMl5BanBnXkFtZTcwMTQxOTAxNA@@._V1_SX300.jpg

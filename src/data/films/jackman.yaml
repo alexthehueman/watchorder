@@ -2,19 +2,7 @@
 #
 # The Prestige already exists in bale.yaml (a genuine dual lead) — tagged before he had an
 # entity. Les Miserables already exists in russell-crowe.yaml (a genuine dual lead) — tagged
-# before he had an entity.
-
-- id: x-men-2000
-  tmdb_id: 447399
-  title: X-Men
-  year: 2000
-  runtime: 104
-  director: Bryan Singer
-  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.72 }
-  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
-  imdb_id: tt0120903
-  poster_url: https://m.media-amazon.com/images/M/MV5BNzNjZjQwOTAtNWQ3NC00MmJlLThlZDEtZmUyMWQ3NmE4Y2Y5XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg
-  letterboxd_slug: x-men-2000
+# before he had an entity. X-Men already exists in berry.yaml.
 
 - id: the-fountain
   tmdb_id: 1381

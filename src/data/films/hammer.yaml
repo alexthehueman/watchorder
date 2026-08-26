@@ -178,19 +178,4 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZTMwNGNiMmEtN2UxMC00NGRhLTlmY2UtZTdkMjc0OWVkZjhhXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: captain-kronos-vampire-hunter
 
-- id: the-woman-in-black-2012
-  tmdb_id: 65086
-  title: The Woman in Black
-  year: 2012
-  runtime: 95
-  director: James Watkins
-  tags:
-    opacity: 2
-    stillness: 3
-    bleakness: 5 # the ghost's revenge is never stopped, and the ending refuses anyone a way out
-    humor: 1
-    acclaim: 0.72
-  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
-  imdb_id: tt1596365
-  poster_url: https://m.media-amazon.com/images/M/MV5BMjEwMzIxOTg3N15BMl5BanBnXkFtZTcwMjI4ODUzNw@@._V1_SX300.jpg
-  letterboxd_slug: the-woman-in-black-2012
+# The Woman in Black already exists in radcliffe.yaml.

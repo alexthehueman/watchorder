@@ -1,7 +1,8 @@
 # New films for Toby Jones. Scales and anchors are in README.md ("The anchor rubric").
 #
 # Capote already exists in hoffman-philip.yaml — tagged before he had an entity. The Hunger Games
-# already exists in jennifer-lawrence.yaml — tagged before he had an entity.
+# already exists in jennifer-lawrence.yaml — tagged before he had an entity. Tinker Tailor
+# Soldier Spy already exists in oldman.yaml (as `tinker-tailor-soldier-spy-2011`).
 
 - id: infamous
   tmdb_id: 9672
@@ -18,19 +19,3 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: infamous
   poster_url: https://a.ltrbxd.com/resized/sm/upload/tn/ru/y7/ox/infamous-1200-1200-675-675-crop-000000.jpg?v=4dc8971180
-
-- id: tinker-tailor-soldier-spy
-  tmdb_id: 49517
-  title: Tinker Tailor Soldier Spy
-  year: 2011
-  runtime: 127
-  director: Tomas Alfredson
-  tags:
-    opacity: 4 # a mole hunt the film tells almost entirely through withheld glances and unexplained procedure
-    stillness: 4
-    bleakness: 4
-    humor: 1
-    acclaim: 0.78
-  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
-  letterboxd_slug: tinker-tailor-soldier-spy
-  poster_url: https://a.ltrbxd.com/resized/sm/upload/lx/6u/lt/fy/tinker-tailor-soldier-spy-1200-1200-675-675-crop-000000.jpg?v=c7e3783fed

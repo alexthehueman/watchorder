@@ -21,7 +21,7 @@ films:
     gateway: 3
     note: The same wizard returned transformed, now marshaling armies with quiet, absolute authority, playing measured command.
 
-  - film: x-men-2000
+  - film: x-men
     signature: 4
     showcase: 4
     role_size: supporting
@@ -43,5 +43,5 @@ curated:
   order:
     - the-lord-of-the-rings-the-fellowship-of-the-ring
     - the-lord-of-the-rings-the-two-towers
-    - x-men-2000
+    - x-men
     - x-men-days-of-future-past

@@ -1,4 +1,6 @@
 # New films for James Cagney. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Public Enemy already exists in mae-clarke.yaml (as `the-public-enemy`).
 
 - id: white-heat
   tmdb_id: 15794
@@ -37,14 +39,3 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: angels-with-dirty-faces
   poster_url: https://a.ltrbxd.com/resized/sm/upload/rv/1m/7q/ns/angels-with-dirty-faces-1200-1200-675-675-crop-000000.jpg?v=4494fcfaaf
-
-- id: public-enemy
-  tmdb_id: 17687
-  title: The Public Enemy
-  year: 1931
-  runtime: 83
-  director: William A. Wellman
-  tags: { opacity: 1, stillness: 1, bleakness: 4, humor: 1, acclaim: 0.72 }
-  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
-  letterboxd_slug: the-public-enemy
-  poster_url: https://a.ltrbxd.com/resized/sm/upload/9y/ue/5i/sv/the-public-enemy-1200-1200-675-675-crop-000000.jpg?v=52921d783b

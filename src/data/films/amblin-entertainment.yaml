@@ -4,21 +4,8 @@
 # Who Framed Roger Rabbit already exists in robert-zemeckis.yaml. Back to the Future
 # and Back to the Future Part II already exist in michael-j-fox.yaml. Jurassic Park
 # and Empire of the Sun already exist in spielberg.yaml. The Goonies already exists in
-# richard-donner.yaml.
-
-- id: e-t-the-extra-terrestrial
-  tmdb_id: null
-  title: E.T. the Extra-Terrestrial
-  year: 1982
-  runtime: 115
-  director: Steven Spielberg
-  tags:
-    opacity: 2 # what E.T. actually needs, and whether he can survive long enough to get it, stays genuinely uncertain
-    stillness: 3
-    bleakness: 3
-    humor: 2
-    acclaim: 0.90
-  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+# richard-donner.yaml. E.T. the Extra-Terrestrial already exists in spielberg.yaml
+# (as `et-the-extra-terrestrial`).
 
 - id: poltergeist
   tmdb_id: 609

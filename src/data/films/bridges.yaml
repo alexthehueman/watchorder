@@ -2,7 +2,8 @@
 #
 # The Big Lebowski already exists in coens.yaml — tagged before he had an entity. Iron Man
 # already exists in downey.yaml — tagged before he had an entity. Starman already exists in
-# carpenter.yaml — tagged before he had an entity.
+# carpenter.yaml — tagged before he had an entity. True Grit already exists in coens.yaml
+# (as `true-grit-2010`).
 
 - id: crazy-heart
   tmdb_id: 25196
@@ -14,17 +15,6 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   letterboxd_slug: crazy-heart
   poster_url: https://a.ltrbxd.com/resized/sm/upload/fm/xm/2f/2z/a1mmbW5rC1BgnEtH2J7hkdczT0K-1200-1200-675-675-crop-000000.jpg?v=47b5483e16
-
-- id: true-grit-2010
-  tmdb_id: 44264
-  title: True Grit
-  year: 2010
-  runtime: 110
-  director: Ethan Coen
-  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 3, acclaim: 0.85 }
-  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
-  letterboxd_slug: true-grit-2010
-  poster_url: https://a.ltrbxd.com/resized/sm/upload/fa/kg/o6/xu/iGQJj4qO2JrngQMGfn443Xoi4j9-1200-1200-675-675-crop-000000.jpg?v=b6d7ad2515
 
 - id: the-fisher-king
   tmdb_id: 177

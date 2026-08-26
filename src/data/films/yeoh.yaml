@@ -115,22 +115,5 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTg3NTc3NzMzOF5BMl5BanBnXkFtZTcwMzI4NjkyNw@@._V1_SX300.jpg
   letterboxd_slug: the-lady
 
-# Added because stillness sat at 1 for six of nine films — accurate to the Hong Kong action run,
-# but too uniform for the axis to move anything. Sunshine is the honest outlier: a contemplative
-# space thriller as far from that run's pacing as she has gone.
-- id: sunshine-2007
-  tmdb_id: 1272
-  title: Sunshine
-  year: 2007
-  runtime: 107
-  director: Danny Boyle
-  tags:
-    opacity: 2
-    stillness: 4 # a crew alone in a ship for a year, and the film sits in that isolation before anything goes wrong
-    bleakness: 4
-    humor: 1
-    acclaim: 0.75
-  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 0 }
-  imdb_id: tt0448134
-  poster_url: https://m.media-amazon.com/images/M/MV5BNmExYTA4MGYtNWUwNC00YTZhLWE0YzUtMjI0OGYyMmQ4YTVkXkEyXkFqcGc@._V1_SX300.jpg
-  letterboxd_slug: sunshine-2007
+# Sunshine already exists in evans.yaml — added there for the same "stillness sat at 1
+# for six of nine films" reason this entry originally existed for.

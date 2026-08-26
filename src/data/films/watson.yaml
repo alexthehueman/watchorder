@@ -1,6 +1,7 @@
 # New films for Emma Watson. Scales and anchors are in README.md ("The anchor rubric").
 #
 # Little Women already exists in chalamet.yaml — tagged before she had an entity.
+# Beauty and the Beast already exists in dan-stevens.yaml (as `beauty-and-the-beast-2017`).
 
 - id: harry-potter-and-the-deathly-hallows-part-2
   tmdb_id: 12445
@@ -23,17 +24,6 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 1 }
   letterboxd_slug: the-perks-of-being-a-wallflower
   poster_url: https://a.ltrbxd.com/resized/alternative-backdrop/7/1/3/3/8/tmdb/rusdnkVpMzHOhbED1E1XqEPKdw9-1200-1200-675-675-crop-000000.jpg?v=aa137182c0
-
-- id: beauty-and-the-beast
-  tmdb_id: 321612
-  title: Beauty and the Beast
-  year: 2017
-  runtime: 129
-  director: Bill Condon
-  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.65 }
-  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
-  letterboxd_slug: beauty-and-the-beast-2017
-  poster_url: https://a.ltrbxd.com/resized/sm/upload/op/ow/pu/rc/beauty-and-beast-2017-1200-1200-675-675-crop-000000.jpg?v=888a33b67c
 
 - id: the-bling-ring
   tmdb_id: 96936

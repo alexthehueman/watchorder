@@ -12,7 +12,7 @@ eras:
     from: 1993
 
 films:
-  - film: e-t-the-extra-terrestrial
+  - film: et-the-extra-terrestrial
     era: golden-run
     signature: 5
     must_see: true
@@ -72,7 +72,7 @@ curated:
   curator: house
   rationale: The two films that define the reputation, then the range around them.
   order:
-    - e-t-the-extra-terrestrial
+    - et-the-extra-terrestrial
     - back-to-the-future
     - jurassic-park
     - gremlins

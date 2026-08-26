@@ -1,4 +1,6 @@
 # Films for Gene Hackman. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Superman already exists in brando.yaml (as `superman-1978`).
 
 - id: bonnie-and-clyde
   tmdb_id: 475
@@ -47,18 +49,6 @@
   imdb_id: tt0071360
   poster_url: https://m.media-amazon.com/images/M/MV5BOTY4OTVmMzgtNTBkYi00NjI1LWIzOWItNGIwNTM1ZTEzMzc5XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-conversation
-
-- id: superman-hackman
-  tmdb_id: 1924
-  title: Superman
-  year: 1978
-  runtime: 143
-  director: Richard Donner
-  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 5, acclaim: 0.75 }
-  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
-  imdb_id: tt0078346
-  poster_url: https://m.media-amazon.com/images/M/MV5BMzFlZDJjMDAtZDYxZS00NzZhLTk2ODMtZWRlODA3Njk3ZTdmXkEyXkFqcGc@._V1_SX300.jpg
-  letterboxd_slug: superman
 
 - id: hoosiers
   tmdb_id: 5693
