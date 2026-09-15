@@ -1,0 +1,66 @@
+slug: robert-richardson
+kind: cinematographer
+name: Robert Richardson
+blurb: Hard shafts of top-light through venetian blinds, mixed film stocks inside a single movie, and a willingness to blow out a frame until it hurts — three Oscars for three completely different eras of cinema.
+
+films:
+  - film: jfk
+    signature: 4
+    must_see: true
+    gateway: 2
+    note: 35mm, 16mm, Super 8 and stock footage cut together until fabricated scenes read as documentary and documentary starts to read as staged — his first Oscar, and the technique the whole film's argument depends on.
+
+  - film: natural-born-killers
+    signature: 5
+    gateway: 1
+    note: A hallucinatory collage of black-and-white, oversaturated color, and mismatched aspect ratios inside single scenes — the most maximalist, least legible thing he ever shot.
+
+  - film: casino
+    signature: 3
+    gateway: 3
+    note: Vegas neon and casino-floor light glossed to a hard, seductive shine before the film starts curdling everything it's showing you.
+
+  - film: kill-bill-vol-1
+    signature: 4
+    gateway: 4
+    note: Saturated, anime-bright color that drops without warning into stark black-and-white for the House of Blue Leaves massacre — genre pastiche rendered as a genuine formal choice rather than a gimmick.
+
+  - film: kill-bill-vol-2
+    signature: 3
+    gateway: 4
+    note: A far more desaturated, sun-bleached desert palette than Vol. 1 — the color itself tracking the story's turn from spectacle toward reckoning.
+
+  - film: the-aviator
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: Two-strip and three-strip Technicolor processes recreated by hand to match the exact film stocks Hollywood itself used across the decades the story spans — his second Oscar, and a technical feat disguised as a period biopic.
+
+  - film: inglourious-basterds
+    signature: 4
+    gateway: 4
+    note: Sun through a French farmhouse's floorboards, cinema-screen light flickering across faces in the film's climax — light itself made into one of the film's weapons.
+
+  - film: hugo
+    signature: 4
+    gateway: 5
+    note: A warm, golden Paris train station shot in 3D specifically to recall the birth of cinema the film is actually about — his third Oscar, and his most purely sentimental work.
+
+  - film: django-unchained
+    signature: 3
+    gateway: 4
+    note: Antebellum plantations shot with the same wide, sun-drenched grandeur as a classical Western, deliberately undercutting the horror underneath it.
+
+curated:
+  curator: house
+  rationale: The three Oscar-winning images first, then the range of genre either side of them.
+  order:
+    - the-aviator
+    - hugo
+    - jfk
+    - kill-bill-vol-1
+    - inglourious-basterds
+    - kill-bill-vol-2
+    - django-unchained
+    - casino
+    - natural-born-killers

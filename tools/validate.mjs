@@ -21,7 +21,7 @@ const FILM_DIR = new URL('films/', DATA_DIR);
 const TASTE_TAGS = ['opacity', 'stillness', 'bleakness', 'humor'];
 const CONTENT_BOOLEANS = ['sexual_violence', 'animal_harm', 'child_harm', 'suicide'];
 const CONTENT_SEVERITIES = ['violence', 'sex'];
-const ENTITY_KINDS = ['director', 'actor', 'studio'];
+const ENTITY_KINDS = ['director', 'actor', 'studio', 'cinematographer'];
 const MEDIA = ['film', 'series'];
 // The shortest non-completist depth the quiz offers. A must-see is pinned "no matter what", and
 // the engine reserves one slot of the budget for the algorithm rather than letting pins consume

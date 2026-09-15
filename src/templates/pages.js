@@ -54,6 +54,7 @@ const QUESTIONS = [
     byKind: {
       actor: ['Ease me in', 'Show me their range', 'Best work first'],
       studio: ['Ease me in', 'Trace the eras', 'Best work first'],
+      cinematographer: ['Ease me in', 'Watch the eye develop', 'Best work first'],
     },
   },
   {
@@ -167,10 +168,15 @@ export function entityPage(entity, filmsById, housePath, site) {
     })),
   };
 
-  const KIND_LABEL = { director: 'Director', actor: 'Actor', studio: 'Studio' };
+  const KIND_LABEL = {
+    director: 'Director',
+    actor: 'Actor',
+    studio: 'Studio',
+    cinematographer: 'Cinematographer',
+  };
 
   const body = `    <main class="entity" data-kind="${esc(entity.kind)}">
-      <nav class="crumbs"><a href="${esc(url(base, '/'))}">← Directors, actors &amp; studios</a></nav>
+      <nav class="crumbs"><a href="${esc(url(base, '/'))}">← Directors, actors, studios &amp; DPs</a></nav>
       <p class="kind-label">${esc(KIND_LABEL[entity.kind] ?? entity.kind)}</p>
       <h1>${esc(entity.name)}</h1>
       <p class="blurb">${esc(entity.blurb)}</p>
@@ -232,6 +238,7 @@ const KIND_SECTIONS = [
   { kind: 'director', heading: 'Directors' },
   { kind: 'actor', heading: 'Actors' },
   { kind: 'studio', heading: 'Studios' },
+  { kind: 'cinematographer', heading: 'Cinematographers' },
 ];
 
 /**
@@ -307,8 +314,8 @@ export function indexPage(entities, filmsById, site) {
   const { base, origin } = site;
   const title = 'WatchOrder — viewing orders for filmmakers worth the trouble';
   const description =
-    'Curated and personalised viewing orders for directors, actors and studios, computed from ' +
-    'hand-written tags rather than scraped ratings.';
+    'Curated and personalised viewing orders for directors, actors, studios and ' +
+    'cinematographers, computed from hand-written tags rather than scraped ratings.';
 
   const byKind = new Map(KIND_SECTIONS.map((section) => [section.kind, []]));
   for (const entity of entities) byKind.get(entity.kind)?.push(entity);
@@ -386,8 +393,8 @@ ${canon.map((entry) => canonCard(entry, base)).join('\n')}
       </p>
 
       <div class="search" id="search" hidden>
-        <label for="search-input" class="visually-hidden">Search directors, actors, studios and films</label>
-        <input type="search" id="search-input" placeholder="Search director, actor or studio…" autocomplete="off">
+        <label for="search-input" class="visually-hidden">Search directors, actors, studios, cinematographers and films</label>
+        <input type="search" id="search-input" placeholder="Search director, actor, studio or DP…" autocomplete="off">
         <p class="search-status" id="search-status" hidden></p>
         <ul class="search-results" id="search-results" hidden></ul>
       </div>

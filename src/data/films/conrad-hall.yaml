@@ -1,0 +1,22 @@
+# New film for Conrad Hall. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Cool Hand Luke already exists in newman.yaml. Butch Cassidy and the Sundance Kid also exists in
+# newman.yaml. American Beauty already exists in chris-cooper.yaml. Road to Perdition already
+# exists in newman.yaml.
+
+- id: in-cold-blood
+  tmdb_id: 969
+  title: In Cold Blood
+  year: 1967
+  runtime: 134
+  director: Richard Brooks
+  tags:
+    opacity: 2 # the murder itself is withheld and restaged piecemeal, well after the killers have already become sympathetic
+    stillness: 3
+    bleakness: 5
+    humor: 1
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+  imdb_id: tt0061809
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTcyNzYwNzcyM15BMl5BanBnXkFtZTgwMDA0ODUyMDE@._V1_SX300.jpg
+  letterboxd_slug: in-cold-blood

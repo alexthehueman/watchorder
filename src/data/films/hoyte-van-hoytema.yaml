@@ -1,0 +1,22 @@
+# New film for Hoyte van Hoytema. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Her already exists in phoenix.yaml. Interstellar already exists in mcconaughey.yaml. Spectre
+# already exists in waltz.yaml. Dunkirk already exists in cillian-murphy.yaml. Tenet already
+# exists in pattinson.yaml. Oppenheimer already exists in cillian-murphy.yaml.
+
+- id: let-the-right-one-in
+  tmdb_id: 14618
+  title: Let the Right One In
+  year: 2008
+  runtime: 114
+  director: Tomas Alfredson
+  tags:
+    opacity: 2 # what she actually is gets confirmed only in pieces, well after the film has let you suspect and doubt it in turn
+    stillness: 4
+    bleakness: 5
+    humor: 1
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
+  imdb_id: tt1139797
+  poster_url: https://m.media-amazon.com/images/M/MV5BMWFkODcyM2UtN2EzMy00MjA5LThmZjAtNzUyZWc0N2I5MjZlXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: let-the-right-one-in

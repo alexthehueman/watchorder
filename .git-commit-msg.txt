@@ -1,0 +1,26 @@
+Add cinematographer as a fourth entity kind, and 10 DPs to start
+
+WatchOrder now covers directors, actors, studios and cinematographers.
+A cinematographer's pair schema mirrors a director's (signature, gateway,
+must_see, note) with no new validation branch needed — the "not actor,
+not studio" path in validate.mjs already fit. New work: a `cinematographer`
+kind in src/core/kinds.js (chrono-meaningful, diversityDelta 1.35 — tuned
+up from an initial 1.0 after several thin 7-film entities converged on
+near-identical 3-film selections regardless of profile), a fourth
+KIND_SECTIONS entry and KIND_LABEL/copy updates in pages.js and search.js,
+and a custom mode-question label ("Watch the eye develop").
+
+Ten cinematographers, chosen to lean hard on the "tag a film once"
+architecture: Roger Deakins, Emmanuel Lubezki, Robert Elswit, Conrad Hall,
+Robert Richardson, Janusz Kamiński, Christopher Doyle, Sven Nykvist,
+Hoyte van Hoytema, Gordon Willis. Most of their filmographies were already
+tagged for the directors and actors they shot for — only 4 new films
+needed tagging (1917, Manhattan, In Cold Blood, Let the Right One In).
+Each pair's `note` describes the cinematography specifically (lighting,
+camera movement, color, format) rather than restating the film's plot,
+the same differentiation the actor schema uses for showcase vs signature.
+
+0 validate errors, 29/30 tests pass (only the pre-existing register-axis
+gap remains, proportionally unchanged).
+
+Co-Authored-By: Claude Sonnet 5 <noreply@anthropic.com>

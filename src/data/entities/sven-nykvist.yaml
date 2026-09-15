@@ -1,0 +1,66 @@
+slug: sven-nykvist
+kind: cinematographer
+name: Sven Nykvist
+blurb: A single soft source of light on a face held in extreme close-up, on the belief that natural light told the truth an actor's expression was trying to hide — two Oscars, both for the same collaborator.
+
+films:
+  - film: winter-light
+    signature: 3
+    gateway: 1
+    note: Flat, wintry Swedish daylight through a country church's windows, refused any warmth the story doesn't earn — the austerest work of a genuinely austere run.
+
+  - film: the-silence
+    signature: 3
+    gateway: 2
+    note: Hotel-room light kept deliberately oppressive and close, two sisters shot as if the room itself is shrinking around them.
+
+  - film: persona
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: Two faces lit and framed until they visually merge into one — the single shot most film students are shown first when told what a cinematographer actually does.
+
+  - film: hour-of-the-wolf
+    signature: 3
+    gateway: 2
+    note: Deep, near-total blacks pierced by single candle or lamp sources — horror rendered through absence of light rather than anything shown in it.
+
+  - film: shame-1968
+    signature: 4
+    gateway: 3
+    note: A war's approach shot as encroaching grey — daylight itself seeming to drain out of the film as the story does.
+
+  - film: cries-and-whispers
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: Interiors soaked in deep red and faces held so close the frame barely contains them — the Oscar-winning extreme close-up as a study in what it costs to watch someone in pain without looking away.
+
+  - film: scenes-from-a-marriage
+    signature: 4
+    gateway: 4
+    note: Two people, mostly one static setup at a time, lit plainly enough that there's nowhere for either performance to hide.
+
+  - film: autumn-sonata
+    signature: 4
+    gateway: 4
+    note: A mother and daughter's late-night confrontation lit with almost no fill light at all — faces left to go dark exactly when the conversation does.
+
+  - film: fanny-and-alexander
+    signature: 4
+    gateway: 5
+    note: Warm, candlelit, opulently detailed interiors — his second Oscar, and by a wide margin the most visually generous, least withholding film of the whole collaboration.
+
+curated:
+  curator: house
+  rationale: The two Oscar-winning images first, then the range from austerity to warmth around them.
+  order:
+    - cries-and-whispers
+    - persona
+    - fanny-and-alexander
+    - scenes-from-a-marriage
+    - autumn-sonata
+    - shame-1968
+    - hour-of-the-wolf
+    - the-silence
+    - winter-light

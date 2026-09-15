@@ -19,7 +19,7 @@ const sections = [...document.querySelectorAll('.roster-section')];
 const tabsBox = document.getElementById('kind-tabs');
 const tabButtons = [...document.querySelectorAll('.kind-tab')];
 
-const KIND_LABEL = { director: 'Director', actor: 'Actor', studio: 'Studio' };
+const KIND_LABEL = { director: 'Director', actor: 'Actor', studio: 'Studio', cinematographer: 'DP' };
 
 // Whichever tab is marked selected in the markup — see indexPage() in pages.js — starts as the
 // active kind, so server-rendered and script-driven state agree without a separate lookup.

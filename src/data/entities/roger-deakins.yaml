@@ -1,0 +1,84 @@
+slug: roger-deakins
+kind: cinematographer
+name: Roger Deakins
+blurb: Deep-focus tableaux, near-invisible camera movement, and a refusal to let lighting call attention to itself — the reason "a Deakins shot" is a phrase people use who couldn't name another cinematographer.
+
+films:
+  - film: barton-fink
+    signature: 2
+    gateway: 1
+    note: A hotel hallway shot long and flat until the wallpaper itself starts to feel like a threat — his first collaboration with the Coens, and the one where the dread is entirely architectural.
+
+  - film: the-man-who-wasnt-there
+    signature: 4
+    gateway: 2
+    note: Black and white shot for black and white, not desaturated after the fact — cigarette smoke and venetian-blind shadows doing the work color normally does.
+
+  - film: o-brother-where-art-thou
+    signature: 3
+    gateway: 3
+    note: The first film digitally regraded shot-by-shot to invent a sepia Depression-South that never actually looked like this — the origin of the "digital intermediate" as a creative tool rather than a lab process.
+
+  - film: fargo
+    signature: 4
+    gateway: 3
+    note: A flat white Minnesota expanse shot so plainly it becomes oppressive — the film that first made "empty landscape as dread" his signature rather than an incidental choice.
+
+  - film: no-country-for-old-men
+    signature: 5
+    gateway: 3
+    note: Static wide shots of West Texas scrub that never once move to reassure you — the landscape is the antagonist, and the camera refuses to flinch from it or cut away.
+
+  - film: true-grit-2010
+    signature: 3
+    gateway: 3
+    note: A Western shot for once in genuinely overcast, wintry light rather than golden-hour myth-making — the Coens' most straightforward film gets his most straightforward images.
+
+  - film: the-shawshank-redemption
+    signature: 3
+    gateway: 5
+    note: The rain-and-relief shot everyone remembers even without knowing his name — his most purely emotional, least stylistically radical work, which is exactly why it's the easiest way in.
+
+  - film: skyfall
+    signature: 4
+    gateway: 4
+    note: A fistfight silhouetted entirely against a neon Shanghai skyline, the actors reduced to black shapes against colored glass — a studio blockbuster that let him shoot like an art film.
+
+  - film: prisoners
+    signature: 3
+    gateway: 2
+    note: A grey, rain-soaked Pennsylvania that never once lets the light apologize for how bleak the story is — despair rendered as weather rather than metaphor.
+
+  - film: sicario
+    signature: 4
+    gateway: 3
+    note: A convoy crossing into Juárez shot in near-silhouette against a bruised magic-hour sky — the moment the film stops pretending anyone in it can see clearly.
+
+  - film: blade-runner-2049
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: Burnt-orange dust storms and a flooded, neon-drowned Vegas — the film that finally won him the Oscar, and the fullest expression of color as dread rather than spectacle.
+
+  - film: "1917"
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: Built and lit to sustain the illusion of one continuous take across an entire battlefield — a technical high-wire act that never once shows its own seams, and his second Oscar.
+
+curated:
+  curator: house
+  rationale: The two Oscar-winning images first, then the film that should have been a third, then the range either side of them.
+  order:
+    - no-country-for-old-men
+    - blade-runner-2049
+    - "1917"
+    - skyfall
+    - sicario
+    - fargo
+    - the-shawshank-redemption
+    - prisoners
+    - true-grit-2010
+    - o-brother-where-art-thou
+    - the-man-who-wasnt-there
+    - barton-fink

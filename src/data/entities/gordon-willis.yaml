@@ -1,0 +1,66 @@
+slug: gordon-willis
+kind: cinematographer
+name: Gordon Willis
+blurb: Nicknamed "the Prince of Darkness" for underexposing faces until shadow swallowed half the frame — he redefined how much a studio picture could withhold visually and still read as prestige rather than a mistake.
+
+films:
+  - film: klute
+    signature: 4
+    gateway: 2
+    note: A surveillance thriller shot so that entire rooms sit in near-total darkness around one lit figure — paranoia rendered as an actual absence of light rather than a mood.
+
+  - film: the-parallax-view
+    signature: 5
+    gateway: 1
+    note: A corporation's actual reach is never fully lit or fully shown — figures dwarfed by vast, empty, symmetrical spaces built specifically to make paranoia feel architectural.
+
+  - film: the-godfather
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: Overhead top-lighting that drops a man's eyes into total shadow the moment he starts lying — a look the studio fought him on and that became the entire visual language of the genre afterward.
+
+  - film: the-godfather-part-ii
+    signature: 5
+    gateway: 3
+    note: Two timelines shot in two distinct registers — warm, dusty sepia for the past, colder and darker for the present closing in on it.
+
+  - film: all-the-presidents-men
+    signature: 4
+    gateway: 3
+    note: Flat, fluorescent newsroom overheads and a cavernous, underlit parking garage — one of his rare bright interiors, used specifically to make the one dark one land harder.
+
+  - film: annie-hall
+    signature: 3
+    gateway: 4
+    note: Naturalistic New York daylight and a much warmer palette than his crime-picture work — proof the shadows were always a choice, not a signature he couldn't turn off.
+
+  - film: manhattan
+    signature: 4
+    must_see: true
+    gateway: 4
+    note: Black-and-white widescreen New York shot like a love letter to the skyline itself — his most purely romantic, most visually generous work.
+
+  - film: the-godfather-part-iii
+    signature: 3
+    gateway: 3
+    note: A late return to the same top-lit interrogation-room grammar, now applied to an old man who can no longer control who's in the shadows with him.
+
+  - film: presumed-innocent
+    signature: 3
+    gateway: 4
+    note: A courtroom thriller shot with a colder, more clinical version of his usual shadow — the darkness here reading as procedure rather than menace.
+
+curated:
+  curator: house
+  rationale: The two darkest, most influential images first, then the range of daylight and shadow around them.
+  order:
+    - the-godfather
+    - the-godfather-part-ii
+    - manhattan
+    - klute
+    - the-parallax-view
+    - all-the-presidents-men
+    - annie-hall
+    - presumed-innocent
+    - the-godfather-part-iii

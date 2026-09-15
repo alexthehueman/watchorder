@@ -1,0 +1,60 @@
+slug: emmanuel-lubezki
+kind: cinematographer
+name: Emmanuel Lubezki
+blurb: Natural light only, a camera that never seems to stop moving, and unbroken takes built to erase the seams between shots entirely — three consecutive Oscars, for three very different films.
+
+films:
+  - film: sleepy-hollow
+    signature: 2
+    gateway: 2
+    note: A gothic studio production shot almost entirely in desaturated blue-grey — an early, more classically composed register than the roving naturalism he'd later become known for.
+
+  - film: y-tu-mama-tambien
+    signature: 3
+    gateway: 3
+    note: A handheld road movie shot in unforgiving Mexican sunlight, the camera drifting away from its own leads mid-scene to look at the country around them.
+
+  - film: the-new-world
+    signature: 3
+    gateway: 2
+    note: Shot almost entirely with natural light and handheld, the camera treating a first encounter between two civilizations as something closer to a nature documentary than a costume drama — the film where his signature style first fully arrives.
+
+  - film: children-of-men
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A six-minute ambush inside a moving car, apparently unbroken and apparently impossible — the single shot most cinematographers still cite as the reason they wanted the job.
+
+  - film: the-tree-of-life
+    signature: 5
+    gateway: 1
+    note: Shot almost entirely in magic hour and available light, the camera drifting rather than framing — his most purely personal expression of a philosophy the rest of his career only hints at.
+
+  - film: gravity
+    signature: 4
+    gateway: 5
+    note: A seventeen-minute opening take in zero gravity, built from a light box the size of a small building — his first Oscar, and the most mainstream, most purely technical entry point to his work.
+
+  - film: birdman
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: Stitched together to read as one continuous take through the cramped backstage corridors of a Broadway theater — the boldest formal bet of his career, and it never once breaks the illusion.
+
+  - film: the-revenant
+    signature: 4
+    gateway: 3
+    note: Shot with only natural light and a strict, punishing window each day to get it — snow and breath and firelight doing the work a studio setup never could.
+
+curated:
+  curator: house
+  rationale: The unbroken takes that made his name, then the range around them.
+  order:
+    - children-of-men
+    - birdman
+    - gravity
+    - the-tree-of-life
+    - the-revenant
+    - y-tu-mama-tambien
+    - the-new-world
+    - sleepy-hollow

@@ -1,0 +1,60 @@
+slug: hoyte-van-hoytema
+kind: cinematographer
+name: Hoyte van Hoytema
+blurb: A large-format 65mm and IMAX specialist with a cool, painterly Scandinavian eye — the cinematographer who convinced a studio blockbuster director that celluloid, and enormous film formats, still mattered.
+
+films:
+  - film: let-the-right-one-in
+    signature: 4
+    gateway: 2
+    note: Snow shot in cold blues with almost no warm light allowed in at all — a horror film that looks, before anything happens in it, like it's already given up on comfort.
+
+  - film: her
+    signature: 3
+    gateway: 4
+    note: A near-future Los Angeles in warm pastels and soft pinks — his most colorful, least austere work, and a deliberate rebuttal to sci-fi's usual cold-blue future.
+
+  - film: interstellar
+    signature: 4
+    gateway: 3
+    note: Shot on 65mm and IMAX film specifically so the vastness of space would register as texture rather than a clean digital void — the start of his long run with the same director.
+
+  - film: spectre
+    signature: 2
+    gateway: 4
+    note: A more conventional studio register than the rest of his work, Bond's usual gloss largely intact — his most anonymous film.
+
+  - film: dunkirk
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: Shot almost entirely on IMAX 65mm with minimal dialogue, the scale of the format doing narrative work usually left to a script — beach, sky and sea as the entire story.
+
+  - film: tenet
+    signature: 3
+    gateway: 2
+    note: Time-inversion effects built practically in-camera wherever possible rather than added after — a puzzle box shot to actually have been filmed the way it plays.
+
+  - film: nope
+    signature: 3
+    gateway: 3
+    note: A sky shot to withhold what's actually up there for as long as possible, using large-format clarity itself as the source of dread rather than darkness or blur.
+
+  - film: oppenheimer
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: Black-and-white and color IMAX stock cut together to separate one man's subjective experience from everyone else's — his first Oscar, and the fullest use yet of the format he'd spent a decade championing.
+
+curated:
+  curator: house
+  rationale: The Oscar-winning image first, then the run of large-format work that led to it, then the range either side.
+  order:
+    - oppenheimer
+    - dunkirk
+    - interstellar
+    - her
+    - let-the-right-one-in
+    - tenet
+    - nope
+    - spectre

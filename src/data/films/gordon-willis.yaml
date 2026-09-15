@@ -1,0 +1,18 @@
+# New film for Gordon Willis. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Godfather already exists in brando.yaml. The Godfather Part II already exists in de-niro.yaml.
+# The Godfather Part III already exists in coppola.yaml. Annie Hall already exists in
+# keaton-diane.yaml. Klute already exists in jane-fonda.yaml. All the President's Men already
+# exists in redford.yaml.
+
+- id: manhattan
+  tmdb_id: 10608
+  title: Manhattan
+  year: 1979
+  runtime: 96
+  director: Woody Allen
+  tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 4, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  imdb_id: tt0079522
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTk3NTk1Mzk2M15BMl5BanBnXkFtZTgwNTc1NTYyMTE@._V1_SX300.jpg
+  letterboxd_slug: manhattan

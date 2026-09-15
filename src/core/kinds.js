@@ -61,6 +61,26 @@ export const KINDS = {
     chronoIsMeaningful: false,
     modeAliases: { chrono: 'era' },
   },
+
+  cinematographer: {
+    ready: true,
+    // Chronology is genuinely meaningful here in a way it isn't for an actor — a DP's toolkit
+    // changes under them (film stock, digital, aspect ratio, what a Steadicam or a drone can do),
+    // so "watch them develop" tracks a real technical and formal arc rather than hiring order.
+    modes: ['chrono', 'peak', 'ramp'],
+    // Same shape as a director's weights: the film's own qualities are still most of why a path
+    // through a cinematographer's work is worth taking, just filtered through one visual eye
+    // rather than one authorial one.
+    weights: { opacity: 1.4, stillness: 1.2, bleakness: 0.9, humor: 1.0 },
+    // A DP's credits span other people's houses — Deakins alone is the Coens, Mendes and
+    // Villeneuve — but measured against the actual thin, newly-tagged roster this shipped with,
+    // that variety wasn't enough on its own: several 7-film entities converged on nearly the same
+    // small subset regardless of profile. A DP's own eye turns out to unify a catalogue almost as
+    // hard as a studio's house style does, just applied across other people's films instead of one
+    // studio's — hence a push close to a studio's rather than a director's.
+    diversityDelta: 1.35,
+    chronoIsMeaningful: true,
+  },
 };
 
 /**

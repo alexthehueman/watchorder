@@ -1,0 +1,66 @@
+slug: janusz-kaminski
+kind: cinematographer
+name: Janusz Kamiński
+blurb: Desaturated color, bleach-bypass grain, and a handheld urgency he brought to Spielberg's work starting in the early nineties and never entirely left — two Oscars, both for the same director.
+
+films:
+  - film: schindlers-list
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: Shot in black and white against every commercial instinct of the moment, the one color moment landing like a wound precisely because everything around it refuses to be beautiful — his first Oscar.
+
+  - film: amistad
+    signature: 3
+    gateway: 3
+    note: Courtroom light kept cold and procedural, saving anything painterly for the ship's hold sequences it can't afford to make comfortable.
+
+  - film: saving-private-ryan
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: The bleach-bypass process he pioneered here strips the color and the gloss from Omaha Beach until it reads more like exposed newsreel than a studio production — his second Oscar.
+
+  - film: ai-artificial-intelligence
+    signature: 3
+    gateway: 2
+    note: Cold blues and an artificial fairy-tale sheen applied to a story that keeps insisting it isn't one.
+
+  - film: minority-report
+    signature: 4
+    gateway: 4
+    note: A future shot deliberately overexposed and desaturated toward blue-grey — noir lighting grammar applied to gleaming, invasive technology instead of a rain-soaked alley.
+
+  - film: catch-me-if-you-can
+    signature: 3
+    gateway: 5
+    note: Warm, Saul Bass-inflected sixties glamour, shot with none of his usual grain or grit — his lightest, most purely enjoyable register.
+
+  - film: munich
+    signature: 4
+    gateway: 3
+    note: Grainy, handheld and deliberately unglamorous — a seventies political-thriller texture applied on purpose to a film about an operation nobody involved can feel good about.
+
+  - film: war-of-the-worlds
+    signature: 3
+    gateway: 3
+    note: Suburban daylight curdling into ash-grey disaster light without a single reassuring cutaway to explain what's actually happening.
+
+  - film: lincoln
+    signature: 4
+    gateway: 4
+    note: Candlelit interiors and amber, almost daguerreotype-toned rooms — light doing the work of making a national myth feel like it happened in an actual, dim, over-negotiated room.
+
+curated:
+  curator: house
+  rationale: The two Oscar-winning images first, then the historical-prestige and blockbuster range around them.
+  order:
+    - schindlers-list
+    - saving-private-ryan
+    - lincoln
+    - munich
+    - minority-report
+    - catch-me-if-you-can
+    - amistad
+    - ai-artificial-intelligence
+    - war-of-the-worlds

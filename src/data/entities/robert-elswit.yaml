@@ -1,0 +1,72 @@
+slug: robert-elswit
+kind: cinematographer
+name: Robert Elswit
+blurb: Anamorphic widescreen and a whip pan sharp enough to feel like a punchline, deployed across two decades of Paul Thomas Anderson and a handful of the sharpest studio thrillers of the 2000s.
+
+films:
+  - film: hard-eight
+    signature: 2
+    gateway: 2
+    note: A low-budget Reno noir shot in tight, patient close-ups — the first of nine collaborations with the same director, and the least showy of any of them.
+
+  - film: boogie-nights
+    signature: 4
+    must_see: true
+    gateway: 3
+    note: An unbroken Steadicam glide down into a pool party and back out again, the camera treating a porn-industry ensemble with the same fluid confidence Scorsese gave the Copacabana.
+
+  - film: magnolia
+    signature: 4
+    gateway: 2
+    note: Whip pans that snap between a dozen intersecting lives like a hand caught fidgeting — restless in a way that makes the film's coincidences feel like they're being physically chased down.
+
+  - film: punch-drunk-love
+    signature: 3
+    gateway: 3
+    note: Blown-out lens flares and blocks of pure primary color standing in for a man's barely-contained interior weather.
+
+  - film: there-will-be-blood
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: An oil derrick fire lighting a man's face from below at night like something out of a silent horror film — the shot that won him the Oscar, and the one that defines the whole picture's scale.
+
+  - film: michael-clayton
+    signature: 3
+    gateway: 4
+    note: A far more restrained, corporate-grey register than his PTA work — fluorescent office light and empty parking structures doing the paranoia's work quietly.
+
+  - film: nightcrawler
+    signature: 4
+    gateway: 4
+    note: A neon, sodium-lit Los Angeles shot like a predator's hunting ground — the city itself starts to look complicit in what the film's protagonist is doing to it.
+
+  - film: inherent-vice
+    signature: 3
+    gateway: 2
+    note: A hazy, sun-faded 1970 Southern California where every interior looks slightly underlit, matching a plot nobody in the film — or the audience — can quite follow.
+
+  - film: licorice-pizza
+    signature: 3
+    gateway: 3
+    note: Shot on film stock specifically to catch the grain and flare of a San Fernando Valley summer as memory rather than document.
+
+  - film: one-battle-after-another
+    signature: 3
+    gateway: 3
+    note: Extended handheld chase sequences that trade his usual composed widescreen stillness for something far more kinetic — a late departure from his own house style.
+
+curated:
+  curator: house
+  rationale: The Oscar-winning image first, then the range from ensemble comedy to studio thriller around it.
+  order:
+    - there-will-be-blood
+    - boogie-nights
+    - nightcrawler
+    - magnolia
+    - michael-clayton
+    - punch-drunk-love
+    - licorice-pizza
+    - inherent-vice
+    - one-battle-after-another
+    - hard-eight
