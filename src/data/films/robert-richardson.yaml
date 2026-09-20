@@ -4,73 +4,89 @@
 # referenced from the entity, not repeated here.
 
 - id: salvador
-  tmdb_id: null
+  tmdb_id: 6106
   title: "Salvador"
   year: 1986
   runtime: 123
   director: Oliver Stone
   tags: { opacity: 2, stillness: 1, bleakness: 5, humor: 2, acclaim: 0.75 }
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+  letterboxd_slug: salvador
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/4a/g0/x9/93/sal-1200-1200-675-675-crop-000000.jpg?v=5e5e973493
 
 - id: talk-radio
-  tmdb_id: null
+  tmdb_id: 10132
   title: "Talk Radio"
   year: 1988
   runtime: 110
   director: Oliver Stone
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 2, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: talk-radio
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/aj/1o/vv/el/sWYGSwasBPCi3HgZKgqEDF5MF4Q-1200-1200-675-675-crop-000000.jpg?v=11c4a9475d
 
 - id: born-on-the-fourth-of-july
-  tmdb_id: null
+  tmdb_id: 2604
   title: "Born on the Fourth of July"
   year: 1989
   runtime: 145
   director: Oliver Stone
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.82 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 2 }
+  letterboxd_slug: born-on-the-fourth-of-july
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/m1/sn/an/1s/born-on-the-fourth-of-july-1200-1200-675-675-crop-000000.jpg?v=3c22834a5e
 
 - id: heaven-and-earth
-  tmdb_id: null
+  tmdb_id: 31642
   title: "Heaven & Earth"
   year: 1993
   runtime: 140
   director: Oliver Stone
   tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.6 }
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: true, violence: 3, sex: 1 }
+  letterboxd_slug: heaven-earth
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/va/6s/jl/16/o0F4QDlH12j8GmGEV8GvSDGmyFT-1200-1200-675-675-crop-000000.jpg?v=c265712c58
 
 - id: u-turn
-  tmdb_id: null
+  tmdb_id: 10155
   title: "U Turn"
   year: 1997
   runtime: 125
   director: Oliver Stone
   tags: { opacity: 2, stillness: 1, bleakness: 4, humor: 3, acclaim: 0.5 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 2 }
+  letterboxd_slug: u-turn
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/nc/k2/py/8e/u-turn-1200-1200-675-675-crop-000000.jpg?v=bbf5d8d137
 
 - id: the-horse-whisperer
-  tmdb_id: null
+  tmdb_id: 547
   title: "The Horse Whisperer"
   year: 1998
   runtime: 170
   director: Robert Redford
   tags: { opacity: 1, stillness: 4, bleakness: 2, humor: 1, acclaim: 0.65 }
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: the-horse-whisperer
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/u4/sy/bh/c5/horse-1200-1200-675-675-crop-000000.jpg?v=f51e23c6f3
 
 - id: bringing-out-the-dead
-  tmdb_id: null
+  tmdb_id: 8649
   title: "Bringing Out the Dead"
   year: 1999
   runtime: 121
   director: Martin Scorsese
   tags: { opacity: 3, stillness: 1, bleakness: 4, humor: 3, acclaim: 0.62 } # opacity: a paramedic's exhaustion blurs hallucination and the night shift
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 0 }
+  letterboxd_slug: bringing-out-the-dead
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/z7/wz/4w/qi/bring-out-the-dead-1200-1200-675-675-crop-000000.jpg?v=7417feae20
 
 - id: snow-falling-on-cedars
-  tmdb_id: null
+  tmdb_id: 10219
   title: "Snow Falling on Cedars"
   year: 1999
   runtime: 127
   director: Scott Hicks
   tags: { opacity: 2, stillness: 4, bleakness: 3, humor: 1, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  letterboxd_slug: snow-falling-on-cedars
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ll/qb/ze/sw/snow%20falling-1200-1200-675-675-crop-000000.jpg?v=a1a5a6ca8e

@@ -22,19 +22,23 @@
   letterboxd_slug: let-the-right-one-in
 
 - id: the-immigrant
-  tmdb_id: null
+  tmdb_id: 152599
   title: "The Immigrant"
   year: 2013
   runtime: 120
   director: James Gray
   tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.68 }
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  letterboxd_slug: the-immigrant-2013
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/kg/0s/2u/v1/the-immigrant-1200-1200-675-675-crop-000000.jpg?v=b4a8ea3d95
 
 - id: ad-astra
-  tmdb_id: null
+  tmdb_id: 419704
   title: "Ad Astra"
   year: 2019
   runtime: 123
   director: James Gray
   tags: { opacity: 2, stillness: 4, bleakness: 4, humor: 1, acclaim: 0.6 }
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: ad-astra-2019
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/7s/uj/g7/83/ad-astra-2019-1200-1200-675-675-crop-000000.jpg?v=cf13a7a61c

@@ -18,145 +18,177 @@
   letterboxd_slug: manhattan
 
 - id: loving-1970
-  tmdb_id: null
+  tmdb_id: 92269
   title: "Loving"
   year: 1970
   runtime: 89
   director: Irvin Kershner
   tags: { opacity: 1, stillness: 3, bleakness: 2, humor: 3, acclaim: 0.6 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+  letterboxd_slug: loving
+  poster_url: https://a.ltrbxd.com/resized/film-poster/7/7/0/4/1/77041-loving-0-230-0-345-crop.jpg?v=3986559b7b
 
 - id: the-landlord
-  tmdb_id: null
+  tmdb_id: 64828
   title: "The Landlord"
   year: 1970
   runtime: 112
   director: Hal Ashby
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.7 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: the-landlord
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/lg/xy/r1/ko/landlord-1200-1200-675-675-crop-000000.jpg?v=2ee587de7d
 
 - id: bad-company-1972
-  tmdb_id: null
+  tmdb_id: 31591
   title: "Bad Company"
   year: 1972
   runtime: 93
   director: Robert Benton
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.7 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: bad-company
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/mp/gx/61/xx/company2-1200-1200-675-675-crop-000000.jpg?v=c07fbce7ad
 
 - id: up-the-sandbox
-  tmdb_id: null
+  tmdb_id: 42492
   title: "Up the Sandbox"
   year: 1972
   runtime: 98
   director: Irvin Kershner
   tags: { opacity: 2, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.5 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: up-the-sandbox
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/d0/9p/k9/wj/7JNsZvyK0lODDxgzKn3EfpA6Vb5-1200-1200-675-675-crop-000000.jpg?v=2650655876
 
 - id: the-paper-chase
-  tmdb_id: null
+  tmdb_id: 14328
   title: "The Paper Chase"
   year: 1973
   runtime: 111
   director: James Bridges
   tags: { opacity: 1, stillness: 3, bleakness: 2, humor: 2, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: the-paper-chase
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/vv/59/ig/nl/paperchase-1200-1200-675-675-crop-000000.jpg?v=d06004c899
 
 - id: interiors
-  tmdb_id: null
+  tmdb_id: 15867
   title: "Interiors"
   year: 1978
   runtime: 92
   director: Woody Allen
   tags: { opacity: 2, stillness: 4, bleakness: 5, humor: 1, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
+  letterboxd_slug: interiors
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/8p/lm/g9/5v/interiors-1200-1200-675-675-crop-000000.jpg?v=f27e49a715
 
 - id: comes-a-horseman
-  tmdb_id: null
+  tmdb_id: 42201
   title: "Comes a Horseman"
   year: 1978
   runtime: 118
   director: Alan J. Pakula
   tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: comes-a-horseman
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/9m/3u/kg/qd/comes-1200-1200-675-675-crop-000000.jpg?v=1838b26da2
 
 - id: stardust-memories
-  tmdb_id: null
+  tmdb_id: 11337
   title: "Stardust Memories"
   year: 1980
   runtime: 89
   director: Woody Allen
   tags: { opacity: 4, stillness: 3, bleakness: 3, humor: 4, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: stardust-memories
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/9g/d9/bb/pr/stardust-memories-1200-1200-675-675-crop-000000.jpg?v=3b8e31cdad
 
 - id: windows-1980
-  tmdb_id: null
+  tmdb_id: 83857
   title: "Windows"
   year: 1980
   runtime: 96
   director: Gordon Willis
   tags: { opacity: 2, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.35 }
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 2 }
+  letterboxd_slug: windows
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/m5/zk/pg/uy/windows-1200-1200-675-675-crop-000000.jpg?v=1727af39a4
 
 - id: a-midsummer-nights-sex-comedy
-  tmdb_id: null
+  tmdb_id: 8288
   title: "A Midsummer Night's Sex Comedy"
   year: 1982
   runtime: 88
   director: Woody Allen
   tags: { opacity: 1, stillness: 3, bleakness: 2, humor: 4, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: a-midsummer-nights-sex-comedy
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/8o/8m/11/ht/hhPvwlOW7zWeVQT36MlpPySQXt4-1200-1200-675-675-crop-000000.jpg?v=144b785775
 
 - id: zelig
-  tmdb_id: null
+  tmdb_id: 11030
   title: "Zelig"
   year: 1983
   runtime: 79
   director: Woody Allen
   tags: { opacity: 2, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: zelig
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/z9/91/n7/7y/zelig-1200-1200-675-675-crop-000000.jpg?v=f8a68c4367
 
 - id: broadway-danny-rose
-  tmdb_id: null
+  tmdb_id: 12762
   title: "Broadway Danny Rose"
   year: 1984
   runtime: 84
   director: Woody Allen
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.82 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: broadway-danny-rose
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/lx/9v/6w/y8/broadway-danny-rose-1200-1200-675-675-crop-000000.jpg?v=bd20114ddf
 
 - id: the-purple-rose-of-cairo
-  tmdb_id: null
+  tmdb_id: 10849
   title: "The Purple Rose of Cairo"
   year: 1985
   runtime: 82
   director: Woody Allen
   tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 4, acclaim: 0.88 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: the-purple-rose-of-cairo
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/31/lc/nq/t0/the-purple-rose-of-cairo-1200-1200-675-675-crop-000000.jpg?v=026cc8c985
 
 - id: perfect-1985
-  tmdb_id: null
+  tmdb_id: 49370
   title: "Perfect"
   year: 1985
   runtime: 120
   director: James Bridges
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.2 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+  letterboxd_slug: perfect
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/hp/xk/21/hf/Untitled-1-1200-1200-675-675-crop-000000.jpg?v=75d0bc921c
 
 - id: the-money-pit
-  tmdb_id: null
+  tmdb_id: 10466
   title: "The Money Pit"
   year: 1986
   runtime: 91
   director: Richard Benjamin
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 5, acclaim: 0.45 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: the-money-pit
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ds/yb/d5/1r/money%20pit-1200-1200-675-675-crop-000000.jpg?v=5f68edc1fe
 
 - id: malice
-  tmdb_id: null
+  tmdb_id: 2246
   title: "Malice"
   year: 1993
   runtime: 107
   director: Harold Becker
   tags: { opacity: 3, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.5 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 2 }
+  letterboxd_slug: malice
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/px/ei/gd/ly/malice-1200-1200-675-675-crop-000000.jpg?v=85b13c9cce

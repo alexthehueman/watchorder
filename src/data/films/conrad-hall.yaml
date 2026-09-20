@@ -22,136 +22,166 @@
   letterboxd_slug: in-cold-blood
 
 - id: harper
-  tmdb_id: null
+  tmdb_id: 26268
   title: "Harper"
   year: 1966
   runtime: 121
   director: Jack Smight
   tags: { opacity: 2, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.7 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: harper
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/7q/3c/0k/20/19j18H21YBEoucoqwWRdpD7WaGO-1200-1200-675-675-crop-000000.jpg?v=55dc076eb5
 
 - id: the-professionals
-  tmdb_id: null
+  tmdb_id: 22383
   title: "The Professionals"
   year: 1966
   runtime: 117
   director: Richard Brooks
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: the-professionals
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/0n/kj/83/ca/professionals-1200-1200-675-675-crop-000000.jpg?v=fe8ffa7a96
 
 - id: hell-in-the-pacific
-  tmdb_id: null
+  tmdb_id: 31681
   title: "Hell in the Pacific"
   year: 1968
   runtime: 103
   director: John Boorman
   tags: { opacity: 2, stillness: 3, bleakness: 3, humor: 2, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: hell-in-the-pacific
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/lw/go/3z/64/hell%20in%20the%20pacific-1200-1200-675-675-crop-000000.jpg?v=22077d9d4a
 
 - id: tell-them-willie-boy-is-here
-  tmdb_id: null
+  tmdb_id: 42619
   title: "Tell Them Willie Boy Is Here"
   year: 1969
   runtime: 98
   director: Abraham Polonsky
   tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.62 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: tell-them-willie-boy-is-here
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ix/li/3l/5b/a30Zye8R1NNmrKoJs8G9kekKSmH-1200-1200-675-675-crop-000000.jpg?v=dfd704e963
 
 - id: fat-city
-  tmdb_id: null
+  tmdb_id: 16993
   title: "Fat City"
   year: 1972
   runtime: 96
   director: John Huston
   tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 2, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: fat-city
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/hx/bu/50/wh/fat1-1200-1200-675-675-crop-000000.jpg?v=260d801448
 
 - id: electra-glide-in-blue
-  tmdb_id: null
+  tmdb_id: 26332
   title: "Electra Glide in Blue"
   year: 1973
   runtime: 114
   director: James William Guercio
   tags: { opacity: 2, stillness: 3, bleakness: 4, humor: 2, acclaim: 0.6 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: electra-glide-in-blue
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/qt/ia/c4/ys/electra-1200-1200-675-675-crop-000000.jpg?v=3f61cdb15f
 
 - id: marathon-man
-  tmdb_id: null
+  tmdb_id: 10518
   title: "Marathon Man"
   year: 1976
   runtime: 125
   director: John Schlesinger
   tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: marathon-man
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/i5/o2/2i/1t/marathon-man-1200-1200-675-675-crop-000000.jpg?v=ea5b24d33f
 
 - id: black-widow-1987
-  tmdb_id: null
+  tmdb_id: 19345
   title: "Black Widow"
   year: 1987
   runtime: 102
   director: Bob Rafelson
   tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.6 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 2 }
+  letterboxd_slug: black-widow-1987
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/fg/w2/l9/6j/gwOIt1OPROBB6zGd88nfMZquRUr-1200-1200-675-675-crop-000000.jpg?v=dd45d1a667
 
 - id: tequila-sunrise
-  tmdb_id: null
+  tmdb_id: 10396
   title: "Tequila Sunrise"
   year: 1988
   runtime: 116
   director: Robert Towne
   tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.5 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 2 }
+  letterboxd_slug: tequila-sunrise
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/hh/99/zk/ki/tequila-sunrise-1200-1200-675-675-crop-000000.jpg?v=9dc11a72f0
 
 - id: class-action
-  tmdb_id: null
+  tmdb_id: 15771
   title: "Class Action"
   year: 1991
   runtime: 110
   director: Michael Apted
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.6 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: class-action
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/j6/ci/qt/71/class-1200-1200-675-675-crop-000000.jpg?v=76070242f0
 
 - id: jennifer-eight
-  tmdb_id: null
+  tmdb_id: 10424
   title: "Jennifer Eight"
   year: 1992
   runtime: 124
   director: Bruce Robinson
   tags: { opacity: 2, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.5 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: jennifer-eight
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/oi/v9/eq/1a/Jennifer8-1200-1200-675-675-crop-000000.jpg?v=a4c0252f28
 
 - id: searching-for-bobby-fischer
-  tmdb_id: null
+  tmdb_id: 14291
   title: "Searching for Bobby Fischer"
   year: 1993
   runtime: 110
   director: Steven Zaillian
   tags: { opacity: 1, stillness: 3, bleakness: 1, humor: 2, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: searching-for-bobby-fischer
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/w4/rt/ze/hu/IMG_3316-1200-1200-675-675-crop-000000.jpg?v=983d8b56af
 
 - id: love-affair-1994
-  tmdb_id: null
+  tmdb_id: 43742
   title: "Love Affair"
   year: 1994
   runtime: 108
   director: Glenn Gordon Caron
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.4 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: love-affair-1994
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/u0/m5/0p/96/xYwP4TxroayV2g4ko4eQM0hgADg-1200-1200-675-675-crop-000000.jpg?v=06e7199083
 
 - id: without-limits
-  tmdb_id: null
+  tmdb_id: 22256
   title: "Without Limits"
   year: 1998
   runtime: 117
   director: Robert Towne
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.65 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: without-limits
+  poster_url: https://a.ltrbxd.com/resized/film-poster/3/7/9/9/9/37999-without-limits-0-230-0-345-crop.jpg?v=16ecbcaa96
 
 - id: a-civil-action
-  tmdb_id: null
+  tmdb_id: 9422
   title: "A Civil Action"
   year: 1998
   runtime: 115
   director: Steven Zaillian
   tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 2, acclaim: 0.6 }
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: a-civil-action
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/t4/3l/u5/xq/civil-1200-1200-675-675-crop-000000.jpg?v=b36e110f01

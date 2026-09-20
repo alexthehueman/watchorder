@@ -7,172 +7,210 @@
 # exists in morgan-freeman.yaml. 1917 already exists in scott.yaml.
 
 - id: nineteen-eighty-four
-  tmdb_id: null
+  tmdb_id: 1249996
   title: "1984"
   year: 1984
   runtime: 113
   director: Michael Radford
   tags: { opacity: 2, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 2 }
+  letterboxd_slug: 1984-1984
+  poster_url: https://a.ltrbxd.com/resized/film-poster/1/1/3/4/3/5/2/1134352-1984-0-230-0-345-crop.jpg?v=13e6cf34d9
 
 - id: defence-of-the-realm
-  tmdb_id: null
+  tmdb_id: 29627
   title: "Defence of the Realm"
   year: 1985
   runtime: 96
   director: David Drury
   tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: defence-of-the-realm
+  poster_url: https://a.ltrbxd.com/resized/film-poster/3/2/6/9/5/32695-defence-of-the-realm-0-230-0-345-crop.jpg?v=3f736590d1
 
 - id: stormy-monday
-  tmdb_id: null
+  tmdb_id: 25497
   title: "Stormy Monday"
   year: 1988
   runtime: 93
   director: Mike Figgis
   tags: { opacity: 2, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.6 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  letterboxd_slug: stormy-monday
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/1n/qi/h6/aj/stormy-1200-1200-675-675-crop-000000.jpg?v=26372065cd
 
 - id: pascalis-island
-  tmdb_id: null
+  tmdb_id: 116345
   title: "Pascali's Island"
   year: 1988
   runtime: 104
   director: James Dearden
   tags: { opacity: 3, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.5 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: pascalis-island
+  poster_url: https://a.ltrbxd.com/resized/film-poster/9/2/3/6/9/92369-pascali-s-island-0-230-0-345-crop.jpg?v=e93277f838
 
 - id: air-america
-  tmdb_id: null
+  tmdb_id: 11856
   title: "Air America"
   year: 1990
   runtime: 113
   director: Roger Spottiswoode
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.35 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: air-america
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/vb/gz/2w/eq/air-america-1200-1200-675-675-crop-000000.jpg?v=7455625c03
 
 - id: homicide
-  tmdb_id: null
+  tmdb_id: 22828
   title: "Homicide"
   year: 1991
   runtime: 102
   director: David Mamet
   tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: homicide-1991
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/vb/f8/25/vr/homicide-1200-1200-675-675-crop-000000.jpg?v=2f2a95bf44
 
 - id: thunderheart
-  tmdb_id: null
+  tmdb_id: 12395
   title: "Thunderheart"
   year: 1992
   runtime: 119
   director: Michael Apted
   tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.65 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: thunderheart
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/15/id/u3/o0/thunder2-1200-1200-675-675-crop-000000.jpg?v=1d0c16f367
 
 - id: passion-fish
-  tmdb_id: null
+  tmdb_id: 41768
   title: "Passion Fish"
   year: 1992
   runtime: 135
   director: John Sayles
   tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 3, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: passion-fish
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/39/he/24/85/passion-1200-1200-675-675-crop-000000.jpg?v=d9b1c9b172
 
 - id: the-secret-garden-1993
-  tmdb_id: null
+  tmdb_id: 11236
   title: "The Secret Garden"
   year: 1993
   runtime: 101
   director: Agnieszka Holland
   tags: { opacity: 1, stillness: 3, bleakness: 1, humor: 1, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: the-secret-garden-1993
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/qi/kv/e0/62/secret-garden-1200-1200-675-675-crop-000000.jpg?v=e5293565a4
 
 - id: the-hudsucker-proxy
-  tmdb_id: null
+  tmdb_id: 11934
   title: "The Hudsucker Proxy"
   year: 1994
   runtime: 111
   director: Joel Coen
   tags: { opacity: 2, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.62 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: the-hudsucker-proxy
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/l6/6s/87/9u/the-hudsucker-proxy-1200-1200-675-675-crop-000000.jpg?v=fbefcf75a2
 
 - id: courage-under-fire
-  tmdb_id: null
+  tmdb_id: 10684
   title: "Courage Under Fire"
   year: 1996
   runtime: 116
   director: Edward Zwick
   tags: { opacity: 3, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.65 } # opacity: the same battle retold by conflicting witnesses
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: courage-under-fire
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ll/st/ns/l8/courage-under-fire-1200-1200-675-675-crop-000000.jpg?v=f6e9a5c495
 
 - id: kundun
-  tmdb_id: null
+  tmdb_id: 9746
   title: "Kundun"
   year: 1997
   runtime: 134
   director: Martin Scorsese
   tags: { opacity: 2, stillness: 4, bleakness: 2, humor: 1, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: kundun
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/y3/nt/n5/ox/kundun-1200-1200-675-675-crop-000000.jpg?v=1f844555ac
 
 - id: the-siege
-  tmdb_id: null
+  tmdb_id: 9882
   title: "The Siege"
   year: 1998
   runtime: 116
   director: Edward Zwick
   tags: { opacity: 1, stillness: 1, bleakness: 4, humor: 1, acclaim: 0.5 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: the-siege
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/3f/43/gu/5v/siege-1200-1200-675-675-crop-000000.jpg?v=8d01e0b354
 
 - id: the-hurricane
-  tmdb_id: null
+  tmdb_id: 10400
   title: "The Hurricane"
   year: 1999
   runtime: 146
   director: Norman Jewison
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.65 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: the-hurricane
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/r5/ac/7a/zv/the-hurricane-1200-1200-675-675-crop-000000.jpg?v=157ac8f3f4
 
 - id: intolerable-cruelty
-  tmdb_id: null
+  tmdb_id: 11775
   title: "Intolerable Cruelty"
   year: 2003
   runtime: 100
   director: Joel Coen
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.6 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  letterboxd_slug: intolerable-cruelty
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/rd/dq/87/uh/intolerable-cruelty-1200-1200-675-675-crop-000000.jpg?v=44c3212791
 
 - id: house-of-sand-and-fog
-  tmdb_id: null
+  tmdb_id: 11093
   title: "House of Sand and Fog"
   year: 2003
   runtime: 126
   director: Vadim Perelman
   tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.7 }
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: true, violence: 2, sex: 0 }
+  letterboxd_slug: house-of-sand-and-fog
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ix/q4/9t/f2/house%20of%20sand%20and%20fog-1200-1200-675-675-crop-000000.jpg?v=25cc8dccca
 
 - id: the-assassination-of-jesse-james
-  tmdb_id: null
+  tmdb_id: 4512
   title: "The Assassination of Jesse James by the Coward Robert Ford"
   year: 2007
   runtime: 160
   director: Andrew Dominik
   tags: { opacity: 2, stillness: 4, bleakness: 4, humor: 1, acclaim: 0.8 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: the-assassination-of-jesse-james-by-the-coward-robert-ford
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/31/7h/dh/cv/the-assassination-of-jesse-james-by-the-coward-robert-ford-1200-1200-675-675-crop-000000.jpg?v=88e2852a0b
 
 - id: in-time
-  tmdb_id: null
+  tmdb_id: 49530
   title: "In Time"
   year: 2011
   runtime: 109
   director: Andrew Niccol
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 2, acclaim: 0.5 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: in-time
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/k9/on/yd/lu/in-time-170-1200-1200-675-675-crop-000000.jpg?v=c08380d725
 
 - id: unbroken
-  tmdb_id: null
+  tmdb_id: 227306
   title: "Unbroken"
   year: 2014
   runtime: 137
   director: Angelina Jolie
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.6 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: unbroken
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/dy/7a/7w/9v/unbroken-1200-1200-675-675-crop-000000.jpg?v=9ef625bb13

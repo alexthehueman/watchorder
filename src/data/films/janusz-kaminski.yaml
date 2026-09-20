@@ -4,64 +4,78 @@
 # referenced from the entity, not repeated here.
 
 - id: the-lost-world-jurassic-park
-  tmdb_id: null
+  tmdb_id: 330
   title: "The Lost World: Jurassic Park"
   year: 1997
   runtime: 129
   director: Steven Spielberg
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: the-lost-world-jurassic-park
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/a8/6m/va/pq/the-lost-world-jurassic-park-1200-1200-675-675-crop-000000.jpg?v=77dfd20401
 
 - id: the-terminal
-  tmdb_id: null
+  tmdb_id: 594
   title: "The Terminal"
   year: 2004
   runtime: 128
   director: Steven Spielberg
   tags: { opacity: 1, stillness: 3, bleakness: 1, humor: 3, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: the-terminal
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/gc/d1/oa/ou/the-terminal-1200-1200-675-675-crop-000000.jpg?v=d0d326b8e0
 
 - id: the-diving-bell-and-the-butterfly
-  tmdb_id: null
+  tmdb_id: 2013
   title: "The Diving Bell and the Butterfly"
   year: 2007
   runtime: 112
   director: Julian Schnabel
   tags: { opacity: 2, stillness: 4, bleakness: 4, humor: 2, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: the-diving-bell-and-the-butterfly
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/4t/lf/m1/j7/the-diving-bell-and-the-butterfly-1200-1200-675-675-crop-000000.jpg?v=c535910f4f
 
 - id: indiana-jones-and-the-kingdom-of-the-crystal-skull
-  tmdb_id: null
+  tmdb_id: 217
   title: "Indiana Jones and the Kingdom of the Crystal Skull"
   year: 2008
   runtime: 122
   director: Steven Spielberg
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.45 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: indiana-jones-and-the-kingdom-of-the-crystal-skull
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/kl/oh/yg/38/indiana-jones-kingdom-crystal-skull-1200-1200-675-675-crop-000000.jpg?v=2db554e7c8
 
 - id: war-horse
-  tmdb_id: null
+  tmdb_id: 57212
   title: "War Horse"
   year: 2011
   runtime: 146
   director: Steven Spielberg
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: war-horse
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/7c/mk/te/cy/war-horse-1200-1200-675-675-crop-000000.jpg?v=bd12c09912
 
 - id: the-post
-  tmdb_id: null
+  tmdb_id: 446354
   title: "The Post"
   year: 2017
   runtime: 116
   director: Steven Spielberg
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.8 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: the-post-2017
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/va/7b/aj/8i/the-post-1200-1200-675-675-crop-000000.jpg?v=19a59a1c68
 
 - id: west-side-story-2021
-  tmdb_id: null
+  tmdb_id: 511809
   title: "West Side Story"
   year: 2021
   runtime: 156
   director: Steven Spielberg
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 2, acclaim: 0.8 }
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: west-side-story-2021
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/0h/z1/04/yc/west-side-story-2021-1200-1200-675-675-crop-000000.jpg?v=9276010efb
