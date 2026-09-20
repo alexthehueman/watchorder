@@ -1,0 +1,58 @@
+# Films for Emmanuel Lubezki. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Films already tagged for the directors and actors he shot for live in their own files and are
+# referenced from the entity, not repeated here.
+
+- id: like-water-for-chocolate
+  tmdb_id: null
+  title: "Like Water for Chocolate"
+  year: 1992
+  runtime: 123
+  director: Alfonso Arau
+  tags: { opacity: 2, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 2 }
+
+- id: mixed-nuts
+  tmdb_id: null
+  title: "Mixed Nuts"
+  year: 1994
+  runtime: 97
+  director: Nora Ephron
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 0 }
+
+- id: a-little-princess
+  tmdb_id: null
+  title: "A Little Princess"
+  year: 1995
+  runtime: 97
+  director: Alfonso Cuaron
+  tags: { opacity: 1, stillness: 3, bleakness: 1, humor: 2, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: great-expectations-1998
+  tmdb_id: null
+  title: "Great Expectations"
+  year: 1998
+  runtime: 111
+  director: Alfonso Cuaron
+  tags: { opacity: 2, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.5 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+
+- id: the-cat-in-the-hat
+  tmdb_id: null
+  title: "The Cat in the Hat"
+  year: 2003
+  runtime: 82
+  director: Bo Welch
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.15 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: lemony-snickets-a-series-of-unfortunate-events
+  tmdb_id: null
+  title: "Lemony Snicket's A Series of Unfortunate Events"
+  year: 2004
+  runtime: 108
+  director: Brad Silberling
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 4, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }

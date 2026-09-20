@@ -4,15 +4,55 @@ name: Emmanuel Lubezki
 blurb: Natural light only, a camera that never seems to stop moving, and unbroken takes built to erase the seams between shots entirely — three consecutive Oscars, for three very different films.
 
 films:
+  - film: like-water-for-chocolate
+    signature: 2
+    gateway: 3
+    note: Candlelit Mexican kitchens and sun-baked ranch courtyards in rich earth tones — his earliest showcase for warm natural light.
+
+  - film: mixed-nuts
+    signature: 1
+    gateway: 4
+    note: A Venice Beach Christmas comedy shot in candy-colored studio gloss.
+
+  - film: reality-bites
+    signature: 2
+    gateway: 4
+    note: Handheld, sun-flooded early-nineties Houston interiors with a loose, lived-in naturalism.
+
+  - film: a-little-princess
+    signature: 3
+    gateway: 5
+    note: Fairytale attics that bloom into gold and jewel tones — the film where his color work first earned real attention.
+
+  - film: great-expectations-1998
+    signature: 2
+    gateway: 3
+    note: Florida-to-New-York romance in sea-green washes and decaying-mansion gothic light.
+
   - film: sleepy-hollow
     signature: 2
     gateway: 2
     note: A gothic studio production shot almost entirely in desaturated blue-grey — an early, more classically composed register than the roving naturalism he'd later become known for.
 
+  - film: ali
+    signature: 3
+    gateway: 3
+    note: Handheld ring photography that follows the fight from inside the ropes, plus shimmering Kinshasa daylight.
+
   - film: y-tu-mama-tambien
     signature: 3
     gateway: 3
     note: A handheld road movie shot in unforgiving Mexican sunlight, the camera drifting away from its own leads mid-scene to look at the country around them.
+
+  - film: the-cat-in-the-hat
+    signature: 1
+    gateway: 4
+    note: Saturated, candy-colored production design photographed with as much sincerity as a farce can bear — an outlier in his career.
+
+  - film: lemony-snickets-a-series-of-unfortunate-events
+    signature: 2
+    gateway: 4
+    note: A gothic, blue-grey-and-sepia storybook look with wonky, oversized sets.
 
   - film: the-new-world
     signature: 3
@@ -25,10 +65,20 @@ films:
     gateway: 3
     note: A six-minute ambush inside a moving car, apparently unbroken and apparently impossible — the single shot most cinematographers still cite as the reason they wanted the job.
 
+  - film: burn-after-reading
+    signature: 2
+    gateway: 4
+    note: A flat, corporate sheen that suits the Coens' spy farce — his one collaboration with them.
+
   - film: the-tree-of-life
     signature: 5
     gateway: 1
     note: Shot almost entirely in magic hour and available light, the camera drifting rather than framing — his most purely personal expression of a philosophy the rest of his career only hints at.
+
+  - film: to-the-wonder
+    signature: 4
+    gateway: 1
+    note: Magic-hour fields and a camera that drifts around its lovers like a ribbon — natural light stripped of narrative anchoring.
 
   - film: gravity
     signature: 4
@@ -41,10 +91,20 @@ films:
     gateway: 3
     note: Stitched together to read as one continuous take through the cramped backstage corridors of a Broadway theater — the boldest formal bet of his career, and it never once breaks the illusion.
 
+  - film: knight-of-cups
+    signature: 4
+    gateway: 1
+    note: Hollywood pools, desert dawns and neon nights in restless wide-angle drift, plot dissolved into pure image.
+
   - film: the-revenant
     signature: 4
     gateway: 3
     note: Shot with only natural light and a strict, punishing window each day to get it — snow and breath and firelight doing the work a studio setup never could.
+
+  - film: song-to-song
+    signature: 3
+    gateway: 1
+    note: Austin music festivals shot handheld and sun-blasted, the camera dancing between performers and lovers.
 
 curated:
   curator: house

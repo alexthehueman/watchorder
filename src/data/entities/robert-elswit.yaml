@@ -7,13 +7,18 @@ films:
   - film: hard-eight
     signature: 2
     gateway: 2
-    note: A low-budget Reno noir shot in tight, patient close-ups — the first of nine collaborations with the same director, and the least showy of any of them.
+    note: A low-budget Reno noir shot in tight, patient close-ups — the first of six collaborations with the same director, and the least showy of any of them.
 
   - film: boogie-nights
     signature: 4
     must_see: true
     gateway: 3
     note: An unbroken Steadicam glide down into a pool party and back out again, the camera treating a porn-industry ensemble with the same fluid confidence Scorsese gave the Copacabana.
+
+  - film: tomorrow-never-dies
+    signature: 2
+    gateway: 4
+    note: Slick, high-gloss Bond spectacle — motorbike chases and Hamburg night — his most conventional blockbuster register.
 
   - film: magnolia
     signature: 4
@@ -25,36 +30,56 @@ films:
     gateway: 3
     note: Blown-out lens flares and blocks of pure primary color standing in for a man's barely-contained interior weather.
 
-  - film: there-will-be-blood
-    signature: 5
-    must_see: true
+  - film: good-night-and-good-luck
+    signature: 4
     gateway: 3
-    note: An oil derrick fire lighting a man's face from below at night like something out of a silent horror film — the shot that won him the Oscar, and the one that defines the whole picture's scale.
+    note: Black-and-white shot through smoke and studio glare, faces lit like mid-century broadcast monitors.
+
+  - film: syriana
+    signature: 3
+    gateway: 3
+    note: Hard-lit desert and Geneva locations shot in documentary-adjacent grit across a globe-trotting thriller.
 
   - film: michael-clayton
     signature: 3
     gateway: 4
     note: A far more restrained, corporate-grey register than his PTA work — fluorescent office light and empty parking structures doing the paranoia's work quietly.
 
-  - film: nightcrawler
-    signature: 4
+  - film: there-will-be-blood
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: An oil derrick fire lighting a man's face from below at night like something out of a silent horror film — the shot that won him the Oscar, and the one that defines the whole picture's scale.
+
+  - film: the-bourne-legacy
+    signature: 2
     gateway: 4
-    note: A neon, sodium-lit Los Angeles shot like a predator's hunting ground — the city itself starts to look complicit in what the film's protagonist is doing to it.
+    note: Handheld action across Manila rooftops and Alaskan snow, kinetic without going indecipherable.
 
   - film: inherent-vice
     signature: 3
     gateway: 2
     note: A hazy, sun-faded 1970 Southern California where every interior looks slightly underlit, matching a plot nobody in the film — or the audience — can quite follow.
 
-  - film: licorice-pizza
-    signature: 3
-    gateway: 3
-    note: Shot on film stock specifically to catch the grain and flare of a San Fernando Valley summer as memory rather than document.
+  - film: nightcrawler
+    signature: 4
+    gateway: 4
+    note: A neon, sodium-lit Los Angeles shot like a predator's hunting ground — the city itself starts to look complicit in what the film's protagonist is doing to it.
 
-  - film: one-battle-after-another
-    signature: 3
+  - film: mission-impossible-rogue-nation
+    signature: 2
+    gateway: 4
+    note: Vienna opera-house rafters and a Casablanca motorcycle chase shot with clear, high-gloss action geometry.
+
+  - film: roman-j-israel-esq
+    signature: 2
     gateway: 3
-    note: Extended handheld chase sequences that trade his usual composed widescreen stillness for something far more kinetic — a late departure from his own house style.
+    note: Los Angeles courthouses and cramped offices in tired fluorescent light, matching a man out of step with his city.
+
+  - film: velvet-buzzsaw
+    signature: 2
+    gateway: 3
+    note: Art-world Los Angeles in cold gallery white and glossy pop color.
 
 curated:
   curator: house
@@ -66,7 +91,5 @@ curated:
     - magnolia
     - michael-clayton
     - punch-drunk-love
-    - licorice-pizza
     - inherent-vice
-    - one-battle-after-another
     - hard-eight

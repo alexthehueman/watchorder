@@ -9,20 +9,35 @@ films:
     gateway: 2
     note: Tropical greens and humid, langorous long takes — the first sign of the color-saturated, drifting camera that would define his whole run with this director.
 
-  - film: chungking-express
-    signature: 5
-    gateway: 4
-    note: Step-printed frames that turn a crowded Hong Kong street into a smear of neon and motion around two people standing still — shot in weeks on a stolen break from another film, and it shows in the best way.
-
   - film: ashes-of-time
     signature: 3
     gateway: 1
     note: A wuxia film shot to feel abstract and painterly rather than legible — desert light blown out until geography itself stops making sense.
 
+  - film: chungking-express
+    signature: 5
+    gateway: 4
+    note: Step-printed frames that turn a crowded Hong Kong street into a smear of neon and motion around two people standing still — shot in weeks on a stolen break from another film, and it shows in the best way.
+
   - film: fallen-angels
     signature: 4
     gateway: 2
     note: An ultra-wide-angle lens used at close range until every face and hallway warps at the edges — intimacy rendered as mild vertigo.
+
+  - film: temptress-moon
+    signature: 2
+    gateway: 2
+    note: Lush 1920s Shanghai and rural estate interiors in deep golds and greens.
+
+  - film: happy-together
+    signature: 4
+    gateway: 3
+    note: Buenos Aires in saturated yellow-green, black-and-white passages, and a waterfall vertigo shot.
+
+  - film: psycho-1998
+    signature: 1
+    gateway: 0
+    note: A shot-for-shot remake photographed in glossy color — the ultimate proof that the frame is not the whole film.
 
   - film: in-the-mood-for-love
     signature: 5
@@ -30,20 +45,40 @@ films:
     gateway: 3
     note: Slow motion, rain, and a color palette built almost entirely around the wallpaper and the cheongsams — restraint as its own kind of saturation, and the film most cinematographers point to as his best work.
 
-  - film: '2046'
-    signature: 3
-    gateway: 2
-    note: A loose science-fiction extension of the same hotel-room palette, now pushed toward colder blues and harder reflective surfaces for the film's future-set passages.
-
   - film: hero
     signature: 4
     gateway: 4
     note: An entire wuxia epic color-coded by chapter — red, blue, white, green — turning cinematography into the film's actual structuring device rather than its mood.
 
-  - film: the-grandmaster
+  - film: rabbit-proof-fence
+    signature: 3
+    gateway: 4
+    note: Outback vistas in blazing ochre and blue, the landscape as the journey's endless obstacle.
+
+  - film: the-quiet-american
     signature: 3
     gateway: 3
-    note: Rain-slicked nighttime combat shot in near-silhouette, martial arts rendered as choreography of light rather than motion.
+    note: Saigon in humid gold and green haze — dusk over the river as a character.
+
+  - film: "2046"
+    signature: 3
+    gateway: 2
+    note: A loose science-fiction extension of the same hotel-room palette, now pushed toward colder blues and harder reflective surfaces for the film's future-set passages.
+
+  - film: the-white-countess
+    signature: 2
+    gateway: 3
+    note: Shanghai's neon and art-deco interiors on the eve of war, soft-focused and melancholy.
+
+  - film: lady-in-the-water
+    signature: 2
+    gateway: 3
+    note: A single apartment-complex courtyard photographed in glowing turquoise.
+
+  - film: paranoid-park
+    signature: 3
+    gateway: 2
+    note: Skate-park slow motion and Portland rain-light, blurry and dreamy, with skate footage shot on Super 8.
 
 curated:
   curator: house
@@ -54,6 +89,5 @@ curated:
     - hero
     - fallen-angels
     - days-of-being-wild
-    - the-grandmaster
-    - '2046'
+    - "2046"
     - ashes-of-time

@@ -1,0 +1,22 @@
+# Films for Robert Elswit. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Films already tagged for the directors and actors he shot for live in their own files and are
+# referenced from the entity, not repeated here.
+
+- id: roman-j-israel-esq
+  tmdb_id: null
+  title: "Roman J. Israel, Esq."
+  year: 2017
+  runtime: 122
+  director: Dan Gilroy
+  tags: { opacity: 2, stillness: 3, bleakness: 3, humor: 2, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: velvet-buzzsaw
+  tmdb_id: null
+  title: "Velvet Buzzsaw"
+  year: 2019
+  runtime: 113
+  director: Dan Gilroy
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.4 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }

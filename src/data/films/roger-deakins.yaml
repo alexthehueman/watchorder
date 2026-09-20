@@ -5,3 +5,174 @@
 # exists in fiennes.yaml. Prisoners already exists in jackman.yaml. Sicario already exists in
 # blunt.yaml. Blade Runner 2049 already exists in gosling.yaml. The Shawshank Redemption already
 # exists in morgan-freeman.yaml. 1917 already exists in scott.yaml.
+
+- id: nineteen-eighty-four
+  tmdb_id: null
+  title: "1984"
+  year: 1984
+  runtime: 113
+  director: Michael Radford
+  tags: { opacity: 2, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 2 }
+
+- id: defence-of-the-realm
+  tmdb_id: null
+  title: "Defence of the Realm"
+  year: 1985
+  runtime: 96
+  director: David Drury
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: stormy-monday
+  tmdb_id: null
+  title: "Stormy Monday"
+  year: 1988
+  runtime: 93
+  director: Mike Figgis
+  tags: { opacity: 2, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.6 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: pascalis-island
+  tmdb_id: null
+  title: "Pascali's Island"
+  year: 1988
+  runtime: 104
+  director: James Dearden
+  tags: { opacity: 3, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.5 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: air-america
+  tmdb_id: null
+  title: "Air America"
+  year: 1990
+  runtime: 113
+  director: Roger Spottiswoode
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: homicide
+  tmdb_id: null
+  title: "Homicide"
+  year: 1991
+  runtime: 102
+  director: David Mamet
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: thunderheart
+  tmdb_id: null
+  title: "Thunderheart"
+  year: 1992
+  runtime: 119
+  director: Michael Apted
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: passion-fish
+  tmdb_id: null
+  title: "Passion Fish"
+  year: 1992
+  runtime: 135
+  director: John Sayles
+  tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 3, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: the-secret-garden-1993
+  tmdb_id: null
+  title: "The Secret Garden"
+  year: 1993
+  runtime: 101
+  director: Agnieszka Holland
+  tags: { opacity: 1, stillness: 3, bleakness: 1, humor: 1, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-hudsucker-proxy
+  tmdb_id: null
+  title: "The Hudsucker Proxy"
+  year: 1994
+  runtime: 111
+  director: Joel Coen
+  tags: { opacity: 2, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.62 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: courage-under-fire
+  tmdb_id: null
+  title: "Courage Under Fire"
+  year: 1996
+  runtime: 116
+  director: Edward Zwick
+  tags: { opacity: 3, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.65 } # opacity: the same battle retold by conflicting witnesses
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: kundun
+  tmdb_id: null
+  title: "Kundun"
+  year: 1997
+  runtime: 134
+  director: Martin Scorsese
+  tags: { opacity: 2, stillness: 4, bleakness: 2, humor: 1, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-siege
+  tmdb_id: null
+  title: "The Siege"
+  year: 1998
+  runtime: 116
+  director: Edward Zwick
+  tags: { opacity: 1, stillness: 1, bleakness: 4, humor: 1, acclaim: 0.5 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: the-hurricane
+  tmdb_id: null
+  title: "The Hurricane"
+  year: 1999
+  runtime: 146
+  director: Norman Jewison
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: intolerable-cruelty
+  tmdb_id: null
+  title: "Intolerable Cruelty"
+  year: 2003
+  runtime: 100
+  director: Joel Coen
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.6 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: house-of-sand-and-fog
+  tmdb_id: null
+  title: "House of Sand and Fog"
+  year: 2003
+  runtime: 126
+  director: Vadim Perelman
+  tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.7 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: true, violence: 2, sex: 0 }
+
+- id: the-assassination-of-jesse-james
+  tmdb_id: null
+  title: "The Assassination of Jesse James by the Coward Robert Ford"
+  year: 2007
+  runtime: 160
+  director: Andrew Dominik
+  tags: { opacity: 2, stillness: 4, bleakness: 4, humor: 1, acclaim: 0.8 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: in-time
+  tmdb_id: null
+  title: "In Time"
+  year: 2011
+  runtime: 109
+  director: Andrew Niccol
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 2, acclaim: 0.5 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: unbroken
+  tmdb_id: null
+  title: "Unbroken"
+  year: 2014
+  runtime: 137
+  director: Angelina Jolie
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.6 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }

@@ -16,3 +16,147 @@
   imdb_id: tt0079522
   poster_url: https://m.media-amazon.com/images/M/MV5BMTk3NTk1Mzk2M15BMl5BanBnXkFtZTgwNTc1NTYyMTE@._V1_SX300.jpg
   letterboxd_slug: manhattan
+
+- id: loving-1970
+  tmdb_id: null
+  title: "Loving"
+  year: 1970
+  runtime: 89
+  director: Irvin Kershner
+  tags: { opacity: 1, stillness: 3, bleakness: 2, humor: 3, acclaim: 0.6 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+
+- id: the-landlord
+  tmdb_id: null
+  title: "The Landlord"
+  year: 1970
+  runtime: 112
+  director: Hal Ashby
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.7 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: bad-company-1972
+  tmdb_id: null
+  title: "Bad Company"
+  year: 1972
+  runtime: 93
+  director: Robert Benton
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.7 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: up-the-sandbox
+  tmdb_id: null
+  title: "Up the Sandbox"
+  year: 1972
+  runtime: 98
+  director: Irvin Kershner
+  tags: { opacity: 2, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.5 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-paper-chase
+  tmdb_id: null
+  title: "The Paper Chase"
+  year: 1973
+  runtime: 111
+  director: James Bridges
+  tags: { opacity: 1, stillness: 3, bleakness: 2, humor: 2, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: interiors
+  tmdb_id: null
+  title: "Interiors"
+  year: 1978
+  runtime: 92
+  director: Woody Allen
+  tags: { opacity: 2, stillness: 4, bleakness: 5, humor: 1, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
+
+- id: comes-a-horseman
+  tmdb_id: null
+  title: "Comes a Horseman"
+  year: 1978
+  runtime: 118
+  director: Alan J. Pakula
+  tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: stardust-memories
+  tmdb_id: null
+  title: "Stardust Memories"
+  year: 1980
+  runtime: 89
+  director: Woody Allen
+  tags: { opacity: 4, stillness: 3, bleakness: 3, humor: 4, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: windows-1980
+  tmdb_id: null
+  title: "Windows"
+  year: 1980
+  runtime: 96
+  director: Gordon Willis
+  tags: { opacity: 2, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 2 }
+
+- id: a-midsummer-nights-sex-comedy
+  tmdb_id: null
+  title: "A Midsummer Night's Sex Comedy"
+  year: 1982
+  runtime: 88
+  director: Woody Allen
+  tags: { opacity: 1, stillness: 3, bleakness: 2, humor: 4, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: zelig
+  tmdb_id: null
+  title: "Zelig"
+  year: 1983
+  runtime: 79
+  director: Woody Allen
+  tags: { opacity: 2, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: broadway-danny-rose
+  tmdb_id: null
+  title: "Broadway Danny Rose"
+  year: 1984
+  runtime: 84
+  director: Woody Allen
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.82 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-purple-rose-of-cairo
+  tmdb_id: null
+  title: "The Purple Rose of Cairo"
+  year: 1985
+  runtime: 82
+  director: Woody Allen
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 4, acclaim: 0.88 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: perfect-1985
+  tmdb_id: null
+  title: "Perfect"
+  year: 1985
+  runtime: 120
+  director: James Bridges
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.2 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+
+- id: the-money-pit
+  tmdb_id: null
+  title: "The Money Pit"
+  year: 1986
+  runtime: 91
+  director: Richard Benjamin
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 5, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: malice
+  tmdb_id: null
+  title: "Malice"
+  year: 1993
+  runtime: 107
+  director: Harold Becker
+  tags: { opacity: 3, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.5 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 2 }

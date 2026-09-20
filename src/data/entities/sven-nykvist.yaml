@@ -4,15 +4,30 @@ name: Sven Nykvist
 blurb: A single soft source of light on a face held in extreme close-up, on the belief that natural light told the truth an actor's expression was trying to hide — two Oscars, both for the same collaborator.
 
 films:
-  - film: winter-light
+  - film: the-virgin-spring
     signature: 3
-    gateway: 1
-    note: Flat, wintry Swedish daylight through a country church's windows, refused any warmth the story doesn't earn — the austerest work of a genuinely austere run.
+    gateway: 2
+    note: Medieval Swedish forest light in stark black-and-white, all sun-dappled leaves and a cruel, clear-eyed morning.
+
+  - film: through-a-glass-darkly
+    signature: 3
+    gateway: 2
+    note: Baltic-island light in cold, pearly black-and-white.
 
   - film: the-silence
     signature: 3
     gateway: 2
     note: Hotel-room light kept deliberately oppressive and close, two sisters shot as if the room itself is shrinking around them.
+
+  - film: winter-light
+    signature: 3
+    gateway: 1
+    note: Flat, wintry Swedish daylight through a country church's windows, refused any warmth the story doesn't earn — the austerest work of a genuinely austere run.
+
+  - film: all-these-women
+    signature: 2
+    gateway: 2
+    note: A comic mansion in Bergman's first color feature — a bright, farcical palette he'd never quite use again.
 
   - film: persona
     signature: 5
@@ -30,6 +45,16 @@ films:
     gateway: 3
     note: A war's approach shot as encroaching grey — daylight itself seeming to drain out of the film as the story does.
 
+  - film: the-passion-of-anna
+    signature: 4
+    gateway: 2
+    note: A Baltic island's muted color and abrupt, documentary-style interviews to camera.
+
+  - film: the-touch
+    signature: 2
+    gateway: 3
+    note: An intimate, domestic English-language chamber drama in muted color.
+
   - film: cries-and-whispers
     signature: 5
     must_see: true
@@ -41,15 +66,105 @@ films:
     gateway: 4
     note: Two people, mostly one static setup at a time, lit plainly enough that there's nowhere for either performance to hide.
 
+  - film: the-magic-flute-1975
+    signature: 3
+    gateway: 4
+    note: A staged opera recorded as a theatre-within-a-film, the audience shown during the overture.
+
+  - film: face-to-face
+    signature: 3
+    gateway: 2
+    note: Faces held close through a psychological breakdown, tight and clinical.
+
+  - film: the-serpents-egg
+    signature: 2
+    gateway: 1
+    note: Berlin 1923 in sickly, stale color and inflation-era gloom.
+
   - film: autumn-sonata
     signature: 4
     gateway: 4
     note: A mother and daughter's late-night confrontation lit with almost no fill light at all — faces left to go dark exactly when the conversation does.
 
+  - film: pretty-baby
+    signature: 3
+    gateway: 3
+    note: New Orleans brothel interiors in amber lamplight, a period drama with a soft, hazy glow.
+
+  - film: from-the-life-of-the-marionettes
+    signature: 3
+    gateway: 1
+    note: Stark black-and-white with bookending color in a psychological chamber piece.
+
+  - film: the-postman-always-rings-twice-1981
+    signature: 2
+    gateway: 4
+    note: Depression-era California roadside and kitchen-table heat in sweat-slick warm light.
+
+  - film: cannery-row
+    signature: 1
+    gateway: 3
+    note: A soundstage Monterey built in soft, storybook golds.
+
   - film: fanny-and-alexander
     signature: 4
     gateway: 5
     note: Warm, candlelit, opulently detailed interiors — his second Oscar, and by a wide margin the most visually generous, least withholding film of the whole collaboration.
+
+  - film: star-80
+    signature: 2
+    gateway: 2
+    note: The hard flash-bulb glamour of 1970s photo shoots turning cold.
+
+  - film: swann-in-love
+    signature: 2
+    gateway: 2
+    note: Belle Époque Paris salons in lace-soft candlelight.
+
+  - film: agnes-of-god
+    signature: 2
+    gateway: 3
+    note: A convent in cold blue winter light, holiness and suspicion in pale stone.
+
+  - film: hannah-and-her-sisters
+    signature: 3
+    gateway: 5
+    note: Warm, autumnal Manhattan interiors and Thanksgiving dinners in cozy amber.
+
+  - film: the-sacrifice
+    signature: 4
+    gateway: 1
+    note: Tarkovsky's last film, shot in long, slow Swedish coastal takes — a burning house held in one unbroken shot.
+
+  - film: another-woman
+    signature: 3
+    gateway: 3
+    note: Autumn Manhattan apartments in muted amber — the hue of memory.
+
+  - film: the-unbearable-lightness-of-being
+    signature: 3
+    gateway: 3
+    note: Prague spring and sensual bedrooms in warm, golden-hour color.
+
+  - film: crimes-and-misdemeanors
+    signature: 2
+    gateway: 4
+    note: A dark morality tale in warm autumn interiors and cold guilt.
+
+  - film: chaplin
+    signature: 2
+    gateway: 4
+    note: Silent-era film-set glow and sepia biography.
+
+  - film: sleepless-in-seattle
+    signature: 2
+    gateway: 5
+    note: A Seattle houseboat in blues and an Empire State Building romance — his most crowd-pleasing work.
+
+  - film: whats-eating-gilbert-grape
+    signature: 3
+    gateway: 5
+    note: Iowa summer sunlight and a bulging small-town storybook look.
 
 curated:
   curator: house

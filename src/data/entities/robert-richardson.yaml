@@ -4,11 +4,51 @@ name: Robert Richardson
 blurb: Hard shafts of top-light through venetian blinds, mixed film stocks inside a single movie, and a willingness to blow out a frame until it hurts — three Oscars for three completely different eras of cinema.
 
 films:
+  - film: platoon
+    signature: 3
+    gateway: 3
+    note: Jungle darkness broken by muzzle flash and helicopter light — gritty and handheld.
+
+  - film: salvador
+    signature: 3
+    gateway: 2
+    note: Newsreel-grainy Salvadoran streets and night executions, handheld with nervous urgency.
+
+  - film: wall-street
+    signature: 3
+    gateway: 4
+    note: Glass-and-steel 1980s Manhattan in slick gold-and-blue power lighting.
+
+  - film: talk-radio
+    signature: 2
+    gateway: 3
+    note: A single radio booth circled by a restless camera that never lets the caller relax.
+
+  - film: born-on-the-fourth-of-july
+    signature: 3
+    gateway: 4
+    note: Suburban Fourth of July parade warmth curdling into jungle firefight and veterans-ward fluorescence.
+
   - film: jfk
     signature: 4
     must_see: true
     gateway: 2
     note: 35mm, 16mm, Super 8 and stock footage cut together until fabricated scenes read as documentary and documentary starts to read as staged — his first Oscar, and the technique the whole film's argument depends on.
+
+  - film: the-doors
+    signature: 3
+    gateway: 3
+    note: Saturated psychedelic reds and dreamlike desert-night sequences.
+
+  - film: a-few-good-men
+    signature: 2
+    gateway: 5
+    note: Courtroom mahogany warmed with a Rembrandt-like glow.
+
+  - film: heaven-and-earth
+    signature: 2
+    gateway: 2
+    note: Vietnamese rice-paddy green and lush, painterly village light.
 
   - film: natural-born-killers
     signature: 5
@@ -19,6 +59,36 @@ films:
     signature: 3
     gateway: 3
     note: Vegas neon and casino-floor light glossed to a hard, seductive shine before the film starts curdling everything it's showing you.
+
+  - film: nixon
+    signature: 3
+    gateway: 2
+    note: Mixed film and video textures and grainy, over-exposed Oval Office rooms.
+
+  - film: u-turn
+    signature: 3
+    gateway: 3
+    note: Overexposed Arizona desert noir — heat and glare pushed to a garish extreme.
+
+  - film: the-horse-whisperer
+    signature: 2
+    gateway: 4
+    note: Montana big-sky vistas shot in classical, golden Western light.
+
+  - film: any-given-sunday
+    signature: 3
+    gateway: 3
+    note: Stadium-level handheld chaos, extreme close-ups and whip cuts inside the huddle.
+
+  - film: bringing-out-the-dead
+    signature: 3
+    gateway: 2
+    note: Sodium-lit, hallucinatory Hell's Kitchen nights, ambulance lights streaking across a sleepless city.
+
+  - film: snow-falling-on-cedars
+    signature: 3
+    gateway: 3
+    note: Pacific Northwest island fog and snow, dense white winter with flashbacks in warm gold.
 
   - film: kill-bill-vol-1
     signature: 4
@@ -41,6 +111,11 @@ films:
     gateway: 4
     note: Sun through a French farmhouse's floorboards, cinema-screen light flickering across faces in the film's climax — light itself made into one of the film's weapons.
 
+  - film: shutter-island
+    signature: 3
+    gateway: 4
+    note: A storm-lashed asylum island in overexposed, dreamlike noir contrasts.
+
   - film: hugo
     signature: 4
     gateway: 5
@@ -50,6 +125,16 @@ films:
     signature: 3
     gateway: 4
     note: Antebellum plantations shot with the same wide, sun-drenched grandeur as a classical Western, deliberately undercutting the horror underneath it.
+
+  - film: the-hateful-eight
+    signature: 4
+    gateway: 3
+    note: Shot on 70mm Ultra Panavision so a single haberdashery cabin feels epic — the format is the point.
+
+  - film: once-upon-a-time-in-hollywood
+    signature: 3
+    gateway: 4
+    note: Sun-warmed 1969 Los Angeles on film, neon sunsets and drive-in glow.
 
 curated:
   curator: house

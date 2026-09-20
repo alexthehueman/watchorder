@@ -1,0 +1,67 @@
+# Films for Christopher Doyle. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Films already tagged for the directors and actors he shot for live in their own files and are
+# referenced from the entity, not repeated here.
+
+- id: temptress-moon
+  tmdb_id: null
+  title: "Temptress Moon"
+  year: 1996
+  runtime: 115
+  director: Chen Kaige
+  tags: { opacity: 2, stillness: 4, bleakness: 4, humor: 1, acclaim: 0.5 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+
+- id: psycho-1998
+  tmdb_id: null
+  title: "Psycho"
+  year: 1998
+  runtime: 105
+  director: Gus Van Sant
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.3 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: the-quiet-american
+  tmdb_id: null
+  title: "The Quiet American"
+  year: 2002
+  runtime: 101
+  director: Phillip Noyce
+  tags: { opacity: 2, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: rabbit-proof-fence
+  tmdb_id: null
+  title: "Rabbit-Proof Fence"
+  year: 2002
+  runtime: 94
+  director: Phillip Noyce
+  tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.82 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 0 }
+
+- id: the-white-countess
+  tmdb_id: null
+  title: "The White Countess"
+  year: 2005
+  runtime: 135
+  director: James Ivory
+  tags: { opacity: 1, stillness: 4, bleakness: 3, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: lady-in-the-water
+  tmdb_id: null
+  title: "Lady in the Water"
+  year: 2006
+  runtime: 110
+  director: M. Night Shyamalan
+  tags: { opacity: 2, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.25 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: paranoid-park
+  tmdb_id: null
+  title: "Paranoid Park"
+  year: 2007
+  runtime: 85
+  director: Gus Van Sant
+  tags: { opacity: 3, stillness: 4, bleakness: 4, humor: 1, acclaim: 0.72 } # opacity: the accident is withheld and reassembled out of order
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

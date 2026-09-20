@@ -10,10 +10,20 @@ films:
     gateway: 2
     note: Shot in black and white against every commercial instinct of the moment, the one color moment landing like a wound precisely because everything around it refuses to be beautiful — his first Oscar.
 
+  - film: jerry-maguire
+    signature: 2
+    gateway: 5
+    note: Warm, golden sports-agency and suburban light — his lightest, brightest early work.
+
   - film: amistad
     signature: 3
     gateway: 3
     note: Courtroom light kept cold and procedural, saving anything painterly for the ship's hold sequences it can't afford to make comfortable.
+
+  - film: the-lost-world-jurassic-park
+    signature: 2
+    gateway: 4
+    note: Rain-soaked jungle and a nighttime trailer-over-a-cliff sequence lit for pure suspense.
 
   - film: saving-private-ryan
     signature: 5
@@ -26,15 +36,20 @@ films:
     gateway: 2
     note: Cold blues and an artificial fairy-tale sheen applied to a story that keeps insisting it isn't one.
 
+  - film: catch-me-if-you-can
+    signature: 3
+    gateway: 5
+    note: Warm, Saul Bass-inflected sixties glamour, shot with none of his usual grain or grit — his lightest, most purely enjoyable register.
+
   - film: minority-report
     signature: 4
     gateway: 4
     note: A future shot deliberately overexposed and desaturated toward blue-grey — noir lighting grammar applied to gleaming, invasive technology instead of a rain-soaked alley.
 
-  - film: catch-me-if-you-can
-    signature: 3
+  - film: the-terminal
+    signature: 2
     gateway: 5
-    note: Warm, Saul Bass-inflected sixties glamour, shot with none of his usual grain or grit — his lightest, most purely enjoyable register.
+    note: Airport terminal glass and polished floors in cool, gleaming light.
 
   - film: munich
     signature: 4
@@ -46,10 +61,60 @@ films:
     gateway: 3
     note: Suburban daylight curdling into ash-grey disaster light without a single reassuring cutaway to explain what's actually happening.
 
+  - film: the-diving-bell-and-the-butterfly
+    signature: 4
+    gateway: 2
+    note: A subjective one-eyed opening — blur, smear, lid-blink — shot from inside a paralysed man's point of view.
+
+  - film: indiana-jones-and-the-kingdom-of-the-crystal-skull
+    signature: 2
+    gateway: 4
+    note: Nostalgic 1950s Americana and jungle serial adventure in warm, high-contrast light.
+
+  - film: funny-people
+    signature: 2
+    gateway: 4
+    note: Los Angeles stand-up clubs and mansions in glossy comedy light.
+
+  - film: war-horse
+    signature: 3
+    gateway: 4
+    note: Devon fields under vast, sunset-saturated skies in a knowingly old-Hollywood pastoral look.
+
   - film: lincoln
     signature: 4
     gateway: 4
     note: Candlelit interiors and amber, almost daguerreotype-toned rooms — light doing the work of making a national myth feel like it happened in an actual, dim, over-negotiated room.
+
+  - film: bridge-of-spies
+    signature: 4
+    gateway: 4
+    note: Cold War Berlin in slate winter light and long, sculpted shadow, a bridge-at-dawn exchange staged in mist.
+
+  - film: the-bfg
+    signature: 2
+    gateway: 5
+    note: A giants' world in oversized, storybook-warm light.
+
+  - film: the-post
+    signature: 2
+    gateway: 4
+    note: Newsroom fluorescents and warm printing-press amber in 1971 Washington.
+
+  - film: ready-player-one
+    signature: 3
+    gateway: 4
+    note: A virtual world and the real one lit as two distinct visual languages — dingy grey stacks against saturated digital glow.
+
+  - film: west-side-story-2021
+    signature: 3
+    gateway: 4
+    note: Saturated, lens-flared rooftop and dance-floor color with a fluid, roaming camera for the musical numbers.
+
+  - film: the-fabelmans
+    signature: 3
+    gateway: 4
+    note: Golden, nostalgic Arizona and California light — a director's boyhood shot with the warmth of a home movie.
 
 curated:
   curator: house

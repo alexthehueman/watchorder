@@ -1,0 +1,67 @@
+# Films for Janusz Kaminski. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Films already tagged for the directors and actors he shot for live in their own files and are
+# referenced from the entity, not repeated here.
+
+- id: the-lost-world-jurassic-park
+  tmdb_id: null
+  title: "The Lost World: Jurassic Park"
+  year: 1997
+  runtime: 129
+  director: Steven Spielberg
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: the-terminal
+  tmdb_id: null
+  title: "The Terminal"
+  year: 2004
+  runtime: 128
+  director: Steven Spielberg
+  tags: { opacity: 1, stillness: 3, bleakness: 1, humor: 3, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-diving-bell-and-the-butterfly
+  tmdb_id: null
+  title: "The Diving Bell and the Butterfly"
+  year: 2007
+  runtime: 112
+  director: Julian Schnabel
+  tags: { opacity: 2, stillness: 4, bleakness: 4, humor: 2, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: indiana-jones-and-the-kingdom-of-the-crystal-skull
+  tmdb_id: null
+  title: "Indiana Jones and the Kingdom of the Crystal Skull"
+  year: 2008
+  runtime: 122
+  director: Steven Spielberg
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: war-horse
+  tmdb_id: null
+  title: "War Horse"
+  year: 2011
+  runtime: 146
+  director: Steven Spielberg
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-post
+  tmdb_id: null
+  title: "The Post"
+  year: 2017
+  runtime: 116
+  director: Steven Spielberg
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.8 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: west-side-story-2021
+  tmdb_id: null
+  title: "West Side Story"
+  year: 2021
+  runtime: 156
+  director: Steven Spielberg
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 2, acclaim: 0.8 }
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

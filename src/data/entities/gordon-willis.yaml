@@ -4,15 +4,25 @@ name: Gordon Willis
 blurb: Nicknamed "the Prince of Darkness" for underexposing faces until shadow swallowed half the frame — he redefined how much a studio picture could withhold visually and still read as prestige rather than a mistake.
 
 films:
+  - film: loving-1970
+    signature: 2
+    gateway: 4
+    note: An early New York domestic drama in soft Northeastern winter light.
+
+  - film: the-landlord
+    signature: 3
+    gateway: 4
+    note: Brooklyn brownstones in pale, natural, faintly satirical light.
+
   - film: klute
     signature: 4
     gateway: 2
     note: A surveillance thriller shot so that entire rooms sit in near-total darkness around one lit figure — paranoia rendered as an actual absence of light rather than a mood.
 
-  - film: the-parallax-view
-    signature: 5
-    gateway: 1
-    note: A corporation's actual reach is never fully lit or fully shown — figures dwarfed by vast, empty, symmetrical spaces built specifically to make paranoia feel architectural.
+  - film: bad-company-1972
+    signature: 2
+    gateway: 4
+    note: A Western in unusually muted, dusty, overcast realism.
 
   - film: the-godfather
     signature: 5
@@ -20,10 +30,25 @@ films:
     gateway: 3
     note: Overhead top-lighting that drops a man's eyes into total shadow the moment he starts lying — a look the studio fought him on and that became the entire visual language of the genre afterward.
 
+  - film: up-the-sandbox
+    signature: 2
+    gateway: 4
+    note: Fantasy sequences with a bright, cheerful, Manhattan look.
+
+  - film: the-paper-chase
+    signature: 3
+    gateway: 4
+    note: Harvard lecture halls and dim libraries in warm, dark-academia tones.
+
   - film: the-godfather-part-ii
     signature: 5
     gateway: 3
     note: Two timelines shot in two distinct registers — warm, dusty sepia for the past, colder and darker for the present closing in on it.
+
+  - film: the-parallax-view
+    signature: 5
+    gateway: 1
+    note: A corporation's actual reach is never fully lit or fully shown — figures dwarfed by vast, empty, symmetrical spaces built specifically to make paranoia feel architectural.
 
   - film: all-the-presidents-men
     signature: 4
@@ -35,21 +60,91 @@ films:
     gateway: 4
     note: Naturalistic New York daylight and a much warmer palette than his crime-picture work — proof the shadows were always a choice, not a signature he couldn't turn off.
 
+  - film: comes-a-horseman
+    signature: 3
+    gateway: 3
+    note: Montana ranchland in big-sky, golden-hour Western photography.
+
+  - film: interiors
+    signature: 4
+    gateway: 2
+    note: A beach house in cool, blanched greys — Bergman's minimalism rendered in New York.
+
   - film: manhattan
     signature: 4
     must_see: true
     gateway: 4
     note: Black-and-white widescreen New York shot like a love letter to the skyline itself — his most purely romantic, most visually generous work.
 
-  - film: the-godfather-part-iii
+  - film: stardust-memories
+    signature: 4
+    gateway: 2
+    note: Fellini-like black-and-white surrealism with grainy, blown-out faces.
+
+  - film: windows-1980
+    signature: 2
+    gateway: 1
+    note: His only credit as director — a thriller with his trademark darkness.
+
+  - film: pennies-from-heaven
+    signature: 3
+    gateway: 2
+    note: Depression-era dreariness cut with lavish musical-number gloss — an Edward Hopper palette made literal.
+
+  - film: a-midsummer-nights-sex-comedy
     signature: 3
     gateway: 3
-    note: A late return to the same top-lit interrogation-room grammar, now applied to an old man who can no longer control who's in the shadows with him.
+    note: Golden, dappled-woods period light that recalls Renoir.
+
+  - film: zelig
+    signature: 5
+    gateway: 3
+    note: Recreated period newsreel footage — grain, scratches, film-stock quirks — intercut so seamlessly a fictional man appears in real archival history.
+
+  - film: broadway-danny-rose
+    signature: 3
+    gateway: 4
+    note: Grainy black-and-white Broadway-deli gloom, a comic caper photographed like a Weegee picture.
+
+  - film: the-pope-of-greenwich-village
+    signature: 2
+    gateway: 3
+    note: Little Italy sidewalks in warm street-level light.
+
+  - film: perfect-1985
+    signature: 1
+    gateway: 2
+    note: Glossy 1980s health-club light.
+
+  - film: the-purple-rose-of-cairo
+    signature: 4
+    gateway: 4
+    note: Sepia Depression New Jersey against the glowing black-and-white screen — two visual worlds meeting at a theater's edge.
+
+  - film: the-money-pit
+    signature: 2
+    gateway: 4
+    note: Crisp, bright comedy lighting.
 
   - film: presumed-innocent
     signature: 3
     gateway: 4
     note: A courtroom thriller shot with a colder, more clinical version of his usual shadow — the darkness here reading as procedure rather than menace.
+
+  - film: the-godfather-part-iii
+    signature: 3
+    gateway: 3
+    note: A late return to the same top-lit interrogation-room grammar, now applied to an old man who can no longer control who's in the shadows with him.
+
+  - film: malice
+    signature: 2
+    gateway: 3
+    note: New England college-town noir with polished, glossy suspense light.
+
+  - film: the-devils-own
+    signature: 2
+    gateway: 4
+    note: Belfast and Manhattan through cold, stormy light.
 
 curated:
   curator: house

@@ -4,40 +4,180 @@ name: Roger Deakins
 blurb: Deep-focus tableaux, near-invisible camera movement, and a refusal to let lighting call attention to itself — the reason "a Deakins shot" is a phrase people use who couldn't name another cinematographer.
 
 films:
+  - film: nineteen-eighty-four
+    signature: 3
+    gateway: 1
+    note: A desaturated, silver-retained look that drains nearly all color from a totalitarian London — the closest cousin to bleach bypass he ever shot.
+
+  - film: defence-of-the-realm
+    signature: 1
+    gateway: 2
+    note: A Fleet Street thriller in rain-slick night-city light — an early sign of his knack for making procedure look ominous.
+
+  - film: sid-and-nancy
+    signature: 2
+    gateway: 2
+    note: Punk-era London and New York in grubby sodium-and-neon night, dread pulled out of ordinary practical light.
+
+  - film: pascalis-island
+    signature: 1
+    gateway: 1
+    note: An Aegean island's white glare and shadowed harbours, shot in the heat-struck light of a place where nothing is quite what it seems.
+
+  - film: stormy-monday
+    signature: 2
+    gateway: 2
+    note: Newcastle nights in saturated jazz-club reds and blues — one of the first places he let color do the emotional work.
+
+  - film: air-america
+    signature: 1
+    gateway: 3
+    note: Laotian jungle and dusty airstrips in slick, aerial studio-adventure gloss.
+
   - film: barton-fink
     signature: 2
     gateway: 1
     note: A hotel hallway shot long and flat until the wallpaper itself starts to feel like a threat — his first collaboration with the Coens, and the one where the dread is entirely architectural.
 
-  - film: the-man-who-wasnt-there
-    signature: 4
+  - film: homicide
+    signature: 2
     gateway: 2
-    note: Black and white shot for black and white, not desaturated after the fact — cigarette smoke and venetian-blind shadows doing the work color normally does.
+    note: Baltimore in flat, cold, unglamorous daylight, kept visually plain so the plot's turns bite harder.
 
-  - film: o-brother-where-art-thou
+  - film: passion-fish
+    signature: 2
+    gateway: 3
+    note: Humid Louisiana interiors and bayou porches, warm and lived-in rather than picturesque.
+
+  - film: thunderheart
+    signature: 2
+    gateway: 3
+    note: Badlands sunsets and reservation night roads photographed with real landscape grandeur inside a genre thriller.
+
+  - film: the-secret-garden-1993
+    signature: 2
+    gateway: 4
+    note: A moor-bound mansion in cold blues that warms to greens and golds as the garden comes back to life — color tracking the story.
+
+  - film: the-hudsucker-proxy
+    signature: 2
+    gateway: 3
+    note: Art-deco skyscraper canyons and vertiginous tower shots — the Coens' most stylised collaboration with him, built from miniatures and matte painting.
+
+  - film: the-shawshank-redemption
+    signature: 3
+    gateway: 5
+    note: The rain-and-relief shot everyone remembers even without knowing his name — his most purely emotional, least stylistically radical work, which is exactly why it's the easiest way in.
+
+  - film: dead-man-walking
     signature: 3
     gateway: 3
-    note: The first film digitally regraded shot-by-shot to invent a sepia Depression-South that never actually looked like this — the origin of the "digital intermediate" as a creative tool rather than a lab process.
+    note: Death-row visiting rooms and an execution chamber lit with plain, near-documentary restraint, so the film never decorates its own cruelty.
+
+  - film: courage-under-fire
+    signature: 2
+    gateway: 3
+    note: The same battle restaged in shifting looks depending on who is remembering it — desert night against bleached daylight.
 
   - film: fargo
     signature: 4
     gateway: 3
     note: A flat white Minnesota expanse shot so plainly it becomes oppressive — the film that first made "empty landscape as dread" his signature rather than an incidental choice.
 
+  - film: kundun
+    signature: 3
+    gateway: 2
+    note: Tibetan monasteries and Himalayan vistas in saturated saffron, crimson and gold — the closest he came to painting with the frame.
+
+  - film: the-big-lebowski
+    signature: 3
+    gateway: 5
+    note: Bowling-alley fluorescents and a hazy, sun-flattened Los Angeles, plus a dream sequence staged with real technical daring.
+
+  - film: the-siege
+    signature: 1
+    gateway: 3
+    note: Post-blast Manhattan under floodlights and armored-vehicle glare, a thriller photographed in cold procedural blues.
+
+  - film: the-hurricane
+    signature: 2
+    gateway: 3
+    note: Prison-cell gloom against sun-hazed New Jersey streets, boxing rings lit in hard white.
+
+  - film: o-brother-where-art-thou
+    signature: 3
+    gateway: 3
+    note: The first film digitally regraded shot-by-shot to invent a sepia Depression-South that never actually looked like this — the origin of the "digital intermediate" as a creative tool rather than a lab process.
+
+  - film: a-beautiful-mind
+    signature: 2
+    gateway: 4
+    note: Ivy League quads and a paranoid government-agent world lit with the same clean naturalism, so the film's central deception never announces itself.
+
+  - film: the-man-who-wasnt-there
+    signature: 4
+    gateway: 2
+    note: Black and white shot for black and white, not desaturated after the fact — cigarette smoke and venetian-blind shadows doing the work color normally does.
+
+  - film: house-of-sand-and-fog
+    signature: 3
+    gateway: 2
+    note: Foggy Northern California bluffs and a small house lit in cold coastal grey, the light itself closing in as the tragedy tightens.
+
+  - film: intolerable-cruelty
+    signature: 1
+    gateway: 4
+    note: Glossy, glowing Beverly Hills light, the polish deliberately slick to match the film's romantic con game.
+
+  - film: the-ladykillers-2004
+    signature: 2
+    gateway: 3
+    note: Riverboat-casino glare and church-hall gloom, a comedy shot with the visual weight of a Southern gothic.
+
+  - film: the-village
+    signature: 3
+    gateway: 3
+    note: Flat pastoral daylight against woods that stay at the edge of the frame — dread rendered as what the camera declines to show.
+
+  - film: jarhead
+    signature: 3
+    gateway: 3
+    note: Oil-fire skies burning orange against a night that never gets dark — war seen as a light show while nobody fires a shot.
+
   - film: no-country-for-old-men
     signature: 5
     gateway: 3
     note: Static wide shots of West Texas scrub that never once move to reassure you — the landscape is the antagonist, and the camera refuses to flinch from it or cut away.
+
+  - film: the-assassination-of-jesse-james
+    signature: 5
+    gateway: 2
+    note: Soft, blurred-edged frames that look like an antique photograph, and slow gold-hour prairies — arguably the fullest statement of his painterly side.
+
+  - film: doubt
+    signature: 3
+    gateway: 3
+    note: Winter parish light and deliberately tilted frames — a drama about certainty in which the camera itself refuses to sit level.
+
+  - film: revolutionary-road
+    signature: 3
+    gateway: 3
+    note: Suburban 1950s interiors shot with cool, precise symmetry, the house itself framed like a trap.
+
+  - film: a-serious-man
+    signature: 3
+    gateway: 2
+    note: Sun-bleached 1967 Minnesota suburbia in flat, slightly too-bright color, a Job story lit like a lawn on a windless day.
 
   - film: true-grit-2010
     signature: 3
     gateway: 3
     note: A Western shot for once in genuinely overcast, wintry light rather than golden-hour myth-making — the Coens' most straightforward film gets his most straightforward images.
 
-  - film: the-shawshank-redemption
-    signature: 3
-    gateway: 5
-    note: The rain-and-relief shot everyone remembers even without knowing his name — his most purely emotional, least stylistically radical work, which is exactly why it's the easiest way in.
+  - film: in-time
+    signature: 1
+    gateway: 4
+    note: Sleek, teal-and-gold near-future Los Angeles in glossy sci-fi polish.
 
   - film: skyfall
     signature: 4
@@ -49,10 +189,20 @@ films:
     gateway: 2
     note: A grey, rain-soaked Pennsylvania that never once lets the light apologize for how bleak the story is — despair rendered as weather rather than metaphor.
 
+  - film: unbroken
+    signature: 2
+    gateway: 3
+    note: Open-ocean sun glare and prison-camp grey, endurance photographed in clear, unshowy light.
+
   - film: sicario
     signature: 4
     gateway: 3
     note: A convoy crossing into Juárez shot in near-silhouette against a bruised magic-hour sky — the moment the film stops pretending anyone in it can see clearly.
+
+  - film: hail-caesar
+    signature: 3
+    gateway: 4
+    note: Golden-age studio lots recreated in gleaming, Technicolor-style light — pastiche shot with genuine affection.
 
   - film: blade-runner-2049
     signature: 5
@@ -65,6 +215,11 @@ films:
     must_see: true
     gateway: 3
     note: Built and lit to sustain the illusion of one continuous take across an entire battlefield — a technical high-wire act that never once shows its own seams, and his second Oscar.
+
+  - film: empire-of-light
+    signature: 3
+    gateway: 3
+    note: Seaside cinema light spilling through projection-booth windows — a love letter to the glow of a lit movie house.
 
 curated:
   curator: house
