@@ -1,0 +1,13 @@
+# New films for George Stevens. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Swing Time already exists in fred-astaire.yaml. Woman of the Year already exists in
+# hepburn-katharine.yaml. A Place in the Sun and Giant already exist in taylor.yaml.
+
+- id: shane
+  tmdb_id: 11694
+  title: Shane
+  year: 1953
+  runtime: 118
+  director: George Stevens
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

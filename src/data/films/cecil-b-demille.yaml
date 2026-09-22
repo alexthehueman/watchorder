@@ -1,0 +1,30 @@
+# New films for Cecil B. DeMille. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Ten Commandments already exists in charlton-heston.yaml.
+
+- id: samson-and-delilah
+  tmdb_id: 4234
+  title: Samson and Delilah
+  year: 1949
+  runtime: 128
+  director: Cecil B. DeMille
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: cleopatra-1934
+  tmdb_id: 42280
+  title: Cleopatra
+  year: 1934
+  runtime: 101
+  director: Cecil B. DeMille
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 1 }
+
+- id: the-greatest-show-on-earth
+  tmdb_id: 4348
+  title: The Greatest Show on Earth
+  year: 1952
+  runtime: 152
+  director: Cecil B. DeMille
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 1, sex: 0 }

@@ -1,0 +1,35 @@
+slug: arthur-penn
+kind: director
+name: Arthur Penn
+blurb: New Hollywood's transitional figure — glamorized outlaws and revisionist history, made with a jarring, then-shocking willingness to show what violence actually looks like.
+
+films:
+  - film: the-miracle-worker
+    signature: 3
+    gateway: 3
+    note: A blind and deaf child's teacher fights past the girl's own family to reach her, in an unglamorous, physically brutal account of the two women's early breakthroughs.
+
+  - film: bonnie-and-clyde
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: A pair of Depression-era bank robbers are glamorized as folk heroes for most of the runtime before the film ends with a burst of violence that shocked audiences on release.
+
+  - film: little-big-man
+    signature: 4
+    gateway: 3
+    note: A 121-year-old man recounts his life bouncing between white settler and Cheyenne worlds, playing tall-tale comedy against the real historical massacres he lived through.
+
+  - film: night-moves
+    signature: 3
+    gateway: 2
+    note: A private investigator's missing-persons case keeps circling back on itself, and the film ends without ever fully resolving what actually happened.
+
+curated:
+  curator: house
+  rationale: The landmark first, then the range around it.
+  order:
+    - bonnie-and-clyde
+    - little-big-man
+    - night-moves
+    - the-miracle-worker

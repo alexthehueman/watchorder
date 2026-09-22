@@ -1,0 +1,40 @@
+# New films for Arthur Penn. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Bonnie and Clyde already exists in hackman.yaml.
+
+- id: the-miracle-worker
+  tmdb_id: 11202
+  title: The Miracle Worker
+  year: 1962
+  runtime: 107
+  director: Arthur Penn
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+
+- id: night-moves
+  tmdb_id: 11211
+  title: Night Moves
+  year: 1975
+  runtime: 100
+  director: Arthur Penn
+  tags:
+    opacity: 3 # a private investigator's case keeps circling back on itself, and the film ends without ever fully resolving what actually happened
+    stillness: 2
+    bleakness: 4
+    humor: 1
+    acclaim: 0.75
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: little-big-man
+  tmdb_id: 11216
+  title: Little Big Man
+  year: 1970
+  runtime: 139
+  director: Arthur Penn
+  tags:
+    opacity: 1
+    stillness: 1
+    bleakness: 4 # a 121-year-old man recounts his life bouncing between white and Cheyenne worlds, playing tall-tale comedy against real historical massacre
+    humor: 3
+    acclaim: 0.82
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }

@@ -1,0 +1,18 @@
+# New films for Miloš Forman. Scales and anchors are in README.md ("The anchor rubric").
+#
+# One Flew Over the Cuckoo's Nest already exists in nicholson.yaml. The People vs Larry Flynt
+# already exists in harrelson.yaml. Man on the Moon already exists in carrey.yaml.
+
+- id: amadeus
+  tmdb_id: 9422
+  title: Amadeus
+  year: 1984
+  runtime: 160
+  director: Miloš Forman
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 3 # a rival composer's envy of Mozart's genius is narrated by the rival himself, decades later, from an asylum
+    humor: 3
+    acclaim: 0.9
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

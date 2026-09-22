@@ -1,0 +1,34 @@
+slug: dw-griffith
+kind: director
+name: D.W. Griffith
+blurb: The director credited with inventing much of narrative film's basic grammar — cross-cutting, the close-up, the tracking shot — in service of material whose politics have not aged well.
+
+films:
+  - film: broken-blossoms
+    signature: 3
+    gateway: 2
+    note: A Chinese immigrant in London's slums tries to protect an abused girl from her violent father, in a rare Griffith film built around tenderness rather than spectacle.
+
+  - film: way-down-east
+    signature: 3
+    gateway: 2
+    note: A country girl tricked into a fake marriage and abandoned pregnant is later taken in as a servant by the same family that would disown her if they knew her past.
+
+  - film: intolerance
+    signature: 4
+    gateway: 1
+    note: Four separate stories of injustice across different eras of history, cut together and escalating in parallel toward each of their climaxes.
+
+  - film: the-birth-of-a-nation
+    signature: 5
+    gateway: 0
+    note: A Civil War and Reconstruction epic that pioneered most of the era's editing grammar in direct service of glorifying the Ku Klux Klan — essential film history, and openly, deliberately racist propaganda.
+
+curated:
+  curator: house
+  rationale: The more approachable film first, with the historically essential but genuinely repugnant landmark never opening.
+  order:
+    - broken-blossoms
+    - way-down-east
+    - intolerance
+    - the-birth-of-a-nation

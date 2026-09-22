@@ -1,0 +1,29 @@
+slug: carol-reed
+kind: director
+name: Carol Reed
+blurb: Postwar British thrillers and dramas shot with a canted, off-kilter camera that makes ordinary streets feel like they're tilting toward something wrong.
+
+films:
+  - film: the-fallen-idol
+    signature: 3
+    gateway: 3
+    note: A diplomat's young son idolizes the family butler and inadvertently endangers him by lying to protect him after a death in the household.
+
+  - film: odd-man-out
+    signature: 4
+    gateway: 2
+    note: A wounded IRA gunman staggers through Belfast over one long night, and the people he encounters react to him with anything but simple heroics.
+
+  - film: the-third-man
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A pulp novelist arrives in postwar Vienna to find his old friend's death was not the accident he was told, and the friend's actual fate is far stranger.
+
+curated:
+  curator: house
+  rationale: The landmark last, with the earlier, quieter films first.
+  order:
+    - the-fallen-idol
+    - odd-man-out
+    - the-third-man

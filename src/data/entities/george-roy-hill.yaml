@@ -1,0 +1,35 @@
+slug: george-roy-hill
+kind: director
+name: George Roy Hill
+blurb: Mainstream American entertainment at its most confident — two Newman-Redford landmarks bookend a filmography built on effortless-looking commercial craft.
+
+films:
+  - film: hawaii
+    signature: 2
+    gateway: 3
+    note: A rigid New England missionary's marriage and faith are tested by the Hawaiian culture he's arrived to convert, in Hill's sprawling, uneven early epic.
+
+  - film: butch-cassidy-and-the-sundance-kid
+    signature: 4
+    must_see: true
+    gateway: 4
+    note: Two outlaws and the posse that won't stop chasing them flee all the way to Bolivia, playing their own inevitable end for wistful, buddy-comedy charm.
+
+  - film: the-sting
+    signature: 4
+    gateway: 4
+    note: Two grifters run an elaborate long con on a mob boss to avenge a murdered friend, in one of the most purely satisfying capers ever put on screen.
+
+  - film: slap-shot
+    signature: 3
+    gateway: 4
+    note: A minor-league hockey team turns to violent brawling to save its season and its town's interest, filmed with far more profanity and cynicism than Hill's other work.
+
+curated:
+  curator: house
+  rationale: The two landmarks first, then the range around them.
+  order:
+    - butch-cassidy-and-the-sundance-kid
+    - the-sting
+    - slap-shot
+    - hawaii

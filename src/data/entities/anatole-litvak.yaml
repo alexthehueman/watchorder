@@ -1,0 +1,35 @@
+slug: anatole-litvak
+kind: director
+name: Anatole Litvak
+blurb: A Ukrainian-born émigré who worked fluently across German, French and Hollywood cinema, best known for glossy suspense and one uncommonly serious study of mental illness.
+
+films:
+  - film: the-snake-pit
+    signature: 4
+    must_see: true
+    gateway: 2
+    note: One of Hollywood's first serious attempts to depict mental illness and psychiatric treatment from the patient's own disoriented perspective.
+
+  - film: sorry-wrong-number
+    signature: 4
+    gateway: 3
+    note: A bedridden woman overhears a murder plot on a crossed phone line and spends the rest of the night trying to convince anyone that it's real, and that the target is her.
+
+  - film: anastasia-1956
+    signature: 3
+    gateway: 4
+    note: A destitute woman in Paris is groomed by con men to impersonate the missing Russian grand duchess, and starts to genuinely believe she might actually be her.
+
+  - film: decision-before-dawn
+    signature: 3
+    gateway: 2
+    note: A captured German soldier agrees to spy for the Allies behind his own army's lines in the war's final months, torn between his conscience and his sense of betrayal.
+
+curated:
+  curator: house
+  rationale: The landmark first, then the range of his glossier suspense work.
+  order:
+    - the-snake-pit
+    - sorry-wrong-number
+    - decision-before-dawn
+    - anastasia-1956

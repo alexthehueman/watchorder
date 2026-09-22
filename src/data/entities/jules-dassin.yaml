@@ -1,0 +1,35 @@
+slug: jules-dassin
+kind: director
+name: Jules Dassin
+blurb: American film noir specialist blacklisted out of Hollywood who rebuilt an entire second career in Europe, mostly making heist films and light comedy.
+
+films:
+  - film: never-on-sunday
+    signature: 2
+    gateway: 4
+    note: An American tourist in Athens tries to "reform" a good-natured prostitute who has no interest in being reformed and doesn't see why she should be.
+
+  - film: topkapi
+    signature: 2
+    gateway: 4
+    note: A gang of thieves plots to steal a jeweled dagger from an Istanbul museum, playing the heist for comedy rather than tension.
+
+  - film: night-and-the-city
+    signature: 4
+    gateway: 2
+    note: A small-time hustler in London's underworld schemes his way into wrestling promotion, and every scheme digs him deeper into people he owes.
+
+  - film: rififi
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: A crew plans and executes a jewelry-store robbery in a centerpiece heist sequence that runs almost half an hour with no dialogue and no music, just the mechanics of the job.
+
+curated:
+  curator: house
+  rationale: The landmark first, then the range from noir to comic caper.
+  order:
+    - rififi
+    - night-and-the-city
+    - topkapi
+    - never-on-sunday

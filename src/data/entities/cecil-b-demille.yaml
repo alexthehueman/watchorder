@@ -1,0 +1,35 @@
+slug: cecil-b-demille
+kind: director
+name: Cecil B. DeMille
+blurb: Old Hollywood spectacle at its most maximal — biblical epics, circus tents and casts of thousands, treated with total sincerity and zero restraint.
+
+films:
+  - film: samson-and-delilah
+    signature: 3
+    gateway: 3
+    note: The Biblical strongman's downfall at the hands of the woman sent to discover the secret of his strength, told with DeMille's usual lavish, unsubtle spectacle.
+
+  - film: the-greatest-show-on-earth
+    signature: 2
+    gateway: 4
+    note: A circus's traveling season, following its performers and management through romance and a climactic train wreck, made with real circus performers and animals.
+
+  - film: the-ten-commandments
+    signature: 4
+    must_see: true
+    gateway: 3
+    note: Moses leads the Israelites out of Egyptian slavery, in a three-and-a-half-hour epic that remains the template for what a "Biblical epic" is supposed to look like.
+
+  - film: cleopatra-1934
+    signature: 3
+    gateway: 3
+    note: The Egyptian queen's political and romantic entanglements with Rome, made pre-Code and stuffed with far more suggestive costuming than the later Ten Commandments.
+
+curated:
+  curator: house
+  rationale: The landmark last, with the earlier spectacles first.
+  order:
+    - the-greatest-show-on-earth
+    - cleopatra-1934
+    - samson-and-delilah
+    - the-ten-commandments

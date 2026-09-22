@@ -1,0 +1,42 @@
+slug: george-stevens
+kind: director
+name: George Stevens
+blurb: A career that moves from featherlight Astaire-Rogers musical comedy to some of the most morally serious American films of the 1950s, without ever losing his eye for composition.
+
+films:
+  - film: swing-time
+    signature: 3
+    gateway: 5
+    note: A gambler and dancer falls for the dance instructor he's supposed to be learning from, in one of the most purely joyful Astaire-Rogers musicals.
+
+  - film: woman-of-the-year
+    signature: 3
+    gateway: 4
+    note: A star political columnist and a sportswriter fall for each other despite having nothing in common professionally, in the first Tracy-Hepburn pairing.
+
+  - film: a-place-in-the-sun
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: A poor young man's affair with a factory girl threatens the wealthy life he's just started to have access to, and the film lets his ambition curdle into something close to murder.
+
+  - film: shane
+    signature: 4
+    gateway: 3
+    note: A gunslinger trying to leave violence behind is drawn back into it defending a family of homesteaders, distilling the Western down to its purest, most mythic form.
+
+  - film: giant
+    signature: 4
+    must_see: true
+    gateway: 3
+    note: A Texas ranching dynasty spans three generations and a shift from cattle to oil, following a marriage and a rivalry across decades of change.
+
+curated:
+  curator: house
+  rationale: The two landmarks first, then the earlier, lighter work.
+  order:
+    - a-place-in-the-sun
+    - giant
+    - shane
+    - woman-of-the-year
+    - swing-time

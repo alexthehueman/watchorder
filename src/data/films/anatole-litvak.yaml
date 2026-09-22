@@ -1,0 +1,27 @@
+# New films for Anatole Litvak. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Anastasia already exists in bergman-ingrid.yaml. Sorry, Wrong Number already exists in
+# stanwyck.yaml.
+
+- id: the-snake-pit
+  tmdb_id: 40806
+  title: The Snake Pit
+  year: 1948
+  runtime: 108
+  director: Anatole Litvak
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 5 # one of Hollywood's first serious attempts to depict mental illness and psychiatric treatment from the patient's own disoriented perspective
+    humor: 1
+    acclaim: 0.8
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: decision-before-dawn
+  tmdb_id: 40807
+  title: Decision Before Dawn
+  year: 1951
+  runtime: 119
+  director: Anatole Litvak
+  tags: { opacity: 3, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

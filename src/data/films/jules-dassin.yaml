@@ -1,0 +1,43 @@
+# Films for Jules Dassin. Scales and anchors are in README.md ("The anchor rubric").
+# Entirely new director — no prior films tagged in the corpus.
+
+- id: night-and-the-city
+  tmdb_id: 22588
+  title: Night and the City
+  year: 1950
+  runtime: 101
+  director: Jules Dassin
+  tags: { opacity: 1, stillness: 1, bleakness: 5, humor: 1, acclaim: 0.8 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: rififi
+  tmdb_id: 22587
+  title: Rififi
+  year: 1955
+  runtime: 118
+  director: Jules Dassin
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 4 # its centerpiece heist plays for almost half an hour with no dialogue and no music, just the mechanics of the job
+    humor: 1
+    acclaim: 0.88
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: never-on-sunday
+  tmdb_id: 22592
+  title: Never on Sunday
+  year: 1960
+  runtime: 91
+  director: Jules Dassin
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 4, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: topkapi
+  tmdb_id: 22591
+  title: Topkapi
+  year: 1964
+  runtime: 119
+  director: Jules Dassin
+  tags: { opacity: 2, stillness: 2, bleakness: 1, humor: 3, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

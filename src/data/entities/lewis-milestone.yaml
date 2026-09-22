@@ -1,0 +1,35 @@
+slug: lewis-milestone
+kind: director
+name: Lewis Milestone
+blurb: A working Hollywood professional across four decades, best remembered for the film that made antiwar cinema a genre almost single-handedly.
+
+films:
+  - film: all-quiet-on-the-western-front
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: A group of German schoolboys enlist for World War I expecting glory, and the film shows them exactly what they get instead, trench by trench.
+
+  - film: the-front-page-1931
+    signature: 2
+    gateway: 4
+    note: A newspaper editor tries every trick to stop his star reporter from quitting to get married, in a fast-talking screwball comedy about the newsroom.
+
+  - film: of-mice-and-men
+    signature: 3
+    gateway: 3
+    note: Two displaced ranch workers, one of them intellectually disabled and immensely strong, dream of owning a small farm of their own.
+
+  - film: the-strange-love-of-martha-ivers
+    signature: 3
+    gateway: 2
+    note: A wealthy woman's guilt over a childhood murder resurfaces when her old flame returns to town, in a noir built on blackmail and buried secrets.
+
+curated:
+  curator: house
+  rationale: The landmark first, since it's the reason he's on this list at all.
+  order:
+    - all-quiet-on-the-western-front
+    - of-mice-and-men
+    - the-strange-love-of-martha-ivers
+    - the-front-page-1931

@@ -1,0 +1,27 @@
+# New films for Lewis Milestone. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Of Mice and Men already exists in lon-chaney-jr.yaml. The Strange Love of Martha Ivers already
+# exists in stanwyck.yaml.
+
+- id: all-quiet-on-the-western-front
+  tmdb_id: 143
+  title: All Quiet on the Western Front
+  year: 1930
+  runtime: 152
+  director: Lewis Milestone
+  tags:
+    opacity: 1
+    stillness: 1
+    bleakness: 5 # a group of German schoolboys enlist for WWI expecting glory and the film shows exactly what they get instead
+    humor: 1
+    acclaim: 0.9
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: the-front-page-1931
+  tmdb_id: 34059
+  title: The Front Page
+  year: 1931
+  runtime: 101
+  director: Lewis Milestone
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

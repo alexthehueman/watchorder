@@ -1,0 +1,36 @@
+slug: milos-forman
+kind: director
+name: Miloš Forman
+blurb: A Czech New Wave émigré fascinated by institutions and the misfits who resist them — an asylum, a court, a courtroom of public opinion — always siding with the misfit.
+
+films:
+  - film: one-flew-over-the-cuckoos-nest
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: A criminal fakes insanity to serve his sentence in a psychiatric ward instead of prison, and clashes with the ward's tyrannical head nurse over every small freedom left to the patients.
+
+  - film: amadeus
+    signature: 4
+    must_see: true
+    gateway: 3
+    note: A rival composer's consuming envy of Mozart's effortless genius is narrated by the rival himself, decades later, from the asylum he's confessing it in.
+
+  - film: the-people-vs-larry-flynt
+    signature: 3
+    gateway: 3
+    note: The pornographer publisher of Hustler magazine becomes an unlikely free-speech icon after a Supreme Court case that outlasts his own outrageousness.
+
+  - film: man-on-the-moon
+    signature: 3
+    gateway: 3
+    note: The comedian Andy Kaufman's career-long commitment to confusing his own audience is portrayed with the same ambiguity about where the bit ends and the man begins.
+
+curated:
+  curator: house
+  rationale: The two landmarks first, then the range around them.
+  order:
+    - one-flew-over-the-cuckoos-nest
+    - amadeus
+    - the-people-vs-larry-flynt
+    - man-on-the-moon
