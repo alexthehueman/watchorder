@@ -1,0 +1,34 @@
+# Films for Gillo Pontecorvo. Scales and anchors are in README.md ("The anchor rubric").
+# Entirely new director — a small filmography built almost entirely around anti-colonial subjects.
+
+- id: kapo
+  tmdb_id: 55336
+  title: Kapò
+  year: 1960
+  runtime: 100
+  director: Gillo Pontecorvo
+  tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
+
+- id: the-battle-of-algiers
+  tmdb_id: 213
+  title: The Battle of Algiers
+  year: 1966
+  runtime: 121
+  director: Gillo Pontecorvo
+  tags:
+    opacity: 1 # documentary-style clarity about tactics on both sides of the insurgency, with no editorializing about who's right
+    stillness: 1
+    bleakness: 5
+    humor: 1
+    acclaim: 0.95
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
+
+- id: burn
+  tmdb_id: 40095
+  title: Burn!
+  year: 1969
+  runtime: 112
+  director: Gillo Pontecorvo
+  tags: { opacity: 2, stillness: 1, bleakness: 4, humor: 2, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }

@@ -1,0 +1,42 @@
+slug: ken-loach
+kind: director
+name: Ken Loach
+blurb: British working-class life filmed with documentary plainness — no score to tell you how to feel, no villain except the system itself.
+
+films:
+  - film: kes
+    signature: 4
+    must_see: true
+    gateway: 3
+    note: A neglected working-class boy in a Yorkshire mining town finds the one thing he's actually good at — training a kestrel — and the film refuses to let that be enough.
+
+  - film: land-and-freedom
+    signature: 3
+    gateway: 2
+    note: A British volunteer joins a militia during the Spanish Civil War and finds the revolution eating itself from within before the fascists even arrive.
+
+  - film: the-wind-that-shakes-the-barley
+    signature: 4
+    gateway: 2
+    note: Two Irish brothers fighting British occupation together end up on opposite sides once the treaty that ends the war divides them.
+
+  - film: i-daniel-blake
+    signature: 4
+    must_see: true
+    gateway: 4
+    note: A widowed carpenter recovering from a heart attack is denied disability benefits by a bureaucracy that treats his paperwork as more real than his body.
+
+  - film: sorry-we-missed-you
+    signature: 3
+    gateway: 3
+    note: A gig-economy delivery driver's contract promises him independence and instead grinds his entire family down.
+
+curated:
+  curator: house
+  rationale: The two that best show the range from boyhood to the gig economy, then the rest.
+  order:
+    - kes
+    - i-daniel-blake
+    - the-wind-that-shakes-the-barley
+    - sorry-we-missed-you
+    - land-and-freedom

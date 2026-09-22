@@ -1,0 +1,35 @@
+slug: elem-klimov
+kind: director
+name: Elem Klimov
+blurb: A career that ends at its own peak — he said Come and See had nothing left to follow it with, and simply stopped directing.
+
+films:
+  - film: welcome-or-no-trespassing
+    signature: 2
+    gateway: 4
+    note: A satirical Soviet summer-camp comedy about a boy expelled for letting the kids swim, made when Klimov was still working in comedy.
+
+  - film: sport-sport-sport
+    signature: 2
+    gateway: 4
+    note: A freewheeling documentary essay about Soviet athletics, mixing archival footage with staged vignettes, made between Klimov's two banned features.
+
+  - film: agony-1981
+    signature: 3
+    gateway: 2
+    note: The last days of the Russian Empire seen through the court of Grigori Rasputin, shelved by Soviet censors for years before release.
+
+  - film: come-and-see
+    signature: 5
+    must_see: true
+    gateway: 1
+    note: A Belarusian boy joins the partisans against the Nazi occupation, and the film escalates from wartime adventure into something closer to a document of atrocity.
+
+curated:
+  curator: house
+  rationale: The landmark last, with the earlier, gentler work before it.
+  order:
+    - welcome-or-no-trespassing
+    - sport-sport-sport
+    - agony-1981
+    - come-and-see

@@ -1,0 +1,43 @@
+# Films for Larisa Shepitko. Scales and anchors are in README.md ("The anchor rubric").
+# Entirely new director — her career was cut short by a fatal car accident in 1979.
+
+- id: wings-1966
+  tmdb_id: 178518
+  title: Wings
+  year: 1966
+  runtime: 95
+  director: Larisa Shepitko
+  tags: { opacity: 2, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: you-and-me
+  tmdb_id: 100573
+  title: You and Me
+  year: 1971
+  runtime: 100
+  director: Larisa Shepitko
+  tags: { opacity: 2, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: homeland-of-electricity
+  tmdb_id: 100574
+  title: Homeland of Electricity
+  year: 1967
+  runtime: 45
+  director: Larisa Shepitko
+  tags: { opacity: 3, stillness: 3, bleakness: 3, humor: 2, acclaim: 0.7 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-ascent
+  tmdb_id: 42900
+  title: The Ascent
+  year: 1977
+  runtime: 111
+  director: Larisa Shepitko
+  tags:
+    opacity: 2
+    stillness: 2
+    bleakness: 5 # two partisans captured behind enemy lines, and the film is unsparing about what survival and martyrdom actually cost
+    humor: 1
+    acclaim: 0.92
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }

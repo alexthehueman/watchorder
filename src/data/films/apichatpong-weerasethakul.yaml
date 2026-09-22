@@ -1,0 +1,43 @@
+# Films for Apichatpong Weerasethakul. Scales and anchors are in README.md ("The anchor rubric").
+# Entirely new director — no prior films tagged in the corpus.
+
+- id: tropical-malady
+  tmdb_id: 12271
+  title: Tropical Malady
+  year: 2004
+  runtime: 118
+  director: Apichatpong Weerasethakul
+  tags:
+    opacity: 5 # a tender romance dissolves in its second half into a folk tale about a soldier hunting a shapeshifting spirit, with no seam between them
+    stillness: 4
+    bleakness: 2
+    humor: 1
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: syndromes-and-a-century
+  tmdb_id: 13653
+  title: Syndromes and a Century
+  year: 2006
+  runtime: 105
+  director: Apichatpong Weerasethakul
+  tags: { opacity: 4, stillness: 4, bleakness: 1, humor: 2, acclaim: 0.82 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: uncle-boonmee-who-can-recall-his-past-lives
+  tmdb_id: 44264
+  title: Uncle Boonmee Who Can Recall His Past Lives
+  year: 2010
+  runtime: 114
+  director: Apichatpong Weerasethakul
+  tags: { opacity: 4, stillness: 4, bleakness: 2, humor: 1, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: memoria
+  tmdb_id: 505180
+  title: Memoria
+  year: 2021
+  runtime: 136
+  director: Apichatpong Weerasethakul
+  tags: { opacity: 5, stillness: 5, bleakness: 1, humor: 1, acclaim: 0.82 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

@@ -1,0 +1,36 @@
+slug: victor-erice
+kind: director
+name: Víctor Erice
+blurb: One of cinema's slowest filmographies — four features across five decades, each one built around a child or an artist's private, half-understood inner world.
+
+films:
+  - film: the-spirit-of-the-beehive
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: A young girl in Franco-era Spain becomes convinced the monster from a traveling screening of Frankenstein is real, and the film never fully tells you she's wrong.
+
+  - film: el-sur
+    signature: 4
+    gateway: 3
+    note: A daughter tries to understand her withdrawn father's past, a mystery the film itself was left literally unfinished when the money ran out.
+
+  - film: dream-of-light
+    signature: 3
+    must_see: true
+    gateway: 1
+    note: A documentary of the painter Antonio López García trying, and mostly failing, to finish a single painting of a quince tree before the light changes.
+
+  - film: close-your-eyes
+    signature: 4
+    gateway: 3
+    note: A filmmaker searches for an actor who vanished decades earlier during his unfinished last production, made after Erice's own thirty-year gap between films.
+
+curated:
+  curator: house
+  rationale: The two best-known films first, then the range of his tiny, patient filmography.
+  order:
+    - the-spirit-of-the-beehive
+    - close-your-eyes
+    - el-sur
+    - dream-of-light

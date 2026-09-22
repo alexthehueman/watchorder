@@ -1,0 +1,36 @@
+slug: apichatpong-weerasethakul
+kind: director
+name: Apichatpong Weerasethakul
+blurb: Thai jungle, folklore and memory dissolving into each other without a seam — ghosts, past lives and reincarnated soldiers treated as simply another fact of the landscape.
+
+films:
+  - film: tropical-malady
+    signature: 5
+    must_see: true
+    gateway: 1
+    note: A tender romance between a soldier and a country boy gives way at the midpoint to a folk tale about a shapeshifting tiger spirit, with no seam between the two halves.
+
+  - film: syndromes-and-a-century
+    signature: 4
+    gateway: 3
+    note: The same set of hospital scenes plays out twice, once in a rural clinic and once in a modern city one, refracting the same memory of his parents' courtship.
+
+  - film: uncle-boonmee-who-can-recall-his-past-lives
+    signature: 4
+    must_see: true
+    gateway: 2
+    note: A dying man is visited by the ghost of his wife and his lost son, now returned as a red-eyed monkey spirit, and begins recalling the lives he lived before this one.
+
+  - film: memoria
+    signature: 5
+    gateway: 1
+    note: A woman in Colombia is woken by a loud, inexplicable bang that no one else can hear, and the film spends its runtime trying to locate the sound's source.
+
+curated:
+  curator: house
+  rationale: The two best entry points first, then the range around them.
+  order:
+    - uncle-boonmee-who-can-recall-his-past-lives
+    - tropical-malady
+    - syndromes-and-a-century
+    - memoria

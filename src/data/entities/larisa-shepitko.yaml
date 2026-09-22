@@ -1,0 +1,35 @@
+slug: larisa-shepitko
+kind: director
+name: Larisa Shepitko
+blurb: A short, unsparing filmography about people tested past what they can bear — cut off at 41, when a car accident killed her mid-scout for her next film.
+
+films:
+  - film: wings-1966
+    signature: 3
+    gateway: 3
+    note: A former WWII fighter pilot turned school headmistress can't find a place for herself in the ordinary postwar life she's supposed to want.
+
+  - film: you-and-me
+    signature: 2
+    gateway: 3
+    note: Two scientist friends drift apart over compromise and ambition, a quieter domestic film between Shepitko's two war pictures.
+
+  - film: homeland-of-electricity
+    signature: 2
+    gateway: 3
+    note: A young engineer is sent to bring electricity to a drought-stricken village, a rarely-seen short censored and shelved for two decades.
+
+  - film: the-ascent
+    signature: 5
+    must_see: true
+    gateway: 1
+    note: Two Soviet partisans are captured behind German lines, and the film becomes a study of what each one is actually willing to die, or kill, for.
+
+curated:
+  curator: house
+  rationale: The landmark last, since it's the hardest watch, with the earlier films first.
+  order:
+    - wings-1966
+    - homeland-of-electricity
+    - you-and-me
+    - the-ascent

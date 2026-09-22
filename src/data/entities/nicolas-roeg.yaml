@@ -1,0 +1,36 @@
+slug: nicolas-roeg
+kind: director
+name: Nicolas Roeg
+blurb: Time cut into pieces and reassembled out of order — grief, sex and premonition all bleeding into each other across the edit rather than the plot.
+
+films:
+  - film: walkabout
+    signature: 4
+    gateway: 3
+    note: Two English children stranded in the Australian outback survive with the help of an Aboriginal boy on his own coming-of-age walkabout.
+
+  - film: dont-look-now
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: A grieving couple in Venice keeps glimpsing a small figure in a red coat, and the film's editing makes you as unable to trust your own eyes as they are.
+
+  - film: the-man-who-fell-to-earth
+    signature: 4
+    gateway: 3
+    note: An alien posing as a reclusive tech tycoon slowly loses himself to human vice while his own family waits on a dying planet for the water he came to find.
+
+  - film: the-witches
+    signature: 2
+    must_see: true
+    gateway: 5
+    note: A boy and his grandmother stumble onto an international convention of witches disguised as a charity conference at a seaside hotel.
+
+curated:
+  curator: house
+  rationale: The landmark first, then the range from horror to fantasy.
+  order:
+    - dont-look-now
+    - the-man-who-fell-to-earth
+    - walkabout
+    - the-witches

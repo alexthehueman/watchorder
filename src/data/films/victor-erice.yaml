@@ -1,0 +1,43 @@
+# Films for Víctor Erice. Scales and anchors are in README.md ("The anchor rubric").
+# Entirely new director — one of the slowest, most perfectionist filmographies in the medium.
+
+- id: the-spirit-of-the-beehive
+  tmdb_id: 63076
+  title: The Spirit of the Beehive
+  year: 1973
+  runtime: 98
+  director: Víctor Erice
+  tags:
+    opacity: 3 # a child's confusion between the monster in a film screening and something real in the world around her is never fully resolved
+    stillness: 4
+    bleakness: 3
+    humor: 1
+    acclaim: 0.9
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: el-sur
+  tmdb_id: 63147
+  title: El Sur
+  year: 1983
+  runtime: 95
+  director: Víctor Erice
+  tags: { opacity: 3, stillness: 4, bleakness: 3, humor: 1, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: dream-of-light
+  tmdb_id: 63151
+  title: Dream of Light
+  year: 1992
+  runtime: 139
+  director: Víctor Erice
+  tags: { opacity: 2, stillness: 5, bleakness: 1, humor: 1, acclaim: 0.82 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: close-your-eyes
+  tmdb_id: 968051
+  title: Close Your Eyes
+  year: 2023
+  runtime: 169
+  director: Víctor Erice
+  tags: { opacity: 2, stillness: 4, bleakness: 3, humor: 2, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

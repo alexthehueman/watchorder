@@ -1,0 +1,29 @@
+slug: gillo-pontecorvo
+kind: director
+name: Gillo Pontecorvo
+blurb: A tiny, deliberate filmography built almost entirely around one subject — colonized people fighting their occupiers — shot to look like it was captured, not staged.
+
+films:
+  - film: kapo
+    signature: 3
+    gateway: 2
+    note: A young Jewish girl survives a concentration camp by taking on the identity of a dead political prisoner and becoming a kapo herself.
+
+  - film: the-battle-of-algiers
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: The Algerian War for independence restaged with such newsreel-plain camerawork that it was mistaken for real documentary footage on release.
+
+  - film: burn
+    signature: 4
+    gateway: 2
+    note: A British agent engineers a slave revolt to install a puppet government on a Caribbean island, then returns years later to help crush the same movement he created.
+
+curated:
+  curator: house
+  rationale: The landmark first, then the range around it.
+  order:
+    - the-battle-of-algiers
+    - burn
+    - kapo

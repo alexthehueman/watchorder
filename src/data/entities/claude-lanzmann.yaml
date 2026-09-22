@@ -1,0 +1,35 @@
+slug: claude-lanzmann
+kind: director
+name: Claude Lanzmann
+blurb: Testimony and present-day footage of the sites themselves, nothing else — no archival reenactment, no score, no narration standing between you and the witness.
+
+films:
+  - film: shoah
+    signature: 5
+    must_see: true
+    gateway: 0
+    note: Nine and a half hours of testimony from survivors, bystanders and perpetrators of the Holocaust, built entirely from interviews and the present-day landscape of the camps.
+
+  - film: tsahal
+    signature: 3
+    gateway: 3
+    note: A five-hour study of the Israeli Defense Forces, made as Lanzmann's own attempt to understand a state built in direct response to what he documented in Shoah.
+
+  - film: sobibor-14-october-1943-4pm
+    signature: 4
+    gateway: 1
+    note: The story of the only successful large-scale uprising at a Nazi death camp, told through one survivor's account of the hour it happened.
+
+  - film: a-visitor-from-the-living
+    signature: 2
+    gateway: 2
+    note: A rare piece of unused Shoah footage built into its own short film, interviewing the one Red Cross inspector who visited Theresienstadt and reported it fit for habitation.
+
+curated:
+  curator: house
+  rationale: The shorter, more approachable films first, building up to the landmark.
+  order:
+    - a-visitor-from-the-living
+    - sobibor-14-october-1943-4pm
+    - tsahal
+    - shoah

@@ -1,0 +1,43 @@
+# Films for Sergei Parajanov. Scales and anchors are in README.md ("The anchor rubric").
+# Entirely new director — no prior films tagged in the corpus.
+
+- id: shadows-of-forgotten-ancestors
+  tmdb_id: 41401
+  title: Shadows of Forgotten Ancestors
+  year: 1965
+  runtime: 97
+  director: Sergei Parajanov
+  tags: { opacity: 3, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.82 }
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-color-of-pomegranates
+  tmdb_id: 40376
+  title: The Color of Pomegranates
+  year: 1969
+  runtime: 79
+  director: Sergei Parajanov
+  tags:
+    opacity: 5 # a poet's life told entirely through tableaux vivants and symbolic imagery, with no conventional narrative to hold onto
+    stillness: 5
+    bleakness: 2
+    humor: 1
+    acclaim: 0.9
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-legend-of-suram-fortress
+  tmdb_id: 40377
+  title: The Legend of Suram Fortress
+  year: 1984
+  runtime: 87
+  director: Sergei Parajanov
+  tags: { opacity: 4, stillness: 4, bleakness: 2, humor: 1, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: ashik-kerib
+  tmdb_id: 40378
+  title: Ashik Kerib
+  year: 1988
+  runtime: 78
+  director: Sergei Parajanov
+  tags: { opacity: 3, stillness: 4, bleakness: 1, humor: 2, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

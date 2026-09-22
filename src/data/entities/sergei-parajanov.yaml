@@ -1,0 +1,36 @@
+slug: sergei-parajanov
+kind: director
+name: Sergei Parajanov
+blurb: Narrative abandoned almost entirely in favor of tableaux — folk costume, ritual gesture and religious icon arranged like a poem you watch rather than read.
+
+films:
+  - film: shadows-of-forgotten-ancestors
+    signature: 3
+    gateway: 3
+    note: A Carpathian romance and blood feud told through such dense folk ritual and color that the plot becomes secondary to the texture.
+
+  - film: the-color-of-pomegranates
+    signature: 5
+    must_see: true
+    gateway: 1
+    note: A poet's biography rendered as a sequence of static, symbolic tableaux, with almost nothing resembling a conventional scene anywhere in it.
+
+  - film: the-legend-of-suram-fortress
+    signature: 3
+    gateway: 3
+    note: A young man sacrifices himself to be sealed into a fortress wall, in a folk legend told with the same ornate, frontal staging as Parajanov's masterpiece.
+
+  - film: ashik-kerib
+    signature: 2
+    must_see: true
+    gateway: 4
+    note: A traveling minstrel's fairy tale, made as Parajanov's final film and dedicated to Andrei Tarkovsky.
+
+curated:
+  curator: house
+  rationale: The landmark first, then the range of folk-tale tableaux around it.
+  order:
+    - the-color-of-pomegranates
+    - shadows-of-forgotten-ancestors
+    - the-legend-of-suram-fortress
+    - ashik-kerib

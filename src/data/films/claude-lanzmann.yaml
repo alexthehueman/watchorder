@@ -1,0 +1,44 @@
+# Films for Claude Lanzmann. Scales and anchors are in README.md ("The anchor rubric").
+# Entirely new director. Shoah's nine-and-a-half-hour runtime is a genuine outlier here, but it's
+# the reason he's on this list at all, and the corpus already carries other extreme-length films.
+
+- id: shoah
+  tmdb_id: 40950
+  title: Shoah
+  year: 1985
+  runtime: 566
+  director: Claude Lanzmann
+  tags:
+    opacity: 1 # nothing but first-hand testimony and present-day footage of the sites themselves, no archival reenactment, no score
+    stillness: 3
+    bleakness: 5
+    humor: 1
+    acclaim: 0.95
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+
+- id: tsahal
+  tmdb_id: 141014
+  title: Tsahal
+  year: 1994
+  runtime: 316
+  director: Claude Lanzmann
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: sobibor-14-october-1943-4pm
+  tmdb_id: 32432
+  title: "Sobibor, October 14, 1943, 4 p.m."
+  year: 2001
+  runtime: 95
+  director: Claude Lanzmann
+  tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: a-visitor-from-the-living
+  tmdb_id: 141013
+  title: A Visitor from the Living
+  year: 1997
+  runtime: 65
+  director: Claude Lanzmann
+  tags: { opacity: 2, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
