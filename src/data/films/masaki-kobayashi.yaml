@@ -3,7 +3,7 @@
 # Harakiri already exists in tatsuya-nakadai.yaml. Samurai Rebellion already exists in mifune.yaml.
 
 - id: black-river
-  tmdb_id: null
+  tmdb_id: 101929
   title: Black River
   year: 1957
   runtime: 114
@@ -15,9 +15,11 @@
     humor: 1
     acclaim: 0.68
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  letterboxd_slug: black-river-1957
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/i2/s0/ug/44/vrvLXIyLBDyHomLqMbX4gI7YJRT-1200-1200-675-675-crop-000000.jpg?v=1e2b668f7c
 
 - id: the-human-condition-i
-  tmdb_id: null
+  tmdb_id: 31217
   title: 'The Human Condition I: No Greater Love'
   year: 1959
   runtime: 208
@@ -29,9 +31,11 @@
     humor: 1
     acclaim: 0.90
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: the-human-condition-i
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/n7/ws/x6/xj/no-greater-love-1200-1200-675-675-crop-000000.jpg?v=8181393811
 
 - id: the-human-condition-ii
-  tmdb_id: null
+  tmdb_id: 34528
   title: 'The Human Condition II: Road to Eternity'
   year: 1959
   runtime: 181
@@ -43,9 +47,11 @@
     humor: 1
     acclaim: 0.90
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: the-human-condition-ii
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/up/n1/ow/um/humancondition2-1200-1200-675-675-crop-000000.jpg?v=e663ef7cfd
 
 - id: the-human-condition-iii
-  tmdb_id: null
+  tmdb_id: 34530
   title: "The Human Condition III: A Soldier's Prayer"
   year: 1961
   runtime: 190
@@ -57,9 +63,11 @@
     humor: 1
     acclaim: 0.90
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: the-human-condition-iii
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/av/h1/hk/ml/human-condition-part-3-a-soldiers-prayer-thumb-1200-1200-675-675-crop-000000.jpg?v=2df6061251
 
 - id: the-inheritance
-  tmdb_id: null
+  tmdb_id: 159414
   title: The Inheritance
   year: 1962
   runtime: 98
@@ -71,9 +79,11 @@
     humor: 2
     acclaim: 0.75
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  letterboxd_slug: the-inheritance-1962
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/wm/ln/h4/rq/u2awrtga5lVfi7kXZSxfD9ZNAeM-1200-1200-675-675-crop-000000.jpg?v=e70fa7ff88
 
 - id: kwaidan
-  tmdb_id: null
+  tmdb_id: 30959
   title: Kwaidan
   year: 1964
   runtime: 183
@@ -85,9 +95,11 @@
     humor: 1
     acclaim: 0.90
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: kwaidan
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/7z/5f/p3/5m/kwaidan-1200-1200-675-675-crop-000000.jpg?v=73cf6350db
 
 - id: hymn-to-a-tired-man
-  tmdb_id: null
+  tmdb_id: 198668
   title: Hymn to a Tired Man
   year: 1968
   runtime: 117
@@ -99,9 +111,11 @@
     humor: 1
     acclaim: 0.6
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: hymn-to-a-tired-man
+  poster_url: https://a.ltrbxd.com/resized/film-poster/1/4/2/5/9/7/142597-hymn-to-a-tired-man-0-230-0-345-crop.jpg?v=b198e2463e
 
 - id: inn-of-evil
-  tmdb_id: null
+  tmdb_id: 101740
   title: Inn of Evil
   year: 1971
   runtime: 98
@@ -113,9 +127,11 @@
     humor: 2 # a black-market smugglers' inn full of small-time cons and gallows humor, right up until it isn't
     acclaim: 0.68
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: inn-of-evil
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/xf/me/wg/b1/rhA03KqeCgPsJig55Tb8n4XH9bp-1200-1200-675-675-crop-000000.jpg?v=530a35ffc2
 
 - id: the-fossil
-  tmdb_id: null
+  tmdb_id: 277261
   title: The Fossil
   year: 1975
   runtime: 214
@@ -127,3 +143,5 @@
     humor: 1
     acclaim: 0.72
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: the-fossil
+  poster_url: https://a.ltrbxd.com/resized/film-poster/2/0/1/3/8/6/201386-the-fossil-0-230-0-345-crop.jpg?v=87b19ed4a6
