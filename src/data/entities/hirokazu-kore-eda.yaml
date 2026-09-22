@@ -1,0 +1,36 @@
+slug: hirokazu-kore-eda
+kind: director
+name: Hirokazu Kore-eda
+blurb: Family as chosen rather than given — patient, unsentimental studies of people improvising something like a household out of whatever they actually have.
+
+films:
+  - film: nobody-knows
+    signature: 4
+    must_see: true
+    gateway: 1
+    note: Four siblings hidden away in a Tokyo apartment by an absent mother slowly fend for themselves as the adults around them fail to notice they exist.
+
+  - film: still-walking
+    signature: 3
+    gateway: 3
+    note: A family gathers for the annual memorial of their eldest son's death, and old resentments surface in exactly the polite, indirect way families actually fight.
+
+  - film: shoplifters
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A family surviving on shoplifting and pension fraud takes in an abandoned girl, and the film waits until very late to ask whether any of them are actually related.
+
+  - film: broker
+    signature: 3
+    gateway: 3
+    note: A pair of baby brokers intercept an infant left at a church's baby box and try to find it a family to sell it to, trailed by the mother who wants it back.
+
+curated:
+  curator: house
+  rationale: The two best-known films first, then the quieter work around them.
+  order:
+    - shoplifters
+    - nobody-knows
+    - still-walking
+    - broker

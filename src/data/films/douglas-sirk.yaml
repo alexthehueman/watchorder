@@ -1,0 +1,43 @@
+# Films for Douglas Sirk. Scales and anchors are in README.md ("The anchor rubric").
+# Entirely new director — no prior films tagged in the corpus.
+
+- id: magnificent-obsession
+  tmdb_id: 46779
+  title: Magnificent Obsession
+  year: 1954
+  runtime: 108
+  director: Douglas Sirk
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: all-that-heaven-allows
+  tmdb_id: 809
+  title: All That Heaven Allows
+  year: 1955
+  runtime: 89
+  director: Douglas Sirk
+  tags:
+    opacity: 1
+    stillness: 3
+    bleakness: 3 # a wealthy widow's relationship with a younger gardener scandalizes her country-club circle and her own grown children
+    humor: 1
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: written-on-the-wind
+  tmdb_id: 811
+  title: Written on the Wind
+  year: 1956
+  runtime: 99
+  director: Douglas Sirk
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.82 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: imitation-of-life
+  tmdb_id: 812
+  title: Imitation of Life
+  year: 1959
+  runtime: 125
+  director: Douglas Sirk
+  tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

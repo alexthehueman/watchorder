@@ -1,0 +1,36 @@
+slug: douglas-sirk
+kind: director
+name: Douglas Sirk
+blurb: Technicolor melodrama that plays as pure soap on the surface and a pointed critique of American conformity underneath, if you're watching for it.
+
+films:
+  - film: magnificent-obsession
+    signature: 3
+    gateway: 3
+    note: A reckless playboy accidentally blinds the widow of the man he indirectly caused the death of, then secretly devotes his life to atoning for it.
+
+  - film: all-that-heaven-allows
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A wealthy widow's relationship with a younger gardener scandalizes her country-club circle and her own grown children, who'd rather she stay lonely and respectable.
+
+  - film: written-on-the-wind
+    signature: 4
+    gateway: 2
+    note: An oil-family heir's alcoholism and jealousy curdle a marriage and a friendship, staged with such garish Technicolor excess it reads as its own commentary.
+
+  - film: imitation-of-life
+    signature: 4
+    must_see: true
+    gateway: 2
+    note: A white actress and her Black housekeeper raise their daughters together, one of whom starts passing as white and rejecting her own mother.
+
+curated:
+  curator: house
+  rationale: The most approachable film first, then the range around it.
+  order:
+    - all-that-heaven-allows
+    - imitation-of-life
+    - written-on-the-wind
+    - magnificent-obsession

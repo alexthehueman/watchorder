@@ -1,0 +1,36 @@
+slug: damien-chazelle
+kind: director
+name: Damien Chazelle
+blurb: Obsession with craft and performance, whether it's a drummer being abused into greatness or an entire industry collapsing under its own excess.
+
+films:
+  - film: whiplash
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: A jazz drumming student's tyrannical conductor pushes him past any reasonable definition of mentorship, and the film keeps you unsure whether it worked.
+
+  - film: la-la-land
+    signature: 4
+    must_see: true
+    gateway: 5
+    note: An aspiring actress and a jazz pianist fall in love while chasing incompatible dreams, in a musical honest enough to let the ending cost something.
+
+  - film: first-man
+    signature: 3
+    gateway: 3
+    note: Neil Armstrong's path to the moon landing, told as claustrophobic, terrifying engineering rather than triumphant spectacle.
+
+  - film: babylon
+    signature: 4
+    gateway: 2
+    note: A hedonistic, chaotic account of Hollywood's transition to sound, playing its excess for spectacle before the film turns genuinely ugly.
+
+curated:
+  curator: house
+  rationale: The two best-known films first, then the range around them.
+  order:
+    - whiplash
+    - la-la-land
+    - babylon
+    - first-man

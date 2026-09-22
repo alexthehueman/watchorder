@@ -1,0 +1,35 @@
+# New films for Ernst Lubitsch. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Ninotchka already exists in mgm.yaml. The Shop Around the Corner already exists in stewart.yaml.
+
+- id: trouble-in-paradise
+  tmdb_id: 25074
+  title: Trouble in Paradise
+  year: 1932
+  runtime: 83
+  director: Ernst Lubitsch
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 4, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: heaven-can-wait-1943
+  tmdb_id: 3082
+  title: Heaven Can Wait
+  year: 1943
+  runtime: 112
+  director: Ernst Lubitsch
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 3, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: to-be-or-not-to-be
+  tmdb_id: 4488
+  title: To Be or Not to Be
+  year: 1942
+  runtime: 99
+  director: Ernst Lubitsch
+  tags:
+    opacity: 2
+    stillness: 1
+    bleakness: 2 # a theater troupe outwits the Gestapo through impersonation and stagecraft, playing occupation-era Poland as broad, biting farce
+    humor: 4
+    acclaim: 0.86
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }

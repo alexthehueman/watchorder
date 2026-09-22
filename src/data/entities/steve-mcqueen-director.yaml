@@ -1,0 +1,42 @@
+slug: steve-mcqueen-director
+kind: director
+name: Steve McQueen (director)
+blurb: The body under duress — hunger strike, sexual compulsion, slavery — filmed with a visual artist's patience for the single unbroken shot. Distinct from the actor of the same name.
+
+films:
+  - film: hunger
+    signature: 5
+    must_see: true
+    gateway: 1
+    note: A dramatization of the 1981 IRA hunger strike, built around a single unbroken conversation and Bobby Sands's slow physical disintegration.
+
+  - film: shame
+    signature: 4
+    gateway: 2
+    note: A New York executive's sex addiction is filmed with the same clinical, unhurried camera McQueen brings to any body under strain.
+
+  - film: 12-years-a-slave
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: A free Black man in pre-Civil War New York is kidnapped and sold into slavery, and the film refuses to look away from what that actually meant, minute by minute.
+
+  - film: widows
+    signature: 3
+    gateway: 4
+    note: The widows of four dead criminals pull off the heist their husbands died planning, McQueen's most straightforwardly commercial film without losing his eye for institutional rot.
+
+  - film: red-white-and-blue
+    signature: 3
+    gateway: 3
+    note: A Black chemist joins the London police to reform it from within, one installment of McQueen's Small Axe anthology about Black British life.
+
+curated:
+  curator: house
+  rationale: The two landmarks first, then the range around them.
+  order:
+    - 12-years-a-slave
+    - hunger
+    - widows
+    - shame
+    - red-white-and-blue

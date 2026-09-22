@@ -1,0 +1,42 @@
+slug: ernst-lubitsch
+kind: director
+name: Ernst Lubitsch
+blurb: The "Lubitsch touch" — sophisticated sexual innuendo and political satire delivered with such light comic footwork that the censors rarely caught up.
+
+films:
+  - film: trouble-in-paradise
+    signature: 4
+    gateway: 3
+    note: A pair of elegant jewel thieves fall for the same wealthy widow they're supposed to be conning, in the film Lubitsch himself called his favorite.
+
+  - film: the-shop-around-the-corner
+    signature: 3
+    must_see: true
+    gateway: 4
+    note: Two bickering coworkers in a Budapest shop are secretly anonymous pen pals, each unaware the person they can't stand is the one they've fallen for.
+
+  - film: ninotchka
+    signature: 4
+    gateway: 4
+    note: A stern Soviet envoy sent to Paris to sell confiscated jewels finds herself charmed, against every one of her principles, by capitalism and a man.
+
+  - film: to-be-or-not-to-be
+    signature: 4
+    must_see: true
+    gateway: 2
+    note: A Polish theater troupe uses their acting and disguise skills to outwit the Gestapo, playing Nazi-occupied Warsaw as biting, high-wire farce.
+
+  - film: heaven-can-wait-1943
+    signature: 3
+    gateway: 3
+    note: A recently deceased playboy recounts his unfaithful life to Satan's receptionist, pleading his case for admission to Hell.
+
+curated:
+  curator: house
+  rationale: The two most beloved comedies first, then the range from romance to wartime satire.
+  order:
+    - the-shop-around-the-corner
+    - to-be-or-not-to-be
+    - ninotchka
+    - trouble-in-paradise
+    - heaven-can-wait-1943

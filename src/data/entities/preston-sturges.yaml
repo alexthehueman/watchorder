@@ -1,0 +1,36 @@
+slug: preston-sturges
+kind: director
+name: Preston Sturges
+blurb: Screwball comedy at machine-gun pace — overlapping dialogue, pratfalls and con artists, with a surprising sincerity underneath the wisecracks.
+
+films:
+  - film: the-lady-eve
+    signature: 4
+    must_see: true
+    gateway: 3
+    note: A card-sharp's daughter sets out to fleece a naive, wealthy ophiologist on a transatlantic liner, then falls for him and has to con him twice.
+
+  - film: sullivans-travels
+    signature: 5
+    gateway: 3
+    note: A successful comedy director disguises himself as a hobo to research poverty for a serious social drama, and finds out what poverty is actually like.
+
+  - film: the-palm-beach-story
+    signature: 3
+    must_see: true
+    gateway: 4
+    note: A wife leaves her broke inventor husband to pursue a wealthy suitor on a train to Palm Beach, purely so she can then bankroll his invention herself.
+
+  - film: hail-the-conquering-hero
+    signature: 3
+    gateway: 3
+    note: A Marine discharged for hay fever before ever seeing combat is mistaken for a war hero when he comes home, and can't bring himself to correct anyone.
+
+curated:
+  curator: house
+  rationale: The two most purely enjoyable entry points first, then the rest.
+  order:
+    - the-lady-eve
+    - the-palm-beach-story
+    - sullivans-travels
+    - hail-the-conquering-hero

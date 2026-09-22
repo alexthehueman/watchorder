@@ -1,0 +1,60 @@
+slug: zhang-yimou
+kind: director
+name: Zhang Yimou
+blurb: Saturated color used as its own kind of storytelling — first in intimate rural melodramas, later in the vast wuxia spectacles that made him China's most internationally visible director.
+
+films:
+  - film: red-sorghum
+    signature: 4
+    must_see: true
+    gateway: 2
+    note: A young bride sold into an arranged marriage at a rural distillery finds her own power in the business, and then the Japanese occupation arrives.
+
+  - film: ju-dou
+    signature: 4
+    gateway: 1
+    note: A young woman married off to a cruel, sterile dye-shop owner begins an affair with his nephew, and the affair's consequences ripple across a generation.
+
+  - film: raise-the-red-lantern
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: A young woman becomes the fourth wife of a wealthy warlord and learns the brutal, ritualized competition for his attention that governs the household.
+
+  - film: the-story-of-qiu-ju
+    signature: 3
+    gateway: 3
+    note: A pregnant peasant woman pursues an official apology through China's bureaucracy after a village leader injures her husband, in a much plainer, documentary-style register than Zhang's other work.
+
+  - film: to-live
+    signature: 4
+    gateway: 2
+    note: A gambler loses the family fortune and then survives the Chinese Civil War, the Great Leap Forward and the Cultural Revolution with his family, decade by decade.
+
+  - film: shanghai-triad
+    signature: 3
+    gateway: 2
+    note: A country boy is brought to Shanghai to work for a gangster's mistress, seeing organized crime from the bottom rung up.
+
+  - film: curse-of-the-golden-flower
+    signature: 3
+    gateway: 4
+    note: A poisoned empress plots against her tyrannical emperor husband in a lavishly costumed imperial court, Zhang's biggest-scale wuxia spectacle.
+
+  - film: hero
+    signature: 4
+    gateway: 3
+    note: A nameless swordsman recounts his defeat of three assassins to a paranoid emperor, and the story is retold three contradictory ways before the truth settles.
+
+curated:
+  curator: house
+  rationale: The two landmarks first, then the range from rural melodrama to wuxia epic.
+  order:
+    - raise-the-red-lantern
+    - red-sorghum
+    - to-live
+    - ju-dou
+    - hero
+    - shanghai-triad
+    - the-story-of-qiu-ju
+    - curse-of-the-golden-flower

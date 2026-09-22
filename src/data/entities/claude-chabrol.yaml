@@ -1,0 +1,36 @@
+slug: claude-chabrol
+kind: director
+name: Claude Chabrol
+blurb: Bourgeois marriages and dinner parties filmed with a Hitchcockian eye for the murder simmering underneath — the French New Wave's most prolific thriller specialist.
+
+films:
+  - film: les-biches
+    signature: 3
+    gateway: 2
+    note: A wealthy woman's relationship with a street artist becomes a triangle when she brings the artist's architect lover into their household.
+
+  - film: la-femme-infidele
+    signature: 4
+    gateway: 2
+    note: A bourgeois husband discovers his wife's affair, and the film stays coolly, almost politely, detached from what he decides to do about it.
+
+  - film: le-boucher
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: A village schoolteacher's growing friendship with the local butcher curdles as a series of murders begins in the surrounding countryside.
+
+  - film: la-ceremonie
+    signature: 4
+    must_see: true
+    gateway: 3
+    note: A withdrawn maid and the postal worker she befriends slowly turn the household that employs her into something far more dangerous than either woman lets on.
+
+curated:
+  curator: house
+  rationale: The two best-known thrillers first, then the earlier range around them.
+  order:
+    - le-boucher
+    - la-ceremonie
+    - la-femme-infidele
+    - les-biches

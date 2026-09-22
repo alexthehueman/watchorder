@@ -1,0 +1,35 @@
+slug: jean-eustache
+kind: director
+name: Jean Eustache
+blurb: A tiny, confessional filmography, almost entirely about people talking their way through the wreckage of their own relationships. He took his own life at 42.
+
+films:
+  - film: le-pere-noel-a-les-yeux-bleus
+    signature: 2
+    gateway: 3
+    note: A young man in a provincial town takes a job as a department-store Santa Claus to fund a coat he wants to impress a girl with.
+
+  - film: mes-petites-amoureuses
+    signature: 3
+    gateway: 3
+    note: A boy taken out of school to work as an apprentice drifts through a string of small, mostly unconsummated romances that never add up to much.
+
+  - film: une-sale-histoire
+    signature: 3
+    gateway: 3
+    note: The same account of a peeping-tom incident is told twice — once by an actor performing it, once by the real man it happened to — and the film is only interested in the gap between the two versions.
+
+  - film: the-mother-and-the-whore
+    signature: 5
+    must_see: true
+    gateway: 1
+    note: A directionless Parisian man's affair with a nurse collides with his live-in girlfriend, and the three of them talk through the entire collapse in real time across three and a half hours.
+
+curated:
+  curator: house
+  rationale: The landmark last, since it's the longest and least forgiving, with the shorter, gentler films first.
+  order:
+    - le-pere-noel-a-les-yeux-bleus
+    - une-sale-histoire
+    - mes-petites-amoureuses
+    - the-mother-and-the-whore

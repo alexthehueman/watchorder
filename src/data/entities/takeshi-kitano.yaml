@@ -1,0 +1,36 @@
+slug: takeshi-kitano
+kind: director
+name: Takeshi Kitano
+blurb: Yakuza and samurai violence broken up by long stretches of stillness and childlike play, so the sudden bursts of brutality land harder for the quiet around them.
+
+films:
+  - film: sonatine
+    signature: 5
+    must_see: true
+    gateway: 1
+    note: A yakuza crew sent to wait out a gang truce on a beach fills the downtime with childlike games between sudden, unhurried bursts of violence.
+
+  - film: hana-bi
+    signature: 4
+    gateway: 2
+    note: A former detective robs a bank to fund one last trip with his terminally ill wife, while settling debts with the men his violence has cost.
+
+  - film: kikujiro
+    signature: 2
+    gateway: 4
+    note: A gruff, unemployed yakuza reluctantly escorts a lonely boy on a road trip to find his estranged mother, played almost entirely as gentle, sunlit comedy.
+
+  - film: zatoichi-2003
+    signature: 2
+    must_see: true
+    gateway: 4
+    note: A blind, sword-wielding masseur wanders into a town terrorized by a gang, in Kitano's most purely entertaining and accessible film.
+
+curated:
+  curator: house
+  rationale: The most approachable films first, then the range toward violence.
+  order:
+    - zatoichi-2003
+    - kikujiro
+    - sonatine
+    - hana-bi
