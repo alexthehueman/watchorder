@@ -1,0 +1,35 @@
+slug: michel-gondry
+kind: director
+name: Michel Gondry
+blurb: Handmade, in-camera visual invention — practical effects, stop-motion, cardboard sets — built to make memory, dreams and heartbreak literally tangible.
+
+films:
+  - film: human-nature
+    signature: 2
+    gateway: 2
+    note: A feral man raised by his father in the woods is civilized by a behavioral scientist, played as absurdist comedy about the cost of table manners.
+
+  - film: eternal-sunshine-of-the-spotless-mind
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A man undergoing a procedure to erase memories of an ex-girlfriend starts fighting to keep them from inside his own disappearing mind.
+
+  - film: the-science-of-sleep
+    signature: 4
+    gateway: 2
+    note: A man whose dreams keep bleeding into his waking life, built from the same handmade, cardboard-and-string visual language as his memory-erasure film.
+
+  - film: be-kind-rewind
+    signature: 3
+    gateway: 4
+    note: Two video-store clerks accidentally erase their entire rental stock and remake every film themselves on a budget of nearly nothing.
+
+curated:
+  curator: house
+  rationale: The landmark first, then the range of handmade invention around it.
+  order:
+    - eternal-sunshine-of-the-spotless-mind
+    - be-kind-rewind
+    - the-science-of-sleep
+    - human-nature

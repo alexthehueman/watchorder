@@ -1,0 +1,42 @@
+slug: bernardo-bertolucci
+kind: director
+name: Bernardo Bertolucci
+blurb: Political history staged as operatic personal crisis, shot with a camera that keeps moving like it's dancing even when the story is at its bleakest.
+
+films:
+  - film: the-conformist
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: A fascist informant's own motives stay as opaque to him as to anyone watching, told out of chronological order in some of the most influential compositions in the medium.
+
+  - film: last-tango-in-paris
+    signature: 4
+    gateway: 2
+    note: Two strangers begin an anonymous affair in an empty Paris apartment, refusing to exchange names or histories until the film forces the real world back in.
+
+  - film: nineteen-hundred
+    signature: 3
+    gateway: 1
+    note: Two boys born the same day on the same estate — one a landowner's heir, one a peasant's son — trace fifty years of Italian class conflict across a five-hour epic.
+
+  - film: the-last-emperor
+    signature: 4
+    must_see: true
+    gateway: 4
+    note: China's final emperor, raised inside the Forbidden City and then stripped of everything it gave him, filmed with total access to locations no Western production had ever used before.
+
+  - film: the-dreamers
+    signature: 2
+    gateway: 3
+    note: An American student is drawn into an incestuous brother-sister cinephile obsession during the 1968 Paris riots.
+
+curated:
+  curator: house
+  rationale: The two landmarks first, then the epic and the late-career range around them.
+  order:
+    - the-conformist
+    - the-last-emperor
+    - last-tango-in-paris
+    - the-dreamers
+    - nineteen-hundred

@@ -1,0 +1,63 @@
+# New films for Wim Wenders. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Wings of Desire already exists in peter-falk.yaml.
+
+- id: alice-in-the-cities
+  tmdb_id: 507
+  title: Alice in the Cities
+  year: 1974
+  runtime: 110
+  director: Wim Wenders
+  tags: { opacity: 1, stillness: 4, bleakness: 2, humor: 2, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-american-friend
+  tmdb_id: 630
+  title: The American Friend
+  year: 1977
+  runtime: 127
+  director: Wim Wenders
+  tags:
+    opacity: 3 # a dying man is recruited into a killing on the promise of money for his family, and how much he understands about what he's actually doing stays hazy
+    stillness: 3
+    bleakness: 4
+    humor: 1
+    acclaim: 0.8
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: paris-texas
+  tmdb_id: 891
+  title: Paris, Texas
+  year: 1984
+  runtime: 145
+  director: Wim Wenders
+  tags:
+    opacity: 2 # a man wanders out of the desert mute and unexplained, and the film waits nearly as long as he does before saying why
+    stillness: 5
+    bleakness: 4
+    humor: 1
+    acclaim: 0.92
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: buena-vista-social-club
+  tmdb_id: 1560
+  title: Buena Vista Social Club
+  year: 1999
+  runtime: 105
+  director: Wim Wenders
+  tags: { opacity: 1, stillness: 3, bleakness: 1, humor: 2, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: perfect-days
+  tmdb_id: 736099
+  title: Perfect Days
+  year: 2023
+  runtime: 124
+  director: Wim Wenders
+  tags:
+    opacity: 2 # a Tokyo toilet cleaner's contentment is played completely straight, and the film withholds what he's actually retreating from until very late
+    stillness: 5
+    bleakness: 2
+    humor: 2
+    acclaim: 0.9
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

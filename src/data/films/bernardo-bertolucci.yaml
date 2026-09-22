@@ -1,0 +1,35 @@
+# New films for Bernardo Bertolucci. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Last Tango in Paris already exists in brando.yaml. The Last Emperor already exists in otoole.yaml.
+
+- id: the-conformist
+  tmdb_id: 869
+  title: The Conformist
+  year: 1970
+  runtime: 113
+  director: Bernardo Bertolucci
+  tags:
+    opacity: 3 # a fascist informant's own motives stay opaque to him as much as to anyone watching, told out of chronological order
+    stillness: 3
+    bleakness: 4
+    humor: 1
+    acclaim: 0.9
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: nineteen-hundred
+  tmdb_id: 638
+  title: '1900'
+  year: 1976
+  runtime: 317
+  director: Bernardo Bertolucci
+  tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.78 }
+  content: { sexual_violence: true, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 2 }
+
+- id: the-dreamers
+  tmdb_id: 2028
+  title: The Dreamers
+  year: 2003
+  runtime: 115
+  director: Bernardo Bertolucci
+  tags: { opacity: 1, stillness: 3, bleakness: 2, humor: 2, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 3 }

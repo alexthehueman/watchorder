@@ -1,0 +1,35 @@
+# New films for Michel Gondry. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Eternal Sunshine of the Spotless Mind already exists in winslet.yaml.
+
+- id: human-nature
+  tmdb_id: 11029
+  title: Human Nature
+  year: 2001
+  runtime: 96
+  director: Michel Gondry
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 4, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: the-science-of-sleep
+  tmdb_id: 9346
+  title: The Science of Sleep
+  year: 2006
+  runtime: 105
+  director: Michel Gondry
+  tags:
+    opacity: 3 # dream and waking life are built from the same handmade materials and the film never marks where one stops and the other starts
+    stillness: 3
+    bleakness: 3
+    humor: 3
+    acclaim: 0.72
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: be-kind-rewind
+  tmdb_id: 8467
+  title: Be Kind Rewind
+  year: 2008
+  runtime: 102
+  director: Michel Gondry
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 4, acclaim: 0.6 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

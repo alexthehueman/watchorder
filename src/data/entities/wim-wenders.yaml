@@ -1,0 +1,48 @@
+slug: wim-wenders
+kind: director
+name: Wim Wenders
+blurb: Road movies and restless wanderers, in films that treat America as a landscape of myth and postwar Germany as a landscape of longing.
+
+films:
+  - film: alice-in-the-cities
+    signature: 3
+    gateway: 2
+    note: A journalist stuck escorting a stranger's daughter across Germany, drifting from city to city with no clear destination.
+
+  - film: the-american-friend
+    signature: 3
+    gateway: 2
+    note: A dying picture-framer is recruited into a murder by a con man whose actual motives the film never fully clarifies.
+
+  - film: paris-texas
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A mute man wanders out of the Texas desert after years missing, and the film waits nearly as long as he does before explaining why he left.
+
+  - film: wings-of-desire
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: Invisible angels drift through divided Berlin listening to the private thoughts of everyone around them, until one decides he wants to become human.
+
+  - film: buena-vista-social-club
+    signature: 2
+    gateway: 4
+    note: Aging Cuban musicians reunited for one last recording session, filmed with the same patient curiosity he gives fictional wanderers.
+
+  - film: perfect-days
+    signature: 3
+    gateway: 4
+    note: A Tokyo public-toilet cleaner's rigorously content daily routine is played completely straight, what he's actually retreating from withheld until very late.
+
+curated:
+  curator: house
+  rationale: The two landmarks of restless wandering first, then the range of tone around them.
+  order:
+    - paris-texas
+    - wings-of-desire
+    - perfect-days
+    - the-american-friend
+    - alice-in-the-cities
+    - buena-vista-social-club

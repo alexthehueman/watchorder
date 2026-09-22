@@ -1,0 +1,42 @@
+slug: pier-paolo-pasolini
+kind: director
+name: Pier Paolo Pasolini
+blurb: Poverty, faith and provocation handled with the same unflinching directness, right up to the film still cited as the most extreme thing ever called a classic.
+
+films:
+  - film: accattone
+    signature: 4
+    must_see: true
+    gateway: 2
+    note: A Roman pimp drifting toward his own destruction, cast almost entirely with non-actors from the slums the film is actually about.
+
+  - film: mamma-roma
+    signature: 4
+    must_see: true
+    gateway: 2
+    note: A former prostitute tries to build a respectable life for her son, and the film refuses to let the neighborhood she's escaping let her go.
+
+  - film: the-gospel-according-to-st-matthew
+    signature: 3
+    gateway: 3
+    note: Christ's life told plainly, in the same neorealist locations and non-professional faces as his crime pictures, dedicated to Pope John XXIII.
+
+  - film: teorema
+    signature: 4
+    gateway: 1
+    note: A mysterious stranger arrives at a bourgeois household and seduces every member of it in turn, and the film never once explains who or what he actually is.
+
+  - film: salo
+    signature: 5
+    gateway: 0
+    note: Fascist libertines subject a group of teenagers to systematic torture over the last days of Mussolini's regime, made as a deliberate, unwatchable indictment rather than for anyone's entertainment.
+
+curated:
+  curator: house
+  rationale: The two neorealist landmarks first, then the range toward outright provocation.
+  order:
+    - accattone
+    - mamma-roma
+    - the-gospel-according-to-st-matthew
+    - teorema
+    - salo

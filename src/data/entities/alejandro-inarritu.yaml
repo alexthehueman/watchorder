@@ -1,0 +1,48 @@
+slug: alejandro-inarritu
+kind: director
+name: Alejandro G. Iñárritu
+blurb: Fractured, interlocking-story structures in his early films collapsed into a run of single-take formal experiments — grief and guilt are the throughline either way.
+
+films:
+  - film: amores-perros
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: Three lives collide in a single car crash, told out of order so the crash means something different each time you return to it.
+
+  - film: 21-grams
+    signature: 4
+    gateway: 1
+    note: A fatal accident links three strangers, shattered into pieces and reassembled in an order that withholds who did what to whom until deep into the film.
+
+  - film: babel
+    signature: 4
+    gateway: 2
+    note: A single rifle shot in Morocco ripples out to a nanny in San Diego and a deaf teenager in Tokyo, the connections between the four stories kept opaque for most of the runtime.
+
+  - film: biutiful
+    signature: 3
+    gateway: 2
+    note: A Barcelona black-market fixer given a terminal diagnosis tries to set his affairs in order for his children, his only film built around one single perspective rather than several interlocking ones.
+
+  - film: birdman
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A washed-up superhero actor's Broadway comeback, stitched together to look like one continuous unbroken take through the cramped backstage of a real theater.
+
+  - film: the-revenant
+    signature: 4
+    gateway: 4
+    note: A fur trapper left for dead crawls across the frontier for revenge, shot almost entirely in natural light on an unforgiving production schedule that shows in every frame.
+
+curated:
+  curator: house
+  rationale: The two structural landmarks first — the fractured debut, the single unbroken take — then the range around them.
+  order:
+    - amores-perros
+    - birdman
+    - the-revenant
+    - babel
+    - 21-grams
+    - biutiful

@@ -1,0 +1,42 @@
+# New films for Éric Rohmer. Scales and anchors are in README.md ("The anchor rubric").
+
+- id: my-night-at-mauds
+  tmdb_id: 34191
+  title: "My Night at Maud's"
+  year: 1969
+  runtime: 105
+  director: Éric Rohmer
+  tags:
+    opacity: 1
+    stillness: 5 # a whole film of two people talking through the night about faith and desire, and almost nothing else happens
+    bleakness: 2
+    humor: 2
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: claires-knee
+  tmdb_id: 34193
+  title: "Claire's Knee"
+  year: 1970
+  runtime: 105
+  director: Éric Rohmer
+  tags: { opacity: 2, stillness: 4, bleakness: 2, humor: 2, acclaim: 0.82 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-green-ray
+  tmdb_id: 32304
+  title: The Green Ray
+  year: 1986
+  runtime: 98
+  director: Éric Rohmer
+  tags: { opacity: 2, stillness: 4, bleakness: 3, humor: 1, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: pauline-at-the-beach
+  tmdb_id: 34195
+  title: Pauline at the Beach
+  year: 1983
+  runtime: 94
+  director: Éric Rohmer
+  tags: { opacity: 1, stillness: 3, bleakness: 2, humor: 3, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }

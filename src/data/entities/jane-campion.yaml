@@ -1,0 +1,42 @@
+slug: jane-campion
+kind: director
+name: Jane Campion
+blurb: Interior lives — a mute pianist, a poet's muse, a closeted rancher — rendered through repression and landscape rather than dialogue.
+
+films:
+  - film: an-angel-at-my-table
+    signature: 3
+    gateway: 2
+    note: A misdiagnosed, institutionalized New Zealand writer's real life told in three unhurried chapters, originally made for television.
+
+  - film: the-piano
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A mute Scottish woman communicates only through her piano after an arranged marriage strands her in colonial New Zealand, her silence never treated as an absence of interior life.
+
+  - film: in-the-cut
+    signature: 2
+    gateway: 1
+    note: A writing teacher's affair with the detective investigating a murder near her apartment, shot with the same unresolved uncertainty as the case itself.
+
+  - film: bright-star
+    signature: 3
+    gateway: 4
+    note: The courtship between John Keats and Fanny Brawne, told from her perspective and built around the same patient attention to fabric and light as his own poems.
+
+  - film: the-power-of-the-dog
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A domineering Montana rancher's cruelty toward his brother's new wife and stepson conceals something the film only lets you see once it's too late to matter.
+
+curated:
+  curator: house
+  rationale: The two that best show how much she can do without dialogue, then the range of tone around them.
+  order:
+    - the-piano
+    - the-power-of-the-dog
+    - bright-star
+    - an-angel-at-my-table
+    - in-the-cut

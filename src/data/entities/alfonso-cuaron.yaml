@@ -1,0 +1,54 @@
+slug: alfonso-cuaron
+kind: director
+name: Alfonso Cuarón
+blurb: A camera that keeps drifting past its own protagonists to look at the world happening around them, applied across teen road movie, dystopian thriller, blockbuster and memory itself.
+
+films:
+  - film: a-little-princess
+    signature: 2
+    gateway: 4
+    note: A wealthy girl reduced to servant status refuses to stop believing her own fairy tale, shot with a warmth his later, colder films rarely return to.
+
+  - film: great-expectations-1998
+    signature: 2
+    gateway: 3
+    note: Dickens relocated to modern Florida and New York, a starting point for the roaming camera and drifting compositions that would define his later work.
+
+  - film: y-tu-mama-tambien
+    signature: 4
+    gateway: 3
+    note: A road trip between two teenage boys and an older woman keeps cutting away to voiceover about the Mexico passing outside the car window.
+
+  - film: harry-potter-and-the-prisoner-of-azkaban
+    signature: 2
+    gateway: 5
+    note: The franchise entry that first let the camera roam and the tone actually darken, made by someone who'd rather show a castle's weather than its floor plan.
+
+  - film: children-of-men
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A near-future Britain where no child has been born in eighteen years, staged in several minutes-long unbroken takes that put the chaos directly in the frame with the characters.
+
+  - film: gravity
+    signature: 4
+    gateway: 4
+    note: An astronaut stranded in orbit after a debris strike, told almost entirely in real time and in a handful of extraordinarily long takes.
+
+  - film: roma-2018
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: A year in the life of a live-in housekeeper for a Mexico City family, shot in black and white in unbroken wide takes that never once push in for an emotional close-up.
+
+curated:
+  curator: house
+  rationale: The two long-take landmarks first, then the road movie that announced the sensibility, then the rest of the range.
+  order:
+    - children-of-men
+    - roma-2018
+    - y-tu-mama-tambien
+    - gravity
+    - harry-potter-and-the-prisoner-of-azkaban
+    - great-expectations-1998
+    - a-little-princess

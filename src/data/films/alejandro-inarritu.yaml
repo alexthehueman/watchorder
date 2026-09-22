@@ -1,0 +1,32 @@
+# New films for Alejandro G. Iñárritu. Scales and anchors are in README.md ("The anchor rubric").
+#
+# 21 Grams already exists in watts.yaml. Birdman already exists in norton.yaml. Biutiful already
+# exists in bardem.yaml. The Revenant already exists in dicaprio.yaml.
+
+- id: amores-perros
+  tmdb_id: 102
+  title: Amores Perros
+  year: 2000
+  runtime: 154
+  director: Alejandro G. Iñárritu
+  tags:
+    opacity: 2 # three lives collide in one car crash and the film keeps circling back to it from a different angle each time
+    stillness: 2
+    bleakness: 5
+    humor: 1
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 1 }
+
+- id: babel
+  tmdb_id: 1058
+  title: Babel
+  year: 2006
+  runtime: 143
+  director: Alejandro G. Iñárritu
+  tags:
+    opacity: 2 # four stories across four countries whose connection to each other is withheld until well into the film
+    stillness: 2
+    bleakness: 5
+    humor: 1
+    acclaim: 0.78
+  content: { sexual_violence: false, animal_harm: true, child_harm: true, suicide: false, violence: 2, sex: 1 }

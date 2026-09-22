@@ -1,0 +1,41 @@
+slug: jacques-tati
+kind: director
+name: Jacques Tati
+blurb: Nearly wordless physical comedy built from meticulously engineered sound design and setting rather than performance — modernity, and the polite chaos of trying to live inside it.
+
+films:
+  - film: jour-de-fete
+    signature: 2
+    gateway: 3
+    note: A village postman tries to modernize his rounds after watching a newsreel about American efficiency, with chaotic results.
+
+  - film: monsieur-hulots-holiday
+    signature: 4
+    gateway: 4
+    note: An amiable, accident-prone man disrupts a quiet beach resort simply by trying to relax at it, told almost entirely without dialogue.
+
+  - film: mon-oncle
+    signature: 4
+    gateway: 4
+    note: An old-fashioned uncle collides with his sister's absurdly automated modern house, sound design doing most of the comedy's actual work.
+
+  - film: playtime
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: A glass-and-steel Paris of identical buildings, with no close-ups and no single character to follow — what to actually look at in any given frame is left entirely up to you.
+
+  - film: trafic
+    signature: 2
+    gateway: 3
+    note: A car designer's disaster-prone road trip to an auto show, gentler and more conventional than the films around it.
+
+curated:
+  curator: house
+  rationale: The trilogy of Hulot films in order, then the film that pushed the whole approach to its limit, then the late-career comedown.
+  order:
+    - monsieur-hulots-holiday
+    - mon-oncle
+    - playtime
+    - jour-de-fete
+    - trafic

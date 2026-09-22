@@ -1,0 +1,36 @@
+slug: eric-rohmer
+kind: director
+name: Éric Rohmer
+blurb: People talking themselves into and out of their own desires, at real length, in films where almost nothing happens except a mind changing.
+
+films:
+  - film: my-night-at-mauds
+    signature: 5
+    must_see: true
+    gateway: 1
+    note: A whole film of two people talking through the night about faith, fidelity and desire, and very little else happens.
+
+  - film: claires-knee
+    signature: 4
+    gateway: 2
+    note: An engaged man becomes fixated on a teenage girl's knee during a lakeside summer, talking himself into a desire he never actually acts on.
+
+  - film: pauline-at-the-beach
+    signature: 3
+    gateway: 4
+    note: A teenager watches the adults around her tangle themselves in petty romantic deceptions over one summer holiday.
+
+  - film: the-green-ray
+    signature: 3
+    must_see: true
+    gateway: 2
+    note: A lonely woman drifts through a series of holidays she can't enjoy, waiting for a natural phenomenon that becomes a stand-in for the connection she can't find.
+
+curated:
+  curator: house
+  rationale: The two that best show how much can happen in a conversation, then the range around them.
+  order:
+    - my-night-at-mauds
+    - claires-knee
+    - the-green-ray
+    - pauline-at-the-beach

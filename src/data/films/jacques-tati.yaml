@@ -1,0 +1,51 @@
+# New films for Jacques Tati. Scales and anchors are in README.md ("The anchor rubric").
+
+- id: jour-de-fete
+  tmdb_id: 32301
+  title: Jour de Fête
+  year: 1949
+  runtime: 79
+  director: Jacques Tati
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 4, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: monsieur-hulots-holiday
+  tmdb_id: 33313
+  title: "Monsieur Hulot's Holiday"
+  year: 1953
+  runtime: 96
+  director: Jacques Tati
+  tags: { opacity: 1, stillness: 3, bleakness: 1, humor: 4, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: mon-oncle
+  tmdb_id: 33314
+  title: Mon Oncle
+  year: 1958
+  runtime: 110
+  director: Jacques Tati
+  tags: { opacity: 1, stillness: 3, bleakness: 1, humor: 4, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: playtime
+  tmdb_id: 39197
+  title: Playtime
+  year: 1967
+  runtime: 124
+  director: Jacques Tati
+  tags:
+    opacity: 2 # no close-ups and no single protagonist to follow, so what to actually look at in any given frame is left entirely up to you
+    stillness: 4
+    bleakness: 2
+    humor: 4
+    acclaim: 0.9
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: trafic
+  tmdb_id: 39199
+  title: Trafic
+  year: 1971
+  runtime: 96
+  director: Jacques Tati
+  tags: { opacity: 1, stillness: 3, bleakness: 2, humor: 3, acclaim: 0.7 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

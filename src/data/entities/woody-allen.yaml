@@ -1,0 +1,114 @@
+slug: woody-allen
+kind: director
+name: Woody Allen
+blurb: Neurotic New York comedy that, across five decades, kept drifting toward Bergman-inflected dread without ever quite losing the jokes.
+
+films:
+  - film: sleeper
+    signature: 3
+    gateway: 3
+    note: A health-food-store owner wakes up two hundred years in the future, playing pure slapstick against a dystopia the film treats as an excuse for sight gags.
+
+  - film: annie-hall
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A comedian dissects his own failed relationship directly to camera, splitting the difference between stand-up routine and genuine heartbreak.
+
+  - film: interiors
+    signature: 3
+    gateway: 1
+    note: A family of adult daughters circles their mother's breakdown in a film with almost none of his usual jokes — his first serious attempt at Bergman.
+
+  - film: manhattan
+    signature: 4
+    gateway: 3
+    note: A black-and-white love letter to New York that keeps undercutting its own romanticism with how badly its narrator is actually behaving.
+
+  - film: stardust-memories
+    signature: 3
+    gateway: 1
+    note: A filmmaker besieged by fans demanding "the early, funny ones" while he tries to make something more serious — about as close to autobiography-as-argument as he ever got.
+
+  - film: a-midsummer-nights-sex-comedy
+    signature: 2
+    gateway: 3
+    note: Three couples spend a weekend in the country trading partners, played as pure period farce.
+
+  - film: zelig
+    signature: 3
+    gateway: 3
+    note: A man with no personality of his own literally transforms into whoever he's standing next to, told as mock-documentary with doctored newsreel footage.
+
+  - film: broadway-danny-rose
+    signature: 3
+    gateway: 3
+    note: A hapless talent manager gets tangled in a mob plot while trying to do right by his least talented client, warmer and shaggier than most of his comedies.
+
+  - film: the-purple-rose-of-cairo
+    signature: 4
+    gateway: 4
+    note: A movie character walks off the screen into a Depression-era woman's life, and the film refuses to let the fantasy actually fix anything.
+
+  - film: hannah-and-her-sisters
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: Three sisters and the men circling them over two Thanksgivings, weaving comedy and real heartbreak through the same extended family.
+
+  - film: another-woman
+    signature: 2
+    gateway: 2
+    note: A philosophy professor overhears a stranger's therapy sessions through her apartment wall and starts confronting everything she's avoided about her own life.
+
+  - film: crimes-and-misdemeanors
+    signature: 4
+    gateway: 3
+    note: A respected doctor arranges a murder and gets away with it clean, run alongside a comic plot about a failing filmmaker — the film's real subject is how little justice has to do with guilt.
+
+  - film: husbands-and-wives
+    signature: 3
+    gateway: 2
+    note: Two marriages come apart in real time, shot handheld and interview-style in a much rawer register than his glossier comedies.
+
+  - film: match-point
+    signature: 3
+    gateway: 4
+    note: A social climber's affair threatens his engagement to money, and the film ends up arguing that luck, not morality, decides who gets away with what.
+
+  - film: vicky-cristina-barcelona
+    signature: 3
+    gateway: 4
+    note: Two American women get pulled into a painter's unresolved relationship with his ex-wife, shot with warm Spanish sun standing in for his usual New York grey.
+
+  - film: midnight-in-paris
+    signature: 4
+    gateway: 5
+    note: A frustrated writer wanders into literal 1920s Paris at midnight and meets the artists he's always idolized — his most purely wish-fulfilling film.
+
+  - film: blue-jasmine
+    signature: 4
+    gateway: 3
+    note: A Bernie Madoff-adjacent socialite's collapse into poverty and delusion, played as tragedy that only occasionally remembers it's supposed to be funny.
+
+curated:
+  curator: house
+  rationale: The two that best balance the comedy and the dread, then the range in both directions around them.
+  order:
+    - annie-hall
+    - hannah-and-her-sisters
+    - manhattan
+    - crimes-and-misdemeanors
+    - the-purple-rose-of-cairo
+    - zelig
+    - midnight-in-paris
+    - vicky-cristina-barcelona
+    - match-point
+    - blue-jasmine
+    - broadway-danny-rose
+    - husbands-and-wives
+    - a-midsummer-nights-sex-comedy
+    - another-woman
+    - stardust-memories
+    - interiors
+    - sleeper
