@@ -1,0 +1,129 @@
+# New films for Masaki Kobayashi. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Harakiri already exists in tatsuya-nakadai.yaml. Samurai Rebellion already exists in mifune.yaml.
+
+- id: black-river
+  tmdb_id: null
+  title: Black River
+  year: 1957
+  runtime: 114
+  director: Masaki Kobayashi
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 4
+    humor: 1
+    acclaim: 0.68
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: the-human-condition-i
+  tmdb_id: null
+  title: 'The Human Condition I: No Greater Love'
+  year: 1959
+  runtime: 208
+  director: Masaki Kobayashi
+  tags:
+    opacity: 1
+    stillness: 3
+    bleakness: 5 # a pacifist's attempt to run a labor camp humanely gets crushed by the machine he's ostensibly in charge of
+    humor: 1
+    acclaim: 0.90
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: the-human-condition-ii
+  tmdb_id: null
+  title: 'The Human Condition II: Road to Eternity'
+  year: 1959
+  runtime: 181
+  director: Masaki Kobayashi
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 5
+    humor: 1
+    acclaim: 0.90
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: the-human-condition-iii
+  tmdb_id: null
+  title: "The Human Condition III: A Soldier's Prayer"
+  year: 1961
+  runtime: 190
+  director: Masaki Kobayashi
+  tags:
+    opacity: 1
+    stillness: 3
+    bleakness: 5 # the retreat strips away every ideal the trilogy started with, one by one, until nothing is left to believe in
+    humor: 1
+    acclaim: 0.90
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: the-inheritance
+  tmdb_id: null
+  title: The Inheritance
+  year: 1962
+  runtime: 98
+  director: Masaki Kobayashi
+  tags:
+    opacity: 2 # a dying man's family and secretaries circle his estate, each hiding how much they actually know
+    stillness: 2
+    bleakness: 4
+    humor: 2
+    acclaim: 0.75
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: kwaidan
+  tmdb_id: null
+  title: Kwaidan
+  year: 1964
+  runtime: 183
+  director: Masaki Kobayashi
+  tags:
+    opacity: 2
+    stillness: 4 # four ghost stories told at a deliberately theatrical, unhurried pace on obviously painted studio skies
+    bleakness: 4
+    humor: 1
+    acclaim: 0.90
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: hymn-to-a-tired-man
+  tmdb_id: null
+  title: Hymn to a Tired Man
+  year: 1968
+  runtime: 117
+  director: Masaki Kobayashi
+  tags:
+    opacity: 2
+    stillness: 3
+    bleakness: 4
+    humor: 1
+    acclaim: 0.6
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: inn-of-evil
+  tmdb_id: null
+  title: Inn of Evil
+  year: 1971
+  runtime: 98
+  director: Masaki Kobayashi
+  tags:
+    opacity: 2
+    stillness: 2
+    bleakness: 4
+    humor: 2 # a black-market smugglers' inn full of small-time cons and gallows humor, right up until it isn't
+    acclaim: 0.68
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-fossil
+  tmdb_id: null
+  title: The Fossil
+  year: 1975
+  runtime: 214
+  director: Masaki Kobayashi
+  tags:
+    opacity: 2
+    stillness: 4
+    bleakness: 4
+    humor: 1
+    acclaim: 0.72
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

@@ -1,0 +1,86 @@
+slug: masaki-kobayashi
+kind: director
+name: Masaki Kobayashi
+blurb: A former conscientious objector who spent his career building meticulous, widescreen indictments of the institutions — the army, the samurai code, the family business — that ask individuals to die for them.
+
+films:
+  - film: black-river
+    signature: 2
+    gateway: 3
+    note: Post-war slum exploitation and a small-time gangster preying on it, shot with the social-realist anger of his earliest work.
+
+  - film: the-human-condition-i
+    signature: 5
+    must_see: true
+    gateway: 1
+    note: A pacifist labor supervisor in occupied Manchuria tries to treat Chinese prisoners humanely inside a system built to prevent exactly that, and loses.
+
+  - film: the-human-condition-ii
+    signature: 5
+    gateway: 0
+    note: Drafted into the army whose brutality he spent the first film resisting, and slowly reshaped by it — the trilogy's most physically punishing stretch.
+
+  - film: the-human-condition-iii
+    signature: 5
+    gateway: 0
+    note: A ruined retreat through Manchuria at the end of the war, every ideal the trilogy started with stripped away one at a time.
+
+  - film: the-inheritance
+    signature: 3
+    gateway: 3
+    note: A dying tycoon's mistress, illegitimate children, and secretaries all scheme for the estate at once, and nobody's hands stay clean.
+
+  - film: harakiri
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: A destitute ronin's request to commit ritual suicide in a clan's courtyard unfolds into a patient, devastating indictment of the samurai code itself.
+
+  - film: kwaidan
+    signature: 4
+    gateway: 3
+    note: Four ghost stories told on deliberately artificial, painted studio skies — horror as pure formal composition rather than shock.
+
+  - film: samurai-rebellion
+    signature: 4
+    gateway: 3
+    note: A loyal retainer is ordered to take in a discarded concubine as his son's wife, and refuses to give her back when the clan changes its mind — obedience finally running out.
+
+  - film: hymn-to-a-tired-man
+    signature: 2
+    gateway: 3
+    note: A corporate executive forced into an early retirement reckons with a career spent complying.
+
+  - film: inn-of-evil
+    signature: 3
+    gateway: 4
+    note: Smugglers and con artists holed up at a black-market inn on the edge of Edo, the film's rowdy humor curdling fast once the shogunate closes in.
+
+  - film: the-fossil
+    signature: 3
+    gateway: 2
+    note: A wealthy businessman given a terminal diagnosis on a trip abroad spends the rest of the film quietly taking stock of what the life added up to.
+
+prereqs:
+  - film: the-human-condition-ii
+    requires: the-human-condition-i
+    strength: hard
+  - film: the-human-condition-iii
+    requires: the-human-condition-ii
+    strength: hard
+
+curated:
+  curator: house
+  rationale: The trilogy that's the whole reason to know his name, then the two widescreen indictments of the samurai code, then the rest of the range.
+  order:
+    - the-human-condition-i
+    - the-human-condition-ii
+    - the-human-condition-iii
+    - harakiri
+    - samurai-rebellion
+    - kwaidan
+    - the-inheritance
+    - inn-of-evil
+    - the-fossil
+    - hymn-to-a-tired-man
+    - black-river
