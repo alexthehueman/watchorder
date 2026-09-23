@@ -1,0 +1,36 @@
+slug: billy-bitzer
+kind: cinematographer
+name: Billy Bitzer
+blurb: D.W. Griffith's regular collaborator and, by most historical accounts, the first cinematographer to function as a genuine director of photography — pioneering matte shots, soft focus, split-screen and backlighting techniques that became industry standard.
+
+films:
+  - film: broken-blossoms
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A brutalized young woman finds fragile shelter with a gentle Chinese immigrant in London's Limehouse district, shot with soft-focus intimacy Bitzer had pioneered.
+
+  - film: intolerance
+    signature: 4
+    must_see: true
+    gateway: 3
+    note: Four interwoven stories of injustice across millennia, held together visually by a single recurring image of a mother rocking a cradle.
+
+  - film: way-down-east
+    signature: 4
+    gateway: 2
+    note: A country girl deceived into a sham marriage is cast out in disgrace, culminating in a genuinely dangerous ice-floe rescue shot on location in a real blizzard.
+
+  - film: the-birth-of-a-nation
+    signature: 5
+    gateway: 0
+    note: Historically inescapable as the film that invented most of narrative cinema's editing grammar — cross-cutting, the iris shot, the close-up for emotional emphasis — entirely in service of glorifying the Ku Klux Klan. Never a starting point.
+
+curated:
+  curator: house
+  rationale: The two films that hold up as films first, then the rest of the technical record.
+  order:
+    - broken-blossoms
+    - intolerance
+    - way-down-east
+    - the-birth-of-a-nation

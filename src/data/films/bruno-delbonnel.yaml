@@ -1,0 +1,22 @@
+# New films for Bruno Delbonnel. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Inside Llewyn Davis already exists in coens.yaml. Darkest Hour already exists in oldman.yaml.
+# Big Eyes already exists in waltz.yaml. The Tragedy of Macbeth already exists in mcdormand.yaml.
+
+- id: amelie
+  tmdb_id: 194
+  title: Amélie
+  year: 2001
+  runtime: 122
+  director: Jean-Pierre Jeunet
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 4, acclaim: 0.88 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: harry-potter-and-the-half-blood-prince
+  tmdb_id: 767
+  title: Harry Potter and the Half-Blood Prince
+  year: 2009
+  runtime: 153
+  director: David Yates
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

@@ -1,0 +1,42 @@
+slug: joseph-biroc
+kind: cinematographer
+name: Joseph Biroc
+blurb: A studio-era journeyman whose five-decade career runs from Capra's warmest sentimentality through Aldrich's grimmest melodrama to broad disaster spectacle and pure absurdist farce, winning an Oscar along the way.
+
+films:
+  - film: its-a-wonderful-life
+    signature: 4
+    must_see: true
+    gateway: 1
+    note: His first screen credit as cinematographer, on a film remembered as warm even though most of it is a man discovering his life was a trap.
+
+  - film: hush-hush-sweet-charlotte
+    signature: 4
+    must_see: true
+    gateway: 2
+    note: A decades-old unsolved murder and the question of the accused woman's own sanity are shot with real Southern gothic dread.
+
+  - film: the-towering-inferno
+    signature: 3
+    gateway: 3
+    note: A star-studded disaster spectacle, an entire skyscraper set ablaze and shot at genuinely dangerous practical scale.
+
+  - film: blazing-saddles
+    signature: 2
+    gateway: 1
+    note: A western parody shot with straight-faced genre conviction, the visual sincerity making the anarchic gags land harder.
+
+  - film: airplane
+    signature: 2
+    gateway: 1
+    note: A disaster-movie parody shot with the same deadpan visual seriousness as the films it's mocking.
+
+curated:
+  curator: house
+  rationale: The two landmark dramas first, then the range of disaster spectacle and comedy.
+  order:
+    - its-a-wonderful-life
+    - hush-hush-sweet-charlotte
+    - the-towering-inferno
+    - blazing-saddles
+    - airplane

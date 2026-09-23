@@ -1,0 +1,48 @@
+slug: bruno-delbonnel
+kind: cinematographer
+name: Bruno Delbonnel
+blurb: A French cinematographer known for heavily stylized color palettes, often tilted toward yellows and greens, with visible film grain kept as texture rather than smoothed away — equally at home in whimsical Parisian fantasy and Coen-brothers austerity.
+
+films:
+  - film: amelie
+    signature: 5
+    must_see: true
+    gateway: 1
+    note: A shy Montmartre waitress's secret campaign of small kindnesses is shot in his signature saturated yellow-and-green palette, whimsy made into a visual language.
+
+  - film: inside-llewyn-davis
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: A folk musician's circular, luckless week in 1961 Greenwich Village is shot in cold, desaturated grey-blue, denying the period any nostalgic warmth.
+
+  - film: darkest-hour
+    signature: 3
+    gateway: 2
+    note: Churchill's first weeks as prime minister are shot in smoke-heavy, high-contrast shadow that makes the war room feel like a bunker under siege.
+
+  - film: the-tragedy-of-macbeth
+    signature: 4
+    gateway: 3
+    note: A stark, boxy black-and-white soundstage production, the deliberately artificial theatrical space making the witches' prophecies feel like they're happening nowhere and everywhere.
+
+  - film: big-eyes
+    signature: 2
+    gateway: 2
+    note: A painter's husband claims credit for her work in a candy-colored, mid-century suburban palette that curdles as the fraud continues.
+
+  - film: harry-potter-and-the-half-blood-prince
+    signature: 2
+    gateway: 2
+    note: A darker, more romantic entry in the franchise shot with heavier shadow and warmer firelight than its predecessors.
+
+curated:
+  curator: house
+  rationale: The two landmark palettes first, then the range across his other collaborators.
+  order:
+    - amelie
+    - inside-llewyn-davis
+    - the-tragedy-of-macbeth
+    - darkest-hour
+    - big-eyes
+    - harry-potter-and-the-half-blood-prince
