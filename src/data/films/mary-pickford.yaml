@@ -1,0 +1,42 @@
+# New films for Mary Pickford. Scales and anchors are in README.md ("The anchor rubric").
+
+- id: daddy-long-legs-1919
+  tmdb_id: null
+  title: Daddy-Long-Legs
+  year: 1919
+  runtime: 84
+  director: Marshall Neilan
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 0 }
+
+- id: sparrows-1926
+  tmdb_id: null
+  title: Sparrows
+  year: 1926
+  runtime: 84
+  director: William Beaudine
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 4 # orphans held as forced labor on a swamp farm, genuinely grim under the studio gloss
+    humor: 1
+    acclaim: 0.72
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+
+- id: coquette-1929
+  tmdb_id: null
+  title: Coquette
+  year: 1929
+  runtime: 75
+  director: Sam Taylor
+  tags: { opacity: 2, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.62 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: poor-little-rich-girl
+  tmdb_id: null
+  title: The Poor Little Rich Girl
+  year: 1917
+  runtime: 65
+  director: Maurice Tourneur
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 0 }

@@ -1,0 +1,47 @@
+# New films for Groucho Marx. Scales and anchors are in README.md ("The anchor rubric").
+
+- id: duck-soup
+  tmdb_id: null
+  title: Duck Soup
+  year: 1933
+  runtime: 68
+  director: Leo McCarey
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 5, acclaim: 0.88 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: horse-feathers
+  tmdb_id: null
+  title: Horse Feathers
+  year: 1932
+  runtime: 68
+  director: Norman Z. McLeod
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: a-night-at-the-opera
+  tmdb_id: null
+  title: A Night at the Opera
+  year: 1935
+  runtime: 96
+  director: Sam Wood
+  tags:
+    opacity: 2 # a real sabotage plot the brothers are actually executing rather than pure verbal chaos
+    stillness: 2 # slower-paced, more plot-bound romantic subplot than the anarchic early Paramount films
+    bleakness: 1
+    humor: 4
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: a-day-at-the-races
+  tmdb_id: null
+  title: A Day at the Races
+  year: 1937
+  runtime: 111
+  director: Sam Wood
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 2 # a genuine threat hangs over the sanitarium's finances the whole film, unlike the pure farce of the earlier films
+    humor: 4
+    acclaim: 0.75
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

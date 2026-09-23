@@ -1,0 +1,45 @@
+slug: ava-gardner
+kind: actor
+name: Ava Gardner
+blurb: A screen presence built around a knowing, self-possessed glamour, most often cast as the woman men undo themselves over — in noir, colonial adventure and faded-star melodrama alike.
+
+films:
+  - film: the-killers-1946
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: menacing
+    gateway: 2
+    note: A dead man's past is reconstructed in flashback by an insurance investigator, and her own loyalties in it stay genuinely unresolved until the end.
+  - film: mogambo
+    signature: 4
+    must_see: true
+    showcase: 4
+    role_size: lead
+    register: warm
+    gateway: 1
+    note: A big-game hunter's African camp is upended by two very different women, one a brash adventuress and one a proper married anthropologist.
+  - film: the-barefoot-contessa
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A Spanish dancer discovered and molded into a Hollywood star has her rise and eventual death recounted in flashback by the men who shaped her.
+  - film: the-night-of-the-iguana
+    signature: 3
+    showcase: 4
+    role_size: supporting
+    register: warm
+    gateway: 1
+    note: A widowed hotel owner in Mexico hosts a defrocked, unraveling minister and the tourists in his charge over one turbulent night.
+
+curated:
+  curator: house
+  rationale: The landmark noir first, then the range of glamour roles around it.
+  order:
+    - the-killers-1946
+    - mogambo
+    - the-barefoot-contessa
+    - the-night-of-the-iguana

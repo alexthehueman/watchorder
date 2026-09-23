@@ -1,0 +1,47 @@
+# New films for Mae West. Scales and anchors are in README.md ("The anchor rubric").
+
+- id: she-done-him-wrong
+  tmdb_id: null
+  title: She Done Him Wrong
+  year: 1933
+  runtime: 66
+  director: Lowell Sherman
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 4, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: im-no-angel
+  tmdb_id: null
+  title: I'm No Angel
+  year: 1933
+  runtime: 87
+  director: Wesley Ruggles
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 4, acclaim: 0.70 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: my-little-chickadee
+  tmdb_id: null
+  title: My Little Chickadee
+  year: 1940
+  runtime: 83
+  director: Edward F. Cline
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 1
+    humor: 5 # a straight-up co-headlined double act with W.C. Fields, broader than her solo star vehicles
+    acclaim: 0.68
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: going-to-town
+  tmdb_id: null
+  title: Goin' to Town
+  year: 1935
+  runtime: 71
+  director: Alexander Hall
+  tags:
+    opacity: 2 # whether her social climb is sincere ambition or an extended con stays deliberately unclear
+    stillness: 3
+    bleakness: 2
+    humor: 3
+    acclaim: 0.62
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }

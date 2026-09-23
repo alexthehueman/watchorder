@@ -1,0 +1,35 @@
+# New films for Jean Harlow. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Dinner at Eight already exists in mgm.yaml.
+
+- id: platinum-blonde
+  tmdb_id: null
+  title: Platinum Blonde
+  year: 1931
+  runtime: 90
+  director: Frank Capra
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: red-dust
+  tmdb_id: null
+  title: Red Dust
+  year: 1932
+  runtime: 83
+  director: Victor Fleming
+  tags:
+    opacity: 2 # who she'll actually end up choosing stays a live question for most of the runtime
+    stillness: 2
+    bleakness: 3 # a genuine sexual rivalry rather than the light farce of her other star vehicles
+    humor: 3
+    acclaim: 0.72
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: china-seas
+  tmdb_id: null
+  title: China Seas
+  year: 1935
+  runtime: 89
+  director: Tay Garnett
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 2, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

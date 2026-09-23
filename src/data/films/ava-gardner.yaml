@@ -1,0 +1,42 @@
+# New films for Ava Gardner. Scales and anchors are in README.md ("The anchor rubric").
+
+- id: the-killers-1946
+  tmdb_id: null
+  title: The Killers
+  year: 1946
+  runtime: 103
+  director: Robert Siodmak
+  tags:
+    opacity: 4 # a murdered man's past is reconstructed in flashback from conflicting witnesses, and her own loyalties stay unresolved throughout
+    stillness: 2
+    bleakness: 4
+    humor: 1
+    acclaim: 0.80
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: mogambo
+  tmdb_id: null
+  title: Mogambo
+  year: 1953
+  runtime: 116
+  director: John Ford
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: the-barefoot-contessa
+  tmdb_id: null
+  title: The Barefoot Contessa
+  year: 1954
+  runtime: 128
+  director: Joseph L. Mankiewicz
+  tags: { opacity: 2, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: the-night-of-the-iguana
+  tmdb_id: null
+  title: The Night of the Iguana
+  year: 1964
+  runtime: 125
+  director: John Huston
+  tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 2, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }

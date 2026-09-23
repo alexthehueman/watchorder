@@ -1,0 +1,45 @@
+slug: mary-pickford
+kind: actor
+name: Mary Pickford
+blurb: "\"America's Sweetheart,\" the biggest female star of the silent era and one of the most powerful people in Hollywood, playing plucky orphans and waifs well into her thirties."
+
+films:
+  - film: daddy-long-legs-1919
+    signature: 4
+    must_see: true
+    showcase: 4
+    role_size: lead
+    register: warm
+    gateway: 1
+    note: An orphan raised in an institution is secretly sponsored through school by a wealthy benefactor she's never allowed to meet, and inevitably falls for him without knowing it.
+  - film: sparrows-1926
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: An orphan leads a group of children held as forced labor on a remote swamp farm in an escape far grimmer than her usual star vehicles.
+  - film: coquette-1929
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: Her Oscar-winning talkie debut, playing a Southern flirt whose father kills the man she loves, in a much darker register than her silent-era persona.
+  - film: poor-little-rich-girl
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 1
+    note: A neglected wealthy child, starved for attention from her working parents, escapes into a fantasy world of her own imagination.
+
+curated:
+  curator: house
+  rationale: The defining silent-era persona first, then its two darkest departures.
+  order:
+    - poor-little-rich-girl
+    - daddy-long-legs-1919
+    - sparrows-1926
+    - coquette-1929
