@@ -4,7 +4,40 @@
 # Wasn't There, No Country for Old Men and True Grit already exist in coens.yaml. Skyfall already
 # exists in fiennes.yaml. Prisoners already exists in jackman.yaml. Sicario already exists in
 # blunt.yaml. Blade Runner 2049 already exists in gosling.yaml. The Shawshank Redemption already
-# exists in morgan-freeman.yaml. 1917 already exists in scott.yaml.
+# exists in morgan-freeman.yaml. 1917 already exists in scott.yaml. The Reader already exists in
+# winslet.yaml.
+#
+# Three genuinely missing credits added after a Wikipedia filmography cross-check (Cruel Passion,
+# Another Time Another Place, The Innocent, Shadey, Personal Services, The Kitchen Toto, White
+# Mischief, Mountains of the Moon, The Long Walk Home, Anywhere but Here and Levity are all real
+# but minor early credits, deliberately left out rather than padding the list).
+
+- id: in-the-valley-of-elah
+  tmdb_id: 6973
+  title: In the Valley of Elah
+  year: 2007
+  runtime: 121
+  director: Paul Haggis
+  tags: { opacity: 3, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+
+- id: the-company-men
+  tmdb_id: 44129
+  title: The Company Men
+  year: 2010
+  runtime: 104
+  director: John Wells
+  tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-goldfinch
+  tmdb_id: 472674
+  title: The Goldfinch
+  year: 2019
+  runtime: 149
+  director: John Crowley
+  tags: { opacity: 3, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.4 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 1 }
 
 - id: nineteen-eighty-four
   tmdb_id: 1249996
