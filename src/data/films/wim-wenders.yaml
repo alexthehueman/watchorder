@@ -3,7 +3,7 @@
 # Wings of Desire already exists in peter-falk.yaml.
 
 - id: alice-in-the-cities
-  tmdb_id: 507
+  tmdb_id: 2204
   title: Alice in the Cities
   year: 1974
   runtime: 110
@@ -12,7 +12,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
 
 - id: the-american-friend
-  tmdb_id: 630
+  tmdb_id: 11222
   title: The American Friend
   year: 1977
   runtime: 127
@@ -26,7 +26,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
 
 - id: paris-texas
-  tmdb_id: 891
+  tmdb_id: 655
   title: Paris, Texas
   year: 1984
   runtime: 145
