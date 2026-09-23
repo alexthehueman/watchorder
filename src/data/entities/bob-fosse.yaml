@@ -1,0 +1,36 @@
+slug: bob-fosse
+kind: director
+name: Bob Fosse
+blurb: A choreographer's eye applied to editing itself — sharp, jagged cuts and musical numbers that keep undercutting their own glamour with the rot underneath.
+
+films:
+  - film: cabaret
+    signature: 4
+    must_see: true
+    gateway: 2
+    note: A Berlin nightclub's musical numbers keep commenting on the rise of Nazism happening just outside its doors, never letting the glamour and the politics stay separate.
+
+  - film: all-that-jazz
+    signature: 5
+    must_see: true
+    gateway: 1
+    note: A workaholic director-choreographer edits his own film, rehearses his own show and negotiates his own heart condition, staged as an increasingly literal dance with death.
+
+  - film: lenny
+    signature: 3
+    gateway: 2
+    note: A biography of comedian Lenny Bruce, shot in black and white as a fractured series of interviews and club performances tracking his obscenity trials.
+
+  - film: star-80
+    signature: 4
+    gateway: 2
+    note: A Playboy model's rise to fame is intercut with her controlling husband's growing jealousy, building toward the murder the film opens by already telling you is coming.
+
+curated:
+  curator: house
+  rationale: The two landmarks first, then the darker biographical films.
+  order:
+    - cabaret
+    - all-that-jazz
+    - lenny
+    - star-80

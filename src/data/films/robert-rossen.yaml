@@ -1,0 +1,12 @@
+# New films for Robert Rossen. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Hustler already exists in newman.yaml. Lilith already exists in jean-seberg.yaml.
+
+- id: all-the-kings-men
+  tmdb_id: 41112
+  title: All the King's Men
+  year: 1949
+  runtime: 109
+  director: Robert Rossen
+  tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 2, acclaim: 0.82 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }

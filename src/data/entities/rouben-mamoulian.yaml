@@ -1,0 +1,36 @@
+slug: rouben-mamoulian
+kind: director
+name: Rouben Mamoulian
+blurb: An early-sound pioneer who treated the new technology as a toy rather than a limitation, moving fluidly between horror, historical romance and swashbuckling adventure.
+
+films:
+  - film: dr-jekyll-and-mr-hyde-1931
+    signature: 4
+    must_see: true
+    gateway: 2
+    note: A respected doctor's experimental serum splits him into a second, monstrous self, filmed with an in-camera transformation effect that baffled audiences at the time.
+
+  - film: queen-christina
+    signature: 3
+    gateway: 2
+    note: Sweden's 17th-century queen falls for a Spanish envoy and considers giving up her throne, built around one of cinema's most famous ambiguous final shots.
+
+  - film: the-mark-of-zorro-1940
+    signature: 2
+    must_see: true
+    gateway: 4
+    note: A wealthy Californian poses as a foppish aristocrat by day and a masked vigilante by night, in the swashbuckler that set the template for the character.
+
+  - film: blood-and-sand
+    signature: 2
+    gateway: 3
+    note: A working-class boy rises to fame as a Spanish bullfighter, only to be pulled apart by his loyal wife and a seductive socialite as fame corrupts him.
+
+curated:
+  curator: house
+  rationale: The most distinctive film first, then the range around it.
+  order:
+    - dr-jekyll-and-mr-hyde-1931
+    - the-mark-of-zorro-1940
+    - blood-and-sand
+    - queen-christina

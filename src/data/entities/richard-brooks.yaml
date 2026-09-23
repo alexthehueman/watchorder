@@ -1,0 +1,36 @@
+slug: richard-brooks
+kind: director
+name: Richard Brooks
+blurb: Serious-minded, literary adaptations and true-crime drama — understated, almost anticlimactic in its restraint, trusting the material rather than pushing it.
+
+films:
+  - film: the-professionals
+    signature: 3
+    gateway: 3
+    note: Four mercenaries are hired to rescue a wealthy man's kidnapped wife from a Mexican revolutionary, and discover the rescue isn't quite what it was sold as.
+
+  - film: elmer-gantry
+    signature: 4
+    must_see: true
+    gateway: 3
+    note: A traveling salesman talks his way into a revivalist preacher's evangelical crusade, exploiting religious fervor as just another con.
+
+  - film: cat-on-a-hot-tin-roof
+    signature: 3
+    gateway: 3
+    note: A wealthy Mississippi family gathers for a birthday that turns into a reckoning over inheritance, alcoholism and a marriage neither spouse will talk about honestly.
+
+  - film: in-cold-blood
+    signature: 5
+    must_see: true
+    gateway: 1
+    note: A true-crime account of the murder of a Kansas farm family, shot in stark black and white and refusing to resolve the killers into simple villains.
+
+curated:
+  curator: house
+  rationale: The landmark last, since it's the coldest watch, with the more accessible films first.
+  order:
+    - the-professionals
+    - cat-on-a-hot-tin-roof
+    - elmer-gantry
+    - in-cold-blood

@@ -1,0 +1,35 @@
+slug: john-frankenheimer
+kind: director
+name: John Frankenheimer
+blurb: Paranoid Cold War thrillers about institutions turning against the people inside them — brainwashing, coups, prison — filmed with a live-TV director's restless, moving camera.
+
+films:
+  - film: birdman-of-alcatraz
+    signature: 3
+    gateway: 3
+    note: A convicted murderer serving a life sentence becomes a world authority on birds after being allowed to keep a sparrow in his cell.
+
+  - film: seven-days-in-may
+    signature: 4
+    gateway: 3
+    note: A Pentagon officer uncovers a plot by the joint chiefs to stage a military coup against a president they think is too soft on nuclear disarmament.
+
+  - film: the-manchurian-candidate
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: A Korean War veteran slowly realizes his own mother is running a Communist brainwashing plot that has turned her son into a political assassin.
+
+  - film: the-train
+    signature: 3
+    gateway: 3
+    note: A French Resistance railway inspector tries to stop a train full of looted art from reaching Germany as the Allies close in on Paris.
+
+curated:
+  curator: house
+  rationale: The landmark first, then the range of paranoid institutional thrillers around it.
+  order:
+    - the-manchurian-candidate
+    - seven-days-in-may
+    - the-train
+    - birdman-of-alcatraz

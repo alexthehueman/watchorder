@@ -1,0 +1,13 @@
+# New films for Franklin J. Schaffner. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Planet of the Apes already exists in charlton-heston.yaml. Patton already exists in
+# george-c-scott.yaml. Papillon already exists in steve-mcqueen.yaml.
+
+- id: the-boys-from-brazil
+  tmdb_id: 11826
+  title: The Boys from Brazil
+  year: 1978
+  runtime: 125
+  director: Franklin J. Schaffner
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }

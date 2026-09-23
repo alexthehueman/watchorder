@@ -1,0 +1,35 @@
+slug: raoul-walsh
+kind: director
+name: Raoul Walsh
+blurb: A veteran studio craftsman across five decades and every genre, best remembered for a run of tough, fatalistic crime pictures and Westerns in the 1930s and '40s.
+
+films:
+  - film: the-roaring-twenties
+    signature: 3
+    gateway: 3
+    note: A WWI veteran turns bootlegger during Prohibition and rides the era's rise and collapse, tracing the entire arc of the gangster genre in one film.
+
+  - film: high-sierra
+    signature: 4
+    gateway: 3
+    note: An aging gangster fresh out of prison plans one last heist in the California mountains, knowing it's likely to be his final job either way.
+
+  - film: white-heat
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: A psychotic, mother-obsessed gang leader plans a heist from inside prison, building to one of the most quoted final lines in the genre.
+
+  - film: they-died-with-their-boots-on
+    signature: 2
+    gateway: 4
+    note: A romanticized biography of General Custer that plays his career, up through Little Bighorn, as pure heroic legend rather than history.
+
+curated:
+  curator: house
+  rationale: The landmark first, then the range around it.
+  order:
+    - white-heat
+    - high-sierra
+    - the-roaring-twenties
+    - they-died-with-their-boots-on

@@ -1,0 +1,30 @@
+# New films for Raoul Walsh. Scales and anchors are in README.md ("The anchor rubric").
+#
+# White Heat already exists in james-cagney.yaml.
+
+- id: the-roaring-twenties
+  tmdb_id: 31867
+  title: The Roaring Twenties
+  year: 1939
+  runtime: 106
+  director: Raoul Walsh
+  tags: { opacity: 1, stillness: 1, bleakness: 4, humor: 1, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: high-sierra
+  tmdb_id: 33717
+  title: High Sierra
+  year: 1941
+  runtime: 100
+  director: Raoul Walsh
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: they-died-with-their-boots-on
+  tmdb_id: 34277
+  title: They Died with Their Boots On
+  year: 1941
+  runtime: 140
+  director: Raoul Walsh
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.7 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

@@ -1,0 +1,36 @@
+slug: jean-negulesco
+kind: director
+name: Jean Negulesco
+blurb: A journeyman studio director as comfortable with glossy romantic comedy as with unusually serious melodrama, working steadily across three decades of the studio system.
+
+films:
+  - film: johnny-belinda
+    signature: 4
+    must_see: true
+    gateway: 2
+    note: One of the earliest Hollywood films to treat a deaf woman's inner life as fully real rather than as an object of pity, after she's assaulted and becomes pregnant.
+
+  - film: how-to-marry-a-millionaire
+    signature: 2
+    must_see: true
+    gateway: 5
+    note: Three models pool their resources to rent a Manhattan penthouse as bait for wealthy husbands, and each finds the plan doesn't go quite the way she expected.
+
+  - film: three-coins-in-the-fountain
+    signature: 2
+    gateway: 4
+    note: Three American women working in Rome each toss a coin into the Trevi Fountain hoping for love, and the film follows all three wishes in parallel.
+
+  - film: road-house-1948
+    signature: 3
+    gateway: 3
+    note: A nightclub owner's obsession with the woman his manager loves curdles into a jealousy the film keeps withholding the full shape of until it's too late.
+
+curated:
+  curator: house
+  rationale: The most serious film first, then the lighter romantic comedies.
+  order:
+    - johnny-belinda
+    - road-house-1948
+    - how-to-marry-a-millionaire
+    - three-coins-in-the-fountain

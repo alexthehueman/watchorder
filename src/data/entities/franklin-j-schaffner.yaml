@@ -1,0 +1,36 @@
+slug: franklin-j-schaffner
+kind: director
+name: Franklin J. Schaffner
+blurb: Big, star-driven prestige pictures — a wartime general, a dystopian planet, a French penal colony — filmed with a former TV director's disciplined command of scale.
+
+films:
+  - film: planet-of-the-apes
+    signature: 4
+    must_see: true
+    gateway: 3
+    note: An astronaut crash-lands on a planet ruled by intelligent apes who keep humans as mute animals, building to one of the most famous twist endings in film.
+
+  - film: patton
+    signature: 4
+    must_see: true
+    gateway: 3
+    note: A biography of the brilliant, bombastic, and deeply controversial World War II general, opening with a monologue delivered directly to camera in front of a giant American flag.
+
+  - film: papillon
+    signature: 3
+    gateway: 3
+    note: A wrongly convicted man makes repeated escape attempts from a brutal French penal colony, forming an unlikely bond with a fellow inmate along the way.
+
+  - film: the-boys-from-brazil
+    signature: 3
+    gateway: 3
+    note: A Nazi hunter uncovers a plot by a fugitive Josef Mengele to clone Adolf Hitler and recreate the exact conditions of his childhood.
+
+curated:
+  curator: house
+  rationale: The two landmarks first, then the range around them.
+  order:
+    - planet-of-the-apes
+    - patton
+    - papillon
+    - the-boys-from-brazil

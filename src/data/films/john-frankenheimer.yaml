@@ -1,0 +1,22 @@
+# New films for John Frankenheimer. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Manchurian Candidate already exists in janet-leigh.yaml. Seven Days in May already exists
+# in kirk-douglas.yaml.
+
+- id: birdman-of-alcatraz
+  tmdb_id: 11330
+  title: Birdman of Alcatraz
+  year: 1962
+  runtime: 147
+  director: John Frankenheimer
+  tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 2, acclaim: 0.8 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-train
+  tmdb_id: 11405
+  title: The Train
+  year: 1964
+  runtime: 133
+  director: John Frankenheimer
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.8 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

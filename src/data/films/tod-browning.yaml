@@ -1,0 +1,35 @@
+# New films for Tod Browning. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Dracula already exists in bela-lugosi.yaml.
+
+- id: freaks
+  tmdb_id: 13091
+  title: Freaks
+  year: 1932
+  runtime: 64
+  director: Tod Browning
+  tags:
+    opacity: 1
+    stillness: 1
+    bleakness: 5 # a troupe of real sideshow performers turns on the able-bodied woman who schemes against one of their own
+    humor: 1
+    acclaim: 0.78
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-unknown
+  tmdb_id: 26965
+  title: The Unknown
+  year: 1927
+  runtime: 63
+  director: Tod Browning
+  tags: { opacity: 2, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: mark-of-the-vampire
+  tmdb_id: 26966
+  title: Mark of the Vampire
+  year: 1935
+  runtime: 61
+  director: Tod Browning
+  tags: { opacity: 3, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }

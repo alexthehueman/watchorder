@@ -1,0 +1,35 @@
+slug: tod-browning
+kind: director
+name: Tod Browning
+blurb: A former circus performer who brought genuine sideshow strangeness to Hollywood horror — real physical difference and real monstrousness treated as fascinating rather than simply grotesque.
+
+films:
+  - film: the-unknown
+    signature: 4
+    gateway: 2
+    note: An armless circus knife-thrower conceals a dark secret about his condition from the woman he loves, in one of Lon Chaney's most physically extreme performances.
+
+  - film: dracula
+    signature: 3
+    must_see: true
+    gateway: 3
+    note: A Transylvanian count travels to London and begins preying on the city's high society, in the film that defined how vampires would look on screen for decades.
+
+  - film: freaks
+    signature: 5
+    gateway: 1
+    note: A troupe of real sideshow performers turns on the able-bodied trapeze artist who schemes against one of their own, cast entirely with actual circus performers.
+
+  - film: mark-of-the-vampire
+    signature: 2
+    gateway: 3
+    note: A count's mysterious death is investigated amid rumors of vampires in the local village, revisiting Dracula's iconography with a genre-twisting reveal.
+
+curated:
+  curator: house
+  rationale: The most iconic film first, with his stranger, more challenging work bracketing it.
+  order:
+    - dracula
+    - mark-of-the-vampire
+    - the-unknown
+    - freaks
