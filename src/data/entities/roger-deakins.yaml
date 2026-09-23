@@ -4,10 +4,30 @@ name: Roger Deakins
 blurb: Deep-focus tableaux, near-invisible camera movement, and a refusal to let lighting call attention to itself — the reason "a Deakins shot" is a phrase people use who couldn't name another cinematographer.
 
 films:
+  - film: cruel-passion
+    signature: 1
+    gateway: 5
+    note: A De Sade adaptation shot in soft period gloss, his earliest surviving feature credit and barely recognizable as his work.
+
+  - film: another-time-another-place
+    signature: 1
+    gateway: 3
+    note: A remote wartime Scottish croft and its Italian POW laborers shot in bleak, wind-scoured natural light.
+
   - film: nineteen-eighty-four
     signature: 3
     gateway: 1
     note: A desaturated, silver-retained look that drains nearly all color from a totalitarian London — the closest cousin to bleach bypass he ever shot.
+
+  - film: the-innocent-1985
+    signature: 1
+    gateway: 4
+    note: A Yorkshire boy's epilepsy and his fracturing family are shot with plain, unsentimental Northern light.
+
+  - film: shadey
+    signature: 1
+    gateway: 4
+    note: A man who can project his own thoughts onto film via a camera is shot with a deadpan, matter-of-fact visual style that undersells the premise's own oddness.
 
   - film: defence-of-the-realm
     signature: 1
@@ -18,6 +38,21 @@ films:
     signature: 2
     gateway: 2
     note: Punk-era London and New York in grubby sodium-and-neon night, dread pulled out of ordinary practical light.
+
+  - film: white-mischief
+    signature: 2
+    gateway: 3
+    note: 1940s colonial Kenya's expatriate decadence shot in sun-drenched, almost postcard-glamorous light that makes the murder underneath it land harder.
+
+  - film: personal-services
+    signature: 1
+    gateway: 3
+    note: A suburban brothel run by a former waitress is shot with the same unglamorous, matter-of-fact light as any ordinary small business.
+
+  - film: the-kitchen-toto
+    signature: 2
+    gateway: 3
+    note: Colonial Kenya on the edge of the Mau Mau uprising, seen through a servant boy's eyes, shot with real landscape scale against intimate domestic tension.
 
   - film: pascalis-island
     signature: 1
@@ -33,6 +68,16 @@ films:
     signature: 1
     gateway: 3
     note: Laotian jungle and dusty airstrips in slick, aerial studio-adventure gloss.
+
+  - film: mountains-of-the-moon
+    signature: 2
+    gateway: 3
+    note: His first American feature, a Nile-source expedition shot with real African landscape scale and punishing physical detail.
+
+  - film: the-long-walk-home
+    signature: 2
+    gateway: 3
+    note: The 1955 Montgomery bus boycott seen from two households, one Black and one white, shot with plain period restraint that never sentimentalizes either side.
 
   - film: barton-fink
     signature: 2
@@ -104,6 +149,11 @@ films:
     gateway: 3
     note: Prison-cell gloom against sun-hazed New Jersey streets, boxing rings lit in hard white.
 
+  - film: anywhere-but-here
+    signature: 1
+    gateway: 4
+    note: A mother and daughter's cross-country move from Wisconsin to Beverly Hills, shot in warm, unfussy road-movie light.
+
   - film: o-brother-where-art-thou
     signature: 3
     gateway: 3
@@ -128,6 +178,11 @@ films:
     signature: 1
     gateway: 4
     note: Glossy, glowing Beverly Hills light, the polish deliberately slick to match the film's romantic con game.
+
+  - film: levity
+    signature: 2
+    gateway: 2
+    note: A man freshly released after decades in prison walks through a city shot in muted, penitent grey, atonement given nowhere bright to hide.
 
   - film: the-ladykillers-2004
     signature: 2
@@ -174,6 +229,11 @@ films:
     gateway: 3
     note: Postwar German interiors and a decades-spanning courtroom story shot with the same cool, unsentimental restraint on both sides of the timeline.
 
+  - film: wall-e
+    signature: 3
+    gateway: 3
+    note: A lone trash-compacting robot on an abandoned Earth is shot, as visual consultant, with the same patient, near-silent framing that defines his live-action work.
+
   - film: a-serious-man
     signature: 3
     gateway: 2
@@ -189,10 +249,20 @@ films:
     gateway: 3
     note: Corporate downsizing photographed in cold, glassy office light, stripped of any warmth the men's old careers used to give them.
 
+  - film: how-to-train-your-dragon
+    signature: 2
+    gateway: 3
+    note: A Viking teenager's friendship with an outcast dragon, given his own visual-consultant pass at how the world's light and scale should feel.
+
   - film: in-time
     signature: 1
     gateway: 4
     note: Sleek, teal-and-gold near-future Los Angeles in glossy sci-fi polish.
+
+  - film: rango
+    signature: 2
+    gateway: 3
+    note: A pet chameleon lost in the Mojave reinvents himself as a gunslinger, in a desert Western shot, as visual consultant, with real sun-bleached widescreen scale.
 
   - film: skyfall
     signature: 4
@@ -204,10 +274,25 @@ films:
     gateway: 2
     note: A grey, rain-soaked Pennsylvania that never once lets the light apologize for how bleak the story is — despair rendered as weather rather than metaphor.
 
+  - film: rise-of-the-guardians
+    signature: 1
+    gateway: 4
+    note: Childhood folk heroes team up against an encroaching darkness, given his visual-consultant eye for how light itself should read as threat or safety.
+
+  - film: the-croods
+    signature: 1
+    gateway: 4
+    note: A prehistoric family's cave is lit, as visual consultant, with real dread before the story turns into an adventure comedy.
+
   - film: unbroken
     signature: 2
     gateway: 3
     note: Open-ocean sun glare and prison-camp grey, endurance photographed in clear, unshowy light.
+
+  - film: how-to-train-your-dragon-2
+    signature: 2
+    gateway: 3
+    note: A returning visual-consultant pass on a darker, more grown-up sequel, the dragon-riding scale pushed further than the original allowed.
 
   - film: sicario
     signature: 4
@@ -229,6 +314,11 @@ films:
     signature: 2
     gateway: 2
     note: A grief-fractured timeline spanning a museum bombing and years of aftermath, shot with the same restrained naturalism on both sides of the tragedy.
+
+  - film: how-to-train-your-dragon-the-hidden-world
+    signature: 1
+    gateway: 4
+    note: A trilogy-closing visual-consultant pass, the "hidden world" itself rendered in the kind of saturated, otherworldly light his live-action work rarely allows itself.
 
   - film: "1917"
     signature: 5

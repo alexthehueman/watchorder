@@ -7,10 +7,13 @@
 # exists in morgan-freeman.yaml. 1917 already exists in scott.yaml. The Reader already exists in
 # winslet.yaml.
 #
-# Three genuinely missing credits added after a Wikipedia filmography cross-check (Cruel Passion,
-# Another Time Another Place, The Innocent, Shadey, Personal Services, The Kitchen Toto, White
-# Mischief, Mountains of the Moon, The Long Walk Home, Anywhere but Here and Levity are all real
-# but minor early credits, deliberately left out rather than padding the list).
+# Cross-checked in full against his own official filmography (rogerdeakins.com/filmography), not
+# just Wikipedia's summary, after Wikipedia's page turned out to omit his entire parallel career as
+# a visual consultant on DreamWorks/Pixar animation (WALL-E, the How to Train Your Dragon trilogy,
+# Rango, The Croods, Rise of the Guardians) plus most of his 1980s British features. How to Train
+# Your Dragon, The Croods and WALL-E already exist in dreamworks-animation.yaml/pixar.yaml. Left
+# out only the true shorts, documentaries and TV movies from his official list (Dinner with
+# Friends, Return to Waterloo, The House, and the 1977-1983 British documentary/short work).
 
 - id: in-the-valley-of-elah
   tmdb_id: 6973
@@ -38,6 +41,141 @@
   director: John Crowley
   tags: { opacity: 3, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.4 }
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 1 }
+
+- id: cruel-passion
+  tmdb_id: 39006
+  title: Cruel Passion
+  year: 1977
+  runtime: 89
+  director: Colin Gregg
+  tags: { opacity: 2, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.4 }
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 3 }
+
+- id: another-time-another-place
+  tmdb_id: 73069
+  title: Another Time, Another Place
+  year: 1983
+  runtime: 100
+  director: Michael Radford
+  tags: { opacity: 2, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: the-innocent-1985
+  tmdb_id: 388588
+  title: The Innocent
+  year: 1985
+  runtime: 97
+  director: John Mackenzie
+  tags: { opacity: 2, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
+
+- id: shadey
+  tmdb_id: 250096
+  title: Shadey
+  year: 1985
+  runtime: 90
+  director: Philip Saville
+  tags: { opacity: 2, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.4 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: white-mischief
+  tmdb_id: 60041
+  title: White Mischief
+  year: 1987
+  runtime: 107
+  director: Michael Radford
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 2 }
+
+- id: personal-services
+  tmdb_id: 44201
+  title: Personal Services
+  year: 1987
+  runtime: 105
+  director: Terry Jones
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.62 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+
+- id: the-kitchen-toto
+  tmdb_id: 276478
+  title: The Kitchen Toto
+  year: 1987
+  runtime: 95
+  director: Harry Hook
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.6 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+
+- id: mountains-of-the-moon
+  tmdb_id: 33796
+  title: Mountains of the Moon
+  year: 1990
+  runtime: 136
+  director: Bob Rafelson
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-long-walk-home
+  tmdb_id: 51763
+  title: The Long Walk Home
+  year: 1990
+  runtime: 97
+  director: Richard Pearce
+  tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: anywhere-but-here
+  tmdb_id: 21349
+  title: Anywhere but Here
+  year: 1999
+  runtime: 114
+  director: Wayne Wang
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.62 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: levity
+  tmdb_id: 21052
+  title: Levity
+  year: 2003
+  runtime: 100
+  director: Ed Solomon
+  tags: { opacity: 2, stillness: 4, bleakness: 5, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: rango
+  tmdb_id: 44896
+  title: Rango
+  year: 2011
+  runtime: 107
+  director: Gore Verbinski
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: rise-of-the-guardians
+  tmdb_id: 81188
+  title: Rise of the Guardians
+  year: 2012
+  runtime: 97
+  director: Peter Ramsey
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: how-to-train-your-dragon-2
+  tmdb_id: 82702
+  title: How to Train Your Dragon 2
+  year: 2014
+  runtime: 102
+  director: Dean DeBlois
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.82 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: how-to-train-your-dragon-the-hidden-world
+  tmdb_id: 166428
+  title: "How to Train Your Dragon: The Hidden World"
+  year: 2019
+  runtime: 104
+  director: Dean DeBlois
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.8 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
 
 - id: nineteen-eighty-four
   tmdb_id: 1249996
