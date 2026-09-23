@@ -1,0 +1,36 @@
+slug: asghar-farhadi
+kind: director
+name: Asghar Farhadi
+blurb: An Iranian director of tightly-plotted domestic dramas that function almost like mysteries, withholding a key fact from characters and audience alike until the accumulated small lies can't hold any longer.
+
+films:
+  - film: a-separation
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: A couple's divorce, filed so one can care for an ailing parent, spirals into a criminal case after their replacement caregiver is injured on the job.
+
+  - film: about-elly
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A group of old friends vacationing at the Caspian Sea realize their guest has vanished, and the search exposes how little any of them actually knew her.
+
+  - film: the-salesman
+    signature: 4
+    gateway: 2
+    note: A couple performing in a stage production of Death of a Salesman is upended when the wife is attacked in their new apartment, and the husband's need for retribution consumes him.
+
+  - film: the-past
+    signature: 3
+    gateway: 2
+    note: A man returns to Paris to finalize his divorce and finds his ex-wife's new household concealing a secret that implicates them both.
+
+curated:
+  curator: house
+  rationale: The two landmarks first, then the rest of the run around them.
+  order:
+    - a-separation
+    - about-elly
+    - the-salesman
+    - the-past

@@ -1,0 +1,45 @@
+slug: peter-finch
+kind: actor
+name: Peter Finch
+blurb: A restrained, wounded-gentleman screen presence for most of his career, capped by one of acting's most famous final swings the opposite direction — a posthumous, unhinged Oscar win for a man losing his mind on live television.
+
+films:
+  - film: network
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 1
+    note: A veteran news anchor's on-air breakdown, and the network's decision to exploit rather than remove him, becomes the highest-rated show on television.
+  - film: sunday-bloody-sunday
+    signature: 4
+    must_see: true
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A doctor and a divorcée unknowingly share the same younger lover, and the film follows all three without judging any of them for it.
+  - film: the-trials-of-oscar-wilde
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A dramatization of Wilde's own libel suit and subsequent prosecution, playing his composure eroding in real time under cross-examination.
+  - film: a-town-like-alice
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: warm
+    gateway: 2
+    note: A group of British women prisoners of war in occupied Malaya are marched between camps, and one forms a bond with an Australian POW risking his life to help them.
+
+curated:
+  curator: house
+  rationale: The landmark last performance first, then the quieter, earlier register.
+  order:
+    - network
+    - sunday-bloody-sunday
+    - a-town-like-alice
+    - the-trials-of-oscar-wilde

@@ -1,0 +1,42 @@
+slug: mira-nair
+kind: director
+name: Mira Nair
+blurb: A director who moves fluidly between Mumbai slums, Delhi wedding halls and the Indian diaspora abroad, always most interested in a family or community under the pressure of a single disruptive event.
+
+films:
+  - film: salaam-bombay
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: A boy abandoned in Bombay survives on the street among pickpockets, addicts and sex workers, in a film cast almost entirely with real street children.
+
+  - film: monsoon-wedding
+    signature: 4
+    must_see: true
+    gateway: 1
+    note: A sprawling Delhi wedding brings a family's tensions, secrets and cross-class romances to a boil over one chaotic week of preparations.
+
+  - film: mississippi-masala
+    signature: 3
+    gateway: 2
+    note: An Indian family expelled from Uganda resettles in the American South, where their daughter's romance with a Black carpet cleaner tests both communities' prejudices.
+
+  - film: the-namesake
+    signature: 3
+    gateway: 1
+    note: A Bengali-American son spends decades resisting, then slowly reckoning with, the name and heritage his immigrant parents gave him.
+
+  - film: queen-of-katwe
+    signature: 3
+    gateway: 1
+    note: A girl from a Kampala slum discovers a gift for chess that becomes her one path out of poverty, coached by a patient local mentor.
+
+curated:
+  curator: house
+  rationale: The two landmarks first, then the range of diaspora stories around them.
+  order:
+    - salaam-bombay
+    - monsoon-wedding
+    - mississippi-masala
+    - the-namesake
+    - queen-of-katwe

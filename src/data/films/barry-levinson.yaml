@@ -1,0 +1,18 @@
+# New films for Barry Levinson. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Rain Man already exists in hoffman.yaml. The Natural already exists in redford.yaml.
+# Good Morning, Vietnam already exists in robin-williams.yaml.
+
+- id: diner
+  tmdb_id: null
+  title: Diner
+  year: 1982
+  runtime: 110
+  director: Barry Levinson
+  tags:
+    opacity: 2 # a hangout movie with almost no plot pressure, structured entirely around conversation
+    stillness: 3
+    bleakness: 2
+    humor: 3
+    acclaim: 0.78
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

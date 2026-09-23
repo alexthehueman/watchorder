@@ -1,0 +1,40 @@
+# New films for Peter Finch. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Network already exists in faye-dunaway.yaml.
+
+- id: a-town-like-alice
+  tmdb_id: null
+  title: A Town Like Alice
+  year: 1956
+  runtime: 117
+  director: Jack Lee
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-trials-of-oscar-wilde
+  tmdb_id: null
+  title: The Trials of Oscar Wilde
+  year: 1960
+  runtime: 123
+  director: Ken Hughes
+  tags:
+    opacity: 1
+    stillness: 4 # courtroom-bound for most of its runtime, deliberately more static than his other roles
+    bleakness: 4
+    humor: 1
+    acclaim: 0.68
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: sunday-bloody-sunday
+  tmdb_id: null
+  title: Sunday Bloody Sunday
+  year: 1971
+  runtime: 110
+  director: John Schlesinger
+  tags:
+    opacity: 2 # withholds any resolution to the love triangle rather than letting either partner win
+    stillness: 3
+    bleakness: 3
+    humor: 1
+    acclaim: 0.78
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }

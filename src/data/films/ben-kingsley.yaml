@@ -1,0 +1,14 @@
+# New films for Ben Kingsley. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Schindler's List already exists in spielberg.yaml. Sexy Beast already exists in jonathan-glazer.yaml.
+# House of Sand and Fog already exists in roger-deakins.yaml. Shutter Island already exists in
+# von-sydow.yaml. Hugo already exists in moretz.yaml.
+
+- id: gandhi
+  tmdb_id: null
+  title: Gandhi
+  year: 1982
+  runtime: 191
+  director: Richard Attenborough
+  tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

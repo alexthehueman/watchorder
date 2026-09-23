@@ -1,0 +1,36 @@
+slug: barry-levinson
+kind: director
+name: Barry Levinson
+blurb: A Baltimore native whose best work keeps returning to that city's working-class diners and rowhouses, alongside a parallel career of glossy mainstream Hollywood prestige pictures.
+
+films:
+  - film: diner
+    signature: 5
+    must_see: true
+    gateway: 1
+    note: A group of Baltimore friends on the edge of adulthood spend one more winter hanging around their regular diner, unwilling to admit their lives are about to scatter.
+
+  - film: rain-man
+    signature: 4
+    must_see: true
+    gateway: 1
+    note: A fast-talking car dealer discovers he has an autistic savant older brother, and drives him cross-country while scheming to claim part of their father's estate.
+
+  - film: good-morning-vietnam
+    signature: 3
+    gateway: 1
+    note: A fast-talking armed forces radio DJ's improvised, subversive broadcasts collide with the military bureaucracy trying to control what soldiers hear.
+
+  - film: the-natural
+    signature: 3
+    gateway: 1
+    note: A middle-aged rookie with a mysterious past and a home-made silver bullet bat becomes an unlikely baseball phenomenon.
+
+curated:
+  curator: house
+  rationale: The Baltimore hangout landmark first, then the mainstream prestige work around it.
+  order:
+    - diner
+    - rain-man
+    - good-morning-vietnam
+    - the-natural

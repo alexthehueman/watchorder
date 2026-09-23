@@ -1,0 +1,35 @@
+# New films for Christopher Guest. Scales and anchors are in README.md ("The anchor rubric").
+#
+# This Is Spinal Tap already exists in rob-reiner.yaml.
+
+- id: waiting-for-guffman
+  tmdb_id: null
+  title: Waiting for Guffman
+  year: 1996
+  runtime: 84
+  director: Christopher Guest
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 4, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: best-in-show
+  tmdb_id: null
+  title: Best in Show
+  year: 2000
+  runtime: 90
+  director: Christopher Guest
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 5, acclaim: 0.80 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: a-mighty-wind
+  tmdb_id: null
+  title: A Mighty Wind
+  year: 2003
+  runtime: 91
+  director: Christopher Guest
+  tags:
+    opacity: 2 # plays its central love triangle straighter and less broadly than his other troupe films
+    stillness: 3 # more sentimental and less broadly satirical than his other mockumentaries
+    bleakness: 2
+    humor: 4
+    acclaim: 0.72
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

@@ -1,0 +1,18 @@
+# New films for Albert Finney. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Tom Jones already exists in tony-richardson.yaml. Erin Brockovich already exists in julia-roberts.yaml.
+# Murder on the Orient Express already exists in bergman-ingrid.yaml.
+
+- id: big-fish
+  tmdb_id: null
+  title: Big Fish
+  year: 2003
+  runtime: 125
+  director: Tim Burton
+  tags:
+    opacity: 2
+    stillness: 3 # a deliberately unhurried, storybook pace, more meditative than the framing scenes around it
+    bleakness: 2
+    humor: 3
+    acclaim: 0.80
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

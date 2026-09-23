@@ -1,0 +1,36 @@
+slug: christopher-guest
+kind: director
+name: Christopher Guest
+blurb: The inventor and standard-bearer of the modern mockumentary, working with the same rotating troupe of improvisers across a series of loosely scripted send-ups of amateur subculture.
+
+films:
+  - film: this-is-spinal-tap
+    signature: 5
+    must_see: true
+    gateway: 1
+    note: A fading British heavy metal band's disastrous American tour is documented with total deadpan sincerity, inventing the mockumentary form almost single-handedly.
+
+  - film: best-in-show
+    signature: 5
+    must_see: true
+    gateway: 1
+    note: A handful of wildly neurotic owners and their dogs converge on a prestigious competition, each one more unhinged than the last.
+
+  - film: waiting-for-guffman
+    signature: 4
+    gateway: 1
+    note: A small Missouri town's amateur theatrical troupe stakes everything on a visit from a New York producer who may never actually show up.
+
+  - film: a-mighty-wind
+    signature: 3
+    gateway: 1
+    note: Three washed-up folk acts reunite for a televised tribute concert to their late manager, more sincere and less broadly satirical than his other troupe films.
+
+curated:
+  curator: house
+  rationale: The two best-known mockumentaries first, then the rest of the troupe's run.
+  order:
+    - this-is-spinal-tap
+    - best-in-show
+    - waiting-for-guffman
+    - a-mighty-wind

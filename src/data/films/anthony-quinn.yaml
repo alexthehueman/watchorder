@@ -1,0 +1,13 @@
+# New films for Anthony Quinn. Scales and anchors are in README.md ("The anchor rubric").
+#
+# La Strada already exists in fellini.yaml. Lawrence of Arabia already exists in otoole.yaml.
+# Viva Zapata! already exists in brando.yaml.
+
+- id: zorba-the-greek
+  tmdb_id: null
+  title: Zorba the Greek
+  year: 1964
+  runtime: 142
+  director: Michael Cacoyannis
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 4, acclaim: 0.82 }
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 1 }

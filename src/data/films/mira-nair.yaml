@@ -1,0 +1,44 @@
+# New films for Mira Nair. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Queen of Katwe already exists in nyongo.yaml.
+
+- id: salaam-bombay
+  tmdb_id: null
+  title: Salaam Bombay!
+  year: 1988
+  runtime: 113
+  director: Mira Nair
+  tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.82 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+
+- id: mississippi-masala
+  tmdb_id: null
+  title: Mississippi Masala
+  year: 1991
+  runtime: 118
+  director: Mira Nair
+  tags:
+    opacity: 1
+    stillness: 3
+    bleakness: 3
+    humor: 2
+    acclaim: 0.75
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: monsoon-wedding
+  tmdb_id: null
+  title: Monsoon Wedding
+  year: 2001
+  runtime: 114
+  director: Mira Nair
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.80 }
+  content: { sexual_violence: true, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 1 }
+
+- id: the-namesake
+  tmdb_id: null
+  title: The Namesake
+  year: 2006
+  runtime: 122
+  director: Mira Nair
+  tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 2, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }

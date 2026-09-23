@@ -1,0 +1,45 @@
+slug: albert-finney
+kind: actor
+name: Albert Finney
+blurb: A working-class British star who broke through as the face of the kitchen-sink new wave, then spent decades moving fluidly between that register and pure studio entertainment.
+
+films:
+  - film: tom-jones
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: comic
+    gateway: 1
+    note: His breakout starring role, an orphaned foundling's picaresque, bed-hopping rise through 18th-century English society.
+  - film: murder-on-the-orient-express-1974
+    signature: 4
+    must_see: true
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: As Hercule Poirot, he interrogates a trainload of suspects, all with a motive, after a murder on a snowbound express.
+  - film: erin-brockovich
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: warm
+    gateway: 1
+    note: As the exasperated lawyer who reluctantly hires and comes to rely on Erin, he provides the film's steadiest counterweight to her.
+  - film: big-fish
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: warm
+    gateway: 1
+    note: A dying father's lifetime of tall tales is finally reckoned with by the son who never believed a word of them.
+
+curated:
+  curator: house
+  rationale: The breakout role first, then the range of register shifts across his later career.
+  order:
+    - tom-jones
+    - murder-on-the-orient-express-1974
+    - big-fish
+    - erin-brockovich
