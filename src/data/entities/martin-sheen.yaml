@@ -1,0 +1,45 @@
+slug: martin-sheen
+kind: actor
+name: Martin Sheen
+blurb: A performer whose defining early roles are studies of men coming unmoored — a spree killer, a soldier dissolving into the jungle he's sent to navigate — later balanced by decades of steadier authority figures.
+
+films:
+  - film: apocalypse-now
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 3
+    note: A U.S. Army captain sent upriver to assassinate a rogue colonel comes unraveled by the mission long before he ever reaches him.
+  - film: badlands
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: menacing
+    gateway: 3
+    note: A charismatic young drifter and his teenage girlfriend go on a detached, almost affectless killing spree across the Midwest.
+  - film: wall-street
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: warm
+    gateway: 1
+    note: As the working-class father of an ambitious young trader, he provides the film's moral counterweight to Gordon Gekko's world.
+  - film: the-departed
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: restrained
+    gateway: 2
+    note: As the police captain running the undercover mole inside the Irish mob, he holds together one half of the film's dueling deceptions.
+
+curated:
+  curator: house
+  rationale: The two landmark unraveling roles first, then the steadier authority figures around them.
+  order:
+    - apocalypse-now
+    - badlands
+    - the-departed
+    - wall-street

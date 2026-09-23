@@ -1,0 +1,18 @@
+# New films for Heath Ledger. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Dark Knight already exists in bale.yaml. Brokeback Mountain already exists in hathaway.yaml.
+# A Knight's Tale already exists in paul-bettany.yaml.
+
+- id: 10-things-i-hate-about-you
+  tmdb_id: null
+  title: 10 Things I Hate About You
+  year: 1999
+  runtime: 97
+  director: Gil Junger
+  tags:
+    opacity: 2 # his character's actual motive for pursuing her is withheld from the audience for most of the runtime
+    stillness: 1
+    bleakness: 1
+    humor: 4
+    acclaim: 0.72
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }

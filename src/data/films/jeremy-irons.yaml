@@ -1,0 +1,27 @@
+# New films for Jeremy Irons. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Dead Ringers already exists in cronenberg.yaml. Die Hard with a Vengeance already exists in
+# john-mctiernan.yaml.
+
+- id: the-mission
+  tmdb_id: null
+  title: The Mission
+  year: 1986
+  runtime: 125
+  director: Roland Joffé
+  tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
+
+- id: reversal-of-fortune
+  tmdb_id: null
+  title: Reversal of Fortune
+  year: 1990
+  runtime: 111
+  director: Barbet Schroeder
+  tags:
+    opacity: 4 # the film never actually resolves whether he did it
+    stillness: 3
+    bleakness: 3
+    humor: 2
+    acclaim: 0.75
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
