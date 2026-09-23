@@ -1,0 +1,45 @@
+slug: laurence-olivier
+kind: actor
+name: Laurence Olivier
+blurb: The defining stage-to-screen classical actor of his generation, equally commanding as a brooding romantic lead, a self-directed Shakespearean tragedy, and, decades later, a genuinely frightening screen villain.
+
+films:
+  - film: rebecca
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A wealthy widower's new bride is haunted by the looming presence of his first wife, whose memory dominates the house long before any twist explains why.
+  - film: hamlet-1948
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: His own self-directed, Oscar-winning Hamlet, playing the prince's paralyzing uncertainty as the visual and emotional center of every scene.
+  - film: wuthering-heights-1939
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: warm
+    gateway: 2
+    note: A stable boy's obsessive, doomed love for the woman above his station consumes both their lives across the Yorkshire moors.
+  - film: marathon-man
+    signature: 3
+    showcase: 4
+    role_size: supporting
+    register: menacing
+    gateway: 3
+    note: A former Nazi war criminal hunting hidden diamonds tortures a graduate student he wrongly believes knows where they're hidden.
+
+curated:
+  curator: house
+  rationale: The two landmark classical roles first, then the range across the rest of his career.
+  order:
+    - rebecca
+    - hamlet-1948
+    - wuthering-heights-1939
+    - marathon-man

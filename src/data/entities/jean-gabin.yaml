@@ -1,0 +1,37 @@
+slug: jean-gabin
+kind: actor
+name: Jean Gabin
+blurb: The defining face of French poetic realism, playing a run of doomed, world-weary working-class men whose fates are sealed almost from their first scene.
+
+films:
+  - film: la-grande-illusion
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A working-class French prisoner of war finds class solidarity crosses the trenches more easily than nationality ever could, as an escape attempt takes shape.
+  - film: pepe-le-moko
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: menacing
+    gateway: 2
+    note: A charismatic gangster hides safely in the Casbah's winding alleys, until a woman gives him a reason to risk the streets outside.
+  - film: le-quai-des-brumes
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: warm
+    gateway: 2
+    note: An army deserter drifting through a fog-bound French port falls for a young woman entangled with a local criminal, in a romance the film marks as doomed from the start.
+
+curated:
+  curator: house
+  rationale: The two landmark roles first, then the rest of the poetic-realism run.
+  order:
+    - la-grande-illusion
+    - pepe-le-moko
+    - le-quai-des-brumes

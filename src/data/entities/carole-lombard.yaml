@@ -1,0 +1,37 @@
+slug: carole-lombard
+kind: actor
+name: Carole Lombard
+blurb: Screwball comedy's most electric star, gone at 33 in a wartime plane crash — her run in the late 1930s and early 40s stands as some of the genre's fastest, sharpest work.
+
+films:
+  - film: my-man-godfrey
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: warm
+    gateway: 1
+    note: A spoiled socialite hires a homeless man she found on a scavenger hunt as her family's butler, never suspecting how much he actually knows about people like her.
+  - film: twentieth-century
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: comic
+    gateway: 1
+    note: A washed-up Broadway producer chases his former star and discovery across a train, both of them screaming past each other the entire ride.
+  - film: to-be-or-not-to-be
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: menacing
+    gateway: 2
+    note: A Polish theater troupe uses their acting and impersonation skills to outwit the occupying Gestapo, playing Nazi-occupied Warsaw as biting farce.
+
+curated:
+  curator: house
+  rationale: The two fastest screwball landmarks first, then the later, higher-stakes farce.
+  order:
+    - my-man-godfrey
+    - twentieth-century
+    - to-be-or-not-to-be

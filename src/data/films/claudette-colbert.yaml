@@ -1,0 +1,13 @@
+# New films for Claudette Colbert. Scales and anchors are in README.md ("The anchor rubric").
+#
+# It Happened One Night already exists in frank-capra.yaml. Cleopatra already exists in
+# cecil-b-demille.yaml. The Palm Beach Story already exists in preston-sturges.yaml.
+
+- id: midnight-1939
+  tmdb_id: null
+  title: Midnight
+  year: 1939
+  runtime: 94
+  director: Mitchell Leisen
+  tags: { opacity: 2, stillness: 2, bleakness: 1, humor: 4, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

@@ -1,0 +1,13 @@
+# New films for Greta Garbo. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Ninotchka and Grand Hotel already exist in mgm.yaml. Queen Christina already exists in
+# rouben-mamoulian.yaml.
+
+- id: camille-1936
+  tmdb_id: null
+  title: Camille
+  year: 1936
+  runtime: 108
+  director: George Cukor
+  tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }

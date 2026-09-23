@@ -1,0 +1,31 @@
+# New films for Brigitte Bardot. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Contempt already exists in godard.yaml. Viva Maria! already exists in moreau.yaml.
+
+- id: la-verite
+  tmdb_id: null
+  title: La Vérité
+  year: 1960
+  runtime: 128
+  director: Henri-Georges Clouzot
+  tags:
+    opacity: 3 # a murder trial reassembling her story in flashback, each version subtly recasting the last
+    stillness: 3
+    bleakness: 5
+    humor: 1
+    acclaim: 0.75
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 1 }
+
+- id: and-god-created-woman
+  tmdb_id: null
+  title: And God Created Woman
+  year: 1956
+  runtime: 95
+  director: Roger Vadim
+  tags:
+    opacity: 2 # the town's judgment of her keeps shifting the film's own read on whether she's dangerous or just free
+    stillness: 2
+    bleakness: 2
+    humor: 2
+    acclaim: 0.68
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }

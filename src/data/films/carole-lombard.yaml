@@ -1,0 +1,13 @@
+# New films for Carole Lombard. Scales and anchors are in README.md ("The anchor rubric").
+#
+# To Be or Not to Be already exists in ernst-lubitsch.yaml. Twentieth Century already exists in
+# hawks.yaml.
+
+- id: my-man-godfrey
+  tmdb_id: null
+  title: My Man Godfrey
+  year: 1936
+  runtime: 94
+  director: Gregory La Cava
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 5, acclaim: 0.82 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

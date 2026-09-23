@@ -1,0 +1,45 @@
+slug: brigitte-bardot
+kind: actor
+name: Brigitte Bardot
+blurb: The defining French sex symbol of her era, whose screen persona ran from unselfconscious ingenue to a much more knowing, weaponized version of the same image a decade later.
+
+films:
+  - film: and-god-created-woman
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: warm
+    gateway: 1
+    note: A free-spirited orphan's presence upends the men and the moral order of a small fishing town on the French Riviera.
+  - film: contempt
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A screenwriter's marriage disintegrates in real time over the course of one long apartment scene, while he works on an adaptation of The Odyssey.
+  - film: viva-maria
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: comic
+    gateway: 1
+    note: Two cabaret performers turned Central American revolutionaries stumble into leading an uprising almost by accident.
+  - film: la-verite
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A murder trial reconstructs her account of a fatal love triangle in flashback, each version subtly recasting the one before it.
+
+curated:
+  curator: house
+  rationale: The two landmark performances first, then the later dramatic and comic register.
+  order:
+    - and-god-created-woman
+    - contempt
+    - la-verite
+    - viva-maria

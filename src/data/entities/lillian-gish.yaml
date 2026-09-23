@@ -1,0 +1,45 @@
+slug: lillian-gish
+kind: actor
+name: Lillian Gish
+blurb: The defining silent-film actress of D.W. Griffith's most ambitious work, later returning decades on for one of the most unexpected, quietly formidable late-career performances in American film.
+
+films:
+  - film: broken-blossoms
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A brutalized young woman finds fragile, doomed shelter with a gentle Chinese immigrant in London's Limehouse district.
+  - film: intolerance
+    signature: 4
+    must_see: true
+    showcase: 4
+    role_size: supporting
+    register: restrained
+    gateway: 4
+    note: As "the eternal mother" rocking a cradle, she is the connecting image across the film's four interwoven stories of injustice spanning millennia.
+  - film: the-night-of-the-hunter
+    signature: 5
+    showcase: 5
+    role_size: supporting
+    register: warm
+    gateway: 3
+    note: Decades after her silent-era peak, she returns as the shotgun-wielding protector who finally stands between two orphaned children and a murderous preacher.
+  - film: way-down-east
+    signature: 4
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A country girl deceived into a sham marriage is cast out in disgrace, in one of her most physically punishing silent-era roles, including a climactic rescue from an ice floe.
+
+curated:
+  curator: house
+  rationale: The two landmark silent roles first, then the earlier melodrama and the late-career return.
+  order:
+    - broken-blossoms
+    - way-down-east
+    - the-night-of-the-hunter
+    - intolerance
