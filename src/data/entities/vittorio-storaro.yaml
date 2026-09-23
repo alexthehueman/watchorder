@@ -1,0 +1,69 @@
+slug: vittorio-storaro
+kind: cinematographer
+name: Vittorio Storaro
+blurb: A three-time Oscar winner who treats light and color as narrative structure in their own right, developing a personal theory of color psychology he applied across decades of collaboration with Bertolucci and Coppola.
+
+films:
+  - film: the-conformist
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: Fascist Italy shot in cold, geometric shadow and harsh angled light, the visual scheme itself an argument about conformity and repression.
+
+  - film: apocalypse-now
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: Napalm-orange jungle skies and strobing helicopter light — his first Oscar, and still the reference point for war photographed as hallucination.
+
+  - film: last-tango-in-paris
+    signature: 4
+    gateway: 2
+    note: An empty Paris apartment shot in amber, wintry light that makes the affair feel sealed off from the rest of the city.
+
+  - film: nineteen-hundred
+    signature: 3
+    gateway: 2
+    note: A sprawling Emilian countryside epic shot across the four seasons, the changing light tracking half a century of Italian political history.
+
+  - film: reds
+    signature: 3
+    gateway: 3
+    note: A revolutionary romance shot with real elderly witnesses interrupting the drama, the visual register shifting between epic and documentary.
+
+  - film: one-from-the-heart
+    signature: 3
+    gateway: 3
+    note: An entirely soundstage-built Las Vegas rendered in intentionally artificial, candy-colored neon, love photographed as pure theatrical artifice.
+
+  - film: the-last-emperor
+    signature: 5
+    gateway: 2
+    note: The Forbidden City's saturated imperial reds and golds give way to grey Communist-era light as China itself changes around him — his third Oscar.
+
+  - film: dick-tracy
+    signature: 2
+    gateway: 3
+    note: A comic strip rendered literally, in only seven flat primary colors, the palette itself the whole visual joke.
+
+  - film: the-sheltering-sky
+    signature: 3
+    gateway: 2
+    note: The Sahara's punishing white glare swallows a fraying American marriage, the desert light itself becoming the story's real antagonist.
+
+  - film: cafe-society
+    signature: 2
+    gateway: 3
+    note: 1930s Hollywood and New York shot in his first digital project, warm nostalgic tones applied to Woody Allen's own late-period register.
+
+curated:
+  curator: house
+  rationale: The three Oscar-winning landmarks first, then the range of his color theory around them.
+  order:
+    - the-conformist
+    - apocalypse-now
+    - the-last-emperor
+    - last-tango-in-paris
+    - reds
+    - one-from-the-heart
+    - dick-tracy

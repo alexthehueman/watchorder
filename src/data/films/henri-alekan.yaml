@@ -1,0 +1,27 @@
+# New films for Henri Alekan. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Wings of Desire already exists in peter-falk.yaml. Roman Holiday already exists in
+# hepburn-audrey.yaml.
+
+- id: la-belle-et-la-bete
+  tmdb_id: 648
+  title: Beauty and the Beast
+  year: 1946
+  runtime: 96
+  director: Jean Cocteau
+  tags: { opacity: 2, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.88 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-state-of-things
+  tmdb_id: 30363
+  title: The State of Things
+  year: 1982
+  runtime: 121
+  director: Wim Wenders
+  tags:
+    opacity: 3 # a film crew stranded without a script, waiting for a producer who may not be coming
+    stillness: 4
+    bleakness: 2
+    humor: 1
+    acclaim: 0.72
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }

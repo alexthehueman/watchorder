@@ -1,0 +1,19 @@
+# New films for Kazuo Miyagawa. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Rashomon and Yojimbo already exist in mifune.yaml. Kagemusha already exists in kurosawa.yaml.
+# Ugetsu, Sansho the Bailiff and Street of Shame already exist in mizoguchi.yaml. Floating Weeds
+# already exists in ozu.yaml.
+
+- id: odd-obsession
+  tmdb_id: 43095
+  title: Odd Obsession
+  year: 1959
+  runtime: 96
+  director: Kon Ichikawa
+  tags:
+    opacity: 3 # each family member's diary entries contradict the others, and the film never settles which to trust
+    stillness: 3
+    bleakness: 3
+    humor: 2
+    acclaim: 0.75
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }

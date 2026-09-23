@@ -1,0 +1,42 @@
+slug: james-wong-howe
+kind: cinematographer
+name: James Wong Howe
+blurb: A two-time Oscar winner working across five decades of Hollywood, credited with pioneering deep-focus and handheld techniques that later became industry standard — reportedly the first to strap a camera to roller skates to shoot a boxing match from inside the ring.
+
+films:
+  - film: body-and-soul
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: A boxing picture shot with the camera itself skating around the ring, putting the audience inside the fight rather than watching it from ringside.
+
+  - film: sweet-smell-of-success
+    signature: 4
+    must_see: true
+    gateway: 3
+    note: A predatory Broadway gossip columnist's Manhattan is shot in hard, glossy nighttime contrast, the city's glamour curdled into something closer to menace.
+
+  - film: hud
+    signature: 4
+    gateway: 2
+    note: A flat, sun-bleached Texas ranch shot in stark black and white, a charming cattleman photographed with the same unflinching clarity as the drought around him.
+
+  - film: the-rose-tattoo
+    signature: 3
+    gateway: 2
+    note: A Sicilian-American widow's Gulf Coast home shot with real Mediterranean warmth and heat, grief given somewhere physical to live.
+
+  - film: seconds
+    signature: 4
+    gateway: 3
+    note: A paranoid fisheye-lensed unease follows a man given a new face and identity, the camera itself never letting the transformation feel like relief.
+
+curated:
+  curator: house
+  rationale: The two landmark achievements first, then the range around them.
+  order:
+    - body-and-soul
+    - sweet-smell-of-success
+    - hud
+    - seconds
+    - the-rose-tattoo

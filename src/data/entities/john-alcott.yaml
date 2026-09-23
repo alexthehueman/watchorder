@@ -1,0 +1,41 @@
+slug: john-alcott
+kind: cinematographer
+name: John Alcott
+blurb: Kubrick's cinematographer for four consecutive films, most famous for lighting Barry Lyndon almost entirely by candlelight with specially adapted NASA lenses rather than faking the effect electrically.
+
+films:
+  - film: barry-lyndon
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: An 18th-century interior lit only by real candlelight, using specially adapted ultra-fast lenses rather than faking the effect — his Oscar-winning signature achievement.
+
+  - film: 2001-a-space-odyssey
+    signature: 4
+    gateway: 3
+    note: Promoted mid-production to lighting cameraman on a film whose slit-scan star-gate sequence still has no clean modern equivalent.
+
+  - film: a-clockwork-orange
+    signature: 3
+    gateway: 2
+    note: A near-future Britain shot in cold, clinical light that never lets ultraviolence feel stylish rather than simply ugly.
+
+  - film: the-shining
+    signature: 4
+    gateway: 2
+    note: A hotel's impossible geography photographed with early Steadicam work that lets the camera glide through corridors no crane or dolly could follow.
+
+  - film: greystoke-the-legend-of-tarzan-lord-of-the-apes
+    signature: 2
+    gateway: 3
+    note: A Scottish estate and a Central African jungle shot with the same painterly naturalism, the two worlds visually equal rather than one exoticized against the other.
+
+curated:
+  curator: house
+  rationale: The landmark candlelit achievement first, then the rest of the Kubrick run and beyond.
+  order:
+    - barry-lyndon
+    - 2001-a-space-odyssey
+    - the-shining
+    - a-clockwork-orange
+    - greystoke-the-legend-of-tarzan-lord-of-the-apes

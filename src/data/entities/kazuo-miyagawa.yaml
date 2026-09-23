@@ -1,0 +1,60 @@
+slug: kazuo-miyagawa
+kind: cinematographer
+name: Kazuo Miyagawa
+blurb: The most influential cinematographer of postwar Japanese cinema, moving fluidly between Kurosawa, Mizoguchi, Ozu and Ichikawa without ever losing a distinct visual signature of his own.
+
+films:
+  - film: rashomon
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: A murder recounted four irreconcilable ways, the camera famously pointed directly into the sun through forest canopy — the shot that changed how sunlight could be used on film.
+
+  - film: ugetsu
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: A ghost story shot so the dead and the living are never visually distinguished from each other, the camera drifting between worlds in unbroken takes.
+
+  - film: sansho-the-bailiff
+    signature: 4
+    gateway: 3
+    note: A family sold into slavery, photographed with a stately, unhurried camera that makes the eventual reunion feel earned rather than sentimental.
+
+  - film: yojimbo
+    signature: 3
+    gateway: 1
+    note: A wandering ronin plays two rival gangs against each other in a dusty, wide-framed town square built almost like a stage set.
+
+  - film: street-of-shame
+    signature: 3
+    gateway: 2
+    note: A contemporary Tokyo brothel shot with a sharper, more sardonic visual edge than the period films, made as the Diet debated banning the profession itself.
+
+  - film: floating-weeds
+    signature: 3
+    gateway: 2
+    note: A traveling kabuki troupe's old affair and unacknowledged son surface slowly, in Ozu's own low-angle compositions rendered in his richest color work.
+
+  - film: odd-obsession
+    signature: 4
+    gateway: 3
+    note: A family's private diaries contradict each other's account of the same obsession, the camera never siding with any one version of events.
+
+  - film: kagemusha
+    signature: 3
+    gateway: 3
+    note: A thief impersonating a dead warlord leads armies across vast, painterly battlefield tableaux, color used almost like period screen painting.
+
+curated:
+  curator: house
+  rationale: The two landmark achievements first, then the range across his major directors.
+  order:
+    - rashomon
+    - ugetsu
+    - sansho-the-bailiff
+    - odd-obsession
+    - street-of-shame
+    - floating-weeds
+    - yojimbo
+    - kagemusha

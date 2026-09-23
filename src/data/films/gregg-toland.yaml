@@ -1,0 +1,16 @@
+# New films for Gregg Toland. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Wuthering Heights already exists in laurence-olivier.yaml. Citizen Kane already exists in
+# welles.yaml. The Best Years of Our Lives already exists in myrna-loy.yaml. The Grapes of Wrath
+# and The Long Voyage Home already exist in ford.yaml. The Westerner already exists in
+# walter-brennan.yaml. Ball of Fire already exists in hawks.yaml. The Little Foxes already exists
+# in davis.yaml.
+
+- id: dead-end
+  tmdb_id: 27973
+  title: Dead End
+  year: 1937
+  runtime: 93
+  director: William Wyler
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 2, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }

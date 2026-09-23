@@ -1,0 +1,32 @@
+# New films for James Wong Howe. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Rose Tattoo already exists in magnani.yaml. Hud already exists in newman.yaml. Sweet Smell
+# of Success already exists in burt-lancaster.yaml.
+
+- id: body-and-soul
+  tmdb_id: 17487
+  title: Body and Soul
+  year: 1947
+  runtime: 104
+  director: Robert Rossen
+  tags:
+    opacity: 1
+    stillness: 1 # handheld boxing-ring photography that puts the camera inside the fight itself
+    bleakness: 4
+    humor: 1
+    acclaim: 0.80
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: seconds
+  tmdb_id: 20620
+  title: Seconds
+  year: 1966
+  runtime: 106
+  director: John Frankenheimer
+  tags:
+    opacity: 3 # a paranoid, fisheye-lensed unease that never lets the new identity feel earned
+    stillness: 2
+    bleakness: 5
+    humor: 1
+    acclaim: 0.78
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }

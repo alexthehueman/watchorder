@@ -1,0 +1,13 @@
+# New films for John Alcott. Scales and anchors are in README.md ("The anchor rubric").
+#
+# 2001: A Space Odyssey, A Clockwork Orange and Barry Lyndon already exist in kubrick.yaml.
+# The Shining already exists in nicholson.yaml.
+
+- id: greystoke-the-legend-of-tarzan-lord-of-the-apes
+  tmdb_id: 11002
+  title: "Greystoke: The Legend of Tarzan, Lord of the Apes"
+  year: 1984
+  runtime: 143
+  director: Hugh Hudson
+  tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: true, child_harm: true, suicide: false, violence: 2, sex: 0 }

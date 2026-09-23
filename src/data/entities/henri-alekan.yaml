@@ -1,0 +1,36 @@
+slug: henri-alekan
+kind: cinematographer
+name: Henri Alekan
+blurb: A French cinematographer whose career spans from postwar poetic fantasy to a late-career second act shooting black-and-white angel's-eye Berlin four decades later, for a director who grew up on his earlier work.
+
+films:
+  - film: la-belle-et-la-bete
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: A fairy tale shot with real theatrical trickery rather than optical effects — disembodied arms holding candelabras, living statues, built entirely in-camera.
+
+  - film: wings-of-desire
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: Black-and-white Berlin as seen by angels who can hear every human thought, shifting to color the moment one of them chooses to become mortal.
+
+  - film: roman-holiday
+    signature: 3
+    gateway: 1
+    note: A runaway princess's day in Rome is shot with real Italian locations and unforced natural light, glamour grounded in an actual city rather than a soundstage.
+
+  - film: the-state-of-things
+    signature: 3
+    gateway: 3
+    note: A film crew stranded without funding, script or a missing producer, shot in stark black and white that turns their own limbo into the movie.
+
+curated:
+  curator: house
+  rationale: The two landmark achievements first, then the range on either side of them.
+  order:
+    - la-belle-et-la-bete
+    - wings-of-desire
+    - roman-holiday
+    - the-state-of-things

@@ -1,0 +1,33 @@
+# New films for Vittorio Storaro. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Apocalypse Now already exists in brando.yaml. Reds already exists in keaton-diane.yaml. The Last
+# Emperor already exists in otoole.yaml. The Conformist and 1900 already exist in
+# bernardo-bertolucci.yaml. Last Tango in Paris already exists in brando.yaml. One from the Heart
+# already exists in coppola.yaml.
+
+- id: dick-tracy
+  tmdb_id: 8592
+  title: Dick Tracy
+  year: 1990
+  runtime: 105
+  director: Warren Beatty
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.62 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-sheltering-sky
+  tmdb_id: 24016
+  title: The Sheltering Sky
+  year: 1990
+  runtime: 138
+  director: Bernardo Bertolucci
+  tags: { opacity: 2, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: cafe-society
+  tmdb_id: 339397
+  title: Café Society
+  year: 2016
+  runtime: 96
+  director: Woody Allen
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }

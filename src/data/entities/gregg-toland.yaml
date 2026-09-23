@@ -1,0 +1,66 @@
+slug: gregg-toland
+kind: cinematographer
+name: Gregg Toland
+blurb: The cinematographer who pioneered deep-focus photography as a storytelling tool rather than a technical flex, keeping foreground and background equally sharp so a single shot could hold an entire scene's worth of meaning at once.
+
+films:
+  - film: citizen-kane
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: Ceilings visible in frame, deep focus holding a dying man's glass sphere and the nurse behind him equally sharp — the film most cited for reinventing what a shot could do.
+
+  - film: the-grapes-of-wrath
+    signature: 4
+    must_see: true
+    gateway: 2
+    note: A dispossessed family's journey west shot in stark, near-documentary black and white, the landscape itself carrying the weight of the Depression.
+
+  - film: wuthering-heights-1939
+    signature: 3
+    gateway: 2
+    note: The Yorkshire moors shot with genuine atmospheric dread, fog and wind made visible as the emotional register of a doomed romance.
+
+  - film: the-little-foxes
+    signature: 4
+    gateway: 2
+    note: A staircase death shot in a single deep-focus take that keeps the woman who lets it happen in frame the entire time, refusing to look away from her.
+
+  - film: the-long-voyage-home
+    signature: 3
+    gateway: 3
+    note: Four one-act plays welded into one film, shot in heavy expressionist shadow that carries mood where the fragmented plot does not.
+
+  - film: the-westerner
+    signature: 2
+    gateway: 2
+    note: A self-appointed hanging judge's courtroom and a frontier town shot with the same deep, unhurried clarity that defines the rest of his work.
+
+  - film: ball-of-fire
+    signature: 2
+    gateway: 1
+    note: A screwball comedy about professors and a nightclub singer, shot with unusual visual polish for the genre.
+
+  - film: the-best-years-of-our-lives
+    signature: 4
+    gateway: 2
+    note: Three veterans readjusting to postwar civilian life, shot in deep focus that keeps every family member's reaction visible in the same frame at once.
+
+  - film: dead-end
+    signature: 2
+    gateway: 2
+    note: A New York slum built as a single elaborate soundstage set, shot to make the wealth and poverty on either side of one street equally visible in frame.
+
+curated:
+  curator: house
+  rationale: The two landmark deep-focus achievements first, then the range around them.
+  order:
+    - citizen-kane
+    - the-grapes-of-wrath
+    - the-little-foxes
+    - the-best-years-of-our-lives
+    - wuthering-heights-1939
+    - the-long-voyage-home
+    - dead-end
+    - the-westerner
+    - ball-of-fire
