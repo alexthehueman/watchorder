@@ -1,0 +1,36 @@
+slug: alexander-mackendrick
+kind: director
+name: Alexander Mackendrick
+blurb: An Ealing Studios craftsman of quietly vicious comedy, who took that same nerve for exposing self-interest to Hollywood for one much darker, entirely unfunny masterpiece.
+
+films:
+  - film: whisky-galore
+    signature: 3
+    gateway: 1
+    note: A Scottish island community conspires to salvage and hide a wrecked ship's cargo of whisky from the wartime rationing officer sent to confiscate it.
+
+  - film: the-man-in-the-white-suit
+    signature: 4
+    must_see: true
+    gateway: 1
+    note: A chemist invents an indestructible, self-cleaning fabric, and both factory owners and union workers unite in a panic to suppress it.
+
+  - film: the-ladykillers
+    signature: 4
+    must_see: true
+    gateway: 1
+    note: A gang of thieves posing as a string quintet rent a room from an elderly widow, then start turning on each other over how to deal with her.
+
+  - film: sweet-smell-of-success
+    signature: 4
+    gateway: 3
+    note: A desperate press agent grovels his way through a predatory New York gossip columnist's orbit to get his clients' names in print.
+
+curated:
+  curator: house
+  rationale: The Ealing comedies first, then the tonal swing into the film's bleakest, least funny work.
+  order:
+    - whisky-galore
+    - the-man-in-the-white-suit
+    - the-ladykillers
+    - sweet-smell-of-success

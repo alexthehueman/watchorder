@@ -1,0 +1,36 @@
+slug: tony-richardson
+kind: director
+name: Tony Richardson
+blurb: A key figure of the British New Wave's kitchen-sink realism before swinging into looser, more theatrical period comedy — restless enough to move between the two registers within the same decade.
+
+films:
+  - film: a-taste-of-honey
+    signature: 4
+    must_see: true
+    gateway: 3
+    note: A working-class teenager navigates an unplanned pregnancy and an interracial relationship in industrial Manchester, with unusual tenderness for its period.
+
+  - film: the-loneliness-of-the-long-distance-runner
+    signature: 4
+    must_see: true
+    gateway: 3
+    note: A borstal boy's talent for distance running becomes his one form of quiet, unspoken rebellion against the institution trying to reform him.
+
+  - film: tom-jones
+    signature: 3
+    gateway: 2
+    note: An orphaned foundling's picaresque, bed-hopping rise through 18th-century English society, told with constant direct address and comic mischief.
+
+  - film: blue-sky
+    signature: 2
+    gateway: 3
+    note: An Army wife's manic instability and her husband's cover-up of a nuclear testing accident collide on a 1960s military base.
+
+curated:
+  curator: house
+  rationale: The kitchen-sink landmarks first, then the later, looser register shift.
+  order:
+    - a-taste-of-honey
+    - the-loneliness-of-the-long-distance-runner
+    - tom-jones
+    - blue-sky

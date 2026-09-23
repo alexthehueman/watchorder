@@ -1,0 +1,35 @@
+slug: richard-lester
+kind: director
+name: Richard Lester
+blurb: An American expat who brought anarchic, jump-cut pop energy to British cinema — the Beatles films still shape how music on screen gets edited — before drifting into more conventional studio swashbuckling.
+
+films:
+  - film: a-hard-days-night
+    signature: 5
+    must_see: true
+    gateway: 1
+    note: A fictionalized day in the Beatles' touring life, shot with a handheld, jump-cut giddiness that invented the language of the modern music film.
+
+  - film: help
+    signature: 4
+    gateway: 1
+    note: A cult trying to reclaim a sacrificial ring stuck on Ringo's finger chases the Beatles across increasingly absurd exotic locations.
+
+  - film: the-three-musketeers-1973
+    signature: 3
+    gateway: 2
+    note: D'Artagnan's swordplay is played for scrappy, painful slapstick rather than grace, a deliberate rebuttal of the genre's usual polish.
+
+  - film: superman-ii
+    signature: 2
+    gateway: 2
+    note: Superman renounces his powers for Lois Lane just as three escaped Kryptonian criminals arrive to conquer Earth.
+
+curated:
+  curator: house
+  rationale: The Beatles films first, then the later studio work.
+  order:
+    - a-hard-days-night
+    - help
+    - the-three-musketeers-1973
+    - superman-ii

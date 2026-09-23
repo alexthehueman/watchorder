@@ -1,0 +1,42 @@
+slug: gus-van-sant
+kind: director
+name: Gus Van Sant
+blurb: A director who moves freely between earnest mainstream drama and austere formal experiments, sometimes both within the same year — a shot-for-shot Psycho remake sits in his filmography beside two Palme d'Or-nominated slow-cinema studies of teenage death.
+
+films:
+  - film: my-own-private-idaho
+    signature: 4
+    must_see: true
+    gateway: 3
+    note: A narcoleptic hustler's search for his birth mother keeps dissolving into blackouts, following his friend on the road toward Idaho and away from it.
+
+  - film: good-will-hunting
+    signature: 3
+    must_see: true
+    gateway: 1
+    note: A janitor at MIT with an unacknowledged genius for mathematics is pushed into therapy after solving a graduate-level problem left on a hallway blackboard.
+
+  - film: milk
+    signature: 3
+    gateway: 2
+    note: San Francisco's first openly gay elected official builds a movement and a coalition in the years before his assassination.
+
+  - film: paranoid-park
+    signature: 4
+    gateway: 3
+    note: A teenage skater withholds and slowly reassembles, out of order, his own account of a stranger's accidental death.
+
+  - film: psycho-1998
+    signature: 3
+    gateway: 3
+    note: A near shot-for-shot color remake of Hitchcock's original, less a reinterpretation than an experiment in whether style alone can still unsettle.
+
+curated:
+  curator: house
+  rationale: The two best-known landmarks first, then the range from mainstream drama to formal experiment.
+  order:
+    - my-own-private-idaho
+    - good-will-hunting
+    - milk
+    - paranoid-park
+    - psycho-1998

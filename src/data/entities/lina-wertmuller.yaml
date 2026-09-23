@@ -1,0 +1,36 @@
+slug: lina-wertmuller
+kind: director
+name: Lina Wertmüller
+blurb: The first woman ever nominated for a Best Director Oscar, working in a bruising, satirical register that yokes broad sexual comedy to Italy's fascist history and class violence without ever letting either soften the other.
+
+films:
+  - film: the-seduction-of-mimi
+    signature: 3
+    must_see: true
+    gateway: 2
+    note: A Sicilian laborer's principled refusal to vote for the mafia-backed candidate sets off a chain of exile, infidelity and comic retaliation.
+
+  - film: love-and-anarchy
+    signature: 4
+    must_see: true
+    gateway: 2
+    note: An anarchist assigned to assassinate Mussolini spends his final days before the attempt falling for a prostitute in the brothel he's using as cover.
+
+  - film: swept-away
+    signature: 4
+    gateway: 2
+    note: A wealthy yacht passenger and the deckhand she's been humiliating all cruise are shipwrecked together on a deserted island, and their roles invert.
+
+  - film: seven-beauties
+    signature: 5
+    gateway: 0
+    note: A small-time Neapolitan con artist's survival instincts, comic in peacetime, are followed into a concentration camp, where they curdle into something the film refuses to let you laugh at.
+
+curated:
+  curator: house
+  rationale: The comedies first, then the film that keeps pulling the same instincts into darker territory.
+  order:
+    - the-seduction-of-mimi
+    - love-and-anarchy
+    - swept-away
+    - seven-beauties

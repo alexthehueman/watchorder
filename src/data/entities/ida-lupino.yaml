@@ -1,0 +1,36 @@
+slug: ida-lupino
+kind: director
+name: Ida Lupino
+blurb: One of the only women directing in 1950s Hollywood, working low-budget social-issue dramas — unwed pregnancy, sexual assault, bigamy, a hitchhiking killer — through the small independent production company she co-founded to get them made at all.
+
+films:
+  - film: the-hitch-hiker
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: Two friends on a fishing trip pick up a hitchhiker who turns out to be a wanted killer, and spend the rest of the drive as his hostages.
+
+  - film: outrage
+    signature: 4
+    must_see: true
+    gateway: 3
+    note: A young woman's assault and its long, unglamorous aftermath are treated with a seriousness rare for the era, following her well past the crime itself.
+
+  - film: not-wanted
+    signature: 3
+    gateway: 2
+    note: An unmarried woman's pregnancy and the stigma that follows it are tracked with unusual sympathy for 1949, in a film Lupino took over directing uncredited.
+
+  - film: the-bigamist
+    signature: 3
+    gateway: 2
+    note: A traveling salesman's double life, with a wife in each city, is investigated and gradually understood rather than simply condemned.
+
+curated:
+  curator: house
+  rationale: The genre landmark first, then the social-issue dramas that make up the rest of her run.
+  order:
+    - the-hitch-hiker
+    - outrage
+    - not-wanted
+    - the-bigamist

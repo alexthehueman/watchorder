@@ -1,0 +1,42 @@
+# New films for Henri-Georges Clouzot. Scales and anchors are in README.md ("The anchor rubric").
+
+- id: le-corbeau
+  tmdb_id: null
+  title: Le Corbeau
+  year: 1943
+  runtime: 92
+  director: Henri-Georges Clouzot
+  tags: { opacity: 3, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 0 }
+
+- id: quai-des-orfevres
+  tmdb_id: null
+  title: Quai des Orfèvres
+  year: 1947
+  runtime: 106
+  director: Henri-Georges Clouzot
+  tags: { opacity: 2, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-wages-of-fear
+  tmdb_id: null
+  title: The Wages of Fear
+  year: 1953
+  runtime: 131
+  director: Henri-Georges Clouzot
+  tags: { opacity: 1, stillness: 1, bleakness: 5, humor: 1, acclaim: 0.90 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: les-diaboliques
+  tmdb_id: null
+  title: Les Diaboliques
+  year: 1955
+  runtime: 117
+  director: Henri-Georges Clouzot
+  tags:
+    opacity: 4 # the whole film is built to be misread until its final minutes
+    stillness: 2
+    bleakness: 4
+    humor: 1
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

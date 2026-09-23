@@ -1,0 +1,36 @@
+slug: henri-georges-clouzot
+kind: director
+name: Henri-Georges Clouzot
+blurb: Often called "the French Hitchcock," though his suspense runs meaner and less sentimental — every one of his major films turns a closed community's petty grudges into something lethal.
+
+films:
+  - film: le-corbeau
+    signature: 4
+    must_see: true
+    gateway: 2
+    note: A wave of poison-pen letters accusing a small-town doctor of an affair and an abortion tears the whole community's private resentments into the open.
+
+  - film: the-wages-of-fear
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: Four desperate men agree to drive two trucks of unstable nitroglycerin across three hundred miles of unpaved South American road for a payoff that might let them leave.
+
+  - film: les-diaboliques
+    signature: 5
+    gateway: 2
+    note: A boarding-school headmaster's wife and mistress conspire to murder him together, and the plan holds together right up until his body disappears.
+
+  - film: quai-des-orfevres
+    signature: 3
+    gateway: 2
+    note: A jealous music-hall pianist becomes the prime suspect when the lecherous producer harassing his wife turns up dead.
+
+curated:
+  curator: house
+  rationale: Le Corbeau's small-town poison first, then the two landmark thrillers, then the earlier procedural.
+  order:
+    - le-corbeau
+    - the-wages-of-fear
+    - les-diaboliques
+    - quai-des-orfevres

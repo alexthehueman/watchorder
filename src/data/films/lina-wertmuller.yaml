@@ -1,0 +1,42 @@
+# New films for Lina Wertmüller. Scales and anchors are in README.md ("The anchor rubric").
+
+- id: the-seduction-of-mimi
+  tmdb_id: null
+  title: The Seduction of Mimi
+  year: 1972
+  runtime: 108
+  director: Lina Wertmüller
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 2 }
+
+- id: love-and-anarchy
+  tmdb_id: null
+  title: Love and Anarchy
+  year: 1973
+  runtime: 108
+  director: Lina Wertmüller
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 3, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: swept-away
+  tmdb_id: null
+  title: Swept Away
+  year: 1974
+  runtime: 116
+  director: Lina Wertmüller
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.75 }
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 2 }
+
+- id: seven-beauties
+  tmdb_id: null
+  title: Seven Beauties
+  year: 1975
+  runtime: 115
+  director: Lina Wertmüller
+  tags:
+    opacity: 2
+    stillness: 3
+    bleakness: 5 # a Naples con artist's survival instincts pursued into a concentration camp
+    humor: 2
+    acclaim: 0.80
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }

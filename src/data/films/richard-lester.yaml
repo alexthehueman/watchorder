@@ -1,0 +1,35 @@
+# New films for Richard Lester. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Superman II already exists in terence-stamp.yaml.
+
+- id: a-hard-days-night
+  tmdb_id: null
+  title: A Hard Day's Night
+  year: 1964
+  runtime: 87
+  director: Richard Lester
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: help
+  tmdb_id: null
+  title: Help!
+  year: 1965
+  runtime: 92
+  director: Richard Lester
+  tags:
+    opacity: 2 # the gags come at a rate that keeps the plot's own logic genuinely hard to track in the moment
+    stillness: 1
+    bleakness: 1
+    humor: 4
+    acclaim: 0.68
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-three-musketeers-1973
+  tmdb_id: null
+  title: The Three Musketeers
+  year: 1973
+  runtime: 105
+  director: Richard Lester
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }

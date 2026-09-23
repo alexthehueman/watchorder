@@ -1,0 +1,42 @@
+slug: george-a-romero
+kind: director
+name: George A. Romero
+blurb: The director who invented the modern zombie film and then spent two decades refusing to let it stay simple — every entry in his "Dead" cycle uses the outbreak as cover for a different, more pointed social autopsy.
+
+films:
+  - film: night-of-the-living-dead
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: A besieged group of strangers barricade themselves inside a rural farmhouse against a spreading army of the reanimated dead, and start turning on each other before the dead even break in.
+
+  - film: dawn-of-the-dead
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: Survivors of the outbreak fortify a suburban shopping mall, and the film can't decide whether that makes them safer or exactly like the shambling consumers outside.
+
+  - film: martin
+    signature: 4
+    gateway: 3
+    note: A disturbed young man in a decaying steel town may or may not be an actual vampire, and the film never resolves which explanation is worse.
+
+  - film: the-crazies
+    signature: 3
+    gateway: 3
+    note: A military-engineered virus turns a small Pennsylvania town homicidal, and the government's botched containment does more damage than the outbreak itself.
+
+  - film: day-of-the-dead
+    signature: 4
+    gateway: 2
+    note: The last remnants of civilization, holed up in an underground bunker with a captive zombie being trained toward docility, turn out to be worse company than the dead.
+
+curated:
+  curator: house
+  rationale: The two landmarks first, then the range of the cycle around them.
+  order:
+    - night-of-the-living-dead
+    - dawn-of-the-dead
+    - martin
+    - the-crazies
+    - day-of-the-dead

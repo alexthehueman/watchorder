@@ -1,0 +1,29 @@
+slug: frank-lloyd
+kind: director
+name: Frank Lloyd
+blurb: A prolific, now-underseen studio-era craftsman who won three Best Director Oscars across silent and early-sound Hollywood, most remembered today for mounting large-scale historical spectacle around a single moral crisis.
+
+films:
+  - film: mutiny-on-the-bounty
+    signature: 4
+    must_see: true
+    gateway: 2
+    note: A tyrannical ship's captain drives his crew to open rebellion on the high seas, dramatized as much through the buildup of small cruelties as the mutiny itself.
+
+  - film: cavalcade
+    signature: 4
+    gateway: 3
+    note: A well-off London family's fortunes are tracked across three decades of British history, from the Boer War through the Titanic to the edge of a new war.
+
+  - film: if-i-were-king
+    signature: 3
+    gateway: 4
+    note: The vagabond poet François Villon talks his way out of the gallows and into running Paris for a week, on a bet with a bored, disguised king.
+
+curated:
+  curator: house
+  rationale: The landmark first, then the range around it.
+  order:
+    - mutiny-on-the-bounty
+    - cavalcade
+    - if-i-were-king
