@@ -68,3 +68,17 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: lemony-snickets-a-series-of-unfortunate-events
   poster_url: https://a.ltrbxd.com/resized/sm/upload/67/pg/7i/kd/rOUj4BXAoFqhg3kWhQOAaTa5IBh-1200-1200-675-675-crop-000000.jpg?v=8a06633565
+
+- id: last-days-in-the-desert
+  tmdb_id: 310119
+  title: Last Days in the Desert
+  year: 2015
+  runtime: 98
+  director: Rodrigo García
+  tags:
+    opacity: 3 # a dual role as both Jesus and the Devil, and which one is speaking is not always announced
+    stillness: 4
+    bleakness: 3
+    humor: 1
+    acclaim: 0.62
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
