@@ -1,0 +1,69 @@
+slug: nestor-almendros
+kind: cinematographer
+name: Néstor Almendros
+blurb: A Spanish-born cinematographer whose long partnerships with Truffaut and Rohmer defined French New Wave naturalism, before an Oscar-winning American second act shooting exclusively in the "magic hour" for Malick.
+
+films:
+  - film: days-of-heaven
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: Shot almost entirely in the twenty minutes of magic hour available each day, a Texas wheat-farm love triangle rendered as pure golden light — his Oscar-winning signature achievement.
+
+  - film: the-story-of-adele-h
+    signature: 4
+    must_see: true
+    gateway: 3
+    note: An obsessive, one-sided love pursued to total ruin, shot with a natural-light intimacy that never once decorates her unraveling.
+
+  - film: claires-knee
+    signature: 3
+    gateway: 1
+    note: A summer lake house and an engaged man's fixation on a teenage girl's knee, shot in warm, unforced natural daylight.
+
+  - film: the-wild-child
+    signature: 3
+    gateway: 2
+    note: An 18th-century feral boy's education is shot in plain, observational natural light, the camera refusing to romanticize either the boy or his "civilizing."
+
+  - film: kramer-vs-kramer
+    signature: 2
+    gateway: 1
+    note: A custody battle shot in clean, unshowy New York apartment light that keeps both parents equally sympathetic.
+
+  - film: the-last-metro
+    signature: 3
+    gateway: 2
+    note: A Paris theater troupe secretly hiding its Jewish director under the stage during the Occupation, shot with restrained, theatrical interior light.
+
+  - film: sophies-choice
+    signature: 3
+    gateway: 2
+    note: A Holocaust survivor's fractured present and unbearable past are shot in the same warm naturalism, never visually signaling which timeline is more trustworthy.
+
+  - film: places-in-the-heart
+    signature: 3
+    gateway: 2
+    note: A Depression-era Texas widow's farm shot with the same magic-hour patience as Days of Heaven, warmth extended to a much harder survival story.
+
+  - film: two-english-girls
+    signature: 3
+    gateway: 2
+    note: A young Frenchman's decades-spanning entanglement with two sisters is shot with a restrained period naturalism, tracking the story's slow accumulation of regret.
+
+  - film: the-blue-lagoon
+    signature: 1
+    gateway: 3
+    note: Two shipwrecked children grow up alone on a tropical island, shot in glossy, postcard-saturated island light, an outlier in his usual restraint.
+
+curated:
+  curator: house
+  rationale: The Oscar-winning landmark first, then the range of his Truffaut and Rohmer collaborations.
+  order:
+    - days-of-heaven
+    - the-story-of-adele-h
+    - kramer-vs-kramer
+    - claires-knee
+    - the-wild-child
+    - sophies-choice
+    - places-in-the-heart

@@ -1,0 +1,60 @@
+slug: john-bailey
+kind: cinematographer
+name: John Bailey
+blurb: A versatile studio-era cinematographer equally comfortable in prestige drama, western, and broad studio comedy, later serving as president of the Academy of Motion Picture Arts and Sciences.
+
+films:
+  - film: ordinary-people
+    signature: 4
+    must_see: true
+    gateway: 2
+    note: A suburban family's grief after a son's death is shot in cold, controlled interiors that never let anyone's composure crack on camera.
+
+  - film: american-gigolo
+    signature: 4
+    must_see: true
+    gateway: 3
+    note: A male escort framed for murder is shot in glossy, self-aware Los Angeles decadence, the polish itself part of the film's irony.
+
+  - film: the-big-chill
+    signature: 3
+    gateway: 1
+    note: College friends reunited by a funeral spend a weekend in warm, nostalgic period light that never quite resolves what they've actually lost.
+
+  - film: silverado
+    signature: 2
+    gateway: 2
+    note: A classical widescreen Western shot with real vista scale, deliberately old-fashioned against the genre's more revisionist 1980s peers.
+
+  - film: mishima-a-life-in-four-chapters
+    signature: 4
+    gateway: 3
+    note: Three visually distinct registers — black-and-white biography, stylized theatrical fiction, and saturated present-day color — left for the viewer to reconcile into one life.
+
+  - film: groundhog-day
+    signature: 3
+    gateway: 1
+    note: A cynical weatherman relives the same day on an endless loop, shot with a deceptively plain, unchanging visual palette that makes each repetition legible.
+
+  - film: in-the-line-of-fire
+    signature: 2
+    gateway: 2
+    note: A veteran Secret Service agent haunted by a past failure is shot with unshowy, procedural clarity that lets the cat-and-mouse plotting carry the tension.
+
+  - film: as-good-as-it-gets
+    signature: 2
+    gateway: 1
+    note: A misanthropic obsessive-compulsive writer's grudging softening is shot in warm, unfussy New York light that never oversells the change.
+
+curated:
+  curator: house
+  rationale: The two landmark early dramas first, then the range across decades and genres.
+  order:
+    - ordinary-people
+    - american-gigolo
+    - groundhog-day
+    - the-big-chill
+    - in-the-line-of-fire
+    - as-good-as-it-gets
+    - silverado
+    - mishima-a-life-in-four-chapters

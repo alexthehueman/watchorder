@@ -1,0 +1,37 @@
+# New films for John Bailey. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Ordinary People already exists in donald-sutherland.yaml. American Gigolo already exists in
+# paul-schrader.yaml. The Big Chill already exists in close.yaml. Groundhog Day already exists in
+# murray.yaml. In the Line of Fire already exists in malkovich.yaml.
+
+- id: silverado
+  tmdb_id: 11509
+  title: Silverado
+  year: 1985
+  runtime: 132
+  director: Lawrence Kasdan
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: mishima-a-life-in-four-chapters
+  tmdb_id: 27064
+  title: "Mishima: A Life in Four Chapters"
+  year: 1985
+  runtime: 121
+  director: Paul Schrader
+  tags:
+    opacity: 3 # three visually distinct registers (biography, dramatized fiction, present-day) left for the viewer to reconcile
+    stillness: 3
+    bleakness: 5
+    humor: 1
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 0 }
+
+- id: as-good-as-it-gets
+  tmdb_id: 2898
+  title: As Good as It Gets
+  year: 1997
+  runtime: 139
+  director: James L. Brooks
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 4, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 0, sex: 0 }
