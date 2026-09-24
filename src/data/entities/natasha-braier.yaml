@@ -1,0 +1,36 @@
+slug: natasha-braier
+kind: cinematographer
+name: Natasha Braier
+blurb: An Argentine cinematographer known for saturated, neon-soaked color work that treats light as a psychological force in its own right, moving between Latin American arthouse drama and glossy genre horror.
+
+films:
+  - film: the-neon-demon
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A fashion-world fable slides into outright horror, lit in saturated neon pinks and blues that make the modeling industry itself feel predatory.
+
+  - film: xxy
+    signature: 4
+    must_see: true
+    gateway: 2
+    note: An intersex teenager's own uncertainty about identity plays out on a windswept Uruguayan coast, shot with a raw, unresolved intimacy.
+
+  - film: the-rover
+    signature: 3
+    gateway: 3
+    note: A man chases his stolen car across a lawless post-collapse Australian outback, shot in punishing, sun-bleached desert light.
+
+  - film: honey-boy
+    signature: 3
+    gateway: 2
+    note: A young actor's abusive father is confronted across two parallel timelines, shot with the same warm, hazy intimacy on both sides of the split.
+
+curated:
+  curator: house
+  rationale: The two landmark achievements first, then the range around them.
+  order:
+    - the-neon-demon
+    - xxy
+    - honey-boy
+    - the-rover

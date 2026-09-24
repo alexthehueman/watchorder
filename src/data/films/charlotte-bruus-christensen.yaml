@@ -1,0 +1,27 @@
+# New films for Charlotte Bruus Christensen. Scales and anchors are in README.md ("The anchor rubric").
+#
+# A Quiet Place already exists in blunt.yaml. Fences already exists in washington.yaml. Molly's
+# Game already exists in elba.yaml.
+
+- id: the-hunt-2012
+  tmdb_id: 103663
+  title: The Hunt
+  year: 2012
+  runtime: 115
+  director: Thomas Vinterberg
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 5 # a false accusation of child abuse destroys a man's life in a small town that never actually questions it
+    humor: 1
+    acclaim: 0.90
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: far-from-the-madding-crowd
+  tmdb_id: 250734
+  title: Far from the Madding Crowd
+  year: 2015
+  runtime: 119
+  director: Thomas Vinterberg
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 1, sex: 0 }

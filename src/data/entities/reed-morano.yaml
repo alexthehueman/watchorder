@@ -1,0 +1,35 @@
+slug: reed-morano
+kind: cinematographer
+name: Reed Morano
+blurb: A cinematographer who built her name at Sundance on small, character-driven independent dramas before becoming a director herself — her camera work stays grounded and intimate even at its most stylized.
+
+films:
+  - film: frozen-river
+    signature: 5
+    must_see: true
+    gateway: 1
+    note: A struggling mother turns to smuggling migrants across the US-Canada border in a desperate bid to keep her family afloat, shot with a cold, unglamorous grip on rural poverty.
+
+  - film: kill-your-darlings
+    signature: 3
+    gateway: 2
+    note: A young Allen Ginsberg's entanglement with the beat poets who'll shape his life is shot on grainy period-accurate 35mm.
+
+  - film: the-skeleton-twins
+    signature: 3
+    gateway: 2
+    note: Estranged twin siblings reconnect after a shared suicide attempt, shot with warmth that keeps the film's dark comedy from tipping into misery.
+
+  - film: war-story
+    signature: 3
+    gateway: 3
+    note: A war photographer's trauma is circled around in fragments rather than explained, shot with the same withholding restraint the character herself maintains.
+
+curated:
+  curator: house
+  rationale: The landmark first, then the range around it.
+  order:
+    - frozen-river
+    - the-skeleton-twins
+    - war-story
+    - kill-your-darlings

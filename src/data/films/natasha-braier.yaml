@@ -1,0 +1,40 @@
+# New films for Natasha Braier. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Neon Demon already exists in fanning.yaml.
+
+- id: xxy
+  tmdb_id: 11148
+  title: XXY
+  year: 2007
+  runtime: 91
+  director: Lucía Puenzo
+  tags:
+    opacity: 2 # an intersex teenager's own uncertainty about identity is never resolved into a clean answer
+    stillness: 3
+    bleakness: 4
+    humor: 1
+    acclaim: 0.75
+  content: { sexual_violence: true, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 1 }
+
+- id: the-rover
+  tmdb_id: 157845
+  title: The Rover
+  year: 2014
+  runtime: 103
+  director: David Michôd
+  tags: { opacity: 2, stillness: 2, bleakness: 5, humor: 2, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: honey-boy
+  tmdb_id: 512263
+  title: Honey Boy
+  year: 2019
+  runtime: 94
+  director: Alma Har'el
+  tags:
+    opacity: 2 # a young actor's abusive rehab-era father is confronted in parallel timelines that only meet at the very end
+    stillness: 2
+    bleakness: 4
+    humor: 1
+    acclaim: 0.75
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }

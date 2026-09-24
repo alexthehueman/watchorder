@@ -1,0 +1,18 @@
+# New films for Reed Morano. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Frozen River already exists in leo.yaml. Kill Your Darlings already exists in radcliffe.yaml.
+# The Skeleton Twins already exists in hader.yaml.
+
+- id: war-story
+  tmdb_id: 246013
+  title: War Story
+  year: 2014
+  runtime: 90
+  director: Mark Jackson
+  tags:
+    opacity: 3 # a war photographer's trauma is never explained directly, only circled around in fragments
+    stillness: 4
+    bleakness: 5
+    humor: 1
+    acclaim: 0.55
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
