@@ -1,0 +1,18 @@
+# New films for Maryse Alberti. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Velvet Goldmine and Poison already exist in todd-haynes.yaml. The Wrestler already exists in
+# darren-aronofsky.yaml.
+
+- id: crumb
+  tmdb_id: 26564
+  title: Crumb
+  year: 1994
+  runtime: 119
+  director: Terry Zwigoff
+  tags:
+    opacity: 3 # a documentary that keeps complicating its own portrait rather than settling on one reading of the man
+    stillness: 2
+    bleakness: 4
+    humor: 3
+    acclaim: 0.88
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }

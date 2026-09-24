@@ -1,0 +1,48 @@
+slug: agnes-godard
+kind: cinematographer
+name: Agnès Godard
+blurb: Claire Denis's longtime regular collaborator, known for a tactile, sensory approach to bodies and skin that treats physical presence itself as the primary carrier of meaning, over dialogue or plot.
+
+films:
+  - film: beau-travail
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: French Legionnaires drill and exercise in the Djibouti desert, the camera treating their bodies with an almost choreographic attention that carries the story's real jealousy and longing.
+
+  - film: trouble-every-day
+    signature: 5
+    gateway: 3
+    note: A cannibalistic sexual desire is shot with the same tactile, skin-close intimacy she brings to every film, here turned toward genuine horror.
+
+  - film: 35-shots-of-rum
+    signature: 4
+    must_see: true
+    gateway: 1
+    note: A father and daughter's quiet domestic routine is shot with warm, unhurried tenderness, her gentlest and most optimistic collaboration with Denis.
+
+  - film: the-dreamlife-of-angels
+    signature: 3
+    gateway: 2
+    note: Two young women's friendship in provincial France shifts its balance of power slowly, under the surface, long before either admits it.
+
+  - film: chocolat-1988
+    signature: 3
+    gateway: 2
+    note: A woman's childhood in colonial Cameroon is recalled through memory, shot with a tactile sensitivity to landscape and skin already fully formed in this early work.
+
+  - film: let-the-sunshine-in
+    signature: 2
+    gateway: 1
+    note: A Parisian artist cycles through a series of unsatisfying romances, shot in a warmer, more conversational register than the rest of the filmography.
+
+curated:
+  curator: house
+  rationale: The two landmark Denis collaborations first, then the range around them.
+  order:
+    - beau-travail
+    - 35-shots-of-rum
+    - trouble-every-day
+    - the-dreamlife-of-angels
+    - chocolat-1988
+    - let-the-sunshine-in

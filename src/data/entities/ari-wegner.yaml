@@ -1,0 +1,48 @@
+slug: ari-wegner
+kind: cinematographer
+name: Ari Wegner
+blurb: An Australian cinematographer whose Oscar-nominated work on The Power of the Dog made her only the second woman ever nominated in the category — known for a patient, landscape-driven visual language applied equally to period repression and modern true crime.
+
+films:
+  - film: the-power-of-the-dog
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A Montana ranch's vast, unforgiving landscape mirrors a domineering rancher's own withheld cruelty, the slow-burn western holding its real subject back until the final scene reframes everything.
+
+  - film: lady-macbeth
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: A young wife's escalating ruthlessness in a repressive English manor is shot with stark, unforgiving clarity the film never once moralizes about.
+
+  - film: true-history-of-the-kelly-gang
+    signature: 4
+    gateway: 3
+    note: A revisionist, punk-inflected account of the Australian outlaw's life is shot with grimy, anachronistic energy that refuses any myth-making gloss.
+
+  - film: zola
+    signature: 3
+    gateway: 2
+    note: A road trip's real purpose keeps getting revised as each character's version of events turns out to be another lie, shot with a garish, social-media-bright palette.
+
+  - film: eileen
+    signature: 4
+    gateway: 3
+    note: A quiet 1960s office drama curdles into something far stranger and darker in its final act, the shift in genre never announced by the camera in advance.
+
+  - film: the-wonder
+    signature: 3
+    gateway: 2
+    note: A nurse investigates whether a fasting Irish girl's survival is a miracle or a hidden deception, shot with the same patient, withholding restraint across the whole mystery.
+
+curated:
+  curator: house
+  rationale: The two landmark achievements first, then the range around them.
+  order:
+    - the-power-of-the-dog
+    - lady-macbeth
+    - true-history-of-the-kelly-gang
+    - eileen
+    - zola
+    - the-wonder
