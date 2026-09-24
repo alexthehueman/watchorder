@@ -1,0 +1,158 @@
+# Not bounded to a closed era the way MGM (1924-1959) is — Warner Bros. is still an active studio,
+# and unlike MGM its identity has stayed legible across nine decades rather than dissolving after
+# a sale. Four eras trace a real throughline: gritty pre-Code crime pictures, classic-Hollywood
+# moral drama, New Hollywood's counterculture violence, and the modern franchise era — all sharing
+# an appetite for compromise and consequence the studio rarely sands down for comfort.
+
+slug: warner-bros
+kind: studio
+name: Warner Bros.
+blurb: The studio built on gangsters, moral compromise and violence nobody else's glamour could quite absorb — from pre-Code chain gangs through Gotham's rooftops, the one studio identity that never really went soft.
+
+eras:
+  - id: pre-code
+    name: The gangster and social-issue years
+    from: 1930
+  - id: classic
+    name: Classic Hollywood
+    from: 1941
+  - id: new-hollywood
+    name: New Hollywood and the counterculture
+    from: 1967
+  - id: modern
+    name: The franchise era
+    from: 1990
+
+films:
+  - film: little-caesar
+    era: pre-code
+    signature: 4
+    gateway: 2
+    note: A small-time hood's ruthless rise through the mob is shot with a vain, self-mythologizing swagger that invented the gangster-picture template almost single-handedly.
+
+  - film: the-public-enemy
+    era: pre-code
+    signature: 4
+    gateway: 2
+    note: A Prohibition-era hoodlum's rise and fall is played with a genuine menace the studio's later, more polished gangster pictures softened.
+
+  - film: i-am-a-fugitive-from-a-chain-gang
+    era: pre-code
+    signature: 5
+    gateway: 2
+    note: A wrongly convicted man's brutal chain-gang ordeal, based on a real memoir, ends on one of the bleakest final lines in studio-era Hollywood — the "social issue" picture at its least compromising.
+
+  - film: the-maltese-falcon
+    era: classic
+    signature: 4
+    gateway: 3
+    note: A private eye navigates a web of liars all chasing the same worthless statuette, the genre's founding text for the private-eye who trusts absolutely no one.
+
+  - film: casablanca
+    era: classic
+    signature: 5
+    must_see: true
+    gateway: 1
+    note: A cynical expatriate nightclub owner is forced to choose between the woman he loves and the resistance cause bigger than either of them.
+
+  - film: a-streetcar-named-desire
+    era: classic
+    signature: 4
+    gateway: 3
+    note: A fading Southern belle's fragile self-mythology is destroyed by her brutish brother-in-law over one suffocating New Orleans summer.
+
+  - film: rebel-without-a-cause
+    era: classic
+    signature: 3
+    gateway: 2
+    note: A troubled teenager's alienation from his own family plays out across one increasingly dangerous night with two equally lost classmates.
+
+  - film: bonnie-and-clyde
+    era: new-hollywood
+    signature: 5
+    gateway: 2
+    note: A Depression-era outlaw couple's crime spree turns genuinely, shockingly violent by its end — the film most credited with breaking the Production Code's grip on American screen violence for good.
+
+  - film: dirty-harry
+    era: new-hollywood
+    signature: 4
+    gateway: 2
+    note: A San Francisco detective's willingness to break every rule to stop a serial killer sparked a franchise and a decades-long argument about the politics of the vigilante cop picture.
+
+  - film: a-clockwork-orange
+    era: new-hollywood
+    signature: 5
+    gateway: 2
+    note: A "cure" for a violent delinquent's own violence never once asks whether it counts as genuine reform — Kubrick's most deliberately confrontational studio release.
+
+  - film: the-exorcist
+    era: new-hollywood
+    signature: 4
+    gateway: 3
+    note: A young girl's possession is treated by the film, and by two priests running out of other options, with total, clinical seriousness.
+
+  - film: superman-1978
+    era: new-hollywood
+    signature: 3
+    gateway: 1
+    note: The template for the modern superhero blockbuster, made with a sincerity ("you'll believe a man can fly") the genre has spent decades since trying to recapture.
+
+  - film: batman-1989
+    era: new-hollywood
+    signature: 3
+    gateway: 1
+    note: A gothic, genuinely dark reinvention of the character that set the visual template the studio's Batman franchise never fully abandoned.
+
+  - film: goodfellas
+    era: modern
+    signature: 5
+    gateway: 2
+    note: A mobster's decades-long rise and fall inside organized crime is narrated with a seductive, propulsive energy the film never lets you forget is also a trap.
+
+  - film: unforgiven
+    era: modern
+    signature: 5
+    gateway: 3
+    note: An aging gunfighter is pulled back for one last job, the film unsettling which version of his own legend it's willing to believe by the end.
+
+  - film: the-matrix
+    era: modern
+    signature: 4
+    gateway: 2
+    note: A hacker discovers reality itself is a simulation, peeled back one layer at a time in a film that reinvented action choreography for a generation.
+
+  - film: harry-potter-and-the-prisoner-of-azkaban
+    era: modern
+    signature: 3
+    gateway: 1
+    note: The franchise's tonal turn toward genuine darkness, still generally considered the strongest entry of the eight-film run.
+
+  - film: the-dark-knight
+    era: modern
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: Gotham's escalating war between Batman and a chaos-worshipping Joker is played with a scale and seriousness that redefined what the studio's biggest franchise pictures could be.
+
+curated:
+  curator: house
+  rationale: The two most enduring landmarks first, then the range across the four eras.
+  order:
+    - casablanca
+    - the-dark-knight
+    - goodfellas
+    - bonnie-and-clyde
+    - unforgiven
+    - a-clockwork-orange
+    - the-maltese-falcon
+    - little-caesar
+    - i-am-a-fugitive-from-a-chain-gang
+    - the-public-enemy
+    - dirty-harry
+    - the-exorcist
+    - a-streetcar-named-desire
+    - rebel-without-a-cause
+    - the-matrix
+    - superman-1978
+    - batman-1989
+    - harry-potter-and-the-prisoner-of-azkaban

@@ -1,0 +1,25 @@
+# Films for Warner Bros. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Nearly every film here already exists elsewhere in the corpus, tagged under a director or actor
+# before this entity existed — see the entity file for the full list of sources. Only one new film
+# was needed: the studio's founding genre statement, still untagged anywhere else.
+#
+# Unlike MGM or RKO, Warner Bros. is still an active studio, so this entity isn't bounded to a
+# closed era. Its identity has stayed legible across nine decades in a way MGM's didn't past 1959:
+# gritty, socially conscious genre pictures from the pre-Code gangster years straight through to
+# the modern blockbuster franchises, with an unusually consistent appetite for moral compromise
+# and violence the studio never sands down for comfort.
+
+- id: i-am-a-fugitive-from-a-chain-gang
+  tmdb_id: 29740
+  title: I Am a Fugitive from a Chain Gang
+  year: 1932
+  runtime: 93
+  director: Mervyn LeRoy
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 5 # a wrongly convicted man's brutal chain-gang ordeal, based on a real memoir, ending on one of the bleakest final lines in studio-era Hollywood
+    humor: 1
+    acclaim: 0.80
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
