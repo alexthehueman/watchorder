@@ -1,0 +1,42 @@
+slug: andrew-lesnie
+kind: cinematographer
+name: Andrew Lesnie
+blurb: Peter Jackson's regular cinematographer for two decades, winning his Oscar for the first Lord of the Rings film and later pushing into experimental high-frame-rate 3D for The Hobbit trilogy.
+
+films:
+  - film: the-lord-of-the-rings-the-fellowship-of-the-ring
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: A hobbit and his companions set out to destroy a corrupting ring, shot with real New Zealand landscape grandeur — his Oscar-winning signature achievement.
+
+  - film: king-kong-2005
+    signature: 4
+    gateway: 3
+    note: A giant ape is captured from an uncharted island and brought to New York, shot with the same landscape-driven scale as his Rings work applied to a monster movie.
+
+  - film: babe
+    signature: 4
+    must_see: true
+    gateway: 1
+    note: A pig raised among sheepdogs discovers he might be able to herd sheep himself, shot with warm, storybook pastoral light.
+
+  - film: i-am-legend
+    signature: 3
+    gateway: 2
+    note: The last man in an empty, overgrown Manhattan survives among infected mutants, shot with an eerie stillness that makes the abandoned city feel genuinely haunted.
+
+  - film: the-hobbit-an-unexpected-journey
+    signature: 3
+    gateway: 2
+    note: A trilogy-opening return to Middle-earth, shot innovatively at 48 frames per second in 3D — the first time any cinematographer had attempted the format at that scale.
+
+curated:
+  curator: house
+  rationale: The two landmark achievements first, then the range around them.
+  order:
+    - the-lord-of-the-rings-the-fellowship-of-the-ring
+    - babe
+    - king-kong-2005
+    - i-am-legend
+    - the-hobbit-an-unexpected-journey

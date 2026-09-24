@@ -1,0 +1,36 @@
+slug: cesar-charlone
+kind: cinematographer
+name: César Charlone
+blurb: A Uruguayan cinematographer whose Oscar-nominated work on City of God brought a documentary-real, handheld immediacy to Rio's favelas, later collaborating repeatedly with Fernando Meirelles across very different registers.
+
+films:
+  - film: city-of-god
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: A sprawling Rio favela crime saga is shot with restless, documentary-close handheld energy, its story told out of chronological order and constantly circling back to reframe what came before — his Oscar-nominated breakthrough.
+
+  - film: the-constant-gardener
+    signature: 4
+    must_see: true
+    gateway: 3
+    note: A grieving husband reconstructs his wife's murder investigation from fragments she never shared with him, shot with a restless, handheld urgency across Kenya and London.
+
+  - film: blindness
+    signature: 3
+    gateway: 3
+    note: A mass epidemic of blindness reduces a city to quarantine and chaos, shot with a deliberately bleached, overexposed palette that makes sightlessness visible on screen.
+
+  - film: american-made
+    signature: 3
+    gateway: 1
+    note: A commercial pilot recruited by the CIA becomes a drug and arms smuggler almost by accident, shot with a brisk, energetic visual style that matches the character's own reckless momentum.
+
+curated:
+  curator: house
+  rationale: The two landmark achievements first, then the range around them.
+  order:
+    - city-of-god
+    - the-constant-gardener
+    - blindness
+    - american-made

@@ -1,0 +1,27 @@
+# New films for César Charlone. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Constant Gardener already exists in weisz.yaml. American Made already exists in
+# doug-liman.yaml.
+
+- id: city-of-god
+  tmdb_id: 598
+  title: City of God
+  year: 2002
+  runtime: 130
+  director: Fernando Meirelles
+  tags:
+    opacity: 2 # a sprawling ensemble crime saga told out of chronological order, circling back to reframe earlier scenes
+    stillness: 1
+    bleakness: 5
+    humor: 2
+    acclaim: 0.92
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 1 }
+
+- id: blindness
+  tmdb_id: 8338
+  title: Blindness
+  year: 2008
+  runtime: 121
+  director: Fernando Meirelles
+  tags: { opacity: 2, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.62 }
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }

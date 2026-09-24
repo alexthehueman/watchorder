@@ -1,0 +1,15 @@
+# New films for Dean Cundey. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Halloween, The Thing, Escape from New York and Big Trouble in Little China already exist in
+# carpenter.yaml. Back to the Future and Who Framed Roger Rabbit and Death Becomes Her already
+# exist in michael-j-fox.yaml/robert-zemeckis.yaml/goldie-hawn.yaml. Jurassic Park already exists
+# in spielberg.yaml. Apollo 13 already exists in bill-paxton.yaml.
+
+- id: hook
+  tmdb_id: 879
+  title: Hook
+  year: 1991
+  runtime: 144
+  director: Steven Spielberg
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }

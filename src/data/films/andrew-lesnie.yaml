@@ -1,0 +1,14 @@
+# New films for Andrew Lesnie. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Lord of the Rings: The Fellowship of the Ring already exists in mortensen.yaml. The Hobbit:
+# An Unexpected Journey already exists in peter-jackson.yaml. King Kong already exists in
+# watts.yaml. I Am Legend already exists in smith.yaml.
+
+- id: babe
+  tmdb_id: 9598
+  title: Babe
+  year: 1995
+  runtime: 91
+  director: Chris Noonan
+  tags: { opacity: 2, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 0, sex: 0 }

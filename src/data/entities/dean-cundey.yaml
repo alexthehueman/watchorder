@@ -1,0 +1,72 @@
+slug: dean-cundey
+kind: cinematographer
+name: Dean Cundey
+blurb: John Carpenter's regular cinematographer through his defining horror run, before moving into a decades-long partnership with Robert Zemeckis and Steven Spielberg's biggest 1990s studio blockbusters.
+
+films:
+  - film: halloween
+    signature: 5
+    must_see: true
+    gateway: 1
+    note: A masked killer stalks a suburban babysitter, shot with far more patience than its reputation suggests — the dread is built from waiting, not from jump scares.
+
+  - film: the-thing
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: An Antarctic research team is infiltrated by a shape-shifting alien, shot with a mounting claustrophobic paranoia that keeps every character's loyalty genuinely uncertain.
+
+  - film: back-to-the-future
+    signature: 4
+    gateway: 1
+    note: A teenager accidentally travels back three decades and must repair the timeline before he erases his own existence, the paradox mechanics unspooling as he goes.
+
+  - film: who-framed-roger-rabbit
+    signature: 4
+    gateway: 2
+    note: A noir murder mystery unfolds underneath live-action and animated characters sharing the same frame, a genuine technical high-wire act for the era.
+
+  - film: jurassic-park
+    signature: 3
+    gateway: 1
+    note: A theme park of cloned dinosaurs goes catastrophically wrong, shot with a sense of scale and wonder that made practical and digital effects feel seamlessly combined.
+
+  - film: apollo-13
+    signature: 3
+    gateway: 1
+    note: A crippled spacecraft's crew fights to return to Earth, shot with plain, procedural clarity that lets the real stakes carry the tension.
+
+  - film: escape-from-new-york
+    signature: 3
+    gateway: 2
+    note: Manhattan Island has been converted into a maximum-security prison, shot with low-budget, high-contrast dystopian grit.
+
+  - film: big-trouble-in-little-china
+    signature: 2
+    gateway: 1
+    note: A truck driver stumbles into a supernatural gang war beneath San Francisco's Chinatown, shot with garish, comic-book color.
+
+  - film: death-becomes-her
+    signature: 2
+    gateway: 1
+    note: Two rivals both drink a youth potion with grotesque unintended consequences, shot with the same darkly comic visual excess as the plot itself.
+
+  - film: hook
+    signature: 2
+    gateway: 1
+    note: A grown-up Peter Pan, now a lawyer who's forgotten his own past, is dragged back to Neverland to save his kidnapped children, shot with elaborate, storybook-scale soundstage sets.
+
+curated:
+  curator: house
+  rationale: The two landmark Carpenter horror films first, then the range across his Zemeckis and Spielberg collaborations.
+  order:
+    - halloween
+    - the-thing
+    - back-to-the-future
+    - who-framed-roger-rabbit
+    - jurassic-park
+    - apollo-13
+    - hook
+    - escape-from-new-york
+    - big-trouble-in-little-china
+    - death-becomes-her
