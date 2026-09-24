@@ -1,0 +1,35 @@
+# New films for George Folsey. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Meet Me in St. Louis and Seven Brides for Seven Brothers already exist in mgm.yaml.
+
+- id: the-cocoanuts
+  tmdb_id: 20625
+  title: The Cocoanuts
+  year: 1929
+  runtime: 96
+  director: Robert Florey
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 4, acclaim: 0.62 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: animal-crackers
+  tmdb_id: 13913
+  title: Animal Crackers
+  year: 1930
+  runtime: 97
+  director: Victor Heerman
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 5, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: applause
+  tmdb_id: 120833
+  title: Applause
+  year: 1929
+  runtime: 78
+  director: Rouben Mamoulian
+  tags:
+    opacity: 2 # her daughter's real feelings about her mother's decline stay withheld until the very end
+    stillness: 3 # an early-sound film that moves the camera freely at a time when almost none did
+    bleakness: 4
+    humor: 1
+    acclaim: 0.72
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }

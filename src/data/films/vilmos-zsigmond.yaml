@@ -1,0 +1,37 @@
+# New films for Vilmos Zsigmond. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Close Encounters of the Third Kind already exists in spielberg.yaml. The Deer Hunter already
+# exists in de-niro.yaml. Deliverance already exists in burt-reynolds.yaml. The Long Goodbye
+# already exists in sterling-hayden.yaml. Blow Out already exists in brian-de-palma.yaml.
+
+- id: mccabe-and-mrs-miller
+  tmdb_id: 29005
+  title: McCabe & Mrs. Miller
+  year: 1971
+  runtime: 121
+  director: Robert Altman
+  tags:
+    opacity: 2 # a revisionist Western shot through gauzy, diffused "flashed" film stock that deliberately undercuts the genre's usual clarity
+    stillness: 3
+    bleakness: 5
+    humor: 1
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: the-sugarland-express
+  tmdb_id: 5121
+  title: The Sugarland Express
+  year: 1974
+  runtime: 110
+  director: Steven Spielberg
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 2, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-witches-of-eastwick
+  tmdb_id: 6069
+  title: The Witches of Eastwick
+  year: 1987
+  runtime: 118
+  director: George Miller
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 2 }

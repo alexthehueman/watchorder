@@ -1,0 +1,42 @@
+slug: george-folsey
+kind: cinematographer
+name: George Folsey
+blurb: A studio-era workhorse with thirteen Oscar nominations and zero wins, spanning from the Marx Brothers' earliest talkies through Mamoulian's fluid early-sound experiments to MGM's most opulent Technicolor musicals.
+
+films:
+  - film: meet-me-in-st-louis
+    signature: 5
+    must_see: true
+    gateway: 1
+    note: A St. Louis family's year before the 1904 World's Fair is shot in the Freed Unit's lushest Technicolor, nostalgia rendered as pure visual comfort.
+
+  - film: seven-brides-for-seven-brothers
+    signature: 4
+    gateway: 1
+    note: A frontier family of brothers scheme to find wives, shot with the same saturated MGM musical gloss, built around its show-stopping barn-raising dance number.
+
+  - film: applause
+    signature: 4
+    must_see: true
+    gateway: 3
+    note: A fading burlesque singer's decline is shot with a freely moving camera at a time when the arrival of sound had made most cameras lock down completely.
+
+  - film: animal-crackers
+    signature: 3
+    gateway: 2
+    note: A society party is hijacked by the Marx Brothers' anarchic verbal chaos, shot with plain, functional clarity that stays out of the comedy's way.
+
+  - film: the-cocoanuts
+    signature: 2
+    gateway: 2
+    note: The Marx Brothers' screen debut, a Florida real-estate scam farce shot on primitive, barely mobile early-sound equipment.
+
+curated:
+  curator: house
+  rationale: The two landmark musicals first, then the earlier, more experimental sound-era work.
+  order:
+    - meet-me-in-st-louis
+    - applause
+    - seven-brides-for-seven-brothers
+    - animal-crackers
+    - the-cocoanuts

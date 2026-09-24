@@ -1,0 +1,60 @@
+slug: vilmos-zsigmond
+kind: cinematographer
+name: Vilmos Zsigmond
+blurb: A Hungarian émigré who became one of the defining cinematographers of the American New Hollywood, pioneering a soft, desaturated "flashed" film-stock look that broke from the polished studio style around him.
+
+films:
+  - film: mccabe-and-mrs-miller
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: A revisionist frontier-town Western shot through deliberately diffused, "flashed" film stock that undercuts every myth-making convention of the genre.
+
+  - film: close-encounters-of-the-third-kind
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: An Indiana lineman's obsessive pursuit of an alien contact site is shot with an Oscar-winning command of natural and artificial light alike.
+
+  - film: the-deer-hunter
+    signature: 4
+    gateway: 3
+    note: Three Pennsylvania steelworkers' friendship is shattered by Vietnam, shot with a stark contrast between the warm mill-town light and the war's harsh glare.
+
+  - film: deliverance
+    signature: 4
+    gateway: 3
+    note: A canoe trip down a doomed Georgia river turns lethal, shot with real, unglamorized wilderness scale that never once looks like a vacation.
+
+  - film: the-long-goodbye
+    signature: 4
+    gateway: 2
+    note: A revisionist Los Angeles noir shot in a deliberately hazy, overexposed style, the private eye's own collapse as unreadable as the mystery.
+
+  - film: blow-out
+    signature: 3
+    gateway: 2
+    note: A movie sound engineer's accidental recording of a political assassination is shot in glossy, paranoid Philadelphia neon.
+
+  - film: the-sugarland-express
+    signature: 3
+    gateway: 2
+    note: A fugitive couple's cross-Texas car chase is shot with real widescreen scale, Spielberg's feature debut given genuine visual ambition.
+
+  - film: the-witches-of-eastwick
+    signature: 2
+    gateway: 1
+    note: Three New England women's wishes conjure a literal devil into their small town, shot in a much lighter, glossier register than the rest of his career.
+
+curated:
+  curator: house
+  rationale: The two landmark achievements first, then the range of the American New Wave around them.
+  order:
+    - mccabe-and-mrs-miller
+    - close-encounters-of-the-third-kind
+    - the-deer-hunter
+    - deliverance
+    - the-long-goodbye
+    - blow-out
+    - the-witches-of-eastwick
+    - the-sugarland-express

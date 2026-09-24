@@ -1,0 +1,48 @@
+slug: henri-decae
+kind: cinematographer
+name: Henri Decaë
+blurb: Called "the man who made the New Wave possible" — a self-taught cinematographer whose lightweight, location-shot naturalism for Melville, Malle and Truffaut gave the movement its visual grammar before it had a name.
+
+films:
+  - film: le-samourai
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: A near-silent contract killer's cold, procedural Paris is shot in desaturated blue-grey, the visual restraint matching a man who barely speaks for the entire film.
+
+  - film: the-400-blows
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: A neglected Parisian boy's delinquency is tracked with unforced, on-location naturalism that became the New Wave's founding visual document.
+
+  - film: elevator-to-the-gallows
+    signature: 4
+    gateway: 2
+    note: A murder plot unravels through pure bad timing, shot almost entirely at night on real Paris streets, existing lamplight standing in for studio lighting.
+
+  - film: bob-le-flambeur
+    signature: 4
+    gateway: 1
+    note: An aging Montmartre gambler plans one last heist, shot with a loose, documentary-style camera through real Pigalle streets at dawn.
+
+  - film: purple-noon
+    signature: 3
+    gateway: 2
+    note: A con man murders his way into someone else's identity along the sun-drenched Italian coast, glamour and menace given the same bright light.
+
+  - film: the-lovers
+    signature: 3
+    gateway: 3
+    note: A bored provincial wife's one night of passion with a stranger is shot with an intimacy explicit enough to become a genuine censorship landmark.
+
+curated:
+  curator: house
+  rationale: The two landmark New Wave achievements first, then the range around them.
+  order:
+    - le-samourai
+    - the-400-blows
+    - elevator-to-the-gallows
+    - bob-le-flambeur
+    - purple-noon
+    - the-lovers
