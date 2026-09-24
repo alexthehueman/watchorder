@@ -1,0 +1,36 @@
+slug: mihai-malaimare-jr
+kind: cinematographer
+name: Mihai Mălaimare Jr.
+blurb: A Romanian cinematographer who made his name shooting a trio of Francis Ford Coppola's late-period, formally experimental films, before Paul Thomas Anderson recruited him for one of the most acclaimed 65mm productions of the last two decades.
+
+films:
+  - film: the-master
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A drifting WWII veteran falls under the sway of a charismatic cult leader, shot on rare 65mm film stock with a painterly, formal precision that gives every confrontation real physical weight.
+
+  - film: tetro
+    signature: 4
+    must_see: true
+    gateway: 3
+    note: An estranged brother's reasons for cutting off his family stay withheld until deep into the film, shot in stark black and white that erupts into color only for memory sequences.
+
+  - film: youth-without-youth
+    signature: 3
+    gateway: 3
+    note: A lightning-struck old man's sudden rejuvenation is never given a clean scientific or mystical explanation, shot with the same formal ambiguity as the story itself.
+
+  - film: twixt
+    signature: 2
+    gateway: 2
+    note: A hack novelist investigating a small-town murder is pulled into ghostly dream logic, shot with deliberately rough, hallucinatory digital texture.
+
+curated:
+  curator: house
+  rationale: The two landmark achievements first, then the range around them.
+  order:
+    - the-master
+    - tetro
+    - youth-without-youth
+    - twixt

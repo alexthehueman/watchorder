@@ -1,0 +1,40 @@
+# New films for Mihai Mălaimare Jr. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Master already exists in pta.yaml.
+
+- id: youth-without-youth
+  tmdb_id: 7797
+  title: Youth Without Youth
+  year: 2007
+  runtime: 124
+  director: Francis Ford Coppola
+  tags:
+    opacity: 4 # a lightning-struck old man's sudden rejuvenation is never given a clean scientific or mystical explanation
+    stillness: 3
+    bleakness: 3
+    humor: 1
+    acclaim: 0.55
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: tetro
+  tmdb_id: 11928
+  title: Tetro
+  year: 2009
+  runtime: 127
+  director: Francis Ford Coppola
+  tags:
+    opacity: 3 # an estranged brother's reasons for cutting off his family stay withheld until deep into the film
+    stillness: 3
+    bleakness: 4
+    humor: 1
+    acclaim: 0.65
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 0 }
+
+- id: twixt
+  tmdb_id: 78381
+  title: Twixt
+  year: 2011
+  runtime: 88
+  director: Francis Ford Coppola
+  tags: { opacity: 3, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.4 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }

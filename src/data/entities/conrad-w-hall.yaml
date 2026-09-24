@@ -1,0 +1,35 @@
+slug: conrad-w-hall
+kind: cinematographer
+name: Conrad W. Hall
+blurb: The son of legendary cinematographer Conrad L. Hall, who built his own distinct, much thinner filmography in mainstream action and thriller rather than his father's arthouse prestige work.
+
+films:
+  - film: panic-room
+    signature: 4
+    must_see: true
+    gateway: 1
+    note: A mother and daughter barricade themselves inside a fortified safe room during a home invasion, shot (with Darius Khondji) with an unbroken camera that glides impossibly through walls and keyholes.
+
+  - film: the-punisher-2004
+    signature: 2
+    gateway: 2
+    note: A former FBI agent turned vigilante hunts the crime family that murdered his own, shot with grim, high-contrast revenge-thriller darkness.
+
+  - film: two-for-the-money
+    signature: 2
+    gateway: 2
+    note: A former college athlete becomes a sports-gambling consultant under a manipulative mentor, shot with glossy, high-stakes energy.
+
+  - film: olympus-has-fallen
+    signature: 2
+    gateway: 1
+    note: A disgraced Secret Service agent single-handedly retakes the White House from paramilitary attackers, shot with straightforward large-scale action clarity.
+
+curated:
+  curator: house
+  rationale: The landmark first, then the range of genre work around it.
+  order:
+    - panic-room
+    - the-punisher-2004
+    - olympus-has-fallen
+    - two-for-the-money

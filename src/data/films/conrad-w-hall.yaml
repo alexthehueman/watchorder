@@ -1,0 +1,22 @@
+# New films for Conrad W. Hall (Conrad L. Hall's son, distinct cinematographer). Scales and
+# anchors are in README.md ("The anchor rubric").
+#
+# Panic Room already exists in foster.yaml. Olympus Has Fallen already exists in leo.yaml.
+
+- id: the-punisher-2004
+  tmdb_id: 7220
+  title: The Punisher
+  year: 2004
+  runtime: 124
+  director: Jonathan Hensleigh
+  tags: { opacity: 1, stillness: 1, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
+
+- id: two-for-the-money
+  tmdb_id: 9910
+  title: Two for the Money
+  year: 2005
+  runtime: 122
+  director: D.J. Caruso
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.5 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
