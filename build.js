@@ -105,15 +105,23 @@ async function main() {
   // point: the quiz runs the identical module this build just used for the house pick, so there
   // is no second implementation of the ranking rules to drift. Their relative imports keep
   // working because dist mirrors the source layout exactly — ../core/path.js resolves in both.
+  //
+  // Read/write as raw buffers, not utf8 text: src/ui/ now also holds the logo image, and decoding
+  // a binary file as utf8 then re-encoding it corrupts it.
   for (const directory of ['core', 'ui']) {
     await mkdir(new URL(`${directory}/`, DIST), { recursive: true });
     const source = new URL(`./src/${directory}/`, import.meta.url);
     for (const name of await readdir(source)) {
-      const contents = await readFile(new URL(name, source), 'utf8');
-      await writeFile(new URL(`${directory}/${name}`, DIST), contents, 'utf8');
+      const contents = await readFile(new URL(name, source));
+      await writeFile(new URL(`${directory}/${name}`, DIST), contents);
       written.push(`${directory}/${name}`);
     }
   }
+
+  // The favicon has to live at the site root — browsers request /favicon.ico (or whatever the
+  // <link rel="icon"> in layout.js points at) relative to the origin, not relative to /ui/.
+  await writeFile(new URL('favicon.webp', DIST), await readFile(new URL('./src/ui/logo.webp', import.meta.url)));
+  written.push('favicon.webp');
 
   // GitHub Pages otherwise runs the output through Jekyll, which drops files beginning with an
   // underscore and does nothing else we want.

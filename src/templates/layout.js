@@ -74,11 +74,14 @@ export function layout(page) {
     <meta property="og:title" content="${esc(page.title)}">
     <meta property="og:description" content="${esc(page.description)}">
     <meta property="og:type" content="website">
-    <link rel="stylesheet" href="${esc(url(base, '/ui/site.css'))}">${jsonLd}
+    <link rel="stylesheet" href="${esc(url(base, '/ui/site.css'))}">
+    <link rel="icon" href="${esc(url(base, '/favicon.webp'))}" type="image/webp">${jsonLd}
   </head>
   <body>
     <header class="site">
-      <a class="wordmark" href="${esc(url(base, '/'))}">WatchOrder</a>
+      <a class="wordmark" href="${esc(url(base, '/'))}">
+        <img src="${esc(url(base, '/ui/logo.webp'))}" alt="WatchOrder" class="logo">
+      </a>
     </header>
 ${page.body}
     <footer class="site">

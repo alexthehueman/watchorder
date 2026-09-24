@@ -45,10 +45,17 @@ header.site {
 }
 
 .wordmark {
-  font: 600 1rem/1 ui-serif, Georgia, serif;
-  letter-spacing: 0.14em;
-  text-transform: uppercase;
+  display: inline-flex;
   text-decoration: none;
+  background: #faf9f7;
+  padding: 0.35rem 0.6rem;
+  border-radius: 0.4rem;
+}
+
+.logo {
+  height: 2rem;
+  width: auto;
+  display: block;
 }
 
 main {
