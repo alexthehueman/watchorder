@@ -1,0 +1,47 @@
+slug: charles-lang
+kind: cinematographer
+name: Charles Lang
+blurb: A studio-era workhorse with 18 Oscar nominations across five decades — tied for the category's all-time record — who moved fluidly from early-sound melodrama through noir and the Western to glossy 1960s comedy-thriller.
+
+films:
+  - film: a-farewell-to-arms
+    signature: 4
+    must_see: true
+    gateway: 2
+    note: A doomed WWI romance between an American ambulance driver and a British nurse is shot with soft, expressionist lighting that won him his Oscar.
+
+  - film: the-big-heat
+    signature: 5
+    gateway: 2
+    note: A cop's crusade against a crime syndicate escalates into genuine brutality, most infamously a scalding-coffee attack the film refuses to look away from.
+
+  - film: charade
+    signature: 3
+    gateway: 1
+    note: A widow is pursued by several men after her husband's fortune, shot with glossy, Hitchcockian Parisian polish and constant tonal whiplash between romance and thriller.
+
+  - film: gunfight-at-the-ok-corral
+    signature: 3
+    gateway: 2
+    note: Wyatt Earp and Doc Holliday's uneasy alliance builds toward the genre's most famous shootout, shot with classical widescreen Western scale.
+
+  - film: the-magnificent-seven-1960
+    signature: 3
+    gateway: 2
+    note: Seven hired gunmen defend a starving Mexican village, shot with the same clean, classical Western grandeur.
+
+  - film: some-like-it-hot
+    signature: 3
+    gateway: 1
+    note: Two musicians on the run from the mob disguise themselves as women in an all-female band, shot in crisp black and white that keeps the farce visually sharp.
+
+curated:
+  curator: house
+  rationale: The Oscar-winning landmark first, then the range across five decades of genre work.
+  order:
+    - a-farewell-to-arms
+    - the-big-heat
+    - gunfight-at-the-ok-corral
+    - the-magnificent-seven-1960
+    - some-like-it-hot
+    - charade

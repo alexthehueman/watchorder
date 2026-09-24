@@ -1,0 +1,14 @@
+# New films for Charles Lang. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Some Like It Hot already exists in wilder.yaml. The Big Heat already exists in lang.yaml
+# (Fritz Lang, no relation). Gunfight at the O.K. Corral and The Magnificent Seven already exist
+# in kirk-douglas.yaml/eli-wallach.yaml. Charade already exists in grant.yaml.
+
+- id: a-farewell-to-arms
+  tmdb_id: 22649
+  title: A Farewell to Arms
+  year: 1932
+  runtime: 89
+  director: Frank Borzage
+  tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }

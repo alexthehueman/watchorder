@@ -1,0 +1,42 @@
+slug: rachel-morrison
+kind: cinematographer
+name: Rachel Morrison
+blurb: The first woman ever nominated for the Best Cinematography Oscar, known for grounded, naturalistic light applied equally to Mississippi Delta poverty and Wakandan blockbuster spectacle.
+
+films:
+  - film: fruitvale-station
+    signature: 4
+    must_see: true
+    gateway: 1
+    note: The last day of a young Black man's life before a fatal police shooting is shot with plain, documentary-close intimacy.
+
+  - film: mudbound
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: Two Mississippi Delta families, one Black and one white, are bound together by shared land and mutual resentment, shot in stark, unglamorous rural light — her Oscar-nominated breakthrough.
+
+  - film: dope
+    signature: 3
+    gateway: 1
+    note: A geeky, 90s-hip-hop-obsessed teenager stumbles into a drug-dealing scheme, shot with bright, kinetic energy that matches its own coming-of-age comedy.
+
+  - film: black-panther
+    signature: 3
+    gateway: 1
+    note: A hidden African nation's new king defends his throne and his country's secrets, shot with a scale and visual ambition rare for a superhero blockbuster's cinematographer credit.
+
+  - film: seberg
+    signature: 3
+    gateway: 2
+    note: The actress Jean Seberg's real-life FBI surveillance campaign is shot with a paranoid unease that keeps blurring where real threats end and her own fear begins.
+
+curated:
+  curator: house
+  rationale: The two landmark achievements first, then the range around them.
+  order:
+    - mudbound
+    - fruitvale-station
+    - black-panther
+    - dope
+    - seberg

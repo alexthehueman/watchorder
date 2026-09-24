@@ -1,0 +1,36 @@
+slug: claire-mathon
+kind: cinematographer
+name: Claire Mathon
+blurb: A French cinematographer whose César-winning work on Portrait of a Lady on Fire made her one of contemporary French cinema's most sought-after collaborators, equally at home in intimate queer drama and glossy prestige biopic.
+
+films:
+  - film: portrait-of-a-lady-on-fire
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: A painter and her aristocratic subject fall for each other on an isolated Brittany island, shot with a controlled, painterly stillness that mirrors the act of portraiture itself.
+
+  - film: atlantics
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A supernatural possession following a group of drowned migrant workers is shot with a hazy, tidal restlessness the film never fully explains, treating it as simply real.
+
+  - film: stranger-by-the-lake
+    signature: 4
+    gateway: 3
+    note: A man keeps returning to a gay cruising spot even after witnessing a murder there, shot almost entirely in fixed, unmoving daylight compositions.
+
+  - film: spencer
+    signature: 3
+    gateway: 2
+    note: Princess Diana's fraught Christmas at Sandringham is staged as a fable, shot with cold, oppressive symmetry that turns the estate into a kind of prison.
+
+curated:
+  curator: house
+  rationale: The two landmark achievements first, then the range around them.
+  order:
+    - portrait-of-a-lady-on-fire
+    - atlantics
+    - stranger-by-the-lake
+    - spencer

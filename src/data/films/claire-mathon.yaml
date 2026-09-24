@@ -1,0 +1,31 @@
+# New films for Claire Mathon. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Portrait of a Lady on Fire and Spencer already exist in neon.yaml.
+
+- id: atlantics
+  tmdb_id: 496967
+  title: Atlantics
+  year: 2019
+  runtime: 106
+  director: Mati Diop
+  tags:
+    opacity: 3 # a supernatural possession the film never fully explains, treating it as simply real
+    stillness: 4
+    bleakness: 4
+    humor: 1
+    acclaim: 0.75
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: stranger-by-the-lake
+  tmdb_id: 186992
+  title: Stranger by the Lake
+  year: 2013
+  runtime: 100
+  director: Alain Guiraudie
+  tags:
+    opacity: 2 # a man keeps returning to the same cruising spot even after witnessing a murder there
+    stillness: 3
+    bleakness: 5
+    humor: 2
+    acclaim: 0.80
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 3 }
