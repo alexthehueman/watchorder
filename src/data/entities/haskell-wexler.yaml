@@ -1,0 +1,42 @@
+slug: haskell-wexler
+kind: cinematographer
+name: Haskell Wexler
+blurb: A two-time Oscar winner whose career runs from stark black-and-white 1960s prestige drama through the New Hollywood's most acclaimed studio pictures, always with a documentarian's eye for social and political reality.
+
+films:
+  - film: whos-afraid-of-virginia-woolf
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: A faculty couple's late-night verbal cruelty toward each other and their guests is shot in stark, unflattering black and white that gives the fighting nowhere to hide.
+
+  - film: one-flew-over-the-cuckoos-nest
+    signature: 5
+    gateway: 3
+    note: A criminal fakes insanity to serve his sentence in a psychiatric ward, and clashes with the ward's tyrannical head nurse over every small freedom left to the patients.
+
+  - film: in-the-heat-of-the-night
+    signature: 4
+    must_see: true
+    gateway: 2
+    note: A Black Philadelphia detective stranded in a hostile Mississippi town is forced into a murder investigation the local police resent him for solving.
+
+  - film: bound-for-glory
+    signature: 4
+    gateway: 2
+    note: The folk singer Woody Guthrie's Dust Bowl years are shot with real documentary-scale landscape work, including an early Steadicam sequence that glided through a migrant labor camp.
+
+  - film: the-thomas-crown-affair-1968
+    signature: 3
+    gateway: 1
+    note: A bored millionaire orchestrates a bank heist for the thrill of it, shot with a then-radical split-screen technique that stacks multiple simultaneous angles in one frame.
+
+curated:
+  curator: house
+  rationale: The two Oscar-winning landmarks first, then the range around them.
+  order:
+    - whos-afraid-of-virginia-woolf
+    - bound-for-glory
+    - in-the-heat-of-the-night
+    - one-flew-over-the-cuckoos-nest
+    - the-thomas-crown-affair-1968

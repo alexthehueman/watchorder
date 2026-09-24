@@ -1,0 +1,27 @@
+# New films for Haskell Wexler. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Who's Afraid of Virginia Woolf? already exists in taylor.yaml. One Flew Over the Cuckoo's Nest
+# already exists in nicholson.yaml. In the Heat of the Night already exists in poitier.yaml.
+
+- id: bound-for-glory
+  tmdb_id: 42232
+  title: Bound for Glory
+  year: 1976
+  runtime: 147
+  director: Hal Ashby
+  tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 2, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-thomas-crown-affair-1968
+  tmdb_id: 912
+  title: The Thomas Crown Affair
+  year: 1968
+  runtime: 102
+  director: Norman Jewison
+  tags:
+    opacity: 2 # a heist mastermind and the insurance investigator chasing him keep circling whether either one is actually falling for the other
+    stillness: 2
+    bleakness: 1
+    humor: 3
+    acclaim: 0.72
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }

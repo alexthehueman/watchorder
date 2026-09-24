@@ -1,0 +1,52 @@
+# New films for Sergei Urusevsky. Scales and anchors are in README.md ("The anchor rubric").
+
+- id: the-cranes-are-flying
+  tmdb_id: 38360
+  title: The Cranes Are Flying
+  year: 1957
+  runtime: 97
+  director: Mikhail Kalatozov
+  tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 2, acclaim: 0.90 }
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: letter-never-sent
+  tmdb_id: 83539
+  title: Letter Never Sent
+  year: 1960
+  runtime: 96
+  director: Mikhail Kalatozov
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 5 # four geologists stranded by a forest fire in the Siberian wilderness, one by one
+    humor: 1
+    acclaim: 0.80
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: i-am-cuba
+  tmdb_id: 32015
+  title: I Am Cuba
+  year: 1964
+  runtime: 141
+  director: Mikhail Kalatozov
+  tags:
+    opacity: 2 # four loosely connected vignettes the film never ties together with conventional narrative logic
+    stillness: 3
+    bleakness: 4
+    humor: 1
+    acclaim: 0.82
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: the-forty-first
+  tmdb_id: 46741
+  title: The Forty-First
+  year: 1956
+  runtime: 88
+  director: Grigori Chukhray
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 5 # a Red Army sharpshooter and her White Army prisoner fall for each other stranded on a desert island, and the war finds them anyway
+    humor: 1
+    acclaim: 0.75
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }

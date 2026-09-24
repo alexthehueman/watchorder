@@ -1,0 +1,36 @@
+slug: sergei-urusevsky
+kind: cinematographer
+name: Sergei Urusevsky
+blurb: A Soviet cinematographer whose subjective, freely mobile camera work with Mikhail Kalatozov — swooping, spiraling, physically breaking from convention — helped win the only Palme d'Or ever awarded to a Soviet film.
+
+films:
+  - film: the-cranes-are-flying
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: A young woman's fiancé is lost to the war while she is pressured into another marriage, the camera swooping and spiraling through crowds and stairwells in ways Soviet cinema had never allowed before — the only Palme d'Or ever awarded to a Soviet film.
+
+  - film: i-am-cuba
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: Four loosely connected vignettes of pre-revolutionary Cuba are shot with technically impossible tracking shots, including one that glides down a hotel building and into a swimming pool.
+
+  - film: letter-never-sent
+    signature: 4
+    gateway: 3
+    note: Four geologists stranded by a forest fire in the Siberian wilderness are picked off one by one, shot with a physically punishing, handheld immediacy inside the actual blaze.
+
+  - film: the-forty-first
+    signature: 3
+    gateway: 2
+    note: A Red Army sharpshooter and her White Army prisoner fall for each other stranded on a desert island, and the war finds them anyway.
+
+curated:
+  curator: house
+  rationale: The two landmark achievements first, then the range around them.
+  order:
+    - the-cranes-are-flying
+    - i-am-cuba
+    - the-forty-first
+    - letter-never-sent

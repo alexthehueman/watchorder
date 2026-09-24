@@ -1,0 +1,36 @@
+slug: stanley-cortez
+kind: cinematographer
+name: Stanley Cortez
+blurb: A cinematographer whose innovative, expressionist lighting defined two of the strangest and most unsettling studio films ever released, later finding a kindred spirit in Samuel Fuller's lurid B-picture pulp.
+
+films:
+  - film: the-night-of-the-hunter
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A murderous preacher stalks two children down a moonlit river, shot as a fairy tale whose expressionist shadows make the logic of nightmare feel completely earned.
+
+  - film: the-magnificent-ambersons
+    signature: 5
+    gateway: 2
+    note: A once-grand family's decline is shot with deep-focus interiors that keep every character's diminishing status visible in the same frame.
+
+  - film: shock-corridor
+    signature: 4
+    must_see: true
+    gateway: 2
+    note: A reporter faking insanity to solve a murder inside an asylum starts genuinely losing his grip, the corridor itself shot to feel like it's closing in.
+
+  - film: the-naked-kiss
+    signature: 3
+    gateway: 2
+    note: A former sex worker's attempt at a respectable new life in a small town is shot with the same lurid, high-contrast pulp instincts as the rest of Fuller's B-picture run.
+
+curated:
+  curator: house
+  rationale: The two landmark achievements first, then the range around them.
+  order:
+    - the-night-of-the-hunter
+    - the-magnificent-ambersons
+    - shock-corridor
+    - the-naked-kiss

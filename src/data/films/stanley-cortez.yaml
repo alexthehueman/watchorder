@@ -1,0 +1,27 @@
+# New films for Stanley Cortez. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Night of the Hunter already exists in mitchum.yaml. The Magnificent Ambersons already exists
+# in welles.yaml.
+
+- id: shock-corridor
+  tmdb_id: 25504
+  title: Shock Corridor
+  year: 1963
+  runtime: 101
+  director: Samuel Fuller
+  tags:
+    opacity: 3 # a reporter faking insanity to solve a murder starts genuinely losing his grip, and the film never marks the line
+    stillness: 2
+    bleakness: 5
+    humor: 1
+    acclaim: 0.75
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-naked-kiss
+  tmdb_id: 26031
+  title: The Naked Kiss
+  year: 1964
+  runtime: 90
+  director: Samuel Fuller
+  tags: { opacity: 2, stillness: 2, bleakness: 5, humor: 2, acclaim: 0.75 }
+  content: { sexual_violence: true, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 1 }
