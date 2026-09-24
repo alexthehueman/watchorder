@@ -1,0 +1,30 @@
+# New films for Leon Shamroy. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Cleopatra (1963) already exists in taylor.yaml.
+
+- id: the-black-swan-1942
+  tmdb_id: 29882
+  title: The Black Swan
+  year: 1942
+  runtime: 85
+  director: Henry King
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-robe
+  tmdb_id: 29912
+  title: The Robe
+  year: 1953
+  runtime: 135
+  director: Henry Koster
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-king-and-i
+  tmdb_id: 16520
+  title: The King and I
+  year: 1956
+  runtime: 133
+  director: Walter Lang
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

@@ -1,0 +1,36 @@
+slug: leon-shamroy
+kind: cinematographer
+name: Leon Shamroy
+blurb: A four-time Oscar-winning 20th Century Fox staff cinematographer whose 50-year career shot the studio's biggest Technicolor and widescreen spectacles, from the earliest CinemaScope experiments through the most expensive film ever made at the time.
+
+films:
+  - film: cleopatra
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: The most expensive film made up to that point, shot with lavish, spare-no-expense Technicolor grandeur across ancient Rome and Egypt — his fourth and final Oscar win.
+
+  - film: the-robe
+    signature: 4
+    must_see: true
+    gateway: 1
+    note: A Roman military tribune's conversion to Christianity is shot in the very first CinemaScope film ever released, its wide frame designed to make the format's arrival an event.
+
+  - film: the-king-and-i
+    signature: 3
+    gateway: 1
+    note: A British schoolteacher's clash of wills with the King of Siam is shot in the lavish widescreen musical style Fox built its 1950s prestige productions around.
+
+  - film: the-black-swan-1942
+    signature: 2
+    gateway: 2
+    note: A reformed pirate is recruited by the crown to hunt his former comrades, shot in early three-strip Technicolor swashbuckling adventure gloss.
+
+curated:
+  curator: house
+  rationale: The two landmark spectacles first, then the range around them.
+  order:
+    - cleopatra
+    - the-robe
+    - the-king-and-i
+    - the-black-swan-1942

@@ -1,0 +1,60 @@
+slug: linus-sandgren
+kind: cinematographer
+name: Linus Sandgren
+blurb: A Swedish cinematographer who won his Oscar for La La Land's classic Cinemascope romanticism, then spent the years since alternating between David O. Russell's messy ensemble energy and Damien Chazelle's more formally ambitious spectacle.
+
+films:
+  - film: la-la-land
+    signature: 5
+    must_see: true
+    gateway: 1
+    note: A jazz pianist and an aspiring actress fall in and out of love across Los Angeles, shot in classic 2.55:1 Cinemascope that lets a closing fantasy sequence blur into the real ending — his Oscar-winning signature achievement.
+
+  - film: first-man
+    signature: 4
+    must_see: true
+    gateway: 3
+    note: Neil Armstrong's journey to the moon is shot with claustrophobic, handheld intimacy inside the capsules, only opening into vast stillness once he reaches the surface.
+
+  - film: babylon
+    signature: 4
+    gateway: 2
+    note: Hollywood's chaotic, hedonistic transition to sound is shot with restless, careening camera work that plays the excess as spectacle before turning genuinely ugly.
+
+  - film: american-hustle
+    signature: 3
+    gateway: 1
+    note: A con artist and an FBI agent's uneasy partnership in a 1970s sting operation is shot with warm, grimy period polyester glow.
+
+  - film: joy
+    signature: 2
+    gateway: 1
+    note: A struggling single mother invents a self-wringing mop and fights her way into the home-shopping business, shot with a scrappy, unglamorous naturalism.
+
+  - film: saltburn
+    signature: 4
+    gateway: 3
+    note: An Oxford outsider's obsession with a wealthy classmate's family estate is shot in a boxy, near-square aspect ratio that makes every room feel like a trap.
+
+  - film: no-time-to-die
+    signature: 2
+    gateway: 2
+    note: A retired 007 is pulled back for one last mission, shot with real scale across multiple continents in his sole entry into blockbuster franchise work.
+
+  - film: promised-land
+    signature: 2
+    gateway: 1
+    note: A natural-gas company salesman's own pitch is gradually complicated by what he's actually being asked to hide from a skeptical farm town.
+
+curated:
+  curator: house
+  rationale: The two landmark achievements first, then the range across his Chazelle and Russell collaborations.
+  order:
+    - la-la-land
+    - first-man
+    - babylon
+    - saltburn
+    - american-hustle
+    - no-time-to-die
+    - promised-land
+    - joy

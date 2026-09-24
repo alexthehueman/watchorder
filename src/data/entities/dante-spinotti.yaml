@@ -1,0 +1,42 @@
+slug: dante-spinotti
+kind: cinematographer
+name: Dante Spinotti
+blurb: An Italian cinematographer best known as Michael Mann's regular collaborator, applying the same cool, glassy blue-and-amber urban palette across true-crime procedural, sprawling frontier epic and prestige noir alike.
+
+films:
+  - film: heat
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: A career criminal and the detective hunting him circle each other across Los Angeles's cool, glassy nighttime geometry, most of the film's three hours spent on men sitting still and talking.
+
+  - film: la-confidential
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: Three LAPD detectives work from partial, conflicting pictures of the same corruption case, shot with a noir polish that never lets any of them see the whole picture at once.
+
+  - film: manhunter
+    signature: 4
+    gateway: 2
+    note: An FBI profiler pursues a controlled, articulate serial killer who reveals almost nothing, shot in the cool blue-and-neon palette that became Mann's visual signature from here on.
+
+  - film: the-insider
+    signature: 4
+    gateway: 2
+    note: A tobacco-industry whistleblower's story is suppressed by his own network, shot with the same restrained, glassy corporate cool as the institutions closing in on him.
+
+  - film: last-of-the-mohicans
+    signature: 3
+    gateway: 2
+    note: A colonial frontier war is shot with real Appalachian mountain scale and sweeping, romantic widescreen grandeur.
+
+curated:
+  curator: house
+  rationale: The two landmark Mann collaborations first, then the range around them.
+  order:
+    - heat
+    - la-confidential
+    - manhunter
+    - the-insider
+    - last-of-the-mohicans

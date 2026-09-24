@@ -1,0 +1,19 @@
+# New films for Linus Sandgren. Scales and anchors are in README.md ("The anchor rubric").
+#
+# La La Land, First Man and Babylon already exist in damien-chazelle.yaml. No Time to Die already
+# exists in de-armas.yaml. American Hustle already exists in bale.yaml. Joy already exists in
+# jennifer-lawrence.yaml. Saltburn already exists in keoghan.yaml.
+
+- id: promised-land
+  tmdb_id: 133694
+  title: Promised Land
+  year: 2012
+  runtime: 106
+  director: Gus Van Sant
+  tags:
+    opacity: 2 # a natural-gas salesman's own sales pitch is gradually complicated by what he's actually being asked to hide
+    stillness: 3
+    bleakness: 3
+    humor: 2
+    acclaim: 0.62
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
