@@ -1,0 +1,48 @@
+slug: john-toll
+kind: cinematographer
+name: John Toll
+blurb: One of only four cinematographers ever to win back-to-back Academy Awards, known for sweeping period and war epics before crossing into rock-and-roll comedy and formally ambitious science fiction.
+
+films:
+  - film: braveheart
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: A Scottish rebellion against English rule is shot at genuine battlefield scale, the muddy, brutal clash choreography grounding the film's mythmaking in real physical chaos — his first Oscar.
+
+  - film: legends-of-the-fall
+    signature: 4
+    must_see: true
+    gateway: 2
+    note: Three brothers' lives are shaped by love, war and a Montana ranch across decades, shot with sweeping, golden-hour frontier grandeur.
+
+  - film: the-thin-red-line
+    signature: 5
+    gateway: 3
+    note: The Battle of Guadalcanal is shot with a philosophical, impressionistic camera that drifts as easily toward the jungle canopy as toward the combat — his second consecutive Oscar.
+
+  - film: the-last-samurai
+    signature: 3
+    gateway: 3
+    note: A disillusioned American officer is captured by and comes to respect a samurai rebellion, shot with the same sweeping period-epic scale as his earlier work.
+
+  - film: almost-famous
+    signature: 3
+    gateway: 1
+    note: A teenage journalist tours with a rising rock band for Rolling Stone, shot with warm, nostalgic 1970s road-trip light.
+
+  - film: cloud-atlas
+    signature: 4
+    gateway: 3
+    note: Six timelines across six centuries are cut together with no signposting for which is which, shot in a visual register distinct enough per era to keep the structure legible.
+
+curated:
+  curator: house
+  rationale: The two Oscar-winning landmarks first, then the range around them.
+  order:
+    - braveheart
+    - the-thin-red-line
+    - legends-of-the-fall
+    - the-last-samurai
+    - cloud-atlas
+    - almost-famous

@@ -1,0 +1,66 @@
+slug: greig-fraser
+kind: cinematographer
+name: Greig Fraser
+blurb: An Australian cinematographer whose Oscar-winning work on Dune made him one of the defining visual architects of modern science fiction, equally comfortable in stripped-down indie drama and the largest-scale studio blockbuster.
+
+films:
+  - film: dune-2021
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A noble family's fall on a desert planet is shot with monumental, near-abstract scale that treats architecture and landscape as characters — his Oscar-winning signature achievement.
+
+  - film: zero-dark-thirty
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: The decade-long hunt for Osama bin Laden is shot with a cold, procedural realism that never lets the tension resolve into conventional catharsis.
+
+  - film: the-batman
+    signature: 4
+    gateway: 3
+    note: A killer's riddles are decoded at the same pace by the audience and the detective, shot in perpetual rain and neon that makes Gotham feel genuinely soaked in rot.
+
+  - film: dune-part-two
+    signature: 4
+    gateway: 3
+    note: A returning collaboration completing the story's second half, pushing the same monumental desert scale toward the first film's full-scale war.
+
+  - film: foxcatcher
+    signature: 4
+    gateway: 3
+    note: A wealthy patron's motives for bankrolling two wrestlers are kept genuinely uncertain, shot with a cold, overcast stillness that makes the estate feel emptied of warmth.
+
+  - film: lion
+    signature: 3
+    gateway: 2
+    note: A man adopted from India as a child uses satellite imagery to search for his birth family decades later, shot with warm, patient naturalism across two continents.
+
+  - film: harriet
+    signature: 3
+    gateway: 2
+    note: Harriet Tubman's escape and return missions on the Underground Railroad are shot with long, patient stretches of wilderness tracking between bursts of danger.
+
+  - film: bright-star
+    signature: 3
+    gateway: 1
+    note: A young woman's romance with the poet John Keats is shot with soft, painterly period naturalism.
+
+  - film: vice
+    signature: 2
+    gateway: 2
+    note: Dick Cheney's rise through decades of Washington power is shot with a restless, fourth-wall-aware visual irreverence that matches the film's own satirical structure.
+
+curated:
+  curator: house
+  rationale: The two landmark achievements first, then the range across his blockbuster and indie work.
+  order:
+    - dune-2021
+    - zero-dark-thirty
+    - the-batman
+    - dune-part-two
+    - foxcatcher
+    - lion
+    - harriet
+    - vice
+    - bright-star

@@ -1,0 +1,14 @@
+# New films for Freddie Young. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Lawrence of Arabia already exists in otoole.yaml. Doctor Zhivago already exists in kinski.yaml.
+# Ryan's Daughter already exists in mitchum.yaml. You Only Live Twice already exists in
+# donald-pleasence.yaml.
+
+- id: nicholas-and-alexandra
+  tmdb_id: 38646
+  title: Nicholas and Alexandra
+  year: 1971
+  runtime: 183
+  director: Franklin J. Schaffner
+  tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }

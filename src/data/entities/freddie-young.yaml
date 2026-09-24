@@ -1,0 +1,42 @@
+slug: freddie-young
+kind: cinematographer
+name: Freddie Young
+blurb: David Lean's regular cinematographer across three consecutive Oscar wins, defining the widescreen epic's visual grammar for a generation — sweeping desert horizons, frozen Russian steppes, windswept Irish cliffs, all shot at a scale few cinematographers before or since have matched.
+
+films:
+  - film: lawrence-of-arabia
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A British officer remade by the desert into someone his own side can no longer use, shot at a scale that makes the Arabian desert itself one of the film's characters — his first Oscar.
+
+  - film: doctor-zhivago
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: A doctor and poet's life is upended by the Russian Revolution, shot across genuinely frozen Spanish and Finnish locations standing in for Siberia — his second Oscar.
+
+  - film: ryans-daughter
+    signature: 4
+    gateway: 3
+    note: A married Irish schoolteacher's affair with a British officer plays out against windswept Atlantic coastal cliffs, shot with the same widescreen grandeur as Lean's larger epics — his third Oscar.
+
+  - film: nicholas-and-alexandra
+    signature: 3
+    gateway: 3
+    note: The last Russian imperial family's fall is shot with the same lavish period scale as his Lean collaborations, applied to a different director's historical epic.
+
+  - film: you-only-live-twice
+    signature: 2
+    gateway: 1
+    note: James Bond infiltrates a hollowed-out volcano lair, shot with glossy, widescreen spy-thriller spectacle.
+
+curated:
+  curator: house
+  rationale: The three Oscar-winning landmarks first, then the range around them.
+  order:
+    - lawrence-of-arabia
+    - doctor-zhivago
+    - ryans-daughter
+    - nicholas-and-alexandra
+    - you-only-live-twice

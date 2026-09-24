@@ -1,0 +1,22 @@
+# New films for John Toll. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Braveheart already exists in mel-gibson.yaml. The Thin Red Line already exists in malick.yaml.
+# Almost Famous already exists in mcdormand.yaml. Cloud Atlas already exists in hanks.yaml.
+
+- id: legends-of-the-fall
+  tmdb_id: 4476
+  title: Legends of the Fall
+  year: 1994
+  runtime: 133
+  director: Edward Zwick
+  tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: the-last-samurai
+  tmdb_id: 616
+  title: The Last Samurai
+  year: 2003
+  runtime: 154
+  director: Edward Zwick
+  tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
