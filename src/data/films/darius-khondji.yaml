@@ -1,0 +1,23 @@
+# New films for Darius Khondji. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Se7en already exists in pitt.yaml. Amour already exists in haneke.yaml. The Ninth Gate already
+# exists in depp.yaml. Panic Room already exists in foster.yaml. Midnight in Paris already exists
+# in owen-wilson.yaml. The Immigrant already exists in hoyte-van-hoytema.yaml.
+
+- id: delicatessen
+  tmdb_id: 892
+  title: Delicatessen
+  year: 1991
+  runtime: 99
+  director: Jean-Pierre Jeunet
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 4, acclaim: 0.80 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: evita
+  tmdb_id: 8818
+  title: Evita
+  year: 1996
+  runtime: 135
+  director: Alan Parker
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }

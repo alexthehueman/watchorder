@@ -1,0 +1,66 @@
+slug: laszlo-kovacs
+kind: cinematographer
+name: László Kovács
+blurb: A Hungarian émigré who fled the 1956 revolution with smuggled newsreel footage and became one of the defining cinematographers of the American New Wave, later moving fluidly into broad studio comedy for decades more.
+
+films:
+  - film: easy-rider
+    signature: 5
+    must_see: true
+    gateway: 1
+    note: Two bikers' cross-country drug-money road trip is shot with loose, handheld immediacy that helped define the New Hollywood look almost overnight.
+
+  - film: five-easy-pieces
+    signature: 4
+    gateway: 2
+    note: An oil-rig worker with a hidden classical-music past drifts back toward his estranged family, shot with plain, unglamorous naturalism.
+
+  - film: paper-moon
+    signature: 4
+    must_see: true
+    gateway: 1
+    note: A small-time con man and the possibly-his-daughter girl he's stuck with grift their way across the Depression-era Midwest, shot in crisp black and white.
+
+  - film: shampoo
+    signature: 3
+    gateway: 2
+    note: A womanizing Beverly Hills hairdresser's tangled love life unravels on election night 1968, shot in warm, sun-drenched Southern California light.
+
+  - film: ghostbusters
+    signature: 2
+    gateway: 1
+    note: A trio of parapsychologists turn ghost extermination into a New York business, shot with bright, unfussy studio-comedy clarity around the effects work.
+
+  - film: mask
+    signature: 3
+    gateway: 2
+    note: A teenager with a severe facial deformity and his fiercely protective biker mother are shot with warm, matter-of-fact sympathy that never tips into pity.
+
+  - film: miss-congeniality
+    signature: 1
+    gateway: 1
+    note: A tomboyish FBI agent goes undercover in a beauty pageant, shot with bright, glossy studio-comedy polish decades into his career.
+
+  - film: new-york-new-york
+    signature: 3
+    gateway: 3
+    note: A big-band saxophonist and singer's doomed marriage is shot inside a deliberately artificial, stagebound recreation of postwar New York.
+
+  - film: targets
+    signature: 4
+    gateway: 3
+    note: An aging horror star and an ordinary suburban spree shooter are cut between with no visible connection, until the two storylines converge at a drive-in.
+
+curated:
+  curator: house
+  rationale: The two landmark New Wave achievements first, then the range across his decades in broader studio work.
+  order:
+    - easy-rider
+    - paper-moon
+    - targets
+    - five-easy-pieces
+    - new-york-new-york
+    - shampoo
+    - mask
+    - ghostbusters
+    - miss-congeniality

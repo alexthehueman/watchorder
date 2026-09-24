@@ -1,0 +1,60 @@
+slug: darius-khondji
+kind: cinematographer
+name: Darius Khondji
+blurb: A French-Iranian cinematographer who moved from Jeunet and Caro's grimy Parisian fantasy-horror to become one of Fincher's defining collaborators, equally comfortable in genre dread and late-Haneke austerity.
+
+films:
+  - film: se7en
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A serial killer staging murders around the seven deadly sins is shot in a perpetually rain-soaked, decaying city that never once lets up.
+
+  - film: delicatessen
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: A post-apocalyptic apartment building's butcher-landlord recruits tenants as his literal meat supply, shot in sickly amber tones that turn horror into black comedy.
+
+  - film: amour
+    signature: 4
+    gateway: 3
+    note: An elderly couple's confinement to their Paris apartment as one of them declines is shot with plain, unflinching restraint that withholds nothing.
+
+  - film: panic-room
+    signature: 3
+    gateway: 2
+    note: A mother and daughter barricade themselves inside a fortified safe room during a home invasion, shot with an unbroken camera that glides impossibly through walls and keyholes.
+
+  - film: the-ninth-gate
+    signature: 3
+    gateway: 3
+    note: A rare-book detective chasing a possibly-satanic text is shot in rich, shadow-heavy gothic light that never confirms whether the occult is real.
+
+  - film: midnight-in-paris
+    signature: 3
+    gateway: 1
+    note: A nostalgic screenwriter slips back into 1920s Paris at midnight, shot in warm, golden-hued Parisian light that makes the fantasy visually irresistible.
+
+  - film: the-immigrant
+    signature: 3
+    gateway: 3
+    note: A Polish immigrant's arrival in 1921 New York is shot in muted sepia-gold, hardship given an almost painterly period beauty.
+
+  - film: evita
+    signature: 2
+    gateway: 2
+    note: Eva Perón's rise from actress to Argentine political icon is shot with lavish, propaganda-scale grandeur.
+
+curated:
+  curator: house
+  rationale: The two landmark achievements first, then the range across his Fincher and later collaborations.
+  order:
+    - se7en
+    - delicatessen
+    - amour
+    - panic-room
+    - the-ninth-gate
+    - the-immigrant
+    - midnight-in-paris
+    - evita

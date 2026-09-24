@@ -1,0 +1,55 @@
+# New films for Jack Cardiff. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Black Narcissus, A Matter of Life and Death and The Red Shoes already exist in
+# powell-pressburger.yaml. The African Queen already exists in hepburn-katharine.yaml. The
+# Barefoot Contessa already exists in ava-gardner.yaml.
+
+- id: the-prince-and-the-showgirl
+  tmdb_id: 24012
+  title: The Prince and the Showgirl
+  year: 1957
+  runtime: 117
+  director: Laurence Olivier
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 3, acclaim: 0.62 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: under-capricorn
+  tmdb_id: 4175
+  title: Under Capricorn
+  year: 1949
+  runtime: 117
+  director: Alfred Hitchcock
+  tags:
+    opacity: 3 # a colonial-Australia household secret withheld through several extended, single-take scenes
+    stillness: 3
+    bleakness: 4
+    humor: 1
+    acclaim: 0.62
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-vikings
+  tmdb_id: 42661
+  title: The Vikings
+  year: 1958
+  runtime: 116
+  director: Richard Fleischer
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 2, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: rambo-first-blood-part-ii
+  tmdb_id: 1369
+  title: "Rambo: First Blood Part II"
+  year: 1985
+  runtime: 96
+  director: George P. Cosmatos
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: death-on-the-nile-1978
+  tmdb_id: 4192
+  title: Death on the Nile
+  year: 1978
+  runtime: 140
+  director: John Guillermin
+  tags: { opacity: 3, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }

@@ -1,0 +1,42 @@
+# New films for László Kovács. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Easy Rider and Five Easy Pieces already exist in nicholson.yaml. Shampoo already exists in
+# warren-beatty.yaml. Ghostbusters already exists in weaver.yaml. Miss Congeniality already exists
+# in bullock.yaml. Mask already exists in eric-stoltz.yaml.
+
+- id: paper-moon
+  tmdb_id: 11293
+  title: Paper Moon
+  year: 1973
+  runtime: 102
+  director: Peter Bogdanovich
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: new-york-new-york
+  tmdb_id: 12637
+  title: New York, New York
+  year: 1977
+  runtime: 163
+  director: Martin Scorsese
+  tags:
+    opacity: 2 # a deliberately stagebound, artificial studio recreation of postwar New York, at odds with the couple's very real dysfunction
+    stillness: 3
+    bleakness: 4
+    humor: 1
+    acclaim: 0.65
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: targets
+  tmdb_id: 19383
+  title: Targets
+  year: 1968
+  runtime: 90
+  director: Peter Bogdanovich
+  tags:
+    opacity: 2 # cuts between an aging horror star and a spree shooter with no visible connection until the very end
+    stillness: 2
+    bleakness: 5
+    humor: 1
+    acclaim: 0.78
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
