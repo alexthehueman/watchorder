@@ -1,0 +1,30 @@
+# New films for Matthew Libatique. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Black Swan already exists in cassel.yaml. A Star Is Born already exists in bradley-cooper.yaml.
+# Pi already exists in darren-aronofsky.yaml. Requiem for a Dream already exists in
+# ellen-burstyn.yaml. The Fountain already exists in jackman.yaml. Noah already exists in
+# russell-crowe.yaml. mother! already exists in bardem.yaml. Iron Man already exists in
+# downey.yaml. Phone Booth already exists in colin-farrell.yaml.
+
+- id: iron-man-2
+  tmdb_id: 10138
+  title: Iron Man 2
+  year: 2010
+  runtime: 124
+  director: Jon Favreau
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: maestro
+  tmdb_id: 523607
+  title: Maestro
+  year: 2023
+  runtime: 129
+  director: Bradley Cooper
+  tags:
+    opacity: 2 # decades of a complicated marriage compressed into fragments, chronology deliberately loosened
+    stillness: 3
+    bleakness: 3
+    humor: 1
+    acclaim: 0.68
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }

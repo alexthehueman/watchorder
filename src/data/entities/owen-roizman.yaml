@@ -1,0 +1,48 @@
+slug: owen-roizman
+kind: cinematographer
+name: Owen Roizman
+blurb: A five-time Oscar nominee never once a winner, whose gritty 1970s New York location work on Friedkin's early films helped define the decade's realist crime cinema before he moved into glossier studio comedy.
+
+films:
+  - film: the-french-connection
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A grinding narcotics investigation across a grimy, unglamorized New York builds toward an elevated-train car chase shot with genuine documentary urgency.
+
+  - film: the-exorcist
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A young girl's possession is shot with cold, clinical restraint that lets the horror emerge from procedure rather than visual excess.
+
+  - film: network
+    signature: 4
+    gateway: 1
+    note: A veteran anchor's on-air breakdown is exploited for ratings, shot with the same flat, unglamorous television-studio lighting the film is satirizing.
+
+  - film: three-days-of-the-condor
+    signature: 3
+    gateway: 2
+    note: A CIA analyst realizes he no longer knows which of his own agency's people are trying to kill him, shot with a paranoid 1970s New York naturalism.
+
+  - film: tootsie
+    signature: 3
+    gateway: 1
+    note: A struggling actor's career takes off only after he starts auditioning in drag, shot with bright, conventional studio-comedy clarity.
+
+  - film: the-addams-family
+    signature: 2
+    gateway: 1
+    note: A gleefully macabre family navigates a con man posing as a long-lost relative, shot with gothic studio production design given full comic commitment.
+
+curated:
+  curator: house
+  rationale: The two landmark 1970s achievements first, then the range across his later career.
+  order:
+    - the-french-connection
+    - the-exorcist
+    - network
+    - three-days-of-the-condor
+    - tootsie
+    - the-addams-family

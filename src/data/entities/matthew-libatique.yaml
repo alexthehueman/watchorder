@@ -1,0 +1,78 @@
+slug: matthew-libatique
+kind: cinematographer
+name: Matthew Libatique
+blurb: Darren Aronofsky's regular collaborator since his very first feature, moving between raw guerrilla indie horror and glossy studio blockbuster without ever losing a taste for disorienting, subjective camera work.
+
+films:
+  - film: pi
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: A number-obsessed mathematician's paranoid spiral is shot in grainy, high-contrast black and white on a shoestring budget, their earliest and rawest collaboration.
+
+  - film: requiem-for-a-dream
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: Four intersecting addictions accelerate toward the same wall, shot with rapid-fire editing and disorienting subjective camera tricks that make decline feel physically vertiginous.
+
+  - film: black-swan
+    signature: 5
+    gateway: 3
+    note: A ballerina's perfectionist unraveling is shot with a handheld camera that follows her like a stalker, letting reality and hallucination blur without ever announcing the difference.
+
+  - film: the-fountain
+    signature: 4
+    gateway: 2
+    note: Three interwoven timelines spanning a millennium are never clarified as literal or allegorical, shot with the same hushed, cosmic patience across all three.
+
+  - film: mother-2017
+    signature: 4
+    gateway: 2
+    note: A domestic drama reveals itself as biblical allegory only in pieces, shot almost entirely in extreme close-up on the wife's own increasingly panicked face.
+
+  - film: noah
+    signature: 3
+    gateway: 3
+    note: A flood narrative treated as genuine apocalyptic vision rather than storybook myth, shot with real Icelandic landscape scale.
+
+  - film: iron-man
+    signature: 2
+    gateway: 1
+    note: A billionaire arms manufacturer builds a weaponized suit after a near-death experience, shot with a looser, more improvisational energy than most studio blockbusters allow.
+
+  - film: iron-man-2
+    signature: 2
+    gateway: 1
+    note: A returning studio-scale collaboration, expanding the first film's visual world into a larger, more effects-driven sequel.
+
+  - film: a-star-is-born-2018
+    signature: 4
+    gateway: 1
+    note: A fading rock star discovers and falls for a struggling singer, shot with warm, intimate concert-scale immediacy that makes the music feel genuinely live.
+
+  - film: maestro
+    signature: 3
+    gateway: 2
+    note: Decades of Leonard Bernstein's complicated marriage are compressed into fragments, the chronology and aspect ratio both deliberately loosened across eras.
+
+  - film: phone-booth
+    signature: 2
+    gateway: 1
+    note: A man pinned inside a single phone booth by a sniper is shot with restless split-screen and constant camera motion to keep one location visually alive.
+
+curated:
+  curator: house
+  rationale: The two landmark Aronofsky achievements first, then the range around them.
+  order:
+    - requiem-for-a-dream
+    - black-swan
+    - pi
+    - mother-2017
+    - the-fountain
+    - noah
+    - a-star-is-born-2018
+    - maestro
+    - iron-man
+    - iron-man-2
+    - phone-booth

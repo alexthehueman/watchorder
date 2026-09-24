@@ -1,0 +1,66 @@
+slug: robby-muller
+kind: cinematographer
+name: Robby Müller
+blurb: A Dutch cinematographer known for pure natural light and minimalist, unfussy imagery — Wim Wenders's regular collaborator through the German road-movie years, later a key part of Jarmusch and von Trier's most distinctive work.
+
+films:
+  - film: paris-texas
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: A man wanders out of the desert mute and unexplained, shot in wide, sun-bleached American vistas that make his isolation feel geological.
+
+  - film: dead-man
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A black-and-white acid Western drifts into outright mysticism, shot with stark, high-contrast frontier imagery that never once explains itself.
+
+  - film: the-american-friend
+    signature: 4
+    gateway: 3
+    note: A dying picture-framer is recruited into a killing, shot in hazy, sodium-lit Hamburg night that matches how little he understands about what he's doing.
+
+  - film: breaking-the-waves
+    signature: 4
+    gateway: 3
+    note: A devout young woman's sacrificial love is shot handheld on desaturated video, then transferred to grainy film stock to strip away any conventional beauty.
+
+  - film: down-by-law
+    signature: 4
+    gateway: 1
+    note: Three mismatched cellmates escape into a Louisiana swamp with no plan, shot in crisp black and white that turns the bayou into pure atmosphere.
+
+  - film: dancer-in-the-dark
+    signature: 3
+    gateway: 2
+    note: A Czech immigrant going blind escapes into elaborate musical fantasies, shot on shaky handheld digital video that turns brutally still for the numbers themselves.
+
+  - film: to-live-and-die-in-la
+    signature: 3
+    gateway: 3
+    note: A Secret Service agent's methods grow steadily less defensible, shot in glossy, sun-bleached 1980s Los Angeles neon.
+
+  - film: alice-in-the-cities
+    signature: 3
+    gateway: 1
+    note: A German journalist unexpectedly responsible for a young girl drives across America and Germany searching for her grandmother, shot in plain black-and-white road-movie naturalism.
+
+  - film: ghost-dog-the-way-of-the-samurai
+    signature: 3
+    gateway: 2
+    note: A hitman living entirely by an ancient samurai code is shot with total, deadpan sincerity against an ordinary American city.
+
+curated:
+  curator: house
+  rationale: The two landmark achievements first, then the range across his Wenders, Jarmusch and von Trier collaborations.
+  order:
+    - paris-texas
+    - dead-man
+    - the-american-friend
+    - down-by-law
+    - breaking-the-waves
+    - ghost-dog-the-way-of-the-samurai
+    - dancer-in-the-dark
+    - to-live-and-die-in-la
+    - alice-in-the-cities
