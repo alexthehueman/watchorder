@@ -1,0 +1,28 @@
+# New films for Anthony Dod Mantle. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Slumdog Millionaire and 127 Hours already exist in danny-boyle.yaml. 28 Days Later already exists
+# in cillian-murphy.yaml. Dogville already exists in kidman.yaml. Antichrist already exists in
+# dafoe.yaml. The Last King of Scotland already exists in whitaker.yaml.
+
+- id: the-celebration
+  tmdb_id: 309
+  title: The Celebration
+  year: 1998
+  runtime: 105
+  director: Thomas Vinterberg
+  tags:
+    opacity: 2 # a public accusation at a family dinner that the rest of the family keeps trying to talk over and bury
+    stillness: 2
+    bleakness: 5
+    humor: 2
+    acclaim: 0.85
+  content: { sexual_violence: true, animal_harm: false, child_harm: true, suicide: true, violence: 1, sex: 0 }
+
+- id: t2-trainspotting
+  tmdb_id: 180863
+  title: T2 Trainspotting
+  year: 2017
+  runtime: 117
+  director: Danny Boyle
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 2, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }

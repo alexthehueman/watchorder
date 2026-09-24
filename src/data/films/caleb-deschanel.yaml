@@ -1,0 +1,27 @@
+# New films for Caleb Deschanel. Scales and anchors are in README.md ("The anchor rubric").
+#
+# The Natural already exists in redford.yaml. Being There already exists in sellers.yaml. Anna and
+# the King already exists in chow-yun-fat.yaml.
+
+- id: the-black-stallion
+  tmdb_id: 17264
+  title: The Black Stallion
+  year: 1979
+  runtime: 118
+  director: Carroll Ballard
+  tags:
+    opacity: 1
+    stillness: 3 # a nearly wordless first act, an island survival story told almost entirely through image
+    bleakness: 3
+    humor: 1
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-right-stuff
+  tmdb_id: 9549
+  title: The Right Stuff
+  year: 1983
+  runtime: 193
+  director: Philip Kaufman
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }

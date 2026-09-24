@@ -1,0 +1,23 @@
+# New films for Peter Deming. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Mulholland Drive and Lost Highway already exist in lynch.yaml. Evil Dead II already exists in
+# bruce-campbell.yaml. Drag Me to Hell already exists in sam-raimi.yaml. The Cabin in the Woods
+# already exists in lionsgate.yaml.
+
+- id: scream-2
+  tmdb_id: 4233
+  title: Scream 2
+  year: 1997
+  runtime: 120
+  director: Wes Craven
+  tags: { opacity: 2, stillness: 1, bleakness: 3, humor: 3, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: my-cousin-vinny
+  tmdb_id: 10377
+  title: My Cousin Vinny
+  year: 1992
+  runtime: 120
+  director: Jonathan Lynn
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 5, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

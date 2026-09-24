@@ -1,0 +1,54 @@
+slug: peter-deming
+kind: cinematographer
+name: Peter Deming
+blurb: A cinematographer defined by three long-running horror partnerships — David Lynch's dream logic, Sam Raimi's gleeful splatter, and Wes Craven's self-aware slasher franchise — with a genre versatility that runs from psychological dread to broad studio comedy.
+
+films:
+  - film: mulholland-drive
+    signature: 5
+    must_see: true
+    gateway: 4
+    note: A Hollywood noir that dissolves its own timeline midway through, shot with the same hazy, dreamlike unease at every stage of the deception.
+
+  - film: lost-highway
+    signature: 5
+    gateway: 4
+    note: A man convicted of his wife's murder inexplicably transforms into someone else entirely, shot with an unbroken sense of dread that never explains the shift.
+
+  - film: evil-dead-ii
+    signature: 4
+    must_see: true
+    gateway: 1
+    note: A cabin in the woods becomes a gore-soaked, gleefully over-the-top gauntlet, shot with cartoonish Dutch angles and whip pans that match its slapstick horror.
+
+  - film: scream-2
+    signature: 3
+    gateway: 1
+    note: A masked killer stalks a college campus in a self-aware sequel that keeps commenting on its own genre while still delivering real slasher tension.
+
+  - film: drag-me-to-hell
+    signature: 3
+    gateway: 1
+    note: A loan officer cursed by a vengeful gypsy is tormented in a return to broad, splatstick horror-comedy after decades in more restrained studio work.
+
+  - film: my-cousin-vinny
+    signature: 2
+    gateway: 1
+    note: A brash New York lawyer bluffs his way through a Southern murder trial, shot with plain courtroom clarity that lets the comedy carry itself.
+
+  - film: the-cabin-in-the-woods
+    signature: 4
+    gateway: 2
+    note: A group of college friends' cabin getaway turns out to be orchestrated from a hidden control room, the reveal withheld until almost no runtime is left.
+
+curated:
+  curator: house
+  rationale: The two landmark Lynch collaborations first, then the range of horror and comedy around them.
+  order:
+    - mulholland-drive
+    - lost-highway
+    - the-cabin-in-the-woods
+    - evil-dead-ii
+    - drag-me-to-hell
+    - scream-2
+    - my-cousin-vinny

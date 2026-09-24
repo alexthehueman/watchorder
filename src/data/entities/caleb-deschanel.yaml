@@ -1,0 +1,42 @@
+slug: caleb-deschanel
+kind: cinematographer
+name: Caleb Deschanel
+blurb: One of the most decorated cinematographers never to win an Oscar — six nominations across four decades — known for lush, painterly naturalism applied to everything from a boy and a wild horse to the launch of the space program.
+
+films:
+  - film: the-black-stallion
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: A boy shipwrecked with a wild horse survives almost wordlessly for the film's first act, told almost entirely through image rather than dialogue.
+
+  - film: the-right-stuff
+    signature: 4
+    must_see: true
+    gateway: 3
+    note: The Mercury Seven astronauts and the test pilots before them are shot with real desert-scale grandeur, ambition photographed as something genuinely awesome.
+
+  - film: being-there
+    signature: 3
+    gateway: 1
+    note: A simple-minded gardener's blank, TV-derived pronouncements are mistaken for profundity, shot with the same clean, unassuming clarity as his own mind.
+
+  - film: the-natural
+    signature: 4
+    gateway: 2
+    note: A mysterious middle-aged rookie's baseball comeback is shot in golden, myth-making light that treats every home run like a genuine miracle.
+
+  - film: anna-and-the-king
+    signature: 2
+    gateway: 3
+    note: A Victorian schoolteacher's culture clash with the King of Siam is shot with lavish, symmetrical palace grandeur.
+
+curated:
+  curator: house
+  rationale: The two landmark achievements first, then the range around them.
+  order:
+    - the-black-stallion
+    - the-right-stuff
+    - the-natural
+    - being-there
+    - anna-and-the-king
