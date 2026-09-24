@@ -1,0 +1,78 @@
+slug: robert-yeoman
+kind: cinematographer
+name: Robert Yeoman
+blurb: Wes Anderson's cinematographer on every one of his features, developing the director's now-iconic symmetrical, theatrical compositions from a loose 90s debut into an increasingly precise visual signature.
+
+films:
+  - film: rushmore
+    signature: 5
+    must_see: true
+    gateway: 1
+    note: A precocious, overextended prep-schooler wages a petty war against a rival for his teacher's affection, the visual precision that would define Anderson's later work first fully arriving here.
+
+  - film: the-royal-tenenbaums
+    signature: 5
+    must_see: true
+    gateway: 1
+    note: A family of former child prodigies reunites under their estranged, dying father's roof, shot with the meticulous dollhouse symmetry that became the director's signature.
+
+  - film: bottle-rocket
+    signature: 3
+    gateway: 1
+    note: A trio of inept friends plan an amateur crime spree, shot in his loosest, least composed film before the symmetrical visual language came later.
+
+  - film: the-life-aquatic-with-steve-zissou
+    signature: 3
+    gateway: 2
+    note: An eccentric oceanographer hunts the shark that killed his partner, shot with elaborate, theatrical cutaway sets that make the boat feel like a dollhouse at sea.
+
+  - film: the-darjeeling-limited
+    signature: 4
+    gateway: 2
+    note: Three estranged brothers' train journey across India surfaces their father's funeral only gradually, long, quiet stretches of travel underneath the deadpan comic surface.
+
+  - film: moonrise-kingdom
+    signature: 4
+    gateway: 1
+    note: Two twelve-year-olds run away together on a New England island, shot with storybook symmetry and warm, saturated 1960s color.
+
+  - film: the-grand-budapest-hotel
+    signature: 5
+    gateway: 2
+    note: A hotel concierge's story is nested inside three separate timelines and narrators, shot with a different aspect ratio for each era.
+
+  - film: the-french-dispatch
+    signature: 3
+    gateway: 2
+    note: An anthology of stories from a fictional American magazine's final issue is shot with the most formally playful visual structure of his career, shifting between color, black and white and animation.
+
+  - film: asteroid-city
+    signature: 3
+    gateway: 3
+    note: A stagebound play-within-a-film about a stranded family at a 1950s stargazing convention is shot in deliberately theatrical, proscenium-framed compositions.
+
+  - film: the-squid-and-the-whale
+    signature: 2
+    gateway: 1
+    note: A Brooklyn family's divorce is shot with plain, handheld naturalism, a rare project outside his usual Anderson collaborations.
+
+  - film: bridesmaids
+    signature: 2
+    gateway: 1
+    note: A maid of honor's rivalry with a wealthier bridesmaid derails a wedding, shot with bright, straightforward studio-comedy clarity.
+
+curated:
+  curator: house
+  rationale: The two landmark Anderson achievements first, then the range across his whole filmography.
+  order:
+    - rushmore
+    - the-royal-tenenbaums
+    - the-grand-budapest-hotel
+    - moonrise-kingdom
+    - the-darjeeling-limited
+    - the-life-aquatic-with-steve-zissou
+    - bottle-rocket
+    - the-french-dispatch
+    - asteroid-city
+    - the-squid-and-the-whale
+    - bridesmaids

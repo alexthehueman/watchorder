@@ -1,0 +1,60 @@
+slug: wally-pfister
+kind: cinematographer
+name: Wally Pfister
+blurb: Christopher Nolan's regular cinematographer for over a decade, moving from his indie breakthrough through the Dark Knight trilogy's blockbuster scale, winning his Oscar for the film that made subjective, layered dream logic feel visually coherent.
+
+films:
+  - film: memento
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: A man who can't form new memories investigates his wife's murder in scenes told in reverse order, shot with the same disorienting fragmentation as his own condition.
+
+  - film: inception
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A heist team plants an idea across nested layers of shared dreams, each level shot with a distinct visual logic that keeps them legible even as reality itself destabilizes — his Oscar-winning signature achievement.
+
+  - film: the-dark-knight
+    signature: 5
+    gateway: 2
+    note: Gotham's escalating war between Batman and the Joker is shot with a scale and visual seriousness rare for the genre at the time.
+
+  - film: the-prestige
+    signature: 4
+    gateway: 3
+    note: Two rival magicians' escalating sabotage of each other is shot with a structure specifically built to mislead on a first viewing.
+
+  - film: batman-begins
+    signature: 3
+    gateway: 2
+    note: A traumatized billionaire's training and return to Gotham is shot with grounded, practical grit that reinvented the character's visual language.
+
+  - film: the-dark-knight-rises
+    signature: 3
+    gateway: 3
+    note: Gotham falls under siege in the trilogy's closing chapter, shot at the largest scale of the three films.
+
+  - film: moneyball
+    signature: 2
+    gateway: 1
+    note: A small-market baseball team's statistical approach to roster-building is shot with plain, understated clarity outside his usual Nolan collaborations.
+
+  - film: the-italian-job-2003
+    signature: 2
+    gateway: 1
+    note: A heist crew's revenge plot against a double-crossing partner keeps reversing who's actually fooling whom, shot with glossy caper energy.
+
+curated:
+  curator: house
+  rationale: The two landmark achievements first, then the range across his Nolan collaborations.
+  order:
+    - memento
+    - inception
+    - the-dark-knight
+    - the-prestige
+    - batman-begins
+    - the-dark-knight-rises
+    - moneyball
+    - the-italian-job-2003

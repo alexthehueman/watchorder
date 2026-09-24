@@ -1,0 +1,27 @@
+# New films for Bradford Young. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Arrival already exists in amy-adams.yaml. Selma already exists in thompson-tessa.yaml. A Most
+# Violent Year already exists in isaac.yaml.
+
+- id: pariah
+  tmdb_id: 73939
+  title: Pariah
+  year: 2011
+  runtime: 86
+  director: Dee Rees
+  tags:
+    opacity: 2 # a Brooklyn teenager keeps two entirely separate presentations of herself running, and the film never rushes their collision
+    stillness: 3
+    bleakness: 4
+    humor: 1
+    acclaim: 0.78
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: solo-a-star-wars-story
+  tmdb_id: 348350
+  title: "Solo: A Star Wars Story"
+  year: 2018
+  runtime: 135
+  director: Ron Howard
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

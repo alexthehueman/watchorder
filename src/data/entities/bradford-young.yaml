@@ -1,0 +1,42 @@
+slug: bradford-young
+kind: cinematographer
+name: Bradford Young
+blurb: The first African-American cinematographer ever nominated for the Academy Award, known for underexposed, deliberately shadowed images that resist the industry-standard practice of lighting to favor lighter skin tones.
+
+films:
+  - film: pariah
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: A Brooklyn teenager keeps two entirely separate presentations of herself running, shot with a warm, patient intimacy that never rushes their eventual collision.
+
+  - film: selma
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: The 1965 voting-rights marches are shot with a documentary-close, unglamorized realism that treats the violence with total seriousness rather than spectacle.
+
+  - film: a-most-violent-year
+    signature: 4
+    gateway: 2
+    note: A heating-oil executive tries to keep his business legitimate while everything around him pushes toward violence, shot in cold, wintry New York light.
+
+  - film: arrival
+    signature: 4
+    gateway: 3
+    note: A linguist's attempt to communicate with alien visitors is shot with a nonlinear structure the visuals themselves withhold, until the final act reframes everything that came before.
+
+  - film: solo-a-star-wars-story
+    signature: 2
+    gateway: 1
+    note: A young Han Solo's criminal-underworld origin story is shot with his same shadow-heavy, moody signature applied to a major studio blockbuster.
+
+curated:
+  curator: house
+  rationale: The two landmark achievements first, then the range around them.
+  order:
+    - selma
+    - pariah
+    - arrival
+    - a-most-violent-year
+    - solo-a-star-wars-story
