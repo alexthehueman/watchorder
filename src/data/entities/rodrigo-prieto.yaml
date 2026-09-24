@@ -1,0 +1,66 @@
+slug: rodrigo-prieto
+kind: cinematographer
+name: Rodrigo Prieto
+blurb: A Mexican cinematographer who broke out with Iñárritu's fractured-narrative trilogy before becoming one of Martin Scorsese's regular collaborators — known for unconventional camera moves paired with strong, moody lighting.
+
+films:
+  - film: amores-perros
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: Three lives collide in one car crash, and the film keeps circling back to it from a different angle each time, shot with a raw, handheld immediacy that became his early signature.
+
+  - film: brokeback-mountain
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: Two ranch hands' decades-long relationship is shot against real Wyoming mountain scale, the landscape itself carrying what the men can't say aloud.
+
+  - film: the-irishman
+    signature: 4
+    gateway: 3
+    note: A hitman's own account of decades of mob history spans forty years of de-aged faces, shot with a restraint that lets the film's real reckoning arrive only at the very end.
+
+  - film: babel
+    signature: 4
+    gateway: 3
+    note: Four stories across four countries stay disconnected until well into the film, each shot in a visually distinct register that matches its own culture and mood.
+
+  - film: silence
+    signature: 4
+    gateway: 3
+    note: Jesuit missionaries in 17th-century Japan face torture and apostasy, shot with austere, painterly restraint that treats faith itself as the real subject.
+
+  - film: lust-caution
+    signature: 4
+    gateway: 3
+    note: A resistance agent's cover identity as a collaborator's mistress blurs into something the film never confirms as real or performed.
+
+  - film: the-wolf-of-wall-street
+    signature: 3
+    gateway: 1
+    note: A stockbroker's excess is shot with restless, high-energy camera work that plays the fraud as pure comedy right up until the film quietly stops finding it funny.
+
+  - film: argo
+    signature: 2
+    gateway: 1
+    note: A CIA exfiltration disguised as a fake movie production is shot with grainy, period-accurate 1970s film stock and news-footage texture.
+
+  - film: barbie
+    signature: 2
+    gateway: 1
+    note: A plastic doll's existential crisis in an all-pink world is shot with hyper-saturated, deliberately artificial studio color.
+
+curated:
+  curator: house
+  rationale: The two landmark achievements first, then the range across his Iñárritu and Scorsese collaborations.
+  order:
+    - amores-perros
+    - brokeback-mountain
+    - the-irishman
+    - silence
+    - babel
+    - lust-caution
+    - the-wolf-of-wall-street
+    - argo
+    - barbie

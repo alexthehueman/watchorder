@@ -1,0 +1,24 @@
+# New films for Joseph Ruttenberg. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Mrs. Miniver already exists in mgm.yaml. Somebody Up There Likes Me already exists in
+# newman.yaml. The Philadelphia Story already exists in hepburn-katharine.yaml. Waterloo Bridge
+# already exists in vivien-leigh.yaml. Gaslight already exists in bergman-ingrid.yaml. Julius
+# Caesar already exists in brando.yaml.
+
+- id: the-great-waltz
+  tmdb_id: 62567
+  title: The Great Waltz
+  year: 1938
+  runtime: 104
+  director: Julien Duvivier
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.62 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: gigi
+  tmdb_id: 17281
+  title: Gigi
+  year: 1958
+  runtime: 116
+  director: Vincente Minnelli
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 3, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }

@@ -1,0 +1,20 @@
+# New films for Rodrigo Prieto. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Brokeback Mountain already exists in hathaway.yaml. Silence, Killers of the Flower Moon and The
+# Wolf of Wall Street already exist in driver.yaml/scorsese.yaml. Amores Perros and Babel already
+# exist in alejandro-inarritu.yaml. Lust, Caution already exists in leung.yaml. Argo already exists
+# in goodman.yaml. Barbie already exists in gosling.yaml.
+
+- id: the-irishman
+  tmdb_id: 398978
+  title: The Irishman
+  year: 2019
+  runtime: 209
+  director: Martin Scorsese
+  tags:
+    opacity: 2 # a hitman's own account of decades of mob history, narrated with a reliability the film never confirms
+    stillness: 3
+    bleakness: 5
+    humor: 2
+    acclaim: 0.85
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

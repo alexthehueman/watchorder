@@ -1,0 +1,48 @@
+slug: harris-savides
+kind: cinematographer
+name: Harris Savides
+blurb: A cinematographer known for delicate, deliberately underexposed images and long unhurried takes, most closely associated with Gus Van Sant's slow-cinema period before crossing into mainstream studio thriller and Sofia Coppola's ennui.
+
+films:
+  - film: elephant
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: Long, unhurried Steadicam shots follow ordinary students through an ordinary school day before violence arrives with no explanation offered.
+
+  - film: milk
+    signature: 4
+    must_see: true
+    gateway: 1
+    note: San Francisco's first openly gay elected official builds a movement in the years before his assassination, shot with warm, grounded 1970s period naturalism.
+
+  - film: zodiac
+    signature: 4
+    gateway: 2
+    note: A serial killer never conclusively identified is investigated across a decade, shot with a meticulous, procedural patience that denies any easy closure.
+
+  - film: american-gangster
+    signature: 3
+    gateway: 2
+    note: A Harlem heroin kingpin's rise is shot with the same gritty 1970s New York naturalism as the cop pursuing him.
+
+  - film: somewhere
+    signature: 3
+    gateway: 1
+    note: A burned-out movie star drifts through a Los Angeles hotel between junkets, shot with static, unhurried long takes that make his boredom visually tangible.
+
+  - film: the-bling-ring
+    signature: 2
+    gateway: 1
+    note: Teenagers burglarizing celebrity homes are shot with a distant, voyeuristic remove that never condemns or glamorizes them outright.
+
+curated:
+  curator: house
+  rationale: The two landmark achievements first, then the range around them.
+  order:
+    - elephant
+    - milk
+    - zodiac
+    - american-gangster
+    - somewhere
+    - the-bling-ring

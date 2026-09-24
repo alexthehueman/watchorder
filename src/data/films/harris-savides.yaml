@@ -1,0 +1,19 @@
+# New films for Harris Savides. Scales and anchors are in README.md ("The anchor rubric").
+#
+# American Gangster already exists in washington.yaml. Zodiac already exists in downey.yaml. Milk
+# already exists in penn.yaml. Somewhere already exists in fanning.yaml. The Bling Ring already
+# exists in watson.yaml.
+
+- id: elephant
+  tmdb_id: 1807
+  title: Elephant
+  year: 2003
+  runtime: 81
+  director: Gus Van Sant
+  tags:
+    opacity: 3 # long, unhurried tracking shots follow ordinary students through an ordinary day before the violence arrives with no explanation
+    stillness: 5
+    bleakness: 5
+    humor: 1
+    acclaim: 0.75
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }

@@ -1,0 +1,60 @@
+slug: joseph-ruttenberg
+kind: cinematographer
+name: Joseph Ruttenberg
+blurb: A four-time Oscar-winning MGM staff cinematographer across three decades, moving fluidly from prewar biographical spectacle through wartime prestige drama to the studio's last great Technicolor musicals.
+
+films:
+  - film: mrs-miniver
+    signature: 4
+    must_see: true
+    gateway: 2
+    note: An English family's quiet wartime endurance is shot with warm, dignified restraint that Churchill claimed was worth several battleships to morale.
+
+  - film: gigi
+    signature: 4
+    must_see: true
+    gateway: 1
+    note: A Parisian girl groomed for courtesanship in Belle Époque society is shot in the studio's last great burst of lavish Technicolor musical gloss.
+
+  - film: the-philadelphia-story
+    signature: 3
+    gateway: 1
+    note: A socialite's wedding is derailed by her ex-husband and a tabloid reporter, shot with bright, elegant comedic clarity.
+
+  - film: gaslight
+    signature: 4
+    gateway: 2
+    note: A husband engineers his wife's doubt in her own perception, shot in creeping shadow that makes the house itself feel like it's closing in.
+
+  - film: waterloo-bridge
+    signature: 3
+    gateway: 3
+    note: A wartime romance between a soldier and a ballerina unfolds at a slower, more melancholic pace, shot in soft, elegiac black and white.
+
+  - film: julius-caesar-1953
+    signature: 3
+    gateway: 2
+    note: Shakespeare's political tragedy is shot with the stark, geometric compositions of a Roman forum rendered in deep black and white.
+
+  - film: the-great-waltz
+    signature: 2
+    gateway: 1
+    note: A fictionalized biography of Johann Strauss II is shot with sweeping, romanticized period musical grandeur.
+
+  - film: somebody-up-there-likes-me
+    signature: 3
+    gateway: 2
+    note: A boxer's rise from juvenile delinquent to middleweight champion is shot in gritty, high-contrast black and white.
+
+curated:
+  curator: house
+  rationale: The two Oscar-winning landmarks first, then the range across his MGM career.
+  order:
+    - mrs-miniver
+    - gigi
+    - gaslight
+    - the-philadelphia-story
+    - somebody-up-there-likes-me
+    - julius-caesar-1953
+    - waterloo-bridge
+    - the-great-waltz
