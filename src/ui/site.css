@@ -47,15 +47,16 @@ header.site {
 .wordmark {
   display: inline-flex;
   text-decoration: none;
-  background: #faf9f7;
-  padding: 0.35rem 0.6rem;
-  border-radius: 0.4rem;
 }
 
 .logo {
-  height: 2rem;
+  height: 2.5rem;
   width: auto;
   display: block;
+}
+
+@media (prefers-color-scheme: light) {
+  .logo { filter: invert(1); }
 }
 
 main {

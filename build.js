@@ -120,8 +120,8 @@ async function main() {
 
   // The favicon has to live at the site root — browsers request /favicon.ico (or whatever the
   // <link rel="icon"> in layout.js points at) relative to the origin, not relative to /ui/.
-  await writeFile(new URL('favicon.webp', DIST), await readFile(new URL('./src/ui/logo.webp', import.meta.url)));
-  written.push('favicon.webp');
+  await writeFile(new URL('favicon.png', DIST), await readFile(new URL('./src/ui/logo.png', import.meta.url)));
+  written.push('favicon.png');
 
   // GitHub Pages otherwise runs the output through Jekyll, which drops files beginning with an
   // underscore and does nothing else we want.
