@@ -4,7 +4,12 @@
 # Are All Right already exists in moore.yaml — tagged before she had an entity. 20th Century
 # Women already exists in cera.yaml — tagged before she had an entity. Captain Marvel already
 # exists in larson.yaml — tagged before she had an entity. The Grifters already exists in
-# huston.yaml — tagged before she had an entity.
+# huston.yaml — tagged before she had an entity. This pass adds further free wins The American
+# President (Michael J. Fox) and The Siege (Roger Deakins), plus 33 new films below.
+#
+# Excludes several unclear/no-data early credits (42.6 Years, Turn of Mind, Behind the Lines) and
+# her large tail of documentaries, tributes and TV specials. The Bride! premiered in the UK on
+# February 26, 2026 and is included as already released.
 
 - id: being-julia
   tmdb_id: 18701
@@ -21,3 +26,238 @@
     - Drama
     - Comedy
     - Romance
+
+- id: the-bride-2026
+  tmdb_id: 1159831
+  title: "The Bride!"
+  year: 2026
+  director: Maggie Gyllenhaal
+  runtime: 126
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: poolman
+  tmdb_id: 834562
+  title: Poolman
+  year: 2024
+  runtime: 100
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.25 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: nyad
+  tmdb_id: 895549
+  title: Nyad
+  year: 2023
+  runtime: 121
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.60 }
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: jerry-and-marge-go-large
+  tmdb_id: 843847
+  title: Jerry & Marge Go Large
+  year: 2022
+  runtime: 100
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 2, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: death-on-the-nile
+  tmdb_id: 505026
+  title: Death on the Nile
+  year: 2022
+  runtime: 127
+  tags: { opacity: 2, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: hope-gap
+  tmdb_id: 537140
+  title: Hope Gap
+  year: 2019
+  runtime: 100
+  tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: georgetown
+  tmdb_id: 339395
+  title: Georgetown
+  year: 2019
+  runtime: 97
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: life-itself-2018
+  tmdb_id: 446696
+  title: Life Itself
+  year: 2018
+  runtime: 118
+  tags: { opacity: 2, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-seagull
+  tmdb_id: 341735
+  title: The Seagull
+  year: 2018
+  runtime: 98
+  tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 1 }
+
+- id: film-stars-dont-die-in-liverpool
+  tmdb_id: 398174
+  title: Film Stars Don't Die in Liverpool
+  year: 2017
+  runtime: 105
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: rules-dont-apply
+  tmdb_id: 291328
+  title: Rules Don't Apply
+  year: 2016
+  runtime: 127
+  tags: { opacity: 2, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: danny-collins-2015
+  tmdb_id: 256924
+  title: Danny Collins
+  year: 2015
+  runtime: 106
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-face-of-love
+  tmdb_id: 214086
+  title: The Face of Love
+  year: 2013
+  runtime: 92
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: ginger-and-rosa
+  tmdb_id: 121872
+  title: Ginger & Rosa
+  year: 2012
+  runtime: 90
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: girl-most-likely
+  tmdb_id: 72890
+  title: Girl Most Likely
+  year: 2012
+  runtime: 103
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
+
+- id: ruby-sparks
+  tmdb_id: 103332
+  title: Ruby Sparks
+  year: 2012
+  runtime: 104
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.60 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: mother-and-child
+  tmdb_id: 37080
+  title: Mother and Child
+  year: 2009
+  runtime: 126
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: the-women-2008
+  tmdb_id: 13972
+  title: The Women
+  year: 2008
+  runtime: 114
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: running-with-scissors
+  tmdb_id: 7510
+  title: Running with Scissors
+  year: 2006
+  runtime: 121
+  tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 2, acclaim: 0.50 }
+  content: { sexual_violence: true, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 1 }
+
+- id: mrs-harris
+  tmdb_id: 58934
+  title: Mrs. Harris
+  year: 2005
+  runtime: 96
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: open-range
+  tmdb_id: 2055
+  title: Open Range
+  year: 2003
+  runtime: 139
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: what-planet-are-you-from
+  tmdb_id: 10416
+  title: What Planet Are You From?
+  year: 2000
+  runtime: 105
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: in-dreams
+  tmdb_id: 28902
+  title: In Dreams
+  year: 1999
+  runtime: 96
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+
+- id: mars-attacks
+  tmdb_id: 75
+  title: Mars Attacks!
+  year: 1996
+  runtime: 106
+  director: Tim Burton
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: richard-iii-1995
+  tmdb_id: 31174
+  title: Richard III
+  year: 1995
+  runtime: 104
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: bugsy
+  tmdb_id: 10337
+  title: Bugsy
+  year: 1991
+  runtime: 136
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: guilty-by-suspicion
+  tmdb_id: 22423
+  title: Guilty by Suspicion
+  year: 1991
+  runtime: 105
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: postcards-from-the-edge
+  tmdb_id: 22414
+  title: Postcards from the Edge
+  year: 1990
+  runtime: 101
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: valmont
+  tmdb_id: 37606
+  title: Valmont
+  year: 1989
+  runtime: 137
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+
