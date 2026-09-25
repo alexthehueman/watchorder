@@ -1,6 +1,15 @@
 # New films for Anthony Perkins. Scales and anchors are in README.md ("The anchor rubric").
 #
-# Psycho already exists in hitchcock.yaml. The Trial already exists in welles.yaml.
+# Psycho already exists in hitchcock.yaml. The Trial already exists in welles.yaml. This pass
+# adds further free wins Catch-22 (Alan Arkin) and Is Paris Burning? (Delon), plus 47 new films
+# below.
+#
+# Les Misérables needed a distinct id for his 1978 TV movie, unrelated to the 2012 musical already
+# in the corpus under another entity despite sharing the exact title. Murder on the Orient Express
+# (his actual 1974 Lumet film) turned out to already exist as a free win in bergman-ingrid.yaml,
+# verified via matching tmdb_id. Excluded as a documentary
+# featurette rather than an acting role: The Last of Sheila Featurette. Excluded as a TV episode
+# rather than a feature film: The Male Animal (a lost 1968 BBC Play of the Month).
 
 - id: pretty-poison
   tmdb_id: 32969
@@ -38,3 +47,381 @@
   genres:
     - Drama
     - War
+
+- id: the-actress
+  tmdb_id: 98364
+  title: The Actress
+  year: 1953
+  runtime: 90
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: fear-strikes-out
+  tmdb_id: 125413
+  title: Fear Strikes Out
+  year: 1957
+  runtime: 100
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-lonely-man
+  tmdb_id: 43250
+  title: The Lonely Man
+  year: 1957
+  runtime: 87
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: this-angry-age
+  tmdb_id: 225223
+  title: This Angry Age
+  year: 1957
+  runtime: 110
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-tin-star
+  tmdb_id: 30054
+  title: The Tin Star
+  year: 1957
+  runtime: 93
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-matchmaker
+  tmdb_id: 43141
+  title: The Matchmaker
+  year: 1958
+  runtime: 101
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: desire-under-the-elms
+  tmdb_id: 77960
+  title: Desire Under the Elms
+  year: 1958
+  runtime: 111
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: on-the-beach
+  tmdb_id: 35412
+  title: On the Beach
+  year: 1959
+  runtime: 134
+  tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
+
+- id: green-mansions
+  tmdb_id: 66869
+  title: Green Mansions
+  year: 1959
+  runtime: 104
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: tall-story
+  tmdb_id: 86297
+  title: Tall Story
+  year: 1960
+  runtime: 91
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: goodbye-again
+  tmdb_id: 84119
+  title: Goodbye Again
+  year: 1961
+  runtime: 120
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: phaedra
+  tmdb_id: 48110
+  title: Phaedra
+  year: 1962
+  runtime: 115
+  tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 1 }
+
+- id: five-miles-to-midnight
+  tmdb_id: 15469
+  title: Five Miles to Midnight
+  year: 1962
+  runtime: 110
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-sword-and-the-balance
+  tmdb_id: 245787
+  title: The Sword and the Balance
+  year: 1963
+  runtime: 130
+  tags: { opacity: 3, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
+
+- id: agent-38-24-36
+  tmdb_id: 200502
+  title: Agent 38-24-36
+  year: 1964
+  runtime: 100
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-fool-killer
+  tmdb_id: 28179
+  title: The Fool Killer
+  year: 1965
+  runtime: 100
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: evening-primrose
+  tmdb_id: 107240
+  title: Evening Primrose
+  year: 1966
+  runtime: 53
+  tags: { opacity: 3, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-champagne-murders
+  tmdb_id: 74399
+  title: The Champagne Murders
+  year: 1967
+  runtime: 99
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: wusa
+  tmdb_id: 49411
+  title: WUSA
+  year: 1970
+  runtime: 117
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: how-awful-about-allan
+  tmdb_id: 71944
+  title: How Awful About Allan
+  year: 1970
+  runtime: 73
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: someone-behind-the-door
+  tmdb_id: 4679
+  title: Someone Behind the Door
+  year: 1971
+  runtime: 96
+  tags: { opacity: 3, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: ten-days-wonder
+  tmdb_id: 91496
+  title: Ten Days' Wonder
+  year: 1971
+  runtime: 100
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: play-it-as-it-lays
+  tmdb_id: 84796
+  title: Play It as It Lays
+  year: 1972
+  runtime: 99
+  tags: { opacity: 2, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: the-life-and-times-of-judge-roy-bean
+  tmdb_id: 33638
+  title: The Life and Times of Judge Roy Bean
+  year: 1972
+  runtime: 120
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: lovin-molly
+  tmdb_id: 172340
+  title: Lovin' Molly
+  year: 1974
+  runtime: 98
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: mahogany
+  tmdb_id: 3554
+  title: Mahogany
+  year: 1975
+  runtime: 109
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: remember-my-name
+  tmdb_id: 84207
+  title: Remember My Name
+  year: 1978
+  runtime: 94
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: first-you-cry
+  tmdb_id: 263080
+  title: First, You Cry
+  year: 1978
+  runtime: 100
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: les-miserables-1978
+  tmdb_id: 4479
+  title: Les Misérables
+  year: 1978
+  runtime: 150
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-black-hole
+  tmdb_id: 9570
+  title: The Black Hole
+  year: 1979
+  runtime: 98
+  tags: { opacity: 2, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: winter-kills
+  tmdb_id: 42178
+  title: Winter Kills
+  year: 1979
+  runtime: 97
+  tags: { opacity: 3, stillness: 2, bleakness: 4, humor: 2, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: twice-a-woman
+  tmdb_id: 89366
+  title: Twice a Woman
+  year: 1979
+  runtime: 90
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+
+- id: double-negative
+  tmdb_id: 358515
+  title: Double Negative
+  year: 1980
+  runtime: 96
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: north-sea-hijack
+  tmdb_id: 390253
+  title: North Sea Hijack
+  year: 1980
+  runtime: 99
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-sins-of-dorian-gray
+  tmdb_id: 343243
+  title: The Sins of Dorian Gray
+  year: 1983
+  runtime: 100
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: psycho-ii
+  tmdb_id: 10576
+  title: Psycho II
+  year: 1983
+  runtime: 113
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: crimes-of-passion
+  tmdb_id: 40814
+  title: Crimes of Passion
+  year: 1984
+  runtime: 101
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 2, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 2 }
+
+- id: psycho-iii
+  tmdb_id: 12662
+  title: Psycho III
+  year: 1986
+  runtime: 93
+  director: Anthony Perkins
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: destroyer
+  tmdb_id: 85163
+  title: Destroyer
+  year: 1988
+  runtime: 92
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: edge-of-sanity
+  tmdb_id: 91683
+  title: Edge of Sanity
+  year: 1989
+  runtime: 91
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.30 }
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+
+- id: daughter-of-darkness
+  tmdb_id: 39999
+  title: Daughter of Darkness
+  year: 1990
+  runtime: 96
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-ghost-writer-1990
+  tmdb_id: 455637
+  title: The Ghost Writer
+  year: 1990
+  runtime: 90
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
+
+- id: im-dangerous-tonight
+  tmdb_id: 183327
+  title: I'm Dangerous Tonight
+  year: 1990
+  runtime: 96
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: psycho-iv-the-beginning
+  tmdb_id: 40377
+  title: "Psycho IV: The Beginning"
+  year: 1990
+  runtime: 96
+  director: Anthony Perkins
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: a-demon-in-my-view
+  tmdb_id: 169836
+  title: A Demon in My View
+  year: 1991
+  runtime: 90
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-naked-target
+  tmdb_id: 308844
+  title: The Naked Target
+  year: 1992
+  runtime: 90
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: in-the-deep-woods
+  tmdb_id: 103132
+  title: In the Deep Woods
+  year: 1992
+  runtime: 90
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
