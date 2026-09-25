@@ -1,4 +1,15 @@
 # New films for Ava Gardner. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Free wins: On the Beach and The Life and Times of Judge Roy Bean (both Anthony Perkins), Seven
+# Days in May (Kirk Douglas), and Bhowani Junction (George Cukor) were already in the corpus under
+# other entities, plus 38 new films below.
+#
+# Followed her Wikipedia filmography's own scope, excluding a batch of shorts and uncredited bit
+# parts from 1941-1944 before her career took off — Fancy Answers, Strange Testament, Shadow of
+# the Thin Man, H.M. Pulham Esq., Babes on Broadway, We Were Dancing, Joe Smith American, This
+# Time for Keeps, We Do It Because, Kid Glove Killer, Sunday Punch, Calling Dr. Gillespie, Mighty
+# Lak a Goat, Reunion in France, Young Ideas, and Blonde Fever — plus her later uncredited cameo
+# as herself in The Band Wagon.
 
 - id: the-killers-1946
   tmdb_id: 14638
@@ -65,3 +76,332 @@
     - Romance
     - Drama
   letterboxd_rating: 3.73
+
+- id: du-barry-was-a-lady
+  tmdb_id: 43508
+  title: Du Barry Was a Lady
+  year: 1943
+  runtime: 101
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: pilot-no-5
+  tmdb_id: 100818
+  title: Pilot No. 5
+  year: 1943
+  runtime: 71
+  tags: { opacity: 2, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: hitlers-madman
+  tmdb_id: 100747
+  title: Hitler's Madman
+  year: 1943
+  runtime: 84
+  tags: { opacity: 1, stillness: 1, bleakness: 5, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
+
+- id: ghosts-on-the-loose
+  tmdb_id: 90695
+  title: Ghosts on the Loose
+  year: 1943
+  runtime: 65
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: swing-fever
+  tmdb_id: 175171
+  title: Swing Fever
+  year: 1943
+  runtime: 80
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: lost-angel
+  tmdb_id: 190895
+  title: Lost Angel
+  year: 1943
+  runtime: 91
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: two-girls-and-a-sailor
+  tmdb_id: 80941
+  title: Two Girls and a Sailor
+  year: 1944
+  runtime: 124
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: three-men-in-white
+  tmdb_id: 200454
+  title: Three Men in White
+  year: 1944
+  runtime: 85
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: maisie-goes-to-reno
+  tmdb_id: 179113
+  title: Maisie Goes to Reno
+  year: 1944
+  runtime: 90
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: she-went-to-the-races
+  tmdb_id: 261270
+  title: She Went to the Races
+  year: 1945
+  runtime: 86
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: whistle-stop
+  tmdb_id: 55600
+  title: Whistle Stop
+  year: 1946
+  runtime: 85
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: the-hucksters
+  tmdb_id: 88812
+  title: The Hucksters
+  year: 1947
+  runtime: 115
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: singapore
+  tmdb_id: 53769
+  title: Singapore
+  year: 1947
+  runtime: 79
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: one-touch-of-venus
+  tmdb_id: 43447
+  title: One Touch of Venus
+  year: 1948
+  runtime: 82
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-bribe
+  tmdb_id: 25509
+  title: The Bribe
+  year: 1949
+  runtime: 98
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-great-sinner
+  tmdb_id: 147886
+  title: The Great Sinner
+  year: 1949
+  runtime: 110
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: east-side-west-side
+  tmdb_id: 99627
+  title: East Side, West Side
+  year: 1949
+  runtime: 108
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: my-forbidden-past
+  tmdb_id: 106016
+  title: My Forbidden Past
+  year: 1951
+  runtime: 81
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: pandora-and-the-flying-dutchman
+  tmdb_id: 38688
+  title: Pandora and the Flying Dutchman
+  year: 1951
+  runtime: 122
+  tags: { opacity: 3, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 0 }
+
+- id: show-boat
+  tmdb_id: 17820
+  title: Show Boat
+  year: 1951
+  runtime: 108
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: lone-star
+  tmdb_id: 37593
+  title: Lone Star
+  year: 1952
+  runtime: 94
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-snows-of-kilimanjaro
+  tmdb_id: 4460
+  title: The Snows of Kilimanjaro
+  year: 1952
+  runtime: 114
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: ride-vaquero
+  tmdb_id: 46193
+  title: "Ride, Vaquero!"
+  year: 1953
+  runtime: 90
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: knights-of-the-round-table
+  tmdb_id: 19957
+  title: Knights of the Round Table
+  year: 1953
+  runtime: 115
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: the-little-hut
+  tmdb_id: 138699
+  title: The Little Hut
+  year: 1957
+  runtime: 90
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: the-sun-also-rises
+  tmdb_id: 25190
+  title: The Sun Also Rises
+  year: 1957
+  runtime: 129
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: the-naked-maja
+  tmdb_id: 96935
+  title: The Naked Maja
+  year: 1958
+  runtime: 111
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: the-angel-wore-red
+  tmdb_id: 139916
+  title: The Angel Wore Red
+  year: 1960
+  runtime: 99
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+
+- id: 55-days-at-peking
+  tmdb_id: 27759
+  title: 55 Days at Peking
+  year: 1963
+  runtime: 154
+  tags: { opacity: 1, stillness: 1, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: the-bible-in-the-beginning
+  tmdb_id: 2525
+  title: "The Bible: In the Beginning..."
+  year: 1966
+  runtime: 174
+  director: John Huston
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: mayerling
+  tmdb_id: 63888
+  title: Mayerling
+  year: 1968
+  runtime: 140
+  tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 1 }
+
+- id: the-ballad-of-tam-lin
+  tmdb_id: 126927
+  title: The Ballad of Tam Lin
+  year: 1970
+  runtime: 106
+  tags: { opacity: 3, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: earthquake
+  tmdb_id: 11123
+  title: Earthquake
+  year: 1974
+  runtime: 122
+  tags: { opacity: 1, stillness: 1, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: permission-to-kill
+  tmdb_id: 115555
+  title: Permission to Kill
+  year: 1975
+  runtime: 97
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-blue-bird
+  tmdb_id: 100922
+  title: The Blue Bird
+  year: 1976
+  runtime: 100
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-cassandra-crossing
+  tmdb_id: 32037
+  title: The Cassandra Crossing
+  year: 1976
+  runtime: 129
+  tags: { opacity: 1, stillness: 1, bleakness: 4, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-sentinel
+  tmdb_id: 18196
+  title: The Sentinel
+  year: 1977
+  runtime: 92
+  tags: { opacity: 2, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: city-on-fire-1979
+  tmdb_id: 140648
+  title: City on Fire
+  year: 1979
+  runtime: 106
+  tags: { opacity: 1, stillness: 1, bleakness: 4, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: the-kidnapping-of-the-president
+  tmdb_id: 107355
+  title: The Kidnapping of the President
+  year: 1980
+  runtime: 113
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: priest-of-love
+  tmdb_id: 49789
+  title: Priest of Love
+  year: 1981
+  runtime: 125
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: regina-roma
+  tmdb_id: 220252
+  title: Regina Roma
+  year: 1982
+  runtime: 90
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
