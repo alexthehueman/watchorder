@@ -3,7 +3,14 @@
 # The Master already exists in pta.yaml — tagged before she had an entity. Doubt already exists
 # in streep.yaml — tagged before she had an entity. American Hustle, The Fighter, and Vice
 # already exist in bale.yaml (all three genuine dual leads with him) — tagged before she had an
-# entity.
+# entity. This pass adds further free wins Justice League (Jason Momoa), Man of Steel (Shannon),
+# Charlie Wilson's War (Philip Seymour Hoffman), Catch Me If You Can (Spielberg), Her (Phoenix),
+# Big Eyes (Waltz) and Sunshine Cleaning (Alan Arkin), plus 30 new films below.
+#
+# Excludes documentaries, making-of featurettes, and several shorts from her TMDB page. Klara and
+# the Sun, Star Wars: Starfighter and Lazy Susans are all still unreleased as of this pass (Klara
+# has a confirmed October 2026 date but hasn't opened yet); At the Sea premiered at Berlin in
+# February 2026 and is included.
 
 - id: junebug
   tmdb_id: 1444
@@ -81,3 +88,196 @@
     - Mystery
     - Science Fiction
     - Drama
+
+- id: nightbitch
+  tmdb_id: 728949
+  title: Nightbitch
+  year: 2024
+  runtime: 98
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: disenchanted
+  tmdb_id: 338958
+  title: Disenchanted
+  year: 2022
+  runtime: 120
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: dear-evan-hansen
+  tmdb_id: 567690
+  title: Dear Evan Hansen
+  year: 2021
+  runtime: 137
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
+
+- id: the-woman-in-the-window
+  tmdb_id: 520663
+  title: The Woman in the Window
+  year: 2021
+  runtime: 100
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: zack-snyders-justice-league
+  tmdb_id: 791373
+  title: "Zack Snyder's Justice League"
+  year: 2021
+  runtime: 242
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: hillbilly-elegy
+  tmdb_id: 592984
+  title: Hillbilly Elegy
+  year: 2020
+  runtime: 116
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: batman-v-superman-dawn-of-justice
+  tmdb_id: 209112
+  title: "Batman v Superman: Dawn of Justice"
+  year: 2016
+  runtime: 152
+  tags: { opacity: 2, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: trouble-with-the-curve
+  tmdb_id: 87825
+  title: Trouble with the Curve
+  year: 2012
+  runtime: 111
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: on-the-road
+  tmdb_id: 83770
+  title: On the Road
+  year: 2012
+  runtime: 137
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+
+- id: the-muppets
+  tmdb_id: 64328
+  title: The Muppets
+  year: 2011
+  runtime: 103
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.70 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: leap-year
+  tmdb_id: 25195
+  title: Leap Year
+  year: 2010
+  runtime: 100
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 3, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: night-at-the-museum-battle-of-the-smithsonian
+  tmdb_id: 18360
+  title: "Night at the Museum: Battle of the Smithsonian"
+  year: 2009
+  runtime: 105
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+
+- id: underdog
+  tmdb_id: 6589
+  title: Underdog
+  year: 2007
+  runtime: 84
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-ex
+  tmdb_id: 13171
+  title: The Ex
+  year: 2006
+  runtime: 89
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 3, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: tenacious-d-in-the-pick-of-destiny
+  tmdb_id: 2179
+  title: Tenacious D in The Pick of Destiny
+  year: 2006
+  runtime: 93
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: talladega-nights-the-ballad-of-ricky-bobby
+  tmdb_id: 9718
+  title: "Talladega Nights: The Ballad of Ricky Bobby"
+  year: 2006
+  runtime: 108
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-wedding-date
+  tmdb_id: 6961
+  title: The Wedding Date
+  year: 2005
+  runtime: 90
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 3, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: serving-sara
+  tmdb_id: 12771
+  title: Serving Sara
+  year: 2002
+  runtime: 100
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 3, acclaim: 0.25 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: pumpkin
+  tmdb_id: 9719
+  title: Pumpkin
+  year: 2002
+  runtime: 113
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-slaughter-rule
+  tmdb_id: 21801
+  title: The Slaughter Rule
+  year: 2002
+  runtime: 87
+  tags: { opacity: 2, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: cruel-intentions-2
+  tmdb_id: 5458
+  title: Cruel Intentions 2
+  year: 2000
+  runtime: 90
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.20 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+
+- id: psycho-beach-party
+  tmdb_id: 27723
+  title: Psycho Beach Party
+  year: 2000
+  runtime: 95
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: drop-dead-gorgeous
+  tmdb_id: 10490
+  title: Drop Dead Gorgeous
+  year: 1999
+  runtime: 97
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: at-the-sea
+  tmdb_id: 1279548
+  title: At the Sea
+  year: 2026
+  runtime: 105
+  tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
