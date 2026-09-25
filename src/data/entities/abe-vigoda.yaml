@@ -37,11 +37,317 @@ films:
     gateway: 4
     note: A tribal chief presiding over an island's odd customs with total sincerity, playing genial, deadpan hospitality.
 
+  - film: keatons-cop
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A retired mobster pulled out of a quiet retirement-home life by a hit on his old crew, one of the rare times he carried a film as its actual title character.
+
+  - film: home-of-angels
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: warm
+    gateway: 2
+    note: A nursing-home grandfather smuggled out for one last holiday by his grandson, playing frail affection rather than his usual deadpan.
+
+  - film: witness-to-the-mob
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: menacing
+    gateway: 2
+    note: Real-life Gambino boss Paul Castellano, played with the same watchful stillness he brought to Tessio.
+
+  - film: the-don-is-dead
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: menacing
+    gateway: 2
+    note: A rival don whose miscalculation triggers a gang war, mob menace with none of Tessio's warmth to soften it.
+
+  - film: sugar-hill
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: restrained
+    gateway: 2
+    note: An old-guard mob figure circling a young drug kingpin's rise, playing wary restraint rather than authority.
+
+  - film: the-devils-daughter
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: menacing
+    gateway: 1
+    note: A demon arranging a young woman's marriage to Satan's chosen groom, an early TV-movie horror bit part.
+
+  - film: the-story-of-pretty-boy-floyd
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: restrained
+    gateway: 1
+    note: A Depression-era gangster in the orbit of the outlaw the film is actually about.
+
+  - film: newmans-law
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: menacing
+    gateway: 1
+    note: A crooked figure standing between a framed detective and the people actually responsible.
+
+  - film: the-cheap-detective
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 2
+    note: A dim, exasperated police sergeant in a full-cast spoof of 1940s detective pictures.
+
+  - film: death-car-on-the-freeway
+    signature: 1
+    showcase: 1
+    role_size: cameo
+    register: restrained
+    gateway: 1
+    note: A minor figure in the TV-movie ensemble hunting a driver deliberately running women off the freeway.
+
+  - film: the-big-stuffed-dog
+    signature: 1
+    showcase: 1
+    role_size: cameo
+    register: comic
+    gateway: 1
+    note: A carnival pitchman in a Charles Schulz-scripted family special, entirely unrelated to Peanuts.
+
+  - film: cannonball-run-ii
+    signature: 1
+    showcase: 1
+    role_size: cameo
+    register: comic
+    gateway: 1
+    note: One name in a sprawling all-star cast for a cross-country race comedy's sequel.
+
+  - film: the-stuff
+    signature: 2
+    showcase: 1
+    role_size: cameo
+    register: comic
+    gateway: 2
+    note: A guest-star cameo inside the film's own fake commercial for the killer dessert everyone's addicted to.
+
+  - film: vasectomy-a-delicate-matter
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 1
+    note: A detective investigating a case built entirely around the title's minor surgery.
+
+  - film: plain-clothes
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 2
+    note: A figure inside a high school murder case an undercover cop is investigating by posing as a student.
+
+  - film: grandmothers-house
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: menacing
+    gateway: 1
+    note: A grandfather whose household two orphaned siblings start to suspect isn't as safe as it looks, playing against his usual warmth.
+
+  - film: prancer
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: warm
+    gateway: 2
+    note: A small-town figure in a young girl's conviction that the reindeer she's found is actually Santa's.
+
+  - film: fist-of-honor
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: menacing
+    gateway: 1
+    note: A mafia family elder in a direct-to-video revenge picture built around a boxer avenging his fiancée.
+
+  - film: me-and-the-kid
+    signature: 1
+    showcase: 1
+    role_size: cameo
+    register: comic
+    gateway: 1
+    note: A pawnbroker briefly crossing paths with a kidnapped rich kid and the men who took him.
+
+  - film: batman-mask-of-the-phantasm
+    signature: 2
+    showcase: 1
+    role_size: cameo
+    register: menacing
+    gateway: 2
+    note: A voice-only mob boss in the DC Animated Universe's first and best theatrical outing.
+
+  - film: north
+    signature: 1
+    showcase: 1
+    role_size: cameo
+    register: comic
+    gateway: 1
+    note: A one-scene Alaskan grandfather in a film widely considered one of the worst of the decade — notable mainly for who ended up in it.
+
+  - film: jury-duty
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 1
+    note: A judge presiding over the trial a broke slacker deliberately drags out for the free room and board.
+
+  - film: the-misery-brothers
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 1
+    note: A cursed family patriarch in a broad, little-seen comedy about reversing generations of bad luck.
+
+  - film: love-is-all-there-is
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 1
+    note: A relative caught in the crossfire of two feuding Italian-American restaurant families whose kids fall for each other.
+
+  - film: underworld-1996
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: menacing
+    gateway: 1
+    note: A mob figure in a neo-noir revenge plot, one more entry in a decades-long run of gangster parts.
+
+  - film: good-burger
+    signature: 2
+    showcase: 1
+    role_size: cameo
+    register: comic
+    gateway: 2
+    note: A brief appearance in the fast-food comedy built out of the Nickelodeon sketch it was expanded from.
+
+  - film: farticus
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 1
+    note: Zeus, in a broad mythological comedy that barely surfaced outside the UK and Cyprus co-production deal that funded it.
+
+  - film: a-brooklyn-state-of-mind
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: menacing
+    gateway: 1
+    note: An uncle inside a small, little-remembered Brooklyn crime drama.
+
+  - film: just-the-ticket
+    signature: 1
+    showcase: 1
+    role_size: cameo
+    register: comic
+    gateway: 1
+    note: A fellow scalper in a comedy about a New York ticket hustler trying to win back the woman he lost.
+
+  - film: chump-change
+    signature: 1
+    showcase: 1
+    role_size: cameo
+    register: comic
+    gateway: 1
+    note: A one-scene bit part in a low-budget showbiz comedy about a struggling actor's Hollywood misadventures.
+
+  - film: crime-spree
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: menacing
+    gateway: 1
+    note: A Chicago mob figure whose organization a crew of French burglars accidentally rob.
+
+  - film: farce-of-the-penguins
+    signature: 1
+    showcase: 1
+    role_size: cameo
+    register: comic
+    gateway: 1
+    note: A voice cameo in a crude nature-documentary spoof, one of his final screen credits.
+
+  - film: the-unknown-trilogy
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: restrained
+    gateway: 1
+    note: An uncle in one segment of a low-budget horror anthology, among the last roles of his career.
+
+  - film: three-rooms-in-manhattan
+    signature: 1
+    showcase: 1
+    role_size: cameo
+    register: restrained
+    gateway: 1
+    note: A waiter in an early, minor appearance inside a French New York-set romantic drama, years before the mob roles that defined him.
+
 curated:
   curator: house
-  rationale: The signature role first, then the range either side of it.
+  rationale: The two Godfather films first, then Keaton's Cop as the rare lead role, then the long tail of the character-actor career roughly by prominence.
   order:
     - the-godfather
     - the-godfather-part-ii
     - look-whos-talking
     - joe-versus-the-volcano
+    - keatons-cop
+    - witness-to-the-mob
+    - home-of-angels
+    - batman-mask-of-the-phantasm
+    - the-don-is-dead
+    - sugar-hill
+    - prancer
+    - the-cheap-detective
+    - grandmothers-house
+    - the-stuff
+    - good-burger
+    - crime-spree
+    - fist-of-honor
+    - plain-clothes
+    - underworld-1996
+    - a-brooklyn-state-of-mind
+    - the-unknown-trilogy
+    - jury-duty
+    - the-misery-brothers
+    - vasectomy-a-delicate-matter
+    - farticus
+    - the-story-of-pretty-boy-floyd
+    - newmans-law
+    - north
+    - love-is-all-there-is
+    - three-rooms-in-manhattan
+    - the-devils-daughter
+    - death-car-on-the-freeway
+    - the-big-stuffed-dog
+    - cannonball-run-ii
+    - me-and-the-kid
+    - just-the-ticket
+    - chump-change
+    - farce-of-the-penguins

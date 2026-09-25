@@ -2,6 +2,10 @@
 #
 # The Godfather already exists in brando.yaml. The Godfather Part II already
 # exists in de-niro.yaml.
+#
+# The 34 films below fill out the rest of his real filmography per Wikipedia — mostly small
+# supporting or single-scene parts in B-movies, TV movies and comedies, which is exactly the shape
+# of a working character actor's career.
 
 - id: look-whos-talking
   tmdb_id: 9494
@@ -24,3 +28,319 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: joe-versus-the-volcano
   poster_url: https://a.ltrbxd.com/resized/sm/upload/8i/qe/xd/nh/BDE50D05-301D-4EA1-8A7B-BFB17284FFA2-1200-1200-675-675-crop-000000.jpg?v=3168df8fd0
+
+- id: three-rooms-in-manhattan
+  tmdb_id: 147581
+  title: Three Rooms in Manhattan
+  year: 1965
+  runtime: 120
+  director: Marcel Carné
+  tags: { opacity: 2, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.62 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: the-devils-daughter
+  tmdb_id: 98903
+  title: "The Devil's Daughter"
+  year: 1973
+  runtime: 74
+  director: Jeannot Szwarc
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-don-is-dead
+  tmdb_id: 94741
+  title: The Don Is Dead
+  year: 1973
+  runtime: 115
+  director: Richard Fleischer
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+
+- id: the-story-of-pretty-boy-floyd
+  tmdb_id: 72322
+  title: The Story of Pretty Boy Floyd
+  year: 1974
+  runtime: 90
+  director: Clyde Ware
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.58 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: newmans-law
+  tmdb_id: 122751
+  title: "Newman's Law"
+  year: 1974
+  runtime: 98
+  director: Richard T. Heffron
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.5 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: the-cheap-detective
+  tmdb_id: 14584
+  title: The Cheap Detective
+  year: 1978
+  runtime: 92
+  director: Robert Moore
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: death-car-on-the-freeway
+  tmdb_id: 216176
+  title: Death Car on the Freeway
+  year: 1979
+  runtime: 100
+  director: Hal Needham
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-big-stuffed-dog
+  tmdb_id: 379829
+  title: The Big Stuffed Dog
+  year: 1981
+  runtime: 48
+  director: Robert Fuest
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.5 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: cannonball-run-ii
+  tmdb_id: 11950
+  title: Cannonball Run II
+  year: 1984
+  runtime: 108
+  director: Hal Needham
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.42 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-stuff
+  tmdb_id: 18502
+  title: The Stuff
+  year: 1985
+  runtime: 87
+  director: Larry Cohen
+  tags:
+    opacity: 2
+    stillness: 2
+    bleakness: 3
+    humor: 3 # a satire of consumerism wearing a body-horror movie's clothes, played almost entirely straight-faced
+    acclaim: 0.62
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: vasectomy-a-delicate-matter
+  tmdb_id: 380705
+  title: "Vasectomy: A Delicate Matter"
+  year: 1986
+  runtime: 88
+  director: Robert Burge
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: plain-clothes
+  tmdb_id: 55728
+  title: Plain Clothes
+  year: 1988
+  runtime: 98
+  director: Martha Coolidge
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.5 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: grandmothers-house
+  tmdb_id: 69158
+  title: "Grandmother's House"
+  year: 1988
+  runtime: 90
+  director: Peter Rader
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.4 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+
+- id: prancer
+  tmdb_id: 24951
+  title: Prancer
+  year: 1989
+  runtime: 103
+  director: John Hancock
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: keatons-cop
+  tmdb_id: 103605
+  title: "Keaton's Cop"
+  year: 1990
+  runtime: 90
+  director: Robert Burge
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 2, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: fist-of-honor
+  tmdb_id: 53005
+  title: Fist of Honor
+  year: 1993
+  runtime: 96
+  director: Richard Pepin
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.4 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: sugar-hill
+  tmdb_id: 39349
+  title: Sugar Hill
+  year: 1994
+  runtime: 123
+  director: Leon Ichaso
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.6 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+
+- id: me-and-the-kid
+  tmdb_id: 193387
+  title: Me and the Kid
+  year: 1993
+  runtime: 94
+  director: Dan Curtis
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: batman-mask-of-the-phantasm
+  tmdb_id: 14919
+  title: "Batman: Mask of the Phantasm"
+  year: 1993
+  runtime: 76
+  director: Eric Radomski
+  tags:
+    opacity: 2 # the Phantasm's identity is genuinely withheld and re-contextualizes Bruce Wayne's own origin
+    stillness: 2
+    bleakness: 3
+    humor: 1
+    acclaim: 0.88
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: north
+  tmdb_id: 31586
+  title: North
+  year: 1994
+  runtime: 87
+  director: Rob Reiner
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 2, acclaim: 0.28 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: home-of-angels
+  tmdb_id: 795094
+  title: Home of Angels
+  year: 1994
+  runtime: 92
+  director: Nick Stagliano
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.5 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: jury-duty
+  tmdb_id: 19326
+  title: Jury Duty
+  year: 1995
+  runtime: 89
+  director: John Fortenberry
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: the-misery-brothers
+  tmdb_id: 296534
+  title: The Misery Brothers
+  year: 1995
+  runtime: 90
+  director: Lorenzo Doumani
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: love-is-all-there-is
+  tmdb_id: 55058
+  title: Love Is All There Is
+  year: 1996
+  runtime: 108
+  director: Joseph Bologna
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.48 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: underworld-1996
+  tmdb_id: 85242
+  title: Underworld
+  year: 1996
+  runtime: 100
+  director: Roger Christian
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.42 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: good-burger
+  tmdb_id: 14817
+  title: Good Burger
+  year: 1997
+  runtime: 95
+  director: Brian Robbins
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: farticus
+  tmdb_id: 852746
+  title: Farticus
+  year: 1997
+  runtime: 90
+  director: Alki David
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.3 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: a-brooklyn-state-of-mind
+  tmdb_id: 68761
+  title: A Brooklyn State of Mind
+  year: 1997
+  runtime: 100
+  director: Frank Rainone
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.42 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: witness-to-the-mob
+  tmdb_id: 64920
+  title: Witness to the Mob
+  year: 1998
+  runtime: 240
+  director: Thaddeus O'Sullivan
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.62 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: just-the-ticket
+  tmdb_id: 26425
+  title: Just the Ticket
+  year: 1999
+  runtime: 115
+  director: Richard Wenk
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: chump-change
+  tmdb_id: 88910
+  title: Chump Change
+  year: 2000
+  runtime: 99
+  director: Stephen Burrows
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.4 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: crime-spree
+  tmdb_id: 6277
+  title: Crime Spree
+  year: 2003
+  runtime: 90
+  director: Brad Mirman
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.42 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: farce-of-the-penguins
+  tmdb_id: 12486
+  title: Farce of the Penguins
+  year: 2006
+  runtime: 76
+  director: Bob Saget
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 2, acclaim: 0.22 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: the-unknown-trilogy
+  tmdb_id: 42285
+  title: The Unknown Trilogy
+  year: 2007
+  runtime: 92
+  director: Brian Cavallaro
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.32 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
