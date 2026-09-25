@@ -1,6 +1,22 @@
 # New films for Anthony Mackie. Scales and anchors are in README.md ("The anchor rubric").
 #
-# The Avengers already exists in johansson.yaml — tagged before he had an entity.
+# The Avengers already exists in johansson.yaml — tagged before he had an entity. This pass adds
+# further free wins Ghosted (Ana de Armas), The Woman in the Window (Amy Adams), Seberg (Kristen
+# Stewart), Avengers: Endgame (Angela Bassett), Avengers: Infinity War (Brolin), Detroit (Boyega),
+# Love the Coopers (Alan Arkin), Ant-Man (Rudd), Avengers: Age of Ultron (Olsen), Captain America:
+# The Winter Soldier (Evans), The Fifth Estate (Cumberbatch), Gangster Squad (Ruben Fleischer),
+# Half Nelson (Gosling), and Million Dollar Baby (Morgan Freeman), plus 45 new films below.
+#
+# Notorious needed a distinct id — his 2008 Biggie Smalls biopic, unrelated to Hitchcock's 1946
+# film already in the corpus under another entity despite sharing the exact title. The Manchurian
+# Candidate (his actual 2004 remake) turned out to already exist as a free win in
+# jonathan-demme.yaml, verified via matching tmdb_id. Excluded as
+# documentaries/specials/shorts about him rather than acting roles: Shark Beach with Anthony
+# Mackie, Timeless Heroes, Disney100, Celebrating Betty White, the Marvel Disney+ Day Special,
+# Creating a Character, Celebrating Marvel's Stan Lee, Marvel Studios: Expanding the Universe,
+# Marvel Studios: Assembling a Universe, Goose (narrator), and Born to Fight (a Million Dollar
+# Baby featurette, not the unrelated 2004 Thai action film of the same name). Excluded as
+# unreleased as of today: Barracuda, Avengers: Doomsday, Avengers: Secret Wars.
 
 - id: the-hurt-locker
   tmdb_id: 12162
@@ -49,3 +65,373 @@
     - Crime
     - Comedy
   letterboxd_rating: 3.11
+
+- id: captain-america-brave-new-world
+  tmdb_id: 822119
+  title: "Captain America: Brave New World"
+  year: 2025
+  runtime: 118
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: the-electric-state
+  tmdb_id: 777443
+  title: The Electric State
+  year: 2025
+  runtime: 128
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: desert-warrior
+  tmdb_id: 898704
+  title: Desert Warrior
+  year: 2026
+  runtime: 116
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.25 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: sneaks
+  tmdb_id: 1084153
+  title: Sneaks
+  year: 2025
+  runtime: 92
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: elevation
+  tmdb_id: 1035048
+  title: Elevation
+  year: 2024
+  runtime: 90
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: if-you-were-the-last
+  tmdb_id: 777847
+  title: If You Were the Last
+  year: 2023
+  runtime: 97
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: we-have-a-ghost
+  tmdb_id: 852096
+  title: We Have a Ghost
+  year: 2022
+  runtime: 127
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: outside-the-wire
+  tmdb_id: 775996
+  title: Outside the Wire
+  year: 2021
+  runtime: 115
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: synchronic
+  tmdb_id: 549294
+  title: Synchronic
+  year: 2020
+  runtime: 102
+  tags: { opacity: 4, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-banker
+  tmdb_id: 627725
+  title: The Banker
+  year: 2020
+  runtime: 120
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.60 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: point-blank
+  tmdb_id: 531503
+  title: Point Blank
+  year: 2019
+  runtime: 86
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: miss-bala
+  tmdb_id: 500852
+  title: Miss Bala
+  year: 2019
+  runtime: 104
+  tags: { opacity: 1, stillness: 1, bleakness: 4, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: io
+  tmdb_id: 433249
+  title: IO
+  year: 2018
+  runtime: 96
+  tags: { opacity: 2, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: all-the-way
+  tmdb_id: 347123
+  title: All the Way
+  year: 2016
+  runtime: 132
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.60 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: captain-america-civil-war
+  tmdb_id: 271110
+  title: "Captain America: Civil War"
+  year: 2016
+  runtime: 147
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 2, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: triple-9
+  tmdb_id: 146198
+  title: Triple 9
+  year: 2015
+  runtime: 115
+  tags: { opacity: 1, stillness: 1, bleakness: 5, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
+
+- id: the-night-before
+  tmdb_id: 296100
+  title: The Night Before
+  year: 2015
+  runtime: 101
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: our-brand-is-crisis
+  tmdb_id: 10317
+  title: Our Brand Is Crisis
+  year: 2015
+  runtime: 108
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: black-or-white
+  tmdb_id: 253331
+  title: Black or White
+  year: 2014
+  runtime: 121
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: playing-it-cool
+  tmdb_id: 277547
+  title: Playing It Cool
+  year: 2014
+  runtime: 94
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: shelter-2014
+  tmdb_id: 287426
+  title: Shelter
+  year: 2014
+  runtime: 112
+  tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: repentance
+  tmdb_id: 80920
+  title: Repentance
+  year: 2013
+  runtime: 90
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-inevitable-defeat-of-mister-and-pete
+  tmdb_id: 158908
+  title: The Inevitable Defeat of Mister & Pete
+  year: 2013
+  runtime: 96
+  tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.60 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
+
+- id: runner-runner
+  tmdb_id: 146238
+  title: Runner Runner
+  year: 2013
+  runtime: 91
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: 10-years
+  tmdb_id: 58547
+  title: 10 Years
+  year: 2011
+  runtime: 100
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 2, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: abraham-lincoln-vampire-hunter
+  tmdb_id: 72331
+  title: "Abraham Lincoln: Vampire Hunter"
+  year: 2012
+  runtime: 105
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
+
+- id: man-on-a-ledge
+  tmdb_id: 49527
+  title: Man on a Ledge
+  year: 2011
+  runtime: 102
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 0 }
+
+- id: whats-your-number
+  tmdb_id: 63492
+  title: What's Your Number?
+  year: 2011
+  runtime: 106
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+
+- id: real-steel
+  tmdb_id: 39254
+  title: Real Steel
+  year: 2011
+  runtime: 127
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 2, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-adjustment-bureau
+  tmdb_id: 38050
+  title: The Adjustment Bureau
+  year: 2011
+  runtime: 106
+  tags: { opacity: 2, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.62 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: night-catches-us
+  tmdb_id: 48833
+  title: Night Catches Us
+  year: 2010
+  runtime: 90
+  tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: louis
+  tmdb_id: 134318
+  title: Louis
+  year: 2010
+  runtime: 90
+  tags: { opacity: 3, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: desert-flower
+  tmdb_id: 33997
+  title: Desert Flower
+  year: 2009
+  runtime: 129
+  tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: true, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
+
+- id: notorious-2008
+  tmdb_id: 14410
+  title: Notorious
+  year: 2009
+  runtime: 122
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: eagle-eye
+  tmdb_id: 13027
+  title: Eagle Eye
+  year: 2008
+  runtime: 118
+  tags: { opacity: 2, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: american-violet
+  tmdb_id: 21179
+  title: American Violet
+  year: 2008
+  runtime: 103
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 0 }
+
+- id: we-are-marshall
+  tmdb_id: 11170
+  title: We Are Marshall
+  year: 2006
+  runtime: 131
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: crossover
+  tmdb_id: 14351
+  title: Crossover
+  year: 2006
+  runtime: 90
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 2, acclaim: 0.25 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: heavens-fall
+  tmdb_id: 34898
+  title: Heaven's Fall
+  year: 2006
+  runtime: 106
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: freedomland
+  tmdb_id: 9959
+  title: Freedomland
+  year: 2006
+  runtime: 113
+  tags: { opacity: 2, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+
+- id: the-man-2005
+  tmdb_id: 9074
+  title: The Man
+  year: 2005
+  runtime: 83
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: sucker-free-city
+  tmdb_id: 65724
+  title: Sucker Free City
+  year: 2004
+  runtime: 109
+  director: Spike Lee
+  tags: { opacity: 1, stillness: 1, bleakness: 4, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: haven
+  tmdb_id: 9830
+  title: Haven
+  year: 2004
+  runtime: 128
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: she-hate-me
+  tmdb_id: 20912
+  title: She Hate Me
+  year: 2004
+  runtime: 138
+  director: Spike Lee
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+
+- id: brother-to-brother
+  tmdb_id: 47272
+  title: Brother to Brother
+  year: 2004
+  runtime: 92
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: hollywood-homicide
+  tmdb_id: 11375
+  title: Hollywood Homicide
+  year: 2003
+  runtime: 111
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }

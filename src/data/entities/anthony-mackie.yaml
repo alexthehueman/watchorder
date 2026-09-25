@@ -38,6 +38,478 @@ films:
     gateway: 4
     note: A veteran and grounded ally whose steady presence anchors a team otherwise built of gods and billionaires.
 
+  - film: captain-america-the-winter-soldier
+    signature: 4
+    showcase: 3
+    role_size: supporting
+    register: warm
+    gateway: 4
+    note: The Falcon, joining Captain America's fight against an enemy hiding inside S.H.I.E.L.D. itself.
+
+  - film: captain-america-civil-war
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: warm
+    gateway: 4
+    note: The Falcon, taking sides when the Avengers fracture over accountability.
+
+  - film: avengers-age-of-ultron
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: warm
+    gateway: 4
+    note: The Falcon, part of the team assembled against a rogue AI's plan to wipe out humanity.
+
+  - film: avengers-infinity-war
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: restrained
+    gateway: 4
+    note: The Falcon, fighting alongside the team's last stand in Wakanda.
+
+  - film: avengers-endgame
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: warm
+    gateway: 4
+    note: The Falcon, present for the final battle and the moment Steve Rogers passes him the shield.
+
+  - film: captain-america-brave-new-world
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: Sam Wilson, stepping fully into the role of Captain America amid an international incident.
+
+  - film: night-catches-us
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A former Black Panther returning to his old Philadelphia neighborhood, where old loyalties and suspicions haven't faded.
+
+  - film: half-nelson
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: menacing
+    gateway: 2
+    note: A local dealer whose orbit draws in the addicted teacher and the student trying to help him.
+
+  - film: the-adjustment-bureau
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: restrained
+    gateway: 3
+    note: One of the mysterious agents enforcing fate's plan against a man determined to defy it.
+
+  - film: real-steel
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 3
+    note: A boxing promoter navigating the world of robot prizefighting.
+
+  - film: triple-9
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: menacing
+    gateway: 2
+    note: One of a crew of corrupt cops and criminals plotting to kill one of their own to pull off the perfect heist.
+
+  - film: detroit
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: restrained
+    gateway: 2
+    note: A Vietnam veteran caught up in the brutal police interrogation at the center of the 1967 Algiers Motel incident.
+
+  - film: seberg
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: warm
+    gateway: 1
+    note: A civil rights activist whose relationship with actress Jean Seberg draws the attention of the FBI.
+
+  - film: the-banker
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: One of two Black entrepreneurs who front a white man to secretly run their own banking empire in the segregated South.
+
+  - film: the-fifth-estate
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: restrained
+    gateway: 1
+    note: A U.S. State Department official grappling with WikiLeaks' fallout.
+
+  - film: gangster-squad
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: menacing
+    gateway: 2
+    note: One of the LAPD officers waging an off-the-books war against a mob boss's takeover of the city.
+
+  - film: million-dollar-baby
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 3
+    note: A cocky young boxer training at the same gym as the film's determined female fighter.
+
+  - film: love-the-coopers
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: warm
+    gateway: 1
+    note: One thread in the ensemble comedy about a sprawling family's chaotic Christmas Eve.
+
+  - film: ant-man
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: warm
+    gateway: 4
+    note: The Falcon, guarding Avengers headquarters against an unexpected shrinking intruder.
+
+  - film: the-woman-in-the-window
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: restrained
+    gateway: 1
+    note: The estranged husband of an agoraphobic woman convinced she's witnessed a murder.
+
+  - film: ghosted
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 2
+    note: A CIA handler pulled into a rom-com-turned-spy-thriller he wants no part of.
+
+  - film: the-electric-state
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: restrained
+    gateway: 2
+    note: A supporting role in this retro-futuristic road trip through a robot-scarred America.
+
+  - film: desert-warrior
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A legendary bandit turned reluctant hero, in this Saudi Arabian-produced historical epic.
+
+  - film: sneaks
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: comic
+    gateway: 1
+    note: The voice of Ty, a sheltered designer sneaker forced into the wilds of New York City to rescue his stolen sister.
+
+  - film: elevation
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A father protecting his son from flesh-eating creatures in a post-apocalyptic mountain town.
+
+  - film: if-you-were-the-last
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: warm
+    gateway: 1
+    note: A man and woman, the last two people stranded on a space station, falling for each other with no way home.
+
+  - film: we-have-a-ghost
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: menacing
+    gateway: 1
+    note: A CIA operative tracking down a viral ghost sighting for his own ends.
+
+  - film: outside-the-wire
+    signature: 1
+    showcase: 3
+    role_size: lead
+    register: menacing
+    gateway: 2
+    note: An android supersoldier training a drone pilot on the front lines of a near-future civil war.
+
+  - film: synchronic
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A New Orleans paramedic investigating a designer drug that lets its users slip through time.
+
+  - film: point-blank
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: menacing
+    gateway: 1
+    note: A criminal whose kidnapped pregnant wife forces a nurse and a small-time crook into an uneasy alliance.
+
+  - film: miss-bala
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: menacing
+    gateway: 1
+    note: A DEA agent entangled in the cartel violence that swallows the film's lead.
+
+  - film: io
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: One of the last people on a dying Earth, torn between staying to finish his research and leaving for the stars.
+
+  - film: all-the-way
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: restrained
+    gateway: 1
+    note: A civil rights leader pressing Lyndon Johnson on the Civil Rights Act, in the HBO adaptation of the stage play.
+
+  - film: black-or-white
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: restrained
+    gateway: 1
+    note: A minor supporting role in this custody drama about a biracial girl's two grandparents.
+
+  - film: playing-it-cool
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 1
+    note: One of the lovelorn screenwriter's friends offering conflicting romantic advice.
+
+  - film: shelter-2014
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A homeless veteran finding an unlikely connection with a woman also living on the streets.
+
+  - film: repentance
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: unhinged
+    gateway: 1
+    note: A self-help guru whose troubled client turns out to be far more dangerous than he expects.
+
+  - film: the-inevitable-defeat-of-mister-and-pete
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: menacing
+    gateway: 1
+    note: A local drug dealer who becomes an unlikely source of help for two kids left to fend for themselves.
+
+  - film: runner-runner
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: menacing
+    gateway: 1
+    note: An FBI agent investigating the offshore gambling empire at the center of the story.
+
+  - film: 10-years
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: warm
+    gateway: 1
+    note: One thread in the ensemble comedy-drama about friends reuniting at their ten-year high school reunion.
+
+  - film: abraham-lincoln-vampire-hunter
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: warm
+    gateway: 2
+    note: A friend and fellow vampire hunter who becomes Lincoln's most trusted ally.
+
+  - film: man-on-a-ledge
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: restrained
+    gateway: 1
+    note: The brother of a man threatening to jump from a hotel ledge, secretly running a heist below.
+
+  - film: whats-your-number
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 1
+    note: One of the exes a woman revisits while trying to prove she hasn't slept with too many people.
+
+  - film: louis
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: restrained
+    gateway: 1
+    note: Buddy Bolden, the New Orleans cornet player who inspires a young Louis Armstrong, in this silent film with a live jazz score.
+
+  - film: desert-flower
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: warm
+    gateway: 1
+    note: A photographer who discovers the model at the center of the film and helps launch her career.
+
+  - film: notorious-2008
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: menacing
+    gateway: 1
+    note: A fellow rapper caught up in the East Coast-West Coast rivalry, in the Notorious B.I.G. biopic.
+
+  - film: eagle-eye
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: restrained
+    gateway: 2
+    note: An FBI agent pursuing two strangers being manipulated by an omniscient surveillance system.
+
+  - film: american-violet
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: restrained
+    gateway: 1
+    note: A local man supporting a wrongly accused single mother's fight against a corrupt drug sting, based on a true story.
+
+  - film: we-are-marshall
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: warm
+    gateway: 2
+    note: A player on the rebuilt Marshall football team after the plane crash that killed most of the original roster.
+
+  - film: crossover
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 1
+    note: A minor supporting role in this streetball drama.
+
+  - film: heavens-fall
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: restrained
+    gateway: 1
+    note: One of the defendants in the real-life Scottsboro Boys trial dramatized here.
+
+  - film: freedomland
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: menacing
+    gateway: 1
+    note: A local resident caught up in the search for a missing child that inflames racial tensions in a housing project.
+
+  - film: the-man-2005
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 1
+    note: A minor supporting role in this buddy-cop action comedy.
+
+  - film: sucker-free-city
+    signature: 1
+    showcase: 3
+    role_size: lead
+    register: menacing
+    gateway: 1
+    note: K-Luv, a gang member navigating San Francisco's Hunter's Point in this unaired Spike Lee TV movie.
+
+  - film: haven
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: restrained
+    gateway: 1
+    note: One thread in the ensemble drama set across the Cayman Islands.
+
+  - film: the-manchurian-candidate-2004
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: restrained
+    gateway: 1
+    note: A soldier from the same unit as the film's brainwashed veteran, in Demme's Cold-War-to-Gulf-War remake.
+
+  - film: she-hate-me
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 1
+    note: A minor supporting role in Spike Lee's satire about a whistleblower turned reluctant sperm donor.
+
+  - film: brother-to-brother
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A young gay Black artist whose friendship with a Harlem Renaissance survivor reframes his sense of his own history.
+
+  - film: hollywood-homicide
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: menacing
+    gateway: 1
+    note: A suspect pursued by two mismatched LAPD detectives moonlighting outside the force.
+
 curated:
   curator: house
   rationale: The two performances built on real, coiled pressure, then everywhere else that same intensity gets put to different use.
