@@ -35,6 +35,398 @@ films:
     gateway: 1
     note: A dying father's lifetime of tall tales is finally reckoned with by the son who never believed a word of them.
 
+  - film: skyfall
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 4
+    note: A gruff Scottish gamekeeper, arriving late as reinforcement in the film's final act.
+
+  - film: the-bourne-legacy
+    signature: 1
+    showcase: 1
+    role_size: cameo
+    register: restrained
+    gateway: 2
+    note: A brief cameo, part of the CIA hierarchy overseeing the black-ops program.
+
+  - film: jason-bourne
+    signature: 1
+    showcase: 1
+    role_size: cameo
+    register: restrained
+    gateway: 2
+    note: A brief cameo, reprising the same government-official presence.
+
+  - film: oceans-twelve
+    signature: 1
+    showcase: 1
+    role_size: cameo
+    register: comic
+    gateway: 3
+    note: A brief cameo as a fellow con man from Rusty's past.
+
+  - film: traffic
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: restrained
+    gateway: 3
+    note: A White House drug czar's chief of staff, in the ensemble drug-war drama.
+
+  - film: millers-crossing
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: menacing
+    gateway: 3
+    note: An Irish mob boss trying to hold his organization together as the ground shifts under him.
+
+  - film: two-for-the-road
+    signature: 2
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A marriage traced across a decade of the same road trip, opposite Audrey Hepburn.
+
+  - film: the-bourne-ultimatum
+    signature: 1
+    showcase: 1
+    role_size: cameo
+    register: restrained
+    gateway: 2
+    note: The third of his brief recurring CIA-official cameos in the series.
+
+  - film: before-the-devil-knows-youre-dead
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: unhinged
+    gateway: 1
+    note: A father whose sons' botched heist tears his family apart from the inside.
+
+  - film: amazing-grace
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: warm
+    gateway: 2
+    note: A former slave-ship captain turned hymn-writer, in the drama about abolishing the slave trade.
+
+  - film: a-good-year
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: warm
+    gateway: 3
+    note: An uncle whose Provençal vineyard reshapes his nephew's priorities, in flashback and memory.
+
+  - film: corpse-bride
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: warm
+    gateway: 3
+    note: The voice of an overbearing but well-meaning father in the stop-motion musical.
+
+  - film: the-gathering-storm
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A TV drama about Winston Churchill's political wilderness years before WWII.
+
+  - film: delivering-milo
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: warm
+    gateway: 1
+    note: A minor family fantasy-drama.
+
+  - film: simpatico
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: restrained
+    gateway: 1
+    note: A Sam Shepard adaptation about a decades-old horse-racing scam and its fallout.
+
+  - film: breakfast-of-champions
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: unhinged
+    gateway: 1
+    note: A Kurt Vonnegut adaptation, a satire that most critics found didn't survive the transition to film.
+
+  - film: a-rather-english-marriage
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A TV drama about two widowers, strangers to each other, forced into an unlikely shared household.
+
+  - film: washington-square
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: menacing
+    gateway: 1
+    note: A controlling father standing between his plain, wealthy daughter and the suitor he's sure only wants her money.
+
+  - film: the-run-of-the-country
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: menacing
+    gateway: 1
+    note: A widowed, hard-drinking Irish policeman clashing with his teenage son.
+
+  - film: a-man-of-no-importance
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: warm
+    gateway: 1
+    note: A closeted Dublin bus conductor staging Oscar Wilde plays for his passengers.
+
+  - film: the-browning-version
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A friendless, failed schoolmaster forced to confront exactly how little his life amounted to.
+
+  - film: rich-in-love
+    signature: 1
+    showcase: 1
+    role_size: lead
+    register: warm
+    gateway: 1
+    note: A minor Southern family dramedy.
+
+  - film: the-playboys
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: menacing
+    gateway: 1
+    note: A small-town Irish policeman obsessively pursuing a single mother who wants nothing to do with him.
+
+  - film: roger-waters-the-wall-live-in-berlin
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: restrained
+    gateway: 1
+    note: A one-off role as "The Judge" in this staged concert film, not a documentary about him.
+
+  - film: the-image-1990
+    signature: 1
+    showcase: 1
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A minor TV drama about a TV news anchor's crisis of conscience.
+
+  - film: the-endless-game
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A minor Cold War espionage TV thriller.
+
+  - film: a-simple-man-1987
+    signature: 1
+    showcase: 1
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A minor, little-seen TV drama.
+
+  - film: orphans
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: unhinged
+    gateway: 1
+    note: A gangster taken hostage by the two brothers he was sent to kill.
+
+  - film: the-biko-inquest
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A TV dramatization of the real inquest into activist Steve Biko's death in police custody.
+
+  - film: under-the-volcano
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: unhinged
+    gateway: 1
+    note: A disgraced British consul drinking himself to death in Mexico on the Day of the Dead.
+
+  - film: pope-john-paul-ii
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A TV biopic of the pope, from his rise through the church to the 1981 assassination attempt.
+
+  - film: the-dresser
+    signature: 2
+    showcase: 4
+    role_size: lead
+    register: unhinged
+    gateway: 1
+    note: A collapsing, tyrannical Shakespearean actor and the devoted dresser who keeps him upright night after night.
+
+  - film: annie
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: comic
+    gateway: 3
+    note: Daddy Warbucks in the big-budget musical adaptation of the comic strip.
+
+  - film: shoot-the-moon
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: unhinged
+    gateway: 1
+    note: A marriage's collapse played without villains, just two people who have stopped being able to help it.
+
+  - film: looker
+    signature: 1
+    showcase: 1
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A minor sci-fi thriller about models being murdered after being digitally scanned.
+
+  - film: wolfen
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: menacing
+    gateway: 2
+    note: A detective investigating murders that turn out to be the work of an intelligent wolf-like predator.
+
+  - film: loophole
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: restrained
+    gateway: 1
+    note: A minor bank-heist thriller.
+
+  - film: the-duellists
+    signature: 1
+    showcase: 2
+    role_size: cameo
+    register: restrained
+    gateway: 1
+    note: An uncredited-in-spirit but pivotal late cameo in Ridley Scott's directorial debut.
+
+  - film: the-adventure-of-sherlock-holmes-smarter-brother
+    signature: 1
+    showcase: 1
+    role_size: cameo
+    register: comic
+    gateway: 2
+    note: An uncredited cameo as Sherlock Holmes himself, in Gene Wilder's spoof.
+
+  - film: alpha-beta
+    signature: 1
+    showcase: 3
+    role_size: lead
+    register: unhinged
+    gateway: 1
+    note: A filmed two-hander about a marriage's slow chemical breakdown, almost entirely two people arguing in rooms.
+
+  - film: gumshoe
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: comic
+    gateway: 2
+    note: A Liverpool bingo caller who fancies himself a private eye, and then stumbles into a real case.
+
+  - film: scrooge
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: comic
+    gateway: 2
+    note: A musical version of A Christmas Carol, played under heavy age makeup.
+
+  - film: the-picasso-summer
+    signature: 1
+    showcase: 1
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A minor, obscure Ray Bradbury-scripted fantasy.
+
+  - film: charlie-bubbles
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: His only film as director, a successful writer adrift and disconnected from his own life.
+
+  - film: night-must-fall
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: unhinged
+    gateway: 1
+    note: A charming young man who may or may not be a murderer, insinuating himself into an old woman's household.
+
+  - film: the-victors
+    signature: 1
+    showcase: 1
+    role_size: cameo
+    register: comic
+    gateway: 1
+    note: A brief, uncredited cameo in a sprawling WWII ensemble drama.
+
+  - film: saturday-night-and-sunday-morning
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: menacing
+    gateway: 1
+    note: A defiant, resentful factory worker living for Saturday nights, in the film that launched British kitchen-sink realism.
+
+  - film: the-entertainer
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: restrained
+    gateway: 1
+    note: A small supporting role opposite Laurence Olivier's washed-up music-hall performer.
+
+  - film: sunday-night-theatre
+    signature: 1
+    showcase: 1
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: His screen debut, a single episode of a live TV drama anthology series.
+
 curated:
   curator: house
   rationale: The breakout role first, then the range of register shifts across his later career.

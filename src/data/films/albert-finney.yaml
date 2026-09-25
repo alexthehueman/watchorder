@@ -1,7 +1,16 @@
 # New films for Albert Finney. Scales and anchors are in README.md ("The anchor rubric").
 #
 # Tom Jones already exists in tony-richardson.yaml. Erin Brockovich already exists in julia-roberts.yaml.
-# Murder on the Orient Express already exists in bergman-ingrid.yaml.
+# Murder on the Orient Express already exists in bergman-ingrid.yaml. This pass adds free wins
+# Skyfall (fiennes.yaml), The Bourne Legacy and Jason Bourne (weisz.yaml, cassel.yaml), Ocean's
+# Twelve (cassel.yaml), Traffic (del-toro.yaml), Miller's Crossing (coens.yaml) and Two for the
+# Road (hepburn-audrey.yaml), plus 36 new films below.
+#
+# Excludes documentaries and making-of pieces about him or his films (Uncovering Wolfen, Vito,
+# Audrey Hepburn: Remembered, Notes from Under the Volcano, Observations Under the Volcano, Lights!
+# Camera! Annie!). Includes a small number of unusual but genuine credits: Roger Waters: The Wall —
+# Live in Berlin (a real filmed concert performance, not a documentary about him) and several
+# 1980s-90s TV movies.
 
 - id: big-fish
   tmdb_id: 587
@@ -23,3 +32,343 @@
     - Fantasy
     - Adventure
   letterboxd_rating: 3.95
+
+- id: the-bourne-ultimatum
+  tmdb_id: 2503
+  title: The Bourne Ultimatum
+  year: 2007
+  runtime: 115
+  tags: { opacity: 2, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.80 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: before-the-devil-knows-youre-dead
+  tmdb_id: 7972
+  title: Before the Devil Knows You're Dead
+  year: 2007
+  runtime: 117
+  tags: { opacity: 2, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+
+- id: amazing-grace
+  tmdb_id: 15163
+  title: Amazing Grace
+  year: 2006
+  runtime: 118
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: a-good-year
+  tmdb_id: 9726
+  title: A Good Year
+  year: 2006
+  runtime: 118
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 3, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: corpse-bride
+  tmdb_id: 3933
+  title: Corpse Bride
+  year: 2005
+  runtime: 77
+  director: Tim Burton
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-gathering-storm
+  tmdb_id: 36464
+  title: The Gathering Storm
+  year: 2002
+  runtime: 96
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: delivering-milo
+  tmdb_id: 24811
+  title: Delivering Milo
+  year: 2001
+  runtime: 100
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: simpatico
+  tmdb_id: 50116
+  title: Simpatico
+  year: 1999
+  runtime: 106
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: breakfast-of-champions
+  tmdb_id: 12479
+  title: Breakfast of Champions
+  year: 1999
+  runtime: 111
+  tags: { opacity: 4, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: a-rather-english-marriage
+  tmdb_id: 47332
+  title: A Rather English Marriage
+  year: 1998
+  runtime: 100
+  tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 2, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: washington-square
+  tmdb_id: 45019
+  title: Washington Square
+  year: 1997
+  runtime: 115
+  tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-run-of-the-country
+  tmdb_id: 221917
+  title: The Run of the Country
+  year: 1996
+  runtime: 110
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: a-man-of-no-importance
+  tmdb_id: 52038
+  title: A Man of No Importance
+  year: 1994
+  runtime: 97
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-browning-version
+  tmdb_id: 49805
+  title: The Browning Version
+  year: 1994
+  runtime: 96
+  tags: { opacity: 1, stillness: 4, bleakness: 4, humor: 1, acclaim: 0.60 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: rich-in-love
+  tmdb_id: 180576
+  title: Rich in Love
+  year: 1992
+  runtime: 105
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-playboys
+  tmdb_id: 41774
+  title: The Playboys
+  year: 1992
+  runtime: 118
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: roger-waters-the-wall-live-in-berlin
+  tmdb_id: 47271
+  title: "Roger Waters: The Wall - Live in Berlin"
+  year: 1990
+  runtime: 116
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.60 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-image-1990
+  tmdb_id: 75451
+  title: The Image
+  year: 1990
+  runtime: 90
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-endless-game
+  tmdb_id: 411772
+  title: The Endless Game
+  year: 1989
+  runtime: 128
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: a-simple-man-1987
+  tmdb_id: 494464
+  title: A Simple Man
+  year: 1987
+  runtime: 60
+  tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: orphans
+  tmdb_id: 31645
+  title: Orphans
+  year: 1987
+  runtime: 120
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-biko-inquest
+  tmdb_id: 584986
+  title: The Biko Inquest
+  year: 1984
+  runtime: 90
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: under-the-volcano
+  tmdb_id: 41089
+  title: Under the Volcano
+  year: 1984
+  runtime: 112
+  director: John Huston
+  tags: { opacity: 2, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.70 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: pope-john-paul-ii
+  tmdb_id: 421749
+  title: Pope John Paul II
+  year: 1984
+  runtime: 100
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-dresser
+  tmdb_id: 42122
+  title: The Dresser
+  year: 1983
+  runtime: 118
+  tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 2, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: annie
+  tmdb_id: 15739
+  title: Annie
+  year: 1982
+  runtime: 128
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: shoot-the-moon
+  tmdb_id: 52772
+  title: Shoot the Moon
+  year: 1982
+  runtime: 124
+  tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: looker
+  tmdb_id: 21874
+  title: Looker
+  year: 1981
+  runtime: 94
+  tags: { opacity: 2, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: wolfen
+  tmdb_id: 10725
+  title: Wolfen
+  year: 1981
+  runtime: 115
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 1 }
+
+- id: loophole
+  tmdb_id: 141824
+  title: Loophole
+  year: 1981
+  runtime: 105
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-duellists
+  tmdb_id: 19067
+  title: The Duellists
+  year: 1977
+  runtime: 101
+  director: Ridley Scott
+  tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-adventure-of-sherlock-holmes-smarter-brother
+  tmdb_id: 29859
+  title: The Adventure of Sherlock Holmes' Smarter Brother
+  year: 1975
+  runtime: 91
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 4, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: alpha-beta
+  tmdb_id: 81180
+  title: Alpha Beta
+  year: 1974
+  runtime: 68
+  tags: { opacity: 1, stillness: 4, bleakness: 4, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: gumshoe
+  tmdb_id: 34991
+  title: Gumshoe
+  year: 1971
+  runtime: 88
+  tags: { opacity: 2, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: scrooge
+  tmdb_id: 13765
+  title: Scrooge
+  year: 1970
+  runtime: 113
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.60 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-picasso-summer
+  tmdb_id: 194833
+  title: The Picasso Summer
+  year: 1969
+  runtime: 84
+  tags: { opacity: 3, stillness: 2, bleakness: 1, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: charlie-bubbles
+  tmdb_id: 75947
+  title: Charlie Bubbles
+  year: 1968
+  runtime: 91
+  director: Albert Finney
+  tags: { opacity: 2, stillness: 3, bleakness: 3, humor: 2, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: night-must-fall
+  tmdb_id: 55943
+  title: Night Must Fall
+  year: 1964
+  runtime: 105
+  tags: { opacity: 2, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-victors
+  tmdb_id: 3012
+  title: The Victors
+  year: 1963
+  runtime: 175
+  tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+
+- id: saturday-night-and-sunday-morning
+  tmdb_id: 37230
+  title: Saturday Night and Sunday Morning
+  year: 1960
+  runtime: 89
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 2, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: the-entertainer
+  tmdb_id: 18929
+  title: The Entertainer
+  year: 1960
+  runtime: 96
+  tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 2, acclaim: 0.62 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: sunday-night-theatre
+  tmdb_id: 21503
+  title: Sunday Night Theatre
+  year: 1958
+  runtime: 60
+  tags: { opacity: 1, stillness: 3, bleakness: 2, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
