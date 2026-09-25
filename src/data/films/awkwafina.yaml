@@ -1,4 +1,19 @@
 # New films for Awkwafina. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Free wins: Renfield (Nicholas Hoult), The Bad Guys (DreamWorks Animation), and Dude (Austin
+# Butler) were already in the corpus under other entities, plus 17 new films below.
+#
+# Jackpot! and The Little Mermaid both needed distinct ids — her 2024 action-comedy and 2023
+# live-action remake respectively, unrelated to the other "Jackpot!" already in the corpus under
+# Paul Feig and the 1989 animated classic already in the corpus under Disney, despite sharing the
+# exact titles.
+#
+# Excluded as documentaries/specials/making-ofs about her or a film rather than acting roles: Once
+# Upon a Studio, Devise the Plan, Maraschino Ruby, Dueling Dumplings, Lisa Lu Plays Herself, The
+# Bad Guys: Little Lies and Alibis, A Legendary Christmas with John & Chrissy, Ocean's Team 3.0,
+# Reimagining The Met Gala, and One World: Together at Home. Fly Hard is a short film, not a
+# feature. Excluded as unreleased as of today: Kaet Might Die, Kung Fu Panda 5, The Bad Guys 3,
+# Thumb, The Baccarat Machine, Jumanji: Open World, The Man with the Bag, and Wildwood.
 
 - id: the-farewell
   tmdb_id: 565310
@@ -96,3 +111,139 @@
     - Comedy
     - Adventure
     - Fantasy
+
+- id: bad-rap
+  tmdb_id: 390322
+  title: Bad Rap
+  year: 2016
+  runtime: 82
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 2, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: neighbors-2-sorority-rising
+  tmdb_id: 325133
+  title: "Neighbors 2: Sorority Rising"
+  year: 2016
+  runtime: 92
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+
+- id: storks
+  tmdb_id: 332210
+  title: Storks
+  year: 2016
+  runtime: 87
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: paradise-hills
+  tmdb_id: 487083
+  title: Paradise Hills
+  year: 2019
+  runtime: 95
+  tags: { opacity: 3, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-angry-birds-movie-2
+  tmdb_id: 454640
+  title: The Angry Birds Movie 2
+  year: 2019
+  runtime: 96
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: between-two-ferns-the-movie
+  tmdb_id: 584962
+  title: "Between Two Ferns: The Movie"
+  year: 2019
+  runtime: 83
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-spongebob-movie-sponge-on-the-run
+  tmdb_id: 400160
+  title: "The SpongeBob Movie: Sponge on the Run"
+  year: 2020
+  runtime: 91
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: breaking-news-in-yuba-county
+  tmdb_id: 556867
+  title: Breaking News in Yuba County
+  year: 2021
+  runtime: 98
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: swan-song
+  tmdb_id: 765245
+  title: Swan Song
+  year: 2021
+  runtime: 112
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-little-mermaid-2023
+  tmdb_id: 447277
+  title: The Little Mermaid
+  year: 2023
+  runtime: 135
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 2, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: quiz-lady
+  tmdb_id: 787781
+  title: Quiz Lady
+  year: 2023
+  runtime: 97
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: migration
+  tmdb_id: 940551
+  title: Migration
+  year: 2023
+  runtime: 93
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.60 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: kung-fu-panda-4
+  tmdb_id: 1011985
+  title: Kung Fu Panda 4
+  year: 2024
+  runtime: 94
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: if
+  tmdb_id: 639720
+  title: IF
+  year: 2024
+  runtime: 104
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: jackpot-2024
+  tmdb_id: 1094138
+  title: "Jackpot!"
+  year: 2024
+  runtime: 104
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-bad-guys-2
+  tmdb_id: 1175942
+  title: The Bad Guys 2
+  year: 2025
+  runtime: 104
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: descendants-wicked-wonderland
+  tmdb_id: 1318621
+  title: "Descendants: Wicked Wonderland"
+  year: 2026
+  runtime: 100
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 2, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
