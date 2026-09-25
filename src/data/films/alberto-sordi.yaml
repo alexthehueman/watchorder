@@ -48,6 +48,13 @@
   director: Luigi Comencini
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 3, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: everybody-go-home
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/qh/9n/07/7t/t2diJVmDo7ZQgIxuVDaOaa2FIe7-1200-1200-675-675-crop-000000.jpg?v=23b876c1ad
+  genres:
+    - Comedy
+    - Drama
+    - War
+  letterboxd_rating: 3.84
 
 - id: the-best-of-enemies
   tmdb_id: 67377
@@ -56,6 +63,12 @@
   runtime: 104
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.60 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: the-best-of-enemies
+  poster_url: https://a.ltrbxd.com/resized/film-poster/5/3/8/0/9/53809-the-best-of-enemies-0-230-0-345-crop.jpg?v=9daff3083c
+  genres:
+    - War
+    - Comedy
+  letterboxd_rating: 3.37
 
 - id: a-difficult-life
   tmdb_id: 56343
@@ -65,6 +78,12 @@
   director: Dino Risi
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 2, acclaim: 0.70 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: a-difficult-life
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/mx/h5/8d/9r/difficult%20life-1200-1200-675-675-crop-000000.jpg?v=c98c3b4ce7
+  genres:
+    - Drama
+    - Comedy
+  letterboxd_rating: 4.03
 
 - id: mafioso
   tmdb_id: 34866
@@ -74,6 +93,13 @@
   director: Alberto Lattuada
   tags: { opacity: 2, stillness: 2, bleakness: 5, humor: 3, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: mafioso
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/m1/ok/zb/yu/mafioso-1200-1200-675-675-crop-000000.jpg?v=39b81fd5e0
+  genres:
+    - Crime
+    - Drama
+    - Comedy
+  letterboxd_rating: 3.87
 
 - id: to-bed-or-not-to-bed
   tmdb_id: 162382
@@ -82,6 +108,11 @@
   runtime: 104
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.60 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: to-bed-or-not-to-bed
+  poster_url: https://a.ltrbxd.com/resized/film-poster/1/2/0/5/8/8/120588-to-bed-or-not-to-bed-0-230-0-345-crop.jpg?v=5a1c56277f
+  genres:
+    - Comedy
+  letterboxd_rating: 3.35
 
 - id: the-teacher-from-vigevano
   tmdb_id: 62397
@@ -90,6 +121,12 @@
   runtime: 108
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.60 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: the-teacher-from-vigevano
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/cy/t2/54/cj/onVvF77AkQFmj0RniHyZXZCwiKj-1200-1200-675-675-crop-000000.jpg?v=69bed3d626
+  genres:
+    - Comedy
+    - Drama
+  letterboxd_rating: 3.52
 
 - id: those-magnificent-men-in-their-flying-machines
   tmdb_id: 10338
@@ -107,6 +144,11 @@
   director: Alberto Sordi
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.50 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: smoke-over-london
+  poster_url: https://a.ltrbxd.com/resized/film-poster/5/4/6/6/5466-smoke-over-london-0-230-0-345-crop.jpg?v=f119ed10f5
+  genres:
+    - Comedy
+  letterboxd_rating: 3.23
 
 - id: the-traffic-policeman
   tmdb_id: 60046
@@ -116,3 +158,8 @@
   director: Luigi Zampa
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.60 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: the-traffic-policeman
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/0m/vo/7a/2u/lk5imhmwyMbjl7QsSO5Wrb2C0hv-1200-1200-675-675-crop-000000.jpg?v=f2ef65aefe
+  genres:
+    - Comedy
+  letterboxd_rating: 3.54
