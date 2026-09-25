@@ -1,7 +1,12 @@
 # New films for Amy Poehler. Scales and anchors are in README.md ("The anchor rubric").
 #
 # Mean Girls already exists in mcadams.yaml — tagged before she had an entity. Inside Out already
-# exists in pixar.yaml — tagged before she had an entity.
+# exists in pixar.yaml — tagged before she had an entity. This pass adds further free wins The Ex
+# and Tenacious D in The Pick of Destiny (both Amy Adams) and Blades of Glory (Will Arnett), plus
+# 22 new films below.
+#
+# Excludes her large tail of documentaries, tributes, TV specials, making-of featurettes and
+# shorts — her TMDB page lists dozens, especially SNL-adjacent ones.
 
 - id: sisters-2015
   tmdb_id: 266294
@@ -55,3 +60,198 @@
   genres:
     - Romance
     - Comedy
+
+- id: inside-out-2
+  tmdb_id: 1022789
+  title: Inside Out 2
+  year: 2024
+  runtime: 96
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: moxie
+  tmdb_id: 583689
+  title: Moxie
+  year: 2021
+  runtime: 111
+  director: Amy Poehler
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.45 }
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: a-very-murray-christmas
+  tmdb_id: 364067
+  title: A Very Murray Christmas
+  year: 2015
+  runtime: 57
+  director: Sofia Coppola
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 2, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: they-came-together
+  tmdb_id: 180296
+  title: They Came Together
+  year: 2014
+  runtime: 83
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: anchorman-2-the-legend-continues
+  tmdb_id: 109443
+  title: "Anchorman 2: The Legend Continues"
+  year: 2013
+  runtime: 119
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: free-birds
+  tmdb_id: 175574
+  title: Free Birds
+  year: 2013
+  runtime: 91
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: a-c-o-d
+  tmdb_id: 115283
+  title: A.C.O.D.
+  year: 2013
+  runtime: 87
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: are-you-here
+  tmdb_id: 209244
+  title: Are You Here
+  year: 2013
+  runtime: 111
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: alvin-and-the-chipmunks-chipwrecked
+  tmdb_id: 55301
+  title: "Alvin and the Chipmunks: Chipwrecked"
+  year: 2011
+  runtime: 87
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 2, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: hoodwinked-too-hood-vs-evil
+  tmdb_id: 57089
+  title: "Hoodwinked Too! Hood vs. Evil"
+  year: 2011
+  runtime: 86
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 2, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: freak-dance
+  tmdb_id: 75786
+  title: Freak Dance
+  year: 2010
+  runtime: 94
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: alvin-and-the-chipmunks-the-squeakquel
+  tmdb_id: 23398
+  title: "Alvin and the Chipmunks: The Squeakquel"
+  year: 2009
+  runtime: 88
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 2, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: spring-breakdown
+  tmdb_id: 18826
+  title: Spring Breakdown
+  year: 2009
+  runtime: 96
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: monsters-vs-aliens
+  tmdb_id: 15512
+  title: Monsters vs Aliens
+  year: 2009
+  runtime: 94
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: horton-hears-a-who
+  tmdb_id: 12222
+  title: "Horton Hears a Who!"
+  year: 2008
+  runtime: 88
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.60 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: hamlet-2
+  tmdb_id: 12621
+  title: Hamlet 2
+  year: 2008
+  runtime: 92
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: southland-tales
+  tmdb_id: 4723
+  title: Southland Tales
+  year: 2007
+  runtime: 145
+  tags: { opacity: 5, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: mr-woodcock
+  tmdb_id: 13257
+  title: Mr. Woodcock
+  year: 2007
+  runtime: 87
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.25 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: shortcut-to-happiness
+  tmdb_id: 33932
+  title: Shortcut to Happiness
+  year: 2007
+  runtime: 95
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: shrek-the-third
+  tmdb_id: 810
+  title: Shrek the Third
+  year: 2007
+  runtime: 93
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: man-of-the-year
+  tmdb_id: 9895
+  title: Man of the Year
+  year: 2006
+  runtime: 115
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: envy
+  tmdb_id: 10710
+  title: Envy
+  year: 2004
+  runtime: 99
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.25 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: martin-and-orloff
+  tmdb_id: 29832
+  title: Martin & Orloff
+  year: 2002
+  runtime: 78
+  tags: { opacity: 2, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: wet-hot-american-summer
+  tmdb_id: 2171
+  title: Wet Hot American Summer
+  year: 2001
+  runtime: 97
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
