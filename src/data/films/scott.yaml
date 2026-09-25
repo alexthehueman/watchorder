@@ -1,7 +1,15 @@
 # New films for Andrew Scott. Scales and anchors are in README.md ("The anchor rubric").
 #
 # All of Us Strangers already exists in mescal.yaml — tagged before he had an entity. Spectre
-# already exists in waltz.yaml — tagged before he had an entity.
+# already exists in waltz.yaml — tagged before he had an entity. This pass adds further free wins
+# Saving Private Ryan (Spielberg) and Locke (Hardy), plus 24 new films below.
+#
+# Excludes his large tail of unreleased future projects (Sea Wall — a different, unfinished film
+# from the 2011 one already tagged, plus Walk the Blue Fields, Fonda, Heart of Darkness, Margie
+# Claus, A Place in Hell, Elsinore, Pressure), National Theatre Live filmed-stage broadcasts,
+# documentaries, and a Black Mirror TV episode (not a film). The Scapegoat (2012) needed a
+# distinct id — an unrelated 2012 TV remake, not the 1959 Guinness film of the same title already
+# in the corpus.
 
 - id: "1917"
   tmdb_id: 530915
@@ -49,3 +57,195 @@
     - War
     - Drama
     - Romance
+
+- id: wake-up-dead-man-a-knives-out-mystery
+  tmdb_id: 812583
+  title: "Wake Up Dead Man: A Knives Out Mystery"
+  year: 2025
+  runtime: 145
+  tags: { opacity: 3, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: blue-moon-2025
+  tmdb_id: 1299655
+  title: Blue Moon
+  year: 2025
+  runtime: 100
+  tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: people-watching
+  tmdb_id: 1426540
+  title: People Watching
+  year: 2025
+  runtime: 100
+  tags: { opacity: 2, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: back-in-action
+  tmdb_id: 993710
+  title: Back in Action
+  year: 2025
+  runtime: 114
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: catherine-called-birdy
+  tmdb_id: 795109
+  title: Catherine Called Birdy
+  year: 2022
+  runtime: 108
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: oslo
+  tmdb_id: 553087
+  title: Oslo
+  year: 2021
+  runtime: 118
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: three-kings-2020
+  tmdb_id: 740682
+  title: Three Kings
+  year: 2020
+  runtime: 88
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: a-dark-place
+  tmdb_id: 412157
+  title: A Dark Place
+  year: 2018
+  runtime: 92
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
+
+- id: the-delinquent-season
+  tmdb_id: 467915
+  title: The Delinquent Season
+  year: 2018
+  runtime: 100
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: handsome-devil
+  tmdb_id: 412202
+  title: Handsome Devil
+  year: 2017
+  runtime: 95
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.60 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: this-beautiful-fantastic
+  tmdb_id: 352490
+  title: This Beautiful Fantastic
+  year: 2016
+  runtime: 91
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 2, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: denial-2016
+  tmdb_id: 402298
+  title: Denial
+  year: 2016
+  runtime: 110
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.60 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: swallows-and-amazons
+  tmdb_id: 347035
+  title: Swallows and Amazons
+  year: 2016
+  runtime: 97
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 2, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: sherlock-the-abominable-bride
+  tmdb_id: 379170
+  title: "Sherlock: The Abominable Bride"
+  year: 2015
+  runtime: 90
+  tags: { opacity: 3, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: victor-frankenstein
+  tmdb_id: 228066
+  title: Victor Frankenstein
+  year: 2015
+  runtime: 110
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: jimmys-hall
+  tmdb_id: 262958
+  title: Jimmy's Hall
+  year: 2014
+  runtime: 109
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: legacy-2013
+  tmdb_id: 239771
+  title: Legacy
+  year: 2013
+  runtime: 82
+  tags: { opacity: 2, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-stag
+  tmdb_id: 215962
+  title: The Stag
+  year: 2013
+  runtime: 95
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 4, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-scapegoat-2012
+  tmdb_id: 139463
+  title: The Scapegoat
+  year: 2012
+  runtime: 92
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: lennon-naked
+  tmdb_id: 42484
+  title: Lennon Naked
+  year: 2010
+  runtime: 90
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: antons-chekhovs-the-duel
+  tmdb_id: 45014
+  title: "Anton Chekhov's The Duel"
+  year: 2010
+  runtime: 95
+  tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: dead-bodies
+  tmdb_id: 64797
+  title: Dead Bodies
+  year: 2003
+  runtime: 89
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: nora
+  tmdb_id: 41165
+  title: Nora
+  year: 2000
+  runtime: 92
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: korea
+  tmdb_id: 133263
+  title: Korea
+  year: 1996
+  runtime: 85
+  tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
