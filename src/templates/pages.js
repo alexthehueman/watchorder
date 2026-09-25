@@ -32,6 +32,7 @@ function filmCard(entry, index) {
                   : ''
               }
             </p>
+            ${film.genres?.length ? `<p class="genres">${esc(film.genres.join(', '))}</p>` : ''}
             ${pair.note ? `<p class="note">${esc(pair.note)}</p>` : ''}
             ${entry.why ? `<p class="why">${esc(entry.why)}</p>` : ''}
             ${entry.warning ? `<p class="warn">${esc(entry.warning)}</p>` : ''}
@@ -87,6 +88,9 @@ const CONTENT_LABELS = {
  */
 function quizForm(entity, filmsById) {
   const films = (entity.films ?? []).map((pair) => filmsById.get(pair.film));
+  // Only genres this filmography actually has get a checkbox — a filter offering "Western" on a
+  // roster with none would be a control that always empties the list.
+  const presentGenres = [...new Set(films.flatMap((film) => film.genres ?? []))].sort();
 
   const fieldsets = QUESTIONS.map(
     (question) => `          <fieldset>
@@ -124,7 +128,21 @@ ${Object.entries(CONTENT_LABELS)
   )
   .join('\n')}
             </div>
-          </details>
+          </details>${
+            presentGenres.length > 0
+              ? `
+          <details>
+            <summary>Only show genres?</summary>
+            <div class="checks">
+${presentGenres
+  .map(
+    (genre) => `              <label><input type="checkbox" name="genre" value="${esc(genre)}"> ${esc(genre)}</label>`,
+  )
+  .join('\n')}
+            </div>
+          </details>`
+              : ''
+          }
           <button type="button" id="reset">Back to the house pick</button>
         </form>
       </section>`;

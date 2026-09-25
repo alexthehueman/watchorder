@@ -32,6 +32,18 @@ const REGISTER = [
 
 export const CONTENT_FLAGS = ['sexual_violence', 'animal_harm', 'child_harm', 'suicide'];
 
+// Letterboxd/TMDB's own genre taxonomy, scraped rather than hand-authored (see ingest-letterboxd-
+// genres.mjs). This list exists only so a genre selection can round-trip through a short URL the
+// same way blocked content flags do — it is not a scoring input. Restricting to a genre narrows
+// which films are even candidates before the five questions run; it never changes how they're
+// ordered, which is what the module comment above means by "the five questions never ask about
+// genre."
+export const GENRES = [
+  'Action', 'Adventure', 'Animation', 'Comedy', 'Crime', 'Documentary', 'Drama', 'Family',
+  'Fantasy', 'History', 'Horror', 'Music', 'Mystery', 'Romance', 'Science Fiction', 'TV Movie',
+  'Thriller', 'War', 'Western',
+];
+
 /** @typedef {{depth: number, mode: string, tolOpacity: number, tolStillness: number,
  *             tolBleakness: number, prefHumor: number, blocked: string[], seen: string[]}} Profile */
 
@@ -46,6 +58,7 @@ export function neutralProfile() {
     prefHumor: 3,
     blocked: [],
     seen: [],
+    genres: [],
   };
 }
 
@@ -56,7 +69,7 @@ function clampIndex(value, length) {
 
 /**
  * @param {{depth: number, mode: number, confusion: number, register: number}} answers
- * @param {{blocked?: string[], seen?: string[]}} [extras]
+ * @param {{blocked?: string[], seen?: string[], genres?: string[]}} [extras]
  * @returns {Profile}
  */
 export function profileFromAnswers(answers, extras = {}) {
@@ -74,6 +87,7 @@ export function profileFromAnswers(answers, extras = {}) {
     ...(register === -1 ? {} : REGISTER[register]),
     blocked: (extras.blocked ?? []).filter((flag) => CONTENT_FLAGS.includes(flag)),
     seen: extras.seen ?? [],
+    genres: (extras.genres ?? []).filter((genre) => GENRES.includes(genre)),
   };
 }
 
@@ -111,9 +125,10 @@ export function inferFromSeen(profile, seenFilms) {
  * be both enormous and fragile against a slug rename.
  * @param {{depth: number, mode: number, confusion: number, register: number}} answers
  * @param {number[]} seenIndices
+ * @param {string[]} genres
  * @returns {{p: string, s?: string}}
  */
-export function encodeAnswers(answers, seenIndices = [], blocked = []) {
+export function encodeAnswers(answers, seenIndices = [], blocked = [], genres = []) {
   const digits = [answers.depth, answers.mode, answers.confusion, answers.register]
     .map((value) => (Number.isInteger(value) && value >= 0 && value <= 9 ? value : 0))
     .join('');
@@ -134,6 +149,15 @@ export function encodeAnswers(answers, seenIndices = [], blocked = []) {
     for (const flag of flags) mask |= 1 << CONTENT_FLAGS.indexOf(flag);
     encoded.c = mask.toString(36);
   }
+
+  // A genre selection is exclusion's mirror image — a positive filter rather than a negative one —
+  // so it travels the same way, in its own bitmask over the fixed GENRES list.
+  const selectedGenres = genres.filter((genre) => GENRES.includes(genre));
+  if (selectedGenres.length > 0) {
+    let mask = 0;
+    for (const genre of selectedGenres) mask |= 1 << GENRES.indexOf(genre);
+    encoded.g = mask.toString(36);
+  }
   return encoded;
 }
 
@@ -143,13 +167,23 @@ export function encodeAnswers(answers, seenIndices = [], blocked = []) {
  * @param {string[]} filmOrder ids in the entity's own order, to resolve the seen bitmask
  * @returns {Profile}
  */
-export function decodeProfile(p, s, filmOrder = [], c = null) {
+export function decodeProfile(p, s, filmOrder = [], c = null, g = null) {
   const blocked = [];
   if (typeof c === 'string' && /^[0-9a-z]+$/.test(c)) {
     const mask = parseInt(c, 36);
     if (Number.isFinite(mask)) {
       CONTENT_FLAGS.forEach((flag, index) => {
         if ((mask >> index) & 1) blocked.push(flag);
+      });
+    }
+  }
+
+  const genres = [];
+  if (typeof g === 'string' && /^[0-9a-z]+$/.test(g)) {
+    const mask = parseInt(g, 36);
+    if (Number.isFinite(mask)) {
+      GENRES.forEach((genre, index) => {
+        if ((mask >> index) & 1) genres.push(genre);
       });
     }
   }
@@ -168,10 +202,10 @@ export function decodeProfile(p, s, filmOrder = [], c = null) {
   }
 
   if (typeof p !== 'string' || p[0] !== VERSION || !/^[0-9]{4}$/.test(p.slice(1))) {
-    return { ...neutralProfile(), seen, blocked };
+    return { ...neutralProfile(), seen, blocked, genres };
   }
   const [depth, mode, confusion, register] = [...p.slice(1)].map(Number);
-  return profileFromAnswers({ depth, mode, confusion, register }, { seen, blocked });
+  return profileFromAnswers({ depth, mode, confusion, register }, { seen, blocked, genres });
 }
 
 /**

@@ -87,6 +87,10 @@ function card(entry, index) {
   }
   body.append(meta);
 
+  if (entry.film.genres?.length) {
+    body.append(element('p', 'genres', entry.film.genres.join(', ')));
+  }
+
   if (entry.note) body.append(element('p', 'note', entry.note));
   if (entry.why) body.append(element('p', 'why', entry.why));
   if (entry.warning) body.append(element('p', 'warn', entry.warning));
@@ -107,6 +111,7 @@ function readForm() {
     answers,
     seen: values.getAll('seen'),
     blocked: values.getAll('blocked'),
+    genres: values.getAll('genre'),
   };
 }
 
@@ -118,7 +123,7 @@ function readForm() {
  * their own settings, which is worse than saying nothing — so the series line is only used when
  * the path actually contains a series.
  */
-function explain(films, profile, blocked) {
+function explain(films, profile, blocked, genres) {
   const titles = films.length;
   const slots = Number.isFinite(profile.depth) ? profile.depth : null;
   if (!slots || titles >= slots) return `${titles} titles.`;
@@ -126,7 +131,7 @@ function explain(films, profile, blocked) {
   if (films.some((entry) => entry.film.medium === 'series')) {
     return `${titles} titles — a series counts for several, so this is ${slots} films' worth.`;
   }
-  if (blocked.length > 0) {
+  if (blocked.length > 0 || genres.length > 0) {
     return `${titles} titles — that is everything left once your exclusions are applied.`;
   }
   return `${titles} titles — that is the whole filmography that suits those answers.`;
@@ -141,10 +146,27 @@ function showHousePick() {
   history.replaceState(null, '', location.pathname);
 }
 
+/**
+ * A genre selection is a positive filter, not a scoring input, so it narrows the candidate films
+ * before buildPath ever sees them rather than living inside the Profile it scores with — the same
+ * separation src/core/profile.js's own comment draws between tolerance/intent and genre.
+ */
+function filterByGenre(entity, genres) {
+  if (genres.length === 0) return entity;
+  return {
+    ...entity,
+    films: entity.films.filter((pair) => {
+      const film = filmsById.get(pair.film);
+      return film.genres?.some((genre) => genres.includes(genre));
+    }),
+  };
+}
+
 function render() {
-  const { answers, seen, blocked } = readForm();
-  const profile = profileFromAnswers(answers, { seen, blocked });
-  const result = buildPath(data.entity, filmsById, profile);
+  const { answers, seen, blocked, genres } = readForm();
+  const profile = profileFromAnswers(answers, { seen, blocked, genres });
+  const entity = filterByGenre(data.entity, profile.genres);
+  const result = buildPath(entity, filmsById, profile);
 
   heading.textContent = 'Your order';
   rationale.hidden = true;
@@ -159,12 +181,12 @@ function render() {
     status.textContent = result.reason ?? 'No path could be built from those answers.';
   } else {
     status.hidden = false;
-    status.textContent = explain(result.films, profile, blocked);
+    status.textContent = explain(result.films, profile, blocked, profile.genres);
     result.films.forEach((entry, index) => list.append(card(entry, index)));
   }
 
   const seenIndices = seen.map((id) => filmOrder.indexOf(id)).filter((index) => index >= 0);
-  const encoded = encodeAnswers(answers, seenIndices, blocked);
+  const encoded = encodeAnswers(answers, seenIndices, blocked, profile.genres);
   const query = new URLSearchParams(encoded).toString();
   history.replaceState(null, '', `${location.pathname}?${query}`);
 }
@@ -174,7 +196,13 @@ function restoreFromUrl() {
   const params = new URLSearchParams(location.search);
   if (!params.has('p')) return false;
 
-  const profile = decodeProfile(params.get('p'), params.get('s'), filmOrder, params.get('c'));
+  const profile = decodeProfile(
+    params.get('p'),
+    params.get('s'),
+    filmOrder,
+    params.get('c'),
+    params.get('g'),
+  );
   const answers = answersFromProfile(profile);
 
   for (const [name, value] of Object.entries(answers)) {
@@ -187,6 +215,10 @@ function restoreFromUrl() {
   }
   for (const flag of profile.blocked) {
     const input = form.querySelector(`input[name="blocked"][value="${CSS.escape(flag)}"]`);
+    if (input) input.checked = true;
+  }
+  for (const genre of profile.genres) {
+    const input = form.querySelector(`input[name="genre"][value="${CSS.escape(genre)}"]`);
     if (input) input.checked = true;
   }
   return true;

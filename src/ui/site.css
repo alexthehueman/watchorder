@@ -179,6 +179,13 @@ li.film:last-child { border-bottom: 1px solid var(--rule); }
 
 .letterboxd:hover { color: var(--accent); border-bottom-color: var(--accent); }
 
+.genres {
+  color: var(--muted);
+  font-size: 0.78rem;
+  letter-spacing: 0.02em;
+  margin: 0 0 0.4rem;
+}
+
 .note { margin: 0 0 0.4rem; }
 
 .why {
