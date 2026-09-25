@@ -2,7 +2,18 @@
 #
 # Prizzi's Honor already exists in nicholson.yaml (a genuine dual lead) — tagged before she had
 # an entity. The Royal Tenenbaums already exists in hackman.yaml (a genuine dual lead) — tagged
-# before she had an entity.
+# before she had an entity. This pass adds further free wins Isle of Dogs (Goldblum), 50/50
+# (Kendrick), One Flew Over the Cuckoo's Nest (Nicholson), This Is Spinal Tap (Rob Reiner), The
+# Life Aquatic with Steve Zissou (Murray), The Darjeeling Limited (Jason Schwartzman), The Player
+# (Altman), A Handful of Dust (Guinness) and Casino Royale 1967 (Sellers), plus 41 new films below.
+#
+# Her real filmography runs to over 100 acting credits with an unusually heavy documentary/tribute
+# tail even by this project's standards — this pass excludes all of it (Diana Vreeland, Jack
+# Nicholson, Joan Crawford, John Huston, Wes Anderson tributes/portraits, several Making-of
+# featurettes, awards specials), several shorts and short-format Disney Fairies TV specials (Pixie
+# Hollow Bake Off, Pixie Hollow Games, Captain EO, Rabbit Ears - Rip Van Winkle), and Unity (2014,
+# a documentary she narrates). The Postman Always Rings Twice needed a distinct id — her 1981
+# remake, not the 1946 original already in the corpus.
 
 - id: the-grifters
   tmdb_id: 18129
@@ -115,3 +126,377 @@
   letterboxd_rating: 3.74
   genres:
     - Drama
+
+- id: john-wick-chapter-3-parabellum
+  tmdb_id: 458156
+  title: "John Wick: Chapter 3 - Parabellum"
+  year: 2019
+  runtime: 130
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: waiting-for-anya
+  tmdb_id: 525428
+  title: Waiting for Anya
+  year: 2019
+  runtime: 109
+  tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+
+- id: arctic-dogs
+  tmdb_id: 416153
+  title: Arctic Dogs
+  year: 2019
+  runtime: 92
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: trouble-2018
+  tmdb_id: 456648
+  title: Trouble
+  year: 2018
+  runtime: 90
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-cleanse
+  tmdb_id: 298096
+  title: The Cleanse
+  year: 2018
+  runtime: 91
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-watcher-in-the-woods-2017
+  tmdb_id: 479837
+  title: The Watcher in the Woods
+  year: 2017
+  runtime: 88
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: thirst-street
+  tmdb_id: 426259
+  title: Thirst Street
+  year: 2017
+  runtime: 82
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 2 }
+
+- id: tinker-bell-and-the-legend-of-the-neverbeast
+  tmdb_id: 297270
+  title: Tinker Bell and the Legend of the NeverBeast
+  year: 2014
+  runtime: 74
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 2, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: tinker-bell-and-the-pirate-fairy
+  tmdb_id: 175112
+  title: Tinker Bell and the Pirate Fairy
+  year: 2014
+  runtime: 78
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 2, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: pablo
+  tmdb_id: 153153
+  title: Pablo
+  year: 2012
+  runtime: 96
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: secret-of-the-wings
+  tmdb_id: 75258
+  title: Secret of the Wings
+  year: 2012
+  runtime: 76
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 2, acclaim: 0.60 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-big-year
+  tmdb_id: 73937
+  title: The Big Year
+  year: 2011
+  runtime: 100
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 3, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: when-in-rome
+  tmdb_id: 13477
+  title: When in Rome
+  year: 2010
+  runtime: 91
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 2, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: tinker-bell-and-the-lost-treasure
+  tmdb_id: 25475
+  title: Tinker Bell and the Lost Treasure
+  year: 2009
+  runtime: 76
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 2, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: choke
+  tmdb_id: 13973
+  title: Choke
+  year: 2008
+  runtime: 92
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+
+- id: tinker-bell
+  tmdb_id: 13179
+  title: Tinker Bell
+  year: 2008
+  runtime: 78
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 2, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-kreutzer-sonata
+  tmdb_id: 53315
+  title: The Kreutzer Sonata
+  year: 2008
+  runtime: 113
+  tags: { opacity: 2, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: martian-child
+  tmdb_id: 5126
+  title: Martian Child
+  year: 2007
+  runtime: 108
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: seraphim-falls
+  tmdb_id: 13249
+  title: Seraphim Falls
+  year: 2007
+  runtime: 115
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: material-girls
+  tmdb_id: 10118
+  title: Material Girls
+  year: 2006
+  runtime: 98
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 2, acclaim: 0.20 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: art-school-confidential
+  tmdb_id: 9786
+  title: Art School Confidential
+  year: 2006
+  runtime: 102
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: these-foolish-things
+  tmdb_id: 56193
+  title: These Foolish Things
+  year: 2006
+  runtime: 100
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: iron-jawed-angels
+  tmdb_id: 49007
+  title: Iron Jawed Angels
+  year: 2003
+  runtime: 125
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.60 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: daddy-day-care
+  tmdb_id: 10708
+  title: Daddy Day Care
+  year: 2003
+  runtime: 92
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: barbie-as-rapunzel
+  tmdb_id: 15015
+  title: Barbie as Rapunzel
+  year: 2002
+  runtime: 82
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 2, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: blood-work
+  tmdb_id: 9573
+  title: Blood Work
+  year: 2002
+  runtime: 110
+  director: Clint Eastwood
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-man-from-elysian-fields
+  tmdb_id: 15720
+  title: The Man from Elysian Fields
+  year: 2001
+  runtime: 107
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: the-golden-bowl
+  tmdb_id: 29946
+  title: The Golden Bowl
+  year: 2000
+  runtime: 130
+  tags: { opacity: 2, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: agnes-browne
+  tmdb_id: 15506
+  title: Agnes Browne
+  year: 1999
+  runtime: 92
+  director: Anjelica Huston
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: phoenix-1998
+  tmdb_id: 28047
+  title: Phoenix
+  year: 1998
+  runtime: 107
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: buffalo-66
+  tmdb_id: 9464
+  title: Buffalo '66
+  year: 1998
+  runtime: 110
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 2, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-perez-family
+  tmdb_id: 63020
+  title: The Perez Family
+  year: 1995
+  runtime: 112
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-crossing-guard
+  tmdb_id: 27526
+  title: The Crossing Guard
+  year: 1995
+  runtime: 111
+  tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+
+- id: addams-family-values
+  tmdb_id: 2758
+  title: Addams Family Values
+  year: 1993
+  runtime: 94
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.70 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: and-the-band-played-on
+  tmdb_id: 2887
+  title: And the Band Played On
+  year: 1993
+  runtime: 141
+  tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: manhattan-murder-mystery
+  tmdb_id: 10440
+  title: Manhattan Murder Mystery
+  year: 1993
+  runtime: 108
+  director: Woody Allen
+  tags: { opacity: 2, stillness: 2, bleakness: 1, humor: 4, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: enemies-a-love-story
+  tmdb_id: 116014
+  title: "Enemies, a Love Story"
+  year: 1989
+  runtime: 119
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.60 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: mr-north
+  tmdb_id: 77233
+  title: Mr. North
+  year: 1988
+  runtime: 92
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: gardens-of-stone
+  tmdb_id: 28368
+  title: Gardens of Stone
+  year: 1987
+  runtime: 111
+  director: Francis Ford Coppola
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: good-to-go
+  tmdb_id: 220104
+  title: Good to Go
+  year: 1986
+  runtime: 88
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.25 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-ice-pirates
+  tmdb_id: 10179
+  title: The Ice Pirates
+  year: 1984
+  runtime: 91
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-last-tycoon
+  tmdb_id: 37774
+  title: The Last Tycoon
+  year: 1976
+  runtime: 123
+  tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: swashbuckler
+  tmdb_id: 42242
+  title: Swashbuckler
+  year: 1975
+  runtime: 101
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 2, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: hamlet-1969
+  tmdb_id: 42605
+  title: Hamlet
+  year: 1969
+  runtime: 117
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 0 }
+
+- id: a-walk-with-love-and-death
+  tmdb_id: 98248
+  title: A Walk with Love and Death
+  year: 1969
+  runtime: 90
+  director: John Huston
+  tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: sinful-davey
+  tmdb_id: 130296
+  title: Sinful Davey
+  year: 1967
+  runtime: 95
+  director: John Huston
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
