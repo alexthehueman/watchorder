@@ -74,6 +74,13 @@
   runtime: 110
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.40 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: virgin-rose
+  poster_url: https://a.ltrbxd.com/resized/film-poster/1/2/9/1/6/2/129162-virgin-rose-0-230-0-345-crop.jpg?v=c1aa092f00
+  genres:
+    - Romance
+    - Crime
+    - Drama
+  letterboxd_rating: 3.06
 
 - id: madrigal
   tmdb_id: 73610
@@ -82,6 +89,11 @@
   runtime: 96
   tags: { opacity: 3, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.45 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: madrigal
+  poster_url: https://a.ltrbxd.com/resized/film-poster/5/9/7/2/5/59725-madrigal-0-230-0-345-crop.jpg?v=57b37aac89
+  genres:
+    - Drama
+    - Science Fiction
 
 - id: the-lost-eden
   tmdb_id: 303431
@@ -90,6 +102,11 @@
   runtime: 90
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.35 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: the-lost-eden
+  poster_url: https://a.ltrbxd.com/resized/film-poster/2/3/0/1/8/3/230183-the-lost-eden-0-230-0-345-crop.jpg?v=067e2534ed
+  genres:
+    - Drama
+    - TV Movie
 
 - id: blind-alley
   tmdb_id: 80279
@@ -98,6 +115,13 @@
   runtime: 92
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.45 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: blind-alley-2011
+  poster_url: https://a.ltrbxd.com/resized/film-poster/6/6/5/5/8/66558-blind-alley-2011-0-230-0-345-crop.jpg?v=5b29c28143
+  genres:
+    - Action
+    - Horror
+    - Thriller
+  letterboxd_rating: 2.77
 
 - id: faraday
   tmdb_id: 214632
@@ -106,6 +130,12 @@
   runtime: 100
   tags: { opacity: 2, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.40 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: faraday
+  poster_url: https://a.ltrbxd.com/resized/film-poster/1/5/2/4/3/1/152431-faraday-0-230-0-345-crop.jpg?v=329ab8262d
+  genres:
+    - Horror
+    - Comedy
+  letterboxd_rating: 2.87
 
 - id: for-a-handful-of-kisses
   tmdb_id: 258751
@@ -114,6 +144,12 @@
   runtime: 100
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.40 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: for-a-handful-of-kisses
+  poster_url: https://a.ltrbxd.com/resized/film-poster/1/8/2/3/7/0/182370-for-a-handful-of-kisses-0-230-0-345-crop.jpg?v=5285619956
+  genres:
+    - Drama
+    - Romance
+  letterboxd_rating: 2.78
 
 - id: anabel
   tmdb_id: 362579
@@ -122,6 +158,12 @@
   runtime: 88
   tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.35 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: anabel
+  poster_url: https://a.ltrbxd.com/resized/film-poster/2/9/6/0/3/8/296038-anabel-0-230-0-345-crop.jpg?v=bc22a2d7f3
+  genres:
+    - Thriller
+    - Horror
+  letterboxd_rating: 2.88
 
 - id: knock-knock
   tmdb_id: 263472
@@ -130,6 +172,13 @@
   runtime: 99
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.40 }
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 2 }
+  letterboxd_slug: knock-knock-2015
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ni/pg/v0/bw/F0408A3F-C937-45C5-9F37-F9956CFED771-1200-1200-675-675-crop-000000.jpg?v=53629e2755
+  genres:
+    - Crime
+    - Horror
+    - Thriller
+  letterboxd_rating: 1.98
 
 - id: exposed
   tmdb_id: 331962
@@ -138,6 +187,14 @@
   runtime: 102
   tags: { opacity: 3, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.30 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: exposed
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/sa/m7/8w/4n/exposed-1200-1200-675-675-crop-000000.jpg?v=353add5fc6
+  genres:
+    - Crime
+    - Mystery
+    - Drama
+    - Thriller
+  letterboxd_rating: 2.08
 
 - id: hands-of-stone
   tmdb_id: 184341
@@ -146,6 +203,11 @@
   runtime: 111
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.50 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: hands-of-stone
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/4u/e1/4h/wz/27B05A01-5F5B-407E-A919-183F159B6600-1200-1200-675-675-crop-000000.jpg?v=7cfceba59c
+  genres:
+    - Drama
+  letterboxd_rating: 3.03
 
 - id: overdrive
   tmdb_id: 404733
@@ -154,6 +216,13 @@
   runtime: 93
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 2, acclaim: 0.30 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: overdrive-2017
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/38/89/lj/fb/D3878ED5-7117-42C4-B956-510977CCD9E3-1200-1200-675-675-crop-000000.jpg?v=10a56975db
+  genres:
+    - Thriller
+    - Mystery
+    - Action
+  letterboxd_rating: 2.45
 
 - id: corazon
   tmdb_id: 522912
@@ -162,6 +231,11 @@
   runtime: 89
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.40 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: corazon-2018
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/g6/fs/o7/1o/qiOFA9MURprETB9osK9IE9SUdwv-1200-1200-675-675-crop-000000.jpg?v=1a27fb0f66
+  genres:
+    - Drama
+  letterboxd_rating: 3.47
 
 - id: the-informer-2019
   tmdb_id: 466081
@@ -170,6 +244,13 @@
   runtime: 113
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.45 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: the-informer-2019
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/t0/7n/1d/k1/5EA3F102-846E-473E-9864-D37DB739EDF0-1200-1200-675-675-crop-000000.jpg?v=1adbadeb6f
+  genres:
+    - Thriller
+    - Crime
+    - Drama
+  letterboxd_rating: 3.01
 
 - id: sergio
   tmdb_id: 653744
@@ -178,6 +259,11 @@
   runtime: 118
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: sergio-2020
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/fi/hy/3f/pj/sergio-1200-1200-675-675-crop-000000.jpg?v=5b7e6d90c6
+  genres:
+    - Drama
+  letterboxd_rating: 2.85
 
 - id: wasp-network
   tmdb_id: 451184
@@ -186,6 +272,13 @@
   runtime: 127
   tags: { opacity: 3, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.45 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: wasp-network
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/2o/0x/f8/ao/wasp-network-1200-1200-675-675-crop-000000.jpg?v=423b112a22
+  genres:
+    - Drama
+    - History
+    - Thriller
+  letterboxd_rating: 2.83
 
 - id: the-night-clerk
   tmdb_id: 526007
@@ -194,6 +287,13 @@
   runtime: 90
   tags: { opacity: 2, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.40 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: the-night-clerk-2020
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/uk/dy/v6/k5/night%20clerk-1200-1200-675-675-crop-000000.jpg?v=5c7e107b08
+  genres:
+    - Drama
+    - Thriller
+    - Crime
+  letterboxd_rating: 2.42
 
 - id: the-gray-man
   tmdb_id: 725201
@@ -202,6 +302,12 @@
   runtime: 129
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.40 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: the-gray-man-2022
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/dy/q6/9t/8a/gray2-1200-1200-675-675-crop-000000.jpg?v=fa4fab1af9
+  genres:
+    - Thriller
+    - Action
+  letterboxd_rating: 2.85
 
 - id: eden-2025
   tmdb_id: 1042834
@@ -211,6 +317,11 @@
   director: Ron Howard
   tags: { opacity: 2, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.50 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: eden-2025
+  poster_url: https://a.ltrbxd.com/resized/film-poster/1/3/0/4/3/1/9/1304319-eden-2025-0-230-0-345-crop.jpg?v=a9da6f17a3
+  genres:
+    - Romance
+    - Drama
 
 - id: ballerina-2025
   tmdb_id: 541671
