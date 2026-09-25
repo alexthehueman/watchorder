@@ -14,6 +14,7 @@ import { esc, formatRuntime, layout, url } from './layout.js';
 function filmCard(entry, index) {
   const { film, pair } = entry;
   const series = film.medium === 'series';
+  const rating = film.letterboxd_rating ?? null;
   const poster = film.poster_url
     ? `<img class="poster" src="${esc(film.poster_url)}" alt="" loading="lazy" width="56" height="84">`
     : `<div class="poster-placeholder" aria-hidden="true"></div>`;
@@ -27,7 +28,7 @@ function filmCard(entry, index) {
                 pair.must_see ? ' <span class="badge must">must see</span>' : ''
               }${
                 film.letterboxd_slug
-                  ? ` <a class="letterboxd" href="https://letterboxd.com/film/${esc(film.letterboxd_slug)}/" target="_blank" rel="noopener noreferrer">Letterboxd ↗</a>`
+                  ? ` <a class="letterboxd" href="https://letterboxd.com/film/${esc(film.letterboxd_slug)}/" target="_blank" rel="noopener noreferrer">Letterboxd${rating ? ` ${rating.toFixed(2)}★` : ''} ↗</a>`
                   : ''
               }
             </p>
