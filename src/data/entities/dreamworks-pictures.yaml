@@ -1,0 +1,126 @@
+# Distinct from dreamworks-animation.yaml, which already covers Shrek and the rest of the
+# animation studio — this entity is the live-action arm Spielberg, Jeffrey Katzenberg and David
+# Geffen founded together in 1994.
+#
+# Unlike the century-old majors elsewhere in this file, DreamWorks doesn't need a golden age versus
+# modern era split — it's only thirty years old. It has a real seam of its own instead: the
+# independent SKG years before Paramount bought the studio outright in 2006, and everything
+# released under Paramount ownership since. Several of these were co-productions split with
+# Universal, Fox or Paramount itself; each is placed here rather than at the co-financier because
+# it isn't already claimed by that studio's own entity in the corpus.
+#
+# Every film here was already tagged elsewhere in the corpus, so no new film entries were needed —
+# only one existing entry (Gladiator, in phoenix.yaml) was missing the director field a studio
+# entity requires and has been backfilled.
+
+slug: dreamworks-pictures
+kind: studio
+name: DreamWorks Pictures
+blurb: The upstart studio three Hollywood veterans built to make one kind of film — serious, star-driven, awards-season prestige — and, with one Spielberg-shaped exception, mostly still does.
+
+eras:
+  - id: independent
+    name: The independent SKG years
+    from: 1994
+  - id: paramount-era
+    name: Under Paramount ownership
+    from: 2006
+
+films:
+  - film: saving-private-ryan
+    era: independent
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A squad is sent behind enemy lines after D-Day to retrieve a paratrooper whose three brothers have already been killed, opening with a landing sequence that changed how war is shown on screen.
+
+  - film: american-beauty
+    era: independent
+    signature: 4
+    gateway: 3
+    note: A suburban father's midlife breakdown, narrated by his own already-dead self, unravels his marriage and reframes an obsession that looks a lot worse than he seems to realize.
+
+  - film: gladiator
+    era: independent
+    signature: 4
+    must_see: true
+    gateway: 1
+    note: A betrayed Roman general is sold into slavery and forced to fight his way back toward the emperor who murdered his family, in the arena the emperor can't afford to lose control of.
+
+  - film: cast-away
+    era: independent
+    signature: 3
+    gateway: 1
+    note: A FedEx systems analyst survives a plane crash and spends years alone on a deserted island, learning to live by a clock that no longer means anything.
+
+  - film: a-beautiful-mind
+    era: independent
+    signature: 3
+    gateway: 2
+    note: A brilliant mathematician's groundbreaking work is slowly revealed to be entangled with a paranoid schizophrenia the film withholds from the audience for as long as it withholds it from him.
+
+  - film: minority-report
+    era: independent
+    signature: 3
+    gateway: 2
+    note: A police captain who arrests people for crimes they haven't committed yet becomes the target of his own precognitive system, forced to prove a future that hasn't happened wrong.
+
+  - film: catch-me-if-you-can
+    era: independent
+    signature: 2
+    gateway: 1
+    note: A teenage con artist forges his way through a string of increasingly audacious impersonations while the FBI agent chasing him slowly becomes something like a friend.
+
+  - film: road-to-perdition
+    era: independent
+    signature: 4
+    gateway: 3
+    note: A mob enforcer goes on the run with his surviving son after the rest of his family is murdered by the organization he's spent his life serving.
+
+  - film: war-of-the-worlds
+    era: independent
+    signature: 3
+    gateway: 2
+    note: A divorced dockworker has to get his two kids to safety once alien war machines start rising out of the ground and vaporizing everyone in reach.
+
+  - film: the-help
+    era: paramount-era
+    signature: 3
+    gateway: 1
+    note: A white aspiring writer in 1960s Mississippi convinces Black domestic workers to tell her, on the record, what it's actually like working for the families employing them.
+
+  - film: lincoln
+    era: paramount-era
+    signature: 3
+    gateway: 3
+    note: The president spends his political capital in the final months of the Civil War forcing the Thirteenth Amendment through a divided Congress before the war's end makes it impossible.
+
+  - film: bridge-of-spies
+    era: paramount-era
+    signature: 3
+    gateway: 2
+    note: An insurance lawyer is pulled into defending a captured Soviet spy and then into negotiating a prisoner exchange on a bridge in divided Berlin, both sides equally suspicious of him.
+
+  - film: the-post
+    era: paramount-era
+    signature: 3
+    gateway: 2
+    note: A newspaper publisher has to decide whether to risk prison and her own company by printing the leaked Pentagon Papers, the paper's credibility and her own authority both on the line at once.
+
+curated:
+  curator: house
+  rationale: The two landmarks first, then the independent years followed by the Paramount era.
+  order:
+    - saving-private-ryan
+    - gladiator
+    - road-to-perdition
+    - american-beauty
+    - a-beautiful-mind
+    - minority-report
+    - the-post
+    - bridge-of-spies
+    - lincoln
+    - war-of-the-worlds
+    - catch-me-if-you-can
+    - cast-away
+    - the-help
