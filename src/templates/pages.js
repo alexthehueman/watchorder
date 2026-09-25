@@ -28,7 +28,7 @@ function filmCard(entry, index) {
                 pair.must_see ? ' <span class="badge must">must see</span>' : ''
               }${
                 film.letterboxd_slug
-                  ? ` <a class="letterboxd" href="https://letterboxd.com/film/${esc(film.letterboxd_slug)}/" target="_blank" rel="noopener noreferrer">Letterboxd${rating ? ` ${rating.toFixed(2)}★` : ''} ↗</a>`
+                  ? ` <a class="letterboxd" href="https://letterboxd.com/film/${esc(film.letterboxd_slug)}/" target="_blank" rel="noopener noreferrer">Letterboxd ${rating ? `${rating.toFixed(2)}★` : 'N/A'} ↗</a>`
                   : ''
               }
             </p>
@@ -314,7 +314,7 @@ function canonCard(entry, base) {
               <p class="meta">
                 <a href="${esc(url(base, `/${entity.kind}/${entity.slug}/`))}">${esc(entity.name)}</a>${
                   film.letterboxd_slug
-                    ? ` · <a class="letterboxd" href="https://letterboxd.com/film/${esc(film.letterboxd_slug)}/" target="_blank" rel="noopener noreferrer">Letterboxd${rating ? ` ${rating.toFixed(2)}★` : ''} ↗</a>`
+                    ? ` · <a class="letterboxd" href="https://letterboxd.com/film/${esc(film.letterboxd_slug)}/" target="_blank" rel="noopener noreferrer">Letterboxd ${rating ? `${rating.toFixed(2)}★` : 'N/A'} ↗</a>`
                     : ''
                 }
                 <label class="seen-toggle" hidden>

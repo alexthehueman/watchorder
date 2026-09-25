@@ -79,7 +79,7 @@ function card(entry, index) {
   }
   if (entry.film.letterboxd_slug) {
     const rating = entry.film.letterboxd_rating ?? null;
-    const link = element('a', 'letterboxd', `Letterboxd${rating ? ` ${rating.toFixed(2)}★` : ''} ↗`);
+    const link = element('a', 'letterboxd', `Letterboxd ${rating ? `${rating.toFixed(2)}★` : 'N/A'} ↗`);
     link.href = `https://letterboxd.com/film/${entry.film.letterboxd_slug}/`;
     link.target = '_blank';
     link.rel = 'noopener noreferrer';
