@@ -35,6 +35,12 @@
   director: James Mangold
   tags: { opacity: 2, stillness: 2, bleakness: 1, humor: 3, acclaim: 0.6 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: kate-leopold
+  genres:
+    - Romance
+    - Fantasy
+    - Comedy
+  letterboxd_rating: 3.12
 
 - id: prisoners
   tmdb_id: 146233

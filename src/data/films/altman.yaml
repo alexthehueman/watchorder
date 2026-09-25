@@ -14,6 +14,13 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
   imdb_id: tt0066026
   poster_url: https://m.media-amazon.com/images/M/MV5BZDI0MDNiNWMtYzc5NS00MTc2LWJlMjktM2RkZTEyMzZjOTIwXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_title: M*A*S*H
+  letterboxd_slug: mash
+  genres:
+    - Comedy
+    - War
+    - Drama
+  letterboxd_rating: 3.49
 
 - id: nashville
   tmdb_id: 3121

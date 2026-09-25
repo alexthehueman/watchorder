@@ -33,6 +33,11 @@
     humor: 2
     acclaim: 0.75
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: what-ever-happened-to-baby-jane
+  genres:
+    - Thriller
+    - Horror
+  letterboxd_rating: 4.2
 
 - id: the-women
   tmdb_id: 22490

@@ -5,13 +5,21 @@
 # Working Girl already exists in weaver.yaml — tagged before he had an entity.
 
 - id: star-wars-a-new-hope
-  tmdb_id: null
+  tmdb_id: 11
   title: Star Wars A New Hope
   year: 1977
   runtime: 121
   director: George Lucas
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.9 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_title: Star Wars
+  letterboxd_slug: star-wars
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/xo/ln/nr/0o/star-wars-70-1200-1200-675-675-crop-000000.jpg?v=766b26c149
+  genres:
+    - Adventure
+    - Science Fiction
+    - Action
+  letterboxd_rating: 4.16
 
 - id: blade-runner
   tmdb_id: 78

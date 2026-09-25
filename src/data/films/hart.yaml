@@ -39,6 +39,11 @@
   director: Neil Burger
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
+  letterboxd_slug: the-upside
+  genres:
+    - Drama
+    - Comedy
+  letterboxd_rating: 3.31
 
 - id: central-intelligence
   tmdb_id: 302699

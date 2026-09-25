@@ -105,6 +105,11 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 2 }
   imdb_id: tt0064816
   poster_url: https://m.media-amazon.com/images/M/MV5BZDliNGUyYTMtZWM5OS00ZmQ1LTg5NGItM2I4YTg0N2E0YWQwXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_slug: the-swimming-pool
+  genres:
+    - Drama
+    - Thriller
+  letterboxd_rating: 3.74
 
 - id: borsalino
   tmdb_id: 25251
@@ -146,7 +151,7 @@
     - Crime
 
 - id: un-flic
-  tmdb_id: null
+  tmdb_id: 42741
   title: Un Flic
   year: 1972
   runtime: 98
@@ -155,9 +160,15 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   imdb_id: tt0067900
   poster_url: https://m.media-amazon.com/images/M/MV5BYjFjYzY2ZWUtYTMzNS00OWQ3LWFkZWYtMzIwYWY2NDZkZjJhXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_title: A Cop
+  letterboxd_slug: a-cop-1972
+  genres:
+    - Crime
+    - Thriller
+  letterboxd_rating: 3.56
 
 - id: monsieur-klein
-  tmdb_id: null
+  tmdb_id: 58925
   title: Monsieur Klein
   year: 1976
   runtime: 123
@@ -171,3 +182,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0074916
   poster_url: https://m.media-amazon.com/images/M/MV5BYWMxMTg0OWQtMmQxMi00YWUwLWIxNDktZjIxNjQwMDcxYjgzXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_title: Mr. Klein
+  letterboxd_slug: mr-klein
+  genres:
+    - Mystery
+    - Drama
+    - Thriller
+  letterboxd_rating: 4.02

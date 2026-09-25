@@ -45,7 +45,7 @@
     - Documentary
 
 - id: zero-de-conduite
-  tmdb_id: null
+  tmdb_id: 44494
   title: Zéro de Conduite
   year: 1933
   runtime: 43
@@ -59,6 +59,12 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   imdb_id: tt0024803
   poster_url: https://m.media-amazon.com/images/M/MV5BNDNiM2E5MjctOTM0NC00ZmJkLWIyMmYtNzE3MTIwM2I0Y2I2XkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_title: Zero for Conduct
+  letterboxd_slug: zero-for-conduct-1933
+  genres:
+    - Comedy
+    - Drama
+  letterboxd_rating: 3.72
 
 - id: l-atalante
   tmdb_id: 43904

@@ -5,7 +5,7 @@
 # Artist already exists in goodman.yaml.
 
 - id: redoubtable
-  tmdb_id: null
+  tmdb_id: 416186
   title: Redoubtable
   year: 2017
   runtime: 107
@@ -17,3 +17,11 @@
     humor: 3
     acclaim: 0.58
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_title: Godard Mon Amour
+  letterboxd_slug: godard-mon-amour
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/cz/nm/db/1g/godard-mon-amour-1200-1200-675-675-crop-000000.jpg?v=7a38d8656d
+  genres:
+    - Comedy
+    - Romance
+    - Drama
+  letterboxd_rating: 3.22

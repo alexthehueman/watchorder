@@ -17,7 +17,7 @@
     - Comedy
 
 - id: amici-miei
-  tmdb_id: null
+  tmdb_id: 20914
   title: Amici Miei
   year: 1975
   runtime: 154
@@ -29,6 +29,12 @@
     humor: 4
     acclaim: 0.75
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_title: My Friends
+  letterboxd_slug: my-friends-1975
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/h4/x3/cv/mp/my%20friends-1200-1200-675-675-crop-000000.jpg?v=a5da355815
+  genres:
+    - Comedy
+  letterboxd_rating: 3.99
 
 - id: barbarella
   tmdb_id: 8069

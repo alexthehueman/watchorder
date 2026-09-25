@@ -47,13 +47,21 @@
     - Action
 
 - id: oceans-8
-  tmdb_id: null
+  tmdb_id: 402900
   title: Ocean's 8
   year: 2018
   runtime: 110
   director: Gary Ross
   tags: { opacity: 2, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.62 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_title: Ocean's Eight
+  letterboxd_slug: oceans-eight
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/bp/fs/9s/2s/oceans-8-1200-1200-675-675-crop-000000.jpg?v=65ffd4b6cf
+  genres:
+    - Crime
+    - Action
+    - Comedy
+  letterboxd_rating: 3.41
 
 - id: raya-and-the-last-dragon
   tmdb_id: 527774

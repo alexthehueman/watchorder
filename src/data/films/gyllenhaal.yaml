@@ -62,13 +62,21 @@
     - Thriller
 
 - id: love-and-other-drugs
-  tmdb_id: null
+  tmdb_id: 43347
   title: Love and Other Drugs
   year: 2010
   runtime: 112
   director: Edward Zwick
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.62 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+  letterboxd_title: Love & Other Drugs
+  letterboxd_slug: love-other-drugs
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/di/v2/sr/l3/love-other-drugs-1200-1200-675-675-crop-000000.jpg?v=bdf75525c1
+  genres:
+    - Comedy
+    - Drama
+    - Romance
+  letterboxd_rating: 3.28
 
 - id: october-sky
   tmdb_id: 13466

@@ -46,7 +46,7 @@
     - Drama
 
 - id: glass-onion
-  tmdb_id: null
+  tmdb_id: 661374
   title: Glass Onion - A Knives Out Mystery
   year: 2022
   runtime: 139
@@ -58,6 +58,14 @@
     humor: 4
     acclaim: 0.72
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_title: Glass Onion
+  letterboxd_slug: glass-onion
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/nw/ib/zb/m3/glass-onion-a-knives-out-mystery-1200-1200-675-675-crop-000000.jpg?v=f5259913a8
+  genres:
+    - Crime
+    - Mystery
+    - Comedy
+  letterboxd_rating: 3.38
 
 - id: layer-cake
   tmdb_id: 4836

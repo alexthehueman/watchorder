@@ -90,13 +90,20 @@
     - Drama
 
 - id: the-meyerowitz-stories
-  tmdb_id: null
+  tmdb_id: 396398
   title: The Meyerowitz Stories
   year: 2017
   runtime: 112
   director: Noah Baumbach
   tags: { opacity: 2, stillness: 3, bleakness: 3, humor: 3, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_title: The Meyerowitz Stories (New and Selected)
+  letterboxd_slug: the-meyerowitz-stories-new-and-selected
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/9e/yp/ac/6u/the-meyerowitz-stories-1200-1200-675-675-crop-000000.jpg?v=60e476abfb
+  genres:
+    - Drama
+    - Comedy
+  letterboxd_rating: 3.74
 
 - id: funny-people
   tmdb_id: 20829

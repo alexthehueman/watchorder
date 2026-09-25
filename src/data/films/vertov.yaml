@@ -45,7 +45,7 @@
     - Documentary
 
 - id: enthusiasm
-  tmdb_id: null
+  tmdb_id: 45176
   title: Enthusiasm
   year: 1930
   runtime: 65
@@ -59,6 +59,11 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0021375
   poster_url: https://m.media-amazon.com/images/M/MV5BMjkyY2MyNjAtOWQyMS00ZmVhLWIzZDEtMjFmYmIyY2I3MjViXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_title: Enthusiasm. Symphony of Donbas
+  letterboxd_slug: enthusiasm-symphony-of-donbas
+  genres:
+    - Documentary
+  letterboxd_rating: 3.6
 
 - id: three-songs-about-lenin
   tmdb_id: 92475

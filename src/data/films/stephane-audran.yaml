@@ -3,7 +3,7 @@
 # The Discreet Charm of the Bourgeoisie already exists in bunuel.yaml.
 
 - id: le-boucher
-  tmdb_id: null
+  tmdb_id: 2912
   title: Le Boucher
   year: 1970
   runtime: 94
@@ -15,6 +15,14 @@
     humor: 1
     acclaim: 0.82
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_title: The Butcher
+  letterboxd_slug: the-butcher-1970
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/2s/sx/t3/hr/eglf9YfrgCDlupodENN8qPtN5vC-1200-1200-675-675-crop-000000.jpg?v=a3a3937734
+  genres:
+    - Crime
+    - Thriller
+    - Drama
+  letterboxd_rating: 3.78
 
 - id: babettes-feast
   tmdb_id: 11832

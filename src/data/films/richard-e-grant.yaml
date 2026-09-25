@@ -6,7 +6,7 @@
 # already exists in coppola.yaml.
 
 - id: withnail-and-i
-  tmdb_id: null
+  tmdb_id: 13446
   title: Withnail and I
   year: 1987
   runtime: 107
@@ -18,6 +18,13 @@
     humor: 4
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_title: Withnail & I
+  letterboxd_slug: withnail-i
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/hn/xe/48/qn/withnail-1200-1200-675-675-crop-000000.jpg?v=b94aed923f
+  genres:
+    - Comedy
+    - Drama
+  letterboxd_rating: 3.96
 
 - id: how-to-get-ahead-in-advertising
   tmdb_id: 14776

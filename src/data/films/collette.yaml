@@ -28,13 +28,21 @@
     - Drama
 
 - id: muriels-wedding
-  tmdb_id: null
+  tmdb_id: 236
   title: Muriels Wedding
   year: 1994
   runtime: 106
   director: PJ Hogan
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 4, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_title: Muriel's Wedding
+  letterboxd_slug: muriels-wedding
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/kp/bg/4d/5m/muriels-wedding-1200-1200-675-675-crop-000000.jpg?v=18a40a4fcf
+  genres:
+    - Drama
+    - Comedy
+    - Romance
+  letterboxd_rating: 3.79
 
 - id: about-a-boy
   tmdb_id: 245

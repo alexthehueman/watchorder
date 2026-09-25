@@ -64,7 +64,7 @@
     - Action
 
 - id: frankie-and-alice
-  tmdb_id: null
+  tmdb_id: 55061
   title: Frankie and Alice
   year: 2010
   runtime: 100
@@ -76,6 +76,13 @@
     humor: 1
     acclaim: 0.42
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_title: Frankie & Alice
+  letterboxd_slug: frankie-alice
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/6n/l5/40/1s/frankie-and-alice-1200-1200-675-675-crop-000000.jpg?v=085750318f
+  genres:
+    - Thriller
+    - Drama
+  letterboxd_rating: 3.07
 
 - id: losing-isaiah
   tmdb_id: 28313

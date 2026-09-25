@@ -11,6 +11,11 @@
   director: Danny Leiner
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 5, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  letterboxd_slug: harold-kumar-go-to-white-castle
+  genres:
+    - Adventure
+    - Comedy
+  letterboxd_rating: 3.41
 
 - id: searching
   tmdb_id: 489999

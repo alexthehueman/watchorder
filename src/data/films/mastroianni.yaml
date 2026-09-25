@@ -120,7 +120,7 @@
     - Comedy
 
 - id: white-nights-1957
-  tmdb_id: null
+  tmdb_id: 43231
   title: White Nights
   year: 1957
   runtime: 107
@@ -129,6 +129,12 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   imdb_id: tt0050782
   poster_url: https://m.media-amazon.com/images/M/MV5BYjUwYzczMTctMzUzNC00ZmRiLTlkN2EtNjA5ZjRjMmQ3NmVlXkEyXkFqcGc@._V1_SX300.jpg
+  letterboxd_title: Le Notti Bianche
+  letterboxd_slug: le-notti-bianche
+  genres:
+    - Drama
+    - Romance
+  letterboxd_rating: 4
 
 - id: dark-eyes
   tmdb_id: 44658

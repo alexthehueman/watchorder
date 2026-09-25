@@ -31,6 +31,12 @@
     humor: 3
     acclaim: 0.78
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: the-great-war
+  genres:
+    - War
+    - Comedy
+    - Drama
+  letterboxd_rating: 4.01
 
 - id: scent-of-a-woman-1974
   tmdb_id: 47848

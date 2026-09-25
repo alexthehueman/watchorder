@@ -60,6 +60,13 @@
   director: Ridley Scott
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 3, acclaim: 0.85 }
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 1 }
+  letterboxd_slug: thelma-louise
+  genres:
+    - Drama
+    - Adventure
+    - Crime
+    - Thriller
+  letterboxd_rating: 4.23
 
 - id: dead-man-walking
   tmdb_id: 687

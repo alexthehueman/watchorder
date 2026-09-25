@@ -38,6 +38,11 @@
   director: Elem Klimov
   tags: { opacity: 3, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  letterboxd_slug: agony-the-life-and-death-of-rasputin
+  genres:
+    - History
+    - Drama
+  letterboxd_rating: 3.54
 
 - id: come-and-see
   tmdb_id: 13258

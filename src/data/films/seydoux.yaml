@@ -6,10 +6,17 @@
 # chalamet.yaml — tagged before she had an entity.
 
 - id: blue-is-the-warmest-colour
-  tmdb_id: null
+  tmdb_id: 152584
   title: Blue Is the Warmest Colour
   year: 2013
   runtime: 180
   director: Abdellatif Kechiche
   tags: { opacity: 1, stillness: 4, bleakness: 4, humor: 1, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 3 }
+  letterboxd_title: Blue Is the Warmest Color
+  letterboxd_slug: blue-is-the-warmest-color
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/9m/mh/7o/fs/blue-warmest-color-1200-1200-675-675-crop-000000.jpg?v=07234e61f9
+  genres:
+    - Drama
+    - Romance
+  letterboxd_rating: 3.19

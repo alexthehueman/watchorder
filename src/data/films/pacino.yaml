@@ -402,6 +402,13 @@
   director: Andrew Niccol
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: s1m0ne
+  genres:
+    - Science Fiction
+    - Romance
+    - Drama
+    - Comedy
+  letterboxd_rating: 2.85
 
 - id: people-i-know
   tmdb_id: 11458
@@ -572,6 +579,11 @@
   director: Alejandro Agresti
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.42 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: no-somos-animales
+  genres:
+    - Drama
+    - Comedy
+  letterboxd_rating: 3
 
 - id: manglehorn
   tmdb_id: 254905

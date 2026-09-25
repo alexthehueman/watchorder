@@ -3,7 +3,7 @@
 # Contempt already exists in godard.yaml. Viva Maria! already exists in moreau.yaml.
 
 - id: la-verite
-  tmdb_id: null
+  tmdb_id: 61711
   title: La Vérité
   year: 1960
   runtime: 128
@@ -15,6 +15,13 @@
     humor: 1
     acclaim: 0.75
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 1 }
+  letterboxd_title: The Truth
+  letterboxd_slug: the-truth-1960
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/cd/jz/2o/yc/la%20verite-1200-1200-675-675-crop-000000.jpg?v=49f41caf5f
+  genres:
+    - Drama
+    - Romance
+  letterboxd_rating: 4
 
 - id: and-god-created-woman
   tmdb_id: 8420

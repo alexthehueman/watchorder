@@ -51,10 +51,17 @@
     - Romance
 
 - id: vita-and-virginia
-  tmdb_id: null
+  tmdb_id: 447034
   title: Vita and Virginia
   year: 2018
   runtime: 110
   director: Chanya Button
   tags: { opacity: 2, stillness: 4, bleakness: 3, humor: 1, acclaim: 0.48 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_title: Vita & Virginia
+  letterboxd_slug: vita-virginia
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ra/as/mm/zh/vita-virginia-1200-1200-675-675-crop-000000.jpg?v=c767af0ffa
+  genres:
+    - Drama
+    - Romance
+  letterboxd_rating: 3.26

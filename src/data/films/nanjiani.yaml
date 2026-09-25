@@ -24,13 +24,19 @@
     - Drama
 
 - id: barb-and-star-go-to-vista-del-mar
-  tmdb_id: null
+  tmdb_id: 595813
   title: Barb and Star Go to Vista Del Mar
   year: 2021
   runtime: 107
   director: Josh Greenbaum
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 5, acclaim: 0.6 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_title: Barb & Star Go to Vista Del Mar
+  letterboxd_slug: barb-star-go-to-vista-del-mar
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/5d/89/co/a8/barb-and-star-go-to-vista-del-mar-1200-1200-675-675-crop-000000.jpg?v=929a6a72b7
+  genres:
+    - Comedy
+  letterboxd_rating: 3.52
 
 - id: men-in-black-international
   tmdb_id: 479455

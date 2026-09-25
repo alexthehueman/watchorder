@@ -20,13 +20,21 @@
     - Thriller
 
 - id: coal-miners-daughter
-  tmdb_id: null
+  tmdb_id: 16769
   title: Coal Miners Daughter
   year: 1980
   runtime: 125
   director: Michael Apted
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.82 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_title: Coal Miner's Daughter
+  letterboxd_slug: coal-miners-daughter
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/34/kf/24/d8/coalminersdaughter-1200-1200-675-675-crop-000000.jpg?v=5f520b5ea5
+  genres:
+    - History
+    - Drama
+    - Music
+  letterboxd_rating: 3.71
 
 - id: missing
   tmdb_id: 15600

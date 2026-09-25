@@ -41,13 +41,21 @@
     - Romance
 
 - id: the-divergent-series-insurgent
-  tmdb_id: null
+  tmdb_id: 262500
   title: The Divergent Series Insurgent
   year: 2015
   runtime: 119
   director: Robert Schwentke
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.42 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_title: Insurgent
+  letterboxd_slug: insurgent
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/wu/zv/b8/v5/insurgent-1200-1200-675-675-crop-000000.jpg?v=c49a4e69c1
+  genres:
+    - Action
+    - Science Fiction
+    - Thriller
+  letterboxd_rating: 2.62
 
 - id: ma
   tmdb_id: 502416

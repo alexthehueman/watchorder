@@ -405,6 +405,11 @@
   director: Menno Meyjes
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.35 }
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  letterboxd_slug: a-matadors-mistress
+  genres:
+    - Romance
+    - Drama
+  letterboxd_rating: 3.03
 
 - id: cadillac-records
   tmdb_id: 14299

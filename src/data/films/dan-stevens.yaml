@@ -53,10 +53,18 @@
     - Comedy
 
 - id: godzilla-x-kong-the-new-empire
-  tmdb_id: null
+  tmdb_id: 823464
   title: Godzilla x Kong - The New Empire
   year: 2024
   runtime: 115
   director: Adam Wingard
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 2, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_title: "Godzilla × Kong: The New Empire"
+  letterboxd_slug: godzilla-kong-the-new-empire
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/rt/j8/8b/66/gxk-1200-1200-675-675-crop-000000.jpg?v=40ea21876b
+  genres:
+    - Science Fiction
+    - Adventure
+    - Action
+  letterboxd_rating: 2.72

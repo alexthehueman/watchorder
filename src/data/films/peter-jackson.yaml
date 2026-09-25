@@ -33,6 +33,11 @@
     humor: 5 # the goriest possible version of a broad slapstick comedy, by design
     acclaim: 0.68
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: braindead-1992
+  genres:
+    - Comedy
+    - Horror
+  letterboxd_rating: 3.94
 
 - id: heavenly-creatures
   tmdb_id: 1024

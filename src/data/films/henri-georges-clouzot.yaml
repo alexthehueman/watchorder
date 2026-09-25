@@ -17,13 +17,21 @@
   letterboxd_rating: 3.9
 
 - id: quai-des-orfevres
-  tmdb_id: null
+  tmdb_id: 49842
   title: Quai des Orfèvres
   year: 1947
   runtime: 106
   director: Henri-Georges Clouzot
   tags: { opacity: 2, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_title: Jenny Lamour
+  letterboxd_slug: jenny-lamour
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/qj/74/d9/yd/quai-1200-1200-675-675-crop-000000.jpg?v=ffde1a1d13
+  genres:
+    - Thriller
+    - Mystery
+    - Drama
+  letterboxd_rating: 3.85
 
 - id: the-wages-of-fear
   tmdb_id: 204
@@ -42,7 +50,7 @@
   letterboxd_rating: 4.37
 
 - id: les-diaboliques
-  tmdb_id: null
+  tmdb_id: 827
   title: Les Diaboliques
   year: 1955
   runtime: 117
@@ -54,3 +62,11 @@
     humor: 1
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_title: Diabolique
+  letterboxd_slug: diabolique-1955
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/3v/rw/tr/qt/diabolique-1200-1200-675-675-crop-000000.jpg?v=e8f288e8c3
+  genres:
+    - Horror
+    - Thriller
+    - Mystery
+  letterboxd_rating: 4.19

@@ -3,13 +3,20 @@
 # Lady Macbeth already exists in pugh.yaml — tagged before she had an entity.
 
 - id: whitney-houston-i-wanna-dance-with-somebody
-  tmdb_id: null
+  tmdb_id: 696157
   title: Whitney Houston I Wanna Dance with Somebody
   year: 2022
   runtime: 146
   director: Kasi Lemmons
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_title: I Wanna Dance with Somebody
+  letterboxd_slug: i-wanna-dance-with-somebody
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/6o/mk/jl/s0/i%20wanna-1200-1200-675-675-crop-000000.jpg?v=b9112bca20
+  genres:
+    - Drama
+    - Music
+  letterboxd_rating: 3.02
 
 - id: blink-twice
   tmdb_id: 840705

@@ -31,6 +31,12 @@
     humor: 4
     acclaim: 0.75
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: love-friendship
+  genres:
+    - Comedy
+    - Romance
+    - Drama
+  letterboxd_rating: 3.39
 
 - id: pearl-harbor
   tmdb_id: 676

@@ -3,7 +3,7 @@
 # Gosford Park already exists in altman.yaml — tagged before she had an entity.
 
 - id: the-cook-the-thief-his-wife-and-her-lover
-  tmdb_id: null
+  tmdb_id: 7452
   title: The Cook the Thief His Wife and Her Lover
   year: 1989
   runtime: 124
@@ -15,6 +15,13 @@
     humor: 1
     acclaim: 0.75
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 2 }
+  letterboxd_title: The Cook, the Thief, His Wife & Her Lover
+  letterboxd_slug: the-cook-the-thief-his-wife-her-lover
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/jh/4a/s3/nz/cook-wife-thief-lover-1200-1200-675-675-crop-000000.jpg?v=66ef28b340
+  genres:
+    - Crime
+    - Drama
+  letterboxd_rating: 4.18
 
 - id: the-madness-of-king-george
   tmdb_id: 11318
