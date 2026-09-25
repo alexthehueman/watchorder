@@ -30,6 +30,13 @@
   director: Jean-Luc Godard
   tags: { opacity: 5, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.50 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: made-in-usa
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/qz/nt/ug/bn/made-in-usa-1200-1200-675-675-crop-000000.jpg?v=6fbd260e92
+  genres:
+    - Mystery
+    - Comedy
+    - Crime
+  letterboxd_rating: 3.31
 
 - id: the-nun
   tmdb_id: 42722
@@ -39,6 +46,11 @@
   director: Jacques Rivette
   tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.60 }
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: the-nun
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/a0/q2/lg/0h/nun-1200-1200-675-675-crop-000000.jpg?v=c884ad6b92
+  genres:
+    - Drama
+  letterboxd_rating: 3.97
 
 - id: justine-1969
   tmdb_id: 42609
@@ -48,6 +60,13 @@
   runtime: 116
   tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.40 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  letterboxd_slug: justine
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/1k/12/ur/lj/3S7BaGBWTwbPOy28v6kcvRwSh4S-1200-1200-675-675-crop-000000.jpg?v=50e835b4e9
+  genres:
+    - Drama
+    - Romance
+    - Mystery
+  letterboxd_rating: 3.07
 
 - id: laughter-in-the-dark
   tmdb_id: 224463
@@ -56,6 +75,11 @@
   runtime: 104
   tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.45 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  letterboxd_slug: laughter-in-the-dark
+  poster_url: https://a.ltrbxd.com/resized/film-poster/1/5/8/3/6/4/158364-laughter-in-the-dark-0-230-0-345-crop.jpg?v=82ee5a4d11
+  genres:
+    - Drama
+  letterboxd_rating: 3.3
 
 - id: the-magus
   tmdb_id: 33228
@@ -64,3 +88,10 @@
   runtime: 116
   tags: { opacity: 5, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.25 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: the-magus
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/wx/kk/bc/9f/wQsqrPdEnfVIo8lkX1d2psROxlW-1200-1200-675-675-crop-000000.jpg?v=03729af2e8
+  genres:
+    - Drama
+    - Mystery
+    - Fantasy
+  letterboxd_rating: 3.01
