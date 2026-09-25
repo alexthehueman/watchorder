@@ -1,0 +1,189 @@
+# Not bounded to a closed era the way MGM (1924-1959) is — like the other majors already in the
+# corpus, this studio never stopped being active, even after Disney's 2019 acquisition folded it
+# into 20th Century Studios and Searchlight Pictures. Three eras trace a real throughline: the
+# golden-age prestige years that won the studio its earliest Oscars, the run from MASH through Die
+# Hard that built its identity around irreverence and genre filmmaking, and the modern era mixing
+# tentpole franchises with the Searchlight label's awards-season output.
+#
+# Every film here was already tagged elsewhere in the corpus, so no new film entries were needed.
+# The sequel trilogies deliberately stop where Fox's ownership did: the Star Wars sequel trilogy
+# (2015-2019) and the two modern Avatar sequels were made after Disney bought Lucasfilm in 2012 and
+# 20th Century Fox in 2019 respectively, so only the Fox-era originals are included here.
+
+slug: fox
+kind: studio
+name: 20th Century Fox
+blurb: The studio that won Oscars for the Dust Bowl and Wales one decade and invented the modern summer tentpole the next — golden-age prestige and genre irreverence sitting closer together here than at any other major.
+
+eras:
+  - id: golden-age
+    name: Golden-age prestige
+    from: 1940
+  - id: new-hollywood
+    name: New Hollywood and the birth of the blockbuster
+    from: 1970
+  - id: modern
+    name: The modern era
+    from: 1990
+
+films:
+  - film: the-grapes-of-wrath
+    era: golden-age
+    signature: 4
+    gateway: 3
+    note: A Dust Bowl family's cross-country migration to California in search of work strips them down to almost nothing, one of the few Best Picture winners that actually sides with the poor.
+
+  - film: how-green-was-my-valley
+    era: golden-age
+    signature: 3
+    gateway: 3
+    note: A Welsh mining family's slow disintegration is narrated by its youngest son, looking back on a community that's already gone by the time he's telling the story.
+
+  - film: all-about-eve
+    era: golden-age
+    signature: 4
+    gateway: 2
+    note: An aging Broadway star's seemingly devoted young fan turns out to be quietly engineering her replacement, told with a viciousness the genre rarely allowed women to have toward each other on screen.
+
+  - film: the-sound-of-music
+    era: golden-age
+    signature: 2
+    gateway: 1
+    note: A failed postulant becomes governess to a widowed naval captain's seven children just as Austria is about to be annexed by the Nazis, sentiment and encroaching history sharing the same frame.
+
+  - film: planet-of-the-apes
+    era: golden-age
+    signature: 3
+    gateway: 2
+    note: Astronauts crash-land on a planet run by intelligent apes who keep humans as livestock, building to one of the most quoted final shots in American film.
+
+  - film: mash
+    era: new-hollywood
+    signature: 3
+    gateway: 2
+    note: Army surgeons stationed at a Korean War field hospital treat the horror around them with constant, near-insubordinate black comedy, structured as loosely as its characters behave.
+
+  - film: star-wars
+    era: new-hollywood
+    signature: 4
+    must_see: true
+    gateway: 1
+    note: A farm boy discovers he's part of a rebellion against a galactic empire and joins a smuggler and a princess to destroy its ultimate weapon, the film that invented the modern blockbuster's whole toy-and-sequel business model.
+
+  - film: alien
+    era: new-hollywood
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A commercial spaceship crew picks up a distress signal that turns out to be a trap, and the thing they bring back on board picks them off one at a time in near-total darkness.
+
+  - film: aliens
+    era: new-hollywood
+    signature: 4
+    gateway: 1
+    note: The sole survivor of the first film reluctantly returns to the planet where it all started, this time with a squad of marines and a completely different genre's worth of firepower.
+
+  - film: die-hard
+    era: new-hollywood
+    signature: 3
+    gateway: 1
+    note: An off-duty cop visiting his estranged wife's office Christmas party has to take out an entire team of thieves posing as terrorists, alone, in his socks, one floor at a time.
+
+  - film: home-alone
+    era: modern
+    signature: 2
+    gateway: 1
+    note: An eight-year-old accidentally left behind when his family flies to Paris for Christmas has to booby-trap the house against the burglars who've noticed it's empty.
+
+  - film: fight-club
+    era: modern
+    signature: 5
+    gateway: 2
+    note: An insomniac office worker's chance friendship with a charismatic soap salesman spirals from underground boxing into something closer to a cult, the twist reframing everything that came before it.
+
+  - film: x-men
+    era: modern
+    signature: 2
+    gateway: 1
+    note: Genetically mutated humans divided over whether to coexist with or fight ordinary people are drawn into a war between two former friends with opposite answers, the film credited with kicking off the modern superhero era.
+
+  - film: the-devil-wears-prada
+    era: modern
+    signature: 2
+    gateway: 1
+    note: A journalism graduate takes a job as assistant to a terrifying fashion magazine editor and slowly starts becoming the kind of person the job requires.
+
+  - film: avatar
+    era: modern
+    signature: 2
+    gateway: 1
+    note: A paraplegic marine sent to infiltrate an alien moon's indigenous population through a remote-controlled body ends up switching sides, built as a showcase for 3D technology the industry hadn't fully committed to yet.
+
+  - film: little-miss-sunshine
+    era: modern
+    signature: 3
+    gateway: 1
+    note: A deeply dysfunctional family road-trips a young girl to a children's beauty pageant in a dying VW bus, each of them privately falling apart along the way.
+
+  - film: the-grand-budapest-hotel
+    era: modern
+    signature: 3
+    gateway: 2
+    note: A legendary hotel concierge and his protégé get caught up in a stolen painting and a family inheritance dispute, framed as a story told within a story told within a story.
+
+  - film: 12-years-a-slave
+    era: modern
+    signature: 5
+    gateway: 4
+    note: A free Black man from New York is kidnapped and sold into slavery in the antebellum South, filmed with a refusal to look away from what that actually meant day to day.
+
+  - film: birdman
+    era: modern
+    signature: 4
+    gateway: 3
+    note: A washed-up actor famous for playing a superhero decades ago tries to reclaim credibility with a Broadway play, shot to look like one continuous unbroken take.
+
+  - film: deadpool
+    era: modern
+    signature: 2
+    gateway: 1
+    note: A disfigured mercenary with a healing factor and no filter hunts down the man who ruined his face, breaking the fourth wall constantly to mock the genre it's still very much part of.
+
+  - film: the-shape-of-water
+    era: modern
+    signature: 3
+    gateway: 2
+    note: A mute cleaning woman at a Cold War-era government lab falls for the amphibious creature being held captive there and plots to get him out.
+
+  - film: bohemian-rhapsody
+    era: modern
+    signature: 2
+    gateway: 1
+    note: Queen's rise from pub gigs to stadium rock is traced up through the band's legendary Live Aid set, built entirely around recreating that performance beat for beat.
+
+curated:
+  curator: house
+  rationale: The two genre landmarks first, then the range across all three eras.
+  order:
+    - star-wars
+    - alien
+    - fight-club
+    - 12-years-a-slave
+    - birdman
+    - the-grapes-of-wrath
+    - all-about-eve
+    - aliens
+    - the-shape-of-water
+    - the-grand-budapest-hotel
+    - die-hard
+    - mash
+    - how-green-was-my-valley
+    - little-miss-sunshine
+    - planet-of-the-apes
+    - x-men
+    - avatar
+    - the-devil-wears-prada
+    - the-sound-of-music
+    - bohemian-rhapsody
+    - deadpool
+    - home-alone
