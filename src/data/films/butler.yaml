@@ -1,7 +1,17 @@
 # New films for Austin Butler. Scales and anchors are in README.md ("The anchor rubric").
 #
 # Dune Part Two already exists in zendaya.yaml — tagged before he had an entity. Once Upon a Time
-# in Hollywood already exists in tarantino.yaml — tagged before he had an entity.
+# in Hollywood already exists in tarantino.yaml — tagged before he had an entity. This pass adds
+# further free wins The Dead Don't Die (Adam Driver), Caught Stealing (Aronofsky), and Eddington
+# (Aster), plus 9 new films below.
+#
+# The Bling Ring needed a distinct id — his 2011 Lifetime TV movie, unrelated to Sofia Coppola's
+# 2013 theatrical film already in the corpus under Emma Watson despite sharing the exact title.
+# Excluded as documentaries/specials about him or Elvis rather than acting roles: Made in
+# Eddington, Just a Boy From Tupelo, Rock 'N Roll Royalty, Bigger Than Life, Fit for a King, Viva
+# Australia, Exclusively Elvis, and 7 Secrets with Miranda Cosgrove. Excluded as unreleased/
+# pre-production as of today: The Brigands of Rattlecreek, the untitled Lance Armstrong film,
+# Enemies, The Barrier, American Speed, and City on Fire.
 
 - id: elvis
   tmdb_id: 614934
@@ -55,3 +65,83 @@
   genres:
     - Crime
     - Drama
+
+- id: the-bling-ring-2011
+  tmdb_id: 116853
+  title: The Bling Ring
+  year: 2011
+  runtime: 88
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: dude
+  tmdb_id: 399131
+  title: Dude
+  year: 2018
+  runtime: 83
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: yoga-hosers
+  tmdb_id: 290825
+  title: Yoga Hosers
+  year: 2016
+  runtime: 88
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.20 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-intruders
+  tmdb_id: 322518
+  title: The Intruders
+  year: 2015
+  runtime: 87
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: my-uncle-rafael
+  tmdb_id: 119454
+  title: My Uncle Rafael
+  year: 2012
+  runtime: 90
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: intercept
+  tmdb_id: 200494
+  title: Intercept
+  year: 2011
+  runtime: 90
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.25 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: sharpays-fabulous-adventure
+  tmdb_id: 60405
+  title: Sharpay's Fabulous Adventure
+  year: 2011
+  runtime: 90
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: betwixt
+  tmdb_id: 1397486
+  title: Betwixt
+  year: 2010
+  runtime: 90
+  tags: { opacity: 2, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: aliens-in-the-attic
+  tmdb_id: 20856
+  title: Aliens in the Attic
+  year: 2009
+  runtime: 86
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-faithful
+  tmdb_id: 1512620
+  title: The Faithful
+  year: 2007
+  runtime: 90
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }

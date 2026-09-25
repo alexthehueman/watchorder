@@ -45,6 +45,110 @@ films:
     gateway: 3
     note: A member of the Manson Family testing a stuntman's patience at his desert ranch home, playing entitled bravado that curdles into an absurd, uneasy comedy of manners before it curdles into something worse.
 
+  - film: eddington
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: menacing
+    gateway: 1
+    note: A pandemic-era conspiracy podcaster stoking a small town's paranoia toward violence.
+
+  - film: caught-stealing
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: menacing
+    gateway: 2
+    note: A minor supporting role in this Aronofsky crime thriller.
+
+  - film: the-dead-dont-die
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 2
+    note: A minor supporting role in this deadpan zombie-apocalypse comedy.
+
+  - film: the-bling-ring-2011
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: comic
+    gateway: 1
+    note: One of the teenagers burglarizing celebrity homes, in this Lifetime TV movie distinct from Sofia Coppola's theatrical film of the same year and title.
+
+  - film: dude
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: warm
+    gateway: 1
+    note: A love interest for one of the graduating friends navigating one last summer together.
+
+  - film: yoga-hosers
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 1
+    note: A minor supporting role in this Kevin Smith horror-comedy.
+
+  - film: the-intruders
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: menacing
+    gateway: 1
+    note: A teenager whose new house harbors a violent secret tied to its previous occupants.
+
+  - film: my-uncle-rafael
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: warm
+    gateway: 1
+    note: A minor supporting role in this family comedy.
+
+  - film: intercept
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: menacing
+    gateway: 1
+    note: A soldier caught up in a plot involving stolen military secrets.
+
+  - film: sharpays-fabulous-adventure
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 1
+    note: A love interest for the High School Musical spinoff's title character chasing Hollywood stardom.
+
+  - film: betwixt
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: unhinged
+    gateway: 1
+    note: A teenager whose group of friends is drawn into a supernatural mystery after a car crash.
+
+  - film: aliens-in-the-attic
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 2
+    note: A teenager whose family vacation is upended by a tiny alien invasion hiding in the attic.
+
+  - film: the-faithful
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: restrained
+    gateway: 1
+    note: A minor early role in this faith-based drama.
+
 curated:
   curator: house
   rationale: The performance that announced total commitment first, then everywhere else that same discipline gets put to different use.
