@@ -96,6 +96,12 @@
   runtime: 98
   tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.50 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: nightbitch
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/1u/0w/ut/rf/Nightb-1200-1200-675-675-crop-000000.jpg?v=3fb3a9f353
+  genres:
+    - Comedy
+    - Horror
+  letterboxd_rating: 2.75
 
 - id: disenchanted
   tmdb_id: 338958
@@ -104,6 +110,13 @@
   runtime: 120
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.45 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: disenchanted
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/wg/ys/ft/mr/disenchanted-1200-1200-675-675-crop-000000.jpg?v=343a3f58d6
+  genres:
+    - Comedy
+    - Fantasy
+    - Family
+  letterboxd_rating: 2.28
 
 - id: dear-evan-hansen
   tmdb_id: 567690
@@ -112,6 +125,11 @@
   runtime: 137
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.35 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
+  letterboxd_slug: dear-evan-hansen
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/kp/9z/60/v1/dear-evan-hansen-1200-1200-675-675-crop-000000.jpg?v=d0d952f8ec
+  genres:
+    - Drama
+  letterboxd_rating: 2.33
 
 - id: the-woman-in-the-window
   tmdb_id: 520663
@@ -120,6 +138,13 @@
   runtime: 100
   tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.30 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: the-woman-in-the-window-2021
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/13/vr/rw/tq/the-woman-in-the-window-1200-1200-675-675-crop-000000.jpg?v=72692e80f7
+  genres:
+    - Crime
+    - Thriller
+    - Mystery
+  letterboxd_rating: 2.45
 
 - id: zack-snyders-justice-league
   tmdb_id: 791373
@@ -128,6 +153,13 @@
   runtime: 242
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.65 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: zack-snyders-justice-league
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/u3/aq/cd/3b/zack-snyders-justice-league-1200-1200-675-675-crop-000000.jpg?v=ea6a5b9eeb
+  genres:
+    - Action
+    - Fantasy
+    - Adventure
+  letterboxd_rating: 3.4
 
 - id: hillbilly-elegy
   tmdb_id: 592984
@@ -136,6 +168,11 @@
   runtime: 116
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.30 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: hillbilly-elegy
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/m3/93/1f/mx/hillbilly-1200-1200-675-675-crop-000000.jpg?v=ed18f25014
+  genres:
+    - Drama
+  letterboxd_rating: 2.75
 
 - id: batman-v-superman-dawn-of-justice
   tmdb_id: 209112
@@ -144,6 +181,13 @@
   runtime: 152
   tags: { opacity: 2, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.45 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: batman-v-superman-dawn-of-justice
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ua/mn/pb/t9/batman-v-superman-dawn-of-justice-1200-1200-675-675-crop-000000.jpg?v=83114a32b5
+  genres:
+    - Action
+    - Fantasy
+    - Adventure
+  letterboxd_rating: 2.5
 
 - id: trouble-with-the-curve
   tmdb_id: 87825
@@ -152,6 +196,12 @@
   runtime: 111
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.45 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: trouble-with-the-curve
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ol/gk/ee/27/trouble-with-the-curve-1200-1200-675-675-crop-000000.jpg?v=c7c6b37f52
+  genres:
+    - Romance
+    - Drama
+  letterboxd_rating: 3.1
 
 - id: on-the-road
   tmdb_id: 83770
@@ -160,6 +210,12 @@
   runtime: 137
   tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.45 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+  letterboxd_slug: on-the-road
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/7m/09/am/ml/on-the-road-1200-1200-675-675-crop-000000.jpg?v=61d72fd039
+  genres:
+    - Adventure
+    - Drama
+  letterboxd_rating: 2.89
 
 - id: the-muppets
   tmdb_id: 64328
@@ -168,6 +224,13 @@
   runtime: 103
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.70 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: the-muppets
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/8z/de/xw/e7/the-muppets-1200-1200-675-675-crop-000000.jpg?v=db4d6ba9cd
+  genres:
+    - Family
+    - Comedy
+    - Adventure
+  letterboxd_rating: 3.63
 
 - id: leap-year
   tmdb_id: 25195
@@ -176,6 +239,12 @@
   runtime: 100
   tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 3, acclaim: 0.40 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: leap-year
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/0q/50/ko/eu/leap-year-1200-1200-675-675-crop-000000.jpg?v=5758080fb0
+  genres:
+    - Comedy
+    - Romance
+  letterboxd_rating: 3.1
 
 - id: night-at-the-museum-battle-of-the-smithsonian
   tmdb_id: 18360
@@ -184,7 +253,15 @@
   runtime: 105
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.45 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
-
+  letterboxd_slug: night-at-the-museum-battle-of-the-smithsonian
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/cu/uy/ih/7v/night-museum-2-1200-1200-675-675-crop-000000.jpg?v=8edaaf65ad
+  genres:
+    - Family
+    - Adventure
+    - Comedy
+    - Fantasy
+    - Action
+  letterboxd_rating: 3
 
 - id: underdog
   tmdb_id: 6589
@@ -193,6 +270,16 @@
   runtime: 84
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.30 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: underdog
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/8q/x0/h2/ck/underdog-1200-1200-675-675-crop-000000.jpg?v=eff28cc64e
+  genres:
+    - Family
+    - Adventure
+    - Comedy
+    - Action
+    - Fantasy
+    - Science Fiction
+  letterboxd_rating: 2.43
 
 - id: the-ex
   tmdb_id: 13171
@@ -201,6 +288,12 @@
   runtime: 89
   tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 3, acclaim: 0.30 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: the-ex
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/48/c5/uk/zx/dWuBf61JHhlck8Pd6lybykk7eaz-1200-1200-675-675-crop-000000.jpg?v=3184233dba
+  genres:
+    - Comedy
+    - Romance
+  letterboxd_rating: 2.42
 
 - id: tenacious-d-in-the-pick-of-destiny
   tmdb_id: 2179
@@ -209,6 +302,14 @@
   runtime: 93
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: tenacious-d-in-the-pick-of-destiny
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/yr/bo/w4/8a/tenacious-d-the-pick-of-destiny-1200-1200-675-675-crop-000000.jpg?v=c2bceb8ef3
+  genres:
+    - Adventure
+    - Fantasy
+    - Comedy
+    - Music
+  letterboxd_rating: 3.53
 
 - id: talladega-nights-the-ballad-of-ricky-bobby
   tmdb_id: 9718
@@ -217,6 +318,11 @@
   runtime: 108
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: talladega-nights-the-ballad-of-ricky-bobby
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/r0/k1/ot/23/talladega-nights-10-1200-1200-675-675-crop-000000.jpg?v=4ab4ffc82b
+  genres:
+    - Comedy
+  letterboxd_rating: 3.36
 
 - id: the-wedding-date
   tmdb_id: 6961
@@ -225,6 +331,12 @@
   runtime: 90
   tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 3, acclaim: 0.35 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: the-wedding-date
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ah/g3/q5/ov/wedding%20date-1200-1200-675-675-crop-000000.jpg?v=1933966f30
+  genres:
+    - Romance
+    - Comedy
+  letterboxd_rating: 3.05
 
 - id: serving-sara
   tmdb_id: 12771
@@ -233,6 +345,11 @@
   runtime: 100
   tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 3, acclaim: 0.25 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: serving-sara
+  poster_url: https://a.ltrbxd.com/resized/alternative-backdrop/4/4/3/1/0/tmdb/4YnHieV946S6iIG9Ke0FyFI2eVK-1200-1200-675-675-crop-000000.jpg?v=3dc3fb41c8
+  genres:
+    - Comedy
+  letterboxd_rating: 2.34
 
 - id: pumpkin
   tmdb_id: 9719
@@ -241,6 +358,13 @@
   runtime: 113
   tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.35 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: pumpkin
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/wz/ji/xd/u6/1QQZbcIZU9tF3fOZRV8fr1Wb3De-1200-1200-675-675-crop-000000.jpg?v=88686f8010
+  genres:
+    - Romance
+    - Drama
+    - Comedy
+  letterboxd_rating: 2.98
 
 - id: the-slaughter-rule
   tmdb_id: 21801
@@ -249,6 +373,11 @@
   runtime: 87
   tags: { opacity: 2, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.45 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: the-slaughter-rule
+  poster_url: https://a.ltrbxd.com/resized/film-poster/3/8/1/8/3/38183-the-slaughter-rule-0-230-0-345-crop.jpg?v=de220b0264
+  genres:
+    - Drama
+  letterboxd_rating: 2.51
 
 - id: cruel-intentions-2
   tmdb_id: 5458
@@ -257,6 +386,11 @@
   runtime: 90
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.20 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+  letterboxd_slug: cruel-intentions-2
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/lt/ey/7v/sl/iA54P6b6kyFEvsFcgFzYl3mzl9p-1200-1200-675-675-crop-000000.jpg?v=5c439212e6
+  genres:
+    - Drama
+  letterboxd_rating: 2.14
 
 - id: psycho-beach-party
   tmdb_id: 27723
@@ -265,6 +399,12 @@
   runtime: 95
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.35 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: psycho-beach-party
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/wc/xw/qu/73/gGnkujXNz4YZ7k224qogsMqwjIG-1200-1200-675-675-crop-000000.jpg?v=1d8b7380da
+  genres:
+    - Horror
+    - Comedy
+  letterboxd_rating: 3.37
 
 - id: drop-dead-gorgeous
   tmdb_id: 10490
@@ -273,6 +413,11 @@
   runtime: 97
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: drop-dead-gorgeous
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/sh/yq/ii/mh/drop-dead-gorgeous-1200-1200-675-675-crop-000000.jpg?v=afe4534abd
+  genres:
+    - Comedy
+  letterboxd_rating: 3.88
 
 - id: at-the-sea
   tmdb_id: 1279548
@@ -281,3 +426,8 @@
   runtime: 105
   tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.50 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: at-the-sea
+  poster_url: https://a.ltrbxd.com/resized/film-poster/1/1/6/3/3/2/1/1163321-at-the-sea-0-230-0-345-crop.jpg?v=cb0b576002
+  genres:
+    - Drama
+  letterboxd_rating: 2.92
