@@ -4,6 +4,14 @@
 # and the Deathly Hallows Part 2 already exists in watson.yaml. Die Hard already
 # exists in bruce-willis.yaml. Sense and Sensibility already exists in winslet.yaml.
 # Truly Madly Deeply below is his own — his breakout leading role, outside both corpora.
+#
+# This pass completes the rest of the Harry Potter series (five more entries) plus his other real
+# film work, adding free wins Love Actually (thompson.yaml), Dogma (chris-rock.yaml) and The
+# Butler (whitaker.yaml). Excludes: his large tail of documentaries, tributes and making-of
+# featurettes (his TMDB page lists over a dozen); TV specials (the Victoria Wood pieces, several
+# one-off stage-performance broadcasts); "Play" (2001), a short Beckett adaptation; and Die Hard:
+# With a Vengeance (1995) — his TMDB credit for it is a database error, he does not actually
+# appear in that film.
 
 - id: truly-madly-deeply
   tmdb_id: 18317
@@ -26,3 +34,302 @@
     - Romance
     - Fantasy
     - Comedy
+
+- id: romeo-and-juliet-1978
+  tmdb_id: 119918
+  title: Romeo and Juliet
+  year: 1978
+  runtime: 60
+  tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 0 }
+
+- id: busted-1983
+  tmdb_id: 377505
+  title: Busted
+  year: 1983
+  runtime: 60
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: wetherby
+  tmdb_id: 147747
+  title: Wetherby
+  year: 1985
+  runtime: 97
+  tags: { opacity: 3, stillness: 4, bleakness: 4, humor: 1, acclaim: 0.60 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 0 }
+
+- id: benefactors
+  tmdb_id: 265165
+  title: Benefactors
+  year: 1989
+  runtime: 90
+  tags: { opacity: 2, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-january-man
+  tmdb_id: 32059
+  title: The January Man
+  year: 1989
+  runtime: 97
+  tags: { opacity: 2, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: quigley-down-under
+  tmdb_id: 9588
+  title: Quigley Down Under
+  year: 1990
+  runtime: 119
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.60 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: closet-land
+  tmdb_id: 58648
+  title: Closet Land
+  year: 1991
+  runtime: 93
+  tags: { opacity: 2, stillness: 5, bleakness: 5, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: robin-hood-prince-of-thieves
+  tmdb_id: 8367
+  title: Robin Hood, Prince of Thieves
+  year: 1991
+  runtime: 143
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: close-my-eyes
+  tmdb_id: 53896
+  title: Close My Eyes
+  year: 1991
+  runtime: 108
+  tags: { opacity: 2, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+
+- id: bob-roberts
+  tmdb_id: 10608
+  title: Bob Roberts
+  year: 1992
+  runtime: 102
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: mesmer
+  tmdb_id: 77624
+  title: Mesmer
+  year: 1994
+  runtime: 105
+  tags: { opacity: 2, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: an-awfully-big-adventure
+  tmdb_id: 22279
+  title: An Awfully Big Adventure
+  year: 1995
+  runtime: 113
+  tags: { opacity: 2, stillness: 3, bleakness: 4, humor: 2, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: michael-collins
+  tmdb_id: 1770
+  title: Michael Collins
+  year: 1996
+  runtime: 133
+  tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: rasputin-1996
+  tmdb_id: 46827
+  title: "Rasputin: Dark Servant of Destiny"
+  year: 1996
+  runtime: 120
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: the-winter-guest
+  tmdb_id: 25994
+  title: The Winter Guest
+  year: 1997
+  runtime: 111
+  director: Alan Rickman
+  tags: { opacity: 2, stillness: 5, bleakness: 3, humor: 1, acclaim: 0.60 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: judas-kiss-1998
+  tmdb_id: 37516
+  title: Judas Kiss
+  year: 1998
+  runtime: 97
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: dark-harbor
+  tmdb_id: 105980
+  title: Dark Harbor
+  year: 1999
+  runtime: 90
+  tags: { opacity: 2, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: galaxy-quest
+  tmdb_id: 926
+  title: Galaxy Quest
+  year: 1999
+  runtime: 102
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 5, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: blow-dry
+  tmdb_id: 17203
+  title: Blow Dry
+  year: 2001
+  runtime: 92
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 3, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-search-for-john-gissing
+  tmdb_id: 66742
+  title: The Search for John Gissing
+  year: 2001
+  runtime: 90
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 3, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: harry-potter-and-the-philosophers-stone
+  tmdb_id: 671
+  title: "Harry Potter and the Philosopher's Stone"
+  year: 2001
+  runtime: 152
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: harry-potter-and-the-chamber-of-secrets
+  tmdb_id: 672
+  title: Harry Potter and the Chamber of Secrets
+  year: 2002
+  runtime: 161
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: something-the-lord-made
+  tmdb_id: 20544
+  title: Something the Lord Made
+  year: 2004
+  runtime: 120
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-hitchhikers-guide-to-the-galaxy
+  tmdb_id: 7453
+  title: "The Hitchhiker's Guide to the Galaxy"
+  year: 2005
+  runtime: 109
+  tags: { opacity: 2, stillness: 2, bleakness: 1, humor: 4, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: snow-cake
+  tmdb_id: 313
+  title: Snow Cake
+  year: 2006
+  runtime: 112
+  tags: { opacity: 2, stillness: 4, bleakness: 3, humor: 2, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: perfume-the-story-of-a-murderer
+  tmdb_id: 1427
+  title: "Perfume: The Story of a Murderer"
+  year: 2006
+  runtime: 147
+  tags: { opacity: 2, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.70 }
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 2 }
+
+- id: harry-potter-and-the-order-of-the-phoenix
+  tmdb_id: 675
+  title: Harry Potter and the Order of the Phoenix
+  year: 2007
+  runtime: 138
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 0 }
+
+- id: nobel-son
+  tmdb_id: 15676
+  title: Nobel Son
+  year: 2007
+  runtime: 95
+  tags: { opacity: 3, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: bottle-shock
+  tmdb_id: 13996
+  title: Bottle Shock
+  year: 2008
+  runtime: 110
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 3, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: alice-in-wonderland-2010
+  tmdb_id: 12155
+  title: Alice in Wonderland
+  year: 2010
+  runtime: 108
+  director: Tim Burton
+  tags: { opacity: 2, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: harry-potter-and-the-deathly-hallows-part-1
+  tmdb_id: 12444
+  title: "Harry Potter and the Deathly Hallows: Part 1"
+  year: 2010
+  runtime: 146
+  tags: { opacity: 2, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-song-of-lunch
+  tmdb_id: 53314
+  title: The Song of Lunch
+  year: 2010
+  runtime: 50
+  tags: { opacity: 2, stillness: 4, bleakness: 3, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: gambit-2012
+  tmdb_id: 97434
+  title: Gambit
+  year: 2012
+  runtime: 89
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 4, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: a-promise
+  tmdb_id: 214081
+  title: A Promise
+  year: 2013
+  runtime: 98
+  tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: cbgb
+  tmdb_id: 111479
+  title: CBGB
+  year: 2013
+  runtime: 101
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 2, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: a-little-chaos
+  tmdb_id: 283227
+  title: A Little Chaos
+  year: 2015
+  runtime: 117
+  director: Alan Rickman
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: alice-through-the-looking-glass
+  tmdb_id: 241259
+  title: Alice Through the Looking Glass
+  year: 2016
+  runtime: 113
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 2, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
