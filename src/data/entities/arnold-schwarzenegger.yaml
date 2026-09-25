@@ -45,6 +45,302 @@ films:
     gateway: 4
     note: A secret agent whose double life collides with his marriage, playing broad, self-aware comic bravado.
 
+  - film: commando
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: menacing
+    gateway: 3
+    note: A retired special-forces colonel tearing through an army of mercenaries to get his kidnapped daughter back, playing pure one-liner-delivering action excess.
+
+  - film: the-expendables
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 2
+    note: A cameo as a rival mercenary leader declining to join Stallone's crew.
+
+  - film: the-expendables-3
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 2
+    note: A returning member of the aging mercenary crew taking on one more job.
+
+  - film: twins
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 3
+    note: A genetically engineered giant discovering he has a scheming, much smaller twin brother, playing gentle naivety against his own scale.
+
+  - film: conan-the-barbarian
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: menacing
+    gateway: 2
+    note: A minor supporting role in this sword-and-sorcery epic that made him a star.
+
+  - film: dave
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 1
+    note: A cameo as himself in this comedy about a presidential impersonator.
+
+  - film: kindergarten-cop
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 2
+    note: An undercover cop posing as a kindergarten teacher, playing brute-force intensity against a room of five-year-olds.
+
+  - film: last-action-hero
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 2
+    note: A minor supporting role in this meta action-movie satire.
+
+  - film: terminator-genisys
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: warm
+    gateway: 3
+    note: An aging version of the same protector Terminator, reprising the role decades later.
+
+  - film: the-long-goodbye
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: menacing
+    gateway: 1
+    note: An early, uncredited appearance as one of the hoods menacing Philip Marlowe.
+
+  - film: hercules-in-new-york
+    signature: 1
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 1
+    note: His screen debut as Hercules himself, transplanted to modern-day New York with predictably absurd results.
+
+  - film: stay-hungry
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: warm
+    gateway: 1
+    note: A bodybuilder training at a Southern gym that becomes the target of a real-estate developer's buyout scheme.
+
+  - film: the-villain
+    signature: 1
+    showcase: 1
+    role_size: lead
+    register: comic
+    gateway: 1
+    note: A dim-witted, impossibly muscular Western hero in this live-action Looney Tunes-style comedy.
+
+  - film: scavenger-hunt
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 1
+    note: A minor supporting role in this ensemble comedy about a scavenger hunt for a fortune.
+
+  - film: conan-the-destroyer
+    signature: 1
+    showcase: 1
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: Conan again, escorting a princess on a quest that turns out to be a trap.
+
+  - film: red-sonja
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: warm
+    gateway: 1
+    note: A warrior aiding the sword-wielding heroine's quest for vengeance against an evil sorceress.
+
+  - film: raw-deal
+    signature: 1
+    showcase: 1
+    role_size: lead
+    register: menacing
+    gateway: 1
+    note: A disgraced FBI agent going undercover to infiltrate the mob from the inside.
+
+  - film: the-running-man
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: menacing
+    gateway: 2
+    note: A wrongly convicted man forced to survive a deadly, ratings-obsessed game show as its next contestant.
+
+  - film: red-heat
+    signature: 1
+    showcase: 1
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A stoic Soviet cop paired with a wisecracking Chicago detective to track down a drug lord.
+
+  - film: junior
+    signature: 1
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 2
+    note: A research scientist who becomes the test subject for his own fertility drug, playing pregnancy for maximum comic incongruity.
+
+  - film: eraser
+    signature: 1
+    showcase: 1
+    role_size: lead
+    register: menacing
+    gateway: 2
+    note: A U.S. Marshal protecting a whistleblower from the arms dealers she's exposing.
+
+  - film: jingle-all-the-way
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: comic
+    gateway: 2
+    note: A neglectful father racing across town on Christmas Eve for the one toy every store has sold out of.
+
+  - film: batman-and-robin
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: comic
+    gateway: 2
+    note: Mr. Freeze, delivering ice pun after ice pun while plotting to freeze all of Gotham.
+
+  - film: end-of-days
+    signature: 1
+    showcase: 1
+    role_size: lead
+    register: menacing
+    gateway: 1
+    note: A disgraced ex-cop who must stop Satan himself from claiming a woman destined to bear the Antichrist.
+
+  - film: the-6th-day
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A helicopter pilot who discovers he's been illegally cloned, and has to prove which version of himself is real.
+
+  - film: collateral-damage
+    signature: 1
+    showcase: 1
+    role_size: lead
+    register: menacing
+    gateway: 1
+    note: A firefighter whose family is killed in a terrorist bombing, going rogue to hunt down those responsible.
+
+  - film: terminator-3-rise-of-the-machines
+    signature: 1
+    showcase: 1
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: The same protector Terminator, sent back once more to guard against a new, more advanced threat.
+
+  - film: the-rundown
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 1
+    note: A cameo as a bar patron in this Dwayne Johnson action-comedy, passing an unofficial torch.
+
+  - film: around-the-world-in-80-days
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 1
+    note: A vain Turkish prince encountered during Phileas Fogg's globe-spanning wager.
+
+  - film: the-last-stand
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A small-town sheriff making a final stand against a cartel boss's convoy racing for the border.
+
+  - film: escape-plan
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: restrained
+    gateway: 2
+    note: A fellow inmate helping a structural-security expert engineer his way out of an ultra-secret prison.
+
+  - film: sabotage-2014
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: menacing
+    gateway: 1
+    note: The leader of a DEA task force whose team is picked off one by one after a cartel money heist goes wrong.
+
+  - film: the-expendables-2
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 2
+    note: A returning mercenary joining the crew's mission of revenge.
+
+  - film: maggie
+    signature: 1
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A father caring for his infected daughter in the slow, quiet final days before a zombie outbreak claims her.
+
+  - film: aftermath-2017
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A man seeking reckoning with the air traffic controller responsible for the plane crash that killed his family.
+
+  - film: killing-gunther
+    signature: 1
+    showcase: 1
+    role_size: lead
+    register: comic
+    gateway: 1
+    note: The world's greatest assassin, mocked by a documentary crew following the inept hitmen sent to kill him.
+
+  - film: terminator-dark-fate
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: restrained
+    gateway: 2
+    note: A retired Terminator living a quiet domestic life, drawn back in to help stop a new model hunting a young woman.
+
 curated:
   curator: house
   rationale: The role that made him an icon first, then its more beloved sequel, then the range of genre work around both.
@@ -54,3 +350,4 @@ curated:
     - predator
     - total-recall
     - true-lies
+    - commando
