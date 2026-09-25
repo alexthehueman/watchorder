@@ -37,6 +37,70 @@ films:
     gateway: 4
     note: A cabaret dancer who decides, on a whim, that she wants a baby immediately, playing bright, stubborn comic willfulness.
 
+  - film: alphaville
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A dictator's daughter in a dystopian sci-fi noir, playing a mind slowly rediscovering emotion it was never allowed to have.
+
+  - film: cleo-from-5-to-7
+    signature: 1
+    showcase: 1
+    role_size: cameo
+    register: comic
+    gateway: 2
+    note: A brief cameo in Varda's real-time drama, appearing in a short silent film within the film.
+
+  - film: le-petit-soldat
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A photographer whose new lover turns out to be tied to the political violence surrounding her.
+
+  - film: made-in-usa
+    signature: 2
+    showcase: 2
+    role_size: lead
+    register: unhinged
+    gateway: 1
+    note: A journalist investigating her lover's death in a fractured, deliberately incoherent political noir.
+
+  - film: the-nun
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A young woman forced into a convent against her will, in Rivette's adaptation of Diderot's novel, banned in France on release.
+
+  - film: justine-1969
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: restrained
+    gateway: 1
+    note: A supporting role in the Lawrence Durrell adaptation set in 1930s Alexandria.
+
+  - film: laughter-in-the-dark
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: menacing
+    gateway: 1
+    note: A manipulative young woman whose affair with a wealthy older man leads him to ruin, in the Nabokov adaptation.
+
+  - film: the-magus
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: unhinged
+    gateway: 1
+    note: One thread in a notoriously baffling psychological mystery, based on the John Fowles novel.
+
 curated:
   curator: house
   rationale: The most iconic role first, then the most acclaimed, then the range around both.
