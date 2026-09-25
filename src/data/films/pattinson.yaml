@@ -20,6 +20,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   letterboxd_slug: the-batman
   poster_url: https://a.ltrbxd.com/resized/sm/upload/h1/on/1p/hg/the-batman-1200-1200-675-675-crop-000000.jpg?v=1f59052f03
+  letterboxd_rating: 4.05
 
 - id: good-time
   tmdb_id: 429200
@@ -31,6 +32,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: good-time
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ga/f8/i6/1h/good1-1200-1200-675-675-crop-000000.jpg?v=3b5f6be87f
+  letterboxd_rating: 3.97
 
 - id: tenet
   tmdb_id: 577922
@@ -47,6 +49,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: tenet
   poster_url: https://a.ltrbxd.com/resized/sm/upload/5m/00/ad/bl/tenet-1200-1200-675-675-crop-000000.jpg?v=2f1c9ecacd
+  letterboxd_rating: 3.47
 
 - id: remember-me
   tmdb_id: 23169
@@ -58,3 +61,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   letterboxd_slug: remember-me
   poster_url: https://a.ltrbxd.com/resized/sm/upload/5u/yi/2b/d3/remember-me-1200-1200-675-675-crop-000000.jpg?v=af4ee961dc
+  letterboxd_rating: 3.22

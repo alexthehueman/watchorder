@@ -13,6 +13,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   letterboxd_slug: priscilla
   poster_url: https://a.ltrbxd.com/resized/sm/upload/62/ms/09/ch/priscilla-2023-1200-1200-675-675-crop-000000.jpg?v=364ae470c1
+  letterboxd_rating: 3.53
 
 - id: kinds-of-kindness
   tmdb_id: 1029955
@@ -29,6 +30,7 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 1 }
   letterboxd_slug: kinds-of-kindness
   poster_url: https://a.ltrbxd.com/resized/sm/upload/c0/uk/5z/mx/kinds-1200-1200-675-675-crop-000000.jpg?v=7fe566c98b
+  letterboxd_rating: 3.32
 
 - id: the-kissing-booth
   tmdb_id: 454983
@@ -40,3 +42,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   letterboxd_slug: the-kissing-booth
   poster_url: https://a.ltrbxd.com/resized/sm/upload/21/dh/68/6j/kissing-booth-1200-1200-675-675-crop-000000.jpg?v=d17fa429a6
+  letterboxd_rating: 1.77

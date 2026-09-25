@@ -17,6 +17,7 @@
   imdb_id: tt0050280
   poster_url: https://m.media-amazon.com/images/M/MV5BYWU4ODc3ZmYtMDgxYi00NzQ5LWE4MzAtZTZkZjkyZThkNjljXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-curse-of-frankenstein
+  letterboxd_rating: 3.51
 
 - id: horror-of-dracula
   tmdb_id: 11868
@@ -30,6 +31,7 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNTQxZTQxYjUtZDg0Zi00ZGE2LWJlMzQtYWJhMjM2MTJmYTI1XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_title: Dracula
   letterboxd_slug: dracula-1958
+  letterboxd_rating: 3.6
 
 - id: the-mummy-1959
   tmdb_id: 18990
@@ -42,6 +44,7 @@
   imdb_id: tt0053085
   poster_url: https://m.media-amazon.com/images/M/MV5BNWJlZTM4ZWItYjA2My00YTg2LWFjNjMtZTY0ZWIzNGFhZjExXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-mummy-1959
+  letterboxd_rating: 3.23
 
 - id: the-hound-of-the-baskervilles-1959
   tmdb_id: 11791
@@ -54,6 +57,7 @@
   imdb_id: tt0052905
   poster_url: https://m.media-amazon.com/images/M/MV5BMjY0YjJmYzMtYWEyMi00NDE0LWE3OTYtMmNlYzNiZDVlNDc3XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-hound-of-the-baskervilles-1959
+  letterboxd_rating: 3.47
 
 - id: the-brides-of-dracula
   tmdb_id: 23220
@@ -66,6 +70,7 @@
   imdb_id: tt0053677
   poster_url: https://m.media-amazon.com/images/M/MV5BZWYxNzc0NzMtM2VkYS00ZWNmLTk2ZmMtODUwY2EzYWQyNzMxXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-brides-of-dracula
+  letterboxd_rating: 3.34
 
 - id: the-curse-of-the-werewolf
   tmdb_id: 28752
@@ -83,6 +88,7 @@
   imdb_id: tt0054777
   poster_url: https://m.media-amazon.com/images/M/MV5BYmM1OThlODMtOWI4Ni00NGM0LTk3YTktMjY4ZTZmYjEwOWY1XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-curse-of-the-werewolf
+  letterboxd_rating: 3.22
 
 - id: dracula-prince-of-darkness
   tmdb_id: 17102
@@ -95,6 +101,7 @@
   imdb_id: tt0059127
   poster_url: https://m.media-amazon.com/images/M/MV5BOWJlNTA5YTctNWNkMC00ZDk0LWI3ZmQtZDc2OWU1MzEyYTZmXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: dracula-prince-of-darkness
+  letterboxd_rating: 3.31
 
 - id: frankenstein-created-woman
   tmdb_id: 3104
@@ -112,6 +119,7 @@
   imdb_id: tt0061683
   poster_url: https://m.media-amazon.com/images/M/MV5BNDg1MjAxMGMtZjBlZi00ZDc1LTk5NDctNDM5ZTQ1ZDgxYTM5XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: frankenstein-created-woman
+  letterboxd_rating: 3.34
 
 - id: the-devil-rides-out
   tmdb_id: 39891
@@ -124,6 +132,7 @@
   imdb_id: tt0062885
   poster_url: https://m.media-amazon.com/images/M/MV5BYWVlZWYxNjYtYmUyMi00M2UxLWE1MmUtODE5YWNiNGY1ZmNlXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-devil-rides-out
+  letterboxd_rating: 3.51
 
 - id: taste-the-blood-of-dracula
   tmdb_id: 29748
@@ -136,6 +145,7 @@
   imdb_id: tt0065073
   poster_url: https://m.media-amazon.com/images/M/MV5BYmM4YTAyNDAtNjFmYS00OWRkLWE4MzUtNWI4YjU2M2ExOTVjXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: taste-the-blood-of-dracula
+  letterboxd_rating: 3.17
 
 - id: countess-dracula
   tmdb_id: 39043
@@ -148,6 +158,7 @@
   imdb_id: tt0065580
   poster_url: https://m.media-amazon.com/images/M/MV5BOWUyOWJiNTctZmE4OS00MjVjLTlmYjctZTg0MGUwMGZmMWYzXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: countess-dracula
+  letterboxd_rating: 3.02
 
 - id: dr-jekyll-and-sister-hyde
   tmdb_id: 30855
@@ -165,6 +176,7 @@
   letterboxd_title: Dr. Jekyll & Sister Hyde
   letterboxd_slug: dr-jekyll-sister-hyde
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ui/xr/wc/et/dr-jekyll-and-sister-hyde-1200-1200-675-675-crop-000000.jpg?v=473db71c81
+  letterboxd_rating: 3.45
 
 - id: captain-kronos-vampire-hunter
   tmdb_id: 18979
@@ -177,5 +189,6 @@
   imdb_id: tt0071276
   poster_url: https://m.media-amazon.com/images/M/MV5BZTMwNGNiMmEtN2UxMC00NGRhLTlmY2UtZTdkMjc0OWVkZjhhXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: captain-kronos-vampire-hunter
+  letterboxd_rating: 3.25
 
 # The Woman in Black already exists in radcliffe.yaml.

@@ -10,6 +10,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 0 }
   letterboxd_slug: girl-interrupted
   poster_url: https://a.ltrbxd.com/resized/sm/upload/av/w8/ds/jl/girl-interrupted-1200-1200-675-675-crop-000000.jpg?v=282d5c03a1
+  letterboxd_rating: 3.97
 
 - id: changeling
   tmdb_id: 3580
@@ -26,6 +27,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: changeling
   poster_url: https://a.ltrbxd.com/resized/sm/upload/dm/rp/ux/6b/changeling-1200-1200-675-675-crop-000000.jpg?v=66f8fad09a
+  letterboxd_rating: 3.74
 
 - id: maleficent
   tmdb_id: 102651
@@ -37,6 +39,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: maleficent
   poster_url: https://a.ltrbxd.com/resized/sm/upload/q0/65/mb/us/maleficent-1200-1200-675-675-crop-000000.jpg?v=882616fab0
+  letterboxd_rating: 3.38
 
 - id: mr-and-mrs-smith
   tmdb_id: null
@@ -57,6 +60,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: a-mighty-heart
   poster_url: https://a.ltrbxd.com/resized/sm/upload/9i/uv/ek/d8/mighty%20heart-1200-1200-675-675-crop-000000.jpg?v=4d7e76ce86
+  letterboxd_rating: 3.24
 
 - id: wanted
   tmdb_id: 8909
@@ -68,6 +72,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
   letterboxd_slug: wanted-2008
   poster_url: https://a.ltrbxd.com/resized/sm/upload/5p/ry/br/d4/wanted-1200-1200-675-675-crop-000000.jpg?v=f9baed3ad2
+  letterboxd_rating: 3.08
 
 - id: by-the-sea
   tmdb_id: 314385
@@ -84,6 +89,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   letterboxd_slug: by-the-sea-2015
   poster_url: https://a.ltrbxd.com/resized/sm/upload/h9/j9/56/25/by-the-sea-2015-1200-1200-675-675-crop-000000.jpg?v=61e2d9bbcc
+  letterboxd_rating: 2.92
 
 - id: salt
   tmdb_id: 27576
@@ -100,3 +106,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: salt-2010
   poster_url: https://a.ltrbxd.com/resized/sm/upload/qs/ea/4e/8t/salt-2010-1200-1200-675-675-crop-000000.jpg?v=13e022ec89
+  letterboxd_rating: 2.97

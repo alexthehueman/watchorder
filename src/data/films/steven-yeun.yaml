@@ -13,6 +13,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: minari
   poster_url: https://a.ltrbxd.com/resized/sm/upload/fx/6a/1r/ra/minari-1200-1200-675-675-crop-000000.jpg?v=3faa60aa91
+  letterboxd_rating: 4.09
 
 - id: nope
   tmdb_id: 762504
@@ -29,6 +30,7 @@
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: nope
   poster_url: https://a.ltrbxd.com/resized/sm/upload/3x/n2/o4/ia/nope-2022-1200-1200-675-675-crop-000000.jpg?v=cebe6abc6f
+  letterboxd_rating: 3.66
 
 - id: burning
   tmdb_id: 491584
@@ -45,3 +47,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
   letterboxd_slug: burning-2018
   poster_url: https://a.ltrbxd.com/resized/sm/upload/92/vq/bo/xe/burning-2018-1200-1200-675-675-crop-000000.jpg?v=1af4ed84b4
+  letterboxd_rating: 4.03

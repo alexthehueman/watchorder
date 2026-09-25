@@ -22,6 +22,7 @@
   imdb_id: tt0114709
   poster_url: https://m.media-amazon.com/images/M/MV5BZTA3OWVjOWItNjE1NS00NzZiLWE1MjgtZDZhMWI1ZTlkNzYwXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: toy-story
+  letterboxd_rating: 4.11
 
 - id: monsters-inc
   tmdb_id: 585
@@ -34,6 +35,7 @@
   imdb_id: tt0198781
   poster_url: https://m.media-amazon.com/images/M/MV5BMTY1NTI0ODUyOF5BMl5BanBnXkFtZTgwNTEyNjQ0MDE@._V1_QL75_UX380_CR0,0,380,562_.jpg
   letterboxd_slug: monsters-inc
+  letterboxd_rating: 4.08
 
 - id: finding-nemo
   tmdb_id: 12
@@ -46,6 +48,7 @@
   imdb_id: tt0266543
   poster_url: https://m.media-amazon.com/images/M/MV5BMTc5NjExNTA5OV5BMl5BanBnXkFtZTYwMTQ0ODY2._V1_SX300.jpg
   letterboxd_slug: finding-nemo
+  letterboxd_rating: 4.02
 
 - id: the-incredibles
   tmdb_id: 9806
@@ -58,6 +61,7 @@
   imdb_id: tt0317705
   poster_url: https://m.media-amazon.com/images/M/MV5BMTY5OTU0OTc2NV5BMl5BanBnXkFtZTcwMzU4MDcyMQ@@._V1_SX300.jpg
   letterboxd_slug: the-incredibles
+  letterboxd_rating: 4.06
 
 - id: ratatouille
   tmdb_id: 2062
@@ -70,6 +74,7 @@
   imdb_id: tt0382932
   poster_url: https://m.media-amazon.com/images/M/MV5BMTMzODU0NTkxMF5BMl5BanBnXkFtZTcwMjQ4MzMzMw@@._V1_QL75_UX380_CR0,0,380,562_.jpg
   letterboxd_slug: ratatouille
+  letterboxd_rating: 4.23
 
 - id: wall-e
   tmdb_id: 10681
@@ -87,6 +92,7 @@
   imdb_id: tt0910970
   poster_url: https://m.media-amazon.com/images/M/MV5BMjExMTg5OTU0NF5BMl5BanBnXkFtZTcwMjMxMzMzMw@@._V1_SX300.jpg
   letterboxd_slug: wall-e
+  letterboxd_rating: 4.25
 
 - id: up
   tmdb_id: 14160
@@ -104,6 +110,7 @@
   imdb_id: tt1049413
   poster_url: https://m.media-amazon.com/images/M/MV5BNmI1ZTc5MWMtMDYyOS00ZDc2LTkzOTAtNjQ4NWIxNjYyNDgzXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: up
+  letterboxd_rating: 4.1
 
 - id: toy-story-3
   tmdb_id: 10193
@@ -121,6 +128,7 @@
   imdb_id: tt0435761
   poster_url: https://m.media-amazon.com/images/M/MV5BMTgxOTY4Mjc0MF5BMl5BanBnXkFtZTcwNTA4MDQyMw@@._V1_SX300.jpg
   letterboxd_slug: toy-story-3
+  letterboxd_rating: 4.06
 
 - id: brave
   tmdb_id: 62177
@@ -133,6 +141,7 @@
   imdb_id: tt1217209
   poster_url: https://m.media-amazon.com/images/M/MV5BMzgwODk3ODA1NF5BMl5BanBnXkFtZTcwNjU3NjQ0Nw@@._V1_SX300.jpg
   letterboxd_slug: brave-2012
+  letterboxd_rating: 3.51
 
 - id: inside-out
   tmdb_id: 150540
@@ -150,6 +159,7 @@
   imdb_id: tt2096673
   poster_url: https://m.media-amazon.com/images/M/MV5BOTgxMDQwMDk0OF5BMl5BanBnXkFtZTgwNjU5OTg2NDE@._V1_SX300.jpg
   letterboxd_slug: inside-out-2015
+  letterboxd_rating: 3.82
 
 - id: coco
   tmdb_id: 354912
@@ -162,6 +172,7 @@
   imdb_id: tt2380307
   poster_url: https://m.media-amazon.com/images/M/MV5BMDIyM2E2NTAtMzlhNy00ZGUxLWI1NjgtZDY5MzhiMDc5NGU3XkEyXkFqcGc@._V1_QL75_UY562_CR7,0,380,562_.jpg
   letterboxd_slug: coco-2017
+  letterboxd_rating: 4.13
 
 - id: soul
   tmdb_id: 508442
@@ -179,6 +190,7 @@
   imdb_id: tt2948372
   poster_url: https://m.media-amazon.com/images/M/MV5BZTZkYjA5MDEtMjY1ZC00ODk5LThjOTUtZDYxODEzYWNjMTU2XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: soul-2020
+  letterboxd_rating: 3.94
 
 - id: luca
   tmdb_id: 508943
@@ -191,6 +203,7 @@
   imdb_id: tt12801262
   poster_url: https://m.media-amazon.com/images/M/MV5BMWMyNGNlZTktODVkNS00ZmMyLTk0NmUtNWVjOWU1MWMzZGMzXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg
   letterboxd_slug: luca-2021
+  letterboxd_rating: 3.66
 
 - id: turning-red
   tmdb_id: 508947
@@ -203,3 +216,4 @@
   imdb_id: tt8097030
   poster_url: https://m.media-amazon.com/images/M/MV5BODY2NjExYmUtZTQ4NS00NzM2LWE2NWYtZWY2NGIyOTBmNzI3XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: turning-red
+  letterboxd_rating: 3.34

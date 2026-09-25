@@ -19,6 +19,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   letterboxd_slug: the-matrix
   poster_url: https://a.ltrbxd.com/resized/sm/upload/o3/er/ey/ie/matrix-1200-1200-675-675-crop-000000.jpg?v=eea86a2195
+  letterboxd_rating: 4.18
 
 - id: john-wick
   tmdb_id: 245891
@@ -30,6 +31,7 @@
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 0 }
   letterboxd_slug: john-wick
   poster_url: https://a.ltrbxd.com/resized/sm/upload/wp/bs/m0/17/john-wick-1200-1200-675-675-crop-000000.jpg?v=a0df875fb4
+  letterboxd_rating: 3.86
 
 - id: point-break
   tmdb_id: 1089
@@ -41,6 +43,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: point-break
   poster_url: https://a.ltrbxd.com/resized/sm/upload/n2/ws/gi/xu/point-break-1200-1200-675-675-crop-000000.jpg?v=f112c3bdc0
+  letterboxd_rating: 3.78
 
 - id: bill-and-teds-excellent-adventure
   tmdb_id: null
@@ -66,3 +69,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
   letterboxd_slug: my-own-private-idaho
   poster_url: https://a.ltrbxd.com/resized/sm/upload/zk/j8/ov/z3/my-own-private-idaho-1200-1200-675-675-crop-000000.jpg?v=73b1075f0a
+  letterboxd_rating: 3.84

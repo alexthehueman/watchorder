@@ -17,6 +17,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   letterboxd_slug: blue-sky
   poster_url: https://a.ltrbxd.com/resized/sm/upload/re/3o/el/hk/bluesky-1200-1200-675-675-crop-000000.jpg?v=29ca84ff04
+  letterboxd_rating: 3.12
 
 - id: frances
   tmdb_id: 3526
@@ -28,6 +29,7 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: frances
   poster_url: https://a.ltrbxd.com/resized/sm/upload/1j/u2/s8/sh/france-1200-1200-675-675-crop-000000.jpg?v=9ab76f160e
+  letterboxd_rating: 3.6
 
 - id: king-kong-1976
   tmdb_id: 10730
@@ -39,3 +41,4 @@
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: king-kong-1976
   poster_url: https://a.ltrbxd.com/resized/sm/upload/bl/lp/ao/l7/king-kong-1976-1200-1200-675-675-crop-000000.jpg?v=e4dfdeb23c
+  letterboxd_rating: 3

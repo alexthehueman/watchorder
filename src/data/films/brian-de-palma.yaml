@@ -19,6 +19,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
   letterboxd_slug: blow-out
   poster_url: https://a.ltrbxd.com/resized/sm/upload/wn/ia/3s/a3/blow-out-1200-1200-675-675-crop-000000.jpg?v=d5f4e4bff2
+  letterboxd_rating: 4.1
 
 - id: dressed-to-kill
   tmdb_id: 11033
@@ -35,6 +36,7 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 2 }
   letterboxd_slug: dressed-to-kill-1980
   poster_url: https://a.ltrbxd.com/resized/sm/upload/kd/eo/gc/s5/dressed-to-kill-1200-1200-675-675-crop-000000.jpg?v=5255c196a2
+  letterboxd_rating: 3.63
 
 - id: body-double
   tmdb_id: 11507
@@ -51,6 +53,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 2 }
   letterboxd_slug: body-double
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ku/3e/fp/75/body%20double-1200-1200-675-675-crop-000000.jpg?v=6cbcd6e923
+  letterboxd_rating: 3.76
 
 - id: carlitos-way
   tmdb_id: 6075
@@ -67,3 +70,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
   letterboxd_slug: carlitos-way
   poster_url: https://a.ltrbxd.com/resized/sm/upload/0j/ns/j4/kz/carlitos-way-1200-1200-675-675-crop-000000.jpg?v=341035cfc3
+  letterboxd_rating: 4.11

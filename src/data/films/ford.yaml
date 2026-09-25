@@ -16,6 +16,7 @@
   imdb_id: tt0031971
   poster_url: https://m.media-amazon.com/images/M/MV5BZmQ5ZGIyMjYtMjczYy00N2EzLWE3ZjMtNmI4ZDc3MDVmOWEwXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: stagecoach
+  letterboxd_rating: 3.97
 
 - id: young-mr-lincoln
   tmdb_id: 43838
@@ -28,6 +29,7 @@
   imdb_id: tt0032155
   poster_url: https://m.media-amazon.com/images/M/MV5BNGRjNTgxMTUtOGUwMy00OWMxLTk3ZWEtMGViOGFhNDcxMzg4XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: young-mr-lincoln
+  letterboxd_rating: 3.89
 
 - id: the-grapes-of-wrath
   tmdb_id: 596
@@ -45,6 +47,7 @@
   imdb_id: tt0032551
   poster_url: https://m.media-amazon.com/images/M/MV5BZDgzZjk3OGYtNWI2Ny00MDg3LTgwYWEtNjI1ODAxNjA3ZmFlXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-grapes-of-wrath
+  letterboxd_rating: 4.18
 
 - id: how-green-was-my-valley
   tmdb_id: 43266
@@ -57,6 +60,7 @@
   imdb_id: tt0033729
   poster_url: https://m.media-amazon.com/images/M/MV5BMTRjMWI5MGUtOTVjYy00NjZmLWI3MjctNDFmZjA0ZWJiNmZkXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: how-green-was-my-valley
+  letterboxd_rating: 4.03
 
 - id: my-darling-clementine
   tmdb_id: 3088
@@ -69,6 +73,7 @@
   imdb_id: tt0038762
   poster_url: https://m.media-amazon.com/images/M/MV5BNGRmNGZhNDktMmNhYi00ZjlmLWIwMDItNWNhYjA4MDA2YmJkXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: my-darling-clementine
+  letterboxd_rating: 4.1
 
 - id: fort-apache
   tmdb_id: 37347
@@ -86,6 +91,7 @@
   imdb_id: tt0040369
   poster_url: https://m.media-amazon.com/images/M/MV5BYjcwOWRmMWItNWE5MS00ZGM4LWEyOGItYWI4MzMzMWM4NTUyXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: fort-apache
+  letterboxd_rating: 3.86
 
 - id: she-wore-a-yellow-ribbon
   tmdb_id: 13909
@@ -98,6 +104,7 @@
   imdb_id: tt0041866
   poster_url: https://m.media-amazon.com/images/M/MV5BYTdmMDY5YzMtZDVjMC00NGY5LTg2ZTktMzFiYWQzYTE2YzgyXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: she-wore-a-yellow-ribbon
+  letterboxd_rating: 3.61
 
 - id: the-quiet-man
   tmdb_id: 3109
@@ -110,6 +117,7 @@
   imdb_id: tt0045061
   poster_url: https://m.media-amazon.com/images/M/MV5BOGEyZDk1YmEtOTVmOC00YWQxLWEzOWYtYzkzNGE0MTFhMzRkXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-quiet-man
+  letterboxd_rating: 3.78
 
 - id: the-searchers
   tmdb_id: 3114
@@ -127,6 +135,7 @@
   imdb_id: tt0049730
   poster_url: https://m.media-amazon.com/images/M/MV5BMTQ4YWI0MTItMTE4YS00ZTNjLWE3ZTQtN2E2MTlhYWQxNDNmXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-searchers
+  letterboxd_rating: 3.94
 
 - id: the-man-who-shot-liberty-valance
   tmdb_id: 11697
@@ -144,6 +153,7 @@
   imdb_id: tt0056217
   poster_url: https://m.media-amazon.com/images/M/MV5BZmYzNjljYjgtNzY1MS00MjYwLWIwMmItOGJjOGNhNmZiZmYxXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-man-who-shot-liberty-valance
+  letterboxd_rating: 4.28
 
 # Three added because the ten above were all shot in the same legible register and left M7 with
 # almost nothing to measure. These are where Ford is genuinely not that: The Informer is German
@@ -165,6 +175,7 @@
   imdb_id: tt0026529
   poster_url: https://m.media-amazon.com/images/M/MV5BMjZlMTQxZWYtN2Y4OS00NDdlLTk4MTYtOTQ2Mjg1YzM5MTMzXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-informer
+  letterboxd_rating: 3.71
 
 - id: the-long-voyage-home
   tmdb_id: 52859
@@ -182,6 +193,7 @@
   imdb_id: tt0032728
   poster_url: https://m.media-amazon.com/images/M/MV5BZWU5NjUzYjktY2YyMC00MmI0LTg4NGMtZmYzYzBiMjg0NjJiXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-long-voyage-home
+  letterboxd_rating: 3.65
 
 - id: seven-women
   tmdb_id: 68692
@@ -199,3 +211,4 @@
   imdb_id: tt0060050
   poster_url: https://m.media-amazon.com/images/M/MV5BMTJlNGQzYTItMGY2OC00NmJiLThjZTctZDZiZDI3ODVlOGEyXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: 7-women
+  letterboxd_rating: 3.86

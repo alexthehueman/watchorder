@@ -22,6 +22,7 @@
   imdb_id: tt0057413
   poster_url: https://m.media-amazon.com/images/M/MV5BNzg5NTYzNDI4OF5BMl5BanBnXkFtZTcwOTQxMTMyNA@@._V1_SX300.jpg
   letterboxd_slug: the-pink-panther-1963
+  letterboxd_rating: 3.42
 
 - id: the-mouse-that-roared
   tmdb_id: 12649
@@ -39,6 +40,7 @@
   imdb_id: tt0053084
   poster_url: https://m.media-amazon.com/images/M/MV5BYzYxMDFmZjAtOGRjOC00YWJjLWI0N2EtODkwZTdkZTc4YjA4XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-mouse-that-roared
+  letterboxd_rating: 3.32
 
 - id: a-shot-in-the-dark
   tmdb_id: 1594
@@ -51,6 +53,7 @@
   imdb_id: tt0058586
   poster_url: https://m.media-amazon.com/images/M/MV5BNDE5Njk1NDQ5MF5BMl5BanBnXkFtZTcwNjAyMTMyNA@@._V1_SX300.jpg
   letterboxd_slug: a-shot-in-the-dark
+  letterboxd_rating: 3.66
 
 - id: casino-royale-1967
   tmdb_id: 12208
@@ -68,6 +71,7 @@
   imdb_id: tt0061452
   poster_url: https://m.media-amazon.com/images/M/MV5BYjc2OGEwM2ItZjcxOC00ZGVhLTk5MmItMmZhNDQyNmViNTY2XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: casino-royale-1967
+  letterboxd_rating: 2.41
 
 - id: being-there
   tmdb_id: 10322
@@ -85,6 +89,7 @@
   imdb_id: tt0078841
   poster_url: https://m.media-amazon.com/images/M/MV5BNzYxZjNhNmQtYzc5NS00Nzg1LWIwYzktZjgzNDIyN2JhZGM0XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: being-there
+  letterboxd_rating: 4.08
 
 - id: im-all-right-jack
   tmdb_id: 34783
@@ -102,6 +107,7 @@
   imdb_id: tt0052911
   poster_url: https://m.media-amazon.com/images/M/MV5BNWQ0OWUxNWItYTUxMy00OWE5LTliNTItMWQ2OTFlYmI1MmNiXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: im-all-right-jack
+  letterboxd_rating: 3.49
 
 # Added because opacity and stillness were both clustered at 1-2 across seven of eight films —
 # only Casino Royale broke the pattern. The Magic Christian is genuinely the outlier the rest of
@@ -123,3 +129,4 @@
   imdb_id: tt0064622
   poster_url: https://m.media-amazon.com/images/M/MV5BNmU5NmIyZGEtZjE4NC00YzI2LTljMGEtMzczODg3ODQ3NmIxXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-magic-christian
+  letterboxd_rating: 2.98

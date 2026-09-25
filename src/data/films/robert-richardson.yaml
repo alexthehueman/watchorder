@@ -13,6 +13,7 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
   letterboxd_slug: salvador
   poster_url: https://a.ltrbxd.com/resized/sm/upload/4a/g0/x9/93/sal-1200-1200-675-675-crop-000000.jpg?v=5e5e973493
+  letterboxd_rating: 3.69
 
 - id: talk-radio
   tmdb_id: 10132
@@ -24,6 +25,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: talk-radio
   poster_url: https://a.ltrbxd.com/resized/sm/upload/aj/1o/vv/el/sWYGSwasBPCi3HgZKgqEDF5MF4Q-1200-1200-675-675-crop-000000.jpg?v=11c4a9475d
+  letterboxd_rating: 3.75
 
 - id: born-on-the-fourth-of-july
   tmdb_id: 2604
@@ -35,6 +37,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 2 }
   letterboxd_slug: born-on-the-fourth-of-july
   poster_url: https://a.ltrbxd.com/resized/sm/upload/m1/sn/an/1s/born-on-the-fourth-of-july-1200-1200-675-675-crop-000000.jpg?v=3c22834a5e
+  letterboxd_rating: 3.75
 
 - id: heaven-and-earth
   tmdb_id: 31642
@@ -46,6 +49,7 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: true, violence: 3, sex: 1 }
   letterboxd_slug: heaven-earth
   poster_url: https://a.ltrbxd.com/resized/sm/upload/va/6s/jl/16/o0F4QDlH12j8GmGEV8GvSDGmyFT-1200-1200-675-675-crop-000000.jpg?v=c265712c58
+  letterboxd_rating: 3.36
 
 - id: u-turn
   tmdb_id: 10155
@@ -57,6 +61,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 2 }
   letterboxd_slug: u-turn
   poster_url: https://a.ltrbxd.com/resized/sm/upload/nc/k2/py/8e/u-turn-1200-1200-675-675-crop-000000.jpg?v=bbf5d8d137
+  letterboxd_rating: 3.27
 
 - id: the-horse-whisperer
   tmdb_id: 547
@@ -68,6 +73,7 @@
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: the-horse-whisperer
   poster_url: https://a.ltrbxd.com/resized/sm/upload/u4/sy/bh/c5/horse-1200-1200-675-675-crop-000000.jpg?v=f51e23c6f3
+  letterboxd_rating: 3.37
 
 - id: bringing-out-the-dead
   tmdb_id: 8649
@@ -79,6 +85,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 0 }
   letterboxd_slug: bringing-out-the-dead
   poster_url: https://a.ltrbxd.com/resized/sm/upload/z7/wz/4w/qi/bring-out-the-dead-1200-1200-675-675-crop-000000.jpg?v=7417feae20
+  letterboxd_rating: 3.73
 
 - id: snow-falling-on-cedars
   tmdb_id: 10219
@@ -90,3 +97,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
   letterboxd_slug: snow-falling-on-cedars
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ll/qb/ze/sw/snow%20falling-1200-1200-675-675-crop-000000.jpg?v=a1a5a6ca8e
+  letterboxd_rating: 3.33

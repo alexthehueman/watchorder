@@ -12,6 +12,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 1 }
   letterboxd_slug: "300"
   poster_url: https://a.ltrbxd.com/resized/sm/upload/vw/wc/17/85/300-150-1200-1200-675-675-crop-000000.jpg?v=058a4f0217
+  letterboxd_rating: 3.45
 
 - id: law-abiding-citizen
   tmdb_id: 22803
@@ -28,6 +29,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
   letterboxd_slug: law-abiding-citizen
   poster_url: https://a.ltrbxd.com/resized/sm/upload/8v/pp/cv/mr/law-abiding-citizen-1200-1200-675-675-crop-000000.jpg?v=d490978fb5
+  letterboxd_rating: 3.44
 
 - id: the-phantom-of-the-opera-2004
   tmdb_id: 9833
@@ -44,6 +46,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: the-phantom-of-the-opera-2004
   poster_url: https://a.ltrbxd.com/resized/sm/upload/x6/tk/48/kt/phantom-of-the-opera-1200-1200-675-675-crop-000000.jpg?v=e335edc89b
+  letterboxd_rating: 3.68
 
 - id: den-of-thieves
   tmdb_id: 449443
@@ -55,6 +58,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   letterboxd_slug: den-of-thieves
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ab/8w/al/cg/den-thieves-1200-1200-675-675-crop-000000.jpg?v=d23ee2db9d
+  letterboxd_rating: 3.28
 
 - id: coriolanus
   tmdb_id: 101173
@@ -71,6 +75,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   letterboxd_slug: coriolanus
   poster_url: https://a.ltrbxd.com/resized/sm/upload/r0/zv/jl/va/coriolanus-1200-1200-675-675-crop-000000.jpg?v=e0d7faf26a
+  letterboxd_rating: 3.29
 
 - id: the-ugly-truth
   tmdb_id: 20943
@@ -82,6 +87,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   letterboxd_slug: the-ugly-truth
   poster_url: https://a.ltrbxd.com/resized/sm/upload/6t/f6/sk/ya/ugly-truth-1200-1200-675-675-crop-000000.jpg?v=0d0503fe4d
+  letterboxd_rating: 2.72
 
 - id: greenland
   tmdb_id: 524047
@@ -93,3 +99,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: greenland
   poster_url: https://a.ltrbxd.com/resized/sm/upload/w9/x0/6m/or/greenland-1200-1200-675-675-crop-000000.jpg?v=9c80b52877
+  letterboxd_rating: 2.94

@@ -18,6 +18,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: sound-of-metal
   poster_url: https://a.ltrbxd.com/resized/sm/upload/v0/dw/ly/1y/sound-of-metal-1200-1200-675-675-crop-000000.jpg?v=91f317fe38
+  letterboxd_rating: 4.22
 
 - id: venom
   tmdb_id: 335983
@@ -29,6 +30,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: venom-2018
   poster_url: https://a.ltrbxd.com/resized/sm/upload/re/nm/sa/19/venom-1200-1200-675-675-crop-000000.jpg?v=43773bc414
+  letterboxd_rating: 3.01
 
 - id: four-lions
   tmdb_id: 37495
@@ -40,3 +42,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 0 }
   letterboxd_slug: four-lions
   poster_url: https://a.ltrbxd.com/resized/sm/upload/s5/e5/og/2e/four-lions-1200-1200-675-675-crop-000000.jpg?v=6b3ae3a7f6
+  letterboxd_rating: 3.89

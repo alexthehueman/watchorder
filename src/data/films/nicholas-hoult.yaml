@@ -14,6 +14,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: warm-bodies
   poster_url: https://a.ltrbxd.com/resized/sm/upload/aj/e5/e2/ki/warm-bodies-1200-1200-675-675-crop-000000.jpg?v=47daf9f065
+  letterboxd_rating: 3
 
 - id: tolkien
   tmdb_id: 468224
@@ -25,6 +26,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: tolkien-2019
   poster_url: https://a.ltrbxd.com/resized/sm/upload/er/mj/mj/h2/tolkien-1200-1200-675-675-crop-000000.jpg?v=d59175565e
+  letterboxd_rating: 3.23
 
 - id: rebel-in-the-rye
   tmdb_id: 390056
@@ -41,6 +43,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: rebel-in-the-rye
   poster_url: https://a.ltrbxd.com/resized/sm/upload/wx/6j/tk/9t/rebel-in-the-rye-1200-1200-675-675-crop-000000.jpg?v=8cfe92ec70
+  letterboxd_rating: 3.16
 
 - id: renfield
   tmdb_id: 649609
@@ -52,3 +55,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   letterboxd_slug: renfield
   poster_url: https://a.ltrbxd.com/resized/sm/upload/xf/r4/yf/ka/renfield-1200-1200-675-675-crop-000000.jpg?v=c3f1bfd1cd
+  letterboxd_rating: 2.86

@@ -11,6 +11,7 @@
   imdb_id: tt0046521
   poster_url: https://m.media-amazon.com/images/M/MV5BMWZlY2NkNDktNTUxNi00ZTg1LWJjOTMtMTc1MzcyNzg0NTdmXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: i-vitelloni
+  letterboxd_rating: 3.97
 
 - id: la-strada
   tmdb_id: 405
@@ -28,6 +29,7 @@
   imdb_id: tt0047528
   poster_url: https://m.media-amazon.com/images/M/MV5BMWQ0M2Q5NDAtMDg0ZC00YmM1LWI3YjktNDIxOTFiOTIzYzQ2XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: la-strada
+  letterboxd_rating: 4.16
 
 - id: nights-of-cabiria
   tmdb_id: 19426
@@ -40,6 +42,7 @@
   imdb_id: tt0050783
   poster_url: https://m.media-amazon.com/images/M/MV5BYmM0NDA3MzUtYzA1OC00ZDc0LWFlNWUtYjJmOTIxYjkyNGY4XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: nights-of-cabiria
+  letterboxd_rating: 4.39
 
 - id: la-dolce-vita
   tmdb_id: 439
@@ -57,6 +60,7 @@
   imdb_id: tt0053779
   poster_url: https://m.media-amazon.com/images/M/MV5BMTkxMjQ4NzU5N15BMl5BanBnXkFtZTgwMTkwODkzMTE@._V1_SX300.jpg
   letterboxd_slug: la-dolce-vita
+  letterboxd_rating: 4.25
 
 - id: 8-and-a-half
   tmdb_id: 422
@@ -75,6 +79,7 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNTc0OTg1MjU3OV5BMl5BanBnXkFtZTgwMDkyNzM3OTE@._V1_SX300.jpg
   letterboxd_slug_hint: 8-half
   letterboxd_slug: 8-half
+  letterboxd_rating: 4.26
 
 - id: juliet-of-the-spirits
   tmdb_id: 19120
@@ -87,6 +92,7 @@
   imdb_id: tt0059229
   poster_url: https://m.media-amazon.com/images/M/MV5BN2VjNzQ4MmMtNzRmMC00MzhlLWJjZjEtOGEyY2NkMDc5YTg1XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: juliet-of-the-spirits
+  letterboxd_rating: 3.89
 
 - id: fellini-satyricon
   tmdb_id: 11163
@@ -104,6 +110,7 @@
   letterboxd_title: Satyricon
   letterboxd_slug: satyricon-1969
   poster_url: https://a.ltrbxd.com/resized/sm/upload/lx/c1/jg/b8/satyricon-1200-1200-675-675-crop-000000.jpg?v=9dfdd872fd
+  letterboxd_rating: 3.7
 
 - id: roma
   tmdb_id: 11035
@@ -116,6 +123,7 @@
   imdb_id: tt0069191
   poster_url: https://m.media-amazon.com/images/M/MV5BNTAzYzViODYtN2IzMC00NjU0LThkODYtZDUyMTYwODQ3YWUwXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: roma
+  letterboxd_rating: 3.86
 
 - id: amarcord
   tmdb_id: 7857
@@ -133,6 +141,7 @@
   imdb_id: tt0071129
   poster_url: https://m.media-amazon.com/images/M/MV5BMDFiMDIwMjQtNGFjYS00YTNiLTk5MjctZDYxMmRiNDUyNDZjXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: amarcord
+  letterboxd_rating: 4.09
 
 - id: fellinis-casanova
   tmdb_id: 42236
@@ -149,6 +158,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
   letterboxd_slug: fellinis-casanova
   poster_url: https://a.ltrbxd.com/resized/sm/upload/9l/fb/qy/8l/casanova-1200-1200-675-675-crop-000000.jpg?v=c95ec45b27
+  letterboxd_rating: 3.62
 
 - id: city-of-women
   tmdb_id: 11936
@@ -161,6 +171,7 @@
   imdb_id: tt0080539
   poster_url: https://m.media-amazon.com/images/M/MV5BNGExYmJkM2ItNzEyNC00OThlLTkyYjMtODYwNzM0MTg0YzM0XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: city-of-women
+  letterboxd_rating: 3.67
 
 - id: ginger-and-fred
   tmdb_id: 42021
@@ -172,3 +183,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   poster_url: https://a.ltrbxd.com/resized/sm/upload/pu/tv/gc/h8/pyV1VFp9pkkLR2BzyeAQ586RGjH-1200-1200-675-675-crop-000000.jpg?v=5fd4be4d33
   letterboxd_slug: ginger-and-fred
+  letterboxd_rating: 3.59

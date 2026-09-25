@@ -20,6 +20,7 @@
   imdb_id: tt0061809
   poster_url: https://m.media-amazon.com/images/M/MV5BMTcyNzYwNzcyM15BMl5BanBnXkFtZTgwMDA0ODUyMDE@._V1_SX300.jpg
   letterboxd_slug: in-cold-blood
+  letterboxd_rating: 4.13
 
 - id: harper
   tmdb_id: 26268
@@ -31,6 +32,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: harper
   poster_url: https://a.ltrbxd.com/resized/sm/upload/7q/3c/0k/20/19j18H21YBEoucoqwWRdpD7WaGO-1200-1200-675-675-crop-000000.jpg?v=55dc076eb5
+  letterboxd_rating: 3.47
 
 - id: the-professionals
   tmdb_id: 22383
@@ -42,6 +44,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: the-professionals
   poster_url: https://a.ltrbxd.com/resized/sm/upload/0n/kj/83/ca/professionals-1200-1200-675-675-crop-000000.jpg?v=fe8ffa7a96
+  letterboxd_rating: 3.69
 
 - id: hell-in-the-pacific
   tmdb_id: 31681
@@ -53,6 +56,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: hell-in-the-pacific
   poster_url: https://a.ltrbxd.com/resized/sm/upload/lw/go/3z/64/hell%20in%20the%20pacific-1200-1200-675-675-crop-000000.jpg?v=22077d9d4a
+  letterboxd_rating: 3.75
 
 - id: tell-them-willie-boy-is-here
   tmdb_id: 42619
@@ -64,6 +68,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: tell-them-willie-boy-is-here
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ix/li/3l/5b/a30Zye8R1NNmrKoJs8G9kekKSmH-1200-1200-675-675-crop-000000.jpg?v=dfd704e963
+  letterboxd_rating: 3.22
 
 - id: fat-city
   tmdb_id: 16993
@@ -75,6 +80,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: fat-city
   poster_url: https://a.ltrbxd.com/resized/sm/upload/hx/bu/50/wh/fat1-1200-1200-675-675-crop-000000.jpg?v=260d801448
+  letterboxd_rating: 3.85
 
 - id: electra-glide-in-blue
   tmdb_id: 26332
@@ -86,6 +92,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: electra-glide-in-blue
   poster_url: https://a.ltrbxd.com/resized/sm/upload/qt/ia/c4/ys/electra-1200-1200-675-675-crop-000000.jpg?v=3f61cdb15f
+  letterboxd_rating: 3.7
 
 - id: marathon-man
   tmdb_id: 10518
@@ -97,6 +104,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   letterboxd_slug: marathon-man
   poster_url: https://a.ltrbxd.com/resized/sm/upload/i5/o2/2i/1t/marathon-man-1200-1200-675-675-crop-000000.jpg?v=ea5b24d33f
+  letterboxd_rating: 3.79
 
 - id: black-widow-1987
   tmdb_id: 19345
@@ -108,6 +116,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 2 }
   letterboxd_slug: black-widow-1987
   poster_url: https://a.ltrbxd.com/resized/sm/upload/fg/w2/l9/6j/gwOIt1OPROBB6zGd88nfMZquRUr-1200-1200-675-675-crop-000000.jpg?v=dd45d1a667
+  letterboxd_rating: 3.17
 
 - id: tequila-sunrise
   tmdb_id: 10396
@@ -119,6 +128,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 2 }
   letterboxd_slug: tequila-sunrise
   poster_url: https://a.ltrbxd.com/resized/sm/upload/hh/99/zk/ki/tequila-sunrise-1200-1200-675-675-crop-000000.jpg?v=9dc11a72f0
+  letterboxd_rating: 3.02
 
 - id: class-action
   tmdb_id: 15771
@@ -130,6 +140,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: class-action
   poster_url: https://a.ltrbxd.com/resized/sm/upload/j6/ci/qt/71/class-1200-1200-675-675-crop-000000.jpg?v=76070242f0
+  letterboxd_rating: 3.18
 
 - id: jennifer-eight
   tmdb_id: 10424
@@ -141,6 +152,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   letterboxd_slug: jennifer-eight
   poster_url: https://a.ltrbxd.com/resized/sm/upload/oi/v9/eq/1a/Jennifer8-1200-1200-675-675-crop-000000.jpg?v=a4c0252f28
+  letterboxd_rating: 3
 
 - id: searching-for-bobby-fischer
   tmdb_id: 14291
@@ -152,6 +164,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: searching-for-bobby-fischer
   poster_url: https://a.ltrbxd.com/resized/sm/upload/w4/rt/ze/hu/IMG_3316-1200-1200-675-675-crop-000000.jpg?v=983d8b56af
+  letterboxd_rating: 3.59
 
 - id: love-affair-1994
   tmdb_id: 43742
@@ -163,6 +176,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: love-affair-1994
   poster_url: https://a.ltrbxd.com/resized/sm/upload/u0/m5/0p/96/xYwP4TxroayV2g4ko4eQM0hgADg-1200-1200-675-675-crop-000000.jpg?v=06e7199083
+  letterboxd_rating: 3
 
 - id: without-limits
   tmdb_id: 22256
@@ -174,6 +188,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: without-limits
   poster_url: https://a.ltrbxd.com/resized/film-poster/3/7/9/9/9/37999-without-limits-0-230-0-345-crop.jpg?v=16ecbcaa96
+  letterboxd_rating: 3.59
 
 - id: a-civil-action
   tmdb_id: 9422
@@ -185,3 +200,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: a-civil-action
   poster_url: https://a.ltrbxd.com/resized/sm/upload/t4/3l/u5/xq/civil-1200-1200-675-675-crop-000000.jpg?v=b36e110f01
+  letterboxd_rating: 3.23

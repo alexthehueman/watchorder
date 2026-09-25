@@ -12,6 +12,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   letterboxd_slug: lethal-weapon
   poster_url: https://a.ltrbxd.com/resized/sm/upload/9v/h5/ld/93/lethal-weapon-1200-1200-675-675-crop-000000.jpg?v=256475565b
+  letterboxd_rating: 3.75
 
 - id: braveheart
   tmdb_id: 197
@@ -23,6 +24,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
   letterboxd_slug: braveheart
   poster_url: https://a.ltrbxd.com/resized/sm/upload/4p/ir/5d/x5/braveheart-1200-1200-675-675-crop-000000.jpg?v=4e7634216e
+  letterboxd_rating: 3.93
 
 - id: signs
   tmdb_id: 2675
@@ -39,3 +41,4 @@
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: signs
   poster_url: https://a.ltrbxd.com/resized/sm/upload/w5/cm/94/vh/signs-3-1200-1200-675-675-crop-000000.jpg?v=ae68712126
+  letterboxd_rating: 3.53

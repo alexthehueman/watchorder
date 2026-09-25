@@ -18,6 +18,7 @@
   imdb_id: tt0078763
   poster_url: https://m.media-amazon.com/images/M/MV5BYTBjYjgxYjktY2UzMS00MDEwLTgyZTUtY2U5OWY3ZDBiMWYyXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: camera-buff
+  letterboxd_rating: 4.12
 
 - id: no-end
   tmdb_id: 124
@@ -30,6 +31,7 @@
   imdb_id: tt0086961
   poster_url: https://m.media-amazon.com/images/M/MV5BZTUwOWFmYWUtNzQwNi00YjZkLTgwZjMtODUwZDUxNmUwMmU3XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: no-end
+  letterboxd_rating: 3.75
 
 - id: blind-chance
   tmdb_id: 127
@@ -47,6 +49,7 @@
   imdb_id: tt0084549
   poster_url: https://m.media-amazon.com/images/M/MV5BOTZmZWQyZDgtN2ExOS00ZGU5LWJiZDMtM2Y0ZmMyNmZmOGQwXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: blind-chance
+  letterboxd_rating: 3.97
 
 - id: a-short-film-about-killing
   tmdb_id: 10754
@@ -59,6 +62,7 @@
   imdb_id: tt0095468
   poster_url: https://m.media-amazon.com/images/M/MV5BM2YwNzQyMWItZjliNC00YmQzLWFkZjktYWY5ODExMGNkOTEzXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: a-short-film-about-killing
+  letterboxd_rating: 4.12
 
 - id: a-short-film-about-love
   tmdb_id: 31056
@@ -71,6 +75,7 @@
   imdb_id: tt0095467
   poster_url: https://m.media-amazon.com/images/M/MV5BMzkwYjBlMzktNGJiNi00OTk4LTlkMDYtOGQ5MjBkNmFhMzY4XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: a-short-film-about-love
+  letterboxd_rating: 4.07
 
 - id: the-double-life-of-veronique
   tmdb_id: 1600
@@ -88,6 +93,7 @@
   imdb_id: tt0101765
   poster_url: https://m.media-amazon.com/images/M/MV5BZjE1MjAxMjgtMTRjMC00YTFjLThhMzgtNzdlODZiZjA0MWMxXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-double-life-of-veronique
+  letterboxd_rating: 4.08
 
 - id: three-colours-white
   tmdb_id: 109
@@ -99,6 +105,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   poster_url: https://a.ltrbxd.com/resized/sm/upload/yh/ug/q0/de/white-1200-1200-675-675-crop-000000.jpg?v=a2716bcd38
   letterboxd_slug: three-colours-white
+  letterboxd_rating: 3.82
 
 - id: three-colours-red
   tmdb_id: 110
@@ -110,3 +117,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   poster_url: https://a.ltrbxd.com/resized/sm/upload/5l/fs/4y/sp/red-1200-1200-675-675-crop-000000.jpg?v=35996ace23
   letterboxd_slug: three-colours-red
+  letterboxd_rating: 4.33

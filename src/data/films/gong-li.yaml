@@ -21,6 +21,7 @@
   imdb_id: tt0093206
   poster_url: https://m.media-amazon.com/images/M/MV5BMmJjN2JkZTQtN2FkNi00MTQyLThlMjEtZTY5ZDc2ZjcwNjQ2XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: red-sorghum
+  letterboxd_rating: 3.77
 
 - id: ju-dou
   tmdb_id: 41821
@@ -38,6 +39,7 @@
   imdb_id: tt0099902
   poster_url: https://m.media-amazon.com/images/M/MV5BMjY0NTdlZmUtM2M4MS00YjcwLThlMDMtZjg1MmZkOTJiMmY3XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: ju-dou
+  letterboxd_rating: 3.82
 
 - id: raise-the-red-lantern
   tmdb_id: 10404
@@ -55,6 +57,7 @@
   imdb_id: tt0101640
   poster_url: https://m.media-amazon.com/images/M/MV5BZjZlMThlZTktOGYxNS00NjY0LWFkMzAtMjNiOTYxYjYxZWFmXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: raise-the-red-lantern
+  letterboxd_rating: 4.34
 
 - id: the-story-of-qiu-ju
   tmdb_id: 38143
@@ -67,6 +70,7 @@
   imdb_id: tt0105197
   poster_url: https://m.media-amazon.com/images/M/MV5BZjU4M2FlNDItNjhkNC00ODRlLTk3Y2EtYzU2MGY4Nzk2YTlmXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-story-of-qiu-ju
+  letterboxd_rating: 3.8
 
 - id: farewell-my-concubine
   tmdb_id: 10997
@@ -84,6 +88,7 @@
   imdb_id: tt0106332
   poster_url: https://m.media-amazon.com/images/M/MV5BYjMzZjcwNzItNTYwZC00NzAxLWE3MmMtYmU3ZjdkMWMxNDMwXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: farewell-my-concubine
+  letterboxd_rating: 4.41
 
 - id: to-live
   tmdb_id: 31439
@@ -101,6 +106,7 @@
   imdb_id: tt0110081
   poster_url: https://m.media-amazon.com/images/M/MV5BMjZlNzNmMTktNzQzZC00YWI2LTkyMmYtMGYwZjhjNzA0MDU0XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: to-live
+  letterboxd_rating: 4.23
 
 - id: shanghai-triad
   tmdb_id: 37557
@@ -113,6 +119,7 @@
   imdb_id: tt0115012
   poster_url: https://m.media-amazon.com/images/M/MV5BMjExNzU2NDctYTQ4My00MmFkLTljN2UtN2MzYWQ1NTFiNDEyXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: shanghai-triad
+  letterboxd_rating: 3.6
 
 - id: memoirs-of-a-geisha
   tmdb_id: 1904
@@ -125,6 +132,7 @@
   imdb_id: tt0397535
   poster_url: https://m.media-amazon.com/images/M/MV5BMTYxMzM4NTEzOV5BMl5BanBnXkFtZTcwNDMwNjQzMw@@._V1_SX300.jpg
   letterboxd_slug: memoirs-of-a-geisha
+  letterboxd_rating: 3.56
 
 - id: curse-of-the-golden-flower
   tmdb_id: 1494
@@ -142,6 +150,7 @@
   imdb_id: tt0473444
   poster_url: https://m.media-amazon.com/images/M/MV5BMTFhYWNkNzMtZGFiNy00MTcxLTlmNzMtMWNkODQ4N2MxZWFmXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: curse-of-the-golden-flower
+  letterboxd_rating: 3.55
 
 # Added because stillness sat at 3 for eight of nine films — accurate to the measured, deliberate
 # Zhang Yimou run, but too uniform for the axis to move anything. Miami Vice is the honest
@@ -162,3 +171,4 @@
   imdb_id: tt0430357
   poster_url: https://m.media-amazon.com/images/M/MV5BMWRiNDhjYTItMWMwNy00Mzk3LWFjNjktNzk3OWMwNWFjY2RhXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: miami-vice
+  letterboxd_rating: 3.46

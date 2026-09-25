@@ -17,6 +17,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: beaches
   poster_url: https://a.ltrbxd.com/resized/sm/upload/tx/wd/o6/go/ywiB2gsGca82BkEdetIyQLkkcW4-1200-1200-675-675-crop-000000.jpg?v=723fb4d0d1
+  letterboxd_rating: 3.65
 
 - id: hocus-pocus
   tmdb_id: 10439
@@ -28,6 +29,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: hocus-pocus
   poster_url: https://a.ltrbxd.com/resized/sm/upload/da/5u/8r/7c/hocus-pocus-1200-1200-675-675-crop-000000.jpg?v=7dda02211a
+  letterboxd_rating: 3.52
 
 - id: ruthless-people
   tmdb_id: 12151
@@ -39,3 +41,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: ruthless-people
   poster_url: https://a.ltrbxd.com/resized/sm/upload/un/5i/ua/qv/ruthless-people-1200-1200-675-675-crop-000000.jpg?v=9e06481eaa
+  letterboxd_rating: 3.43

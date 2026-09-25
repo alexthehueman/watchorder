@@ -13,6 +13,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: crooklyn
   poster_url: https://a.ltrbxd.com/resized/sm/upload/dr/sf/7g/kp/crooklyn-1200-1200-675-675-crop-000000.jpg?v=f3c760629c
+  letterboxd_rating: 3.93
 
 - id: get-shorty
   tmdb_id: 8012
@@ -24,6 +25,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: get-shorty
   poster_url: https://a.ltrbxd.com/resized/sm/upload/dt/rj/2a/vx/get%20shorty-1200-1200-675-675-crop-000000.jpg?v=cd98c439e1
+  letterboxd_rating: 3.48
 
 - id: ransom
   tmdb_id: 3595
@@ -35,3 +37,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: ransom
   poster_url: https://a.ltrbxd.com/resized/sm/upload/xj/mu/0h/3w/ransom-1200-1200-675-675-crop-000000.jpg?v=9623fd29aa
+  letterboxd_rating: 3.31

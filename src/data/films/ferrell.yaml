@@ -18,6 +18,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: elf
   poster_url: https://a.ltrbxd.com/resized/sm/upload/w8/6a/49/oa/elf-1200-1200-675-675-crop-000000.jpg?v=291c838b52
+  letterboxd_rating: 3.45
 
 - id: old-school
   tmdb_id: 11635
@@ -34,6 +35,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
   letterboxd_slug: old-school
   poster_url: https://a.ltrbxd.com/resized/sm/upload/8h/nl/n1/gi/old-school-1200-1200-675-675-crop-000000.jpg?v=ebbe12f01b
+  letterboxd_rating: 3.16
 
 - id: talladega-nights
   tmdb_id: 9718
@@ -50,6 +52,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: talladega-nights-the-ballad-of-ricky-bobby
   poster_url: https://a.ltrbxd.com/resized/sm/upload/r0/k1/ot/23/talladega-nights-10-1200-1200-675-675-crop-000000.jpg?v=4ab4ffc82b
+  letterboxd_rating: 3.36
 
 - id: everything-must-go
   tmdb_id: 45658
@@ -66,6 +69,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: everything-must-go
   poster_url: https://a.ltrbxd.com/resized/sm/upload/wk/t6/rz/9m/everything-must-go-1200-1200-675-675-crop-000000.jpg?v=9a8354c1c6
+  letterboxd_rating: 3.07
 
 - id: winter-passing
   tmdb_id: 14256
@@ -82,6 +86,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: winter-passing
   poster_url: https://a.ltrbxd.com/resized/sm/upload/w2/1a/e6/gf/winter-passing-1200-1200-675-675-crop-000000.jpg?v=5a49889541
+  letterboxd_rating: 3.16
 
 - id: the-other-guys
   tmdb_id: 27581
@@ -98,3 +103,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: the-other-guys
   poster_url: https://a.ltrbxd.com/resized/sm/upload/yh/4n/0t/4v/other-guys-1200-1200-675-675-crop-000000.jpg?v=c47abd1b5a
+  letterboxd_rating: 3.28

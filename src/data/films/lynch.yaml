@@ -29,6 +29,7 @@
   imdb_id: tt0074486
   poster_url: https://m.media-amazon.com/images/M/MV5BNGYxNzZkYzAtMDExMS00MzE1LTg5ZGItMTgzMzJhZWMyNTBjXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: eraserhead
+  letterboxd_rating: 3.81
 
 - id: the-elephant-man
   tmdb_id: 1955
@@ -51,6 +52,7 @@
   imdb_id: tt0080678
   poster_url: https://m.media-amazon.com/images/M/MV5BMGE3MDZhNmMtMmUxZS00MDJmLTgxYmQtOGU4ODU0Y2JmNDI1XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-elephant-man
+  letterboxd_rating: 4.32
 
 - id: dune-1984
   tmdb_id: 841
@@ -73,6 +75,7 @@
   imdb_id: tt0087182
   poster_url: https://m.media-amazon.com/images/M/MV5BMGJlMGM3NDAtOWNhMy00MWExLWI2MzEtMDQ0ZDIzZDY5ZmQ2XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: dune
+  letterboxd_rating: 2.85
 
 - id: blue-velvet
   tmdb_id: 793
@@ -98,6 +101,7 @@
   imdb_id: tt0090756
   poster_url: https://m.media-amazon.com/images/M/MV5BNzkwZGUyYjQtM2QyOC00MTBjLWE0NGYtMTZmOGM5MjI0Mzg0XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: blue-velvet
+  letterboxd_rating: 4.06
 
 - id: wild-at-heart
   tmdb_id: 483
@@ -120,6 +124,7 @@
   imdb_id: tt0100935
   poster_url: https://m.media-amazon.com/images/M/MV5BMmUyNjMzMjEtMGFkNy00MDA1LWI0NGEtMDY5OGU1N2NmNDg1XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: wild-at-heart
+  letterboxd_rating: 3.93
 
 - id: twin-peaks
   tmdb_id: 452522
@@ -144,6 +149,7 @@
   letterboxd_title: Twin Peaks
   letterboxd_slug: twin-peaks
   poster_url: https://a.ltrbxd.com/resized/sm/upload/f8/27/rr/zm/twinpeaks-1200-1200-675-675-crop-000000.jpg?v=8dc7a13789
+  letterboxd_rating: 4.66
 
 - id: fire-walk-with-me
   tmdb_id: 1923
@@ -169,6 +175,7 @@
   imdb_id: tt0105665
   poster_url: https://m.media-amazon.com/images/M/MV5BYzJmZGFiMzAtODNhOC00NzAwLWFlMzAtYTQzYmRmYjIwNDgyXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: twin-peaks-fire-walk-with-me
+  letterboxd_rating: 4.35
 
 - id: lost-highway
   tmdb_id: 638
@@ -191,6 +198,7 @@
   imdb_id: tt0116922
   poster_url: https://m.media-amazon.com/images/M/MV5BNjcyNmM2ODktYzk0Mi00Njk0LTljZGMtNGZhMzI4NmY1NzA1XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: lost-highway
+  letterboxd_rating: 4.12
 
 - id: the-straight-story
   tmdb_id: 404
@@ -214,6 +222,7 @@
   imdb_id: tt0166896
   poster_url: https://m.media-amazon.com/images/M/MV5BZjdjNWZhY2UtMDRiYS00M2NhLThiZmQtYTA0MzI4ZWIyYzY4XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-straight-story
+  letterboxd_rating: 4.2
 
 - id: mulholland-drive
   tmdb_id: 1018
@@ -236,6 +245,7 @@
   imdb_id: tt0166924
   poster_url: https://m.media-amazon.com/images/M/MV5BNjliY2UwMjQtYjVlNi00NzExLTg1MDMtMjE2OTYwYjI0NTcxXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: mulholland-drive
+  letterboxd_rating: 4.26
 
 - id: inland-empire
   tmdb_id: 1730
@@ -258,6 +268,7 @@
   imdb_id: tt0460829
   poster_url: https://m.media-amazon.com/images/M/MV5BMTQ3NDQyNjM3NF5BMl5BanBnXkFtZTcwMzk5MDU0MQ@@._V1_SX300.jpg
   letterboxd_slug: inland-empire
+  letterboxd_rating: 3.9
 
 - id: twin-peaks-the-return
   tmdb_id: null
@@ -281,3 +292,4 @@
     sex: 2
   poster_url: https://a.ltrbxd.com/resized/sm/upload/je/hp/1g/rb/twin-peaks-the-return-1200-1200-675-675-crop-000000.jpg?v=78d13897ff
   letterboxd_slug: twin-peaks-the-return
+  letterboxd_rating: 4.61

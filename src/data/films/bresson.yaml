@@ -16,6 +16,7 @@
   imdb_id: tt0042619
   poster_url: https://m.media-amazon.com/images/M/MV5BMmEwNTc3NDgtNDMzNy00YmMzLWFkYzMtNzUyNWRhYjJhY2QyXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: diary-of-a-country-priest
+  letterboxd_rating: 4.09
 
 - id: a-man-escaped
   tmdb_id: 15244
@@ -33,6 +34,7 @@
   imdb_id: tt0049902
   poster_url: https://m.media-amazon.com/images/M/MV5BYjBkODI2NzItODMzMC00Yjc2LWI2NDItZTA5YTE0MTE5NDc2XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: a-man-escaped
+  letterboxd_rating: 4.34
 
 - id: pickpocket
   tmdb_id: 690
@@ -45,6 +47,7 @@
   imdb_id: tt0053168
   poster_url: https://m.media-amazon.com/images/M/MV5BZDk3MzJjOGYtY2I0OC00OTM4LWI4MDAtYjg1OTIwMjRmMDk1XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: pickpocket
+  letterboxd_rating: 3.92
 
 - id: the-trial-of-joan-of-arc
   tmdb_id: 48764
@@ -62,6 +65,7 @@
   imdb_id: tt0059616
   poster_url: https://m.media-amazon.com/images/M/MV5BOWVlMDAyZTgtMjFmMC00OGQ2LWIwMmQtNDVmOTAxMWRiOTI2XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-trial-of-joan-of-arc
+  letterboxd_rating: 3.78
 
 - id: au-hasard-balthazar
   tmdb_id: 20108
@@ -79,6 +83,7 @@
   imdb_id: tt0060138
   poster_url: https://m.media-amazon.com/images/M/MV5BZTE0OGQyNjQtYTQ2MC00Y2FjLWFmNTMtODRkMmRmYmM4MTM5XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: au-hasard-balthazar
+  letterboxd_rating: 4.06
 
 - id: mouchette
   tmdb_id: 1561
@@ -91,6 +96,7 @@
   imdb_id: tt0061996
   poster_url: https://m.media-amazon.com/images/M/MV5BMTZkOTU2M2QtYzQxOS00MGIxLWIyNTUtN2Q1MWEzZGVlYmFiXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: mouchette
+  letterboxd_rating: 4.01
 
 - id: une-femme-douce
   tmdb_id: 55836
@@ -103,6 +109,7 @@
   letterboxd_title: A Gentle Woman
   letterboxd_slug: a-gentle-woman
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ed/zq/ho/gg/gentle%20women-1200-1200-675-675-crop-000000.jpg?v=f8c164406d
+  letterboxd_rating: 3.8
 
 - id: lancelot-du-lac
   tmdb_id: 55848
@@ -120,6 +127,7 @@
   letterboxd_title: Lancelot of the Lake
   letterboxd_slug: lancelot-of-the-lake
   poster_url: https://a.ltrbxd.com/resized/sm/upload/rn/l9/lt/ec/lancelot-1200-1200-675-675-crop-000000.jpg?v=e086913acb
+  letterboxd_rating: 3.78
 
 - id: largent
   tmdb_id: 42112
@@ -137,6 +145,7 @@
   imdb_id: tt0085180
   poster_url: https://m.media-amazon.com/images/M/MV5BYjU3ZjBkODYtYjZmYS00OTAzLTk4NTctYWU0ZjhiM2JhZDBmXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: largent-1983
+  letterboxd_rating: 3.99
 
 # data.test.js correctly rejected a flat humor: 1 across the whole filmography. The honest fix was
 # not to reinterpret the severe films but to include the two that genuinely are not: Les Dames
@@ -158,6 +167,7 @@
   letterboxd_title: The Ladies of the Bois de Boulogne
   letterboxd_slug: les-dames-du-bois-de-boulogne
   poster_url: https://a.ltrbxd.com/resized/sm/upload/k2/iy/gw/6e/lesdames-1200-1200-675-675-crop-000000.jpg?v=407316525a
+  letterboxd_rating: 3.62
 
 - id: four-nights-of-a-dreamer
   tmdb_id: 55847
@@ -175,3 +185,4 @@
   imdb_id: tt0067641
   poster_url: https://m.media-amazon.com/images/M/MV5BZWM0ZjhlZmEtODBhZi00MGU1LWFjZjAtNTcwNDE4MTI4OTc2XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: four-nights-of-a-dreamer
+  letterboxd_rating: 3.84

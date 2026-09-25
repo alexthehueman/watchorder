@@ -19,6 +19,7 @@
   imdb_id: tt0038574
   poster_url: https://m.media-amazon.com/images/M/MV5BOTFjNzIyYTYtMjVjOS00NzQ2LWIyMTUtMzlhNGIwZDU1MTdiXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: great-expectations
+  letterboxd_rating: 3.79
 
 - id: oliver-twist-1948
   tmdb_id: 10949
@@ -31,6 +32,7 @@
   imdb_id: tt0040662
   poster_url: https://m.media-amazon.com/images/M/MV5BMjU3NTI1Y2MtZmM5YS00NmQ0LWIyMTQtYTJmMjNkZWIyYjIyXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: oliver-twist-1948
+  letterboxd_rating: 3.76
 
 - id: kind-hearts-and-coronets
   tmdb_id: 11898
@@ -48,6 +50,7 @@
   imdb_id: tt0041546
   poster_url: https://m.media-amazon.com/images/M/MV5BYjhjOTZmY2QtNDcyYS00Y2ViLTg3NTMtYTUyNjhlMGIwNmZlXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: kind-hearts-and-coronets
+  letterboxd_rating: 4.06
 
 - id: the-lavender-hill-mob
   tmdb_id: 32961
@@ -60,6 +63,7 @@
   imdb_id: tt0044829
   poster_url: https://m.media-amazon.com/images/M/MV5BYjhmZDlhODgtOWE2OS00NDQyLThmYmItMTZjMGYwODYxNDcxXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-lavender-hill-mob
+  letterboxd_rating: 3.75
 
 - id: the-man-in-the-white-suit
   tmdb_id: 32568
@@ -72,6 +76,7 @@
   imdb_id: tt0044876
   poster_url: https://m.media-amazon.com/images/M/MV5BMTUxNTIzNzY4OV5BMl5BanBnXkFtZTgwODExMTI0NDE@._V1_SX300.jpg
   letterboxd_slug: the-man-in-the-white-suit
+  letterboxd_rating: 3.65
 
 - id: the-ladykillers
   tmdb_id: 5506
@@ -89,6 +94,7 @@
   imdb_id: tt0048281
   poster_url: https://m.media-amazon.com/images/M/MV5BMjlhZWM3MjktYTIwZS00YTVmLTljZDYtZWYwYjFiOTc5NDMzXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-ladykillers
+  letterboxd_rating: 3.8
 
 - id: the-bridge-on-the-river-kwai
   tmdb_id: 826
@@ -106,6 +112,7 @@
   imdb_id: tt0050212
   poster_url: https://m.media-amazon.com/images/M/MV5BNzdkYmU2YmItNmZiYy00OWQyLTg0YWYtZmUxM2U3YTRiNTQ1XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-bridge-on-the-river-kwai
+  letterboxd_rating: 4.25
 
 - id: tunes-of-glory
   tmdb_id: 43048
@@ -118,6 +125,7 @@
   imdb_id: tt0054412
   poster_url: https://m.media-amazon.com/images/M/MV5BM2FhMmI4ZTEtYmNhNC00YzIzLTg0ODMtNWJkM2FlMTY0ZGY1XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: tunes-of-glory
+  letterboxd_rating: 3.72
 
 - id: star-wars
   tmdb_id: 11
@@ -129,6 +137,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 0 }
   letterboxd_slug: star-wars
   poster_url: https://a.ltrbxd.com/resized/sm/upload/xo/ln/nr/0o/star-wars-70-1200-1200-675-675-crop-000000.jpg?v=766b26c149
+  letterboxd_rating: 4.16
 
 - id: tinker-tailor-soldier-spy-1979
   tmdb_id: null
@@ -148,3 +157,4 @@
   imdb_id: tt0080297
   poster_url: https://m.media-amazon.com/images/M/MV5BYTVjMTBmMGEtYjYwMy00YzhkLThmMGMtNDgyMWNmOWRiMzExXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: tinker-tailor-soldier-spy-1979
+  letterboxd_rating: 4.18

@@ -12,6 +12,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   letterboxd_slug: top-five
   poster_url: https://a.ltrbxd.com/resized/sm/upload/as/il/tf/v9/top-five-1200-1200-675-675-crop-000000.jpg?v=293c0fec0d
+  letterboxd_rating: 3.32
 
 - id: new-jack-city
   tmdb_id: 10952
@@ -23,6 +24,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   letterboxd_slug: new-jack-city
   poster_url: https://a.ltrbxd.com/resized/sm/upload/az/ar/ee/ic/new%20jack-1200-1200-675-675-crop-000000.jpg?v=f45b55bbae
+  letterboxd_rating: 3.42
 
 - id: dogma
   tmdb_id: 1832
@@ -39,3 +41,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: dogma
   poster_url: https://a.ltrbxd.com/resized/sm/upload/of/08/nr/ui/dogma-1200-1200-675-675-crop-000000.jpg?v=b4e3c34600
+  letterboxd_rating: 3.56

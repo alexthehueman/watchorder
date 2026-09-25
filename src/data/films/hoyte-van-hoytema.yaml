@@ -20,6 +20,7 @@
   imdb_id: tt1139797
   poster_url: https://m.media-amazon.com/images/M/MV5BMWFkODcyM2UtN2EzMy00MjA5LThmZjAtNzUyZWc0N2I5MjZlXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: let-the-right-one-in
+  letterboxd_rating: 4.03
 
 - id: the-immigrant
   tmdb_id: 152599
@@ -31,6 +32,7 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
   letterboxd_slug: the-immigrant-2013
   poster_url: https://a.ltrbxd.com/resized/sm/upload/kg/0s/2u/v1/the-immigrant-1200-1200-675-675-crop-000000.jpg?v=b4a8ea3d95
+  letterboxd_rating: 3.55
 
 - id: ad-astra
   tmdb_id: 419704
@@ -42,3 +44,4 @@
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: ad-astra-2019
   poster_url: https://a.ltrbxd.com/resized/sm/upload/7s/uj/g7/83/ad-astra-2019-1200-1200-675-675-crop-000000.jpg?v=cf13a7a61c
+  letterboxd_rating: 3.36

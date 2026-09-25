@@ -17,6 +17,7 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
   letterboxd_slug: martha-marcy-may-marlene
   poster_url: https://a.ltrbxd.com/resized/sm/upload/2t/48/x5/a9/martha-marcy-may-marlene-1200-1200-675-675-crop-000000.jpg?v=a67ee1ab13
+  letterboxd_rating: 3.59
 
 - id: wind-river
   tmdb_id: 395834
@@ -28,6 +29,7 @@
   content: { sexual_violence: true, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 0 }
   letterboxd_slug: wind-river-2017
   poster_url: https://a.ltrbxd.com/resized/sm/upload/sk/qn/cm/ad/wind-river-1200-1200-675-675-crop-000000.jpg?v=37ef17d94b
+  letterboxd_rating: 3.84
 
 - id: doctor-strange-in-the-multiverse-of-madness
   tmdb_id: 453395
@@ -39,6 +41,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: doctor-strange-in-the-multiverse-of-madness
   poster_url: https://a.ltrbxd.com/resized/sm/upload/m0/ks/k8/uw/dr%20strange-1200-1200-675-675-crop-000000.jpg?v=8bbfc10c4e
+  letterboxd_rating: 2.98
 
 - id: silent-house
   tmdb_id: 92182
@@ -55,6 +58,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: silent-house
   poster_url: https://a.ltrbxd.com/resized/sm/upload/bn/8k/vu/fc/slient-house-1200-1200-675-675-crop-000000.jpg?v=b7ec232e9f
+  letterboxd_rating: 2.6
 
 - id: oldboy-2013
   tmdb_id: 87516
@@ -71,6 +75,7 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
   letterboxd_slug: oldboy-2013
   poster_url: https://a.ltrbxd.com/resized/sm/upload/q1/9q/91/gf/oldboy-2013-1200-1200-675-675-crop-000000.jpg?v=b70fcb1de3
+  letterboxd_rating: 2.18
 
 - id: godzilla-2014
   tmdb_id: 124905
@@ -82,6 +87,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: godzilla-2014
   poster_url: https://a.ltrbxd.com/resized/sm/upload/2o/l4/sx/2f/godzilla-1200-1200-675-675-crop-000000.jpg?v=c3c7d51fb0
+  letterboxd_rating: 3.14
 
 - id: kodachrome
   tmdb_id: 419635
@@ -93,6 +99,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: kodachrome
   poster_url: https://a.ltrbxd.com/resized/sm/upload/n2/a0/zo/gn/kodachrome-1200-1200-675-675-crop-000000.jpg?v=2597ccd894
+  letterboxd_rating: 3.33
 
 - id: avengers-age-of-ultron
   tmdb_id: 99861
@@ -104,3 +111,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: avengers-age-of-ultron
   poster_url: https://a.ltrbxd.com/resized/sm/upload/gz/xu/8d/m4/avengers-age-of-ultron-1200-1200-675-675-crop-000000.jpg?v=489fa4b87c
+  letterboxd_rating: 3.33

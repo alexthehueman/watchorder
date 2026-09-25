@@ -20,6 +20,7 @@
   imdb_id: tt2101441
   poster_url: https://m.media-amazon.com/images/M/MV5BNTk3NjMwMjYtODg3Ny00ZDU2LTgzZDAtNDJjYjlmYjJjNGQ3XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: spring-breakers
+  letterboxd_rating: 2.78
 
 - id: under-the-skin
   tmdb_id: 97370
@@ -32,6 +33,7 @@
   imdb_id: tt1441395
   poster_url: https://m.media-amazon.com/images/M/MV5BMTU1MDEwMDg4Nl5BMl5BanBnXkFtZTgwOTk3NTcxMTE@._V1_SX300.jpg
   letterboxd_slug: under-the-skin-2013
+  letterboxd_rating: 3.58
 
 - id: ex-machina
   tmdb_id: 264660
@@ -44,6 +46,7 @@
   imdb_id: tt0470752
   poster_url: https://m.media-amazon.com/images/M/MV5BMTUxNzc0OTIxMV5BMl5BanBnXkFtZTgwNDI3NzU2NDE@._V1_SX300.jpg
   letterboxd_slug: ex-machina-2014
+  letterboxd_rating: 3.96
 
 - id: the-witch
   tmdb_id: 310131
@@ -56,6 +59,7 @@
   imdb_id: tt4030996
   letterboxd_slug: the-witch-2015
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ii/1v/z8/lk/the-witch-1200-1200-675-675-crop-000000.jpg?v=06f9adfe9a
+  letterboxd_rating: 3.82
 
 - id: moonlight
   tmdb_id: 376867
@@ -73,6 +77,7 @@
   imdb_id: tt4975722
   poster_url: https://m.media-amazon.com/images/M/MV5BNzQxNTIyODAxMV5BMl5BanBnXkFtZTgwNzQyMDA3OTE@._V1_SX300.jpg
   letterboxd_slug: moonlight-2016
+  letterboxd_rating: 4.19
 
 - id: the-florida-project
   tmdb_id: 394117
@@ -85,6 +90,7 @@
   imdb_id: tt5649144
   poster_url: https://m.media-amazon.com/images/M/MV5BNDBhM2MxYjAtMWFiYy00MWMwLThkMDYtN2M1ZWY3NjkxNGExXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-florida-project
+  letterboxd_rating: 4.09
 
 - id: hereditary
   tmdb_id: 493922
@@ -97,6 +103,7 @@
   imdb_id: tt7784604
   poster_url: https://m.media-amazon.com/images/M/MV5BNTEyZGQwODctYWJjZi00NjFmLTg3YmEtMzlhNjljOGZhMWMyXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg
   letterboxd_slug: hereditary
+  letterboxd_rating: 3.92
 
 - id: eighth-grade
   tmdb_id: 489925
@@ -109,6 +116,7 @@
   imdb_id: tt7014006
   poster_url: https://m.media-amazon.com/images/M/MV5BMTUyYzNiZTQtZGEwYi00ZjdiLTk5ZjctYTAxZTY3YmY0OThlXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: eighth-grade
+  letterboxd_rating: 3.74
 
 - id: the-lighthouse
   tmdb_id: 503919
@@ -126,6 +134,7 @@
   imdb_id: tt7984734
   poster_url: https://m.media-amazon.com/images/M/MV5BMTI4MjFhMjAtNmQxYi00N2IxLWJjMGEtYWY1YmU3OTQ0Zjk3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg
   letterboxd_slug: the-lighthouse-2019
+  letterboxd_rating: 4
 
 - id: uncut-gems
   tmdb_id: 473033
@@ -143,6 +152,7 @@
   imdb_id: tt5727208
   poster_url: https://m.media-amazon.com/images/M/MV5BNmI0YjA5NjItYzExYi00NzkxLTkxNDctNGJjYTZhM2M0NDQ0XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: uncut-gems
+  letterboxd_rating: 3.96
 
 - id: midsommar
   tmdb_id: 530385
@@ -155,6 +165,7 @@
   imdb_id: tt8772262
   poster_url: https://m.media-amazon.com/images/M/MV5BMzQxNzQzOTQwM15BMl5BanBnXkFtZTgwMDQ2NTcwODM@._V1_QL75_UX380_CR0,0,380,562_.jpg
   letterboxd_slug: midsommar
+  letterboxd_rating: 3.74
 
 - id: everything-everywhere-all-at-once
   tmdb_id: 545611
@@ -172,6 +183,7 @@
   imdb_id: tt6710474
   poster_url: https://m.media-amazon.com/images/M/MV5BOWNmMzAzZmQtNDQ1NC00Nzk5LTkyMmUtNGI2N2NkOWM4MzEyXkEyXkFqcGc@._V1_QL75_UY562_CR4,0,380,562_.jpg
   letterboxd_slug: everything-everywhere-all-at-once
+  letterboxd_rating: 4.24
 
 - id: the-zone-of-interest
   tmdb_id: 467244
@@ -184,3 +196,4 @@
   imdb_id: tt7160372
   poster_url: https://m.media-amazon.com/images/M/MV5BNjk4MTQ3MGEtZmI4OS00N2NhLWI5ZjgtYWE5ZWVkZGExYTQ1XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-zone-of-interest
+  letterboxd_rating: 3.86

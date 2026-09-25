@@ -19,6 +19,7 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: kimi
   poster_url: https://a.ltrbxd.com/resized/sm/upload/j9/3w/w4/sw/kimi-1200-1200-675-675-crop-000000.jpg?v=8839c0a069
+  letterboxd_rating: 3.13
 
 - id: dope
   tmdb_id: 308639
@@ -30,6 +31,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
   letterboxd_slug: dope-2015
   poster_url: https://a.ltrbxd.com/resized/sm/upload/pc/h0/6f/ig/dope-2015-1200-1200-675-675-crop-000000.jpg?v=9dd7b51887
+  letterboxd_rating: 3.5
 
 - id: divergent
   tmdb_id: 157350
@@ -41,6 +43,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: divergent
   poster_url: https://a.ltrbxd.com/resized/sm/upload/t5/tj/qn/cd/divergent-1200-1200-675-675-crop-000000.jpg?v=db302cfdd9
+  letterboxd_rating: 3.11
 
 - id: fantastic-beasts
   tmdb_id: 259316
@@ -52,6 +55,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: fantastic-beasts-and-where-to-find-them
   poster_url: https://a.ltrbxd.com/resized/sm/upload/0p/ks/s8/3n/fantastic-beasts-1200-1200-675-675-crop-000000.jpg?v=3634d06aa0
+  letterboxd_rating: 3.21
 
 - id: rough-night
   tmdb_id: 397422
@@ -63,6 +67,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
   letterboxd_slug: rough-night
   poster_url: https://a.ltrbxd.com/resized/sm/upload/19/xy/ww/0x/rough-night-1200-1200-675-675-crop-000000.jpg?v=9d1fbc43c4
+  letterboxd_rating: 2.71
 
 - id: gemini
   tmdb_id: 412302
@@ -79,3 +84,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: gemini-2017
   poster_url: https://a.ltrbxd.com/resized/sm/upload/e8/01/75/cl/gemini-2017-1200-1200-675-675-crop-000000.jpg?v=7c1d7c0b4a
+  letterboxd_rating: 2.87

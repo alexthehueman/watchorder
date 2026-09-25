@@ -19,6 +19,7 @@
   imdb_id: tt0077383
   poster_url: https://m.media-amazon.com/images/M/MV5BNGRhNWEzOTAtZDM2NC00NzYzLTlkZWItZGE3ZDgzYzgzOGUxXkEyXkFqcGdeQXVyNzEyNjUwMTA@._V1_SX300.jpg
   letterboxd_slug: family-nest
+  letterboxd_rating: 3.64
 
 - id: the-outsider
   tmdb_id: 128043
@@ -29,6 +30,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
   poster_url: https://a.ltrbxd.com/resized/film-poster/9/9/8/2/3/99823-the-outsider-0-230-0-345-crop.jpg?v=d934ac41db
   letterboxd_slug: the-outsider-1981
+  letterboxd_rating: 3.36
 
 - id: almanac-of-fall
   tmdb_id: 74903
@@ -41,6 +43,7 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTU1ODE5NDc5MF5BMl5BanBnXkFtZTcwOTMzOTIzMQ@@._V1_SX300.jpg
   letterboxd_title: Autumn Almanac
   letterboxd_slug: autumn-almanac
+  letterboxd_rating: 3.67
 
 - id: damnation
   tmdb_id: 20122
@@ -52,6 +55,7 @@
   imdb_id: tt0095475
   poster_url: https://m.media-amazon.com/images/M/MV5BYjg1ZmYxZTktZGI1MS00NTQ0LTk1MGUtMjU1NTk5Yzk3NzFmXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: damnation
+  letterboxd_rating: 4.06
 
 - id: satantango
   tmdb_id: 31414
@@ -68,6 +72,7 @@
     sex: 1
   poster_url: https://a.ltrbxd.com/resized/sm/upload/dz/g2/5c/og/satantango-1200-1200-675-675-crop-000000.jpg?v=f123d73da6
   letterboxd_slug: satantango
+  letterboxd_rating: 4.36
 
 - id: werckmeister-harmonies
   tmdb_id: 23160
@@ -79,6 +84,7 @@
   imdb_id: tt0249241
   poster_url: https://m.media-amazon.com/images/M/MV5BOTdlOWFlMjYtOWFlNy00Nzk5LTljZDAtMDBmYTNjMWIxZTRmXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: werckmeister-harmonies
+  letterboxd_rating: 4.29
 
 - id: the-man-from-london
   tmdb_id: 31262
@@ -90,6 +96,7 @@
   imdb_id: tt0415127
   poster_url: https://m.media-amazon.com/images/M/MV5BZjk3ODc3ZmQtNzE0Yy00YmMxLWFmYWMtNjdlYzJmMjA0NWRkXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-man-from-london
+  letterboxd_rating: 3.72
 
 - id: the-turin-horse
   tmdb_id: 81401
@@ -107,3 +114,4 @@
   imdb_id: tt1316540
   poster_url: https://m.media-amazon.com/images/M/MV5BMTMyNzg1MzM2Ml5BMl5BanBnXkFtZTcwMzQ5NjcxNw@@._V1_SX300.jpg
   letterboxd_slug: the-turin-horse
+  letterboxd_rating: 4.19

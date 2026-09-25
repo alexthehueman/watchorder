@@ -12,6 +12,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: aquaman-2018
   poster_url: https://a.ltrbxd.com/resized/sm/upload/bz/v4/ne/ca/4rbszAcobxhioUNHcrbzCaLMFQc-1200-1200-675-675-crop-000000.jpg?v=edc2dfe232
+  letterboxd_rating: 2.79
 
 - id: justice-league
   tmdb_id: 141052
@@ -23,6 +24,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: justice-league
   poster_url: https://a.ltrbxd.com/resized/sm/upload/xp/n2/k8/85/justice-league-1200-1200-675-675-crop-000000.jpg?v=6c42c5a2a7
+  letterboxd_rating: 2.03
 
 - id: conan-the-barbarian-2011
   tmdb_id: 37430
@@ -34,6 +36,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 1 }
   letterboxd_slug: conan-the-barbarian-2011
   poster_url: https://a.ltrbxd.com/resized/sm/upload/jm/dz/3b/y1/conan-2011-1200-1200-675-675-crop-000000.jpg?v=f44bcd4ebc
+  letterboxd_rating: 2.24
 
 - id: fast-x
   tmdb_id: 385687
@@ -45,6 +48,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: fast-x
   poster_url: https://a.ltrbxd.com/resized/sm/upload/xx/zt/87/rl/fastx-1200-1200-675-675-crop-000000.jpg?v=2c78866af4
+  letterboxd_rating: 2.49
 
 - id: the-bad-batch
   tmdb_id: 316154
@@ -61,3 +65,4 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   letterboxd_slug: the-bad-batch
   poster_url: https://a.ltrbxd.com/resized/sm/upload/xc/15/s8/tl/bad-batch-1200-1200-675-675-crop-000000.jpg?v=988aee7618
+  letterboxd_rating: 2.59

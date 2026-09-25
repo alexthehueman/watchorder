@@ -17,6 +17,7 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   letterboxd_slug: deliverance
   poster_url: https://a.ltrbxd.com/resized/sm/upload/us/b0/d1/qe/deliverance-1200-1200-675-675-crop-000000.jpg?v=f5111e3b1f
+  letterboxd_rating: 3.87
 
 - id: smokey-and-the-bandit
   tmdb_id: 11006
@@ -28,6 +29,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: smokey-and-the-bandit
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ci/6f/x1/8g/smokey-and-the-bandit-1200-1200-675-675-crop-000000.jpg?v=df373dcbea
+  letterboxd_rating: 3.66
 
 - id: the-longest-yard
   tmdb_id: 4985
@@ -39,3 +41,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: the-longest-yard
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ct/gi/x1/jz/longest%20yard-1200-1200-675-675-crop-000000.jpg?v=86032575b4
+  letterboxd_rating: 3.44

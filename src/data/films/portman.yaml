@@ -14,6 +14,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   letterboxd_slug: v-for-vendetta
   poster_url: https://a.ltrbxd.com/resized/sm/upload/mx/jg/tz/ni/v-for-vendetta-1200-1200-675-675-crop-000000.jpg?v=1f545de4aa
+  letterboxd_rating: 3.9
 
 - id: jackie
   tmdb_id: 376866
@@ -30,6 +31,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: jackie-2016
   poster_url: https://a.ltrbxd.com/resized/sm/upload/0v/6k/fl/yk/fafkhT5N9bphry9TIBqTONSmcGI-1200-1200-675-675-crop-000000.jpg?v=e627678269
+  letterboxd_rating: 3.55
 
 - id: garden-state
   tmdb_id: 401
@@ -41,6 +43,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   letterboxd_slug: garden-state
   poster_url: https://a.ltrbxd.com/resized/sm/upload/xg/y1/8q/u2/garden-state-1200-1200-675-675-crop-000000.jpg?v=4327f67a71
+  letterboxd_rating: 3.47
 
 - id: annihilation
   tmdb_id: 300668
@@ -57,6 +60,7 @@
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: annihilation
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ph/qw/74/4d/annihilation-1200-1200-675-675-crop-000000.jpg?v=33f21c9a10
+  letterboxd_rating: 3.58
 
 - id: star-wars-episode-i-the-phantom-menace
   tmdb_id: 1893
@@ -68,3 +72,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: star-wars-episode-i-the-phantom-menace
   poster_url: https://a.ltrbxd.com/resized/sm/upload/m6/zp/ge/tk/star-wars-episode-i-the-phantom-menace-1200-1200-675-675-crop-000000.jpg?v=42e01a1a7d
+  letterboxd_rating: 3.17

@@ -19,6 +19,7 @@
   imdb_id: tt0023427
   poster_url: https://m.media-amazon.com/images/M/MV5BMWY2ZWI2NTAtYTkyMy00N2I2LTljODgtYTRlYmVlMTI0NjM0XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: scarface
+  letterboxd_rating: 3.83
 
 - id: only-angels-have-wings
   tmdb_id: 43832
@@ -36,6 +37,7 @@
   imdb_id: tt0031762
   poster_url: https://m.media-amazon.com/images/M/MV5BMDE0ZDk3MjQtOTE5Ny00MTM3LWIyNGUtZWZjOWU0YmE3NGI1XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: only-angels-have-wings
+  letterboxd_rating: 4.08
 
 - id: sergeant-york
   tmdb_id: 16442
@@ -48,6 +50,7 @@
   imdb_id: tt0034167
   poster_url: https://m.media-amazon.com/images/M/MV5BMzYxMTYzMTMtNjk0Yy00NjMyLWIyMjUtNjk4ZDUwMzFkNDZmXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: sergeant-york
+  letterboxd_rating: 3.57
 
 - id: red-river
   tmdb_id: 3089
@@ -60,6 +63,7 @@
   imdb_id: tt0040724
   poster_url: https://m.media-amazon.com/images/M/MV5BMTM2NDA3NTQ2OF5BMl5BanBnXkFtZTcwODUzNzU2NA@@._V1_SX300.jpg
   letterboxd_slug: red-river
+  letterboxd_rating: 4.01
 
 - id: gentlemen-prefer-blondes
   tmdb_id: 759
@@ -72,6 +76,7 @@
   imdb_id: tt0045810
   poster_url: https://m.media-amazon.com/images/M/MV5BZjQ4MDJhZGMtNDliZS00ZTYwLWJmN2ItZWY3NDc2NTFjN2VmXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: gentlemen-prefer-blondes
+  letterboxd_rating: 3.88
 
 - id: rio-bravo
   tmdb_id: 301
@@ -89,6 +94,7 @@
   imdb_id: tt0053221
   poster_url: https://m.media-amazon.com/images/M/MV5BYmRiNWY3ZDQtZTJkNi00NjlkLWI3NTQtZDEzZTE0YmNhYTk2XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: rio-bravo
+  letterboxd_rating: 4.17
 
 # Added for the same reason as Ford's late additions: six films in one register gave M7 nothing.
 # Hatari! is the useful one — two and a half hours with no plot at all, which is the opposite of
@@ -104,6 +110,7 @@
   imdb_id: tt0025919
   poster_url: https://m.media-amazon.com/images/M/MV5BODFlNTVhOWMtMWNlNC00ZmVkLTlkZGQtNWVjYWE5NWNiOTZkXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: twentieth-century
+  letterboxd_rating: 3.58
 
 - id: ball-of-fire
   tmdb_id: 29884
@@ -116,6 +123,7 @@
   imdb_id: tt0033373
   poster_url: https://m.media-amazon.com/images/M/MV5BNWQ4YmE5NWItODc0Ni00NGVlLTlhYjAtZTAwY2M3YmViMjc5XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: ball-of-fire
+  letterboxd_rating: 4
 
 - id: hatari
   tmdb_id: 11385
@@ -133,6 +141,7 @@
   imdb_id: tt0056059
   poster_url: https://m.media-amazon.com/images/M/MV5BMzVkYTBlZDQtNDliZi00NDI2LTk1YTktMTU1YWE2MTBkODNmXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: hatari
+  letterboxd_rating: 3.69
 
 - id: land-of-the-pharaohs
   tmdb_id: 42564
@@ -145,3 +154,4 @@
   imdb_id: tt0048283
   poster_url: https://m.media-amazon.com/images/M/MV5BYmRhYzQxYTUtMjYxNi00MjNkLWExNjAtM2QwMDY3YzU3YjNkXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: land-of-the-pharaohs
+  letterboxd_rating: 3.34

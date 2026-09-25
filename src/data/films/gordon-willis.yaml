@@ -16,6 +16,7 @@
   imdb_id: tt0079522
   poster_url: https://m.media-amazon.com/images/M/MV5BMTk3NTk1Mzk2M15BMl5BanBnXkFtZTgwNTc1NTYyMTE@._V1_SX300.jpg
   letterboxd_slug: manhattan
+  letterboxd_rating: 3.85
 
 - id: loving-1970
   tmdb_id: 92269
@@ -27,6 +28,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
   letterboxd_slug: loving
   poster_url: https://a.ltrbxd.com/resized/film-poster/7/7/0/4/1/77041-loving-0-230-0-345-crop.jpg?v=3986559b7b
+  letterboxd_rating: 3.34
 
 - id: the-landlord
   tmdb_id: 64828
@@ -38,6 +40,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   letterboxd_slug: the-landlord
   poster_url: https://a.ltrbxd.com/resized/sm/upload/lg/xy/r1/ko/landlord-1200-1200-675-675-crop-000000.jpg?v=2ee587de7d
+  letterboxd_rating: 3.71
 
 - id: bad-company-1972
   tmdb_id: 31591
@@ -49,6 +52,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: bad-company
   poster_url: https://a.ltrbxd.com/resized/sm/upload/mp/gx/61/xx/company2-1200-1200-675-675-crop-000000.jpg?v=c07fbce7ad
+  letterboxd_rating: 3.63
 
 - id: up-the-sandbox
   tmdb_id: 42492
@@ -60,6 +64,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: up-the-sandbox
   poster_url: https://a.ltrbxd.com/resized/sm/upload/d0/9p/k9/wj/7JNsZvyK0lODDxgzKn3EfpA6Vb5-1200-1200-675-675-crop-000000.jpg?v=2650655876
+  letterboxd_rating: 3.08
 
 - id: the-paper-chase
   tmdb_id: 14328
@@ -71,6 +76,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: the-paper-chase
   poster_url: https://a.ltrbxd.com/resized/sm/upload/vv/59/ig/nl/paperchase-1200-1200-675-675-crop-000000.jpg?v=d06004c899
+  letterboxd_rating: 3.4
 
 - id: interiors
   tmdb_id: 15867
@@ -82,6 +88,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
   letterboxd_slug: interiors
   poster_url: https://a.ltrbxd.com/resized/sm/upload/8p/lm/g9/5v/interiors-1200-1200-675-675-crop-000000.jpg?v=f27e49a715
+  letterboxd_rating: 3.73
 
 - id: comes-a-horseman
   tmdb_id: 42201
@@ -93,6 +100,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: comes-a-horseman
   poster_url: https://a.ltrbxd.com/resized/sm/upload/9m/3u/kg/qd/comes-1200-1200-675-675-crop-000000.jpg?v=1838b26da2
+  letterboxd_rating: 3.27
 
 - id: stardust-memories
   tmdb_id: 11337
@@ -104,6 +112,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   letterboxd_slug: stardust-memories
   poster_url: https://a.ltrbxd.com/resized/sm/upload/9g/d9/bb/pr/stardust-memories-1200-1200-675-675-crop-000000.jpg?v=3b8e31cdad
+  letterboxd_rating: 3.74
 
 - id: windows-1980
   tmdb_id: 83857
@@ -115,6 +124,7 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 2 }
   letterboxd_slug: windows
   poster_url: https://a.ltrbxd.com/resized/sm/upload/m5/zk/pg/uy/windows-1200-1200-675-675-crop-000000.jpg?v=1727af39a4
+  letterboxd_rating: 2.73
 
 - id: a-midsummer-nights-sex-comedy
   tmdb_id: 8288
@@ -126,6 +136,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   letterboxd_slug: a-midsummer-nights-sex-comedy
   poster_url: https://a.ltrbxd.com/resized/sm/upload/8o/8m/11/ht/hhPvwlOW7zWeVQT36MlpPySQXt4-1200-1200-675-675-crop-000000.jpg?v=144b785775
+  letterboxd_rating: 3.27
 
 - id: zelig
   tmdb_id: 11030
@@ -137,6 +148,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: zelig
   poster_url: https://a.ltrbxd.com/resized/sm/upload/z9/91/n7/7y/zelig-1200-1200-675-675-crop-000000.jpg?v=f8a68c4367
+  letterboxd_rating: 3.87
 
 - id: broadway-danny-rose
   tmdb_id: 12762
@@ -148,6 +160,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: broadway-danny-rose
   poster_url: https://a.ltrbxd.com/resized/sm/upload/lx/9v/6w/y8/broadway-danny-rose-1200-1200-675-675-crop-000000.jpg?v=bd20114ddf
+  letterboxd_rating: 3.79
 
 - id: the-purple-rose-of-cairo
   tmdb_id: 10849
@@ -159,6 +172,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: the-purple-rose-of-cairo
   poster_url: https://a.ltrbxd.com/resized/sm/upload/31/lc/nq/t0/the-purple-rose-of-cairo-1200-1200-675-675-crop-000000.jpg?v=026cc8c985
+  letterboxd_rating: 3.97
 
 - id: perfect-1985
   tmdb_id: 49370
@@ -170,6 +184,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
   letterboxd_slug: perfect
   poster_url: https://a.ltrbxd.com/resized/sm/upload/hp/xk/21/hf/Untitled-1-1200-1200-675-675-crop-000000.jpg?v=75d0bc921c
+  letterboxd_rating: 2.72
 
 - id: the-money-pit
   tmdb_id: 10466
@@ -181,6 +196,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: the-money-pit
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ds/yb/d5/1r/money%20pit-1200-1200-675-675-crop-000000.jpg?v=5f68edc1fe
+  letterboxd_rating: 3.16
 
 - id: malice
   tmdb_id: 2246
@@ -192,3 +208,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 2 }
   letterboxd_slug: malice
   poster_url: https://a.ltrbxd.com/resized/sm/upload/px/ei/gd/ly/malice-1200-1200-675-675-crop-000000.jpg?v=85b13c9cce
+  letterboxd_rating: 3.22

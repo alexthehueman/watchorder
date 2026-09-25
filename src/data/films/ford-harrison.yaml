@@ -28,6 +28,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: blade-runner
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ne/pc/iq/wf/blade-runner-1200-1200-675-675-crop-000000.jpg?v=b663a63f34
+  letterboxd_rating: 4.09
 
 - id: the-mosquito-coast
   tmdb_id: 11120
@@ -44,6 +45,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: the-mosquito-coast
   poster_url: https://a.ltrbxd.com/resized/sm/upload/f6/1q/ly/ti/mosquito-coast-1200-1200-675-675-crop-000000.jpg?v=40bd0ee9d5
+  letterboxd_rating: 3.46
 
 - id: witness
   tmdb_id: 9281
@@ -55,6 +57,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 1 }
   letterboxd_slug: witness
   poster_url: https://a.ltrbxd.com/resized/sm/upload/wf/73/x7/qn/witness-1200-1200-675-675-crop-000000.jpg?v=5cb6639223
+  letterboxd_rating: 3.7
 
 - id: the-fugitive
   tmdb_id: 5503
@@ -66,6 +69,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: the-fugitive-1993
   poster_url: https://a.ltrbxd.com/resized/sm/upload/e1/dg/mb/km/the-fugitive-1200-1200-675-675-crop-000000.jpg?v=946de9e41b
+  letterboxd_rating: 3.92
 
 - id: regarding-henry
   tmdb_id: 11364
@@ -77,3 +81,4 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: regarding-henry
   poster_url: https://a.ltrbxd.com/resized/sm/upload/0y/cl/d2/2e/regarding-henry-40-1200-1200-675-675-crop-000000.jpg?v=2f2d8e1524
+  letterboxd_rating: 3.26

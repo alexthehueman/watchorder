@@ -18,6 +18,7 @@
   imdb_id: tt0033467
   poster_url: https://m.media-amazon.com/images/M/MV5BYjk1ZDJlMmUtOWQ0Zi00MDM5LTk1OGYtODczNjFmMGYwZGVkXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: citizen-kane
+  letterboxd_rating: 4.19
 
 - id: the-magnificent-ambersons
   tmdb_id: 965
@@ -30,6 +31,7 @@
   imdb_id: tt0035015
   poster_url: https://m.media-amazon.com/images/M/MV5BYTk5OTYxNTEtYTU5MS00NTBkLThhZWEtYTBiYzlkOTFhY2MzXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-magnificent-ambersons
+  letterboxd_rating: 3.88
 
 - id: the-lady-from-shanghai
   tmdb_id: 3766
@@ -47,6 +49,7 @@
   imdb_id: tt0040525
   poster_url: https://m.media-amazon.com/images/M/MV5BMDBmYzI4MDUtN2FjZC00YmM0LWE4YmEtNTZkY2ZkZmUzZDU0XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-lady-from-shanghai
+  letterboxd_rating: 3.86
 
 - id: macbeth-1948
   tmdb_id: 27883
@@ -59,6 +62,7 @@
   imdb_id: tt0040558
   poster_url: https://m.media-amazon.com/images/M/MV5BYzY5MTk2NDAtZGIyYi00NWY5LTg5MDEtMWY0N2VkNTE5OWFjXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: macbeth
+  letterboxd_rating: 3.74
 
 - id: othello-1951
   tmdb_id: 47697
@@ -71,6 +75,7 @@
   imdb_id: tt0045251
   poster_url: https://m.media-amazon.com/images/M/MV5BOWM4MjQ3MGEtMGNmYS00NjJhLWFhMTUtOTg4N2Y3N2FjZjE5XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: othello-1951
+  letterboxd_rating: 3.84
 
 - id: mr-arkadin
   tmdb_id: 44026
@@ -87,6 +92,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   poster_url: https://a.ltrbxd.com/resized/sm/upload/0w/4q/ji/fr/mr-arkadin-1200-1200-675-675-crop-000000.jpg?v=daa657ad2e
   letterboxd_slug: mr-arkadin
+  letterboxd_rating: 3.7
 
 - id: touch-of-evil
   tmdb_id: 1480
@@ -99,6 +105,7 @@
   imdb_id: tt0052311
   poster_url: https://m.media-amazon.com/images/M/MV5BYzBkNTQzODUtNzcxMy00ZGNhLThmOWMtMTcyYzY4ZTU2NDM3XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: touch-of-evil
+  letterboxd_rating: 4.17
 
 - id: the-trial
   tmdb_id: 3009
@@ -116,6 +123,7 @@
   imdb_id: tt0057427
   poster_url: https://m.media-amazon.com/images/M/MV5BNmJmNDM5ZmYtODIwNS00YjM4LTlkYzktZTFjNTg3ODg0NDcwXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-trial
+  letterboxd_rating: 4.05
 
 - id: chimes-at-midnight
   tmdb_id: 986
@@ -128,6 +136,7 @@
   imdb_id: tt0059012
   poster_url: https://m.media-amazon.com/images/M/MV5BNzUyNTUyMTktM2U3Ny00NjE5LTk3NDktOTllNDRlNzMxYTIyXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: chimes-at-midnight
+  letterboxd_rating: 4
 
 - id: f-for-fake
   tmdb_id: 43003
@@ -140,6 +149,7 @@
   imdb_id: tt0072962
   poster_url: https://m.media-amazon.com/images/M/MV5BOGJjZjU1NWEtOWM2Zi00NjgxLTliYTUtYmJmNmI2ZThiZmMyXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: f-for-fake
+  letterboxd_rating: 4.2
 
 - id: the-other-side-of-the-wind
   tmdb_id: 299782
@@ -157,3 +167,4 @@
   imdb_id: tt0069049
   poster_url: https://m.media-amazon.com/images/M/MV5BNDg5NTQ0NDU1Nl5BMl5BanBnXkFtZTgwMTExNzIyNjM@._V1_SX300.jpg
   letterboxd_slug: the-other-side-of-the-wind
+  letterboxd_rating: 3.7
