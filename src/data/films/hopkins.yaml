@@ -2,7 +2,14 @@
 #
 # The Elephant Man already exists in lynch.yaml — tagged before he had an entity. Hannibal is a
 # direct narrative sequel to The Silence of the Lambs, not a self-contained return to the character —
-# the entity's prereqs reflect that.
+# the entity's prereqs reflect that. This pass adds further free wins Thor and Thor: Ragnarok
+# (Hemsworth, Blanchett), Amistad (Hounsou), Beowulf (Jolie), Howards End (Thompson), Bram Stoker's
+# Dracula (Coppola), Legends of the Fall (John Toll), The Mask of Zorro (Banderas), Noah (Russell
+# Crowe), Alexander (Jolie), and Armageddon Time (Hathaway), plus 73 new films below.
+#
+# All the King's Men and The Hunchback of Notre Dame both needed distinct ids — his 2006 remake
+# and 1982 TV movie respectively, unrelated to the 1949 original and 1939 classic already in the
+# corpus under other entities despite sharing the exact title.
 
 - id: the-silence-of-the-lambs
   tmdb_id: 274
@@ -101,3 +108,549 @@
   letterboxd_rating: 4.3
   genres:
     - Drama
+
+- id: thor-the-dark-world
+  tmdb_id: 76338
+  title: "Thor: The Dark World"
+  year: 2013
+  runtime: 112
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: transformers-the-last-knight
+  tmdb_id: 335988
+  title: "Transformers: The Last Knight"
+  year: 2017
+  runtime: 149
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.25 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: meet-joe-black
+  tmdb_id: 297
+  title: Meet Joe Black
+  year: 1998
+  runtime: 178
+  tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-two-popes
+  tmdb_id: 551332
+  title: The Two Popes
+  year: 2019
+  runtime: 125
+  tags: { opacity: 1, stillness: 3, bleakness: 2, humor: 2, acclaim: 0.70 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: red-dragon
+  tmdb_id: 9533
+  title: Red Dragon
+  year: 2002
+  runtime: 124
+  tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
+
+- id: mission-impossible-ii
+  tmdb_id: 955
+  title: Mission Impossible II
+  year: 2000
+  runtime: 123
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: bad-company
+  tmdb_id: 3132
+  title: Bad Company
+  year: 2002
+  runtime: 116
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: all-the-kings-men-2006
+  tmdb_id: 1717
+  title: "All the King's Men"
+  year: 2006
+  runtime: 128
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: bobby
+  tmdb_id: 10741
+  title: Bobby
+  year: 2006
+  runtime: 120
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-bounty
+  tmdb_id: 2669
+  title: The Bounty
+  year: 1984
+  runtime: 132
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: how-the-grinch-stole-christmas
+  tmdb_id: 8871
+  title: How the Grinch Stole Christmas
+  year: 2000
+  runtime: 104
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-hunchback-of-notre-dame-1982
+  tmdb_id: 80385
+  title: The Hunchback of Notre Dame
+  year: 1982
+  runtime: 105
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: instinct
+  tmdb_id: 12117
+  title: Instinct
+  year: 1999
+  runtime: 126
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: proof-2005
+  tmdb_id: 9777
+  title: Proof
+  year: 2005
+  runtime: 100
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-wolfman
+  tmdb_id: 7978
+  title: The Wolfman
+  year: 2010
+  runtime: 103
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: surviving-picasso
+  tmdb_id: 41843
+  title: Surviving Picasso
+  year: 1996
+  runtime: 123
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: titus
+  tmdb_id: 12524
+  title: Titus
+  year: 1999
+  runtime: 162
+  tags: { opacity: 2, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.65 }
+  content: { sexual_violence: true, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
+
+- id: king-lear-2018
+  tmdb_id: 513427
+  title: King Lear
+  year: 2018
+  runtime: 115
+  tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: 84-charing-cross-road
+  tmdb_id: 15677
+  title: 84 Charing Cross Road
+  year: 1987
+  runtime: 100
+  tags: { opacity: 1, stillness: 3, bleakness: 2, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: a-bridge-too-far
+  tmdb_id: 5902
+  title: A Bridge Too Far
+  year: 1977
+  runtime: 175
+  tags: { opacity: 1, stillness: 1, bleakness: 4, humor: 1, acclaim: 0.60 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: a-change-of-seasons
+  tmdb_id: 60816
+  title: A Change of Seasons
+  year: 1980
+  runtime: 102
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 2, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+
+- id: a-chorus-of-disapproval
+  tmdb_id: 114266
+  title: A Chorus of Disapproval
+  year: 1989
+  runtime: 100
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 3, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: a-dolls-house
+  tmdb_id: 42457
+  title: A Doll's House
+  year: 1973
+  runtime: 106
+  tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: all-creatures-great-and-small
+  tmdb_id: 53205
+  title: All Creatures Great and Small
+  year: 1975
+  runtime: 92
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 2, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: arch-of-triumph
+  tmdb_id: 125745
+  title: Arch of Triumph
+  year: 1984
+  runtime: 100
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: audrey-rose
+  tmdb_id: 49126
+  title: Audrey Rose
+  year: 1977
+  runtime: 113
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 0 }
+
+- id: august-1996
+  tmdb_id: 161070
+  title: August
+  year: 1996
+  runtime: 92
+  director: Anthony Hopkins
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: bare-knuckles
+  tmdb_id: 38746
+  title: Bare Knuckles
+  year: 2010
+  runtime: 90
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-bunker
+  tmdb_id: 41407
+  title: The Bunker
+  year: 1981
+  runtime: 150
+  tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 0 }
+
+- id: collide
+  tmdb_id: 195590
+  title: Collide
+  year: 2016
+  runtime: 99
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.25 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: dark-victory-1976
+  tmdb_id: 359356
+  title: Dark Victory
+  year: 1976
+  runtime: 100
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-dawning
+  tmdb_id: 200154
+  title: The Dawning
+  year: 1988
+  runtime: 97
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: desperate-hours
+  tmdb_id: 31676
+  title: Desperate Hours
+  year: 1990
+  runtime: 105
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-edge
+  tmdb_id: 9433
+  title: The Edge
+  year: 1997
+  runtime: 117
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.60 }
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: elyse
+  tmdb_id: 759688
+  title: Elyse
+  year: 2020
+  runtime: 82
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: fracture
+  tmdb_id: 6145
+  title: Fracture
+  year: 2007
+  runtime: 113
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.62 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: freejack
+  tmdb_id: 9278
+  title: Freejack
+  year: 1992
+  runtime: 110
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-girl-from-petrovka
+  tmdb_id: 62376
+  title: The Girl from Petrovka
+  year: 1974
+  runtime: 103
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-good-father
+  tmdb_id: 47158
+  title: The Good Father
+  year: 1985
+  runtime: 90
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: guilty-conscience
+  tmdb_id: 65169
+  title: Guilty Conscience
+  year: 1985
+  runtime: 100
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: hamlet-1969-hopkins
+  tmdb_id: 42605
+  title: Hamlet
+  year: 1969
+  runtime: 117
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 0 }
+
+- id: hearts-in-atlantis
+  tmdb_id: 11313
+  title: Hearts in Atlantis
+  year: 2001
+  runtime: 101
+  tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
+
+- id: the-human-stain
+  tmdb_id: 10922
+  title: The Human Stain
+  year: 2003
+  runtime: 106
+  tags: { opacity: 2, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: international-velvet
+  tmdb_id: 42207
+  title: International Velvet
+  year: 1978
+  runtime: 128
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-innocent-1993
+  tmdb_id: 91390
+  title: The Innocent
+  year: 1993
+  runtime: 128
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: juggernaut
+  tmdb_id: 29805
+  title: Juggernaut
+  year: 1974
+  runtime: 109
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: kidnapping-mr-heineken
+  tmdb_id: 228968
+  title: Kidnapping Mr. Heineken
+  year: 2015
+  runtime: 94
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-lindbergh-kidnapping-case
+  tmdb_id: 263782
+  title: The Lindbergh Kidnapping Case
+  year: 1976
+  runtime: 150
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+
+- id: the-looking-glass-war
+  tmdb_id: 46358
+  title: The Looking Glass War
+  year: 1970
+  runtime: 108
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: magic-1978
+  tmdb_id: 34193
+  title: Magic
+  year: 1978
+  runtime: 107
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: mary-2024
+  tmdb_id: 1243381
+  title: Mary
+  year: 2024
+  runtime: 112
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: mayflower-the-pilgrims-adventure
+  tmdb_id: 371820
+  title: "Mayflower: The Pilgrims' Adventure"
+  year: 1979
+  runtime: 100
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: one-mans-war
+  tmdb_id: 195759
+  title: "One Man's War"
+  year: 1991
+  runtime: 100
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: othello-1981
+  tmdb_id: 119928
+  title: Othello
+  year: 1981
+  runtime: 174
+  tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 0 }
+
+- id: the-rite
+  tmdb_id: 48171
+  title: The Rite
+  year: 2011
+  runtime: 114
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-road-to-wellville
+  tmdb_id: 10467
+  title: The Road to Wellville
+  year: 1994
+  runtime: 118
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: slipstream-2007
+  tmdb_id: 18633
+  title: Slipstream
+  year: 2007
+  runtime: 96
+  director: Anthony Hopkins
+  tags: { opacity: 5, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.25 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: solace
+  tmdb_id: 339527
+  title: Solace
+  year: 2015
+  runtime: 101
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: the-son-2022
+  tmdb_id: 806368
+  title: The Son
+  year: 2022
+  runtime: 123
+  tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
+
+- id: spotswood
+  tmdb_id: 16982
+  title: Spotswood
+  year: 1992
+  runtime: 96
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 3, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-tenth-man
+  tmdb_id: 109669
+  title: The Tenth Man
+  year: 1988
+  runtime: 96
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-trial-1993
+  tmdb_id: 69703
+  title: The Trial
+  year: 1993
+  runtime: 118
+  tags: { opacity: 4, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-virtuoso
+  tmdb_id: 808023
+  title: The Virtuoso
+  year: 2021
+  runtime: 105
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: where-are-you
+  tmdb_id: 691242
+  title: Where Are You
+  year: 2022
+  runtime: 92
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: when-eight-bells-toll
+  tmdb_id: 38654
+  title: When Eight Bells Toll
+  year: 1971
+  runtime: 94
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-worlds-fastest-indian
+  tmdb_id: 9912
+  title: The World's Fastest Indian
+  year: 2005
+  runtime: 127
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 3, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: you-will-meet-a-tall-dark-stranger
+  tmdb_id: 38031
+  title: You Will Meet a Tall Dark Stranger
+  year: 2010
+  runtime: 98
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: zero-contact
+  tmdb_id: 872170
+  title: Zero Contact
+  year: 2022
+  runtime: 82
+  tags: { opacity: 3, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.25 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

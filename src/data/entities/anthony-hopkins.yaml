@@ -54,6 +54,654 @@ films:
     gateway: 2
     note: A paranoid, self-destroying president played with more sympathy than the history books usually allow.
 
+  - film: thor
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: warm
+    gateway: 4
+    note: Odin, king of Asgard, exiling his reckless son to Earth to learn humility.
+
+  - film: thor-ragnarok
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: warm
+    gateway: 4
+    note: A brief return as Odin before the god of thunder's kingdom falls apart around him.
+
+  - film: thor-the-dark-world
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: restrained
+    gateway: 3
+    note: Odin again, presiding over Asgard as an ancient enemy resurfaces.
+
+  - film: amistad
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: restrained
+    gateway: 3
+    note: Former president John Quincy Adams, arguing before the Supreme Court for the freedom of kidnapped Africans.
+
+  - film: beowulf
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: menacing
+    gateway: 2
+    note: The aging Danish king whose kingdom is terrorized by Grendel, in the motion-capture epic.
+
+  - film: howards-end
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A wealthy businessman whose family's fate becomes entangled with two very different households.
+
+  - film: bram-stokers-dracula
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: menacing
+    gateway: 3
+    note: Vampire hunter Van Helsing, facing down Coppola's operatically romantic Count.
+
+  - film: legends-of-the-fall
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: warm
+    gateway: 3
+    note: A Montana rancher whose three sons are pulled apart by war, love, and each other.
+
+  - film: the-mask-of-zorro
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: warm
+    gateway: 3
+    note: The original, aging Zorro, training his successor before passing on the mask.
+
+  - film: noah
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: menacing
+    gateway: 2
+    note: Methuselah, Noah's ancient grandfather, in Aronofsky's biblical epic.
+
+  - film: alexander
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: restrained
+    gateway: 1
+    note: The narrator, an aging Ptolemy recounting Alexander's conquests decades after the fact.
+
+  - film: armageddon-time
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: warm
+    gateway: 2
+    note: A grandfather whose quiet decency is the one steady thing in a family coming apart.
+
+  - film: red-dragon
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: menacing
+    gateway: 3
+    note: A prequel visit to Lecter, consulted from behind glass by the FBI agent hunting a new killer.
+
+  - film: meet-joe-black
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: warm
+    gateway: 2
+    note: A media magnate confronting Death itself, arrived in human form to fall in love with his daughter.
+
+  - film: the-two-popes
+    signature: 2
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: Pope Benedict XVI, in a series of unlikely conversations with the man who will succeed him.
+
+  - film: mission-impossible-ii
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: restrained
+    gateway: 2
+    note: The IMF mission commander briefing Ethan Hunt on a stolen bioweapon.
+
+  - film: bad-company
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: warm
+    gateway: 1
+    note: A veteran CIA agent training a reluctant recruit for an undercover arms deal.
+
+  - film: all-the-kings-men-2006
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: restrained
+    gateway: 1
+    note: A judge whose principles are tested by a populist governor's rise, in the remake of the Depression-era classic.
+
+  - film: bobby
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: restrained
+    gateway: 1
+    note: A retired doorman observing the Ambassador Hotel on the night of Robert Kennedy's assassination.
+
+  - film: the-bounty
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: Captain Bligh, in a retelling of the Bounty mutiny more sympathetic to him than most.
+
+  - film: chaplin
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: restrained
+    gateway: 2
+    note: The publisher pressing an aging Chaplin for the truth behind his own legend.
+
+  - film: how-the-grinch-stole-christmas
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: warm
+    gateway: 3
+    note: The narrator, guiding viewers through Whoville with dry, knowing warmth.
+
+  - film: the-hunchback-of-notre-dame-1982
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: Quasimodo, in a TV movie adaptation distinct from the 1939 classic already in this corpus.
+
+  - film: instinct
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: unhinged
+    gateway: 1
+    note: A primatologist gone feral after years living among gorillas, sparring with the psychiatrist assigned to evaluate him.
+
+  - film: proof-2005
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: unhinged
+    gateway: 1
+    note: A brilliant, unraveling mathematician appearing in his daughter's memories after his death.
+
+  - film: the-wolfman
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: menacing
+    gateway: 1
+    note: A father with his own dark secret, in the gothic werewolf remake.
+
+  - film: surviving-picasso
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: menacing
+    gateway: 1
+    note: Picasso himself, seen through the eyes of one of the women who loved and was consumed by him.
+
+  - film: titus
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: unhinged
+    gateway: 1
+    note: A Roman general whose quest for vengeance spirals into one of Shakespeare's bloodiest tragedies.
+
+  - film: king-lear-2018
+    signature: 1
+    showcase: 3
+    role_size: lead
+    register: unhinged
+    gateway: 1
+    note: Lear himself, dividing his kingdom and losing his mind in a modern-dress television adaptation.
+
+  - film: 84-charing-cross-road
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: warm
+    gateway: 1
+    note: A reserved London bookseller carrying on a decades-long correspondence with a New York writer.
+
+  - film: a-bridge-too-far
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: restrained
+    gateway: 2
+    note: One officer among the ensemble cast caught in the disastrous Operation Market Garden.
+
+  - film: a-change-of-seasons
+    signature: 1
+    showcase: 1
+    role_size: lead
+    register: comic
+    gateway: 1
+    note: A professor whose affair with a student unravels his marriage, in this late-70s comedy-drama.
+
+  - film: a-chorus-of-disapproval
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 1
+    note: The exasperated director of an amateur theater troupe descending into farce.
+
+  - film: a-dolls-house
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: restrained
+    gateway: 1
+    note: Torvald Helmer, opposite a wife whose quiet unraveling he never sees coming, in the Ibsen adaptation.
+
+  - film: all-creatures-great-and-small
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: warm
+    gateway: 1
+    note: A country veterinarian's world, in the adaptation of James Herriot's memoirs.
+
+  - film: arch-of-triumph
+    signature: 1
+    showcase: 1
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A refugee surgeon adrift in prewar Paris, in this TV adaptation of Remarque's novel.
+
+  - film: audrey-rose
+    signature: 1
+    showcase: 1
+    role_size: lead
+    register: unhinged
+    gateway: 1
+    note: A man convinced a stranger's daughter is his own child, reincarnated.
+
+  - film: august-1996
+    signature: 1
+    showcase: 1
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A Welsh doctor confronting old family wounds, in the film Hopkins also directed.
+
+  - film: bare-knuckles
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: restrained
+    gateway: 1
+    note: A minor supporting role in a low-budget bare-knuckle boxing drama.
+
+  - film: the-bunker
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: unhinged
+    gateway: 1
+    note: Adolf Hitler, in his final days underground, in the TV movie made before Downfall existed.
+
+  - film: collide
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: menacing
+    gateway: 1
+    note: A criminal kingpin pursuing a young courier through the German underworld.
+
+  - film: dark-victory-1976
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: warm
+    gateway: 1
+    note: A minor role in this TV remake of the classic melodrama about a woman facing terminal illness.
+
+  - film: the-dawning
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: restrained
+    gateway: 1
+    note: A minor supporting role in this drama set during the Irish War of Independence.
+
+  - film: desperate-hours
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A family man whose home is invaded by escaped convicts, in Cimino's remake.
+
+  - film: the-edge
+    signature: 1
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A billionaire and his rival for his wife's affection, stranded together in the Alaskan wilderness with a man-eating bear.
+
+  - film: elyse
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: restrained
+    gateway: 1
+    note: A minor supporting role in this low-budget drama.
+
+  - film: fracture
+    signature: 1
+    showcase: 3
+    role_size: lead
+    register: menacing
+    gateway: 2
+    note: A man who shoots his wife and then dares the prosecutor to prove it, having engineered the perfect confession.
+
+  - film: freejack
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: menacing
+    gateway: 1
+    note: A shadowy figure running a black-market operation harvesting bodies from the future.
+
+  - film: the-girl-from-petrovka
+    signature: 1
+    showcase: 1
+    role_size: lead
+    register: warm
+    gateway: 1
+    note: An American journalist falling for a Russian dancer in Cold War Moscow.
+
+  - film: the-good-father
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: unhinged
+    gateway: 1
+    note: A divorced father whose bitterness curdles into a campaign against his ex-wife.
+
+  - film: guilty-conscience
+    signature: 1
+    showcase: 1
+    role_size: lead
+    register: comic
+    gateway: 1
+    note: A lawyer plotting his wife's murder, only to be talked through the scheme by an imagined version of himself.
+
+  - film: hamlet-1969-hopkins
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: menacing
+    gateway: 1
+    note: Claudius, in this early television production of the play.
+
+  - film: hearts-in-atlantis
+    signature: 1
+    showcase: 3
+    role_size: lead
+    register: warm
+    gateway: 2
+    note: A mysterious boarder with psychic gifts who becomes a boy's unlikely mentor, in the Stephen King adaptation.
+
+  - film: the-human-stain
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A classics professor whose life is destroyed by a single misunderstood remark, hiding a much older secret.
+
+  - film: international-velvet
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: warm
+    gateway: 1
+    note: A minor supporting role in this sequel to National Velvet.
+
+  - film: the-innocent-1993
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: menacing
+    gateway: 1
+    note: A British intelligence officer overseeing a Cold War tunneling operation in Berlin.
+
+  - film: juggernaut
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: restrained
+    gateway: 1
+    note: A ship's captain racing against a bomb-disposal team to save his ocean liner.
+
+  - film: kidnapping-mr-heineken
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: restrained
+    gateway: 1
+    note: The beer magnate at the center of a real-life 1983 ransom kidnapping.
+
+  - film: the-lindbergh-kidnapping-case
+    signature: 1
+    showcase: 1
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: Bruno Hauptmann, convicted in the kidnapping of the Lindbergh baby, in this TV dramatization.
+
+  - film: the-looking-glass-war
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: restrained
+    gateway: 1
+    note: A minor supporting role in this early le Carré adaptation.
+
+  - film: magic-1978
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: unhinged
+    gateway: 2
+    note: A ventriloquist whose dummy starts making its own demands, in one of the creepier ventriloquism horror films.
+
+  - film: mary-2024
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: menacing
+    gateway: 1
+    note: King Herod, in this biblical drama about the mother of Jesus.
+
+  - film: mayflower-the-pilgrims-adventure
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: warm
+    gateway: 1
+    note: A minor role in this TV dramatization of the Mayflower voyage.
+
+  - film: misconduct
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: menacing
+    gateway: 1
+    note: A pharmaceutical executive entangled in a young lawyer's corporate conspiracy.
+
+  - film: one-mans-war
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A doctor drawn into complicity with a Latin American dictatorship's atrocities, based on a true story.
+
+  - film: othello-1981
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: unhinged
+    gateway: 1
+    note: The title role in this BBC television Shakespeare adaptation.
+
+  - film: the-rite
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: menacing
+    gateway: 2
+    note: A worldly, unconventional exorcist mentoring a skeptical young priest.
+
+  - film: the-road-to-wellville
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: comic
+    gateway: 1
+    note: Dr. Kellogg, running an eccentric health resort with manic conviction, in this cereal-fortune satire.
+
+  - film: shortcut-to-happiness
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 1
+    note: The devil himself, in this modern take on The Devil and Daniel Webster.
+
+  - film: slipstream-2007
+    signature: 1
+    showcase: 1
+    role_size: lead
+    register: unhinged
+    gateway: 1
+    note: A screenwriter whose reality and fiction collapse into each other, in the experimental film Hopkins wrote and directed.
+
+  - film: solace
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A psychic doctor helping the FBI track a killer who can see death coming too.
+
+  - film: the-son-2022
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: menacing
+    gateway: 1
+    note: A grandfather whose own failures as a father echo through a single devastating scene.
+
+  - film: spotswood
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: comic
+    gateway: 1
+    note: An efficiency expert sent to modernize a struggling Australian shoe factory.
+
+  - film: the-tenth-man
+    signature: 1
+    showcase: 1
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A wealthy man who trades his fortune for his life during the French Revolution's Terror.
+
+  - film: the-trial-1993
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: menacing
+    gateway: 1
+    note: The priest delivering the parable at the heart of Kafka's nightmare bureaucracy.
+
+  - film: the-virtuoso
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: menacing
+    gateway: 1
+    note: A retired police captain sending a hitman on one final job.
+
+  - film: where-are-you
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: restrained
+    gateway: 1
+    note: A minor supporting role in this low-budget drama.
+
+  - film: when-eight-bells-toll
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A naval intelligence officer investigating gold shipment hijackings off the Scottish coast, in this Alistair MacLean adaptation.
+
+  - film: the-worlds-fastest-indian
+    signature: 1
+    showcase: 3
+    role_size: lead
+    register: warm
+    gateway: 3
+    note: An elderly New Zealander chasing a land-speed record on a decades-old motorcycle, playing pure stubborn joy.
+
+  - film: you-will-meet-a-tall-dark-stranger
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 2
+    note: An aging man leaving his wife for a much younger woman, in Woody Allen's ensemble comedy.
+
+  - film: zero-contact
+    signature: 1
+    showcase: 1
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A reclusive tech billionaire, in this pandemic-era film shot entirely over video calls.
+
 prereqs:
   - film: hannibal
     requires: the-silence-of-the-lambs
