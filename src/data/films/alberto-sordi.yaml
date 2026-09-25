@@ -1,7 +1,15 @@
 # New films for Alberto Sordi. Scales and anchors are in README.md ("The anchor rubric").
 #
 # I Vitelloni already exists in fellini.yaml. La Grande Guerra already exists
-# in vittorio-gassman.yaml.
+# in vittorio-gassman.yaml. A Farewell to Arms already exists in charles-lang.yaml.
+#
+# Sordi's real filmography runs to roughly 170 acting credits, most of them 1950s-60s Italian
+# comedies with almost no English-language footprint or accessible synopsis information — tagging
+# them all with real confidence (especially the content-safety flags, which this corpus treats as
+# trustworthy) isn't something to do from a title and a TMDB id alone. This pass adds the handful
+# that are genuinely well-documented and significant: his Fellini-adjacent work, his two Golden
+# Globe/Golden Bear titles, and a couple of the most-written-about entries from his prime. The
+# other ~150 are deliberately left for a dedicated pass rather than guessed into the corpus.
 
 - id: an-american-in-rome
   tmdb_id: 43294
@@ -18,7 +26,7 @@
     - Comedy
 
 - id: un-borghese-piccolo-piccolo
-  tmdb_id: null
+  tmdb_id: 54561
   title: Un Borghese Piccolo Piccolo
   year: 1977
   runtime: 108
@@ -31,3 +39,80 @@
     - Drama
   letterboxd_rating: 4.04
   letterboxd_title: An Average Little Man
+
+- id: everybody-go-home
+  tmdb_id: 48955
+  title: Everybody Go Home!
+  year: 1960
+  runtime: 120
+  director: Luigi Comencini
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 3, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-best-of-enemies
+  tmdb_id: 67377
+  title: The Best of Enemies
+  year: 1961
+  runtime: 104
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.60 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: a-difficult-life
+  tmdb_id: 56343
+  title: A Difficult Life
+  year: 1961
+  runtime: 118
+  director: Dino Risi
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 2, acclaim: 0.70 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: mafioso
+  tmdb_id: 34866
+  title: Mafioso
+  year: 1962
+  runtime: 105
+  director: Alberto Lattuada
+  tags: { opacity: 2, stillness: 2, bleakness: 5, humor: 3, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: to-bed-or-not-to-bed
+  tmdb_id: 162382
+  title: To Bed or Not to Bed
+  year: 1963
+  runtime: 104
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.60 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: the-teacher-from-vigevano
+  tmdb_id: 62397
+  title: The Teacher from Vigevano
+  year: 1963
+  runtime: 108
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.60 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: those-magnificent-men-in-their-flying-machines
+  tmdb_id: 10338
+  title: Those Magnificent Men in Their Flying Machines
+  year: 1965
+  runtime: 138
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.60 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: smoke-over-london
+  tmdb_id: 61214
+  title: Smoke Over London
+  year: 1966
+  runtime: 100
+  director: Alberto Sordi
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-traffic-policeman
+  tmdb_id: 60046
+  title: The Traffic Policeman
+  year: 1960
+  runtime: 106
+  director: Luigi Zampa
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.60 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

@@ -37,6 +37,86 @@ films:
     gateway: 2
     note: A mild, unremarkable bureaucrat whose grief over his son's murder curdles into methodical revenge, playing controlled fury breaking down into something darker.
 
+  - film: a-farewell-to-arms
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: warm
+    gateway: 2
+    note: Major Rinaldi, opposite Rock Hudson, in the WWI romantic melodrama.
+
+  - film: everybody-go-home
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: warm
+    gateway: 2
+    note: A soldier's slow, reluctant awakening to what the Armistice actually means for ordinary Italians.
+
+  - film: the-best-of-enemies
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 3
+    note: An Italian commander and a British officer forced into wary, absurd cooperation in East Africa, opposite David Niven.
+
+  - film: a-difficult-life
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: warm
+    gateway: 2
+    note: A partisan-turned-journalist's compromises across two decades of Italian postwar life.
+
+  - film: mafioso
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: unhinged
+    gateway: 2
+    note: A cheerful Fiat foreman's holiday home to Sicily curdles into something he can't walk back from.
+
+  - film: to-bed-or-not-to-bed
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: comic
+    gateway: 3
+    note: A Golden Bear-winning comedy about a man convinced he's lost his virility.
+
+  - film: the-teacher-from-vigevano
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: warm
+    gateway: 1
+    note: A schoolteacher pressured by his wife into abandoning teaching for the shoe trade.
+
+  - film: those-magnificent-men-in-their-flying-machines
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 4
+    note: The blustery Italian entrant in the ensemble air-race comedy.
+
+  - film: smoke-over-london
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: comic
+    gateway: 2
+    note: His directorial debut, an Italian abroad comedy set in London.
+
+  - film: the-traffic-policeman
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: warm
+    gateway: 2
+    note: A scrupulously honest traffic cop whose integrity keeps costing him.
+
 curated:
   curator: house
   rationale: The signature role first, then the range either side of it.
@@ -45,3 +125,5 @@ curated:
     - an-american-in-rome
     - la-grande-guerra
     - un-borghese-piccolo-piccolo
+    - mafioso
+    - the-best-of-enemies
