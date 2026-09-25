@@ -7,6 +7,13 @@
 # Star Wars is deliberately absent. He gave one of the most consequential supporting performances
 # in film history in it and resented the association for the rest of his career; the roster
 # includes it for exactly that tension rather than leaving it out to make a cleaner arthouse case.
+#
+# This pass completes the trilogy (free wins Empire Strikes Back, Return of the Jedi, both under
+# Carrie Fisher) plus his other real film work, adding free wins Scrooge (Albert Finney), Doctor
+# Zhivago (Kinski) and Lawrence of Arabia (O'Toole). Excludes his large tail of documentaries,
+# tributes and making-of featurettes about Star Wars and his career generally. His archival/CGI
+# "appearances" in the 2015 and 2019 sequel trilogy entries are excluded too — he died in 2000 and
+# those are unused-footage or photo cameos, not performances.
 
 - id: great-expectations-1946
   tmdb_id: 14320
@@ -191,3 +198,268 @@
   genres:
     - Drama
     - Mystery
+
+- id: kafka
+  tmdb_id: 2297
+  title: Kafka
+  year: 1991
+  runtime: 98
+  tags: { opacity: 4, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: a-handful-of-dust
+  tmdb_id: 46021
+  title: A Handful of Dust
+  year: 1988
+  runtime: 118
+  tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 2, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: little-dorrit
+  tmdb_id: 47282
+  title: Little Dorrit
+  year: 1987
+  runtime: 354
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: monsignor-quixote
+  tmdb_id: 182781
+  title: Monsignor Quixote
+  year: 1985
+  runtime: 116
+  tags: { opacity: 1, stillness: 3, bleakness: 2, humor: 3, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: lovesick
+  tmdb_id: 71357
+  title: Lovesick
+  year: 1983
+  runtime: 95
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 3, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: little-lord-fauntleroy
+  tmdb_id: 38602
+  title: Little Lord Fauntleroy
+  year: 1980
+  runtime: 100
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 2, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: raise-the-titanic
+  tmdb_id: 24575
+  title: Raise the Titanic
+  year: 1980
+  runtime: 115
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.25 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: murder-by-death
+  tmdb_id: 6037
+  title: Murder by Death
+  year: 1976
+  runtime: 94
+  tags: { opacity: 2, stillness: 2, bleakness: 1, humor: 4, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: caesar-and-cleopatra-1976
+  tmdb_id: 241530
+  title: Caesar and Cleopatra
+  year: 1976
+  runtime: 90
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: brother-sun-sister-moon
+  tmdb_id: 2587
+  title: Brother Sun, Sister Moon
+  year: 1972
+  runtime: 121
+  tags: { opacity: 1, stillness: 3, bleakness: 1, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: cromwell
+  tmdb_id: 31675
+  title: Cromwell
+  year: 1970
+  runtime: 139
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: twelfth-night-1970
+  tmdb_id: 261585
+  title: Twelfth Night
+  year: 1970
+  runtime: 130
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 3, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-comedians
+  tmdb_id: 86059
+  title: The Comedians
+  year: 1967
+  runtime: 160
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-quiller-memorandum
+  tmdb_id: 46041
+  title: The Quiller Memorandum
+  year: 1966
+  runtime: 105
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: hotel-paradiso
+  tmdb_id: 117360
+  title: Hotel Paradiso
+  year: 1966
+  runtime: 98
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: situation-hopeless-but-not-serious
+  tmdb_id: 149443
+  title: Situation Hopeless... But Not Serious
+  year: 1965
+  runtime: 97
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-fall-of-the-roman-empire
+  tmdb_id: 17277
+  title: The Fall of the Roman Empire
+  year: 1964
+  runtime: 188
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.60 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: h-m-s-defiant
+  tmdb_id: 42997
+  title: H.M.S. Defiant
+  year: 1962
+  runtime: 101
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: a-majority-of-one
+  tmdb_id: 158800
+  title: A Majority of One
+  year: 1961
+  runtime: 156
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 3, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: our-man-in-havana
+  tmdb_id: 25495
+  title: Our Man in Havana
+  year: 1960
+  runtime: 111
+  director: Carol Reed
+  tags: { opacity: 2, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-scapegoat
+  tmdb_id: 126919
+  title: The Scapegoat
+  year: 1959
+  runtime: 92
+  tags: { opacity: 3, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-horses-mouth
+  tmdb_id: 43139
+  title: The Horse's Mouth
+  year: 1958
+  runtime: 94
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: barnacle-bill
+  tmdb_id: 44134
+  title: Barnacle Bill
+  year: 1957
+  runtime: 87
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 4, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-swan
+  tmdb_id: 61048
+  title: The Swan
+  year: 1956
+  runtime: 112
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 2, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-prisoner-1955
+  tmdb_id: 52857
+  title: The Prisoner
+  year: 1955
+  runtime: 91
+  tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: to-paris-with-love
+  tmdb_id: 59141
+  title: To Paris with Love
+  year: 1955
+  runtime: 79
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 3, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: father-brown
+  tmdb_id: 89160
+  title: Father Brown
+  year: 1954
+  runtime: 91
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 3, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-captains-paradise
+  tmdb_id: 43354
+  title: The Captain's Paradise
+  year: 1953
+  runtime: 94
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 4, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: malta-story
+  tmdb_id: 65489
+  title: Malta Story
+  year: 1953
+  runtime: 103
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-card
+  tmdb_id: 43369
+  title: The Card
+  year: 1952
+  runtime: 90
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 3, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-mudlark
+  tmdb_id: 126596
+  title: The Mudlark
+  year: 1950
+  runtime: 99
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: last-holiday-1950
+  tmdb_id: 16939
+  title: Last Holiday
+  year: 1950
+  runtime: 88
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: a-run-for-your-money
+  tmdb_id: 63395
+  title: A Run for Your Money
+  year: 1949
+  runtime: 82
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 3, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

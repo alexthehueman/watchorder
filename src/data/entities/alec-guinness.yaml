@@ -86,6 +86,318 @@ films:
     gateway: 5
     note: Obi-Wan Kenobi. The role that made him famous to a wider audience than anything else, and that he came to resent.
 
+  - film: the-empire-strikes-back
+    signature: 2
+    showcase: 2
+    role_size: cameo
+    register: warm
+    gateway: 5
+    note: A brief appearance as Obi-Wan's spirit, guiding Luke onward.
+
+  - film: return-of-the-jedi
+    signature: 2
+    showcase: 2
+    role_size: cameo
+    register: warm
+    gateway: 5
+    note: The trilogy's close, still as Obi-Wan's spirit.
+
+  - film: scrooge
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: menacing
+    gateway: 3
+    note: The ghost of Jacob Marley, opposite Albert Finney's title role.
+
+  - film: doctor-zhivago
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: restrained
+    gateway: 3
+    note: The half-brother framing the entire story in flashback, playing quiet, watchful reserve.
+
+  - film: lawrence-of-arabia
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: restrained
+    gateway: 3
+    note: Prince Faisal, playing shrewd political calculation opposite Lawrence's idealism.
+
+  - film: kafka
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: restrained
+    gateway: 1
+    note: A minor supporting role in a fictionalized, noir-inflected take on Kafka's own life.
+
+  - film: a-handful-of-dust
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: unhinged
+    gateway: 1
+    note: A reclusive, isolated eccentric in the Evelyn Waugh adaptation's unsettling final act.
+
+  - film: little-dorrit
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A debtors'-prison patriarch too proud to admit his fortunes have changed, across a two-part adaptation.
+
+  - film: monsignor-quixote
+    signature: 1
+    showcase: 3
+    role_size: lead
+    register: warm
+    gateway: 2
+    note: A quixotic country priest wandering Spain with a communist mayor, a Graham Greene TV adaptation.
+
+  - film: a-passage-to-india
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: warm
+    gateway: 2
+    note: A minor supporting role in Lean's final film, an adaptation of E.M. Forster.
+
+  - film: lovesick
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: warm
+    gateway: 2
+    note: The ghost of Sigmund Freud, dispensing advice to a lovestruck psychoanalyst.
+
+  - film: little-lord-fauntleroy
+    signature: 1
+    showcase: 1
+    role_size: lead
+    register: warm
+    gateway: 2
+    note: A TV movie adaptation of the Frances Hodgson Burnett novel.
+
+  - film: raise-the-titanic
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: restrained
+    gateway: 1
+    note: A notorious box-office flop, minor in his filmography.
+
+  - film: murder-by-death
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 3
+    note: A blind butler in a spoof gathering of famous fictional detectives.
+
+  - film: caesar-and-cleopatra-1976
+    signature: 1
+    showcase: 1
+    role_size: lead
+    register: comic
+    gateway: 1
+    note: A TV adaptation of the Shaw play.
+
+  - film: brother-sun-sister-moon
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: warm
+    gateway: 1
+    note: Pope Innocent III, in Zeffirelli's Francis of Assisi biopic.
+
+  - film: cromwell
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: restrained
+    gateway: 1
+    note: King Charles I, opposite Richard Harris's Cromwell.
+
+  - film: twelfth-night-1970
+    signature: 1
+    showcase: 1
+    role_size: lead
+    register: comic
+    gateway: 1
+    note: A TV adaptation of the Shakespeare comedy.
+
+  - film: the-comedians
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: restrained
+    gateway: 1
+    note: A Graham Greene adaptation set under Papa Doc Duvalier's Haiti.
+
+  - film: the-quiller-memorandum
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: restrained
+    gateway: 2
+    note: A minor supporting role in a Cold War spy thriller.
+
+  - film: hotel-paradiso
+    signature: 1
+    showcase: 1
+    role_size: lead
+    register: comic
+    gateway: 1
+    note: A French farce, minor and little-remembered.
+
+  - film: situation-hopeless-but-not-serious
+    signature: 1
+    showcase: 1
+    role_size: lead
+    register: comic
+    gateway: 1
+    note: A minor WWII comedy.
+
+  - film: the-fall-of-the-roman-empire
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: restrained
+    gateway: 1
+    note: Marcus Aurelius, in the sprawling historical epic.
+
+  - film: h-m-s-defiant
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A naval captain confronting mutiny and brutality aboard his own ship.
+
+  - film: a-majority-of-one
+    signature: 1
+    showcase: 1
+    role_size: lead
+    register: warm
+    gateway: 1
+    note: A Japanese businessman's unlikely romance with a Jewish widow, played under heavy makeup that has aged poorly.
+
+  - film: our-man-in-havana
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 3
+    note: A vacuum-cleaner salesman turned accidental spy, fabricating intelligence reports that start coming true.
+
+  - film: the-scapegoat
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: menacing
+    gateway: 1
+    note: A dual role — an Englishman swapped with his French doppelgänger into a life not his own.
+
+  - film: the-horses-mouth
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 2
+    note: A scheming, penniless painter, in a script he also wrote himself.
+
+  - film: barnacle-bill
+    signature: 1
+    showcase: 1
+    role_size: lead
+    register: comic
+    gateway: 2
+    note: A seasick sea captain running a static pier as if it were a ship.
+
+  - film: the-swan
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: warm
+    gateway: 1
+    note: A minor supporting role opposite Grace Kelly's final film before her marriage.
+
+  - film: the-prisoner-1955
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A cardinal interrogated and broken down by the state, in a Cold War-era political drama.
+
+  - film: to-paris-with-love
+    signature: 1
+    showcase: 1
+    role_size: lead
+    register: comic
+    gateway: 1
+    note: A minor romantic comedy.
+
+  - film: father-brown
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: comic
+    gateway: 2
+    note: G.K. Chesterton's mild-mannered priest-detective.
+
+  - film: the-captains-paradise
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: comic
+    gateway: 2
+    note: A ferry captain secretly keeping a wife in each of two ports.
+
+  - film: malta-story
+    signature: 1
+    showcase: 1
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A WWII drama set during the siege of Malta.
+
+  - film: the-card
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: comic
+    gateway: 2
+    note: A working-class social climber scheming his way up through Edwardian England.
+
+  - film: the-mudlark
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: restrained
+    gateway: 1
+    note: Benjamin Disraeli, in a minor Victorian drama.
+
+  - film: last-holiday-1950
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: warm
+    gateway: 2
+    note: A man given a false terminal diagnosis decides to finally live extravagantly.
+
+  - film: a-run-for-your-money
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 1
+    note: A minor Ealing comedy.
+
 curated:
   curator: house
   rationale: The two performances that made his reputation, then the range that explains why one role frustrated him so much.
