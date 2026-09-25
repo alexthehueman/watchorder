@@ -4,10 +4,12 @@
 # Viva Zapata! already exists in brando.yaml.
 
 - id: zorba-the-greek
-  tmdb_id: null
+  tmdb_id: 10604
   title: Zorba the Greek
   year: 1964
   runtime: 142
   director: Michael Cacoyannis
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 4, acclaim: 0.82 }
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  letterboxd_slug: zorba-the-greek
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ir/gz/3j/xh/zorbathegreek-1200-1200-675-675-crop-000000.jpg?v=1689484646

@@ -10,6 +10,8 @@
   director: Robert Florey
   tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 4, acclaim: 0.62 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: the-cocoanuts
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/2r/j8/a1/j3/xsiwj3TtitAz5ApYaoLhvjShnUm-1200-1200-675-675-crop-000000.jpg?v=a7d42ee44a
 
 - id: animal-crackers
   tmdb_id: 13913
@@ -19,6 +21,8 @@
   director: Victor Heerman
   tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 5, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: animal-crackers
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ty/jb/wk/ym/animal%20crackers-1200-1200-675-675-crop-000000.jpg?v=1b0b69dd22
 
 - id: applause
   tmdb_id: 120833
@@ -33,3 +37,5 @@
     humor: 1
     acclaim: 0.72
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: applause
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/tt/24/uj/0c/oUiWdJXwRPuCA2tKQXkKGeZZ3St-1200-1200-675-675-crop-000000.jpg?v=f3e427fc66

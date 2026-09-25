@@ -3,16 +3,18 @@
 # Dinner at Eight already exists in mgm.yaml.
 
 - id: platinum-blonde
-  tmdb_id: null
+  tmdb_id: 26884
   title: Platinum Blonde
   year: 1931
   runtime: 90
   director: Frank Capra
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: platinum-blonde
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/rm/7x/fz/w7/p7PZGTY6i8JDlstmIajzroh5pih-1200-1200-675-675-crop-000000.jpg?v=3edce36c86
 
 - id: red-dust
-  tmdb_id: null
+  tmdb_id: 38077
   title: Red Dust
   year: 1932
   runtime: 83
@@ -24,12 +26,16 @@
     humor: 3
     acclaim: 0.72
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  letterboxd_slug: red-dust
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/9y/06/i6/qa/bAXToJkAahJfR8isDSL04jfz5sW-1200-1200-675-675-crop-000000.jpg?v=68eed7632e
 
 - id: china-seas
-  tmdb_id: null
+  tmdb_id: 71282
   title: China Seas
   year: 1935
   runtime: 89
   director: Tay Garnett
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 2, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: china-seas
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/8h/8y/4g/js/5Dt59bozPx5H5afRUmkkPiCcdUD-1200-1200-675-675-crop-000000.jpg?v=827fa2ff73

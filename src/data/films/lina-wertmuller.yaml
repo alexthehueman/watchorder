@@ -1,34 +1,40 @@
 # New films for Lina Wertmüller. Scales and anchors are in README.md ("The anchor rubric").
 
 - id: the-seduction-of-mimi
-  tmdb_id: null
+  tmdb_id: 56153
   title: The Seduction of Mimi
   year: 1972
   runtime: 108
   director: Lina Wertmüller
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 2 }
+  letterboxd_slug: the-seduction-of-mimi
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/h3/a3/06/yr/seduction%20of%20mimi-1200-1200-675-675-crop-000000.jpg?v=0e297a86cc
 
 - id: love-and-anarchy
-  tmdb_id: null
+  tmdb_id: 65332
   title: Love and Anarchy
   year: 1973
   runtime: 108
   director: Lina Wertmüller
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 3, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  letterboxd_slug: love-and-anarchy
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/us/ha/g6/iw/love-anarchy-1200-1200-675-675-crop-000000.jpg?v=00e4f1e142
 
 - id: swept-away
-  tmdb_id: null
+  tmdb_id: 37916
   title: Swept Away
   year: 1974
   runtime: 116
   director: Lina Wertmüller
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.75 }
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 2 }
+  letterboxd_slug: swept-away
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/3x/8b/l2/zs/swept%20away-1200-1200-675-675-crop-000000.jpg?v=51cc04fbbe
 
 - id: seven-beauties
-  tmdb_id: null
+  tmdb_id: 37550
   title: Seven Beauties
   year: 1975
   runtime: 115
@@ -40,3 +46,5 @@
     humor: 2
     acclaim: 0.80
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+  letterboxd_slug: seven-beauties
+  poster_url: https://a.ltrbxd.com/resized/alternative-backdrop/2/6/9/4/0/tmdb/7IgqLub2b1ZpdIYThZRfz3MZw3c-1200-1200-675-675-crop-000000.jpg?v=aa14cf80e4

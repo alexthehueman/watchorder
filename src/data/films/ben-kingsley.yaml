@@ -5,10 +5,12 @@
 # von-sydow.yaml. Hugo already exists in moretz.yaml.
 
 - id: gandhi
-  tmdb_id: null
+  tmdb_id: 783
   title: Gandhi
   year: 1982
   runtime: 191
   director: Richard Attenborough
   tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: gandhi
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/rb/ax/ee/c1/gandhi-1200-1200-675-675-crop-000000.jpg?v=57eb60d5d3

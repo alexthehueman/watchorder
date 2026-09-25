@@ -16,6 +16,8 @@
     humor: 2
     acclaim: 0.92
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 1 }
+  letterboxd_slug: city-of-god
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/pn/lo/pe/jr/city-of-god-1200-1200-675-675-crop-000000.jpg?v=b03d621f8a
 
 - id: blindness
   tmdb_id: 8338
@@ -25,3 +27,5 @@
   director: Fernando Meirelles
   tags: { opacity: 2, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.62 }
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+  letterboxd_slug: blindness
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/tx/6h/sb/ie/blindness-1200-1200-675-675-crop-000000.jpg?v=934e560b1b

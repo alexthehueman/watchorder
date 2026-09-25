@@ -16,6 +16,8 @@
     humor: 1
     acclaim: 0.9
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: all-quiet-on-the-western-front
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/uj/d8/w1/75/all-quiet-on-the-western-front-1200-1200-675-675-crop-000000.jpg?v=c41500afc9
 
 - id: the-front-page-1931
   tmdb_id: 34059
@@ -25,3 +27,5 @@
   director: Lewis Milestone
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: the-front-page
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/2j/2b/j3/gb/front%20page-1200-1200-675-675-crop-000000.jpg?v=32a281bf12

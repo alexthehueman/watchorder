@@ -15,6 +15,8 @@
     humor: 1
     acclaim: 0.55
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: youth-without-youth
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/xl/x5/3d/rr/youth%20without%20youth-1200-1200-675-675-crop-000000.jpg?v=66a797e1b9
 
 - id: tetro
   tmdb_id: 11928
@@ -29,6 +31,8 @@
     humor: 1
     acclaim: 0.65
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 0 }
+  letterboxd_slug: tetro
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/j9/rg/1y/qq/tetro-1200-1200-675-675-crop-000000.jpg?v=925d84d33b
 
 - id: twixt
   tmdb_id: 78381
@@ -38,3 +42,5 @@
   director: Francis Ford Coppola
   tags: { opacity: 3, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.4 }
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: twixt
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/su/i5/rp/5g/twixt-1200-1200-675-675-crop-000000.jpg?v=23d1fda280

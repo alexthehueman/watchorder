@@ -15,6 +15,8 @@
     humor: 1
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: nobody-knows
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/sd/01/pf/jc/nobody-knows-1200-1200-675-675-crop-000000.jpg?v=5b3f56d115
 
 - id: still-walking
   tmdb_id: 14828
@@ -24,6 +26,8 @@
   director: Hirokazu Kore-eda
   tags: { opacity: 1, stillness: 4, bleakness: 3, humor: 2, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: still-walking
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/hx/lq/x1/xs/still-walking-1200-1200-675-675-crop-000000.jpg?v=adb62eec05
 
 - id: shoplifters
   tmdb_id: 505192
@@ -33,3 +37,5 @@
   director: Hirokazu Kore-eda
   tags: { opacity: 2, stillness: 3, bleakness: 4, humor: 2, acclaim: 0.9 }
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: shoplifters
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/vw/0l/yj/vn/2EF933A3-8FFD-4A14-9DD2-DF064AE7F026-1200-1200-675-675-crop-000000.jpg?v=6ebf58bcde

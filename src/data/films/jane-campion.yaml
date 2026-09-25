@@ -13,6 +13,8 @@
   episodes: 3
   tags: { opacity: 1, stillness: 4, bleakness: 4, humor: 1, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: an-angel-at-my-table
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/3c/ok/zh/yb/an-angel-at-my-table-1200-1200-675-675-crop-000000.jpg?v=eada0bc2a8
 
 - id: in-the-cut
   tmdb_id: 10944
@@ -27,6 +29,8 @@
     humor: 1
     acclaim: 0.62
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 3 }
+  letterboxd_slug: in-the-cut
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/0h/q4/cy/2e/in-the-cut-1200-1200-675-675-crop-000000.jpg?v=b9b9370810
 
 - id: bright-star
   tmdb_id: 29963
@@ -36,3 +40,5 @@
   director: Jane Campion
   tags: { opacity: 1, stillness: 4, bleakness: 4, humor: 2, acclaim: 0.82 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: bright-star
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/mg/r2/h5/gi/bright-star-1200-1200-675-675-crop-000000.jpg?v=2d848322dd

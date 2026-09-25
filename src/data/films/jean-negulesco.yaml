@@ -15,6 +15,8 @@
     humor: 1
     acclaim: 0.78
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  letterboxd_slug: johnny-belinda
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/5v/ha/tu/ot/johnny%20belinda-1200-1200-675-675-crop-000000.jpg?v=3a3285f11f
 
 - id: three-coins-in-the-fountain
   tmdb_id: 47580
@@ -24,6 +26,8 @@
   director: Jean Negulesco
   tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 2, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: three-coins-in-the-fountain
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/zg/lc/41/mf/threecoinsinthefountain-1200-1200-675-675-crop-000000.jpg?v=258a7f6c92
 
 - id: road-house-1948
   tmdb_id: 40740
@@ -38,3 +42,5 @@
     humor: 1
     acclaim: 0.72
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  letterboxd_slug: road-house-1948
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ls/yl/vh/yh/q9qFlVBmjeDI8BsFF84ImCPoH6d-1200-1200-675-675-crop-000000.jpg?v=4a53450060

@@ -10,6 +10,8 @@
   director: Ken Loach
   tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 2, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: true, child_harm: true, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: kes
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ab/lz/gn/xi/kes-1200-1200-675-675-crop-000000.jpg?v=135949ebf4
 
 - id: land-and-freedom
   tmdb_id: 14574
@@ -19,6 +21,8 @@
   director: Ken Loach
   tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.8 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: land-and-freedom
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/fa/ky/5m/oo/land-freedom-1200-1200-675-675-crop-000000.jpg?v=fedc650201
 
 - id: i-daniel-blake
   tmdb_id: 401815
@@ -33,6 +37,8 @@
     humor: 2
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: i-daniel-blake
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/1m/lt/1r/u9/i-daniel-blake-1200-1200-675-675-crop-000000.jpg?v=f48b949dee
 
 - id: sorry-we-missed-you
   tmdb_id: 553836
@@ -42,3 +48,5 @@
   director: Ken Loach
   tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.82 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: sorry-we-missed-you
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/1i/rb/7g/e8/sorry-we-missed-you-1200-1200-675-675-crop-000000.jpg?v=9811eeb0ba

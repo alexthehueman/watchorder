@@ -4,10 +4,12 @@
 # Sweet Smell of Success already exists in burt-lancaster.yaml.
 
 - id: whisky-galore
-  tmdb_id: null
+  tmdb_id: 16665
   title: Whisky Galore!
   year: 1949
   runtime: 82
   director: Alexander Mackendrick
   tags: { opacity: 1, stillness: 3, bleakness: 1, humor: 4, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: whisky-galore
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/gs/ey/ez/j0/whicky-1200-1200-675-675-crop-000000.jpg?v=659c943e3f

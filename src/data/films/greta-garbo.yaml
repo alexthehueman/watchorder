@@ -4,10 +4,12 @@
 # rouben-mamoulian.yaml.
 
 - id: camille-1936
-  tmdb_id: null
+  tmdb_id: 43874
   title: Camille
   year: 1936
   runtime: 108
   director: George Cukor
   tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: camille-1936
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/4x/qg/0p/3b/camille-1200-1200-675-675-crop-000000.jpg?v=2c0180141c

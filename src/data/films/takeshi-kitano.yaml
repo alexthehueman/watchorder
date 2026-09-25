@@ -14,6 +14,8 @@
     humor: 2
     acclaim: 0.82
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: sonatine
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/st/kk/s8/me/sonatine-1200-1200-675-675-crop-000000.jpg?v=c65ecfcd4a
 
 - id: hana-bi
   tmdb_id: 10475
@@ -25,13 +27,15 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
 
 - id: kikujiro
-  tmdb_id: null
+  tmdb_id: 4291
   title: Kikujiro
   year: 1999
   runtime: 121
   director: Takeshi Kitano
   tags: { opacity: 1, stillness: 3, bleakness: 2, humor: 4, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: kikujiro
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/4u/ij/xr/j7/Kikujiro-1200-1200-675-675-crop-000000.jpg?v=5fef6c683c
 
 - id: zatoichi-2003
   tmdb_id: 10160
@@ -41,3 +45,5 @@
   director: Takeshi Kitano
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.8 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: zatoichi
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/l2/qx/la/nf/zatoichi-1200-1200-675-675-crop-000000.jpg?v=7141ff5a8f

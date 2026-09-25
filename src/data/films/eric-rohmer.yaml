@@ -13,6 +13,8 @@
     humor: 2
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: my-night-at-mauds
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/bj/2v/qr/7f/my-night-at-mauds-1200-1200-675-675-crop-000000.jpg?v=84a614f56c
 
 - id: claires-knee
   tmdb_id: 34193
@@ -22,6 +24,8 @@
   director: Éric Rohmer
   tags: { opacity: 2, stillness: 4, bleakness: 2, humor: 2, acclaim: 0.82 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: claires-knee
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/nr/sj/oa/bg/claires-knee-1200-1200-675-675-crop-000000.jpg?v=f55f998248
 
 - id: the-green-ray
   tmdb_id: 32304
@@ -31,6 +35,8 @@
   director: Éric Rohmer
   tags: { opacity: 2, stillness: 4, bleakness: 3, humor: 1, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: the-green-ray
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/p8/sh/eq/ng/the-green-ray-1200-1200-675-675-crop-000000.jpg?v=6f933de110
 
 - id: pauline-at-the-beach
   tmdb_id: 34195
@@ -40,3 +46,5 @@
   director: Éric Rohmer
   tags: { opacity: 1, stillness: 3, bleakness: 2, humor: 3, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: pauline-at-the-beach
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/e4/ad/qz/53/pauine-1200-1200-675-675-crop-000000.jpg?v=0b56a583d2

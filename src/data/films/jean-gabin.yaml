@@ -3,7 +3,7 @@
 # La Grande Illusion already exists in renoir.yaml.
 
 - id: pepe-le-moko
-  tmdb_id: null
+  tmdb_id: 26252
   title: Pépé le Moko
   year: 1937
   runtime: 94
@@ -15,12 +15,16 @@
     humor: 1
     acclaim: 0.80
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: pepe-le-moko
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/yi/8l/0n/qr/pepe-le-moko-1200-1200-675-675-crop-000000.jpg?v=584fc1074e
 
 - id: le-quai-des-brumes
-  tmdb_id: null
+  tmdb_id: 46326
   title: Port of Shadows
   year: 1938
   runtime: 91
   director: Marcel Carné
   tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.82 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: port-of-shadows
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/qx/na/n8/du/port-1200-1200-675-675-crop-000000.jpg?v=01f212a10a

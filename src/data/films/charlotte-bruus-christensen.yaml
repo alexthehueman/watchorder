@@ -16,6 +16,8 @@
     humor: 1
     acclaim: 0.90
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: the-hunt-2012
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/yi/7a/tn/sp/the-hunt-2012-1200-1200-675-675-crop-000000.jpg?v=939df2aba9
 
 - id: far-from-the-madding-crowd
   tmdb_id: 250734
@@ -25,3 +27,5 @@
   director: Thomas Vinterberg
   tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: far-from-the-madding-crowd-2015
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/sg/4q/tl/ir/far-from-the-madding-crowd-2015-1200-1200-675-675-crop-000000.jpg?v=d5f990a944

@@ -10,6 +10,8 @@
   director: Henry King
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.65 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: the-black-swan
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/5a/af/3s/fh/black%20swan-1200-1200-675-675-crop-000000.jpg?v=835ab47328
 
 - id: the-robe
   tmdb_id: 29912
@@ -19,6 +21,8 @@
   director: Henry Koster
   tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.65 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: the-robe
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/k3/4e/xb/f4/the-robe-1200-1200-675-675-crop-000000.jpg?v=e01e92fcfa
 
 - id: the-king-and-i
   tmdb_id: 16520
@@ -28,3 +32,5 @@
   director: Walter Lang
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: the-king-and-i
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/tn/cr/78/am/kingandi-1200-1200-675-675-crop-000000.jpg?v=e0ef6d8a98

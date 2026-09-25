@@ -16,6 +16,8 @@
     humor: 1
     acclaim: 0.75
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: shock-corridor
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/8d/yk/uf/qs/shock%20corridor-1200-1200-675-675-crop-000000.jpg?v=2023e8c649
 
 - id: the-naked-kiss
   tmdb_id: 26031
@@ -25,3 +27,5 @@
   director: Samuel Fuller
   tags: { opacity: 2, stillness: 2, bleakness: 5, humor: 2, acclaim: 0.75 }
   content: { sexual_violence: true, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 1 }
+  letterboxd_slug: the-naked-kiss
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/yz/uy/wm/ia/naked%20kiss-1200-1200-675-675-crop-000000.jpg?v=c48307ce21
