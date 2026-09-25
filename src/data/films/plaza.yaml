@@ -1,6 +1,14 @@
 # New films for Aubrey Plaza. Scales and anchors are in README.md ("The anchor rubric").
 #
-# Ingrid Goes West already exists in neon.yaml — tagged before she had an entity.
+# Ingrid Goes West already exists in neon.yaml — tagged before she had an entity. This pass adds
+# further free wins Scott Pilgrim vs. the World (Cera), Funny People (Sandler), Megalopolis (Adam
+# Driver), Mike and Dave Need Wedding Dates and Life After Beth (both Kendrick), 10 Years (Anthony
+# Mackie), and Playing It Cool (also Mackie), plus 23 new films below.
+#
+# Followed her Wikipedia filmography's own scope, which excludes an enormous tail of shorts,
+# documentaries and specials about her (Megadoc, SNL50, Marvel Studios Assembled, Sarah Cooper:
+# Everything's Fine, The Pistol Shrimps, and many more), plus unreleased/post-production titles
+# (Animal Friends, The Accompanist, The Ark and the Aardvark).
 
 - id: emily-the-criminal
   tmdb_id: 862965
@@ -66,3 +74,188 @@
   letterboxd_rating: 2.49
   genres:
     - Horror
+
+- id: mystery-team
+  tmdb_id: 38087
+  title: Mystery Team
+  year: 2009
+  runtime: 95
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: damsels-in-distress
+  tmdb_id: 82533
+  title: Damsels in Distress
+  year: 2011
+  runtime: 99
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: someday-this-pain-will-be-useful-to-you
+  tmdb_id: 93676
+  title: Someday This Pain Will Be Useful to You
+  year: 2011
+  runtime: 94
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: safety-not-guaranteed
+  tmdb_id: 84332
+  title: Safety Not Guaranteed
+  year: 2012
+  runtime: 86
+  tags: { opacity: 2, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: a-glimpse-inside-the-mind-of-charles-swan-iii
+  tmdb_id: 124461
+  title: A Glimpse Inside the Mind of Charles Swan III
+  year: 2013
+  runtime: 86
+  tags: { opacity: 2, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: from-up-on-poppy-hill
+  tmdb_id: 128241
+  title: From Up on Poppy Hill
+  year: 2011
+  runtime: 91
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-to-do-list
+  tmdb_id: 129139
+  title: The To Do List
+  year: 2013
+  runtime: 104
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+
+- id: charlie-countryman
+  tmdb_id: 41602
+  title: Charlie Countryman
+  year: 2013
+  runtime: 108
+  tags: { opacity: 2, stillness: 1, bleakness: 3, humor: 2, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: monsters-university
+  tmdb_id: 62211
+  title: Monsters University
+  year: 2013
+  runtime: 104
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: about-alex
+  tmdb_id: 259956
+  title: About Alex
+  year: 2014
+  runtime: 96
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
+
+- id: ned-rifle
+  tmdb_id: 283536
+  title: Ned Rifle
+  year: 2014
+  runtime: 85
+  tags: { opacity: 2, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: addicted-to-fresno
+  tmdb_id: 301629
+  title: Addicted to Fresno
+  year: 2015
+  runtime: 85
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: the-driftless-area
+  tmdb_id: 291189
+  title: The Driftless Area
+  year: 2015
+  runtime: 91
+  tags: { opacity: 3, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: joshy
+  tmdb_id: 352695
+  title: Joshy
+  year: 2016
+  runtime: 96
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 1 }
+
+- id: the-little-hours
+  tmdb_id: 411873
+  title: The Little Hours
+  year: 2017
+  runtime: 90
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 2 }
+
+- id: an-evening-with-beverly-luff-linn
+  tmdb_id: 446695
+  title: An Evening with Beverly Luff Linn
+  year: 2018
+  runtime: 100
+  tags: { opacity: 3, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: best-sellers
+  tmdb_id: 669659
+  title: Best Sellers
+  year: 2021
+  runtime: 101
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: king-knight
+  tmdb_id: 777950
+  title: King Knight
+  year: 2021
+  runtime: 80
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: spin-me-round
+  tmdb_id: 826942
+  title: Spin Me Round
+  year: 2022
+  runtime: 101
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: dirty-grandpa
+  tmdb_id: 291870
+  title: Dirty Grandpa
+  year: 2016
+  runtime: 102
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.25 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+
+- id: operation-fortune-ruse-de-guerre
+  tmdb_id: 739405
+  title: "Operation Fortune: Ruse de Guerre"
+  year: 2023
+  runtime: 114
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: my-old-ass
+  tmdb_id: 947891
+  title: My Old Ass
+  year: 2024
+  runtime: 89
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: honey-dont
+  tmdb_id: 1149504
+  title: "Honey Don't!"
+  year: 2025
+  director: Ethan Coen
+  runtime: 89
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
