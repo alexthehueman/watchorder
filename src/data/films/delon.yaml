@@ -8,6 +8,28 @@
 # The stillness values run unusually high for a filmography this well-known — Melville in particular
 # built entire films around him saying almost nothing, which the register field alone cannot capture
 # and stillness is doing real work to record.
+#
+# 55 films added below to complete the real Wikipedia filmography. letterboxd_slug is deliberately
+# left unset on all of them — hand-guessing it at authoring time is exactly how five separate wrong
+# links slipped into this corpus (Ray, The Fighter, The Informant, The Bank Job, Nineteen Eighty-
+# Four). `npm run ingest:letterboxd` verifies title+year+director against the live page before ever
+# writing a slug; it runs after this file is committed, not before.
+#
+# Excludes, per the standing rule plus judgment calls made this pass:
+#   - Shorts: Le Rapt (1949), Le journal d'un combat (1964), La planète des hommes (1971),
+#     Les pros (1986), and several making-of/compilation pieces on his TMDB page.
+#   - Producer-only, no acting role: Sortie de secours (1970), Power Play (1978), Le jeune marié
+#     (1983).
+#   - Uncredited: Redhead (1962), Carom Shots (1963), Ho! (1968), Fantasia Among the Squares
+#     (1971), There Once Was a Cop (1971) — too minor to be why anyone watches this filmography.
+#   - Playing himself in a cameo, not a role: One Hundred and One Nights (1994), Actors (1999),
+#     Mommies, Happy New Year! (2012), Disclaimer (2019).
+#   - Dozens of documentaries about him, Melville, Romy Schneider, Belmondo etc. (his TMDB page
+#     lists many, almost entirely post-2008 retrospectives/tributes).
+#   - The Many Faces of Zorro (2000), Reporters (1980), Le Bel Indifférent (1977), Bambi (1987) —
+#     each ambiguous enough (compilation, interview-subject documentary, TV monologue piece, and an
+#     unverifiable credit respectively) that they're left out rather than guessed into the corpus.
+#     Worth a second look if anyone wants to chase them down individually.
 
 - id: purple-noon
   tmdb_id: 10363
@@ -189,3 +211,581 @@
     - Drama
     - Thriller
   letterboxd_rating: 4.02
+
+- id: when-a-woman-meddles
+  tmdb_id: 93796
+  title: When a Woman Meddles
+  year: 1957
+  runtime: 96
+  director: Yves Allégret
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: be-beautiful-and-shut-up
+  tmdb_id: 80543
+  title: Be Beautiful and Shut Up
+  year: 1958
+  runtime: 90
+  director: Marc Allégret
+  tags: { opacity: 2, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: christine-1958
+  tmdb_id: 4956
+  title: Christine
+  year: 1958
+  runtime: 98
+  director: Pierre Gaspard-Huit
+  tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.60 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: women-are-weak
+  tmdb_id: 265104
+  title: Women Are Weak
+  year: 1958
+  runtime: 93
+  director: Michel Boisrond
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 4, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: way-of-youth
+  tmdb_id: 34060
+  title: Way of Youth
+  year: 1959
+  runtime: 90
+  director: Michel Boisrond
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: the-joy-of-living
+  tmdb_id: 142979
+  title: The Joy of Living
+  year: 1961
+  runtime: 90
+  director: René Clément
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 3, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: famous-love-affairs
+  tmdb_id: 68382
+  title: Famous Love Affairs
+  year: 1961
+  runtime: 121
+  tags: { opacity: 2, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: the-devil-and-the-ten-commandments
+  tmdb_id: 53386
+  title: The Devil and the Ten Commandments
+  year: 1962
+  runtime: 118
+  director: Julien Duvivier
+  tags: { opacity: 2, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: any-number-can-win
+  tmdb_id: 22650
+  title: Any Number Can Win
+  year: 1963
+  runtime: 118
+  director: Henri Verneuil
+  tags: { opacity: 2, stillness: 3, bleakness: 3, humor: 2, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-black-tulip
+  tmdb_id: 12539
+  title: The Black Tulip
+  year: 1963
+  runtime: 111
+  director: Christian-Jaque
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: joy-house
+  tmdb_id: 38421
+  title: Joy House
+  year: 1964
+  runtime: 97
+  director: René Clément
+  tags: { opacity: 3, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.60 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: the-unvanquished
+  tmdb_id: 137859
+  title: The Unvanquished
+  year: 1964
+  runtime: 104
+  director: Alain Cavalier
+  tags: { opacity: 2, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.60 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-yellow-rolls-royce
+  tmdb_id: 47616
+  title: The Yellow Rolls-Royce
+  year: 1964
+  runtime: 122
+  director: Anthony Asquith
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.60 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: once-a-thief-1965
+  tmdb_id: 36514
+  title: Once a Thief
+  year: 1965
+  runtime: 106
+  director: Ralph Nelson
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: love-at-sea
+  tmdb_id: 294896
+  title: Love at Sea
+  year: 1965
+  runtime: 90
+  director: Guy Gilles
+  tags: { opacity: 3, stillness: 4, bleakness: 2, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: lost-command
+  tmdb_id: 41057
+  title: Lost Command
+  year: 1965
+  runtime: 129
+  director: Mark Robson
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: texas-across-the-river
+  tmdb_id: 52480
+  title: Texas Across the River
+  year: 1966
+  runtime: 101
+  director: Michael Gordon
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 4, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: is-paris-burning
+  tmdb_id: 4708
+  title: Is Paris Burning?
+  year: 1966
+  runtime: 173
+  director: René Clément
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.60 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-last-adventure
+  tmdb_id: 11396
+  title: The Last Adventure
+  year: 1967
+  runtime: 120
+  director: Robert Enrico
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: diabolically-yours
+  tmdb_id: 42690
+  title: Diabolically Yours
+  year: 1967
+  runtime: 90
+  director: Julien Duvivier
+  tags: { opacity: 4, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: spirits-of-the-dead
+  tmdb_id: 41225
+  title: Spirits of the Dead
+  year: 1968
+  runtime: 121
+  tags: { opacity: 3, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+
+- id: the-girl-on-a-motorcycle
+  tmdb_id: 29722
+  title: The Girl on a Motorcycle
+  year: 1968
+  runtime: 91
+  director: Jack Cardiff
+  tags: { opacity: 3, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 3 }
+
+- id: farewell-friend
+  tmdb_id: 4857
+  title: "Farewell, Friend"
+  year: 1968
+  runtime: 115
+  director: Jean Herman
+  tags: { opacity: 2, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: jeff
+  tmdb_id: 189038
+  title: Jeff
+  year: 1969
+  runtime: 90
+  director: Jean Herman
+  tags: { opacity: 2, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-sicilian-clan
+  tmdb_id: 4235
+  title: The Sicilian Clan
+  year: 1969
+  runtime: 120
+  director: Henri Verneuil
+  tags: { opacity: 2, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-love-mates
+  tmdb_id: 96363
+  title: The Love Mates
+  year: 1970
+  runtime: 90
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: the-widow-couderc
+  tmdb_id: 76871
+  title: The Widow Couderc
+  year: 1971
+  runtime: 90
+  director: Pierre Granier-Deferre
+  tags: { opacity: 2, stillness: 4, bleakness: 4, humor: 1, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: red-sun
+  tmdb_id: 11842
+  title: Red Sun
+  year: 1971
+  runtime: 112
+  director: Terence Young
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: easy-down-there
+  tmdb_id: 289794
+  title: Easy Down There!
+  year: 1971
+  runtime: 90
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 3, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: the-assassination-of-trotsky
+  tmdb_id: 4702
+  title: The Assassination of Trotsky
+  year: 1972
+  runtime: 103
+  director: Joseph Losey
+  tags: { opacity: 3, stillness: 4, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: indian-summer
+  tmdb_id: 47251
+  title: Indian Summer
+  year: 1972
+  runtime: 95
+  tags: { opacity: 2, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.60 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: shock-treatment
+  tmdb_id: 5601
+  title: Shock Treatment
+  year: 1972
+  runtime: 90
+  director: Alain Jessua
+  tags: { opacity: 3, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: two-men-in-town
+  tmdb_id: 4680
+  title: Two Men in Town
+  year: 1973
+  runtime: 106
+  director: José Giovanni
+  tags: { opacity: 2, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: tony-arzenta
+  tmdb_id: 85365
+  title: Tony Arzenta
+  year: 1973
+  runtime: 108
+  director: Duccio Tessari
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: the-burned-barns
+  tmdb_id: 6160
+  title: The Burned Barns
+  year: 1973
+  runtime: 90
+  director: Jean Chapot
+  tags: { opacity: 2, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.60 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: scorpio
+  tmdb_id: 42738
+  title: Scorpio
+  year: 1973
+  runtime: 114
+  director: Michael Winner
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.60 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: creezy
+  tmdb_id: 66187
+  title: Creezy
+  year: 1973
+  runtime: 105
+  tags: { opacity: 2, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: icy-breasts
+  tmdb_id: 79393
+  title: Icy Breasts
+  year: 1974
+  runtime: 105
+  director: Georges Lautner
+  tags: { opacity: 3, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 2 }
+
+- id: borsalino-and-co
+  tmdb_id: 60181
+  title: Borsalino and Co.
+  year: 1974
+  runtime: 103
+  director: Jacques Deray
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: zorro-1974
+  tmdb_id: 18450
+  title: Zorro
+  year: 1974
+  runtime: 110
+  director: Duccio Tessari
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-gypsy
+  tmdb_id: 77570
+  title: The Gypsy
+  year: 1975
+  runtime: 106
+  director: José Giovanni
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: flic-story
+  tmdb_id: 32653
+  title: Flic Story
+  year: 1975
+  runtime: 111
+  director: Jacques Deray
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.60 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: un-sorriso-uno-schiaffo-un-bacio-in-bocca
+  tmdb_id: 166389
+  title: A Smile, a Slap, a Kiss on the Mouth
+  year: 1975
+  runtime: 100
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+
+- id: boomerang-1976
+  tmdb_id: 205872
+  title: Boomerang
+  year: 1976
+  runtime: 105
+  director: José Giovanni
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: the-gang
+  tmdb_id: 146886
+  title: The Gang
+  year: 1976
+  runtime: 110
+  director: Jacques Deray
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: death-of-a-corrupt-man
+  tmdb_id: 69517
+  title: Death of a Corrupt Man
+  year: 1977
+  runtime: 118
+  director: Georges Lautner
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.60 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-hurried-man
+  tmdb_id: 191101
+  title: The Hurried Man
+  year: 1977
+  runtime: 100
+  director: Édouard Molinaro
+  tags: { opacity: 2, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: armaguedon
+  tmdb_id: 67657
+  title: Armaguedon
+  year: 1977
+  runtime: 105
+  director: Alain Jessua
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: attention-the-kids-are-watching
+  tmdb_id: 133502
+  title: Attention, the Kids Are Watching
+  year: 1978
+  runtime: 90
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+
+- id: the-concorde-airport-79-delon
+  tmdb_id: 29723
+  title: "The Concorde... Airport '79"
+  year: 1978
+  runtime: 113
+  director: David Lowell Rich
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-medic
+  tmdb_id: 52546
+  title: The Medic
+  year: 1979
+  runtime: 90
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: three-men-to-kill
+  tmdb_id: 56497
+  title: Three Men to Kill
+  year: 1979
+  runtime: 92
+  director: Jacques Deray
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: for-a-cops-hide
+  tmdb_id: 118732
+  title: For a Cop's Hide
+  year: 1981
+  runtime: 100
+  director: Alain Delon
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: teheran-43
+  tmdb_id: 2371
+  title: "Teheran '43"
+  year: 1981
+  runtime: 155
+  director: Alexander Alov
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.60 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-shock
+  tmdb_id: 124352
+  title: The Shock
+  year: 1982
+  runtime: 90
+  director: Robin Davis
+  tags: { opacity: 2, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: our-story
+  tmdb_id: 58619
+  title: Our Story
+  year: 1984
+  runtime: 110
+  director: Bertrand Blier
+  tags: { opacity: 3, stillness: 3, bleakness: 3, humor: 2, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: cops-honor
+  tmdb_id: 170033
+  title: "Cop's Honor"
+  year: 1984
+  runtime: 100
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-passage
+  tmdb_id: 59059
+  title: The Passage
+  year: 1985
+  runtime: 90
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: let-sleeping-cops-lie
+  tmdb_id: 78405
+  title: Let Sleeping Cops Lie
+  year: 1988
+  runtime: 90
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: nouvelle-vague
+  tmdb_id: 32691
+  title: Nouvelle Vague
+  year: 1990
+  runtime: 90
+  director: Jean-Luc Godard
+  tags: { opacity: 4, stillness: 3, bleakness: 2, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: dancing-machine
+  tmdb_id: 59259
+  title: Dancing Machine
+  year: 1990
+  runtime: 92
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-return-of-casanova
+  tmdb_id: 172303
+  title: The Return of Casanova
+  year: 1991
+  runtime: 90
+  tags: { opacity: 2, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: a-crime
+  tmdb_id: 124013
+  title: A Crime
+  year: 1992
+  runtime: 90
+  tags: { opacity: 2, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-teddy-bear
+  tmdb_id: 294899
+  title: The Teddy Bear
+  year: 1994
+  runtime: 90
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: day-and-night
+  tmdb_id: 160989
+  title: Day and Night
+  year: 1995
+  runtime: 130
+  director: Bernard-Henri Lévy
+  tags: { opacity: 4, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: half-a-chance
+  tmdb_id: 49938
+  title: Half a Chance
+  year: 1998
+  runtime: 108
+  director: Patrice Leconte
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
