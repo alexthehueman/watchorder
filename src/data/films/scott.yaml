@@ -65,6 +65,13 @@
   runtime: 145
   tags: { opacity: 3, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: wake-up-dead-man-a-knives-out-mystery
+  poster_url: https://a.ltrbxd.com/resized/alternative-backdrop/7/2/9/1/1/3/tmdb/J9iin5aGcbsMW8YlMxGJTN4odT-1200-1200-675-675-crop-000000.jpg?v=e117983ea4
+  genres:
+    - Comedy
+    - Thriller
+    - Mystery
+  letterboxd_rating: 3.78
 
 - id: blue-moon-2025
   tmdb_id: 1299655
@@ -73,6 +80,14 @@
   runtime: 100
   tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: blue-moon-2025
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/lg/8y/sz/73/BlueMoon-1200-1200-675-675-crop-000000.jpg?v=27045d8cb1
+  genres:
+    - Drama
+    - History
+    - Comedy
+    - Music
+  letterboxd_rating: 3.57
 
 - id: people-watching
   tmdb_id: 1426540
@@ -89,6 +104,12 @@
   runtime: 114
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.40 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: back-in-action-2025
+  poster_url: https://a.ltrbxd.com/resized/alternative-backdrop/8/9/4/9/4/1/tmdb/px0YfXxWKclI0PVM79fOV6Kh2As-1200-1200-675-675-crop-000000.jpg?v=e45d58bdfe
+  genres:
+    - Action
+    - Comedy
+  letterboxd_rating: 2.46
 
 - id: catherine-called-birdy
   tmdb_id: 795109
@@ -97,6 +118,12 @@
   runtime: 108
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: catherine-called-birdy
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/x8/u1/lb/5h/catherine-1200-1200-675-675-crop-000000.jpg?v=2dbb3c079f
+  genres:
+    - Comedy
+    - Drama
+  letterboxd_rating: 3.5
 
 - id: oslo
   tmdb_id: 553087
@@ -105,6 +132,13 @@
   runtime: 118
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: oslo-2021
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/dl/qj/b8/d3/oslo-1200-1200-675-675-crop-000000.jpg?v=1584008faf
+  genres:
+    - History
+    - TV Movie
+    - Drama
+  letterboxd_rating: 3.16
 
 - id: three-kings-2020
   tmdb_id: 740682
@@ -113,6 +147,10 @@
   runtime: 88
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.35 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: three-kings-2020
+  poster_url: https://a.ltrbxd.com/resized/film-poster/6/6/2/5/2/1/662521-three-kings-0-230-0-345-crop.jpg?v=b6b81a5488
+  genres:
+    - Drama
 
 - id: a-dark-place
   tmdb_id: 412157
@@ -121,6 +159,10 @@
   runtime: 92
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.40 }
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: a-dark-place
+  poster_url: https://a.ltrbxd.com/resized/film-poster/5/2/1/8/1/8/521818-a-dark-place-0-230-0-345-crop.jpg?v=2509f9da55
+  genres:
+    - Drama
 
 - id: the-delinquent-season
   tmdb_id: 467915
@@ -129,6 +171,12 @@
   runtime: 100
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.40 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: the-delinquent-season
+  poster_url: https://a.ltrbxd.com/resized/film-poster/3/9/9/5/0/7/399507-the-delinquent-season-0-230-0-345-crop.jpg?v=cd5b2d4377
+  genres:
+    - Romance
+    - Drama
+  letterboxd_rating: 2.59
 
 - id: handsome-devil
   tmdb_id: 412202
@@ -137,6 +185,12 @@
   runtime: 95
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.60 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: handsome-devil
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/lc/kq/3n/za/fIMh2JZOFEUH3mTNBPZKsvQ9AAC-1200-1200-675-675-crop-000000.jpg?v=030f5f3eb4
+  genres:
+    - Comedy
+    - Drama
+  letterboxd_rating: 3.24
 
 - id: this-beautiful-fantastic
   tmdb_id: 352490
@@ -145,6 +199,13 @@
   runtime: 91
   tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 2, acclaim: 0.45 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: this-beautiful-fantastic
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ek/bq/xk/d7/nF9dWduJZTiCIKOEvo1YQgXKJcc-1200-1200-675-675-crop-000000.jpg?v=63e06037c9
+  genres:
+    - Comedy
+    - Romance
+    - Drama
+  letterboxd_rating: 3.41
 
 - id: denial-2016
   tmdb_id: 402298
@@ -153,6 +214,12 @@
   runtime: 110
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.60 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: denial-2016
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/l1/1f/09/qs/denial-1200-1200-675-675-crop-000000.jpg?v=3e2ee966d4
+  genres:
+    - Drama
+    - History
+  letterboxd_rating: 3.39
 
 - id: swallows-and-amazons
   tmdb_id: 347035
@@ -161,6 +228,12 @@
   runtime: 97
   tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 2, acclaim: 0.50 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: swallows-and-amazons-2016
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ah/u7/kd/4r/swallows-amazons-1200-1200-675-675-crop-000000.jpg?v=efc1981ba2
+  genres:
+    - Adventure
+    - Family
+  letterboxd_rating: 3.11
 
 - id: sherlock-the-abominable-bride
   tmdb_id: 379170
@@ -169,6 +242,15 @@
   runtime: 90
   tags: { opacity: 3, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.65 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: sherlock-the-abominable-bride
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/wo/j3/rw/uf/abonminable-1200-1200-675-675-crop-000000.jpg?v=789a9336f0
+  genres:
+    - Crime
+    - Drama
+    - Mystery
+    - Thriller
+    - TV Movie
+  letterboxd_rating: 3.76
 
 - id: victor-frankenstein
   tmdb_id: 228066
@@ -177,6 +259,13 @@
   runtime: 110
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.35 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: victor-frankenstein
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/mb/jh/jc/tl/victor-frankenstein-1200-1200-675-675-crop-000000.jpg?v=ba7d8c5838
+  genres:
+    - Drama
+    - Science Fiction
+    - Thriller
+  letterboxd_rating: 2.6
 
 - id: jimmys-hall
   tmdb_id: 262958
@@ -185,6 +274,12 @@
   runtime: 109
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: jimmys-hall
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/8g/fx/70/ld/jimmys%20hall-1200-1200-675-675-crop-000000.jpg?v=defd9aa26a
+  genres:
+    - Drama
+    - History
+  letterboxd_rating: 3.45
 
 - id: legacy-2013
   tmdb_id: 239771
@@ -193,6 +288,13 @@
   runtime: 82
   tags: { opacity: 2, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.40 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: legacy-2013
+  poster_url: https://a.ltrbxd.com/resized/film-poster/1/6/8/0/0/9/168009-legacy-0-230-0-345-crop.jpg?v=060168e296
+  genres:
+    - TV Movie
+    - Thriller
+    - Drama
+  letterboxd_rating: 3.11
 
 - id: the-stag
   tmdb_id: 215962
@@ -201,6 +303,11 @@
   runtime: 95
   tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 4, acclaim: 0.50 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: the-stag
+  poster_url: https://a.ltrbxd.com/resized/film-poster/1/5/3/1/8/4/153184-the-stag-0-230-0-345-crop.jpg?v=c55ea0101c
+  genres:
+    - Comedy
+  letterboxd_rating: 3.12
 
 - id: the-scapegoat-2012
   tmdb_id: 139463
@@ -209,6 +316,13 @@
   runtime: 92
   tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.50 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: the-scapegoat-2012
+  poster_url: https://a.ltrbxd.com/resized/film-poster/1/0/6/6/2/1/106621-the-scapegoat-2012-0-230-0-345-crop.jpg?v=9e56d0d9c6
+  genres:
+    - Mystery
+    - Drama
+    - Adventure
+  letterboxd_rating: 3.31
 
 - id: lennon-naked
   tmdb_id: 42484
@@ -217,6 +331,12 @@
   runtime: 90
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.50 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: lennon-naked
+  poster_url: https://a.ltrbxd.com/resized/film-poster/2/2/5/9/9/22599-lennon-naked-0-230-0-345-crop.jpg?v=e722abf2d6
+  genres:
+    - Drama
+    - TV Movie
+  letterboxd_rating: 3.07
 
 - id: antons-chekhovs-the-duel
   tmdb_id: 45014
@@ -225,6 +345,11 @@
   runtime: 95
   tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.50 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: anton-chekhovs-the-duel
+  poster_url: https://a.ltrbxd.com/resized/film-poster/2/0/2/0/0/20200-anton-chekhovs-the-duel-0-230-0-345-crop.jpg?v=e44011b5d1
+  genres:
+    - Drama
+  letterboxd_rating: 3.29
 
 - id: dead-bodies
   tmdb_id: 64797
@@ -233,6 +358,12 @@
   runtime: 89
   tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.50 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: dead-bodies
+  poster_url: https://a.ltrbxd.com/resized/film-poster/6/9/69-dead-bodies-0-230-0-345-crop.jpg?v=39330389ab
+  genres:
+    - Drama
+    - Thriller
+  letterboxd_rating: 3.17
 
 - id: nora
   tmdb_id: 41165
@@ -241,6 +372,11 @@
   runtime: 92
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.45 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: nora
+  poster_url: https://a.ltrbxd.com/resized/film-poster/2/3/8/4/7/23847-nora-0-230-0-345-crop.jpg?v=9d346a13a6
+  genres:
+    - Drama
+  letterboxd_rating: 2.93
 
 - id: korea
   tmdb_id: 133263
@@ -249,3 +385,7 @@
   runtime: 85
   tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.50 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: korea
+  poster_url: https://a.ltrbxd.com/resized/film-poster/1/0/2/9/3/1/102931-korea-0-230-0-345-crop.jpg?v=ac620b95d5
+  genres:
+    - Drama
