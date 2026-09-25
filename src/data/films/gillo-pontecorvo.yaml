@@ -9,6 +9,8 @@
   director: Gillo Pontecorvo
   tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: kapo
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/bs/9g/bu/p8/kapo-1200-1200-675-675-crop-000000.jpg?v=66c31571ff
 
 - id: the-battle-of-algiers
   tmdb_id: 17295
@@ -23,6 +25,8 @@
     humor: 1
     acclaim: 0.95
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: the-battle-of-algiers
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/kt/5s/28/w3/battle-algiers-1200-1200-675-675-crop-000000.jpg?v=70389d0066
 
 - id: burn
   tmdb_id: 40095
@@ -32,3 +36,5 @@
   director: Gillo Pontecorvo
   tags: { opacity: 2, stillness: 1, bleakness: 4, humor: 2, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: burn
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/34/r8/pv/9b/3x94y7AQhr9Ceb1uMzav4wyxqme-1200-1200-675-675-crop-000000.jpg?v=8071ed1dfc

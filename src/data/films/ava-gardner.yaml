@@ -1,7 +1,7 @@
 # New films for Ava Gardner. Scales and anchors are in README.md ("The anchor rubric").
 
 - id: the-killers-1946
-  tmdb_id: null
+  tmdb_id: 14638
   title: The Killers
   year: 1946
   runtime: 103
@@ -13,30 +13,38 @@
     humor: 1
     acclaim: 0.80
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: the-killers
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/l0/94/dv/as/killers-1200-1200-675-675-crop-000000.jpg?v=4417b8e0a7
 
 - id: mogambo
-  tmdb_id: null
+  tmdb_id: 25009
   title: Mogambo
   year: 1953
   runtime: 116
   director: John Ford
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  letterboxd_slug: mogambo
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/mb/rl/wc/bw/fEKWwgxn1DsAee5sS7HQ0rUVqhM-1200-1200-675-675-crop-000000.jpg?v=cf26b24bd6
 
 - id: the-barefoot-contessa
-  tmdb_id: null
+  tmdb_id: 34689
   title: The Barefoot Contessa
   year: 1954
   runtime: 128
   director: Joseph L. Mankiewicz
   tags: { opacity: 2, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  letterboxd_slug: the-barefoot-contessa
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/e5/t3/yy/p9/barefoot-1200-1200-675-675-crop-000000.jpg?v=b8257e2434
 
 - id: the-night-of-the-iguana
-  tmdb_id: null
+  tmdb_id: 14703
   title: The Night of the Iguana
   year: 1964
   runtime: 125
   director: John Huston
   tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 2, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: the-night-of-the-iguana
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/y6/m3/2s/uh/night%20of%20the%20aiguana-1200-1200-675-675-crop-000000.jpg?v=df5d0f2b61

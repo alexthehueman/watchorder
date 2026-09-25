@@ -12,6 +12,8 @@
   director: Lawrence Kasdan
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: silverado
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/au/7r/bg/hz/silverado-1200-1200-675-675-crop-000000.jpg?v=18214adc18
 
 - id: mishima-a-life-in-four-chapters
   tmdb_id: 27064
@@ -26,6 +28,8 @@
     humor: 1
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 0 }
+  letterboxd_slug: mishima-a-life-in-four-chapters
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/sd/rj/cw/dl/mishima-1200-1200-675-675-crop-000000.jpg?v=9f60cfacd5
 
 - id: as-good-as-it-gets
   tmdb_id: 2898
@@ -35,3 +39,5 @@
   director: James L. Brooks
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 4, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: as-good-as-it-gets
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/gh/jq/ce/dw/as-good-as-it-gets-1200-1200-675-675-crop-000000.jpg?v=e599fd8d4e

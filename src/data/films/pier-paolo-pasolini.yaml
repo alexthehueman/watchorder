@@ -10,6 +10,8 @@
   director: Pier Paolo Pasolini
   tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  letterboxd_slug: accattone
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/58/ac/fq/o8/accatone-1200-1200-675-675-crop-000000.jpg?v=96d10119fa
 
 - id: the-gospel-according-to-st-matthew
   tmdb_id: 5433
@@ -19,6 +21,8 @@
   director: Pier Paolo Pasolini
   tags: { opacity: 1, stillness: 4, bleakness: 3, humor: 1, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: the-gospel-according-to-st-matthew
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/pt/2e/2t/wb/gospel-1200-1200-675-675-crop-000000.jpg?v=ec914ff2e9
 
 - id: teorema
   tmdb_id: 40010
@@ -42,3 +46,5 @@
   director: Pier Paolo Pasolini
   tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.68 }
   content: { sexual_violence: true, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 3 }
+  letterboxd_slug: salo-or-the-120-days-of-sodom
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/1x/dg/bm/q2/salo-1200-1200-675-675-crop-000000.jpg?v=5c31031200

@@ -4,10 +4,12 @@
 # Black Pearl already exists in depp.yaml. The King's Speech already exists in firth.yaml.
 
 - id: shine
-  tmdb_id: null
+  tmdb_id: 7863
   title: Shine
   year: 1996
   runtime: 105
   director: Scott Hicks
   tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: shine
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/0p/5l/gk/v6/shine-1200-1200-675-675-crop-000000.jpg?v=1aa294c4c8

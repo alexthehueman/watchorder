@@ -3,16 +3,18 @@
 # Superman II already exists in terence-stamp.yaml.
 
 - id: a-hard-days-night
-  tmdb_id: null
+  tmdb_id: 704
   title: A Hard Day's Night
   year: 1964
   runtime: 87
   director: Richard Lester
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: a-hard-days-night
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/he/89/4y/bx/a-hard-days-night-1200-1200-675-675-crop-000000.jpg?v=86625cd0c4
 
 - id: help
-  tmdb_id: null
+  tmdb_id: 14831
   title: Help!
   year: 1965
   runtime: 92
@@ -24,12 +26,16 @@
     humor: 4
     acclaim: 0.68
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: help
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/aq/bf/01/f8/beatles-help-1200-1200-675-675-crop-000000.jpg?v=b4b9825558
 
 - id: the-three-musketeers-1973
-  tmdb_id: null
+  tmdb_id: 2926
   title: The Three Musketeers
   year: 1973
   runtime: 105
   director: Richard Lester
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: the-three-musketeers-1973
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/y7/gk/o6/qc/p0TuYxzamGGO2DorCPv0GGarO9N-1200-1200-675-675-crop-000000.jpg?v=c1f384aa0c

@@ -1,25 +1,29 @@
 # New films for Groucho Marx. Scales and anchors are in README.md ("The anchor rubric").
 
 - id: duck-soup
-  tmdb_id: null
+  tmdb_id: 3063
   title: Duck Soup
   year: 1933
   runtime: 68
   director: Leo McCarey
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 5, acclaim: 0.88 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: duck-soup-1933
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/xa/kz/bo/8z/duck-soup-1200-1200-675-675-crop-000000.jpg?v=35ab91ac73
 
 - id: horse-feathers
-  tmdb_id: null
+  tmdb_id: 13912
   title: Horse Feathers
   year: 1932
   runtime: 68
   director: Norman Z. McLeod
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: horse-feathers
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/4s/7e/q1/im/horse%20feathers-1200-1200-675-675-crop-000000.jpg?v=db2ce873e2
 
 - id: a-night-at-the-opera
-  tmdb_id: null
+  tmdb_id: 37719
   title: A Night at the Opera
   year: 1935
   runtime: 96
@@ -31,9 +35,11 @@
     humor: 4
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: a-night-at-the-opera
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/tb/7j/g5/si/night%20at%20the%20opera-1200-1200-675-675-crop-000000.jpg?v=5a614080d7
 
 - id: a-day-at-the-races
-  tmdb_id: null
+  tmdb_id: 11939
   title: A Day at the Races
   year: 1937
   runtime: 111
@@ -45,3 +51,5 @@
     humor: 4
     acclaim: 0.75
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: a-day-at-the-races
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/2x/x1/ka/mw/zgfTtXxy4pu4wI9xWpLyjjehQBG-1200-1200-675-675-crop-000000.jpg?v=e7d6a4cc9f

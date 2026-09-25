@@ -16,6 +16,8 @@
     humor: 1
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: the-black-stallion
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/aq/jr/nc/is/black-stallion-1200-1200-675-675-crop-000000.jpg?v=fa34b03ee3
 
 - id: the-right-stuff
   tmdb_id: 9549
@@ -25,3 +27,5 @@
   director: Philip Kaufman
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: the-right-stuff
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/di/ge/kl/06/the-right-stuff-1200-1200-675-675-crop-000000.jpg?v=d3a9ab8c88

@@ -4,16 +4,18 @@
 # john-mctiernan.yaml.
 
 - id: the-mission
-  tmdb_id: null
+  tmdb_id: 11416
   title: The Mission
   year: 1986
   runtime: 125
   director: Roland Joffé
   tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: the-mission
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/a7/de/kt/g7/the-mission-1200-1200-675-675-crop-000000.jpg?v=a947780876
 
 - id: reversal-of-fortune
-  tmdb_id: null
+  tmdb_id: 38718
   title: Reversal of Fortune
   year: 1990
   runtime: 111
@@ -25,3 +27,5 @@
     humor: 2
     acclaim: 0.75
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
+  letterboxd_slug: reversal-of-fortune
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/fl/a2/up/v9/reversaloffortune-1200-1200-675-675-crop-000000.jpg?v=5531dd4d36

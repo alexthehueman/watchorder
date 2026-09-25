@@ -4,16 +4,18 @@
 # welles.yaml.
 
 - id: the-blue-angel
-  tmdb_id: null
+  tmdb_id: 228
   title: The Blue Angel
   year: 1930
   runtime: 106
   director: Josef von Sternberg
   tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.80 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: the-blue-angel
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/sa/r8/6b/c9/theblueangel-1200-1200-675-675-crop-000000.jpg?v=084f66f48e
 
 - id: shanghai-express
-  tmdb_id: null
+  tmdb_id: 875
   title: Shanghai Express
   year: 1932
   runtime: 80
@@ -25,3 +27,5 @@
     humor: 1
     acclaim: 0.75
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: shanghai-express
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/h9/15/qa/wb/shanghai-express-1200-1200-675-675-crop-000000.jpg?v=ed2195de0f

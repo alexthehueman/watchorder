@@ -3,25 +3,29 @@
 # This Is Spinal Tap already exists in rob-reiner.yaml.
 
 - id: waiting-for-guffman
-  tmdb_id: null
+  tmdb_id: 16448
   title: Waiting for Guffman
   year: 1996
   runtime: 84
   director: Christopher Guest
   tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 4, acclaim: 0.72 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: waiting-for-guffman
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/2u/ij/1s/d4/waiting-for-guffman-1200-1200-675-675-crop-000000.jpg?v=4a79144f88
 
 - id: best-in-show
-  tmdb_id: null
+  tmdb_id: 13785
   title: Best in Show
   year: 2000
   runtime: 90
   director: Christopher Guest
   tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 5, acclaim: 0.80 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: best-in-show
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/2s/1x/ks/bd/best-in-show-1200-1200-675-675-crop-000000.jpg?v=cec0ebe3fb
 
 - id: a-mighty-wind
-  tmdb_id: null
+  tmdb_id: 13370
   title: A Mighty Wind
   year: 2003
   runtime: 91
@@ -33,3 +37,5 @@
     humor: 4
     acclaim: 0.72
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: a-mighty-wind
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ux/28/sn/t9/a-mighty-wind-1200-1200-675-675-crop-000000.jpg?v=2bc4abc954

@@ -15,6 +15,8 @@
     humor: 4
     acclaim: 0.85
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: sullivans-travels
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/3y/4z/tu/qb/sullivans-1200-1200-675-675-crop-000000.jpg?v=52f5998b69
 
 - id: the-palm-beach-story
   tmdb_id: 32255
@@ -24,6 +26,8 @@
   director: Preston Sturges
   tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 5, acclaim: 0.82 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: the-palm-beach-story
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/cv/fm/3o/56/the-palm-beach-story-1200-1200-675-675-crop-000000.jpg?v=1c222abf9a
 
 - id: hail-the-conquering-hero
   tmdb_id: 3200
@@ -33,3 +37,5 @@
   director: Preston Sturges
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.8 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: hail-the-conquering-hero
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/qy/4p/5f/p8/hail%20the%20conquering-1200-1200-675-675-crop-000000.jpg?v=b1e127fadc

@@ -4,7 +4,7 @@
 # Good Morning, Vietnam already exists in robin-williams.yaml.
 
 - id: diner
-  tmdb_id: null
+  tmdb_id: 13776
   title: Diner
   year: 1982
   runtime: 110
@@ -16,3 +16,5 @@
     humor: 3
     acclaim: 0.78
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: diner
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/om/r0/tc/89/diner-1200-1200-675-675-crop-000000.jpg?v=091e138e21

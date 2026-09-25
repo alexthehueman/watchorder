@@ -16,6 +16,8 @@
     humor: 1
     acclaim: 0.8
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: the-snake-pit
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/80/g3/3y/3f/xyPp8XpOozFfpZmYSlz0h9SpOpO-1200-1200-675-675-crop-000000.jpg?v=96b32c3df3
 
 - id: decision-before-dawn
   tmdb_id: 4461
@@ -25,3 +27,5 @@
   director: Anatole Litvak
   tags: { opacity: 3, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: decision-before-dawn
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ov/8l/z9/36/decision-1200-1200-675-675-crop-000000.jpg?v=0006a0f24a

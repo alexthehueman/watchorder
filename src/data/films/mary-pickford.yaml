@@ -1,16 +1,18 @@
 # New films for Mary Pickford. Scales and anchors are in README.md ("The anchor rubric").
 
 - id: daddy-long-legs-1919
-  tmdb_id: null
+  tmdb_id: 70801
   title: Daddy-Long-Legs
   year: 1919
   runtime: 84
   director: Marshall Neilan
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: daddy-long-legs-1919
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/6g/39/c8/c4/6ymyhHWhmeiISrET50swIxlsH33-1200-1200-675-675-crop-000000.jpg?v=8de05aa901
 
 - id: sparrows-1926
-  tmdb_id: null
+  tmdb_id: 73575
   title: Sparrows
   year: 1926
   runtime: 84
@@ -22,21 +24,27 @@
     humor: 1
     acclaim: 0.72
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: sparrows
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/1s/s1/bv/lo/sparrows-1200-1200-675-675-crop-000000.jpg?v=3f444563a0
 
 - id: coquette-1929
-  tmdb_id: null
+  tmdb_id: 85507
   title: Coquette
   year: 1929
   runtime: 75
   director: Sam Taylor
   tags: { opacity: 2, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.62 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: coquette
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/3m/68/zz/5w/coquette-1200-1200-675-675-crop-000000.jpg?v=a03ddda622
 
 - id: poor-little-rich-girl
-  tmdb_id: null
+  tmdb_id: 95866
   title: The Poor Little Rich Girl
   year: 1917
   runtime: 65
   director: Maurice Tourneur
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: the-poor-little-rich-girl
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/e5/uu/b1/7r/4xSpvRf0wSOuitC8TNBBQOiDCMQ-1200-1200-675-675-crop-000000.jpg?v=6b8493fd20

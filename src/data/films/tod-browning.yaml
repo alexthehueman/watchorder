@@ -15,6 +15,8 @@
     humor: 1
     acclaim: 0.78
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: freaks
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/vh/9e/ci/vg/freaks-1200-1200-675-675-crop-000000.jpg?v=87471156a7
 
 - id: the-unknown
   tmdb_id: 26965
@@ -24,6 +26,8 @@
   director: Tod Browning
   tags: { opacity: 2, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: the-unknown
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/hs/3x/td/ur/unknown-1200-1200-675-675-crop-000000.jpg?v=0983a40013
 
 - id: mark-of-the-vampire
   tmdb_id: 26966
@@ -33,3 +37,5 @@
   director: Tod Browning
   tags: { opacity: 3, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.65 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: mark-of-the-vampire
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/yz/5l/l5/7x/mark-1200-1200-675-675-crop-000000.jpg?v=87b6c1238e

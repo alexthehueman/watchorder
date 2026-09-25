@@ -3,7 +3,7 @@
 # High Noon already exists in grace-kelly.yaml. Sergeant York already exists in hawks.yaml.
 
 - id: mr-deeds-goes-to-town
-  tmdb_id: null
+  tmdb_id: 24807
   title: Mr. Deeds Goes to Town
   year: 1936
   runtime: 115
@@ -15,12 +15,16 @@
     humor: 4
     acclaim: 0.78
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: mr-deeds-goes-to-town
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/sw/4t/58/7u/mr%20deeds-1200-1200-675-675-crop-000000.jpg?v=c4954c1ba3
 
 - id: pride-of-the-yankees
-  tmdb_id: null
+  tmdb_id: 19140
   title: The Pride of the Yankees
   year: 1942
   runtime: 128
   director: Sam Wood
   tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 2, acclaim: 0.78 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: the-pride-of-the-yankees
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/9v/dz/gl/st/pride-1200-1200-675-675-crop-000000.jpg?v=dcd4252261

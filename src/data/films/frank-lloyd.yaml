@@ -15,6 +15,8 @@
     humor: 1
     acclaim: 0.68
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: cavalcade
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/x9/2l/nv/hk/cavalcade-1200-1200-675-675-crop-000000.jpg?v=3e589d32ea
 
 - id: if-i-were-king
   tmdb_id: 30265
@@ -24,3 +26,5 @@
   director: Frank Lloyd
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: if-i-were-king
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/x5/m0/4p/xs/qFn0x3FzBiBWtbBLXSvXlrVNcDL-1200-1200-675-675-crop-000000.jpg?v=d3bc2df935
