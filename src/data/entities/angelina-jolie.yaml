@@ -70,6 +70,294 @@ films:
     gateway: 3
     note: A lethal member of a secret assassins' guild recruiting an unremarkable office worker into their ranks, playing recruitment as seduction.
 
+  - film: eternals
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: restrained
+    gateway: 3
+    note: A warrior grappling with disillusionment about her team's ancient mission.
+
+  - film: couture
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: An American film director shooting a documentary during Paris Fashion Week while facing a health crisis of her own.
+
+  - film: maria
+    signature: 2
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: Maria Callas's final days in Paris, told through her own fading, increasingly unreliable memory.
+
+  - film: those-who-wish-me-dead
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A smokejumper protecting a witness from hitmen amid a raging wildfire.
+
+  - film: come-away
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: warm
+    gateway: 1
+    note: A mother in a fantastical prequel imagining Peter Pan and Alice in Wonderland as siblings.
+
+  - film: the-one-and-only-ivan
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: warm
+    gateway: 3
+    note: The voice of an elephant befriending a captive gorilla in a shopping-mall enclosure.
+
+  - film: maleficent-mistress-of-evil
+    signature: 2
+    showcase: 2
+    role_size: lead
+    register: menacing
+    gateway: 4
+    note: The same role again, now navigating an arranged royal wedding and a war she didn't choose.
+
+  - film: kung-fu-panda-3
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: warm
+    gateway: 3
+    note: A minor returning voice role in the animated franchise's third entry.
+
+  - film: the-tourist
+    signature: 1
+    showcase: 1
+    role_size: lead
+    register: menacing
+    gateway: 2
+    note: A woman using a stranger as a decoy to throw off the criminals and police tailing her.
+
+  - film: beowulf
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: menacing
+    gateway: 2
+    note: A motion-captured Grendel's mother, seductive and monstrous at once.
+
+  - film: the-good-shepherd
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: restrained
+    gateway: 1
+    note: The wife of a founding CIA officer, increasingly estranged by his total secrecy.
+
+  - film: alexander
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: unhinged
+    gateway: 1
+    note: Alexander the Great's fierce, manipulative mother, playing court intrigue as open warfare.
+
+  - film: the-fever
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A TV movie about a woman's political awakening after witnessing atrocity abroad.
+
+  - film: shark-tale
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 3
+    note: A minor voice role in the animated fish-mob comedy.
+
+  - film: sky-captain-and-the-world-of-tomorrow
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: restrained
+    gateway: 2
+    note: An eyepatch-wearing naval commander in the retro-futurist pulp adventure.
+
+  - film: taking-lives
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A profiler tracking a serial killer who assumes his victims' identities.
+
+  - film: beyond-borders
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: warm
+    gateway: 1
+    note: A socialite drawn into humanitarian aid work across several global crises.
+
+  - film: lara-croft-tomb-raider-the-cradle-of-life
+    signature: 1
+    showcase: 1
+    role_size: lead
+    register: comic
+    gateway: 2
+    note: The tomb-raiding archaeologist's second outing, racing a rival to Pandora's box.
+
+  - film: life-or-something-like-it
+    signature: 1
+    showcase: 1
+    role_size: lead
+    register: comic
+    gateway: 1
+    note: A TV reporter reevaluating her life after a psychic predicts her death.
+
+  - film: lara-croft-tomb-raider
+    signature: 2
+    showcase: 2
+    role_size: lead
+    register: comic
+    gateway: 3
+    note: The role that made her an action star, an archaeologist racing to stop a cosmic-artifact conspiracy.
+
+  - film: original-sin
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: menacing
+    gateway: 1
+    note: A mail-order bride whose true motives unravel her new husband's life.
+
+  - film: gone-in-sixty-seconds
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: restrained
+    gateway: 3
+    note: A car thief's former partner and mechanic, in the heist ensemble.
+
+  - film: the-bone-collector
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: restrained
+    gateway: 1
+    note: A rookie cop assisting a quadriplegic ex-detective tracking a serial killer.
+
+  - film: pushing-tin
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: warm
+    gateway: 1
+    note: The wife of an air-traffic controller caught in a rivalry with a colleague.
+
+  - film: playing-by-heart
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: warm
+    gateway: 1
+    note: One thread in an ensemble drama about several intersecting Los Angeles relationships.
+
+  - film: gia
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: unhinged
+    gateway: 1
+    note: A TV biopic of a supermodel's rise and death from AIDS, an early, career-defining performance.
+
+  - film: hells-kitchen
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: menacing
+    gateway: 1
+    note: A minor supporting role in a crime drama.
+
+  - film: playing-god
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: menacing
+    gateway: 1
+    note: A crime boss's girlfriend, in a thriller about a disgraced doctor drawn into the underworld.
+
+  - film: george-wallace
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: restrained
+    gateway: 1
+    note: A minor supporting role in a TV biopic of the segregationist Alabama governor.
+
+  - film: mojave-moon
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 1
+    note: A minor supporting role in a low-key road-trip comedy.
+
+  - film: foxfire
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: unhinged
+    gateway: 1
+    note: A drifter who galvanizes a group of high-school girls into retaliating against the men in their lives.
+
+  - film: love-is-all-there-is
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 1
+    note: A minor supporting role in a Bronx-set Romeo and Juliet riff about feuding restaurant families.
+
+  - film: without-evidence
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: restrained
+    gateway: 1
+    note: A minor supporting role in a TV crime drama.
+
+  - film: hackers
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: comic
+    gateway: 2
+    note: A teenage hacker framed for a corporate crime by the real culprits, an early lead role.
+
+  - film: cyborg-2
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A cyborg assassin questioning her own programming, her film debut as a lead.
+
+  - film: lookin-to-get-out
+    signature: 1
+    showcase: 1
+    role_size: cameo
+    register: warm
+    gateway: 1
+    note: A brief, uncredited childhood cameo in her father Jon Voight's film.
+
 curated:
   curator: house
   rationale: The two performances built around real, unglamorous intensity, then the action stardom built on the same raw material.
