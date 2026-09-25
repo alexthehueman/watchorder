@@ -2,7 +2,14 @@
 #
 # Les Misérables already exists in russell-crowe.yaml — tagged before she had an entity. The
 # Devil Wears Prada already exists in streep.yaml — tagged before she had an entity. Interstellar
-# already exists in mcconaughey.yaml — tagged before she had an entity.
+# already exists in mcconaughey.yaml — tagged before she had an entity. This pass adds further
+# free wins Alice in Wonderland and Alice Through the Looking Glass (both Rickman), Get Smart
+# (Arkin), Ocean's Eight (Bullock) and Dark Waters (Todd Haynes), plus 26 new films below.
+#
+# Excludes several still-unreleased or unverifiable future projects (Fear Not, an untitled FBI
+# wedding-sting film, The Princess Diaries 3, Yesteryear, Seesaw Monster, Days of Thunder 2, Alone
+# at Dawn, Verity, The End of Oak Street) and a TV special. The Odyssey, Mother Mary and The Devil
+# Wears Prada 2 are all already released as of this pass.
 
 - id: the-princess-diaries
   tmdb_id: 9880
@@ -92,3 +99,240 @@
     - Crime
     - Drama
     - Action
+
+- id: the-odyssey-2026
+  tmdb_id: 1368337
+  title: The Odyssey
+  year: 2026
+  director: Christopher Nolan
+  runtime: 170
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.70 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: mother-mary
+  tmdb_id: 1102883
+  title: Mother Mary
+  year: 2026
+  runtime: 110
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-devil-wears-prada-2
+  tmdb_id: 1314481
+  title: The Devil Wears Prada 2
+  year: 2026
+  runtime: 120
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-idea-of-you
+  tmdb_id: 843527
+  title: The Idea of You
+  year: 2024
+  runtime: 115
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.60 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+
+- id: mothers-instinct
+  tmdb_id: 758679
+  title: "Mothers' Instinct"
+  year: 2024
+  runtime: 94
+  tags: { opacity: 2, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+
+
+- id: she-came-to-me
+  tmdb_id: 503417
+  title: She Came to Me
+  year: 2023
+  runtime: 102
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 2, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: armageddon-time
+  tmdb_id: 615952
+  title: Armageddon Time
+  year: 2022
+  runtime: 115
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.60 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: wecrashed
+  tmdb_id: 117821
+  title: WeCrashed
+  year: 2022
+  runtime: 480
+  medium: series
+  episodes: 8
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: locked-down
+  tmdb_id: 741228
+  title: Locked Down
+  year: 2021
+  runtime: 118
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: roald-dahls-the-witches
+  tmdb_id: 531219
+  title: "Roald Dahl's The Witches"
+  year: 2020
+  runtime: 106
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
+
+- id: the-last-thing-he-wanted
+  tmdb_id: 505225
+  title: The Last Thing He Wanted
+  year: 2020
+  runtime: 115
+  tags: { opacity: 4, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.25 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-hustle
+  tmdb_id: 449562
+  title: The Hustle
+  year: 2019
+  runtime: 94
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: serenity-2018
+  tmdb_id: 452832
+  title: Serenity
+  year: 2018
+  runtime: 106
+  tags: { opacity: 4, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: the-intern
+  tmdb_id: 257211
+  title: The Intern
+  year: 2015
+  runtime: 121
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 3, acclaim: 0.60 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: rio-2
+  tmdb_id: 172385
+  title: Rio 2
+  year: 2014
+  runtime: 101
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 2, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: song-one
+  tmdb_id: 244783
+  title: Song One
+  year: 2014
+  runtime: 87
+  tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: don-jon
+  tmdb_id: 138697
+  title: Don Jon
+  year: 2013
+  runtime: 90
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+
+- id: rio
+  tmdb_id: 46195
+  title: Rio
+  year: 2011
+  runtime: 96
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: one-day
+  tmdb_id: 51828
+  title: One Day
+  year: 2011
+  runtime: 108
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+
+- id: valentines-day
+  tmdb_id: 32856
+  title: Valentine's Day
+  year: 2010
+  runtime: 125
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: bride-wars
+  tmdb_id: 10521
+  title: Bride Wars
+  year: 2009
+  runtime: 89
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.25 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: passengers-2008
+  tmdb_id: 13944
+  title: Passengers
+  year: 2008
+  runtime: 93
+  tags: { opacity: 3, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: becoming-jane
+  tmdb_id: 2977
+  title: Becoming Jane
+  year: 2007
+  runtime: 120
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: hoodwinked
+  tmdb_id: 10982
+  title: "Hoodwinked!"
+  year: 2005
+  runtime: 80
+  tags: { opacity: 2, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: havoc
+  tmdb_id: 14695
+  title: Havoc
+  year: 2005
+  runtime: 91
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 2 }
+
+- id: the-princess-diaries-2
+  tmdb_id: 11130
+  title: "The Princess Diaries 2: Royal Engagement"
+  year: 2004
+  runtime: 113
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: ella-enchanted
+  tmdb_id: 14442
+  title: Ella Enchanted
+  year: 2004
+  runtime: 96
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: nicholas-nickleby
+  tmdb_id: 29339
+  title: Nicholas Nickleby
+  year: 2002
+  runtime: 132
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-other-side-of-heaven
+  tmdb_id: 16651
+  title: The Other Side of Heaven
+  year: 2001
+  runtime: 113
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
