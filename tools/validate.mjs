@@ -187,6 +187,13 @@ export function validateCorpus(corpus) {
     if (film.letterboxd_slug !== null && film.letterboxd_slug !== undefined && !/^[a-z0-9-]+$/.test(film.letterboxd_slug)) {
       errors.push(`${where} — letterboxd_slug must look like "the-master", got ${JSON.stringify(film.letterboxd_slug)}`);
     }
+    // The real Letterboxd average, 0-5 with quarter-star precision — distinct from the hand-tagged
+    // acclaim axis, which is this project's own subjective judgment rather than a scraped number.
+    if (film.letterboxd_rating !== null && film.letterboxd_rating !== undefined) {
+      if (typeof film.letterboxd_rating !== 'number' || film.letterboxd_rating <= 0 || film.letterboxd_rating > 5) {
+        errors.push(`${where} — letterboxd_rating must be a number in (0, 5], got ${JSON.stringify(film.letterboxd_rating)}`);
+      }
+    }
     // An ingest-only hint: the title Letterboxd itself uses when it differs from ours (a
     // translation, or a subtitle we drop). Nothing renders it — it only widens the candidate
     // list, and a match still has to pass the same live title+year check.

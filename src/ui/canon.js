@@ -33,6 +33,55 @@ function saveSeen(seen) {
   }
 }
 
+const SORT_STORAGE_KEY = 'watchorder:canon-sort';
+
+/**
+ * Reorders the canon <li>s in place by a data attribute the server already computed — no parsing
+ * of visible text, just three numbers per film (house index, year, rating). A missing rating
+ * (still being backfilled for the whole corpus as of this feature shipping) sorts to the end
+ * rather than the front, which is what a naive numeric comparison of an empty string would do.
+ * @param {'house' | 'release' | 'rating'} mode
+ */
+function applySort(mode) {
+  const list = document.getElementById('canon-films');
+  if (!list) return;
+  const items = [...list.children];
+
+  const keyOf = {
+    house: (li) => Number(li.dataset.houseIndex),
+    release: (li) => Number(li.dataset.year),
+    rating: (li) => (li.dataset.rating ? -Number(li.dataset.rating) : Infinity),
+  }[mode];
+  if (!keyOf) return;
+
+  items.sort((a, b) => keyOf(a) - keyOf(b) || Number(a.dataset.houseIndex) - Number(b.dataset.houseIndex));
+  for (const item of items) list.append(item);
+}
+
+const sortSelect = document.getElementById('canon-sort-select');
+if (sortSelect) {
+  sortSelect.closest('.canon-sort').hidden = false;
+
+  let initial = 'house';
+  try {
+    const stored = localStorage.getItem(SORT_STORAGE_KEY);
+    if (stored === 'house' || stored === 'release' || stored === 'rating') initial = stored;
+  } catch {
+    // Storage unavailable — falls back to the server-rendered house order for this page view.
+  }
+  sortSelect.value = initial;
+  if (initial !== 'house') applySort(initial);
+
+  sortSelect.addEventListener('change', () => {
+    applySort(sortSelect.value);
+    try {
+      localStorage.setItem(SORT_STORAGE_KEY, sortSelect.value);
+    } catch {
+      // Non-fatal — the choice just won't persist past this page view.
+    }
+  });
+}
+
 const checkboxes = [...document.querySelectorAll('.seen-check')];
 if (checkboxes.length > 0) {
   const seen = loadSeen();

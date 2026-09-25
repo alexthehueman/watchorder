@@ -245,19 +245,34 @@ const KIND_SECTIONS = [
  * Every must-see film in the corpus, deduped by film. A shared film — the ones tagged once and
  * referenced by several entities — can be must_see under more than one of them; the canon lists it
  * once and links to whichever entity rates it highest by signature, rather than an arbitrary one.
+ *
+ * Each entry also carries a houseIndex: this list has no single curated order of its own the way
+ * an entity page does, so "house order" here means walking the roster in the order it's already
+ * displayed (kind, then entity, both already alphabetical) and, within an entity, the position its
+ * own curator placed the film at. Browsing the canon in house order is browsing the roster itself.
  */
 function collectCanon(entities, filmsById) {
   const best = new Map();
   for (const entity of entities) {
+    const curatedOrder = entity.curated?.order ?? [];
     for (const pair of entity.films ?? []) {
       if (!pair.must_see) continue;
       const existing = best.get(pair.film);
       if (!existing || pair.signature > existing.pair.signature) {
-        best.set(pair.film, { film: filmsById.get(pair.film), pair, entity });
+        const curatedIndex = curatedOrder.indexOf(pair.film);
+        best.set(pair.film, {
+          film: filmsById.get(pair.film),
+          pair,
+          entity,
+          curatedIndex: curatedIndex === -1 ? curatedOrder.length : curatedIndex,
+        });
       }
     }
   }
-  return [...best.values()].sort((a, b) => a.film.year - b.film.year);
+  const entityOrder = new Map(entities.map((entity, i) => [entity, i]));
+  return [...best.values()]
+    .sort((a, b) => entityOrder.get(a.entity) - entityOrder.get(b.entity) || a.curatedIndex - b.curatedIndex)
+    .map((entry, houseIndex) => ({ ...entry, houseIndex }));
 }
 
 /**
@@ -267,18 +282,22 @@ function collectCanon(entities, filmsById) {
  * feature. canon.js reveals it and restores checked state from localStorage on load.
  */
 function canonCard(entry, base) {
-  const { film, pair, entity } = entry;
+  const { film, pair, entity, houseIndex } = entry;
   const poster = film.poster_url
     ? `<img class="poster" src="${esc(film.poster_url)}" alt="" loading="lazy" width="56" height="84">`
     : `<div class="poster-placeholder" aria-hidden="true"></div>`;
-  return `          <li class="canon-film" data-film-id="${esc(film.id)}">
+  // Sort keys live in data attributes rather than being computed client-side from visible text —
+  // canon.js just reads three numbers and reorders <li>s, no parsing. Missing a rating sorts last
+  // (Infinity) rather than first, which a bare unset attribute would do under a naive numeric sort.
+  const rating = film.letterboxd_rating ?? null;
+  return `          <li class="canon-film" data-film-id="${esc(film.id)}" data-year="${film.year}" data-house-index="${houseIndex}" data-rating="${rating ?? ''}">
             ${poster}
             <div class="body">
               <h3>${esc(film.title)} <span class="year">${film.year}</span></h3>
               <p class="meta">
                 <a href="${esc(url(base, `/${entity.kind}/${entity.slug}/`))}">${esc(entity.name)}</a>${
                   film.letterboxd_slug
-                    ? ` · <a class="letterboxd" href="https://letterboxd.com/film/${esc(film.letterboxd_slug)}/" target="_blank" rel="noopener noreferrer">Letterboxd ↗</a>`
+                    ? ` · <a class="letterboxd" href="https://letterboxd.com/film/${esc(film.letterboxd_slug)}/" target="_blank" rel="noopener noreferrer">Letterboxd${rating ? ` ${rating.toFixed(2)}★` : ''} ↗</a>`
                     : ''
                 }
                 <label class="seen-toggle" hidden>
@@ -358,8 +377,16 @@ ${byKind
     canon.length > 0
       ? `      <section class="roster-section" aria-labelledby="canon" data-kind="canon">
         <h2 id="canon">Film Canon</h2>
-        <p class="aside">Every film marked must-see across the whole corpus — ${canon.length} in all, in release order.</p>
-        <ul class="canon-films">
+        <p class="aside">Every film marked must-see across the whole corpus — ${canon.length} in all.</p>
+        <label class="canon-sort" hidden>
+          Sort by
+          <select id="canon-sort-select">
+            <option value="house">House watch order</option>
+            <option value="release">Release order</option>
+            <option value="rating">Letterboxd rating</option>
+          </select>
+        </label>
+        <ul class="canon-films" id="canon-films">
 ${canon.map((entry) => canonCard(entry, base)).join('\n')}
         </ul>
       </section>`

@@ -257,6 +257,26 @@ ul.roster a:hover .name { color: var(--accent); }
 
 .roster-section[hidden] { display: none; }
 
+.canon-sort {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin: 0.75rem 0 0;
+  font-size: 0.85rem;
+  color: var(--muted);
+}
+
+.canon-sort select {
+  font: inherit;
+  color: var(--ink);
+  background: var(--panel);
+  border: 1px solid var(--rule);
+  border-radius: 0.3rem;
+  padding: 0.3rem 0.5rem;
+}
+
+.canon-sort[hidden] { display: none; }
+
 ul.canon-films {
   list-style: none;
   margin: 0;
