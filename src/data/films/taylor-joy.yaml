@@ -56,6 +56,8 @@
   runtime: 104
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.30 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: vampire-academy
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/46/xl/7m/3q/vampire-academy-1200-1200-675-675-crop-000000.jpg?v=1f74899f85
 
 - id: viking-quest
   tmdb_id: 317960
@@ -64,6 +66,8 @@
   runtime: 84
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.25 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: viking-quest
+  poster_url: https://a.ltrbxd.com/resized/film-poster/2/4/5/1/3/5/245135-viking-quest-0-230-0-345-crop.jpg?v=2397e8a718
 
 - id: morgan
   tmdb_id: 377264
@@ -72,6 +76,8 @@
   runtime: 92
   tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.40 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: morgan-2016
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/1b/k2/vb/0x/morgan-1200-1200-675-675-crop-000000.jpg?v=bab78a92ba
 
 - id: barry-2016
   tmdb_id: 397717
@@ -80,6 +86,8 @@
   runtime: 105
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: barry-2016
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/hz/xe/rd/u2/barry-1200-1200-675-675-crop-000000.jpg?v=771cb735dd
 
 - id: the-miniaturist
   tmdb_id: 495036
@@ -88,6 +96,8 @@
   runtime: 174
   tags: { opacity: 3, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.50 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  letterboxd_slug: the-miniaturist
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/nm/vc/h8/cd/mini-1200-1200-675-675-crop-000000.jpg?v=e9041cc1da
 
 - id: marrowbone
   tmdb_id: 399366
@@ -96,6 +106,8 @@
   runtime: 110
   tags: { opacity: 4, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: marrowbone
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/5u/d9/ld/0n/marrowbone-1200-1200-675-675-crop-000000.jpg?v=56c602619b
 
 - id: playmobil-the-movie
   tmdb_id: 366668
@@ -104,6 +116,8 @@
   runtime: 99
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.25 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: playmobil-the-movie
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/wl/iu/od/w7/playmobil-the-movie-1200-1200-675-675-crop-000000.jpg?v=9c83865c1f
 
 - id: radioactive
   tmdb_id: 480857
@@ -112,6 +126,8 @@
   runtime: 109
   tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.45 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: radioactive
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/it/8u/jn/6m/radioactive-1200-1200-675-675-crop-000000.jpg?v=e9ffd10dcd
 
 - id: the-new-mutants
   tmdb_id: 340102
@@ -120,6 +136,8 @@
   runtime: 94
   tags: { opacity: 2, stillness: 1, bleakness: 4, humor: 1, acclaim: 0.35 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 3, sex: 0 }
+  letterboxd_slug: the-new-mutants
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/fk/mn/ri/t8/the-new-mutants-1200-1200-675-675-crop-000000.jpg?v=9d725947d7
 
 - id: here-are-the-young-men
   tmdb_id: 540248
@@ -128,6 +146,8 @@
   runtime: 100
   tags: { opacity: 2, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.35 }
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 1 }
+  letterboxd_slug: here-are-the-young-men
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/pj/5e/b0/5w/here%20are%20the-1200-1200-675-675-crop-000000.jpg?v=de6e2f0d84
 
 - id: the-menu
   tmdb_id: 593643
@@ -136,6 +156,8 @@
   runtime: 107
   tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 3, acclaim: 0.68 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 0 }
+  letterboxd_slug: the-menu-2022
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/9k/lr/hv/rv/GFq9kYUnpRCnlbIbjPzNA96e0j-1200-1200-675-675-crop-000000.jpg?v=4de0ef9ae6
 
 - id: the-super-mario-bros-movie
   tmdb_id: 502356
@@ -144,6 +166,8 @@
   runtime: 92
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: the-super-mario-bros-movie
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/f3/61/49/x0/super%20mario-1200-1200-675-675-crop-000000.jpg?v=b10a032c0f
 
 - id: the-gorge
   tmdb_id: 950396
@@ -152,3 +176,5 @@
   runtime: 127
   tags: { opacity: 2, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: the-gorge-2025
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/r1/zn/ag/o2/IMG_4727-1200-1200-675-675-crop-000000.jpg?v=43dd95f6b3
