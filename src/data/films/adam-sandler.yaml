@@ -1,7 +1,15 @@
 # New films for Adam Sandler. Scales and anchors are in README.md ("The anchor rubric").
 #
 # Uncut Gems already exists in a24.yaml — tagged before he had an entity. Punch-Drunk Love
-# already exists in pta.yaml.
+# already exists in pta.yaml. Airheads, Mixed Nuts, The Longest Yard, Grown Ups and Top Five also
+# already existed. The films below fill out the rest of his real acting filmography per Wikipedia.
+#
+# Excludes producer-only credits with no acting role (Paul Blart, Grandma's Boy, The Benchwarmers,
+# Strange Wilderness, The House Bunny, Dickie Roberts, Bucky Larson, Here Comes the Boom, Joe Dirt,
+# Joe Dirt 2, The Wrong Missy), documentaries and specials he appears in as himself rather than
+# acting (Stupidity, I Am Chris Farley, Norm Macdonald: Nothing Special), and shorts (A Day with
+# the Meatball, Couch, Goldman v Silverman, Nature Planet, Puppy!) — all consistent with the
+# corpus's runtime-driven design elsewhere (see Maya Deren's deferred note in the working list).
 
 - id: billy-madison
   tmdb_id: 11017
@@ -107,3 +115,437 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: reign-over-me
   poster_url: https://a.ltrbxd.com/resized/sm/upload/nx/94/dw/9w/reign-over-me-1200-1200-675-675-crop-000000.jpg?v=82a6a849f4
+
+- id: going-overboard
+  tmdb_id: 19157
+  title: Going Overboard
+  year: 1989
+  runtime: 79
+  director: Valerie Breiman
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 2, acclaim: 0.15 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: shakes-the-clown
+  tmdb_id: 26291
+  title: Shakes the Clown
+  year: 1991
+  runtime: 83
+  director: Bobcat Goldthwait
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.48 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: coneheads
+  tmdb_id: 9612
+  title: Coneheads
+  year: 1993
+  runtime: 88
+  director: Steve Barron
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.42 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: bulletproof
+  tmdb_id: 10723
+  title: Bulletproof
+  year: 1996
+  runtime: 84
+  director: Ernest R. Dickerson
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.4 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: dirty-work
+  tmdb_id: 14577
+  title: Dirty Work
+  year: 1998
+  runtime: 82
+  director: Bob Saget
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-waterboy
+  tmdb_id: 10663
+  title: The Waterboy
+  year: 1998
+  runtime: 90
+  director: Frank Coraci
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: deuce-bigalow-male-gigolo
+  tmdb_id: 10402
+  title: "Deuce Bigalow: Male Gigolo"
+  year: 1999
+  runtime: 88
+  director: Mike Mitchell
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.38 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+
+- id: little-nicky
+  tmdb_id: 9678
+  title: Little Nicky
+  year: 2000
+  runtime: 90
+  director: Steven Brill
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.32 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-animal
+  tmdb_id: 11090
+  title: The Animal
+  year: 2001
+  runtime: 84
+  director: Luke Greenfield
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 2, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: mr-deeds
+  tmdb_id: 2022
+  title: Mr. Deeds
+  year: 2002
+  runtime: 96
+  director: Steven Brill
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.42 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: eight-crazy-nights
+  tmdb_id: 13376
+  title: Eight Crazy Nights
+  year: 2002
+  runtime: 76
+  director: Seth Kearsley
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-hot-chick
+  tmdb_id: 11852
+  title: The Hot Chick
+  year: 2002
+  runtime: 101
+  director: Tom Brady
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.4 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: pauly-shore-is-dead
+  tmdb_id: 27202
+  title: Pauly Shore Is Dead
+  year: 2003
+  runtime: 89
+  director: Pauly Shore
+  tags: { opacity: 2, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: anger-management
+  tmdb_id: 9506
+  title: Anger Management
+  year: 2003
+  runtime: 106
+  director: Peter Segal
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.5 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: 50-first-dates
+  tmdb_id: 1824
+  title: 50 First Dates
+  year: 2004
+  runtime: 99
+  director: Peter Segal
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: spanglish
+  tmdb_id: 2539
+  title: Spanglish
+  year: 2004
+  runtime: 131
+  director: James L. Brooks
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.62 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: deuce-bigalow-european-gigolo
+  tmdb_id: 11453
+  title: "Deuce Bigalow: European Gigolo"
+  year: 2005
+  runtime: 83
+  director: Mike Bigelow
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 2, acclaim: 0.22 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+
+- id: click
+  tmdb_id: 9339
+  title: Click
+  year: 2006
+  runtime: 107
+  director: Frank Coraci
+  tags:
+    opacity: 1
+    stillness: 1
+    bleakness: 3 # a magic remote lets him skip past the hard parts of his life until it starts skipping ahead on its own
+    humor: 3
+    acclaim: 0.55
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: i-now-pronounce-you-chuck-and-larry
+  tmdb_id: 3563
+  title: I Now Pronounce You Chuck & Larry
+  year: 2007
+  runtime: 115
+  director: Dennis Dugan
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.42 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: you-dont-mess-with-the-zohan
+  tmdb_id: 10661
+  title: You Don't Mess with the Zohan
+  year: 2008
+  runtime: 113
+  director: Dennis Dugan
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.48 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: bedtime-stories
+  tmdb_id: 10202
+  title: Bedtime Stories
+  year: 2008
+  runtime: 99
+  director: Adam Shankman
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.5 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: just-go-with-it
+  tmdb_id: 50546
+  title: Just Go with It
+  year: 2011
+  runtime: 117
+  director: Dennis Dugan
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: zookeeper
+  tmdb_id: 38317
+  title: Zookeeper
+  year: 2011
+  runtime: 102
+  director: Frank Coraci
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 2, acclaim: 0.32 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: jack-and-jill
+  tmdb_id: 71880
+  title: Jack and Jill
+  year: 2011
+  runtime: 91
+  director: Dennis Dugan
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 2, acclaim: 0.12 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: thats-my-boy
+  tmdb_id: 87428
+  title: That's My Boy
+  year: 2012
+  runtime: 116
+  director: Sean Anders
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.28 }
+  content: { sexual_violence: true, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 2 }
+
+- id: hotel-transylvania
+  tmdb_id: 76492
+  title: Hotel Transylvania
+  year: 2012
+  runtime: 91
+  director: Genndy Tartakovsky
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.62 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: grown-ups-2
+  tmdb_id: 109418
+  title: Grown Ups 2
+  year: 2013
+  runtime: 101
+  director: Dennis Dugan
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 2, acclaim: 0.18 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: blended
+  tmdb_id: 232672
+  title: Blended
+  year: 2014
+  runtime: 117
+  director: Frank Coraci
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.42 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: men-women-and-children
+  tmdb_id: 243684
+  title: "Men, Women & Children"
+  year: 2014
+  runtime: 119
+  director: Jason Reitman
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 4 # an ensemble about how the internet is quietly corroding every character's marriage, self-image and relationships
+    humor: 1
+    acclaim: 0.45
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+
+- id: the-cobbler
+  tmdb_id: 238215
+  title: The Cobbler
+  year: 2014
+  runtime: 98
+  director: Tom McCarthy
+  tags:
+    opacity: 2 # a magic heirloom sewing machine lets him literally become his customers by wearing their shoes
+    stillness: 2
+    bleakness: 2
+    humor: 2
+    acclaim: 0.3
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: pixels
+  tmdb_id: 257344
+  title: Pixels
+  year: 2015
+  runtime: 106
+  director: Chris Columbus
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 2, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: hotel-transylvania-2
+  tmdb_id: 159824
+  title: Hotel Transylvania 2
+  year: 2015
+  runtime: 89
+  director: Genndy Tartakovsky
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.62 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-ridiculous-6
+  tmdb_id: 347969
+  title: The Ridiculous 6
+  year: 2015
+  runtime: 119
+  director: Frank Coraci
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 1, acclaim: 0.15 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-do-over
+  tmdb_id: 389053
+  title: The Do-Over
+  year: 2016
+  runtime: 108
+  director: Steven Brill
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 2, acclaim: 0.25 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: sandy-wexler
+  tmdb_id: 419700
+  title: Sandy Wexler
+  year: 2017
+  runtime: 131
+  director: Steven Brill
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 2, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-week-of
+  tmdb_id: 465109
+  title: The Week Of
+  year: 2018
+  runtime: 116
+  director: Robert Smigel
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 2, acclaim: 0.32 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: hotel-transylvania-3-summer-vacation
+  tmdb_id: 400155
+  title: "Hotel Transylvania 3: Summer Vacation"
+  year: 2018
+  runtime: 97
+  director: Genndy Tartakovsky
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.62 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: murder-mystery
+  tmdb_id: 514999
+  title: Murder Mystery
+  year: 2019
+  runtime: 97
+  director: Kyle Newacheck
+  tags: { opacity: 2, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.42 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: hubie-halloween
+  tmdb_id: 617505
+  title: Hubie Halloween
+  year: 2020
+  runtime: 102
+  director: Steven Brill
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.4 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: hustle
+  tmdb_id: 705861
+  title: Hustle
+  year: 2022
+  runtime: 118
+  director: Jeremiah Zagar
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.78 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: murder-mystery-2
+  tmdb_id: 638974
+  title: Murder Mystery 2
+  year: 2023
+  runtime: 90
+  director: Jeremy Garelick
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 2, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: you-are-so-not-invited-to-my-bat-mitzvah
+  tmdb_id: 999644
+  title: You Are So Not Invited to My Bat Mitzvah
+  year: 2023
+  runtime: 100
+  director: Sammi Cohen
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.62 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: leo
+  tmdb_id: 1075794
+  title: Leo
+  year: 2023
+  runtime: 102
+  director: Robert Marianetti
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: spaceman
+  tmdb_id: 636706
+  title: Spaceman
+  year: 2024
+  runtime: 107
+  director: Johan Renck
+  tags:
+    opacity: 2 # a giant telepathic spider aboard his ship may or may not be a manifestation of his own guilt
+    stillness: 3
+    bleakness: 4
+    humor: 1
+    acclaim: 0.58
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: happy-gilmore-2
+  tmdb_id: 1263256
+  title: Happy Gilmore 2
+  year: 2025
+  runtime: 114
+  director: Kyle Newacheck
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: jay-kelly
+  tmdb_id: 1069905
+  title: Jay Kelly
+  year: 2025
+  runtime: 132
+  director: Noah Baumbach
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
