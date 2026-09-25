@@ -37,6 +37,182 @@ films:
     gateway: 3
     note: A suburban jock whose casual cruelty toward the outsider next door curdles into something uglier, playing smug, entitled hostility.
 
+  - film: the-dark-knight
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: restrained
+    gateway: 4
+    note: The Gotham district attorney whose office becomes the Joker's next target.
+
+  - film: foxcatcher
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: restrained
+    gateway: 2
+    note: A wrestling coach on the periphery of the increasingly disturbing Team Foxcatcher setup.
+
+  - film: national-lampoons-vacation
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 3
+    note: A minor supporting role in the original Griswold family road-trip comedy.
+
+  - film: six-degrees-of-separation
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: restrained
+    gateway: 1
+    note: A minor supporting role in this drama about a con man who infiltrates a wealthy Manhattan couple's life.
+
+  - film: out-of-bounds
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A Midwestern teen framed for murder and pursued through the LA underworld, in this 80s thriller.
+
+  - film: johnny-be-good
+    signature: 1
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 2
+    note: A star high school quarterback exploited by recruiters offering increasingly absurd bribes.
+
+  - film: six-pack
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 1
+    note: One of a group of orphaned kids who join a down-on-his-luck stock car racer's pit crew.
+
+  - film: a-gnome-named-gnorm
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: comic
+    gateway: 1
+    note: A cop paired with a gnome from a subterranean world to solve a kidnapping.
+
+  - film: into-the-sun
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: An Air Force pilot paired with a Hollywood actor doing research for a role, in this Top Gun-adjacent actioner.
+
+  - film: the-grave
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: menacing
+    gateway: 1
+    note: One of several ex-cons chasing buried treasure in a plot that turns everyone against each other.
+
+  - film: a-bucket-of-blood
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: comic
+    gateway: 1
+    note: A hapless busboy whose accidental sculptures made from dead bodies make him an overnight art-world sensation, in this remake of the Corman cult classic.
+
+  - film: trojan-war
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 1
+    note: A friend of the teen protagonist racing to retrieve a condom before his big date, in this 90s teen comedy.
+
+  - film: pirates-of-silicon-valley
+    signature: 1
+    showcase: 3
+    role_size: lead
+    register: menacing
+    gateway: 2
+    note: Bill Gates, sparring with Steve Jobs across the dawn of the personal computer, in this acclaimed TV movie.
+
+  - film: happy-accidents
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 1
+    note: A minor supporting role in this indie romantic comedy about a woman who might be dating a time traveler.
+
+  - film: last-man-standing-2011
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: menacing
+    gateway: 1
+    note: An associate of the man whose kidnapping drags a suburban wife's secret past to the surface, in this TV movie thriller.
+
+  - film: results
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 1
+    note: A minor supporting role in this indie comedy about a personal trainer and her eccentric new client.
+
+  - film: live-by-night
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: restrained
+    gateway: 1
+    note: A minor supporting role in Affleck's Prohibition-era crime drama.
+
+  - film: war-machine
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 2
+    note: A minor supporting role in this satire of a hard-charging U.S. general's Afghanistan command.
+
+  - film: bodied
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 1
+    note: A radio host giving a platform to the battle-rap scene at the center of this satire.
+
+  - film: clerks-iii
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 2
+    note: A minor supporting role in Kevin Smith's threequel to his own convenience-store comedy.
+
+  - film: halloween-kills
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: menacing
+    gateway: 2
+    note: One of the Haddonfield mob hunting Michael Myers through the streets.
+
+  - film: trigger-warning
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: menacing
+    gateway: 1
+    note: A corrupt local official standing in the way of a Special Forces veteran's investigation into her father's death.
+
 curated:
   curator: house
   rationale: The role he's most remembered for first, then the range around it.
@@ -45,3 +221,4 @@ curated:
     - weird-science
     - the-breakfast-club
     - edward-scissorhands
+    - the-dark-knight

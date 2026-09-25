@@ -1,7 +1,22 @@
 # New films for Anthony Michael Hall. Scales and anchors are in README.md ("The anchor rubric").
 #
 # The Breakfast Club and Sixteen Candles already exist in molly-ringwald.yaml.
-# Edward Scissorhands already exists in depp.yaml.
+# Edward Scissorhands already exists in depp.yaml. This pass adds further free wins The Dark
+# Knight (Bale), Foxcatcher (Carell), National Lampoon's Vacation (Chevy Chase), and Six Degrees
+# of Separation (Will Smith), plus 15 new films below.
+#
+# Scope note: his post-2000 career is dominated by a very long tail of obscure direct-to-video
+# genre pictures and TV movies (Air Force One Down, The Class, Something About Her, Zombie Night,
+# Dead in Tombstone, Friend Request, Sexy Evil Genius, Aftermath, Sincerely Yours, Final Approach,
+# LA Blues, Funny Valentine, Les Vampyres, The Photographer, A Touch of Hope, Dirt Merchant,
+# Revenge, The Killing Grounds, Cold Night Into Dawn, Exit in Red, Hijacked: Flight 285, Texas,
+# Who Do I Gotta Kill?, Hail Caesar, Running Out, Rascals and Robbers, and several unreleased/
+# unclear 2025 titles) with no accessible synopsis or reception info to tag content flags from
+# with confidence. Added only the well-documented ones; the rest deliberately deferred to a
+# dedicated future pass rather than guessed. Excluded as documentaries/shorts/specials about him
+# rather than acting roles: Celebrating Sixteen Candles, Inside Story: National Lampoon's
+# Vacation, Whatever Happened to Mason Reese, SNL50: The Homecoming Concert, and The Gold Bug (no
+# verifiable release info at all).
 
 - id: weird-science
   tmdb_id: 11814
@@ -24,3 +39,149 @@
     - Fantasy
     - Comedy
     - Science Fiction
+
+- id: out-of-bounds
+  tmdb_id: 46743
+  title: Out of Bounds
+  year: 1986
+  runtime: 93
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: johnny-be-good
+  tmdb_id: 20443
+  title: Johnny Be Good
+  year: 1988
+  runtime: 87
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: six-pack
+  tmdb_id: 46925
+  title: Six Pack
+  year: 1982
+  runtime: 108
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: a-gnome-named-gnorm
+  tmdb_id: 21357
+  title: A Gnome Named Gnorm
+  year: 1990
+  runtime: 100
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: into-the-sun
+  tmdb_id: 209369
+  title: Into the Sun
+  year: 1992
+  runtime: 100
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: the-grave
+  tmdb_id: 36299
+  title: The Grave
+  year: 1996
+  runtime: 100
+  tags: { opacity: 1, stillness: 1, bleakness: 4, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: a-bucket-of-blood
+  tmdb_id: 222858
+  title: A Bucket of Blood
+  year: 1995
+  runtime: 96
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: trojan-war
+  tmdb_id: 14330
+  title: Trojan War
+  year: 1997
+  runtime: 92
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: pirates-of-silicon-valley
+  tmdb_id: 3293
+  title: Pirates of Silicon Valley
+  year: 1999
+  runtime: 95
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 2, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: happy-accidents
+  tmdb_id: 22230
+  title: Happy Accidents
+  year: 2000
+  runtime: 111
+  tags: { opacity: 2, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: last-man-standing-2011
+  tmdb_id: 86709
+  title: Last Man Standing
+  year: 2011
+  runtime: 90
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: results
+  tmdb_id: 294132
+  title: Results
+  year: 2015
+  runtime: 105
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: live-by-night
+  tmdb_id: 259695
+  title: Live by Night
+  year: 2016
+  runtime: 129
+  director: Ben Affleck
+  tags: { opacity: 1, stillness: 1, bleakness: 4, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+
+- id: war-machine
+  tmdb_id: 354287
+  title: War Machine
+  year: 2017
+  runtime: 122
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: bodied
+  tmdb_id: 431491
+  title: Bodied
+  year: 2018
+  runtime: 122
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: clerks-iii
+  tmdb_id: 635891
+  title: Clerks III
+  year: 2022
+  runtime: 100
+  director: Kevin Smith
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: halloween-kills
+  tmdb_id: 610253
+  title: Halloween Kills
+  year: 2021
+  runtime: 105
+  tags: { opacity: 1, stillness: 1, bleakness: 5, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: trigger-warning
+  tmdb_id: 704673
+  title: Trigger Warning
+  year: 2024
+  runtime: 106
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.25 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
