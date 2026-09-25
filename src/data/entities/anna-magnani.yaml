@@ -87,6 +87,30 @@ films:
     gateway: 2
     note: Made in direct competition with Stromboli, released the same year. The lesser-known half of a feud.
 
+  - film: roma-1972
+    signature: 1
+    showcase: 2
+    role_size: cameo
+    register: restrained
+    gateway: 1
+    note: A brief late-career cameo, playing herself, in Fellini's impressionistic city portrait.
+
+  - film: the-passionate-thief
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 3
+    note: A washed-up extra roped into a pickpocket's New Year's Eve scheme through the streets of Rome.
+
+  - film: assunta-spina
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A jealous lover's violence scars a laundress's life and choices, in this early Neapolitan melodrama.
+
 curated:
   curator: house
   rationale: The two performances that made her internationally famous, then the range around them.
