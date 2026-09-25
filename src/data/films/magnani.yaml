@@ -169,6 +169,12 @@
   runtime: 128
   tags: { opacity: 4, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.65 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: roma
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ah/bp/gq/zj/roma-1200-1200-675-675-crop-000000.jpg?v=1921fd58f8
+  genres:
+    - Comedy
+    - Drama
+  letterboxd_rating: 3.86
 
 - id: the-passionate-thief
   tmdb_id: 71995
@@ -178,6 +184,11 @@
   runtime: 105
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.60 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: the-passionate-thief
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ut/lp/zj/6h/nEpN674KBzMtTKR8Ch3HlIibEZf%20(1)-1200-1200-675-675-crop-000000.jpg?v=4d324a9963
+  genres:
+    - Comedy
+  letterboxd_rating: 3.66
 
 - id: assunta-spina
   tmdb_id: 195394
@@ -186,3 +197,7 @@
   runtime: 88
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.50 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: assunta-spina-1948
+  poster_url: https://a.ltrbxd.com/resized/film-poster/1/4/0/3/0/8/140308-assunta-spina-0-230-0-345-crop.jpg?v=6ac1d99f7a
+  genres:
+    - Drama
