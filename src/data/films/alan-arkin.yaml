@@ -1,7 +1,17 @@
 # New films for Alan Arkin. Scales and anchors are in README.md ("The anchor rubric").
 #
 # Little Miss Sunshine already exists in carell.yaml. Argo already exists in
-# goodman.yaml. Wait Until Dark already exists in hepburn-audrey.yaml.
+# goodman.yaml. Wait Until Dark already exists in hepburn-audrey.yaml. This pass adds free wins
+# Gattaca (thurman.yaml), Edward Scissorhands (depp.yaml), The Rocketeer (timothy-dalton.yaml),
+# Glengarry Glen Ross and Stand Up Guys (both pacino.yaml), and North (abe-vigoda.yaml) to the
+# entity's films list, plus 61 new films below.
+#
+# Excludes shorts (That's Me, The Last Mohican, People Soup), The Making of Edward Scissorhands
+# (BTS), a handful of documentaries/tributes about him (Sr., Alan Arkin: Live from the TCM
+# Classic Film Festival, Naples '44, Starring Sigmund Freud), his blink-and-gone Muppets cameo,
+# and Calypso Heat Wave (1957) — his real film debut, but no verifiable tmdb_id found this pass;
+# worth a second look. Distinct ids given to Dumbo (2019, vs. the 1941 original already in the
+# corpus) and Indian Summer (1993, vs. Delon's 1972 French film of the same title).
 
 - id: catch-22
   tmdb_id: 10364
@@ -22,3 +32,654 @@
   genres:
     - War
     - Comedy
+
+- id: the-russians-are-coming-the-russians-are-coming
+  tmdb_id: 31918
+  title: The Russians Are Coming! The Russians Are Coming!
+  year: 1966
+  runtime: 126
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 4, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: woman-times-seven
+  tmdb_id: 61041
+  title: Woman Times Seven
+  year: 1967
+  runtime: 99
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: inspector-clouseau
+  tmdb_id: 11573
+  title: Inspector Clouseau
+  year: 1968
+  runtime: 96
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 3, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-heart-is-a-lonely-hunter
+  tmdb_id: 22176
+  title: The Heart Is a Lonely Hunter
+  year: 1968
+  runtime: 123
+  tags: { opacity: 1, stillness: 4, bleakness: 5, humor: 1, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 0 }
+
+- id: popi
+  tmdb_id: 92289
+  title: Popi
+  year: 1969
+  runtime: 115
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-monitors
+  tmdb_id: 210940
+  title: The Monitors
+  year: 1969
+  runtime: 92
+  tags: { opacity: 2, stillness: 2, bleakness: 1, humor: 3, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: little-murders
+  tmdb_id: 27459
+  title: Little Murders
+  year: 1971
+  runtime: 108
+  tags: { opacity: 2, stillness: 2, bleakness: 5, humor: 3, acclaim: 0.60 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-trouble-with-people
+  tmdb_id: 1190157
+  title: The Trouble With People
+  year: 1972
+  runtime: 90
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 3, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: deadhead-miles
+  tmdb_id: 85324
+  title: Deadhead Miles
+  year: 1972
+  runtime: 93
+  tags: { opacity: 3, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: last-of-the-red-hot-lovers
+  tmdb_id: 42483
+  title: Last of the Red Hot Lovers
+  year: 1972
+  runtime: 98
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 4, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: it-couldnt-happen-to-a-nicer-guy
+  tmdb_id: 252928
+  title: It Couldn't Happen to a Nicer Guy
+  year: 1974
+  runtime: 90
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: freebie-and-the-bean
+  tmdb_id: 20802
+  title: Freebie and the Bean
+  year: 1974
+  runtime: 113
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: rafferty-and-the-gold-dust-twins
+  tmdb_id: 111149
+  title: Rafferty and the Gold Dust Twins
+  year: 1975
+  runtime: 92
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: hearts-of-the-west
+  tmdb_id: 84259
+  title: Hearts of the West
+  year: 1975
+  runtime: 102
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 4, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-seven-per-cent-solution
+  tmdb_id: 29578
+  title: The Seven-Per-Cent Solution
+  year: 1976
+  runtime: 113
+  tags: { opacity: 2, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: fire-sale
+  tmdb_id: 41036
+  title: Fire Sale
+  year: 1977
+  runtime: 88
+  director: Alan Arkin
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-other-side-of-hell
+  tmdb_id: 411972
+  title: The Other Side of Hell
+  year: 1978
+  runtime: 100
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-defection-of-simas-kudirka
+  tmdb_id: 257437
+  title: The Defection of Simas Kudirka
+  year: 1978
+  runtime: 100
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-in-laws
+  tmdb_id: 19827
+  title: The In-Laws
+  year: 1979
+  runtime: 103
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 5, acclaim: 0.70 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-magician-of-lublin
+  tmdb_id: 87121
+  title: The Magician of Lublin
+  year: 1979
+  runtime: 105
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: simon
+  tmdb_id: 55792
+  title: Simon
+  year: 1980
+  runtime: 97
+  tags: { opacity: 2, stillness: 2, bleakness: 1, humor: 4, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: improper-channels
+  tmdb_id: 311007
+  title: Improper Channels
+  year: 1981
+  runtime: 91
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: full-moon-high
+  tmdb_id: 107430
+  title: Full Moon High
+  year: 1981
+  runtime: 93
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 4, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: chu-chu-and-the-philly-flash
+  tmdb_id: 58442
+  title: Chu Chu and the Philly Flash
+  year: 1981
+  runtime: 94
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 3, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-last-unicorn
+  tmdb_id: 10150
+  title: The Last Unicorn
+  year: 1982
+  runtime: 92
+  medium: film
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-return-of-captain-invincible
+  tmdb_id: 71016
+  title: The Return of Captain Invincible
+  year: 1983
+  runtime: 90
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 4, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: a-matter-of-principle
+  tmdb_id: 1161225
+  title: A Matter of Principle
+  year: 1984
+  runtime: 100
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: joshua-then-and-now
+  tmdb_id: 187219
+  title: Joshua Then and Now
+  year: 1985
+  runtime: 116
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: the-fourth-wise-man
+  tmdb_id: 81268
+  title: The Fourth Wise Man
+  year: 1985
+  runtime: 60
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-emperors-new-clothes
+  tmdb_id: 489954
+  title: The Emperor's New Clothes
+  year: 1985
+  runtime: 60
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 3, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: bad-medicine
+  tmdb_id: 78235
+  title: Bad Medicine
+  year: 1985
+  runtime: 96
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 3, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: big-trouble
+  tmdb_id: 78041
+  title: Big Trouble
+  year: 1986
+  runtime: 93
+  tags: { opacity: 2, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: a-deadly-business
+  tmdb_id: 378226
+  title: A Deadly Business
+  year: 1986
+  runtime: 100
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: escape-from-sobibor
+  tmdb_id: 25318
+  title: Escape from Sobibor
+  year: 1987
+  runtime: 143
+  tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: necessary-parties
+  tmdb_id: 469054
+  title: Necessary Parties
+  year: 1988
+  runtime: 100
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: coupe-de-ville
+  tmdb_id: 39062
+  title: Coupe de Ville
+  year: 1990
+  runtime: 98
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: havana
+  tmdb_id: 22189
+  title: Havana
+  year: 1990
+  runtime: 145
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: so-i-married-an-axe-murderer
+  tmdb_id: 10442
+  title: So I Married an Axe Murderer
+  year: 1993
+  runtime: 93
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 4, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: taking-the-heat
+  tmdb_id: 273040
+  title: Taking the Heat
+  year: 1993
+  runtime: 96
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: indian-summer-1993
+  tmdb_id: 33506
+  title: Indian Summer
+  year: 1993
+  runtime: 97
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 3, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: cooperstown
+  tmdb_id: 322799
+  title: Cooperstown
+  year: 1993
+  runtime: 90
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: doomsday-gun
+  tmdb_id: 38641
+  title: Doomsday Gun
+  year: 1994
+  runtime: 100
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-jerky-boys
+  tmdb_id: 18713
+  title: The Jerky Boys
+  year: 1995
+  runtime: 82
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.20 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: steal-big-steal-little
+  tmdb_id: 78406
+  title: Steal Big Steal Little
+  year: 1995
+  runtime: 137
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: hecks-way-home
+  tmdb_id: 288895
+  title: "Heck's Way Home"
+  year: 1996
+  runtime: 90
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: mother-night
+  tmdb_id: 20318
+  title: Mother Night
+  year: 1996
+  runtime: 114
+  tags: { opacity: 3, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 0 }
+
+- id: grosse-pointe-blank
+  tmdb_id: 9434
+  title: Grosse Pointe Blank
+  year: 1997
+  runtime: 107
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.70 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: four-days-in-september
+  tmdb_id: 21253
+  title: Four Days in September
+  year: 1997
+  runtime: 110
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.60 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: slums-of-beverly-hills
+  tmdb_id: 14662
+  title: Slums of Beverly Hills
+  year: 1998
+  runtime: 91
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: jakob-the-liar
+  tmdb_id: 2290
+  title: Jakob the Liar
+  year: 1999
+  runtime: 120
+  tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: magicians-2000
+  tmdb_id: 123447
+  title: Magicians
+  year: 2000
+  runtime: 90
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: blood-money-2000
+  tmdb_id: 797380
+  title: Blood Money
+  year: 2000
+  runtime: 90
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: americas-sweethearts
+  tmdb_id: 11467
+  title: "America's Sweethearts"
+  year: 2001
+  runtime: 103
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 3, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: varians-war
+  tmdb_id: 74474
+  title: "Varian's War"
+  year: 2001
+  runtime: 90
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: thirteen-conversations-about-one-thing
+  tmdb_id: 17734
+  title: Thirteen Conversations About One Thing
+  year: 2001
+  runtime: 105
+  tags: { opacity: 3, stillness: 4, bleakness: 3, humor: 1, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: eros
+  tmdb_id: 39850
+  title: Eros
+  year: 2004
+  runtime: 104
+  tags: { opacity: 2, stillness: 3, bleakness: 2, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+
+- id: noel
+  tmdb_id: 41171
+  title: Noel
+  year: 2004
+  runtime: 96
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: and-starring-pancho-villa-as-himself
+  tmdb_id: 24241
+  title: And Starring Pancho Villa as Himself
+  year: 2003
+  runtime: 118
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-pentagon-papers
+  tmdb_id: 40113
+  title: The Pentagon Papers
+  year: 2003
+  runtime: 98
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: firewall
+  tmdb_id: 9754
+  title: Firewall
+  year: 2006
+  runtime: 105
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: raising-flagg
+  tmdb_id: 18534
+  title: Raising Flagg
+  year: 2006
+  runtime: 100
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-santa-clause-3-the-escape-clause
+  tmdb_id: 13767
+  title: "The Santa Clause 3: The Escape Clause"
+  year: 2006
+  runtime: 98
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: crossroads-2006
+  tmdb_id: 44118
+  title: Crossroads
+  year: 2006
+  runtime: 90
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: rendition
+  tmdb_id: 5125
+  title: Rendition
+  year: 2007
+  runtime: 122
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: sunshine-cleaning
+  tmdb_id: 13090
+  title: Sunshine Cleaning
+  year: 2008
+  runtime: 91
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: get-smart
+  tmdb_id: 11665
+  title: Get Smart
+  year: 2008
+  runtime: 110
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: marley-and-me
+  tmdb_id: 14306
+  title: Marley & Me
+  year: 2008
+  runtime: 115
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: wisdom-2008
+  tmdb_id: 82022
+  title: Wisdom
+  year: 2008
+  runtime: 90
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-private-lives-of-pippa-lee
+  tmdb_id: 4475
+  title: The Private Lives of Pippa Lee
+  year: 2009
+  runtime: 97
+  tags: { opacity: 2, stillness: 3, bleakness: 2, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: city-island
+  tmdb_id: 28053
+  title: City Island
+  year: 2009
+  runtime: 104
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.60 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: thin-ice
+  tmdb_id: 51996
+  title: Thin Ice
+  year: 2012
+  runtime: 93
+  tags: { opacity: 2, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-change-up
+  tmdb_id: 49520
+  title: The Change-Up
+  year: 2011
+  runtime: 112
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+
+- id: the-incredible-burt-wonderstone
+  tmdb_id: 124459
+  title: The Incredible Burt Wonderstone
+  year: 2013
+  runtime: 100
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: in-security
+  tmdb_id: 262866
+  title: In Security
+  year: 2014
+  runtime: 90
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 3, acclaim: 0.25 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: grudge-match
+  tmdb_id: 64807
+  title: Grudge Match
+  year: 2013
+  runtime: 113
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: million-dollar-arm
+  tmdb_id: 198185
+  title: Million Dollar Arm
+  year: 2014
+  runtime: 124
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 3, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: love-the-coopers
+  tmdb_id: 333348
+  title: Love the Coopers
+  year: 2015
+  runtime: 107
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 3, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: going-in-style
+  tmdb_id: 353070
+  title: Going in Style
+  year: 2017
+  runtime: 96
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 4, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: dumbo-2019
+  tmdb_id: 329996
+  title: Dumbo
+  year: 2019
+  runtime: 112
+  director: Tim Burton
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: spenser-confidential
+  tmdb_id: 581600
+  title: Spenser Confidential
+  year: 2020
+  runtime: 111
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: minions-the-rise-of-gru
+  tmdb_id: 438148
+  title: "Minions: The Rise of Gru"
+  year: 2022
+  runtime: 87
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
