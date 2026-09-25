@@ -1,0 +1,194 @@
+# Not bounded to a closed era the way MGM (1924-1959) is — like Warner Bros. and Universal,
+# Paramount is still an active studio whose identity never really dissolved. Three eras trace a
+# real throughline: the golden-age glamour-and-suspense years (Wilder, Wyler, Hitchcock, DeMille),
+# the auteur-driven New Hollywood run that opened with The Godfather, and the modern era balancing
+# tentpole franchises against the occasional prestige swing.
+#
+# Vertigo and Psycho are here rather than at Universal on purpose — both Hitchcock pictures were
+# financed and distributed by Paramount, even though they were shot on what's now Universal's
+# backlot. See universal.yaml's header for the reverse mistake this was written to avoid.
+
+slug: paramount
+kind: studio
+name: Paramount Pictures
+blurb: The mountain logo behind the golden age's glossiest suspense pictures and the New Hollywood run that opened with an offer nobody refused — old-money prestige with a genuine appetite for danger underneath it.
+
+eras:
+  - id: golden-age
+    name: Golden-age glamour and suspense
+    from: 1950
+  - id: new-hollywood
+    name: New Hollywood
+    from: 1972
+  - id: modern
+    name: The franchise era
+    from: 1990
+
+films:
+  - film: sunset-boulevard
+    era: golden-age
+    signature: 5
+    gateway: 2
+    note: A washed-up silent star drags a broke screenwriter into her delusion that Hollywood is still waiting for her comeback, narrated by a dead man floating face-down in her pool.
+
+  - film: roman-holiday
+    era: golden-age
+    signature: 2
+    gateway: 1
+    note: A runaway princess spends one incognito day in Rome with a reporter who knows exactly who she is and decides not to say so, at least not yet.
+
+  - film: shane
+    era: golden-age
+    signature: 3
+    gateway: 2
+    note: A drifting gunfighter tries to leave violence behind by helping a homesteading family fight off the rancher trying to run them out, and finds he isn't as done with it as he'd hoped.
+
+  - film: rear-window
+    era: golden-age
+    signature: 4
+    gateway: 2
+    note: A photographer laid up with a broken leg passes the time watching his neighbors through the courtyard window, until he's sure one of them is a murderer and can't convince anyone else.
+
+  - film: the-ten-commandments
+    era: golden-age
+    signature: 3
+    gateway: 3
+    note: Moses leads the Israelites out of Egyptian slavery across a Red Sea that splits for them, staged with the kind of scale the studio built its epic reputation on.
+
+  - film: vertigo
+    era: golden-age
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A detective forced into early retirement by his fear of heights falls for the woman he's shadowing, then tries to remake a second woman into her image once the first one is gone.
+
+  - film: psycho
+    era: golden-age
+    signature: 5
+    gateway: 2
+    note: A secretary on the run with stolen money checks into a roadside motel run by a young man who is a little too attached to his mother — the shock that effectively ended the golden age's decorum.
+
+  - film: breakfast-at-tiffanys
+    era: golden-age
+    signature: 3
+    gateway: 1
+    note: A café-society girl who reinvents herself daily starts to fall for the struggling writer renting the apartment upstairs, glamour with a genuine loneliness underneath it.
+
+  - film: the-godfather
+    era: new-hollywood
+    signature: 5
+    must_see: true
+    gateway: 2
+    note: A mafia don's reluctant youngest son is pulled into the family business after an assassination attempt, and the war of succession that follows changes exactly who he is.
+
+  - film: the-godfather-part-ii
+    era: new-hollywood
+    signature: 5
+    gateway: 4
+    note: A young immigrant's rise to power in old New York is cut against his son's ruthless consolidation of that same power decades later, each timeline making the other bleaker.
+
+  - film: chinatown
+    era: new-hollywood
+    signature: 5
+    gateway: 3
+    note: A private detective hired to investigate a simple infidelity case stumbles into a municipal water conspiracy that goes all the way to the top, and loses every round trying to fix it.
+
+  - film: grease
+    era: new-hollywood
+    signature: 2
+    gateway: 1
+    note: A good-girl exchange student and a greaser both spend the school year performing different versions of themselves for their friend groups, none of it especially believable and none of it needing to be.
+
+  - film: raiders-of-the-lost-ark
+    era: new-hollywood
+    signature: 3
+    gateway: 1
+    note: An archaeologist races Nazi treasure hunters to the Ark of the Covenant, moving with a pulp-serial momentum the genre has been chasing ever since.
+
+  - film: beverly-hills-cop
+    era: new-hollywood
+    signature: 2
+    gateway: 1
+    note: A wisecracking Detroit cop follows a friend's murder to Beverly Hills and talks his way past every velvet rope in the case, built entirely around its star's motormouth charm.
+
+  - film: top-gun
+    era: new-hollywood
+    signature: 2
+    gateway: 1
+    note: A hotshot naval aviator's competitive streak with his rivals nearly costs him everything after a training accident, glossy 1980s recruitment-ad filmmaking that became its own genre.
+
+  - film: forrest-gump
+    era: modern
+    signature: 3
+    gateway: 1
+    note: A man of limited understanding but total sincerity wanders through three decades of American history, present for nearly every major event almost by accident.
+
+  - film: titanic
+    era: modern
+    signature: 3
+    gateway: 1
+    note: A penniless artist and an engaged society girl fall for each other aboard the doomed liner, the romance played completely straight against a disaster the audience already knows is coming.
+
+  - film: the-truman-show
+    era: modern
+    signature: 4
+    gateway: 2
+    note: A man slowly realizes his entire life has been a nonstop television show broadcast to the world without his knowledge, and has to decide whether to walk out of the only reality he's ever known.
+
+  - film: mean-girls
+    era: modern
+    signature: 2
+    gateway: 1
+    note: A homeschooled teenager infiltrates her new high school's most feared clique to bring them down and ends up becoming exactly what she set out to destroy.
+
+  - film: there-will-be-blood
+    era: modern
+    signature: 5
+    gateway: 4
+    note: An oil prospector's ruthlessness curdles into total isolation over decades of buying up land and enemies in equal measure, ending in a confrontation with the one man who's outlasted him.
+
+  - film: no-country-for-old-men
+    era: modern
+    signature: 5
+    gateway: 3
+    note: A welder who stumbles onto drug money becomes the target of an unstoppable hitman, while the aging sheriff trailing both of them starts to suspect the violence has simply outgrown him.
+
+  - film: a-quiet-place
+    era: modern
+    signature: 3
+    gateway: 2
+    note: A family survives blind, sound-hunting predators by staying almost completely silent, tension built entirely out of the noise they can't afford to make.
+
+  - film: top-gun-maverick
+    era: modern
+    signature: 2
+    gateway: 1
+    note: An aging aviator is called back to train a new generation of pilots for a mission that looks a lot like the one that killed his best friend, a legacy sequel that outgrossed the original by a wide margin.
+
+curated:
+  curator: house
+  rationale: The two undisputed landmarks first, then the range across all three eras.
+  order:
+    - the-godfather
+    - vertigo
+    - chinatown
+    - the-godfather-part-ii
+    - no-country-for-old-men
+    - there-will-be-blood
+    - psycho
+    - the-truman-show
+    - sunset-boulevard
+    - rear-window
+    - raiders-of-the-lost-ark
+    - titanic
+    - a-quiet-place
+    - the-ten-commandments
+    - shane
+    - forrest-gump
+    - breakfast-at-tiffanys
+    - roman-holiday
+    - top-gun
+    - top-gun-maverick
+    - grease
+    - beverly-hills-cop
+    - mean-girls

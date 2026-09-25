@@ -1,0 +1,23 @@
+# Films for Paramount Pictures. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Every other film for this entity already exists elsewhere in the corpus, tagged under a
+# director or actor before this entity existed — see the entity file for the full list of
+# sources. Only one new film was needed.
+#
+# Vertigo and Psycho land here rather than at Universal deliberately — both were financed and
+# distributed by Paramount despite being shot at what's now the Universal lot; see the note in
+# universal.yaml for the reverse of this mistake.
+
+- id: grease
+  tmdb_id: 621
+  title: Grease
+  year: 1978
+  runtime: 110
+  director: Randal Kleiser
+  tags:
+    opacity: 1
+    stillness: 1
+    bleakness: 1
+    humor: 3
+    acclaim: 0.72 # a musical that plays its own nostalgia completely straight rather than winking at it
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
