@@ -321,6 +321,7 @@ function canonCard(entry, base) {
                   <input type="checkbox" class="seen-check" data-film-id="${esc(film.id)}"> Seen
                 </label>
               </p>
+              ${film.genres?.length ? `<p class="genres">${esc(film.genres.join(', '))}</p>` : ''}
               ${pair.note ? `<p class="note">${esc(pair.note)}</p>` : ''}
             </div>
           </li>`;

@@ -13,6 +13,7 @@
     "ingest:letterboxd": "node tools/ingest-letterboxd.mjs",
     "ingest:letterboxd-rating": "node tools/ingest-letterboxd-rating.mjs",
     "ingest:letterboxd-genres": "node tools/ingest-letterboxd-genres.mjs",
+    "audit:letterboxd-slugs": "node tools/audit-letterboxd-slugs.mjs",
     "verify:links": "node tools/verify-links.mjs",
     "preview": "node tools/preview.mjs"
   },
