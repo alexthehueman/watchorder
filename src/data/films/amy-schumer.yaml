@@ -62,6 +62,13 @@
   runtime: 101
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 0 }
+  letterboxd_slug: seeking-a-friend-for-the-end-of-the-world
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/gx/g8/aq/sd/seeking-a-friend-1200-1200-675-675-crop-000000.jpg?v=fb66993717
+  genres:
+    - Comedy
+    - Romance
+    - Drama
+  letterboxd_rating: 3.35
 
 - id: price-check
   tmdb_id: 84323
@@ -70,6 +77,12 @@
   runtime: 93
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.35 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: price-check
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/pa/mx/v3/ok/aQUs60e9hRlkLIefv0HGKB0epya-1200-1200-675-675-crop-000000.jpg?v=e3f5677a29
+  genres:
+    - Comedy
+    - Drama
+  letterboxd_rating: 2.98
 
 - id: sleepwalk-with-me
   tmdb_id: 84340
@@ -78,6 +91,11 @@
   runtime: 81
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: sleepwalk-with-me
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/t9/uz/lh/7e/sleepwalk-with-me-1200-1200-675-675-crop-000000.jpg?v=24ef47f061
+  genres:
+    - Comedy
+  letterboxd_rating: 3.44
 
 - id: thank-you-for-your-service
   tmdb_id: 347629
@@ -86,6 +104,12 @@
   runtime: 108
   tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 0 }
+  letterboxd_slug: thank-you-for-your-service
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/0m/qn/1y/dg/thank-you-for-your-service-1200-1200-675-675-crop-000000.jpg?v=addb9075e2
+  genres:
+    - War
+    - Drama
+  letterboxd_rating: 3.29
 
 - id: the-humans
   tmdb_id: 588367
@@ -94,6 +118,11 @@
   runtime: 108
   tags: { opacity: 2, stillness: 4, bleakness: 4, humor: 1, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: the-humans
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/em/lh/7k/r1/the-humans-2021-1200-1200-675-675-crop-000000.jpg?v=1fe75d4a83
+  genres:
+    - Drama
+  letterboxd_rating: 3.34
 
 - id: bros
   tmdb_id: 614939
@@ -102,6 +131,12 @@
   runtime: 115
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: bros
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/vl/6r/ms/81/bros-1200-1200-675-675-crop-000000.jpg?v=740c9691f7
+  genres:
+    - Comedy
+    - Romance
+  letterboxd_rating: 3.04
 
 - id: trolls-band-together
   tmdb_id: 901362
@@ -110,6 +145,16 @@
   runtime: 92
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.45 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: trolls-band-together
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/xz/98/9h/11/trolls-1200-1200-675-675-crop-000000.jpg?v=78754c0fa7
+  genres:
+    - Fantasy
+    - Adventure
+    - Comedy
+    - Animation
+    - Music
+    - Family
+  letterboxd_rating: 3.15
 
 - id: unfrosted
   tmdb_id: 844185
@@ -118,6 +163,12 @@
   runtime: 93
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.30 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: unfrosted
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/gk/h2/5v/tv/unfrosted-1200-1200-675-675-crop-000000.jpg?v=967e58280b
+  genres:
+    - History
+    - Comedy
+  letterboxd_rating: 2.08
 
 - id: if-2024
   tmdb_id: 639720
@@ -126,3 +177,10 @@
   runtime: 104
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.45 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: if-2024
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/tw/gk/bw/fl/if-1200-1200-675-675-crop-000000.jpg?v=f8418c5087
+  genres:
+    - Fantasy
+    - Family
+    - Comedy
+  letterboxd_rating: 2.89
