@@ -1,6 +1,15 @@
 # Films for Al Pacino not already in the corpus. The Godfather and The Godfather Part II arrived
 # with Marlon Brando and Robert De Niro respectively; Heat arrives with De Niro too — Pacino and
 # De Niro share a scene in it, famously their only one on screen together until decades later.
+#
+# Dick Tracy, The Godfather Part III, Carlito's Way, Donnie Brasco, Any Given Sunday, Two for the
+# Money, Jack and Jill, Once Upon a Time in Hollywood, The Irishman and House of Gucci also already
+# existed elsewhere. The films below fill out the rest of his real filmography per Wikipedia.
+#
+# Excludes Wilde Salomé (2011) — a documentary about staging the play, not the dramatic film itself
+# (Salomé, 2013, is the actual feature and is included). Excludes Father Joe, Lear Rex and
+# Maserati: The Brothers — all still unreleased as of this pass, unlike the other 2025-2026 titles
+# below, which have confirmed premieres or theatrical dates that have already passed.
 
 - id: serpico
   tmdb_id: 9040
@@ -144,3 +153,388 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZGY3ZjEyODAtNjAwMC00ZTEwLTg3NDctYzMzYTZkMjBmZDQwXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-insider
   letterboxd_rating: 4.1
+
+- id: me-natalie
+  tmdb_id: 181553
+  title: "Me, Natalie"
+  year: 1969
+  runtime: 111
+  director: Fred Coe
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.5 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-panic-in-needle-park
+  tmdb_id: 27554
+  title: The Panic in Needle Park
+  year: 1971
+  runtime: 110
+  director: Jerry Schatzberg
+  tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: scarecrow
+  tmdb_id: 31587
+  title: Scarecrow
+  year: 1973
+  runtime: 112
+  director: Jerry Schatzberg
+  tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 2, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: bobby-deerfield
+  tmdb_id: 42217
+  title: Bobby Deerfield
+  year: 1977
+  runtime: 124
+  director: Sydney Pollack
+  tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.5 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: cruising
+  tmdb_id: 27958
+  title: Cruising
+  year: 1980
+  runtime: 102
+  director: William Friedkin
+  tags:
+    opacity: 3 # deliberately never resolves whether he becomes what he's investigating
+    stillness: 2
+    bleakness: 4
+    humor: 1
+    acclaim: 0.6
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 2 }
+
+- id: author-author
+  tmdb_id: 41760
+  title: Author! Author!
+  year: 1982
+  runtime: 110
+  director: Arthur Hiller
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: revolution
+  tmdb_id: 12701
+  title: Revolution
+  year: 1985
+  runtime: 125
+  director: Hugh Hudson
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.38 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
+
+- id: the-local-stigmatic
+  tmdb_id: 72781
+  title: The Local Stigmatic
+  year: 1990
+  runtime: 55
+  director: David Wheeler
+  tags: { opacity: 2, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: frankie-and-johnny
+  tmdb_id: 3784
+  title: Frankie and Johnny
+  year: 1991
+  runtime: 118
+  director: Garry Marshall
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.62 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: two-bits
+  tmdb_id: 40628
+  title: Two Bits
+  year: 1995
+  runtime: 85
+  director: James Foley
+  tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.5 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: city-hall
+  tmdb_id: 11062
+  title: City Hall
+  year: 1996
+  runtime: 111
+  director: Harold Becker
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.58 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
+
+- id: chinese-coffee
+  tmdb_id: 49511
+  title: Chinese Coffee
+  year: 2000
+  runtime: 99
+  director: Al Pacino
+  tags:
+    opacity: 1
+    stillness: 4 # a filmed two-hander built almost entirely out of one long, circling argument
+    bleakness: 3
+    humor: 2
+    acclaim: 0.6
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: insomnia
+  tmdb_id: 320
+  title: Insomnia
+  year: 2002
+  runtime: 118
+  director: Christopher Nolan
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: simone
+  tmdb_id: 9296
+  title: Simone
+  year: 2002
+  runtime: 117
+  director: Andrew Niccol
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: people-i-know
+  tmdb_id: 11458
+  title: People I Know
+  year: 2002
+  runtime: 96
+  director: Daniel Algrant
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.5 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: the-recruit
+  tmdb_id: 1647
+  title: The Recruit
+  year: 2003
+  runtime: 115
+  director: Roger Donaldson
+  tags: { opacity: 2, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.6 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: gigli
+  tmdb_id: 8046
+  title: Gigli
+  year: 2003
+  runtime: 121
+  director: Martin Brest
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 2, acclaim: 0.08 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: the-merchant-of-venice
+  tmdb_id: 11162
+  title: The Merchant of Venice
+  year: 2004
+  runtime: 131
+  director: Michael Radford
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: 88-minutes
+  tmdb_id: 3489
+  title: 88 Minutes
+  year: 2007
+  runtime: 108
+  director: Jon Avnet
+  tags: { opacity: 2, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: oceans-thirteen
+  tmdb_id: 298
+  title: "Ocean's Thirteen"
+  year: 2007
+  runtime: 122
+  director: Steven Soderbergh
+  tags: { opacity: 2, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: righteous-kill
+  tmdb_id: 13389
+  title: Righteous Kill
+  year: 2008
+  runtime: 101
+  director: Jon Avnet
+  tags: { opacity: 2, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.42 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-son-of-no-one
+  tmdb_id: 74536
+  title: The Son of No One
+  year: 2011
+  runtime: 91
+  director: Dito Montiel
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: stand-up-guys
+  tmdb_id: 121824
+  title: Stand Up Guys
+  year: 2012
+  runtime: 95
+  director: Fisher Stevens
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: salome
+  tmdb_id: 217919
+  title: Salomé
+  year: 2013
+  runtime: 82
+  director: Al Pacino
+  tags:
+    opacity: 2
+    stillness: 3
+    bleakness: 5 # ends with the severed head Salomé demanded, staged as bluntly as the Wilde text allows
+    humor: 1
+    acclaim: 0.55
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: we-are-not-animals
+  tmdb_id: 289561
+  title: We Are Not Animals
+  year: 2013
+  runtime: 90
+  director: Alejandro Agresti
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.42 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: manglehorn
+  tmdb_id: 254905
+  title: Manglehorn
+  year: 2014
+  runtime: 97
+  director: David Gordon Green
+  tags: { opacity: 2, stillness: 4, bleakness: 3, humor: 1, acclaim: 0.5 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-humbling
+  tmdb_id: 254023
+  title: The Humbling
+  year: 2014
+  runtime: 112
+  director: Barry Levinson
+  tags:
+    opacity: 2 # an aging actor's breakdown blurs what's actually happening with what he's performing, even to himself
+    stillness: 2
+    bleakness: 4
+    humor: 3
+    acclaim: 0.48
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 1 }
+
+- id: danny-collins
+  tmdb_id: 256924
+  title: Danny Collins
+  year: 2015
+  runtime: 106
+  director: Dan Fogelman
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: misconduct
+  tmdb_id: 373314
+  title: Misconduct
+  year: 2016
+  runtime: 106
+  director: Shintaro Shimosawa
+  tags: { opacity: 2, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.28 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: the-pirates-of-somalia
+  tmdb_id: 394537
+  title: The Pirates of Somalia
+  year: 2017
+  runtime: 110
+  director: Bryan Buckley
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.62 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: hangman
+  tmdb_id: 323368
+  title: Hangman
+  year: 2017
+  runtime: 98
+  director: Johnny Martin
+  tags: { opacity: 2, stillness: 1, bleakness: 4, humor: 1, acclaim: 0.32 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: american-traitor-the-trial-of-axis-sally
+  tmdb_id: 603603
+  title: "American Traitor: The Trial of Axis Sally"
+  year: 2021
+  runtime: 106
+  director: Michael Polish
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.42 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: knox-goes-away
+  tmdb_id: 972614
+  title: Knox Goes Away
+  year: 2023
+  runtime: 115
+  director: Michael Keaton
+  tags:
+    opacity: 2 # a hitman with rapid-onset dementia races his own mind's collapse to protect his estranged son
+    stillness: 2
+    bleakness: 4
+    humor: 1
+    acclaim: 0.65
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: modi-three-days-on-the-wing-of-madness
+  tmdb_id: 1013406
+  title: "Modì, Three Days on the Wing of Madness"
+  year: 2024
+  runtime: 116
+  director: Johnny Depp
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-ritual
+  tmdb_id: 1278950
+  title: The Ritual
+  year: 2025
+  runtime: 98
+  director: David Midell
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.32 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: easys-waltz
+  tmdb_id: 1091291
+  title: "Easy's Waltz"
+  year: 2025
+  runtime: 118
+  director: Nic Pizzolatto
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: in-the-hand-of-dante
+  tmdb_id: 1020047
+  title: In the Hand of Dante
+  year: 2025
+  runtime: 113
+  director: Julian Schnabel
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.42 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: dead-mans-wire
+  tmdb_id: 1263012
+  title: "Dead Man's Wire"
+  year: 2025
+  runtime: 114
+  director: Gus Van Sant
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.6 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: billy-knight
+  tmdb_id: 1029639
+  title: Billy Knight
+  year: 2025
+  runtime: 98
+  director: Alec Griffen Roth
+  tags: { opacity: 2, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.5 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: killing-castro
+  tmdb_id: 1213643
+  title: Killing Castro
+  year: 2026
+  runtime: 110
+  director: Eif Rivera
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.5 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
