@@ -1,6 +1,9 @@
 # New films for Amy Schumer. Scales and anchors are in README.md ("The anchor rubric").
 #
-# Trainwreck already exists in hader.yaml — tagged before she had an entity.
+# Trainwreck already exists in hader.yaml — tagged before she had an entity. This pass adds 9 new
+# films. Excludes her own stand-up specials (not narrative films), one-off TV episode voice
+# cameos (The Simpsons, Bob's Burgers, Family Guy, BoJack Horseman), and Best Divorce Ever, which
+# has no listed release date.
 
 - id: snatched
   tmdb_id: 373569
@@ -51,3 +54,75 @@
   genres:
     - Comedy
     - Romance
+
+- id: seeking-a-friend-for-the-end-of-the-world
+  tmdb_id: 88005
+  title: Seeking a Friend for the End of the World
+  year: 2012
+  runtime: 101
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 0 }
+
+- id: price-check
+  tmdb_id: 84323
+  title: Price Check
+  year: 2012
+  runtime: 93
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: sleepwalk-with-me
+  tmdb_id: 84340
+  title: Sleepwalk with Me
+  year: 2012
+  runtime: 81
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: thank-you-for-your-service
+  tmdb_id: 347629
+  title: Thank You for Your Service
+  year: 2017
+  runtime: 108
+  tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 0 }
+
+- id: the-humans
+  tmdb_id: 588367
+  title: The Humans
+  year: 2021
+  runtime: 108
+  tags: { opacity: 2, stillness: 4, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: bros
+  tmdb_id: 614939
+  title: Bros
+  year: 2022
+  runtime: 115
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: trolls-band-together
+  tmdb_id: 901362
+  title: Trolls Band Together
+  year: 2023
+  runtime: 92
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: unfrosted
+  tmdb_id: 844185
+  title: Unfrosted
+  year: 2024
+  runtime: 93
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: if-2024
+  tmdb_id: 639720
+  title: "IF"
+  year: 2024
+  runtime: 104
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

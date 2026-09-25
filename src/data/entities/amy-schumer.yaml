@@ -37,6 +37,78 @@ films:
     gateway: 5
     note: A recently dumped woman dragging her mother on a disastrous vacation, playing broad, high-strung comic panic.
 
+  - film: seeking-a-friend-for-the-end-of-the-world
+    signature: 1
+    showcase: 1
+    role_size: cameo
+    register: unhinged
+    gateway: 1
+    note: A brief cameo in an ensemble apocalypse dramedy.
+
+  - film: price-check
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 1
+    note: A minor supporting role in a corporate satire.
+
+  - film: sleepwalk-with-me
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 1
+    note: An early supporting role in Mike Birbiglia's autobiographical comedy.
+
+  - film: thank-you-for-your-service
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: restrained
+    gateway: 1
+    note: A soldier's wife in a drama about veterans struggling to readjust after Iraq.
+
+  - film: the-humans
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: unhinged
+    gateway: 1
+    note: A daughter hosting Thanksgiving in a decaying apartment while her family's tensions surface one by one.
+
+  - film: bros
+    signature: 1
+    showcase: 1
+    role_size: cameo
+    register: comic
+    gateway: 2
+    note: A brief cameo in the gay romantic comedy.
+
+  - film: trolls-band-together
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 3
+    note: A minor voice role in the animated franchise's third entry.
+
+  - film: unfrosted
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 2
+    note: A minor supporting role in the absurdist Pop-Tart origin comedy.
+
+  - film: if-2024
+    signature: 1
+    showcase: 1
+    role_size: cameo
+    register: warm
+    gateway: 2
+    note: A brief role in the family fantasy about imaginary friends.
+
 curated:
   curator: house
   rationale: The role that defined her film persona first, then the range around it.
