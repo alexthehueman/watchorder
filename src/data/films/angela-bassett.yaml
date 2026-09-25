@@ -2,7 +2,18 @@
 #
 # Black Panther already exists in michael-b-jordan.yaml — tagged before she had an entity.
 # Black Panther Wakanda Forever already exists in nyongo.yaml. Malcolm X already exists in
-# washington.yaml.
+# washington.yaml. This pass adds further free wins Mission: Impossible - Fallout (Cruise),
+# Bumblebee (Steinfeld), Olympus Has Fallen (Leo), Contact (Foster) and Kindergarten Cop (Ivan
+# Reitman), plus 34 new films below.
+#
+# Excludes Wildwood (2026, not yet released), an uncredited voice-only cameo in Mr. & Mrs. Smith
+# (2005), and roughly ten obscure early-1990s TV movies (Locked Up: A Mother's Rage, Fire! Trapped
+# on the 37th Floor, Line of Fire: The Morris Dees Story, The Heroes of Desert Storm, One Special
+# Victory, Perry Mason: The Case of the Silenced Singer, In the Best Interest of the Child,
+# Challenger, Liberty, Doubletake) with essentially no accessible synopsis or reception information
+# to tag content flags from with real confidence — deferred to a dedicated future pass rather than
+# guessed. Notorious (2009) needed a distinct id from an unrelated 1946 Hitchcock film of the same
+# title already in the corpus.
 
 - id: whats-love-got-to-do-with-it
   tmdb_id: 15765
@@ -87,3 +98,344 @@
     - Drama
     - Comedy
     - Romance
+
+- id: mission-impossible-the-final-reckoning
+  tmdb_id: 575265
+  title: "Mission: Impossible - The Final Reckoning"
+  year: 2025
+  runtime: 170
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.60 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: damsel
+  tmdb_id: 763215
+  title: Damsel
+  year: 2024
+  runtime: 110
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: orion-and-the-dark
+  tmdb_id: 1139829
+  title: Orion and the Dark
+  year: 2024
+  runtime: 92
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: wendell-and-wild
+  tmdb_id: 511817
+  title: Wendell & Wild
+  year: 2022
+  runtime: 105
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: gunpowder-milkshake
+  tmdb_id: 574060
+  title: Gunpowder Milkshake
+  year: 2021
+  runtime: 114
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: soul-2020
+  tmdb_id: 508442
+  title: Soul
+  year: 2020
+  runtime: 100
+  tags: { opacity: 2, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.80 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: otherhood
+  tmdb_id: 531509
+  title: Otherhood
+  year: 2019
+  runtime: 105
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 3, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: avengers-endgame
+  tmdb_id: 299534
+  title: Avengers Endgame
+  year: 2019
+  runtime: 181
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 2, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: chi-raq
+  tmdb_id: 340275
+  title: Chi-Raq
+  year: 2015
+  runtime: 127
+  director: Spike Lee
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 2, acclaim: 0.60 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 1 }
+
+- id: survivor-2015
+  tmdb_id: 334074
+  title: Survivor
+  year: 2015
+  runtime: 96
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: curious-george-3-back-to-the-jungle
+  tmdb_id: 338103
+  title: "Curious George 3: Back to the Jungle"
+  year: 2015
+  runtime: 79
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: white-bird-in-a-blizzard
+  tmdb_id: 157825
+  title: White Bird in a Blizzard
+  year: 2014
+  runtime: 91
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+
+- id: betty-and-coretta
+  tmdb_id: 165640
+  title: Betty and Coretta
+  year: 2013
+  runtime: 90
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: this-means-war
+  tmdb_id: 59962
+  title: This Means War
+  year: 2012
+  runtime: 97
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: green-lantern
+  tmdb_id: 44912
+  title: Green Lantern
+  year: 2011
+  runtime: 114
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 2, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: jumping-the-broom
+  tmdb_id: 57119
+  title: Jumping the Broom
+  year: 2011
+  runtime: 113
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 3, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: notorious-2009
+  tmdb_id: 14410
+  title: Notorious
+  year: 2009
+  runtime: 122
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: nothing-but-the-truth
+  tmdb_id: 14637
+  title: Nothing But the Truth
+  year: 2008
+  runtime: 108
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: of-boys-and-men
+  tmdb_id: 252670
+  title: Of Boys and Men
+  year: 2008
+  runtime: 90
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: meet-the-browns
+  tmdb_id: 16710
+  title: Meet the Browns
+  year: 2008
+  runtime: 105
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: gospel-hill
+  tmdb_id: 20933
+  title: Gospel Hill
+  year: 2008
+  runtime: 96
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: meet-the-robinsons
+  tmdb_id: 1267
+  title: Meet the Robinsons
+  year: 2007
+  runtime: 95
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.60 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: akeelah-and-the-bee
+  tmdb_id: 13751
+  title: Akeelah and the Bee
+  year: 2006
+  runtime: 112
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: time-bomb-2006
+  tmdb_id: 39280
+  title: Time Bomb
+  year: 2006
+  runtime: 90
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: mr-3000
+  tmdb_id: 16232
+  title: Mr. 3000
+  year: 2004
+  runtime: 104
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 3, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-lazarus-child
+  tmdb_id: 37944
+  title: The Lazarus Child
+  year: 2004
+  runtime: 95
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: masked-and-anonymous
+  tmdb_id: 24356
+  title: Masked and Anonymous
+  year: 2003
+  runtime: 107
+  tags: { opacity: 4, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: sunshine-state
+  tmdb_id: 57022
+  title: Sunshine State
+  year: 2002
+  runtime: 141
+  director: John Sayles
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-rosa-parks-story
+  tmdb_id: 49635
+  title: The Rosa Parks Story
+  year: 2002
+  runtime: 90
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: rubys-bucket-of-blood
+  tmdb_id: 136832
+  title: Ruby's Bucket of Blood
+  year: 2001
+  runtime: 90
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-score
+  tmdb_id: 11371
+  title: The Score
+  year: 2001
+  runtime: 124
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.60 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: boesman-and-lena
+  tmdb_id: 125694
+  title: Boesman and Lena
+  year: 2000
+  runtime: 87
+  tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: whispers-an-elephants-tale
+  tmdb_id: 51107
+  title: "Whispers: An Elephant's Tale"
+  year: 2000
+  runtime: 72
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: supernova
+  tmdb_id: 10384
+  title: Supernova
+  year: 2000
+  runtime: 90
+  tags: { opacity: 2, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: music-of-the-heart
+  tmdb_id: 26149
+  title: Music of the Heart
+  year: 1999
+  runtime: 124
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: our-friend-martin
+  tmdb_id: 185759
+  title: Our Friend, Martin
+  year: 1999
+  runtime: 71
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: vampire-in-brooklyn
+  tmdb_id: 12158
+  title: Vampire in Brooklyn
+  year: 1995
+  runtime: 100
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: panther
+  tmdb_id: 41478
+  title: Panther
+  year: 1995
+  runtime: 124
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+
+- id: innocent-blood
+  tmdb_id: 27381
+  title: Innocent Blood
+  year: 1992
+  runtime: 112
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+
+- id: critters-4
+  tmdb_id: 12525
+  title: Critters 4
+  year: 1992
+  runtime: 96
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: city-of-hope
+  tmdb_id: 1772
+  title: City of Hope
+  year: 1991
+  runtime: 130
+  director: John Sayles
+  tags: { opacity: 3, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.60 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: f-x
+  tmdb_id: 9873
+  title: F/X
+  year: 1986
+  runtime: 106
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 2, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
