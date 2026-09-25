@@ -246,32 +246,30 @@ const KIND_SECTIONS = [
  * referenced by several entities — can be must_see under more than one of them; the canon lists it
  * once and links to whichever entity rates it highest by signature, rather than an arbitrary one.
  *
- * Each entry also carries a houseIndex: this list has no single curated order of its own the way
- * an entity page does, so "house order" here means walking the roster in the order it's already
- * displayed (kind, then entity, both already alphabetical) and, within an entity, the position its
- * own curator placed the film at. Browsing the canon in house order is browsing the roster itself.
+ * "House order" is canon.yaml's hand-curated sequence, not derived from roster position — a real
+ * editorial order the way an entity's own curated.order is. It's written by id, so it drifts out
+ * of sync with the corpus as new must-see films are added; anything missing from it falls back to
+ * release order and is appended after the curated films rather than silently dropped.
+ * @param {string[]} canonOrder ids in canon.yaml's curated.order
  */
-function collectCanon(entities, filmsById) {
+function collectCanon(entities, filmsById, canonOrder) {
   const best = new Map();
   for (const entity of entities) {
-    const curatedOrder = entity.curated?.order ?? [];
     for (const pair of entity.films ?? []) {
       if (!pair.must_see) continue;
       const existing = best.get(pair.film);
       if (!existing || pair.signature > existing.pair.signature) {
-        const curatedIndex = curatedOrder.indexOf(pair.film);
-        best.set(pair.film, {
-          film: filmsById.get(pair.film),
-          pair,
-          entity,
-          curatedIndex: curatedIndex === -1 ? curatedOrder.length : curatedIndex,
-        });
+        best.set(pair.film, { film: filmsById.get(pair.film), pair, entity });
       }
     }
   }
-  const entityOrder = new Map(entities.map((entity, i) => [entity, i]));
+  const position = new Map(canonOrder.map((id, i) => [id, i]));
   return [...best.values()]
-    .sort((a, b) => entityOrder.get(a.entity) - entityOrder.get(b.entity) || a.curatedIndex - b.curatedIndex)
+    .sort((a, b) => {
+      const posA = position.has(a.film.id) ? position.get(a.film.id) : canonOrder.length;
+      const posB = position.has(b.film.id) ? position.get(b.film.id) : canonOrder.length;
+      return posA - posB || a.film.year - b.film.year;
+    })
     .map((entry, houseIndex) => ({ ...entry, houseIndex }));
 }
 
@@ -327,9 +325,10 @@ function entityCard(entity, base) {
  * @param {Array<object>} entities
  * @param {Map<string, object>} filmsById
  * @param {{base: string, origin: string}} site
+ * @param {string[]} canonOrder canon.yaml's hand-curated house order, by film id
  * @returns {string}
  */
-export function indexPage(entities, filmsById, site) {
+export function indexPage(entities, filmsById, site, canonOrder = []) {
   const { base, origin } = site;
   const title = 'WatchOrder — viewing orders for filmmakers worth the trouble';
   const description =
@@ -340,7 +339,7 @@ export function indexPage(entities, filmsById, site) {
   for (const entity of entities) byKind.get(entity.kind)?.push(entity);
 
   const kindsPresent = KIND_SECTIONS.filter((section) => byKind.get(section.kind).length > 0);
-  const canon = collectCanon(entities, filmsById);
+  const canon = collectCanon(entities, filmsById, canonOrder);
 
   // The canon tab is additive to the entity-kind tabs rather than one of them — "canon" is not an
   // entity kind, just a fourth thing worth its own tab. The tab system doesn't care either way: it

@@ -17,6 +17,7 @@ const ENTITY_DIR = new URL('entities/', DATA_DIR);
 // film can be referenced by any entity regardless of which file it happens to live in. Duplicate
 // ids across files are caught below, which is what keeps the split from becoming a trap.
 const FILM_DIR = new URL('films/', DATA_DIR);
+const CANON_FILE = new URL('canon.yaml', DATA_DIR);
 
 const TASTE_TAGS = ['opacity', 'stillness', 'bleakness', 'humor'];
 const CONTENT_BOOLEANS = ['sexual_violence', 'animal_harm', 'child_harm', 'suicide'];
@@ -81,7 +82,11 @@ export async function loadCorpus() {
     const entity = parseOrExplain(text, `entities/${name}`);
     entities.push({ ...entity, sourceFile: name });
   }
-  return { films, entities };
+
+  const canonText = await readFile(CANON_FILE, 'utf8');
+  const canon = parseOrExplain(canonText, 'canon.yaml');
+
+  return { films, entities, canon };
 }
 
 function isInteger(value, min, max) {
@@ -400,6 +405,21 @@ export function validateCorpus(corpus) {
           );
         }
       }
+    }
+  }
+
+  // The canon's house order is hand-curated, not derived, so it drifts out of sync with the corpus
+  // as entities are added — that's expected and only a warning. A typo'd or duplicate id is a real
+  // bug, though: it would either silently drop a film from the sort or crash the page.
+  const canonOrder = corpus.canon?.curated?.order ?? [];
+  const seenCanonIds = new Set();
+  for (const id of canonOrder) {
+    if (seenCanonIds.has(id)) {
+      errors.push(`canon.yaml — "${id}" appears more than once in curated.order`);
+    }
+    seenCanonIds.add(id);
+    if (!filmsById.has(id)) {
+      errors.push(`canon.yaml — curated.order references "${id}", which isn't a film in the corpus`);
     }
   }
 
