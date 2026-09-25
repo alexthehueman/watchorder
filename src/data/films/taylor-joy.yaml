@@ -2,7 +2,16 @@
 #
 # The Witch already exists in a24.yaml — tagged before she had an entity. Split already exists in
 # blumhouse.yaml — tagged before she had an entity. Emma. already exists in oconnor.yaml — tagged
-# before she had an entity.
+# before she had an entity. This pass adds further free wins Glass (Paulson), Last Night in Soho
+# (Edgar Wright), The Northman (Eggers), Amsterdam (Margot Robbie), and Dune: Part Two (Zendaya),
+# plus 13 new films below.
+#
+# Excluded as documentaries/specials/shorts about her rather than acting roles: The Making of
+# "Split", Love, Antosha, Cinderella: A Comic Relief Pantomime for Christmas, The Netflix
+# Afterparty, Creating The Queen's Gambit, Highway to Valhalla, Mad Max and the Genius of George
+# Miller, It's a Mad Max World, and Crossmaglen (a short film). Excluded as unreleased as of
+# today: The Super Mario Galaxy Movie, Sacrifice, Dune: Part Three, The Lord of the Rings: The
+# Hunt for Gollum, and the untitled Joni Mitchell biopic.
 
 - id: thoroughbreds
   tmdb_id: 397722
@@ -39,3 +48,107 @@
     - Science Fiction
     - Action
     - Adventure
+
+- id: vampire-academy
+  tmdb_id: 203739
+  title: Vampire Academy
+  year: 2014
+  runtime: 104
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: viking-quest
+  tmdb_id: 317960
+  title: Viking Quest
+  year: 2015
+  runtime: 84
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.25 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: morgan
+  tmdb_id: 377264
+  title: Morgan
+  year: 2016
+  runtime: 92
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: barry-2016
+  tmdb_id: 397717
+  title: Barry
+  year: 2016
+  runtime: 105
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-miniaturist
+  tmdb_id: 495036
+  title: The Miniaturist
+  year: 2017
+  runtime: 174
+  tags: { opacity: 3, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: marrowbone
+  tmdb_id: 399366
+  title: Marrowbone
+  year: 2017
+  runtime: 110
+  tags: { opacity: 4, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+
+- id: playmobil-the-movie
+  tmdb_id: 366668
+  title: "Playmobil: The Movie"
+  year: 2019
+  runtime: 99
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.25 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: radioactive
+  tmdb_id: 480857
+  title: Radioactive
+  year: 2020
+  runtime: 109
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-new-mutants
+  tmdb_id: 340102
+  title: The New Mutants
+  year: 2020
+  runtime: 94
+  tags: { opacity: 2, stillness: 1, bleakness: 4, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 3, sex: 0 }
+
+- id: here-are-the-young-men
+  tmdb_id: 540248
+  title: Here Are the Young Men
+  year: 2021
+  runtime: 100
+  tags: { opacity: 2, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 1 }
+
+- id: the-menu
+  tmdb_id: 593643
+  title: The Menu
+  year: 2022
+  runtime: 107
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 3, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 0 }
+
+- id: the-super-mario-bros-movie
+  tmdb_id: 502356
+  title: The Super Mario Bros. Movie
+  year: 2023
+  runtime: 92
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-gorge
+  tmdb_id: 950396
+  title: The Gorge
+  year: 2025
+  runtime: 127
+  tags: { opacity: 2, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
