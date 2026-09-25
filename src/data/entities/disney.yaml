@@ -1,0 +1,167 @@
+# Not bounded to a closed era the way MGM (1924-1959) is — like the other majors already in the
+# corpus, Disney is still active and its identity never really dissolved, just went through long
+# quiet stretches between peaks. Three eras trace the real shape of it: the golden and silver ages
+# of hand-drawn animation that built the studio's reputation, the Renaissance that revived it after
+# a decades-long slump, and the modern era balancing live-action franchises against a new run of
+# animated hits.
+#
+# This entity is Walt Disney Productions, the studio — not Pixar, which the corpus already treats
+# as its own identity (see pixar.yaml) despite Disney owning it. Toy Story, Up, Inside Out and the
+# rest stay there rather than getting pulled in here.
+
+slug: disney
+kind: studio
+name: Walt Disney
+blurb: The studio that invented the animated feature as a commercial bet, nearly let the form die of neglect, then revived it twice — a house style built on fairy tales played completely sincerely, whatever decade it is.
+
+eras:
+  - id: golden-and-silver-age
+    name: The golden and silver ages of animation
+    from: 1937
+  - id: renaissance
+    name: The Disney Renaissance
+    from: 1989
+  - id: modern
+    name: The modern era
+    from: 1996
+
+films:
+  - film: snow-white-and-the-seven-dwarfs
+    era: golden-and-silver-age
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A princess hiding from a jealous queen finds shelter with seven dwarfs in the forest, the first feature-length cel-animated film ever made and the bet the entire studio was built on.
+
+  - film: pinocchio
+    era: golden-and-silver-age
+    signature: 3
+    gateway: 3
+    note: A wooden puppet has to prove himself brave, truthful and unselfish to become a real boy, darker in its particulars — forced labor, a near-transformation into a donkey — than its reputation suggests.
+
+  - film: fantasia
+    era: golden-and-silver-age
+    signature: 4
+    gateway: 4
+    note: Eight pieces of classical music are each given a wordless animated interpretation, structured entirely unlike anything else the studio made before or since.
+
+  - film: dumbo
+    era: golden-and-silver-age
+    signature: 2
+    gateway: 2
+    note: A circus elephant mocked for his oversized ears discovers they let him fly, the shortest and simplest of the studio's early features.
+
+  - film: bambi
+    era: golden-and-silver-age
+    signature: 3
+    gateway: 2
+    note: A young deer grows up across the four seasons of the forest, containing the single scene most responsible for a generation's first experience of loss at the movies.
+
+  - film: cinderella
+    era: golden-and-silver-age
+    signature: 2
+    gateway: 2
+    note: A servant girl trapped by her stepmother gets one night at the ball with help she wasn't expecting, the film that revived the studio commercially after a string of wartime flops.
+
+  - film: sleeping-beauty
+    era: golden-and-silver-age
+    signature: 3
+    gateway: 3
+    note: A princess cursed at birth to die by a spinning wheel is instead put into an enchanted sleep, animated in a flatter, more angular style the studio never fully returned to.
+
+  - film: the-jungle-book
+    era: golden-and-silver-age
+    signature: 2
+    gateway: 1
+    note: A boy raised by wolves in the Indian jungle is walked back toward the man-village by a panther and a bear, the last animated feature Walt Disney personally supervised.
+
+  - film: mary-poppins
+    era: golden-and-silver-age
+    signature: 3
+    gateway: 1
+    note: A magical nanny arrives to put a distracted London banker's household back together, mixing live action and animation in the studio's biggest technical showcase of the era.
+
+  - film: the-little-mermaid
+    era: renaissance
+    signature: 3
+    gateway: 1
+    note: A mermaid trades her voice for legs and three days to make a human prince fall for her, the film credited with ending the studio's decades-long post-golden-age slump.
+
+  - film: beauty-and-the-beast
+    era: renaissance
+    signature: 3
+    gateway: 1
+    note: A bookish young woman trades her freedom for her father's and slowly falls for the cursed prince holding her, the first animated film ever nominated for the Best Picture Oscar.
+
+  - film: aladdin
+    era: renaissance
+    signature: 2
+    gateway: 1
+    note: A street thief finds a genie in a lamp and uses his wishes to pose as a prince, carried by a vocal performance so improvisational the animators built whole sequences around it after the fact.
+
+  - film: the-lion-king
+    era: renaissance
+    signature: 4
+    must_see: true
+    gateway: 1
+    note: A lion cub exiled after his father's murder has to reclaim his place once he's grown, the Renaissance's biggest hit and the one with the least irony in its bones.
+
+  - film: 101-dalmatians
+    era: modern
+    signature: 1
+    gateway: 1
+    note: A fashion-obsessed villain kidnaps a litter of dalmatian puppies for their coats, and their parents cross the English countryside to get them back — a live-action remake of the 1961 original rather than a new story.
+
+  - film: pirates-of-the-caribbean-the-curse-of-the-black-pearl
+    era: modern
+    signature: 3
+    gateway: 1
+    note: A blacksmith and an eccentric pirate captain chase down the crew that kidnapped the governor's daughter, built into a theme-park ride until one performance turned it into a franchise.
+
+  - film: frozen
+    era: modern
+    signature: 3
+    gateway: 1
+    note: A queen's uncontrollable ice powers freeze her kingdom and isolate her from the sister trying to reach her, sold as a prince-and-princess story right up until it turns out to be about the sisters instead.
+
+  - film: moana
+    era: modern
+    signature: 2
+    gateway: 1
+    note: A chief's daughter sails beyond her island's reef to return a stolen heart and save her people, guided by a disgraced demigod who'd rather she didn't.
+
+  - film: zootopia
+    era: modern
+    signature: 3
+    gateway: 2
+    note: A rookie rabbit cop and a con-artist fox investigate a string of disappearances in a city built entirely by and for animals, using the premise to talk about prejudice more directly than the studio usually allows itself.
+
+  - film: encanto
+    era: modern
+    signature: 2
+    gateway: 2
+    note: A Colombian family's magical house starts cracking apart, and the one grandchild with no gift of her own turns out to be the only one who notices why.
+
+curated:
+  curator: house
+  rationale: The founding landmark and the Renaissance's biggest hit first, then the range across all three eras.
+  order:
+    - snow-white-and-the-seven-dwarfs
+    - the-lion-king
+    - beauty-and-the-beast
+    - zootopia
+    - frozen
+    - pirates-of-the-caribbean-the-curse-of-the-black-pearl
+    - bambi
+    - fantasia
+    - the-little-mermaid
+    - aladdin
+    - mary-poppins
+    - encanto
+    - moana
+    - pinocchio
+    - sleeping-beauty
+    - cinderella
+    - the-jungle-book
+    - dumbo
+    - 101-dalmatians
