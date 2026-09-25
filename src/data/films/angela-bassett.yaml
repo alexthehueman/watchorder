@@ -106,6 +106,13 @@
   runtime: 170
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.60 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: mission-impossible-the-final-reckoning
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/9x/mt/3l/1s/78Bgar8OaUalLNLWNtD4xr6AD8T-1200-1200-675-675-crop-000000.jpg?v=9a333c6d42
+  genres:
+    - Action
+    - Adventure
+    - Thriller
+  letterboxd_rating: 3.47
 
 - id: damsel
   tmdb_id: 763215
@@ -114,6 +121,13 @@
   runtime: 110
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: damsel-2024
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/6s/z0/ph/pd/damsel-1200-1200-675-675-crop-000000.jpg?v=d969e37275
+  genres:
+    - Action
+    - Adventure
+    - Fantasy
+  letterboxd_rating: 2.61
 
 - id: orion-and-the-dark
   tmdb_id: 1139829
@@ -122,6 +136,15 @@
   runtime: 92
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: orion-and-the-dark
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/da/jr/bm/s4/orion-dark-1200-1200-675-675-crop-000000.jpg?v=f3cf5a4af5
+  genres:
+    - Fantasy
+    - Animation
+    - Comedy
+    - Family
+    - Adventure
+  letterboxd_rating: 3.06
 
 - id: wendell-and-wild
   tmdb_id: 511817
@@ -130,6 +153,15 @@
   runtime: 105
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: wendell-and-wild
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/w8/7i/2o/jt/wendell-wild-1200-1200-675-675-crop-000000.jpg?v=f895069e25
+  genres:
+    - Animation
+    - Horror
+    - Comedy
+    - Fantasy
+    - Adventure
+  letterboxd_rating: 3.4
 
 - id: gunpowder-milkshake
   tmdb_id: 574060
@@ -138,6 +170,13 @@
   runtime: 114
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: gunpowder-milkshake
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/mh/gg/6z/3e/gunpowder-milkshake-1200-1200-675-675-crop-000000.jpg?v=151749ee17
+  genres:
+    - Thriller
+    - Crime
+    - Action
+  letterboxd_rating: 2.86
 
 - id: soul-2020
   tmdb_id: 508442
@@ -146,6 +185,15 @@
   runtime: 100
   tags: { opacity: 2, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.80 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: soul-2020
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/rc/nh/4l/3b/soul-2020-1200-1200-675-675-crop-000000.jpg?v=50b02092c1
+  genres:
+    - Music
+    - Drama
+    - Family
+    - Animation
+    - Fantasy
+  letterboxd_rating: 3.94
 
 - id: otherhood
   tmdb_id: 531509
@@ -154,6 +202,11 @@
   runtime: 105
   tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 3, acclaim: 0.40 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: otherhood
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/jh/6l/8y/59/9291FC21-7607-4398-BDCD-53071C6641C6-1200-1200-675-675-crop-000000.jpg?v=123c745f04
+  genres:
+    - Comedy
+  letterboxd_rating: 2.69
 
 - id: avengers-endgame
   tmdb_id: 299534
@@ -162,6 +215,13 @@
   runtime: 181
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 2, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: avengers-endgame
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/pv/3f/zz/og/avengers-endgame-1200-1200-675-675-crop-000000.jpg?v=55fc50f8fa
+  genres:
+    - Science Fiction
+    - Action
+    - Adventure
+  letterboxd_rating: 4.02
 
 - id: chi-raq
   tmdb_id: 340275
@@ -171,6 +231,13 @@
   director: Spike Lee
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 2, acclaim: 0.60 }
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 1 }
+  letterboxd_slug: chi-raq
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/4i/if/n3/jy/chi-raq-1200-1200-675-675-crop-000000.jpg?v=2f1405ce1a
+  genres:
+    - Drama
+    - Comedy
+    - Crime
+  letterboxd_rating: 3.28
 
 - id: survivor-2015
   tmdb_id: 334074
@@ -179,6 +246,14 @@
   runtime: 96
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.40 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: survivor-2015
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/0q/d0/m1/fo/survivor-1200-1200-675-675-crop-000000.jpg?v=c6bc40f2de
+  genres:
+    - Thriller
+    - Mystery
+    - Action
+    - Crime
+  letterboxd_rating: 2.48
 
 - id: curious-george-3-back-to-the-jungle
   tmdb_id: 338103
@@ -187,6 +262,13 @@
   runtime: 79
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.50 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: curious-george-3-back-to-the-jungle
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/tf/8g/jn/du/rZl2Gkwsu64tt2Zyyx3Kpbnbdy4-1200-1200-675-675-crop-000000.jpg?v=edd0478187
+  genres:
+    - Adventure
+    - Animation
+    - Family
+  letterboxd_rating: 2.95
 
 - id: white-bird-in-a-blizzard
   tmdb_id: 157825
@@ -195,7 +277,12 @@
   runtime: 91
   tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.45 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
-
+  letterboxd_slug: white-bird-in-a-blizzard
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/au/7s/8w/hq/white-bird-in-a-blizzard-1200-1200-675-675-crop-000000.jpg?v=7857cd08a7
+  genres:
+    - Thriller
+    - Drama
+  letterboxd_rating: 3.15
 
 - id: betty-and-coretta
   tmdb_id: 165640
@@ -204,6 +291,10 @@
   runtime: 90
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.45 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: betty-and-coretta
+  poster_url: https://a.ltrbxd.com/resized/film-poster/1/2/2/5/6/9/122569-betty-and-coretta-0-230-0-345-crop.jpg?v=e0b3b0c694
+  genres:
+    - Drama
 
 - id: this-means-war
   tmdb_id: 59962
@@ -212,6 +303,13 @@
   runtime: 97
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.40 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: this-means-war
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ee/uw/of/yk/this-means-war-1200-1200-675-675-crop-000000.jpg?v=e402e7da82
+  genres:
+    - Romance
+    - Comedy
+    - Action
+  letterboxd_rating: 2.68
 
 - id: green-lantern
   tmdb_id: 44912
@@ -220,6 +318,13 @@
   runtime: 114
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 2, acclaim: 0.35 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: green-lantern
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/89/li/h0/0h/green-lantern-1200-1200-675-675-crop-000000.jpg?v=f311b34f18
+  genres:
+    - Action
+    - Adventure
+    - Science Fiction
+  letterboxd_rating: 1.64
 
 - id: jumping-the-broom
   tmdb_id: 57119
@@ -228,6 +333,11 @@
   runtime: 113
   tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 3, acclaim: 0.45 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: jumping-the-broom
+  poster_url: https://a.ltrbxd.com/resized/film-poster/9/0/2/0/9020-jumping-the-broom-0-230-0-345-crop.jpg?v=89333cbdab
+  genres:
+    - Comedy
+  letterboxd_rating: 2.76
 
 - id: notorious-2009
   tmdb_id: 14410
@@ -236,6 +346,13 @@
   runtime: 122
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  letterboxd_slug: notorious-2009
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/y9/qn/zq/kp/big-1200-1200-675-675-crop-000000.jpg?v=a1bbbefb2f
+  genres:
+    - Music
+    - Drama
+    - History
+  letterboxd_rating: 3.16
 
 - id: nothing-but-the-truth
   tmdb_id: 14637
@@ -244,6 +361,12 @@
   runtime: 108
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: nothing-but-the-truth
+  poster_url: https://a.ltrbxd.com/resized/film-poster/4/2/9/3/1/42931-nothing-but-the-truth-0-230-0-345-crop.jpg?v=0308b09cab
+  genres:
+    - Drama
+    - Thriller
+  letterboxd_rating: 3.38
 
 - id: of-boys-and-men
   tmdb_id: 252670
@@ -252,6 +375,10 @@
   runtime: 90
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.40 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: of-boys-and-men
+  poster_url: https://a.ltrbxd.com/resized/film-poster/1/7/6/5/2/1/176521-of-boys-and-men-0-230-0-345-crop.jpg?v=93ccbd8d6b
+  genres:
+    - Drama
 
 - id: meet-the-browns
   tmdb_id: 16710
@@ -260,6 +387,13 @@
   runtime: 105
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.40 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: meet-the-browns-2008
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/2y/71/cj/a0/gOlbPaeGoQwAeJCqIZj2uTaFnxj-1200-1200-675-675-crop-000000.jpg?v=1a111ea9b1
+  genres:
+    - Romance
+    - Drama
+    - Comedy
+  letterboxd_rating: 2.84
 
 - id: gospel-hill
   tmdb_id: 20933
@@ -268,6 +402,12 @@
   runtime: 96
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.40 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: gospel-hill
+  poster_url: https://a.ltrbxd.com/resized/film-poster/3/8/7/0/2/38702-gospel-hill-0-230-0-345-crop.jpg?v=5bb4f91fc0
+  genres:
+    - Mystery
+    - Thriller
+    - Drama
 
 - id: meet-the-robinsons
   tmdb_id: 1267
@@ -276,6 +416,15 @@
   runtime: 95
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.60 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: meet-the-robinsons
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/pw/ub/9l/vu/meet-the-robinsons-220-1200-1200-675-675-crop-000000.jpg?v=72595bcde8
+  genres:
+    - Animation
+    - Family
+    - Comedy
+    - Science Fiction
+    - Adventure
+  letterboxd_rating: 3.65
 
 - id: akeelah-and-the-bee
   tmdb_id: 13751
@@ -284,6 +433,11 @@
   runtime: 112
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.65 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: akeelah-and-the-bee
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/b3/2m/us/c9/5cQG6wbizKfADPCNp4Tm801VMxH-1200-1200-675-675-crop-000000.jpg?v=3137a51693
+  genres:
+    - Drama
+  letterboxd_rating: 3.63
 
 - id: time-bomb-2006
   tmdb_id: 39280
@@ -292,6 +446,13 @@
   runtime: 90
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.35 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: time-bomb
+  poster_url: https://a.ltrbxd.com/resized/film-poster/2/5/3/9/2/25392-time-bomb-0-230-0-345-crop.jpg?v=6c2bd1a1a3
+  genres:
+    - TV Movie
+    - Drama
+    - Thriller
+    - Action
 
 - id: mr-3000
   tmdb_id: 16232
@@ -300,6 +461,12 @@
   runtime: 104
   tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 3, acclaim: 0.40 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: mr-3000
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/c9/bv/oo/pq/3000-1200-1200-675-675-crop-000000.jpg?v=979dffc2db
+  genres:
+    - Comedy
+    - Drama
+  letterboxd_rating: 2.79
 
 - id: the-lazarus-child
   tmdb_id: 37944
@@ -308,6 +475,11 @@
   runtime: 95
   tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.35 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: the-lazarus-child
+  poster_url: https://a.ltrbxd.com/resized/film-poster/2/6/5/7/7/26577-the-lazarus-child-0-230-0-345-crop.jpg?v=1226bddce2
+  genres:
+    - Drama
+    - Horror
 
 - id: masked-and-anonymous
   tmdb_id: 24356
@@ -316,6 +488,12 @@
   runtime: 107
   tags: { opacity: 4, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.35 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: masked-and-anonymous
+  poster_url: https://a.ltrbxd.com/resized/alternative-backdrop/3/6/8/3/2/tmdb/3eS14wozpUQ9gIbK82WBnRi3I9A-1200-1200-675-675-crop-000000.jpg?v=43afee6303
+  genres:
+    - Music
+    - Drama
+  letterboxd_rating: 2.94
 
 - id: sunshine-state
   tmdb_id: 57022
@@ -325,6 +503,11 @@
   director: John Sayles
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: sunshine-state
+  poster_url: https://a.ltrbxd.com/resized/alternative-backdrop/9/1/0/0/tmdb/cThvsEU40qdOkmUrYl955laFWOj-1200-1200-675-675-crop-000000.jpg?v=aa61a49065
+  genres:
+    - Drama
+  letterboxd_rating: 3.46
 
 - id: the-rosa-parks-story
   tmdb_id: 49635
@@ -333,6 +516,13 @@
   runtime: 90
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: the-rosa-parks-story
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/u9/43/i5/d2/rY4EssHnCLxlDvNWvXGUGQHHAR4-1200-1200-675-675-crop-000000.jpg?v=9345a9c0a3
+  genres:
+    - Drama
+    - History
+    - TV Movie
+  letterboxd_rating: 3.29
 
 - id: rubys-bucket-of-blood
   tmdb_id: 136832
@@ -341,6 +531,13 @@
   runtime: 90
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.40 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: rubys-bucket-of-blood
+  poster_url: https://a.ltrbxd.com/resized/film-poster/1/0/4/9/8/2/104982-ruby-s-bucket-of-blood-0-230-0-345-crop.jpg?v=78ff998bbc
+  genres:
+    - TV Movie
+    - Romance
+    - Drama
+  letterboxd_rating: 3.19
 
 - id: the-score
   tmdb_id: 11371
@@ -349,6 +546,15 @@
   runtime: 124
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.60 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: the-score
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/fo/n5/eq/7t/the-score-1200-1200-675-675-crop-000000.jpg?v=4991479496
+  genres:
+    - Crime
+    - Drama
+    - Action
+    - Thriller
+    - Mystery
+  letterboxd_rating: 3.28
 
 - id: boesman-and-lena
   tmdb_id: 125694
@@ -357,6 +563,10 @@
   runtime: 87
   tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.45 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: boesman-and-lena
+  poster_url: https://a.ltrbxd.com/resized/film-poster/9/8/4/0/1/98401-boesman-and-lena-0-230-0-345-crop.jpg?v=74390fa84b
+  genres:
+    - Drama
 
 - id: whispers-an-elephants-tale
   tmdb_id: 51107
@@ -365,6 +575,12 @@
   runtime: 72
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.45 }
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: whispers-an-elephants-tale
+  poster_url: https://a.ltrbxd.com/resized/film-poster/1/4/6/6/3/14663-whispers-an-elephant-s-tale-0-230-0-345-crop.jpg?v=1235e928d1
+  genres:
+    - Drama
+    - Family
+  letterboxd_rating: 3.07
 
 - id: supernova
   tmdb_id: 10384
@@ -373,6 +589,13 @@
   runtime: 90
   tags: { opacity: 2, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.30 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: supernova
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/av/1v/aq/4c/supernova1-1200-1200-675-675-crop-000000.jpg?v=c85510ece7
+  genres:
+    - Horror
+    - Science Fiction
+    - Thriller
+  letterboxd_rating: 2.26
 
 - id: music-of-the-heart
   tmdb_id: 26149
@@ -381,6 +604,12 @@
   runtime: 124
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: music-of-the-heart
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/iz/e3/p4/3z/7hBaF3ifZYhU0HaJbPqiiyS9iMy-1200-1200-675-675-crop-000000.jpg?v=257a30a370
+  genres:
+    - Drama
+    - Music
+  letterboxd_rating: 3.2
 
 - id: our-friend-martin
   tmdb_id: 185759
@@ -389,6 +618,15 @@
   runtime: 71
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.50 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: our-friend-martin
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/jj/yr/ab/06/R7My0PIdBjiZVObhHFyq8tKUmL-1200-1200-675-675-crop-000000.jpg?v=8cf64fc3f0
+  genres:
+    - Family
+    - History
+    - Drama
+    - Science Fiction
+    - Animation
+  letterboxd_rating: 3.15
 
 - id: vampire-in-brooklyn
   tmdb_id: 12158
@@ -397,6 +635,14 @@
   runtime: 100
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.30 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: vampire-in-brooklyn
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/pf/ip/i7/c8/vampire-in-brooklyn-1200-1200-675-675-crop-000000.jpg?v=0aa992c773
+  genres:
+    - Fantasy
+    - Romance
+    - Comedy
+    - Horror
+  letterboxd_rating: 2.53
 
 - id: panther
   tmdb_id: 41478
@@ -405,7 +651,12 @@
   runtime: 124
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.50 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
-
+  letterboxd_slug: panther
+  poster_url: https://a.ltrbxd.com/resized/film-poster/2/3/5/5/6/23556-panther-0-230-0-345-crop.jpg?v=a358a183a2
+  genres:
+    - History
+    - Drama
+  letterboxd_rating: 3.43
 
 - id: innocent-blood
   tmdb_id: 27381
@@ -414,6 +665,15 @@
   runtime: 112
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.45 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+  letterboxd_slug: innocent-blood
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/8b/vk/fm/p1/ynrZSoRVTsdVVdNlxxEJlN1roMm-1200-1200-675-675-crop-000000.jpg?v=87f97f61fa
+  genres:
+    - Romance
+    - Action
+    - Crime
+    - Comedy
+    - Horror
+  letterboxd_rating: 3.14
 
 - id: critters-4
   tmdb_id: 12525
@@ -422,6 +682,13 @@
   runtime: 96
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.35 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: critters-4
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/gc/v6/m8/99/kiJJkKqdk6mI7zO1zeZsyIzuJYx-1200-1200-675-675-crop-000000.jpg?v=4a6feaadf4
+  genres:
+    - Comedy
+    - Science Fiction
+    - Horror
+  letterboxd_rating: 2.09
 
 - id: city-of-hope
   tmdb_id: 1772
@@ -431,6 +698,11 @@
   director: John Sayles
   tags: { opacity: 3, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.60 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: city-of-hope
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/jm/0e/h9/0l/city%20of%20hope-1200-1200-675-675-crop-000000.jpg?v=b22e3640bc
+  genres:
+    - Drama
+  letterboxd_rating: 3.85
 
 - id: f-x
   tmdb_id: 9873
@@ -439,3 +711,9 @@
   runtime: 106
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 2, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: f-x
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/pr/yw/3q/qn/fx-1200-1200-675-675-crop-000000.jpg?v=9384e94f30
+  genres:
+    - Thriller
+    - Action
+  letterboxd_rating: 3.29
