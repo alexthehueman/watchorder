@@ -1,6 +1,14 @@
 # New films for Andrew Garfield. Scales and anchors are in README.md ("The anchor rubric").
 #
-# Silence already exists in driver.yaml — tagged before he had an entity.
+# Silence already exists in driver.yaml — tagged before he had an entity. This pass adds further
+# free wins The Eyes of Tammy Faye (Chastain), Never Let Me Go (Mulligan) and Mainstream (Maya
+# Hawke), plus 16 new films below.
+#
+# Excludes his large tail of documentaries, making-of featurettes and premiere specials (especially
+# around the Spider-Man franchise), two National Theatre Live filmed-stage broadcasts of Angels in
+# America, and a handful of shorts. Spider-Man: No Way Home is his real, substantial return to the
+# role — included — but Spider-Man: Across the Spider-Verse is not: he has no involvement in that
+# animated film, and the TMDB credit appears to be an error.
 
 - id: the-social-network
   tmdb_id: 37799
@@ -93,3 +101,118 @@
     - Mystery
     - Crime
     - Drama
+
+- id: voyagers
+  tmdb_id: 1518155
+  title: Voyagers
+  year: 2021
+  runtime: 108
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: after-the-hunt
+  tmdb_id: 1265063
+  title: After the Hunt
+  year: 2025
+  runtime: 138
+  director: Luca Guadagnino
+  tags: { opacity: 2, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-magic-faraway-tree
+  tmdb_id: 1140521
+  title: The Magic Faraway Tree
+  year: 2026
+  runtime: 108
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 2, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: spider-man-no-way-home
+  tmdb_id: 634649
+  title: "Spider-Man: No Way Home"
+  year: 2021
+  runtime: 148
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.80 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: 99-homes
+  tmdb_id: 283235
+  title: 99 Homes
+  year: 2015
+  runtime: 112
+  tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.70 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: breathe
+  tmdb_id: 407445
+  title: Breathe
+  year: 2017
+  runtime: 117
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-amazing-spider-man-2
+  tmdb_id: 102382
+  title: The Amazing Spider-Man 2
+  year: 2014
+  runtime: 142
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 3, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-imaginarium-of-doctor-parnassus
+  tmdb_id: 8054
+  title: The Imaginarium of Doctor Parnassus
+  year: 2009
+  runtime: 123
+  director: Terry Gilliam
+  tags: { opacity: 4, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.62 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: red-riding-1974
+  tmdb_id: 291081
+  title: "Red Riding: The Year of Our Lord 1974"
+  year: 2009
+  runtime: 100
+  tags: { opacity: 2, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.65 }
+  content: { sexual_violence: true, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
+
+- id: red-riding-1980
+  tmdb_id: 291084
+  title: "Red Riding: The Year of Our Lord 1980"
+  year: 2009
+  runtime: 92
+  tags: { opacity: 2, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.60 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: red-riding-1983
+  tmdb_id: 291092
+  title: "Red Riding: The Year of Our Lord 1983"
+  year: 2009
+  runtime: 105
+  tags: { opacity: 2, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.65 }
+  content: { sexual_violence: true, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
+
+- id: boy-a
+  tmdb_id: 14748
+  title: Boy A
+  year: 2008
+  runtime: 96
+  tags: { opacity: 2, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+
+- id: the-other-boleyn-girl
+  tmdb_id: 12184
+  title: The Other Boleyn Girl
+  year: 2007
+  runtime: 115
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: lions-for-lambs
+  tmdb_id: 4515
+  title: Lions for Lambs
+  year: 2007
+  runtime: 92
+  tags: { opacity: 1, stillness: 4, bleakness: 3, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
