@@ -2,7 +2,14 @@
 #
 # Blade Runner 2049 already exists in gosling.yaml — tagged before she had an entity. Knives Out
 # already exists in shannon.yaml — tagged before she had an entity. War Dogs already exists in
-# hill.yaml — tagged before she had an entity.
+# hill.yaml — tagged before she had an entity. This pass adds a free win, Ghosted (Brody), plus 18
+# new films below.
+#
+# Excludes two shorts (Perrito Chino, Ánima) and every still-unreleased title on her TMDB page
+# (Palm Grove, Sweat, Impunity, Reenactment, Deeper — none have a release date yet), plus a
+# making-of featurette. The Informer (2019) needed a distinct id from the corpus's existing
+# the-informer — John Ford's own 1935 classic of the same title, an unrelated film that happens to
+# share the exact title.
 
 - id: blonde
   tmdb_id: 301502
@@ -59,3 +66,156 @@
     - Action
     - Adventure
     - Thriller
+
+- id: virgin-rose
+  tmdb_id: 176707
+  title: Virgin Rose
+  year: 2006
+  runtime: 110
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: madrigal
+  tmdb_id: 73610
+  title: Madrigal
+  year: 2006
+  runtime: 96
+  tags: { opacity: 3, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: the-lost-eden
+  tmdb_id: 303431
+  title: The Lost Eden
+  year: 2007
+  runtime: 90
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: blind-alley
+  tmdb_id: 80279
+  title: Blind Alley
+  year: 2011
+  runtime: 92
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: faraday
+  tmdb_id: 214632
+  title: Faraday
+  year: 2012
+  runtime: 100
+  tags: { opacity: 2, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: for-a-handful-of-kisses
+  tmdb_id: 258751
+  title: For a Handful of Kisses
+  year: 2014
+  runtime: 100
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: anabel
+  tmdb_id: 362579
+  title: Anabel
+  year: 2015
+  runtime: 88
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: knock-knock
+  tmdb_id: 263472
+  title: Knock Knock
+  year: 2015
+  runtime: 99
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 2 }
+
+- id: exposed
+  tmdb_id: 331962
+  title: Exposed
+  year: 2015
+  runtime: 102
+  tags: { opacity: 3, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: hands-of-stone
+  tmdb_id: 184341
+  title: Hands of Stone
+  year: 2016
+  runtime: 111
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: overdrive
+  tmdb_id: 404733
+  title: Overdrive
+  year: 2017
+  runtime: 93
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 2, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: corazon
+  tmdb_id: 522912
+  title: "Corazón"
+  year: 2018
+  runtime: 89
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: the-informer-2019
+  tmdb_id: 466081
+  title: The Informer
+  year: 2019
+  runtime: 113
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: sergio
+  tmdb_id: 653744
+  title: Sergio
+  year: 2020
+  runtime: 118
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: wasp-network
+  tmdb_id: 451184
+  title: Wasp Network
+  year: 2020
+  runtime: 127
+  tags: { opacity: 3, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-night-clerk
+  tmdb_id: 526007
+  title: The Night Clerk
+  year: 2020
+  runtime: 90
+  tags: { opacity: 2, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-gray-man
+  tmdb_id: 725201
+  title: The Gray Man
+  year: 2022
+  runtime: 129
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: eden-2025
+  tmdb_id: 1042834
+  title: Eden
+  year: 2025
+  runtime: 129
+  director: Ron Howard
+  tags: { opacity: 2, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: ballerina-2025
+  tmdb_id: 541671
+  title: "From the World of John Wick: Ballerina"
+  year: 2025
+  runtime: 125
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
