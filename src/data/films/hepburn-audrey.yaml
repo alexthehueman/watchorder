@@ -5,7 +5,10 @@
 #
 # Sabrina already exists in wilder.yaml and Charade in grant.yaml. Wait and Two for the Road are the
 # reason this entity is not a one-note comfort listing — the persona is warmth, and twice she is
-# cast directly against it.
+# cast directly against it. This pass adds further free wins Green Mansions (Anthony Perkins) and
+# The Lavender Hill Mob (Guinness), plus 13 new films below.
+#
+# Excluded as uncredited bit parts rather than real roles: Dutch in Seven Lessons and One Wild Oat.
 
 - id: roman-holiday
   tmdb_id: 804
@@ -158,3 +161,111 @@
     - Music
     - Comedy
     - Romance
+
+- id: laughter-in-paradise
+  tmdb_id: 81724
+  title: Laughter in Paradise
+  year: 1951
+  runtime: 93
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: young-wives-tale
+  tmdb_id: 237446
+  title: Young Wives' Tale
+  year: 1951
+  runtime: 78
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: secret-people
+  tmdb_id: 111359
+  title: Secret People
+  year: 1952
+  runtime: 96
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: monte-carlo-baby
+  tmdb_id: 66560
+  title: Monte Carlo Baby
+  year: 1951
+  runtime: 74
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: war-and-peace
+  tmdb_id: 11706
+  title: War and Peace
+  year: 1956
+  runtime: 208
+  director: King Vidor
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: love-in-the-afternoon
+  tmdb_id: 18299
+  title: Love in the Afternoon
+  year: 1957
+  runtime: 130
+  director: Billy Wilder
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: the-unforgiven
+  tmdb_id: 6643
+  title: The Unforgiven
+  year: 1960
+  runtime: 125
+  director: John Huston
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: paris-when-it-sizzles
+  tmdb_id: 22829
+  title: Paris When It Sizzles
+  year: 1964
+  runtime: 110
+  tags: { opacity: 2, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: how-to-steal-a-million
+  tmdb_id: 3001
+  title: How to Steal a Million
+  year: 1966
+  runtime: 127
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: robin-and-marian
+  tmdb_id: 10786
+  title: Robin and Marian
+  year: 1976
+  runtime: 106
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 2, acclaim: 0.60 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: bloodline
+  tmdb_id: 3013
+  title: Bloodline
+  year: 1979
+  runtime: 116
+  tags: { opacity: 2, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: they-all-laughed
+  tmdb_id: 31921
+  title: They All Laughed
+  year: 1981
+  runtime: 115
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: always-1989
+  tmdb_id: 11352
+  title: Always
+  year: 1989
+  director: Steven Spielberg
+  runtime: 123
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
