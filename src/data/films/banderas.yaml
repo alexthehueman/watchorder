@@ -1,7 +1,22 @@
 # New films for Antonio Banderas. Scales and anchors are in README.md ("The anchor rubric").
 #
 # Desperado already exists in hayek.yaml — tagged before he had an entity. Philadelphia already
-# exists in washington.yaml — tagged before he had an entity.
+# exists in washington.yaml — tagged before he had an entity. This pass adds further free wins
+# The Skin I Live In and Women on the Verge of a Nervous Breakdown (both Almodovar), Evita
+# (Darius Khondji), Interview with the Vampire (Dunst), Spy Kids (Robert Rodriguez), Frida and
+# Once Upon a Time in Mexico (both Hayek), Four Rooms (Tim Roth), Knight of Cups (Malick),
+# Uncharted (Holland), Life Itself and Ruby Sparks (both Bening), Shrek the Third (Poehler), You
+# Will Meet a Tall Dark Stranger (Hopkins), And Starring Pancho Villa as Himself (Alan Arkin),
+# Bullet Head (Brody), and Original Sin (Jolie), plus 58 new films below.
+#
+# Scope note: his pre-fame 1982-1992 Spanish output has a tail of very obscure titles (mostly
+# minor roles in Spanish TV and cinema from before Women on the Verge made him internationally
+# known) with no accessible Anglophone synopsis or reception info to tag content flags from with
+# confidence — Réquiem por un campesino español, The Court of the Pharaoh, Puzzle, 27 Hours, Love
+# Ravings, Baton Rouge, El placer de matar, El acto, Pestañas postizas, Caso cerrado, El señor
+# Galíndez, El caso Almería, Y del seguro... líbranos, Señor!, The Way They Were, Terra Nova, Una
+# mujer bajo la lluvia, Going Down in Morocco, The White Dove, If They Tell You I Fell, and The
+# Stilts. Deliberately deferred to a dedicated future pass rather than guessed.
 
 - id: the-mask-of-zorro
   tmdb_id: 9342
@@ -54,3 +69,477 @@
     - Animation
     - Comedy
     - Family
+
+- id: labyrinth-of-passion
+  tmdb_id: 8219
+  title: Labyrinth of Passion
+  year: 1982
+  director: Pedro Almodovar
+  runtime: 100
+  tags: { opacity: 2, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+
+- id: matador
+  tmdb_id: 8047
+  title: Matador
+  year: 1986
+  director: Pedro Almodovar
+  runtime: 110
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 2, acclaim: 0.60 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 2 }
+
+- id: law-of-desire
+  tmdb_id: 4043
+  title: Law of Desire
+  year: 1986
+  director: Pedro Almodovar
+  runtime: 102
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 2 }
+
+- id: tie-me-up-tie-me-down
+  tmdb_id: 2469
+  title: Tie Me Up! Tie Me Down!
+  year: 1989
+  director: Pedro Almodovar
+  runtime: 101
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.60 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 2 }
+
+- id: against-the-wind
+  tmdb_id: 417943
+  title: Against the Wind
+  year: 1990
+  runtime: 90
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-mambo-kings
+  tmdb_id: 40082
+  title: The Mambo Kings
+  year: 1991
+  runtime: 104
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: the-house-of-the-spirits
+  tmdb_id: 2259
+  title: The House of the Spirits
+  year: 1993
+  runtime: 140
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: outrage-1993
+  tmdb_id: 65671
+  title: Outrage
+  year: 1993
+  runtime: 100
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: of-love-and-shadows
+  tmdb_id: 90148
+  title: Of Love and Shadows
+  year: 1994
+  runtime: 104
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 1 }
+
+- id: assassins
+  tmdb_id: 9691
+  title: Assassins
+  year: 1995
+  runtime: 132
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: never-talk-to-strangers
+  tmdb_id: 48781
+  title: Never Talk to Strangers
+  year: 1995
+  runtime: 86
+  tags: { opacity: 2, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.25 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 2 }
+
+- id: two-much
+  tmdb_id: 46029
+  title: Two Much
+  year: 1995
+  runtime: 118
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: miami-rhapsody
+  tmdb_id: 17402
+  title: Miami Rhapsody
+  year: 1995
+  runtime: 96
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: the-legend-of-zorro
+  tmdb_id: 1656
+  title: The Legend of Zorro
+  year: 2005
+  runtime: 130
+  director: Martin Campbell
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: play-it-to-the-bone
+  tmdb_id: 20761
+  title: Play It to the Bone
+  year: 1999
+  runtime: 124
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: the-white-river-kid
+  tmdb_id: 47701
+  title: The White River Kid
+  year: 1999
+  runtime: 105
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: crazy-in-alabama
+  tmdb_id: 31306
+  title: Crazy in Alabama
+  year: 1999
+  runtime: 110
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 2, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-body
+  tmdb_id: 28308
+  title: The Body
+  year: 2001
+  runtime: 108
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: spy-kids-2
+  tmdb_id: 9488
+  title: "Spy Kids 2: The Island of Lost Dreams"
+  year: 2002
+  director: Robert Rodriguez
+  runtime: 100
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: ballistic-ecks-vs-sever
+  tmdb_id: 10550
+  title: "Ballistic: Ecks vs. Sever"
+  year: 2002
+  runtime: 91
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 1, acclaim: 0.20 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: spy-kids-3d-game-over
+  tmdb_id: 12279
+  title: "Spy Kids 3-D: Game Over"
+  year: 2003
+  director: Robert Rodriguez
+  runtime: 84
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: imagining-argentina
+  tmdb_id: 34036
+  title: Imagining Argentina
+  year: 2003
+  runtime: 108
+  tags: { opacity: 3, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: shrek-2
+  tmdb_id: 809
+  title: Shrek 2
+  year: 2004
+  runtime: 93
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: take-the-lead
+  tmdb_id: 12763
+  title: Take the Lead
+  year: 2006
+  runtime: 117
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 2, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: bordertown
+  tmdb_id: 4351
+  title: Bordertown
+  year: 2007
+  runtime: 112
+  tags: { opacity: 2, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: the-other-man
+  tmdb_id: 17606
+  title: The Other Man
+  year: 2008
+  runtime: 90
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: my-moms-new-boyfriend
+  tmdb_id: 9262
+  title: My Mom's New Boyfriend
+  year: 2008
+  runtime: 96
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: thick-as-thieves
+  tmdb_id: 14979
+  title: Thick as Thieves
+  year: 2009
+  runtime: 105
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-big-bang
+  tmdb_id: 54271
+  title: The Big Bang
+  year: 2010
+  runtime: 97
+  tags: { opacity: 3, stillness: 1, bleakness: 3, humor: 2, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: shrek-forever-after
+  tmdb_id: 10192
+  title: Shrek Forever After
+  year: 2010
+  runtime: 93
+  tags: { opacity: 2, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: black-gold
+  tmdb_id: 77221
+  title: Black Gold
+  year: 2011
+  runtime: 130
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: haywire
+  tmdb_id: 70435
+  title: Haywire
+  year: 2011
+  runtime: 93
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: spy-kids-4
+  tmdb_id: 56288
+  title: "Spy Kids: All the Time in the World"
+  year: 2011
+  director: Robert Rodriguez
+  runtime: 89
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 2, acclaim: 0.25 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: im-so-excited
+  tmdb_id: 144789
+  title: I'm So Excited!
+  year: 2012
+  director: Pedro Almodovar
+  runtime: 90
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+
+- id: machete-kills
+  tmdb_id: 106747
+  title: Machete Kills
+  year: 2013
+  director: Robert Rodriguez
+  runtime: 107
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: the-expendables-3
+  tmdb_id: 138103
+  title: The Expendables 3
+  year: 2014
+  runtime: 126
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 2, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: automata
+  tmdb_id: 262543
+  title: Automata
+  year: 2014
+  runtime: 110
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-33
+  tmdb_id: 293646
+  title: The 33
+  year: 2015
+  runtime: 127
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: finding-altamira
+  tmdb_id: 329718
+  title: Finding Altamira
+  year: 2016
+  runtime: 97
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: beyond-the-edge-2017
+  tmdb_id: 497727
+  title: Beyond the Edge
+  year: 2017
+  runtime: 89
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: acts-of-vengeance
+  tmdb_id: 445954
+  title: Acts of Vengeance
+  year: 2017
+  runtime: 87
+  tags: { opacity: 1, stillness: 1, bleakness: 4, humor: 1, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
+
+- id: black-butterfly
+  tmdb_id: 76812
+  title: Black Butterfly
+  year: 2017
+  runtime: 91
+  tags: { opacity: 3, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: security-2017
+  tmdb_id: 460846
+  title: Security
+  year: 2017
+  runtime: 91
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: gun-shy-2017
+  tmdb_id: 430682
+  title: Gun Shy
+  year: 2017
+  runtime: 90
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-music-of-silence
+  tmdb_id: 475242
+  title: The Music of Silence
+  year: 2017
+  runtime: 105
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-laundromat
+  tmdb_id: 517909
+  title: The Laundromat
+  year: 2019
+  runtime: 96
+  tags: { opacity: 3, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: dolittle
+  tmdb_id: 448119
+  title: Dolittle
+  year: 2020
+  runtime: 101
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.25 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: hitmans-wifes-bodyguard
+  tmdb_id: 522931
+  title: Hitman's Wife's Bodyguard
+  year: 2021
+  runtime: 100
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: official-competition
+  tmdb_id: 668640
+  title: Official Competition
+  year: 2021
+  runtime: 114
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 4, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: code-name-banshee
+  tmdb_id: 916719
+  title: Code Name Banshee
+  year: 2022
+  runtime: 93
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 1, acclaim: 0.25 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: the-enforcer-2022
+  tmdb_id: 846433
+  title: The Enforcer
+  year: 2022
+  runtime: 87
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: puss-in-boots-the-last-wish
+  tmdb_id: 315162
+  title: "Puss in Boots: The Last Wish"
+  year: 2022
+  runtime: 102
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.80 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: cult-killer
+  tmdb_id: 1059345
+  title: Cult Killer
+  year: 2024
+  runtime: 100
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: journey-to-bethlehem
+  tmdb_id: 1092329
+  title: Journey to Bethlehem
+  year: 2023
+  runtime: 111
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 2, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: indiana-jones-and-the-dial-of-destiny
+  tmdb_id: 335977
+  title: Indiana Jones and the Dial of Destiny
+  year: 2023
+  runtime: 154
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: paddington-in-peru
+  tmdb_id: 516729
+  title: Paddington in Peru
+  year: 2024
+  runtime: 106
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: babygirl
+  tmdb_id: 1097549
+  title: Babygirl
+  year: 2024
+  runtime: 114
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.60 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 3 }
+
+- id: the-clean-up-crew
+  tmdb_id: 1010161
+  title: The Clean Up Crew
+  year: 2024
+  runtime: 90
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
