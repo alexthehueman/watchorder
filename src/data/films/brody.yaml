@@ -1,7 +1,18 @@
 # New films for Adrien Brody. Scales and anchors are in README.md ("The anchor rubric").
 #
 # King Kong already exists in watts.yaml — tagged before he had an entity. The Grand Budapest
-# Hotel already exists in fiennes.yaml — tagged before he had an entity.
+# Hotel already exists in fiennes.yaml — tagged before he had an entity. The Thin Red Line
+# (malick.yaml), The Village (m-night-shyamalan.yaml), The Darjeeling Limited
+# (jason-schwartzman.yaml), The Brothers Bloom (rian-johnson.yaml), Midnight in Paris
+# (owen-wilson.yaml), The French Dispatch (chalamet.yaml), See How They Run (ronan.yaml), Blonde
+# (de-armas.yaml) and Asteroid City (maya-hawke.yaml) likewise already existed. The films below
+# fill out the rest of his real filmography per Wikipedia.
+#
+# Excludes Emperor (Charles V, dir. Lee Tamahori) — in limbo for over a decade, and even now its
+# release status is genuinely unclear rather than confirmed. Add it once it actually has one.
+#
+# The corpus already has an unrelated film with id "clean" (cheung.yaml, Maggie Cheung's 2004
+# Clean) — his 2021 Clean uses clean-2021 instead.
 
 - id: the-pianist
   tmdb_id: 423
@@ -26,3 +37,432 @@
   letterboxd_slug: detachment
   poster_url: https://a.ltrbxd.com/resized/sm/upload/st/gb/km/xc/detachment-110-1200-1200-675-675-crop-000000.jpg?v=ba6f4edadf
   letterboxd_rating: 3.91
+
+- id: new-york-stories
+  tmdb_id: 9686
+  title: New York Stories
+  year: 1989
+  runtime: 124
+  director: Francis Ford Coppola
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.62 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-boy-who-cried-bitch
+  tmdb_id: 214263
+  title: The Boy Who Cried Bitch
+  year: 1991
+  runtime: 96
+  director: Juan José Campanella
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.5 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: king-of-the-hill
+  tmdb_id: 34024
+  title: King of the Hill
+  year: 1993
+  runtime: 103
+  director: Steven Soderbergh
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 0 }
+
+- id: angels-in-the-outfield
+  tmdb_id: 24795
+  title: Angels in the Outfield
+  year: 1994
+  runtime: 102
+  director: William Dear
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: ten-benny
+  tmdb_id: 124853
+  title: Ten Benny
+  year: 1995
+  runtime: 96
+  director: Eric Bross
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: bullet
+  tmdb_id: 14469
+  title: Bullet
+  year: 1996
+  runtime: 98
+  director: Julien Temple
+  tags: { opacity: 1, stillness: 1, bleakness: 4, humor: 1, acclaim: 0.4 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: solo
+  tmdb_id: 29621
+  title: Solo
+  year: 1996
+  runtime: 94
+  director: Norberto Barba
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.32 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: the-last-time-i-committed-suicide
+  tmdb_id: 34941
+  title: The Last Time I Committed Suicide
+  year: 1997
+  runtime: 96
+  director: Stephen Kay
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.48 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
+
+- id: the-undertakers-wedding
+  tmdb_id: 263873
+  title: "The Undertaker's Wedding"
+  year: 1997
+  runtime: 85
+  director: John Bradshaw
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.4 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: six-ways-to-sunday
+  tmdb_id: 47501
+  title: Six Ways to Sunday
+  year: 1997
+  runtime: 96
+  director: Adam Bernstein
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 2, acclaim: 0.42 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: restaurant
+  tmdb_id: 82519
+  title: Restaurant
+  year: 1998
+  runtime: 93
+  director: Eric Bross
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: summer-of-sam
+  tmdb_id: 10279
+  title: Summer of Sam
+  year: 1999
+  runtime: 142
+  director: Spike Lee
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 2 }
+
+- id: oxygen
+  tmdb_id: 18561
+  title: Oxygen
+  year: 1999
+  runtime: 100
+  director: Richard Shepard
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: liberty-heights
+  tmdb_id: 27141
+  title: Liberty Heights
+  year: 1999
+  runtime: 127
+  director: Barry Levinson
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: bread-and-roses
+  tmdb_id: 37691
+  title: Bread and Roses
+  year: 2000
+  runtime: 110
+  director: Ken Loach
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: harrisons-flowers
+  tmdb_id: 25014
+  title: "Harrison's Flowers"
+  year: 2000
+  runtime: 128
+  director: Élie Chouraqui
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: love-the-hard-way
+  tmdb_id: 39125
+  title: Love the Hard Way
+  year: 2001
+  runtime: 101
+  director: Peter Sehr
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.5 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: the-affair-of-the-necklace
+  tmdb_id: 19076
+  title: The Affair of the Necklace
+  year: 2001
+  runtime: 118
+  director: Charles Shyer
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.42 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: dummy
+  tmdb_id: 17906
+  title: Dummy
+  year: 2002
+  runtime: 88
+  director: Greg Pritikin
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.5 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-singing-detective
+  tmdb_id: 30141
+  title: The Singing Detective
+  year: 2003
+  runtime: 109
+  director: Keith Gordon
+  tags:
+    opacity: 3 # a hospitalized pulp novelist's musical fantasies and his own book's plot keep bleeding into what's actually happening
+    stillness: 2
+    bleakness: 4
+    humor: 2
+    acclaim: 0.5
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: the-jacket
+  tmdb_id: 9667
+  title: The Jacket
+  year: 2005
+  runtime: 103
+  director: John Maybury
+  tags:
+    opacity: 3 # a misdiagnosed veteran's straitjacket-induced visions of his own future are never confirmed as real until the film is nearly over
+    stillness: 2
+    bleakness: 4
+    humor: 1
+    acclaim: 0.65
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: hollywoodland
+  tmdb_id: 1249
+  title: Hollywoodland
+  year: 2006
+  runtime: 126
+  director: Allen Coulter
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.62 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: manolete
+  tmdb_id: 45127
+  title: Manolete
+  year: 2008
+  runtime: 92
+  director: Menno Meyjes
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: cadillac-records
+  tmdb_id: 14299
+  title: Cadillac Records
+  year: 2008
+  runtime: 108
+  director: Darnell Martin
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: giallo
+  tmdb_id: 29159
+  title: Giallo
+  year: 2009
+  runtime: 91
+  director: Dario Argento
+  tags: { opacity: 1, stillness: 1, bleakness: 4, humor: 1, acclaim: 0.32 }
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: splice
+  tmdb_id: 37707
+  title: Splice
+  year: 2009
+  runtime: 104
+  director: Vincenzo Natali
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.6 }
+  content: { sexual_violence: true, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 2 }
+
+- id: fantastic-mr-fox
+  tmdb_id: 10315
+  title: Fantastic Mr. Fox
+  year: 2009
+  runtime: 87
+  director: Wes Anderson
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.82 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: high-school
+  tmdb_id: 27584
+  title: High School
+  year: 2010
+  runtime: 106
+  director: John Stalberg Jr.
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.4 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: predators
+  tmdb_id: 34851
+  title: Predators
+  year: 2010
+  runtime: 107
+  director: Nimród Antal
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.6 }
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: the-experiment
+  tmdb_id: 43549
+  title: The Experiment
+  year: 2010
+  runtime: 96
+  director: Paul T. Scheuring
+  tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.62 }
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: wrecked
+  tmdb_id: 50838
+  title: Wrecked
+  year: 2010
+  runtime: 90
+  director: Michael Greenspan
+  tags: { opacity: 2, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.5 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: back-to-1942
+  tmdb_id: 139329
+  title: Back to 1942
+  year: 2012
+  runtime: 146
+  director: Feng Xiaogang
+  tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
+
+- id: inappropriate-comedy
+  tmdb_id: 156268
+  title: Inappropriate Comedy
+  year: 2013
+  runtime: 83
+  director: Vince Offer
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 2, acclaim: 0.1 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+
+- id: third-person
+  tmdb_id: 192145
+  title: Third Person
+  year: 2013
+  runtime: 137
+  director: Paul Haggis
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.5 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 1 }
+
+- id: american-heist
+  tmdb_id: 250066
+  title: American Heist
+  year: 2014
+  runtime: 92
+  director: Sarik Andreasyan
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.42 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: dragon-blade
+  tmdb_id: 300168
+  title: Dragon Blade
+  year: 2015
+  runtime: 127
+  director: Daniel Lee
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: backtrack
+  tmdb_id: 332704
+  title: Backtrack
+  year: 2015
+  runtime: 90
+  director: Michael Petroni
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.5 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
+
+- id: septembers-of-shiraz
+  tmdb_id: 352179
+  title: Septembers of Shiraz
+  year: 2015
+  runtime: 111
+  director: Wayne Blair
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.6 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: manhattan-night
+  tmdb_id: 311667
+  title: Manhattan Night
+  year: 2016
+  runtime: 102
+  director: Brian DeCubellis
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.42 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 2 }
+
+- id: bullet-head
+  tmdb_id: 480572
+  title: Bullet Head
+  year: 2017
+  runtime: 94
+  director: Paul Solet
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.42 }
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: air-strike
+  tmdb_id: 345934
+  title: Air Strike
+  year: 2018
+  runtime: 100
+  director: Xiao Feng
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.28 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: clean-2021
+  tmdb_id: 689700
+  title: Clean
+  year: 2021
+  runtime: 94
+  director: Paul Solet
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: manodrome
+  tmdb_id: 843942
+  title: Manodrome
+  year: 2023
+  runtime: 95
+  director: John Trengove
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.48 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: ghosted
+  tmdb_id: 868759
+  title: Ghosted
+  year: 2023
+  runtime: 116
+  director: Dexter Fletcher
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: fools-paradise
+  tmdb_id: 553147
+  title: "Fool's Paradise"
+  year: 2023
+  runtime: 97
+  director: Charlie Day
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.42 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-brutalist
+  tmdb_id: 549509
+  title: The Brutalist
+  year: 2024
+  runtime: 215
+  director: Brady Corbet
+  tags:
+    opacity: 1
+    stillness: 3
+    bleakness: 5 # a Hungarian-Jewish architect's American reinvention is bought by a patron who never lets him forget who owns him
+    humor: 1
+    acclaim: 0.85
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }

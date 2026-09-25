@@ -37,11 +37,507 @@ films:
     gateway: 4
     note: A playwright caught up in an expedition to a mysterious island, playing genuine tenderness toward a giant ape the rest of the crew only sees as a threat.
 
+  - film: the-brutalist
+    signature: 5
+    must_see: true
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A Hungarian-Jewish architect rebuilding his career and his life in postwar America, playing genius bent slowly out of shape by the patron who controls it.
+
+  - film: the-thin-red-line
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: restrained
+    gateway: 1
+    note: A soldier in Guadalcanal's ensemble whose scenes were mostly cut in the final edit, one of the more painful casualties of the film's legendary assembly process.
+
+  - film: the-village
+    signature: 3
+    showcase: 4
+    role_size: supporting
+    register: menacing
+    gateway: 2
+    note: A mentally impaired villager whose devotion turns dangerous once the community's central deception starts to unravel.
+
+  - film: the-darjeeling-limited
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: warm
+    gateway: 2
+    note: One of three estranged brothers on a train trip across India meant to reconnect them, playing wary, guarded affection.
+
+  - film: the-brothers-bloom
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 2
+    note: A con man's reluctant brother pulled into one final, elaborately staged swindle, playing weary romantic longing underneath the schemes.
+
+  - film: midnight-in-paris
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: warm
+    gateway: 2
+    note: Salvador Dalí, met by a time-displaced screenwriter during one of his fantastical midnight wanderings through 1920s Paris.
+
+  - film: the-french-dispatch
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 2
+    note: An art dealer navigating a prison-set masterpiece and the market built around it, one voice in Anderson's magazine-anthology ensemble.
+
+  - film: see-how-they-run
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: menacing
+    gateway: 2
+    note: A washed-up Hollywood director whose murder opens the film's backstage whodunit.
+
+  - film: blonde
+    signature: 3
+    showcase: 4
+    role_size: supporting
+    register: restrained
+    gateway: 1
+    note: Arthur Miller, one of the men Marilyn Monroe marries in a film that treats her life as a spiral of exploitation rather than a biography.
+
+  - film: asteroid-city
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: restrained
+    gateway: 2
+    note: A television-play director framing the desert story within Anderson's nested, black-and-white theatrical device.
+
+  - film: new-york-stories
+    signature: 1
+    showcase: 1
+    role_size: cameo
+    register: restrained
+    gateway: 1
+    note: A background schoolboy in the Coppola-directed segment of this three-director anthology, his actual screen debut.
+
+  - film: the-boy-who-cried-bitch
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: menacing
+    gateway: 1
+    note: A troubled teenager in a small, little-remembered coming-of-age drama, years before any of the roles that made him known.
+
+  - film: king-of-the-hill
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: warm
+    gateway: 2
+    note: An older kid teaching a Depression-era boy left to fend for himself how to survive in a St. Louis hotel, an early Soderbergh credit.
+
+  - film: angels-in-the-outfield
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 1
+    note: One of a group of foster kids in the Disney baseball comedy, released the same year as this early stretch of small ensemble parts.
+
+  - film: ten-benny
+    signature: 1
+    showcase: 3
+    role_size: lead
+    register: unhinged
+    gateway: 1
+    note: A shoe salesman whose gambling debts spiral into real danger with the loan sharks chasing him, an early leading role in a little-seen drama.
+
+  - film: bullet
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: menacing
+    gateway: 1
+    note: A minor figure in a crime drama built around Tupac Shakur's sole non-musical leading role, released the month after his murder.
+
+  - film: solo
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 1
+    note: A soldier facing off against a combat android in a low-budget sci-fi actioner.
+
+  - film: the-last-time-i-committed-suicide
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: restrained
+    gateway: 1
+    note: A supporting figure in Neal Cassady's Beat-era circle, adapted from a real letter Cassady wrote to Jack Kerouac.
+
+  - film: the-undertakers-wedding
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 1
+    note: A mortician dragged into a mob war and a dangerous romance with his protected charge's wife, an early comic lead.
+
+  - film: six-ways-to-sunday
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: unhinged
+    gateway: 1
+    note: A young man drawn into small-time extortion by his domineering mother, in a dark little-seen indie.
+
+  - film: restaurant
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: warm
+    gateway: 1
+    note: A waiter chasing bigger dreams alongside the rest of the staff at a Hoboken restaurant, one of several early Eric Bross collaborations.
+
+  - film: summer-of-sam
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: unhinged
+    gateway: 2
+    note: A punk-rocker neighbor whose look alone makes a paranoid Bronx block suspect him of being the Son of Sam.
+
+  - film: oxygen
+    signature: 2
+    showcase: 4
+    role_size: lead
+    register: unhinged
+    gateway: 2
+    note: A kidnapper calling himself Houdini, buried alive on a ticking clock while the alcoholic detective chasing him unravels alongside her case.
+
+  - film: liberty-heights
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: warm
+    gateway: 2
+    note: One of two Jewish brothers navigating 1950s Baltimore's unofficial social lines, in Barry Levinson's most autobiographical film.
+
+  - film: bread-and-roses
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: warm
+    gateway: 2
+    note: A union organizer helping Los Angeles's poorly paid janitorial staff fight for the right to unionize, in a Ken Loach social drama.
+
+  - film: harrisons-flowers
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A photojournalist helping a woman search a war-torn Balkans for her husband, presumed dead.
+
+  - film: love-the-hard-way
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: menacing
+    gateway: 1
+    note: A con man whose criminal life becomes complicated once he genuinely falls for the woman he was supposed to be using.
+
+  - film: the-affair-of-the-necklace
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: menacing
+    gateway: 1
+    note: A conspirator inside the real 18th-century scandal that helped discredit the French monarchy on the eve of the Revolution.
+
+  - film: dummy
+    signature: 1
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 1
+    note: An aspiring ventriloquist trying to build an act, and a life, around a wooden dummy, in a small indie comedy.
+
+  - film: the-singing-detective
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: unhinged
+    gateway: 2
+    note: A figure inside a hospitalized pulp novelist's paranoid, musical-number-filled fantasy life.
+
+  - film: the-jacket
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A misdiagnosed Gulf War veteran institutionalized and straitjacketed, whose forced isolation sends him glimpsing his own near future.
+
+  - film: hollywoodland
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A down-on-his-luck private eye investigating the real, still-disputed death of Superman actor George Reeves.
+
+  - film: manolete
+    signature: 1
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: Spain's most legendary bullfighter, torn between the sport that made him famous and the actress he falls for against his family's wishes.
+
+  - film: cadillac-records
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: warm
+    gateway: 2
+    note: The Chess Records founder who built a label — and a career — on the Black musicians he recorded, the relationship never fully separable from exploitation.
+
+  - film: giallo
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: menacing
+    gateway: 1
+    note: A disfigured detective hunting a serial killer through Turin, in Dario Argento's return to the genre he helped define.
+
+  - film: splice
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: unhinged
+    gateway: 2
+    note: A genetic engineer whose illegal human-animal hybrid experiment develops into something he and his partner can no longer control.
+
+  - film: fantastic-mr-fox
+    signature: 1
+    showcase: 1
+    role_size: cameo
+    register: comic
+    gateway: 2
+    note: A minor voice role in Anderson's stop-motion adaptation of the Roald Dahl book.
+
+  - film: high-school
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: unhinged
+    gateway: 1
+    note: An unhinged DEA agent threatening to drug-test an entire graduating class, in a stoner comedy.
+
+  - film: predators
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: menacing
+    gateway: 2
+    note: A mercenary leading a group of hardened killers who realize they've all been hunted onto an alien game preserve.
+
+  - film: the-experiment
+    signature: 2
+    showcase: 4
+    role_size: lead
+    register: unhinged
+    gateway: 2
+    note: A volunteer in a mock-prison psychology study who watches an ordinary power imbalance escalate into real cruelty.
+
+  - film: wrecked
+    signature: 1
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A man waking up in a car wreck at the bottom of a cliff with no memory of how he got there, carrying the film essentially alone.
+
+  - film: back-to-1942
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: restrained
+    gateway: 1
+    note: An American journalist covering a catastrophic famine in wartime China, one thread in Feng Xiaogang's historical epic.
+
+  - film: inappropriate-comedy
+    signature: 1
+    showcase: 1
+    role_size: cameo
+    register: comic
+    gateway: 1
+    note: A brief appearance in a poorly received sketch-comedy anthology.
+
+  - film: third-person
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A father in Rome trying to reclaim his estranged daughter, one of three interwoven stories about love at its beginning, middle and end.
+
+  - film: american-heist
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: menacing
+    gateway: 1
+    note: A career criminal drawing his ex-con brother into one last bank job, in a low-budget heist thriller.
+
+  - film: dragon-blade
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: menacing
+    gateway: 1
+    note: A Roman commander clashing with Jackie Chan's Silk Road peacekeeper in this Chinese-Hollywood historical actioner.
+
+  - film: backtrack
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A psychologist whose patients start turning out to be connected to a decades-old tragedy from his own past.
+
+  - film: septembers-of-shiraz
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A Jewish-Iranian jeweler imprisoned and interrogated after the 1979 revolution while his family tries to arrange an escape.
+
+  - film: manhattan-night
+    signature: 1
+    showcase: 3
+    role_size: lead
+    register: menacing
+    gateway: 1
+    note: A tabloid columnist drawn into an affair and a murder investigation that turn out to be the same story.
+
+  - film: bullet-head
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: menacing
+    gateway: 1
+    note: One of three criminals trapped in a warehouse with the police closing in and a killer dog loose inside.
+
+  - film: air-strike
+    signature: 1
+    showcase: 1
+    role_size: cameo
+    register: restrained
+    gateway: 1
+    note: A brief appearance in a Chinese war epic about the WWII bombing of Chongqing.
+
+  - film: clean-2021
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A reformed criminal sanitation worker pulled back into violence to protect a neighborhood girl, a passion project he also co-wrote.
+
+  - film: manodrome
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: unhinged
+    gateway: 1
+    note: The charismatic leader of a libertarian masculinity cult who draws in a directionless, repressed young man.
+
+  - film: ghosted
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: menacing
+    gateway: 2
+    note: A shadowy figure in an action-rom-com about a man who discovers the woman he's falling for is a secret agent.
+
+  - film: fools-paradise
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 1
+    note: A supporting role in Charlie Day's directorial debut about a mute man mistaken for a Hollywood actor.
+
 curated:
   curator: house
-  rationale: The performance built entirely on physical transformation and silence, then everywhere else that same watchful intensity gets put to different use.
+  rationale: The two performances built on physical transformation and silence first, then everywhere else that same watchful intensity gets put to different use.
   order:
+    - the-pianist
+    - the-brutalist
     - king-kong-2005
     - the-grand-budapest-hotel
     - detachment
-    - the-pianist
+    - the-village
+    - hollywoodland
+    - the-jacket
+    - splice
+    - blonde
+    - summer-of-sam
+    - predators
+    - the-experiment
+    - cadillac-records
+    - bread-and-roses
+    - oxygen
+    - third-person
+    - the-darjeeling-limited
+    - the-brothers-bloom
+    - midnight-in-paris
+    - the-french-dispatch
+    - see-how-they-run
+    - asteroid-city
+    - backtrack
+    - septembers-of-shiraz
+    - harrisons-flowers
+    - manolete
+    - the-singing-detective
+    - manodrome
+    - clean-2021
+    - king-of-the-hill
+    - the-undertakers-wedding
+    - liberty-heights
+    - love-the-hard-way
+    - the-affair-of-the-necklace
+    - dummy
+    - back-to-1942
+    - dragon-blade
+    - manhattan-night
+    - bullet-head
+    - ghosted
+    - fools-paradise
+    - the-thin-red-line
+    - ten-benny
+    - bullet
+    - solo
+    - the-last-time-i-committed-suicide
+    - six-ways-to-sunday
+    - restaurant
+    - wrecked
+    - american-heist
+    - the-boy-who-cried-bitch
+    - angels-in-the-outfield
+    - new-york-stories
+    - fantastic-mr-fox
+    - high-school
+    - giallo
+    - inappropriate-comedy
+    - air-strike
