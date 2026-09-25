@@ -134,6 +134,13 @@
   runtime: 130
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.65 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: john-wick-chapter-3-parabellum
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/o8/57/vf/l3/john-wick-3-parabellum-1200-1200-675-675-crop-000000.jpg?v=0643690c1f
+  genres:
+    - Action
+    - Crime
+    - Thriller
+  letterboxd_rating: 3.71
 
 - id: waiting-for-anya
   tmdb_id: 525428
@@ -142,6 +149,12 @@
   runtime: 109
   tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.45 }
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: waiting-for-anya
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/59/c0/yh/nj/wlgmixGwyi5mJQ28TQQGT9q785W-1200-1200-675-675-crop-000000.jpg?v=63e2a72d59
+  genres:
+    - Drama
+    - War
+  letterboxd_rating: 2.93
 
 - id: arctic-dogs
   tmdb_id: 416153
@@ -150,6 +163,13 @@
   runtime: 92
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.30 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: arctic-dogs
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/qq/fi/v7/q3/uTfdOozort4sp9kukWxEmdmRsqJ-1200-1200-675-675-crop-000000.jpg?v=7893eb6e10
+  genres:
+    - Animation
+    - Comedy
+    - Adventure
+  letterboxd_rating: 1.94
 
 - id: trouble-2018
   tmdb_id: 456648
@@ -166,6 +186,12 @@
   runtime: 91
   tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.35 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: the-cleanse-2018
+  poster_url: https://a.ltrbxd.com/resized/film-poster/5/0/2/4/4/4/502444-the-cleanse-0-230-0-345-crop.jpg?v=12358fd215
+  genres:
+    - Thriller
+    - Comedy
+    - Horror
 
 - id: the-watcher-in-the-woods-2017
   tmdb_id: 479837
@@ -174,6 +200,12 @@
   runtime: 88
   tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.35 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: the-watcher-in-the-woods-2017
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/vn/tv/hx/qm/6RAeJdeImLgHLDjOlEjCwB1YrxH-1200-1200-675-675-crop-000000.jpg?v=d954898e3c
+  genres:
+    - TV Movie
+    - Horror
+  letterboxd_rating: 2.41
 
 - id: thirst-street
   tmdb_id: 426259
@@ -182,6 +214,13 @@
   runtime: 82
   tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.45 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 2 }
+  letterboxd_slug: thirst-street
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/5j/um/zb/4u/thirst%20street-1200-1200-675-675-crop-000000.jpg?v=2788d5b1b3
+  genres:
+    - Drama
+    - Comedy
+    - Romance
+  letterboxd_rating: 3.28
 
 - id: tinker-bell-and-the-legend-of-the-neverbeast
   tmdb_id: 297270
@@ -190,6 +229,13 @@
   runtime: 74
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 2, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: tinker-bell-and-the-legend-of-the-neverbeast
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/wb/fp/cx/en/tinker-bell-and-the-legend-of-the-neverbeast-1200-1200-675-675-crop-000000.jpg?v=163b69f8be
+  genres:
+    - Adventure
+    - Animation
+    - Family
+  letterboxd_rating: 3.64
 
 - id: tinker-bell-and-the-pirate-fairy
   tmdb_id: 175112
@@ -198,6 +244,12 @@
   runtime: 78
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 2, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: tinker-bell-and-the-pirate-fairy
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/d7/tm/sf/ts/1DfcGAQ4EVIZFnveo1IzHFtgFTS-1200-1200-675-675-crop-000000.jpg?v=c71b4fcd6e
+  genres:
+    - Family
+    - Animation
+  letterboxd_rating: 3.54
 
 - id: pablo
   tmdb_id: 153153
@@ -206,6 +258,11 @@
   runtime: 96
   tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.40 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: pablo
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/i6/hd/en/nb/hCcNNusLGDpRhMk37EYjoFFwx72-1200-1200-675-675-crop-000000.jpg?v=dfd613b469
+  genres:
+    - Animation
+    - Documentary
 
 - id: secret-of-the-wings
   tmdb_id: 75258
@@ -214,6 +271,14 @@
   runtime: 76
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 2, acclaim: 0.60 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: secret-of-the-wings
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/by/b6/9d/7k/secret-of-the-wings-1200-1200-675-675-crop-000000.jpg?v=73e348416c
+  genres:
+    - Family
+    - Animation
+    - Fantasy
+    - Adventure
+  letterboxd_rating: 3.77
 
 - id: the-big-year
   tmdb_id: 73937
@@ -222,6 +287,11 @@
   runtime: 100
   tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 3, acclaim: 0.50 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: the-big-year
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/eh/8c/yd/ph/the-big-year-1200-1200-675-675-crop-000000.jpg?v=27dcfb06f9
+  genres:
+    - Comedy
+  letterboxd_rating: 3.1
 
 - id: when-in-rome
   tmdb_id: 13477
@@ -230,6 +300,13 @@
   runtime: 91
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 2, acclaim: 0.30 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: when-in-rome-2010
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/qp/mz/lu/ae/when-in-rome-1200-1200-675-675-crop-000000.jpg?v=c4bef0d0d3
+  genres:
+    - Romance
+    - Fantasy
+    - Comedy
+  letterboxd_rating: 2.71
 
 - id: tinker-bell-and-the-lost-treasure
   tmdb_id: 25475
@@ -238,6 +315,14 @@
   runtime: 76
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 2, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: tinker-bell-and-the-lost-treasure
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/t3/15/i9/ly/76BYV87P0RsgMGCd9DwqcYqyXVS-1200-1200-675-675-crop-000000.jpg?v=03818e6364
+  genres:
+    - Animation
+    - Family
+    - Adventure
+    - Fantasy
+  letterboxd_rating: 3.27
 
 - id: choke
   tmdb_id: 13973
@@ -246,6 +331,12 @@
   runtime: 92
   tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.45 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+  letterboxd_slug: choke-2008
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/b8/ku/h4/rv/choke-1200-1200-675-675-crop-000000.jpg?v=b27387d93f
+  genres:
+    - Drama
+    - Comedy
+  letterboxd_rating: 3.02
 
 - id: tinker-bell
   tmdb_id: 13179
@@ -254,6 +345,14 @@
   runtime: 78
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 2, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: tinker-bell-2008
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/9j/6n/vj/6s/tinker-bell-1200-1200-675-675-crop-000000.jpg?v=abbbf4542c
+  genres:
+    - Family
+    - Animation
+    - Adventure
+    - Fantasy
+  letterboxd_rating: 3.51
 
 - id: the-kreutzer-sonata
   tmdb_id: 53315
@@ -262,6 +361,12 @@
   runtime: 113
   tags: { opacity: 2, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.45 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  letterboxd_slug: the-kreutzer-sonata
+  poster_url: https://a.ltrbxd.com/resized/film-poster/1/2/6/3/0/12630-the-kreutzer-sonata-0-230-0-345-crop.jpg?v=acf07b0a3e
+  genres:
+    - Drama
+    - Romance
+  letterboxd_rating: 3.39
 
 - id: martian-child
   tmdb_id: 5126
@@ -270,6 +375,12 @@
   runtime: 108
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.40 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: martian-child
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/42/dl/yt/y2/martian-child-1200-1200-675-675-crop-000000.jpg?v=83901ffee2
+  genres:
+    - Comedy
+    - Drama
+  letterboxd_rating: 3.24
 
 - id: seraphim-falls
   tmdb_id: 13249
@@ -278,6 +389,13 @@
   runtime: 115
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: seraphim-falls
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ra/ja/90/kk/pcV7DctSDwUafYURfW7LvTTVjsv-1200-1200-675-675-crop-000000.jpg?v=99c90126c8
+  genres:
+    - Drama
+    - Western
+    - Action
+  letterboxd_rating: 3.21
 
 - id: material-girls
   tmdb_id: 10118
@@ -286,6 +404,13 @@
   runtime: 98
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 2, acclaim: 0.20 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: material-girls
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/5e/7s/vr/gn/53dMoCCdlUnU1ldPDpLr5fheZbG-1200-1200-675-675-crop-000000.jpg?v=43539413f1
+  genres:
+    - Comedy
+    - Romance
+    - Family
+  letterboxd_rating: 2.57
 
 - id: art-school-confidential
   tmdb_id: 9786
@@ -294,6 +419,12 @@
   runtime: 102
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.45 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: art-school-confidential
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/01/o4/ou/ls/art-school-confidential-1200-1200-675-675-crop-000000.jpg?v=8842980e65
+  genres:
+    - Drama
+    - Comedy
+  letterboxd_rating: 3.16
 
 - id: these-foolish-things
   tmdb_id: 56193
@@ -302,6 +433,13 @@
   runtime: 100
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.35 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: these-foolish-things
+  poster_url: https://a.ltrbxd.com/resized/film-poster/9/8/8/5/9885-these-foolish-things-0-230-0-345-crop.jpg?v=006a8f11d3
+  genres:
+    - Comedy
+    - Romance
+    - Drama
+  letterboxd_rating: 3.05
 
 - id: iron-jawed-angels
   tmdb_id: 49007
@@ -310,6 +448,12 @@
   runtime: 125
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.60 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: iron-jawed-angels
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/yr/2m/2v/tw/g5QRbgrgRwaSyDfcCPUhP6XcilR-1200-1200-675-675-crop-000000.jpg?v=2ad63161ae
+  genres:
+    - Drama
+    - TV Movie
+  letterboxd_rating: 3.11
 
 - id: daddy-day-care
   tmdb_id: 10708
@@ -318,6 +462,12 @@
   runtime: 92
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.40 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: daddy-day-care
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/w8/l1/u8/tk/daddy%20daycare-1200-1200-675-675-crop-000000.jpg?v=91b83c057c
+  genres:
+    - Comedy
+    - Family
+  letterboxd_rating: 3.08
 
 - id: barbie-as-rapunzel
   tmdb_id: 15015
@@ -326,6 +476,12 @@
   runtime: 82
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 2, acclaim: 0.50 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: barbie-as-rapunzel
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/f8/85/zc/bl/repunzel-1200-1200-675-675-crop-000000.jpg?v=9c044cc5be
+  genres:
+    - Family
+    - Animation
+  letterboxd_rating: 3.56
 
 - id: blood-work
   tmdb_id: 9573
@@ -335,6 +491,15 @@
   director: Clint Eastwood
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.50 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: blood-work
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/5v/z2/gh/jf/fWeUPyLpFMWSpn64KgeJUuH2Nwc-1200-1200-675-675-crop-000000.jpg?v=ea50142883
+  genres:
+    - Thriller
+    - Mystery
+    - Action
+    - Drama
+    - Crime
+  letterboxd_rating: 3.08
 
 - id: the-man-from-elysian-fields
   tmdb_id: 15720
@@ -343,6 +508,12 @@
   runtime: 107
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.45 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: the-man-from-elysian-fields
+  poster_url: https://a.ltrbxd.com/resized/film-poster/4/2/1/5/3/42153-the-man-from-elysian-fields-0-230-0-345-crop.jpg?v=5734cd484c
+  genres:
+    - Romance
+    - Drama
+  letterboxd_rating: 3.23
 
 - id: the-golden-bowl
   tmdb_id: 29946
@@ -351,6 +522,12 @@
   runtime: 130
   tags: { opacity: 2, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.45 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: the-golden-bowl
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/xl/2t/mn/yn/1kLyl3IyjBOO74g4YRUC63Hx5qE-1200-1200-675-675-crop-000000.jpg?v=4865c5144a
+  genres:
+    - Romance
+    - Drama
+  letterboxd_rating: 3.1
 
 - id: agnes-browne
   tmdb_id: 15506
@@ -360,6 +537,11 @@
   director: Anjelica Huston
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.50 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: agnes-browne
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/lk/do/ch/po/ylWm0EQNIrcIbjpeUhHKTfD1Ugw-1200-1200-675-675-crop-000000.jpg?v=b71b9f2fb7
+  genres:
+    - Drama
+  letterboxd_rating: 3.37
 
 - id: phoenix-1998
   tmdb_id: 28047
@@ -368,6 +550,13 @@
   runtime: 107
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.40 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: phoenix-1998
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/c4/gq/b2/pq/h0pxtAQCGWcArbPxqudW5NbmUNc-1200-1200-675-675-crop-000000.jpg?v=9b388d7541
+  genres:
+    - Crime
+    - Drama
+    - Thriller
+  letterboxd_rating: 3.11
 
 - id: buffalo-66
   tmdb_id: 9464
@@ -376,6 +565,13 @@
   runtime: 110
   tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 2, acclaim: 0.65 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: buffalo-66
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/17/h4/vd/54/buffalo-66-2-1200-1200-675-675-crop-000000.jpg?v=d2a6032c22
+  genres:
+    - Drama
+    - Comedy
+    - Romance
+  letterboxd_rating: 3.75
 
 - id: the-perez-family
   tmdb_id: 63020
@@ -384,6 +580,13 @@
   runtime: 112
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.40 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: the-perez-family
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/qd/iv/x5/a4/mOPiR7dVKLiy7GoovcPLqyGd2YW-1200-1200-675-675-crop-000000.jpg?v=de61c1bd22
+  genres:
+    - Drama
+    - Romance
+    - Comedy
+  letterboxd_rating: 3.15
 
 - id: the-crossing-guard
   tmdb_id: 27526
@@ -392,6 +595,12 @@
   runtime: 111
   tags: { opacity: 1, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.50 }
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: the-crossing-guard
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/58/ob/9j/s2/nFI5xgo0vcYnAkw5YQeyaaPelHS-1200-1200-675-675-crop-000000.jpg?v=15407287ac
+  genres:
+    - Drama
+    - Thriller
+  letterboxd_rating: 3.2
 
 - id: addams-family-values
   tmdb_id: 2758
@@ -400,6 +609,13 @@
   runtime: 94
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.70 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: addams-family-values
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/b5/3l/xs/lw/addams-family-values-1200-1200-675-675-crop-000000.jpg?v=e748329bb4
+  genres:
+    - Comedy
+    - Family
+    - Fantasy
+  letterboxd_rating: 3.83
 
 - id: and-the-band-played-on
   tmdb_id: 2887
@@ -408,6 +624,12 @@
   runtime: 141
   tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.65 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: and-the-band-played-on
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/xp/op/y2/s6/and%20the%20band-1200-1200-675-675-crop-000000.jpg?v=74fe7b6d2b
+  genres:
+    - Drama
+    - TV Movie
+  letterboxd_rating: 3.61
 
 - id: manhattan-murder-mystery
   tmdb_id: 10440
@@ -417,6 +639,12 @@
   director: Woody Allen
   tags: { opacity: 2, stillness: 2, bleakness: 1, humor: 4, acclaim: 0.65 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: manhattan-murder-mystery
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/7o/9q/g3/dp/manhattan-murder-mystery-1200-1200-675-675-crop-000000.jpg?v=b4ce3e43d0
+  genres:
+    - Comedy
+    - Mystery
+  letterboxd_rating: 3.73
 
 - id: enemies-a-love-story
   tmdb_id: 116014
@@ -425,6 +653,13 @@
   runtime: 119
   tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.60 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: enemies-a-love-story
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/e8/3d/85/hv/enemie-1200-1200-675-675-crop-000000.jpg?v=f7f3033b77
+  genres:
+    - Drama
+    - Comedy
+    - Romance
+  letterboxd_rating: 3.38
 
 - id: mr-north
   tmdb_id: 77233
@@ -433,6 +668,12 @@
   runtime: 92
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.40 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: mr-north
+  poster_url: https://a.ltrbxd.com/resized/film-poster/6/3/6/9/7/63697-mr-north-0-230-0-345-crop.jpg?v=398bb3bfa0
+  genres:
+    - Drama
+    - Comedy
+  letterboxd_rating: 3.05
 
 - id: gardens-of-stone
   tmdb_id: 28368
@@ -442,6 +683,13 @@
   director: Francis Ford Coppola
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.50 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: gardens-of-stone
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/hc/uk/cw/28/gardens-1200-1200-675-675-crop-000000.jpg?v=dc83ea78d7
+  genres:
+    - Drama
+    - War
+    - History
+  letterboxd_rating: 3.14
 
 - id: good-to-go
   tmdb_id: 220104
@@ -450,6 +698,12 @@
   runtime: 88
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.25 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: good-to-go
+  poster_url: https://a.ltrbxd.com/resized/film-poster/1/5/5/7/6/8/155768-good-to-go-0-230-0-345-crop.jpg?v=8206742dc8
+  genres:
+    - Crime
+    - Thriller
+    - Music
 
 - id: the-ice-pirates
   tmdb_id: 10179
@@ -458,6 +712,14 @@
   runtime: 91
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.40 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: the-ice-pirates
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/5p/13/11/w7/TheIcePirates-1200-1200-675-675-crop-000000.jpg?v=a100211328
+  genres:
+    - Comedy
+    - Action
+    - Adventure
+    - Science Fiction
+  letterboxd_rating: 2.75
 
 - id: the-last-tycoon
   tmdb_id: 37774
@@ -466,6 +728,12 @@
   runtime: 123
   tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.45 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: the-last-tycoon
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/gr/za/ps/ot/lMdQTp9XcBeWfV4ek8HRqtAit0D-1200-1200-675-675-crop-000000.jpg?v=f029899157
+  genres:
+    - Drama
+    - Romance
+  letterboxd_rating: 3.15
 
 - id: swashbuckler
   tmdb_id: 42242
@@ -474,6 +742,13 @@
   runtime: 101
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 2, acclaim: 0.40 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: swashbuckler
+  poster_url: https://a.ltrbxd.com/resized/film-poster/2/2/8/2/9/22829-swashbuckler-0-230-0-345-crop.jpg?v=df4b2119c1
+  genres:
+    - Comedy
+    - Adventure
+    - Action
+  letterboxd_rating: 3.17
 
 - id: hamlet-1969
   tmdb_id: 42605
@@ -482,6 +757,11 @@
   runtime: 117
   tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.50 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 0 }
+  letterboxd_slug: hamlet-1969
+  poster_url: https://a.ltrbxd.com/resized/film-poster/2/2/4/8/1/22481-hamlet-0-230-0-345-crop.jpg?v=81f2b0b5b3
+  genres:
+    - Drama
+  letterboxd_rating: 3.4
 
 - id: a-walk-with-love-and-death
   tmdb_id: 98248
@@ -491,6 +771,15 @@
   director: John Huston
   tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.40 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: a-walk-with-love-and-death
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/mr/hb/6l/rz/4H950Hx2SHoytAaW5fAiUY1E4nt-1200-1200-675-675-crop-000000.jpg?v=12e4b5203c
+  genres:
+    - Romance
+    - Adventure
+    - Drama
+    - History
+    - War
+  letterboxd_rating: 3.21
 
 - id: sinful-davey
   tmdb_id: 130296
