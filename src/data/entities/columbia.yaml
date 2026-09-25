@@ -1,0 +1,200 @@
+# Not bounded to a closed era the way MGM (1924-1959) is — like the other majors already in the
+# corpus, Columbia (now Sony's flagship label) never stopped being active. Three eras trace a real
+# throughline: the Capra-and-prestige golden age that built the studio's reputation from nothing,
+# the director-driven run from Lawrence of Arabia through the 1980s, and the modern era mixing
+# awards-season swings with the Spider-Man franchise once Sony bought the studio outright in 1989.
+#
+# Every film here was already tagged elsewhere in the corpus under a director or actor before this
+# entity existed, so no new film entries were needed at all — the full list is in the films below.
+
+slug: columbia
+kind: studio
+name: Columbia Pictures
+blurb: The Poverty Row outfit that out-prestiged the majors on nerve alone, from Capra's Depression-era populism through the Spider-Man franchise it's built its modern identity on — restless rather than glamorous, and it shows in the range.
+
+eras:
+  - id: golden-age
+    name: The Capra and prestige years
+    from: 1934
+  - id: new-hollywood
+    name: New Hollywood and after
+    from: 1962
+  - id: modern
+    name: The modern era
+    from: 1996
+
+films:
+  - film: it-happened-one-night
+    era: golden-age
+    signature: 3
+    gateway: 1
+    note: A runaway heiress and the reporter chasing her story fall for each other on a road trip neither of them wanted, the first film to sweep all five major Oscar categories and the deal that made the studio a major player overnight.
+
+  - film: mr-smith-goes-to-washington
+    era: golden-age
+    signature: 3
+    gateway: 1
+    note: A naively idealistic new senator filibusters the floor of Congress against the corruption he's just discovered, Capra's populism at its most unguarded.
+
+  - film: all-the-kings-men
+    era: golden-age
+    signature: 4
+    gateway: 3
+    note: A folksy populist politician's rise to power curdles into the same corruption he ran against, told by the aide who helped build him.
+
+  - film: from-here-to-eternity
+    era: golden-age
+    signature: 3
+    gateway: 2
+    note: Soldiers stationed in Hawaii in the months before Pearl Harbor carry on affairs and grudges that the coming attack renders suddenly, brutally small.
+
+  - film: on-the-waterfront
+    era: golden-age
+    signature: 4
+    gateway: 2
+    note: A washed-up boxer working the docks has to decide whether to testify against the corrupt union boss who controls his brother, his job and his own conscience.
+
+  - film: the-bridge-on-the-river-kwai
+    era: golden-age
+    signature: 4
+    gateway: 3
+    note: A British POW commander's pride in building his captors a first-rate bridge slowly overtakes his understanding of which side he's actually helping.
+
+  - film: lawrence-of-arabia
+    era: new-hollywood
+    signature: 5
+    must_see: true
+    gateway: 3
+    note: A British officer's role uniting Arab tribes against the Ottomans during World War I remakes him into someone he no longer fully recognizes, shot at a scale the desert setting earns rather than just displays.
+
+  - film: dr-strangelove
+    era: new-hollywood
+    signature: 4
+    gateway: 2
+    note: A rogue general triggers an unrecallable nuclear strike on the Soviet Union, and the war room trying to stop it is somehow less competent than he was.
+
+  - film: taxi-driver
+    era: new-hollywood
+    signature: 5
+    gateway: 3
+    note: An insomniac Vietnam veteran driving nights through a city he sees as pure moral rot spirals toward a violence he's convinced himself is righteous.
+
+  - film: close-encounters-of-the-third-kind
+    era: new-hollywood
+    signature: 3
+    gateway: 2
+    note: An ordinary man's UFO sighting develops into an obsession that costs him his family, playing first contact as wonder rather than threat.
+
+  - film: tootsie
+    era: new-hollywood
+    signature: 3
+    gateway: 1
+    note: A difficult-to-cast actor lands a soap opera role by auditioning as a woman, and stays in character long enough to learn something he couldn't have any other way.
+
+  - film: ghostbusters
+    era: new-hollywood
+    signature: 2
+    gateway: 1
+    note: Three fired parapsychology professors start a for-profit ghost-catching business just as the city's supernatural activity spikes into something genuinely apocalyptic.
+
+  - film: stand-by-me
+    era: new-hollywood
+    signature: 3
+    gateway: 1
+    note: Four boys hike out to find a dead body they've heard about, the trip becoming the last thing they do together before childhood actually ends.
+
+  - film: jerry-maguire
+    era: modern
+    signature: 2
+    gateway: 1
+    note: A sports agent fired for a fit of conscience tries to rebuild his career with the one client and the one colleague who stuck with him.
+
+  - film: as-good-as-it-gets
+    era: modern
+    signature: 2
+    gateway: 2
+    note: An obsessive-compulsive, misanthropic novelist is dragged toward something like decency by a waitress he can't stop needling and a gay neighbor he's forced to rely on.
+
+  - film: men-in-black
+    era: modern
+    signature: 2
+    gateway: 1
+    note: A secret agency polices alien immigrants living undercover on Earth, played as a buddy-cop comedy that happens to be about first contact.
+
+  - film: spider-man
+    era: modern
+    signature: 3
+    must_see: true
+    gateway: 1
+    note: A bullied high schooler bitten by a genetically altered spider has to learn that the power he's gained comes with a responsibility he'd rather have skipped.
+
+  - film: the-social-network
+    era: modern
+    signature: 4
+    gateway: 3
+    note: A Harvard student's side project to build a campus ranking site becomes a company worth billions, and every friendship it cost him is litigated in flashback.
+
+  - film: moneyball
+    era: modern
+    signature: 3
+    gateway: 1
+    note: A small-market baseball team's general manager rebuilds a roster using statistics nobody else in the sport takes seriously, betting his job on math over scouting instinct.
+
+  - film: zero-dark-thirty
+    era: modern
+    signature: 4
+    gateway: 4
+    note: A CIA analyst's decade-long, career-consuming pursuit of Osama bin Laden is tracked with a procedural coldness that never quite lets the hunt feel like a victory.
+
+  - film: whiplash
+    era: modern
+    signature: 4
+    gateway: 2
+    note: A jazz drummer's ambition to be great collides with an instructor whose teaching method is closer to abuse, and the film refuses to fully resolve which one of them is right.
+
+  - film: spider-man-homecoming
+    era: modern
+    signature: 2
+    gateway: 1
+    note: A teenage Spider-Man juggling superheroics with actual high school tries to prove himself to a mentor who isn't sure he's ready.
+
+  - film: spider-man-into-the-spider-verse
+    era: modern
+    signature: 3
+    gateway: 1
+    note: A Brooklyn teenager inherits the Spider-Man mantle just as versions of the hero from other dimensions start falling into his, animated in a style built to look like a comic panel come loose.
+
+  - film: once-upon-a-time-in-hollywood
+    era: modern
+    signature: 3
+    gateway: 3
+    note: A fading TV star and his stunt double drift through the last days of old Hollywood, living next door to a story everyone watching already knows the ending to.
+
+curated:
+  curator: house
+  rationale: The two most enduring landmarks first, then the range across all three eras.
+  order:
+    - lawrence-of-arabia
+    - spider-man
+    - taxi-driver
+    - the-social-network
+    - dr-strangelove
+    - on-the-waterfront
+    - whiplash
+    - zero-dark-thirty
+    - once-upon-a-time-in-hollywood
+    - the-bridge-on-the-river-kwai
+    - close-encounters-of-the-third-kind
+    - it-happened-one-night
+    - all-the-kings-men
+    - moneyball
+    - spider-man-into-the-spider-verse
+    - stand-by-me
+    - tootsie
+    - from-here-to-eternity
+    - mr-smith-goes-to-washington
+    - ghostbusters
+    - spider-man-homecoming
+    - as-good-as-it-gets
+    - jerry-maguire
+    - men-in-black
