@@ -20,6 +20,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZGNjOTNkNWUtZGNmNS00NGU4LWFkY2EtNTM5ZGU5NzI2MTY1XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: big-deal-on-madonna-street
   letterboxd_rating: 4
+  genres:
+    - Crime
+    - Comedy
 
 - id: divorce-italian-style
   tmdb_id: 20271
@@ -38,6 +41,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjE3YTlkMWMtYWUwYi00OTU1LWJmOWYtMTg1MGY4MDY0ODk0XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: divorce-italian-style
   letterboxd_rating: 3.95
+  genres:
+    - Comedy
+    - Crime
 
 - id: yesterday-today-and-tomorrow
   tmdb_id: 42801
@@ -51,6 +57,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNzI5M2Q3NGItOGExOC00MTUyLWEyNTMtNmIxZTI2ZWMxN2JiXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: yesterday-today-and-tomorrow-1963
   letterboxd_rating: 3.74
+  genres:
+    - Romance
+    - Comedy
 
 - id: marriage-italian-style
   tmdb_id: 49687
@@ -64,6 +73,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMDkyNjI5MDEtODc0Yi00OTI4LWIzNTctMDE2OGMwMmViOTY5XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: marriage-italian-style
   letterboxd_rating: 3.79
+  genres:
+    - Comedy
+    - Romance
+    - Drama
 
 - id: a-special-day
   tmdb_id: 42229
@@ -82,6 +95,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNjMzNWUyY2UtYWJlZC00N2JjLTgyNTEtNzFkNTljNGQzZGM5XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: a-special-day
   letterboxd_rating: 4.34
+  genres:
+    - Drama
+    - Romance
 
 - id: la-grande-bouffe
   tmdb_id: 10102
@@ -99,6 +115,9 @@
   letterboxd_slug: la-grande-bouffe
   poster_url: https://a.ltrbxd.com/resized/sm/upload/pt/x4/p4/r3/la%20grande-1200-1200-675-675-crop-000000.jpg?v=4697be47aa
   letterboxd_rating: 3.57
+  genres:
+    - Drama
+    - Comedy
 
 - id: white-nights-1957
   tmdb_id: null
@@ -122,3 +141,7 @@
   letterboxd_slug: dark-eyes
   poster_url: https://a.ltrbxd.com/resized/sm/upload/gr/sy/um/ko/metcg6lwJqJMZeQx41ISgh62iVl-1200-1200-675-675-crop-000000.jpg?v=562034c65a
   letterboxd_rating: 3.65
+  genres:
+    - Drama
+    - Comedy
+    - Romance

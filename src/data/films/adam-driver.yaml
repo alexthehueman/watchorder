@@ -14,6 +14,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: j-edgar
   poster_url: https://a.ltrbxd.com/resized/sm/upload/px/nk/u8/np/j-edgar-90-1200-1200-675-675-crop-000000.jpg?v=e2e9768731
+  genres:
+    - History
+    - Drama
+    - Crime
 
 - id: gayby
   tmdb_id: 458877
@@ -25,6 +29,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   letterboxd_slug: gayby
   poster_url: https://a.ltrbxd.com/resized/film-poster/3/9/0/7/6/2/390762-gayby-0-230-0-345-crop.jpg?v=46557ff804
+  genres:
+    - Drama
+    - Romance
+    - Comedy
 
 - id: not-waving-but-drowning
   tmdb_id: 192137
@@ -36,6 +44,8 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   letterboxd_slug: not-waving-but-drowning
   poster_url: https://a.ltrbxd.com/resized/film-poster/1/3/8/2/2/4/138224-not-waving-but-drowning-0-230-0-345-crop.jpg?v=5261d80203
+  genres:
+    - Drama
 
 - id: bluebird
   tmdb_id: 173911
@@ -47,6 +57,8 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: bluebird-2013
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ze/aj/vi/ci/bluebird-1200-1200-675-675-crop-000000.jpg?v=85a548a9b6
+  genres:
+    - Drama
 
 - id: tracks
   tmdb_id: 203819
@@ -58,6 +70,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: tracks-2013
   poster_url: https://a.ltrbxd.com/resized/sm/upload/zt/qn/z7/ka/tracks-1200-1200-675-675-crop-000000.jpg?v=f28d4266b4
+  genres:
+    - Drama
+    - Adventure
 
 - id: the-f-word
   tmdb_id: 212716
@@ -83,6 +98,8 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 1 }
   letterboxd_slug: hungry-hearts-2014
   poster_url: https://a.ltrbxd.com/resized/sm/upload/7c/oh/gc/z5/hungry%20hearts-1200-1200-675-675-crop-000000.jpg?v=6cb2299836
+  genres:
+    - Drama
 
 - id: the-man-who-killed-don-quixote
   tmdb_id: 297725
@@ -99,6 +116,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: the-man-who-killed-don-quixote
   poster_url: https://a.ltrbxd.com/resized/sm/upload/9l/p4/0p/3j/the-man-who-killed-don-quixote-1200-1200-675-675-crop-000000.jpg?v=7a2ea92392
+  genres:
+    - Adventure
+    - Comedy
 
 - id: the-report
   tmdb_id: 524348
@@ -110,6 +130,8 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: the-report-2019
   poster_url: https://a.ltrbxd.com/resized/sm/upload/l3/nz/6k/na/the-report-2019-1200-1200-675-675-crop-000000.jpg?v=349ad8a46e
+  genres:
+    - Drama
 
 - id: the-dead-dont-die
   tmdb_id: 535581
@@ -126,6 +148,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   letterboxd_slug: the-dead-dont-die-2019
   poster_url: https://a.ltrbxd.com/resized/sm/upload/pn/cb/yg/kk/dead-dont-die-1200-1200-675-675-crop-000000.jpg?v=c7f9c6cccd
+  genres:
+    - Comedy
+    - Drama
+    - Horror
 
 - id: "65"
   tmdb_id: 700391
@@ -137,6 +163,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   letterboxd_slug: "65"
   poster_url: https://a.ltrbxd.com/resized/sm/upload/13/e7/9v/ep/65-1200-1200-675-675-crop-000000.jpg?v=dcabe2e279
+  genres:
+    - Science Fiction
+    - Action
+    - Adventure
 
 - id: ferrari
   tmdb_id: 365620
@@ -146,7 +176,11 @@
   director: Michael Mann
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.65 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
-  letterboxd_slug: ferrari
+  letterboxd_slug: ferrari-2023
+  letterboxd_rating: 3.17
+  genres:
+    - History
+    - Drama
   poster_url: https://s.ltrbxd.com/static/img/default-share-7md9L34t.png
 
 - id: megalopolis
@@ -164,6 +198,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
   letterboxd_slug: megalopolis-2024
   poster_url: https://a.ltrbxd.com/resized/sm/upload/2j/7y/oq/xj/mega-1200-1200-675-675-crop-000000.jpg?v=d8737327e7
+  genres:
+    - Drama
+    - Science Fiction
+    - Fantasy
 
 - id: father-mother-sister-brother
   tmdb_id: 1159206
@@ -175,3 +213,6 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: father-mother-sister-brother
   poster_url: https://a.ltrbxd.com/resized/alternative-backdrop/1/0/4/5/3/3/8/tmdb/AiI9Nx7mevEfadIw2cf63DFr0P-1200-1200-675-675-crop-000000.jpg?v=f89413cb1a
+  genres:
+    - Drama
+    - Comedy

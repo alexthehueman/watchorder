@@ -18,6 +18,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZmVjNzQ3MjYtYTZiNC00Y2YzLWExZTEtMTM2ZDllNDI0MzgyXkEyXkFqcGc@._V1_QL75_UX380_CR0,12,380,562_.jpg
   letterboxd_slug: top-gun
   letterboxd_rating: 3.54
+  genres:
+    - Action
+    - Romance
+    - Drama
 
 - id: jerry-maguire
   tmdb_id: 9390
@@ -31,6 +35,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BM2E1ZjU1MjctZjU2Yi00MGE1LWI1MDEtYzBlMWJlNDc1NTQxXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: jerry-maguire
   letterboxd_rating: 3.61
+  genres:
+    - Comedy
+    - Romance
+    - Drama
 
 - id: mission-impossible-fallout
   tmdb_id: 353081
@@ -44,3 +52,6 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZmUwZTg2YmMtMmZjOS00ZDYwLWI2ZDgtZDcyY2ZmMWMwZDdlXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg
   letterboxd_slug: mission-impossible-fallout
   letterboxd_rating: 4.01
+  genres:
+    - Action
+    - Adventure

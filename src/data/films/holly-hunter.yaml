@@ -19,6 +19,9 @@
   letterboxd_slug: the-piano
   poster_url: https://a.ltrbxd.com/resized/sm/upload/wp/yi/rj/vd/the-piano-1200-1200-675-675-crop-000000.jpg?v=66d8d3a271
   letterboxd_rating: 3.85
+  genres:
+    - Romance
+    - Drama
 
 - id: broadcast-news
   tmdb_id: 12626
@@ -31,3 +34,6 @@
   letterboxd_slug: broadcast-news
   poster_url: https://a.ltrbxd.com/resized/sm/upload/fi/dg/8w/sm/broadcast-news-1200-1200-675-675-crop-000000.jpg?v=2763d944e3
   letterboxd_rating: 4.03
+  genres:
+    - Comedy
+    - Romance

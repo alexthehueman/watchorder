@@ -13,6 +13,9 @@
   letterboxd_slug: bloodsport
   poster_url: https://a.ltrbxd.com/resized/sm/upload/xf/7p/ws/ht/bloodsport-1200-1200-675-675-crop-000000.jpg?v=db38bb2f6b
   letterboxd_rating: 3.41
+  genres:
+    - Drama
+    - Action
 
 - id: universal-soldier
   tmdb_id: 9349
@@ -30,6 +33,10 @@
   letterboxd_slug: universal-soldier
   poster_url: https://a.ltrbxd.com/resized/sm/upload/54/xb/ry/n5/universal-soldier-1200-1200-675-675-crop-000000.jpg?v=a214de8cc3
   letterboxd_rating: 3.04
+  genres:
+    - Thriller
+    - Science Fiction
+    - Action
 
 - id: timecop
   tmdb_id: 8831
@@ -47,3 +54,7 @@
   letterboxd_slug: timecop
   poster_url: https://a.ltrbxd.com/resized/sm/upload/dx/7p/te/00/timecop-1200-1200-675-675-crop-000000.jpg?v=464fc818ce
   letterboxd_rating: 2.89
+  genres:
+    - Thriller
+    - Science Fiction
+    - Action

@@ -13,6 +13,9 @@
   letterboxd_slug: always-be-my-maybe-2019
   poster_url: https://a.ltrbxd.com/resized/sm/upload/cp/tm/n9/v4/always-be-my-maybe-1200-1200-675-675-crop-000000.jpg?v=1641f77e1f
   letterboxd_rating: 3.07
+  genres:
+    - Romance
+    - Comedy
 
 - id: the-interview
   tmdb_id: 228967
@@ -30,6 +33,9 @@
   letterboxd_slug: the-interview-2014
   poster_url: https://a.ltrbxd.com/resized/sm/upload/k5/zc/nt/i9/the-interview-2014-1200-1200-675-675-crop-000000.jpg?v=f2e1e842fb
   letterboxd_rating: 3.12
+  genres:
+    - Comedy
+    - Action
 
 - id: ant-man-and-the-wasp
   tmdb_id: 363088
@@ -42,3 +48,7 @@
   letterboxd_slug: ant-man-and-the-wasp
   poster_url: https://a.ltrbxd.com/resized/sm/upload/rl/86/k0/y9/ant-man-and-wasp-1200-1200-675-675-crop-000000.jpg?v=e4b20f258f
   letterboxd_rating: 2.82
+  genres:
+    - Adventure
+    - Action
+    - Science Fiction

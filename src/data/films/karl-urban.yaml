@@ -15,6 +15,9 @@
   letterboxd_slug: dredd
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ig/6x/8a/1s/dredd-1200-1200-675-675-crop-000000.jpg?v=72bf589d61
   letterboxd_rating: 3.63
+  genres:
+    - Science Fiction
+    - Action
 
 - id: the-lord-of-the-rings-the-two-towers
   tmdb_id: 121
@@ -27,6 +30,10 @@
   letterboxd_slug: the-lord-of-the-rings-the-two-towers
   poster_url: https://a.ltrbxd.com/resized/sm/upload/l5/j6/zw/ib/lotr-the-two-towers-1200-1200-675-675-crop-000000.jpg?v=c3ae1188ea
   letterboxd_rating: 4.44
+  genres:
+    - Action
+    - Fantasy
+    - Adventure
 
 - id: riddick
   tmdb_id: 87421
@@ -44,6 +51,10 @@
   letterboxd_slug: riddick
   poster_url: https://a.ltrbxd.com/resized/sm/upload/w2/9s/lp/r9/riddick-1200-1200-675-675-crop-000000.jpg?v=1337cfa9dc
   letterboxd_rating: 2.86
+  genres:
+    - Thriller
+    - Action
+    - Science Fiction
 
 - id: out-of-the-blue
   tmdb_id: 10844
@@ -61,6 +72,9 @@
   letterboxd_slug: out-of-the-blue-2006
   poster_url: https://a.ltrbxd.com/resized/sm/upload/av/5q/rr/yz/out-of-the-blue-1200-1200-675-675-crop-000000.jpg?v=28a7ae4c16
   letterboxd_rating: 3.59
+  genres:
+    - Drama
+    - Crime
 
 - id: pathfinder
   tmdb_id: 1534
@@ -73,3 +87,6 @@
   letterboxd_slug: pathfinder-2007
   poster_url: https://a.ltrbxd.com/resized/sm/upload/f0/dq/as/8t/t2hqoksHqbHMpB4bBKXZ0JxkI3q-1200-1200-675-675-crop-000000.jpg?v=3f5c550bad
   letterboxd_rating: 2.45
+  genres:
+    - Action
+    - Adventure

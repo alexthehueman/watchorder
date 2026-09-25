@@ -21,6 +21,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BM2JiYmE1Y2UtNDQ3YS00YTZhLTk5MzAtYzEzMzIyNTM4OTRlXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: contact
   letterboxd_rating: 3.83
+  genres:
+    - Mystery
+    - Drama
+    - Science Fiction
 
 - id: panic-room
   tmdb_id: 4547
@@ -34,6 +38,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BODU0ZGM0MjctM2YxYy00OWY1LTk2N2YtNWE4ZWQ2ODQwMTI5XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: panic-room
   letterboxd_rating: 3.54
+  genres:
+    - Thriller
+    - Crime
+    - Drama
 
 - id: the-accused
   tmdb_id: 10868
@@ -47,6 +55,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZDU2NGRmNGYtN2JiNi00ZDcyLTllM2UtNzhiNDM4ZTU3ODMxXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-accused-1988
   letterboxd_rating: 3.66
+  genres:
+    - Drama
+    - Crime
 
 - id: maverick
   tmdb_id: 9359
@@ -60,6 +71,12 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjk5MzdhYWMtOWU3Yi00MTE5LWEyYTEtOGU5NWM0NWNmZDE1XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: maverick
   letterboxd_rating: 3.44
+  genres:
+    - Action
+    - Comedy
+    - Drama
+    - Adventure
+    - Western
 
 - id: flightplan
   tmdb_id: 9315
@@ -78,6 +95,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMGQyZmQ1OGItYWNkNi00YzU4LWJmZjktNTQyZjNlOGNmNWJlXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: flightplan
   letterboxd_rating: 3.08
+  genres:
+    - Mystery
+    - Drama
+    - Thriller
 
 - id: nell
   tmdb_id: 1945
@@ -91,6 +112,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNTkxY2NkMmItOTNmNy00NGU0LTlhM2UtOGQwNDhmNTBmNzQ3XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: nell
   letterboxd_rating: 3.1
+  genres:
+    - Thriller
+    - Drama
 
 - id: the-brave-one
   tmdb_id: 4413
@@ -104,3 +128,7 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTA4OTA4Njk4MDdeQTJeQWpwZ15BbWU3MDc0NDY1MzM@._V1_SX300.jpg
   letterboxd_slug: the-brave-one
   letterboxd_rating: 3.12
+  genres:
+    - Thriller
+    - Drama
+    - Crime

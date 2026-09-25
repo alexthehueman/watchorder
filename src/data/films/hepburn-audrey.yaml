@@ -24,6 +24,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMGE5MTA2NDUtYTQ3Yi00YzM4LWJlODItNDE1ZTRjYjY0M2E5XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: roman-holiday
   letterboxd_rating: 4.2
+  genres:
+    - Romance
+    - Comedy
+    - Drama
 
 - id: funny-face
   tmdb_id: 13320
@@ -37,6 +41,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZTkyZWEwMzktYTUwYi00YjkyLWJmMjktZjI1ODdkMjg5YTRiXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: funny-face
   letterboxd_rating: 3.69
+  genres:
+    - Romance
+    - Music
+    - Comedy
 
 - id: the-nuns-story
   tmdb_id: 27029
@@ -55,6 +63,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMGFkY2MxZjEtM2VhNS00OTg4LWFlYmMtODljOWNhMGRjODYwXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-nuns-story
   letterboxd_rating: 3.66
+  genres:
+    - Drama
 
 - id: breakfast-at-tiffanys
   tmdb_id: 164
@@ -68,6 +78,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZmU1MzlmOTMtZTNmMC00ZTA3LTkzMWMtOTc1MWNlMjFiYjFlXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: breakfast-at-tiffanys
   letterboxd_rating: 3.81
+  genres:
+    - Romance
+    - Drama
+    - Comedy
 
 - id: the-childrens-hour
   tmdb_id: 20139
@@ -86,6 +100,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYzA1MmJiMDItZWJhNC00YjQ0LTk1NWYtZWU2YWRhZmUwMWFiXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-childrens-hour
   letterboxd_rating: 4.21
+  genres:
+    - Drama
 
 - id: two-for-the-road
   tmdb_id: 5767
@@ -104,6 +120,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNTI0OWU4YjAtZGRiOS00MzkyLTlkYzAtZTQ0OWZhYTM3YzE0XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: two-for-the-road
   letterboxd_rating: 3.87
+  genres:
+    - Romance
+    - Drama
+    - Comedy
 
 - id: wait-until-dark
   tmdb_id: 11206
@@ -117,6 +137,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjJiMDRjNWUtZTVhYS00YTU5LWI2OTktZWI4YzY2YjY1MTc5XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: wait-until-dark
   letterboxd_rating: 3.93
+  genres:
+    - Horror
+    - Thriller
+    - Crime
 
 - id: my-fair-lady
   tmdb_id: 11113
@@ -130,3 +154,7 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNmMxZmFjZmQtMDRiOC00MDQxLTlhNDktZTkxMmRiYWM1ZDUzXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: my-fair-lady
   letterboxd_rating: 3.63
+  genres:
+    - Music
+    - Comedy
+    - Romance

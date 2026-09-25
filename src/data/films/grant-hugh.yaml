@@ -15,6 +15,10 @@
   letterboxd_slug: four-weddings-and-a-funeral
   poster_url: https://a.ltrbxd.com/resized/sm/upload/hj/pb/ty/lb/four-weddings-funeral-1200-1200-675-675-crop-000000.jpg?v=504fb64359
   letterboxd_rating: 3.33
+  genres:
+    - Drama
+    - Comedy
+    - Romance
 
 - id: paddington-2
   tmdb_id: 346648
@@ -27,6 +31,10 @@
   letterboxd_slug: paddington-2
   poster_url: https://a.ltrbxd.com/resized/sm/upload/zc/ru/8t/gh/paddington-2-1200-1200-675-675-crop-000000.jpg?v=d1cc3b1607
   letterboxd_rating: 4.1
+  genres:
+    - Comedy
+    - Family
+    - Adventure
 
 - id: the-gentlemen
   tmdb_id: 522627
@@ -44,3 +52,7 @@
   letterboxd_slug: the-gentlemen
   poster_url: https://a.ltrbxd.com/resized/sm/upload/xw/zo/3j/qs/the-gentlemen-1200-1200-675-675-crop-000000.jpg?v=a748ff0255
   letterboxd_rating: 3.79
+  genres:
+    - Crime
+    - Action
+    - Comedy

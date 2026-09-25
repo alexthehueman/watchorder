@@ -21,6 +21,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTQ0ODc4MDk4Nl5BMl5BanBnXkFtZTcwMTEzNzgzNA@@._V1_SX300.jpg
   letterboxd_slug: the-graduate
   letterboxd_rating: 4.1
+  genres:
+    - Drama
+    - Comedy
+    - Romance
 
 - id: midnight-cowboy
   tmdb_id: 3116
@@ -34,6 +38,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BY2QyNDQ4ZGQtOTFlYy00NDVjLWI5NTEtNTBmYTA5OTI0ODYyXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: midnight-cowboy
   letterboxd_rating: 4.15
+  genres:
+    - Drama
 
 - id: tootsie
   tmdb_id: 9576
@@ -47,6 +53,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNzc1YjU5NzEtMmZjYi00NzE2LThjMmEtMzY1ZTg5ZjgyM2EzXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: tootsie
   letterboxd_rating: 3.76
+  genres:
+    - Comedy
+    - Romance
 
 - id: rain-man
   tmdb_id: 380
@@ -60,3 +69,5 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZDUzODNkNGUtNzJjNi00ODFlLTkzMzktMGNkOTIwYWM2YTQzXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: rain-man
   letterboxd_rating: 3.9
+  genres:
+    - Drama

@@ -12,6 +12,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: the-roaring-twenties
   poster_url: https://a.ltrbxd.com/resized/sm/upload/yv/iz/f5/fx/the-roaring-twenties-1200-1200-675-675-crop-000000.jpg?v=af145846c4
+  genres:
+    - Crime
+    - Drama
+    - Thriller
 
 - id: high-sierra
   tmdb_id: 33717
@@ -23,6 +27,11 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: high-sierra
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ir/ld/49/ar/high%20sierra-1200-1200-675-675-crop-000000.jpg?v=df77d1cc77
+  genres:
+    - Action
+    - Thriller
+    - Crime
+    - Drama
 
 - id: they-died-with-their-boots-on
   tmdb_id: 34277
@@ -34,3 +43,8 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: they-died-with-their-boots-on
   poster_url: https://a.ltrbxd.com/resized/sm/upload/56/2a/sf/cj/they%20died-1200-1200-675-675-crop-000000.jpg?v=90ef7795f9
+  genres:
+    - Drama
+    - Western
+    - War
+    - Romance

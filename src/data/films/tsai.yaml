@@ -16,6 +16,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BODkxNjgwNjk0MF5BMl5BanBnXkFtZTgwNzM0NjA5NDE@._V1_SX300.jpg
   letterboxd_slug: rebels-of-the-neon-god
   letterboxd_rating: 3.98
+  genres:
+    - Drama
+    - Crime
 
 - id: vive-lamour
   tmdb_id: 11985
@@ -28,6 +31,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZjg3NzEzMjItZWE4Zi00MDNiLTg2YWItMWZjODM3NjIzYWQxXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: vive-lamour
   letterboxd_rating: 4.07
+  genres:
+    - Drama
 
 - id: the-river
   tmdb_id: 54291
@@ -40,6 +45,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYTEzMWZmMmYtMzBhOC00N2NlLTkzZTYtMzk1OTkzZWY5ODJlXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-river-1997
   letterboxd_rating: 3.91
+  genres:
+    - Drama
+    - Romance
 
 - id: the-hole
   tmdb_id: 47060
@@ -57,6 +65,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BODE0MGE0OTAtYmFiYS00OWExLTgzNWMtNGRiZjQ1ZDVmMzJkXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-hole
   letterboxd_rating: 4
+  genres:
+    - Drama
+    - Science Fiction
+    - Romance
 
 - id: what-time-is-it-there
   tmdb_id: 24166
@@ -69,6 +81,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNTMzNDIzNjYyOF5BMl5BanBnXkFtZTcwODE4OTQyMQ@@._V1_SX300.jpg
   letterboxd_slug: what-time-is-it-there
   letterboxd_rating: 4.06
+  genres:
+    - Drama
 
 - id: goodbye-dragon-inn
   tmdb_id: 56616
@@ -86,6 +100,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYzE5NmU0MGUtZmRmZC00N2IzLWFmODgtMzdiNTc2MDY1ZWY2XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: goodbye-dragon-inn
   letterboxd_rating: 3.96
+  genres:
+    - Drama
 
 - id: the-wayward-cloud
   tmdb_id: 36253
@@ -98,6 +114,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BOGRjOTMxNmEtNWIyNS00ZGM4LWIwNmUtNDRhMTcwMGU5MzM0XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-wayward-cloud
   letterboxd_rating: 3.74
+  genres:
+    - Romance
+    - Drama
+    - Comedy
 
 - id: i-dont-want-to-sleep-alone
   tmdb_id: 12130
@@ -110,6 +130,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZmUzYzE2NGUtMGE4Ny00MTA4LTg2ZGYtM2M4NGFkZmFkYmJjXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: i-dont-want-to-sleep-alone
   letterboxd_rating: 3.82
+  genres:
+    - Drama
+    - Romance
 
 - id: face
   tmdb_id: 53520
@@ -123,6 +146,10 @@
   letterboxd_title: Visage
   letterboxd_slug: visage-2009
   letterboxd_rating: 3.58
+  genres:
+    - Comedy
+    - Music
+    - Drama
 
 - id: stray-dogs
   tmdb_id: 209840
@@ -135,6 +162,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjI5NjE4NTQyMl5BMl5BanBnXkFtZTgwMjE4NTgyMjE@._V1_SX300.jpg
   letterboxd_slug: stray-dogs-2013
   letterboxd_rating: 3.88
+  genres:
+    - Drama
 
 - id: days
   tmdb_id: 662400
@@ -147,3 +176,5 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNGM5ZTE5OGEtODIzMC00ZWNlLTg1ZWMtMGUwMjU2ZWU3NWQwXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: days-2020
   letterboxd_rating: 3.78
+  genres:
+    - Drama

@@ -19,6 +19,11 @@
   letterboxd_slug: planet-of-the-apes
   poster_url: https://a.ltrbxd.com/resized/sm/upload/a6/1m/bo/r6/planet-of-the-apes-1200-1200-675-675-crop-000000.jpg?v=449acd3065
   letterboxd_rating: 4.01
+  genres:
+    - Adventure
+    - Action
+    - Drama
+    - Science Fiction
 
 - id: the-ten-commandments
   tmdb_id: 6844
@@ -31,3 +36,6 @@
   letterboxd_slug: the-ten-commandments-1956
   poster_url: https://a.ltrbxd.com/resized/sm/upload/5q/0g/xx/si/the-ten-commandments-1200-1200-675-675-crop-000000.jpg?v=c896b95033
   letterboxd_rating: 3.87
+  genres:
+    - History
+    - Drama

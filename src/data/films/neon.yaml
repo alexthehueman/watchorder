@@ -16,6 +16,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYThiN2M0NTItODRmNC00NDhlLWFiYTgtMWM2YTEyYzI3ZTY1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg
   letterboxd_slug: anora
   letterboxd_rating: 3.77
+  genres:
+    - Drama
+    - Romance
+    - Comedy
 
 - id: i-tonya
   tmdb_id: 389015
@@ -29,6 +33,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjI5MDY1NjYzMl5BMl5BanBnXkFtZTgwNjIzNDAxNDM@._V1_SX300.jpg
   letterboxd_slug: i-tonya
   letterboxd_rating: 3.86
+  genres:
+    - Drama
+    - Comedy
 
 - id: portrait-of-a-lady-on-fire
   tmdb_id: 531428
@@ -42,6 +49,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZjJlYWJlYmMtNjMyMS00ZDgxLTlmNjAtOTJhMzBiZWM5N2VmXkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg
   letterboxd_slug: portrait-of-a-lady-on-fire
   letterboxd_rating: 4.43
+  genres:
+    - Drama
+    - Romance
 
 - id: titane
   tmdb_id: 630240
@@ -60,6 +70,11 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BM2ZhZjE2MDEtY2EwNS00MzA5LTkxZTctOGQ5MDE0NTQ2YzdmXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: titane
   letterboxd_rating: 3.55
+  genres:
+    - Thriller
+    - Horror
+    - Science Fiction
+    - Drama
 
 - id: spencer
   tmdb_id: 716612
@@ -78,6 +93,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNjcyYzIyMTItNDQzYS00ZmI5LWJlYzItZDk5ZmEyNDlhNWQ3XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: spencer-2021
   letterboxd_rating: 3.65
+  genres:
+    - Drama
 
 - id: flee
   tmdb_id: 680813
@@ -96,6 +113,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjZlNTJjYTgtNTRhZi00YWFlLWJhM2UtMjNlZDYyOWZhNmNlXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: flee-2021
   letterboxd_rating: 4.22
+  genres:
+    - Documentary
+    - Animation
 
 - id: palm-springs
   tmdb_id: 587792
@@ -109,6 +129,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BY2VkNGY0MTMtMjEzZi00OThkLWJiOTMtNGU4ZGNjZDE5ZGIyXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: palm-springs-2020
   letterboxd_rating: 3.76
+  genres:
+    - Romance
+    - Science Fiction
+    - Comedy
 
 - id: anatomy-of-a-fall
   tmdb_id: 915935
@@ -127,6 +151,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYTk3MjFkZmQtMThiYi00N2JhLTk2YzItZTE5ZGUxZTIyZDVkXkEyXkFqcGc@._V1_QL75_UY562_CR2,0,380,562_.jpg
   letterboxd_slug: anatomy-of-a-fall
   letterboxd_rating: 4.12
+  genres:
+    - Crime
+    - Thriller
+    - Mystery
 
 - id: longlegs
   tmdb_id: 1226578
@@ -140,6 +168,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMmJkNGNiNjgtMzFlYy00ZDI5LWI2YzktZGVjYjI5MjQyMGU3XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: longlegs
   letterboxd_rating: 3.29
+  genres:
+    - Crime
+    - Horror
+    - Mystery
 
 - id: vox-lux
   tmdb_id: 429202
@@ -158,6 +190,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMDJkOGJhZjQtOTFlMS00MGNkLWE1MTktZDdlZjc2NTRkMWE0XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: vox-lux
   letterboxd_rating: 3.14
+  genres:
+    - Music
+    - Drama
 
 - id: ingrid-goes-west
   tmdb_id: 411741
@@ -171,3 +206,6 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNzE3Mzc5NTc4M15BMl5BanBnXkFtZTgwMDYwNzM3MjI@._V1_SX300.jpg
   letterboxd_slug: ingrid-goes-west
   letterboxd_rating: 3.32
+  genres:
+    - Comedy
+    - Drama

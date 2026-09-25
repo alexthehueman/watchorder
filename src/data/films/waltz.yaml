@@ -15,6 +15,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYmZhZGQzM2MtMWEyZC00YTU1LTk4YTQtMTg3ZjEzM2U1NTkxXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: alita-battle-angel
   letterboxd_rating: 3.24
+  genres:
+    - Adventure
+    - Science Fiction
+    - Action
 
 - id: water-for-elephants
   tmdb_id: 55787
@@ -28,6 +32,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTQzMDU3NDEwN15BMl5BanBnXkFtZTcwMTI3MDU0NA@@._V1_SX300.jpg
   letterboxd_slug: water-for-elephants
   letterboxd_rating: 3.2
+  genres:
+    - Romance
+    - Drama
 
 - id: spectre
   tmdb_id: 206647
@@ -41,6 +48,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMzA5MzFiNDAtYTI0NC00MDE5LTljYTctYTNkODk1OTZlODI5XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: spectre-2015
   letterboxd_rating: 3.27
+  genres:
+    - Action
+    - Thriller
+    - Adventure
 
 - id: the-zero-theorem
   tmdb_id: 157834
@@ -59,6 +70,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTc4NTIxMTE0OF5BMl5BanBnXkFtZTgwNTQ5NTYxMjE@._V1_SX300.jpg
   letterboxd_slug: the-zero-theorem
   letterboxd_rating: 3.08
+  genres:
+    - Fantasy
+    - Science Fiction
+    - Drama
 
 - id: big-eyes
   tmdb_id: 87093
@@ -72,6 +87,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjA2ODM5MDE3N15BMl5BanBnXkFtZTgwOTIxNjc1MzE@._V1_SX300.jpg
   letterboxd_slug: big-eyes
   letterboxd_rating: 3.42
+  genres:
+    - Drama
 
 - id: the-legend-of-tarzan
   tmdb_id: 258489
@@ -85,3 +102,7 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMzY3OTI0OTcyMF5BMl5BanBnXkFtZTgwNjkxNTAwOTE@._V1_SX300.jpg
   letterboxd_slug: the-legend-of-tarzan
   letterboxd_rating: 2.55
+  genres:
+    - Fantasy
+    - Action
+    - Adventure

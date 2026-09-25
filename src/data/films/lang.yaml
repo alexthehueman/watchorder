@@ -21,6 +21,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjhjMGYyMjAtMzJkYy00NzhlLWIwY2MtMWQ2ODIxZDUyOGYyXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: metropolis
   letterboxd_rating: 4.24
+  genres:
+    - Drama
+    - Science Fiction
 
 - id: m
   tmdb_id: 832
@@ -39,6 +42,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BODA4ODk3OTEzMF5BMl5BanBnXkFtZTgwMTQ2ODMwMzE@._V1_SX300.jpg
   letterboxd_slug: m
   letterboxd_rating: 4.29
+  genres:
+    - Thriller
+    - Drama
+    - Crime
 
 - id: the-testament-of-dr-mabuse
   tmdb_id: 12206
@@ -57,6 +64,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTdjMmZlNWEtM2M4Ni00ZTQwLWE0ZjctMTkxODU4ZDg0MjhkXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-testament-of-dr-mabuse
   letterboxd_rating: 4.03
+  genres:
+    - Mystery
+    - Crime
+    - Thriller
 
 - id: fury
   tmdb_id: 14615
@@ -75,6 +86,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BM2I2NjMxNTYtZmI3ZS00ZmZiLWFiNzctNmIwZjQ1MWE3YzUwXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: fury
   letterboxd_rating: 3.98
+  genres:
+    - Crime
+    - Thriller
+    - Drama
 
 - id: scarlet-street
   tmdb_id: 17058
@@ -93,6 +108,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BODg1Y2Y2YjQtM2NjNS00NWIwLWE0ZTUtMzM2M2M1YWJjYTdlXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: scarlet-street
   letterboxd_rating: 3.95
+  genres:
+    - Crime
+    - Drama
 
 - id: the-big-heat
   tmdb_id: 14580
@@ -111,3 +129,6 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMzhmNDQ1ZGUtMmNkMy00N2VjLThkODktZjdjNWYwNjBkNTQyXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-big-heat
   letterboxd_rating: 4.11
+  genres:
+    - Crime
+    - Thriller

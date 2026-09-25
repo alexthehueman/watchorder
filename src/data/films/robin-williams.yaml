@@ -19,6 +19,10 @@
   letterboxd_slug: mrs-doubtfire
   poster_url: https://a.ltrbxd.com/resized/sm/upload/1u/jn/xk/3m/mrs-doubtfire-1200-1200-675-675-crop-000000.jpg?v=fc510b79d7
   letterboxd_rating: 3.73
+  genres:
+    - Family
+    - Comedy
+    - Drama
 
 - id: good-morning-vietnam
   tmdb_id: 801
@@ -36,6 +40,10 @@
   letterboxd_slug: good-morning-vietnam
   poster_url: https://a.ltrbxd.com/resized/sm/upload/g6/py/9q/um/good-morning-vietnam-1200-1200-675-675-crop-000000.jpg?v=063048ebd7
   letterboxd_rating: 3.68
+  genres:
+    - Comedy
+    - Drama
+    - War
 
 - id: aladdin
   tmdb_id: 812
@@ -48,6 +56,12 @@
   letterboxd_slug: aladdin
   poster_url: https://a.ltrbxd.com/resized/sm/upload/8v/v0/f7/6z/aladdin-1200-1200-675-675-crop-000000.jpg?v=4749cb2e4b
   letterboxd_rating: 3.91
+  genres:
+    - Fantasy
+    - Adventure
+    - Romance
+    - Family
+    - Animation
 
 - id: one-hour-photo
   tmdb_id: 9357
@@ -65,6 +79,9 @@
   letterboxd_slug: one-hour-photo
   poster_url: https://a.ltrbxd.com/resized/sm/upload/up/49/1p/ji/one-hour-photo-80-1200-1200-675-675-crop-000000.jpg?v=89af8b2d05
   letterboxd_rating: 3.5
+  genres:
+    - Thriller
+    - Drama
 
 - id: jumanji
   tmdb_id: 8844
@@ -82,3 +99,7 @@
   letterboxd_slug: jumanji
   poster_url: https://a.ltrbxd.com/resized/sm/upload/tb/h1/wm/pr/jumanji-1200-1200-675-675-crop-000000.jpg?v=8d28a7dc6a
   letterboxd_rating: 3.67
+  genres:
+    - Family
+    - Adventure
+    - Fantasy

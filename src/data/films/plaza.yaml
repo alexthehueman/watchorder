@@ -13,6 +13,10 @@
   letterboxd_slug: emily-the-criminal
   poster_url: https://a.ltrbxd.com/resized/sm/upload/1a/8l/ye/rd/emily-1200-1200-675-675-crop-000000.jpg?v=26ba36edec
   letterboxd_rating: 3.3
+  genres:
+    - Thriller
+    - Crime
+    - Drama
 
 - id: black-bear
   tmdb_id: 624788
@@ -30,6 +34,9 @@
   letterboxd_slug: black-bear
   poster_url: https://a.ltrbxd.com/resized/sm/upload/8u/do/xg/wj/A98DDC44-F9C4-4C99-AB29-8A713873B89F-1200-1200-675-675-crop-000000.jpg?v=bda6f05701
   letterboxd_rating: 3.56
+  genres:
+    - Thriller
+    - Drama
 
 - id: happiest-season
   tmdb_id: 520172
@@ -42,6 +49,9 @@
   letterboxd_slug: happiest-season
   poster_url: https://a.ltrbxd.com/resized/sm/upload/zb/of/9z/qo/happiest-season-1200-1200-675-675-crop-000000.jpg?v=abb80ef9f5
   letterboxd_rating: 3.13
+  genres:
+    - Romance
+    - Comedy
 
 - id: childs-play-2019
   tmdb_id: 533642
@@ -54,3 +64,5 @@
   letterboxd_slug: childs-play-2019
   poster_url: https://a.ltrbxd.com/resized/sm/upload/l9/pk/8c/9r/childs-play-2019-1200-1200-675-675-crop-000000.jpg?v=b8d158e2b9
   letterboxd_rating: 2.49
+  genres:
+    - Horror

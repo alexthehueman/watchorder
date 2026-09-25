@@ -18,6 +18,13 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZjcyMjg2MzktNjg4YS00MjQzLTg0YWQtMjUyZDk2Y2Y0YzZjXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: castle-in-the-sky
   letterboxd_rating: 4.08
+  genres:
+    - Fantasy
+    - Adventure
+    - Family
+    - Action
+    - Animation
+    - Science Fiction
 
 - id: grave-of-the-fireflies
   tmdb_id: 12477
@@ -36,6 +43,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNTY5MmE2OGMtN2IxNC00MDY4LTkwMGEtZDUzOTYyNWE0ZTNjXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg
   letterboxd_slug: grave-of-the-fireflies
   letterboxd_rating: 4.48
+  genres:
+    - Animation
+    - War
+    - Drama
 
 - id: my-neighbor-totoro
   tmdb_id: 8392
@@ -54,6 +65,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYWM3MDE3YjEtMzIzZC00ODE5LTgxNTItNmUyMTBkM2M2NmNiXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: my-neighbor-totoro
   letterboxd_rating: 4.19
+  genres:
+    - Fantasy
+    - Animation
+    - Family
 
 - id: kikis-delivery-service
   tmdb_id: 16859
@@ -67,6 +82,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BOTFhYWI1NGUtZWFhZS00MTdkLWIzZTItMDBhNWNiZDNlMjYyXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: kikis-delivery-service
   letterboxd_rating: 4.15
+  genres:
+    - Fantasy
+    - Animation
+    - Family
 
 - id: only-yesterday
   tmdb_id: 15080
@@ -80,6 +99,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTY5NjI2MjQxMl5BMl5BanBnXkFtZTgwMDA2MzM2NzE@._V1_SX300.jpg
   letterboxd_slug: only-yesterday
   letterboxd_rating: 3.91
+  genres:
+    - Drama
+    - Romance
+    - Animation
 
 - id: porco-rosso
   tmdb_id: 11621
@@ -93,6 +116,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BOGNjMDM1NWEtMzI4OC00YzdlLWJmMjktNmJiYTlkNTNlODM0XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: porco-rosso
   letterboxd_rating: 4.04
+  genres:
+    - Fantasy
+    - Adventure
+    - Animation
 
 - id: pom-poko
   tmdb_id: 15283
@@ -106,6 +133,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTk2ODEzNzYtZTczMS00NmFhLWJmOTgtYmFhNzAwYTVkYmI5XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: pom-poko
   letterboxd_rating: 3.71
+  genres:
+    - Fantasy
+    - Adventure
+    - Animation
 
 - id: princess-mononoke
   tmdb_id: 128
@@ -119,6 +150,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNjAzODViNGEtMjBkYi00N2U5LWJjNjAtY2U0MGJhZTEwOTU0XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: princess-mononoke
   letterboxd_rating: 4.4
+  genres:
+    - Fantasy
+    - Adventure
+    - Animation
 
 - id: spirited-away
   tmdb_id: 129
@@ -131,6 +166,10 @@
   poster_url: https://a.ltrbxd.com/resized/sm/upload/s7/yb/jv/eq/spirited-away-1200-1200-675-675-crop-000000.jpg?v=d89d148596
   letterboxd_slug: spirited-away
   letterboxd_rating: 4.43
+  genres:
+    - Family
+    - Fantasy
+    - Animation
 
 - id: howls-moving-castle
   tmdb_id: 4935
@@ -144,6 +183,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTY1OTg0MjE3MV5BMl5BanBnXkFtZTcwNTUxMTkyMQ@@._V1_SX300.jpg
   letterboxd_slug: howls-moving-castle
   letterboxd_rating: 4.36
+  genres:
+    - Animation
+    - Fantasy
+    - Adventure
 
 - id: the-tale-of-the-princess-kaguya
   tmdb_id: 149871
@@ -157,6 +200,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTcwODI0MzEwOF5BMl5BanBnXkFtZTgwNjkyNTEwMTE@._V1_SX300.jpg
   letterboxd_slug: the-tale-of-the-princess-kaguya
   letterboxd_rating: 4.26
+  genres:
+    - Drama
+    - Fantasy
+    - Animation
 
 - id: the-boy-and-the-heron
   tmdb_id: 508883
@@ -170,3 +217,7 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMzA5Zjg3MTAtM2FhZS00NTNjLTg3NjEtNWQ4MTRhZjhiNzVmXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-boy-and-the-heron
   letterboxd_rating: 3.9
+  genres:
+    - Animation
+    - Fantasy
+    - Drama

@@ -26,6 +26,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: snow-white-and-the-seven-dwarfs
   poster_url: https://a.ltrbxd.com/resized/sm/upload/uc/1z/k1/s2/snow-white-1200-1200-675-675-crop-000000.jpg?v=cd01f7f7ca
+  genres:
+    - Family
+    - Fantasy
+    - Animation
 
 - id: pinocchio
   tmdb_id: 10895
@@ -42,6 +46,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: pinocchio
   poster_url: https://a.ltrbxd.com/resized/sm/upload/u3/35/1z/7t/pinocchio-1200-1200-675-675-crop-000000.jpg?v=0f3cdaaa15
+  genres:
+    - Family
+    - Animation
+    - Fantasy
 
 - id: fantasia
   tmdb_id: 756
@@ -58,6 +66,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: fantasia
   poster_url: https://a.ltrbxd.com/resized/alternative-backdrop/5/1/3/9/6/tmdb/2HspgJeppUvFHimFs0lN70yOseN-1200-1200-675-675-crop-000000.jpg?v=3d4743daf3
+  genres:
+    - Family
+    - Animation
+    - Fantasy
 
 - id: dumbo
   tmdb_id: 11360
@@ -69,6 +81,9 @@
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: dumbo
   poster_url: https://a.ltrbxd.com/resized/sm/upload/9w/l6/vh/1v/dumbo-1200-1200-675-675-crop-000000.jpg?v=3aa0dc7bdc
+  genres:
+    - Animation
+    - Family
 
 - id: bambi
   tmdb_id: 3170
@@ -85,6 +100,10 @@
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: bambi
   poster_url: https://a.ltrbxd.com/resized/sm/upload/rc/qm/8x/4m/bambi-1200-1200-675-675-crop-000000.jpg?v=697908a056
+  genres:
+    - Drama
+    - Animation
+    - Family
 
 - id: cinderella
   tmdb_id: 11224
@@ -96,6 +115,11 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: cinderella
   poster_url: https://a.ltrbxd.com/resized/sm/upload/pc/0x/wa/4z/cinderella-1200-1200-675-675-crop-000000.jpg?v=62f842d23e
+  genres:
+    - Fantasy
+    - Romance
+    - Animation
+    - Family
 
 - id: sleeping-beauty
   tmdb_id: 10882
@@ -107,6 +131,11 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: sleeping-beauty
   poster_url: https://a.ltrbxd.com/resized/sm/upload/j6/8h/l5/6y/sleeping-beauty-1200-1200-675-675-crop-000000.jpg?v=1250f409d7
+  genres:
+    - Romance
+    - Family
+    - Fantasy
+    - Animation
 
 - id: the-jungle-book
   tmdb_id: 9325
@@ -118,6 +147,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: the-jungle-book
   poster_url: https://a.ltrbxd.com/resized/sm/upload/6d/kl/7v/p6/the-jungle-book-1200-1200-675-675-crop-000000.jpg?v=601f3527dd
+  genres:
+    - Family
+    - Animation
+    - Adventure
 
 - id: the-little-mermaid
   tmdb_id: 10144
@@ -134,6 +167,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: the-little-mermaid
   poster_url: https://a.ltrbxd.com/resized/sm/upload/bs/e0/jq/i5/the-little-mermaid-1200-1200-675-675-crop-000000.jpg?v=f5d7ad679f
+  genres:
+    - Family
+    - Animation
+    - Fantasy
 
 - id: beauty-and-the-beast
   tmdb_id: 10020
@@ -145,6 +182,11 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: beauty-and-the-beast-1991
   poster_url: https://a.ltrbxd.com/resized/sm/upload/n4/8e/8d/zb/beauty-and-the-beast-1200-1200-675-675-crop-000000.jpg?v=8bacbf8670
+  genres:
+    - Romance
+    - Animation
+    - Fantasy
+    - Family
 
 - id: frozen
   tmdb_id: 109445
@@ -161,6 +203,11 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: frozen-2013
   poster_url: https://a.ltrbxd.com/resized/sm/upload/68/ic/r8/kn/frozen-2013-1200-1200-675-675-crop-000000.jpg?v=a83bdc0e64
+  genres:
+    - Fantasy
+    - Animation
+    - Adventure
+    - Family
 
 - id: encanto
   tmdb_id: 568124
@@ -172,3 +219,8 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: encanto
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ne/vg/qi/0d/encanto-1200-1200-675-675-crop-000000.jpg?v=fa8e1ec02c
+  genres:
+    - Comedy
+    - Family
+    - Fantasy
+    - Animation

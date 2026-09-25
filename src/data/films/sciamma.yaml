@@ -16,6 +16,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNzE0ZGJmZDYtMDc5Mi00NmRlLWI3YTItNmQ4Mzk5ZmRmZmQyXkEyXkFqcGc@._V1_QL75_UY562_CR21,0,380,562_.jpg
   letterboxd_slug: water-lilies
   letterboxd_rating: 3.49
+  genres:
+    - Drama
+    - Romance
 
 - id: tomboy
   tmdb_id: 65229
@@ -29,6 +32,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTQ2MTI2OTEwNF5BMl5BanBnXkFtZTcwODUwMzc3Ng@@._V1_SX300.jpg
   letterboxd_slug: tomboy-2011
   letterboxd_rating: 3.99
+  genres:
+    - Drama
 
 - id: girlhood
   tmdb_id: 266082
@@ -42,6 +47,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjA5MDM1ODE5NV5BMl5BanBnXkFtZTgwNjg0MTk5MzE@._V1_SX300.jpg
   letterboxd_slug: girlhood-2014
   letterboxd_rating: 3.71
+  genres:
+    - Drama
 
 - id: petite-maman
   tmdb_id: 749004
@@ -60,3 +67,6 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjkxMTE3M2ItNjhiZC00YmEwLWI1MDYtZjY2MTEwZjAxNGE3XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: petite-maman
   letterboxd_rating: 4.1
+  genres:
+    - Drama
+    - Fantasy

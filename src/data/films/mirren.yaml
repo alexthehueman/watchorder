@@ -28,6 +28,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BOWYyMDcyZDUtMzQ0ZC00ZDllLWI1MTMtZjM0M2I5N2JhNDgzXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-madness-of-king-george
   letterboxd_rating: 3.58
+  genres:
+    - Comedy
+    - Drama
+    - History
 
 - id: the-queen
   tmdb_id: 1165
@@ -41,6 +45,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTQ3NTMxODg1Ml5BMl5BanBnXkFtZTcwMjEyMjczMQ@@._V1_SX300.jpg
   letterboxd_slug: the-queen-2006
   letterboxd_rating: 3.5
+  genres:
+    - History
+    - Drama
 
 - id: the-last-station
   tmdb_id: 36811
@@ -54,6 +61,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTA4MTAzNTQzMDNeQTJeQWpwZ15BbWU3MDgzNTg2MDM@._V1_SX300.jpg
   letterboxd_slug: the-last-station
   letterboxd_rating: 3.31
+  genres:
+    - Drama
+    - Romance
 
 - id: woman-in-gold
   tmdb_id: 304357
@@ -72,6 +82,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNjc0NzY3OTE0Nl5BMl5BanBnXkFtZTgwNDUyODA4MzE@._V1_SX300.jpg
   letterboxd_slug: woman-in-gold
   letterboxd_rating: 3.43
+  genres:
+    - Drama
 
 - id: hitchcock
   tmdb_id: 112336
@@ -85,6 +97,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BODAwNDI5NjIwN15BMl5BanBnXkFtZTcwNjc4ODc2OA@@._V1_SX300.jpg
   letterboxd_slug: hitchcock
   letterboxd_rating: 3.12
+  genres:
+    - Drama
 
 - id: red
   tmdb_id: 39514
@@ -98,6 +112,12 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMzg2Mjg1OTk0NF5BMl5BanBnXkFtZTcwMjQ4MTA3Mw@@._V1_SX300.jpg
   letterboxd_slug: red-2010
   letterboxd_rating: 3.13
+  genres:
+    - Action
+    - Adventure
+    - Comedy
+    - Crime
+    - Thriller
 
 - id: eye-in-the-sky
   tmdb_id: 333352
@@ -116,3 +136,7 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNTY4Nzg5MTU0OV5BMl5BanBnXkFtZTgwMjY2MjU2NzE@._V1_SX300.jpg
   letterboxd_slug: eye-in-the-sky-2015
   letterboxd_rating: 3.49
+  genres:
+    - Thriller
+    - Drama
+    - War

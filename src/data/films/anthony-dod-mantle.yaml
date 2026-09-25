@@ -19,6 +19,8 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: true, suicide: true, violence: 1, sex: 0 }
   letterboxd_slug: the-celebration
   poster_url: https://a.ltrbxd.com/resized/sm/upload/po/dw/47/6o/the-celebration-1200-1200-675-675-crop-000000.jpg?v=e330244573
+  genres:
+    - Drama
 
 - id: t2-trainspotting
   tmdb_id: 180863
@@ -30,3 +32,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
   letterboxd_slug: t2-trainspotting
   poster_url: https://a.ltrbxd.com/resized/sm/upload/hw/wu/uj/qd/t2-trainspotting-1200-1200-675-675-crop-000000.jpg?v=0dfc57b70c
+  genres:
+    - Crime
+    - Comedy
+    - Drama

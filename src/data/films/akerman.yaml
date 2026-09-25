@@ -14,6 +14,9 @@
   poster_url: https://a.ltrbxd.com/resized/sm/upload/yu/at/5g/91/je%20tu-1200-1200-675-675-crop-000000.jpg?v=3750eee795
   letterboxd_slug: je-tu-il-elle
   letterboxd_rating: 3.7
+  genres:
+    - Romance
+    - Drama
 
 - id: jeanne-dielman
   tmdb_id: 44012
@@ -31,6 +34,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMDNlYWVhYjctNTIzNi00NGJhLWFmNzYtZTVmOWUxNmYwM2IyXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: jeanne-dielman-23-quai-du-commerce-1080-bruxelles
   letterboxd_rating: 4.26
+  genres:
+    - Drama
 
 - id: news-from-home
   tmdb_id: 86814
@@ -43,6 +48,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYmE2MzM4OTYtZDVkZS00NmRjLWExY2UtMjcxYjg4ZmI2MDc5XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: news-from-home
   letterboxd_rating: 4.1
+  genres:
+    - Documentary
 
 - id: les-rendez-vous-danna
   tmdb_id: 93669
@@ -55,6 +62,8 @@
   letterboxd_slug: the-meetings-of-anna
   poster_url: https://a.ltrbxd.com/resized/sm/upload/t7/ud/75/ad/mettings-1200-1200-675-675-crop-000000.jpg?v=53e9af47f1
   letterboxd_rating: 4.1
+  genres:
+    - Drama
 
 - id: toute-une-nuit
   tmdb_id: 63215
@@ -66,6 +75,9 @@
   poster_url: https://a.ltrbxd.com/resized/sm/upload/xr/pt/61/dj/toute-1200-1200-675-675-crop-000000.jpg?v=870ea32d3f
   letterboxd_slug: toute-une-nuit
   letterboxd_rating: 3.88
+  genres:
+    - Drama
+    - Romance
 
 - id: golden-eighties
   tmdb_id: 63763
@@ -83,6 +95,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNzdhN2U3MjAtZDIzNi00NjlhLWI3MGQtZDM4MmRkMTg0MGFhXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: golden-eighties
   letterboxd_rating: 3.74
+  genres:
+    - Romance
+    - Music
+    - Comedy
 
 - id: night-and-day
   tmdb_id: 108822
@@ -95,6 +111,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNDcwOTU5OWMtODU4Yy00ZDlkLTg1Y2UtYzNiZmY4ZGY1ZGE3XkEyXkFqcGdeQXVyMjQzMzQzODY@._V1_SX300.jpg
   letterboxd_slug: night-and-day-1991
   letterboxd_rating: 3.59
+  genres:
+    - Drama
 
 - id: dest
   tmdb_id: 104739
@@ -112,6 +130,8 @@
   letterboxd_slug: from-the-east
   poster_url: https://a.ltrbxd.com/resized/sm/upload/57/bd/yd/2f/from%20the%20east-1200-1200-675-675-crop-000000.jpg?v=2af2583baf
   letterboxd_rating: 3.93
+  genres:
+    - Documentary
 
 - id: a-couch-in-new-york
   tmdb_id: 47434
@@ -124,6 +144,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BOGUzODAyNjEtOGI3OC00ZGUwLThhNTAtZWMxZTM0MjU5NWI4XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: a-couch-in-new-york
   letterboxd_rating: 3.36
+  genres:
+    - Romance
+    - Comedy
 
 - id: la-captive
   tmdb_id: 47244
@@ -136,6 +159,9 @@
   letterboxd_slug: the-captive
   poster_url: https://a.ltrbxd.com/resized/sm/upload/o1/jo/qw/in/captive-1200-1200-675-675-crop-000000.jpg?v=7712d6973f
   letterboxd_rating: 3.74
+  genres:
+    - Romance
+    - Drama
 
 - id: no-home-movie
   tmdb_id: 354388
@@ -148,3 +174,5 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjA4Mjk5ODI2NV5BMl5BanBnXkFtZTgwOTg5ODA1ODE@._V1_SX300.jpg
   letterboxd_slug: no-home-movie
   letterboxd_rating: 3.8
+  genres:
+    - Documentary

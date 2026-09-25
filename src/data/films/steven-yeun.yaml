@@ -14,6 +14,8 @@
   letterboxd_slug: minari
   poster_url: https://a.ltrbxd.com/resized/sm/upload/fx/6a/1r/ra/minari-1200-1200-675-675-crop-000000.jpg?v=3faa60aa91
   letterboxd_rating: 4.09
+  genres:
+    - Drama
 
 - id: nope
   tmdb_id: 762504
@@ -31,6 +33,10 @@
   letterboxd_slug: nope
   poster_url: https://a.ltrbxd.com/resized/sm/upload/3x/n2/o4/ia/nope-2022-1200-1200-675-675-crop-000000.jpg?v=cebe6abc6f
   letterboxd_rating: 3.66
+  genres:
+    - Science Fiction
+    - Horror
+    - Thriller
 
 - id: burning
   tmdb_id: 491584
@@ -48,3 +54,7 @@
   letterboxd_slug: burning-2018
   poster_url: https://a.ltrbxd.com/resized/sm/upload/92/vq/bo/xe/burning-2018-1200-1200-675-675-crop-000000.jpg?v=1af4ed84b4
   letterboxd_rating: 4.03
+  genres:
+    - Thriller
+    - Mystery
+    - Drama

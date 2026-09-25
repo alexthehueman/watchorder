@@ -14,6 +14,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZDg4NjA0YzctNWMzMi00NmY1LTkyMGYtZjI4ZjFmZjMzMGE0XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-last-king-of-scotland
   letterboxd_rating: 3.71
+  genres:
+    - Drama
 
 - id: the-butler
   tmdb_id: 132363
@@ -27,6 +29,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjM2NDY3MjkyMF5BMl5BanBnXkFtZTcwMDM5Nzg5OQ@@._V1_SX300.jpg
   letterboxd_slug: the-butler
   letterboxd_rating: 3.46
+  genres:
+    - Drama
 
 - id: bird
   tmdb_id: 24679
@@ -40,6 +44,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BOTViMmEwYjQtMTMxMS00YmVmLTk1NzEtODcxOGRmZjQ3MGEwXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: bird
   letterboxd_rating: 3.63
+  genres:
+    - Drama
+    - Music
 
 - id: ghost-dog-the-way-of-the-samurai
   tmdb_id: 4816
@@ -58,6 +65,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYmIzNWI3MTMtNGY4Zi00YWIwLWEyMmQtZjcxOTdhNTQ0ZTE5XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: ghost-dog-the-way-of-the-samurai
   letterboxd_rating: 4.07
+  genres:
+    - Crime
+    - Drama
 
 - id: rogue-one
   tmdb_id: 330459
@@ -71,3 +81,7 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYmFjMGMwZTMtNmRlYi00MjJlLTk2NmItYjU4ZTA0MGJmOTE5XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: rogue-one
   letterboxd_rating: 3.84
+  genres:
+    - Adventure
+    - Action
+    - Science Fiction

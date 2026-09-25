@@ -16,6 +16,10 @@
   letterboxd_slug: end-of-watch
   poster_url: https://a.ltrbxd.com/resized/sm/upload/0i/bm/gm/c0/end-of-watch-1200-1200-675-675-crop-000000.jpg?v=f0aa839d39
   letterboxd_rating: 3.81
+  genres:
+    - Drama
+    - Thriller
+    - Crime
 
 - id: world-trade-center
   tmdb_id: 1852
@@ -28,3 +32,7 @@
   letterboxd_slug: world-trade-center
   poster_url: https://a.ltrbxd.com/resized/sm/upload/3u/75/pq/un/world-trade-center-1200-1200-675-675-crop-000000.jpg?v=95fa146f21
   letterboxd_rating: 2.8
+  genres:
+    - Drama
+    - History
+    - Thriller

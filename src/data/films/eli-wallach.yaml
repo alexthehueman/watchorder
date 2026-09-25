@@ -19,6 +19,10 @@
   letterboxd_slug: the-magnificent-seven
   poster_url: https://a.ltrbxd.com/resized/sm/upload/yr/oe/y9/8l/the-magnificent-seven-1200-1200-675-675-crop-000000.jpg?v=db2f5b8fd2
   letterboxd_rating: 3.84
+  genres:
+    - Adventure
+    - Action
+    - Western
 
 - id: baby-doll
   tmdb_id: 40478
@@ -36,3 +40,5 @@
   letterboxd_slug: baby-doll
   poster_url: https://a.ltrbxd.com/resized/sm/upload/dm/br/ur/7f/1Nl4BgHZ7R6CnreBsMos7sZDaZF-1200-1200-675-675-crop-000000.jpg?v=95f7210388
   letterboxd_rating: 3.63
+  genres:
+    - Drama

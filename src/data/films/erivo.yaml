@@ -19,6 +19,9 @@
   letterboxd_slug: harriet
   poster_url: https://a.ltrbxd.com/resized/sm/upload/c5/2i/av/23/DBE07905-3174-4A26-BAF5-7979A840C823-1200-1200-675-675-crop-000000.jpg?v=dccbbdf1f5
   letterboxd_rating: 3.45
+  genres:
+    - History
+    - Drama
 
 - id: wicked
   tmdb_id: 402431
@@ -31,6 +34,10 @@
   letterboxd_slug: wicked-2024
   poster_url: https://a.ltrbxd.com/resized/sm/upload/92/uz/fp/eq/uKb22E0nlzr914bA9KyA5CVCOlV-1200-1200-675-675-crop-000000.jpg?v=fd8fe12586
   letterboxd_rating: 3.74
+  genres:
+    - Romance
+    - Drama
+    - Fantasy
 
 - id: the-color-purple-2023
   tmdb_id: 558915
@@ -43,3 +50,5 @@
   letterboxd_slug: the-color-purple-2023
   poster_url: https://a.ltrbxd.com/resized/sm/upload/sw/xk/lm/w2/color-purple-2023-1200-1200-675-675-crop-000000.jpg?v=0a55062340
   letterboxd_rating: 3.58
+  genres:
+    - Drama

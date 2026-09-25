@@ -15,6 +15,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMmFlNDk2MGYtNjJmNS00ZDA2LWI3M2EtMzA1MzI5NDU2NTFiXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: barking-dogs-never-bite
   letterboxd_rating: 3.55
+  genres:
+    - Drama
+    - Crime
+    - Comedy
 
 - id: mother
   tmdb_id: 30018
@@ -33,6 +37,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTQzMTg0NDA1M15BMl5BanBnXkFtZTgwODUzMTE0MjE@._V1_SX300.jpg
   letterboxd_slug: mother-2009
   letterboxd_rating: 4.17
+  genres:
+    - Crime
+    - Mystery
+    - Drama
 
 - id: okja
   tmdb_id: 387426
@@ -46,6 +54,11 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjQxMTcxNDgxN15BMl5BanBnXkFtZTgwOTczNTIzMjI@._V1_SX300.jpg
   letterboxd_slug: okja
   letterboxd_rating: 3.72
+  genres:
+    - Drama
+    - Science Fiction
+    - Adventure
+    - Action
 
 - id: mickey-17
   tmdb_id: 696506
@@ -59,3 +72,7 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZGQwYmEzMzktYzBmMy00NmVmLTkyYTUtOTYyZjliZDNhZGVkXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg
   letterboxd_slug: mickey-17
   letterboxd_rating: 3.56
+  genres:
+    - Comedy
+    - Adventure
+    - Science Fiction

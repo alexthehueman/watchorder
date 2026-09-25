@@ -15,6 +15,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNjMwMDVlZjYtMWRlZS00OTU1LTlmYTQtOGViNTdmYTE0ZjRlXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: carrie-1976
   letterboxd_rating: 3.85
+  genres:
+    - Horror
+    - Thriller
 
 - id: coal-miners-daughter
   tmdb_id: null
@@ -42,6 +45,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYWZjMmViODItNGU2ZS00YWIxLTk0MDUtOTgxMTQ1OWUyYjYwXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: missing
   letterboxd_rating: 3.94
+  genres:
+    - Mystery
+    - Thriller
+    - Drama
 
 - id: in-the-bedroom
   tmdb_id: 1999
@@ -55,3 +62,6 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYTFmY2U1N2QtZWE5Mi00MjBjLTkyNjgtZmNkZTk2MTJlMTcxXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: in-the-bedroom
   letterboxd_rating: 3.86
+  genres:
+    - Drama
+    - Thriller

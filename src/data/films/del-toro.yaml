@@ -14,6 +14,10 @@
   letterboxd_slug: traffic
   poster_url: https://a.ltrbxd.com/resized/sm/upload/iz/yw/gw/jd/traffic-1200-1200-675-675-crop-000000.jpg?v=7ab93f9d90
   letterboxd_rating: 3.7
+  genres:
+    - Drama
+    - Crime
+    - Thriller
 
 - id: the-usual-suspects
   tmdb_id: 629
@@ -31,6 +35,10 @@
   letterboxd_slug: the-usual-suspects
   poster_url: https://a.ltrbxd.com/resized/sm/upload/7i/1n/bq/2m/usual-suspects-1200-1200-675-675-crop-000000.jpg?v=1c591bc2a9
   letterboxd_rating: 4.09
+  genres:
+    - Thriller
+    - Drama
+    - Crime
 
 - id: sin-city
   tmdb_id: 187
@@ -43,3 +51,6 @@
   letterboxd_slug: sin-city
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ob/ac/1y/g3/sin-city-1200-1200-675-675-crop-000000.jpg?v=b3eaccb76d
   letterboxd_rating: 3.71
+  genres:
+    - Thriller
+    - Crime

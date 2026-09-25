@@ -18,6 +18,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: hush-hush-sweet-charlotte
   poster_url: https://a.ltrbxd.com/resized/sm/upload/bc/4d/a0/yc/hush-hush-sweet-charlotte-1200-1200-675-675-crop-000000.jpg?v=36aba22b3d
+  genres:
+    - Mystery
+    - Thriller
+    - Horror
 
 - id: the-towering-inferno
   tmdb_id: 5919
@@ -29,6 +33,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   letterboxd_slug: the-towering-inferno
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ug/e6/x1/s1/towering-inferno-1200-1200-675-675-crop-000000.jpg?v=0681e10a50
+  genres:
+    - Action
+    - Thriller
+    - Drama
 
 - id: airplane
   tmdb_id: 813
@@ -40,3 +48,5 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
   letterboxd_slug: airplane
   poster_url: https://a.ltrbxd.com/resized/sm/upload/38/c2/o3/z7/airplane-1200-1200-675-675-crop-000000.jpg?v=18f59d1c9b
+  genres:
+    - Comedy

@@ -10,6 +10,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: daddy-long-legs-1919
   poster_url: https://a.ltrbxd.com/resized/sm/upload/6g/39/c8/c4/6ymyhHWhmeiISrET50swIxlsH33-1200-1200-675-675-crop-000000.jpg?v=8de05aa901
+  genres:
+    - Drama
+    - Comedy
 
 - id: sparrows-1926
   tmdb_id: 73575
@@ -26,6 +29,8 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: sparrows
   poster_url: https://a.ltrbxd.com/resized/sm/upload/1s/s1/bv/lo/sparrows-1200-1200-675-675-crop-000000.jpg?v=3f444563a0
+  genres:
+    - Drama
 
 - id: coquette-1929
   tmdb_id: 85507
@@ -37,6 +42,8 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: coquette
   poster_url: https://a.ltrbxd.com/resized/sm/upload/3m/68/zz/5w/coquette-1200-1200-675-675-crop-000000.jpg?v=a03ddda622
+  genres:
+    - Drama
 
 - id: poor-little-rich-girl
   tmdb_id: 95866
@@ -48,3 +55,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: the-poor-little-rich-girl
   poster_url: https://a.ltrbxd.com/resized/sm/upload/e5/uu/b1/7r/4xSpvRf0wSOuitC8TNBBQOiDCMQ-1200-1200-675-675-crop-000000.jpg?v=6b8493fd20
+  genres:
+    - Drama
+    - Fantasy
+    - Comedy

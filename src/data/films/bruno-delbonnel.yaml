@@ -13,6 +13,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   letterboxd_slug: amelie
   poster_url: https://a.ltrbxd.com/resized/sm/upload/cs/x3/9k/g2/4tqNNLAUY525N5rKGwNQVcuGNzX-1200-1200-675-675-crop-000000.jpg?v=3637b911af
+  genres:
+    - Romance
+    - Comedy
 
 - id: harry-potter-and-the-half-blood-prince
   tmdb_id: 767
@@ -24,3 +27,6 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: harry-potter-and-the-half-blood-prince
   poster_url: https://a.ltrbxd.com/resized/sm/upload/sx/kj/x6/ph/harry-potter-half-blood-prince-1200-1200-675-675-crop-000000.jpg?v=ca21989df2
+  genres:
+    - Adventure
+    - Fantasy

@@ -19,6 +19,9 @@
   letterboxd_slug: tombstone
   poster_url: https://a.ltrbxd.com/resized/sm/upload/gn/vy/dq/w4/tombstone-1200-1200-675-675-crop-000000.jpg?v=65e8f00a4c
   letterboxd_rating: 3.93
+  genres:
+    - Western
+    - Action
 
 - id: the-doors
   tmdb_id: 10537
@@ -36,6 +39,9 @@
   letterboxd_slug: the-doors
   poster_url: https://a.ltrbxd.com/resized/sm/upload/9z/9u/31/qx/doors-1200-1200-675-675-crop-000000.jpg?v=ba8de184a7
   letterboxd_rating: 3.45
+  genres:
+    - Drama
+    - Music
 
 - id: batman-forever
   tmdb_id: 414
@@ -48,3 +54,7 @@
   letterboxd_slug: batman-forever
   poster_url: https://a.ltrbxd.com/resized/sm/upload/6u/zy/2g/w3/batman-forever-1200-1200-675-675-crop-000000.jpg?v=4a5bd9181d
   letterboxd_rating: 2.58
+  genres:
+    - Fantasy
+    - Action
+    - Crime

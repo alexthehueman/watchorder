@@ -19,6 +19,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNGYyMDRhYTgtMjIzNy00OGQyLTk4MTEtZTM2ODlmNjc0NTlhXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: aguirre-the-wrath-of-god
   letterboxd_rating: 4.1
+  genres:
+    - History
+    - Drama
+    - Adventure
 
 - id: the-enigma-of-kaspar-hauser
   tmdb_id: 11710
@@ -32,6 +36,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYzBiNWVjNjEtOGJhMS00MTA0LTgzZTgtMDY2OGY5OGQzMTIyXkEyXkFqcGc@._V1_QL75_UY562_CR8,0,380,562_.jpg
   letterboxd_slug: the-enigma-of-kaspar-hauser
   letterboxd_rating: 3.91
+  genres:
+    - History
+    - Drama
 
 - id: stroszek
   tmdb_id: 11698
@@ -45,6 +52,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BOWE1MGI2YTAtOTdiZi00NTQ0LWEyZmItNjVhNGYzNDg2NjNiXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: stroszek
   letterboxd_rating: 4.08
+  genres:
+    - Drama
 
 - id: woyzeck
   tmdb_id: 10319
@@ -58,6 +67,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNjI4ZjAwY2ItMzliOC00NmExLWFhNWMtMGMxZmU4OWU1ODg3XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: woyzeck
   letterboxd_rating: 3.5
+  genres:
+    - Drama
 
 - id: nosferatu-the-vampyre
   tmdb_id: 6404
@@ -71,6 +82,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYjgzODFlMTgtNDhiMS00ZGZmLTliOTUtMjU5NjBkYmU4NGNkXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: nosferatu-the-vampyre
   letterboxd_rating: 3.81
+  genres:
+    - Drama
+    - Horror
 
 - id: fitzcarraldo
   tmdb_id: 9343
@@ -84,6 +98,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYzJjNTRkNjUtZGE4MC00YmRlLWI0ODYtMzJjNGZkYWMzNTJhXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: fitzcarraldo
   letterboxd_rating: 4.13
+  genres:
+    - Adventure
+    - Drama
 
 - id: grizzly-man
   tmdb_id: 501
@@ -97,6 +114,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BODc3NTAxMTY1MV5BMl5BanBnXkFtZTcwOTE4NjUzMw@@._V1_SX300.jpg
   letterboxd_slug: grizzly-man
   letterboxd_rating: 4.14
+  genres:
+    - Documentary
 
 - id: rescue-dawn
   tmdb_id: 9952
@@ -110,6 +129,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNzUxNzUzNzU2MV5BMl5BanBnXkFtZTcwNTgzNzU2NA@@._V1_SX300.jpg
   letterboxd_slug: rescue-dawn
   letterboxd_rating: 3.57
+  genres:
+    - Drama
+    - Adventure
+    - War
 
 - id: encounters-at-the-end-of-the-world
   tmdb_id: 12172
@@ -123,6 +146,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BOTI3NjkyNjY2OV5BMl5BanBnXkFtZTcwOTUwMTU3MQ@@._V1_SX300.jpg
   letterboxd_slug: encounters-at-the-end-of-the-world
   letterboxd_rating: 4.09
+  genres:
+    - Documentary
 
 - id: bad-lieutenant-port-of-call-new-orleans
   tmdb_id: 11699
@@ -136,6 +161,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTcyMzY0NTMzMF5BMl5BanBnXkFtZTcwMTc1MjY4Mg@@._V1_SX300.jpg
   letterboxd_slug: bad-lieutenant-port-of-call-new-orleans
   letterboxd_rating: 3.61
+  genres:
+    - Crime
+    - Drama
 
 - id: cave-of-forgotten-dreams
   tmdb_id: 59490
@@ -148,6 +176,8 @@
   poster_url: https://a.ltrbxd.com/resized/sm/upload/nc/ja/ui/af/cave-of-forgotten-dreams-1200-1200-675-675-crop-000000.jpg?v=1987e90a7b
   letterboxd_slug: cave-of-forgotten-dreams
   letterboxd_rating: 3.86
+  genres:
+    - Documentary
 
 - id: into-the-abyss
   tmdb_id: 77365
@@ -161,3 +191,6 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNTQyODM2MzMxMV5BMl5BanBnXkFtZTcwNDIzNjY5Ng@@._V1_SX300.jpg
   letterboxd_slug: into-the-abyss
   letterboxd_rating: 3.9
+  genres:
+    - Documentary
+    - Crime

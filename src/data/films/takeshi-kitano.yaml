@@ -16,6 +16,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   letterboxd_slug: sonatine
   poster_url: https://a.ltrbxd.com/resized/sm/upload/st/kk/s8/me/sonatine-1200-1200-675-675-crop-000000.jpg?v=c65ecfcd4a
+  genres:
+    - Action
+    - Thriller
+    - Crime
 
 - id: hana-bi
   tmdb_id: 10475
@@ -36,6 +40,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: kikujiro
   poster_url: https://a.ltrbxd.com/resized/sm/upload/4u/ij/xr/j7/Kikujiro-1200-1200-675-675-crop-000000.jpg?v=5fef6c683c
+  genres:
+    - Comedy
+    - Drama
 
 - id: zatoichi-2003
   tmdb_id: 10160
@@ -47,3 +54,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   letterboxd_slug: zatoichi
   poster_url: https://a.ltrbxd.com/resized/sm/upload/l2/qx/la/nf/zatoichi-1200-1200-675-675-crop-000000.jpg?v=7141ff5a8f
+  genres:
+    - Action
+    - Adventure
+    - Drama

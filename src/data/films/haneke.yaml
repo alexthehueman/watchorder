@@ -21,6 +21,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjdkMmMzYzMtMzMwOC00ODMwLTk0MzctYmNkMjY5MTMyNTY2XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-seventh-continent
   letterboxd_rating: 4.02
+  genres:
+    - Drama
 
 - id: bennys-video
   tmdb_id: 1987
@@ -39,6 +41,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTM2NDI1NDMtNDFkZi00N2IxLTkxMzYtMTliYTcxM2VhNzA0XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: bennys-video
   letterboxd_rating: 3.6
+  genres:
+    - Crime
+    - Drama
 
 - id: 71-fragments
   tmdb_id: 32764
@@ -57,6 +62,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZTNlYWUzOTYtYTkyNC00Zjg4LWIwYTMtMDQxYmQ4ZmQyMjQyXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: 71-fragments-of-a-chronology-of-chance
   letterboxd_rating: 3.77
+  genres:
+    - Drama
 
 - id: funny-games
   tmdb_id: 10234
@@ -80,6 +87,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BN2NkZWQyNzgtNGIzZC00YjFkLWFkZGQtNTU0OGI5ODYxODA1XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: funny-games
   letterboxd_rating: 3.9
+  genres:
+    - Thriller
+    - Horror
+    - Drama
 
 - id: code-unknown
   tmdb_id: 30970
@@ -98,6 +109,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BOGRjMmVlODUtNzRhNy00NTVjLWFjMGEtMzFiNTZiYjA1YzRhXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: code-unknown
   letterboxd_rating: 3.78
+  genres:
+    - Drama
 
 - id: the-piano-teacher
   tmdb_id: 1791
@@ -116,6 +129,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BOGE3ZjE2NjItMGIyZi00NjMxLWJiZWItMWJmMzZjOTgzZjJhXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-piano-teacher
   letterboxd_rating: 4.05
+  genres:
+    - Romance
+    - Drama
 
 - id: time-of-the-wolf
   tmdb_id: 80810
@@ -133,6 +149,8 @@
   imdb_id: tt0324197
   poster_url: https://m.media-amazon.com/images/M/MV5BMTkwMDg4NjYwOF5BMl5BanBnXkFtZTcwNDE4MzYyMQ@@._V1_SX300.jpg
   letterboxd_slug: time-of-the-wolf
+  genres:
+    - Drama
 
 - id: cache
   tmdb_id: 445
@@ -151,6 +169,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYmRiMDFkZmMtYmVkMC00MDFhLTg5YTUtNTk3M2IxNGMwZGRmXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: cache
   letterboxd_rating: 4.05
+  genres:
+    - Drama
+    - Thriller
+    - Mystery
 
 - id: funny-games-us
   tmdb_id: 8461
@@ -169,6 +191,9 @@
   letterboxd_slug: funny-games-2007
   poster_url: https://a.ltrbxd.com/resized/sm/upload/xk/fz/j6/dk/funny-games-2007-1200-1200-675-675-crop-000000.jpg?v=8763dfc1f0
   letterboxd_rating: 3.58
+  genres:
+    - Thriller
+    - Horror
 
 - id: the-white-ribbon
   tmdb_id: 37903
@@ -187,6 +212,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTQ2OTYyNzUxOF5BMl5BanBnXkFtZTcwMzUwMDY4Mg@@._V1_SX300.jpg
   letterboxd_slug: the-white-ribbon
   letterboxd_rating: 4.21
+  genres:
+    - Drama
+    - Mystery
 
 - id: amour
   tmdb_id: 86837
@@ -210,6 +238,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTk1NTc3NDc4MF5BMl5BanBnXkFtZTcwNjYwNDk0OA@@._V1_SX300.jpg
   letterboxd_slug: amour
   letterboxd_rating: 4.24
+  genres:
+    - Drama
+    - Romance
 
 - id: happy-end
   tmdb_id: 399031
@@ -233,3 +264,5 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZGIyNDcxNzQtZTI2Yi00OTYxLTg2ZTAtYmM3NjY5MjU5ZDc5XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: happy-end-2017
   letterboxd_rating: 3.46
+  genres:
+    - Drama

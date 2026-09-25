@@ -20,6 +20,10 @@
   letterboxd_slug: donnie-darko
   poster_url: https://a.ltrbxd.com/resized/sm/upload/uf/wk/nc/lv/donnie-darko-1200-1200-675-675-crop-000000.jpg?v=b30af6ea3e
   letterboxd_rating: 3.98
+  genres:
+    - Drama
+    - Fantasy
+    - Mystery
 
 - id: nightcrawler
   tmdb_id: 242582
@@ -32,6 +36,10 @@
   letterboxd_slug: nightcrawler
   poster_url: https://a.ltrbxd.com/resized/sm/upload/mb/nq/gx/cq/nightcrawler-1200-1200-675-675-crop-000000.jpg?v=376281b641
   letterboxd_rating: 4.04
+  genres:
+    - Crime
+    - Drama
+    - Thriller
 
 - id: enemy
   tmdb_id: 181886
@@ -49,6 +57,9 @@
   letterboxd_slug: enemy
   poster_url: https://a.ltrbxd.com/resized/sm/upload/n5/fr/vv/nu/enemy-1200-1200-675-675-crop-000000.jpg?v=dd461490dd
   letterboxd_rating: 3.54
+  genres:
+    - Mystery
+    - Thriller
 
 - id: love-and-other-drugs
   tmdb_id: null
@@ -70,3 +81,7 @@
   letterboxd_slug: october-sky
   poster_url: https://a.ltrbxd.com/resized/sm/upload/vq/cs/2w/iu/october-sky-10-1200-1200-675-675-crop-000000.jpg?v=08c776df90
   letterboxd_rating: 3.78
+  genres:
+    - Drama
+    - Family
+    - History

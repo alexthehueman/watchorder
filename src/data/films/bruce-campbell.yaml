@@ -11,6 +11,8 @@
   letterboxd_slug: the-evil-dead
   poster_url: https://a.ltrbxd.com/resized/sm/upload/4o/ar/ra/46/the-evil-dead-1200-1200-675-675-crop-000000.jpg?v=0de3b8fd81
   letterboxd_rating: 3.62
+  genres:
+    - Horror
 
 - id: evil-dead-ii
   tmdb_id: 765
@@ -23,6 +25,10 @@
   letterboxd_slug: evil-dead-ii
   poster_url: https://a.ltrbxd.com/resized/sm/upload/h8/ba/ow/2n/evil-dead-ii-1200-1200-675-675-crop-000000.jpg?v=814263e29a
   letterboxd_rating: 3.99
+  genres:
+    - Comedy
+    - Fantasy
+    - Horror
 
 - id: army-of-darkness
   tmdb_id: 766
@@ -35,6 +41,10 @@
   letterboxd_slug: army-of-darkness
   poster_url: https://a.ltrbxd.com/resized/sm/upload/aj/s8/rg/re/army-of-darkness-1200-1200-675-675-crop-000000.jpg?v=4331563281
   letterboxd_rating: 3.71
+  genres:
+    - Comedy
+    - Fantasy
+    - Horror
 
 - id: bubba-ho-tep
   tmdb_id: 9707
@@ -52,3 +62,9 @@
   letterboxd_slug: bubba-ho-tep
   poster_url: https://a.ltrbxd.com/resized/sm/upload/c6/nx/57/4u/bubba%20ho%20tep-1200-1200-675-675-crop-000000.jpg?v=cac1251844
   letterboxd_rating: 3.28
+  genres:
+    - Comedy
+    - Horror
+    - Fantasy
+    - Thriller
+    - Mystery

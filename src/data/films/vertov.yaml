@@ -21,6 +21,8 @@
   letterboxd_slug: a-sixth-part-of-the-world
   poster_url: https://a.ltrbxd.com/resized/sm/upload/dv/v0/94/lr/uaJMsux2Ltaywvcr33TjMsV8y3T-1200-1200-675-675-crop-000000.jpg?v=f53c4cfc77
   letterboxd_rating: 3.75
+  genres:
+    - Documentary
 
 - id: man-with-a-movie-camera
   tmdb_id: 26317
@@ -39,6 +41,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZDkzOTYyM2MtYzBmOC00NzIxLThkOGUtNzk5NjI0OWRjZjgzXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: man-with-a-movie-camera
   letterboxd_rating: 4.25
+  genres:
+    - Documentary
 
 - id: enthusiasm
   tmdb_id: null
@@ -73,3 +77,5 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMWJiZjAwZDItZGJjMS00ZjI2LWJiMzgtZTgxYzViZjMzNzA0XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: three-songs-about-lenin
   letterboxd_rating: 3.57
+  genres:
+    - Documentary

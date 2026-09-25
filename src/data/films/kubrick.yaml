@@ -15,6 +15,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTMyODMxOTUtZWI0ZS00Y2ZhLWJmMjMtZDIzYThlNmMwYTEwXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: killers-kiss
   letterboxd_rating: 3.15
+  genres:
+    - Crime
+    - Thriller
+    - Drama
 
 - id: the-killing
   tmdb_id: 247
@@ -28,6 +32,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNGNhNTNiZjMtM2U1Yy00MTYwLWJhZGMtM2E1ZWU0NWFlYWMxXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-killing
   letterboxd_rating: 4
+  genres:
+    - Drama
+    - Thriller
+    - Crime
 
 - id: paths-of-glory
   tmdb_id: 975
@@ -46,6 +54,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNmQ2NmI2ODYtMDQzNS00NzQyLTkzZjgtZmZlYTQ5MTc1OWU3XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: paths-of-glory
   letterboxd_rating: 4.45
+  genres:
+    - War
+    - Drama
 
 - id: spartacus
   tmdb_id: 967
@@ -59,6 +70,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTcyOThhYzktMTYyMi00NDU5LWExZWMtOWUzNGJiZGFlMWQwXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: spartacus
   letterboxd_rating: 3.88
+  genres:
+    - Drama
+    - Adventure
+    - History
 
 - id: lolita
   tmdb_id: 802
@@ -77,6 +92,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNmY2ZTEwZTAtOThkZS00MzkxLTk3MDUtOTJiMTgzOGI1MzdjXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: lolita
   letterboxd_rating: 3.42
+  genres:
+    - Drama
 
 - id: dr-strangelove
   tmdb_id: 935
@@ -90,6 +107,9 @@
   letterboxd_slug: dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb
   poster_url: https://a.ltrbxd.com/resized/sm/upload/5l/qd/mh/45/dr-strangelove-or--how-i-learned-to-stop-worrying-and-love-the-bomb-170-1200-1200-675-675-crop-000000.jpg?v=f3de38aa5c
   letterboxd_rating: 4.3
+  genres:
+    - Comedy
+    - War
 
 - id: 2001-a-space-odyssey
   tmdb_id: 62
@@ -103,6 +123,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNjU0NDFkMTQtZWY5OS00MmZhLTg3Y2QtZmJhMzMzMWYyYjc2XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: 2001-a-space-odyssey
   letterboxd_rating: 4.23
+  genres:
+    - Science Fiction
+    - Adventure
+    - Mystery
 
 - id: a-clockwork-orange
   tmdb_id: 185
@@ -121,6 +145,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTY3MjM1Mzc4N15BMl5BanBnXkFtZTgwODM0NzAxMDE@._V1_SX300.jpg
   letterboxd_slug: a-clockwork-orange
   letterboxd_rating: 4.09
+  genres:
+    - Crime
+    - Science Fiction
 
 - id: barry-lyndon
   tmdb_id: 3175
@@ -134,6 +161,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNmM2MGQ5Y2UtYzA3ZC00ZDJlLTkwNDYtMjBmZGExZDJiN2RlXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: barry-lyndon
   letterboxd_rating: 4.41
+  genres:
+    - Drama
+    - History
 
 - id: full-metal-jacket
   tmdb_id: 600
@@ -147,6 +177,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYWUzNzZkNzUtNDdiYy00Nzk5LTgxMmItNTk0MjRjNjdjNDA0XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg
   letterboxd_slug: full-metal-jacket
   letterboxd_rating: 4.19
+  genres:
+    - Drama
+    - War
 
 - id: eyes-wide-shut
   tmdb_id: 345
@@ -165,3 +198,7 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZTQ0MmM5MDAtYmYyZS00MzlmLTlhZTAtZDJlZWY5ZTZkZjZmXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: eyes-wide-shut
   letterboxd_rating: 3.98
+  genres:
+    - Thriller
+    - Drama
+    - Mystery

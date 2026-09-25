@@ -12,6 +12,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: wuthering-heights
   poster_url: https://a.ltrbxd.com/resized/sm/upload/xx/6y/4q/pq/wuthering%20heights-1200-1200-675-675-crop-000000.jpg?v=a5728ef271
+  genres:
+    - Drama
+    - Romance
 
 - id: hamlet-1948
   tmdb_id: 23383
@@ -28,3 +31,5 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 0 }
   letterboxd_slug: hamlet
   poster_url: https://a.ltrbxd.com/resized/sm/upload/9a/nw/bm/b7/hamlet-1200-1200-675-675-crop-000000.jpg?v=6d7e0da7e7
+  genres:
+    - Drama

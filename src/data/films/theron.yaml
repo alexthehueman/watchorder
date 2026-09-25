@@ -16,6 +16,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTI4NzI5NzEwNl5BMl5BanBnXkFtZTcwNjc1NjQyMQ@@._V1_SX300.jpg
   letterboxd_slug: monster
   letterboxd_rating: 3.68
+  genres:
+    - Drama
+    - Crime
 
 - id: young-adult
   tmdb_id: 57157
@@ -34,6 +37,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTc4NzgyMjQwMV5BMl5BanBnXkFtZTcwNjMxODcwNw@@._V1_SX300.jpg
   letterboxd_slug: young-adult
   letterboxd_rating: 3.23
+  genres:
+    - Comedy
+    - Drama
 
 - id: mad-max-fury-road
   tmdb_id: 76341
@@ -47,6 +53,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZDRkODJhOTgtOTc1OC00NTgzLTk4NjItNDgxZDY4YjlmNDY2XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: mad-max-fury-road
   letterboxd_rating: 4.17
+  genres:
+    - Science Fiction
+    - Adventure
+    - Action
 
 - id: atomic-blonde
   tmdb_id: 341013
@@ -65,6 +75,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjM5NDYzMzg5N15BMl5BanBnXkFtZTgwOTM2NDU1MjI@._V1_SX300.jpg
   letterboxd_slug: atomic-blonde
   letterboxd_rating: 3.3
+  genres:
+    - Thriller
+    - Action
 
 - id: tully
   tmdb_id: 400579
@@ -83,6 +96,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTU0OTM4NTMyMF5BMl5BanBnXkFtZTgwNDA5MzUwNTM@._V1_SX300.jpg
   letterboxd_slug: tully-2018
   letterboxd_rating: 3.6
+  genres:
+    - Drama
+    - Comedy
 
 - id: snow-white-and-the-huntsman
   tmdb_id: 58595
@@ -96,6 +112,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BY2JjYWUyZjUtMDg3OS00MGIyLTgyN2QtYjIyY2VlYzViYThlXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: snow-white-and-the-huntsman
   letterboxd_rating: 2.65
+  genres:
+    - Drama
+    - Adventure
+    - Fantasy
 
 - id: prometheus
   tmdb_id: 70981
@@ -114,6 +134,11 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTY3NzIyNTA2NV5BMl5BanBnXkFtZTcwNzE2NjI4Nw@@._V1_SX300.jpg
   letterboxd_slug: prometheus
   letterboxd_rating: 3.32
+  genres:
+    - Adventure
+    - Science Fiction
+    - Horror
+    - Mystery
 
 - id: long-shot
   tmdb_id: 459992
@@ -127,6 +152,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BY2E2NDIwMGUtNmFkZC00NDFjLWI5ZWMtMTE1M2E2YTM1OWVlXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: long-shot-2019
   letterboxd_rating: 3.24
+  genres:
+    - Romance
+    - Comedy
 
 - id: bombshell
   tmdb_id: 525661
@@ -140,3 +168,5 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BODY3ODVkYTAtZDFmNS00ZDYyLTlkOTEtNTY3NTFhNDE4ZjFjXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: bombshell-2019
   letterboxd_rating: 3.14
+  genres:
+    - Drama

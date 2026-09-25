@@ -14,6 +14,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BM2I4NTI0ZGQtNGQ2ZC00ODIxLWI2N2QtMDBkNzI1NDhjYjE5XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: 28-days-later
   letterboxd_rating: 3.73
+  genres:
+    - Science Fiction
+    - Horror
+    - Thriller
 
 - id: the-wind-that-shakes-the-barley
   tmdb_id: 1116
@@ -27,6 +31,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNjA0NDhkZDMtM2E2ZS00ZjY1LTgxN2UtMjNhN2NlMGQ5ZGIxXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-wind-that-shakes-the-barley
   letterboxd_rating: 4.02
+  genres:
+    - War
+    - Drama
 
 - id: inception
   tmdb_id: 27205
@@ -45,6 +52,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_QL75_UX380_CR0,0,380,562_.jpg
   letterboxd_slug: inception
   letterboxd_rating: 4.24
+  genres:
+    - Action
+    - Adventure
+    - Science Fiction
 
 - id: red-eye
   tmdb_id: 11460
@@ -58,6 +69,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNzAxNjc1ODczOF5BMl5BanBnXkFtZTcwMjE3MjEzMw@@._V1_SX300.jpg
   letterboxd_slug: red-eye
   letterboxd_rating: 3.16
+  genres:
+    - Mystery
+    - Thriller
 
 - id: dunkirk
   tmdb_id: 374720
@@ -71,6 +85,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTE0Mjg4MTMwMDZeQTJeQWpwZ15BbWU4MDAwMDQ1ODAy._V1_SX300.jpg
   letterboxd_slug: dunkirk-2017
   letterboxd_rating: 3.77
+  genres:
+    - Action
+    - Drama
+    - War
 
 - id: oppenheimer
   tmdb_id: 872585
@@ -89,3 +107,6 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BN2JkMDc5MGQtZjg3YS00NmFiLWIyZmQtZTJmNTM5MjVmYTQ4XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg
   letterboxd_slug: oppenheimer-2023
   letterboxd_rating: 4.16
+  genres:
+    - Drama
+    - History

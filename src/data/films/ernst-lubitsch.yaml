@@ -12,6 +12,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   letterboxd_slug: trouble-in-paradise
   poster_url: https://a.ltrbxd.com/resized/sm/upload/5g/sa/el/h5/trouble-1200-1200-675-675-crop-000000.jpg?v=a331db0a47
+  genres:
+    - Comedy
+    - Romance
+    - Crime
 
 - id: heaven-can-wait-1943
   tmdb_id: 18727
@@ -23,6 +27,11 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: heaven-can-wait
   poster_url: https://a.ltrbxd.com/resized/sm/upload/19/ku/d9/yw/heaven-can-wait-1200-1200-675-675-crop-000000.jpg?v=e00e2952c5
+  genres:
+    - Comedy
+    - Fantasy
+    - Romance
+    - Drama
 
 - id: to-be-or-not-to-be
   tmdb_id: 4488
@@ -39,3 +48,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: to-be-or-not-to-be
   poster_url: https://a.ltrbxd.com/resized/sm/upload/tq/gh/ag/su/tobeornot-1200-1200-675-675-crop-000000.jpg?v=30acd74a8c
+  genres:
+    - Comedy
+    - War
+    - Romance

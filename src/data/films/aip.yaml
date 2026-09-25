@@ -19,6 +19,11 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNmIyZTE1ODctOTgwOS00NTIyLWFlOWYtYjBlN2MzMWUyNDliXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: i-was-a-teenage-werewolf
   letterboxd_rating: 2.79
+  genres:
+    - Science Fiction
+    - Drama
+    - Fantasy
+    - Horror
 
 - id: attack-of-the-crab-monsters
   tmdb_id: 26946
@@ -32,6 +37,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTc2Mjg0MzI1MF5BMl5BanBnXkFtZTgwNjM1OTg5MTE@._V1_SX300.jpg
   letterboxd_slug: attack-of-the-crab-monsters
   letterboxd_rating: 2.63
+  genres:
+    - Science Fiction
+    - Horror
 
 - id: attack-of-the-50-foot-woman
   tmdb_id: 18724
@@ -45,6 +53,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BOTQzZDU3OGItYWNmYi00MjRiLWFiNDYtNzQ2OTA5OGZkYjA1XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: attack-of-the-50-foot-woman
   letterboxd_rating: 2.63
+  genres:
+    - Drama
+    - Horror
+    - Science Fiction
 
 - id: house-of-usher
   tmdb_id: 23439
@@ -58,6 +70,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNjA1ZTRmYjYtMTE0MC00ZGQzLWE3YjctNWQ1MzNkMTRjZjZmXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: house-of-usher
   letterboxd_rating: 3.49
+  genres:
+    - Horror
+    - Drama
 
 - id: the-pit-and-the-pendulum
   tmdb_id: 28501
@@ -71,6 +86,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZDBiNjRhMDctMDA5Zi00YmVkLWEzMTMtMGU5NjI5MTE4Y2E0XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-pit-and-the-pendulum-1961
   letterboxd_rating: 3.53
+  genres:
+    - Mystery
+    - Drama
+    - Horror
 
 - id: the-raven-1963
   tmdb_id: 29056
@@ -89,6 +108,11 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTQ4MjAzMzQzN15BMl5BanBnXkFtZTcwNzkyMTU2NA@@._V1_SX300.jpg
   letterboxd_slug: the-raven-1963
   letterboxd_rating: 3.26
+  genres:
+    - Fantasy
+    - Comedy
+    - Horror
+    - Drama
 
 - id: beach-party
   tmdb_id: 26484
@@ -102,6 +126,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BM2U1ZjcxZTUtMjNhNC00OGRhLThmOGUtNmQ2NTFmMjA3MzE5XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: beach-party
   letterboxd_rating: 2.93
+  genres:
+    - Music
+    - Comedy
 
 - id: the-masque-of-the-red-death
   tmdb_id: 25319
@@ -120,6 +147,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNzUyYTM3MDYtNmZhZC00MTc1LTliNzUtYmNjNTBiZWI4MzUzXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-masque-of-the-red-death
   letterboxd_rating: 3.64
+  genres:
+    - Horror
+    - Drama
 
 - id: the-tomb-of-ligeia
   tmdb_id: 29030
@@ -138,6 +168,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNjgxNTM0Nzk0OV5BMl5BanBnXkFtZTcwMTgyMTM4NA@@._V1_SX300.jpg
   letterboxd_slug: the-tomb-of-ligeia
   letterboxd_rating: 3.27
+  genres:
+    - Drama
+    - Horror
 
 - id: the-wild-angels
   tmdb_id: 42725
@@ -156,6 +189,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTBmOWRkM2YtMDFjNC00NThiLWEwMDYtYjc5ZTFhZTRmZmY2XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-wild-angels
   letterboxd_rating: 3.01
+  genres:
+    - Drama
+    - Action
 
 - id: the-trip
   tmdb_id: 224034
@@ -173,6 +209,8 @@
   imdb_id: tt0062395
   poster_url: https://m.media-amazon.com/images/M/MV5BMTM3NTRhZmYtMTQ3Ni00NDIzLTkyYTItOGFlZmUxYTRmNTAxXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-trip
+  genres:
+    - Animation
 
 - id: wild-in-the-streets
   tmdb_id: 42688
@@ -191,6 +229,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BOGRkMWFiMGMtOGU1Yi00OGU2LWI2OWQtOTQ1NDc5ZDMyZmRlXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: wild-in-the-streets
   letterboxd_rating: 3.12
+  genres:
+    - Drama
+    - Music
+    - Comedy
 
 - id: the-abominable-dr-phibes
   tmdb_id: 17965
@@ -204,6 +246,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYjIyOTNiMWItNzRkZi00YzY5LTk4ODEtZjFiYTYxZTc2NzkyXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-abominable-dr-phibes
   letterboxd_rating: 3.66
+  genres:
+    - Comedy
+    - Horror
 
 - id: coffy
   tmdb_id: 22021
@@ -217,3 +262,7 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYmUzOWM0MjAtODM3Ny00NjIxLWI0MzYtOGRhYTQ0NGM0YzNiXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: coffy
   letterboxd_rating: 3.57
+  genres:
+    - Crime
+    - Drama
+    - Thriller

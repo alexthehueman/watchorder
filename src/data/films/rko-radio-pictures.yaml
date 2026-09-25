@@ -21,6 +21,10 @@
   letterboxd_slug: king-kong
   poster_url: https://a.ltrbxd.com/resized/sm/upload/lo/0g/0a/9d/king-kong-1200-1200-675-675-crop-000000.jpg?v=c484629b47
   letterboxd_rating: 3.82
+  genres:
+    - Adventure
+    - Fantasy
+    - Horror
 
 - id: cat-people
   tmdb_id: 25508
@@ -38,3 +42,7 @@
   letterboxd_slug: cat-people
   poster_url: https://a.ltrbxd.com/resized/sm/upload/z9/z2/zb/b5/cat-people-1200-1200-675-675-crop-000000.jpg?v=0bdf8d1e83
   letterboxd_rating: 3.67
+  genres:
+    - Horror
+    - Romance
+    - Mystery

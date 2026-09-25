@@ -21,6 +21,9 @@
   letterboxd_slug: mr-holmes
   poster_url: https://a.ltrbxd.com/resized/sm/upload/xe/61/h9/xa/mr-holmes-1200-1200-675-675-crop-000000.jpg?v=05eb377ac6
   letterboxd_rating: 3.34
+  genres:
+    - Mystery
+    - Drama
 
 - id: breaking-dawn-part-2
   tmdb_id: 50620
@@ -33,6 +36,11 @@
   letterboxd_slug: the-twilight-saga-breaking-dawn-part-2
   poster_url: https://a.ltrbxd.com/resized/sm/upload/0g/en/rx/ny/twilight-breaking-dawn-part-2-1200-1200-675-675-crop-000000.jpg?v=a0e35df359
   letterboxd_rating: 3.01
+  genres:
+    - Drama
+    - Fantasy
+    - Adventure
+    - Romance
 
 - id: candyman-farewell-to-the-flesh
   tmdb_id: 10824
@@ -50,3 +58,6 @@
   letterboxd_slug: candyman-farewell-to-the-flesh
   poster_url: https://a.ltrbxd.com/resized/sm/upload/1z/9u/cj/9a/thYTLezKmWLMWrgUdV5iMLxaUHw-1200-1200-675-675-crop-000000.jpg?v=f3752e7ff7
   letterboxd_rating: 2.63
+  genres:
+    - Thriller
+    - Horror

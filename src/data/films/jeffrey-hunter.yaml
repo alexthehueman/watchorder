@@ -13,6 +13,9 @@
   letterboxd_slug: king-of-kings
   poster_url: https://a.ltrbxd.com/resized/sm/upload/5z/4u/pa/p7/fT2vGpFZVRKw7LaiSFXAeU36a1a-1200-1200-675-675-crop-000000.jpg?v=7a9bcd038f
   letterboxd_rating: 3.39
+  genres:
+    - History
+    - Drama
 
 - id: sergeant-rutledge
   tmdb_id: 43040
@@ -30,6 +33,10 @@
   letterboxd_slug: sergeant-rutledge
   poster_url: https://a.ltrbxd.com/resized/sm/upload/h4/nl/me/wk/hFjy73hNoRJWXn7AISmQRHEpUyo-1200-1200-675-675-crop-000000.jpg?v=d8e08bd038
   letterboxd_rating: 3.79
+  genres:
+    - Crime
+    - Western
+    - Drama
 
 - id: no-down-payment
   tmdb_id: 110671
@@ -42,3 +49,5 @@
   letterboxd_slug: no-down-payment
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ce/9b/zf/bn/viKLPYD15qlCOLbjFka4RH4okHq-1200-1200-675-675-crop-000000.jpg?v=48a40d7055
   letterboxd_rating: 3.71
+  genres:
+    - Drama

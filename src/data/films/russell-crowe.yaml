@@ -23,6 +23,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BODdiMjY1OGYtNDk0NC00NGQ1LWI4MDItOTJhMTM0YjE1YTAzXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: la-confidential
   letterboxd_rating: 4.1
+  genres:
+    - Mystery
+    - Crime
+    - Thriller
 
 - id: a-beautiful-mind
   tmdb_id: 453
@@ -41,6 +45,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYjgzNjFkMmItOGJhNi00NWM3LWJlYTUtNDExMGQ3ZTI3NjJkXkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg
   letterboxd_slug: a-beautiful-mind
   letterboxd_rating: 3.88
+  genres:
+    - Romance
+    - Drama
 
 - id: master-and-commander
   tmdb_id: null
@@ -63,6 +70,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYjQ3M2ZjMzYtNmQwNC00MjNkLTgzOTgtMjhjMDk0YzIzOWZkXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: cinderella-man
   letterboxd_rating: 3.86
+  genres:
+    - History
+    - Romance
+    - Drama
 
 - id: noah
   tmdb_id: 86834
@@ -81,6 +92,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjI2OTgyNTc0Ml5BMl5BanBnXkFtZTgwNDM1NTQxMTE@._V1_SX300.jpg
   letterboxd_slug: noah
   letterboxd_rating: 2.6
+  genres:
+    - Drama
+    - Adventure
 
 - id: the-nice-guys
   tmdb_id: 290250
@@ -94,6 +108,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BM2YwNWZlZGEtYTEyZi00NjdjLWEwM2ItM2Q2MDMwZjkzMjk0XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-nice-guys
   letterboxd_rating: 3.83
+  genres:
+    - Action
+    - Comedy
+    - Crime
 
 - id: les-miserables
   tmdb_id: 82695
@@ -106,3 +124,6 @@
   letterboxd_slug: les-miserables-2012
   poster_url: https://a.ltrbxd.com/resized/sm/upload/pd/pv/zp/dc/les-miserables-2012-1200-1200-675-675-crop-000000.jpg?v=761af0f8da
   letterboxd_rating: 3.63
+  genres:
+    - Drama
+    - History

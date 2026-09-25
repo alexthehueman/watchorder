@@ -14,6 +14,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZWJlODViYTUtMzY3MS00ZDRlLTkzODQtMDdiOTBiN2E0MDA5XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: to-die-for
   letterboxd_rating: 3.64
+  genres:
+    - Comedy
+    - Drama
+    - Crime
 
 - id: gladiator
   tmdb_id: 98
@@ -27,6 +31,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYWQ4YmNjYjEtOWE1Zi00Y2U4LWI4NTAtMTU0MjkxNWQ1ZmJiXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg
   letterboxd_slug: gladiator-2000
   letterboxd_rating: 4.2
+  genres:
+    - Action
+    - Adventure
+    - Drama
 
 - id: walk-the-line
   tmdb_id: 69
@@ -40,6 +48,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjIyOTU3MjUxOF5BMl5BanBnXkFtZTcwMTQ0NjYzMw@@._V1_SX300.jpg
   letterboxd_slug: walk-the-line
   letterboxd_rating: 3.83
+  genres:
+    - Drama
+    - Music
+    - Romance
 
 - id: her
   tmdb_id: 152601
@@ -52,6 +64,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjA1Nzk0OTM2OF5BMl5BanBnXkFtZTgwNjU2NjEwMDE@._V1_QL75_UX380_CR0,0,380,562_.jpg
   letterboxd_slug: her
   letterboxd_rating: 3.95
+  genres:
+    - Science Fiction
+    - Romance
+    - Drama
 
 - id: joker
   tmdb_id: 475557
@@ -65,3 +81,7 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNzY3OWQ5NDktNWQ2OC00ZjdlLThkMmItMDhhNDk3NTFiZGU4XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg
   letterboxd_slug: joker-2019
   letterboxd_rating: 3.85
+  genres:
+    - Drama
+    - Thriller
+    - Crime

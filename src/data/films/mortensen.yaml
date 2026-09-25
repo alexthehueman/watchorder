@@ -15,6 +15,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNzIxMDQ2YTctNDY4MC00ZTRhLTk4ODQtMTVlOWY4NTdiYmMwXkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg
   letterboxd_slug: the-lord-of-the-rings-the-fellowship-of-the-ring
   letterboxd_rating: 4.39
+  genres:
+    - Adventure
+    - Action
+    - Fantasy
 
 - id: the-road
   tmdb_id: 20766
@@ -28,6 +32,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTAwNzk4NTU3NDReQTJeQWpwZ15BbWU3MDg3OTEyODI@._V1_SX300.jpg
   letterboxd_slug: the-road
   letterboxd_rating: 3.67
+  genres:
+    - Drama
+    - Adventure
 
 - id: captain-fantastic
   tmdb_id: 334533
@@ -41,6 +48,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjE5OTM0OTY5NF5BMl5BanBnXkFtZTgwMDcxOTQ3ODE@._V1_SX300.jpg
   letterboxd_slug: captain-fantastic
   letterboxd_rating: 3.95
+  genres:
+    - Drama
+    - Comedy
 
 - id: green-book
   tmdb_id: 490132
@@ -54,6 +64,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNDU5YTNmMmItN2QxNy00OGQ0LTg5MTctNzFmYjEzZjcwN2UwXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg
   letterboxd_slug: green-book
   letterboxd_rating: 3.9
+  genres:
+    - Drama
+    - History
+    - Comedy
 
 - id: a-dangerous-method
   tmdb_id: 48231
@@ -67,3 +81,5 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTU5Mjk3NjgxMl5BMl5BanBnXkFtZTcwMDM5MjA5Ng@@._V1_SX300.jpg
   letterboxd_slug: a-dangerous-method
   letterboxd_rating: 3.15
+  genres:
+    - Drama

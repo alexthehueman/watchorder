@@ -17,6 +17,8 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
   letterboxd_slug: the-conformist
   poster_url: https://a.ltrbxd.com/resized/sm/upload/j6/mt/dl/j4/g6G39cC2XfEKunn3wZ7HkBjrZMe-1200-1200-675-675-crop-000000.jpg?v=3a1e8afcfe
+  genres:
+    - Drama
 
 - id: nineteen-hundred
   tmdb_id: 3870
@@ -28,6 +30,9 @@
   content: { sexual_violence: true, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 2 }
   letterboxd_slug: "1900"
   poster_url: https://a.ltrbxd.com/resized/sm/upload/r1/0d/vb/hp/1900-1200-1200-675-675-crop-000000.jpg?v=fc76991ed1
+  genres:
+    - History
+    - Drama
 
 - id: the-dreamers
   tmdb_id: 2028
@@ -39,3 +44,6 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 3 }
   letterboxd_slug: the-dreamers
   poster_url: https://a.ltrbxd.com/resized/sm/upload/dm/rv/yd/ot/the-dreamers-1200-1200-675-675-crop-000000.jpg?v=2da475e0a5
+  genres:
+    - Drama
+    - Romance

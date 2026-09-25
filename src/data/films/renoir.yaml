@@ -21,6 +21,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTRkZDBhM2MtZjEwMi00NzhjLWI0YjctMjRiNmY2MzY0NTg3XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: boudu-saved-from-drowning
   letterboxd_rating: 3.68
+  genres:
+    - Comedy
 
 - id: toni
   tmdb_id: 51949
@@ -39,6 +41,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMzQ0YWZlZTctMzliNS00MzQ4LTg3ZjItZTNkMGM4NGZlNzZlXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: toni
   letterboxd_rating: 3.75
+  genres:
+    - Drama
+    - Romance
 
 - id: the-crime-of-monsieur-lange
   tmdb_id: 52677
@@ -57,6 +62,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMzQzMzE2NGMtNGYzMC00ZTlmLTk0YWQtOTU4M2QzNTViNjM3XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-crime-of-monsieur-lange
   letterboxd_rating: 3.74
+  genres:
+    - Drama
+    - Comedy
+    - Crime
 
 - id: la-grande-illusion
   tmdb_id: null
@@ -107,6 +116,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNzVjZDIyNTctZjhmZS00ZmFkLTlmZTktYzAwYzdhYTdiNmI5XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-river
   letterboxd_rating: 3.8
+  genres:
+    - Drama
+    - Romance
 
 - id: french-cancan
   tmdb_id: 45213
@@ -120,3 +132,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjE4MTk3MDY5MV5BMl5BanBnXkFtZTgwOTA0NzM3NDE@._V1_SX300.jpg
   letterboxd_slug: french-cancan
   letterboxd_rating: 3.88
+  genres:
+    - Music
+    - Comedy
+    - Drama
+    - Romance

@@ -12,6 +12,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNWEzN2U1YTYtYTQyMS00NTVkLWE2NGQtZWFlMmM0MDNjMmRiXkEyXkFqcGc@._V1_QL75_UX380_CR0,5,380,562_.jpg
   letterboxd_slug: casablanca
   letterboxd_rating: 4.28
+  genres:
+    - Drama
+    - Romance
 
 - id: gaslight
   tmdb_id: 13528
@@ -30,6 +33,11 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTQxOTQwY2EtZjU0My00NDNlLWExMjUtMDg0ODc0YTYxNjVkXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: gaslight-1944
   letterboxd_rating: 4.05
+  genres:
+    - Drama
+    - Crime
+    - Mystery
+    - Thriller
 
 - id: notorious
   tmdb_id: 303
@@ -43,6 +51,12 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BOGU5ZjdmNzUtMGY0Ny00NjMyLWJiMDEtMmMzYmMyOTNjNzlmXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: notorious
   letterboxd_rating: 4.08
+  genres:
+    - Romance
+    - Thriller
+    - Crime
+    - Mystery
+    - Drama
 
 - id: joan-of-arc-1948
   tmdb_id: 43443
@@ -56,6 +70,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BODA4MmE4MGYtNTdlMi00ZGI0LTkzYmYtODg2YWVkOTUxMjAzXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: joan-of-arc
   letterboxd_rating: 3.35
+  genres:
+    - Drama
+    - History
 
 - id: stromboli
   tmdb_id: 4173
@@ -69,6 +86,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTY0NzcwNmEtMmE5My00ZWUwLWEyYWItM2NiMWZmNWIyNzFiXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: stromboli
   letterboxd_rating: 3.84
+  genres:
+    - Drama
 
 - id: journey-to-italy
   tmdb_id: 2748
@@ -82,6 +101,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYTkwZjdlMjMtYTM5MC00NjhlLWJkOTgtNDVlOWRhY2M0ODRhXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: journey-to-italy
   letterboxd_rating: 3.79
+  genres:
+    - Romance
+    - Drama
 
 - id: anastasia-1956
   tmdb_id: 38171
@@ -95,6 +117,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMGY2ZjliZWUtYjdlNy00ZDIwLTg1MDYtZTE3NWZjZWI2MDBkXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: anastasia
   letterboxd_rating: 3.33
+  genres:
+    - Drama
+    - Romance
 
 - id: autumn-sonata
   tmdb_id: 12761
@@ -113,6 +138,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNTg1MzJiNTYtZjcyNS00NDE5LWE0N2ItMGIxM2Y2ZDMyYjJjXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: autumn-sonata
   letterboxd_rating: 4.5
+  genres:
+    - Drama
 
 - id: murder-on-the-orient-express-1974
   tmdb_id: 4176
@@ -126,3 +153,7 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNzZmZWMwOWUtM2NkZS00MWM0LTk1YzMtYzI4OGYyMTNlNTMwXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: murder-on-the-orient-express-1974
   letterboxd_rating: 3.58
+  genres:
+    - Thriller
+    - Drama
+    - Mystery

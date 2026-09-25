@@ -21,6 +21,9 @@
   letterboxd_slug: parenthood
   poster_url: https://a.ltrbxd.com/resized/sm/upload/74/8q/yn/im/parenthood-1200-1200-675-675-crop-000000.jpg?v=360da38c14
   letterboxd_rating: 3.45
+  genres:
+    - Drama
+    - Comedy
 
 - id: backdraft
   tmdb_id: 2924
@@ -38,3 +41,8 @@
   letterboxd_slug: backdraft
   poster_url: https://a.ltrbxd.com/resized/sm/upload/1j/j6/56/e9/backdraft-1200-1200-675-675-crop-000000.jpg?v=fbc39f6edd
   letterboxd_rating: 3.3
+  genres:
+    - Action
+    - Crime
+    - Drama
+    - Thriller

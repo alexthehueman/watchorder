@@ -18,6 +18,10 @@
   letterboxd_slug: the-killing-of-a-sacred-deer
   poster_url: https://a.ltrbxd.com/resized/sm/upload/wr/lp/8l/31/the-killing-of-a-sacred-deer-1200-1200-675-675-crop-000000.jpg?v=6186b664d6
   letterboxd_rating: 3.7
+  genres:
+    - Mystery
+    - Drama
+    - Thriller
 
 - id: saltburn
   tmdb_id: 930564
@@ -35,6 +39,10 @@
   letterboxd_slug: saltburn
   poster_url: https://a.ltrbxd.com/resized/sm/upload/3t/1d/hb/ay/saltburn-1200-1200-675-675-crop-000000.jpg?v=61f464c6c9
   letterboxd_rating: 3.35
+  genres:
+    - Comedy
+    - Drama
+    - Thriller
 
 - id: the-banshees-of-inisherin
   tmdb_id: 674324
@@ -52,6 +60,9 @@
   letterboxd_slug: the-banshees-of-inisherin
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ys/e3/qp/ue/the-banshees-of-inisherin-1200-1200-675-675-crop-000000.jpg?v=3833cedbcc
   letterboxd_rating: 4.12
+  genres:
+    - Comedy
+    - Drama
 
 - id: american-animals
   tmdb_id: 489931
@@ -64,6 +75,10 @@
   letterboxd_slug: american-animals
   poster_url: https://a.ltrbxd.com/resized/sm/upload/2i/ky/ub/mz/american-animals-1200-1200-675-675-crop-000000.jpg?v=f6f8166edc
   letterboxd_rating: 3.66
+  genres:
+    - Documentary
+    - Crime
+    - Drama
 
 - id: eternals
   tmdb_id: 524434
@@ -76,3 +91,7 @@
   letterboxd_slug: eternals
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ys/if/is/6o/eternals-2021-1200-1200-675-675-crop-000000.jpg?v=620fc5f089
   letterboxd_rating: 2.68
+  genres:
+    - Action
+    - Science Fiction
+    - Adventure

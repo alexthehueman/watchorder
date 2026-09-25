@@ -11,6 +11,8 @@
   letterboxd_slug: girl-interrupted
   poster_url: https://a.ltrbxd.com/resized/sm/upload/av/w8/ds/jl/girl-interrupted-1200-1200-675-675-crop-000000.jpg?v=282d5c03a1
   letterboxd_rating: 3.97
+  genres:
+    - Drama
 
 - id: changeling
   tmdb_id: 3580
@@ -28,6 +30,10 @@
   letterboxd_slug: changeling
   poster_url: https://a.ltrbxd.com/resized/sm/upload/dm/rp/ux/6b/changeling-1200-1200-675-675-crop-000000.jpg?v=66f8fad09a
   letterboxd_rating: 3.74
+  genres:
+    - Mystery
+    - Drama
+    - Crime
 
 - id: maleficent
   tmdb_id: 102651
@@ -40,6 +46,12 @@
   letterboxd_slug: maleficent
   poster_url: https://a.ltrbxd.com/resized/sm/upload/q0/65/mb/us/maleficent-1200-1200-675-675-crop-000000.jpg?v=882616fab0
   letterboxd_rating: 3.38
+  genres:
+    - Romance
+    - Fantasy
+    - Action
+    - Adventure
+    - Family
 
 - id: mr-and-mrs-smith
   tmdb_id: null
@@ -61,6 +73,10 @@
   letterboxd_slug: a-mighty-heart
   poster_url: https://a.ltrbxd.com/resized/sm/upload/9i/uv/ek/d8/mighty%20heart-1200-1200-675-675-crop-000000.jpg?v=4d7e76ce86
   letterboxd_rating: 3.24
+  genres:
+    - Thriller
+    - History
+    - Drama
 
 - id: wanted
   tmdb_id: 8909
@@ -73,6 +89,10 @@
   letterboxd_slug: wanted-2008
   poster_url: https://a.ltrbxd.com/resized/sm/upload/5p/ry/br/d4/wanted-1200-1200-675-675-crop-000000.jpg?v=f9baed3ad2
   letterboxd_rating: 3.08
+  genres:
+    - Crime
+    - Action
+    - Thriller
 
 - id: by-the-sea
   tmdb_id: 314385
@@ -90,6 +110,9 @@
   letterboxd_slug: by-the-sea-2015
   poster_url: https://a.ltrbxd.com/resized/sm/upload/h9/j9/56/25/by-the-sea-2015-1200-1200-675-675-crop-000000.jpg?v=61e2d9bbcc
   letterboxd_rating: 2.92
+  genres:
+    - Drama
+    - Romance
 
 - id: salt
   tmdb_id: 27576
@@ -107,3 +130,7 @@
   letterboxd_slug: salt-2010
   poster_url: https://a.ltrbxd.com/resized/sm/upload/qs/ea/4e/8t/salt-2010-1200-1200-675-675-crop-000000.jpg?v=13e022ec89
   letterboxd_rating: 2.97
+  genres:
+    - Mystery
+    - Thriller
+    - Action

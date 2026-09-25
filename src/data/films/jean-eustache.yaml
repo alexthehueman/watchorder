@@ -12,6 +12,8 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: le-pere-noel-a-les-yeux-bleus
   poster_url: https://a.ltrbxd.com/resized/sm/upload/u0/id/lq/h7/8WvAWrjZeiFv96TSsN51cMpKFWY-1200-1200-675-675-crop-000000.jpg?v=4132c2192a
+  genres:
+    - Drama
 
 - id: mes-petites-amoureuses
   tmdb_id: 40058
@@ -23,6 +25,8 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: mes-petites-amoureuses
   poster_url: https://a.ltrbxd.com/resized/sm/upload/91/bk/7s/di/little%20loves-1200-1200-675-675-crop-000000.jpg?v=84bba122e5
+  genres:
+    - Drama
 
 - id: une-sale-histoire
   tmdb_id: 40329
@@ -39,3 +43,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   letterboxd_slug: a-dirty-story
   poster_url: https://a.ltrbxd.com/resized/film-poster/9/3/1/7/2/93172-a-dirty-story-0-230-0-345-crop.jpg?v=ff92c0c0da
+  genres:
+    - Documentary
+    - Drama
+    - Comedy

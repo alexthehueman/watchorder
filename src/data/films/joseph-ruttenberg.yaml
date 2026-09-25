@@ -15,6 +15,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   letterboxd_slug: the-great-waltz
   poster_url: https://a.ltrbxd.com/resized/sm/upload/wt/7b/qw/i8/great%20walt-1200-1200-675-675-crop-000000.jpg?v=9cf624c399
+  genres:
+    - Romance
+    - Music
+    - Drama
 
 - id: gigi
   tmdb_id: 17281
@@ -26,3 +30,6 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   letterboxd_slug: gigi
   poster_url: https://a.ltrbxd.com/resized/sm/upload/n9/ji/cx/7g/gigi-1200-1200-675-675-crop-000000.jpg?v=f65269da40
+  genres:
+    - Romance
+    - Comedy

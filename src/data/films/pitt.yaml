@@ -16,6 +16,10 @@
   letterboxd_slug: se7en
   poster_url: https://a.ltrbxd.com/resized/sm/upload/om/48/ya/8v/se7en_uLHHCJ-1200-1200-675-675-crop-000000.jpg?v=04e9ff67b6
   letterboxd_rating: 4.39
+  genres:
+    - Mystery
+    - Crime
+    - Thriller
 
 - id: twelve-monkeys
   tmdb_id: 63
@@ -33,6 +37,10 @@
   letterboxd_slug: twelve-monkeys
   poster_url: https://a.ltrbxd.com/resized/sm/upload/2d/5a/ou/4t/12-monkeys-1200-1200-675-675-crop-000000.jpg?v=5babfd7316
   letterboxd_rating: 3.89
+  genres:
+    - Thriller
+    - Mystery
+    - Science Fiction
 
 - id: fight-club
   tmdb_id: 550
@@ -51,6 +59,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BOTgyOGQ1NDItNGU3Ny00MjU3LTg2YWEtNmEyYjBiMjI1Y2M5XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg
   letterboxd_slug: fight-club
   letterboxd_rating: 4.27
+  genres:
+    - Drama
+    - Thriller
 
 - id: oceans-eleven
   tmdb_id: 161
@@ -64,6 +75,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMmNhZDkxYTgtMDM3ZC00NTQ3LWFjZTUtNzc1Y2QyNWZjNDRmXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: oceans-eleven-2001
   letterboxd_rating: 3.95
+  genres:
+    - Thriller
+    - Crime
 
 - id: moneyball
   tmdb_id: 60308
@@ -77,3 +91,5 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjAxOTU3Mzc1M15BMl5BanBnXkFtZTcwMzk1ODUzNg@@._V1_SX300.jpg
   letterboxd_slug: moneyball
   letterboxd_rating: 3.93
+  genres:
+    - Drama

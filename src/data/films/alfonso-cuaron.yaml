@@ -14,6 +14,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: harry-potter-and-the-prisoner-of-azkaban
   poster_url: https://a.ltrbxd.com/resized/sm/upload/fz/2e/tt/dt/harry-potter-and-the-prisoner-of-azkaban-1200-1200-675-675-crop-000000.jpg?v=37f03daa65
+  genres:
+    - Adventure
+    - Fantasy
 
 - id: roma-2018
   tmdb_id: 460795
@@ -30,3 +33,5 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 1 }
   letterboxd_slug: roma-2018
   poster_url: https://a.ltrbxd.com/resized/sm/upload/kq/s9/tp/d3/roma-1200-1200-675-675-crop-000000.jpg?v=186f36532b
+  genres:
+    - Drama

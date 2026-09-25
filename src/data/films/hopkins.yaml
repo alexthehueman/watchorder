@@ -16,6 +16,11 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNDdhOGJhYzctYzYwZC00YmI2LWI0MjctYjg4ODdlMDExYjBlXkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg
   letterboxd_slug: the-silence-of-the-lambs
   letterboxd_rating: 4.34
+  genres:
+    - Crime
+    - Thriller
+    - Horror
+    - Drama
 
 - id: the-remains-of-the-day
   tmdb_id: 1245
@@ -34,6 +39,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BOWY5MTFkMmEtNDE2Zi00NzU4LWE2OWMtZGE4ZWY1NmIzN2I0XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-remains-of-the-day
   letterboxd_rating: 3.97
+  genres:
+    - Romance
+    - Drama
 
 - id: nixon
   tmdb_id: 10858
@@ -47,6 +55,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNDk3YWU1NmEtMDBhMC00ZGYwLWFiNzQtMzkwMzg4YjA4MDY4XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: nixon
   letterboxd_rating: 3.63
+  genres:
+    - History
+    - Drama
 
 - id: hannibal
   tmdb_id: 9740
@@ -65,6 +76,11 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYTk3NGUzOWYtNTU5Yy00ZDNjLTg1YzItZDlmNWRhMmVlZTMxXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: hannibal
   letterboxd_rating: 3.31
+  genres:
+    - Thriller
+    - Drama
+    - Horror
+    - Crime
 
 - id: the-father
   tmdb_id: 600354
@@ -83,3 +99,5 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYzUxMDAyMDAtNzIyZi00OGQ1LTllMjEtYzRjOThkZTUxNTliXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-father-2020
   letterboxd_rating: 4.3
+  genres:
+    - Drama

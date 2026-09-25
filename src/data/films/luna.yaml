@@ -20,6 +20,9 @@
   letterboxd_slug: y-tu-mama-tambien
   poster_url: https://a.ltrbxd.com/resized/sm/upload/75/nt/h7/s3/y%20tu-1200-1200-675-675-crop-000000.jpg?v=8758549cf7
   letterboxd_rating: 4.2
+  genres:
+    - Romance
+    - Drama
 
 - id: elysium
   tmdb_id: 68724
@@ -37,3 +40,8 @@
   letterboxd_slug: elysium-2013
   poster_url: https://a.ltrbxd.com/resized/sm/upload/xm/7o/kw/pi/elysium-chip-1200-1200-675-675-crop-000000.jpg?v=587abf57cf
   letterboxd_rating: 2.97
+  genres:
+    - Science Fiction
+    - Thriller
+    - Drama
+    - Action

@@ -15,6 +15,10 @@
   letterboxd_slug: the-lord-of-the-rings-the-return-of-the-king
   poster_url: https://a.ltrbxd.com/resized/sm/upload/a7/4r/al/mc/lotr-return-of-the-king-1200-1200-675-675-crop-000000.jpg?v=2a233b4d9f
   letterboxd_rating: 4.56
+  genres:
+    - Action
+    - Fantasy
+    - Adventure
 
 - id: dead-alive
   tmdb_id: null
@@ -46,6 +50,9 @@
   letterboxd_slug: heavenly-creatures
   poster_url: https://a.ltrbxd.com/resized/sm/upload/7x/3b/9f/xr/heavenly-creatures-1200-1200-675-675-crop-000000.jpg?v=3273bf3a1f
   letterboxd_rating: 3.78
+  genres:
+    - Drama
+    - Fantasy
 
 - id: the-hobbit-an-unexpected-journey
   tmdb_id: 49051
@@ -58,6 +65,10 @@
   letterboxd_slug: the-hobbit-an-unexpected-journey
   poster_url: https://a.ltrbxd.com/resized/sm/upload/qu/2h/wd/tw/hobbit-unexpected-journey-1200-1200-675-675-crop-000000.jpg?v=ac139573a8
   letterboxd_rating: 3.63
+  genres:
+    - Fantasy
+    - Action
+    - Adventure
 
 - id: the-frighteners
   tmdb_id: 10779
@@ -75,3 +86,6 @@
   letterboxd_slug: the-frighteners
   poster_url: https://a.ltrbxd.com/resized/sm/upload/0j/qb/28/co/the-frighteners-1200-1200-675-675-crop-000000.jpg?v=f864628628
   letterboxd_rating: 3.47
+  genres:
+    - Comedy
+    - Horror

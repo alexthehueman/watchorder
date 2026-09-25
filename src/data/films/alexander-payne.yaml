@@ -20,6 +20,9 @@
   letterboxd_slug: nebraska
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ce/iu/h2/kx/nebraska-1200-1200-675-675-crop-000000.jpg?v=6808a17c5c
   letterboxd_rating: 3.98
+  genres:
+    - Adventure
+    - Drama
 
 - id: the-holdovers
   tmdb_id: 840430
@@ -37,6 +40,9 @@
   letterboxd_slug: the-holdovers
   poster_url: https://a.ltrbxd.com/resized/sm/upload/w7/tw/8s/e8/IMG_3085-1200-1200-675-675-crop-000000.jpg?v=b40be2ecb7
   letterboxd_rating: 4.26
+  genres:
+    - Drama
+    - Comedy
 
 - id: citizen-ruth
   tmdb_id: 13891
@@ -54,6 +60,9 @@
   letterboxd_slug: citizen-ruth
   poster_url: https://a.ltrbxd.com/resized/sm/upload/2t/gk/gx/8h/citizen%20ruth-1200-1200-675-675-crop-000000.jpg?v=e1d1a40fd8
   letterboxd_rating: 3.65
+  genres:
+    - Comedy
+    - Drama
 
 - id: downsizing
   tmdb_id: 301337
@@ -71,3 +80,7 @@
   letterboxd_slug: downsizing
   poster_url: https://a.ltrbxd.com/resized/sm/upload/1s/ot/9c/d2/downsizing-1200-1200-675-675-crop-000000.jpg?v=126bba2d30
   letterboxd_rating: 2.41
+  genres:
+    - Comedy
+    - Drama
+    - Science Fiction

@@ -16,6 +16,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTVmMWJiMTgtNmNmMS00NmI2LTgxZTAtNjdhODE2NTBlYTAyXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: election
   letterboxd_rating: 3.78
+  genres:
+    - Drama
+    - Comedy
 
 - id: legally-blonde
   tmdb_id: 8835
@@ -29,6 +32,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNTEyNjUwMTkxMV5BMl5BanBnXkFtZTcwNjk0NDk0NA@@._V1_SX300.jpg
   letterboxd_slug: legally-blonde
   letterboxd_rating: 3.84
+  genres:
+    - Comedy
 
 - id: wild
   tmdb_id: 228970
@@ -42,6 +47,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZTJlNTQ5NDUtOTVkNi00ODA5LTkyMjktMzM5YTU4N2Y5YzVlXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: wild
   letterboxd_rating: 3.64
+  genres:
+    - Drama
 
 - id: pleasantville
   tmdb_id: 2657
@@ -60,6 +67,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYmM4ZThmNzAtYzRmNi00ZjZmLThhYjAtYjU2YTcwMmY3MzRmXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: pleasantville
   letterboxd_rating: 3.71
+  genres:
+    - Comedy
+    - Fantasy
+    - Drama
 
 - id: sweet-home-alabama
   tmdb_id: 11529
@@ -73,6 +84,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjEwMjIwMDQ4OV5BMl5BanBnXkFtZTYwNzc3OTY3._V1_SX300.jpg
   letterboxd_slug: sweet-home-alabama
   letterboxd_rating: 2.83
+  genres:
+    - Comedy
+    - Romance
 
 - id: cruel-intentions
   tmdb_id: 796
@@ -86,3 +100,6 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjgyYmVjNWYtZTNjOS00YjEyLWI0MjEtMDgwYWI2YzZiMTFkXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: cruel-intentions
   letterboxd_rating: 3.26
+  genres:
+    - Romance
+    - Drama

@@ -11,6 +11,8 @@
   letterboxd_slug: the-jerk
   poster_url: https://a.ltrbxd.com/resized/sm/upload/nb/b0/r1/vy/the-jerk-1200-1200-675-675-crop-000000.jpg?v=3eea2e9dca
   letterboxd_rating: 3.54
+  genres:
+    - Comedy
 
 - id: roxanne
   tmdb_id: 11584
@@ -23,6 +25,9 @@
   letterboxd_slug: roxanne
   poster_url: https://a.ltrbxd.com/resized/sm/upload/os/2m/ez/y5/rozanne-1200-1200-675-675-crop-000000.jpg?v=d692361a34
   letterboxd_rating: 3.28
+  genres:
+    - Romance
+    - Comedy
 
 - id: three-amigos
   tmdb_id: 8388
@@ -35,6 +40,10 @@
   letterboxd_slug: three-amigos
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ve/gz/bw/g0/three-amigos-1200-1200-675-675-crop-000000.jpg?v=f32711486c
   letterboxd_rating: 3.28
+  genres:
+    - Western
+    - Comedy
+    - Action
 
 - id: father-of-the-bride
   tmdb_id: 11846
@@ -47,6 +56,9 @@
   letterboxd_slug: father-of-the-bride-1991
   poster_url: https://a.ltrbxd.com/resized/sm/upload/c3/ci/9s/j6/father-of-the-bride-1200-1200-675-675-crop-000000.jpg?v=c5da1611b6
   letterboxd_rating: 3.41
+  genres:
+    - Romance
+    - Comedy
 
 - id: planes-trains-and-automobiles
   tmdb_id: 2609
@@ -64,3 +76,5 @@
   letterboxd_slug: planes-trains-and-automobiles
   poster_url: https://a.ltrbxd.com/resized/sm/upload/or/9w/t2/zr/planes-1200-1200-675-675-crop-000000.jpg?v=1a2e7a6a57
   letterboxd_rating: 3.77
+  genres:
+    - Comedy

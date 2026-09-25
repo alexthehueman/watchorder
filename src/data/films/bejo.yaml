@@ -18,6 +18,9 @@
   letterboxd_slug: the-past
   poster_url: https://a.ltrbxd.com/resized/sm/upload/kp/s8/3s/rf/the-past-1200-1200-675-675-crop-000000.jpg?v=5e73a80e79
   letterboxd_rating: 3.86
+  genres:
+    - Drama
+    - Mystery
 
 - id: asterix-at-the-olympic-games
   tmdb_id: 2395
@@ -30,6 +33,11 @@
   letterboxd_slug: asterix-at-the-olympic-games
   poster_url: https://a.ltrbxd.com/resized/sm/upload/oz/hp/p1/c3/asterix-1200-1200-675-675-crop-000000.jpg?v=5c47093822
   letterboxd_rating: 2.68
+  genres:
+    - Adventure
+    - Fantasy
+    - Family
+    - Comedy
 
 - id: the-search-2014
   tmdb_id: 245692
@@ -42,3 +50,5 @@
   letterboxd_slug: the-search-2014
   poster_url: https://a.ltrbxd.com/resized/sm/upload/k9/kd/m3/y9/the-search-1200-1200-675-675-crop-000000.jpg?v=fcf2849cc5
   letterboxd_rating: 3.34
+  genres:
+    - Drama

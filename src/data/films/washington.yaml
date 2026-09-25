@@ -13,6 +13,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BOTA1NDcyOGMtYTc0Zi00OTQ0LTllZTEtMTIxZDcxMWYxZTVhXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: glory
   letterboxd_rating: 3.79
+  genres:
+    - History
+    - War
+    - Drama
 
 - id: malcolm-x
   tmdb_id: 1883
@@ -31,6 +35,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYTQwYjFhNTMtMjliOC00MGJhLTkwYWMtYjQzZTRiYjRlNjE4XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: malcolm-x-1992
   letterboxd_rating: 4.3
+  genres:
+    - History
+    - Drama
 
 - id: philadelphia
   tmdb_id: 9800
@@ -44,6 +51,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYzEzZmMwMmMtNDgxYi00YTAwLWFkMjQtOGQzNmUxMGU1YWYwXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: philadelphia
   letterboxd_rating: 3.96
+  genres:
+    - Drama
 
 - id: remember-the-titans
   tmdb_id: 10637
@@ -57,6 +66,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZWY0NzgxMWQtMjM4NC00MjRiLWE0YjctYTFiNjA2NTNkZGY1XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: remember-the-titans
   letterboxd_rating: 3.92
+  genres:
+    - Drama
 
 - id: training-day
   tmdb_id: 2034
@@ -70,6 +81,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjRlNjUwOGYtNGQxZS00ZjhkLTg0NDgtYjcwNzZlNDU2YjBlXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg
   letterboxd_slug: training-day
   letterboxd_rating: 4.06
+  genres:
+    - Crime
+    - Action
+    - Drama
 
 - id: man-on-fire
   tmdb_id: 9509
@@ -83,6 +98,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMGMzNjg3ZDgtOGNlNy00NTdjLWI2NDEtMjI1MmEwMTBmMjMxXkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg
   letterboxd_slug: man-on-fire-2004
   letterboxd_rating: 3.78
+  genres:
+    - Drama
+    - Action
+    - Thriller
 
 - id: inside-man
   tmdb_id: 388
@@ -96,6 +115,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZWFmMDZkYjktMjYyOS00MTM2LTg2MmQtOTUwMzJjMDlhZDY1XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: inside-man
   letterboxd_rating: 3.71
+  genres:
+    - Crime
+    - Drama
+    - Thriller
 
 - id: american-gangster
   tmdb_id: 4982
@@ -109,6 +132,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZGExM2MwNjUtNThkNi00ZjBmLWJhZDgtN2ZmOWJiZWEwNGMxXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: american-gangster
   letterboxd_rating: 3.96
+  genres:
+    - Crime
+    - Drama
 
 - id: fences
   tmdb_id: 393457
@@ -122,3 +148,5 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BOTg0Nzc1NjA0MV5BMl5BanBnXkFtZTgwNTcyNDQ0MDI@._V1_SX300.jpg
   letterboxd_slug: fences-2016
   letterboxd_rating: 3.65
+  genres:
+    - Drama

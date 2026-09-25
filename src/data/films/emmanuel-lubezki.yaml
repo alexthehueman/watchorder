@@ -14,6 +14,9 @@
   letterboxd_slug: like-water-for-chocolate
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ke/f8/re/hm/like%20water-1200-1200-675-675-crop-000000.jpg?v=823a3d5773
   letterboxd_rating: 3.41
+  genres:
+    - Drama
+    - Romance
 
 - id: mixed-nuts
   tmdb_id: 24070
@@ -26,6 +29,10 @@
   letterboxd_slug: mixed-nuts
   poster_url: https://a.ltrbxd.com/resized/sm/upload/l6/yn/jb/z5/mixed-1200-1200-675-675-crop-000000.jpg?v=98b85b813c
   letterboxd_rating: 2.64
+  genres:
+    - Romance
+    - Drama
+    - Comedy
 
 - id: a-little-princess
   tmdb_id: 19101
@@ -38,6 +45,10 @@
   letterboxd_slug: a-little-princess-1995
   poster_url: https://a.ltrbxd.com/resized/sm/upload/vq/qx/6n/lz/a-little-princess-1200-1200-675-675-crop-000000.jpg?v=a85b108878
   letterboxd_rating: 3.85
+  genres:
+    - Fantasy
+    - Family
+    - Drama
 
 - id: great-expectations-1998
   tmdb_id: 9410
@@ -50,6 +61,10 @@
   letterboxd_slug: great-expectations-1998
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ge/a7/ey/ki/great-expectations_KFvGbY-1200-1200-675-675-crop-000000.jpg?v=446f85dce8
   letterboxd_rating: 3.16
+  genres:
+    - Drama
+    - Romance
+    - Comedy
 
 - id: the-cat-in-the-hat
   tmdb_id: 10588
@@ -62,6 +77,11 @@
   letterboxd_slug: the-cat-in-the-hat-2003
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ks/av/ai/3d/the-cat-in-the-hat-1200-1200-675-675-crop-000000.jpg?v=e6acfb429d
   letterboxd_rating: 2.83
+  genres:
+    - Comedy
+    - Family
+    - Adventure
+    - Fantasy
 
 - id: lemony-snickets-a-series-of-unfortunate-events
   tmdb_id: 11774
@@ -74,6 +94,10 @@
   letterboxd_slug: lemony-snickets-a-series-of-unfortunate-events
   poster_url: https://a.ltrbxd.com/resized/sm/upload/67/pg/7i/kd/rOUj4BXAoFqhg3kWhQOAaTa5IBh-1200-1200-675-675-crop-000000.jpg?v=8a06633565
   letterboxd_rating: 3.4
+  genres:
+    - Adventure
+    - Family
+    - Comedy
 
 - id: last-days-in-the-desert
   tmdb_id: 310119
@@ -90,3 +114,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: last-days-in-the-desert
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ca/tj/ol/l8/last-days-in-the-desert-1200-1200-675-675-crop-000000.jpg?v=19a8eeca04
+  genres:
+    - History
+    - Adventure
+    - Drama

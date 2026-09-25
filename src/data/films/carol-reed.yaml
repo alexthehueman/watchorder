@@ -17,6 +17,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: odd-man-out
   poster_url: https://a.ltrbxd.com/resized/sm/upload/6l/el/v9/sp/odd%20man%20out-1200-1200-675-675-crop-000000.jpg?v=4a02dcd958
+  genres:
+    - Thriller
+    - Crime
+    - Drama
 
 - id: the-fallen-idol
   tmdb_id: 40099
@@ -28,3 +32,6 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: the-fallen-idol
   poster_url: https://a.ltrbxd.com/resized/sm/upload/vs/ly/to/uc/the-fallen-idol-1200-1200-675-675-crop-000000.jpg?v=6d94f4d53c
+  genres:
+    - Thriller
+    - Drama

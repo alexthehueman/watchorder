@@ -17,6 +17,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BOWQ5MzFkMjgtMzBhYi00ZDg0LTg5N2YtZmRmMDk3MzA4NTUyXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: no-regrets-for-our-youth
   letterboxd_rating: 3.59
+  genres:
+    - Drama
 
 - id: late-spring
   tmdb_id: 20530
@@ -30,6 +32,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BOTAxZjZhOTctY2E1Yi00MTFmLWEzOWEtZGNhYzkwNjdiZTYyXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: late-spring
   letterboxd_rating: 4.32
+  genres:
+    - Drama
 
 - id: repast
   tmdb_id: 47184
@@ -43,6 +47,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTQ3ODJjNTYtZjg5ZS00MWNjLWJjZGMtN2U0MTI0ODJkMmE1XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: repast
   letterboxd_rating: 3.87
+  genres:
+    - Drama
 
 - id: early-summer
   tmdb_id: 50247
@@ -56,6 +62,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMGY0MDM0NzQtMDQ1MS00MjU2LTlkZWItOTUyODg3NzRlNDA0XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: early-summer
   letterboxd_rating: 4.2
+  genres:
+    - Drama
 
 - id: tokyo-story
   tmdb_id: 18148
@@ -69,6 +77,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BODdkNzcxZjItMDU2Yy00Y2JlLWFkYTQtNzIwM2Q4MWU5MTU2XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: tokyo-story
   letterboxd_rating: 4.43
+  genres:
+    - Drama
 
 - id: sound-of-the-mountain
   tmdb_id: 46492
@@ -82,6 +92,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYjQ1MDE3OGMtNzI4My00ZjE4LWE5ZDQtYTllMmU1NzZjM2Y1XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: sound-of-the-mountain
   letterboxd_rating: 4.03
+  genres:
+    - Drama
 
 - id: tokyo-twilight
   tmdb_id: 55192
@@ -95,6 +107,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYzk2YjcwODktOTc1ZS00YmU4LThlMTMtNDJhNmY5YWNhNTExXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: tokyo-twilight
   letterboxd_rating: 4.22
+  genres:
+    - Drama
 
 - id: late-autumn
   tmdb_id: 21967
@@ -108,6 +122,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BOGJiN2M3NDktMDIzNS00NWQ2LWJiODUtNjg3ZTVmMzIxYTQ2XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: late-autumn
   letterboxd_rating: 4.11
+  genres:
+    - Drama
+    - Comedy
 
 - id: the-end-of-summer
   tmdb_id: 28273
@@ -121,3 +138,5 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMGVjYzhiMGUtY2E1Zi00Yjg2LTljZjUtZTU5ZWUwNGE3ZGE4XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-end-of-summer
   letterboxd_rating: 3.96
+  genres:
+    - Drama

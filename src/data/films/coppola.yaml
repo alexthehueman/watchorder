@@ -20,6 +20,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNTZiZWFlN2YtOTNhYy00OWVjLTgwZDEtY2M2ZGI5ZWVkMDYxXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-rain-people
   letterboxd_rating: 3.58
+  genres:
+    - Drama
 
 - id: one-from-the-heart
   tmdb_id: 41291
@@ -38,6 +40,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BOTliZGU4Y2YtZjI2NS00YzdhLTljNTItZjk5ODUzODUzODU5XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: one-from-the-heart
   letterboxd_rating: 3.59
+  genres:
+    - Drama
+    - Romance
 
 - id: the-outsiders
   tmdb_id: 227
@@ -51,6 +56,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BODlmMzZjZDEtOTUwOS00OTAwLTg2YzAtYTA4ZTk3ZWNjMTgxXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-outsiders
   letterboxd_rating: 3.72
+  genres:
+    - Drama
+    - Crime
 
 - id: rumble-fish
   tmdb_id: 232
@@ -69,6 +77,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNDUyMDdmYmMtYjE2Ni00MGE0LWJkNjQtYjQwMTMyMjhkMmE5XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: rumble-fish
   letterboxd_rating: 3.8
+  genres:
+    - Romance
+    - Crime
+    - Drama
 
 - id: peggy-sue-got-married
   tmdb_id: 10013
@@ -82,6 +94,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMDJjZjM5MDEtMjM3My00ODgwLWE5YTItMGZlMGQ1N2ZjNDc1XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: peggy-sue-got-married
   letterboxd_rating: 3.32
+  genres:
+    - Comedy
+    - Fantasy
+    - Drama
 
 - id: the-godfather-part-iii
   tmdb_id: 242
@@ -95,6 +111,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMDVjODgzNTEtNjBiNS00ODBjLWEwZjUtMDljZTFhOTA4M2MxXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg
   letterboxd_slug: the-godfather-part-iii
   letterboxd_rating: 3.5
+  genres:
+    - Drama
+    - Thriller
+    - Crime
 
 - id: bram-stokers-dracula
   tmdb_id: 6114
@@ -108,3 +128,6 @@
   letterboxd_slug: bram-stokers-dracula
   poster_url: https://a.ltrbxd.com/resized/sm/upload/7e/zz/n5/ll/dracula-1200-1200-675-675-crop-000000.jpg?v=36c312331a
   letterboxd_rating: 3.74
+  genres:
+    - Horror
+    - Romance

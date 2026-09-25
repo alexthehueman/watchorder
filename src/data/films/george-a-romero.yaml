@@ -10,6 +10,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
   letterboxd_slug: night-of-the-living-dead
   poster_url: https://a.ltrbxd.com/resized/sm/upload/j1/z4/q2/vi/bhgMBDnjG9tIVE3RNCD9YeNJHq5-1200-1200-675-675-crop-000000.jpg?v=42c7601897
+  genres:
+    - Science Fiction
+    - Thriller
+    - Horror
 
 - id: the-crazies
   tmdb_id: 29425
@@ -21,6 +25,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   letterboxd_slug: the-crazies
   poster_url: https://a.ltrbxd.com/resized/sm/upload/72/tk/of/fm/byNbt1k3BVW78a5XCQRzwVoVEY6-1200-1200-675-675-crop-000000.jpg?v=6cfe96f346
+  genres:
+    - Horror
+    - Science Fiction
+    - Action
 
 - id: martin
   tmdb_id: 26517
@@ -37,6 +45,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
   letterboxd_slug: martin
   poster_url: https://a.ltrbxd.com/resized/sm/upload/7f/8s/uo/7v/lv7lgaoaDmIbh3cLeQF6EQHffk6-1200-1200-675-675-crop-000000.jpg?v=e25b37f5e1
+  genres:
+    - Drama
+    - Horror
 
 - id: dawn-of-the-dead
   tmdb_id: 923
@@ -48,6 +59,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   letterboxd_slug: dawn-of-the-dead
   poster_url: https://a.ltrbxd.com/resized/sm/upload/cr/1m/vv/xa/dawn%20of%20the%20dead-1200-1200-675-675-crop-000000.jpg?v=4e18133106
+  genres:
+    - Horror
+    - Science Fiction
 
 - id: day-of-the-dead
   tmdb_id: 8408
@@ -59,3 +73,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   letterboxd_slug: day-of-the-dead
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ay/8o/ex/l3/day-of-the-dead-1200-1200-675-675-crop-000000.jpg?v=2db5b8f6f6
+  genres:
+    - Mystery
+    - Drama
+    - Horror

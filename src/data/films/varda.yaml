@@ -16,6 +16,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNWFjMmMzNGYtOGRhNi00MjE5LTg4MDEtYjExYTVhMjcyZDQwXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: la-pointe-courte
   letterboxd_rating: 3.7
+  genres:
+    - Romance
+    - Drama
 
 - id: cleo-from-5-to-7
   tmdb_id: 499
@@ -28,6 +31,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYjVhMzAyY2YtMmNmMS00YzQ0LTllM2EtNWJjNDhiODNmNjBjXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: cleo-from-5-to-7
   letterboxd_rating: 4.18
+  genres:
+    - Drama
 
 - id: le-bonheur
   tmdb_id: 53023
@@ -45,6 +50,9 @@
   letterboxd_slug: happiness-1965
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ux/ml/qd/4h/lebonheur-1200-1200-675-675-crop-000000.jpg?v=7df51f664d
   letterboxd_rating: 4.15
+  genres:
+    - Drama
+    - Romance
 
 - id: lions-love
   tmdb_id: 63320
@@ -56,6 +64,8 @@
   poster_url: https://a.ltrbxd.com/resized/sm/upload/no/3r/hj/52/lions%20love-1200-1200-675-675-crop-000000.jpg?v=9fffb9da0d
   letterboxd_slug: lions-love
   letterboxd_rating: 3.38
+  genres:
+    - Comedy
 
 - id: one-sings-the-other-doesnt
   tmdb_id: 63318
@@ -68,6 +78,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BOWQzYTNiNTAtNjQ4NS00OTNmLTkxYTUtNGE0MzYxYjFkYTkzXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: one-sings-the-other-doesnt
   letterboxd_rating: 4.13
+  genres:
+    - Music
+    - Drama
 
 - id: vagabond
   tmdb_id: 44018
@@ -80,6 +93,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZTY2NTQwNjMtYmQ4OS00M2MwLTk1MGEtYzMyNTBlMzIyY2QyXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: vagabond
   letterboxd_rating: 4.11
+  genres:
+    - Drama
 
 - id: jane-b-par-agnes-v
   tmdb_id: 53028
@@ -92,6 +107,9 @@
   letterboxd_slug: jane-b-by-agnes-v
   poster_url: https://a.ltrbxd.com/resized/sm/upload/92/sa/te/1w/janeb-1200-1200-675-675-crop-000000.jpg?v=595ad8f5b3
   letterboxd_rating: 4
+  genres:
+    - Fantasy
+    - Documentary
 
 - id: jacquot-de-nantes
   tmdb_id: 41789
@@ -103,6 +121,8 @@
   poster_url: https://a.ltrbxd.com/resized/sm/upload/m4/28/ol/ym/jacquot-1200-1200-675-675-crop-000000.jpg?v=459d787600
   letterboxd_slug: jacquot-de-nantes
   letterboxd_rating: 4.16
+  genres:
+    - Drama
 
 - id: the-gleaners-and-i
   tmdb_id: 44379
@@ -114,6 +134,8 @@
   poster_url: https://a.ltrbxd.com/resized/sm/upload/mc/34/qa/38/gleaners-1200-1200-675-675-crop-000000.jpg?v=5ae6056b26
   letterboxd_slug: the-gleaners-and-i
   letterboxd_rating: 4.26
+  genres:
+    - Documentary
 
 - id: the-beaches-of-agnes
   tmdb_id: 38879
@@ -126,6 +148,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjEwOTMwNjM1MF5BMl5BanBnXkFtZTcwNDQ0OTk2Mg@@._V1_SX300.jpg
   letterboxd_slug: the-beaches-of-agnes
   letterboxd_rating: 4.32
+  genres:
+    - Documentary
 
 - id: faces-places
   tmdb_id: 451995
@@ -143,6 +167,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BY2IzNWExMGQtZTNkNC00Y2ZjLWI5MjctMDQ0MDEwZDU3Nzg1XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: faces-places
   letterboxd_rating: 4.14
+  genres:
+    - Documentary
 
 - id: varda-by-agnes
   tmdb_id: 554967
@@ -154,3 +180,5 @@
   poster_url: https://a.ltrbxd.com/resized/sm/upload/3i/pl/nb/wo/varda-by-agnes-1200-1200-675-675-crop-000000.jpg?v=836469eabe
   letterboxd_slug: varda-by-agnes
   letterboxd_rating: 4.06
+  genres:
+    - Documentary

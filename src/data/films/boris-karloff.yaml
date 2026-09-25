@@ -11,6 +11,10 @@
   letterboxd_slug: frankenstein-1931
   poster_url: https://a.ltrbxd.com/resized/sm/upload/oi/pa/7p/a6/frankenstein-1200-1200-675-675-crop-000000.jpg?v=d83a8df273
   letterboxd_rating: 3.77
+  genres:
+    - Science Fiction
+    - Drama
+    - Horror
 
 - id: bride-of-frankenstein
   tmdb_id: 229
@@ -23,6 +27,9 @@
   letterboxd_slug: bride-of-frankenstein
   poster_url: https://a.ltrbxd.com/resized/sm/upload/t0/wc/5d/86/the-bride-of-frankenstein-1200-1200-675-675-crop-000000.jpg?v=7de4e4ecd3
   letterboxd_rating: 3.96
+  genres:
+    - Science Fiction
+    - Horror
 
 - id: the-mummy-1932
   tmdb_id: 15849
@@ -40,6 +47,9 @@
   letterboxd_slug: the-mummy
   poster_url: https://a.ltrbxd.com/resized/sm/upload/dz/jh/j7/vb/the-mummy-1200-1200-675-675-crop-000000.jpg?v=cbd21f3c05
   letterboxd_rating: 3.27
+  genres:
+    - Horror
+    - Fantasy
 
 - id: the-black-cat
   tmdb_id: 24106
@@ -57,3 +67,6 @@
   letterboxd_slug: the-black-cat
   poster_url: https://a.ltrbxd.com/resized/sm/upload/r9/8g/bq/z9/black%20cat-1200-1200-675-675-crop-000000.jpg?v=e58ee383d3
   letterboxd_rating: 3.55
+  genres:
+    - Horror
+    - Thriller

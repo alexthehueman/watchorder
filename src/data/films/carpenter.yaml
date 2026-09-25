@@ -27,6 +27,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTE2N2Y2NDctNGFhYi00ZDA4LThkMzktMWUxOTJiMGJkYWNkXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: dark-star
   letterboxd_rating: 3.09
+  genres:
+    - Comedy
+    - Science Fiction
 
 - id: assault-on-precinct-13
   tmdb_id: 17814
@@ -50,6 +53,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjUzZmI1YjUtMDlhOS00MGQ1LTgxZWYtOWFhZGE0NTIyNWZlXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: assault-on-precinct-13
   letterboxd_rating: 3.82
+  genres:
+    - Crime
+    - Action
+    - Thriller
 
 - id: halloween
   tmdb_id: 948
@@ -73,6 +80,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMzZiNTdiYTgtYjNkMS00MmJmLWEwZGQtNmY0NGJkMGE0YmYzXkEyXkFqcGc@._V1_QL75_UX380_CR0,9,380,562_.jpg
   letterboxd_slug: halloween-1978
   letterboxd_rating: 3.76
+  genres:
+    - Thriller
+    - Horror
 
 - id: the-fog
   tmdb_id: 790
@@ -96,6 +106,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYWVlMmM5YmMtZGJkYy00ODgxLTgyNTctYzM2MTYwZDRkYTJmXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-fog
   letterboxd_rating: 3.46
+  genres:
+    - Horror
 
 - id: escape-from-new-york
   tmdb_id: 1103
@@ -119,6 +131,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTUzMTY0Nzg0MV5BMl5BanBnXkFtZTgwMDU3MzQxMDE@._V1_SX300.jpg
   letterboxd_slug: escape-from-new-york
   letterboxd_rating: 3.63
+  genres:
+    - Action
+    - Science Fiction
+    - Thriller
 
 - id: the-thing
   tmdb_id: 1091
@@ -142,6 +158,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYTA3NDU5MWEtNTk4Yy00ZDNkLThmZTQtMjU3ZGVhYzAyMzU4XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-thing
   letterboxd_rating: 4.35
+  genres:
+    - Mystery
+    - Science Fiction
+    - Horror
 
 - id: christine
   tmdb_id: 8769
@@ -165,6 +185,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYTQxZjlhNzUtMGJkMS00ODMwLWI0NzMtZGZiYzRmODE5ODI2XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: christine-1983
   letterboxd_rating: 3.51
+  genres:
+    - Horror
 
 - id: starman
   tmdb_id: 9663
@@ -188,6 +210,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZDIyZjNkODEtMDNlZS00N2Q1LTgxMjctZjczNzkzZjg0ZThlXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: starman
   letterboxd_rating: 3.61
+  genres:
+    - Drama
+    - Romance
+    - Science Fiction
 
 - id: big-trouble-in-little-china
   tmdb_id: 6978
@@ -211,6 +237,11 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYWNjZDQyMjUtZDEzZC00OThhLTg1NWItOTQ1MWI3ODBlODcyXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: big-trouble-in-little-china
   letterboxd_rating: 3.71
+  genres:
+    - Comedy
+    - Adventure
+    - Fantasy
+    - Action
 
 - id: prince-of-darkness
   tmdb_id: 8852
@@ -234,6 +265,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNDYwOThiMDgtMjMyNC00ODY2LTkwNDMtZjJlNWJiN2IyNDliXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: prince-of-darkness
   letterboxd_rating: 3.58
+  genres:
+    - Horror
 
 - id: they-live
   tmdb_id: 8337
@@ -257,6 +290,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTQ3MjM3ODU1NV5BMl5BanBnXkFtZTgwMjU3NDU2MTE@._V1_SX300.jpg
   letterboxd_slug: they-live
   letterboxd_rating: 3.75
+  genres:
+    - Thriller
+    - Action
+    - Science Fiction
 
 - id: memoirs-of-an-invisible-man
   tmdb_id: 2687
@@ -280,6 +317,11 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjBiMTQyYWUtMGU2OS00OTlhLWJlODQtYTc3NTlmNmM4YmY0XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: memoirs-of-an-invisible-man
   letterboxd_rating: 2.87
+  genres:
+    - Thriller
+    - Comedy
+    - Romance
+    - Science Fiction
 
 - id: in-the-mouth-of-madness
   tmdb_id: 2654
@@ -303,6 +345,12 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMmE2OTY3MWMtNTY5ZS00MGFhLWFhYzAtZWQ3MGMyY2M5MDRjXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: in-the-mouth-of-madness
   letterboxd_rating: 3.81
+  genres:
+    - Fantasy
+    - Mystery
+    - Horror
+    - Thriller
+    - Drama
 
 - id: escape-from-la
   tmdb_id: 10061
@@ -326,3 +374,7 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNzM0NjI1MjItYzYwNS00YTQzLThlOGMtMmFkZTIyN2MxNGUyXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: escape-from-la
   letterboxd_rating: 3
+  genres:
+    - Thriller
+    - Action
+    - Science Fiction

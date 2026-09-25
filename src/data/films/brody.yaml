@@ -25,6 +25,9 @@
   letterboxd_slug: the-pianist
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ej/w9/nb/z9/the-pianist-1200-1200-675-675-crop-000000.jpg?v=2f6a85aa12
   letterboxd_rating: 4.41
+  genres:
+    - War
+    - Drama
 
 - id: detachment
   tmdb_id: 74308
@@ -37,6 +40,8 @@
   letterboxd_slug: detachment
   poster_url: https://a.ltrbxd.com/resized/sm/upload/st/gb/km/xc/detachment-110-1200-1200-675-675-crop-000000.jpg?v=ba6f4edadf
   letterboxd_rating: 3.91
+  genres:
+    - Drama
 
 - id: new-york-stories
   tmdb_id: 9686

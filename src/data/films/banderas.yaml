@@ -14,6 +14,9 @@
   letterboxd_slug: the-mask-of-zorro
   poster_url: https://a.ltrbxd.com/resized/sm/upload/zx/i4/fz/dd/mask-1200-1200-675-675-crop-000000.jpg?v=f0f382c572
   letterboxd_rating: 3.47
+  genres:
+    - Action
+    - Adventure
 
 - id: pain-and-glory
   tmdb_id: 519010
@@ -31,6 +34,8 @@
   letterboxd_slug: pain-and-glory
   poster_url: https://a.ltrbxd.com/resized/sm/upload/3q/ik/8l/vu/pain-glory-1200-1200-675-675-crop-000000.jpg?v=9f7aa45bbb
   letterboxd_rating: 4.06
+  genres:
+    - Drama
 
 - id: puss-in-boots
   tmdb_id: 417859
@@ -43,3 +48,9 @@
   letterboxd_slug: puss-in-boots
   poster_url: https://a.ltrbxd.com/resized/sm/upload/mx/sd/xa/19/puss-in-boots-1200-1200-675-675-crop-000000.jpg?v=916ec71885
   letterboxd_rating: 3.3
+  genres:
+    - Adventure
+    - Action
+    - Animation
+    - Comedy
+    - Family

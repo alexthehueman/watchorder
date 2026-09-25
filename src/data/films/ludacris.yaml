@@ -20,6 +20,10 @@
   letterboxd_slug: gamer
   poster_url: https://a.ltrbxd.com/resized/sm/upload/l3/ks/3l/nu/gamer-1200-1200-675-675-crop-000000.jpg?v=4ca71f2239
   letterboxd_rating: 2.44
+  genres:
+    - Thriller
+    - Action
+    - Science Fiction
 
 - id: no-good-deed
   tmdb_id: 136835
@@ -32,3 +36,6 @@
   letterboxd_slug: no-good-deed-2014
   poster_url: https://a.ltrbxd.com/resized/sm/upload/5h/4z/vz/n6/no-good-deed-1200-1200-675-675-crop-000000.jpg?v=bde20b8d96
   letterboxd_rating: 2.55
+  genres:
+    - Thriller
+    - Crime

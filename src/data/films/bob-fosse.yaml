@@ -17,6 +17,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 2 }
   letterboxd_slug: cabaret
   poster_url: https://a.ltrbxd.com/resized/sm/upload/de/el/4b/6h/cabaret-1200-1200-675-675-crop-000000.jpg?v=4add71ec43
+  genres:
+    - Romance
+    - Drama
+    - Music
 
 - id: all-that-jazz
   tmdb_id: 12103
@@ -28,6 +32,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   letterboxd_slug: all-that-jazz
   poster_url: https://a.ltrbxd.com/resized/sm/upload/dw/wn/6a/0j/all-that-jazz-1200-1200-675-675-crop-000000.jpg?v=1d03d309eb
+  genres:
+    - Music
+    - Drama
 
 - id: lenny
   tmdb_id: 12105
@@ -39,3 +46,5 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   letterboxd_slug: lenny
   poster_url: https://a.ltrbxd.com/resized/sm/upload/hl/9w/vj/s7/lenny-1200-1200-675-675-crop-000000.jpg?v=a0e673ada2
+  genres:
+    - Drama

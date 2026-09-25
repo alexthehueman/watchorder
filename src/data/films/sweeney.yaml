@@ -11,6 +11,9 @@
   letterboxd_slug: anyone-but-you
   poster_url: https://a.ltrbxd.com/resized/sm/upload/y7/7z/xs/sk/anyone-1200-1200-675-675-crop-000000.jpg?v=347f277dcb
   letterboxd_rating: 2.82
+  genres:
+    - Romance
+    - Comedy
 
 - id: immaculate
   tmdb_id: 1041613
@@ -28,6 +31,10 @@
   letterboxd_slug: immaculate-2024
   poster_url: https://a.ltrbxd.com/resized/sm/upload/b6/i3/vx/zo/immaculate-1200-1200-675-675-crop-000000.jpg?v=4af8f05890
   letterboxd_rating: 2.88
+  genres:
+    - Mystery
+    - Thriller
+    - Horror
 
 - id: reality-2023
   tmdb_id: 985617
@@ -45,6 +52,9 @@
   letterboxd_slug: reality-2023
   poster_url: https://a.ltrbxd.com/resized/sm/upload/pu/91/ko/op/reality-1200-1200-675-675-crop-000000.jpg?v=4cf641d3de
   letterboxd_rating: 3.24
+  genres:
+    - Drama
+    - Thriller
 
 - id: the-voyeurs
   tmdb_id: 645710
@@ -57,6 +67,8 @@
   letterboxd_slug: the-voyeurs-2021
   poster_url: https://a.ltrbxd.com/resized/sm/upload/jz/d9/c6/f9/the-voyeurs-1200-1200-675-675-crop-000000.jpg?v=b092ca1b20
   letterboxd_rating: 2.67
+  genres:
+    - Thriller
 
 - id: madame-web
   tmdb_id: 634492
@@ -69,3 +81,6 @@
   letterboxd_slug: madame-web
   poster_url: https://a.ltrbxd.com/resized/sm/upload/2r/v9/d2/tg/madame%20web-1200-1200-675-675-crop-000000.jpg?v=8c5f410c79
   letterboxd_rating: 1.47
+  genres:
+    - Action
+    - Fantasy

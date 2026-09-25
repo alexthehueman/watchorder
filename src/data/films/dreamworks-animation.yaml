@@ -19,6 +19,11 @@
   letterboxd_slug: the-prince-of-egypt
   poster_url: https://a.ltrbxd.com/resized/sm/upload/6l/t4/zq/v7/the-prince-of-egypt-1200-1200-675-675-crop-000000.jpg?v=ceab5391f8
   letterboxd_rating: 4.09
+  genres:
+    - Adventure
+    - Family
+    - Animation
+    - Drama
 
 - id: antz
   tmdb_id: 8916
@@ -36,6 +41,10 @@
   letterboxd_slug: antz
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ft/nk/0x/ej/antz-1200-1200-675-675-crop-000000.jpg?v=f77433b328
   letterboxd_rating: 2.86
+  genres:
+    - Family
+    - Comedy
+    - Animation
 
 - id: shrek
   tmdb_id: 808
@@ -53,6 +62,12 @@
   letterboxd_slug: shrek
   poster_url: https://a.ltrbxd.com/resized/sm/upload/o9/yg/sp/gt/shrek-1200-1200-675-675-crop-000000.jpg?v=53e83d5bf2
   letterboxd_rating: 4.12
+  genres:
+    - Adventure
+    - Fantasy
+    - Family
+    - Animation
+    - Comedy
 
 - id: madagascar
   tmdb_id: 953
@@ -70,6 +85,11 @@
   letterboxd_slug: madagascar
   poster_url: https://a.ltrbxd.com/resized/sm/upload/5s/9u/c1/pv/madagascar-1200-1200-675-675-crop-000000.jpg?v=ab79d7685c
   letterboxd_rating: 3.63
+  genres:
+    - Family
+    - Comedy
+    - Animation
+    - Adventure
 
 - id: how-to-train-your-dragon
   tmdb_id: 10191
@@ -87,6 +107,11 @@
   letterboxd_slug: how-to-train-your-dragon
   poster_url: https://a.ltrbxd.com/resized/sm/upload/xm/yg/qr/pw/how-to-train-10-1200-1200-675-675-crop-000000.jpg?v=302fab52e6
   letterboxd_rating: 4.16
+  genres:
+    - Fantasy
+    - Family
+    - Adventure
+    - Animation
 
 - id: the-croods
   tmdb_id: 49519
@@ -104,6 +129,11 @@
   letterboxd_slug: the-croods
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ys/v5/54/ql/the-croods-1200-1200-675-675-crop-000000.jpg?v=614bf822e1
   letterboxd_rating: 3.19
+  genres:
+    - Adventure
+    - Family
+    - Comedy
+    - Animation
 
 - id: the-bad-guys
   tmdb_id: 629542
@@ -121,6 +151,13 @@
   letterboxd_slug: the-bad-guys-2022
   poster_url: https://a.ltrbxd.com/resized/sm/upload/87/py/j9/vb/bad%20guys-1200-1200-675-675-crop-000000.jpg?v=1f16e3fa48
   letterboxd_rating: 3.45
+  genres:
+    - Action
+    - Adventure
+    - Family
+    - Crime
+    - Animation
+    - Comedy
 
 - id: trolls
   tmdb_id: 136799
@@ -138,3 +175,9 @@
   letterboxd_slug: trolls
   poster_url: https://a.ltrbxd.com/resized/sm/upload/u6/kl/dz/ry/trolls-1200-1200-675-675-crop-000000.jpg?v=c25f4151e9
   letterboxd_rating: 2.86
+  genres:
+    - Fantasy
+    - Animation
+    - Comedy
+    - Family
+    - Adventure

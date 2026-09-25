@@ -13,6 +13,9 @@
   letterboxd_slug: snatched-2017
   poster_url: https://a.ltrbxd.com/resized/sm/upload/yt/uv/y2/vd/snatched-1200-1200-675-675-crop-000000.jpg?v=49883a68d1
   letterboxd_rating: 2.21
+  genres:
+    - Comedy
+    - Action
 
 - id: kinda-pregnant
   tmdb_id: 1212142
@@ -25,6 +28,9 @@
   letterboxd_slug: kinda-pregnant
   poster_url: https://a.ltrbxd.com/resized/alternative-backdrop/1/0/9/6/4/3/6/tmdb/8qSsnSbgosaCROnvcOzeXyWsxIp-1200-1200-675-675-crop-000000.jpg?v=abe6e3ea70
   letterboxd_rating: 1.87
+  genres:
+    - Romance
+    - Comedy
 
 - id: i-feel-pretty
   tmdb_id: 460668
@@ -42,3 +48,6 @@
   letterboxd_slug: i-feel-pretty
   poster_url: https://a.ltrbxd.com/resized/sm/upload/7r/9l/hk/4s/i-feel-pretty-1200-1200-675-675-crop-000000.jpg?v=94669e0a10
   letterboxd_rating: 2.47
+  genres:
+    - Comedy
+    - Romance

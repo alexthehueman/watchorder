@@ -26,6 +26,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BN2Q1YmQyNDgtY2M5Mi00NzQ0LThmNzAtNWIzZjllZjVmOTI2XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: as-tears-go-by
   letterboxd_rating: 3.61
+  genres:
+    - Drama
+    - Crime
+    - Romance
 
 - id: days-of-being-wild
   tmdb_id: 18311
@@ -49,6 +53,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTE0OGQxNmYtMTU0Mi00ZTc1LTk5OGUtZWY2NDIzNTQ0YjgyXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: days-of-being-wild
   letterboxd_rating: 3.82
+  genres:
+    - Drama
+    - Romance
+    - Crime
 
 - id: chungking-express
   tmdb_id: 11104
@@ -72,6 +80,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNDQ4ZmYxODctZDVlZC00OTcxLWJjOGItZjRlMzk4MDA1Yjg1XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: chungking-express
   letterboxd_rating: 4.27
+  genres:
+    - Comedy
+    - Drama
+    - Romance
 
 - id: ashes-of-time
   tmdb_id: 40751
@@ -95,6 +107,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTc0NzMxMjI0MV5BMl5BanBnXkFtZTcwNzIwNzM5MQ@@._V1_QL75_UY562_CR0,0,380,562_.jpg
   letterboxd_slug: ashes-of-time
   letterboxd_rating: 3.54
+  genres:
+    - Action
+    - Drama
 
 - id: fallen-angels
   tmdb_id: 11220
@@ -118,6 +133,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMWI3MDk4N2ItNzU2NS00Zjc5LWIxMDYtMGNmZmM2YzMzMDk3XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: fallen-angels
   letterboxd_rating: 4.16
+  genres:
+    - Crime
+    - Romance
+    - Action
 
 - id: happy-together
   tmdb_id: 18329
@@ -141,6 +160,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNzQ2YWYyMzUtMTAyZC00NDg1LWJjZmUtYWRjNzQxYzA4MWUwXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: happy-together-1997
   letterboxd_rating: 4.21
+  genres:
+    - Drama
+    - Romance
 
 - id: in-the-mood-for-love
   tmdb_id: 843
@@ -164,6 +186,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BN2Q4NjllMDgtOTk2Zi00YzM1LWJmOTMtNmRiZDgyZGJmMjQzXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: in-the-mood-for-love
   letterboxd_rating: 4.37
+  genres:
+    - Romance
+    - Drama
 
 - id: '2046'
   tmdb_id: 844
@@ -187,6 +212,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNGM2NTQyM2MtODAzMi00NWVjLTgwNWMtYjNkMjMxZmUwOTU3XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: "2046"
   letterboxd_rating: 4.05
+  genres:
+    - Science Fiction
+    - Drama
+    - Romance
 
 - id: my-blueberry-nights
   tmdb_id: 1989
@@ -210,6 +239,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjZkMGI3Y2YtMzEyOS00MjExLWI2YjktYzc0Y2FhMTkyMWMxXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: my-blueberry-nights
   letterboxd_rating: 3.26
+  genres:
+    - Drama
+    - Romance
 
 - id: the-grandmaster
   tmdb_id: 44865
@@ -233,3 +265,7 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZjYzYTcxMjYtZWNlYy00Y2UwLTg5MDYtZDZmNTExYmVjZjc4XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-grandmaster
   letterboxd_rating: 3.58
+  genres:
+    - History
+    - Action
+    - Drama

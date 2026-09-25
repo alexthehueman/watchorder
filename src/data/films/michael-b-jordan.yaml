@@ -12,6 +12,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTQ0OTU1MDkxMF5BMl5BanBnXkFtZTcwNjI5OTA3OQ@@._V1_SX300.jpg
   letterboxd_slug: fruitvale-station
   letterboxd_rating: 4
+  genres:
+    - Drama
 
 - id: creed
   tmdb_id: 312221
@@ -25,6 +27,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNWM3NjY2ZDctMGZiYy00OGFlLThkMTktOTY2MDM2YjE2OTliXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: creed
   letterboxd_rating: 3.83
+  genres:
+    - Drama
 
 - id: black-panther
   tmdb_id: 284054
@@ -38,6 +42,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTg1MTY2MjYzNV5BMl5BanBnXkFtZTgwMTc4NTMwNDI@._V1_QL75_UX380_CR0,0,380,562_.jpg
   letterboxd_slug: black-panther
   letterboxd_rating: 3.72
+  genres:
+    - Adventure
+    - Science Fiction
+    - Action
 
 - id: chronicle
   tmdb_id: 76726
@@ -56,6 +64,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMDBmYmExZDUtYWQxZS00MWI4LTkyZTQtYzIxNzg3NjJkZjZhXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: chronicle
   letterboxd_rating: 3.55
+  genres:
+    - Thriller
+    - Science Fiction
+    - Drama
 
 - id: that-awkward-moment
   tmdb_id: 225565
@@ -69,6 +81,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjExODEyMjMwNV5BMl5BanBnXkFtZTgwMTAyODM1MDE@._V1_SX300.jpg
   letterboxd_slug: that-awkward-moment
   letterboxd_rating: 2.73
+  genres:
+    - Comedy
+    - Romance
 
 - id: red-tails
   tmdb_id: 72431
@@ -82,6 +97,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNDViZGNhNmMtYWM2OS00ZjIzLTgyMTktNTM0Y2VkYzcwMDAwXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: red-tails
   letterboxd_rating: 2.88
+  genres:
+    - War
+    - Drama
+    - History
 
 - id: without-remorse
   tmdb_id: null
@@ -106,6 +125,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNmJmYmUyODctZDU2Mi00NDhlLWFmYWYtZDcxZmZhMzUxZTFhXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: just-mercy
   letterboxd_rating: 3.86
+  genres:
+    - Drama
+    - History
+    - Crime
 
 - id: fahrenheit-451-2018
   tmdb_id: 401905
@@ -124,3 +147,7 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYmY0YWQ1NjktYzkyOS00MTVhLTljZGUtZTc3MTE0ZTQyZjk2XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: fahrenheit-451-2018
   letterboxd_rating: 2.24
+  genres:
+    - Drama
+    - Thriller
+    - Science Fiction

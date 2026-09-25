@@ -12,6 +12,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNTdmZDY1ODQtNzFjYy00MGM4LWJmNDItN2MxMmQ2OTgxZGNmXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: a-streetcar-named-desire
   letterboxd_rating: 4.01
+  genres:
+    - Thriller
+    - Drama
 
 - id: viva-zapata
   tmdb_id: 1810
@@ -25,6 +28,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMDkxM2NkNDMtMTk5OS00N2UzLWJiZWUtZmRjZDJjMGMzZWU3XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: viva-zapata
   letterboxd_rating: 3.45
+  genres:
+    - Drama
+    - Western
+    - History
 
 - id: the-wild-one
   tmdb_id: 28696
@@ -38,6 +45,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNWM3NmRkM2UtMmYyOC00NzM0LTgyNTYtZmU0YmM4NDVlNWEwXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-wild-one
   letterboxd_rating: 3.3
+  genres:
+    - Romance
+    - Drama
+    - Crime
 
 - id: on-the-waterfront
   tmdb_id: 654
@@ -51,6 +62,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZDJlYTM1ZGYtZTM4YS00MzFhLThiZjktYzQ0ZjAzMGYwZTU3XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: on-the-waterfront
   letterboxd_rating: 4.16
+  genres:
+    - Romance
+    - Drama
+    - Crime
 
 - id: guys-and-dolls
   tmdb_id: 4825
@@ -69,6 +84,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZTkzNWE2Y2ItMmIxZC00MTA3LWJmOTItMjQ2OTMzZWYwMWI0XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: guys-and-dolls
   letterboxd_rating: 3.49
+  genres:
+    - Romance
+    - Comedy
+    - Crime
 
 - id: julius-caesar-1953
   tmdb_id: 18019
@@ -82,6 +101,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNTkyMTI0NTEtNmEzMi00ZWM5LTk4MjEtN2NkMjk5MWI5MmNjXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: julius-caesar
   letterboxd_rating: 3.62
+  genres:
+    - History
+    - Drama
 
 - id: the-godfather
   tmdb_id: 238
@@ -95,6 +117,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNGEwYjgwOGQtYjg5ZS00Njc1LTk2ZGEtM2QwZWQ2NjdhZTE5XkEyXkFqcGc@._V1_QL75_UY562_CR8,0,380,562_.jpg
   letterboxd_slug: the-godfather
   letterboxd_rating: 4.51
+  genres:
+    - Crime
+    - Drama
 
 - id: last-tango-in-paris
   tmdb_id: 1643
@@ -108,6 +133,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYjkwYjdhM2ItZmVkMi00M2Y2LWJmNjEtN2Y2ZGU3MjdmZjE0XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: last-tango-in-paris
   letterboxd_rating: 3.13
+  genres:
+    - Drama
+    - Romance
 
 - id: apocalypse-now
   tmdb_id: 28
@@ -121,6 +149,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZDhiMTljYjYtODc1Yy00MmEwLTg2OTYtYmE1YTRmNDE4MmEwXkEyXkFqcGc@._V1_QL75_UX380_CR0,11,380,562_.jpg
   letterboxd_slug: apocalypse-now
   letterboxd_rating: 4.43
+  genres:
+    - Drama
+    - War
 
 - id: superman-1978
   tmdb_id: 1924
@@ -134,3 +165,7 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMzFlZDJjMDAtZDYxZS00NzZhLTk2ODMtZWRlODA3Njk3ZTdmXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: superman
   letterboxd_rating: 3.73
+  genres:
+    - Action
+    - Adventure
+    - Science Fiction

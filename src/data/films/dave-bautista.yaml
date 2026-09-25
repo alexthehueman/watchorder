@@ -21,6 +21,10 @@
   letterboxd_slug: knock-at-the-cabin
   poster_url: https://a.ltrbxd.com/resized/sm/upload/kq/2d/li/6p/FB3A8FF5-B0E5-4B9F-B39E-9FEBAC122BD1-1200-1200-675-675-crop-000000.jpg?v=ca03e34de2
   letterboxd_rating: 2.86
+  genres:
+    - Mystery
+    - Horror
+    - Thriller
 
 - id: guardians-of-the-galaxy-vol-3
   tmdb_id: 447365
@@ -33,3 +37,7 @@
   letterboxd_slug: guardians-of-the-galaxy-vol-3
   poster_url: https://a.ltrbxd.com/resized/sm/upload/4c/6j/js/74/guardians%203-1200-1200-675-675-crop-000000.jpg?v=ab95c6f636
   letterboxd_rating: 3.99
+  genres:
+    - Action
+    - Science Fiction
+    - Adventure

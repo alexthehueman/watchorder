@@ -13,6 +13,9 @@
   letterboxd_slug: the-public-enemy
   poster_url: https://a.ltrbxd.com/resized/sm/upload/9y/ue/5i/sv/the-public-enemy-1200-1200-675-675-crop-000000.jpg?v=52921d783b
   letterboxd_rating: 3.72
+  genres:
+    - Drama
+    - Crime
 
 - id: waterloo-bridge-1931
   tmdb_id: 95797
@@ -25,6 +28,10 @@
   letterboxd_slug: waterloo-bridge-1931
   poster_url: https://a.ltrbxd.com/resized/sm/upload/1a/4d/cz/ua/22LO5yLJHr3f8UTq1cmA4rK5CS6-1200-1200-675-675-crop-000000.jpg?v=01fe6e740d
   letterboxd_rating: 3.53
+  genres:
+    - War
+    - Drama
+    - Romance
 
 - id: lady-killer
   tmdb_id: 43597
@@ -42,3 +49,6 @@
   letterboxd_slug: lady-killer
   poster_url: https://a.ltrbxd.com/resized/sm/upload/4s/qy/fs/kj/mqk4GxyxgGWkkm8zyfSQ5yW0OXG-1200-1200-675-675-crop-000000.jpg?v=ffb32fcd1b
   letterboxd_rating: 3.38
+  genres:
+    - Comedy
+    - Crime

@@ -18,6 +18,9 @@
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 1 }
   letterboxd_slug: amores-perros
   poster_url: https://a.ltrbxd.com/resized/sm/upload/c8/73/s2/zd/amores-1200-1200-675-675-crop-000000.jpg?v=414fdc6946
+  genres:
+    - Thriller
+    - Drama
 
 - id: babel
   tmdb_id: 1058
@@ -34,3 +37,5 @@
   content: { sexual_violence: false, animal_harm: true, child_harm: true, suicide: false, violence: 2, sex: 1 }
   letterboxd_slug: babel-2006
   poster_url: https://a.ltrbxd.com/resized/sm/upload/cv/nv/dm/so/babel2-1200-1200-675-675-crop-000000.jpg?v=debb032990
+  genres:
+    - Drama

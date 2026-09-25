@@ -10,6 +10,10 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: the-cranes-are-flying
   poster_url: https://a.ltrbxd.com/resized/sm/upload/77/b7/6i/xq/the-cranes-are-flying-1200-1200-675-675-crop-000000.jpg?v=87ced0f615
+  genres:
+    - Romance
+    - War
+    - Drama
 
 - id: letter-never-sent
   tmdb_id: 83539
@@ -26,6 +30,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: letter-never-sent
   poster_url: https://a.ltrbxd.com/resized/sm/upload/w5/m1/0a/wu/letter-1200-1200-675-675-crop-000000.jpg?v=991ea88ae3
+  genres:
+    - Adventure
+    - Drama
 
 - id: i-am-cuba
   tmdb_id: 32015
@@ -42,6 +49,8 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
   letterboxd_slug: i-am-cuba
   poster_url: https://a.ltrbxd.com/resized/sm/upload/pj/tf/dy/af/wFy2WSxIpa8CBvo2EZ3oW3wOxDJ-1200-1200-675-675-crop-000000.jpg?v=b375dcb5e5
+  genres:
+    - Drama
 
 - id: the-forty-first
   tmdb_id: 46741
@@ -58,3 +67,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
   letterboxd_slug: the-forty-first
   poster_url: https://a.ltrbxd.com/resized/sm/upload/6c/4z/xq/zl/5If6RAu3bukc476IoqiowLUKlGh-1200-1200-675-675-crop-000000.jpg?v=583fc126e8
+  genres:
+    - Drama
+    - War
+    - Romance

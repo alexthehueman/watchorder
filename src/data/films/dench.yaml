@@ -15,6 +15,11 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYmM3MTllNzYtN2MzNS00NWQwLTk0NTEtNjY1MmMwYjNkNTE5XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: shakespeare-in-love
   letterboxd_rating: 3.32
+  genres:
+    - Comedy
+    - Romance
+    - Drama
+    - History
 
 - id: goldeneye
   tmdb_id: 710
@@ -28,6 +33,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BOGQxNmYyY2YtZGIyNy00ODgxLThhZWEtZGIyNjJhYzFlOTllXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: goldeneye
   letterboxd_rating: 3.58
+  genres:
+    - Action
+    - Adventure
+    - Thriller
 
 - id: mrs-brown
   tmdb_id: 17589
@@ -41,6 +50,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNDU0ZTYzNDYtYTI5Ni00MDVlLTkwZWItZGQ2MjhjNzU2NmRhXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: mrs-brown
   letterboxd_rating: 3.47
+  genres:
+    - Romance
+    - History
+    - Drama
 
 - id: iris
   tmdb_id: 11889
@@ -54,6 +67,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BY2M5ZWFiYWYtZGE5NC00MGMzLTkwMTQtOTE4MjIwMjEwZTNjXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: iris
   letterboxd_rating: 3.37
+  genres:
+    - Romance
+    - Drama
 
 - id: tea-with-mussolini
   tmdb_id: 10368
@@ -67,6 +83,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZmEzMTQxOWUtYTY4NS00YjVkLTlmMzYtNmM2MzQxMzg2ZTlhXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: tea-with-mussolini
   letterboxd_rating: 3.34
+  genres:
+    - Drama
+    - Comedy
+    - War
 
 - id: philomena
   tmdb_id: 205220
@@ -80,3 +100,5 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjA5ODgyNzcxMV5BMl5BanBnXkFtZTgwMzkzOTYzMDE@._V1_SX300.jpg
   letterboxd_slug: philomena
   letterboxd_rating: 3.72
+  genres:
+    - Drama

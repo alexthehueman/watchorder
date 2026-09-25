@@ -19,6 +19,12 @@
   letterboxd_slug: spy-kids
   poster_url: https://a.ltrbxd.com/resized/sm/upload/dt/q6/fl/v2/spy-kids-1200-1200-675-675-crop-000000.jpg?v=1b22b63119
   letterboxd_rating: 3.07
+  genres:
+    - Family
+    - Science Fiction
+    - Adventure
+    - Comedy
+    - Action
 
 - id: the-faculty
   tmdb_id: 9276
@@ -36,3 +42,6 @@
   letterboxd_slug: the-faculty
   poster_url: https://a.ltrbxd.com/resized/sm/upload/rt/t6/zm/jt/the-faculty-1200-1200-675-675-crop-000000.jpg?v=b4982a16c5
   letterboxd_rating: 3.4
+  genres:
+    - Science Fiction
+    - Horror

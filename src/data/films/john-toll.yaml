@@ -13,6 +13,11 @@
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 1 }
   letterboxd_slug: legends-of-the-fall
   poster_url: https://a.ltrbxd.com/resized/sm/upload/g9/n3/zl/g8/legendsofthefall-1200-1200-675-675-crop-000000.jpg?v=040f18aa02
+  genres:
+    - Romance
+    - Drama
+    - Western
+    - War
 
 - id: the-last-samurai
   tmdb_id: 616
@@ -24,3 +29,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   letterboxd_slug: the-last-samurai
   poster_url: https://a.ltrbxd.com/resized/sm/upload/rk/js/if/or/the-last-samurai-90-1200-1200-675-675-crop-000000.jpg?v=1072d1b8ab
+  genres:
+    - Drama
+    - War
+    - Action

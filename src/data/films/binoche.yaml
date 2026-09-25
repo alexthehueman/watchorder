@@ -13,6 +13,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMzQyMTliMzMtNzliZi00MmMwLWExZGEtNzQ3MDc1NmY4M2I1XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-unbearable-lightness-of-being
   letterboxd_rating: 3.66
+  genres:
+    - Drama
+    - Romance
 
 - id: three-colours-blue
   tmdb_id: 108
@@ -25,6 +28,8 @@
   poster_url: https://a.ltrbxd.com/resized/sm/upload/xr/zj/pc/7k/blue-1200-1200-675-675-crop-000000.jpg?v=80d68de00f
   letterboxd_slug: three-colours-blue
   letterboxd_rating: 4.13
+  genres:
+    - Drama
 
 - id: the-english-patient
   tmdb_id: 409
@@ -43,6 +48,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BODg0NjdiN2UtZWY3MS00M2JmLTg1MDAtY2ZiNzNiMzAzYWFmXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-english-patient
   letterboxd_rating: 3.63
+  genres:
+    - Drama
+    - Romance
+    - War
 
 - id: certified-copy
   tmdb_id: 48303
@@ -61,6 +70,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZmY5OWY2MTQtZDZmYS00YTczLWEwMTktMDNjZWMzYzEwYzFjXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: certified-copy
   letterboxd_rating: 4.07
+  genres:
+    - Drama
+    - Romance
 
 - id: clouds-of-sils-maria
   tmdb_id: 246860
@@ -74,3 +86,5 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjAwMTg3MDE0NF5BMl5BanBnXkFtZTgwNjQ1ODQyNTE@._V1_SX300.jpg
   letterboxd_slug: clouds-of-sils-maria
   letterboxd_rating: 3.68
+  genres:
+    - Drama

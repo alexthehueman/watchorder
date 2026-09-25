@@ -15,6 +15,9 @@
   letterboxd_slug: die-hard-with-a-vengeance
   poster_url: https://a.ltrbxd.com/resized/sm/upload/80/bg/fj/k3/die-hard-with-a-vengeance-1200-1200-675-675-crop-000000.jpg?v=a377dcdba9
   letterboxd_rating: 3.75
+  genres:
+    - Thriller
+    - Action
 
 - id: the-last-action-hero
   tmdb_id: 9593
@@ -32,3 +35,7 @@
   letterboxd_slug: last-action-hero
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ts/2x/3g/2y/last-action-hero-110-1200-1200-675-675-crop-000000.jpg?v=fff8ef5972
   letterboxd_rating: 3.44
+  genres:
+    - Fantasy
+    - Comedy
+    - Action

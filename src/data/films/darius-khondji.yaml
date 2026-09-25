@@ -14,6 +14,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
   letterboxd_slug: delicatessen
   poster_url: https://a.ltrbxd.com/resized/sm/upload/f9/cu/i0/so/delicatessen-1200-1200-675-675-crop-000000.jpg?v=1c3d8f0de1
+  genres:
+    - Fantasy
+    - Science Fiction
+    - Comedy
 
 - id: evita
   tmdb_id: 8818
@@ -25,3 +29,6 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
   letterboxd_slug: evita
   poster_url: https://a.ltrbxd.com/resized/sm/upload/6m/76/2j/io/evita-1200-1200-675-675-crop-000000.jpg?v=0239d779ce
+  genres:
+    - History
+    - Drama

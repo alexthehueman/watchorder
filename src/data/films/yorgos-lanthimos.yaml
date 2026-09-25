@@ -20,6 +20,8 @@
   letterboxd_slug: dogtooth
   poster_url: https://a.ltrbxd.com/resized/sm/upload/j5/2q/bf/t6/dogtooth-1200-1200-675-675-crop-000000.jpg?v=59683fa08b
   letterboxd_rating: 3.66
+  genres:
+    - Drama
 
 - id: bugonia
   tmdb_id: 701387
@@ -37,6 +39,10 @@
   letterboxd_slug: bugonia
   poster_url: https://a.ltrbxd.com/resized/sm/upload/jf/rv/eq/r2/bug-1200-1200-675-675-crop-000000.jpg?v=9227b4cd8a
   letterboxd_rating: 3.84
+  genres:
+    - Thriller
+    - Science Fiction
+    - Comedy
 
 - id: alps
   tmdb_id: 81857
@@ -54,3 +60,5 @@
   letterboxd_slug: alps
   poster_url: https://a.ltrbxd.com/resized/sm/upload/mi/nx/id/7j/alps-1200-1200-675-675-crop-000000.jpg?v=6e617f18cb
   letterboxd_rating: 3.27
+  genres:
+    - Drama

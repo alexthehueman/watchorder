@@ -17,6 +17,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTUxNDc4MzAyNV5BMl5BanBnXkFtZTYwMzQ1NDc2._V1_SX300.jpg
   letterboxd_slug: be-cool
   letterboxd_rating: 2.64
+  genres:
+    - Comedy
+    - Crime
 
 - id: prime
   tmdb_id: 2313
@@ -30,6 +33,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTgxMDg4MjUyNV5BMl5BanBnXkFtZTYwMTgwNDU3._V1_SX300.jpg
   letterboxd_slug: prime
   letterboxd_rating: 2.9
+  genres:
+    - Comedy
+    - Romance
+    - Drama
 
 - id: gattaca
   tmdb_id: 782
@@ -43,6 +50,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZjQxNTc3YzQtZDA5ZC00MmM5LWE3NGYtMGE0Yjk3MDYwODVlXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: gattaca
   letterboxd_rating: 3.82
+  genres:
+    - Drama
+    - Science Fiction
 
 - id: the-producers
   tmdb_id: 9899
@@ -56,6 +66,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMGVhNmRlMGYtYWM1ZC00ZWU1LWFhOTAtZGY2ZWVkYWIyN2I4XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-producers-2005
   letterboxd_rating: 3.34
+  genres:
+    - Comedy
 
 - id: nymphomaniac-vol-2
   tmdb_id: 249397
@@ -74,3 +86,6 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZDFlZGEwNzUtZWY2OS00MWE0LWEwMjEtMmUwZDQzZWRlYWRkXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: nymphomaniac-vol-ii
   letterboxd_rating: 3.3
+  genres:
+    - Mystery
+    - Drama

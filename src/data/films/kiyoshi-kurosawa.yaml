@@ -15,6 +15,11 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNDcyMTRiMWQtMjA4MS00OTk3LTkxYmMtMjI4ODAyNGVlZTU0XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: cure
   letterboxd_rating: 4.28
+  genres:
+    - Crime
+    - Mystery
+    - Thriller
+    - Horror
 
 - id: charisma
   tmdb_id: 72490
@@ -27,6 +32,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjQ1MmNlOWMtMjkzNC00ZDU1LThmZjQtY2ViYzBmMzRiNTA1XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: charisma
   letterboxd_rating: 3.75
+  genres:
+    - Thriller
+    - Mystery
+    - Drama
 
 - id: seance
   tmdb_id: 27742
@@ -39,6 +48,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjEyMTE2NTcyOV5BMl5BanBnXkFtZTcwNzQ3ODgyMQ@@._V1_SX300.jpg
   letterboxd_slug: seance-2000
   letterboxd_rating: 3.62
+  genres:
+    - Horror
+    - Drama
+    - TV Movie
 
 - id: pulse
   tmdb_id: 27324
@@ -51,6 +64,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMDZkODZjMDQtZDVlNy00ZGJiLTk3ZTYtMzM5MTJkYzU0MmM4XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: pulse-2001
   letterboxd_rating: 3.69
+  genres:
+    - Mystery
+    - Horror
+    - Thriller
 
 - id: bright-future
   tmdb_id: 26886
@@ -63,6 +80,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMzkzOTk4NTUwOV5BMl5BanBnXkFtZTcwMDQ5NjcyMQ@@._V1_SX300.jpg
   letterboxd_slug: bright-future
   letterboxd_rating: 3.67
+  genres:
+    - Mystery
+    - Drama
 
 - id: doppelganger
   tmdb_id: 32234
@@ -79,6 +99,10 @@
   poster_url: https://a.ltrbxd.com/resized/sm/upload/80/7h/am/qp/doppel-1200-1200-675-675-crop-000000.jpg?v=a1bd41e13a
   letterboxd_slug: doppelganger-2003
   letterboxd_rating: 3.44
+  genres:
+    - Science Fiction
+    - Thriller
+    - Comedy
 
 - id: retribution
   tmdb_id: 46164
@@ -91,6 +115,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYTI2MzVlYzYtYmY3Ny00NDRhLWEwZmItYmM3YWZiMGRhNjNkXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: retribution
   letterboxd_rating: 3.73
+  genres:
+    - Horror
+    - Thriller
+    - Mystery
 
 - id: tokyo-sonata
   tmdb_id: 8937
@@ -108,6 +136,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZDRhZjI5M2ItZWY3NS00NGY1LThiMTctMDRlZGY2MzAwZTczXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: tokyo-sonata
   letterboxd_rating: 4.19
+  genres:
+    - Drama
 
 - id: real
   tmdb_id: 180891
@@ -120,6 +150,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNmQ1N2Y3MTktNTRkYS00MjRiLThkMDktYzQxNzQ3NzMzMWJjXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: real-2013
   letterboxd_rating: 3.24
+  genres:
+    - Science Fiction
+    - Thriller
+    - Drama
 
 - id: journey-to-the-shore
   tmdb_id: 334991
@@ -132,6 +166,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNzdiMDI0NTctMjhkYy00ODM3LWE4ZGQtNjE2MTdhNzk3NDYxXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: journey-to-the-shore
   letterboxd_rating: 3.53
+  genres:
+    - Fantasy
+    - Romance
+    - Drama
 
 - id: creepy
   tmdb_id: 380620
@@ -144,6 +182,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMzg1YzQwN2UtZjYyZi00NDY1LTk5NWMtMDhhNWJkMjZlNTlkXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: creepy
   letterboxd_rating: 3.5
+  genres:
+    - Horror
+    - Drama
+    - Crime
 
 - id: before-we-vanish
   tmdb_id: 446164
@@ -156,6 +198,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYzhkNzdiMWItZjY1Yi00MDAxLWIwNDgtM2M4MTJkZmFmNTliXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: before-we-vanish
   letterboxd_rating: 3.44
+  genres:
+    - Drama
+    - Thriller
+    - Science Fiction
 
 - id: wife-of-a-spy
   tmdb_id: 688301
@@ -168,3 +214,7 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNjgwMzIwNzgtMjI2YS00YTMyLWFlNzgtYjhlMDlhOWNiNjk5XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: wife-of-a-spy
   letterboxd_rating: 3.5
+  genres:
+    - Drama
+    - War
+    - Thriller

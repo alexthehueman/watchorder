@@ -25,6 +25,12 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: in-the-valley-of-elah
   poster_url: https://a.ltrbxd.com/resized/sm/upload/s7/ma/jl/i3/in-valley-elah-1200-1200-675-675-crop-000000.jpg?v=234fa0eb53
+  genres:
+    - Drama
+    - Crime
+    - Thriller
+    - History
+    - Mystery
 
 - id: the-company-men
   tmdb_id: 44129
@@ -36,6 +42,8 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: the-company-men
   poster_url: https://a.ltrbxd.com/resized/sm/upload/6t/rz/fg/wh/company-men-1200-1200-675-675-crop-000000.jpg?v=1e6a553cd1
+  genres:
+    - Drama
 
 - id: the-goldfinch
   tmdb_id: 472674
@@ -47,6 +55,8 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 1 }
   letterboxd_slug: the-goldfinch
   poster_url: https://a.ltrbxd.com/resized/sm/upload/2p/q0/az/2g/the-goldfinch-1200-1200-675-675-crop-000000.jpg?v=29a8043270
+  genres:
+    - Drama
 
 - id: cruel-passion
   tmdb_id: 39006
@@ -58,6 +68,9 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 3 }
   letterboxd_slug: cruel-passion
   poster_url: https://a.ltrbxd.com/resized/film-poster/2/5/6/3/3/25633-cruel-passion-0-230-0-345-crop.jpg?v=2d1e20300f
+  genres:
+    - Drama
+    - Horror
 
 - id: another-time-another-place
   tmdb_id: 73069
@@ -69,6 +82,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
   letterboxd_slug: another-time-another-place-1983
   poster_url: https://a.ltrbxd.com/resized/film-poster/5/6/4/3/0/56430-another-time-another-place-0-230-0-345-crop.jpg?v=1d877cb357
+  genres:
+    - Drama
+    - War
+    - Romance
 
 - id: the-innocent-1985
   tmdb_id: 388588
@@ -80,6 +97,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: the-innocent-1985
   poster_url: https://a.ltrbxd.com/resized/film-poster/3/2/3/2/2/1/323221-the-innocent-0-230-0-345-crop.jpg?v=e8c332d9fa
+  genres:
+    - Drama
+    - TV Movie
 
 - id: shadey
   tmdb_id: 250096
@@ -91,6 +111,8 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
   letterboxd_slug: shadey
   poster_url: https://a.ltrbxd.com/resized/film-poster/1/7/4/6/7/7/174677-shadey-0-230-0-345-crop.jpg?v=cfff05dcd0
+  genres:
+    - Comedy
 
 - id: white-mischief
   tmdb_id: 60041
@@ -102,6 +124,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 2 }
   letterboxd_slug: white-mischief
   poster_url: https://a.ltrbxd.com/resized/film-poster/6/5/2/0/6520-white-mischief-0-230-0-345-crop.jpg?v=858d582d9a
+  genres:
+    - Romance
+    - Drama
+    - Thriller
 
 - id: personal-services
   tmdb_id: 44201
@@ -113,6 +139,8 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
   letterboxd_slug: personal-services
   poster_url: https://a.ltrbxd.com/resized/film-poster/2/0/9/6/9/20969-personal-services-0-230-0-345-crop.jpg?v=5cbeb715d2
+  genres:
+    - Comedy
 
 - id: the-kitchen-toto
   tmdb_id: 276478
@@ -124,6 +152,8 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: the-kitchen-toto
   poster_url: https://a.ltrbxd.com/resized/film-poster/2/0/0/6/2/0/200620-the-kitchen-toto-0-230-0-345-crop.jpg?v=c56faf596c
+  genres:
+    - Drama
 
 - id: mountains-of-the-moon
   tmdb_id: 33796
@@ -135,6 +165,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: mountains-of-the-moon
   poster_url: https://a.ltrbxd.com/resized/sm/upload/m8/y9/23/jo/xCCqXJQx9Yr1qc2IABO1fwJT2lR-1200-1200-675-675-crop-000000.jpg?v=ec1d12993c
+  genres:
+    - Drama
+    - History
+    - Adventure
 
 - id: the-long-walk-home
   tmdb_id: 51763
@@ -146,6 +180,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: the-long-walk-home
   poster_url: https://a.ltrbxd.com/resized/sm/upload/02/qj/q7/ea/tlPF4CoHttQKcrPVpVxjPUYkoCR-1200-1200-675-675-crop-000000.jpg?v=90e7e7299f
+  genres:
+    - Drama
+    - History
 
 - id: anywhere-but-here
   tmdb_id: 21349
@@ -157,6 +194,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: anywhere-but-here
   poster_url: https://a.ltrbxd.com/resized/sm/upload/o1/lu/ts/vg/ffRfvK3YpSujaUpsEdBIbB0OQgf-1200-1200-675-675-crop-000000.jpg?v=e1558f8a16
+  genres:
+    - Drama
+    - Romance
+    - Comedy
 
 - id: levity
   tmdb_id: 21052
@@ -168,6 +209,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: levity
   poster_url: https://a.ltrbxd.com/resized/film-poster/3/8/6/2/8/38628-levity-0-230-0-345-crop.jpg?v=f91ae00467
+  genres:
+    - Crime
+    - Drama
 
 - id: rango
   tmdb_id: 44896
@@ -179,6 +223,12 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: rango
   poster_url: https://a.ltrbxd.com/resized/sm/upload/kt/87/ib/i0/rango-1200-1200-675-675-crop-000000.jpg?v=11a64d9758
+  genres:
+    - Western
+    - Family
+    - Animation
+    - Comedy
+    - Adventure
 
 - id: rise-of-the-guardians
   tmdb_id: 81188
@@ -190,6 +240,12 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: rise-of-the-guardians
   poster_url: https://a.ltrbxd.com/resized/sm/upload/s5/ij/un/gq/rise-of-guardians-1200-1200-675-675-crop-000000.jpg?v=c3e7557376
+  genres:
+    - Fantasy
+    - Family
+    - Adventure
+    - Action
+    - Animation
 
 - id: how-to-train-your-dragon-2
   tmdb_id: 82702
@@ -201,6 +257,12 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: how-to-train-your-dragon-2
   poster_url: https://a.ltrbxd.com/resized/sm/upload/gr/n4/vo/kp/how-to-train-your-dragon-2-1200-1200-675-675-crop-000000.jpg?v=91f8dbaaa1
+  genres:
+    - Animation
+    - Adventure
+    - Action
+    - Fantasy
+    - Family
 
 - id: how-to-train-your-dragon-the-hidden-world
   tmdb_id: 166428
@@ -212,6 +274,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: how-to-train-your-dragon-the-hidden-world
   poster_url: https://a.ltrbxd.com/resized/sm/upload/r9/sy/36/nm/how-to-train-your-dragon-the-hidden-world-8k-2019-p1-3840x2160-1200-1200-675-675-crop-000000.jpg?v=abc8aca2fd
+  genres:
+    - Animation
+    - Adventure
+    - Family
 
 - id: nineteen-eighty-four
   tmdb_id: 1249996
@@ -223,6 +289,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 2 }
   letterboxd_slug: 1984-1984
   poster_url: https://a.ltrbxd.com/resized/film-poster/1/1/3/4/3/5/2/1134352-1984-0-230-0-345-crop.jpg?v=13e6cf34d9
+  genres:
+    - Music
+    - Documentary
 
 - id: defence-of-the-realm
   tmdb_id: 29627
@@ -235,6 +304,9 @@
   letterboxd_slug: defence-of-the-realm
   poster_url: https://a.ltrbxd.com/resized/film-poster/3/2/6/9/5/32695-defence-of-the-realm-0-230-0-345-crop.jpg?v=3f736590d1
   letterboxd_rating: 3.37
+  genres:
+    - Action
+    - Thriller
 
 - id: stormy-monday
   tmdb_id: 25497
@@ -247,6 +319,8 @@
   letterboxd_slug: stormy-monday
   poster_url: https://a.ltrbxd.com/resized/sm/upload/1n/qi/h6/aj/stormy-1200-1200-675-675-crop-000000.jpg?v=26372065cd
   letterboxd_rating: 3.16
+  genres:
+    - Thriller
 
 - id: pascalis-island
   tmdb_id: 116345
@@ -259,6 +333,8 @@
   letterboxd_slug: pascalis-island
   poster_url: https://a.ltrbxd.com/resized/film-poster/9/2/3/6/9/92369-pascali-s-island-0-230-0-345-crop.jpg?v=e93277f838
   letterboxd_rating: 3.41
+  genres:
+    - Drama
 
 - id: air-america
   tmdb_id: 11856
@@ -271,6 +347,11 @@
   letterboxd_slug: air-america
   poster_url: https://a.ltrbxd.com/resized/sm/upload/vb/gz/2w/eq/air-america-1200-1200-675-675-crop-000000.jpg?v=7455625c03
   letterboxd_rating: 2.89
+  genres:
+    - Action
+    - Drama
+    - Comedy
+    - Adventure
 
 - id: homicide
   tmdb_id: 22828
@@ -283,6 +364,11 @@
   letterboxd_slug: homicide-1991
   poster_url: https://a.ltrbxd.com/resized/sm/upload/vb/f8/25/vr/homicide-1200-1200-675-675-crop-000000.jpg?v=2f2a95bf44
   letterboxd_rating: 3.62
+  genres:
+    - Crime
+    - Drama
+    - Mystery
+    - Thriller
 
 - id: thunderheart
   tmdb_id: 12395
@@ -295,6 +381,10 @@
   letterboxd_slug: thunderheart
   poster_url: https://a.ltrbxd.com/resized/sm/upload/15/id/u3/o0/thunder2-1200-1200-675-675-crop-000000.jpg?v=1d0c16f367
   letterboxd_rating: 3.45
+  genres:
+    - Mystery
+    - Crime
+    - Thriller
 
 - id: passion-fish
   tmdb_id: 41768
@@ -307,6 +397,8 @@
   letterboxd_slug: passion-fish
   poster_url: https://a.ltrbxd.com/resized/sm/upload/39/he/24/85/passion-1200-1200-675-675-crop-000000.jpg?v=d9b1c9b172
   letterboxd_rating: 3.73
+  genres:
+    - Drama
 
 - id: the-secret-garden-1993
   tmdb_id: 11236
@@ -319,6 +411,10 @@
   letterboxd_slug: the-secret-garden-1993
   poster_url: https://a.ltrbxd.com/resized/sm/upload/qi/kv/e0/62/secret-garden-1200-1200-675-675-crop-000000.jpg?v=e5293565a4
   letterboxd_rating: 3.72
+  genres:
+    - Drama
+    - Fantasy
+    - Family
 
 - id: the-hudsucker-proxy
   tmdb_id: 11934
@@ -331,6 +427,10 @@
   letterboxd_slug: the-hudsucker-proxy
   poster_url: https://a.ltrbxd.com/resized/sm/upload/l6/6s/87/9u/the-hudsucker-proxy-1200-1200-675-675-crop-000000.jpg?v=fbefcf75a2
   letterboxd_rating: 3.73
+  genres:
+    - Comedy
+    - Drama
+    - Fantasy
 
 - id: courage-under-fire
   tmdb_id: 10684
@@ -343,6 +443,11 @@
   letterboxd_slug: courage-under-fire
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ll/st/ns/l8/courage-under-fire-1200-1200-675-675-crop-000000.jpg?v=f6e9a5c495
   letterboxd_rating: 3.25
+  genres:
+    - Thriller
+    - Drama
+    - War
+    - Mystery
 
 - id: kundun
   tmdb_id: 9746
@@ -355,6 +460,9 @@
   letterboxd_slug: kundun
   poster_url: https://a.ltrbxd.com/resized/sm/upload/y3/nt/n5/ox/kundun-1200-1200-675-675-crop-000000.jpg?v=1f844555ac
   letterboxd_rating: 3.47
+  genres:
+    - Drama
+    - History
 
 - id: the-siege
   tmdb_id: 9882
@@ -367,6 +475,11 @@
   letterboxd_slug: the-siege
   poster_url: https://a.ltrbxd.com/resized/sm/upload/3f/43/gu/5v/siege-1200-1200-675-675-crop-000000.jpg?v=8d01e0b354
   letterboxd_rating: 3.05
+  genres:
+    - Drama
+    - Crime
+    - Thriller
+    - Action
 
 - id: the-hurricane
   tmdb_id: 10400
@@ -379,6 +492,8 @@
   letterboxd_slug: the-hurricane
   poster_url: https://a.ltrbxd.com/resized/sm/upload/r5/ac/7a/zv/the-hurricane-1200-1200-675-675-crop-000000.jpg?v=157ac8f3f4
   letterboxd_rating: 3.76
+  genres:
+    - Drama
 
 - id: intolerable-cruelty
   tmdb_id: 11775
@@ -391,6 +506,10 @@
   letterboxd_slug: intolerable-cruelty
   poster_url: https://a.ltrbxd.com/resized/sm/upload/rd/dq/87/uh/intolerable-cruelty-1200-1200-675-675-crop-000000.jpg?v=44c3212791
   letterboxd_rating: 3.05
+  genres:
+    - Crime
+    - Romance
+    - Comedy
 
 - id: house-of-sand-and-fog
   tmdb_id: 11093
@@ -403,6 +522,8 @@
   letterboxd_slug: house-of-sand-and-fog
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ix/q4/9t/f2/house%20of%20sand%20and%20fog-1200-1200-675-675-crop-000000.jpg?v=25cc8dccca
   letterboxd_rating: 3.6
+  genres:
+    - Drama
 
 - id: the-assassination-of-jesse-james
   tmdb_id: 4512
@@ -415,6 +536,9 @@
   letterboxd_slug: the-assassination-of-jesse-james-by-the-coward-robert-ford
   poster_url: https://a.ltrbxd.com/resized/sm/upload/31/7h/dh/cv/the-assassination-of-jesse-james-by-the-coward-robert-ford-1200-1200-675-675-crop-000000.jpg?v=88e2852a0b
   letterboxd_rating: 4.03
+  genres:
+    - Drama
+    - Western
 
 - id: in-time
   tmdb_id: 49530
@@ -427,6 +551,10 @@
   letterboxd_slug: in-time
   poster_url: https://a.ltrbxd.com/resized/sm/upload/k9/on/yd/lu/in-time-170-1200-1200-675-675-crop-000000.jpg?v=c08380d725
   letterboxd_rating: 3.02
+  genres:
+    - Thriller
+    - Science Fiction
+    - Action
 
 - id: unbroken
   tmdb_id: 227306
@@ -439,3 +567,6 @@
   letterboxd_slug: unbroken
   poster_url: https://a.ltrbxd.com/resized/sm/upload/dy/7a/7w/9v/unbroken-1200-1200-675-675-crop-000000.jpg?v=9ef625bb13
   letterboxd_rating: 3.61
+  genres:
+    - Drama
+    - War

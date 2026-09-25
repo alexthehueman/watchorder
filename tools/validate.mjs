@@ -22,6 +22,13 @@ const CANON_FILE = new URL('canon.yaml', DATA_DIR);
 const TASTE_TAGS = ['opacity', 'stillness', 'bleakness', 'humor'];
 const CONTENT_BOOLEANS = ['sexual_violence', 'animal_harm', 'child_harm', 'suicide'];
 const CONTENT_SEVERITIES = ['violence', 'sex'];
+// Letterboxd's own genre taxonomy (shared with TMDB's) — scraped, not hand-authored, so this
+// exists to catch a parsing regression rather than to constrain what a person could tag.
+const KNOWN_GENRES = [
+  'Action', 'Adventure', 'Animation', 'Comedy', 'Crime', 'Documentary', 'Drama', 'Family',
+  'Fantasy', 'History', 'Horror', 'Music', 'Mystery', 'Romance', 'Science Fiction', 'TV Movie',
+  'Thriller', 'War', 'Western',
+];
 const ENTITY_KINDS = ['director', 'actor', 'studio', 'cinematographer'];
 const MEDIA = ['film', 'series'];
 // The shortest non-completist depth the quiz offers. A must-see is pinned "no matter what", and
@@ -197,6 +204,20 @@ export function validateCorpus(corpus) {
     if (film.letterboxd_rating !== null && film.letterboxd_rating !== undefined) {
       if (typeof film.letterboxd_rating !== 'number' || film.letterboxd_rating <= 0 || film.letterboxd_rating > 5) {
         errors.push(`${where} — letterboxd_rating must be a number in (0, 5], got ${JSON.stringify(film.letterboxd_rating)}`);
+      }
+    }
+    // Scraped from Letterboxd, same source and discipline as letterboxd_rating — a closed
+    // taxonomy, so anything outside KNOWN_GENRES means the scraper's parsing broke, not that a
+    // new genre exists.
+    if (film.genres !== null && film.genres !== undefined) {
+      if (!Array.isArray(film.genres) || film.genres.length === 0) {
+        errors.push(`${where} — genres must be a non-empty array, got ${JSON.stringify(film.genres)}`);
+      } else {
+        for (const genre of film.genres) {
+          if (!KNOWN_GENRES.includes(genre)) {
+            errors.push(`${where} — unrecognised genre ${JSON.stringify(genre)}`);
+          }
+        }
       }
     }
     // An ingest-only hint: the title Letterboxd itself uses when it differs from ours (a

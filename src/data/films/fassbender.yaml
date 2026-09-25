@@ -21,6 +21,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMDMwMWZmZjMtZmZkMS00MzNmLTlmNTUtY2MyYTdkYzRiZDg0XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: hunger
   letterboxd_rating: 4.02
+  genres:
+    - Drama
+    - History
 
 - id: shame
   tmdb_id: 76025
@@ -34,6 +37,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BM2I4YjYzYmQtNGM4Yy00NmYwLWEzYjUtMDBmNjYzZmViZWE3XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: shame-2011
   letterboxd_rating: 3.74
+  genres:
+    - Drama
 
 - id: x-men-first-class
   tmdb_id: 49538
@@ -47,6 +52,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTg5OTMxNzk4Nl5BMl5BanBnXkFtZTcwOTk1MjAwNQ@@._V1_QL75_UX380_CR0,0,380,562_.jpg
   letterboxd_slug: x-men-first-class
   letterboxd_rating: 3.62
+  genres:
+    - Science Fiction
+    - Adventure
+    - Action
 
 - id: 12-years-a-slave
   tmdb_id: 76203
@@ -60,6 +69,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjExMTEzODkyN15BMl5BanBnXkFtZTcwNTU4NTc4OQ@@._V1_QL75_UX380_CR0,1,380,562_.jpg
   letterboxd_slug: 12-years-a-slave
   letterboxd_rating: 4.18
+  genres:
+    - History
+    - Drama
 
 - id: macbeth-2015
   tmdb_id: 225728
@@ -78,3 +90,6 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNzgyNDczMjU4NV5BMl5BanBnXkFtZTgwMTUwMDI3NjE@._V1_SX300.jpg
   letterboxd_slug: macbeth-2015
   letterboxd_rating: 3.48
+  genres:
+    - War
+    - Drama

@@ -19,6 +19,10 @@
   letterboxd_slug: to-live-and-die-in-la
   poster_url: https://a.ltrbxd.com/resized/sm/upload/in/n9/e2/vo/to-live-die-la-1200-1200-675-675-crop-000000.jpg?v=14d0d58695
   letterboxd_rating: 4.01
+  genres:
+    - Action
+    - Crime
+    - Thriller
 
 - id: sorcerer
   tmdb_id: 38985
@@ -36,6 +40,10 @@
   letterboxd_slug: sorcerer
   poster_url: https://a.ltrbxd.com/resized/sm/upload/69/v1/la/oi/sorcerer-1200-1200-675-675-crop-000000.jpg?v=56b00457f1
   letterboxd_rating: 4.27
+  genres:
+    - Drama
+    - Thriller
+    - Adventure
 
 - id: bug
   tmdb_id: 12526
@@ -53,3 +61,7 @@
   letterboxd_slug: bug-2006
   poster_url: https://a.ltrbxd.com/resized/sm/upload/8j/5e/hs/rs/bug-1200-1200-675-675-crop-000000.jpg?v=5a01d44dc9
   letterboxd_rating: 3.55
+  genres:
+    - Thriller
+    - Drama
+    - Horror

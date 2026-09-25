@@ -15,6 +15,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTk4MzhkMDAtNWMyMi00ZmI4LWEyNTUtZDVkMTVlZjJmYTAzXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-current-war
   letterboxd_rating: 3.14
+  genres:
+    - Drama
+    - History
 
 - id: star-trek-into-darkness
   tmdb_id: 54138
@@ -28,6 +31,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTk2NzczOTgxNF5BMl5BanBnXkFtZTcwODQ5ODczOQ@@._V1_SX300.jpg
   letterboxd_slug: star-trek-into-darkness
   letterboxd_rating: 3.4
+  genres:
+    - Science Fiction
+    - Adventure
+    - Action
 
 - id: the-imitation-game
   tmdb_id: 205596
@@ -41,6 +48,11 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNjI3NjY1Mjg3MV5BMl5BanBnXkFtZTgwMzk5MDQ3MjE@._V1_SX300.jpg
   letterboxd_slug: the-imitation-game
   letterboxd_rating: 3.85
+  genres:
+    - Drama
+    - War
+    - Thriller
+    - History
 
 - id: the-power-of-the-dog
   tmdb_id: 600583
@@ -59,6 +71,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNzgyMzA2NDEtZWUxNy00MDNmLTllMDYtNzZmNTU5ZWVmMzhlXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-power-of-the-dog
   letterboxd_rating: 3.67
+  genres:
+    - Western
+    - Drama
 
 - id: doctor-strange
   tmdb_id: 284052
@@ -72,6 +87,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNjgwNzAzNjk1Nl5BMl5BanBnXkFtZTgwMzQ2NjI1OTE@._V1_QL75_UX380_CR0,0,380,562_.jpg
   letterboxd_slug: doctor-strange-2016
   letterboxd_rating: 3.5
+  genres:
+    - Fantasy
+    - Action
+    - Adventure
 
 - id: the-fifth-estate
   tmdb_id: 162903
@@ -85,3 +104,6 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjY1MTY5NTg3M15BMl5BanBnXkFtZTgwMDQyMjgwMDE@._V1_SX300.jpg
   letterboxd_slug: the-fifth-estate
   letterboxd_rating: 2.8
+  genres:
+    - Drama
+    - Thriller

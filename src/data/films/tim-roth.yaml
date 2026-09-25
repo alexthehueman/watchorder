@@ -13,6 +13,12 @@
   letterboxd_slug: rob-roy
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ln/5p/bi/v0/rob-roy-1200-1200-675-675-crop-000000.jpg?v=fb2be221fe
   letterboxd_rating: 3.41
+  genres:
+    - Adventure
+    - Drama
+    - History
+    - Action
+    - War
 
 - id: four-rooms
   tmdb_id: 5
@@ -25,3 +31,5 @@
   letterboxd_slug: four-rooms
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ff/ph/vk/wz/four-rooms-1200-1200-675-675-crop-000000.jpg?v=f4124fca6f
   letterboxd_rating: 3.19
+  genres:
+    - Comedy

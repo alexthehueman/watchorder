@@ -22,6 +22,9 @@
   letterboxd_slug: stand-by-me
   poster_url: https://a.ltrbxd.com/resized/sm/upload/kv/9l/ks/8f/stand-by-me-1200-1200-675-675-crop-000000.jpg?v=3617274520
   letterboxd_rating: 4.2
+  genres:
+    - Adventure
+    - Drama
 
 - id: misery
   tmdb_id: 1700
@@ -39,6 +42,10 @@
   letterboxd_slug: misery
   poster_url: https://a.ltrbxd.com/resized/sm/upload/7x/a0/x3/zw/misery-1200-1200-675-675-crop-000000.jpg?v=6248d439ec
   letterboxd_rating: 4
+  genres:
+    - Drama
+    - Horror
+    - Thriller
 
 - id: this-is-spinal-tap
   tmdb_id: 11031
@@ -51,6 +58,9 @@
   letterboxd_slug: this-is-spinal-tap
   poster_url: https://a.ltrbxd.com/resized/sm/upload/9t/g0/rr/84/this-is-spinal-tap-1200-1200-675-675-crop-000000.jpg?v=e59ed2e535
   letterboxd_rating: 3.89
+  genres:
+    - Comedy
+    - Music
 
 - id: ghosts-of-mississippi
   tmdb_id: 31908
@@ -68,3 +78,6 @@
   letterboxd_slug: ghosts-of-mississippi
   poster_url: https://a.ltrbxd.com/resized/alternative-backdrop/3/0/8/0/8/tmdb/6KUc0HjKPpU5UT8FYjVcCHUtjvX-1200-1200-675-675-crop-000000.jpg?v=c495397355
   letterboxd_rating: 3.18
+  genres:
+    - History
+    - Drama

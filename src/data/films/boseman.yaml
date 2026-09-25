@@ -15,6 +15,8 @@
   letterboxd_slug: "42"
   poster_url: https://a.ltrbxd.com/resized/sm/upload/nb/oa/r3/3s/42-1200-1200-675-675-crop-000000.jpg?v=e1e4d69b0c
   letterboxd_rating: 3.72
+  genres:
+    - Drama
 
 - id: get-on-up
   tmdb_id: 239566
@@ -27,6 +29,10 @@
   letterboxd_slug: get-on-up
   poster_url: https://a.ltrbxd.com/resized/sm/upload/wu/xl/l3/a7/get-on-up-1200-1200-675-675-crop-000000.jpg?v=865f32b82b
   letterboxd_rating: 3.36
+  genres:
+    - History
+    - Music
+    - Drama
 
 - id: marshall
   tmdb_id: 392982
@@ -39,3 +45,5 @@
   letterboxd_slug: marshall
   poster_url: https://a.ltrbxd.com/resized/sm/upload/gv/7i/7i/bt/marshall-1200-1200-675-675-crop-000000.jpg?v=079d2007b1
   letterboxd_rating: 3.47
+  genres:
+    - Drama

@@ -15,6 +15,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BM2U3OGQ0NTMtNmQxYS00MmRiLTg2OTctZDI3ZjNjZjM5N2NlXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: out-of-sight
   letterboxd_rating: 3.67
+  genres:
+    - Romance
+    - Crime
+    - Comedy
 
 - id: syriana
   tmdb_id: 231
@@ -33,6 +37,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYWQ0YmNiYjUtODg0NS00YjNkLWJhOTktOGMxNTdmYTM0ZmMzXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: syriana
   letterboxd_rating: 3.35
+  genres:
+    - Thriller
+    - Drama
 
 - id: good-night-and-good-luck
   tmdb_id: 3291
@@ -46,6 +53,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BOTJhMmY5OGMtNDZhNS00ZjAyLWFmODQtOTA0NWM5NjMyOTk5XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: good-night-and-good-luck
   letterboxd_rating: 3.7
+  genres:
+    - History
+    - Drama
 
 - id: up-in-the-air
   tmdb_id: 22947
@@ -59,6 +69,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTI3MzYxMTA4NF5BMl5BanBnXkFtZTcwMDE4ODg3Mg@@._V1_SX300.jpg
   letterboxd_slug: up-in-the-air
   letterboxd_rating: 3.58
+  genres:
+    - Drama
+    - Romance
 
 - id: the-descendants
   tmdb_id: 65057
@@ -72,6 +85,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjAyNTA1MTcyN15BMl5BanBnXkFtZTcwNjEyODczNQ@@._V1_SX300.jpg
   letterboxd_slug: the-descendants
   letterboxd_rating: 3.62
+  genres:
+    - Comedy
+    - Drama
 
 - id: gravity
   tmdb_id: 49047
@@ -85,3 +101,7 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNjE5MzYwMzYxMF5BMl5BanBnXkFtZTcwOTk4MTk0OQ@@._V1_SX300.jpg
   letterboxd_slug: gravity-2013
   letterboxd_rating: 3.52
+  genres:
+    - Thriller
+    - Science Fiction
+    - Drama

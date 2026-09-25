@@ -14,6 +14,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTM5MDY5MDQyOV5BMl5BanBnXkFtZTgwMzM3NzMxMDE@._V1_SX300.jpg
   letterboxd_slug: dazed-and-confused
   letterboxd_rating: 3.89
+  genres:
+    - Comedy
+    - Drama
 
 - id: dallas-buyers-club
   tmdb_id: 152532
@@ -27,6 +30,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTYwMTA4MzgyNF5BMl5BanBnXkFtZTgwMjEyMjE0MDE@._V1_SX300.jpg
   letterboxd_slug: dallas-buyers-club
   letterboxd_rating: 4.03
+  genres:
+    - History
+    - Drama
 
 - id: magic-mike
   tmdb_id: 77930
@@ -40,6 +46,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTQzMDMzOTA5M15BMl5BanBnXkFtZTcwMjc4MTg4Nw@@._V1_SX300.jpg
   letterboxd_slug: magic-mike
   letterboxd_rating: 3
+  genres:
+    - Comedy
+    - Drama
 
 - id: the-lincoln-lawyer
   tmdb_id: 50348
@@ -53,6 +62,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTQ4NDE4NTY5MV5BMl5BanBnXkFtZTcwODQyMTkxNA@@._V1_SX300.jpg
   letterboxd_slug: the-lincoln-lawyer
   letterboxd_rating: 3.6
+  genres:
+    - Thriller
+    - Crime
+    - Drama
 
 - id: killer-joe
   tmdb_id: 73567
@@ -66,6 +79,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNDZmNDk5NGUtYTYwOS00MGRlLWFhZjAtOGE2MzMzM2YzNGUyXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: killer-joe
   letterboxd_rating: 3.5
+  genres:
+    - Drama
+    - Crime
+    - Thriller
 
 - id: mud
   tmdb_id: 103731
@@ -84,6 +101,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTU2MzcyODgyNV5BMl5BanBnXkFtZTcwNTc4MDYwOQ@@._V1_SX300.jpg
   letterboxd_slug: mud
   letterboxd_rating: 3.71
+  genres:
+    - Drama
 
 - id: interstellar
   tmdb_id: 157336
@@ -102,3 +121,7 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYzdjMDAxZGItMjI2My00ODA1LTlkNzItOWFjMDU5ZDJlYWY3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg
   letterboxd_slug: interstellar
   letterboxd_rating: 4.46
+  genres:
+    - Science Fiction
+    - Drama
+    - Adventure

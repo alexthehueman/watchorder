@@ -19,6 +19,9 @@
   letterboxd_slug: velvet-goldmine
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ig/hm/ez/xg/velvet-goldmine-1200-1200-675-675-crop-000000.jpg?v=dc5ce9f40c
   letterboxd_rating: 3.85
+  genres:
+    - Drama
+    - Music
 
 - id: dark-waters
   tmdb_id: 552178
@@ -31,6 +34,9 @@
   letterboxd_slug: dark-waters-2019
   poster_url: https://a.ltrbxd.com/resized/sm/upload/eg/uj/8j/n1/dark-waters-1200-1200-675-675-crop-000000.jpg?v=c46a6c4022
   letterboxd_rating: 3.82
+  genres:
+    - Thriller
+    - Drama
 
 - id: poison
   tmdb_id: 47620
@@ -48,3 +54,7 @@
   letterboxd_slug: poison
   poster_url: https://a.ltrbxd.com/resized/sm/upload/49/44/nb/9d/poison-1200-1200-675-675-crop-000000.jpg?v=2a3319a2ef
   letterboxd_rating: 3.52
+  genres:
+    - Drama
+    - Science Fiction
+    - Horror

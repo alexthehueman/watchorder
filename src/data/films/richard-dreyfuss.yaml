@@ -13,6 +13,10 @@
   letterboxd_slug: the-goodbye-girl
   poster_url: https://a.ltrbxd.com/resized/sm/upload/1w/f0/wk/9w/goodbyegirl-1200-1200-675-675-crop-000000.jpg?v=c1558042eb
   letterboxd_rating: 3.7
+  genres:
+    - Romance
+    - Drama
+    - Comedy
 
 - id: american-graffiti
   tmdb_id: 838
@@ -25,3 +29,6 @@
   letterboxd_slug: american-graffiti
   poster_url: https://a.ltrbxd.com/resized/sm/upload/sm/e8/wi/gy/american-graffiti-1200-1200-675-675-crop-000000.jpg?v=aec24c0dd7
   letterboxd_rating: 3.73
+  genres:
+    - Drama
+    - Comedy

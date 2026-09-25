@@ -14,6 +14,9 @@
   letterboxd_slug: the-squid-and-the-whale
   poster_url: https://a.ltrbxd.com/resized/sm/upload/kb/no/pz/ks/squid-and-whale-1200-1200-675-675-crop-000000.jpg?v=2468f3fdff
   letterboxd_rating: 3.7
+  genres:
+    - Comedy
+    - Drama
 
 - id: gettysburg
   tmdb_id: 10655
@@ -31,3 +34,7 @@
   letterboxd_slug: gettysburg
   poster_url: https://a.ltrbxd.com/resized/sm/upload/v8/6e/sm/zc/ikwP1BTRHlqula7bbPtT7Hk0Fkq-1200-1200-675-675-crop-000000.jpg?v=da30b9675f
   letterboxd_rating: 3.67
+  genres:
+    - Drama
+    - War
+    - History

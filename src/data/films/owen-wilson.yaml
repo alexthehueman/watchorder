@@ -14,6 +14,10 @@
   letterboxd_slug: midnight-in-paris
   poster_url: https://a.ltrbxd.com/resized/sm/upload/sh/7j/y2/8g/midnight-in-paris-1200-1200-675-675-crop-000000.jpg?v=ffe3c5d93b
   letterboxd_rating: 3.71
+  genres:
+    - Comedy
+    - Fantasy
+    - Romance
 
 - id: zoolander
   tmdb_id: 9398
@@ -26,3 +30,5 @@
   letterboxd_slug: zoolander
   poster_url: https://a.ltrbxd.com/resized/sm/upload/7r/nx/p5/1s/zoolander-1200-1200-675-675-crop-000000.jpg?v=a2d69e831f
   letterboxd_rating: 3.42
+  genres:
+    - Comedy

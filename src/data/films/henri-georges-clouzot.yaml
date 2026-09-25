@@ -10,6 +10,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 0 }
   letterboxd_slug: le-corbeau
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ur/ym/k4/7z/le%20corbeau-1200-1200-675-675-crop-000000.jpg?v=73679c5b6c
+  genres:
+    - Thriller
+    - Mystery
+    - Drama
 
 - id: quai-des-orfevres
   tmdb_id: null
@@ -30,6 +34,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   letterboxd_slug: the-wages-of-fear
   poster_url: https://a.ltrbxd.com/resized/sm/upload/w0/8k/qz/hj/8JaU1ez5TSrRSmncB0Xh2YQavXP-1200-1200-675-675-crop-000000.jpg?v=8d2369585b
+  genres:
+    - Adventure
+    - Thriller
+    - Drama
 
 - id: les-diaboliques
   tmdb_id: null

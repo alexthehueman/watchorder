@@ -23,6 +23,10 @@
   letterboxd_slug: casino-royale-2006
   poster_url: https://a.ltrbxd.com/resized/sm/upload/og/c2/6d/8e/casino-royale-1200-1200-675-675-crop-000000.jpg?v=293e5f9f36
   letterboxd_rating: 4.04
+  genres:
+    - Thriller
+    - Action
+    - Adventure
 
 - id: logan-lucky
   tmdb_id: 399170
@@ -35,6 +39,11 @@
   letterboxd_slug: logan-lucky
   poster_url: https://a.ltrbxd.com/resized/sm/upload/b3/sc/in/qz/logan-lucky-1200-1200-675-675-crop-000000.jpg?v=ab23981790
   letterboxd_rating: 3.56
+  genres:
+    - Crime
+    - Comedy
+    - Action
+    - Drama
 
 - id: glass-onion
   tmdb_id: null
@@ -66,3 +75,7 @@
   letterboxd_slug: layer-cake
   poster_url: https://a.ltrbxd.com/resized/sm/upload/2k/wb/02/vy/layer-1200-1200-675-675-crop-000000.jpg?v=3643054b49
   letterboxd_rating: 3.53
+  genres:
+    - Crime
+    - Thriller
+    - Drama

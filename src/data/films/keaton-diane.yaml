@@ -17,6 +17,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNjZlOWE5N2UtMTdhZC00NjU5LTg2MjYtOGU4NDhhNWNlMmRlXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: annie-hall
   letterboxd_rating: 4
+  genres:
+    - Drama
+    - Romance
+    - Comedy
 
 - id: the-first-wives-club
   tmdb_id: 2925
@@ -30,6 +34,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BODBjMzg2MTktYjhjNS00ODNjLTk3MzYtZjAyYjg2NjZiNjVjXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-first-wives-club
   letterboxd_rating: 3.72
+  genres:
+    - Comedy
 
 - id: marvins-room
   tmdb_id: 9819
@@ -43,6 +49,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZjQzY2E4NjgtMGMwNC00NGQzLWE0ZDEtYzdkNzExMzViYTE3XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: marvins-room
   letterboxd_rating: 3.29
+  genres:
+    - Drama
 
 - id: reds
   tmdb_id: 18254
@@ -61,6 +69,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNDFjMThlYTMtMjMwMy00MjgxLTlhZjgtZTY2ZTdmYjhmY2U2XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: reds
   letterboxd_rating: 3.93
+  genres:
+    - Drama
+    - History
+    - Romance
 
 - id: somethings-gotta-give
   tmdb_id: 6964
@@ -74,6 +86,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZjZjMWM4MmQtMGQ5Ni00MzRiLWFiNjAtYzg2NmZmNGJmMGI4XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: somethings-gotta-give
   letterboxd_rating: 3.26
+  genres:
+    - Romance
+    - Comedy
+    - Drama
 
 - id: baby-boom
   tmdb_id: 11215
@@ -87,3 +103,7 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTY4NDY2ODMzOV5BMl5BanBnXkFtZTcwMjQ0MTcyNA@@._V1_SX300.jpg
   letterboxd_slug: baby-boom
   letterboxd_rating: 3.21
+  genres:
+    - Drama
+    - Comedy
+    - Romance

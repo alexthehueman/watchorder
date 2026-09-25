@@ -19,6 +19,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTYwMzMzMDI0NF5BMl5BanBnXkFtZTgwNDQ3NjI3NjE@._V1_SX300.jpg
   letterboxd_slug: beasts-of-no-nation
   letterboxd_rating: 3.99
+  genres:
+    - War
+    - Drama
 
 - id: mandela-long-walk-to-freedom
   tmdb_id: 192136
@@ -32,6 +35,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTg1NTQ1NDczNV5BMl5BanBnXkFtZTcwNDQyMDU1OQ@@._V1_SX300.jpg
   letterboxd_slug: mandela-long-walk-to-freedom
   letterboxd_rating: 3.3
+  genres:
+    - Drama
+    - History
 
 - id: pacific-rim
   tmdb_id: 68726
@@ -45,6 +51,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTY3MTI5NjQ4Nl5BMl5BanBnXkFtZTcwOTU1OTU0OQ@@._V1_SX300.jpg
   letterboxd_slug: pacific-rim
   letterboxd_rating: 3.52
+  genres:
+    - Science Fiction
+    - Action
+    - Adventure
 
 - id: the-suicide-squad
   tmdb_id: 436969
@@ -58,6 +68,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMWU3Y2NlZmEtMjJjNS00ZWMxLWE1MzctYWYyMjMzMDdkNTE4XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg
   letterboxd_slug: the-suicide-squad
   letterboxd_rating: 3.48
+  genres:
+    - Action
+    - Comedy
+    - Adventure
 
 - id: molly-s-game
   tmdb_id: 396371
@@ -71,3 +85,6 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNmYxYTg1ZDktNjc1Yy00MjVlLTk2Y2MtNmMzZTBkZDNjZjdlXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: mollys-game
   letterboxd_rating: 3.59
+  genres:
+    - Drama
+    - Crime

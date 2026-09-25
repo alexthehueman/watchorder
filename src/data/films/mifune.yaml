@@ -16,6 +16,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BODI1MDE2MGUtNzIwNi00ZWZiLTgzYWItNTcwNjYxNGJkYzc2XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: drunken-angel
   letterboxd_rating: 3.91
+  genres:
+    - Drama
 
 - id: rashomon
   tmdb_id: 548
@@ -34,6 +36,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZDlkYjViMDAtYjkxNy00ZDk1LWE5MmUtNDc4NDU3ZWJmOTYzXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: rashomon
   letterboxd_rating: 4.19
+  genres:
+    - Crime
+    - Drama
+    - Mystery
 
 - id: seven-samurai
   tmdb_id: 346
@@ -47,6 +53,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZjliMWExOTMtZDQ3ZS00NWU3LWIyN2EtMjllNzk3ZTNlYzg4XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: seven-samurai
   letterboxd_rating: 4.6
+  genres:
+    - Action
+    - Drama
 
 - id: i-live-in-fear
   tmdb_id: 21490
@@ -60,6 +69,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNDgwNzk0NjItYzUyNS00ODI2LWFhM2MtZTRhOGQ3YjAyM2Q1XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: i-live-in-fear
   letterboxd_rating: 3.74
+  genres:
+    - Drama
 
 - id: throne-of-blood
   tmdb_id: 3777
@@ -73,6 +84,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYTdlYjFlZTAtMTA5Yy00Y2UzLWI0ZjEtYWI2Njk0NTI4OGZlXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: throne-of-blood
   letterboxd_rating: 4.26
+  genres:
+    - History
+    - Drama
 
 - id: the-hidden-fortress
   tmdb_id: 1059
@@ -86,6 +100,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BOGNmMGQ4YTQtYjA2My00ZDMyLWIzYzYtYmNhOGRjM2RjNTZjXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-hidden-fortress
   letterboxd_rating: 4.15
+  genres:
+    - Drama
+    - Action
+    - Adventure
 
 - id: the-bad-sleep-well
   tmdb_id: 31589
@@ -99,6 +117,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNjE5YTU4MzEtNzI0YS00MjM5LWEzNWYtMTcxZmI0ZDE2M2MxXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-bad-sleep-well
   letterboxd_rating: 4.12
+  genres:
+    - Thriller
+    - Drama
+    - Crime
 
 - id: yojimbo
   tmdb_id: 11878
@@ -112,6 +134,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYzFkODA1N2QtY2UyMC00NTMwLWEyNzctMmE3YjIzNzE1MzY4XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: yojimbo
   letterboxd_rating: 4.3
+  genres:
+    - Thriller
+    - Drama
 
 - id: sanjuro
   tmdb_id: 11712
@@ -125,6 +150,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYzllNDdhYmEtMGI5YS00YTk0LTlmNzMtNmM0MjNjYjBiN2JkXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: sanjuro
   letterboxd_rating: 4.14
+  genres:
+    - Comedy
+    - Action
+    - Drama
 
 - id: high-and-low
   tmdb_id: 12493
@@ -138,6 +167,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMGJiNzllYjktODAzNS00OGUzLTlmY2MtMjA2ZTZhYTY1OTc4XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: high-and-low
   letterboxd_rating: 4.61
+  genres:
+    - Thriller
+    - Crime
+    - Drama
 
 - id: red-beard
   tmdb_id: 3780
@@ -151,6 +184,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjE1MDRlMmQtYTU1Mi00YzY2LTkxNGQtZGMyZTNkN2U1M2VjXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: red-beard
   letterboxd_rating: 4.38
+  genres:
+    - Drama
 
 - id: samurai-rebellion
   tmdb_id: 27031
@@ -163,3 +198,5 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BY2MyYmQxODEtNDk3Mi00Mjc2LTgxMTMtNWQyZmIzYjA4MzgyXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: samurai-rebellion
   letterboxd_rating: 4.29
+  genres:
+    - Drama

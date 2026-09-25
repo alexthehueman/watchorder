@@ -13,6 +13,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjdlOWE3NGEtNjU3Zi00ZmU4LTlmYTktMWY1OGIxYmY1NThiXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: no-3-1997
   letterboxd_rating: 3.38
+  genres:
+    - Drama
+    - Action
+    - Comedy
 
 - id: failan
   tmdb_id: 18704
@@ -30,6 +34,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BN2M4YTFmNDgtMjE2OC00ODIwLWJkMTgtYjM0NjAzYzY1M2U2XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: failan
   letterboxd_rating: 3.76
+  genres:
+    - Drama
+    - Romance
 
 - id: crying-fist
   tmdb_id: 40452
@@ -42,6 +49,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMDAyZTMzNzgtNGJkMS00Yzk3LWE3YmQtNjViMjhiZTkzMGY3XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: crying-fist
   letterboxd_rating: 3.6
+  genres:
+    - Drama
+    - Action
 
 - id: i-saw-the-devil
   tmdb_id: 49797
@@ -54,6 +64,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BM2Q1ZGZiNTYtMWNjOC00NmU2LTg1MDQtZGZkNmY0Y2RlOTBmXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: i-saw-the-devil
   letterboxd_rating: 4.04
+  genres:
+    - Thriller
+    - Horror
 
 - id: nameless-gangster
   tmdb_id: 89501
@@ -65,6 +78,9 @@
   poster_url: https://a.ltrbxd.com/resized/sm/upload/jp/8m/ig/44/nameless-1200-1200-675-675-crop-000000.jpg?v=feb1b6bc08
   letterboxd_slug: nameless-gangster
   letterboxd_rating: 3.64
+  genres:
+    - Thriller
+    - Crime
 
 - id: new-world
   tmdb_id: 165213
@@ -77,6 +93,11 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTYxODg5ODMxOV5BMl5BanBnXkFtZTcwNzkwMzYyOQ@@._V1_SX300.jpg
   letterboxd_slug: new-world
   letterboxd_rating: 3.84
+  genres:
+    - Thriller
+    - Crime
+    - Drama
+    - Action
 
 - id: the-admiral-roaring-currents
   tmdb_id: 282631
@@ -89,3 +110,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjA1MzE5NTMyNl5BMl5BanBnXkFtZTgwODA4MzI0MjE@._V1_SX300.jpg
   letterboxd_slug: the-admiral-roaring-currents
   letterboxd_rating: 3.47
+  genres:
+    - Action
+    - War
+    - History
+    - Drama

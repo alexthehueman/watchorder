@@ -20,6 +20,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTI1NDA4NTMyN15BMl5BanBnXkFtZTYwNTA2ODc5._V1_SX300.jpg
   letterboxd_slug: joint-security-area
   letterboxd_rating: 4.23
+  genres:
+    - Thriller
+    - Drama
+    - Mystery
 
 - id: oldboy
   tmdb_id: 670
@@ -38,6 +42,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTAwNzNjYWItZmI0Ni00ZTcyLWIwNWMtZjlmNGMxZTEyYTJmXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: oldboy
   letterboxd_rating: 4.36
+  genres:
+    - Thriller
+    - Mystery
+    - Action
 
 - id: lady-vengeance
   tmdb_id: 4550
@@ -51,6 +59,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTczMTI1MzYwMV5BMl5BanBnXkFtZTgwMDI1OTE3MjE@._V1_SX300.jpg
   letterboxd_slug: lady-vengeance
   letterboxd_rating: 4.07
+  genres:
+    - Thriller
+    - Drama
 
 - id: stoker
   tmdb_id: 86825
@@ -64,6 +75,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjI3MTM5ODI5MV5BMl5BanBnXkFtZTcwMjE1Mzc4OA@@._V1_SX300.jpg
   letterboxd_slug: stoker
   letterboxd_rating: 3.55
+  genres:
+    - Horror
+    - Drama
+    - Thriller
 
 - id: the-handmaiden
   tmdb_id: 290098
@@ -82,6 +97,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BOTllZDI1OGItOGUxNS00OGZhLWIzMjAtYzllZTY1YTA0ZmYwXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-handmaiden
   letterboxd_rating: 4.39
+  genres:
+    - Thriller
+    - Romance
+    - Drama
 
 - id: decision-to-leave
   tmdb_id: 705996
@@ -100,3 +119,7 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BN2NhZjcxYjItNDhlOC00Y2U2LWE4NDktMDJhNTQ1NzNjMmNmXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: decision-to-leave
   letterboxd_rating: 4
+  genres:
+    - Mystery
+    - Thriller
+    - Romance

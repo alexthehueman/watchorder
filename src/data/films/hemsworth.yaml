@@ -14,6 +14,10 @@
   letterboxd_slug: thor
   poster_url: https://a.ltrbxd.com/resized/sm/upload/o8/mt/91/41/thor-20-1200-1200-675-675-crop-000000.jpg?v=4d6fafd09b
   letterboxd_rating: 2.89
+  genres:
+    - Action
+    - Adventure
+    - Fantasy
 
 - id: rush
   tmdb_id: 96721
@@ -26,6 +30,9 @@
   letterboxd_slug: rush-2013
   poster_url: https://a.ltrbxd.com/resized/sm/upload/hj/qm/jr/40/rush-1200-1200-675-675-crop-000000.jpg?v=75730b7d17
   letterboxd_rating: 3.89
+  genres:
+    - Drama
+    - Action
 
 - id: bad-times-at-the-el-royale
   tmdb_id: 446021
@@ -43,6 +50,11 @@
   letterboxd_slug: bad-times-at-the-el-royale
   poster_url: https://a.ltrbxd.com/resized/sm/upload/en/ad/g2/u2/bad-times-at-the-el-royale-1200-1200-675-675-crop-000000.jpg?v=4d4ed29d5a
   letterboxd_rating: 3.47
+  genres:
+    - Crime
+    - Drama
+    - Mystery
+    - Thriller
 
 - id: ghostbusters-2016
   tmdb_id: 43074
@@ -55,3 +67,7 @@
   letterboxd_slug: ghostbusters-2016
   poster_url: https://a.ltrbxd.com/resized/sm/upload/43/54/xj/n0/ghostbusters-2016-1200-1200-675-675-crop-000000.jpg?v=272abaf254
   letterboxd_rating: 2.35
+  genres:
+    - Fantasy
+    - Action
+    - Comedy

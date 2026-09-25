@@ -21,6 +21,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYTcyNDA4Y2ItZGJiNy00YWJjLWFhNDgtMzM4M2NkNWQ1NDVmXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-grifters
   letterboxd_rating: 3.43
+  genres:
+    - Drama
+    - Crime
 
 - id: the-addams-family
   tmdb_id: 2907
@@ -34,6 +37,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZWY0MzVlNGEtYzM1MC00OTI4LWE3ZTQtNWJjYzk2Y2MyNjVkXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-addams-family
   letterboxd_rating: 3.79
+  genres:
+    - Comedy
+    - Fantasy
 
 - id: the-witches
   tmdb_id: 10166
@@ -47,6 +53,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjI1MDg5NzAyMV5BMl5BanBnXkFtZTgwNzU5Mzk4NjE@._V1_SX300.jpg
   letterboxd_slug: the-witches
   letterboxd_rating: 3.43
+  genres:
+    - Horror
+    - Family
+    - Fantasy
 
 - id: crimes-and-misdemeanors
   tmdb_id: 11562
@@ -65,6 +75,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNTQwZjFjODItNzI3ZS00ODUzLWI3MWUtNjU2NDQwNjQxMjhlXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: crimes-and-misdemeanors
   letterboxd_rating: 4.04
+  genres:
+    - Drama
+    - Crime
+    - Comedy
 
 - id: ever-after
   tmdb_id: 9454
@@ -77,6 +91,10 @@
   letterboxd_slug: ever-after-1998
   poster_url: https://a.ltrbxd.com/resized/sm/upload/9s/bq/gj/dv/everafter-1200-1200-675-675-crop-000000.jpg?v=760eed933e
   letterboxd_rating: 3.71
+  genres:
+    - Romance
+    - Comedy
+    - Drama
 
 - id: the-dead
   tmdb_id: 39507
@@ -95,3 +113,5 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNzNiMTExNmEtOTEzYS00MDIwLWExOTEtMzM0MTQ2MTFkYjQ1XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-dead
   letterboxd_rating: 3.74
+  genres:
+    - Drama

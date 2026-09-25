@@ -15,6 +15,12 @@
   letterboxd_slug: xxx
   poster_url: https://a.ltrbxd.com/resized/sm/upload/f2/78/65/a0/xxx-1200-1200-675-675-crop-000000.jpg?v=9dbc682cb9
   letterboxd_rating: 2.57
+  genres:
+    - Action
+    - Crime
+    - Thriller
+    - Drama
+    - Adventure
 
 - id: the-iron-giant
   tmdb_id: 10386
@@ -27,6 +33,12 @@
   letterboxd_slug: the-iron-giant
   poster_url: https://a.ltrbxd.com/resized/sm/upload/xq/b9/aq/52/the-iron-giant-1200-1200-675-675-crop-000000.jpg?v=1263519a7f
   letterboxd_rating: 4.29
+  genres:
+    - Animation
+    - Drama
+    - Science Fiction
+    - Adventure
+    - Family
 
 - id: boiler-room
   tmdb_id: 14181
@@ -44,6 +56,10 @@
   letterboxd_slug: boiler-room
   poster_url: https://a.ltrbxd.com/resized/sm/upload/jr/67/52/0m/boiler-room-1200-1200-675-675-crop-000000.jpg?v=deb668e387
   letterboxd_rating: 3.36
+  genres:
+    - Drama
+    - Thriller
+    - Crime
 
 - id: find-me-guilty
   tmdb_id: 9950
@@ -61,3 +77,7 @@
   letterboxd_slug: find-me-guilty
   poster_url: https://a.ltrbxd.com/resized/sm/upload/3j/ii/i2/iz/laizoO1KtbCBUBSrsJe7QEkb044-1200-1200-675-675-crop-000000.jpg?v=b18defad0d
   letterboxd_rating: 3.42
+  genres:
+    - Crime
+    - Comedy
+    - Drama

@@ -15,6 +15,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYjVlNTk3NGYtOWE0OC00MDI4LThlZWItZGMwMTdmYzcwM2Y5XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-untouchables
   letterboxd_rating: 3.86
+  genres:
+    - History
+    - Thriller
+    - Crime
 
 - id: field-of-dreams
   tmdb_id: 2323
@@ -28,6 +32,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZTEwMGYzNDktOWEyMi00NTJjLWE5MGQtNmNlNDkxOTYyZDA5XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: field-of-dreams
   letterboxd_rating: 3.63
+  genres:
+    - Drama
+    - Fantasy
 
 - id: dances-with-wolves
   tmdb_id: 581
@@ -41,6 +48,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTY3OTI5NDczN15BMl5BanBnXkFtZTcwNDA0NDY3Mw@@._V1_SX300.jpg
   letterboxd_slug: dances-with-wolves
   letterboxd_rating: 3.94
+  genres:
+    - Western
+    - Drama
+    - Adventure
 
 - id: tin-cup
   tmdb_id: 10478
@@ -54,6 +65,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZmU1YzE5MWEtMzc4MS00MzQ3LWEwMzYtMDg0ZTFlMmVhMzNiXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: tin-cup
   letterboxd_rating: 3.19
+  genres:
+    - Comedy
+    - Romance
 
 - id: the-bodyguard
   tmdb_id: 619
@@ -67,6 +81,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNTM4ZWNjZmItMmUxNy00Y2M2LTlhZmItMjc0NjQzZmNiOWY5XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-bodyguard-1992
   letterboxd_rating: 3.3
+  genres:
+    - Drama
+    - Action
+    - Romance
 
 - id: mr-brooks
   tmdb_id: 3432
@@ -85,3 +103,6 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTQyNTk5MTMxN15BMl5BanBnXkFtZTcwNTc0ODI1NA@@._V1_SX300.jpg
   letterboxd_slug: mr-brooks
   letterboxd_rating: 3.23
+  genres:
+    - Thriller
+    - Crime

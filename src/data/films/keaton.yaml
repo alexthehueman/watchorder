@@ -19,6 +19,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNDY2MjRmZWQtZTRmYS00YjA2LTg0ZTgtYzBjODJiNTFkMTc4XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: our-hospitality
   letterboxd_rating: 3.89
+  genres:
+    - Comedy
+    - Thriller
+    - Romance
 
 - id: sherlock-jr
   tmdb_id: 992
@@ -37,6 +41,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjQzM2E2NjYtYmRjMC00ZmVlLTljZTgtNmQ5MGZlNDYyZTc5XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: sherlock-jr
   letterboxd_rating: 4.36
+  genres:
+    - Comedy
+    - Action
+    - Mystery
 
 - id: the-navigator
   tmdb_id: 32318
@@ -50,6 +58,11 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BM2E4Y2E2MzItMzMyOS00OWM1LWIxMDAtZTk5N2UxOGY3OWIzXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-navigator
   letterboxd_rating: 3.73
+  genres:
+    - Action
+    - Romance
+    - Adventure
+    - Comedy
 
 - id: seven-chances
   tmdb_id: 32600
@@ -63,6 +76,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZTY5ZjU1MjAtZDBiYi00ZmJlLTllMzItOTkwYTZkZjc5MWNjXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: seven-chances
   letterboxd_rating: 3.88
+  genres:
+    - Comedy
+    - Romance
 
 - id: the-general
   tmdb_id: 961
@@ -81,6 +97,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTVhM2Y1MDUtMDkxYi00Y2UxLWI2MTMtZjMzYTY4ODM4MGIzXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-general
   letterboxd_rating: 4.18
+  genres:
+    - Romance
+    - Comedy
+    - War
 
 - id: steamboat-bill-jr
   tmdb_id: 25768
@@ -94,6 +114,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BOTg2MjUyMjYyOV5BMl5BanBnXkFtZTgwNjM0NDAwMjE@._V1_SX300.jpg
   letterboxd_slug: steamboat-bill-jr
   letterboxd_rating: 4.02
+  genres:
+    - Comedy
+    - Romance
 
 - id: the-cameraman
   tmdb_id: 31411
@@ -107,6 +130,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNTMyYzllZjEtNDg0Ni00MDc1LTkzZTYtN2E1NzJiMWMxY2Q5XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-cameraman
   letterboxd_rating: 4.11
+  genres:
+    - Romance
+    - Comedy
+    - Drama
 
 - id: three-ages
   tmdb_id: 32628
@@ -120,6 +147,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjI3OTEzODA4NF5BMl5BanBnXkFtZTgwODc0NDIwMjE@._V1_SX300.jpg
   letterboxd_slug: three-ages
   letterboxd_rating: 3.46
+  genres:
+    - Comedy
 
 # The four below widen a corpus that was otherwise eight films from a single five-year window, all
 # of them short comedies with near-identical profiles — the quiz had literally nothing to move
@@ -138,6 +167,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYjYzYjFlMDctZDEzNS00MjQxLTkzNTUtZjgyMjkyNWU2YjVmXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-saphead
   letterboxd_rating: 3.05
+  genres:
+    - Drama
+    - Comedy
 
 - id: go-west
   tmdb_id: 33015
@@ -156,6 +188,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTc4Nzk4NTYtOTQ1MC00NDhhLWJjYWItMGFkMWM1OGM4MzI2XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: go-west
   letterboxd_rating: 3.67
+  genres:
+    - Comedy
+    - Western
 
 - id: battling-butler
   tmdb_id: 51371
@@ -174,6 +209,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNzc1ODMxMDYtNWFhMS00MmIyLTlkYWMtYWQ5NDE0ODAzYTk1XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_SX300.jpg
   letterboxd_slug: battling-butler
   letterboxd_rating: 3.59
+  genres:
+    - Romance
+    - Comedy
 
 - id: college
   tmdb_id: 34847
@@ -187,3 +225,7 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMzU1NmExNWItZDc1OS00NTc4LTg1NzctNGQ3NDYwYzBmMjIwXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: college
   letterboxd_rating: 3.36
+  genres:
+    - Drama
+    - Romance
+    - Comedy

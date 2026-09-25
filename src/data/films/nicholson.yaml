@@ -12,6 +12,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTc2MjI2NDc4Ml5BMl5BanBnXkFtZTgwODI4NzU0MTI@._V1_SX300.jpg
   letterboxd_slug: easy-rider
   letterboxd_rating: 3.77
+  genres:
+    - Adventure
+    - Drama
 
 - id: five-easy-pieces
   tmdb_id: 26617
@@ -25,6 +28,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNWVmNWEwMDQtZmZiZi00ZTAyLTg4YTAtZTIzMjk1N2U1MTgyXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: five-easy-pieces
   letterboxd_rating: 3.86
+  genres:
+    - Drama
 
 - id: chinatown
   tmdb_id: 829
@@ -43,6 +48,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNmRmZTE0NmUtZjhiZi00MzQ3LTk3ZjctN2Q3ODYzY2U3MDk3XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: chinatown
   letterboxd_rating: 4.3
+  genres:
+    - Thriller
+    - Mystery
+    - Crime
 
 - id: one-flew-over-the-cuckoos-nest
   tmdb_id: 510
@@ -56,6 +65,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYjBkMjgzMzYtNzRiMS00NDc3LWE4YTUtZjYxYjZhNjNhYzhhXkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg
   letterboxd_slug: one-flew-over-the-cuckoos-nest
   letterboxd_rating: 4.37
+  genres:
+    - Drama
 
 - id: the-shining
   tmdb_id: 694
@@ -69,6 +80,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNmM5ZThhY2ItOGRjOS00NzZiLWEwYTItNDgyMjFkOTgxMmRiXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-shining
   letterboxd_rating: 4.21
+  genres:
+    - Horror
+    - Thriller
 
 - id: terms-of-endearment
   tmdb_id: 11050
@@ -82,6 +96,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTk0ODM4NDk0MF5BMl5BanBnXkFtZTgwMTEzMDUxMDE@._V1_SX300.jpg
   letterboxd_slug: terms-of-endearment
   letterboxd_rating: 3.83
+  genres:
+    - Comedy
+    - Drama
 
 - id: prizzis-honor
   tmdb_id: 2075
@@ -95,6 +112,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjFiYjUzZWEtZmQxMy00NzI1LWJiZjUtNjA4MTczOTY2MjM0XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: prizzis-honor
   letterboxd_rating: 3.27
+  genres:
+    - Crime
+    - Comedy
+    - Romance
 
 - id: batman-1989
   tmdb_id: 268
@@ -108,6 +129,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYzZmZWViM2EtNzhlMi00NzBlLWE0MWEtZDFjMjk3YjIyNTBhXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: batman-1989
   letterboxd_rating: 3.64
+  genres:
+    - Fantasy
+    - Action
+    - Crime
 
 - id: a-few-good-men
   tmdb_id: 881
@@ -121,6 +146,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BOGVhMTUwYzEtZGQ1ZC00Nzg1LTk0OGUtMDk0NDM0ZmZlN2E0XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: a-few-good-men
   letterboxd_rating: 4.07
+  genres:
+    - Drama
 
 - id: about-schmidt
   tmdb_id: 2755
@@ -134,3 +161,6 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTg3ODY2ODM3OF5BMl5BanBnXkFtZTYwOTQ5NTM3._V1_SX300.jpg
   letterboxd_slug: about-schmidt
   letterboxd_rating: 3.62
+  genres:
+    - Comedy
+    - Drama

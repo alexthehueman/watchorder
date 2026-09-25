@@ -13,6 +13,10 @@
   letterboxd_slug: pitch-perfect
   poster_url: https://a.ltrbxd.com/resized/sm/upload/gs/a1/be/e1/pitch-perfect-1200-1200-675-675-crop-000000.jpg?v=a86b3c829d
   letterboxd_rating: 3.65
+  genres:
+    - Music
+    - Comedy
+    - Romance
 
 - id: a-simple-favor
   tmdb_id: 484247
@@ -30,6 +34,10 @@
   letterboxd_slug: a-simple-favor
   poster_url: https://a.ltrbxd.com/resized/sm/upload/56/xb/kt/we/a-simple-favor-1200-1200-675-675-crop-000000.jpg?v=5871494d51
   letterboxd_rating: 3.14
+  genres:
+    - Thriller
+    - Mystery
+    - Comedy
 
 - id: 50-50
   tmdb_id: 40807
@@ -42,6 +50,9 @@
   letterboxd_slug: 50-50
   poster_url: https://a.ltrbxd.com/resized/sm/upload/yj/9b/2d/6s/50-50-1200-1200-675-675-crop-000000.jpg?v=04ea36c44e
   letterboxd_rating: 3.61
+  genres:
+    - Comedy
+    - Drama
 
 - id: into-the-woods
   tmdb_id: 224141
@@ -54,6 +65,9 @@
   letterboxd_slug: into-the-woods-2014
   poster_url: https://a.ltrbxd.com/resized/sm/upload/z9/ya/na/bf/into-the-woods-2014-1200-1200-675-675-crop-000000.jpg?v=3d0ac10554
   letterboxd_rating: 2.8
+  genres:
+    - Comedy
+    - Fantasy
 
 - id: rocket-science
   tmdb_id: 13068
@@ -66,6 +80,9 @@
   letterboxd_slug: rocket-science
   poster_url: https://a.ltrbxd.com/resized/sm/upload/cp/9g/v3/7r/rocket-science-1200-1200-675-675-crop-000000.jpg?v=ee67f8bfa6
   letterboxd_rating: 3.4
+  genres:
+    - Comedy
+    - Drama
 
 - id: twilight
   tmdb_id: 8966
@@ -78,6 +95,10 @@
   letterboxd_slug: twilight-2008
   poster_url: https://a.ltrbxd.com/resized/sm/upload/uh/t5/kc/3j/twilight-1200-1200-675-675-crop-000000.jpg?v=9ed28efa09
   letterboxd_rating: 3.11
+  genres:
+    - Drama
+    - Fantasy
+    - Romance
 
 - id: camp-x-ray
   tmdb_id: 244506
@@ -90,6 +111,8 @@
   letterboxd_slug: camp-x-ray
   poster_url: https://a.ltrbxd.com/resized/sm/upload/x2/l9/es/a7/camp-x-ray-1200-1200-675-675-crop-000000.jpg?v=ff9122f460
   letterboxd_rating: 3.32
+  genres:
+    - Drama
 
 - id: the-accountant
   tmdb_id: 302946
@@ -102,3 +125,7 @@
   letterboxd_slug: the-accountant-2016
   poster_url: https://a.ltrbxd.com/resized/sm/upload/dc/n4/l1/3l/the-accountant-1200-1200-675-675-crop-000000.jpg?v=e7ed2ca6ca
   letterboxd_rating: 3.36
+  genres:
+    - Crime
+    - Drama
+    - Thriller

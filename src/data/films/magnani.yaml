@@ -12,6 +12,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZWU1NzJlYjAtZWJlMi00NzdkLWJmMjktYTY2M2E0NGQyNjEwXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: rome-open-city
   letterboxd_rating: 4.17
+  genres:
+    - War
+    - Drama
 
 - id: volcano-1950
   tmdb_id: 142926
@@ -23,6 +26,8 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
   poster_url: https://a.ltrbxd.com/resized/film-poster/1/0/8/7/6/0/108760-volcano-0-230-0-345-crop.jpg?v=a480f1c11f
   letterboxd_slug: volcano-1950
+  genres:
+    - Drama
 
 - id: lamore
   tmdb_id: 43444
@@ -35,6 +40,8 @@
   letterboxd_slug: lamore-1948
   poster_url: https://a.ltrbxd.com/resized/sm/upload/tn/h4/3e/vg/iSP0I0XT1rqqWmpayD9OM50wrUm-1200-1200-675-675-crop-000000.jpg?v=c9ba062b1f
   letterboxd_rating: 3.51
+  genres:
+    - Drama
 
 - id: bellissima
   tmdb_id: 43372
@@ -48,6 +55,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYTgwOGEzODEtNTNlNy00ZWEyLThjZTUtMzIxMmVjODY0NzYxXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: bellissima
   letterboxd_rating: 3.87
+  genres:
+    - Drama
 
 - id: the-golden-coach
   tmdb_id: 56167
@@ -61,6 +70,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZjE5NmI5NjEtZDkwNS00MDliLWFkNDAtMWJkYWM1MTgzM2QyXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-golden-coach
   letterboxd_rating: 3.72
+  genres:
+    - Comedy
+    - Romance
+    - Drama
 
 - id: the-rose-tattoo
   tmdb_id: 65550
@@ -74,6 +87,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjM5YTBjMzctZjlhNi00YWYwLWE4MWMtY2Q2ODdiODhlMmVjXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-rose-tattoo
   letterboxd_rating: 3.31
+  genres:
+    - Drama
+    - Romance
 
 - id: wild-is-the-wind
   tmdb_id: 93528
@@ -87,6 +103,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BN2JmOGJlZDMtYWYxNS00ZmQzLTk4NGYtYmMxODIzZjE5NTI2XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: wild-is-the-wind
   letterboxd_rating: 3.35
+  genres:
+    - Drama
 
 - id: the-fugitive-kind
   tmdb_id: 47837
@@ -100,6 +118,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYTBmMWQwMGItMWVhNS00NGI2LTg1MzgtY2VkMjkwNmUyNjcxXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-fugitive-kind
   letterboxd_rating: 3.54
+  genres:
+    - Romance
+    - Drama
 
 - id: the-secret-of-santa-vittoria
   tmdb_id: 30298
@@ -113,6 +134,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYTcwNzY2NjEtMWJlYy00ZWI4LWE1MDYtMWU3ZGY3YzlmNTNiXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_SX300.jpg
   letterboxd_slug: the-secret-of-santa-vittoria
   letterboxd_rating: 3.62
+  genres:
+    - Comedy
+    - Drama
+    - War
 
 - id: mamma-roma
   tmdb_id: 47796
@@ -126,3 +151,5 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZTJkZmVkNmItNDVjYS00ZTkyLTlhNWEtYWRhZjQxNTE0YmY3XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: mamma-roma
   letterboxd_rating: 4.02
+  genres:
+    - Drama

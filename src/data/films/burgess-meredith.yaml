@@ -19,6 +19,8 @@
   letterboxd_slug: the-day-of-the-locust
   poster_url: https://a.ltrbxd.com/resized/sm/upload/8j/x4/eb/ej/day%20of%20the%20locust-1200-1200-675-675-crop-000000.jpg?v=639ee4c354
   letterboxd_rating: 3.58
+  genres:
+    - Drama
 
 - id: batman-the-movie
   tmdb_id: 2661
@@ -31,3 +33,7 @@
   letterboxd_slug: batman-the-movie
   poster_url: https://a.ltrbxd.com/resized/sm/upload/jk/ll/jw/r5/batman-1200-1200-675-675-crop-000000.jpg?v=05d77968cf
   letterboxd_rating: 3.31
+  genres:
+    - Comedy
+    - Action
+    - Crime

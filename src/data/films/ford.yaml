@@ -17,6 +17,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZmQ5ZGIyMjYtMjczYy00N2EzLWE3ZjMtNmI4ZDc3MDVmOWEwXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: stagecoach
   letterboxd_rating: 3.97
+  genres:
+    - Western
 
 - id: young-mr-lincoln
   tmdb_id: 43838
@@ -30,6 +32,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNGRjNTgxMTUtOGUwMy00OWMxLTk3ZWEtMGViOGFhNDcxMzg4XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: young-mr-lincoln
   letterboxd_rating: 3.89
+  genres:
+    - History
+    - Drama
 
 - id: the-grapes-of-wrath
   tmdb_id: 596
@@ -48,6 +53,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZDgzZjk3OGYtNWI2Ny00MDg3LTgwYWEtNjI1ODAxNjA3ZmFlXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-grapes-of-wrath
   letterboxd_rating: 4.18
+  genres:
+    - Drama
 
 - id: how-green-was-my-valley
   tmdb_id: 43266
@@ -61,6 +68,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTRjMWI5MGUtOTVjYy00NjZmLWI3MjctNDFmZjA0ZWJiNmZkXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: how-green-was-my-valley
   letterboxd_rating: 4.03
+  genres:
+    - Drama
 
 - id: my-darling-clementine
   tmdb_id: 3088
@@ -74,6 +83,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNGRmNGZhNDktMmNhYi00ZjlmLWIwMDItNWNhYjA4MDA2YmJkXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: my-darling-clementine
   letterboxd_rating: 4.1
+  genres:
+    - Western
 
 - id: fort-apache
   tmdb_id: 37347
@@ -92,6 +103,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYjcwOWRmMWItNWE5MS00ZGM4LWEyOGItYWI4MzMzMWM4NTUyXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: fort-apache
   letterboxd_rating: 3.86
+  genres:
+    - Western
 
 - id: she-wore-a-yellow-ribbon
   tmdb_id: 13909
@@ -105,6 +118,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYTdmMDY5YzMtZDVjMC00NGY5LTg2ZTktMzFiYWQzYTE2YzgyXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: she-wore-a-yellow-ribbon
   letterboxd_rating: 3.61
+  genres:
+    - Drama
+    - Western
 
 - id: the-quiet-man
   tmdb_id: 3109
@@ -118,6 +134,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BOGEyZDk1YmEtOTVmOC00YWQxLWEzOWYtYzkzNGE0MTFhMzRkXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-quiet-man
   letterboxd_rating: 3.78
+  genres:
+    - Comedy
+    - Romance
+    - Drama
 
 - id: the-searchers
   tmdb_id: 3114
@@ -136,6 +156,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTQ4YWI0MTItMTE4YS00ZTNjLWE3ZTQtN2E2MTlhYWQxNDNmXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-searchers
   letterboxd_rating: 3.94
+  genres:
+    - Western
 
 - id: the-man-who-shot-liberty-valance
   tmdb_id: 11697
@@ -154,6 +176,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZmYzNjljYjgtNzY1MS00MjYwLWIwMmItOGJjOGNhNmZiZmYxXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-man-who-shot-liberty-valance
   letterboxd_rating: 4.28
+  genres:
+    - Western
 
 # Three added because the ten above were all shot in the same legible register and left M7 with
 # almost nothing to measure. These are where Ford is genuinely not that: The Informer is German
@@ -176,6 +200,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjZlMTQxZWYtN2Y4OS00NDdlLTk4MTYtOTQ2Mjg1YzM5MTMzXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-informer
   letterboxd_rating: 3.71
+  genres:
+    - Drama
+    - Crime
 
 - id: the-long-voyage-home
   tmdb_id: 52859
@@ -194,6 +221,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZWU5NjUzYjktY2YyMC00MmI0LTg4NGMtZmYzYzBiMjg0NjJiXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-long-voyage-home
   letterboxd_rating: 3.65
+  genres:
+    - Drama
+    - War
 
 - id: seven-women
   tmdb_id: 68692
@@ -212,3 +242,6 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTJlNGQzYTItMGY2OC00NmJiLThjZTctZDZiZDI3ODVlOGEyXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: 7-women
   letterboxd_rating: 3.86
+  genres:
+    - Drama
+    - History

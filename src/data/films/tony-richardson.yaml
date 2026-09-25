@@ -12,6 +12,8 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   letterboxd_slug: a-taste-of-honey
   poster_url: https://a.ltrbxd.com/resized/sm/upload/jq/25/1z/xp/atasteofhoney-1200-1200-675-675-crop-000000.jpg?v=b0443f2f6d
+  genres:
+    - Drama
 
 - id: the-loneliness-of-the-long-distance-runner
   tmdb_id: 47163
@@ -23,6 +25,8 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: the-loneliness-of-the-long-distance-runner
   poster_url: https://a.ltrbxd.com/resized/sm/upload/1m/51/1g/xu/loneliness-1200-1200-675-675-crop-000000.jpg?v=0042da48ef
+  genres:
+    - Drama
 
 - id: tom-jones
   tmdb_id: 21645
@@ -34,3 +38,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
   letterboxd_slug: tom-jones
   poster_url: https://a.ltrbxd.com/resized/sm/upload/cu/l9/au/g7/tomj-1200-1200-675-675-crop-000000.jpg?v=2c02c68a33
+  genres:
+    - Comedy
+    - History
+    - Romance

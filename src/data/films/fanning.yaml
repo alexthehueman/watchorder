@@ -13,6 +13,8 @@
   letterboxd_slug: the-beguiled-2017
   poster_url: https://a.ltrbxd.com/resized/sm/upload/95/ml/ww/iy/the-beguiled-1200-1200-675-675-crop-000000.jpg?v=24e7bc0249
   letterboxd_rating: 3.34
+  genres:
+    - Drama
 
 - id: the-neon-demon
   tmdb_id: 301365
@@ -30,6 +32,9 @@
   letterboxd_slug: the-neon-demon
   poster_url: https://a.ltrbxd.com/resized/sm/upload/md/nu/67/64/the-neon-demon-1200-1200-675-675-crop-000000.jpg?v=e06205543d
   letterboxd_rating: 3.14
+  genres:
+    - Horror
+    - Thriller
 
 - id: super-8
   tmdb_id: 37686
@@ -42,6 +47,10 @@
   letterboxd_slug: super-8
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ww/ce/fm/pt/super-8-200-1200-1200-675-675-crop-000000.jpg?v=3a378d76db
   letterboxd_rating: 3.53
+  genres:
+    - Thriller
+    - Science Fiction
+    - Mystery
 
 - id: somewhere
   tmdb_id: 39210
@@ -54,6 +63,8 @@
   letterboxd_slug: somewhere
   poster_url: https://a.ltrbxd.com/resized/sm/upload/du/6x/3u/0i/somewhere-1200-1200-675-675-crop-000000.jpg?v=b2fb1bead8
   letterboxd_rating: 3.41
+  genres:
+    - Drama
 
 - id: teen-spirit
   tmdb_id: 440918
@@ -66,3 +77,6 @@
   letterboxd_slug: teen-spirit-2018
   poster_url: https://a.ltrbxd.com/resized/sm/upload/wb/fp/5r/sr/teen-spirit-2018-1200-1200-675-675-crop-000000.jpg?v=4231cd2b0b
   letterboxd_rating: 3.02
+  genres:
+    - Drama
+    - Music

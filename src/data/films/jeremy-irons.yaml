@@ -13,6 +13,11 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
   letterboxd_slug: the-mission
   poster_url: https://a.ltrbxd.com/resized/sm/upload/a7/de/kt/g7/the-mission-1200-1200-675-675-crop-000000.jpg?v=a947780876
+  genres:
+    - Drama
+    - Adventure
+    - Action
+    - History
 
 - id: reversal-of-fortune
   tmdb_id: 38718
@@ -29,3 +34,5 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 0, sex: 0 }
   letterboxd_slug: reversal-of-fortune
   poster_url: https://a.ltrbxd.com/resized/sm/upload/fl/a2/up/v9/reversaloffortune-1200-1200-675-675-crop-000000.jpg?v=5531dd4d36
+  genres:
+    - Drama

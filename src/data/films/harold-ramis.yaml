@@ -20,6 +20,11 @@
   letterboxd_slug: multiplicity
   poster_url: https://a.ltrbxd.com/resized/sm/upload/0p/ew/mg/4e/multiplicity-1200-1200-675-675-crop-000000.jpg?v=90345f72bb
   letterboxd_rating: 3.02
+  genres:
+    - Romance
+    - Fantasy
+    - Comedy
+    - Science Fiction
 
 - id: year-one
   tmdb_id: 17610
@@ -37,6 +42,9 @@
   letterboxd_slug: year-one
   poster_url: https://a.ltrbxd.com/resized/sm/upload/t1/lh/f0/r2/year%20one-1200-1200-675-675-crop-000000.jpg?v=8a5264a213
   letterboxd_rating: 2.16
+  genres:
+    - Adventure
+    - Comedy
 
 - id: stuart-saves-his-family
   tmdb_id: 28033
@@ -54,6 +62,9 @@
   letterboxd_slug: stuart-saves-his-family
   poster_url: https://a.ltrbxd.com/resized/sm/upload/rm/cs/bo/67/hNWte9XlfxBeNuLW7CxwnZHuY1J-1200-1200-675-675-crop-000000.jpg?v=a5b321d4fc
   letterboxd_rating: 2.71
+  genres:
+    - Drama
+    - Comedy
 
 - id: the-ice-harvest
   tmdb_id: 9005
@@ -71,3 +82,8 @@
   letterboxd_slug: the-ice-harvest
   poster_url: https://a.ltrbxd.com/resized/sm/upload/xj/9a/4x/kx/nrcTv8t7WXnfgkjGDeDMtQqC35a-1200-1200-675-675-crop-000000.jpg?v=df092887e2
   letterboxd_rating: 3.13
+  genres:
+    - Thriller
+    - Drama
+    - Crime
+    - Comedy

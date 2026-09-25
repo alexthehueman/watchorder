@@ -12,6 +12,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: first-man
   poster_url: https://a.ltrbxd.com/resized/sm/upload/i0/8x/zs/v7/jc0krGRV3Lz5yCFYaLPp3QRiG6I-1200-1200-675-675-crop-000000.jpg?v=312d01cd4d
+  genres:
+    - History
+    - Drama
 
 - id: babylon
   tmdb_id: 615457
@@ -28,3 +31,6 @@
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 3 }
   letterboxd_slug: babylon-2022
   poster_url: https://a.ltrbxd.com/resized/sm/upload/dp/27/f7/je/babylon-1200-1200-675-675-crop-000000.jpg?v=e245c7cfce
+  genres:
+    - Comedy
+    - Drama

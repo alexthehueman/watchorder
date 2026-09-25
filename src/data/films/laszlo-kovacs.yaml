@@ -14,6 +14,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: paper-moon
   poster_url: https://a.ltrbxd.com/resized/sm/upload/r3/ra/26/g7/paper-moon-1200-1200-675-675-crop-000000.jpg?v=a2543e2d42
+  genres:
+    - Drama
+    - Crime
+    - Comedy
 
 - id: new-york-new-york
   tmdb_id: 12637
@@ -30,6 +34,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: new-york-new-york
   poster_url: https://a.ltrbxd.com/resized/sm/upload/u0/yi/f0/r7/new%20york%20new%20york-1200-1200-675-675-crop-000000.jpg?v=04d23a0907
+  genres:
+    - Drama
+    - Music
+    - Romance
 
 - id: targets
   tmdb_id: 19383
@@ -46,3 +54,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
   letterboxd_slug: targets
   poster_url: https://a.ltrbxd.com/resized/sm/upload/w6/jp/5c/41/targets-1200-1200-675-675-crop-000000.jpg?v=4c515cfb29
+  genres:
+    - Thriller
+    - Drama
+    - Crime

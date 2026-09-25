@@ -13,6 +13,10 @@
   letterboxd_slug: bad-boys-ii
   poster_url: https://a.ltrbxd.com/resized/sm/upload/86/iw/8s/r2/bad-boys-ii-1200-1200-675-675-crop-000000.jpg?v=368e3c8a87
   letterboxd_rating: 3.31
+  genres:
+    - Crime
+    - Action
+    - Comedy
 
 - id: big-momma-house
   tmdb_id: 9600
@@ -30,6 +34,9 @@
   letterboxd_slug: big-mommas-house
   poster_url: https://a.ltrbxd.com/resized/sm/upload/uh/xm/z3/6p/big-mommas-house-1200-1200-675-675-crop-000000.jpg?v=1c45586bb8
   letterboxd_rating: 2.7
+  genres:
+    - Crime
+    - Comedy
 
 - id: blue-streak
   tmdb_id: 11001
@@ -42,3 +49,7 @@
   letterboxd_slug: blue-streak
   poster_url: https://a.ltrbxd.com/resized/sm/upload/48/kz/xt/52/blue%20streak-1200-1200-675-675-crop-000000.jpg?v=100393ad7c
   letterboxd_rating: 3.13
+  genres:
+    - Comedy
+    - Action
+    - Crime

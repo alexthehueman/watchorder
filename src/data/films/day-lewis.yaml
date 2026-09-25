@@ -31,6 +31,8 @@
   letterboxd_title: "My Left Foot: The Story of Christy Brown"
   letterboxd_slug: my-left-foot
   letterboxd_rating: 3.94
+  genres:
+    - Drama
 
 - id: last-of-the-mohicans
   tmdb_id: 9361
@@ -44,6 +46,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BODAxNTAxMDItMzkwZS00ZTEyLWJlZmMtYTc0MGI1NDdkNWZkXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-last-of-the-mohicans-1992
   letterboxd_rating: 3.69
+  genres:
+    - Drama
+    - War
+    - History
 
 - id: in-the-name-of-the-father
   tmdb_id: 7984
@@ -62,6 +68,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMGZiZDVjNzYtZWM4ZC00MzVkLThhNDEtMDJlOTBhYzVjMmNhXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: in-the-name-of-the-father-1993
   letterboxd_rating: 4.21
+  genres:
+    - Drama
 
 - id: gangs-of-new-york
   tmdb_id: 3131
@@ -80,6 +88,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTQ0MDA0MTUtYzkzMi00NDY3LThhZDEtNGM4MWUwYzMyZDk5XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: gangs-of-new-york-2002
   letterboxd_rating: 3.73
+  genres:
+    - Drama
+    - History
+    - Crime
 
 - id: lincoln
   tmdb_id: 72976
@@ -98,6 +110,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTQzNzczMDUyNV5BMl5BanBnXkFtZTcwNjM2ODEzOA@@._V1_SX300.jpg
   letterboxd_slug: lincoln
   letterboxd_rating: 3.59
+  genres:
+    - History
+    - Drama
 
 - id: the-age-of-innocence
   tmdb_id: 10436
@@ -116,6 +131,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMzFkYjQzZjUtY2NjNi00ZDFkLWI4M2MtN2RjODQ0NDJkMWM0XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-age-of-innocence
   letterboxd_rating: 3.81
+  genres:
+    - Romance
+    - Drama
 
 - id: the-crucible
   tmdb_id: 20539
@@ -129,3 +147,6 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNTQwMzQ4Y2YtODRhMS00NGQ2LThkZTctMTJkNWM4NzM4N2Q2XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-crucible
   letterboxd_rating: 3.27
+  genres:
+    - History
+    - Drama

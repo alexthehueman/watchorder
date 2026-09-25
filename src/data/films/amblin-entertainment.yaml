@@ -23,6 +23,8 @@
   letterboxd_slug: poltergeist
   poster_url: https://a.ltrbxd.com/resized/sm/upload/u4/1q/34/uj/poltergeist-120-1200-1200-675-675-crop-000000.jpg?v=b84705d123
   letterboxd_rating: 3.5
+  genres:
+    - Horror
 
 - id: gremlins
   tmdb_id: 927
@@ -40,3 +42,7 @@
   letterboxd_slug: gremlins
   poster_url: https://a.ltrbxd.com/resized/sm/upload/nf/i5/ti/xm/r5xlOGwg4tEbLb5RiYzL51YzSHl-1200-1200-675-675-crop-000000.jpg?v=e63ade647c
   letterboxd_rating: 3.64
+  genres:
+    - Fantasy
+    - Comedy
+    - Horror

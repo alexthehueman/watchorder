@@ -13,6 +13,10 @@
   letterboxd_slug: the-hurt-locker
   poster_url: https://a.ltrbxd.com/resized/sm/upload/53/yu/iy/jy/the-hurt-locker-1200-1200-675-675-crop-000000.jpg?v=04ea83c53f
   letterboxd_rating: 3.75
+  genres:
+    - Drama
+    - Thriller
+    - War
 
 - id: 8-mile
   tmdb_id: 65
@@ -25,6 +29,9 @@
   letterboxd_slug: 8-mile
   poster_url: https://a.ltrbxd.com/resized/sm/upload/fb/ty/u4/o3/8-mile-1200-1200-675-675-crop-000000.jpg?v=cc8455db54
   letterboxd_rating: 3.65
+  genres:
+    - Drama
+    - Music
 
 - id: pain-and-gain
   tmdb_id: null

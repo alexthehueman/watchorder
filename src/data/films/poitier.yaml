@@ -17,6 +17,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BOTA5YTYzNTUtN2EyOS00Mjc3LWExMWItN2I4ZWRlNWUyNGQ4XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: no-way-out
   letterboxd_rating: 3.74
+  genres:
+    - Crime
+    - Thriller
+    - Drama
 
 - id: the-defiant-ones
   tmdb_id: 11414
@@ -30,6 +34,11 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BY2RlOTA0MGQtNTg3Yi00NmRkLTgxNDAtYTFlMzQ3MzZmMTBlXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-defiant-ones
   letterboxd_rating: 3.84
+  genres:
+    - Drama
+    - Crime
+    - Thriller
+    - Adventure
 
 - id: a-raisin-in-the-sun
   tmdb_id: 29478
@@ -48,6 +57,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZmUwODU3NzMtMGMxZC00NzEyLTg4YmEtNDI4MzYzMTMzZTE5XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: a-raisin-in-the-sun
   letterboxd_rating: 4.06
+  genres:
+    - Drama
+    - Romance
 
 - id: lilies-of-the-field
   tmdb_id: 38805
@@ -61,6 +73,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BOGM4NTg1ZGEtMzNjZC00Zjg2LWJjMDUtY2MzM2MxN2NmMTYyXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: lilies-of-the-field
   letterboxd_rating: 3.65
+  genres:
+    - Comedy
+    - Drama
 
 - id: a-patch-of-blue
   tmdb_id: 33364
@@ -74,6 +89,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTQwYmRjMGEtY2Y4OS00YjRjLThmZjItMDAzOWZhN2QxZmRlXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: a-patch-of-blue
   letterboxd_rating: 4
+  genres:
+    - Romance
+    - Drama
 
 - id: in-the-heat-of-the-night
   tmdb_id: 10633
@@ -87,6 +105,11 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjVmYjZkMmQtYmFjZC00MmFhLTg5NzMtNzgzODE0YjQwNzlmXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: in-the-heat-of-the-night
   letterboxd_rating: 4.05
+  genres:
+    - Mystery
+    - Crime
+    - Drama
+    - Thriller
 
 - id: to-sir-with-love
   tmdb_id: 25934
@@ -100,6 +123,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BOTM4NmM3ZmUtZDEyNC00NTE1LWI4ZDktNTNhYWM2ZTJmYzM1XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: to-sir-with-love
   letterboxd_rating: 3.66
+  genres:
+    - Drama
 
 - id: buck-and-the-preacher
   tmdb_id: 26928
@@ -113,3 +138,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMWI0MjdhZDktYWQwNS00OTk3LTg5MWItNzdhM2VlNjVmOGYwXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: buck-and-the-preacher
   letterboxd_rating: 3.62
+  genres:
+    - Action
+    - Adventure
+    - Western
+    - Drama
+    - Comedy

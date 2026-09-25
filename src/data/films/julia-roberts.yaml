@@ -16,6 +16,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNjk2ODQzNDYxNV5BMl5BanBnXkFtZTgwMTcyNDg4NjE@._V1_SX300.jpg
   letterboxd_slug: pretty-woman
   letterboxd_rating: 3.73
+  genres:
+    - Comedy
+    - Romance
 
 - id: steel-magnolias
   tmdb_id: 10860
@@ -29,6 +32,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjE4MTYyOWYtYjBjNy00NjBiLThhYWEtNzQ2MmE4MzY4ZGI2XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: steel-magnolias
   letterboxd_rating: 3.86
+  genres:
+    - Comedy
+    - Drama
 
 - id: erin-brockovich
   tmdb_id: 462
@@ -42,6 +48,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZTNkNzkzYTEtYTJkMC00MTNkLWE0YjMtOGYxNGI0ODNiMzIwXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: erin-brockovich
   letterboxd_rating: 3.91
+  genres:
+    - Drama
 
 - id: notting-hill
   tmdb_id: 509
@@ -55,6 +63,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZjY3YWI5OTMtYTdlNy00ZTZiLWEwYjItN2M1MGVkMDM4ZDExXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: notting-hill
   letterboxd_rating: 3.69
+  genres:
+    - Comedy
+    - Romance
 
 - id: closer
   tmdb_id: 2288
@@ -73,3 +84,6 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZDIxYWIyZGMtNTAxZC00NDQxLThkOGQtZTUxNmZiMjFhYTEzXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: closer
   letterboxd_rating: 3.39
+  genres:
+    - Drama
+    - Romance

@@ -21,6 +21,9 @@
   letterboxd_slug: the-last-boy-scout
   poster_url: https://a.ltrbxd.com/resized/sm/upload/sw/xr/8e/qn/last-boy-scout-1200-1200-675-675-crop-000000.jpg?v=f3c2e5a39c
   letterboxd_rating: 3.48
+  genres:
+    - Action
+    - Thriller
 
 - id: days-of-thunder
   tmdb_id: 2119
@@ -33,3 +36,7 @@
   letterboxd_slug: days-of-thunder
   poster_url: https://a.ltrbxd.com/resized/sm/upload/17/k6/0i/nz/days-of-thunder-1200-1200-675-675-crop-000000.jpg?v=38ebd1d28c
   letterboxd_rating: 3.18
+  genres:
+    - Drama
+    - Adventure
+    - Action

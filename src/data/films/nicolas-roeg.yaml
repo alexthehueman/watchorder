@@ -12,6 +12,9 @@
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: true, violence: 1, sex: 0 }
   letterboxd_slug: walkabout
   poster_url: https://a.ltrbxd.com/resized/sm/upload/0i/np/y0/44/walkabout-1200-1200-675-675-crop-000000.jpg?v=270f7408a7
+  genres:
+    - Drama
+    - Adventure
 
 - id: dont-look-now
   tmdb_id: 11844
@@ -28,6 +31,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 3 }
   letterboxd_slug: dont-look-now
   poster_url: https://a.ltrbxd.com/resized/sm/upload/l4/cc/uv/97/dont-look-now-1200-1200-675-675-crop-000000.jpg?v=83327c0174
+  genres:
+    - Drama
+    - Thriller
+    - Horror
 
 - id: the-man-who-fell-to-earth
   tmdb_id: 11827
@@ -39,3 +46,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 2 }
   letterboxd_slug: the-man-who-fell-to-earth
   poster_url: https://a.ltrbxd.com/resized/sm/upload/v3/am/ij/mi/man-1200-1200-675-675-crop-000000.jpg?v=99ebb38991
+  genres:
+    - Science Fiction
+    - Drama
+    - Fantasy

@@ -12,6 +12,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: salaam-bombay
   poster_url: https://a.ltrbxd.com/resized/sm/upload/v9/ec/o0/03/salaam-bombay-1200-1200-675-675-crop-000000.jpg?v=31b11533a6
+  genres:
+    - Drama
+    - Crime
 
 - id: mississippi-masala
   tmdb_id: 41791
@@ -28,6 +31,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
   letterboxd_slug: mississippi-masala
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ne/mm/k0/w8/masala-1200-1200-675-675-crop-000000.jpg?v=a05a8c6ca6
+  genres:
+    - Drama
+    - Romance
 
 - id: monsoon-wedding
   tmdb_id: 480
@@ -39,6 +45,10 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 1 }
   letterboxd_slug: monsoon-wedding
   poster_url: https://a.ltrbxd.com/resized/sm/upload/4h/d5/il/hj/monsoon-wedding-1200-1200-675-675-crop-000000.jpg?v=322d8ab0e4
+  genres:
+    - Romance
+    - Comedy
+    - Drama
 
 - id: the-namesake
   tmdb_id: 16727
@@ -50,3 +60,5 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   letterboxd_slug: the-namesake
   poster_url: https://a.ltrbxd.com/resized/sm/upload/92/93/7p/83/dtq3fmA5qd9GdHQ3PQCPHjIjGxM-1200-1200-675-675-crop-000000.jpg?v=0d78827f63
+  genres:
+    - Drama

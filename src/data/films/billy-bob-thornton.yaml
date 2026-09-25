@@ -19,6 +19,8 @@
   letterboxd_slug: sling-blade
   poster_url: https://a.ltrbxd.com/resized/sm/upload/o3/av/hm/i0/sling-blade-1200-1200-675-675-crop-000000.jpg?v=6d47d176d1
   letterboxd_rating: 3.94
+  genres:
+    - Drama
 
 - id: bad-santa
   tmdb_id: 10147
@@ -31,3 +33,7 @@
   letterboxd_slug: bad-santa
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ae/gi/x4/td/bad-santa-1200-1200-675-675-crop-000000.jpg?v=a7d89ef11f
   letterboxd_rating: 3.19
+  genres:
+    - Drama
+    - Crime
+    - Comedy

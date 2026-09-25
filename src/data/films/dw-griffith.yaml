@@ -17,6 +17,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   letterboxd_slug: the-birth-of-a-nation
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ql/rf/kx/m0/birth-of-nation-1200-1200-675-675-crop-000000.jpg?v=2cb6aec6c1
+  genres:
+    - Drama
+    - History
+    - War
 
 - id: intolerance
   tmdb_id: 4972
@@ -37,6 +41,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: broken-blossoms-1919
   poster_url: https://a.ltrbxd.com/resized/sm/upload/my/pt/7j/75/broken-blossoms-1200-1200-675-675-crop-000000.jpg?v=593e22cd0f
+  genres:
+    - Drama
+    - Romance
 
 - id: way-down-east
   tmdb_id: 24340
@@ -48,3 +55,6 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: way-down-east
   poster_url: https://a.ltrbxd.com/resized/sm/upload/oy/4s/js/0s/way%20down%20east-1200-1200-675-675-crop-000000.jpg?v=3790be54a4
+  genres:
+    - Drama
+    - Romance

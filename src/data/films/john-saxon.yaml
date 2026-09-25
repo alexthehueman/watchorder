@@ -13,6 +13,8 @@
   letterboxd_slug: enter-the-dragon
   poster_url: https://a.ltrbxd.com/resized/alternative-backdrop/4/7/1/3/6/tmdb/npLwIeUobjVCM4fLfdeLqQhAoey-1200-1200-675-675-crop-000000.jpg?v=62a14d805c
   letterboxd_rating: 3.83
+  genres:
+    - Action
 
 - id: black-christmas
   tmdb_id: 16938
@@ -30,6 +32,10 @@
   letterboxd_slug: black-christmas
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ea/6c/h0/iv/black-christmas-1200-1200-675-675-crop-000000.jpg?v=25b8e7187c
   letterboxd_rating: 3.83
+  genres:
+    - Horror
+    - Mystery
+    - Crime
 
 - id: battle-beyond-the-stars
   tmdb_id: 14460
@@ -42,3 +48,7 @@
   letterboxd_slug: battle-beyond-the-stars
   poster_url: https://a.ltrbxd.com/resized/sm/upload/cl/xz/z0/wc/battlebeyond-1200-1200-675-675-crop-000000.jpg?v=0f4c0e47d1
   letterboxd_rating: 2.84
+  genres:
+    - Science Fiction
+    - Adventure
+    - Action

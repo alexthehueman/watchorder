@@ -16,6 +16,8 @@
   letterboxd_slug: the-assistant-2019
   poster_url: https://a.ltrbxd.com/resized/sm/upload/41/vu/h8/sr/assistant-1200-1200-675-675-crop-000000.jpg?v=76ab6af3b9
   letterboxd_rating: 3.51
+  genres:
+    - Drama
 
 - id: we-are-what-we-are
   tmdb_id: 159128
@@ -33,6 +35,10 @@
   letterboxd_slug: we-are-what-we-are-2013
   poster_url: https://a.ltrbxd.com/resized/sm/upload/fp/v0/rj/o8/we-are-what-we-are-1200-1200-675-675-crop-000000.jpg?v=8c54c4f755
   letterboxd_rating: 3.09
+  genres:
+    - Thriller
+    - Horror
+    - Drama
 
 - id: waves-2019
   tmdb_id: 533444
@@ -45,6 +51,9 @@
   letterboxd_slug: waves-2019
   poster_url: https://a.ltrbxd.com/resized/sm/upload/kz/7z/b0/br/waves-1200-1200-675-675-crop-000000.jpg?v=547b39f804
   letterboxd_rating: 4
+  genres:
+    - Romance
+    - Drama
 
 - id: electrick-children
   tmdb_id: 89237
@@ -57,3 +66,5 @@
   letterboxd_slug: electrick-children
   poster_url: https://a.ltrbxd.com/resized/sm/upload/x5/uv/m8/ao/electrick-children-1200-1200-675-675-crop-000000.jpg?v=605b9bd69a
   letterboxd_rating: 3.53
+  genres:
+    - Drama

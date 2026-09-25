@@ -14,6 +14,8 @@
   letterboxd_slug: inherit-the-wind
   poster_url: https://a.ltrbxd.com/resized/sm/upload/hj/bx/61/s4/inherit%20the%20wind-1200-1200-675-675-crop-000000.jpg?v=6e86236d9d
   letterboxd_rating: 4.03
+  genres:
+    - Drama
 
 - id: bad-day-at-black-rock
   tmdb_id: 14554
@@ -31,3 +33,9 @@
   letterboxd_slug: bad-day-at-black-rock
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ly/ym/tl/wi/bad%20day-1200-1200-675-675-crop-000000.jpg?v=11aa50eae2
   letterboxd_rating: 3.95
+  genres:
+    - Crime
+    - Thriller
+    - Mystery
+    - Drama
+    - Western

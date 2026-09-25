@@ -18,6 +18,9 @@
   letterboxd_slug: requiem-for-a-dream
   poster_url: https://a.ltrbxd.com/resized/alternative-backdrop/5/1/4/8/3/tmdb/b0EzdzbXZhPmlHkjmQOkjGFCpDl-1200-1200-675-675-crop-000000.jpg?v=074641238e
   letterboxd_rating: 4.11
+  genres:
+    - Drama
+    - Crime
 
 - id: alice-doesnt-live-here-anymore
   tmdb_id: 16153
@@ -30,6 +33,9 @@
   letterboxd_slug: alice-doesnt-live-here-anymore
   poster_url: https://a.ltrbxd.com/resized/sm/upload/tl/mq/xv/58/alice-doesnt-live-here-anymore-1200-1200-675-675-crop-000000.jpg?v=0d8a3b0262
   letterboxd_rating: 3.82
+  genres:
+    - Romance
+    - Drama
 
 - id: same-time-next-year
   tmdb_id: 37672
@@ -42,3 +48,7 @@
   letterboxd_slug: same-time-next-year
   poster_url: https://a.ltrbxd.com/resized/sm/upload/eh/k1/uc/22/g3yCzSnN5z6EvwdbQN4ncRuHr08-1200-1200-675-675-crop-000000.jpg?v=a2ae73917a
   letterboxd_rating: 3.41
+  genres:
+    - Comedy
+    - Romance
+    - Drama

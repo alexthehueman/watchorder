@@ -12,6 +12,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNWE5ZWFjOTUtZWQyZS00OGFjLTg0MTgtMjA5ZjRhMjJiYTBkXkEyXkFqcGc@._V1_QL75_UX380_CR0,7,380,562_.jpg
   letterboxd_slug: breathless
   letterboxd_rating: 3.89
+  genres:
+    - Romance
+    - Crime
+    - Drama
 
 - id: a-woman-is-a-woman
   tmdb_id: 31522
@@ -25,6 +29,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMmIwMDg0N2EtZTRiZi00MTA2LWE1MDItOTJjNjA2MDViZDU1XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: a-woman-is-a-woman
   letterboxd_rating: 3.9
+  genres:
+    - Romance
+    - Comedy
+    - Drama
 
 - id: vivre-sa-vie
   tmdb_id: 1626
@@ -43,6 +51,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMDUwNDc1YjMtOWQwOS00OGJiLWFlODQtNjAzMjkwOTRhZmQ2XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: vivre-sa-vie
   letterboxd_rating: 4
+  genres:
+    - Drama
 
 - id: contempt
   tmdb_id: 266
@@ -56,6 +66,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjJlMzdmNGQtMTMxZi00ZTE0LWIxNWYtYmE3NTZlYWQwNmExXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: contempt
   letterboxd_rating: 3.79
+  genres:
+    - Drama
+    - Romance
 
 - id: band-of-outsiders
   tmdb_id: 8073
@@ -69,6 +82,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjIyOTA0Njk3Ml5BMl5BanBnXkFtZTgwMzY0NTA2ODE@._V1_SX300.jpg
   letterboxd_slug: band-of-outsiders
   letterboxd_rating: 3.89
+  genres:
+    - Comedy
+    - Drama
+    - Crime
 
 - id: alphaville
   tmdb_id: 8072
@@ -87,6 +104,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYjk3MmMwMjktMzg3NC00YmJiLTg2YjMtMGZkMDI0MzBiOTNkXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: alphaville
   letterboxd_rating: 3.68
+  genres:
+    - Science Fiction
+    - Mystery
+    - Drama
 
 - id: pierrot-le-fou
   tmdb_id: 2786
@@ -105,6 +126,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTQ0OTc4MDcxMl5BMl5BanBnXkFtZTgwNjIzMjA0NzE@._V1_SX300.jpg
   letterboxd_slug: pierrot-le-fou
   letterboxd_rating: 4.02
+  genres:
+    - Romance
+    - Crime
+    - Drama
 
 - id: masculin-feminin
   tmdb_id: 4710
@@ -117,6 +142,9 @@
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ie/rw/10/lq/jr24v6KpCcbFlsi1QhNBy5j31u7-1200-1200-675-675-crop-000000.jpg?v=c7fa4c5662
   letterboxd_slug: masculin-feminin
   letterboxd_rating: 3.79
+  genres:
+    - Drama
+    - Romance
 
 - id: la-chinoise
   tmdb_id: 1629
@@ -129,6 +157,9 @@
   poster_url: https://a.ltrbxd.com/resized/sm/upload/im/86/l1/7m/image-w1280%20(6)-1200-1200-675-675-crop-000000.jpg?v=aa7435fd04
   letterboxd_slug: la-chinoise
   letterboxd_rating: 3.75
+  genres:
+    - Comedy
+    - Drama
 
 - id: two-or-three-things-i-know-about-her
   tmdb_id: 8074
@@ -147,6 +178,9 @@
   letterboxd_slug: 2-or-3-things-i-know-about-her
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ic/ky/c0/ci/2-or-3-things-i-know-about-her-1200-1200-675-675-crop-000000.jpg?v=362d96be6d
   letterboxd_rating: 3.48
+  genres:
+    - Drama
+    - Comedy
 
 - id: weekend
   tmdb_id: 8075
@@ -165,6 +199,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYWUwZjVjOTYtYTVlNy00MzM4LTkyMjktNDdkZDM5ODQwYjU0XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: weekend-1967
   letterboxd_rating: 3.73
+  genres:
+    - Comedy
 
 - id: goodbye-to-language
   tmdb_id: 114982
@@ -183,3 +219,6 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMzBhZDA1MzItNmZkOS00NTEwLTkxMTUtYzllMDlhMmUyZGQ1XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: goodbye-to-language
   letterboxd_rating: 3.4
+  genres:
+    - Drama
+    - Romance

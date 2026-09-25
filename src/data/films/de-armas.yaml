@@ -20,6 +20,8 @@
   letterboxd_slug: blonde-2022
   poster_url: https://a.ltrbxd.com/resized/sm/upload/q9/5y/wp/en/blonde-2022-1200-1200-675-675-crop-000000.jpg?v=649890a954
   letterboxd_rating: 2.14
+  genres:
+    - Drama
 
 - id: deep-water
   tmdb_id: 619979
@@ -37,6 +39,10 @@
   letterboxd_slug: deep-water-2022
   poster_url: https://a.ltrbxd.com/resized/sm/upload/6t/vv/08/e1/228B1944-4668-4B11-B0E5-F10C3DADF5D3-1200-1200-675-675-crop-000000.jpg?v=31793876ad
   letterboxd_rating: 2.34
+  genres:
+    - Drama
+    - Mystery
+    - Thriller
 
 - id: no-time-to-die
   tmdb_id: 370172
@@ -49,3 +55,7 @@
   letterboxd_slug: no-time-to-die-2021
   poster_url: https://a.ltrbxd.com/resized/sm/upload/z5/b5/l2/ek/no-time-to-die-1200-1200-675-675-crop-000000.jpg?v=59b6acfbbf
   letterboxd_rating: 3.56
+  genres:
+    - Action
+    - Adventure
+    - Thriller

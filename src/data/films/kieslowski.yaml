@@ -19,6 +19,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYTBjYjgxYjktY2UzMS00MDEwLTgyZTUtY2U5OWY3ZDBiMWYyXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: camera-buff
   letterboxd_rating: 4.12
+  genres:
+    - Drama
 
 - id: no-end
   tmdb_id: 124
@@ -32,6 +34,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZTUwOWFmYWUtNzQwNi00YjZkLTgwZjMtODUwZDUxNmUwMmU3XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: no-end
   letterboxd_rating: 3.75
+  genres:
+    - Drama
 
 - id: blind-chance
   tmdb_id: 127
@@ -50,6 +54,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BOTZmZWQyZDgtN2ExOS00ZGU5LWJiZDMtM2Y0ZmMyNmZmOGQwXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: blind-chance
   letterboxd_rating: 3.97
+  genres:
+    - Drama
 
 - id: a-short-film-about-killing
   tmdb_id: 10754
@@ -63,6 +69,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BM2YwNzQyMWItZjliNC00YmQzLWFkZjktYWY5ODExMGNkOTEzXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: a-short-film-about-killing
   letterboxd_rating: 4.12
+  genres:
+    - Crime
+    - Drama
 
 - id: a-short-film-about-love
   tmdb_id: 31056
@@ -76,6 +85,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMzkwYjBlMzktNGJiNi00OTk4LTlkMDYtOGQ5MjBkNmFhMzY4XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: a-short-film-about-love
   letterboxd_rating: 4.07
+  genres:
+    - Romance
+    - Drama
 
 - id: the-double-life-of-veronique
   tmdb_id: 1600
@@ -94,6 +106,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZjE1MjAxMjgtMTRjMC00YTFjLThhMzgtNzdlODZiZjA0MWMxXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-double-life-of-veronique
   letterboxd_rating: 4.08
+  genres:
+    - Fantasy
+    - Drama
 
 - id: three-colours-white
   tmdb_id: 109
@@ -106,6 +121,10 @@
   poster_url: https://a.ltrbxd.com/resized/sm/upload/yh/ug/q0/de/white-1200-1200-675-675-crop-000000.jpg?v=a2716bcd38
   letterboxd_slug: three-colours-white
   letterboxd_rating: 3.82
+  genres:
+    - Drama
+    - Mystery
+    - Comedy
 
 - id: three-colours-red
   tmdb_id: 110
@@ -118,3 +137,7 @@
   poster_url: https://a.ltrbxd.com/resized/sm/upload/5l/fs/4y/sp/red-1200-1200-675-675-crop-000000.jpg?v=35996ace23
   letterboxd_slug: three-colours-red
   letterboxd_rating: 4.33
+  genres:
+    - Mystery
+    - Drama
+    - Romance

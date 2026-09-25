@@ -20,6 +20,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNzgzODA5MTU3MF5BMl5BanBnXkFtZTcwODY4MDEwNg@@._V1_SX300.jpg
   letterboxd_slug: take-shelter
   letterboxd_rating: 3.77
+  genres:
+    - Drama
+    - Thriller
 
 - id: man-of-steel
   tmdb_id: 49521
@@ -33,6 +36,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTk5ODk1NDkxMF5BMl5BanBnXkFtZTcwNTA5OTY0OQ@@._V1_QL75_UY562_CR0,0,380,562_.jpg
   letterboxd_slug: man-of-steel
   letterboxd_rating: 3.08
+  genres:
+    - Action
+    - Adventure
+    - Science Fiction
 
 - id: midnight-special
   tmdb_id: 245703
@@ -51,6 +58,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTUwNDcyNzkyOV5BMl5BanBnXkFtZTgwNzI1NzkyNzE@._V1_SX300.jpg
   letterboxd_slug: midnight-special
   letterboxd_rating: 3.34
+  genres:
+    - Drama
+    - Science Fiction
+    - Adventure
 
 - id: knives-out
   tmdb_id: 546554
@@ -64,3 +75,7 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZDU5ZTRkYmItZjg0Mi00ZTQwLThjMWItNWM3MTMxMzVjZmVjXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg
   letterboxd_slug: knives-out-2019
   letterboxd_rating: 3.96
+  genres:
+    - Mystery
+    - Comedy
+    - Crime

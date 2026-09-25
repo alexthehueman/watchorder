@@ -16,6 +16,10 @@
   letterboxd_slug: back-to-the-future
   poster_url: https://a.ltrbxd.com/resized/sm/upload/wg/aa/he/wf/back-to-the-future-1200-1200-675-675-crop-000000.jpg?v=83c21f2ef5
   letterboxd_rating: 4.22
+  genres:
+    - Adventure
+    - Comedy
+    - Science Fiction
 
 - id: back-to-the-future-part-ii
   tmdb_id: 165
@@ -33,6 +37,10 @@
   letterboxd_slug: back-to-the-future-part-ii
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ia/n4/4q/ix/a4qvbI9x3nqu3hKQyDRVVBpMklx-1200-1200-675-675-crop-000000.jpg?v=9e0fbdeabe
   letterboxd_rating: 3.92
+  genres:
+    - Science Fiction
+    - Comedy
+    - Adventure
 
 - id: teen-wolf
   tmdb_id: 11824
@@ -45,6 +53,10 @@
   letterboxd_slug: teen-wolf
   poster_url: https://a.ltrbxd.com/resized/sm/upload/qk/2u/e2/zy/teen-wolf-1200-1200-675-675-crop-000000.jpg?v=322084ca13
   letterboxd_rating: 2.91
+  genres:
+    - Comedy
+    - Romance
+    - Fantasy
 
 - id: the-american-president
   tmdb_id: 9087
@@ -57,3 +69,6 @@
   letterboxd_slug: the-american-president
   poster_url: https://a.ltrbxd.com/resized/sm/upload/bf/ok/rh/rb/wmViVyE9P0HTVU54sP3EriCmtIc-1200-1200-675-675-crop-000000.jpg?v=bbd76cbc88
   letterboxd_rating: 3.38
+  genres:
+    - Romance
+    - Drama

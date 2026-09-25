@@ -22,6 +22,10 @@
   letterboxd_slug: the-cabin-in-the-woods
   poster_url: https://a.ltrbxd.com/resized/sm/upload/er/73/ls/6u/the-cabin-in-the-woods-1200-1200-675-675-crop-000000.jpg?v=c4c3e5f1cc
   letterboxd_rating: 3.37
+  genres:
+    - Comedy
+    - Horror
+    - Mystery
 
 - id: precious
   tmdb_id: 25793
@@ -39,6 +43,8 @@
   letterboxd_slug: precious-2009
   poster_url: https://a.ltrbxd.com/resized/sm/upload/0e/jq/fz/li/precious-1200-1200-675-675-crop-000000.jpg?v=5013311bae
   letterboxd_rating: 3.82
+  genres:
+    - Drama
 
 - id: saw
   tmdb_id: 176
@@ -56,3 +62,7 @@
   letterboxd_slug: saw
   poster_url: https://a.ltrbxd.com/resized/sm/upload/12/lq/pz/o4/saw-1200-1200-675-675-crop-000000.jpg?v=60c0ce282f
   letterboxd_rating: 3.69
+  genres:
+    - Crime
+    - Mystery
+    - Horror

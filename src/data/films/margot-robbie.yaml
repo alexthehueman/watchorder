@@ -25,6 +25,13 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BOTliYzYyYTAtNzBjMy00MGE2LThmOWMtZWM1ZmI0MDE1ZjM3XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: terminal-2018
   letterboxd_rating: 2.43
+  genres:
+    - Mystery
+    - Comedy
+    - Action
+    - Thriller
+    - Drama
+    - Crime
 
 - id: amsterdam
   tmdb_id: 664469
@@ -38,6 +45,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNzgxNTQzYTEtMDI3Yi00OGQ1LWFkNGMtZDEyM2JlYmE0YzUyXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg
   letterboxd_slug: amsterdam-2022
   letterboxd_rating: 2.61
+  genres:
+    - Mystery
+    - Comedy
+    - Drama
 
 - id: focus
   tmdb_id: 256591
@@ -51,6 +62,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTUwODg2OTA4OF5BMl5BanBnXkFtZTgwOTE5MTE4MzE@._V1_SX300.jpg
   letterboxd_slug: focus-2015
   letterboxd_rating: 3.16
+  genres:
+    - Crime
+    - Comedy
+    - Romance
 
 - id: birds-of-prey
   tmdb_id: null

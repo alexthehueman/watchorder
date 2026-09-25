@@ -12,6 +12,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: the-miracle-worker
   poster_url: https://a.ltrbxd.com/resized/sm/upload/sk/9j/8e/9f/miracleworker-1200-1200-675-675-crop-000000.jpg?v=dc60e481b2
+  genres:
+    - Drama
+    - History
 
 - id: night-moves
   tmdb_id: 11211
@@ -28,6 +31,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
   letterboxd_slug: night-moves
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ka/bs/xy/nr/7-1200-1200-675-675-crop-000000.jpg?v=f285470cc1
+  genres:
+    - Crime
+    - Drama
+    - Thriller
 
 - id: little-big-man
   tmdb_id: 11216
@@ -44,3 +51,8 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: little-big-man
   poster_url: https://a.ltrbxd.com/resized/sm/upload/xy/4f/hg/id/little%20big%20man-1200-1200-675-675-crop-000000.jpg?v=ac38767e09
+  genres:
+    - Western
+    - Comedy
+    - Drama
+    - Adventure

@@ -18,6 +18,9 @@
   letterboxd_slug: love-story-1970
   poster_url: https://a.ltrbxd.com/resized/sm/upload/3r/9c/18/9e/love-story-1970-1200-1200-675-675-crop-000000.jpg?v=2248f9ecf0
   letterboxd_rating: 3.41
+  genres:
+    - Drama
+    - Romance
 
 - id: cat-ballou
   tmdb_id: 11694
@@ -30,3 +33,6 @@
   letterboxd_slug: cat-ballou
   poster_url: https://a.ltrbxd.com/resized/sm/upload/fq/32/t6/2z/catballou-1200-1200-675-675-crop-000000.jpg?v=5979f511fd
   letterboxd_rating: 3.31
+  genres:
+    - Comedy
+    - Western

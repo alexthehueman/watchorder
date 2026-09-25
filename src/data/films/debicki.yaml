@@ -14,6 +14,9 @@
   letterboxd_slug: the-great-gatsby-2013
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ke/ik/np/t7/the-great-gatsby-1200-1200-675-675-crop-000000.jpg?v=10d5c4f3e7
   letterboxd_rating: 3.49
+  genres:
+    - Drama
+    - Romance
 
 - id: guardians-of-the-galaxy-vol-2
   tmdb_id: 283995
@@ -26,6 +29,10 @@
   letterboxd_slug: guardians-of-the-galaxy-vol-2
   poster_url: https://a.ltrbxd.com/resized/sm/upload/k8/71/2p/qo/guardians-galaxy-vol-2-1200-1200-675-675-crop-000000.jpg?v=f85fa0ca95
   letterboxd_rating: 3.62
+  genres:
+    - Action
+    - Science Fiction
+    - Adventure
 
 - id: a-royal-night-out
   tmdb_id: 300155
@@ -38,6 +45,10 @@
   letterboxd_slug: a-royal-night-out
   poster_url: https://a.ltrbxd.com/resized/sm/upload/l1/3w/8b/ov/a-royal-night-out-1200-1200-675-675-crop-000000.jpg?v=afb004751f
   letterboxd_rating: 3.1
+  genres:
+    - Drama
+    - Comedy
+    - Romance
 
 - id: vita-and-virginia
   tmdb_id: null

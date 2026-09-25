@@ -13,6 +13,10 @@
   letterboxd_slug: guardians-of-the-galaxy
   poster_url: https://a.ltrbxd.com/resized/sm/upload/xl/kd/f5/wk/guardians-of-the-galaxy-1200-1200-675-675-crop-000000.jpg?v=1837002666
   letterboxd_rating: 3.86
+  genres:
+    - Adventure
+    - Action
+    - Science Fiction
 
 - id: star-trek-2009
   tmdb_id: 13475
@@ -25,6 +29,10 @@
   letterboxd_slug: star-trek
   poster_url: https://a.ltrbxd.com/resized/sm/upload/5d/y2/5j/et/star-trek-1200-1200-675-675-crop-000000.jpg?v=5e0d9c3aa3
   letterboxd_rating: 3.66
+  genres:
+    - Action
+    - Science Fiction
+    - Adventure
 
 - id: center-stage
   tmdb_id: 10560
@@ -37,6 +45,9 @@
   letterboxd_slug: center-stage
   poster_url: https://a.ltrbxd.com/resized/sm/upload/p7/yy/84/da/center%20stage-1200-1200-675-675-crop-000000.jpg?v=e8b9a1c511
   letterboxd_rating: 3.52
+  genres:
+    - Drama
+    - Music
 
 - id: colombiana
   tmdb_id: 62835
@@ -49,6 +60,11 @@
   letterboxd_slug: colombiana
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ke/13/lt/i6/colombiana-1200-1200-675-675-crop-000000.jpg?v=154304e185
   letterboxd_rating: 3.02
+  genres:
+    - Drama
+    - Action
+    - Crime
+    - Thriller
 
 - id: out-of-the-furnace
   tmdb_id: 164457
@@ -66,6 +82,10 @@
   letterboxd_slug: out-of-the-furnace
   poster_url: https://a.ltrbxd.com/resized/sm/upload/t9/ly/ia/mj/out-of-the-furnace-1200-1200-675-675-crop-000000.jpg?v=9257ba0e71
   letterboxd_rating: 3.36
+  genres:
+    - Drama
+    - Crime
+    - Thriller
 
 - id: infinitely-polar-bear
   tmdb_id: 244539
@@ -83,6 +103,9 @@
   letterboxd_slug: infinitely-polar-bear
   poster_url: https://a.ltrbxd.com/resized/sm/upload/sc/a0/6k/7o/infinitely-polar-bear-1200-1200-675-675-crop-000000.jpg?v=945e151295
   letterboxd_rating: 3.49
+  genres:
+    - Comedy
+    - Drama
 
 - id: vantage-point
   tmdb_id: 7461
@@ -100,6 +123,11 @@
   letterboxd_slug: vantage-point
   poster_url: https://a.ltrbxd.com/resized/sm/upload/v0/6q/fn/iz/vantage-point-1200-1200-675-675-crop-000000.jpg?v=c4eda7dcd8
   letterboxd_rating: 2.93
+  genres:
+    - Action
+    - Drama
+    - Crime
+    - Thriller
 
 - id: death-at-a-funeral-2010
   tmdb_id: 34803
@@ -112,3 +140,5 @@
   letterboxd_slug: death-at-a-funeral-2010
   poster_url: https://a.ltrbxd.com/resized/sm/upload/jn/69/jv/b2/death-1200-1200-675-675-crop-000000.jpg?v=39388a6f3e
   letterboxd_rating: 2.76
+  genres:
+    - Comedy

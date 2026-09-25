@@ -19,6 +19,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTQ4OTUyNzcwN15BMl5BanBnXkFtZTcwMTQ1NDE3OA@@._V1_QL75_UX380_CR0,0,380,562_.jpg
   letterboxd_slug: zero-dark-thirty
   letterboxd_rating: 3.71
+  genres:
+    - Drama
+    - Thriller
 
 - id: the-eyes-of-tammy-faye
   tmdb_id: 601470
@@ -32,3 +35,6 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMzcyY2JkZDYtMDEwNS00YzRlLTgxZTAtMDc1YTJmNWIxZjRlXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-eyes-of-tammy-faye-2021
   letterboxd_rating: 3.32
+  genres:
+    - Drama
+    - History

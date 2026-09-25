@@ -21,6 +21,10 @@
   letterboxd_slug: the-village
   poster_url: https://a.ltrbxd.com/resized/sm/upload/0y/0u/q3/p4/the-village-200-1200-1200-675-675-crop-000000.jpg?v=1497119d9a
   letterboxd_rating: 3.38
+  genres:
+    - Mystery
+    - Drama
+    - Thriller
 
 - id: old
   tmdb_id: 631843
@@ -38,3 +42,7 @@
   letterboxd_slug: old-2021
   poster_url: https://a.ltrbxd.com/resized/sm/upload/cl/p2/rx/rz/old-1200-1200-675-675-crop-000000.jpg?v=5c234d6b5b
   letterboxd_rating: 2.48
+  genres:
+    - Thriller
+    - Mystery
+    - Horror

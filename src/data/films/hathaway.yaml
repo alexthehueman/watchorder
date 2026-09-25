@@ -15,6 +15,10 @@
   letterboxd_slug: the-princess-diaries
   poster_url: https://a.ltrbxd.com/resized/sm/upload/kf/sw/ko/ko/the-princess-diaries-1200-1200-675-675-crop-000000.jpg?v=dffc6b20e6
   letterboxd_rating: 3.72
+  genres:
+    - Comedy
+    - Romance
+    - Family
 
 - id: rachel-getting-married
   tmdb_id: 14976
@@ -32,6 +36,9 @@
   letterboxd_slug: rachel-getting-married
   poster_url: https://a.ltrbxd.com/resized/sm/upload/8u/fq/67/j1/rachel-getting-married-1200-1200-675-675-crop-000000.jpg?v=6137433849
   letterboxd_rating: 3.57
+  genres:
+    - Romance
+    - Drama
 
 - id: brokeback-mountain
   tmdb_id: 142
@@ -44,6 +51,9 @@
   letterboxd_slug: brokeback-mountain
   poster_url: https://a.ltrbxd.com/resized/sm/upload/hv/5n/fq/le/broke-1200-1200-675-675-crop-000000.jpg?v=eb7277d7e7
   letterboxd_rating: 4.16
+  genres:
+    - Drama
+    - Romance
 
 - id: colossal
   tmdb_id: 339967
@@ -61,6 +71,10 @@
   letterboxd_slug: colossal-2016
   poster_url: https://a.ltrbxd.com/resized/sm/upload/4z/jp/3v/pd/colossal-2016-1200-1200-675-675-crop-000000.jpg?v=7901f9ceab
   letterboxd_rating: 3.11
+  genres:
+    - Science Fiction
+    - Drama
+    - Fantasy
 
 - id: the-dark-knight-rises
   tmdb_id: 49026
@@ -73,3 +87,8 @@
   letterboxd_slug: the-dark-knight-rises
   poster_url: https://a.ltrbxd.com/resized/sm/upload/am/k2/f0/ij/dark-knight-rises-1200-1200-675-675-crop-000000.jpg?v=8b93dcd6f0
   letterboxd_rating: 3.83
+  genres:
+    - Thriller
+    - Crime
+    - Drama
+    - Action

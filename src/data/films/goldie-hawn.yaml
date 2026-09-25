@@ -13,6 +13,8 @@
   letterboxd_slug: private-benjamin
   poster_url: https://a.ltrbxd.com/resized/sm/upload/d3/lc/44/sv/private-benjamin-1200-1200-675-675-crop-000000.jpg?v=e8643cfea7
   letterboxd_rating: 3.17
+  genres:
+    - Comedy
 
 - id: death-becomes-her
   tmdb_id: 9374
@@ -30,6 +32,10 @@
   letterboxd_slug: death-becomes-her
   poster_url: https://a.ltrbxd.com/resized/sm/upload/6g/15/71/7y/death-becomes-her-1200-1200-675-675-crop-000000.jpg?v=088721bdbe
   letterboxd_rating: 3.78
+  genres:
+    - Comedy
+    - Fantasy
+    - Horror
 
 - id: overboard
   tmdb_id: 10780
@@ -47,3 +53,6 @@
   letterboxd_slug: overboard
   poster_url: https://a.ltrbxd.com/resized/sm/upload/1x/kk/k4/n3/yo9rdfwzGuvaoCyUHmeeQhGMu9D-1200-1200-675-675-crop-000000.jpg?v=f25703d98b
   letterboxd_rating: 3.26
+  genres:
+    - Romance
+    - Comedy

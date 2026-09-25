@@ -20,6 +20,9 @@
   letterboxd_slug: four-brothers
   poster_url: https://a.ltrbxd.com/resized/sm/upload/8w/0g/w1/jc/four-brothers-1200-1200-675-675-crop-000000.jpg?v=4d8b64cc97
   letterboxd_rating: 3.28
+  genres:
+    - Action
+    - Crime
 
 - id: waist-deep
   tmdb_id: 9917
@@ -37,6 +40,11 @@
   letterboxd_slug: waist-deep
   poster_url: https://a.ltrbxd.com/resized/sm/upload/yo/w0/pk/mz/kblkyMfm0E3qwMf9MIFz6YpMf1t-1200-1200-675-675-crop-000000.jpg?v=3e2a495ce3
   letterboxd_rating: 2.84
+  genres:
+    - Thriller
+    - Action
+    - Drama
+    - Adventure
 
 - id: black-nativity
   tmdb_id: 175541
@@ -54,6 +62,9 @@
   letterboxd_slug: black-nativity
   poster_url: https://a.ltrbxd.com/resized/sm/upload/cl/6d/gh/qw/black-nativity-1200-1200-675-675-crop-000000.jpg?v=b1edf2787c
   letterboxd_rating: 2.81
+  genres:
+    - Drama
+    - Music
 
 - id: transformers
   tmdb_id: 1858
@@ -71,3 +82,7 @@
   letterboxd_slug: transformers
   poster_url: https://a.ltrbxd.com/resized/sm/upload/d3/yv/iy/mb/transformers-1200-1200-675-675-crop-000000.jpg?v=e236887929
   letterboxd_rating: 3.4
+  genres:
+    - Action
+    - Science Fiction
+    - Adventure

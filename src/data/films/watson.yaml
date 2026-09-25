@@ -14,6 +14,9 @@
   letterboxd_slug: harry-potter-and-the-deathly-hallows-part-2
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ym/d6/ci/3v/harry-potter-deathly-hallows-part2-30-1200-1200-675-675-crop-000000.jpg?v=fe841bea7e
   letterboxd_rating: 4.04
+  genres:
+    - Fantasy
+    - Adventure
 
 - id: the-perks-of-being-a-wallflower
   tmdb_id: 84892
@@ -26,6 +29,8 @@
   letterboxd_slug: the-perks-of-being-a-wallflower
   poster_url: https://a.ltrbxd.com/resized/alternative-backdrop/7/1/3/3/8/tmdb/rusdnkVpMzHOhbED1E1XqEPKdw9-1200-1200-675-675-crop-000000.jpg?v=aa137182c0
   letterboxd_rating: 4.04
+  genres:
+    - Drama
 
 - id: the-bling-ring
   tmdb_id: 96936
@@ -38,6 +43,9 @@
   letterboxd_slug: the-bling-ring
   poster_url: https://a.ltrbxd.com/resized/sm/upload/pq/hn/s2/a8/the-bling-ring-1200-1200-675-675-crop-000000.jpg?v=020b3be24a
   letterboxd_rating: 3.05
+  genres:
+    - Drama
+    - Crime
 
 - id: regression
   tmdb_id: 241257
@@ -55,6 +63,10 @@
   letterboxd_slug: regression
   poster_url: https://a.ltrbxd.com/resized/sm/upload/7b/ou/ck/fp/regression-1200-1200-675-675-crop-000000.jpg?v=121a01766a
   letterboxd_rating: 2.46
+  genres:
+    - Horror
+    - Thriller
+    - Mystery
 
 - id: the-circle
   tmdb_id: 339988
@@ -67,3 +79,7 @@
   letterboxd_slug: the-circle-2017
   poster_url: https://a.ltrbxd.com/resized/sm/upload/us/ni/hf/71/the-circle-1200-1200-675-675-crop-000000.jpg?v=9ebf9375fe
   letterboxd_rating: 2.08
+  genres:
+    - Science Fiction
+    - Thriller
+    - Drama

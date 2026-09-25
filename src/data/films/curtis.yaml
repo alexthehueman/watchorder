@@ -14,6 +14,8 @@
   letterboxd_slug: trading-places
   poster_url: https://a.ltrbxd.com/resized/sm/upload/xs/nt/u3/gl/trading-1200-1200-675-675-crop-000000.jpg?v=3b1c078edf
   letterboxd_rating: 3.63
+  genres:
+    - Comedy
 
 - id: a-fish-called-wanda
   tmdb_id: 623
@@ -26,6 +28,9 @@
   letterboxd_slug: a-fish-called-wanda
   poster_url: https://a.ltrbxd.com/resized/sm/upload/0r/1t/h6/8y/fish%20called%20wanda-1200-1200-675-675-crop-000000.jpg?v=b91a185ac4
   letterboxd_rating: 3.74
+  genres:
+    - Crime
+    - Comedy
 
 - id: freaky-friday
   tmdb_id: 10330
@@ -38,3 +43,7 @@
   letterboxd_slug: freaky-friday-2003
   poster_url: https://a.ltrbxd.com/resized/sm/upload/c7/ug/mc/um/freaky-friday-1200-1200-675-675-crop-000000.jpg?v=44185774a7
   letterboxd_rating: 3.54
+  genres:
+    - Comedy
+    - Family
+    - Fantasy

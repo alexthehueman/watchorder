@@ -22,6 +22,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNTlmYjkxNzYtYWMwMC00NTNhLWExZjEtNmUwMzlmYWJhOGFjXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: natural-born-killers
   letterboxd_rating: 3.67
+  genres:
+    - Drama
+    - Thriller
+    - Crime
 
 - id: the-people-vs-larry-flynt
   tmdb_id: 1630
@@ -35,6 +39,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNDU2ZTYxMDItNzRjNy00YWNkLTg1YTAtYmZlYTQxMzA3NjFmXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-people-vs-larry-flynt
   letterboxd_rating: 3.61
+  genres:
+    - Drama
 
 - id: zombieland
   tmdb_id: 19908
@@ -48,6 +54,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTU5MDg0NTQ1N15BMl5BanBnXkFtZTcwMjA4Mjg3Mg@@._V1_SX300.jpg
   letterboxd_slug: zombieland
   letterboxd_rating: 3.52
+  genres:
+    - Comedy
+    - Horror
 
 - id: seven-psychopaths
   tmdb_id: 86838
@@ -61,6 +70,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTgwMzUxMjc0M15BMl5BanBnXkFtZTcwMzQ2MjYyOA@@._V1_SX300.jpg
   letterboxd_slug: seven-psychopaths
   letterboxd_rating: 3.68
+  genres:
+    - Comedy
+    - Crime
 
 - id: war-for-the-planet-of-the-apes
   tmdb_id: 281338
@@ -74,3 +86,7 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMzNhMzNiZDYtMzYxYy00YTYwLTkxNmYtNTJhOGU1Yjg5ODI5XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: war-for-the-planet-of-the-apes
   letterboxd_rating: 3.83
+  genres:
+    - War
+    - Drama
+    - Science Fiction

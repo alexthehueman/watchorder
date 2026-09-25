@@ -19,6 +19,10 @@
   letterboxd_slug: the-transporter
   poster_url: https://a.ltrbxd.com/resized/sm/upload/zr/zm/ji/u9/the-transporter-60-1200-1200-675-675-crop-000000.jpg?v=494fbc2170
   letterboxd_rating: 3.15
+  genres:
+    - Crime
+    - Action
+    - Thriller
 
 - id: crank
   tmdb_id: 1948
@@ -31,6 +35,10 @@
   letterboxd_slug: crank
   poster_url: https://a.ltrbxd.com/resized/sm/upload/00/uq/ls/k2/crank-1200-1200-675-675-crop-000000.jpg?v=5013039ffd
   letterboxd_rating: 3.27
+  genres:
+    - Action
+    - Thriller
+    - Crime
 
 - id: snatch
   tmdb_id: 107
@@ -43,6 +51,9 @@
   letterboxd_slug: snatch
   poster_url: https://a.ltrbxd.com/resized/sm/upload/6t/20/ji/66/snatch-1200-1200-675-675-crop-000000.jpg?v=7c36d37511
   letterboxd_rating: 4.05
+  genres:
+    - Comedy
+    - Crime
 
 - id: the-meg
   tmdb_id: 345940
@@ -55,6 +66,10 @@
   letterboxd_slug: the-meg
   poster_url: https://a.ltrbxd.com/resized/sm/upload/sw/ic/3n/9e/the-meg-1200-1200-675-675-crop-000000.jpg?v=bf9fb8a617
   letterboxd_rating: 2.48
+  genres:
+    - Science Fiction
+    - Horror
+    - Action
 
 - id: the-bank-job
   tmdb_id: 34021
@@ -71,6 +86,11 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
   letterboxd_slug: the-bank-job
   poster_url: https://a.ltrbxd.com/resized/film-poster/2/9/4/1/1/29411-the-bank-job-0-230-0-345-crop.jpg?v=9e60333764
+  genres:
+    - Adventure
+    - Thriller
+    - Action
+    - Drama
 
 - id: redemption
   tmdb_id: 158394
@@ -88,3 +108,5 @@
   letterboxd_slug: redemption-2013
   poster_url: https://a.ltrbxd.com/resized/film-poster/1/1/8/2/4/0/118240-redemption-0-230-0-345-crop.jpg?v=8f1342b52f
   letterboxd_rating: 3.39
+  genres:
+    - Documentary

@@ -21,6 +21,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BOWQyNjBiZWMtYzFjMS00ZDEzLWEyNTYtZGFiZDE4Mjk4M2E2XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: hard-eight
   letterboxd_rating: 3.62
+  genres:
+    - Drama
+    - Crime
 
 - id: boogie-nights
   tmdb_id: 4995
@@ -39,6 +42,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BOTFmZmE4OTMtNDYxNi00MmZmLThlYjktMmExMzMwY2YzOTFiXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: boogie-nights
   letterboxd_rating: 4.21
+  genres:
+    - Drama
+    - Comedy
 
 - id: magnolia
   tmdb_id: 334
@@ -57,6 +63,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BOWY0Zjk1YTMtMGFlYi00OTFmLWEyOTAtNmRkYjE0ZDJiZWMwXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: magnolia
   letterboxd_rating: 4.23
+  genres:
+    - Drama
 
 - id: punch-drunk-love
   tmdb_id: 8051
@@ -75,6 +83,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZTYyMTQ2MDAtMzYzYS00YjZiLWJiNDUtZjEwNzM4YzE1ZDhhXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: punch-drunk-love
   letterboxd_rating: 3.96
+  genres:
+    - Drama
+    - Romance
+    - Comedy
 
 - id: there-will-be-blood
   tmdb_id: 7345
@@ -99,6 +111,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjAxODQ4MDU5NV5BMl5BanBnXkFtZTcwMDU4MjU1MQ@@._V1_SX300.jpg
   letterboxd_slug: there-will-be-blood
   letterboxd_rating: 4.46
+  genres:
+    - Drama
 
 - id: the-master
   tmdb_id: 68722
@@ -117,6 +131,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTQ2NjQ5MzMwMF5BMl5BanBnXkFtZTcwMjczNTAzOA@@._V1_QL75_UX380_CR0,0,380,562_.jpg
   letterboxd_slug: the-master-2012
   letterboxd_rating: 3.97
+  genres:
+    - Drama
 
 - id: inherent-vice
   tmdb_id: 171274
@@ -140,6 +156,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMmU3YjYzZWEtZDEzYy00YjA4LWI0YTUtY2RiMzVlYzZkZjg3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg
   letterboxd_slug: inherent-vice
   letterboxd_rating: 3.59
+  genres:
+    - Comedy
+    - Drama
+    - Mystery
 
 - id: phantom-thread
   tmdb_id: 400617
@@ -159,6 +179,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BOTMzNWNhNDctMTM2MC00N2EwLThjYTEtMmQ2ZDAyNDVlNzgyXkEyXkFqcGc@._V1_QL75_UY562_CR0,0,380,562_.jpg
   letterboxd_slug: phantom-thread
   letterboxd_rating: 4.17
+  genres:
+    - Drama
+    - Romance
 
 - id: licorice-pizza
   tmdb_id: 718032
@@ -177,6 +200,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYjU5MjRiOWMtNmI0OC00ZTU1LThlNGItYTViNzU2YzAzMWMxXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: licorice-pizza
   letterboxd_rating: 3.53
+  genres:
+    - Drama
+    - Romance
+    - Comedy
 
 - id: one-battle-after-another
   tmdb_id: 1054867
@@ -194,3 +221,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMzBkZmQ0NjMtNTZlMy00ZjdlLTg5ODUtYWFlNGM0YzE3MTg0XkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg
   letterboxd_slug: one-battle-after-another
   letterboxd_rating: 4.12
+  genres:
+    - Thriller
+    - Comedy
+    - Action
+    - Crime

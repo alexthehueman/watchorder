@@ -14,6 +14,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   letterboxd_slug: scream-2
   poster_url: https://a.ltrbxd.com/resized/sm/upload/95/eu/9j/1g/scream-2-1200-1200-675-675-crop-000000.jpg?v=e5d209fa94
+  genres:
+    - Horror
+    - Mystery
 
 - id: my-cousin-vinny
   tmdb_id: 10377
@@ -25,3 +28,6 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: my-cousin-vinny
   poster_url: https://a.ltrbxd.com/resized/sm/upload/t9/sp/20/34/my-cousin-vinny-1200-1200-675-675-crop-000000.jpg?v=60bdc0c675
+  genres:
+    - Drama
+    - Comedy

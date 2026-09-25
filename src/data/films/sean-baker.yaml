@@ -20,6 +20,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTY4NTkwNjMwN15BMl5BanBnXkFtZTcwNDkwODI2MQ@@._V1_SX300.jpg
   letterboxd_slug: take-out-2004
   letterboxd_rating: 3.79
+  genres:
+    - Drama
 
 - id: prince-of-broadway
   tmdb_id: 87081
@@ -33,6 +35,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjI3MTgwNTM2Nl5BMl5BanBnXkFtZTcwMDcwOTU3Mw@@._V1_SX300.jpg
   letterboxd_slug: prince-of-broadway
   letterboxd_rating: 3.85
+  genres:
+    - Drama
 
 - id: starlet
   tmdb_id: 91679
@@ -46,6 +50,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMzI5NTI3MjYyNl5BMl5BanBnXkFtZTcwNTg1NjQ2OA@@._V1_SX300.jpg
   letterboxd_slug: starlet
   letterboxd_rating: 3.9
+  genres:
+    - Drama
 
 - id: tangerine
   tmdb_id: 308084
@@ -59,6 +65,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjEzNzY2NjYwOV5BMl5BanBnXkFtZTgwOTY1MDU1NTE@._V1_SX300.jpg
   letterboxd_slug: tangerine
   letterboxd_rating: 3.87
+  genres:
+    - Comedy
+    - Drama
 
 - id: red-rocket
   tmdb_id: 763329
@@ -77,3 +86,6 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjQ0NmI0NjgtZjUxYS00ZjIyLTkxMjEtNzkyMWM1NjQ1ZDEyXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: red-rocket-2021
   letterboxd_rating: 3.82
+  genres:
+    - Comedy
+    - Drama

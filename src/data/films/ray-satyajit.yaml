@@ -24,6 +24,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNmZhNzc0ZDMtZDg2My00MjkxLWJjZTctNTljODc2ZjQzMzJkXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: pather-panchali
   letterboxd_rating: 4.32
+  genres:
+    - Drama
+    - History
 
 - id: aparajito
   tmdb_id: 897
@@ -37,6 +40,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNmViYWRlZWEtYjFhZi00Njg4LTg4YmYtMTQ2MTFkYmMwNjRmXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: aparajito
   letterboxd_rating: 4.26
+  genres:
+    - Drama
 
 - id: the-music-room
   tmdb_id: 822
@@ -55,6 +60,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYTQ3ZGEyYjQtMWI5Mi00Zjc2LTk0YTYtZmY2OGQzNDc1ZDFkXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-music-room
   letterboxd_rating: 4.05
+  genres:
+    - Drama
+    - Music
 
 - id: the-world-of-apu
   tmdb_id: 896
@@ -69,6 +77,8 @@
   letterboxd_title: Apur Sansar
   letterboxd_slug: apur-sansar
   letterboxd_rating: 4.38
+  genres:
+    - Drama
 
 - id: devi
   tmdb_id: 43031
@@ -82,6 +92,8 @@
   letterboxd_slug: devi
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ur/mj/rm/cy/hepIIa9TkcX0ccqoID8zeF04oLC-1200-1200-675-675-crop-000000.jpg?v=4ae08e24ce
   letterboxd_rating: 4.09
+  genres:
+    - Drama
 
 - id: the-big-city
   tmdb_id: 60567
@@ -95,6 +107,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZjhlMGU1ZDItODMyOS00M2MyLWEyZDgtMjAwMGE3NDBkZWExXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-big-city
   letterboxd_rating: 4.25
+  genres:
+    - Drama
 
 - id: charulata
   tmdb_id: 35790
@@ -113,6 +127,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BOTZhNjg2NDAtYTMzMy00YTNhLTkyNzMtYThmOWU0ZjE2MjI0XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: charulata
   letterboxd_rating: 4.17
+  genres:
+    - Drama
+    - Romance
 
 - id: days-and-nights-in-the-forest
   tmdb_id: 35867
@@ -125,6 +142,9 @@
   letterboxd_slug: days-and-nights-in-the-forest
   poster_url: https://a.ltrbxd.com/resized/sm/upload/m4/ec/nn/fi/DaysAndNights-1200-1200-675-675-crop-000000.jpg?v=c0adc901cc
   letterboxd_rating: 4
+  genres:
+    - Drama
+    - Comedy
 
 - id: the-chess-players
   tmdb_id: 80556
@@ -143,6 +163,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZmNlYzY0M2MtNjA5MC00MDk2LTk5MjUtNDA2MDBjZjNhNzM3XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-chess-players
   letterboxd_rating: 3.77
+  genres:
+    - Drama
 
 - id: the-hero
   tmdb_id: 112999
@@ -156,3 +178,5 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjNkOWMwMWYtMGExNS00ZGE5LWI0M2UtZjZmMDg2NTk5OTI2XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-hero-1966
   letterboxd_rating: 4.14
+  genres:
+    - Drama

@@ -21,6 +21,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjY5OWJiMTktM2M5Ny00MTJhLWFiYzktNzk0MTA2MDQyZDY3XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: strike
   letterboxd_rating: 3.91
+  genres:
+    - Drama
 
 - id: battleship-potemkin
   tmdb_id: 643
@@ -39,6 +41,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZmY5ZGQwMTEtM2E0ZC00NzVkLTgyYzktZDYxMjhiMzA5N2MzXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: battleship-potemkin
   letterboxd_rating: 4
+  genres:
+    - Drama
+    - History
+    - War
 
 - id: alexander-nevsky
   tmdb_id: 10235
@@ -57,6 +63,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNjI4YWY4MGEtMGM3OS00YTI0LTk2N2UtMmFkZDMwZDBjNDEwXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: alexander-nevsky
   letterboxd_rating: 3.76
+  genres:
+    - War
+    - History
+    - Drama
 
 - id: ivan-the-terrible-part-i
   tmdb_id: 9797
@@ -75,3 +85,6 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNTNlYzI5OWEtYzI1NC00YjEzLWE5MzQtMzI1YjFmZDMwMzczXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: ivan-the-terrible-part-i
   letterboxd_rating: 3.94
+  genres:
+    - Drama
+    - History

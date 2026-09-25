@@ -21,6 +21,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMzE0MTdhOTgtMjVhYi00Yjk0LTkyZDAtN2M3MzAzNzQwYzU0XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: taipei-story
   letterboxd_rating: 4.04
+  genres:
+    - Drama
 
 - id: the-terrorizers
   tmdb_id: 78450
@@ -39,6 +41,11 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNTBiNzQxZWYtNWRmMi00MjA1LWE0MjgtZjgzNTAzNmM4NWFhXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-terrorizers
   letterboxd_rating: 4.13
+  genres:
+    - Mystery
+    - Drama
+    - Thriller
+    - Crime
 
 - id: a-brighter-summer-day
   tmdb_id: 15804
@@ -57,6 +64,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMGRkNGQwOTktNWQxOS00ZDRjLThmODktNWY4NThjNDU2MjM5XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: a-brighter-summer-day
   letterboxd_rating: 4.49
+  genres:
+    - Crime
+    - Drama
+    - Romance
 
 - id: yi-yi
   tmdb_id: 25538
@@ -75,3 +86,5 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNTAyMDQ5Y2MtZDk0NC00N2IyLWE5OTgtZjJkZWNlMDBhMDhlXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: yi-yi
   letterboxd_rating: 4.53
+  genres:
+    - Drama

@@ -13,6 +13,11 @@
   content: { sexual_violence: false, animal_harm: true, child_harm: true, suicide: false, violence: 3, sex: 1 }
   letterboxd_slug: true-history-of-the-kelly-gang
   poster_url: https://a.ltrbxd.com/resized/sm/upload/1t/hw/8w/1m/true-history-kelly-gang-1200-1200-675-675-crop-000000.jpg?v=686af1a665
+  genres:
+    - Drama
+    - Western
+    - Crime
+    - Thriller
 
 - id: the-wonder
   tmdb_id: 823766
@@ -29,6 +34,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: the-wonder
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ci/ha/xb/6y/the-wonder-2022-1200-1200-675-675-crop-000000.jpg?v=d4d6e9887b
+  genres:
+    - Drama
+    - Mystery
 
 - id: eileen
   tmdb_id: 664341
@@ -45,3 +53,6 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 1 }
   letterboxd_slug: eileen-2023
   poster_url: https://a.ltrbxd.com/resized/sm/upload/6q/3d/hq/wz/qOTGFjdDrRvwTSJRL2r2gkG92eL-1200-1200-675-675-crop-000000.jpg?v=0c9829a179
+  genres:
+    - Crime
+    - Thriller

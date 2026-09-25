@@ -20,6 +20,9 @@
   letterboxd_slug: the-best-man
   poster_url: https://a.ltrbxd.com/resized/sm/upload/uq/4k/6v/x0/the%20best%20man-1200-1200-675-675-crop-000000.jpg?v=d20b52fe26
   letterboxd_rating: 3.37
+  genres:
+    - Comedy
+    - Drama
 
 - id: dead-presidents
   tmdb_id: 11443
@@ -32,3 +35,7 @@
   letterboxd_slug: dead-presidents
   poster_url: https://a.ltrbxd.com/resized/sm/upload/8d/ah/y8/1f/dead%20presidents-1200-1200-675-675-crop-000000.jpg?v=ee45016981
   letterboxd_rating: 3.6
+  genres:
+    - Drama
+    - Action
+    - Crime

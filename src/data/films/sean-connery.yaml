@@ -13,6 +13,10 @@
   letterboxd_slug: goldfinger
   poster_url: https://a.ltrbxd.com/resized/sm/upload/1l/mi/je/dh/goldfinger-1200-1200-675-675-crop-000000.jpg?v=566f8ee9f7
   letterboxd_rating: 3.77
+  genres:
+    - Action
+    - Adventure
+    - Thriller
 
 - id: indiana-jones-and-the-last-crusade
   tmdb_id: 89
@@ -25,6 +29,9 @@
   letterboxd_slug: indiana-jones-and-the-last-crusade
   poster_url: https://a.ltrbxd.com/resized/sm/upload/0u/gu/pz/x0/indiana-jones-and-the-last-crusade-1200-1200-675-675-crop-000000.jpg?v=3d519f0516
   letterboxd_rating: 4.12
+  genres:
+    - Adventure
+    - Action
 
 - id: the-hunt-for-red-october
   tmdb_id: 1669
@@ -42,3 +49,6 @@
   letterboxd_slug: the-hunt-for-red-october
   poster_url: https://a.ltrbxd.com/resized/sm/upload/x8/hq/bf/p3/hunt-for-red-october-1200-1200-675-675-crop-000000.jpg?v=f6d1b436a7
   letterboxd_rating: 3.78
+  genres:
+    - Thriller
+    - Action

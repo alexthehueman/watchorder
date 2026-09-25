@@ -20,6 +20,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMDU4ZjNmMjEtMjcxYi00NDAxLWFlMjQtNWIyNjg5NWUzNTdjXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: mr-smith-goes-to-washington
   letterboxd_rating: 4.15
+  genres:
+    - Drama
+    - Comedy
 
 - id: the-shop-around-the-corner
   tmdb_id: 20334
@@ -33,6 +36,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMGU3Y2RmMTAtY2EzNC00MjUzLWIyMDUtZWJmYTE2MTU5ZDY5XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-shop-around-the-corner
   letterboxd_rating: 4.18
+  genres:
+    - Romance
+    - Drama
+    - Comedy
 
 - id: its-a-wonderful-life
   tmdb_id: 1585
@@ -51,6 +58,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMDM4OWFhYjEtNTE5Yy00NjcyLTg5N2UtZDQwNDZlYjlmNDU5XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: its-a-wonderful-life
   letterboxd_rating: 4.45
+  genres:
+    - Family
+    - Fantasy
+    - Drama
 
 - id: rope
   tmdb_id: 1580
@@ -69,6 +80,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMDM1YzdlZjAtZWFiZS00ZjYyLTgxYzctNzBiYmE0OWFiMGU1XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg
   letterboxd_slug: rope
   letterboxd_rating: 4.14
+  genres:
+    - Crime
+    - Thriller
+    - Drama
 
 - id: winchester-73
   tmdb_id: 14551
@@ -82,6 +97,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMzVhODc1YjYtODdjNC00NzkwLWExNTUtMDAwOTJhZDM0ZDYxXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: winchester-73
   letterboxd_rating: 3.88
+  genres:
+    - Western
 
 - id: harvey
   tmdb_id: 11787
@@ -100,6 +117,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZTNlNWRhZmEtYzgyOC00YTIxLTk1MjktMWQ1MjhlMmE0ZjljXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: harvey
   letterboxd_rating: 4.01
+  genres:
+    - Fantasy
+    - Comedy
 
 - id: the-naked-spur
   tmdb_id: 20442
@@ -118,6 +138,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNjZlOGJhYzYtYmE3MS00YjYyLTk0NDUtZWIyNDliMDUyZmZhXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-naked-spur
   letterboxd_rating: 3.78
+  genres:
+    - Western
 
 - id: the-man-who-knew-too-much
   tmdb_id: 574
@@ -131,6 +153,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNDg1NzljZmMtMDU3OS00Y2E5LWE3OGEtMzM4ZjhjMmZmZTI5XkEyXkFqcGc@._V1_QL75_UX380_CR0,8,380,562_.jpg
   letterboxd_slug: the-man-who-knew-too-much-1956
   letterboxd_rating: 3.73
+  genres:
+    - Mystery
+    - Thriller
+    - Drama
 
 - id: anatomy-of-a-murder
   tmdb_id: 93
@@ -149,3 +175,7 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYWRiNmViOGEtODY5OC00YTgxLWI3NjktZjBlOTBhM2ExNTU5XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: anatomy-of-a-murder
   letterboxd_rating: 4.25
+  genres:
+    - Crime
+    - Mystery
+    - Drama

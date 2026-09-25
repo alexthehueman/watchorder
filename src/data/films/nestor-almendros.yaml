@@ -15,6 +15,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   letterboxd_slug: two-english-girls
   poster_url: https://a.ltrbxd.com/resized/sm/upload/hv/kj/g3/vq/two%20english%20girls-1200-1200-675-675-crop-000000.jpg?v=403ca36029
+  genres:
+    - Drama
+    - Romance
 
 - id: the-blue-lagoon
   tmdb_id: 5689
@@ -26,3 +29,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 2 }
   letterboxd_slug: the-blue-lagoon
   poster_url: https://a.ltrbxd.com/resized/sm/upload/tn/d8/bh/vb/blue%20lagoon-1200-1200-675-675-crop-000000.jpg?v=74ccbecc34
+  genres:
+    - Romance
+    - Adventure
+    - Drama

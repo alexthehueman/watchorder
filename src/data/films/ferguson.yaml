@@ -19,6 +19,9 @@
   letterboxd_slug: mission-impossible-rogue-nation
   poster_url: https://a.ltrbxd.com/resized/sm/upload/r7/1a/9z/6m/lBw9DFzSZIBVZNEWotEZ7P0A9po-1200-1200-675-675-crop-000000.jpg?v=2d2a322bb6
   letterboxd_rating: 3.77
+  genres:
+    - Action
+    - Adventure
 
 - id: life-2017
   tmdb_id: 395992
@@ -31,3 +34,7 @@
   letterboxd_slug: life-2017
   poster_url: https://a.ltrbxd.com/resized/sm/upload/pt/te/gp/yg/life-1200-1200-675-675-crop-000000.jpg?v=2640c89e33
   letterboxd_rating: 3.09
+  genres:
+    - Science Fiction
+    - Horror
+    - Mystery

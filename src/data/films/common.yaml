@@ -13,6 +13,10 @@
   letterboxd_slug: john-wick-chapter-2
   poster_url: https://a.ltrbxd.com/resized/sm/upload/de/gu/a5/e4/john-wick-2-1200-1200-675-675-crop-000000.jpg?v=033ad850c4
   letterboxd_rating: 3.73
+  genres:
+    - Crime
+    - Action
+    - Thriller
 
 - id: just-wright
   tmdb_id: 38093
@@ -25,6 +29,9 @@
   letterboxd_slug: just-wright
   poster_url: https://a.ltrbxd.com/resized/sm/upload/wq/zr/cm/u3/just%20wright-1200-1200-675-675-crop-000000.jpg?v=615474cef8
   letterboxd_rating: 3.11
+  genres:
+    - Comedy
+    - Romance
 
 - id: the-kitchen-2019
   tmdb_id: 487680
@@ -42,3 +49,7 @@
   letterboxd_slug: the-kitchen-2019
   poster_url: https://a.ltrbxd.com/resized/sm/upload/4k/er/ud/2p/the-kitchen-1200-1200-675-675-crop-000000.jpg?v=3dc389a87d
   letterboxd_rating: 2.58
+  genres:
+    - Action
+    - Drama
+    - Crime

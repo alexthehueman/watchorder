@@ -17,6 +17,12 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BODIyMjNhNGUtMDlmYi00OWZkLWI2MjAtMGE0ZjMwZjA2NjU4XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: yes-madam
   letterboxd_rating: 3.5
+  genres:
+    - Action
+    - Crime
+    - Comedy
+    - Drama
+    - Thriller
 
 - id: police-story-3-super-cop
   tmdb_id: 11134
@@ -29,6 +35,10 @@
   letterboxd_slug: police-story-3-super-cop
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ba/fl/22/dl/police%20story%203-1200-1200-675-675-crop-000000.jpg?v=2899f660aa
   letterboxd_rating: 3.65
+  genres:
+    - Crime
+    - Thriller
+    - Action
 
 - id: the-heroic-trio
   tmdb_id: 43636
@@ -47,6 +57,12 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BM2I3NmRmMjktOTIwMy00OGMwLWI3MzUtNGE5NzNmMWQ5OTU4XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-heroic-trio
   letterboxd_rating: 3.61
+  genres:
+    - Fantasy
+    - Action
+    - Thriller
+    - Science Fiction
+    - Adventure
 
 - id: wing-chun
   tmdb_id: 25645
@@ -60,6 +76,11 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMGYyZmM3YWEtYmIxMi00MmRjLWJhNGItNzk3NDJjYTZiMTdmXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: wing-chun
   letterboxd_rating: 3.51
+  genres:
+    - Drama
+    - Comedy
+    - Romance
+    - Action
 
 - id: tomorrow-never-dies
   tmdb_id: 714
@@ -73,6 +94,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTM1MTk2ODQxNV5BMl5BanBnXkFtZTcwOTY5MDg0NA@@._V1_SX300.jpg
   letterboxd_slug: tomorrow-never-dies
   letterboxd_rating: 3.11
+  genres:
+    - Action
+    - Thriller
+    - Adventure
 
 - id: crouching-tiger-hidden-dragon
   tmdb_id: 146
@@ -91,6 +116,12 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMzRmMTU2OWEtZjI0Ni00MGRhLThjOTItZTJiNmM4MDk0ZWU2XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: crouching-tiger-hidden-dragon
   letterboxd_rating: 4.07
+  genres:
+    - Drama
+    - Fantasy
+    - Romance
+    - Action
+    - Adventure
 
 - id: reign-of-assassins
   tmdb_id: 44092
@@ -104,6 +135,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYmEzMGYxZTQtNTYwYi00Y2ZhLTgzMDktOTk4Zjg1MjlhMmY5XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: reign-of-assassins
   letterboxd_rating: 3.33
+  genres:
+    - Action
+    - Adventure
 
 - id: the-lady
   tmdb_id: 77878
@@ -122,6 +156,11 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTg3NTc3NzMzOF5BMl5BanBnXkFtZTcwMzI4NjkyNw@@._V1_SX300.jpg
   letterboxd_slug: the-lady
   letterboxd_rating: 3.29
+  genres:
+    - Thriller
+    - Drama
+    - History
+    - Romance
 
 # Sunshine already exists in evans.yaml — added there for the same "stillness sat at 1
 # for six of nine films" reason this entry originally existed for.

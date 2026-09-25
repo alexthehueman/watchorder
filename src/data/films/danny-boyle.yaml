@@ -21,6 +21,9 @@
   letterboxd_slug: slumdog-millionaire
   poster_url: https://a.ltrbxd.com/resized/sm/upload/hs/8w/zu/6c/slumdog-millionaire-1200-1200-675-675-crop-000000.jpg?v=75cd062a0c
   letterboxd_rating: 3.97
+  genres:
+    - Drama
+    - Romance
 
 - id: 127-hours
   tmdb_id: 44115
@@ -38,6 +41,10 @@
   letterboxd_slug: 127-hours
   poster_url: https://a.ltrbxd.com/resized/sm/upload/af/yu/je/7t/127-hours-1200-1200-675-675-crop-000000.jpg?v=1e81ce312e
   letterboxd_rating: 3.48
+  genres:
+    - Adventure
+    - Thriller
+    - Drama
 
 - id: the-beach
   tmdb_id: 1907
@@ -55,3 +62,8 @@
   letterboxd_slug: the-beach
   poster_url: https://a.ltrbxd.com/resized/sm/upload/5v/r9/g7/pu/the-beach-1200-1200-675-675-crop-000000.jpg?v=d738e416ce
   letterboxd_rating: 3.22
+  genres:
+    - Drama
+    - Romance
+    - Thriller
+    - Adventure

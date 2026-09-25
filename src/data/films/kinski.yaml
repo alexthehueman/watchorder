@@ -25,6 +25,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BOWFhODY5MjItMmUyMC00YThlLWE1NzktMjdiMjE4NDU1MzBmXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: cobra-verde
   letterboxd_rating: 3.63
+  genres:
+    - Drama
+    - Adventure
 
 - id: for-a-few-dollars-more
   tmdb_id: 938
@@ -38,6 +41,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNTRmOTcyYmYtMTIwNi00ZGYyLTk4YjYtZGJlZTgwZGY0NGQyXkEyXkFqcGc@._V1_QL75_UX380_CR0,7,380,562_.jpg
   letterboxd_slug: for-a-few-dollars-more
   letterboxd_rating: 4.25
+  genres:
+    - Western
 
 - id: doctor-zhivago
   tmdb_id: 907
@@ -56,6 +61,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNWQyZGNmZWItNjc0OS00M2YyLWJkZmYtZWNlNDE2MzMwYzUzXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: doctor-zhivago
   letterboxd_rating: 3.99
+  genres:
+    - War
+    - Drama
+    - Romance
 
 - id: crawlspace
   tmdb_id: 56705
@@ -74,3 +83,6 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMDcwYWNhNDMtMTJiOC00Zjk4LWE5ZmEtMTI3MGI4MDQxN2Q1XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: crawlspace
   letterboxd_rating: 2.84
+  genres:
+    - Thriller
+    - Horror

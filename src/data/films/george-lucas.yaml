@@ -22,6 +22,9 @@
   letterboxd_slug: thx-1138
   poster_url: https://a.ltrbxd.com/resized/sm/upload/9r/k2/8a/4l/thx-1138-1200-1200-675-675-crop-000000.jpg?v=59b83a5083
   letterboxd_rating: 3.39
+  genres:
+    - Science Fiction
+    - Drama
 
 - id: star-wars-episode-ii-attack-of-the-clones
   tmdb_id: 1894
@@ -39,6 +42,10 @@
   letterboxd_slug: star-wars-episode-ii-attack-of-the-clones
   poster_url: https://a.ltrbxd.com/resized/sm/upload/t8/jn/ez/5u/attack-of-the-clones-1200-1200-675-675-crop-000000.jpg?v=d7991186bc
   letterboxd_rating: 3.17
+  genres:
+    - Science Fiction
+    - Adventure
+    - Action
 
 - id: star-wars-episode-iii-revenge-of-the-sith
   tmdb_id: 1895
@@ -56,3 +63,7 @@
   letterboxd_slug: star-wars-episode-iii-revenge-of-the-sith
   poster_url: https://a.ltrbxd.com/resized/sm/upload/uw/c3/ob/q6/revenge-of-the-sith-1200-1200-675-675-crop-000000.jpg?v=369b9ff7cb
   letterboxd_rating: 4.13
+  genres:
+    - Science Fiction
+    - Adventure
+    - Action

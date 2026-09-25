@@ -18,6 +18,8 @@
   letterboxd_slug: the-unsinkable-molly-brown
   poster_url: https://a.ltrbxd.com/resized/sm/upload/y3/13/ew/h7/jqV50ENB0UUnKdbMlQduCv7Dg40-1200-1200-675-675-crop-000000.jpg?v=4323cb8403
   letterboxd_rating: 3.13
+  genres:
+    - Comedy
 
 - id: tammy-and-the-bachelor
   tmdb_id: 43240
@@ -30,3 +32,6 @@
   letterboxd_slug: tammy-and-the-bachelor
   poster_url: https://a.ltrbxd.com/resized/film-poster/2/1/9/0/6/21906-tammy-and-the-bachelor-0-230-0-345-crop.jpg?v=610c19f76d
   letterboxd_rating: 3.34
+  genres:
+    - Comedy
+    - Romance

@@ -15,6 +15,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BY2MyZWJhNjktMWQ2My00OTgwLWI1NjEtYjUzM2M2N2M4Mzc4XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: sense-and-sensibility
   letterboxd_rating: 3.87
+  genres:
+    - Drama
+    - Romance
 
 - id: eternal-sunshine-of-the-spotless-mind
   tmdb_id: 38
@@ -33,6 +36,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTY4NzcwODg3Nl5BMl5BanBnXkFtZTcwNTEwOTMyMw@@._V1_SX300.jpg
   letterboxd_slug: eternal-sunshine-of-the-spotless-mind
   letterboxd_rating: 4.24
+  genres:
+    - Science Fiction
+    - Romance
+    - Drama
 
 - id: little-children
   tmdb_id: 1440
@@ -46,6 +53,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTYwNzEwNTI3MV5BMl5BanBnXkFtZTcwODUyODczMQ@@._V1_SX300.jpg
   letterboxd_slug: little-children
   letterboxd_rating: 3.72
+  genres:
+    - Drama
+    - Romance
 
 - id: the-reader
   tmdb_id: 8055
@@ -64,6 +74,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTM0NDQxNjA0N15BMl5BanBnXkFtZTcwNDUwMzcwMg@@._V1_SX300.jpg
   letterboxd_slug: the-reader
   letterboxd_rating: 3.6
+  genres:
+    - Romance
+    - Drama
 
 - id: revolutionary-road
   tmdb_id: 4148
@@ -77,6 +90,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTczNDgzMjczOV5BMl5BanBnXkFtZTcwOTU3MzMwMg@@._V1_SX300.jpg
   letterboxd_slug: revolutionary-road
   letterboxd_rating: 3.58
+  genres:
+    - Romance
+    - Drama
 
 - id: steve-jobs
   tmdb_id: 321697
@@ -90,6 +106,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjE0NTA2MTEwOV5BMl5BanBnXkFtZTgwNzg4NzU2NjE@._V1_QL75_UX380_CR0,20,380,562_.jpg
   letterboxd_slug: steve-jobs
   letterboxd_rating: 3.65
+  genres:
+    - Drama
+    - History
 
 - id: the-holiday
   tmdb_id: 1581
@@ -103,3 +122,6 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZmEwNDg0M2QtMDdiNy00YTliLTk4ZjctOThjZjczODVmMTdkXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-holiday
   letterboxd_rating: 3.63
+  genres:
+    - Comedy
+    - Romance

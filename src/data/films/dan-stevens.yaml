@@ -16,6 +16,10 @@
   letterboxd_slug: the-guest-2014
   poster_url: https://a.ltrbxd.com/resized/sm/upload/95/c6/0o/iq/the-guest-1200-1200-675-675-crop-000000.jpg?v=162cbe313d
   letterboxd_rating: 3.4
+  genres:
+    - Thriller
+    - Mystery
+    - Action
 
 - id: beauty-and-the-beast-2017
   tmdb_id: 321612
@@ -28,6 +32,10 @@
   letterboxd_slug: beauty-and-the-beast-2017
   poster_url: https://a.ltrbxd.com/resized/sm/upload/op/ow/pu/rc/beauty-and-beast-2017-1200-1200-675-675-crop-000000.jpg?v=888a33b67c
   letterboxd_rating: 3.27
+  genres:
+    - Fantasy
+    - Family
+    - Romance
 
 - id: eurovision-song-contest
   tmdb_id: 531454
@@ -40,6 +48,9 @@
   letterboxd_slug: eurovision-song-contest-the-story-of-fire-saga
   poster_url: https://a.ltrbxd.com/resized/sm/upload/6w/qg/g5/pr/eurovision-song-contest-the-story-of-fire-saga-1200-1200-675-675-crop-000000.jpg?v=9a2cdf968a
   letterboxd_rating: 2.83
+  genres:
+    - Music
+    - Comedy
 
 - id: godzilla-x-kong-the-new-empire
   tmdb_id: null

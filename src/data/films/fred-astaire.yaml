@@ -18,6 +18,10 @@
   letterboxd_slug: top-hat
   poster_url: https://a.ltrbxd.com/resized/sm/upload/9a/6s/bn/ht/top%20hat-1200-1200-675-675-crop-000000.jpg?v=4c763c10e3
   letterboxd_rating: 3.83
+  genres:
+    - Music
+    - Comedy
+    - Romance
 
 - id: swing-time
   tmdb_id: 20325
@@ -35,3 +39,6 @@
   letterboxd_slug: swing-time
   poster_url: https://a.ltrbxd.com/resized/sm/upload/fr/iu/5g/20/swingtime-1200-1200-675-675-crop-000000.jpg?v=97cc79e476
   letterboxd_rating: 3.61
+  genres:
+    - Comedy
+    - Romance

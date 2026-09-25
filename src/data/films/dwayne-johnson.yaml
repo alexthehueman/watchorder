@@ -14,6 +14,10 @@
   letterboxd_slug: fast-five
   poster_url: https://a.ltrbxd.com/resized/sm/upload/yu/57/fi/p8/fast-five-1200-1200-675-675-crop-000000.jpg?v=9236879474
   letterboxd_rating: 3.55
+  genres:
+    - Crime
+    - Thriller
+    - Action
 
 - id: furious-7
   tmdb_id: 168259
@@ -31,6 +35,10 @@
   letterboxd_slug: furious-7
   poster_url: https://a.ltrbxd.com/resized/sm/upload/9o/e7/zp/4k/furious-7-1200-1200-675-675-crop-000000.jpg?v=380fe56e32
   letterboxd_rating: 3.35
+  genres:
+    - Thriller
+    - Crime
+    - Action
 
 - id: moana
   tmdb_id: 277834
@@ -43,6 +51,11 @@
   letterboxd_slug: moana-2016
   poster_url: https://a.ltrbxd.com/resized/sm/upload/2a/dc/ev/uk/moana-1200-1200-675-675-crop-000000.jpg?v=505f3aed6d
   letterboxd_rating: 3.72
+  genres:
+    - Animation
+    - Adventure
+    - Family
+    - Comedy
 
 - id: san-andreas
   tmdb_id: 254128
@@ -60,6 +73,10 @@
   letterboxd_slug: san-andreas
   poster_url: https://a.ltrbxd.com/resized/sm/upload/z3/wu/ef/4a/san-andreas-1200-1200-675-675-crop-000000.jpg?v=b3ced78496
   letterboxd_rating: 2.56
+  genres:
+    - Drama
+    - Action
+    - Thriller
 
 - id: jungle-cruise
   tmdb_id: 451048
@@ -77,6 +94,10 @@
   letterboxd_slug: jungle-cruise
   poster_url: https://a.ltrbxd.com/resized/sm/upload/52/m8/dn/l3/jungle-cruise-1200-1200-675-675-crop-000000.jpg?v=5cf7d6f357
   letterboxd_rating: 2.72
+  genres:
+    - Adventure
+    - Fantasy
+    - Comedy
 
 - id: walking-tall
   tmdb_id: 11358
@@ -94,6 +115,11 @@
   letterboxd_slug: walking-tall-2004
   poster_url: https://a.ltrbxd.com/resized/sm/upload/i9/11/e5/fa/walking-tall-2004-1200-1200-675-675-crop-000000.jpg?v=36823363aa
   letterboxd_rating: 2.79
+  genres:
+    - Thriller
+    - Action
+    - Adventure
+    - Drama
 
 - id: snitch
   tmdb_id: 134411
@@ -111,3 +137,7 @@
   letterboxd_slug: snitch
   poster_url: https://a.ltrbxd.com/resized/sm/upload/p8/lk/9o/zd/snitch-1200-1200-675-675-crop-000000.jpg?v=ca07ae4a82
   letterboxd_rating: 2.71
+  genres:
+    - Action
+    - Drama
+    - Thriller

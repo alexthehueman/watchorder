@@ -24,6 +24,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BODk4MTkxMDE1Ml5BMl5BanBnXkFtZTgwNjE0NjEzOTE@._V1_SX300.jpg
   letterboxd_slug: elevator-to-the-gallows
   letterboxd_rating: 4.1
+  genres:
+    - Crime
+    - Thriller
+    - Drama
 
 - id: the-lovers
   tmdb_id: 2574
@@ -37,6 +41,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNTEzNDU2OGItYTlkYy00NGQ5LWI2M2MtYWQzNjQ1YmNmNzk4XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-lovers
   letterboxd_rating: 3.67
+  genres:
+    - Drama
+    - Romance
 
 - id: diary-of-a-chambermaid
   tmdb_id: 36245
@@ -50,6 +57,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BOWVjYTA3MjgtMWVmYS00NjcxLWEwMzUtZTNlNmYzOGI4NDgyXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: diary-of-a-chambermaid
   letterboxd_rating: 3.68
+  genres:
+    - Drama
+    - Comedy
 
 - id: viva-maria
   tmdb_id: 11799
@@ -63,6 +73,11 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNDJkNDdhZGMtMDBhYS00N2ZmLTg5MDMtMTI4ZDgwZmJhMzg2XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: viva-maria
   letterboxd_rating: 3.3
+  genres:
+    - Comedy
+    - Romance
+    - Western
+    - Adventure
 
 - id: the-bride-wore-black
   tmdb_id: 4191
@@ -81,6 +96,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BOTFhNDhlY2EtYjEyZC00MDU5LWE4MTQtM2M4ODZkYWQ2NzBjXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-bride-wore-black
   letterboxd_rating: 3.69
+  genres:
+    - Crime
+    - Drama
+    - Mystery
 
 - id: the-immortal-story
   tmdb_id: 84636
@@ -94,3 +113,7 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNmZmOWEzMTItNGYyYi00MzA1LTg4OTYtZjI3OWIzNjhmOWRjXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-immortal-story
   letterboxd_rating: 3.65
+  genres:
+    - Romance
+    - Drama
+    - TV Movie

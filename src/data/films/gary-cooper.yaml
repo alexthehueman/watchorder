@@ -17,6 +17,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: mr-deeds-goes-to-town
   poster_url: https://a.ltrbxd.com/resized/sm/upload/sw/4t/58/7u/mr%20deeds-1200-1200-675-675-crop-000000.jpg?v=c4954c1ba3
+  genres:
+    - Romance
+    - Drama
+    - Comedy
 
 - id: pride-of-the-yankees
   tmdb_id: 19140
@@ -28,3 +32,6 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: the-pride-of-the-yankees
   poster_url: https://a.ltrbxd.com/resized/sm/upload/9v/dz/gl/st/pride-1200-1200-675-675-crop-000000.jpg?v=dcd4252261
+  genres:
+    - Drama
+    - Family

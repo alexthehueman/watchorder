@@ -20,6 +20,10 @@
   letterboxd_slug: my-beautiful-laundrette
   poster_url: https://a.ltrbxd.com/resized/sm/upload/lp/6n/oz/jo/my-beautiful-laundrette-1200-1200-675-675-crop-000000.jpg?v=0042352af7
   letterboxd_rating: 3.54
+  genres:
+    - Romance
+    - Comedy
+    - Drama
 
 - id: florence-foster-jenkins
   tmdb_id: 315664
@@ -32,6 +36,9 @@
   letterboxd_slug: florence-foster-jenkins
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ok/h3/nh/c2/image-1200-1200-675-675-crop-000000.jpg?v=be75131168
   letterboxd_rating: 3.18
+  genres:
+    - Drama
+    - Comedy
 
 - id: mrs-henderson-presents
   tmdb_id: 10773
@@ -44,3 +51,6 @@
   letterboxd_slug: mrs-henderson-presents
   poster_url: https://a.ltrbxd.com/resized/sm/upload/5c/gx/34/sb/mrs%20hendersons-1200-1200-675-675-crop-000000.jpg?v=424b984089
   letterboxd_rating: 3.28
+  genres:
+    - Comedy
+    - Drama

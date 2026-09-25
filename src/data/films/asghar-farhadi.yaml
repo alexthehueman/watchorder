@@ -17,6 +17,8 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: about-elly
   poster_url: https://a.ltrbxd.com/resized/sm/upload/4w/dy/ay/ob/about-elly-1200-1200-675-675-crop-000000.jpg?v=0a7439a685
+  genres:
+    - Drama
 
 - id: a-separation
   tmdb_id: 60243
@@ -28,6 +30,8 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: a-separation
   poster_url: https://a.ltrbxd.com/resized/sm/upload/pu/d9/qu/r3/a-separation-1200-1200-675-675-crop-000000.jpg?v=981be07989
+  genres:
+    - Drama
 
 - id: the-salesman
   tmdb_id: 375315
@@ -39,3 +43,6 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: the-salesman-2016
   poster_url: https://a.ltrbxd.com/resized/sm/upload/t7/2d/ng/r5/the-salesman-2016-1200-1200-675-675-crop-000000.jpg?v=ccd07dcaad
+  genres:
+    - Thriller
+    - Drama

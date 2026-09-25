@@ -11,6 +11,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
   letterboxd_slug: kapo
   poster_url: https://a.ltrbxd.com/resized/sm/upload/bs/9g/bu/p8/kapo-1200-1200-675-675-crop-000000.jpg?v=66c31571ff
+  genres:
+    - Drama
+    - War
 
 - id: the-battle-of-algiers
   tmdb_id: 17295
@@ -27,6 +30,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
   letterboxd_slug: the-battle-of-algiers
   poster_url: https://a.ltrbxd.com/resized/sm/upload/kt/5s/28/w3/battle-algiers-1200-1200-675-675-crop-000000.jpg?v=70389d0066
+  genres:
+    - History
+    - Drama
+    - War
 
 - id: burn
   tmdb_id: 40095
@@ -38,3 +45,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   letterboxd_slug: burn
   poster_url: https://a.ltrbxd.com/resized/sm/upload/34/r8/pv/9b/3x94y7AQhr9Ceb1uMzav4wyxqme-1200-1200-675-675-crop-000000.jpg?v=8071ed1dfc
+  genres:
+    - War
+    - History
+    - Drama

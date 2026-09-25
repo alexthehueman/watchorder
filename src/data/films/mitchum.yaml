@@ -21,6 +21,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BOWM3MjAzN2MtOTE0OS00ZTIxLWFkZTAtZTVmNmMyNGZjNDA4XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: out-of-the-past
   letterboxd_rating: 4.11
+  genres:
+    - Thriller
+    - Crime
 
 - id: crossfire
   tmdb_id: 28120
@@ -34,6 +37,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZmI4NTk3NDMtZjBjMC00ZmE5LWFjYjctM2RlMjI2NDRiNTI5XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: crossfire
   letterboxd_rating: 3.59
+  genres:
+    - Mystery
+    - Thriller
+    - Crime
 
 - id: the-story-of-gi-joe
   tmdb_id: 46614
@@ -46,6 +53,9 @@
   letterboxd_slug: the-story-of-gi-joe
   poster_url: https://a.ltrbxd.com/resized/sm/upload/8s/9q/pw/yu/8TVvl7L3OU6zJcI5xkeDe0aR9EQ-1200-1200-675-675-crop-000000.jpg?v=a1abfd4bd4
   letterboxd_rating: 3.55
+  genres:
+    - War
+    - Drama
 
 - id: angel-face
   tmdb_id: 1938
@@ -59,6 +69,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZDM2MWZlNGMtMjZlNC00YmEwLTlmOGUtZGQzNTkyNWUzNzNhXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: angel-face
   letterboxd_rating: 3.68
+  genres:
+    - Crime
+    - Drama
 
 - id: the-night-of-the-hunter
   tmdb_id: 3112
@@ -77,6 +90,11 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZmZmOWEzYjktZWYxMi00MjlmLTlmNTAtMzI4ZDVlZmIxZGIzXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-night-of-the-hunter
   letterboxd_rating: 4.25
+  genres:
+    - Drama
+    - Crime
+    - Thriller
+    - Horror
 
 - id: cape-fear-1962
   tmdb_id: 11349
@@ -90,6 +108,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZTI0ZDQyMjUtMGY1OC00NTFiLThhYjQtOTg0YTM4NTA2NjUzXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: cape-fear
   letterboxd_rating: 3.93
+  genres:
+    - Thriller
+    - Drama
+    - Crime
 
 - id: el-dorado-1966
   tmdb_id: 6644
@@ -103,6 +125,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTZjMGE5NTktMjkxZi00NDRhLWJmYzMtMTA3OTY2ZTcyNjIzXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: el-dorado
   letterboxd_rating: 3.76
+  genres:
+    - Drama
+    - Western
 
 - id: ryans-daughter
   tmdb_id: 38953
@@ -116,6 +141,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYTI4ZDkyYWYtYjY1Ny00OGE3LThlM2ItZDgyOTc0NmIwZGJlXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: ryans-daughter
   letterboxd_rating: 3.7
+  genres:
+    - Drama
+    - History
+    - Romance
 
 - id: the-friends-of-eddie-coyle
   tmdb_id: 25680
@@ -134,3 +163,7 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNzhkNWQyMjEtM2RkNC00NmE4LThmYjMtMzU5Yzk5MGVkYWU0XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-friends-of-eddie-coyle
   letterboxd_rating: 3.9
+  genres:
+    - Drama
+    - Crime
+    - Thriller

@@ -17,6 +17,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMDA5NWY5NzMtZDE2YS00YjdiLWIzYTktYjljOGY2Yzg3OTRmXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: little-women
   letterboxd_rating: 3.5
+  genres:
+    - Drama
+    - Family
 
 - id: stage-door
   tmdb_id: 43864
@@ -30,6 +33,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNzQwNTQxOTY3OF5BMl5BanBnXkFtZTgwMTg0MDgyMTE@._V1_SX300.jpg
   letterboxd_slug: stage-door
   letterboxd_rating: 3.91
+  genres:
+    - Drama
+    - Comedy
 
 - id: bringing-up-baby
   tmdb_id: 900
@@ -43,6 +49,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNDA5M2NlYjAtYzQ3OC00ZWM0LWJjYWYtMTU5N2NhNGY3ZmZmXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: bringing-up-baby
   letterboxd_rating: 4.01
+  genres:
+    - Romance
+    - Comedy
 
 - id: the-philadelphia-story
   tmdb_id: 981
@@ -56,6 +65,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYmMwZTQ5OGUtMjQ4Ni00ZTIwLTk1ZWMtNzhlMGQxYjIxMTU1XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-philadelphia-story
   letterboxd_rating: 3.99
+  genres:
+    - Romance
+    - Comedy
 
 - id: woman-of-the-year
   tmdb_id: 20640
@@ -69,6 +81,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMzY5MDdlZjUtMWZjYS00NzY4LWJjZTEtNjMxOTgxYTYyZjY0XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: woman-of-the-year
   letterboxd_rating: 3.38
+  genres:
+    - Drama
+    - Comedy
+    - Romance
 
 - id: adams-rib
   tmdb_id: 25431
@@ -82,6 +98,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYzAzODQxNTItNDUwOS00MWIwLWE5NjMtZTI2MDU4ZTFlNzg4XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: adams-rib
   letterboxd_rating: 3.76
+  genres:
+    - Romance
+    - Comedy
 
 - id: the-african-queen
   tmdb_id: 488
@@ -95,6 +114,11 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BY2Y0OWQ4Y2QtNGE5NC00MDk4LWFlYmQtYWVmNzZlZWVhMTg4XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-african-queen
   letterboxd_rating: 3.73
+  genres:
+    - Romance
+    - War
+    - Drama
+    - Adventure
 
 - id: summertime
   tmdb_id: 50363
@@ -108,6 +132,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNjJiM2QwNmQtMjNlYy00Zjc2LTljNTctZWNjZDgyZTdlMjljXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: summertime
   letterboxd_rating: 3.67
+  genres:
+    - Drama
+    - Romance
 
 - id: long-days-journey-into-night
   tmdb_id: 43004
@@ -126,6 +153,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNjhiNDAyMjctNzhkZS00NTZhLTkyMzMtZmY2OGEyMDllYTkwXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: long-days-journey-into-night
   letterboxd_rating: 3.81
+  genres:
+    - Drama
 
 - id: guess-whos-coming-to-dinner
   tmdb_id: 1879
@@ -139,6 +168,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNmMwNjRiYTUtNjM5Yy00ZDk2LWJiZjEtYjRjMzVmYmM1OGQ5XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: guess-whos-coming-to-dinner
   letterboxd_rating: 3.88
+  genres:
+    - Romance
+    - Drama
 
 - id: the-lion-in-winter
   tmdb_id: 18988
@@ -152,6 +184,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTkzNzYyMzA5N15BMl5BanBnXkFtZTgwODcwODQ3MDI@._V1_SX300.jpg
   letterboxd_slug: the-lion-in-winter
   letterboxd_rating: 4.05
+  genres:
+    - History
+    - Drama
 
 - id: suddenly-last-summer
   tmdb_id: 14698
@@ -170,6 +205,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BOWQ5MDE3YmYtMDg4Yy00MDdjLTllY2ItMDYyNDE1MTI3ZjQ1XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: suddenly-last-summer
   letterboxd_rating: 3.8
+  genres:
+    - Mystery
+    - Thriller
+    - Drama
 
 - id: on-golden-pond
   tmdb_id: 11816
@@ -183,3 +222,6 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZmI3OGQ0YjQtZjNkYi00NmEzLWE5NjMtMTdkYjA4YTdiYzBiXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: on-golden-pond
   letterboxd_rating: 3.73
+  genres:
+    - Drama
+    - Romance

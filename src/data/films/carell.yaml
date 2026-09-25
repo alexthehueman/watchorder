@@ -15,6 +15,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMzFiNzU2NjQtZTcwZC00Nzc3LTk3NjEtMDZmMDhmYjQ4NTAwXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-40-year-old-virgin
   letterboxd_rating: 3.33
+  genres:
+    - Romance
+    - Comedy
 
 - id: little-miss-sunshine
   tmdb_id: 773
@@ -28,6 +31,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTgzNTgzODU0NV5BMl5BanBnXkFtZTcwMjEyMjMzMQ@@._V1_SX300.jpg
   letterboxd_slug: little-miss-sunshine
   letterboxd_rating: 4.22
+  genres:
+    - Drama
+    - Comedy
 
 - id: foxcatcher
   tmdb_id: 87492
@@ -46,6 +52,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTQ2MjQxNjYxOV5BMl5BanBnXkFtZTgwMzIwODUxMzE@._V1_SX300.jpg
   letterboxd_slug: foxcatcher
   letterboxd_rating: 3.59
+  genres:
+    - Thriller
+    - Drama
 
 - id: anchorman
   tmdb_id: null

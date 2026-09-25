@@ -13,6 +13,10 @@
   letterboxd_slug: mutiny-on-the-bounty
   poster_url: https://a.ltrbxd.com/resized/sm/upload/g2/n8/oq/5o/mutiny-on-the-bounty-1200-1200-675-675-crop-000000.jpg?v=5b65b33b3e
   letterboxd_rating: 3.69
+  genres:
+    - History
+    - Drama
+    - Adventure
 
 - id: the-hunchback-of-notre-dame
   tmdb_id: 31685
@@ -25,6 +29,10 @@
   letterboxd_slug: the-hunchback-of-notre-dame-1939
   poster_url: https://a.ltrbxd.com/resized/sm/upload/vk/3b/75/gm/hunchback-1200-1200-675-675-crop-000000.jpg?v=63c53ce13c
   letterboxd_rating: 3.78
+  genres:
+    - Drama
+    - Horror
+    - Romance
 
 - id: the-private-life-of-henry-viii
   tmdb_id: 43122
@@ -37,3 +45,6 @@
   letterboxd_slug: the-private-life-of-henry-viii
   poster_url: https://a.ltrbxd.com/resized/sm/upload/st/99/28/zd/henry%20ivv-1200-1200-675-675-crop-000000.jpg?v=9f8114c445
   letterboxd_rating: 3.43
+  genres:
+    - Drama
+    - History

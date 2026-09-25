@@ -19,6 +19,10 @@
   letterboxd_slug: scream
   poster_url: https://a.ltrbxd.com/resized/sm/upload/z9/jc/wv/pg/scream-1200-1200-675-675-crop-000000.jpg?v=4e05ce8832
   letterboxd_rating: 4.02
+  genres:
+    - Mystery
+    - Crime
+    - Horror
 
 - id: the-last-house-on-the-left
   tmdb_id: 15516
@@ -31,3 +35,6 @@
   letterboxd_slug: the-last-house-on-the-left
   poster_url: https://a.ltrbxd.com/resized/sm/upload/h3/87/zj/i0/last-house-on-the-left-1200-1200-675-675-crop-000000.jpg?v=62cc5b58d7
   letterboxd_rating: 2.85
+  genres:
+    - Horror
+    - Crime

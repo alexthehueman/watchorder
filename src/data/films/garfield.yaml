@@ -19,6 +19,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjlkNTE5ZTUtNGEwNy00MGVhLThmZjMtZjU1NDE5Zjk1NDZkXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-social-network
   letterboxd_rating: 3.92
+  genres:
+    - Drama
 
 - id: the-amazing-spider-man
   tmdb_id: 1930
@@ -32,6 +34,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjMyOTM4MDMxNV5BMl5BanBnXkFtZTcwNjIyNzExOA@@._V1_QL75_UX380_CR0,1,380,562_.jpg
   letterboxd_slug: the-amazing-spider-man
   letterboxd_rating: 3.6
+  genres:
+    - Science Fiction
+    - Adventure
+    - Action
 
 - id: hacksaw-ridge
   tmdb_id: 324786
@@ -45,6 +51,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@._V1_QL75_UX380_CR0,12,380,562_.jpg
   letterboxd_slug: hacksaw-ridge
   letterboxd_rating: 4.07
+  genres:
+    - War
+    - Drama
+    - History
 
 - id: tick-tick-boom
   tmdb_id: 537116
@@ -58,6 +68,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BOGYyNGJmNzctYzZjZi00MzUzLTg3YTYtYjk0OTNjMzA1OTE4XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: tick-tick-boom-2021
   letterboxd_rating: 3.86
+  genres:
+    - Drama
+    - Music
 
 - id: under-the-silver-lake
   tmdb_id: 396461
@@ -76,3 +89,7 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTMzN2JkZDAtYjgyMy00M2QxLWE2NWItNTEyZGVlNTgyYTViXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: under-the-silver-lake
   letterboxd_rating: 3.44
+  genres:
+    - Mystery
+    - Crime
+    - Drama

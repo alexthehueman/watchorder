@@ -14,6 +14,10 @@
   letterboxd_slug: "1917"
   poster_url: https://a.ltrbxd.com/resized/sm/upload/zc/ui/yj/1h/1917-1200-1200-675-675-crop-000000.jpg?v=24c56f8c71
   letterboxd_rating: 4.13
+  genres:
+    - Drama
+    - War
+    - History
 
 - id: pride-2014
   tmdb_id: 234200
@@ -26,6 +30,9 @@
   letterboxd_slug: pride-2014
   poster_url: https://a.ltrbxd.com/resized/sm/upload/sq/gd/nj/qx/pride-1200-1200-675-675-crop-000000.jpg?v=6ba1362d48
   letterboxd_rating: 4.16
+  genres:
+    - Drama
+    - Comedy
 
 - id: their-finest
   tmdb_id: 340101
@@ -38,3 +45,7 @@
   letterboxd_slug: their-finest
   poster_url: https://a.ltrbxd.com/resized/sm/upload/7d/ol/t7/s4/their-finest-1200-1200-675-675-crop-000000.jpg?v=a50d471efa
   letterboxd_rating: 3.34
+  genres:
+    - War
+    - Drama
+    - Romance

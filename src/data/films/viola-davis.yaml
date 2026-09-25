@@ -15,6 +15,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTM5OTMyMjIxOV5BMl5BanBnXkFtZTcwNzU4MjIwNQ@@._V1_SX300.jpg
   letterboxd_slug: the-help
   letterboxd_rating: 3.97
+  genres:
+    - Drama
 
 - id: widows
   tmdb_id: 401469
@@ -28,6 +30,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjM3ODc5NDEyOF5BMl5BanBnXkFtZTgwMTI4MDcxNjM@._V1_SX300.jpg
   letterboxd_slug: widows-2018
   letterboxd_rating: 3.56
+  genres:
+    - Crime
+    - Thriller
+    - Drama
 
 - id: ma-raineys-black-bottom
   tmdb_id: 615667
@@ -41,6 +47,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BOWIzMTAyZGMtZTIzZi00YTc4LTlmNGEtMzMxYTgzYWM5ODM3XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: ma-raineys-black-bottom
   letterboxd_rating: 3.51
+  genres:
+    - Music
+    - Drama
 
 - id: the-woman-king
   tmdb_id: 724495
@@ -54,6 +63,11 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNzM4ODY0NzctZDIyNC00MzE4LWI3NDYtYjIyYTUyZWFmYzJkXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-woman-king
   letterboxd_rating: 3.69
+  genres:
+    - History
+    - Action
+    - War
+    - Drama
 
 - id: blackhat
   tmdb_id: 201088
@@ -67,6 +81,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTg1NDUyMzk5NV5BMl5BanBnXkFtZTgwOTk1NzUxMzE@._V1_SX300.jpg
   letterboxd_slug: blackhat
   letterboxd_rating: 3.02
+  genres:
+    - Thriller
+    - Action
+    - Crime
 
 - id: air
   tmdb_id: 964980
@@ -80,6 +98,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNjdjYzJkZmUtZDNiMC00MzQ0LWE2MGEtYTk4ZGM4NzFkMzM3XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: air-2023
   letterboxd_rating: 3.57
+  genres:
+    - Drama
+    - History
 
 - id: suicide-squad
   tmdb_id: 297761
@@ -93,3 +114,7 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjM1OTMxNzUyM15BMl5BanBnXkFtZTgwNjYzMTIzOTE@._V1_QL75_UX380_CR0,0,380,562_.jpg
   letterboxd_slug: suicide-squad-2016
   letterboxd_rating: 2.32
+  genres:
+    - Action
+    - Adventure
+    - Fantasy

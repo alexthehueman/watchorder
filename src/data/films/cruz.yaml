@@ -15,6 +15,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYzgyNWMzNDItZmJhZi00NzZmLTkyNmMtMjBiNjUyMmNkYjg4XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: all-about-my-mother
   letterboxd_rating: 4.19
+  genres:
+    - Comedy
+    - Drama
 
 - id: talk-to-her
   tmdb_id: 64
@@ -33,6 +36,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BM2NjMmQyYmQtMjRjMi00OGVjLWFlMDAtNDYzNDE0MmY4YjE1XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: talk-to-her
   letterboxd_rating: 3.86
+  genres:
+    - Romance
+    - Drama
 
 - id: volver
   tmdb_id: 219
@@ -46,6 +52,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjA0NTUxMjY1OV5BMl5BanBnXkFtZTcwNjI2OTMzMQ@@._V1_SX300.jpg
   letterboxd_slug: volver
   letterboxd_rating: 4.1
+  genres:
+    - Drama
+    - Romance
+    - Comedy
 
 - id: broken-embraces
   tmdb_id: 8088
@@ -64,6 +74,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMzA1ODU3MzI2NF5BMl5BanBnXkFtZTcwMzc3MzA3Mg@@._V1_SX300.jpg
   letterboxd_slug: broken-embraces
   letterboxd_rating: 3.77
+  genres:
+    - Drama
+    - Romance
+    - Thriller
 
 - id: blow
   tmdb_id: 4133
@@ -77,6 +91,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNTNkMzMwOWItM2FmYS00YmI2LWE4NjUtMmI5MDk0YTkwZjM2XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: blow
   letterboxd_rating: 3.57
+  genres:
+    - Drama
+    - Crime
 
 - id: nine
   tmdb_id: 10197
@@ -90,6 +107,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTY5ODA2MzQxMl5BMl5BanBnXkFtZTcwMTI4NTEwMw@@._V1_SX300.jpg
   letterboxd_slug: nine
   letterboxd_rating: 2.71
+  genres:
+    - Music
+    - Drama
+    - Romance
 
 - id: pirates-of-the-caribbean-on-stranger-tides
   tmdb_id: 1865
@@ -103,6 +124,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjE5MjkwODI3Nl5BMl5BanBnXkFtZTcwNjcwMDk4NA@@._V1_QL75_UX380_CR0,0,380,562_.jpg
   letterboxd_slug: pirates-of-the-caribbean-on-stranger-tides
   letterboxd_rating: 3
+  genres:
+    - Adventure
+    - Fantasy
+    - Action
 
 - id: parallel-mothers
   tmdb_id: 766798
@@ -121,3 +146,5 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZTE3MTU4ZjYtZDU3Yi00NTk3LWJkMzAtMTU4ZjY3NGJjZmQ1XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: parallel-mothers
   letterboxd_rating: 3.62
+  genres:
+    - Drama

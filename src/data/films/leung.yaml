@@ -15,6 +15,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BOTZkYjBlMTktOGNmMC00ZWMzLTlkYmYtNDAxYjNjNWRkNjE0XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: hard-boiled
   letterboxd_rating: 4.2
+  genres:
+    - Action
+    - Thriller
+    - Crime
 
 - id: infernal-affairs
   tmdb_id: 10775
@@ -27,6 +31,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNWZjNDdiOWUtZDI0Ni00YmY1LTk4MmYtM2Y0YTY3ZTc3OWFiXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: infernal-affairs
   letterboxd_rating: 4.06
+  genres:
+    - Thriller
+    - Drama
+    - Crime
 
 - id: lust-caution
   tmdb_id: 4588
@@ -44,3 +52,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNzc4Mzc4NTQtMzkwZS00ZWUzLTk1YWUtNDVlY2U1YTMzMTg2XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: lust-caution
   letterboxd_rating: 3.99
+  genres:
+    - Thriller
+    - Drama
+    - Romance
+    - Action

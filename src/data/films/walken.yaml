@@ -16,6 +16,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZTliMDVkYTktZDdlMS00NTAwLWJhNzYtMWIwMDZjN2ViMGFiXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: batman-returns
   letterboxd_rating: 3.6
+  genres:
+    - Fantasy
+    - Action
 
 - id: king-of-new-york
   tmdb_id: 9558
@@ -34,6 +37,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BOTE2NDcxNzE4N15BMl5BanBnXkFtZTgwMDc1NTk4NjE@._V1_SX300.jpg
   letterboxd_slug: king-of-new-york
   letterboxd_rating: 3.76
+  genres:
+    - Thriller
+    - Crime
 
 - id: pennies-from-heaven
   tmdb_id: 17450
@@ -52,3 +58,7 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BOWZkZTM2YjMtZDgxNy00ODFhLWEzOGEtZGUxZTZmZWVkMTEzXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: pennies-from-heaven
   letterboxd_rating: 3.46
+  genres:
+    - Music
+    - Romance
+    - Drama

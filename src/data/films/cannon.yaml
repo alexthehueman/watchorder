@@ -17,6 +17,11 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BOGU1Y2NjYzktNWJiMi00NzA5LTk1NjEtZTJhYWI2YTRjYzdlXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-apple
   letterboxd_rating: 2.81
+  genres:
+    - Science Fiction
+    - Music
+    - Fantasy
+    - Comedy
 
 - id: death-wish-ii
   tmdb_id: 14373
@@ -30,6 +35,11 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYTBjYTM2N2QtODA3ZC00MDZkLTk2NmMtMWYzZjI5YTIzZjI2XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: death-wish-ii
   letterboxd_rating: 2.93
+  genres:
+    - Action
+    - Thriller
+    - Crime
+    - Drama
 
 - id: breakin
   tmdb_id: 15259
@@ -43,6 +53,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BODQ5MjQyZjgtM2ViZC00MGIwLThhMjgtNjE0ZDlhZmM3YmNhXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: breakin
   letterboxd_rating: 3.14
+  genres:
+    - Music
+    - Romance
+    - Drama
 
 - id: missing-in-action
   tmdb_id: 15379
@@ -56,6 +70,11 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZGE2NmNlODYtMzMyNS00YTM0LThlMzMtNjg1YTBhMTRkNjJhXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: missing-in-action
   letterboxd_rating: 2.74
+  genres:
+    - Adventure
+    - Thriller
+    - Action
+    - War
 
 - id: ninja-iii-the-domination
   tmdb_id: 28148
@@ -69,6 +88,11 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMDYxOWJhNmMtOWI5Yy00NzBjLTljYTMtMjUwZjFiMGMxNGE2XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: ninja-iii-the-domination
   letterboxd_rating: 3.1
+  genres:
+    - Fantasy
+    - Thriller
+    - Horror
+    - Action
 
 - id: runaway-train
   tmdb_id: 11893
@@ -87,6 +111,11 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjRlMzU3Y2ItYzU5YS00NTc4LTlmMjItZjk1YTc0M2I0OGMxXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: runaway-train
   letterboxd_rating: 3.66
+  genres:
+    - Drama
+    - Adventure
+    - Action
+    - Thriller
 
 - id: lifeforce
   tmdb_id: 11954
@@ -100,6 +129,11 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNWNmN2Y4ZTAtNGRkMC00ODk2LTkwZjItNDU3N2VjMmEzMDk4XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: lifeforce
   letterboxd_rating: 3.17
+  genres:
+    - Action
+    - Science Fiction
+    - Horror
+    - Mystery
 
 - id: invasion-usa
   tmdb_id: 15983
@@ -114,6 +148,9 @@
   letterboxd_title: Invasion U.S.A.
   letterboxd_slug: invasion-usa-1985
   letterboxd_rating: 2.87
+  genres:
+    - Action
+    - Thriller
 
 - id: cobra
   tmdb_id: 9874
@@ -127,6 +164,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BODczYzNiMjgtZGU4Yi00ZmM2LWFiNzMtMjcyMTA1YzMwNTk3XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: cobra-1986
   letterboxd_rating: 3.02
+  genres:
+    - Action
+    - Thriller
+    - Crime
 
 - id: masters-of-the-universe
   tmdb_id: 11649
@@ -140,6 +181,12 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BOGM4ZDMxMjMtMmFhYi00OGJhLThiYzktMTVmYTgwNTk4ZDJhXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: masters-of-the-universe
   letterboxd_rating: 2.49
+  genres:
+    - Thriller
+    - Adventure
+    - Action
+    - Science Fiction
+    - Fantasy
 
 - id: tough-guys-dont-dance
   tmdb_id: 78146
@@ -158,6 +205,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjI1MDk4NjE0OV5BMl5BanBnXkFtZTcwMjExODM5NA@@._V1_SX300.jpg
   letterboxd_slug: tough-guys-dont-dance
   letterboxd_rating: 3.06
+  genres:
+    - Comedy
+    - Thriller
+    - Crime
 
 - id: kickboxer
   tmdb_id: 10222
@@ -171,3 +222,6 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYjQ2NjVkMjAtNGYzZC00ZTZiLWJlZjYtMTNlYWNiZDVlMDZkXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: kickboxer
   letterboxd_rating: 3.25
+  genres:
+    - Thriller
+    - Action

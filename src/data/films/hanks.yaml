@@ -19,6 +19,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNzE3ZTc2ZDgtMzQ4MS00NjEyLWJkMDYtZmMzZmY5ODJhMDdmXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: big
   letterboxd_rating: 3.59
+  genres:
+    - Drama
+    - Comedy
+    - Fantasy
 
 - id: forrest-gump
   tmdb_id: 13
@@ -37,6 +41,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNDYwNzVjMTItZmU5YS00YjQ5LTljYjgtMjY2NDVmYWMyNWFmXkEyXkFqcGc@._V1_QL75_UY562_CR4,0,380,562_.jpg
   letterboxd_slug: forrest-gump
   letterboxd_rating: 4.19
+  genres:
+    - Drama
+    - Romance
+    - Comedy
 
 - id: cast-away
   tmdb_id: 8358
@@ -55,6 +63,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BOGNjNDI5ZGQtZjRjMy00NzQyLWFiYzQtYjcwNjM3ZDYwNThhXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: cast-away
   letterboxd_rating: 3.9
+  genres:
+    - Drama
+    - Adventure
 
 - id: cloud-atlas
   tmdb_id: 83542
@@ -73,6 +84,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTczMTgxMjc4NF5BMl5BanBnXkFtZTcwNjM5MTA2OA@@._V1_SX300.jpg
   letterboxd_slug: cloud-atlas
   letterboxd_rating: 3.51
+  genres:
+    - Drama
+    - Science Fiction
 
 - id: captain-phillips
   tmdb_id: 109424
@@ -91,6 +105,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMWYyNjI3ZjEtNGE5ZS00MDgxLWIzNGEtZTgzNDVlZjZjYWU5XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: captain-phillips
   letterboxd_rating: 3.79
+  genres:
+    - Action
+    - Drama
+    - Thriller
 
 - id: the-green-mile
   tmdb_id: 497
@@ -109,3 +127,7 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_QL75_UX380_CR0,0,380,562_.jpg
   letterboxd_slug: the-green-mile
   letterboxd_rating: 4.3
+  genres:
+    - Drama
+    - Crime
+    - Fantasy

@@ -10,6 +10,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: bright-eyes-1934
   poster_url: https://a.ltrbxd.com/resized/sm/upload/9t/j7/kp/de/4eg0Kj2MvChy9Z4WDBoE9wIN5fB-1200-1200-675-675-crop-000000.jpg?v=2f999e67e6
+  genres:
+    - Drama
+    - Music
+    - Family
 
 - id: curly-top
   tmdb_id: 29877
@@ -21,6 +25,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: curly-top
   poster_url: https://a.ltrbxd.com/resized/sm/upload/nn/b1/3m/ud/hLFoDZVgZFwxUz7SVJqYSo38QX8-1200-1200-675-675-crop-000000.jpg?v=4870d15812
+  genres:
+    - Music
+    - Comedy
+    - Family
 
 - id: heidi
   tmdb_id: 28345
@@ -37,6 +45,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: heidi
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ko/dx/g3/lf/heidi-1200-1200-675-675-crop-000000.jpg?v=96531373fb
+  genres:
+    - Drama
+    - Family
+    - Music
 
 - id: wee-willie-winkie
   tmdb_id: 43869
@@ -53,3 +65,6 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: wee-willie-winkie
   poster_url: https://a.ltrbxd.com/resized/sm/upload/kp/db/cn/dh/AlF360ESV76PLZmBG3PrsTcQ8Tc-1200-1200-675-675-crop-000000.jpg?v=fc763afbfd
+  genres:
+    - Adventure
+    - Family

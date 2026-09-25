@@ -19,6 +19,10 @@
   letterboxd_slug: flight-of-the-phoenix
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ro/ou/ot/6p/ssrCyDSLMnu0KcEqwOGaSceUegm-1200-1200-675-675-crop-000000.jpg?v=03a2624d5a
   letterboxd_rating: 2.93
+  genres:
+    - Action
+    - Drama
+    - Adventure
 
 - id: street-kings
   tmdb_id: 1266
@@ -36,6 +40,11 @@
   letterboxd_slug: street-kings
   poster_url: https://a.ltrbxd.com/resized/sm/upload/3b/24/dn/35/street-kings-1200-1200-675-675-crop-000000.jpg?v=6cc5f4a7c7
   letterboxd_rating: 3.04
+  genres:
+    - Crime
+    - Action
+    - Thriller
+    - Drama
 
 - id: stuart-little
   tmdb_id: 10137
@@ -48,6 +57,11 @@
   letterboxd_slug: stuart-little
   poster_url: https://a.ltrbxd.com/resized/sm/upload/f5/wb/iw/ua/stuart-little-1200-1200-675-675-crop-000000.jpg?v=4d6645fd7a
   letterboxd_rating: 2.94
+  genres:
+    - Adventure
+    - Fantasy
+    - Family
+    - Comedy
 
 - id: the-man-in-the-iron-mask
   tmdb_id: 9313
@@ -60,6 +74,10 @@
   letterboxd_slug: the-man-in-the-iron-mask-1998
   poster_url: https://a.ltrbxd.com/resized/sm/upload/nb/7l/9v/cg/maniniron-1200-1200-675-675-crop-000000.jpg?v=dacd8a7558
   letterboxd_rating: 3.17
+  genres:
+    - Drama
+    - Action
+    - Adventure
 
 - id: the-oxford-murders
   tmdb_id: 12245
@@ -77,6 +95,10 @@
   letterboxd_slug: the-oxford-murders
   poster_url: https://a.ltrbxd.com/resized/sm/upload/pz/be/tw/hn/oxford-1200-1200-675-675-crop-000000.jpg?v=194f9ccc0e
   letterboxd_rating: 2.69
+  genres:
+    - Mystery
+    - Crime
+    - Thriller
 
 - id: tomorrowland
   tmdb_id: 158852
@@ -94,3 +116,8 @@
   letterboxd_slug: tomorrowland
   poster_url: https://a.ltrbxd.com/resized/sm/upload/7f/80/p6/00/tomorrowland-1200-1200-675-675-crop-000000.jpg?v=54ebbdf9dc
   letterboxd_rating: 2.75
+  genres:
+    - Science Fiction
+    - Adventure
+    - Mystery
+    - Family

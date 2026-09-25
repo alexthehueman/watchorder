@@ -20,6 +20,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMWE2Y2E0ZTMtYzZmNi00MzZiLTg0ZTctMGY2YWJkMzE3NDEyXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-asphalt-jungle
   letterboxd_rating: 3.86
+  genres:
+    - Crime
+    - Drama
 
 - id: niagara
   tmdb_id: 19997
@@ -38,6 +41,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYTJiODA4ZmItZDE1MS00ODk4LTkyODYtNTk5ODdhY2Q4MTFhXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: niagara
   letterboxd_rating: 3.43
+  genres:
+    - Crime
+    - Thriller
 
 - id: the-seven-year-itch
   tmdb_id: 10653
@@ -51,6 +57,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMzE3OWRkMzUtYmYzNS00ZmRmLTkzMjctZjEwMDFmYmZlYjEzXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-seven-year-itch
   letterboxd_rating: 3.29
+  genres:
+    - Comedy
+    - Romance
 
 - id: bus-stop
   tmdb_id: 24010
@@ -69,6 +78,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZjc2MDRkMWQtMDE2Yi00MDdhLWFiOTAtODI5MGRhNTA3OWI2XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: bus-stop
   letterboxd_rating: 2.78
+  genres:
+    - Drama
+    - Comedy
+    - Romance
 
 - id: the-misfits
   tmdb_id: 11536
@@ -87,3 +100,7 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMDFiZmEwN2QtN2Y1Ny00ODM2LTgyZjYtMTI2YzdmNmJhMDUzXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-misfits
   letterboxd_rating: 3.69
+  genres:
+    - Western
+    - Romance
+    - Drama

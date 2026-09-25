@@ -22,6 +22,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTQxNDc4MDcwNF5BMl5BanBnXkFtZTgwNzY0MjUzMjE@._V1_SX300.jpg
   letterboxd_slug: grand-hotel
   letterboxd_rating: 3.53
+  genres:
+    - Romance
+    - Drama
 
 - id: dinner-at-eight
   tmdb_id: 39130
@@ -35,6 +38,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNDc0MjBlYzctMGNiMS00YmY4LThhMzQtZmZhZDk5YzczOTlkXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: dinner-at-eight
   letterboxd_rating: 3.53
+  genres:
+    - Comedy
+    - Drama
 
 - id: the-wizard-of-oz
   tmdb_id: 630
@@ -48,6 +54,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYWRmY2I0MGItYTQ0OC00NWZmLWIwMDktYjJlNDc0MzVhMmViXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-wizard-of-oz-1939
   letterboxd_rating: 3.91
+  genres:
+    - Adventure
+    - Fantasy
+    - Family
 
 - id: ninotchka
   tmdb_id: 1859
@@ -61,6 +71,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNTllODg3NmItOTY2Yi00NDhkLWE2OWYtNmE0ZWU4NTZiYjljXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: ninotchka
   letterboxd_rating: 3.95
+  genres:
+    - Comedy
+    - Romance
 
 - id: mrs-miniver
   tmdb_id: 27367
@@ -74,6 +87,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNjVjNzE1ODAtYWViYi00MjhjLThhNWEtZjcyZDVjOThlNWVmXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: mrs-miniver
   letterboxd_rating: 3.72
+  genres:
+    - Romance
+    - War
+    - Drama
 
 - id: meet-me-in-st-louis
   tmdb_id: 909
@@ -87,6 +104,11 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNWQ3MGM3ODYtYTJhYS00MjVlLWJkMDUtYmQ4YmExYWYxOTA0XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: meet-me-in-st-louis
   letterboxd_rating: 3.82
+  genres:
+    - Drama
+    - Family
+    - Romance
+    - Comedy
 
 - id: national-velvet
   tmdb_id: 17641
@@ -100,6 +122,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNWY0MGFkMzItNjc5MS00ZjhmLThlY2UtMWRiNjkxZTJjNjA2XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: national-velvet
   letterboxd_rating: 3.54
+  genres:
+    - Family
+    - Drama
 
 - id: the-postman-always-rings-twice
   tmdb_id: 25736
@@ -118,6 +143,11 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYzJmNjVlMTQtYWIyYy00NDc0LWI0NjAtNTJjYTAxMDE2ZWYyXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-postman-always-rings-twice
   letterboxd_rating: 3.61
+  genres:
+    - Drama
+    - Crime
+    - Thriller
+    - Romance
 
 - id: easter-parade
   tmdb_id: 29380
@@ -131,6 +161,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNjQ5OThkMTQtNDI5MC00NThlLWExODYtMDQ1NjI0MGQzZGNjXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: easter-parade
   letterboxd_rating: 3.57
+  genres:
+    - Music
+    - Romance
 
 - id: an-american-in-paris
   tmdb_id: 2769
@@ -144,6 +177,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYWE3N2E1NDYtMzEzMC00OWFiLWJhNTUtYTJjZDdhMGY4YzI4XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: an-american-in-paris
   letterboxd_rating: 3.67
+  genres:
+    - Romance
+    - Music
+    - Comedy
 
 - id: singin-in-the-rain
   tmdb_id: 872
@@ -162,6 +199,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMGQzZDFjZWUtZDU4ZS00ZjM3LTgyYmItYjA3YmIwYzRkZWY3XkEyXkFqcGc@._V1_QL75_UY562_CR3,0,380,562_.jpg
   letterboxd_slug: singin-in-the-rain
   letterboxd_rating: 4.35
+  genres:
+    - Comedy
+    - Romance
 
 - id: the-band-wagon
   tmdb_id: 29376
@@ -175,6 +215,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BOTdjYTRlOGItNDZhZC00YTk2LWFhZWMtMzBjNjc5YjVhNWE0XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-band-wagon
   letterboxd_rating: 3.83
+  genres:
+    - Comedy
+    - Romance
 
 - id: seven-brides-for-seven-brothers
   tmdb_id: 16563
@@ -190,6 +233,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYzJkODQ3OWEtYmQwZS00ZTgwLWFjYmItNmEyMmZiODA4YjgyXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: seven-brides-for-seven-brothers
   letterboxd_rating: 3.46
+  genres:
+    - Comedy
+    - Western
+    - Drama
 
 - id: forbidden-planet
   tmdb_id: 830
@@ -203,6 +250,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjY4NGVmMzctYjFmYS00MDk3LTlkNDktNDdjMjhlYmY1YmI3XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: forbidden-planet
   letterboxd_rating: 3.62
+  genres:
+    - Adventure
+    - Science Fiction
 
 - id: ben-hur
   tmdb_id: 665
@@ -216,3 +266,7 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNjg2M2E1YzYtOThmMC00NjAyLWI5MzgtMDEwOGFiODdlOGUzXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: ben-hur-1959
   letterboxd_rating: 4.12
+  genres:
+    - Drama
+    - History
+    - Adventure

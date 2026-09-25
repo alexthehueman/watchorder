@@ -30,6 +30,8 @@
   letterboxd_slug: la-haine
   poster_url: https://m.media-amazon.com/images/M/MV5BMThlMDA3NDYtZGM2Zi00NmJhLThlYWItZjViZTkzZWU1ZWRiXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_rating: 4.5
+  genres:
+    - Drama
 
 - id: dobermann
   tmdb_id: 10347
@@ -43,6 +45,9 @@
   letterboxd_slug: dobermann
   poster_url: https://m.media-amazon.com/images/M/MV5BYzQwZDljMmMtYTk3Ny00OWYzLWI0OTItMWMzMTNjNTdhNWQ5XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_rating: 3.26
+  genres:
+    - Crime
+    - Action
 
 - id: brotherhood-of-the-wolf
   tmdb_id: 6312
@@ -56,6 +61,11 @@
   letterboxd_slug: brotherhood-of-the-wolf
   poster_url: https://m.media-amazon.com/images/M/MV5BODA2YjE5NGUtNzc1Mi00MzA3LTllN2ItM2NjZTM1NjkyMWU4XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_rating: 3.34
+  genres:
+    - Adventure
+    - Action
+    - Horror
+    - History
 
 - id: sur-mes-levres
   tmdb_id: null
@@ -90,6 +100,10 @@
   letterboxd_slug: irreversible
   poster_url: https://m.media-amazon.com/images/M/MV5BZTE2MWM1NTgtMGVjMy00ZGU2LWE4YTUtNTRlNWRhZWE2NmM0XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg
   letterboxd_rating: 3.6
+  genres:
+    - Crime
+    - Thriller
+    - Drama
 
 - id: mesrine-killer-instinct
   tmdb_id: 13635
@@ -103,6 +117,11 @@
   letterboxd_slug: mesrine-killer-instinct
   poster_url: https://m.media-amazon.com/images/M/MV5BOTViNzBmN2YtODUzOS00NGM1LTgyZDgtYWFmMzdmZjYzNTcxXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_rating: 3.7
+  genres:
+    - Crime
+    - Drama
+    - Action
+    - Thriller
 
 - id: mesrine-public-enemy-no-1
   tmdb_id: 15362
@@ -121,6 +140,11 @@
   letterboxd_slug: mesrine-public-enemy-no-1
   poster_url: https://m.media-amazon.com/images/M/MV5BM2VmZmJjMzAtMjA3Yy00ZDQ3LWIwMjctMGM4ZDIyZjljYTMyXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_rating: 3.72
+  genres:
+    - Action
+    - Thriller
+    - Drama
+    - Crime
 
 - id: black-swan
   tmdb_id: 44214
@@ -139,6 +163,10 @@
   letterboxd_slug: black-swan
   poster_url: https://m.media-amazon.com/images/M/MV5BNzY2NzI4OTE5MF5BMl5BanBnXkFtZTcwMjMyNDY4Mw@@._V1_SX300.jpg
   letterboxd_rating: 4.17
+  genres:
+    - Drama
+    - Thriller
+    - Horror
 
 - id: oceans-twelve
   tmdb_id: 163
@@ -152,6 +180,9 @@
   letterboxd_slug: oceans-twelve
   poster_url: https://m.media-amazon.com/images/M/MV5BNjgxNjY3ODEtMTZhOC00NjgyLTg4YTAtZjA4ZDI2MDQ4OGJmXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_rating: 3.39
+  genres:
+    - Crime
+    - Thriller
 
 - id: trance
   tmdb_id: 68727
@@ -170,6 +201,10 @@
   letterboxd_slug: trance
   poster_url: https://m.media-amazon.com/images/M/MV5BMjMzNjU1MTg5NF5BMl5BanBnXkFtZTcwMTExMTcwOQ@@._V1_SX300.jpg
   letterboxd_rating: 3.16
+  genres:
+    - Crime
+    - Thriller
+    - Mystery
 
 - id: jason-bourne
   tmdb_id: 324668
@@ -183,3 +218,7 @@
   letterboxd_slug: jason-bourne
   poster_url: https://m.media-amazon.com/images/M/MV5BMzY3Y2Q3MmUtZmU3MC00OWMxLWIwNDMtNDA4MmViMTUxYjYxXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_rating: 3
+  genres:
+    - Action
+    - Adventure
+    - Thriller

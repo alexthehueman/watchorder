@@ -21,6 +21,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYmNiYzY1N2ItZDZiNC00ZGMyLWJlZjktZDE1MDI3NDBlYjE5XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: a-time-to-kill-1996
   letterboxd_rating: 3.85
+  genres:
+    - Thriller
+    - Drama
+    - Crime
 
 - id: unbreakable
   tmdb_id: 9741
@@ -39,6 +43,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZWNmMGYwMDQtNGIxMS00MzMzLTlhNmItYzllN2M2M2EwMTZmXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: unbreakable
   letterboxd_rating: 3.69
+  genres:
+    - Thriller
+    - Mystery
+    - Drama
 
 - id: coach-carter
   tmdb_id: 7214
@@ -52,3 +60,6 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNjk0M2Y4ZTUtNzA3MS00MWYwLThmYjktMmYzNzVkYzQ3NmFlXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: coach-carter
   letterboxd_rating: 3.87
+  genres:
+    - Drama
+    - History

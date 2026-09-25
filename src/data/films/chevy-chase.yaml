@@ -15,6 +15,9 @@
   letterboxd_slug: national-lampoons-vacation
   poster_url: https://a.ltrbxd.com/resized/sm/upload/r8/ys/xd/hc/6F1DB132-C9F9-463C-8555-2AD180F271F0-1200-1200-675-675-crop-000000.jpg?v=45f3e7e837
   letterboxd_rating: 3.48
+  genres:
+    - Comedy
+    - Adventure
 
 - id: fletch
   tmdb_id: 9749
@@ -32,3 +35,7 @@
   letterboxd_slug: fletch
   poster_url: https://a.ltrbxd.com/resized/sm/upload/it/lg/nk/d7/fletch-1200-1200-675-675-crop-000000.jpg?v=a161c1fb73
   letterboxd_rating: 3.36
+  genres:
+    - Mystery
+    - Comedy
+    - Crime

@@ -12,6 +12,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjAyOTMyMzUxNl5BMl5BanBnXkFtZTcwODI4MzE0NA@@._V1_SX300.jpg
   letterboxd_slug: bridesmaids
   letterboxd_rating: 3.43
+  genres:
+    - Comedy
+    - Romance
 
 - id: spy
   tmdb_id: 238713
@@ -25,6 +28,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNjI5OTQ0MDQxM15BMl5BanBnXkFtZTgwMzcwNjMyNTE@._V1_SX300.jpg
   letterboxd_slug: spy
   letterboxd_rating: 3.23
+  genres:
+    - Action
+    - Crime
+    - Comedy
 
 - id: the-heat
   tmdb_id: 136795
@@ -38,6 +45,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjA2MDQ2ODM3MV5BMl5BanBnXkFtZTcwNDUzMTQ3OQ@@._V1_SX300.jpg
   letterboxd_slug: the-heat
   letterboxd_rating: 3.11
+  genres:
+    - Comedy
+    - Action
+    - Crime
 
 - id: can-you-ever-forgive-me
   tmdb_id: 401847
@@ -56,6 +67,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYWQ0YmU1YzktMTFmYi00YzNjLWFjNmItNTIwMThkNjdmYmIyXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: can-you-ever-forgive-me
   letterboxd_rating: 3.66
+  genres:
+    - Drama
+    - Comedy
+    - Crime
 
 - id: identity-thief
   tmdb_id: 109431
@@ -69,6 +84,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTY3NzM5MTk2Nl5BMl5BanBnXkFtZTcwMDQ4MjQ3OA@@._V1_SX300.jpg
   letterboxd_slug: identity-thief
   letterboxd_rating: 2.59
+  genres:
+    - Crime
+    - Comedy
 
 - id: st-vincent
   tmdb_id: 239563
@@ -82,3 +100,5 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTk5NzI5OTA4MF5BMl5BanBnXkFtZTgwNjc4NTM3MjE@._V1_SX300.jpg
   letterboxd_slug: st-vincent
   letterboxd_rating: 3.41
+  genres:
+    - Comedy

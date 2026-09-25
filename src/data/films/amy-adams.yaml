@@ -17,6 +17,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNWEzM2Y0ZWEtODZkMC00N2M1LTljNDctMzMxYzE0NzUyZDliXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: junebug
   letterboxd_rating: 3.54
+  genres:
+    - Drama
+    - Comedy
 
 - id: enchanted
   tmdb_id: 4523
@@ -30,6 +33,11 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjE4NDQ2Mjc0OF5BMl5BanBnXkFtZTcwNzQ2NDE1MQ@@._V1_SX300.jpg
   letterboxd_slug: enchanted
   letterboxd_rating: 3.58
+  genres:
+    - Family
+    - Fantasy
+    - Comedy
+    - Romance
 
 - id: nocturnal-animals
   tmdb_id: 340666
@@ -48,6 +56,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTYwMzMwMzgxNl5BMl5BanBnXkFtZTgwMTA0MTUzMDI@._V1_SX300.jpg
   letterboxd_slug: nocturnal-animals
   letterboxd_rating: 3.71
+  genres:
+    - Drama
+    - Thriller
 
 - id: arrival
   tmdb_id: 329865
@@ -66,3 +77,7 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTExMzU0ODcxNDheQTJeQWpwZ15BbWU4MDE1OTI4MzAy._V1_SX300.jpg
   letterboxd_slug: arrival-2016
   letterboxd_rating: 4.14
+  genres:
+    - Mystery
+    - Science Fiction
+    - Drama

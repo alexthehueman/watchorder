@@ -14,6 +14,9 @@
   letterboxd_slug: apollo-13
   poster_url: https://a.ltrbxd.com/resized/sm/upload/3a/y4/uy/89/apollo-13-1200-1200-675-675-crop-000000.jpg?v=893bd1d204
   letterboxd_rating: 3.82
+  genres:
+    - History
+    - Drama
 
 - id: twister
   tmdb_id: 664
@@ -31,3 +34,7 @@
   letterboxd_slug: twister
   poster_url: https://a.ltrbxd.com/resized/sm/upload/z8/2s/m7/5q/twister-1200-1200-675-675-crop-000000.jpg?v=12d95f66e9
   letterboxd_rating: 3.32
+  genres:
+    - Adventure
+    - Action
+    - Drama

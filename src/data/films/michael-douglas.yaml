@@ -14,6 +14,9 @@
   letterboxd_slug: wall-street
   poster_url: https://a.ltrbxd.com/resized/sm/upload/8m/bk/vg/ea/wall-street-1200-1200-675-675-crop-000000.jpg?v=e0682ac47e
   letterboxd_rating: 3.62
+  genres:
+    - Crime
+    - Drama
 
 - id: basic-instinct
   tmdb_id: 402
@@ -31,6 +34,9 @@
   letterboxd_slug: basic-instinct
   poster_url: https://a.ltrbxd.com/resized/sm/upload/41/5o/nh/nc/basic-instinct-1200-1200-675-675-crop-000000.jpg?v=45209645e4
   letterboxd_rating: 3.63
+  genres:
+    - Thriller
+    - Mystery
 
 - id: falling-down
   tmdb_id: 37094
@@ -43,3 +49,7 @@
   letterboxd_slug: falling-down
   poster_url: https://a.ltrbxd.com/resized/sm/upload/7j/05/d0/pw/falling-down-1200-1200-675-675-crop-000000.jpg?v=cab1c76016
   letterboxd_rating: 3.7
+  genres:
+    - Thriller
+    - Drama
+    - Crime

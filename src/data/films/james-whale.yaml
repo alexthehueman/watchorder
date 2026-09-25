@@ -21,6 +21,10 @@
   letterboxd_slug: the-old-dark-house
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ow/sz/jl/j7/old%20dark%20hourse-1200-1200-675-675-crop-000000.jpg?v=4cb589d339
   letterboxd_rating: 3.49
+  genres:
+    - Horror
+    - Thriller
+    - Drama
 
 - id: show-boat-1936
   tmdb_id: 31548
@@ -38,3 +42,8 @@
   letterboxd_slug: show-boat
   poster_url: https://a.ltrbxd.com/resized/sm/upload/fc/nx/8f/mg/showboat-1200-1200-675-675-crop-000000.jpg?v=f00cb66907
   letterboxd_rating: 3.43
+  genres:
+    - Music
+    - Comedy
+    - Romance
+    - Drama

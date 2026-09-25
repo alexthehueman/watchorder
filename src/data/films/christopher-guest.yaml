@@ -12,6 +12,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: waiting-for-guffman
   poster_url: https://a.ltrbxd.com/resized/sm/upload/2u/ij/1s/d4/waiting-for-guffman-1200-1200-675-675-crop-000000.jpg?v=4a79144f88
+  genres:
+    - Music
+    - Comedy
 
 - id: best-in-show
   tmdb_id: 13785
@@ -23,6 +26,8 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: best-in-show
   poster_url: https://a.ltrbxd.com/resized/sm/upload/2s/1x/ks/bd/best-in-show-1200-1200-675-675-crop-000000.jpg?v=cec0ebe3fb
+  genres:
+    - Comedy
 
 - id: a-mighty-wind
   tmdb_id: 13370
@@ -39,3 +44,6 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: a-mighty-wind
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ux/28/sn/t9/a-mighty-wind-1200-1200-675-675-crop-000000.jpg?v=2bc4abc954
+  genres:
+    - Comedy
+    - Music

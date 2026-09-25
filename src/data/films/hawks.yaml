@@ -20,6 +20,11 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMWY2ZWI2NTAtYTkyMy00N2I2LTljODgtYTRlYmVlMTI0NjM0XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: scarface
   letterboxd_rating: 3.83
+  genres:
+    - Crime
+    - Action
+    - Drama
+    - Thriller
 
 - id: only-angels-have-wings
   tmdb_id: 43832
@@ -38,6 +43,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMDE0ZDk3MjQtOTE5Ny00MTM3LWIyNGUtZWZjOWU0YmE3NGI1XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: only-angels-have-wings
   letterboxd_rating: 4.08
+  genres:
+    - Drama
+    - Romance
+    - Adventure
 
 - id: sergeant-york
   tmdb_id: 16442
@@ -51,6 +60,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMzYxMTYzMTMtNjk0Yy00NjMyLWIyMjUtNjk4ZDUwMzFkNDZmXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: sergeant-york
   letterboxd_rating: 3.57
+  genres:
+    - History
+    - War
+    - Drama
 
 - id: red-river
   tmdb_id: 3089
@@ -64,6 +77,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTM2NDA3NTQ2OF5BMl5BanBnXkFtZTcwODUzNzU2NA@@._V1_SX300.jpg
   letterboxd_slug: red-river
   letterboxd_rating: 4.01
+  genres:
+    - Western
 
 - id: gentlemen-prefer-blondes
   tmdb_id: 759
@@ -77,6 +92,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZjQ4MDJhZGMtNDliZS00ZTYwLWJmN2ItZWY3NDc2NTFjN2VmXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: gentlemen-prefer-blondes
   letterboxd_rating: 3.88
+  genres:
+    - Comedy
+    - Romance
 
 - id: rio-bravo
   tmdb_id: 301
@@ -95,6 +113,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYmRiNWY3ZDQtZTJkNi00NjlkLWI3NTQtZDEzZTE0YmNhYTk2XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: rio-bravo
   letterboxd_rating: 4.17
+  genres:
+    - Drama
+    - Western
 
 # Added for the same reason as Ford's late additions: six films in one register gave M7 nothing.
 # Hatari! is the useful one — two and a half hours with no plot at all, which is the opposite of
@@ -111,6 +132,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BODFlNTVhOWMtMWNlNC00ZmVkLTlkZGQtNWVjYWE5NWNiOTZkXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: twentieth-century
   letterboxd_rating: 3.58
+  genres:
+    - Romance
+    - Comedy
 
 - id: ball-of-fire
   tmdb_id: 29884
@@ -124,6 +148,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNWQ4YmE5NWItODc0Ni00NGVlLTlhYjAtZTAwY2M3YmViMjc5XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: ball-of-fire
   letterboxd_rating: 4
+  genres:
+    - Comedy
+    - Romance
+    - Crime
 
 - id: hatari
   tmdb_id: 11385
@@ -142,6 +170,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMzVkYTBlZDQtNDliZi00NDI2LTk1YTktMTU1YWE2MTBkODNmXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: hatari
   letterboxd_rating: 3.69
+  genres:
+    - Action
+    - Comedy
+    - Adventure
 
 - id: land-of-the-pharaohs
   tmdb_id: 42564
@@ -155,3 +187,6 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYmRhYzQxYTUtMjYxNi00MjNkLWExNjAtM2QwMDY3YzU3YjNkXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: land-of-the-pharaohs
   letterboxd_rating: 3.34
+  genres:
+    - History
+    - Drama

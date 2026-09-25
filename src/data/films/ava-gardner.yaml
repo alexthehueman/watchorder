@@ -15,6 +15,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: the-killers
   poster_url: https://a.ltrbxd.com/resized/sm/upload/l0/94/dv/as/killers-1200-1200-675-675-crop-000000.jpg?v=4417b8e0a7
+  genres:
+    - Mystery
+    - Thriller
+    - Crime
 
 - id: mogambo
   tmdb_id: 25009
@@ -26,6 +30,10 @@
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 1, sex: 1 }
   letterboxd_slug: mogambo
   poster_url: https://a.ltrbxd.com/resized/sm/upload/mb/rl/wc/bw/fEKWwgxn1DsAee5sS7HQ0rUVqhM-1200-1200-675-675-crop-000000.jpg?v=cf26b24bd6
+  genres:
+    - Romance
+    - Drama
+    - Adventure
 
 - id: the-barefoot-contessa
   tmdb_id: 34689
@@ -37,6 +45,8 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
   letterboxd_slug: the-barefoot-contessa
   poster_url: https://a.ltrbxd.com/resized/sm/upload/e5/t3/yy/p9/barefoot-1200-1200-675-675-crop-000000.jpg?v=b8257e2434
+  genres:
+    - Drama
 
 - id: the-night-of-the-iguana
   tmdb_id: 14703
@@ -48,3 +58,6 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   letterboxd_slug: the-night-of-the-iguana
   poster_url: https://a.ltrbxd.com/resized/sm/upload/y6/m3/2s/uh/night%20of%20the%20aiguana-1200-1200-675-675-crop-000000.jpg?v=df5d0f2b61
+  genres:
+    - Romance
+    - Drama

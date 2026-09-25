@@ -20,6 +20,9 @@
   letterboxd_slug: us-2019
   poster_url: https://a.ltrbxd.com/resized/sm/upload/vw/85/4k/4n/us-2019-1200-1200-675-675-crop-000000.jpg?v=56c16e5ce2
   letterboxd_rating: 3.63
+  genres:
+    - Horror
+    - Mystery
 
 - id: black-panther-wakanda-forever
   tmdb_id: 505642
@@ -37,6 +40,10 @@
   letterboxd_slug: black-panther-wakanda-forever
   poster_url: https://a.ltrbxd.com/resized/sm/upload/3j/c8/w0/ot/black-1200-1200-675-675-crop-000000.jpg?v=56479a660b
   letterboxd_rating: 3.27
+  genres:
+    - Science Fiction
+    - Adventure
+    - Action
 
 - id: queen-of-katwe
   tmdb_id: 317557
@@ -49,6 +56,8 @@
   letterboxd_slug: queen-of-katwe
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ka/ac/ff/z3/queen-of-katwe-1200-1200-675-675-crop-000000.jpg?v=6ff5200882
   letterboxd_rating: 3.65
+  genres:
+    - Drama
 
 - id: non-stop
   tmdb_id: 225574
@@ -61,6 +70,10 @@
   letterboxd_slug: non-stop-2014
   poster_url: https://a.ltrbxd.com/resized/sm/upload/5c/wi/dr/y0/non-stop-1200-1200-675-675-crop-000000.jpg?v=daad427eff
   letterboxd_rating: 3.1
+  genres:
+    - Thriller
+    - Mystery
+    - Action
 
 - id: little-monsters
   tmdb_id: 503125
@@ -73,3 +86,6 @@
   letterboxd_slug: little-monsters-2019
   poster_url: https://a.ltrbxd.com/resized/sm/upload/4r/nj/tk/e9/8527961-1200-1200-675-675-crop-000000.jpg?v=41ff216165
   letterboxd_rating: 3.22
+  genres:
+    - Horror
+    - Comedy

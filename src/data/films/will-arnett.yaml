@@ -19,6 +19,11 @@
   letterboxd_slug: the-lego-batman-movie
   poster_url: https://a.ltrbxd.com/resized/sm/upload/rr/3t/0c/j2/the-lego-batman-movie-1200-1200-675-675-crop-000000.jpg?v=384ad2376c
   letterboxd_rating: 4.01
+  genres:
+    - Comedy
+    - Animation
+    - Family
+    - Action
 
 - id: blades-of-glory
   tmdb_id: 9955
@@ -31,6 +36,8 @@
   letterboxd_slug: blades-of-glory
   poster_url: https://a.ltrbxd.com/resized/sm/upload/sm/iw/dn/27/blades-of-glory-1200-1200-675-675-crop-000000.jpg?v=e2cf087de8
   letterboxd_rating: 3.16
+  genres:
+    - Comedy
 
 - id: teenage-mutant-ninja-turtles-2014
   tmdb_id: 98566
@@ -43,3 +50,8 @@
   letterboxd_slug: teenage-mutant-ninja-turtles-2014
   poster_url: https://a.ltrbxd.com/resized/sm/upload/97/0w/fi/d2/teenage-mutant-ninja-turtles-2014-1200-1200-675-675-crop-000000.jpg?v=70b190eb6a
   letterboxd_rating: 2.57
+  genres:
+    - Comedy
+    - Science Fiction
+    - Adventure
+    - Action

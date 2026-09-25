@@ -16,6 +16,8 @@
   letterboxd_slug: aftersun
   poster_url: https://a.ltrbxd.com/resized/sm/upload/8p/e8/kc/48/aftersun-1200-1200-675-675-crop-000000.jpg?v=e57125ef44
   letterboxd_rating: 4.21
+  genres:
+    - Drama
 
 - id: all-of-us-strangers
   tmdb_id: 994108
@@ -33,6 +35,10 @@
   letterboxd_slug: all-of-us-strangers
   poster_url: https://a.ltrbxd.com/resized/sm/upload/oq/ge/iu/1v/all%20of%20us%20t-1200-1200-675-675-crop-000000.jpg?v=36bc3a6038
   letterboxd_rating: 3.94
+  genres:
+    - Drama
+    - Romance
+    - Fantasy
 
 - id: gladiator-ii
   tmdb_id: 558449
@@ -50,6 +56,10 @@
   letterboxd_slug: gladiator-ii
   poster_url: https://a.ltrbxd.com/resized/sm/upload/85/h2/uy/p3/gladiator%202-1200-1200-675-675-crop-000000.jpg?v=35462ea2c8
   letterboxd_rating: 3.25
+  genres:
+    - Drama
+    - Action
+    - Adventure
 
 - id: the-lost-daughter
   tmdb_id: 554230
@@ -62,6 +72,8 @@
   letterboxd_slug: the-lost-daughter-2021
   poster_url: https://a.ltrbxd.com/resized/sm/upload/sb/tc/q8/dh/the-lost-daughter-1200-1200-675-675-crop-000000.jpg?v=2aa66d6541
   letterboxd_rating: 3.52
+  genres:
+    - Drama
 
 - id: carmen-2023
   tmdb_id: 1132994
@@ -73,3 +85,5 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: carmen-2023
   poster_url: https://a.ltrbxd.com/resized/film-poster/1/0/2/1/1/8/5/1021185-carmen-0-230-0-345-crop.jpg?v=181d517a51
+  genres:
+    - Music

@@ -26,6 +26,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BOTgwZTIxOWQtNzYzMS00ZDk4LWI2YjktMDgzMjE3NjQzNWE3XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: shivers
   letterboxd_rating: 3.21
+  genres:
+    - Science Fiction
+    - Horror
 
 - id: the-brood
   tmdb_id: 28942
@@ -49,6 +52,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMWU2MmY2N2EtMmNlNS00NjU4LTg2MDQtYTQ1MjYxY2RkNjFlXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-brood
   letterboxd_rating: 3.59
+  genres:
+    - Science Fiction
+    - Horror
 
 - id: fast-company
   tmdb_id: 38493
@@ -72,6 +78,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BOGNjOWVjOTktODczNy00NmJjLWExMzgtYTdiZjRiZmU0ZjdmXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: fast-company
   letterboxd_rating: 2.72
+  genres:
+    - Drama
+    - Action
 
 - id: scanners
   tmdb_id: 9538
@@ -95,6 +104,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYWY2OTA1NjctNmFhYS00ZGQwLTlhNGUtNjQ1M2JiNzFjNmI2XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: scanners
   letterboxd_rating: 3.47
+  genres:
+    - Horror
+    - Science Fiction
 
 - id: videodrome
   tmdb_id: 837
@@ -118,6 +130,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BOTI0NDVlMjMtNWI5Yi00ZWM0LTg4NWUtNGRkYjU5NTBkZjVkXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: videodrome
   letterboxd_rating: 3.87
+  genres:
+    - Mystery
+    - Science Fiction
+    - Horror
 
 - id: the-dead-zone
   tmdb_id: 11336
@@ -141,6 +157,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNjlmYzYyODgtYjBiYS00ZDM3LWE0MDYtN2U3MzBjMTRmYzMzXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-dead-zone
   letterboxd_rating: 3.55
+  genres:
+    - Science Fiction
+    - Thriller
+    - Horror
 
 - id: the-fly
   tmdb_id: 9426
@@ -164,6 +184,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BOTBlNTliNTItY2VhNS00MjA5LTllYzItMmQyNGRjYTAyZWQxXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-fly-1986
   letterboxd_rating: 4
+  genres:
+    - Science Fiction
+    - Horror
 
 - id: dead-ringers
   tmdb_id: 9540
@@ -187,6 +210,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYTMwZDViNDMtZGJjNC00YzM4LWFiN2YtZjVjNjAwOWNjMTIxXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: dead-ringers
   letterboxd_rating: 3.85
+  genres:
+    - Thriller
+    - Horror
 
 - id: naked-lunch
   tmdb_id: 2742
@@ -210,6 +236,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYzBkOWM0MTYtN2QwYy00YTg3LWIwNmEtMGRlNDNhN2UyNjU3XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: naked-lunch
   letterboxd_rating: 3.75
+  genres:
+    - Crime
+    - Drama
 
 - id: crash-1996
   tmdb_id: 884
@@ -233,6 +262,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMWQyNTUwNGMtOWUwZi00ODdjLWE3MDQtYzc0NjYzNjk2YWY4XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: crash
   letterboxd_rating: 3.63
+  genres:
+    - Thriller
+    - Drama
 
 - id: existenz
   tmdb_id: 1946
@@ -256,6 +288,11 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZjk3MGRhN2EtN2IyYi00NjFkLWFmNTUtNWI3MzZiYjI2ZjRkXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: existenz
   letterboxd_rating: 3.61
+  genres:
+    - Science Fiction
+    - Horror
+    - Thriller
+    - Action
 
 - id: a-history-of-violence
   tmdb_id: 59
@@ -279,6 +316,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTczMzIzMTQ1OV5BMl5BanBnXkFtZTYwMDQwNjk2._V1_SX300.jpg
   letterboxd_slug: a-history-of-violence
   letterboxd_rating: 3.73
+  genres:
+    - Thriller
+    - Drama
+    - Crime
 
 - id: eastern-promises
   tmdb_id: 2252
@@ -302,6 +343,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTcwMzU0OTY3NF5BMl5BanBnXkFtZTYwNzkwNjg2._V1_SX300.jpg
   letterboxd_slug: eastern-promises
   letterboxd_rating: 3.88
+  genres:
+    - Thriller
+    - Mystery
+    - Crime
 
 - id: cosmopolis
   tmdb_id: 49014
@@ -325,6 +370,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTY1NjI0MDYyNV5BMl5BanBnXkFtZTcwNDIzMDEyOA@@._V1_SX300.jpg
   letterboxd_slug: cosmopolis
   letterboxd_rating: 2.98
+  genres:
+    - Drama
 
 - id: crimes-of-the-future
   tmdb_id: 819876
@@ -348,3 +395,7 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjBjMTEzZGItOGMzYy00Mzk4LWE0YjgtN2ExMjY1MTBlNTlkXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: crimes-of-the-future-2022
   letterboxd_rating: 3.28
+  genres:
+    - Horror
+    - Thriller
+    - Science Fiction

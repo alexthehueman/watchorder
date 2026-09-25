@@ -15,6 +15,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTI2ODRiYjEtY2JkMC00ZDM0LWIzYzQtNzllNzEzYjkwZTM5XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: before-night-falls
   letterboxd_rating: 3.65
+  genres:
+    - Drama
 
 - id: vicky-cristina-barcelona
   tmdb_id: 5038
@@ -28,6 +30,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BOGYyZTllMmUtZDFmYS00ZjJhLThhNmEtZmQwYzkzNjkyNzhlXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: vicky-cristina-barcelona
   letterboxd_rating: 3.44
+  genres:
+    - Romance
+    - Drama
 
 - id: biutiful
   tmdb_id: 45958
@@ -46,6 +51,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMzI4OTQ0MDQyNl5BMl5BanBnXkFtZTcwODY5MjQwNA@@._V1_SX300.jpg
   letterboxd_slug: biutiful
   letterboxd_rating: 3.9
+  genres:
+    - Drama
 
 - id: the-counselor
   tmdb_id: 109091
@@ -64,6 +71,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTc3ODk0MTY0N15BMl5BanBnXkFtZTgwOTU2MTEzMDE@._V1_SX300.jpg
   letterboxd_slug: the-counselor
   letterboxd_rating: 2.7
+  genres:
+    - Thriller
+    - Drama
+    - Crime
 
 - id: mother-2017
   tmdb_id: 381283
@@ -82,6 +93,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMzc5ODExODE0MV5BMl5BanBnXkFtZTgwNDkzNDUxMzI@._V1_SX300.jpg
   letterboxd_slug: mother-2017
   letterboxd_rating: 3.49
+  genres:
+    - Drama
+    - Horror
 
 - id: eat-pray-love
   tmdb_id: 38167
@@ -95,6 +109,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTY5NDkyNzkyM15BMl5BanBnXkFtZTcwNDQyNDk0Mw@@._V1_SX300.jpg
   letterboxd_slug: eat-pray-love
   letterboxd_rating: 3.01
+  genres:
+    - Drama
+    - Romance
 
 - id: the-sea-inside
   tmdb_id: 1913
@@ -108,3 +125,5 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNjFlNzg5ZTYtNDhkOC00Y2EwLTk2YzUtODNmZDMyOTMyMjhkXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-sea-inside
   letterboxd_rating: 3.85
+  genres:
+    - Drama

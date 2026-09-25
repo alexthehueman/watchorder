@@ -17,6 +17,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: shoah
   poster_url: https://a.ltrbxd.com/resized/sm/upload/au/v2/fe/p0/shoah-1200-1200-675-675-crop-000000.jpg?v=f9297854d5
+  genres:
+    - Documentary
+    - History
 
 - id: tsahal
   tmdb_id: 141014
@@ -28,6 +31,8 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: tsahal
   poster_url: https://a.ltrbxd.com/resized/film-poster/1/9/0/3/2/7/190327-tsahal-0-230-0-345-crop.jpg?v=6557aba033
+  genres:
+    - Documentary
 
 - id: sobibor-14-october-1943-4pm
   tmdb_id: 32432
@@ -48,3 +53,5 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: a-visitor-from-the-living
   poster_url: https://a.ltrbxd.com/resized/film-poster/1/4/3/2/3/0/143230-a-visitor-from-the-living-0-230-0-345-crop.jpg?v=54f01f400a
+  genres:
+    - Documentary

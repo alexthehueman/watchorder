@@ -17,6 +17,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYTViMjVjOTQtMjE0MC00ODcxLWEzZTAtZDNkOGMxZTkzNWI1XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: i-was-born-but
   letterboxd_rating: 3.99
+  genres:
+    - Comedy
+    - Drama
 
 - id: good-morning
   tmdb_id: 28276
@@ -30,6 +33,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZTEwZjUwMjctMmNkMi00YTQxLWFlOTUtZDBhYjVjOTZhMmE4XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: good-morning
   letterboxd_rating: 4.2
+  genres:
+    - Comedy
+    - Family
+    - Drama
 
 - id: equinox-flower
   tmdb_id: 28272
@@ -43,6 +50,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BOTIyY2UyZWEtOWE1NS00NjNjLWIzYzYtMjI4NDc5MjZiOGY3XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: equinox-flower
   letterboxd_rating: 4.04
+  genres:
+    - Comedy
+    - Drama
 
 - id: floating-weeds
   tmdb_id: 46918
@@ -61,6 +71,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYzJjYWY5NzQtZGUyNy00YzczLWJlYzMtMzRhNjljNjA3MDMxXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: floating-weeds
   letterboxd_rating: 4.1
+  genres:
+    - Drama
 
 - id: an-autumn-afternoon
   tmdb_id: 50759
@@ -79,6 +91,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BOTg1ZjAzOWEtNGMyYS00ODA1LTgxMGUtNTA2YTM2OGU0NjM1XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: an-autumn-afternoon
   letterboxd_rating: 4.21
+  genres:
+    - Drama
 
 - id: there-was-a-father
   tmdb_id: 27372
@@ -92,3 +106,5 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMDUzOGMyNGEtZDQxMy00ZWU3LWJmMjItZDJlOGExNjU2MjcyXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: there-was-a-father
   letterboxd_rating: 3.9
+  genres:
+    - Drama

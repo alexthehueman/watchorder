@@ -13,6 +13,10 @@
   letterboxd_slug: funny-girl
   poster_url: https://a.ltrbxd.com/resized/sm/upload/r3/f5/ks/d8/funny-girl-1200-1200-675-675-crop-000000.jpg?v=688d8eccf5
   letterboxd_rating: 3.99
+  genres:
+    - Comedy
+    - Drama
+    - Romance
 
 - id: monsieur-ibrahim
   tmdb_id: 337
@@ -30,3 +34,5 @@
   letterboxd_slug: monsieur-ibrahim
   poster_url: https://a.ltrbxd.com/resized/sm/upload/s1/vk/51/f8/monsieur%20ibrahim-1200-1200-675-675-crop-000000.jpg?v=22baced078
   letterboxd_rating: 3.56
+  genres:
+    - Drama

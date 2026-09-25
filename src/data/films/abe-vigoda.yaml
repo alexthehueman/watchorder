@@ -18,6 +18,9 @@
   letterboxd_slug: look-whos-talking
   poster_url: https://a.ltrbxd.com/resized/sm/upload/wb/g6/rp/98/look-whos-talking-1200-1200-675-675-crop-000000.jpg?v=c147d02cd8
   letterboxd_rating: 2.97
+  genres:
+    - Romance
+    - Comedy
 
 - id: joe-versus-the-volcano
   tmdb_id: 2565
@@ -30,6 +33,10 @@
   letterboxd_slug: joe-versus-the-volcano
   poster_url: https://a.ltrbxd.com/resized/sm/upload/8i/qe/xd/nh/BDE50D05-301D-4EA1-8A7B-BFB17284FFA2-1200-1200-675-675-crop-000000.jpg?v=3168df8fd0
   letterboxd_rating: 3.17
+  genres:
+    - Comedy
+    - Adventure
+    - Romance
 
 - id: three-rooms-in-manhattan
   tmdb_id: 147581
@@ -41,6 +48,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   letterboxd_slug: three-rooms-in-manhattan
   poster_url: https://a.ltrbxd.com/resized/sm/upload/od/oo/ss/34/pqg2z3REENFh97JkNGdXspbotwC-1200-1200-675-675-crop-000000.jpg?v=7e517cdfad
+  genres:
+    - Drama
+    - Romance
 
 - id: the-devils-daughter
   tmdb_id: 98903
@@ -52,6 +62,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: the-devils-daughter-1973
   poster_url: https://a.ltrbxd.com/resized/film-poster/8/0/9/9/8/80998-the-devils-daughter-1973-0-230-0-345-crop.jpg?v=4d77fe036c
+  genres:
+    - Horror
+    - TV Movie
 
 - id: the-don-is-dead
   tmdb_id: 94741
@@ -63,6 +76,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
   letterboxd_slug: the-don-is-dead
   poster_url: https://a.ltrbxd.com/resized/sm/upload/qx/ce/p6/wt/fJJpJ3YdBwg2KmrziapgX5rjt9E-1200-1200-675-675-crop-000000.jpg?v=8e96a5f6cc
+  genres:
+    - Drama
+    - Crime
 
 - id: the-story-of-pretty-boy-floyd
   tmdb_id: 72322
@@ -74,6 +90,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: the-story-of-pretty-boy-floyd
   poster_url: https://a.ltrbxd.com/resized/film-poster/5/7/1/6/1/57161-the-story-of-pretty-boy-floyd-0-230-0-345-crop.jpg?v=4a42324ce5
+  genres:
+    - Crime
+    - TV Movie
+    - Drama
 
 - id: newmans-law
   tmdb_id: 122751
@@ -85,6 +105,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   letterboxd_slug: newmans-law
   poster_url: https://a.ltrbxd.com/resized/sm/upload/hr/gq/fk/8g/6PTqJuftMeWLNF30Uyji27WxMZc-1200-1200-675-675-crop-000000.jpg?v=b4b607dc67
+  genres:
+    - Action
+    - Crime
 
 - id: the-cheap-detective
   tmdb_id: 14584
@@ -96,6 +119,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: the-cheap-detective
   poster_url: https://a.ltrbxd.com/resized/sm/upload/or/99/qc/ct/cheap-1200-1200-675-675-crop-000000.jpg?v=e7cb19f4e1
+  genres:
+    - Mystery
+    - Comedy
+    - Crime
 
 - id: death-car-on-the-freeway
   tmdb_id: 216176
@@ -107,6 +134,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: death-car-on-the-freeway
   poster_url: https://a.ltrbxd.com/resized/film-poster/1/5/3/3/7/7/153377-death-car-on-the-freeway-0-230-0-345-crop.jpg?v=0fe2f0ba36
+  genres:
+    - Thriller
+    - Horror
+    - Mystery
 
 - id: the-big-stuffed-dog
   tmdb_id: 379829
@@ -118,6 +149,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: the-big-stuffed-dog
   poster_url: https://a.ltrbxd.com/resized/film-poster/3/1/4/8/5/5/314855-the-big-stuffed-dog-0-230-0-345-crop.jpg?v=9d2debf746
+  genres:
+    - TV Movie
+    - Family
+    - Comedy
 
 - id: cannonball-run-ii
   tmdb_id: 11950
@@ -129,6 +164,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: cannonball-run-ii
   poster_url: https://a.ltrbxd.com/resized/sm/upload/6g/mg/25/0j/cannonball-run-2-1200-1200-675-675-crop-000000.jpg?v=62762f1e22
+  genres:
+    - Action
+    - Comedy
 
 - id: the-stuff
   tmdb_id: 18502
@@ -145,6 +183,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: the-stuff
   poster_url: https://a.ltrbxd.com/resized/sm/upload/mw/2n/d3/yx/the-stuff-1200-1200-675-675-crop-000000.jpg?v=18bd15d944
+  genres:
+    - Horror
+    - Comedy
+    - Science Fiction
 
 - id: vasectomy-a-delicate-matter
   tmdb_id: 380705
@@ -156,6 +198,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   letterboxd_slug: vasectomy-a-delicate-matter
   poster_url: https://a.ltrbxd.com/resized/film-poster/3/1/5/7/0/5/315705-vasectomy-a-delicate-matter-0-230-0-345-crop.jpg?v=4e28f2eea4
+  genres:
+    - Comedy
+    - Drama
 
 - id: plain-clothes
   tmdb_id: 55728
@@ -167,6 +212,13 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: plain-clothes
   poster_url: https://a.ltrbxd.com/resized/film-poster/1/0/4/3/5/10435-plain-clothes-0-230-0-345-crop.jpg?v=3972a4b846
+  genres:
+    - Comedy
+    - Action
+    - Crime
+    - Romance
+    - Thriller
+    - Mystery
 
 - id: grandmothers-house
   tmdb_id: 69158
@@ -178,6 +230,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: grandmothers-house
   poster_url: https://a.ltrbxd.com/resized/film-poster/5/2/1/0/9/52109-grandmother-s-house-0-230-0-345-crop.jpg?v=ff493ca70d
+  genres:
+    - Thriller
+    - Horror
 
 - id: prancer
   tmdb_id: 24951
@@ -189,6 +244,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: prancer
   poster_url: https://a.ltrbxd.com/resized/sm/upload/39/sa/3n/yc/prancer-1200-1200-675-675-crop-000000.jpg?v=7b8d7aa8ae
+  genres:
+    - Family
+    - Drama
+    - Fantasy
 
 - id: keatons-cop
   tmdb_id: 103605
@@ -200,6 +259,8 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: keatons-cop
   poster_url: https://a.ltrbxd.com/resized/film-poster/8/4/0/2/8/84028-keatons-cop-0-230-0-345-crop.jpg?v=45fb14057b
+  genres:
+    - Crime
 
 - id: fist-of-honor
   tmdb_id: 53005
@@ -211,6 +272,11 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   letterboxd_slug: fist-of-honor
   poster_url: https://a.ltrbxd.com/resized/film-poster/1/2/9/1/6/12916-fist-of-honor-0-230-0-345-crop.jpg?v=1040ae7aa5
+  genres:
+    - Thriller
+    - Action
+    - Adventure
+    - Drama
 
 - id: sugar-hill
   tmdb_id: 39349
@@ -222,6 +288,11 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
   letterboxd_slug: sugar-hill-1994
   poster_url: https://a.ltrbxd.com/resized/alternative-backdrop/2/5/3/2/7/tmdb/ueL2dupQ5Clyyd4Hsq5HSBDzNxz-1200-1200-675-675-crop-000000.jpg?v=97775bc7fe
+  genres:
+    - Action
+    - Drama
+    - Crime
+    - Thriller
 
 - id: me-and-the-kid
   tmdb_id: 193387
@@ -233,6 +304,11 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: me-and-the-kid
   poster_url: https://a.ltrbxd.com/resized/film-poster/1/3/9/0/2/2/139022-me-and-the-kid-0-230-0-345-crop.jpg?v=97f5602ce2
+  genres:
+    - Comedy
+    - Drama
+    - Family
+    - Crime
 
 - id: batman-mask-of-the-phantasm
   tmdb_id: 14919
@@ -249,6 +325,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: batman-mask-of-the-phantasm
   poster_url: https://a.ltrbxd.com/resized/sm/upload/qy/4j/5p/70/batman-mask-phantasm-1200-1200-675-675-crop-000000.jpg?v=588663041a
+  genres:
+    - Mystery
+    - Animation
+    - Crime
 
 - id: north
   tmdb_id: 31586
@@ -260,6 +340,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: north
   poster_url: https://a.ltrbxd.com/resized/sm/upload/z1/u4/47/z9/gXLwU18p3UrwqT3DLlymTjfCZek-1200-1200-675-675-crop-000000.jpg?v=c1ee516a0d
+  genres:
+    - Drama
+    - Adventure
+    - Comedy
 
 - id: home-of-angels
   tmdb_id: 795094
@@ -271,6 +355,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: home-of-angels
   poster_url: https://a.ltrbxd.com/resized/film-poster/7/1/3/0/0/6/713006-home-of-angels-0-230-0-345-crop.jpg?v=8f1ca2b45e
+  genres:
+    - Family
+    - Comedy
 
 - id: jury-duty
   tmdb_id: 19326
@@ -282,6 +369,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   letterboxd_slug: jury-duty
   poster_url: https://a.ltrbxd.com/resized/alternative-backdrop/3/9/7/0/3/tmdb/8zO4AoxU7pzH8PRjDl1phWwLuVm-1200-1200-675-675-crop-000000.jpg?v=a2754e7f97
+  genres:
+    - Comedy
+    - Drama
 
 - id: the-misery-brothers
   tmdb_id: 296534
@@ -293,6 +383,8 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: the-misery-brothers
   poster_url: https://a.ltrbxd.com/resized/film-poster/2/2/3/8/4/7/223847-the-misery-brothers-0-230-0-345-crop.jpg?v=739f3d9ee2
+  genres:
+    - Comedy
 
 - id: love-is-all-there-is
   tmdb_id: 55058
@@ -304,6 +396,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: love-is-all-there-is
   poster_url: https://a.ltrbxd.com/resized/film-poster/1/1/0/5/1/11051-love-is-all-there-is-0-230-0-345-crop.jpg?v=c933ff3f2b
+  genres:
+    - Romance
+    - Comedy
 
 - id: underworld-1996
   tmdb_id: 85242
@@ -315,6 +410,11 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   letterboxd_slug: underworld-1996
   poster_url: https://a.ltrbxd.com/resized/film-poster/7/1/7/1/9/71719-underworld-0-230-0-345-crop.jpg?v=8337ee19e0
+  genres:
+    - Comedy
+    - Action
+    - Thriller
+    - Drama
 
 - id: good-burger
   tmdb_id: 14817
@@ -326,6 +426,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: good-burger
   poster_url: https://a.ltrbxd.com/resized/sm/upload/mg/6k/8h/so/v2LdwFikXj0pkc4YtCOdrmzRpI1-1200-1200-675-675-crop-000000.jpg?v=ff12e9b878
+  genres:
+    - Comedy
+    - Family
 
 - id: farticus
   tmdb_id: 852746
@@ -337,6 +440,8 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: farticus
   poster_url: https://a.ltrbxd.com/resized/film-poster/7/6/7/0/8/2/767082-farticus-0-230-0-345-crop.jpg?v=f3f4cf76bd
+  genres:
+    - Comedy
 
 - id: a-brooklyn-state-of-mind
   tmdb_id: 68761
@@ -348,6 +453,11 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: a-brooklyn-state-of-mind
   poster_url: https://a.ltrbxd.com/resized/film-poster/5/2/4/7/8/52478-a-brooklyn-state-of-mind-0-230-0-345-crop.jpg?v=03e282c1b8
+  genres:
+    - Action
+    - Romance
+    - Drama
+    - Thriller
 
 - id: witness-to-the-mob
   tmdb_id: 64920
@@ -359,6 +469,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   letterboxd_slug: witness-to-the-mob
   poster_url: https://a.ltrbxd.com/resized/film-poster/1/6/5/165-witness-to-the-mob-0-230-0-345-crop.jpg?v=0286459f0b
+  genres:
+    - Drama
+    - Crime
+    - TV Movie
 
 - id: just-the-ticket
   tmdb_id: 26425
@@ -370,6 +484,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: just-the-ticket
   poster_url: https://a.ltrbxd.com/resized/film-poster/3/5/3/3/8/35338-just-the-ticket-0-230-0-345-crop.jpg?v=cb66be40a6
+  genres:
+    - Comedy
+    - Romance
 
 - id: chump-change
   tmdb_id: 88910
@@ -381,6 +498,8 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   letterboxd_slug: chump-change
   poster_url: https://a.ltrbxd.com/resized/film-poster/7/4/9/3/8/74938-chump-change-0-230-0-345-crop.jpg?v=dee9eeb64b
+  genres:
+    - Comedy
 
 - id: crime-spree
   tmdb_id: 6277
@@ -392,6 +511,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: crime-spree
   poster_url: https://a.ltrbxd.com/resized/film-poster/4/8/3/7/7/48377-crime-spree-0-230-0-345-crop.jpg?v=0e0a92a480
+  genres:
+    - Comedy
+    - Crime
+    - Action
 
 - id: farce-of-the-penguins
   tmdb_id: 12486
@@ -403,6 +526,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   letterboxd_slug: farce-of-the-penguins
   poster_url: https://a.ltrbxd.com/resized/film-poster/4/4/5/4/9/44549-farce-of-the-penguins-0-230-0-345-crop.jpg?v=2d68c392c1
+  genres:
+    - Documentary
+    - Romance
+    - Comedy
 
 - id: the-unknown-trilogy
   tmdb_id: 42285
@@ -414,3 +541,6 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: the-unknown-trilogy
   poster_url: https://a.ltrbxd.com/resized/film-poster/2/2/7/8/7/22787-the-unknown-trilogy-0-230-0-345-crop.jpg?v=5ed0a2b617
+  genres:
+    - Thriller
+    - Horror

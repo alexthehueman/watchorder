@@ -20,6 +20,10 @@
   letterboxd_slug: sideways
   poster_url: https://a.ltrbxd.com/resized/sm/upload/hc/jd/kw/1g/sideways-1200-1200-675-675-crop-000000.jpg?v=27daf0ed17
   letterboxd_rating: 3.81
+  genres:
+    - Comedy
+    - Romance
+    - Drama
 
 - id: american-splendor
   tmdb_id: 2771
@@ -37,6 +41,9 @@
   letterboxd_slug: american-splendor
   poster_url: https://a.ltrbxd.com/resized/sm/upload/8z/md/6u/qh/american-splendor-1200-1200-675-675-crop-000000.jpg?v=14bab67a52
   letterboxd_rating: 3.78
+  genres:
+    - Comedy
+    - Drama
 
 - id: win-win
   tmdb_id: 55725
@@ -49,6 +56,9 @@
   letterboxd_slug: win-win
   poster_url: https://a.ltrbxd.com/resized/sm/upload/dm/9s/de/qe/win-win-1200-1200-675-675-crop-000000.jpg?v=33019e691d
   letterboxd_rating: 3.59
+  genres:
+    - Drama
+    - Comedy
 
 - id: barneys-version
   tmdb_id: 46829
@@ -66,3 +76,6 @@
   letterboxd_slug: barneys-version
   poster_url: https://a.ltrbxd.com/resized/sm/upload/tw/i0/x4/fn/barneys-version-1200-1200-675-675-crop-000000.jpg?v=0fb07b641a
   letterboxd_rating: 3.51
+  genres:
+    - Comedy
+    - Drama

@@ -16,6 +16,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BODc2YzRkZjYtYmYxZC00MmY3LTg2ZTEtZDc5MWQ4ZWNiMGIxXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: love-is-colder-than-death
   letterboxd_rating: 3.3
+  genres:
+    - Drama
+    - Crime
 
 - id: petra-von-kant
   tmdb_id: 10310
@@ -28,6 +31,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYjc4YTdjZGEtZDJkMS00OGY5LThjNzUtMGY1Y2QzOTdkMTRlXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-bitter-tears-of-petra-von-kant
   letterboxd_rating: 4.11
+  genres:
+    - Romance
+    - Drama
 
 - id: ali-fear-eats-the-soul
   tmdb_id: 216
@@ -45,6 +51,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYzRmNmRjNTktZGRjNC00YzkxLTgxNjEtYzY3MTI5MjgwY2ZiXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: ali-fear-eats-the-soul
   letterboxd_rating: 4.17
+  genres:
+    - Drama
+    - Romance
 
 - id: effi-briest
   tmdb_id: 706
@@ -57,6 +66,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZjBjMzYxZjAtYjI1YS00YjkxLTlhNGMtM2ZiMTkyODIyNDQ3XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: effi-briest
   letterboxd_rating: 3.55
+  genres:
+    - Drama
+    - History
 
 - id: fox-and-his-friends
   tmdb_id: 42254
@@ -69,6 +81,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTE0ZDYxZjItNmI0Mi00YjA4LTk2NDctZWM1MjY3Y2UxY2FiXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: fox-and-his-friends
   letterboxd_rating: 4.02
+  genres:
+    - Drama
 
 - id: mother-kusters
   tmdb_id: 42260
@@ -80,6 +94,8 @@
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ql/q1/so/f9/twSEDEJtMg4TMCWEIYlWaBmwwty-1200-1200-675-675-crop-000000.jpg?v=bf688b7a92
   letterboxd_slug: mother-kusters-goes-to-heaven
   letterboxd_rating: 3.87
+  genres:
+    - Drama
 
 - id: chinese-roulette
   tmdb_id: 36226
@@ -92,6 +108,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMDEzYTAxMzctZjdmOS00MmE2LTk5YjMtZjE1NzMzMTlhNTM5XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: chinese-roulette
   letterboxd_rating: 3.8
+  genres:
+    - Drama
 
 - id: in-a-year-of-13-moons
   tmdb_id: 42206
@@ -110,6 +128,8 @@
   letterboxd_slug: in-a-year-with-13-moons
   poster_url: https://a.ltrbxd.com/resized/sm/upload/gd/8k/rs/2v/in-year-13-moons-1200-1200-675-675-crop-000000.jpg?v=d6ef9b406c
   letterboxd_rating: 4
+  genres:
+    - Drama
 
 - id: despair
   tmdb_id: 42203
@@ -122,6 +142,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYzlmNzI0YWItYmRhNy00MmE4LTk0MjctMzViZmZjMGMyNTRkXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: despair
   letterboxd_rating: 3.55
+  genres:
+    - Thriller
+    - Drama
 
 - id: the-marriage-of-maria-braun
   tmdb_id: 661
@@ -134,6 +157,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BOGE3OTIyNzAtMDk3Yy00MTlhLTk0MDUtZjljMWE0ZGU3MjIzXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-marriage-of-maria-braun
   letterboxd_rating: 4.04
+  genres:
+    - Drama
 
 - id: berlin-alexanderplatz
   tmdb_id: null
@@ -148,6 +173,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYzM1N2I3MDUtYmM3Ny00OTVkLTkxOTQtYzFiMWFlNDQyMmE4XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: berlin-alexanderplatz
   letterboxd_rating: 4.22
+  genres:
+    - Crime
+    - Drama
 
 - id: lola-1981
   tmdb_id: 2264
@@ -160,6 +188,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYjE0MzMxMmMtMjJjNS00NDUxLTliMmQtMDRiYTE1Y2RjYzg0XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: lola-1981
   letterboxd_rating: 3.78
+  genres:
+    - Drama
 
 - id: veronika-voss
   tmdb_id: 2262
@@ -172,6 +202,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNmFkOWJmMzktZDcwNy00NjBkLWI0MDgtYTRjMTc1MTllYTQ1XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: veronika-voss
   letterboxd_rating: 3.9
+  genres:
+    - Drama
 
 - id: querelle
   tmdb_id: 42135
@@ -184,3 +216,6 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BN2Y5N2RjNzUtNTRlZC00NWQzLWFjN2EtM2VmMzMxMjZlNmU0XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: querelle
   letterboxd_rating: 3.67
+  genres:
+    - Crime
+    - Drama

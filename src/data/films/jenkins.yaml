@@ -16,6 +16,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNTM4MDUwMDg2NF5BMl5BanBnXkFtZTcwMTc2MzcyMg@@._V1_SX300.jpg
   letterboxd_slug: medicine-for-melancholy
   letterboxd_rating: 3.33
+  genres:
+    - Drama
+    - Romance
 
 - id: if-beale-street-could-talk
   tmdb_id: 465914
@@ -29,6 +32,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYmJlMWY1ZDMtMmU3ZS00MzVmLWE2MjQtYWVhNDAxOWY2MWI0XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: if-beale-street-could-talk
   letterboxd_rating: 3.92
+  genres:
+    - Drama
+    - Romance
 
 - id: mufasa-the-lion-king
   tmdb_id: 762509
@@ -42,3 +48,7 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYjBkOWUwODYtYWI3YS00N2I0LWEyYTktOTJjM2YzOTc3ZDNlXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: mufasa-the-lion-king
   letterboxd_rating: 2.95
+  genres:
+    - Family
+    - Adventure
+    - Animation

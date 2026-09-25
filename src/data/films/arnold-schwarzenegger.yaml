@@ -16,6 +16,10 @@
   letterboxd_slug: the-terminator
   poster_url: https://a.ltrbxd.com/resized/sm/upload/nj/wr/az/8d/the-terminator-1200-1200-675-675-crop-000000.jpg?v=76a3a0bb28
   letterboxd_rating: 3.88
+  genres:
+    - Action
+    - Thriller
+    - Science Fiction
 
 - id: terminator-2-judgment-day
   tmdb_id: 280
@@ -28,6 +32,10 @@
   letterboxd_slug: terminator-2-judgment-day
   poster_url: https://a.ltrbxd.com/resized/sm/upload/5p/1d/0w/o6/terminator-2-1200-1200-675-675-crop-000000.jpg?v=2c7e91bc29
   letterboxd_rating: 4.3
+  genres:
+    - Thriller
+    - Action
+    - Science Fiction
 
 - id: predator
   tmdb_id: 106
@@ -45,6 +53,11 @@
   letterboxd_slug: predator
   poster_url: https://a.ltrbxd.com/resized/sm/upload/qs/kc/25/pb/predator-1200-1200-675-675-crop-000000.jpg?v=ecd51f5ebd
   letterboxd_rating: 3.78
+  genres:
+    - Thriller
+    - Adventure
+    - Science Fiction
+    - Action
 
 - id: total-recall
   tmdb_id: 861
@@ -62,6 +75,10 @@
   letterboxd_slug: total-recall
   poster_url: https://a.ltrbxd.com/resized/sm/upload/w3/ry/fn/kt/total-recall-1200-1200-675-675-crop-000000.jpg?v=301a6b7ab4
   letterboxd_rating: 3.82
+  genres:
+    - Action
+    - Adventure
+    - Science Fiction
 
 - id: true-lies
   tmdb_id: 36955
@@ -74,3 +91,6 @@
   letterboxd_slug: true-lies
   poster_url: https://a.ltrbxd.com/resized/sm/upload/rc/fz/x0/4j/true-lies-1200-1200-675-675-crop-000000.jpg?v=25d87bb82f
   letterboxd_rating: 3.6
+  genres:
+    - Thriller
+    - Action

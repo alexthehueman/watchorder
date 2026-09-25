@@ -13,6 +13,8 @@
   letterboxd_slug: dracula
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ak/qd/te/1w/dracula-1200-1200-675-675-crop-000000.jpg?v=bccff28bbd
   letterboxd_rating: 3.56
+  genres:
+    - Horror
 
 - id: white-zombie
   tmdb_id: 26860
@@ -30,6 +32,8 @@
   letterboxd_slug: white-zombie
   poster_url: https://a.ltrbxd.com/resized/sm/upload/of/xb/mp/dp/wX17Hu8yXrYbjp6RRPHdtA2zXuz-1200-1200-675-675-crop-000000.jpg?v=8216cfb9a8
   letterboxd_rating: 3.13
+  genres:
+    - Horror
 
 - id: son-of-frankenstein
   tmdb_id: 3077
@@ -42,3 +46,6 @@
   letterboxd_slug: son-of-frankenstein
   poster_url: https://a.ltrbxd.com/resized/sm/upload/sv/n5/8u/f4/fk4fUMgHEH2qBFNvWQiiLyoRms5-1200-1200-675-675-crop-000000.jpg?v=a3b79de198
   letterboxd_rating: 3.44
+  genres:
+    - Science Fiction
+    - Horror

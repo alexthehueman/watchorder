@@ -21,6 +21,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BN2ZmMzNmZTMtYzc2NC00YjQ3LThmNDYtZjQyNWQ0NTNkMWFhXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: lady-macbeth
   letterboxd_rating: 3.43
+  genres:
+    - Drama
 
 - id: fighting-with-my-family
   tmdb_id: 445629
@@ -34,6 +36,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYjliMDY3N2YtOTI2NS00MjQ0LWFjOGItMjQ1MzYyZGVlMDJiXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: fighting-with-my-family
   letterboxd_rating: 3.38
+  genres:
+    - Comedy
 
 - id: black-widow
   tmdb_id: 497698
@@ -47,6 +51,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZTMyZTA0ZTItYjY3Yi00ODNjLWExYTgtYzgxZTk0NTg0Y2FlXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg
   letterboxd_slug: black-widow-2021
   letterboxd_rating: 2.97
+  genres:
+    - Action
+    - Adventure
+    - Science Fiction
 
 - id: dont-worry-darling
   tmdb_id: null
@@ -74,3 +82,5 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTJmYWM4ZjUtYzI5NC00MTM3LWI4YTUtYmE4ODAyOGYzNjlkXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: a-good-person-2023
   letterboxd_rating: 3.49
+  genres:
+    - Drama

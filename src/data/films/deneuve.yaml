@@ -26,6 +26,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNmY3NWE5YWYtMGFkNC00Y2JhLWI5MTYtMTA0OWE5NjZlNGY4XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-umbrellas-of-cherbourg
   letterboxd_rating: 4.15
+  genres:
+    - Romance
+    - Drama
 
 - id: repulsion
   tmdb_id: 11481
@@ -44,6 +47,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BOTE0YzBjNWEtZTE4NC00ZmM5LTllZmUtZGYwOGFlYWVjOGU2XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: repulsion
   letterboxd_rating: 3.91
+  genres:
+    - Horror
+    - Drama
+    - Thriller
 
 - id: donkey-skin
   tmdb_id: 5590
@@ -57,6 +64,11 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZDg5ZmFiNGMtNzc3NS00NzBlLWJhNTYtODRjMjNmZjhmZTIzXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: donkey-skin
   letterboxd_rating: 4
+  genres:
+    - Fantasy
+    - Romance
+    - Comedy
+    - Music
 
 - id: indochine
   tmdb_id: 2731
@@ -70,6 +82,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjAxZWMyYTktMmU1Yi00ODJiLWJmMDctYmQ3ODk5MDA0MGJkXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: indochine
   letterboxd_rating: 3.41
+  genres:
+    - Romance
+    - Drama
 
 - id: dancer-in-the-dark
   tmdb_id: 16
@@ -88,6 +103,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMDg3NWFlYWEtZjQ3Ny00Y2ZjLWI3ZWYtN2ZmMDA4MThkZTg2XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: dancer-in-the-dark
   letterboxd_rating: 4.22
+  genres:
+    - Drama
+    - Crime
 
 - id: the-hunger
   tmdb_id: 11654
@@ -101,3 +119,6 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BOTAyNmQ3N2MtOWZlOS00Mjg1LWJhY2EtNmMzOTgyODg2NjM5XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-hunger
   letterboxd_rating: 3.6
+  genres:
+    - Drama
+    - Horror

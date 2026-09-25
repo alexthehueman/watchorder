@@ -12,6 +12,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNDk3NTEwNjc0MV5BMl5BanBnXkFtZTgwNzYxNTMwMzI@._V1_SX300.jpg
   letterboxd_slug: call-me-by-your-name
   letterboxd_rating: 3.85
+  genres:
+    - Romance
+    - Drama
 
 - id: lady-bird
   tmdb_id: 391713
@@ -25,6 +28,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNjk5MzcyOWQtNzE1Mi00NzdmLTlkM2QtOTdjZThhMDc2Y2NjXkEyXkFqcGc@._V1_QL75_UY562_CR0,0,380,562_.jpg
   letterboxd_slug: lady-bird
   letterboxd_rating: 3.81
+  genres:
+    - Comedy
+    - Drama
 
 - id: beautiful-boy
   tmdb_id: 451915
@@ -38,6 +44,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNTRhNjg3NGMtMDM3Mi00ZmRmLTg0ZDMtYTBhMThiN2YxMTdjXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: beautiful-boy-2018
   letterboxd_rating: 4.09
+  genres:
+    - Drama
 
 - id: bones-and-all
   tmdb_id: 791177
@@ -56,6 +64,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYjUzMWU0ZTEtMjlhYy00YWEwLTlhOTktNzNkMTlhNGNiYmRlXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: bones-and-all
   letterboxd_rating: 3.77
+  genres:
+    - Horror
+    - Drama
+    - Romance
 
 - id: little-women-2019
   tmdb_id: 331482
@@ -69,6 +81,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMWMzYjNiZWMtMDg4NS00MDgyLTk5MWItOTFmNjg4NzRhZmExXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg
   letterboxd_slug: little-women-2019
   letterboxd_rating: 4.19
+  genres:
+    - Drama
+    - Romance
 
 - id: dune-2021
   tmdb_id: 438631
@@ -86,6 +101,9 @@
   letterboxd_slug: dune-2021
   poster_url: https://a.ltrbxd.com/resized/sm/upload/a6/8b/5j/zk/dune-2021a-1200-1200-675-675-crop-000000.jpg?v=7422445327
   letterboxd_rating: 3.89
+  genres:
+    - Science Fiction
+    - Adventure
 
 - id: wonka
   tmdb_id: 787699
@@ -99,6 +117,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BM2Y1N2ZhNjctYjVhZC00MDg2LWFhNTItMzI3ZjAwZDhjYmFiXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: wonka
   letterboxd_rating: 3.15
+  genres:
+    - Fantasy
+    - Family
+    - Comedy
 
 - id: the-french-dispatch
   tmdb_id: null

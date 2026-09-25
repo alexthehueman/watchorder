@@ -14,6 +14,10 @@
   letterboxd_slug: dirty-dancing
   poster_url: https://a.ltrbxd.com/resized/sm/upload/do/6u/y1/8c/dirty-dancing-1200-1200-675-675-crop-000000.jpg?v=de0e159291
   letterboxd_rating: 3.78
+  genres:
+    - Music
+    - Drama
+    - Romance
 
 - id: road-house
   tmdb_id: 10135
@@ -26,3 +30,6 @@
   letterboxd_slug: road-house
   poster_url: https://a.ltrbxd.com/resized/sm/upload/wd/1y/jf/69/road-house-1200-1200-675-675-crop-000000.jpg?v=77f2880627
   letterboxd_rating: 3.44
+  genres:
+    - Action
+    - Thriller

@@ -26,6 +26,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTYxNzE3NjAwMl5BMl5BanBnXkFtZTcwODkxOTI0Mg@@._V1_SX300.jpg
   letterboxd_slug: away-we-go
   letterboxd_rating: 3.47
+  genres:
+    - Comedy
+    - Romance
+    - Drama
 
 - id: license-to-wed
   tmdb_id: 2959
@@ -39,6 +43,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTI5MTM2MjQ5NV5BMl5BanBnXkFtZTcwOTc3MDc0MQ@@._V1_SX300.jpg
   letterboxd_slug: license-to-wed
   letterboxd_rating: 2.46
+  genres:
+    - Comedy
 
 - id: a-quiet-place-part-ii
   tmdb_id: 520763
@@ -57,6 +63,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNjRiYjk4ZmItNGQ5NS00MmRhLTk4Y2EtMGQ1MTYxZWJhYjU0XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: a-quiet-place-part-ii
   letterboxd_rating: 3.41
+  genres:
+    - Science Fiction
+    - Horror
+    - Thriller
 
 - id: leatherheads
   tmdb_id: 4942
@@ -70,3 +80,7 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjU1OTEyMzQxNV5BMl5BanBnXkFtZTcwMDU3NTg1MQ@@._V1_SX300.jpg
   letterboxd_slug: leatherheads
   letterboxd_rating: 2.8
+  genres:
+    - Comedy
+    - Drama
+    - Romance

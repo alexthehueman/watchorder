@@ -15,6 +15,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjE1MzU1Mjg1OF5BMl5BanBnXkFtZTcwNDc3NDQ2Mw@@._V1_SX300.jpg
   letterboxd_slug: easy-a
   letterboxd_rating: 3.44
+  genres:
+    - Comedy
 
 - id: la-la-land
   tmdb_id: 313369
@@ -33,6 +35,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMzUzNDM2NzM2MV5BMl5BanBnXkFtZTgwNTM3NTg4OTE@._V1_QL75_UX380_CR0,0,380,562_.jpg
   letterboxd_slug: la-la-land
   letterboxd_rating: 4.13
+  genres:
+    - Drama
+    - Comedy
+    - Romance
 
 - id: poor-things
   tmdb_id: 792307
@@ -51,6 +57,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYWU2MjRjZTYtMjVkMS00MTBjLWFiMTAtYmZlYTk1YjkyMWFkXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg
   letterboxd_slug: poor-things-2023
   letterboxd_rating: 3.91
+  genres:
+    - Romance
+    - Science Fiction
+    - Comedy
 
 - id: cruella
   tmdb_id: 337404
@@ -64,3 +74,7 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMWY5MjljNjctZjhjZS00MWY0LTgwYzUtZTJiYTVmMmJkM2E0XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: cruella
   letterboxd_rating: 3.56
+  genres:
+    - Comedy
+    - Crime
+    - Family

@@ -15,6 +15,10 @@
   letterboxd_slug: jurassic-world
   poster_url: https://a.ltrbxd.com/resized/sm/upload/7c/u4/4v/r2/jurassic-world-1200-1200-675-675-crop-000000.jpg?v=a5f905ad8a
   letterboxd_rating: 3.21
+  genres:
+    - Adventure
+    - Thriller
+    - Science Fiction
 
 - id: the-lego-movie
   tmdb_id: 137106
@@ -27,6 +31,12 @@
   letterboxd_slug: the-lego-movie
   poster_url: https://a.ltrbxd.com/resized/alternative-backdrop/1/0/5/1/8/8/tmdb/d4zaHEoI1yrpeQxBkulo8H9FEQP-1200-1200-675-675-crop-000000.jpg?v=500c7e755c
   letterboxd_rating: 3.87
+  genres:
+    - Family
+    - Fantasy
+    - Comedy
+    - Animation
+    - Adventure
 
 - id: passengers
   tmdb_id: 274870
@@ -44,6 +54,10 @@
   letterboxd_slug: passengers-2016
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ki/g0/gy/nw/passengers-2016-1200-1200-675-675-crop-000000.jpg?v=b2a065e080
   letterboxd_rating: 2.93
+  genres:
+    - Drama
+    - Science Fiction
+    - Romance
 
 - id: the-tomorrow-war
   tmdb_id: 588228
@@ -61,6 +75,10 @@
   letterboxd_slug: the-tomorrow-war
   poster_url: https://a.ltrbxd.com/resized/sm/upload/2c/z3/5v/fh/the-tomorrow-war-1200-1200-675-675-crop-000000.jpg?v=b9601ff6fc
   letterboxd_rating: 2.77
+  genres:
+    - Adventure
+    - Science Fiction
+    - Action
 
 - id: the-magnificent-seven
   tmdb_id: 333484
@@ -73,3 +91,7 @@
   letterboxd_slug: the-magnificent-seven-2016
   poster_url: https://a.ltrbxd.com/resized/sm/upload/u5/9q/vo/8d/the-magnificent-seven-2016-1200-1200-675-675-crop-000000.jpg?v=754976e681
   letterboxd_rating: 3.21
+  genres:
+    - Western
+    - Action
+    - Adventure

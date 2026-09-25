@@ -19,6 +19,10 @@
   letterboxd_slug: school-of-rock
   poster_url: https://a.ltrbxd.com/resized/sm/upload/vf/yb/9d/an/school-of-rock-1200-1200-675-675-crop-000000.jpg?v=eccf413ad4
   letterboxd_rating: 3.8
+  genres:
+    - Music
+    - Family
+    - Comedy
 
 - id: high-fidelity
   tmdb_id: 243
@@ -36,6 +40,11 @@
   letterboxd_slug: high-fidelity
   poster_url: https://a.ltrbxd.com/resized/sm/upload/1d/zp/xd/8l/high-fidelity-1200-1200-675-675-crop-000000.jpg?v=ef4b42ecbc
   letterboxd_rating: 3.59
+  genres:
+    - Drama
+    - Music
+    - Comedy
+    - Romance
 
 - id: kung-fu-panda
   tmdb_id: 9502
@@ -53,6 +62,11 @@
   letterboxd_slug: kung-fu-panda
   poster_url: https://a.ltrbxd.com/resized/sm/upload/q8/hk/5s/lu/kung-fu-panda-110-1200-1200-675-675-crop-000000.jpg?v=8d62e7df56
   letterboxd_rating: 3.94
+  genres:
+    - Comedy
+    - Family
+    - Animation
+    - Action
 
 - id: nacho-libre
   tmdb_id: 9353
@@ -70,6 +84,10 @@
   letterboxd_slug: nacho-libre
   poster_url: https://a.ltrbxd.com/resized/sm/upload/wt/lx/lv/7c/nacho-libre-1200-1200-675-675-crop-000000.jpg?v=5fcf5dd390
   letterboxd_rating: 3.45
+  genres:
+    - Family
+    - Action
+    - Comedy
 
 - id: bernie
   tmdb_id: 92591
@@ -87,6 +105,10 @@
   letterboxd_slug: bernie-2011
   poster_url: https://a.ltrbxd.com/resized/sm/upload/sy/1u/10/20/bernie-2011-1200-1200-675-675-crop-000000.jpg?v=9f6e3b8350
   letterboxd_rating: 3.51
+  genres:
+    - Comedy
+    - Drama
+    - Crime
 
 - id: margot-at-the-wedding
   tmdb_id: 13998
@@ -104,6 +126,9 @@
   letterboxd_slug: margot-at-the-wedding
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ho/hs/2l/89/margot-at-the-wedding-1200-1200-675-675-crop-000000.jpg?v=f43e832414
   letterboxd_rating: 3.22
+  genres:
+    - Drama
+    - Comedy
 
 - id: shallow-hal
   tmdb_id: 9889
@@ -121,3 +146,8 @@
   letterboxd_slug: shallow-hal
   poster_url: https://a.ltrbxd.com/resized/sm/upload/7q/ed/no/kc/shallow-hal-1200-1200-675-675-crop-000000.jpg?v=47e8c1c453
   letterboxd_rating: 2.6
+  genres:
+    - Drama
+    - Romance
+    - Fantasy
+    - Comedy

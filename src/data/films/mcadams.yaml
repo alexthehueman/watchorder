@@ -15,6 +15,9 @@
   letterboxd_slug: wedding-crashers
   poster_url: https://a.ltrbxd.com/resized/sm/upload/gi/zl/fc/nv/wedding-crashers-1200-1200-675-675-crop-000000.jpg?v=ae09e481ee
   letterboxd_rating: 3.2
+  genres:
+    - Comedy
+    - Romance
 
 - id: mean-girls
   tmdb_id: 10625
@@ -27,3 +30,6 @@
   letterboxd_slug: mean-girls
   poster_url: https://a.ltrbxd.com/resized/sm/upload/zc/lk/pq/6u/mean-girls-1200-1200-675-675-crop-000000.jpg?v=25c224eb18
   letterboxd_rating: 3.81
+  genres:
+    - Comedy
+    - Drama

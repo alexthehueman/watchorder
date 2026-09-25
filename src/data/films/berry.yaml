@@ -11,6 +11,9 @@
   letterboxd_slug: monsters-ball
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ay/hb/yk/hc/monsters-ball-1200-1200-675-675-crop-000000.jpg?v=488caf2ab6
   letterboxd_rating: 3.29
+  genres:
+    - Drama
+    - Romance
 
 - id: x-men
   tmdb_id: 36657
@@ -23,6 +26,10 @@
   letterboxd_slug: x-men
   poster_url: https://a.ltrbxd.com/resized/sm/upload/3d/x6/ff/na/x-men-1200-1200-675-675-crop-000000.jpg?v=b6a9d748d7
   letterboxd_rating: 3.35
+  genres:
+    - Science Fiction
+    - Action
+    - Adventure
 
 - id: die-another-day
   tmdb_id: 36669
@@ -35,6 +42,10 @@
   letterboxd_slug: die-another-day
   poster_url: https://a.ltrbxd.com/resized/sm/upload/g7/4y/r4/n0/die-another-day-1200-1200-675-675-crop-000000.jpg?v=1f6924c2ae
   letterboxd_rating: 2.59
+  genres:
+    - Adventure
+    - Action
+    - Thriller
 
 - id: catwoman
   tmdb_id: 314
@@ -47,6 +58,10 @@
   letterboxd_slug: catwoman
   poster_url: https://a.ltrbxd.com/resized/sm/upload/6s/uc/7o/76/catwoman-1200-1200-675-675-crop-000000.jpg?v=5de7d4ea31
   letterboxd_rating: 1.72
+  genres:
+    - Fantasy
+    - Crime
+    - Action
 
 - id: frankie-and-alice
   tmdb_id: null
@@ -73,6 +88,8 @@
   letterboxd_slug: losing-isaiah
   poster_url: https://a.ltrbxd.com/resized/sm/upload/p4/0d/wr/y5/losing%20is-1200-1200-675-675-crop-000000.jpg?v=f7d50b30a3
   letterboxd_rating: 3.15
+  genres:
+    - Drama
 
 - id: boomerang
   tmdb_id: 11066
@@ -85,6 +102,9 @@
   letterboxd_slug: boomerang-1992
   poster_url: https://a.ltrbxd.com/resized/sm/upload/bn/nl/ym/e4/rNulkgxFcmlgre3G8S7ABegzPVm-1200-1200-675-675-crop-000000.jpg?v=ffad399c35
   letterboxd_rating: 3.05
+  genres:
+    - Comedy
+    - Romance
 
 - id: gothika
   tmdb_id: 4970
@@ -102,6 +122,10 @@
   letterboxd_slug: gothika
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ee/nk/pm/og/gothika-1200-1200-675-675-crop-000000.jpg?v=d48f07ba5e
   letterboxd_rating: 2.81
+  genres:
+    - Mystery
+    - Thriller
+    - Horror
 
 - id: the-call
   tmdb_id: 158011
@@ -119,3 +143,6 @@
   letterboxd_slug: the-call-2013
   poster_url: https://a.ltrbxd.com/resized/sm/upload/9k/4o/mr/nq/the-call-1200-1200-675-675-crop-000000.jpg?v=ddf6d1a634
   letterboxd_rating: 3.19
+  genres:
+    - Crime
+    - Thriller

@@ -20,6 +20,10 @@
   letterboxd_slug: bob-le-flambeur
   poster_url: https://a.ltrbxd.com/resized/sm/upload/is/vz/6l/9v/bob-le-flambeur-1200-1200-675-675-crop-000000.jpg?v=343b569b74
   letterboxd_rating: 3.79
+  genres:
+    - Action
+    - Drama
+    - Crime
 
 - id: army-of-shadows
   tmdb_id: 15383
@@ -37,3 +41,7 @@
   letterboxd_slug: army-of-shadows
   poster_url: https://a.ltrbxd.com/resized/sm/upload/l7/ei/8m/i5/army-1200-1200-675-675-crop-000000.jpg?v=d93263079c
   letterboxd_rating: 4.35
+  genres:
+    - History
+    - War
+    - Drama

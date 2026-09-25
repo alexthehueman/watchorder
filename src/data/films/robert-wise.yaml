@@ -16,6 +16,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNDJkMWM5ZTEtNDJiZi00OWU2LWEwYzAtZGMzMzc1N2YzMGJjXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-body-snatcher
   letterboxd_rating: 3.61
+  genres:
+    - Horror
+    - Thriller
 
 - id: odds-against-tomorrow
   tmdb_id: 26983
@@ -34,6 +37,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BOGRiNGRhYWItOTEzZi00MDk2LWFmZGEtNWQ3ODYyYWE1ZDFjXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: odds-against-tomorrow
   letterboxd_rating: 3.77
+  genres:
+    - Thriller
+    - Drama
+    - Crime
 
 - id: west-side-story-1961
   tmdb_id: 1725
@@ -47,6 +54,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTM0NDAxOTI5MF5BMl5BanBnXkFtZTcwNjI4Mjg3NA@@._V1_SX300.jpg
   letterboxd_slug: west-side-story
   letterboxd_rating: 3.85
+  genres:
+    - Romance
+    - Drama
+    - Crime
 
 - id: the-haunting
   tmdb_id: 11772
@@ -65,6 +76,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTU0MTkzMDI0MV5BMl5BanBnXkFtZTgwODI5NTAxNzE@._V1_SX300.jpg
   letterboxd_slug: the-haunting
   letterboxd_rating: 3.78
+  genres:
+    - Horror
 
 - id: the-sound-of-music
   tmdb_id: 15121
@@ -78,6 +91,11 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYWJhYmU4MjQtZDJhYi00ZGVjLTlkNTEtNzkzNGVjOWQ3MjcwXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-sound-of-music
   letterboxd_rating: 4.26
+  genres:
+    - Drama
+    - Music
+    - Romance
+    - Family
 
 - id: star-trek-the-motion-picture
   tmdb_id: 152
@@ -91,3 +109,7 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNjcyMmVmMTItNTA3Yy00NGJjLTlmYjQtZWQ3ZjcyNmU5NDQ2XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: star-trek-the-motion-picture
   letterboxd_rating: 3.22
+  genres:
+    - Mystery
+    - Science Fiction
+    - Adventure

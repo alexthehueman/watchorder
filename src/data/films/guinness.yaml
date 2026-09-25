@@ -20,6 +20,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BOTFjNzIyYTYtMjVjOS00NzQ2LWIyMTUtMzlhNGIwZDU1MTdiXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: great-expectations
   letterboxd_rating: 3.79
+  genres:
+    - Romance
+    - Drama
 
 - id: oliver-twist-1948
   tmdb_id: 10949
@@ -33,6 +36,11 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjU3NTI1Y2MtZmM5YS00NmQ0LWIyMTQtYTJmMjNkZWIyYjIyXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: oliver-twist-1948
   letterboxd_rating: 3.76
+  genres:
+    - Crime
+    - Adventure
+    - Drama
+    - Comedy
 
 - id: kind-hearts-and-coronets
   tmdb_id: 11898
@@ -51,6 +59,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYjhjOTZmY2QtNDcyYS00Y2ViLTg3NTMtYTUyNjhlMGIwNmZlXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: kind-hearts-and-coronets
   letterboxd_rating: 4.06
+  genres:
+    - Comedy
+    - Crime
 
 - id: the-lavender-hill-mob
   tmdb_id: 32961
@@ -64,6 +75,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYjhmZDlhODgtOWE2OS00NDQyLThmYmItMTZjMGYwODYxNDcxXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-lavender-hill-mob
   letterboxd_rating: 3.75
+  genres:
+    - Crime
+    - Comedy
 
 - id: the-man-in-the-white-suit
   tmdb_id: 32568
@@ -77,6 +91,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTUxNTIzNzY4OV5BMl5BanBnXkFtZTgwODExMTI0NDE@._V1_SX300.jpg
   letterboxd_slug: the-man-in-the-white-suit
   letterboxd_rating: 3.65
+  genres:
+    - Science Fiction
+    - Comedy
 
 - id: the-ladykillers
   tmdb_id: 5506
@@ -95,6 +112,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjlhZWM3MjktYTIwZS00YTVmLTljZDYtZWYwYjFiOTc5NDMzXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-ladykillers
   letterboxd_rating: 3.8
+  genres:
+    - Comedy
+    - Crime
 
 - id: the-bridge-on-the-river-kwai
   tmdb_id: 826
@@ -113,6 +133,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNzdkYmU2YmItNmZiYy00OWQyLTg0YWYtZmUxM2U3YTRiNTQ1XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-bridge-on-the-river-kwai
   letterboxd_rating: 4.25
+  genres:
+    - War
+    - History
+    - Drama
 
 - id: tunes-of-glory
   tmdb_id: 43048
@@ -126,6 +150,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BM2FhMmI4ZTEtYmNhNC00YzIzLTg0ODMtNWJkM2FlMTY0ZGY1XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: tunes-of-glory
   letterboxd_rating: 3.72
+  genres:
+    - Drama
 
 - id: star-wars
   tmdb_id: 11
@@ -138,6 +164,10 @@
   letterboxd_slug: star-wars
   poster_url: https://a.ltrbxd.com/resized/sm/upload/xo/ln/nr/0o/star-wars-70-1200-1200-675-675-crop-000000.jpg?v=766b26c149
   letterboxd_rating: 4.16
+  genres:
+    - Adventure
+    - Science Fiction
+    - Action
 
 - id: tinker-tailor-soldier-spy-1979
   tmdb_id: null
@@ -158,3 +188,6 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYTVjMTBmMGEtYjYwMy00YzhkLThmMGMtNDgyMWNmOWRiMzExXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: tinker-tailor-soldier-spy-1979
   letterboxd_rating: 4.18
+  genres:
+    - Drama
+    - Mystery

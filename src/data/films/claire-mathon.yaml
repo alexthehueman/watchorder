@@ -17,6 +17,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: atlantics-2019
   poster_url: https://a.ltrbxd.com/resized/sm/upload/2l/dr/f4/sx/atlantics-1200-1200-675-675-crop-000000.jpg?v=41c4b49dca
+  genres:
+    - Fantasy
+    - Romance
+    - Drama
 
 - id: stranger-by-the-lake
   tmdb_id: 186992
@@ -33,3 +37,6 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 3 }
   letterboxd_slug: stranger-by-the-lake
   poster_url: https://a.ltrbxd.com/resized/sm/upload/wo/b9/vc/7d/stranger-by-the-lake-1200-1200-675-675-crop-000000.jpg?v=91f6480e58
+  genres:
+    - Thriller
+    - Drama

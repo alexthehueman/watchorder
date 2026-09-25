@@ -18,6 +18,8 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
   letterboxd_slug: pariah
   poster_url: https://a.ltrbxd.com/resized/sm/upload/6y/9f/tw/fa/pariah-1200-1200-675-675-crop-000000.jpg?v=5e644b0833
+  genres:
+    - Drama
 
 - id: solo-a-star-wars-story
   tmdb_id: 348350
@@ -29,3 +31,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: solo-a-star-wars-story
   poster_url: https://a.ltrbxd.com/resized/sm/upload/2o/j6/ru/u9/solo-star-wars-story-1200-1200-675-675-crop-000000.jpg?v=597962488b
+  genres:
+    - Science Fiction
+    - Adventure
+    - Action

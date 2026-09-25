@@ -16,6 +16,10 @@
   letterboxd_slug: crazy-heart
   poster_url: https://a.ltrbxd.com/resized/sm/upload/fm/xm/2f/2z/a1mmbW5rC1BgnEtH2J7hkdczT0K-1200-1200-675-675-crop-000000.jpg?v=47b5483e16
   letterboxd_rating: 3.57
+  genres:
+    - Music
+    - Drama
+    - Romance
 
 - id: the-fisher-king
   tmdb_id: 177
@@ -33,6 +37,9 @@
   letterboxd_slug: the-fisher-king
   poster_url: https://a.ltrbxd.com/resized/sm/upload/lu/hl/lr/q4/the-fisher-king-1200-1200-675-675-crop-000000.jpg?v=cd0d11d5f0
   letterboxd_rating: 3.9
+  genres:
+    - Drama
+    - Comedy
 
 - id: hell-or-high-water
   tmdb_id: 338766
@@ -45,6 +52,10 @@
   letterboxd_slug: hell-or-high-water
   poster_url: https://a.ltrbxd.com/resized/sm/upload/04/pi/k0/46/hell-or-high-water-1200-1200-675-675-crop-000000.jpg?v=52d7045667
   letterboxd_rating: 3.93
+  genres:
+    - Crime
+    - Western
+    - Drama
 
 - id: tron
   tmdb_id: 97
@@ -57,3 +68,7 @@
   letterboxd_slug: tron
   poster_url: https://a.ltrbxd.com/resized/sm/upload/o6/mh/mw/mq/BC1B0C13-2050-49F6-8B3E-9316562D1F0A-1200-1200-675-675-crop-000000.jpg?v=8a1f5035e1
   letterboxd_rating: 3.1
+  genres:
+    - Adventure
+    - Action
+    - Science Fiction

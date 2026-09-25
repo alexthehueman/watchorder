@@ -14,6 +14,11 @@
   letterboxd_slug: mystic-river
   poster_url: https://a.ltrbxd.com/resized/sm/upload/1s/t0/ls/g6/mystic-river-1200-1200-675-675-crop-000000.jpg?v=2355d74a3a
   letterboxd_rating: 3.87
+  genres:
+    - Mystery
+    - Drama
+    - Thriller
+    - Crime
 
 - id: milk
   tmdb_id: 10139
@@ -26,6 +31,9 @@
   letterboxd_slug: milk-2008
   poster_url: https://a.ltrbxd.com/resized/sm/upload/4k/vx/lz/5w/milk-1200-1200-675-675-crop-000000.jpg?v=c3bd0d93b3
   letterboxd_rating: 3.79
+  genres:
+    - Drama
+    - History
 
 - id: fast-times-at-ridgemont-high
   tmdb_id: 13342
@@ -38,6 +46,10 @@
   letterboxd_slug: fast-times-at-ridgemont-high
   poster_url: https://a.ltrbxd.com/resized/sm/upload/xi/61/4e/zi/fast-times-at-ridgemont-high-1200-1200-675-675-crop-000000.jpg?v=b54ebd306a
   letterboxd_rating: 3.47
+  genres:
+    - Drama
+    - Romance
+    - Comedy
 
 - id: i-am-sam
   tmdb_id: 10950
@@ -50,3 +62,5 @@
   letterboxd_slug: i-am-sam
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ah/r6/cf/xp/i-am-sam-1200-1200-675-675-crop-000000.jpg?v=6fba7f978c
   letterboxd_rating: 3.54
+  genres:
+    - Drama

@@ -11,6 +11,9 @@
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: shadows-of-forgotten-ancestors
   poster_url: https://a.ltrbxd.com/resized/sm/upload/he/g5/af/0e/shadows-1200-1200-675-675-crop-000000.jpg?v=103b599494
+  genres:
+    - Drama
+    - Romance
 
 - id: the-color-of-pomegranates
   tmdb_id: 40376
@@ -27,6 +30,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: the-color-of-pomegranates
   poster_url: https://a.ltrbxd.com/resized/sm/upload/kq/7d/as/nu/the-color-of-pomegranates-1200-1200-675-675-crop-000000.jpg?v=aa00f006dc
+  genres:
+    - Drama
+    - History
 
 - id: the-legend-of-suram-fortress
   tmdb_id: 40377
@@ -47,3 +53,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: ashik-kerib
   poster_url: https://a.ltrbxd.com/resized/sm/upload/7r/fd/sb/qr/ashik-1200-1200-675-675-crop-000000.jpg?v=834cb314d6
+  genres:
+    - Drama
+    - History
+    - Fantasy

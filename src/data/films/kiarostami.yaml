@@ -17,6 +17,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMDFhMDg2NTEtMTgxMi00YmRjLWEyNGEtYmVmYjQ0ZmQxOGNkXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: where-is-the-friends-house
   letterboxd_rating: 4.36
+  genres:
+    - Drama
+    - Adventure
 
 - id: close-up
   tmdb_id: 30017
@@ -35,6 +38,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BOTNlNWFiNTAtZTMxYS00NzgxLTlmOGYtZjY4NWVlNDlmZDJlXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: close-up
   letterboxd_rating: 4.4
+  genres:
+    - Crime
+    - Drama
 
 - id: taste-of-cherry
   tmdb_id: 30020
@@ -53,6 +59,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZWExZjliYTgtM2U2Yi00MTU5LWFmOTAtNThkZDE1MzMxYWU2XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: taste-of-cherry
   letterboxd_rating: 4.32
+  genres:
+    - Drama
 
 - id: ten
   tmdb_id: 14633
@@ -71,3 +79,5 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjViYjgyMDEtNGJkOC00NjY4LTk5MDItM2FjYTA0MDQ5M2IzXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: ten-2002
   letterboxd_rating: 3.85
+  genres:
+    - Drama

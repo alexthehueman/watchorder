@@ -19,6 +19,9 @@
   letterboxd_slug: the-third-man
   poster_url: https://a.ltrbxd.com/resized/sm/upload/o3/gz/sr/4b/4p0SUm1gvGcHskHHjMadt1TlIVi-1200-1200-675-675-crop-000000.jpg?v=0aeadce9fb
   letterboxd_rating: 4.24
+  genres:
+    - Thriller
+    - Mystery
 
 - id: portrait-of-jennie
   tmdb_id: 32558
@@ -36,3 +39,8 @@
   letterboxd_slug: portrait-of-jennie
   poster_url: https://a.ltrbxd.com/resized/sm/upload/54/j8/qa/ju/portrait-of-jennie-1200-1200-675-675-crop-000000.jpg?v=fa0c51d685
   letterboxd_rating: 3.81
+  genres:
+    - Drama
+    - Romance
+    - Fantasy
+    - Mystery

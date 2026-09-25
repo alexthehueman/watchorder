@@ -22,6 +22,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMmJjN2JkZTQtN2FkNi00MTQyLThlMjEtZTY5ZDc2ZjcwNjQ2XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: red-sorghum
   letterboxd_rating: 3.77
+  genres:
+    - History
+    - Drama
+    - Romance
 
 - id: ju-dou
   tmdb_id: 41821
@@ -40,6 +44,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjY0NTdlZmUtM2M4MS00YjcwLThlMDMtZjg1MmZkOTJiMmY3XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: ju-dou
   letterboxd_rating: 3.82
+  genres:
+    - Drama
 
 - id: raise-the-red-lantern
   tmdb_id: 10404
@@ -58,6 +64,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZjZlMThlZTktOGYxNS00NjY0LWFkMzAtMjNiOTYxYjYxZWFmXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: raise-the-red-lantern
   letterboxd_rating: 4.34
+  genres:
+    - Drama
 
 - id: the-story-of-qiu-ju
   tmdb_id: 38143
@@ -71,6 +79,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZjU4M2FlNDItNjhkNC00ODRlLTk3Y2EtYzU2MGY4Nzk2YTlmXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-story-of-qiu-ju
   letterboxd_rating: 3.8
+  genres:
+    - Comedy
+    - Drama
 
 - id: farewell-my-concubine
   tmdb_id: 10997
@@ -89,6 +100,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYjMzZjcwNzItNTYwZC00NzAxLWE3MmMtYmU3ZjdkMWMxNDMwXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: farewell-my-concubine
   letterboxd_rating: 4.41
+  genres:
+    - Drama
 
 - id: to-live
   tmdb_id: 31439
@@ -107,6 +120,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjZlNzNmMTktNzQzZC00YWI2LTkyMmYtMGYwZjhjNzA0MDU0XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: to-live
   letterboxd_rating: 4.23
+  genres:
+    - Romance
+    - War
+    - Drama
 
 - id: shanghai-triad
   tmdb_id: 37557
@@ -120,6 +137,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjExNzU2NDctYTQ4My00MmFkLTljN2UtN2MzYWQ1NTFiNDEyXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: shanghai-triad
   letterboxd_rating: 3.6
+  genres:
+    - Drama
+    - Crime
 
 - id: memoirs-of-a-geisha
   tmdb_id: 1904
@@ -133,6 +153,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTYxMzM4NTEzOV5BMl5BanBnXkFtZTcwNDMwNjQzMw@@._V1_SX300.jpg
   letterboxd_slug: memoirs-of-a-geisha
   letterboxd_rating: 3.56
+  genres:
+    - Romance
+    - History
+    - Drama
 
 - id: curse-of-the-golden-flower
   tmdb_id: 1494
@@ -151,6 +175,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTFhYWNkNzMtZGFiNy00MTcxLTlmNzMtMWNkODQ4N2MxZWFmXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: curse-of-the-golden-flower
   letterboxd_rating: 3.55
+  genres:
+    - Fantasy
+    - Drama
+    - Action
 
 # Added because stillness sat at 3 for eight of nine films — accurate to the measured, deliberate
 # Zhang Yimou run, but too uniform for the axis to move anything. Miami Vice is the honest
@@ -172,3 +200,7 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMWRiNDhjYTItMWMwNy00Mzk3LWFjNjktNzk3OWMwNWFjY2RhXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: miami-vice
   letterboxd_rating: 3.46
+  genres:
+    - Crime
+    - Thriller
+    - Action

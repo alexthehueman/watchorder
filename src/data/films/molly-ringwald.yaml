@@ -14,6 +14,9 @@
   letterboxd_slug: the-breakfast-club
   poster_url: https://a.ltrbxd.com/resized/sm/upload/6y/th/32/zi/breakfast-club-1200-1200-675-675-crop-000000.jpg?v=559613e82c
   letterboxd_rating: 3.77
+  genres:
+    - Drama
+    - Comedy
 
 - id: sixteen-candles
   tmdb_id: 15144
@@ -26,6 +29,9 @@
   letterboxd_slug: sixteen-candles
   poster_url: https://a.ltrbxd.com/resized/sm/upload/h7/l0/om/ok/sixteen-candles-1200-1200-675-675-crop-000000.jpg?v=b8d2ff8883
   letterboxd_rating: 3.04
+  genres:
+    - Romance
+    - Comedy
 
 - id: the-pick-up-artist
   tmdb_id: 17258
@@ -43,6 +49,10 @@
   letterboxd_slug: the-pick-up-artist
   poster_url: https://a.ltrbxd.com/resized/sm/upload/oo/13/jm/51/hrtbXaICE9O3j5CGnlow3AmIGdt-1200-1200-675-675-crop-000000.jpg?v=c531e3a0f5
   letterboxd_rating: 2.77
+  genres:
+    - Romance
+    - Crime
+    - Comedy
 
 - id: pretty-in-pink
   tmdb_id: 11522
@@ -60,3 +70,6 @@
   letterboxd_slug: pretty-in-pink
   poster_url: https://a.ltrbxd.com/resized/sm/upload/o7/4w/5a/b2/pretty-in-pink-1200-1200-675-675-crop-000000.jpg?v=4a3c699254
   letterboxd_rating: 3.32
+  genres:
+    - Romance
+    - Drama

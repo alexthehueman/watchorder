@@ -14,6 +14,9 @@
   letterboxd_slug: before-sunrise
   poster_url: https://a.ltrbxd.com/resized/sm/upload/jr/x9/lb/om/before-sunrise-1200-1200-675-675-crop-000000.jpg?v=7d4eb3b9e1
   letterboxd_rating: 4.29
+  genres:
+    - Romance
+    - Drama
 
 - id: first-reformed
   tmdb_id: 458737
@@ -31,6 +34,8 @@
   letterboxd_slug: first-reformed
   poster_url: https://a.ltrbxd.com/resized/sm/upload/7z/nb/kw/h1/first-reformed-1200-1200-675-675-crop-000000.jpg?v=7839d88e99
   letterboxd_rating: 4.03
+  genres:
+    - Drama
 
 - id: dead-poets-society
   tmdb_id: 207
@@ -43,6 +48,8 @@
   letterboxd_slug: dead-poets-society
   poster_url: https://a.ltrbxd.com/resized/sm/upload/6e/ah/fr/pn/dead-poets-society-1200-1200-675-675-crop-000000.jpg?v=f2a7da1105
   letterboxd_rating: 4.36
+  genres:
+    - Drama
 
 - id: boyhood
   tmdb_id: 85350
@@ -55,6 +62,8 @@
   letterboxd_slug: boyhood
   poster_url: https://a.ltrbxd.com/resized/sm/upload/fu/dy/lm/3p/boyhood-1200-1200-675-675-crop-000000.jpg?v=a3f7b01929
   letterboxd_rating: 3.83
+  genres:
+    - Drama
 
 - id: reality-bites
   tmdb_id: 2788
@@ -67,3 +76,7 @@
   letterboxd_slug: reality-bites
   poster_url: https://a.ltrbxd.com/resized/sm/upload/cv/sq/3a/3v/reality-bites-1200-1200-675-675-crop-000000.jpg?v=dadbcfc57f
   letterboxd_rating: 3.46
+  genres:
+    - Romance
+    - Comedy
+    - Drama

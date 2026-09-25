@@ -19,6 +19,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYjk1ZDJlMmUtOWQ0Zi00MDM5LTk1OGYtODczNjFmMGYwZGVkXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: citizen-kane
   letterboxd_rating: 4.19
+  genres:
+    - Drama
+    - Mystery
 
 - id: the-magnificent-ambersons
   tmdb_id: 965
@@ -32,6 +35,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYTk5OTYxNTEtYTU5MS00NTBkLThhZWEtYTBiYzlkOTFhY2MzXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-magnificent-ambersons
   letterboxd_rating: 3.88
+  genres:
+    - Drama
+    - Romance
 
 - id: the-lady-from-shanghai
   tmdb_id: 3766
@@ -50,6 +56,11 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMDBmYzI4MDUtN2FjZC00YmM0LWE4YmEtNTZkY2ZkZmUzZDU0XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-lady-from-shanghai
   letterboxd_rating: 3.86
+  genres:
+    - Crime
+    - Drama
+    - Thriller
+    - Mystery
 
 - id: macbeth-1948
   tmdb_id: 27883
@@ -63,6 +74,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYzY5MTk2NDAtZGIyYi00NWY5LTg5MDEtMWY0N2VkNTE5OWFjXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: macbeth
   letterboxd_rating: 3.74
+  genres:
+    - Drama
 
 - id: othello-1951
   tmdb_id: 47697
@@ -76,6 +89,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BOWM4MjQ3MGEtMGNmYS00NjJhLWFhMTUtOTg4N2Y3N2FjZjE5XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: othello-1951
   letterboxd_rating: 3.84
+  genres:
+    - Drama
 
 - id: mr-arkadin
   tmdb_id: 44026
@@ -93,6 +108,9 @@
   poster_url: https://a.ltrbxd.com/resized/sm/upload/0w/4q/ji/fr/mr-arkadin-1200-1200-675-675-crop-000000.jpg?v=daa657ad2e
   letterboxd_slug: mr-arkadin
   letterboxd_rating: 3.7
+  genres:
+    - Thriller
+    - Mystery
 
 - id: touch-of-evil
   tmdb_id: 1480
@@ -106,6 +124,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYzBkNTQzODUtNzcxMy00ZGNhLThmOWMtMTcyYzY4ZTU2NDM3XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: touch-of-evil
   letterboxd_rating: 4.17
+  genres:
+    - Thriller
+    - Drama
+    - Crime
 
 - id: the-trial
   tmdb_id: 3009
@@ -124,6 +146,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNmJmNDM5ZmYtODIwNS00YjM4LTlkYzktZTFjNTg3ODg0NDcwXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-trial
   letterboxd_rating: 4.05
+  genres:
+    - Mystery
+    - Crime
+    - Drama
 
 - id: chimes-at-midnight
   tmdb_id: 986
@@ -137,6 +163,11 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNzUyNTUyMTktM2U3Ny00NjE5LTk3NDktOTllNDRlNzMxYTIyXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: chimes-at-midnight
   letterboxd_rating: 4
+  genres:
+    - History
+    - Comedy
+    - Drama
+    - War
 
 - id: f-for-fake
   tmdb_id: 43003
@@ -150,6 +181,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BOGJjZjU1NWEtOWM2Zi00NjgxLTliYTUtYmJmNmI2ZThiZmMyXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: f-for-fake
   letterboxd_rating: 4.2
+  genres:
+    - Documentary
 
 - id: the-other-side-of-the-wind
   tmdb_id: 299782
@@ -168,3 +201,5 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNDg5NTQ0NDU1Nl5BMl5BanBnXkFtZTgwMTExNzIyNjM@._V1_SX300.jpg
   letterboxd_slug: the-other-side-of-the-wind
   letterboxd_rating: 3.7
+  genres:
+    - Drama

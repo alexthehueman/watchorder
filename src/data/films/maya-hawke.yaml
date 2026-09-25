@@ -19,6 +19,10 @@
   letterboxd_slug: do-revenge
   poster_url: https://a.ltrbxd.com/resized/sm/upload/i4/o9/ql/hv/do-revenge-1200-1200-675-675-crop-000000.jpg?v=90ece3e1e1
   letterboxd_rating: 3.04
+  genres:
+    - Thriller
+    - Comedy
+    - Romance
 
 - id: asteroid-city
   tmdb_id: 747188
@@ -31,6 +35,9 @@
   letterboxd_slug: asteroid-city
   poster_url: https://a.ltrbxd.com/resized/sm/upload/j4/pi/fy/cf/525FJ1YD28efjP5cI7V2gDro6Qc-1200-1200-675-675-crop-000000.jpg?v=c93e68da37
   letterboxd_rating: 3.47
+  genres:
+    - Drama
+    - Comedy
 
 - id: mainstream
   tmdb_id: 557950
@@ -48,3 +55,6 @@
   letterboxd_slug: mainstream-2020
   poster_url: https://a.ltrbxd.com/resized/sm/upload/yc/1e/ew/yr/mainstream-1200-1200-675-675-crop-000000.jpg?v=6b60ef2feb
   letterboxd_rating: 2.57
+  genres:
+    - Comedy
+    - Drama

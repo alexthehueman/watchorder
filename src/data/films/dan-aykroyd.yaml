@@ -14,6 +14,10 @@
   letterboxd_slug: the-blues-brothers
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ul/fz/rt/sp/blues-brothers-1200-1200-675-675-crop-000000.jpg?v=5c2cef4651
   letterboxd_rating: 4.01
+  genres:
+    - Music
+    - Comedy
+    - Crime
 
 - id: spies-like-us
   tmdb_id: 9080
@@ -31,6 +35,9 @@
   letterboxd_slug: spies-like-us
   poster_url: https://a.ltrbxd.com/resized/sm/upload/4h/05/ia/mn/spies%20like%20us-1200-1200-675-675-crop-000000.jpg?v=37e00d004b
   letterboxd_rating: 3.08
+  genres:
+    - Adventure
+    - Comedy
 
 - id: the-great-outdoors
   tmdb_id: 2617
@@ -43,3 +50,5 @@
   letterboxd_slug: the-great-outdoors
   poster_url: https://a.ltrbxd.com/resized/sm/upload/1v/ly/d8/ij/great-outdoors-1200-1200-675-675-crop-000000.jpg?v=bfece3f995
   letterboxd_rating: 3.17
+  genres:
+    - Comedy

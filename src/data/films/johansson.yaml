@@ -18,6 +18,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTQ1NzQ4OTM4MV5BMl5BanBnXkFtZTcwNzY2OTQzMw@@._V1_SX300.jpg
   letterboxd_slug: match-point
   letterboxd_rating: 3.62
+  genres:
+    - Romance
+    - Thriller
+    - Drama
 
 - id: the-avengers
   tmdb_id: 24428
@@ -31,6 +35,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNGE0YTVjNzUtNzJjOS00NGNlLTgxMzctZTY4YTE1Y2Y1ZTU4XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg
   letterboxd_slug: the-avengers-2012
   letterboxd_rating: 3.78
+  genres:
+    - Science Fiction
+    - Adventure
+    - Action
 
 - id: marriage-story
   tmdb_id: 492188
@@ -44,6 +52,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNmE0OWJlM2MtNzhmMi00YmQyLTlmY2EtZmUzNzBiNGRlN2JkXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: marriage-story-2019
   letterboxd_rating: 4.02
+  genres:
+    - Drama
 
 - id: jojo-rabbit
   tmdb_id: 515001
@@ -57,6 +67,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYmFmNmUyMjYtZTFjNS00OWQyLThhZmMtMGZkYTQ3YjY0ZDQ1XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: jojo-rabbit
   letterboxd_rating: 4.04
+  genres:
+    - War
+    - Comedy
+    - Drama
 
 - id: lucy
   tmdb_id: 240832
@@ -75,3 +89,6 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BODcxMzY3ODY1NF5BMl5BanBnXkFtZTgwNzg1NDY4MTE@._V1_SX300.jpg
   letterboxd_slug: lucy-2014
   letterboxd_rating: 2.88
+  genres:
+    - Action
+    - Science Fiction

@@ -19,6 +19,9 @@
   letterboxd_slug: julia
   poster_url: https://a.ltrbxd.com/resized/sm/upload/fp/y0/y6/dl/julia-1200-1200-675-675-crop-000000.jpg?v=c42331e85b
   letterboxd_rating: 3.41
+  genres:
+    - Drama
+    - History
 
 - id: melvin-and-howard
   tmdb_id: 38772
@@ -36,3 +39,6 @@
   letterboxd_slug: melvin-and-howard
   poster_url: https://a.ltrbxd.com/resized/sm/upload/it/gj/j8/38/melvinandhoward-1200-1200-675-675-crop-000000.jpg?v=0b944f4059
   letterboxd_rating: 3.65
+  genres:
+    - Comedy
+    - Drama

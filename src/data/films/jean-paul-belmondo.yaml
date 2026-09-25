@@ -18,6 +18,10 @@
   letterboxd_slug: le-doulos
   poster_url: https://a.ltrbxd.com/resized/sm/upload/u9/w7/w0/mu/le%20doulos-1200-1200-675-675-crop-000000.jpg?v=b4943c66d5
   letterboxd_rating: 3.93
+  genres:
+    - Drama
+    - Thriller
+    - Crime
 
 - id: that-man-from-rio
   tmdb_id: 4034
@@ -30,3 +34,7 @@
   letterboxd_slug: that-man-from-rio
   poster_url: https://a.ltrbxd.com/resized/sm/upload/r9/a2/9e/rj/man%20from%20rio-1200-1200-675-675-crop-000000.jpg?v=24795aed7c
   letterboxd_rating: 3.76
+  genres:
+    - Action
+    - Comedy
+    - Adventure

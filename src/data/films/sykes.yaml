@@ -11,6 +11,8 @@
   letterboxd_slug: bad-moms
   poster_url: https://a.ltrbxd.com/resized/sm/upload/7s/5v/oj/lv/bad-moms-1200-1200-675-675-crop-000000.jpg?v=8a9a71c2fa
   letterboxd_rating: 2.89
+  genres:
+    - Comedy
 
 - id: monster-in-law
   tmdb_id: 4379
@@ -28,6 +30,9 @@
   letterboxd_slug: monster-in-law
   poster_url: https://a.ltrbxd.com/resized/sm/upload/va/yf/bi/0x/monster%20in%20law-1200-1200-675-675-crop-000000.jpg?v=7060c593b1
   letterboxd_rating: 2.84
+  genres:
+    - Comedy
+    - Romance
 
 - id: evan-almighty
   tmdb_id: 2698
@@ -45,6 +50,10 @@
   letterboxd_slug: evan-almighty
   poster_url: https://a.ltrbxd.com/resized/sm/upload/5d/8p/s8/2g/evan-almighty-1200-1200-675-675-crop-000000.jpg?v=a08b70f50f
   letterboxd_rating: 2.54
+  genres:
+    - Comedy
+    - Family
+    - Fantasy
 
 - id: over-the-hedge
   tmdb_id: 7518
@@ -57,3 +66,8 @@
   letterboxd_slug: over-the-hedge
   poster_url: https://a.ltrbxd.com/resized/sm/upload/5m/bo/d6/36/over-the-hedge-1200-1200-675-675-crop-000000.jpg?v=2e6bc708ca
   letterboxd_rating: 3.37
+  genres:
+    - Animation
+    - Family
+    - Adventure
+    - Comedy

@@ -17,6 +17,8 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 1 }
   letterboxd_slug: xxy
   poster_url: https://a.ltrbxd.com/resized/sm/upload/cb/e5/hp/88/xxy-1200-1200-675-675-crop-000000.jpg?v=a81c0d1459
+  genres:
+    - Drama
 
 - id: the-rover
   tmdb_id: 157845
@@ -28,6 +30,9 @@
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 0 }
   letterboxd_slug: the-rover
   poster_url: https://a.ltrbxd.com/resized/sm/upload/1t/bp/fk/jx/the-rover-1200-1200-675-675-crop-000000.jpg?v=ea7059dde1
+  genres:
+    - Drama
+    - Crime
 
 - id: honey-boy
   tmdb_id: 512263
@@ -44,3 +49,5 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: honey-boy
   poster_url: https://a.ltrbxd.com/resized/sm/upload/m8/sj/d1/h4/honey-boy-1200-1200-675-675-crop-000000.jpg?v=369205090c
+  genres:
+    - Drama

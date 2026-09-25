@@ -12,6 +12,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: a-town-like-alice-1956
   poster_url: https://a.ltrbxd.com/resized/film-poster/7/4/7/3/2/74732-a-town-like-alice-0-230-0-345-crop.jpg?v=e1380e0fb1
+  genres:
+    - Drama
+    - Romance
+    - War
 
 - id: the-trials-of-oscar-wilde
   tmdb_id: 172535
@@ -28,6 +32,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: the-trials-of-oscar-wilde
   poster_url: https://a.ltrbxd.com/resized/film-poster/1/2/6/5/9/5/126595-the-trials-of-oscar-wilde-0-230-0-345-crop.jpg?v=5d54d04de1
+  genres:
+    - Drama
+    - History
 
 - id: sunday-bloody-sunday
   tmdb_id: 45938
@@ -44,3 +51,5 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   letterboxd_slug: sunday-bloody-sunday
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ny/jg/lm/nc/sunday%20bloody%20sunday-1200-1200-675-675-crop-000000.jpg?v=d66f32de18
+  genres:
+    - Drama

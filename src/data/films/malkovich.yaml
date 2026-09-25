@@ -20,6 +20,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNDExODk1MTktNzRiYS00MWEyLTgyOWItYTI1OWY4NzI1NDM2XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: being-john-malkovich
   letterboxd_rating: 4.07
+  genres:
+    - Comedy
+    - Drama
+    - Fantasy
 
 - id: dangerous-liaisons
   tmdb_id: 859
@@ -38,6 +42,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYmJkMzZhNzktYjgyYi00N2ZjLTgxN2EtN2JhOGY1NTE3ZWY0XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: dangerous-liaisons
   letterboxd_rating: 3.78
+  genres:
+    - Drama
+    - Romance
 
 - id: in-the-line-of-fire
   tmdb_id: 9386
@@ -51,6 +58,12 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYmNiNjNjYmQtZTQzNC00M2I1LThiMDgtNWNmM2VjY2Y3NzQxXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: in-the-line-of-fire
   letterboxd_rating: 3.54
+  genres:
+    - Drama
+    - Action
+    - Mystery
+    - Crime
+    - Thriller
 
 - id: places-in-the-heart
   tmdb_id: 13681
@@ -64,6 +77,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZDcxNjk4NzUtMzgyOC00YzliLWEzMTctZmE5ZWVkN2ExNzU2XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: places-in-the-heart
   letterboxd_rating: 3.52
+  genres:
+    - Drama
 
 - id: con-air
   tmdb_id: 1701
@@ -77,3 +92,7 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BODcxOGFjOTEtM2M3Zi00ZWNiLWFjMTYtZDQ0Yjg2NTE2MzNiXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: con-air
   letterboxd_rating: 3.47
+  genres:
+    - Action
+    - Crime
+    - Thriller

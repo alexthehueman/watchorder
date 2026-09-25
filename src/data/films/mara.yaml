@@ -15,6 +15,10 @@
   letterboxd_slug: the-girl-with-the-dragon-tattoo-2011
   poster_url: https://a.ltrbxd.com/resized/sm/upload/8j/mz/4s/lu/girl-with-the-dragon-tattoo-2011-1200-1200-675-675-crop-000000.jpg?v=57d2bfd897
   letterboxd_rating: 3.91
+  genres:
+    - Crime
+    - Mystery
+    - Thriller
 
 - id: side-effects
   tmdb_id: 109421
@@ -32,6 +36,10 @@
   letterboxd_slug: side-effects-2013
   poster_url: https://a.ltrbxd.com/resized/sm/upload/jd/tf/ej/np/side-effects-1200-1200-675-675-crop-000000.jpg?v=cf68814772
   letterboxd_rating: 3.42
+  genres:
+    - Crime
+    - Drama
+    - Thriller
 
 - id: a-ghost-story
   tmdb_id: 428449
@@ -49,6 +57,10 @@
   letterboxd_slug: a-ghost-story-2017
   poster_url: https://a.ltrbxd.com/resized/sm/upload/5f/ik/y7/hz/a-ghost-story-1200-1200-675-675-crop-000000.jpg?v=f40c8fbd19
   letterboxd_rating: 3.76
+  genres:
+    - Fantasy
+    - Drama
+    - Romance
 
 - id: lion
   tmdb_id: 334543
@@ -61,6 +73,8 @@
   letterboxd_slug: lion
   poster_url: https://a.ltrbxd.com/resized/sm/upload/jx/co/k3/vp/lion-1200-1200-675-675-crop-000000.jpg?v=b4cbf1530c
   letterboxd_rating: 3.95
+  genres:
+    - Drama
 
 - id: nightmare-alley
   tmdb_id: 597208
@@ -73,3 +87,7 @@
   letterboxd_slug: nightmare-alley-2021
   poster_url: https://a.ltrbxd.com/resized/sm/upload/pw/kj/wi/75/nightmare-alley-2021-1200-1200-675-675-crop-000000.jpg?v=65e9c57c01
   letterboxd_rating: 3.46
+  genres:
+    - Drama
+    - Crime
+    - Thriller

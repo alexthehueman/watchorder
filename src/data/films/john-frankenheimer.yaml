@@ -13,6 +13,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: birdman-of-alcatraz
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ew/wo/69/8u/birdman-1200-1200-675-675-crop-000000.jpg?v=901e7a88e9
+  genres:
+    - History
+    - Drama
+    - Crime
 
 - id: the-train
   tmdb_id: 11405
@@ -24,3 +28,6 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: the-train
   poster_url: https://a.ltrbxd.com/resized/sm/upload/xk/3x/f1/m9/iUYSHEU5MoRpHBJNdZWM3A0IGnB-1200-1200-675-675-crop-000000.jpg?v=29bd8aca5d
+  genres:
+    - War
+    - Thriller

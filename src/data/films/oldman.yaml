@@ -17,6 +17,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BOGY1NTc0M2MtY2UxOS00OTllLTk1NjItZWIwOWE2OTUzYjdiXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: sid-and-nancy
   letterboxd_rating: 3.49
+  genres:
+    - Drama
+    - Romance
 
 - id: jfk
   tmdb_id: 820
@@ -35,6 +38,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMDhhZTc0MWUtZmVjOS00YTNkLTk0YzgtNTNlNzY5ZWU4MTMyXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: jfk
   letterboxd_rating: 4.08
+  genres:
+    - Drama
+    - History
+    - Thriller
 
 - id: true-romance
   tmdb_id: 319
@@ -48,6 +55,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYzQ5OGMwMDAtMzcyOS00YTA4LWEwM2MtOTA1MDZjZGEyYmI1XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: true-romance
   letterboxd_rating: 3.95
+  genres:
+    - Romance
+    - Crime
+    - Action
 
 - id: leon-the-professional
   tmdb_id: 101
@@ -66,6 +77,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNGRkYTNhOWQtYmI0Ni00MjZhLWJmMzAtMTA2Mjg4NGNiNDU0XkEyXkFqcGc@._V1_QL75_UX380_CR0,2,380,562_.jpg
   letterboxd_slug: leon-the-professional
   letterboxd_rating: 4
+  genres:
+    - Crime
+    - Action
+    - Drama
 
 - id: the-fifth-element
   tmdb_id: 18
@@ -79,6 +94,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BODU4ZTE5MWYtNmY2MC00NDkyLTk0NDgtNTk5YjgzMzc4NmQwXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-fifth-element
   letterboxd_rating: 3.77
+  genres:
+    - Adventure
+    - Action
+    - Science Fiction
 
 - id: tinker-tailor-soldier-spy-2011
   tmdb_id: 49517
@@ -97,6 +116,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTU2OTkwNzMyM15BMl5BanBnXkFtZTcwOTI4ODg2Ng@@._V1_SX300.jpg
   letterboxd_slug: tinker-tailor-soldier-spy-2011
   letterboxd_rating: 3.69
+  genres:
+    - Drama
+    - Mystery
+    - Thriller
 
 - id: darkest-hour
   tmdb_id: 399404
@@ -110,3 +133,6 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjIyNDkyMTgzMV5BMl5BanBnXkFtZTgwNTQwNjg2MzI@._V1_SX300.jpg
   letterboxd_slug: darkest-hour
   letterboxd_rating: 3.57
+  genres:
+    - Drama
+    - History

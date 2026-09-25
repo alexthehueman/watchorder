@@ -16,6 +16,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjE4OTY4ODg3Ml5BMl5BanBnXkFtZTgwMTI1MTg1MzE@._V1_SX300.jpg
   letterboxd_slug: a-most-violent-year
   letterboxd_rating: 3.55
+  genres:
+    - Drama
+    - Thriller
+    - Crime
 
 - id: star-wars-the-force-awakens
   tmdb_id: 140607
@@ -29,6 +33,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYWE3ODExM2YtNzFiNy00OGMzLTlkZTktMWQzZDZjZDBlNTg0XkEyXkFqcGc@._V1_QL75_UY562_CR53,0,380,562_.jpg
   letterboxd_slug: star-wars-the-force-awakens
   letterboxd_rating: 3.23
+  genres:
+    - Action
+    - Adventure
+    - Science Fiction
 
 - id: the-card-counter
   tmdb_id: 643532
@@ -47,3 +55,7 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMWQzMWNkOGQtN2EwYi00YmVjLWFlMDktY2E1ZTI2YWM4ZDcxXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-card-counter
   letterboxd_rating: 3.32
+  genres:
+    - Thriller
+    - Crime
+    - Drama

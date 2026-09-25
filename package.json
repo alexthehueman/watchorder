@@ -12,6 +12,7 @@
     "ingest:omdb": "node tools/ingest-omdb.mjs",
     "ingest:letterboxd": "node tools/ingest-letterboxd.mjs",
     "ingest:letterboxd-rating": "node tools/ingest-letterboxd-rating.mjs",
+    "ingest:letterboxd-genres": "node tools/ingest-letterboxd-genres.mjs",
     "verify:links": "node tools/verify-links.mjs",
     "preview": "node tools/preview.mjs"
   },

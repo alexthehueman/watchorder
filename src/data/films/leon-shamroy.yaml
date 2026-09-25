@@ -12,6 +12,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: the-black-swan
   poster_url: https://a.ltrbxd.com/resized/sm/upload/5a/af/3s/fh/black%20swan-1200-1200-675-675-crop-000000.jpg?v=835ab47328
+  genres:
+    - Adventure
+    - Romance
 
 - id: the-robe
   tmdb_id: 29912
@@ -23,6 +26,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: the-robe
   poster_url: https://a.ltrbxd.com/resized/sm/upload/k3/4e/xb/f4/the-robe-1200-1200-675-675-crop-000000.jpg?v=e01e92fcfa
+  genres:
+    - History
+    - Drama
 
 - id: the-king-and-i
   tmdb_id: 16520
@@ -34,3 +40,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: the-king-and-i
   poster_url: https://a.ltrbxd.com/resized/sm/upload/tn/cr/78/am/kingandi-1200-1200-675-675-crop-000000.jpg?v=e0ef6d8a98
+  genres:
+    - Romance
+    - Drama
+    - History

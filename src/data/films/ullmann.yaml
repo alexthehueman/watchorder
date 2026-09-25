@@ -13,6 +13,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYTRhNzkzMDktZDNlNi00MDIwLWFiNjAtNTlmYjZjYWZlMTEzXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: persona
   letterboxd_rating: 4.37
+  genres:
+    - Drama
 
 - id: hour-of-the-wolf
   tmdb_id: 18333
@@ -26,6 +28,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZjhkMDEwMDUtZGExNC00MDZiLWI5MGEtYzRiMTMzZjQxYmM0XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: hour-of-the-wolf
   letterboxd_rating: 4.02
+  genres:
+    - Drama
+    - Horror
 
 - id: shame-1968
   tmdb_id: 26372
@@ -39,6 +44,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BY2ZkYTU2YzAtODE0Zi00MjRkLTlhN2MtMDhkMWI4NjllMDgzXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: shame
   letterboxd_rating: 4.21
+  genres:
+    - War
+    - Drama
 
 - id: the-emigrants
   tmdb_id: 40732
@@ -52,6 +60,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNGNmOGE4YjMtZmE5OS00MDhlLWFmZDYtNGE0NmVkMDFjMWM2XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-emigrants
   letterboxd_rating: 4.2
+  genres:
+    - Drama
+    - History
+    - Western
 
 - id: cries-and-whispers
   tmdb_id: 10238
@@ -64,6 +76,8 @@
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ov/86/s9/16/cries%20and%20whispers-1200-1200-675-675-crop-000000.jpg?v=fd2e4e8b5e
   letterboxd_slug: cries-and-whispers
   letterboxd_rating: 4.18
+  genres:
+    - Drama
 
 - id: forty-carats
   tmdb_id: 42456
@@ -77,6 +91,9 @@
   letterboxd_slug: 40-carats
   poster_url: https://a.ltrbxd.com/resized/sm/upload/l9/k6/7m/03/fpJySzWen6eu28vMzziSSDODD2B-1200-1200-675-675-crop-000000.jpg?v=cee3d32b31
   letterboxd_rating: 3.31
+  genres:
+    - Comedy
+    - Romance
 
 - id: scenes-from-a-marriage
   tmdb_id: 133919
@@ -90,6 +107,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYThlOTg4MjctMWRlOC00MGVkLWJmMGMtNWRjYWI5ZTg4MWIwXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: scenes-from-a-marriage
   letterboxd_rating: 4.36
+  genres:
+    - Drama
+    - Romance
 
 - id: face-to-face
   tmdb_id: 29454
@@ -103,3 +123,5 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNGY0MjJkZGUtOGZkYS00Mzc0LTkzM2UtMzM2YmNhZGE0ZjA3XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: face-to-face
   letterboxd_rating: 3.88
+  genres:
+    - Drama

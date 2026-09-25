@@ -22,6 +22,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BOTU3YTM0YzQtMmFlOS00OTIxLWFmZjctMDJkOGQxNTVhODM3XkEyXkFqcGc@._V1_QL75_UY562_CR22,0,380,562_.jpg
   letterboxd_slug: the-400-blows
   letterboxd_rating: 4.29
+  genres:
+    - Drama
 
 - id: shoot-the-piano-player
   tmdb_id: 1818
@@ -40,6 +42,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTNjYTcxZjEtOWE1ZC00YTY0LThmMjctMDM1OGExOGEzYTVkXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: shoot-the-piano-player
   letterboxd_rating: 3.77
+  genres:
+    - Crime
+    - Thriller
+    - Drama
 
 - id: jules-and-jim
   tmdb_id: 1628
@@ -53,6 +59,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BM2Y0NmFlMmUtOTgwOC00MjVlLTk3NGEtZWNmYWZlMmI3ODBlXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: jules-and-jim
   letterboxd_rating: 3.92
+  genres:
+    - Romance
+    - Drama
 
 - id: the-soft-skin
   tmdb_id: 1719
@@ -66,6 +75,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNWRlYzI1YTYtNDI4Yy00NjgyLWJkMjYtZTZjOGI3MDI2Mjg2XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-soft-skin
   letterboxd_rating: 3.76
+  genres:
+    - Romance
+    - Drama
 
 - id: fahrenheit-451
   tmdb_id: 1714
@@ -79,6 +91,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMDA3ZjIxY2UtMzVmMS00NTkwLTljMzktNzk2ZWMxYzZkNGE3XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: fahrenheit-451
   letterboxd_rating: 3.52
+  genres:
+    - Science Fiction
+    - Drama
 
 - id: stolen-kisses
   tmdb_id: 255
@@ -92,6 +107,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZTRiN2M3MTYtMTU3NS00ZjI4LWIzMjctYzdiODM2ZWE0YTNiXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: stolen-kisses
   letterboxd_rating: 3.91
+  genres:
+    - Comedy
+    - Romance
+    - Drama
 
 - id: the-wild-child
   tmdb_id: 1627
@@ -105,6 +124,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BM2U5ZmU5YTMtZjZiYy00NDg3LTgyZGMtOWNhNTM5MjFmYjVlXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-wild-child
   letterboxd_rating: 3.62
+  genres:
+    - History
+    - Drama
 
 - id: day-for-night
   tmdb_id: 1675
@@ -123,6 +145,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYmE5MjQ1MmMtOWEyZS00MWM4LWJhNzYtYzliNzIzNTE0MmY4XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: day-for-night
   letterboxd_rating: 4.18
+  genres:
+    - Comedy
+    - Drama
 
 - id: the-story-of-adele-h
   tmdb_id: 1829
@@ -141,6 +166,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNTEzMmNmY2QtYTI5NS00MmNhLWE3MDMtNTljYmMyYzY0ZmI2XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-story-of-adele-h
   letterboxd_rating: 3.68
+  genres:
+    - Drama
+    - History
 
 - id: the-last-metro
   tmdb_id: 1716
@@ -154,6 +182,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYmFiMTFlMzUtN2JmNS00MGIzLWEzOTUtY2RkNjQ2OTY2MDZiXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-last-metro
   letterboxd_rating: 3.75
+  genres:
+    - Drama
+    - Romance
+    - War
 
 - id: the-woman-next-door
   tmdb_id: 12579
@@ -167,3 +199,6 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNjAxMGVjM2YtNDExMS00NWU1LTg4ZTItOGQ2ZGFmMGU2MGU5XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-woman-next-door
   letterboxd_rating: 3.59
+  genres:
+    - Romance
+    - Drama

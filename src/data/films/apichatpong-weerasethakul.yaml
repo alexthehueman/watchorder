@@ -16,6 +16,10 @@
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: tropical-malady
   poster_url: https://a.ltrbxd.com/resized/sm/upload/o7/ph/3v/3e/tropical-malady-1200-1200-675-675-crop-000000.jpg?v=8a524db86f
+  genres:
+    - Drama
+    - Romance
+    - Fantasy
 
 - id: syndromes-and-a-century
   tmdb_id: 13653
@@ -27,6 +31,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: syndromes-and-a-century
   poster_url: https://a.ltrbxd.com/resized/sm/upload/my/u1/si/tw/syndromes-and-a-century-1200-1200-675-675-crop-000000.jpg?v=85cf836da8
+  genres:
+    - Romance
+    - Drama
 
 - id: uncle-boonmee-who-can-recall-his-past-lives
   tmdb_id: 38368
@@ -38,6 +45,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: uncle-boonmee-who-can-recall-his-past-lives
   poster_url: https://a.ltrbxd.com/resized/sm/upload/fa/mx/xf/if/uncle-boon-1200-1200-675-675-crop-000000.jpg?v=4ac9ea490e
+  genres:
+    - Drama
+    - Fantasy
 
 - id: memoria
   tmdb_id: 505180
@@ -49,3 +59,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: memoria-2021
   poster_url: https://a.ltrbxd.com/resized/sm/upload/7j/70/nf/qq/memoria-1200-1200-675-675-crop-000000.jpg?v=5f6258553b
+  genres:
+    - Drama
+    - Science Fiction
+    - Mystery

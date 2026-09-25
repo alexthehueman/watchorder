@@ -13,6 +13,10 @@
   letterboxd_slug: top-five
   poster_url: https://a.ltrbxd.com/resized/sm/upload/as/il/tf/v9/top-five-1200-1200-675-675-crop-000000.jpg?v=293c0fec0d
   letterboxd_rating: 3.32
+  genres:
+    - Comedy
+    - Romance
+    - Drama
 
 - id: new-jack-city
   tmdb_id: 10952
@@ -25,6 +29,10 @@
   letterboxd_slug: new-jack-city
   poster_url: https://a.ltrbxd.com/resized/sm/upload/az/ar/ee/ic/new%20jack-1200-1200-675-675-crop-000000.jpg?v=f45b55bbae
   letterboxd_rating: 3.42
+  genres:
+    - Crime
+    - Thriller
+    - Drama
 
 - id: dogma
   tmdb_id: 1832
@@ -42,3 +50,7 @@
   letterboxd_slug: dogma
   poster_url: https://a.ltrbxd.com/resized/sm/upload/of/08/nr/ui/dogma-1200-1200-675-675-crop-000000.jpg?v=b4e3c34600
   letterboxd_rating: 3.56
+  genres:
+    - Adventure
+    - Comedy
+    - Fantasy

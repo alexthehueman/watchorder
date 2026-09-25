@@ -12,6 +12,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNWRjZjJjNDUtOTgzMi00YjBlLTg5ODQtMjQxOTAyMzM2ZWJiXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: elizabeth
   letterboxd_rating: 3.61
+  genres:
+    - Drama
+    - History
 
 - id: the-talented-mr-ripley
   tmdb_id: 1213
@@ -30,6 +33,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYzI2ZmU3MWMtZmRlMi00ZmVlLTkwMDMtZmI1YTg4YzcwMDE0XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-talented-mr-ripley
   letterboxd_rating: 3.88
+  genres:
+    - Crime
+    - Thriller
+    - Drama
 
 - id: fellowship-of-the-ring
   tmdb_id: 120
@@ -43,6 +50,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNzIxMDQ2YTctNDY4MC00ZTRhLTk4ODQtMTVlOWY4NTdiYmMwXkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg
   letterboxd_slug: the-lord-of-the-rings-the-fellowship-of-the-ring
   letterboxd_rating: 4.39
+  genres:
+    - Adventure
+    - Action
+    - Fantasy
 
 - id: the-aviator
   tmdb_id: 2567
@@ -56,6 +67,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYTUyYWJlNDgtOTM5Ny00YTQ3LWFmYTgtZjJiNTNkYjJlMmY4XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-aviator
   letterboxd_rating: 3.76
+  genres:
+    - Drama
 
 - id: notes-on-a-scandal
   tmdb_id: 1259
@@ -69,6 +82,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BODdhZDJjNDgtZjAxZi00ZGE2LWJiYzYtZTJhMmRmYjgzMzY0XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: notes-on-a-scandal
   letterboxd_rating: 3.69
+  genres:
+    - Drama
+    - Romance
 
 - id: im-not-there
   tmdb_id: 3902
@@ -87,6 +103,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTY4MzM2MjcwNV5BMl5BanBnXkFtZTcwODg3MDU1MQ@@._V1_SX300.jpg
   letterboxd_slug: im-not-there
   letterboxd_rating: 3.7
+  genres:
+    - Music
+    - Drama
 
 - id: blue-jasmine
   tmdb_id: 160588
@@ -100,6 +119,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTc0ODk5MzEyMV5BMl5BanBnXkFtZTcwMzI0MDY1OQ@@._V1_SX300.jpg
   letterboxd_slug: blue-jasmine
   letterboxd_rating: 3.68
+  genres:
+    - Drama
 
 - id: carol
   tmdb_id: 258480
@@ -113,6 +134,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTczNTQ4OTEyNV5BMl5BanBnXkFtZTgwNDgyMDI3NjE@._V1_SX300.jpg
   letterboxd_slug: carol-2015
   letterboxd_rating: 4.03
+  genres:
+    - Drama
+    - Romance
 
 - id: thor-ragnarok
   tmdb_id: 284053
@@ -126,6 +150,11 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjMyNDkzMzI1OF5BMl5BanBnXkFtZTgwODcxODg5MjI@._V1_QL75_UX380_CR0,0,380,562_.jpg
   letterboxd_slug: thor-ragnarok
   letterboxd_rating: 3.71
+  genres:
+    - Comedy
+    - Adventure
+    - Science Fiction
+    - Action
 
 - id: tar
   tmdb_id: 817758
@@ -139,3 +168,6 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYWY5YThhOGUtNDU4OS00NTk3LWI0ODQtNmRiYTk0ZjVkZWU2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg
   letterboxd_slug: tar-2022
   letterboxd_rating: 3.92
+  genres:
+    - Music
+    - Drama

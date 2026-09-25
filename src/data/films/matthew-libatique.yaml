@@ -16,6 +16,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: iron-man-2
   poster_url: https://a.ltrbxd.com/resized/sm/upload/tg/cj/3a/jg/iron-man-2-50-1200-1200-675-675-crop-000000.jpg?v=879e105133
+  genres:
+    - Adventure
+    - Science Fiction
+    - Action
 
 - id: maestro
   tmdb_id: 523607
@@ -32,3 +36,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   letterboxd_slug: maestro-2023
   poster_url: https://a.ltrbxd.com/resized/sm/upload/d4/zc/k5/ps/Maestro2-1200-1200-675-675-crop-000000.jpg?v=a80b640668
+  genres:
+    - Drama
+    - Music
+    - Romance

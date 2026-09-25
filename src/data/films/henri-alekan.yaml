@@ -13,6 +13,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: beauty-and-the-beast
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ci/x8/13/dp/beauty-and-the-beast-1200-1200-675-675-crop-000000.jpg?v=cc7e369fd3
+  genres:
+    - Fantasy
+    - Drama
+    - Romance
 
 - id: the-state-of-things
   tmdb_id: 30363
@@ -29,3 +33,5 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: the-state-of-things
   poster_url: https://a.ltrbxd.com/resized/sm/upload/5y/ib/fm/h7/state%20of%20things-1200-1200-675-675-crop-000000.jpg?v=b2f463282a
+  genres:
+    - Drama

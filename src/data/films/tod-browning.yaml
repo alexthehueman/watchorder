@@ -17,6 +17,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: freaks
   poster_url: https://a.ltrbxd.com/resized/sm/upload/vh/9e/ci/vg/freaks-1200-1200-675-675-crop-000000.jpg?v=87471156a7
+  genres:
+    - Horror
+    - Drama
 
 - id: the-unknown
   tmdb_id: 26965
@@ -28,6 +31,11 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: the-unknown
   poster_url: https://a.ltrbxd.com/resized/sm/upload/hs/3x/td/ur/unknown-1200-1200-675-675-crop-000000.jpg?v=0983a40013
+  genres:
+    - Romance
+    - Horror
+    - Drama
+    - Thriller
 
 - id: mark-of-the-vampire
   tmdb_id: 26966
@@ -39,3 +47,6 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: mark-of-the-vampire
   poster_url: https://a.ltrbxd.com/resized/sm/upload/yz/5l/l5/7x/mark-1200-1200-675-675-crop-000000.jpg?v=87b6c1238e
+  genres:
+    - Horror
+    - Mystery

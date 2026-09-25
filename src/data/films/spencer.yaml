@@ -15,6 +15,9 @@
   letterboxd_slug: hidden-figures
   poster_url: https://a.ltrbxd.com/resized/sm/upload/jk/n3/kc/go/hidden%20figures-1200-1200-675-675-crop-000000.jpg?v=61f3782cf5
   letterboxd_rating: 3.92
+  genres:
+    - Drama
+    - History
 
 - id: the-shape-of-water
   tmdb_id: 399055
@@ -32,6 +35,10 @@
   letterboxd_slug: the-shape-of-water
   poster_url: https://a.ltrbxd.com/resized/sm/upload/uv/se/fv/et/the-shape-of-water-1200-1200-675-675-crop-000000.jpg?v=d584e872cc
   letterboxd_rating: 3.69
+  genres:
+    - Fantasy
+    - Drama
+    - Romance
 
 - id: the-divergent-series-insurgent
   tmdb_id: null
@@ -58,3 +65,6 @@
   letterboxd_slug: ma-2019
   poster_url: https://a.ltrbxd.com/resized/sm/upload/nj/li/w5/63/ma-2019-1200-1200-675-675-crop-000000.jpg?v=ee76b68946
   letterboxd_rating: 2.56
+  genres:
+    - Horror
+    - Thriller

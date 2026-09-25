@@ -19,6 +19,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
   letterboxd_slug: mccabe-mrs-miller
   poster_url: https://a.ltrbxd.com/resized/sm/upload/0q/z8/si/06/mccabe-mrs-miller-1200-1200-675-675-crop-000000.jpg?v=390172308e
+  genres:
+    - Western
+    - Drama
 
 - id: the-sugarland-express
   tmdb_id: 5121
@@ -30,6 +33,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: the-sugarland-express
   poster_url: https://a.ltrbxd.com/resized/sm/upload/jz/fq/8l/ob/the-sugarland-express-1200-1200-675-675-crop-000000.jpg?v=854682283a
+  genres:
+    - Drama
+    - Crime
 
 - id: the-witches-of-eastwick
   tmdb_id: 6069
@@ -41,3 +47,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 2 }
   letterboxd_slug: the-witches-of-eastwick
   poster_url: https://a.ltrbxd.com/resized/sm/upload/oq/u8/6a/hy/the-witches-of-eastwick-1200-1200-675-675-crop-000000.jpg?v=ee52555774
+  genres:
+    - Fantasy
+    - Horror
+    - Comedy

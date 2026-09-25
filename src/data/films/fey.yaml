@@ -20,6 +20,10 @@
   letterboxd_slug: whiskey-tango-foxtrot
   poster_url: https://a.ltrbxd.com/resized/sm/upload/wl/ln/8b/0v/whiskey-tango-foxtrot-1200-1200-675-675-crop-000000.jpg?v=db6a11024c
   letterboxd_rating: 3
+  genres:
+    - Comedy
+    - War
+    - Drama
 
 - id: date-night
   tmdb_id: 35056
@@ -32,3 +36,7 @@
   letterboxd_slug: date-night
   poster_url: https://a.ltrbxd.com/resized/sm/upload/10/if/ki/6a/date-night-1200-1200-675-675-crop-000000.jpg?v=1b7e8f4350
   letterboxd_rating: 2.9
+  genres:
+    - Adventure
+    - Action
+    - Comedy

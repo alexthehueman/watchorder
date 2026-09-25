@@ -11,6 +11,9 @@
   letterboxd_slug: till
   poster_url: https://a.ltrbxd.com/resized/sm/upload/f3/cn/ky/q8/till-1200-1200-675-675-crop-000000.jpg?v=12447da189
   letterboxd_rating: 3.69
+  genres:
+    - Drama
+    - History
 
 - id: the-piano-lesson
   tmdb_id: 804406
@@ -23,6 +26,8 @@
   letterboxd_slug: the-piano-lesson-2024
   poster_url: https://a.ltrbxd.com/resized/sm/upload/lm/uu/bs/47/piano%20lesson-1200-1200-675-675-crop-000000.jpg?v=4d4084d71c
   letterboxd_rating: 3.28
+  genres:
+    - Drama
 
 - id: the-devil-to-pay
   tmdb_id: 637620
@@ -40,6 +45,9 @@
   letterboxd_slug: the-devil-to-pay-2019
   poster_url: https://a.ltrbxd.com/resized/sm/upload/qy/zn/ay/vo/wCEGBFfF6rbsWMx0CsUU0wrVsLA-1200-1200-675-675-crop-000000.jpg?v=b8d50b086d
   letterboxd_rating: 3.28
+  genres:
+    - Drama
+    - Thriller
 
 - id: the-harder-they-fall
   tmdb_id: 618162
@@ -52,3 +60,5 @@
   letterboxd_slug: the-harder-they-fall-2021
   poster_url: https://a.ltrbxd.com/resized/sm/upload/uy/s5/qu/u8/the-harder-they-fall-1200-1200-675-675-crop-000000.jpg?v=d82a087aee
   letterboxd_rating: 3.53
+  genres:
+    - Western

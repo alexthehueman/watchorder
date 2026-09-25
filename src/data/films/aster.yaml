@@ -21,6 +21,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTdmYmQ5MjctYzU3NS00N2I0LTkwYTYtZWMxNTVhOTRkODA1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg
   letterboxd_slug: beau-is-afraid
   letterboxd_rating: 3.43
+  genres:
+    - Comedy
+    - Fantasy
+    - Adventure
 
 - id: eddington
   tmdb_id: 648878
@@ -34,3 +38,7 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNmM0Yzc1ZjAtZTg4My00NDI3LWEwMzAtY2ZkNzMxMWMwOTFlXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg
   letterboxd_slug: eddington
   letterboxd_rating: 3.37
+  genres:
+    - Comedy
+    - Western
+    - Crime

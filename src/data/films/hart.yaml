@@ -11,6 +11,9 @@
   letterboxd_slug: ride-along
   poster_url: https://a.ltrbxd.com/resized/sm/upload/88/9a/jw/70/ride-along-1200-1200-675-675-crop-000000.jpg?v=bdcf4d9674
   letterboxd_rating: 2.77
+  genres:
+    - Comedy
+    - Action
 
 - id: jumanji-welcome-to-the-jungle
   tmdb_id: 353486
@@ -23,6 +26,10 @@
   letterboxd_slug: jumanji-welcome-to-the-jungle
   poster_url: https://a.ltrbxd.com/resized/sm/upload/cl/s8/wp/2f/jumanji-welcome-to-jungle-1200-1200-675-675-crop-000000.jpg?v=3aa0a3d468
   letterboxd_rating: 3.16
+  genres:
+    - Comedy
+    - Fantasy
+    - Adventure
 
 - id: the-upside
   tmdb_id: null
@@ -44,6 +51,9 @@
   letterboxd_slug: central-intelligence
   poster_url: https://a.ltrbxd.com/resized/sm/upload/tc/t7/kd/uk/central-intelligence-1200-1200-675-675-crop-000000.jpg?v=d85cc5df0c
   letterboxd_rating: 2.79
+  genres:
+    - Comedy
+    - Action
 
 - id: fatherhood
   tmdb_id: 607259
@@ -56,6 +66,9 @@
   letterboxd_slug: fatherhood-2021
   poster_url: https://a.ltrbxd.com/resized/sm/upload/0s/cm/to/wi/fatherhood-1200-1200-675-675-crop-000000.jpg?v=579291a55f
   letterboxd_rating: 3.2
+  genres:
+    - Drama
+    - Comedy
 
 - id: night-school
   tmdb_id: 454293
@@ -68,3 +81,5 @@
   letterboxd_slug: night-school-2018
   poster_url: https://a.ltrbxd.com/resized/sm/upload/a7/bv/gn/xi/night-school-2018-1200-1200-675-675-crop-000000.jpg?v=61ace32e64
   letterboxd_rating: 2.36
+  genres:
+    - Comedy

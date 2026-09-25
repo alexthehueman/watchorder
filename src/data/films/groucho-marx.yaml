@@ -10,6 +10,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: duck-soup-1933
   poster_url: https://a.ltrbxd.com/resized/sm/upload/xa/kz/bo/8z/duck-soup-1200-1200-675-675-crop-000000.jpg?v=35ab91ac73
+  genres:
+    - War
+    - Comedy
 
 - id: horse-feathers
   tmdb_id: 13912
@@ -21,6 +24,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: horse-feathers
   poster_url: https://a.ltrbxd.com/resized/sm/upload/4s/7e/q1/im/horse%20feathers-1200-1200-675-675-crop-000000.jpg?v=db2ce873e2
+  genres:
+    - Romance
+    - Comedy
 
 - id: a-night-at-the-opera
   tmdb_id: 37719
@@ -37,6 +43,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: a-night-at-the-opera
   poster_url: https://a.ltrbxd.com/resized/sm/upload/tb/7j/g5/si/night%20at%20the%20opera-1200-1200-675-675-crop-000000.jpg?v=5a614080d7
+  genres:
+    - Comedy
+    - Music
 
 - id: a-day-at-the-races
   tmdb_id: 11939
@@ -53,3 +62,6 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: a-day-at-the-races
   poster_url: https://a.ltrbxd.com/resized/sm/upload/2x/x1/ka/mw/zgfTtXxy4pu4wI9xWpLyjjehQBG-1200-1200-675-675-crop-000000.jpg?v=e7d6a4cc9f
+  genres:
+    - Comedy
+    - Music

@@ -13,6 +13,10 @@
   letterboxd_slug: white-heat
   poster_url: https://a.ltrbxd.com/resized/sm/upload/bg/qc/w6/fc/white-heat-1200-1200-675-675-crop-000000.jpg?v=63ae43721e
   letterboxd_rating: 4.12
+  genres:
+    - Thriller
+    - Crime
+    - Drama
 
 - id: yankee-doodle-dandy
   tmdb_id: 3087
@@ -25,6 +29,9 @@
   letterboxd_slug: yankee-doodle-dandy
   poster_url: https://a.ltrbxd.com/resized/sm/upload/qd/n9/cj/20/yankee-1200-1200-675-675-crop-000000.jpg?v=4ea29c1b48
   letterboxd_rating: 3.51
+  genres:
+    - Drama
+    - Music
 
 - id: angels-with-dirty-faces
   tmdb_id: 13696
@@ -42,3 +49,6 @@
   letterboxd_slug: angels-with-dirty-faces
   poster_url: https://a.ltrbxd.com/resized/sm/upload/rv/1m/7q/ns/angels-with-dirty-faces-1200-1200-675-675-crop-000000.jpg?v=4494fcfaaf
   letterboxd_rating: 3.93
+  genres:
+    - Drama
+    - Crime

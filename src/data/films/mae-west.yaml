@@ -10,6 +10,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   letterboxd_slug: she-done-him-wrong
   poster_url: https://a.ltrbxd.com/resized/sm/upload/b8/by/ud/25/shedone-1200-1200-675-675-crop-000000.jpg?v=29e17f496d
+  genres:
+    - Crime
+    - Comedy
 
 - id: im-no-angel
   tmdb_id: 34456
@@ -21,6 +24,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   letterboxd_slug: im-no-angel
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ci/l1/po/k4/ImNoAngel-1200-1200-675-675-crop-000000.jpg?v=5a10965fc4
+  genres:
+    - Comedy
+    - Romance
 
 - id: my-little-chickadee
   tmdb_id: 29353
@@ -37,6 +43,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   letterboxd_slug: my-little-chickadee
   poster_url: https://a.ltrbxd.com/resized/sm/upload/b8/1l/dd/b2/iRmTN3GAdMhu2FBse3dlLPfXtIi-1200-1200-675-675-crop-000000.jpg?v=99bf69afb6
+  genres:
+    - Western
+    - Comedy
 
 - id: going-to-town
   tmdb_id: 80850
@@ -53,3 +62,6 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   letterboxd_slug: goin-to-town
   poster_url: https://a.ltrbxd.com/resized/film-poster/6/7/3/2/5/67325-goin-to-town-0-230-0-345-crop.jpg?v=59286bb65e
+  genres:
+    - Comedy
+    - Music

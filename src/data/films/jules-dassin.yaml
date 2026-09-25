@@ -11,6 +11,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: night-and-the-city
   poster_url: https://a.ltrbxd.com/resized/sm/upload/1y/jw/wd/on/r6CDi0dUoZLSsR3lXtizpyZH6aE-1200-1200-675-675-crop-000000.jpg?v=6708a0a1b5
+  genres:
+    - Crime
+    - Drama
 
 - id: rififi
   tmdb_id: 22587
@@ -27,6 +30,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: rififi
   poster_url: https://a.ltrbxd.com/resized/sm/upload/cz/yz/m7/ps/rififi-1200-1200-675-675-crop-000000.jpg?v=afbc669320
+  genres:
+    - Crime
+    - Drama
+    - Thriller
 
 - id: never-on-sunday
   tmdb_id: 22592
@@ -38,6 +45,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   letterboxd_slug: never-on-sunday
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ok/wk/pc/sn/bcZWbFQaGV1m8tfUxQWzdov264J-1200-1200-675-675-crop-000000.jpg?v=9ae6bc4e7f
+  genres:
+    - Romance
+    - Comedy
 
 - id: topkapi
   tmdb_id: 22591
@@ -49,3 +59,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: topkapi
   poster_url: https://a.ltrbxd.com/resized/sm/upload/t8/6f/xx/07/topkapi-1200-1200-675-675-crop-000000.jpg?v=a9d816521c
+  genres:
+    - Adventure
+    - Crime
+    - Comedy

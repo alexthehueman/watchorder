@@ -11,6 +11,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: magnificent-obsession-1954
   poster_url: https://a.ltrbxd.com/resized/sm/upload/bj/v1/3w/vk/magnificent-obsession-1200-1200-675-675-crop-000000.jpg?v=ad02e2b0ee
+  genres:
+    - Drama
+    - Romance
 
 - id: all-that-heaven-allows
   tmdb_id: 809
@@ -27,6 +30,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: all-that-heaven-allows
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ua/ll/er/s0/allthat-1200-1200-675-675-crop-000000.jpg?v=a2fa9deafd
+  genres:
+    - Drama
+    - Romance
 
 - id: written-on-the-wind
   tmdb_id: 811
@@ -38,6 +44,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
   letterboxd_slug: written-on-the-wind
   poster_url: https://a.ltrbxd.com/resized/sm/upload/mj/8r/5c/tq/written-on-wind-1200-1200-675-675-crop-000000.jpg?v=32b959e6a4
+  genres:
+    - Drama
+    - Romance
 
 - id: imitation-of-life
   tmdb_id: 34148
@@ -49,3 +58,6 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: imitation-of-life-1959
   poster_url: https://a.ltrbxd.com/resized/sm/upload/6r/4c/8v/0d/v6saYVrDHHs5ansCFz5lIyFUV5X-1200-1200-675-675-crop-000000.jpg?v=ada4f3568d
+  genres:
+    - Drama
+    - Romance

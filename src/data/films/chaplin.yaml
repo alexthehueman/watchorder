@@ -17,6 +17,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZGVmZGM0YTUtOTA1ZC00ZDE4LWE4ZDUtMjAxOTk5YjkwN2Q2XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-kid
   letterboxd_rating: 4.19
+  genres:
+    - Drama
+    - Comedy
 
 - id: the-gold-rush
   tmdb_id: 962
@@ -30,6 +33,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNGU1NjYzYTAtZmY0YS00NWIzLTkzNzUtYzc2ZTIyOTIxZjVhXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-gold-rush
   letterboxd_rating: 4.14
+  genres:
+    - Drama
+    - Comedy
+    - Adventure
 
 - id: the-circus
   tmdb_id: 28978
@@ -43,6 +50,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZjNhZWY4YjgtOTI2Zi00NWZlLWIyNDItNGY0MzhhNmUxNTkyXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-circus
   letterboxd_rating: 4.05
+  genres:
+    - Romance
+    - Drama
+    - Comedy
 
 - id: city-lights
   tmdb_id: 901
@@ -61,6 +72,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BM2U4NjgzODUtODkyOC00YTE2LTlhNTItYzFlYmM1NTEzZDA2XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: city-lights
   letterboxd_rating: 4.31
+  genres:
+    - Drama
+    - Comedy
+    - Romance
 
 - id: modern-times
   tmdb_id: 3082
@@ -74,6 +89,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BODVkZGFhNGQtYjdiYi00Njc4LWFmYTItNTlmNzJjMTg1ZDc5XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: modern-times
   letterboxd_rating: 4.24
+  genres:
+    - Drama
+    - Romance
+    - Comedy
 
 - id: the-great-dictator
   tmdb_id: 914
@@ -92,6 +111,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjc4ZjEwNDUtMjlmZS00NzQ4LTg2N2MtMGI3ZjMyMmM3ZDM2XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-great-dictator
   letterboxd_rating: 4.33
+  genres:
+    - Comedy
+    - War
 
 - id: monsieur-verdoux
   tmdb_id: 30588
@@ -110,6 +132,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYzI2MGY4YmQtYTRjZS00MGQ4LWIzNTMtYjUyM2YyZTA4OWVlXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: monsieur-verdoux
   letterboxd_rating: 3.99
+  genres:
+    - Drama
+    - Crime
+    - Comedy
 
 - id: limelight
   tmdb_id: 28971
@@ -128,6 +154,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BODFjMzMwMmYtYmZjYS00MTZiLWE2ZjAtZTliMDFmNTNhMjIzXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: limelight
   letterboxd_rating: 4.13
+  genres:
+    - Drama
+    - Comedy
+    - Romance
 
 # Three added for the same reason Keaton's later features were: eight films all built to the same
 # specification left the quiz nothing to move. A Woman of Paris is the important one — a straight
@@ -149,6 +179,9 @@
   letterboxd_slug: a-woman-of-paris
   poster_url: https://a.ltrbxd.com/resized/sm/upload/hy/0w/8k/83/a-woman-of-paris-1200-1200-675-675-crop-000000.jpg?v=70860a5a32
   letterboxd_rating: 3.48
+  genres:
+    - Drama
+    - Romance
 
 - id: a-king-in-new-york
   tmdb_id: 28973
@@ -162,6 +195,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BOGYxNzc3YjYtZDk3MC00YTZkLWJhYTMtY2UxYTY3ZmJhMDhlXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: a-king-in-new-york
   letterboxd_rating: 3.52
+  genres:
+    - Drama
+    - Comedy
 
 - id: the-countess-from-hong-kong
   tmdb_id: 2984
@@ -175,3 +211,6 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNjA5MTY2ZmYtYmRjNi00NzQ5LTgzZmItMjdkNjBmZTdmNGI0XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: a-countess-from-hong-kong
   letterboxd_rating: 3.21
+  genres:
+    - Comedy
+    - Romance

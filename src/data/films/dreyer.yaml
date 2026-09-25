@@ -16,6 +16,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZTkyN2EzZGItZDk1OC00YjUxLWFiNzktYTA4ZDY2MzhjZGU3XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: master-of-the-house
   letterboxd_rating: 3.61
+  genres:
+    - Drama
 
 - id: the-passion-of-joan-of-arc
   tmdb_id: 780
@@ -34,6 +36,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNTE1MDliZjgtYTU2Yy00YjAxLTljYTItNDE2ZGYwYTY1MGQ1XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-passion-of-joan-of-arc
   letterboxd_rating: 4.42
+  genres:
+    - Drama
+    - History
 
 - id: vampyr
   tmdb_id: 779
@@ -52,6 +57,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BN2EyOTA1YzYtMDIxNy00YzVmLTk4NTMtODkzZjViOGFhYTI2XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: vampyr
   letterboxd_rating: 3.76
+  genres:
+    - Mystery
+    - Fantasy
+    - Horror
 
 - id: day-of-wrath
   tmdb_id: 41391
@@ -70,6 +79,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNjY1ZWI1YTQtZDc5MS00YTI1LTgyNjQtOTE4YjMxMDg4NWJkXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: day-of-wrath
   letterboxd_rating: 4.18
+  genres:
+    - Drama
+    - History
 
 - id: ordet
   tmdb_id: 48035
@@ -88,6 +100,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZjg1ZmI4YTctOGY2MS00ZTdkLWFkMGEtZTM5ZWRjYjMxODdiXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: ordet
   letterboxd_rating: 4.33
+  genres:
+    - Drama
 
 - id: gertrud
   tmdb_id: 34181
@@ -106,3 +120,6 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZmVkYTI5N2MtOGZjZC00ZmQ5LWEwZmUtOWIyMDA2N2U5NWU1XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: gertrud
   letterboxd_rating: 3.92
+  genres:
+    - Romance
+    - Drama

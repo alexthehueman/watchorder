@@ -17,6 +17,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNDRkNGZkNTctZWYyMC00ODRiLWFkMGItMmYxMGUzMzkzZmZiXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: somebody-up-there-likes-me
   letterboxd_rating: 3.68
+  genres:
+    - Drama
 
 - id: the-hustler
   tmdb_id: 990
@@ -35,6 +37,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjhjMWVhODAtZDhlYi00ZjIzLTk0ODItOGU0MDM3Njc5ODA0XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-hustler
   letterboxd_rating: 4.1
+  genres:
+    - Romance
+    - Drama
 
 - id: hud
   tmdb_id: 24748
@@ -53,6 +58,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMGU0MWUyZGItMzhmMy00MDkzLTkyNWItOWFkMWE0ZDA4NjA2XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: hud
   letterboxd_rating: 4.05
+  genres:
+    - Drama
+    - Western
 
 - id: cool-hand-luke
   tmdb_id: 903
@@ -66,6 +74,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BYzI1NzBkNmMtOWRmMS00YmY2LTk5MjQtZjAzMmIwZDQ2M2UwXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: cool-hand-luke
   letterboxd_rating: 4.16
+  genres:
+    - Crime
+    - Drama
 
 - id: butch-cassidy-and-the-sundance-kid
   tmdb_id: 642
@@ -79,6 +90,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMTkyMTM2NDk5Nl5BMl5BanBnXkFtZTgwNzY1NzEyMDE@._V1_SX300.jpg
   letterboxd_slug: butch-cassidy-and-the-sundance-kid
   letterboxd_rating: 4.17
+  genres:
+    - Western
+    - Crime
+    - Drama
 
 - id: the-sting
   tmdb_id: 9277
@@ -92,6 +107,10 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZGI4OTk4MDMtYmQ1Ni00YTUzLTkyYTktZGUwMjMyN2M4NjQ5XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-sting
   letterboxd_rating: 4.21
+  genres:
+    - Drama
+    - Comedy
+    - Crime
 
 - id: the-verdict
   tmdb_id: 24226
@@ -110,6 +129,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BZGNhMzRhNTgtOWUwMy00MGNmLThmZjEtZWMxNDM0N2ZlNzM2XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-verdict-1982
   letterboxd_rating: 4.03
+  genres:
+    - Drama
 
 - id: the-color-of-money
   tmdb_id: 11873
@@ -123,6 +144,8 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMmU5NDMwOTctZTU2NS00ODc4LWJiYTAtYzMzM2JiYmY4OTg2XkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: the-color-of-money
   letterboxd_rating: 3.74
+  genres:
+    - Drama
 
 - id: nobodys-fool
   tmdb_id: 11593
@@ -136,6 +159,9 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BNmNmYWYwZTctM2QzYS00Y2JlLTkyODgtYmVlNmRhNGE3YWJkXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: nobodys-fool
   letterboxd_rating: 3.69
+  genres:
+    - Drama
+    - Comedy
 
 - id: road-to-perdition
   tmdb_id: 4147
@@ -149,3 +175,7 @@
   poster_url: https://m.media-amazon.com/images/M/MV5BMjMyYjMyMzktMjlhZC00ZTZkLTkzMWQtZmEwMjdjNzJkM2RlXkEyXkFqcGc@._V1_SX300.jpg
   letterboxd_slug: road-to-perdition
   letterboxd_rating: 3.82
+  genres:
+    - Thriller
+    - Drama
+    - Crime

@@ -11,6 +11,8 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: the-learning-tree
   poster_url: https://a.ltrbxd.com/resized/sm/upload/8b/m9/ng/i4/x5R9RB82uTKC4rRhCRLKmXHvTpi-1200-1200-675-675-crop-000000.jpg?v=9b489f188e
+  genres:
+    - Drama
 
 - id: shaft
   tmdb_id: 67741
@@ -22,6 +24,11 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
   letterboxd_slug: shaft
   poster_url: https://a.ltrbxd.com/resized/sm/upload/9m/gm/5j/zk/shaft-1200-1200-675-675-crop-000000.jpg?v=6e035813d6
+  genres:
+    - Thriller
+    - Crime
+    - Drama
+    - Action
 
 - id: leadbelly
   tmdb_id: 45964
@@ -33,3 +40,5 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: leadbelly
   poster_url: https://a.ltrbxd.com/resized/film-poster/2/3/4/5/2345-leadbelly-0-230-0-345-crop.jpg?v=9d4a820f02
+  genres:
+    - Drama
