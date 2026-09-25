@@ -75,6 +75,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   letterboxd_slug: captain-america-brave-new-world
   poster_url: https://a.ltrbxd.com/resized/alternative-backdrop/7/3/8/2/9/2/tmdb/qfAfE5auxsuxhxPpnETRAyTP5ff-1200-1200-675-675-crop-000000.jpg?v=5b464360f7
+  genres:
+    - Science Fiction
+    - Thriller
+    - Action
 
 - id: the-electric-state
   tmdb_id: 777443
@@ -85,6 +89,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: the-electric-state
   poster_url: https://a.ltrbxd.com/resized/sm/upload/di/xw/29/yl/yglWkJOd1E2LpNgMd1yPdwKjOqZ-1200-1200-675-675-crop-000000.jpg?v=195a63f8ee
+  genres:
+    - Action
+    - Adventure
+    - Science Fiction
 
 - id: desert-warrior
   tmdb_id: 898704
@@ -103,6 +111,11 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: sneaks
   poster_url: https://a.ltrbxd.com/resized/alternative-backdrop/9/7/7/3/3/4/tmdb/pQFXJtQB80i8PJLqmtjOGvi9OVc-1200-1200-675-675-crop-000000.jpg?v=62c8352b25
+  genres:
+    - Comedy
+    - Family
+    - Adventure
+    - Animation
 
 - id: elevation
   tmdb_id: 1035048
@@ -113,6 +126,10 @@
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 0 }
   letterboxd_slug: elevation
   poster_url: https://a.ltrbxd.com/resized/alternative-backdrop/9/3/3/2/3/2/tmdb/yH2SBOH54ogloUMkeyzMaxCANU-1200-1200-675-675-crop-000000.jpg?v=7a037e9169
+  genres:
+    - Action
+    - Thriller
+    - Science Fiction
 
 - id: if-you-were-the-last
   tmdb_id: 777847
@@ -123,6 +140,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   letterboxd_slug: if-you-were-the-last
   poster_url: https://a.ltrbxd.com/resized/sm/upload/wy/s4/ma/h1/if%20you%20were-1200-1200-675-675-crop-000000.jpg?v=1662089da5
+  genres:
+    - Comedy
+    - Romance
+    - Science Fiction
 
 - id: we-have-a-ghost
   tmdb_id: 852096
@@ -133,6 +154,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: we-have-a-ghost
   poster_url: https://a.ltrbxd.com/resized/sm/upload/mt/se/vx/gd/we%20have%20a%20ghost-1200-1200-675-675-crop-000000.jpg?v=ee3409f0c4
+  genres:
+    - Comedy
+    - Horror
 
 - id: outside-the-wire
   tmdb_id: 775996
@@ -143,6 +167,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   letterboxd_slug: outside-the-wire
   poster_url: https://a.ltrbxd.com/resized/sm/upload/0k/vb/t2/rl/58Gl3xXEvhF557tZER55rbPiMOT-1200-1200-675-675-crop-000000.jpg?v=3a9b4a927c
+  genres:
+    - Action
+    - Science Fiction
+    - Thriller
 
 - id: synchronic
   tmdb_id: 549294
@@ -153,6 +181,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: synchronic
   poster_url: https://a.ltrbxd.com/resized/sm/upload/my/ns/dy/un/synchronic-1200-1200-675-675-crop-000000.jpg?v=e04b4b57c3
+  genres:
+    - Thriller
+    - Science Fiction
+    - Horror
 
 - id: the-banker
   tmdb_id: 627725
@@ -163,6 +195,8 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: the-banker-2020
   poster_url: https://a.ltrbxd.com/resized/sm/upload/x2/yd/fb/32/the-banker-2020-1200-1200-675-675-crop-000000.jpg?v=b8b630dae5
+  genres:
+    - Drama
 
 - id: point-blank
   tmdb_id: 531503
@@ -173,6 +207,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   letterboxd_slug: point-blank-2019
   poster_url: https://a.ltrbxd.com/resized/sm/upload/0s/s0/o9/bf/point-blank-1200-1200-675-675-crop-000000.jpg?v=5393700e16
+  genres:
+    - Action
+    - Thriller
 
 - id: miss-bala
   tmdb_id: 500852
@@ -183,6 +220,8 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   letterboxd_slug: miss-bala-2019
   poster_url: https://a.ltrbxd.com/resized/sm/upload/kk/k0/vq/2u/miss-bala-1200-1200-675-675-crop-000000.jpg?v=1dd5e2360b
+  genres:
+    - Action
 
 - id: io
   tmdb_id: 433249
@@ -193,6 +232,8 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: io
   poster_url: https://a.ltrbxd.com/resized/sm/upload/o4/9j/j8/da/io-1200-1200-675-675-crop-000000.jpg?v=5e3f16a3ea
+  genres:
+    - Science Fiction
 
 - id: all-the-way
   tmdb_id: 347123
@@ -203,6 +244,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: all-the-way-2016
   poster_url: https://a.ltrbxd.com/resized/sm/upload/x4/ny/82/rd/all-the-way-2016-1200-1200-675-675-crop-000000.jpg?v=1fcb0c7419
+  genres:
+    - History
+    - TV Movie
+    - Drama
 
 - id: captain-america-civil-war
   tmdb_id: 271110
@@ -213,6 +258,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   letterboxd_slug: captain-america-civil-war
   poster_url: https://a.ltrbxd.com/resized/sm/upload/58/xd/g0/o7/captain-america-civil-war-1200-1200-675-675-crop-000000.jpg?v=9c02043ea9
+  genres:
+    - Adventure
+    - Action
+    - Science Fiction
 
 - id: triple-9
   tmdb_id: 146198
@@ -223,6 +272,11 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
   letterboxd_slug: triple-9
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ci/ih/dm/2c/triple-9-1200-1200-675-675-crop-000000.jpg?v=c94847193e
+  genres:
+    - Thriller
+    - Crime
+    - Action
+    - Adventure
 
 - id: the-night-before
   tmdb_id: 296100
@@ -233,6 +287,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   letterboxd_slug: the-night-before-2015
   poster_url: https://a.ltrbxd.com/resized/sm/upload/70/i2/p2/ox/E6DEC301-1296-456C-ABA6-3036F20F9DD0-1200-1200-675-675-crop-000000.jpg?v=486b34fe0a
+  genres:
+    - Adventure
+    - Fantasy
+    - Comedy
 
 - id: our-brand-is-crisis
   tmdb_id: 10317
@@ -243,6 +301,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: our-brand-is-crisis-2015
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ss/xt/z1/xn/our-brand-is-crisis-1200-1200-675-675-crop-000000.jpg?v=29e6b1139b
+  genres:
+    - Comedy
+    - Drama
 
 - id: black-or-white
   tmdb_id: 253331
@@ -253,6 +314,8 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: black-or-white
   poster_url: https://a.ltrbxd.com/resized/sm/upload/18/dz/74/k6/black-or-white-1200-1200-675-675-crop-000000.jpg?v=b18bdeeb3c
+  genres:
+    - Drama
 
 - id: playing-it-cool
   tmdb_id: 277547
@@ -263,6 +326,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   letterboxd_slug: playing-it-cool
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ay/2x/j6/5e/playing-it-cool-1200-1200-675-675-crop-000000.jpg?v=8d80fb560b
+  genres:
+    - Comedy
+    - Romance
 
 - id: shelter-2014
   tmdb_id: 287426
@@ -273,6 +339,8 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: shelter-2014
   poster_url: https://a.ltrbxd.com/resized/sm/upload/n7/tj/au/p1/shelter-1200-1200-675-675-crop-000000.jpg?v=b7f88ad63e
+  genres:
+    - Drama
 
 - id: repentance
   tmdb_id: 80920
@@ -283,6 +351,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: repentance-2013
   poster_url: https://a.ltrbxd.com/resized/film-poster/6/7/3/3/1/67331-repentance-0-230-0-345-crop.jpg?v=a6dacd7af4
+  genres:
+    - Horror
+    - Thriller
 
 - id: the-inevitable-defeat-of-mister-and-pete
   tmdb_id: 158908
@@ -293,6 +364,8 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: the-inevitable-defeat-of-mister-and-pete
   poster_url: https://a.ltrbxd.com/resized/sm/upload/sc/wr/1s/eb/the-inevitable-defeat-of-mister-and-pete-1200-1200-675-675-crop-000000.jpg?v=dfcf64c0fb
+  genres:
+    - Drama
 
 - id: runner-runner
   tmdb_id: 146238
@@ -303,6 +376,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
   letterboxd_slug: runner-runner
   poster_url: https://a.ltrbxd.com/resized/sm/upload/j8/vj/uo/9a/runner-runner-1200-1200-675-675-crop-000000.jpg?v=b16654d70e
+  genres:
+    - Thriller
+    - Crime
+    - Drama
 
 - id: 10-years
   tmdb_id: 58547
@@ -313,6 +390,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: 10-years
   poster_url: https://a.ltrbxd.com/resized/sm/upload/nm/no/vm/ew/10-years-1200-1200-675-675-crop-000000.jpg?v=bea8b1d742
+  genres:
+    - Drama
+    - Comedy
 
 - id: abraham-lincoln-vampire-hunter
   tmdb_id: 72331
@@ -323,6 +403,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
   letterboxd_slug: abraham-lincoln-vampire-hunter
   poster_url: https://a.ltrbxd.com/resized/sm/upload/k2/e5/t4/qz/abraham-lincoln-vampire-hunter-1200-1200-675-675-crop-000000.jpg?v=80338f6aa7
+  genres:
+    - Horror
+    - Action
+    - Fantasy
 
 - id: man-on-a-ledge
   tmdb_id: 49527
@@ -333,6 +417,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 0 }
   letterboxd_slug: man-on-a-ledge
   poster_url: https://a.ltrbxd.com/resized/sm/upload/tu/cf/cp/jf/man-on-a-ledge-1200-1200-675-675-crop-000000.jpg?v=04851fc0be
+  genres:
+    - Thriller
+    - Crime
+    - Action
 
 - id: whats-your-number
   tmdb_id: 63492
@@ -343,6 +431,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
   letterboxd_slug: whats-your-number
   poster_url: https://a.ltrbxd.com/resized/sm/upload/n6/nj/n0/qb/whats-your-number-1200-1200-675-675-crop-000000.jpg?v=8788349d3a
+  genres:
+    - Comedy
+    - Romance
 
 - id: real-steel
   tmdb_id: 39254
@@ -353,6 +444,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: real-steel
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ge/ys/ut/zz/real-steel-1200-1200-675-675-crop-000000.jpg?v=2460d1e85b
+  genres:
+    - Drama
+    - Action
+    - Science Fiction
 
 - id: the-adjustment-bureau
   tmdb_id: 38050
@@ -363,6 +458,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: the-adjustment-bureau
   poster_url: https://a.ltrbxd.com/resized/sm/upload/pm/92/61/8m/TheAdjustmentBureau-1200-1200-675-675-crop-000000.jpg?v=d45464b7a7
+  genres:
+    - Romance
+    - Thriller
+    - Science Fiction
 
 - id: night-catches-us
   tmdb_id: 48833
@@ -373,6 +472,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: night-catches-us
   poster_url: https://a.ltrbxd.com/resized/sm/upload/l0/5r/ua/rt/night%20catches%20us-1200-1200-675-675-crop-000000.jpg?v=0136c6b97e
+  genres:
+    - Drama
+    - Romance
 
 - id: louis
   tmdb_id: 134318
@@ -383,6 +485,8 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: louis
   poster_url: https://a.ltrbxd.com/resized/film-poster/1/0/3/5/3/0/103530-louis-0-230-0-345-crop.jpg?v=93e4697889
+  genres:
+    - Drama
 
 - id: desert-flower
   tmdb_id: 33997
@@ -393,6 +497,8 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: desert-flower
   poster_url: https://a.ltrbxd.com/resized/sm/upload/4t/ij/qc/ka/ivgsXGoQDskwfvyMJy7jgSfEsW-1200-1200-675-675-crop-000000.jpg?v=8a7e19bc4a
+  genres:
+    - Drama
 
 - id: notorious-2008
   tmdb_id: 14410
@@ -403,6 +509,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
   letterboxd_slug: notorious-2009
   poster_url: https://a.ltrbxd.com/resized/sm/upload/y9/qn/zq/kp/big-1200-1200-675-675-crop-000000.jpg?v=a1bbbefb2f
+  genres:
+    - Music
+    - Drama
+    - History
 
 - id: eagle-eye
   tmdb_id: 13027
@@ -413,6 +523,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: eagle-eye
   poster_url: https://a.ltrbxd.com/resized/sm/upload/3a/91/ga/08/eagle-eye-1200-1200-675-675-crop-000000.jpg?v=525bfdcc57
+  genres:
+    - Action
+    - Thriller
+    - Mystery
 
 - id: american-violet
   tmdb_id: 21179
@@ -423,6 +537,8 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: american-violet
   poster_url: https://a.ltrbxd.com/resized/film-poster/3/8/5/6/2/38562-american-violet-0-230-0-345-crop.jpg?v=050d874e92
+  genres:
+    - Drama
 
 - id: we-are-marshall
   tmdb_id: 11170
@@ -433,6 +549,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: we-are-marshall
   poster_url: https://a.ltrbxd.com/resized/sm/upload/sr/ju/l8/xr/we-are-marshall-1200-1200-675-675-crop-000000.jpg?v=05200aca2e
+  genres:
+    - History
+    - Drama
 
 - id: crossover
   tmdb_id: 14351
@@ -443,6 +562,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: crossover
   poster_url: https://a.ltrbxd.com/resized/film-poster/4/3/1/5/7/43157-crossover-0-230-0-345-crop.jpg?v=a8a9e29a4a
+  genres:
+    - Action
+    - Drama
+    - Adventure
 
 - id: heavens-fall
   tmdb_id: 34898
@@ -461,6 +584,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: freedomland
   poster_url: https://a.ltrbxd.com/resized/sm/upload/y1/hg/8v/43/8Mk2G0J0Yq3POjMSadu3Ni1pzvn-1200-1200-675-675-crop-000000.jpg?v=fc0285421f
+  genres:
+    - Crime
+    - Mystery
+    - Thriller
 
 - id: the-man-2005
   tmdb_id: 9074
@@ -471,6 +598,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: the-man
   poster_url: https://a.ltrbxd.com/resized/sm/upload/w2/bb/g3/sf/the%20man-1200-1200-675-675-crop-000000.jpg?v=2207b26285
+  genres:
+    - Crime
+    - Action
+    - Comedy
 
 - id: sucker-free-city
   tmdb_id: 65724
@@ -482,6 +613,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   letterboxd_slug: sucker-free-city
   poster_url: https://a.ltrbxd.com/resized/film-poster/1/1/1/6/1116-sucker-free-city-0-230-0-345-crop.jpg?v=369560a5ce
+  genres:
+    - Drama
+    - TV Movie
+    - Crime
 
 - id: haven
   tmdb_id: 9830
@@ -492,6 +627,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
   letterboxd_slug: haven
   poster_url: https://a.ltrbxd.com/resized/film-poster/4/6/7/8/4/46784-haven-0-230-0-345-crop.jpg?v=510cfec320
+  genres:
+    - Drama
+    - Crime
 
 - id: she-hate-me
   tmdb_id: 20912
@@ -503,6 +641,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
   letterboxd_slug: she-hate-me
   poster_url: https://a.ltrbxd.com/resized/sm/upload/su/zr/w9/yy/she%20hate%20me-1200-1200-675-675-crop-000000.jpg?v=34844a8289
+  genres:
+    - Drama
+    - Comedy
 
 - id: brother-to-brother
   tmdb_id: 47272
@@ -513,6 +654,8 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: brother-to-brother
   poster_url: https://a.ltrbxd.com/resized/alternative-backdrop/1/8/1/1/7/tmdb/39gn8vaTDaAQLpuHMGjXPYFr0fN-1200-1200-675-675-crop-000000.jpg?v=5b0a6f0ec1
+  genres:
+    - Drama
 
 - id: hollywood-homicide
   tmdb_id: 11375
@@ -523,3 +666,8 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: hollywood-homicide
   poster_url: https://a.ltrbxd.com/resized/sm/upload/vg/5r/hj/5v/hollywood-homicide-1200-1200-675-675-crop-000000.jpg?v=29130c682c
+  genres:
+    - Comedy
+    - Thriller
+    - Action
+    - Adventure

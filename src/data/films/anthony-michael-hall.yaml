@@ -47,6 +47,13 @@
   runtime: 93
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.40 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: out-of-bounds
+  poster_url: https://a.ltrbxd.com/resized/film-poster/1/8/6/2/2/18622-out-of-bounds-0-230-0-345-crop.jpg?v=5b2a47b1e2
+  genres:
+    - Action
+    - Crime
+    - Drama
+    - Thriller
 
 - id: johnny-be-good
   tmdb_id: 20443
@@ -55,6 +62,10 @@
   runtime: 87
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.35 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: johnny-be-good
+  poster_url: https://a.ltrbxd.com/resized/alternative-backdrop/3/9/0/0/6/tmdb/sh4Nzkt3CCFWSIaZCFyLjA9EoKW-1200-1200-675-675-crop-000000.jpg?v=92bf81b0f8
+  genres:
+    - Comedy
 
 - id: six-pack
   tmdb_id: 46925
@@ -63,6 +74,12 @@
   runtime: 108
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.40 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: six-pack
+  poster_url: https://a.ltrbxd.com/resized/film-poster/1/8/4/4/1/18441-six-pack-0-230-0-345-crop.jpg?v=ec46fe126f
+  genres:
+    - Drama
+    - Comedy
+    - Family
 
 - id: a-gnome-named-gnorm
   tmdb_id: 21357
@@ -71,6 +88,13 @@
   runtime: 100
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.35 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: a-gnome-named-gnorm
+  poster_url: https://a.ltrbxd.com/resized/film-poster/3/8/4/5/6/38456-a-gnome-named-gnorm-0-230-0-345-crop.jpg?v=1d74e71451
+  genres:
+    - Fantasy
+    - Family
+    - Comedy
+    - Adventure
 
 - id: into-the-sun
   tmdb_id: 209369
@@ -79,6 +103,11 @@
   runtime: 100
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.30 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: into-the-sun-1992
+  poster_url: https://a.ltrbxd.com/resized/film-poster/1/4/9/1/8/3/149183-into-the-sun-0-230-0-345-crop.jpg?v=a6b114800f
+  genres:
+    - Action
+    - War
 
 - id: the-grave
   tmdb_id: 36299
@@ -87,6 +116,12 @@
   runtime: 100
   tags: { opacity: 1, stillness: 1, bleakness: 4, humor: 1, acclaim: 0.40 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: the-grave
+  poster_url: https://a.ltrbxd.com/resized/film-poster/2/8/0/1/2/28012-the-grave-0-230-0-345-crop.jpg?v=1d4d32243f
+  genres:
+    - Horror
+    - Crime
+    - Thriller
 
 - id: a-bucket-of-blood
   tmdb_id: 222858
@@ -95,6 +130,13 @@
   runtime: 96
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.35 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: a-bucket-of-blood-1995
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/45/p6/ap/qd/ABucketOfBlood1995-1-1200-1200-675-675-crop-000000.jpg?v=c9f19cff28
+  genres:
+    - Horror
+    - Comedy
+    - TV Movie
+    - Thriller
 
 - id: trojan-war
   tmdb_id: 14330
@@ -103,6 +145,11 @@
   runtime: 92
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.35 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: trojan-war
+  poster_url: https://a.ltrbxd.com/resized/alternative-backdrop/4/3/1/7/0/tmdb/glz61G73mJO8bka6iAostbPWjgl-1200-1200-675-675-crop-000000.jpg?v=faac9cb72d
+  genres:
+    - Romance
+    - Comedy
 
 - id: pirates-of-silicon-valley
   tmdb_id: 3293
@@ -111,6 +158,11 @@
   runtime: 95
   tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 2, acclaim: 0.65 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: pirates-of-silicon-valley
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/t9/my/me/xr/pirates-of-silicon-valley-1200-1200-675-675-crop-000000.jpg?v=a067dbd341
+  genres:
+    - TV Movie
+    - Drama
 
 - id: happy-accidents
   tmdb_id: 22230
@@ -119,6 +171,12 @@
   runtime: 111
   tags: { opacity: 2, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.50 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: happy-accidents
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/8w/tu/u9/5h/happy-accidents-1200-1200-675-675-crop-000000.jpg?v=fa7377d56c
+  genres:
+    - Romance
+    - Comedy
+    - Science Fiction
 
 - id: last-man-standing-2011
   tmdb_id: 86709
@@ -127,6 +185,12 @@
   runtime: 90
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.30 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: last-man-standing-2011
+  poster_url: https://a.ltrbxd.com/resized/film-poster/7/3/4/7/7/73477-last-man-standing-0-230-0-345-crop.jpg?v=f719ec4a44
+  genres:
+    - Thriller
+    - Action
+    - TV Movie
 
 - id: results
   tmdb_id: 294132
@@ -135,6 +199,10 @@
   runtime: 105
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.50 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: results
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/km/gk/tb/if/results-1200-1200-675-675-crop-000000.jpg?v=a8512d260c
+  genres:
+    - Comedy
 
 - id: live-by-night
   tmdb_id: 259695
@@ -144,6 +212,13 @@
   director: Ben Affleck
   tags: { opacity: 1, stillness: 1, bleakness: 4, humor: 1, acclaim: 0.45 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+  letterboxd_slug: live-by-night
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/gm/kf/qz/m2/live-by-night-1200-1200-675-675-crop-000000.jpg?v=a65eeba134
+  genres:
+    - Crime
+    - Thriller
+    - Action
+    - Drama
 
 - id: war-machine
   tmdb_id: 354287
@@ -152,6 +227,12 @@
   runtime: 122
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.35 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: war-machine-2017
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/5g/8b/o9/qj/war-machine-1200-1200-675-675-crop-000000.jpg?v=709baf6e33
+  genres:
+    - Drama
+    - War
+    - Comedy
 
 - id: bodied
   tmdb_id: 431491
@@ -160,6 +241,12 @@
   runtime: 122
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: bodied
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/22/nr/ba/6q/bodied-1200-1200-675-675-crop-000000.jpg?v=71a10ff434
+  genres:
+    - Music
+    - Comedy
+    - Drama
 
 - id: clerks-iii
   tmdb_id: 635891
@@ -169,6 +256,11 @@
   director: Kevin Smith
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: clerks-iii
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/qo/hh/zw/r9/clerks-1200-1200-675-675-crop-000000.jpg?v=60ac6ac5d2
+  genres:
+    - Comedy
+    - Drama
 
 - id: halloween-kills
   tmdb_id: 610253
@@ -177,6 +269,10 @@
   runtime: 105
   tags: { opacity: 1, stillness: 1, bleakness: 5, humor: 1, acclaim: 0.35 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: halloween-kills
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/m3/87/ub/tm/halloween-kills-1200-1200-675-675-crop-000000.jpg?v=0f5763cfc1
+  genres:
+    - Horror
 
 - id: trigger-warning
   tmdb_id: 704673
@@ -185,3 +281,7 @@
   runtime: 106
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.25 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: trigger-warning
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/cr/kr/j4/9h/trigger-1200-1200-675-675-crop-000000.jpg?v=dc87499db0
+  genres:
+    - Action
