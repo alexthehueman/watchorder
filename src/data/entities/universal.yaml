@@ -1,0 +1,202 @@
+# Not bounded to a closed era the way MGM (1924-1959) is — like Warner Bros., Universal is still
+# an active studio whose identity never really dissolved. Three eras trace a real throughline: the
+# classic-monster and Hitchcock years that made the lot itself a tourist attraction, the 1970s-80s
+# stretch where Jaws invented the modern blockbuster and Spielberg became the studio's signature
+# director, and the modern era of theme-park franchises (Jurassic Park, Fast & Furious) alongside
+# star-vehicle comedy and Blumhouse horror.
+#
+# Psycho and Vertigo are deliberately absent despite being Hitchcock films from this period — both
+# were financed and distributed by Paramount. Only The Birds, Marnie and Frenzy were actually made
+# at Universal; see the films file for the full note.
+
+slug: universal
+kind: studio
+name: Universal Pictures
+blurb: The lot that turned its own monsters into tourist attractions, then turned a mechanical shark into the modern blockbuster — horror, spectacle and a sincerity about wonder that never quite went away.
+
+eras:
+  - id: monsters-and-matinees
+    name: The monster and matinee years
+    from: 1931
+  - id: new-hollywood
+    name: New Hollywood and the invention of the blockbuster
+    from: 1973
+  - id: modern
+    name: The franchise era
+    from: 1990
+
+films:
+  - film: dracula
+    era: monsters-and-matinees
+    signature: 4
+    gateway: 2
+    note: A Transylvanian count relocates to London society with an appetite nobody around him recognizes in time — the film that launched the studio's entire monster line.
+
+  - film: frankenstein-1931
+    era: monsters-and-matinees
+    signature: 4
+    gateway: 2
+    note: A scientist's created being is treated with more sympathy than horror by the film itself, even as everyone in it reacts with pure terror.
+
+  - film: the-wolf-man
+    era: monsters-and-matinees
+    signature: 3
+    gateway: 2
+    note: A man bitten under a full moon spends the film mourning what he's about to become rather than reveling in it, slower and sadder than the werewolf-attack premise suggests.
+
+  - film: creature-from-the-black-lagoon
+    era: monsters-and-matinees
+    signature: 3
+    gateway: 2
+    note: A river expedition into the Amazon disturbs the last of its kind, the studio's final classic monster and still the most purely iconic piece of creature design to come out of the cycle.
+
+  - film: touch-of-evil
+    era: monsters-and-matinees
+    signature: 4
+    gateway: 3
+    note: A border-town murder investigation curdles into a duel between a crooked American cop and the Mexican narcotics officer who won't let the case go, opened by one of the most famous unbroken shots in American film.
+
+  - film: to-kill-a-mockingbird
+    era: monsters-and-matinees
+    signature: 4
+    gateway: 2
+    note: A small-town Alabama lawyer defends a Black man falsely accused of rape, seen through his children's slowly clarifying understanding of what their father is actually up against.
+
+  - film: the-birds
+    era: monsters-and-matinees
+    signature: 4
+    gateway: 2
+    note: A coastal California town is besieged by birds with no explanation ever given for why, which is exactly what makes it work.
+
+  - film: marnie
+    era: monsters-and-matinees
+    signature: 3
+    gateway: 3
+    note: A compulsive thief marries the man who caught her stealing from him, and the film spends its runtime working out whether that's a rescue or another kind of trap.
+
+  - film: frenzy
+    era: monsters-and-matinees
+    signature: 3
+    gateway: 3
+    note: A serial killer stalks London and an innocent man is mistaken for him, made in England with a nastiness the director's Hollywood-era restraint never allowed.
+
+  - film: american-graffiti
+    era: new-hollywood
+    signature: 3
+    gateway: 1
+    note: A handful of teenagers spend one last cruising night together before adulthood scatters them, the template for the hangout coming-of-age picture.
+
+  - film: the-sting
+    era: new-hollywood
+    signature: 3
+    gateway: 1
+    note: Two con men run an elaborate long game on the mobster who had their friend killed, playing the audience along with the mark right up to the last reveal.
+
+  - film: jaws
+    era: new-hollywood
+    signature: 5
+    must_see: true
+    gateway: 1
+    note: A resort town's police chief has to convince everyone that the thing in the water is real before it kills again — the film that invented the modern summer blockbuster more or less by accident.
+
+  - film: the-deer-hunter
+    era: new-hollywood
+    signature: 5
+    gateway: 4
+    note: Three steelworker friends go to Vietnam together and come back, if they come back, into lives that no longer fit the men they've become.
+
+  - film: et-the-extra-terrestrial
+    era: new-hollywood
+    signature: 4
+    gateway: 1
+    note: A stranded alien is hidden and befriended by a lonely kid, played with a sincerity about childhood loneliness the studio's later franchises rarely bother with.
+
+  - film: back-to-the-future
+    era: new-hollywood
+    signature: 3
+    gateway: 1
+    note: A teenager accidentally strands himself in his own parents' 1955 and has to fix the timeline without unraveling his own existence, the paradox mechanics unspooling one complication at a time.
+
+  - film: out-of-africa
+    era: new-hollywood
+    signature: 3
+    gateway: 3
+    note: A Danish farmer's years running a Kenyan coffee plantation and her affair with a big-game hunter are told as a memory already understood to be ending.
+
+  - film: field-of-dreams
+    era: new-hollywood
+    signature: 2
+    gateway: 2
+    note: An Iowa farmer builds a baseball diamond in his cornfield on the strength of a voice only he can hear, playing its sentimentality completely straight.
+
+  - film: jurassic-park
+    era: modern
+    signature: 4
+    must_see: true
+    gateway: 1
+    note: A theme park stocked with cloned dinosaurs goes wrong on its first tour, the effects work still the reference point every dinosaur film since has been measured against.
+
+  - film: schindlers-list
+    era: modern
+    signature: 5
+    gateway: 4
+    note: A German industrialist who set out to profit from Jewish slave labor ends up spending his fortune saving as many of his workers as he can, filmed with a procedural coldness the horror never lets you look away from.
+
+  - film: apollo-13
+    era: modern
+    signature: 3
+    gateway: 2
+    note: A moon mission turns into a survival story the moment an oxygen tank explodes two days out, the ground crew improvising a fix in real time alongside the stranded astronauts.
+
+  - film: the-mummy-1999
+    era: modern
+    signature: 2
+    gateway: 1
+    note: A cursed Egyptian priest is accidentally resurrected by treasure hunters, played as pure pulp-adventure swagger rather than horror.
+
+  - film: fast-five
+    era: modern
+    signature: 3
+    gateway: 1
+    note: A crew of street racers turned heist team pulls a stunt built around dragging a bank vault through Rio, the entry that turned the franchise from car movies into ensemble heist spectacle.
+
+  - film: bridesmaids
+    era: modern
+    signature: 2
+    gateway: 1
+    note: A maid of honor's life is quietly falling apart just as she's supposed to be organizing someone else's happiest year, comedy played from a real place of humiliation and envy.
+
+  - film: get-out
+    era: modern
+    signature: 4
+    gateway: 2
+    note: A Black man meeting his white girlfriend's family for the first time senses something is deeply wrong well before the film confirms exactly what.
+
+curated:
+  curator: house
+  rationale: The two eras' defining blockbusters first, then the range from classic monster to modern horror.
+  order:
+    - jaws
+    - jurassic-park
+    - get-out
+    - the-birds
+    - schindlers-list
+    - to-kill-a-mockingbird
+    - the-deer-hunter
+    - touch-of-evil
+    - dracula
+    - frankenstein-1931
+    - et-the-extra-terrestrial
+    - back-to-the-future
+    - the-sting
+    - american-graffiti
+    - the-wolf-man
+    - creature-from-the-black-lagoon
+    - marnie
+    - frenzy
+    - apollo-13
+    - fast-five
+    - out-of-africa
+    - field-of-dreams
+    - bridesmaids
+    - the-mummy-1999

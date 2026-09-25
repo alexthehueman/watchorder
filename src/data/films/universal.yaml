@@ -1,0 +1,26 @@
+# Films for Universal Pictures. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Every other film for this entity already exists elsewhere in the corpus, tagged under a
+# director or actor before this entity existed — see the entity file for the full list of
+# sources. Only one new film was needed: the one classic monster the studio's other horror
+# entries (Dracula, Frankenstein, The Wolf Man) hadn't already covered.
+#
+# Still an active studio, like Warner Bros., so this entity isn't bounded to a closed era either.
+# Psycho and Vertigo were deliberately left out despite being Hitchcock pictures shot around this
+# period — both were financed and distributed by Paramount, not Universal, which only acquired
+# the library later. Corpus presence isn't studio attribution; only The Birds, Marnie and Frenzy
+# were actually made at Universal.
+
+- id: creature-from-the-black-lagoon
+  tmdb_id: 10973
+  title: Creature from the Black Lagoon
+  year: 1954
+  runtime: 79
+  director: Jack Arnold
+  tags:
+    opacity: 1
+    stillness: 2
+    bleakness: 2
+    humor: 1
+    acclaim: 0.72 # the last of the studio's classic monsters to become an icon, on the strength of the creature design alone
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
