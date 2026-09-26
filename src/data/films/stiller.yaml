@@ -2,7 +2,15 @@
 #
 # Zoolander already exists in owen-wilson.yaml — tagged before he had an entity. The Royal
 # Tenenbaums already exists in hackman.yaml. Tropic Thunder already exists in downey.yaml.
-# Dodgeball already exists in vaughn.yaml.
+# Dodgeball already exists in vaughn.yaml. This pass adds further free wins Madagascar
+# (DreamWorks Animation), Starsky & Hutch (Todd Phillips), Anchorman (Carell), Empire of the Sun
+# (Spielberg), Reality Bites (Hawke), Happy Gilmore and Happy Gilmore 2 and Hubie Halloween and The
+# Meyerowitz Stories (all Adam Sandler), The Cable Guy (Carrey), While We're Young (Noah
+# Baumbach), Locked Down (Hathaway), Envy (Poehler), Bros (Amy Schumer), and The Marc Pease
+# Experience (Kendrick), plus 34 new films below.
+#
+# Excluded as a short film (Shoeshine), a TV pilot (The Nutt House), and an uncredited-only cameo
+# (Dear Santa) rather than credited feature-film roles.
 
 - id: meet-the-parents
   tmdb_id: 1597
@@ -85,3 +93,275 @@
     - Fantasy
     - Family
     - Comedy
+
+- id: hot-pursuit-1987
+  tmdb_id: 14464
+  title: Hot Pursuit
+  year: 1987
+  runtime: 93
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: fresh-horses
+  tmdb_id: 38982
+  title: Fresh Horses
+  year: 1988
+  runtime: 105
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: thats-adequate
+  tmdb_id: 181471
+  title: That's Adequate
+  year: 1989
+  runtime: 83
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: next-of-kin
+  tmdb_id: 27418
+  title: Next of Kin
+  year: 1989
+  runtime: 108
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: stella-1990
+  tmdb_id: 47329
+  title: Stella
+  year: 1990
+  runtime: 109
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 2, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: highway-to-hell
+  tmdb_id: 16191
+  title: Highway to Hell
+  year: 1991
+  runtime: 92
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: heavyweights
+  tmdb_id: 14819
+  title: Heavyweights
+  year: 1995
+  runtime: 100
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: if-lucy-fell
+  tmdb_id: 10324
+  title: If Lucy Fell
+  year: 1996
+  runtime: 90
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: flirting-with-disaster
+  tmdb_id: 2074
+  title: Flirting with Disaster
+  year: 1996
+  runtime: 92
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: zero-effect
+  tmdb_id: 16148
+  title: Zero Effect
+  year: 1998
+  runtime: 116
+  tags: { opacity: 2, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: your-friends-and-neighbors
+  tmdb_id: 77469
+  title: Your Friends & Neighbors
+  year: 1998
+  runtime: 100
+  tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 2, acclaim: 0.55 }
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 2 }
+
+- id: permanent-midnight
+  tmdb_id: 22318
+  title: Permanent Midnight
+  year: 1998
+  runtime: 90
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: the-suburbans
+  tmdb_id: 46286
+  title: The Suburbans
+  year: 1999
+  runtime: 90
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: mystery-men
+  tmdb_id: 9824
+  title: Mystery Men
+  year: 1999
+  runtime: 121
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: black-and-white-1999
+  tmdb_id: 38809
+  title: Black and White
+  year: 1999
+  runtime: 98
+  tags: { opacity: 2, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: keeping-the-faith
+  tmdb_id: 4967
+  title: Keeping the Faith
+  year: 2000
+  runtime: 128
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: orange-county
+  tmdb_id: 11857
+  title: Orange County
+  year: 2002
+  runtime: 82
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: duplex
+  tmdb_id: 7288
+  title: Duplex
+  year: 2003
+  runtime: 89
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: along-came-polly
+  tmdb_id: 5966
+  title: Along Came Polly
+  year: 2004
+  runtime: 90
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: meet-the-fockers
+  tmdb_id: 693
+  title: Meet the Fockers
+  year: 2004
+  runtime: 115
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: school-for-scoundrels
+  tmdb_id: 9842
+  title: School for Scoundrels
+  year: 2006
+  runtime: 101
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-heartbreak-kid
+  tmdb_id: 9038
+  title: The Heartbreak Kid
+  year: 2007
+  runtime: 116
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: madagascar-escape-2-africa
+  tmdb_id: 10527
+  title: "Madagascar: Escape 2 Africa"
+  year: 2008
+  runtime: 89
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.60 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: megamind
+  tmdb_id: 38055
+  title: Megamind
+  year: 2010
+  runtime: 96
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.60 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: little-fockers
+  tmdb_id: 39451
+  title: Little Fockers
+  year: 2010
+  runtime: 98
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: tower-heist
+  tmdb_id: 59108
+  title: Tower Heist
+  year: 2011
+  runtime: 104
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: madagascar-3-europes-most-wanted
+  tmdb_id: 80321
+  title: "Madagascar 3: Europe's Most Wanted"
+  year: 2012
+  runtime: 93
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.60 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-watch
+  tmdb_id: 80035
+  title: The Watch
+  year: 2012
+  runtime: 98
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-secret-life-of-walter-mitty
+  tmdb_id: 116745
+  title: The Secret Life of Walter Mitty
+  year: 2013
+  runtime: 114
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 3, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: zoolander-2
+  tmdb_id: 329833
+  title: Zoolander 2
+  year: 2016
+  runtime: 102
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.25 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: brads-status
+  tmdb_id: 425980
+  title: Brad's Status
+  year: 2017
+  runtime: 101
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: greed-2019
+  tmdb_id: 567598
+  title: Greed
+  year: 2019
+  runtime: 104
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: bleecker
+  tmdb_id: 770835
+  title: Bleecker
+  year: 2022
+  runtime: 90
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: nutcrackers
+  tmdb_id: 1203236
+  title: Nutcrackers
+  year: 2024
+  runtime: 100
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
