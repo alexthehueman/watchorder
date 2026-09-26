@@ -1,6 +1,15 @@
 # New films for Barry Fitzgerald. Scales and anchors are in README.md ("The anchor rubric").
 #
-# The Quiet Man and How Green Was My Valley already exist in ford.yaml.
+# The Quiet Man, How Green Was My Valley, and The Long Voyage Home already exist in ford.yaml.
+# This pass adds further free wins California and Variety Girl and The Plough and the Stars (all
+# Stanwyck), Bringing Up Baby (Katharine Hepburn), and The Sea Wolf (Michael Curtiz), plus 34 new
+# films below.
+#
+# Marie Antoinette needed a distinct id — his 1938 MGM epic, unrelated to Sofia Coppola's 2006
+# film already in the corpus under Dunst despite sharing the exact title. Excluded as
+# documentaries/TV episodes rather than feature films: Bing Crosby: Rediscovered, Santa Claus and
+# the Tenth Avenue Kid (an Alfred Hitchcock Presents episode), and Cradle of Genius (a short
+# documentary about the Abbey Theatre).
 
 - id: going-my-way
   tmdb_id: 17661
@@ -38,3 +47,275 @@
     - Drama
     - Crime
     - Mystery
+
+- id: juno-and-the-paycock
+  tmdb_id: 47695
+  title: Juno and the Paycock
+  year: 1930
+  runtime: 85
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 2, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: guests-of-the-nation
+  tmdb_id: 586240
+  title: Guests of the Nation
+  year: 1935
+  runtime: 43
+  tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: ebb-tide
+  tmdb_id: 245229
+  title: Ebb Tide
+  year: 1937
+  runtime: 91
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: four-men-and-a-prayer
+  tmdb_id: 116973
+  title: Four Men and a Prayer
+  year: 1938
+  runtime: 85
+  tags: { opacity: 2, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: marie-antoinette-1938
+  tmdb_id: 43847
+  title: Marie Antoinette
+  year: 1938
+  runtime: 149
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-dawn-patrol
+  tmdb_id: 46688
+  title: The Dawn Patrol
+  year: 1938
+  runtime: 103
+  tags: { opacity: 1, stillness: 1, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: pacific-liner
+  tmdb_id: 218332
+  title: Pacific Liner
+  year: 1939
+  runtime: 76
+  tags: { opacity: 1, stillness: 1, bleakness: 4, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-saint-strikes-back
+  tmdb_id: 47744
+  title: The Saint Strikes Back
+  year: 1939
+  runtime: 64
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: full-confession
+  tmdb_id: 288890
+  title: Full Confession
+  year: 1939
+  runtime: 74
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: san-francisco-docks
+  tmdb_id: 94713
+  title: San Francisco Docks
+  year: 1940
+  runtime: 64
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: tarzans-secret-treasure
+  tmdb_id: 40214
+  title: Tarzan's Secret Treasure
+  year: 1941
+  runtime: 81
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 2, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-amazing-mrs-holliday
+  tmdb_id: 45216
+  title: The Amazing Mrs. Holliday
+  year: 1943
+  runtime: 98
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: two-tickets-to-london
+  tmdb_id: 558977
+  title: Two Tickets to London
+  year: 1943
+  runtime: 79
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: corvette-k-225
+  tmdb_id: 177751
+  title: Corvette K-225
+  year: 1943
+  runtime: 99
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: i-love-a-soldier
+  tmdb_id: 249479
+  title: I Love a Soldier
+  year: 1944
+  runtime: 106
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: none-but-the-lonely-heart
+  tmdb_id: 52362
+  title: None But the Lonely Heart
+  year: 1944
+  runtime: 113
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: duffys-tavern
+  tmdb_id: 357905
+  title: Duffy's Tavern
+  year: 1945
+  runtime: 97
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: incendiary-blonde
+  tmdb_id: 116500
+  title: Incendiary Blonde
+  year: 1945
+  runtime: 113
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-stork-club
+  tmdb_id: 151017
+  title: The Stork Club
+  year: 1945
+  runtime: 98
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: two-years-before-the-mast
+  tmdb_id: 264720
+  title: Two Years Before the Mast
+  year: 1946
+  runtime: 98
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: easy-come-easy-go
+  tmdb_id: 245116
+  title: Easy Come, Easy Go
+  year: 1947
+  runtime: 77
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: welcome-stranger
+  tmdb_id: 113841
+  title: Welcome Stranger
+  year: 1947
+  runtime: 106
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-naked-city
+  tmdb_id: 20482
+  title: The Naked City
+  year: 1948
+  runtime: 96
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-sainted-sisters
+  tmdb_id: 254783
+  title: The Sainted Sisters
+  year: 1948
+  runtime: 89
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: miss-tatlocks-millions
+  tmdb_id: 222607
+  title: Miss Tatlock's Millions
+  year: 1948
+  runtime: 100
+  tags: { opacity: 2, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: top-o-the-morning
+  tmdb_id: 167820
+  title: Top o' the Morning
+  year: 1949
+  runtime: 100
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-story-of-seabiscuit
+  tmdb_id: 61828
+  title: The Story of Seabiscuit
+  year: 1949
+  runtime: 98
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 2, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: union-station
+  tmdb_id: 43396
+  title: Union Station
+  year: 1950
+  runtime: 80
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+
+- id: silver-city
+  tmdb_id: 336495
+  title: Silver City
+  year: 1951
+  runtime: 90
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: ha-da-veni-don-calogero
+  tmdb_id: 844698
+  title: "Ha da venì... don Calogero!"
+  year: 1952
+  runtime: 100
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: happy-ever-after-1954
+  tmdb_id: 258410
+  title: Happy Ever After
+  year: 1954
+  runtime: 87
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-catered-affair
+  tmdb_id: 107592
+  title: The Catered Affair
+  year: 1956
+  runtime: 93
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: rooney
+  tmdb_id: 233559
+  title: Rooney
+  year: 1958
+  runtime: 88
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: broth-of-a-boy
+  tmdb_id: 401961
+  title: Broth of a Boy
+  year: 1959
+  runtime: 63
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
