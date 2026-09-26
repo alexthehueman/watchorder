@@ -65,6 +65,10 @@
   tags: { opacity: 3, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.6 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
   letterboxd_slug: eye-of-the-needle
+  genres:
+    - Thriller
+    - Drama
+  letterboxd_rating: 3.51
 
 - id: curse-of-the-pink-panther
   tmdb_id: 36576
@@ -75,6 +79,11 @@
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.25 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: curse-of-the-pink-panther
+  genres:
+    - Crime
+    - Comedy
+    - Mystery
+  letterboxd_rating: 2.28
 
 - id: the-little-drummer-girl
   tmdb_id: 32088
@@ -85,6 +94,9 @@
   tags: { opacity: 3, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.45 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
   letterboxd_slug: the-little-drummer-girl
+  genres:
+    - Thriller
+  letterboxd_rating: 3.01
 
 - id: mack-the-knife
   tmdb_id: 80874
@@ -95,6 +107,11 @@
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.25 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
   letterboxd_slug: mack-the-knife
+  genres:
+    - Crime
+    - Comedy
+    - Music
+    - Romance
 
 - id: phantom-of-the-opera-1989
   tmdb_id: 86962
@@ -105,6 +122,10 @@
   tags: { opacity: 2, stillness: 1, bleakness: 4, humor: 1, acclaim: 0.35 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
   letterboxd_slug: the-phantom-of-the-opera-1989
+  genres:
+    - Romance
+    - Horror
+  letterboxd_rating: 2.9
 
 - id: being-human-1994
   tmdb_id: 46924
@@ -114,7 +135,12 @@
   director: Bill Forsyth
   tags: { opacity: 2, stillness: 3, bleakness: 3, humor: 2, acclaim: 0.35 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
-  letterboxd_slug: being-human-1994
+  letterboxd_slug: being-human
+  genres:
+    - Comedy
+    - Drama
+    - Fantasy
+  letterboxd_rating: 2.95
 
 - id: alive-and-kicking-1996
   tmdb_id: 172545
@@ -125,6 +151,9 @@
   tags: { opacity: 2, stillness: 3, bleakness: 4, humor: 2, acclaim: 0.45 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
   letterboxd_slug: alive-and-kicking
+  genres:
+    - Comedy
+    - Drama
 
 - id: true-blue
   tmdb_id: 39463
@@ -135,6 +164,11 @@
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.35 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: true-blue
+  genres:
+    - Crime
+    - Thriller
+    - Mystery
+    - Drama
 
 - id: fairytale-a-true-story
   tmdb_id: 29911
@@ -145,6 +179,12 @@
   tags: { opacity: 2, stillness: 2, bleakness: 1, humor: 2, acclaim: 0.5 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: fairytale-a-true-story
+  genres:
+    - Family
+    - Fantasy
+    - Drama
+    - Mystery
+  letterboxd_rating: 3.34
 
 - id: still-crazy
   tmdb_id: 1618
@@ -155,6 +195,10 @@
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.65 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   letterboxd_slug: still-crazy
+  genres:
+    - Comedy
+    - Music
+  letterboxd_rating: 3.39
 
 - id: guest-house-paradiso
   tmdb_id: 10482
@@ -165,6 +209,9 @@
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.25 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
   letterboxd_slug: guest-house-paradiso
+  genres:
+    - Comedy
+  letterboxd_rating: 3.11
 
 - id: lucky-break
   tmdb_id: 35944
@@ -175,6 +222,10 @@
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.45 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: lucky-break
+  genres:
+    - Crime
+    - Comedy
+  letterboxd_rating: 3.26
 
 - id: lawless-heart
   tmdb_id: 77283
@@ -185,6 +236,11 @@
   tags: { opacity: 2, stillness: 3, bleakness: 3, humor: 2, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
   letterboxd_slug: lawless-heart
+  genres:
+    - Drama
+    - Romance
+    - Comedy
+  letterboxd_rating: 3.35
 
 - id: aka-2002
   tmdb_id: 43657
@@ -195,6 +251,8 @@
   tags: { opacity: 3, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.5 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 2 }
   letterboxd_slug: aka
+  genres:
+    - Drama
 
 - id: i-capture-the-castle
   tmdb_id: 17920
@@ -205,6 +263,10 @@
   tags: { opacity: 2, stillness: 3, bleakness: 2, humor: 2, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   letterboxd_slug: i-capture-the-castle
+  genres:
+    - Romance
+    - Drama
+  letterboxd_rating: 3.27
 
 - id: enduring-love
   tmdb_id: 9391
@@ -215,6 +277,12 @@
   tags: { opacity: 3, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.5 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
   letterboxd_slug: enduring-love
+  genres:
+    - Romance
+    - Thriller
+    - Drama
+    - Mystery
+  letterboxd_rating: 3.22
 
 - id: the-magic-roundabout
   tmdb_id: 16455
@@ -225,6 +293,12 @@
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.35 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: the-magic-roundabout
+  genres:
+    - Fantasy
+    - Animation
+    - Comedy
+    - Family
+  letterboxd_rating: 2.91
 
 - id: flushed-away
   tmdb_id: 11619
@@ -235,6 +309,12 @@
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.6 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: flushed-away
+  genres:
+    - Family
+    - Adventure
+    - Comedy
+    - Animation
+  letterboxd_rating: 3.26
 
 - id: pirates-of-the-caribbean-dead-mans-chest
   tmdb_id: 58
@@ -245,6 +325,11 @@
   tags: { opacity: 2, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.6 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: pirates-of-the-caribbean-dead-mans-chest
+  genres:
+    - Action
+    - Adventure
+    - Fantasy
+  letterboxd_rating: 3.79
 
 - id: stormbreaker
   tmdb_id: 9978
@@ -255,6 +340,11 @@
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.3 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: stormbreaker
+  genres:
+    - Family
+    - Adventure
+    - Action
+  letterboxd_rating: 2.3
 
 - id: underworld-evolution
   tmdb_id: 834
@@ -265,6 +355,11 @@
   tags: { opacity: 2, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.4 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   letterboxd_slug: underworld-evolution
+  genres:
+    - Fantasy
+    - Thriller
+    - Action
+  letterboxd_rating: 2.91
 
 - id: pirates-of-the-caribbean-at-worlds-end
   tmdb_id: 285
@@ -275,6 +370,11 @@
   tags: { opacity: 2, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: pirates-of-the-caribbean-at-worlds-end
+  genres:
+    - Adventure
+    - Action
+    - Fantasy
+  letterboxd_rating: 3.65
 
 - id: astro-boy
   tmdb_id: 16577
@@ -285,6 +385,12 @@
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.5 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: astro-boy
+  genres:
+    - Science Fiction
+    - Animation
+    - Action
+    - Family
+  letterboxd_rating: 2.97
 
 - id: g-force
   tmdb_id: 19585
@@ -295,6 +401,13 @@
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.25 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: g-force
+  genres:
+    - Comedy
+    - Family
+    - Adventure
+    - Fantasy
+    - Action
+  letterboxd_rating: 2.39
 
 - id: glorious-39
   tmdb_id: 35939
@@ -305,6 +418,12 @@
   tags: { opacity: 3, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.5 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: glorious-39
+  genres:
+    - War
+    - History
+    - Drama
+    - Thriller
+  letterboxd_rating: 3.15
 
 - id: the-boat-that-rocked
   tmdb_id: 18947
@@ -315,6 +434,10 @@
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   letterboxd_slug: the-boat-that-rocked
+  genres:
+    - Drama
+    - Comedy
+  letterboxd_rating: 3.65
 
 - id: underworld-rise-of-the-lycans
   tmdb_id: 12437
@@ -325,6 +448,11 @@
   tags: { opacity: 2, stillness: 1, bleakness: 4, humor: 1, acclaim: 0.45 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
   letterboxd_slug: underworld-rise-of-the-lycans
+  genres:
+    - Thriller
+    - Action
+    - Fantasy
+  letterboxd_rating: 2.88
 
 - id: wild-target
   tmdb_id: 44147
@@ -335,6 +463,10 @@
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.45 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: wild-target
+  genres:
+    - Action
+    - Comedy
+  letterboxd_rating: 3.13
 
 - id: chalet-girl
   tmdb_id: 58232
@@ -345,6 +477,10 @@
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.4 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: chalet-girl
+  genres:
+    - Comedy
+    - Romance
+  letterboxd_rating: 2.86
 
 - id: arthur-christmas
   tmdb_id: 51052
@@ -355,6 +491,12 @@
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.7 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: arthur-christmas
+  genres:
+    - Animation
+    - Drama
+    - Family
+    - Comedy
+  letterboxd_rating: 3.55
 
 - id: total-recall-2012
   tmdb_id: 64635
@@ -365,6 +507,11 @@
   tags: { opacity: 2, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.45 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   letterboxd_slug: total-recall-2012
+  genres:
+    - Science Fiction
+    - Thriller
+    - Action
+  letterboxd_rating: 2.56
 
 - id: wrath-of-the-titans
   tmdb_id: 57165
@@ -375,6 +522,11 @@
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.35 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   letterboxd_slug: wrath-of-the-titans
+  genres:
+    - Action
+    - Fantasy
+    - Adventure
+  letterboxd_rating: 2.38
 
 - id: i-frankenstein
   tmdb_id: 100241
@@ -385,6 +537,10 @@
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.25 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   letterboxd_slug: i-frankenstein
+  genres:
+    - Thriller
+    - Horror
+  letterboxd_rating: 1.82
 
 - id: the-second-best-exotic-marigold-hotel
   tmdb_id: 268238
@@ -395,6 +551,10 @@
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.5 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: the-second-best-exotic-marigold-hotel
+  genres:
+    - Comedy
+    - Drama
+  letterboxd_rating: 3.16
 
 - id: dads-army
   tmdb_id: 332721
@@ -405,6 +565,10 @@
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.3 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: dads-army
+  genres:
+    - War
+    - Comedy
+  letterboxd_rating: 3.34
 
 - id: the-limehouse-golem
   tmdb_id: 369300
@@ -415,6 +579,11 @@
   tags: { opacity: 3, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
   letterboxd_slug: the-limehouse-golem
+  genres:
+    - Thriller
+    - Horror
+    - Mystery
+  letterboxd_rating: 3.08
 
 - id: the-bookshop
   tmdb_id: 444539
@@ -425,6 +594,9 @@
   tags: { opacity: 2, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: the-bookshop
+  genres:
+    - Drama
+  letterboxd_rating: 3.08
 
 - id: detective-pikachu
   tmdb_id: 447404
@@ -435,6 +607,11 @@
   tags: { opacity: 2, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.65 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: pokemon-detective-pikachu
+  genres:
+    - Action
+    - Fantasy
+    - Adventure
+  letterboxd_rating: 3.04
 
 - id: sometimes-always-never
   tmdb_id: 542714
@@ -445,6 +622,10 @@
   tags: { opacity: 3, stillness: 3, bleakness: 3, humor: 2, acclaim: 0.6 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: sometimes-always-never
+  genres:
+    - Comedy
+    - Drama
+  letterboxd_rating: 3.34
 
 - id: stardog-and-turbocat
   tmdb_id: 515789
@@ -455,6 +636,11 @@
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.25 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: stardog-and-turbocat
+  genres:
+    - Animation
+    - Comedy
+    - Family
+  letterboxd_rating: 2.68
 
 - id: minamata
   tmdb_id: 560008
@@ -465,6 +651,10 @@
   tags: { opacity: 2, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: minamata
+  genres:
+    - Drama
+    - History
+  letterboxd_rating: 3.61
 
 - id: role-play-2023
   tmdb_id: 848187
@@ -475,6 +665,11 @@
   tags: { opacity: 2, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.35 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: role-play-2023
+  genres:
+    - Comedy
+    - Action
+    - Romance
+  letterboxd_rating: 2.35
 
 - id: gracie-and-pedro-pets-to-the-rescue
   tmdb_id: 1207830
@@ -485,6 +680,12 @@
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.2 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: gracie-and-pedro-pets-to-the-rescue
+  genres:
+    - Animation
+    - Adventure
+    - Comedy
+    - Family
+  letterboxd_rating: 2.68
 
 - id: joy-2024
   tmdb_id: 1184495
@@ -495,6 +696,9 @@
   tags: { opacity: 2, stillness: 3, bleakness: 3, humor: 2, acclaim: 0.65 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: joy-2024
+  genres:
+    - Drama
+  letterboxd_rating: 3.56
 
 - id: that-christmas
   tmdb_id: 645757
@@ -505,6 +709,13 @@
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: that-christmas
+  genres:
+    - Adventure
+    - Fantasy
+    - Comedy
+    - Animation
+    - Family
+  letterboxd_rating: 3.39
 
 - id: the-beautiful-game-2024
   tmdb_id: 857655
@@ -515,6 +726,9 @@
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: the-beautiful-game-2024
+  genres:
+    - Drama
+  letterboxd_rating: 2.92
 
 - id: the-first-omen
   tmdb_id: 437342
@@ -525,6 +739,9 @@
   tags: { opacity: 3, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.6 }
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 2 }
   letterboxd_slug: the-first-omen
+  genres:
+    - Horror
+  letterboxd_rating: 3.38
 
 - id: the-wild-robot
   tmdb_id: 1184918
@@ -535,6 +752,12 @@
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: the-wild-robot
+  genres:
+    - Adventure
+    - Animation
+    - Family
+    - Science Fiction
+  letterboxd_rating: 4.21
 
 - id: and-sons
   tmdb_id: 1291829
@@ -545,3 +768,6 @@
   tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: sons-2025
+  genres:
+    - Drama
+  letterboxd_rating: 3.11
