@@ -1,6 +1,9 @@
 # New films for Bill Hader. Scales and anchors are in README.md ("The anchor rubric").
 #
-# Inside Out already exists in pixar.yaml — tagged before he had an entity.
+# Inside Out already exists in pixar.yaml — tagged before he had an entity. This pass adds
+# further free wins Superbad and Scott Pilgrim vs. the World (both Cera), Knocked Up and
+# Pineapple Express (both Rogen), Adventureland (Kristen Stewart), The BFG (Rylance), Beau Is
+# Afraid (Aster), and Year One (Harold Ramis), plus 10 new films below.
 
 - id: the-skeleton-twins
   tmdb_id: 244772
@@ -51,3 +54,83 @@
     - Drama
     - Thriller
     - Horror
+
+- id: you-me-and-dupree
+  tmdb_id: 1819
+  title: You, Me and Dupree
+  year: 2006
+  runtime: 108
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: hot-rod
+  tmdb_id: 10074
+  title: Hot Rod
+  year: 2007
+  runtime: 88
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-brothers-solomon
+  tmdb_id: 10071
+  title: The Brothers Solomon
+  year: 2007
+  runtime: 90
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: forgetting-sarah-marshall
+  tmdb_id: 9870
+  title: Forgetting Sarah Marshall
+  year: 2008
+  runtime: 111
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+
+- id: cloudy-with-a-chance-of-meatballs
+  tmdb_id: 22794
+  title: Cloudy with a Chance of Meatballs
+  year: 2009
+  runtime: 90
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: paul
+  tmdb_id: 39513
+  title: Paul
+  year: 2011
+  runtime: 104
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: cloudy-with-a-chance-of-meatballs-2
+  tmdb_id: 109451
+  title: Cloudy with a Chance of Meatballs 2
+  year: 2013
+  runtime: 95
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: popstar-never-stop-never-stopping
+  tmdb_id: 341012
+  title: "Popstar: Never Stop Never Stopping"
+  year: 2016
+  runtime: 87
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: power-rangers
+  tmdb_id: 305470
+  title: Power Rangers
+  year: 2017
+  runtime: 124
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: toy-story-4
+  tmdb_id: 301528
+  title: Toy Story 4
+  year: 2019
+  runtime: 100
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

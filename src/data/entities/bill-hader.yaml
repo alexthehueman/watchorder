@@ -37,6 +37,150 @@ films:
     gateway: 5
     note: The voice of Fear, one of five emotions steering a young girl through a difficult move, playing anxious vigilance as pure, nervous comic energy.
 
+  - film: superbad
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 4
+    note: A reckless, immature cop whose patrol partnership with a fellow officer spirals into an increasingly unhinged night.
+
+  - film: knocked-up
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 3
+    note: A minor supporting role in this Judd Apatow comedy about an unplanned pregnancy.
+
+  - film: pineapple-express
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: menacing
+    gateway: 2
+    note: A minor supporting role in this stoner action-comedy.
+
+  - film: forgetting-sarah-marshall
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 2
+    note: A minor supporting role in this breakup comedy set at a Hawaiian resort.
+
+  - film: adventureland
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 2
+    note: One of the amusement park's put-upon managers keeping half an eye on the summer staff.
+
+  - film: scott-pilgrim-vs-the-world
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 2
+    note: The voice of the video-game-style narrator guiding Scott through his romantic battles.
+
+  - film: paul
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: menacing
+    gateway: 2
+    note: One of two bumbling federal agents tasked with recapturing an escaped alien.
+
+  - film: the-bfg
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 1
+    note: The voice of one of the giant's blustering, child-eating rivals.
+
+  - film: popstar-never-stop-never-stopping
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 1
+    note: A member of a boy band's inner circle navigating the group's messy, mockumentary-style breakup.
+
+  - film: power-rangers
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 2
+    note: The voice of Alpha 5, the anxious robotic assistant guiding a new team of Power Rangers.
+
+  - film: toy-story-4
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 3
+    note: The voice of Axel, one of the traveling carnival's stuffed-animal prize toys.
+
+  - film: beau-is-afraid
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 1
+    note: A cameo appearance in this Ari Aster anxiety odyssey.
+
+  - film: year-one
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 1
+    note: A minor supporting role in this prehistoric buddy comedy.
+
+  - film: you-me-and-dupree
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 1
+    note: A minor supporting role in this comedy about an overstaying wedding guest.
+
+  - film: hot-rod
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 1
+    note: A minor supporting role in this comedy about an amateur stuntman.
+
+  - film: the-brothers-solomon
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: comic
+    gateway: 1
+    note: One of two socially inept brothers racing to have a baby before their dying father passes.
+
+  - film: cloudy-with-a-chance-of-meatballs
+    signature: 1
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 3
+    note: The voice of an inventor whose food-generating machine turns the sky into a weather event of delicious chaos.
+
+  - film: cloudy-with-a-chance-of-meatballs-2
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: comic
+    gateway: 2
+    note: The same inventor again, discovering his old machine has spawned an island of living food creatures.
+
 curated:
   curator: house
   rationale: The performance that proved real dramatic weight was underneath the comic timing, then everywhere else that timing gets put to more familiar use.
@@ -45,3 +189,4 @@ curated:
     - trainwreck
     - it-chapter-two
     - the-skeleton-twins
+    - cloudy-with-a-chance-of-meatballs
