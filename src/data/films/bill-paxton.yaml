@@ -61,6 +61,9 @@
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.45 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: streets-of-fire
+  genres:
+    - Action
+  letterboxd_rating: 3.55
 
 - id: impulse
   tmdb_id: 14157
@@ -71,6 +74,9 @@
   tags: { opacity: 2, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.4 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: impulse
+  genres:
+    - Drama
+    - Crime
 
 - id: reckless
   tmdb_id: 38702
@@ -81,6 +87,11 @@
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.4 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   letterboxd_slug: reckless
+  genres:
+    - Comedy
+    - Drama
+    - Music
+  letterboxd_rating: 3.21
 
 - id: the-lords-of-discipline
   tmdb_id: 67530
@@ -91,6 +102,10 @@
   tags: { opacity: 1, stillness: 1, bleakness: 4, humor: 1, acclaim: 0.5 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: the-lords-of-discipline
+  genres:
+    - Drama
+    - Thriller
+  letterboxd_rating: 3.28
 
 - id: mortuary
   tmdb_id: 44859
@@ -101,6 +116,9 @@
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.25 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: mortuary
+  genres:
+    - Horror
+  letterboxd_rating: 2.91
 
 - id: taking-tiger-mountain
   tmdb_id: 250861
@@ -111,6 +129,10 @@
   tags: { opacity: 3, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.25 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: taking-tiger-mountain
+  genres:
+    - Drama
+    - Science Fiction
+  letterboxd_rating: 3.21
 
 - id: pass-the-ammo
   tmdb_id: 92383
@@ -121,6 +143,9 @@
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.3 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: pass-the-ammo
+  genres:
+    - Comedy
+  letterboxd_rating: 3.19
 
 - id: slipstream
   tmdb_id: 22379
@@ -131,6 +156,10 @@
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.25 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: slipstream
+  genres:
+    - Adventure
+    - Science Fiction
+  letterboxd_rating: 2.43
 
 - id: brain-dead
   tmdb_id: 5898
@@ -141,6 +170,11 @@
   tags: { opacity: 3, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.35 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: brain-dead
+  genres:
+    - Thriller
+    - Science Fiction
+    - Horror
+  letterboxd_rating: 2.98
 
 - id: the-last-of-the-finest
   tmdb_id: 123770
@@ -151,6 +185,9 @@
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.35 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: the-last-of-the-finest
+  genres:
+    - Crime
+  letterboxd_rating: 3.05
 
 - id: navy-seals
   tmdb_id: 427910
@@ -161,6 +198,11 @@
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.3 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: navy-seals
+  genres:
+    - Thriller
+    - Adventure
+    - Action
+  letterboxd_rating: 2.7
 
 - id: predator-2
   tmdb_id: 169
@@ -171,6 +213,11 @@
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.45 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   letterboxd_slug: predator-2
+  genres:
+    - Action
+    - Science Fiction
+    - Thriller
+  letterboxd_rating: 2.88
 
 - id: the-dark-backward
   tmdb_id: 69342
@@ -181,6 +228,9 @@
   tags: { opacity: 2, stillness: 1, bleakness: 3, humor: 3, acclaim: 0.3 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: the-dark-backward
+  genres:
+    - Comedy
+  letterboxd_rating: 3.22
 
 - id: one-false-move
   tmdb_id: 21128
@@ -191,6 +241,11 @@
   tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.7 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: one-false-move
+  genres:
+    - Crime
+    - Drama
+    - Thriller
+  letterboxd_rating: 3.72
 
 - id: the-vagrant
   tmdb_id: 186869
@@ -201,6 +256,11 @@
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.3 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: the-vagrant
+  genres:
+    - Comedy
+    - Thriller
+    - Horror
+  letterboxd_rating: 3.15
 
 - id: boxing-helena
   tmdb_id: 18215
@@ -211,6 +271,11 @@
   tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.3 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 2 }
   letterboxd_slug: boxing-helena
+  genres:
+    - Romance
+    - Thriller
+    - Drama
+  letterboxd_rating: 2.7
 
 - id: monolith
   tmdb_id: 107087
@@ -221,6 +286,10 @@
   tags: { opacity: 2, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.25 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: monolith
+  genres:
+    - Action
+    - Science Fiction
+  letterboxd_rating: 3
 
 - id: frank-and-jesse
   tmdb_id: 42706
@@ -231,6 +300,12 @@
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.35 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: frank-jesse
+  genres:
+    - Drama
+    - Adventure
+    - Action
+    - Western
+  letterboxd_rating: 3.06
 
 - id: the-last-supper
   tmdb_id: 12520
@@ -241,6 +316,12 @@
   tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 3, acclaim: 0.5 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: the-last-supper
+  genres:
+    - Comedy
+    - Thriller
+    - Crime
+    - Drama
+  letterboxd_rating: 3.39
 
 - id: frailty
   tmdb_id: 12149
@@ -251,6 +332,12 @@
   tags: { opacity: 3, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.65 }
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: frailty
+  genres:
+    - Thriller
+    - Drama
+    - Horror
+    - Crime
+  letterboxd_rating: 3.51
 
 - id: the-evening-star
   tmdb_id: 30285
@@ -261,6 +348,11 @@
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.35 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: the-evening-star
+  genres:
+    - Drama
+    - Comedy
+    - Romance
+  letterboxd_rating: 2.86
 
 - id: traveller
   tmdb_id: 31465
@@ -271,6 +363,11 @@
   tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.45 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: traveller
+  genres:
+    - Crime
+    - Drama
+    - Adventure
+  letterboxd_rating: 3.16
 
 - id: mighty-joe-young
   tmdb_id: 9822
@@ -281,6 +378,12 @@
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.4 }
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: mighty-joe-young
+  genres:
+    - Action
+    - Adventure
+    - Drama
+    - Fantasy
+  letterboxd_rating: 3.45
 
 - id: u-571
   tmdb_id: 3536
@@ -291,6 +394,11 @@
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: u-571
+  genres:
+    - Adventure
+    - War
+    - Action
+  letterboxd_rating: 3.25
 
 - id: vertical-limit
   tmdb_id: 11678
@@ -301,6 +409,11 @@
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.4 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: vertical-limit
+  genres:
+    - Thriller
+    - Action
+    - Adventure
+  letterboxd_rating: 2.82
 
 - id: resistance-2003
   tmdb_id: 69299
@@ -311,6 +424,9 @@
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.35 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
   letterboxd_slug: resistance
+  genres:
+    - Romance
+    - Drama
 
 - id: club-dread
   tmdb_id: 11217
@@ -321,6 +437,12 @@
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.3 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
   letterboxd_slug: club-dread
+  genres:
+    - Thriller
+    - Mystery
+    - Horror
+    - Comedy
+  letterboxd_rating: 2.77
 
 - id: the-good-life-2007
   tmdb_id: 24050
@@ -331,6 +453,10 @@
   tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.4 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: the-good-life-2007
+  genres:
+    - Comedy
+    - Drama
+  letterboxd_rating: 3.24
 
 - id: shanghai-calling
   tmdb_id: 126186
@@ -341,6 +467,11 @@
   tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 3, acclaim: 0.4 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: shanghai-calling
+  genres:
+    - Drama
+    - Romance
+    - Comedy
+  letterboxd_rating: 3.07
 
 - id: the-colony
   tmdb_id: 178809
@@ -351,6 +482,11 @@
   tags: { opacity: 1, stillness: 1, bleakness: 4, humor: 1, acclaim: 0.35 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   letterboxd_slug: the-colony
+  genres:
+    - Thriller
+    - Action
+    - Science Fiction
+  letterboxd_rating: 2.48
 
 - id: 2-guns
   tmdb_id: 136400
@@ -361,6 +497,11 @@
   tags: { opacity: 2, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.5 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   letterboxd_slug: 2-guns
+  genres:
+    - Comedy
+    - Crime
+    - Action
+  letterboxd_rating: 2.95
 
 - id: pixies
   tmdb_id: 348746
@@ -371,6 +512,10 @@
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.2 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: pixies
+  genres:
+    - Animation
+    - Comedy
+  letterboxd_rating: 2.74
 
 - id: term-life
   tmdb_id: 257440
@@ -381,6 +526,12 @@
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.3 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: term-life
+  genres:
+    - Thriller
+    - Action
+    - Drama
+    - Mystery
+  letterboxd_rating: 2.44
 
 - id: mean-dreams
   tmdb_id: 393732
@@ -391,3 +542,7 @@
   tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.5 }
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: mean-dreams
+  genres:
+    - Drama
+    - Thriller
+  letterboxd_rating: 3.21
