@@ -49,6 +49,438 @@ films:
     gateway: 1
     note: A forgotten pioneer of early cinema, discovered decades later running a toy stall in a Paris train station.
 
+  - film: iron-man-3
+    signature: 3
+    showcase: 4
+    role_size: supporting
+    register: comic
+    gateway: 4
+    note: A washed-up actor unwittingly fronting for a terrorist mastermind's carefully staged persona, playing theatrical menace that turns out to be exactly that.
+
+  - film: bugsy
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: menacing
+    gateway: 2
+    note: A mob associate navigating the volatile business of Bugsy Siegel's Las Vegas ambitions.
+
+  - film: dave
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: restrained
+    gateway: 1
+    note: A minor supporting role in this comedy about a presidential impersonator.
+
+  - film: searching-for-bobby-fischer
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: restrained
+    gateway: 1
+    note: A chess coach whose ruthless tournament philosophy clashes with a gentler mentor over a prodigy's development.
+
+  - film: knight-of-cups
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: restrained
+    gateway: 1
+    note: A voice among the fragments drifting through a disaffected screenwriter's Los Angeles.
+
+  - film: life-2017
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: restrained
+    gateway: 2
+    note: Mission control's voice guiding the crew investigating a rapidly evolving alien life form.
+
+  - film: shang-chi
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 3
+    note: An eccentric actor hired to impersonate a legendary warlord, revealed to be a fraud almost immediately.
+
+  - film: desert-warrior
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: menacing
+    gateway: 1
+    note: A rival power broker complicating a legendary bandit's rise, in this Saudi-produced historical epic.
+
+  - film: collide
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: menacing
+    gateway: 1
+    note: A crime boss whose stolen drug shipment sets off the film's high-speed pursuit.
+
+  - film: security-2017
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: restrained
+    gateway: 1
+    note: A minor supporting role in this action thriller about a mall under siege.
+
+  - film: maurice
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: restrained
+    gateway: 1
+    note: A minor supporting role in this Forster adaptation about a closeted romance in Edwardian England.
+
+  - film: betrayal-1983
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A publisher unraveling his best friend's years-long affair with his own wife, told in reverse chronology, in this Pinter adaptation.
+
+  - film: without-a-clue
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: comic
+    gateway: 2
+    note: The real brains behind Sherlock Holmes, ghostwriting for a dim-witted actor hired to play the detective in public.
+
+  - film: sneakers
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: menacing
+    gateway: 2
+    note: A former friend turned rogue security expert whose scheme drags a team of security specialists into a dangerous heist.
+
+  - film: death-and-the-maiden
+    signature: 1
+    showcase: 3
+    role_size: lead
+    register: unhinged
+    gateway: 1
+    note: A doctor accused by a former torture victim of being her tormentor, held hostage in her home for a forced confession.
+
+  - film: species
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: restrained
+    gateway: 2
+    note: The government scientist who oversaw the alien-human hybrid experiment now loose and hunting for a mate.
+
+  - film: what-planet-are-you-from
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 1
+    note: A minor comic role in this satire about an alien sent to Earth to impregnate a human.
+
+  - film: rules-of-engagement
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: restrained
+    gateway: 1
+    note: A minor supporting role in this military-court drama about a botched embassy evacuation.
+
+  - film: a-i-artificial-intelligence
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: warm
+    gateway: 2
+    note: The unseen voice narrating this Spielberg fable about a robot child seeking his mother's love.
+
+  - film: tuck-everlasting
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: menacing
+    gateway: 1
+    note: A stranger hunting down the family who discovered the source of eternal life.
+
+  - film: thunderbirds
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: menacing
+    gateway: 1
+    note: A supervillain known as the Hood, scheming against the Tracy family's rescue organization.
+
+  - film: suspect-zero
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: unhinged
+    gateway: 1
+    note: A former FBI profiler whose psychic visions of serial killers have driven him to hunt them himself.
+
+  - film: oliver-twist
+    signature: 1
+    showcase: 3
+    role_size: lead
+    register: menacing
+    gateway: 1
+    note: Fagin, running a den of child pickpockets in Polanski's adaptation of the Dickens novel.
+
+  - film: bloodrayne
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: menacing
+    gateway: 1
+    note: A minor role in this vampire-hunter action film.
+
+  - film: lucky-number-slevin
+    signature: 1
+    showcase: 3
+    role_size: lead
+    register: menacing
+    gateway: 2
+    note: A crime boss known as The Rabbi, one of two rival gang leaders manipulating a case of mistaken identity.
+
+  - film: you-kill-me
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: comic
+    gateway: 1
+    note: An alcoholic mob hitman sent to AA meetings by his family to sober up before his next job.
+
+  - film: the-last-legion
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: restrained
+    gateway: 1
+    note: A minor supporting role in this sword-and-sandal epic about the fall of the Roman Empire.
+
+  - film: elegy
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: An aging literature professor whose affair with a much younger former student unsettles his carefully guarded detachment.
+
+  - film: the-love-guru
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 1
+    note: A cross-eyed spiritual guru mentoring the film's self-styled love expert.
+
+  - film: the-wackness
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A pot-smoking psychiatrist trading therapy sessions for drugs with a teenage dealer.
+
+  - film: transsiberian
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: menacing
+    gateway: 1
+    note: A narcotics detective investigating a smuggling operation aboard the Trans-Siberian railway.
+
+  - film: fifty-dead-men-walking
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: menacing
+    gateway: 1
+    note: A British intelligence handler running an informant embedded deep within the IRA.
+
+  - film: prince-of-persia-the-sands-of-time
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: menacing
+    gateway: 2
+    note: A scheming nobleman whose ambitions for the throne drive the plot against the film's prince.
+
+  - film: the-dictator
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: menacing
+    gateway: 2
+    note: A conniving advisor plotting to replace a tyrannical dictator with a more compliant body double.
+
+  - film: enders-game
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: restrained
+    gateway: 1
+    note: A decorated war hero mentoring the child recruits training to fight an alien invasion.
+
+  - film: the-physician
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A Persian physician mentoring an English apprentice in medieval medicine.
+
+  - film: the-boxtrolls
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: menacing
+    gateway: 2
+    note: A vain, cheese-obsessed exterminator scheming to wipe out the film's trash-collecting trolls.
+
+  - film: learning-to-drive
+    signature: 1
+    showcase: 3
+    role_size: lead
+    register: warm
+    gateway: 2
+    note: A patient Sikh driving instructor teaching a recently divorced woman to drive, and to trust herself again.
+
+  - film: stonehearst-asylum
+    signature: 1
+    showcase: 3
+    role_size: lead
+    register: unhinged
+    gateway: 1
+    note: The superintendent of an asylum whose unconventional methods hide a much darker secret.
+
+  - film: exodus-gods-and-kings
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: restrained
+    gateway: 1
+    note: A Hebrew elder counseling Moses as he leads his people out of Egyptian slavery.
+
+  - film: night-at-the-museum-secret-of-the-tomb
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: warm
+    gateway: 2
+    note: A pharaoh whose ancient magic explains why the museum's exhibits keep coming to life.
+
+  - film: self-less
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: menacing
+    gateway: 1
+    note: The man behind a black-market consciousness-transfer operation, whose ideal clients aren't quite who they seem.
+
+  - film: the-walk
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: warm
+    gateway: 2
+    note: A veteran high-wire mentor training the young Philippe Petit for his illegal walk between the Twin Towers.
+
+  - film: the-jungle-book-2016
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: warm
+    gateway: 3
+    note: The voice of Bagheera, the panther watching over Mowgli's upbringing among the wolves.
+
+  - film: war-machine
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 2
+    note: A minor supporting role in this satire of a hard-charging U.S. general's Afghanistan command.
+
+  - film: operation-finale
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: Nazi war criminal Adolf Eichmann, captured and interrogated by Israeli agents in Argentina.
+
+  - film: the-red-sea-diving-resort
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: warm
+    gateway: 1
+    note: A minor supporting role in this drama about a covert operation to rescue Ethiopian Jewish refugees.
+
+  - film: spider-in-the-web
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A veteran Israeli spy on his final mission, paired with a younger handler who doesn't trust his methods.
+
+  - film: locked-down
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: warm
+    gateway: 1
+    note: A minor supporting role in this pandemic-era heist comedy.
+
+  - film: dalíland
+    signature: 1
+    showcase: 3
+    role_size: lead
+    register: unhinged
+    gateway: 1
+    note: An aging Salvador Dalí, seen through the eyes of the young assistant navigating his chaotic final years.
+
+  - film: jules
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: warm
+    gateway: 1
+    note: One of the elderly friends helping conceal a crash-landed alien in a neighbor's backyard.
+
+  - film: the-wonderful-story-of-henry-sugar
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: restrained
+    gateway: 1
+    note: A supporting narrator role in this Roald Dahl short film about a man who learns to see without his eyes.
+
+  - film: the-killers-game
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: menacing
+    gateway: 1
+    note: A minor supporting role in this action-comedy about a hitman who takes out a contract on himself.
+
+  - film: the-thursday-murder-club
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: warm
+    gateway: 2
+    note: One of four retirees in a nursing home whose cold-case murder club stumbles onto a real one.
+
 curated:
   curator: house
   rationale: The two landmark performances first, then the range around them.
@@ -59,3 +491,4 @@ curated:
     - house-of-sand-and-fog
     - shutter-island
     - hugo
+    - iron-man-3

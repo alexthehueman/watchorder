@@ -2,7 +2,29 @@
 #
 # Schindler's List already exists in spielberg.yaml. Sexy Beast already exists in jonathan-glazer.yaml.
 # House of Sand and Fog already exists in roger-deakins.yaml. Shutter Island already exists in
-# von-sydow.yaml. Hugo already exists in moretz.yaml.
+# von-sydow.yaml. Hugo already exists in moretz.yaml. This pass adds further free wins Bugsy
+# (Bening), Dave (Kevin Kline), Sneakers (searching-for-bobby-fischer's Conrad Hall is unrelated —
+# Sneakers itself has no prior corpus entry, added below), Searching for Bobby Fischer (Conrad
+# Hall), Knight of Cups (Malick), Life (Ferguson), Shang-Chi (Awkwafina), Desert Warrior (Anthony
+# Mackie), Collide (Hopkins), and Security (Banderas), plus 43 new films below.
+#
+# The Jungle Book needed a distinct id for his 2016 live-action role, unrelated to the 1967
+# animated classic already in the corpus under Disney despite sharing the exact title.
+#
+# Scope note: his 87-credit career has a long tail of obscure UK TV movies, documentaries,
+# narration work, and low-budget genre pictures from the 1980s-2020s with no accessible synopsis
+# or reception info to tag content flags from with confidence — Harem, Turtle Diary, Pascali's
+# Island, Testimony, Slipstream, The 5th Monkey, A Violent Life, Necessary Love, Freddie as F.R.O.7,
+# Twelfth Night, The Assignment, Photographing Fairies, The Confession, Parting Shots, CNN
+# Millennium, Spooky House, Islam: Empire of Faith, Triumph of Love, China's Stolen Children,
+# Noah's Ark: The New Beginning, Journey to Mecca, Teen Patti, 1001 Inventions and the Library of
+# Secrets, The Desert of Forbidden Art, Beatles Stories, A Therapy, A Common Man, A Birder's Guide
+# to Everything, All Hail the King, War Story, Unity, Dragonheart 3, An Ordinary Man, Backstabbing
+# for Beginners, Night Hunter, Intrigo: Death of an Author, Poison, William Tell, The King of
+# Kings, Young Washington, Fortitude, Sonic the Hedgehog 4, The Way of the Wind, Walking with the
+# Enemy, and The Ottoman Lieutenant (the latter two had no locatable tmdb_id), plus Fear Is the
+# Key (1972). Deliberately deferred rather than guessed. Excluded Deep Water (2026) as unreleased
+# as of today.
 
 - id: gandhi
   tmdb_id: 783
@@ -18,3 +40,341 @@
     - Drama
     - History
   letterboxd_rating: 3.75
+
+- id: betrayal-1983
+  tmdb_id: 139383
+  title: Betrayal
+  year: 1983
+  runtime: 95
+  tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: maurice
+  tmdb_id: 26371
+  title: Maurice
+  year: 1987
+  runtime: 140
+  tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.72 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: without-a-clue
+  tmdb_id: 12582
+  title: Without a Clue
+  year: 1988
+  runtime: 106
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: sneakers
+  tmdb_id: 2322
+  title: Sneakers
+  year: 1992
+  runtime: 126
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: death-and-the-maiden
+  tmdb_id: 10531
+  title: Death and the Maiden
+  year: 1994
+  runtime: 103
+  tags: { opacity: 2, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.65 }
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: species
+  tmdb_id: 9348
+  title: Species
+  year: 1995
+  runtime: 108
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+
+- id: rules-of-engagement
+  tmdb_id: 10479
+  title: Rules of Engagement
+  year: 2000
+  runtime: 128
+  tags: { opacity: 2, stillness: 1, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
+
+- id: a-i-artificial-intelligence
+  tmdb_id: 644
+  title: A.I. Artificial Intelligence
+  year: 2001
+  runtime: 146
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
+
+- id: tuck-everlasting
+  tmdb_id: 13768
+  title: Tuck Everlasting
+  year: 2002
+  runtime: 90
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: thunderbirds
+  tmdb_id: 14623
+  title: Thunderbirds
+  year: 2004
+  runtime: 95
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: suspect-zero
+  tmdb_id: 8080
+  title: Suspect Zero
+  year: 2004
+  runtime: 99
+  tags: { opacity: 2, stillness: 1, bleakness: 4, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: oliver-twist
+  tmdb_id: 257
+  title: Oliver Twist
+  year: 2005
+  director: Roman Polanski
+  runtime: 130
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.60 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+
+- id: bloodrayne
+  tmdb_id: 168705
+  title: BloodRayne
+  year: 2006
+  runtime: 95
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.15 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+
+- id: lucky-number-slevin
+  tmdb_id: 186
+  title: Lucky Number Slevin
+  year: 2006
+  runtime: 110
+  tags: { opacity: 3, stillness: 1, bleakness: 3, humor: 3, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: you-kill-me
+  tmdb_id: 8141
+  title: You Kill Me
+  year: 2007
+  runtime: 92
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-last-legion
+  tmdb_id: 9703
+  title: The Last Legion
+  year: 2007
+  runtime: 101
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: elegy
+  tmdb_id: 11671
+  title: Elegy
+  year: 2008
+  runtime: 108
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: the-love-guru
+  tmdb_id: 12177
+  title: The Love Guru
+  year: 2008
+  runtime: 88
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.20 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: the-wackness
+  tmdb_id: 13990
+  title: The Wackness
+  year: 2008
+  runtime: 99
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: transsiberian
+  tmdb_id: 6687
+  title: Transsiberian
+  year: 2008
+  runtime: 111
+  tags: { opacity: 2, stillness: 1, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: fifty-dead-men-walking
+  tmdb_id: 17622
+  title: Fifty Dead Men Walking
+  year: 2008
+  runtime: 120
+  tags: { opacity: 1, stillness: 1, bleakness: 4, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: prince-of-persia-the-sands-of-time
+  tmdb_id: 9543
+  title: "Prince of Persia: The Sands of Time"
+  year: 2010
+  runtime: 116
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 2, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-dictator
+  tmdb_id: 76493
+  title: The Dictator
+  year: 2012
+  runtime: 83
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: iron-man-3
+  tmdb_id: 68721
+  title: Iron Man 3
+  year: 2013
+  runtime: 130
+  tags: { opacity: 3, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: enders-game
+  tmdb_id: 80274
+  title: Ender's Game
+  year: 2013
+  runtime: 114
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+
+- id: the-physician
+  tmdb_id: 169881
+  title: The Physician
+  year: 2013
+  runtime: 150
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: the-boxtrolls
+  tmdb_id: 170687
+  title: The Boxtrolls
+  year: 2014
+  runtime: 97
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.60 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: learning-to-drive
+  tmdb_id: 284286
+  title: Learning to Drive
+  year: 2014
+  runtime: 90
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: stonehearst-asylum
+  tmdb_id: 207933
+  title: Stonehearst Asylum
+  year: 2014
+  runtime: 112
+  tags: { opacity: 3, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: exodus-gods-and-kings
+  tmdb_id: 147441
+  title: "Exodus: Gods and Kings"
+  year: 2014
+  runtime: 150
+  tags: { opacity: 1, stillness: 1, bleakness: 4, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
+
+- id: night-at-the-museum-secret-of-the-tomb
+  tmdb_id: 181533
+  title: "Night at the Museum: Secret of the Tomb"
+  year: 2014
+  runtime: 97
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: self-less
+  tmdb_id: 238615
+  title: Self/less
+  year: 2015
+  runtime: 117
+  tags: { opacity: 2, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-walk
+  tmdb_id: 285783
+  title: The Walk
+  year: 2015
+  runtime: 123
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 2, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-jungle-book-2016
+  tmdb_id: 278927
+  title: The Jungle Book
+  year: 2016
+  runtime: 106
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: operation-finale
+  tmdb_id: 493551
+  title: Operation Finale
+  year: 2018
+  runtime: 122
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-red-sea-diving-resort
+  tmdb_id: 465003
+  title: The Red Sea Diving Resort
+  year: 2019
+  runtime: 130
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 2, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: spider-in-the-web
+  tmdb_id: 513413
+  title: Spider in the Web
+  year: 2019
+  runtime: 111
+  tags: { opacity: 2, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: dalíland
+  tmdb_id: 522925
+  title: Dalíland
+  year: 2022
+  runtime: 97
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: jules
+  tmdb_id: 1072371
+  title: Jules
+  year: 2023
+  runtime: 90
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 3, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-wonderful-story-of-henry-sugar
+  tmdb_id: 923939
+  title: The Wonderful Story of Henry Sugar
+  year: 2023
+  director: Wes Anderson
+  runtime: 39
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 3, acclaim: 0.70 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-killers-game
+  tmdb_id: 507241
+  title: "The Killer's Game"
+  year: 2024
+  runtime: 104
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: the-thursday-murder-club
+  tmdb_id: 744653
+  title: The Thursday Murder Club
+  year: 2025
+  runtime: 120
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
