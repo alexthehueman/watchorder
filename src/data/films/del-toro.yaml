@@ -72,6 +72,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: big-top-pee-wee
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ib/gf/tl/7p/big%20top%20pee%20wee-1200-1200-675-675-crop-000000.jpg?v=da6737d2c3
+  genres:
+    - Comedy
+    - Family
+  letterboxd_rating: 2.76
 
 - id: the-indian-runner
   tmdb_id: 25598
@@ -82,6 +86,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   letterboxd_slug: the-indian-runner
   poster_url: https://a.ltrbxd.com/resized/sm/upload/br/eg/xc/8t/indian%20runner-1200-1200-675-675-crop-000000.jpg?v=c53cab8c48
+  genres:
+    - Drama
+  letterboxd_rating: 3.52
 
 - id: christopher-columbus-the-discovery
   tmdb_id: 41682
@@ -92,6 +99,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: christopher-columbus-the-discovery
   poster_url: https://a.ltrbxd.com/resized/film-poster/2/3/3/6/4/23364-christopher-columbus-the-discovery-0-230-0-345-crop.jpg?v=d3b64b5a9e
+  genres:
+    - History
+    - Adventure
+  letterboxd_rating: 2.56
 
 - id: fearless-1993
   tmdb_id: 10443
@@ -102,6 +113,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: fearless
   poster_url: https://a.ltrbxd.com/resized/sm/upload/mh/r8/dr/tc/fearless1-1200-1200-675-675-crop-000000.jpg?v=5ce031a7e2
+  genres:
+    - Drama
+  letterboxd_rating: 3.69
 
 - id: golden-balls
   tmdb_id: 47707
@@ -112,6 +126,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   letterboxd_slug: golden-balls
   poster_url: https://a.ltrbxd.com/resized/sm/upload/h8/pv/xl/s9/wquMMidlcFzTRorzPUXOfR8phOi-1200-1200-675-675-crop-000000.jpg?v=97c13f052f
+  genres:
+    - Comedy
+    - Drama
+  letterboxd_rating: 3.25
 
 - id: money-for-nothing
   tmdb_id: 55448
@@ -122,6 +140,11 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: money-for-nothing
   poster_url: https://a.ltrbxd.com/resized/film-poster/1/0/6/8/9/10689-money-for-nothing-0-230-0-345-crop.jpg?v=2a639fd212
+  genres:
+    - Drama
+    - Crime
+    - Comedy
+  letterboxd_rating: 2.88
 
 - id: swimming-with-sharks
   tmdb_id: 20306
@@ -132,6 +155,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: swimming-with-sharks
   poster_url: https://a.ltrbxd.com/resized/sm/upload/l4/jv/su/2y/swimming%20with%20sharks-1200-1200-675-675-crop-000000.jpg?v=3938928583
+  genres:
+    - Comedy
+    - Crime
+  letterboxd_rating: 3.43
 
 - id: china-moon
   tmdb_id: 26337
@@ -142,6 +169,11 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
   letterboxd_slug: china-moon
   poster_url: https://a.ltrbxd.com/resized/sm/upload/1b/45/d0/ky/eY57xOF7ThRiZiFiUKmYSI3JIAV-1200-1200-675-675-crop-000000.jpg?v=5df6f9fa01
+  genres:
+    - Thriller
+    - Crime
+    - Mystery
+  letterboxd_rating: 3.13
 
 - id: the-funeral
   tmdb_id: 21612
@@ -152,6 +184,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   letterboxd_slug: the-funeral-1996
   poster_url: https://a.ltrbxd.com/resized/sm/upload/s5/kh/8o/30/funeral-1200-1200-675-675-crop-000000.jpg?v=7b19f598f1
+  genres:
+    - Drama
+    - Crime
+  letterboxd_rating: 3.69
 
 - id: the-fan-1996
   tmdb_id: 9566
@@ -162,6 +198,11 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   letterboxd_slug: the-fan
   poster_url: https://a.ltrbxd.com/resized/sm/upload/qg/ie/og/ls/the%20fan-1200-1200-675-675-crop-000000.jpg?v=30c845154b
+  genres:
+    - Thriller
+    - Action
+    - Drama
+  letterboxd_rating: 3.02
 
 - id: excess-baggage
   tmdb_id: 26180
@@ -172,6 +213,11 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: excess-baggage
   poster_url: https://a.ltrbxd.com/resized/sm/upload/aq/2y/3a/ht/excess-1200-1200-675-675-crop-000000.jpg?v=bf18afed26
+  genres:
+    - Crime
+    - Action
+    - Comedy
+  letterboxd_rating: 2.95
 
 - id: joyride-1997
   tmdb_id: 48319
@@ -182,6 +228,11 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: joyride-1997
   poster_url: https://a.ltrbxd.com/resized/film-poster/1/7/2/0/2/17202-joyride-0-230-0-345-crop.jpg?v=a617a60938
+  genres:
+    - Thriller
+    - Comedy
+    - Drama
+  letterboxd_rating: 2.74
 
 - id: the-way-of-the-gun
   tmdb_id: 1619
@@ -192,6 +243,12 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   letterboxd_slug: the-way-of-the-gun
   poster_url: https://a.ltrbxd.com/resized/sm/upload/zn/86/c1/j7/way%20of%20the%20gun-1200-1200-675-675-crop-000000.jpg?v=8916bfe924
+  genres:
+    - Drama
+    - Crime
+    - Action
+    - Thriller
+  letterboxd_rating: 3.3
 
 - id: the-pledge
   tmdb_id: 5955
@@ -202,6 +259,12 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: the-pledge
   poster_url: https://a.ltrbxd.com/resized/sm/upload/bp/2r/vo/e4/pledge-1200-1200-675-675-crop-000000.jpg?v=5d8961bb50
+  genres:
+    - Drama
+    - Mystery
+    - Crime
+    - Thriller
+  letterboxd_rating: 3.29
 
 - id: the-hunted
   tmdb_id: 10632
@@ -212,6 +275,12 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   letterboxd_slug: the-hunted-2003
   poster_url: https://a.ltrbxd.com/resized/sm/upload/f2/d3/xk/h4/hunted-1200-1200-675-675-crop-000000.jpg?v=0349c70f04
+  genres:
+    - Crime
+    - Action
+    - Thriller
+    - Drama
+  letterboxd_rating: 3.2
 
 - id: things-we-lost-in-the-fire
   tmdb_id: 3877
@@ -222,6 +291,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: things-we-lost-in-the-fire
   poster_url: https://a.ltrbxd.com/resized/sm/upload/rg/v4/0c/h9/things-1200-1200-675-675-crop-000000.jpg?v=e75f00e0b3
+  genres:
+    - Drama
+  letterboxd_rating: 3.42
 
 - id: che-part-one
   tmdb_id: 8881
@@ -233,6 +305,11 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   letterboxd_slug: che-part-one
   poster_url: https://a.ltrbxd.com/resized/sm/upload/qp/do/dy/h3/che-part-one-1200-1200-675-675-crop-000000.jpg?v=29ed815ed9
+  genres:
+    - War
+    - Drama
+    - History
+  letterboxd_rating: 3.81
 
 - id: che-part-two
   tmdb_id: 8880
@@ -244,6 +321,11 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   letterboxd_slug: che-part-two
   poster_url: https://a.ltrbxd.com/resized/sm/upload/co/ya/ht/ez/che-part-two-1200-1200-675-675-crop-000000.jpg?v=5ba2dd3b0f
+  genres:
+    - Drama
+    - War
+    - History
+  letterboxd_rating: 3.61
 
 - id: savages
   tmdb_id: 82525
@@ -255,6 +337,11 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 2 }
   letterboxd_slug: savages-2012
   poster_url: https://a.ltrbxd.com/resized/sm/upload/fp/zj/rj/zy/savages-1200-1200-675-675-crop-000000.jpg?v=f4d0d1a239
+  genres:
+    - Thriller
+    - Drama
+    - Crime
+  letterboxd_rating: 2.75
 
 - id: jimmy-p-psychotherapy-of-a-plains-indian
   tmdb_id: 160768
@@ -265,6 +352,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: jimmy-p-psychotherapy-of-a-plains-indian
   poster_url: https://a.ltrbxd.com/resized/sm/upload/z3/hz/vn/v7/jimmy%20p-1200-1200-675-675-crop-000000.jpg?v=e10e3be018
+  genres:
+    - Drama
+  letterboxd_rating: 3.19
 
 - id: escobar-paradise-lost
   tmdb_id: 255343
@@ -275,6 +365,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   letterboxd_slug: escobar-paradise-lost
   poster_url: https://a.ltrbxd.com/resized/film-poster/1/7/9/1/6/7/179167-escobar-paradise-lost-0-230-0-345-crop.jpg?v=b5c0272c2c
+  genres:
+    - Romance
+    - Thriller
+  letterboxd_rating: 3.04
 
 - id: a-perfect-day
   tmdb_id: 321751
@@ -285,6 +379,11 @@
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: a-perfect-day-2015
   poster_url: https://a.ltrbxd.com/resized/sm/upload/cf/hx/jy/1m/a-perfect-day-2015-1200-1200-675-675-crop-000000.jpg?v=163b60b63b
+  genres:
+    - Drama
+    - War
+    - Comedy
+  letterboxd_rating: 3.52
 
 - id: the-little-prince
   tmdb_id: 309809
@@ -295,6 +394,12 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: the-little-prince-2015
   poster_url: https://a.ltrbxd.com/resized/sm/upload/wm/dh/a8/sq/the-little-prince-1200-1200-675-675-crop-000000.jpg?v=189674e838
+  genres:
+    - Fantasy
+    - Animation
+    - Family
+    - Adventure
+  letterboxd_rating: 3.97
 
 - id: sicario-day-of-the-soldado
   tmdb_id: 400535
@@ -305,6 +410,11 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
   letterboxd_slug: sicario-day-of-the-soldado
   poster_url: https://a.ltrbxd.com/resized/sm/upload/jv/t8/oy/cu/sicario-day-of-soldado-1200-1200-675-675-crop-000000.jpg?v=e8e4d3a942
+  genres:
+    - Thriller
+    - Crime
+    - Action
+  letterboxd_rating: 3.27
 
 - id: dora-and-the-lost-city-of-gold
   tmdb_id: 499701
@@ -315,6 +425,11 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: dora-and-the-lost-city-of-gold
   poster_url: https://a.ltrbxd.com/resized/sm/upload/o7/f7/ly/gl/dora-and-the-lost-city-of-gold-1200-1200-675-675-crop-000000.jpg?v=b4499b07a8
+  genres:
+    - Comedy
+    - Family
+    - Adventure
+  letterboxd_rating: 2.56
 
 - id: no-sudden-move
   tmdb_id: 649409
@@ -326,6 +441,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: no-sudden-move
   poster_url: https://a.ltrbxd.com/resized/sm/upload/h3/1a/o9/xu/no%20sudden-1200-1200-675-675-crop-000000.jpg?v=0eece3e707
+  genres:
+    - Thriller
+    - Crime
+  letterboxd_rating: 3.31
 
 - id: reptile-2023
   tmdb_id: 866463
@@ -336,3 +455,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: reptile-2023
   poster_url: https://a.ltrbxd.com/resized/sm/upload/nv/l6/81/cu/reptile-2023-1200-1200-675-675-crop-000000.jpg?v=0ca7ea6d6c
+  genres:
+    - Drama
+    - Mystery
+    - Thriller
+    - Crime
+  letterboxd_rating: 3.06

@@ -103,6 +103,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: hot-pursuit
   poster_url: https://a.ltrbxd.com/resized/sm/upload/3t/ha/5x/i1/m34KEAggTP3e5YCSUVnU73INxZC-1200-1200-675-675-crop-000000.jpg?v=793defa575
+  genres:
+    - Comedy
+  letterboxd_rating: 2.84
 
 - id: fresh-horses
   tmdb_id: 38982
@@ -113,6 +116,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   letterboxd_slug: fresh-horses
   poster_url: https://a.ltrbxd.com/resized/film-poster/2/5/6/5/3/25653-fresh-horses-0-230-0-345-crop.jpg?v=6dd7795f2e
+  genres:
+    - Drama
+    - Romance
+  letterboxd_rating: 2.41
 
 - id: thats-adequate
   tmdb_id: 181471
@@ -123,6 +130,8 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: thats-adequate
   poster_url: https://a.ltrbxd.com/resized/film-poster/1/3/1/8/1/5/131815-that-s-adequate-0-230-0-345-crop.jpg?v=f4b74c5b06
+  genres:
+    - Comedy
 
 - id: next-of-kin
   tmdb_id: 27418
@@ -133,6 +142,12 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   letterboxd_slug: next-of-kin
   poster_url: https://a.ltrbxd.com/resized/sm/upload/7p/h9/i0/ui/jJTGdNpwscNlo3Y2Fz5tXiDBPuY-1200-1200-675-675-crop-000000.jpg?v=3eeec59fb0
+  genres:
+    - Thriller
+    - Crime
+    - Action
+    - Drama
+  letterboxd_rating: 2.95
 
 - id: stella-1990
   tmdb_id: 47329
@@ -143,6 +158,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   letterboxd_slug: stella-1990
   poster_url: https://a.ltrbxd.com/resized/sm/upload/we/u6/bn/1e/vZlubhXN7WjAfYqO29DtTROQT8R-1200-1200-675-675-crop-000000.jpg?v=70f71986a8
+  genres:
+    - Romance
+    - Drama
+  letterboxd_rating: 3.13
 
 - id: highway-to-hell
   tmdb_id: 16191
@@ -153,6 +172,12 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: highway-to-hell
   poster_url: https://a.ltrbxd.com/resized/sm/upload/aj/t2/y1/1u/highway-1200-1200-675-675-crop-000000.jpg?v=3bc49dddf6
+  genres:
+    - Action
+    - Horror
+    - Comedy
+    - Fantasy
+  letterboxd_rating: 3.13
 
 - id: heavyweights
   tmdb_id: 14819
@@ -163,6 +188,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: heavyweights
   poster_url: https://a.ltrbxd.com/resized/sm/upload/70/y7/ny/bu/heavyweights-1200-1200-675-675-crop-000000.jpg?v=c252a33da2
+  genres:
+    - Comedy
+    - Family
+  letterboxd_rating: 3.25
 
 - id: if-lucy-fell
   tmdb_id: 10324
@@ -173,6 +202,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: if-lucy-fell
   poster_url: https://a.ltrbxd.com/resized/film-poster/4/6/3/3/6/46336-if-lucy-fell-0-230-0-345-crop.jpg?v=826ea21f8a
+  genres:
+    - Romance
+    - Comedy
+  letterboxd_rating: 2.57
 
 - id: flirting-with-disaster
   tmdb_id: 2074
@@ -183,6 +216,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: flirting-with-disaster
   poster_url: https://a.ltrbxd.com/resized/sm/upload/q1/n2/g1/xc/flirting%20with%20disaster-1200-1200-675-675-crop-000000.jpg?v=7c6b6fd1e8
+  genres:
+    - Comedy
+  letterboxd_rating: 3.42
 
 - id: zero-effect
   tmdb_id: 16148
@@ -193,6 +229,11 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: zero-effect
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ez/9i/yk/mn/zero%20effect-1200-1200-675-675-crop-000000.jpg?v=8f59d7ba82
+  genres:
+    - Mystery
+    - Comedy
+    - Crime
+  letterboxd_rating: 3.49
 
 - id: your-friends-and-neighbors
   tmdb_id: 77469
@@ -203,6 +244,10 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 2 }
   letterboxd_slug: your-friends-neighbors
   poster_url: https://a.ltrbxd.com/resized/alternative-backdrop/6/3/9/0/7/tmdb/muCjJE1ksb2YNBQHGQGPsif6TfR-1200-1200-675-675-crop-000000.jpg?v=14ecc4b2b4
+  genres:
+    - Drama
+    - Comedy
+  letterboxd_rating: 3.36
 
 - id: permanent-midnight
   tmdb_id: 22318
@@ -213,6 +258,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   letterboxd_slug: permanent-midnight
   poster_url: https://a.ltrbxd.com/resized/sm/upload/l1/af/5x/bj/4WJDOSlX0QL4R9z4JzWtfuUJFOU-1200-1200-675-675-crop-000000.jpg?v=c3a49c7269
+  genres:
+    - Drama
+  letterboxd_rating: 3.1
 
 - id: the-suburbans
   tmdb_id: 46286
@@ -223,6 +271,11 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: the-suburbans
   poster_url: https://a.ltrbxd.com/resized/film-poster/1/9/0/4/1/19041-the-suburbans-0-230-0-345-crop.jpg?v=246400d216
+  genres:
+    - Music
+    - Drama
+    - Comedy
+  letterboxd_rating: 2.73
 
 - id: mystery-men
   tmdb_id: 9824
@@ -233,6 +286,13 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: mystery-men
   poster_url: https://a.ltrbxd.com/resized/sm/upload/qs/yy/jd/gj/mystery-men-1200-1200-675-675-crop-000000.jpg?v=14961e5153
+  genres:
+    - Adventure
+    - Fantasy
+    - Comedy
+    - Science Fiction
+    - Action
+  letterboxd_rating: 3.11
 
 - id: black-and-white-1999
   tmdb_id: 38809
@@ -243,6 +303,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
   letterboxd_slug: black-and-white
   poster_url: https://a.ltrbxd.com/resized/film-poster/2/5/8/1/0/25810-black-and-white-0-230-0-345-crop.jpg?v=f083e2139d
+  genres:
+    - Drama
+  letterboxd_rating: 2.61
 
 - id: keeping-the-faith
   tmdb_id: 4967
@@ -253,6 +316,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: keeping-the-faith
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ng/pn/da/6e/keeping%20the%20faith-1200-1200-675-675-crop-000000.jpg?v=abcab293c4
+  genres:
+    - Romance
+    - Comedy
+  letterboxd_rating: 3.08
 
 - id: orange-county
   tmdb_id: 11857
@@ -263,6 +330,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: orange-county
   poster_url: https://a.ltrbxd.com/resized/sm/upload/dn/ez/a8/0v/orange%20county-1200-1200-675-675-crop-000000.jpg?v=73baadc696
+  genres:
+    - Drama
+    - Comedy
+  letterboxd_rating: 3.08
 
 - id: duplex
   tmdb_id: 7288
@@ -273,6 +344,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: duplex
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ku/1t/fm/ne/duplex-1200-1200-675-675-crop-000000.jpg?v=5cd4380206
+  genres:
+    - Comedy
+  letterboxd_rating: 2.85
 
 - id: along-came-polly
   tmdb_id: 5966
@@ -283,6 +357,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   letterboxd_slug: along-came-polly
   poster_url: https://a.ltrbxd.com/resized/sm/upload/4g/kp/j7/al/along-came-polly-1200-1200-675-675-crop-000000.jpg?v=0adf722b75
+  genres:
+    - Romance
+    - Comedy
+  letterboxd_rating: 2.89
 
 - id: meet-the-fockers
   tmdb_id: 693
@@ -293,6 +371,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: meet-the-fockers
   poster_url: https://a.ltrbxd.com/resized/sm/upload/c0/la/ww/f0/meet-fockers-1200-1200-675-675-crop-000000.jpg?v=9b530557e8
+  genres:
+    - Comedy
+    - Romance
+  letterboxd_rating: 3.05
 
 - id: school-for-scoundrels
   tmdb_id: 9842
@@ -303,6 +385,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: school-for-scoundrels
   poster_url: https://a.ltrbxd.com/resized/sm/upload/lk/eo/55/9e/aA0xYtldfxiZemF2166Rd9yY8xm-1200-1200-675-675-crop-000000.jpg?v=4422731b68
+  genres:
+    - Romance
+    - Comedy
+  letterboxd_rating: 2.57
 
 - id: the-heartbreak-kid
   tmdb_id: 9038
@@ -313,6 +399,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   letterboxd_slug: the-heartbreak-kid
   poster_url: https://a.ltrbxd.com/resized/sm/upload/qp/u9/2h/f2/the-heartbreak-kid-1200-1200-675-675-crop-000000.jpg?v=6c7cd840da
+  genres:
+    - Romance
+    - Comedy
+  letterboxd_rating: 2.44
 
 - id: madagascar-escape-2-africa
   tmdb_id: 10527
@@ -323,6 +413,12 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: madagascar-escape-2-africa
   poster_url: https://a.ltrbxd.com/resized/sm/upload/g4/l1/jr/54/madagascar-2-1200-1200-675-675-crop-000000.jpg?v=6ac6c7a43f
+  genres:
+    - Animation
+    - Family
+    - Comedy
+    - Adventure
+  letterboxd_rating: 3.3
 
 - id: megamind
   tmdb_id: 38055
@@ -333,6 +429,13 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: megamind
   poster_url: https://a.ltrbxd.com/resized/sm/upload/mg/7i/be/rb/megamind-150-1200-1200-675-675-crop-000000.jpg?v=aa8c827f40
+  genres:
+    - Comedy
+    - Science Fiction
+    - Action
+    - Family
+    - Animation
+  letterboxd_rating: 3.77
 
 - id: little-fockers
   tmdb_id: 39451
@@ -343,6 +446,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: little-fockers
   poster_url: https://a.ltrbxd.com/resized/sm/upload/91/wr/zi/97/little-fockers-1200-1200-675-675-crop-000000.jpg?v=ed9466225b
+  genres:
+    - Romance
+    - Comedy
+  letterboxd_rating: 2.54
 
 - id: tower-heist
   tmdb_id: 59108
@@ -353,6 +460,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: tower-heist
   poster_url: https://a.ltrbxd.com/resized/sm/upload/j6/wm/an/pq/tower-heist-1200-1200-675-675-crop-000000.jpg?v=7e7dc2431c
+  genres:
+    - Action
+    - Comedy
+  letterboxd_rating: 2.82
 
 - id: madagascar-3-europes-most-wanted
   tmdb_id: 80321
@@ -363,6 +474,12 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: madagascar-3-europes-most-wanted
   poster_url: https://a.ltrbxd.com/resized/sm/upload/om/8z/fg/zp/madagascar-3-europes-most-wanted-1200-1200-675-675-crop-000000.jpg?v=c072ac9d17
+  genres:
+    - Comedy
+    - Family
+    - Adventure
+    - Animation
+  letterboxd_rating: 3.19
 
 - id: the-watch
   tmdb_id: 80035
@@ -373,6 +490,11 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: the-watch-2012
   poster_url: https://a.ltrbxd.com/resized/sm/upload/dv/6v/7s/73/the-watch-2012-1200-1200-675-675-crop-000000.jpg?v=b1f8409ad5
+  genres:
+    - Action
+    - Comedy
+    - Science Fiction
+  letterboxd_rating: 2.59
 
 - id: the-secret-life-of-walter-mitty
   tmdb_id: 116745
@@ -383,6 +505,12 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: the-secret-life-of-walter-mitty-2013
   poster_url: https://a.ltrbxd.com/resized/sm/upload/46/5q/lm/q4/secret-life-walter-mitty-1200-1200-675-675-crop-000000.jpg?v=dd56567113
+  genres:
+    - Comedy
+    - Fantasy
+    - Drama
+    - Adventure
+  letterboxd_rating: 3.89
 
 - id: zoolander-2
   tmdb_id: 329833
@@ -393,6 +521,11 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: zoolander-2
   poster_url: https://a.ltrbxd.com/resized/sm/upload/p5/gx/1z/zc/zoolander-2-1200-1200-675-675-crop-000000.jpg?v=04fb1b6ab9
+  genres:
+    - Action
+    - Adventure
+    - Comedy
+  letterboxd_rating: 2.3
 
 - id: brads-status
   tmdb_id: 425980
@@ -403,6 +536,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: brads-status
   poster_url: https://a.ltrbxd.com/resized/sm/upload/tr/4i/x5/bx/brads-status-1200-1200-675-675-crop-000000.jpg?v=d594bef0c6
+  genres:
+    - Drama
+    - Comedy
+  letterboxd_rating: 3.22
 
 - id: greed-2019
   tmdb_id: 567598
@@ -413,6 +550,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: greed-2019
   poster_url: https://a.ltrbxd.com/resized/sm/upload/gk/6k/jm/au/8km8qSw3klwC6mF9JKWLhWxTmjg-1200-1200-675-675-crop-000000.jpg?v=65dabbd896
+  genres:
+    - Comedy
+    - Drama
+  letterboxd_rating: 2.84
 
 - id: bleecker
   tmdb_id: 770835
@@ -423,6 +564,8 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: bleecker
   poster_url: https://a.ltrbxd.com/resized/film-poster/6/9/0/1/6/6/690166-bleecker-0-230-0-345-crop.jpg?v=387bd3f991
+  genres:
+    - Comedy
 
 - id: nutcrackers
   tmdb_id: 1203236
@@ -433,3 +576,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: nutcrackers
   poster_url: https://a.ltrbxd.com/resized/sm/upload/m5/qj/fh/fb/TheNutcrackers2024-1200-1200-675-675-crop-000000.jpg?v=e3153f307d
+  genres:
+    - Drama
+    - Comedy
+  letterboxd_rating: 2.71

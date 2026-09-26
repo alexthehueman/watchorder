@@ -214,6 +214,8 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: seed-1931
   poster_url: https://a.ltrbxd.com/resized/sm/upload/vk/jc/r6/d3/x58itBuk3appZjPWH2PNbDQ8aUi-1200-1200-675-675-crop-000000.jpg?v=62fa7b38b3
+  genres:
+    - Drama
 
 - id: way-back-home
   tmdb_id: 169761
@@ -224,6 +226,8 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: way-back-home-1931
   poster_url: https://a.ltrbxd.com/resized/film-poster/1/2/4/9/6/2/124962-way-back-home-0-230-0-345-crop.jpg?v=89dec9ffda
+  genres:
+    - Drama
 
 - id: the-menace
   tmdb_id: 211349
@@ -234,6 +238,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: the-menace
   poster_url: https://a.ltrbxd.com/resized/film-poster/1/5/0/3/5/2/150352-the-menace-0-230-0-345-crop.jpg?v=e1e4967a36
+  genres:
+    - Mystery
+    - Crime
+    - Drama
 
 - id: hells-house
   tmdb_id: 136116
@@ -244,6 +252,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: hells-house
   poster_url: https://a.ltrbxd.com/resized/film-poster/1/0/4/5/8/9/104589-hells-house-0-230-0-345-crop.jpg?v=6e619f03c3
+  genres:
+    - Drama
+  letterboxd_rating: 2.85
 
 - id: the-man-who-played-god
   tmdb_id: 114302
@@ -254,6 +265,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: the-man-who-played-god
   poster_url: https://a.ltrbxd.com/resized/film-poster/9/0/9/7/2/90972-the-man-who-played-god-0-230-0-345-crop.jpg?v=ea62539b10
+  genres:
+    - Romance
+    - Drama
+  letterboxd_rating: 3.26
 
 - id: the-rich-are-always-with-us
   tmdb_id: 122325
@@ -264,6 +279,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: the-rich-are-always-with-us
   poster_url: https://a.ltrbxd.com/resized/film-poster/9/6/2/4/7/96247-the-rich-are-always-with-us-0-230-0-345-crop.jpg?v=08a8219d70
+  genres:
+    - Drama
+    - Romance
+  letterboxd_rating: 3.25
 
 - id: the-dark-horse
   tmdb_id: 78327
@@ -274,6 +293,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: the-dark-horse
   poster_url: https://a.ltrbxd.com/resized/film-poster/6/4/7/3/3/64733-the-dark-horse-0-230-0-345-crop.jpg?v=42c0fb712a
+  genres:
+    - Comedy
+  letterboxd_rating: 3.28
 
 - id: the-cabin-in-the-cotton
   tmdb_id: 43075
@@ -284,6 +306,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: the-cabin-in-the-cotton
   poster_url: https://a.ltrbxd.com/resized/sm/upload/6u/0l/50/tz/5H1DZRfrBbzqMpu7v0z68sUeBgU-1200-1200-675-675-crop-000000.jpg?v=27c00bf0d8
+  genres:
+    - Drama
+  letterboxd_rating: 3.16
 
 - id: three-on-a-match
   tmdb_id: 42914
@@ -294,6 +319,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: true, violence: 2, sex: 0 }
   letterboxd_slug: three-on-a-match
   poster_url: https://a.ltrbxd.com/resized/sm/upload/xw/wo/28/rl/three%20on%20a%20match-1200-1200-675-675-crop-000000.jpg?v=51ff08359c
+  genres:
+    - Drama
+    - Crime
+  letterboxd_rating: 3.4
 
 - id: 20000-years-in-sing-sing
   tmdb_id: 42822
@@ -304,6 +333,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: 20000-years-in-sing-sing
   poster_url: https://a.ltrbxd.com/resized/sm/upload/a4/n0/n2/9n/zAlmrbAOAEUIFJuGRkCbUPXNbiO-1200-1200-675-675-crop-000000.jpg?v=6ce7bef2af
+  genres:
+    - Drama
+    - Crime
+  letterboxd_rating: 3.3
 
 - id: parachute-jumper
   tmdb_id: 160466
@@ -314,6 +347,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: parachute-jumper
   poster_url: https://a.ltrbxd.com/resized/film-poster/1/1/9/4/4/8/119448-parachute-jumper-0-230-0-345-crop.jpg?v=f275625f07
+  genres:
+    - Drama
+  letterboxd_rating: 3.21
 
 - id: the-working-man
   tmdb_id: 95321
@@ -324,6 +360,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: the-working-man
   poster_url: https://a.ltrbxd.com/resized/film-poster/7/8/9/3/2/78932-the-working-man-0-230-0-345-crop.jpg?v=dd0bb9e102
+  genres:
+    - Comedy
+    - Drama
+  letterboxd_rating: 3.27
 
 - id: ex-lady
   tmdb_id: 52228
@@ -334,6 +374,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   letterboxd_slug: ex-lady
   poster_url: https://a.ltrbxd.com/resized/sm/upload/9o/0x/6f/0b/Untitled-2-1200-1200-675-675-crop-000000.jpg?v=58abeb5f3d
+  genres:
+    - Comedy
+    - Romance
+  letterboxd_rating: 3.21
 
 - id: bureau-of-missing-persons
   tmdb_id: 52227
@@ -344,6 +388,11 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: bureau-of-missing-persons
   poster_url: https://a.ltrbxd.com/resized/film-poster/1/3/6/5/3/13653-bureau-of-missing-persons-0-230-0-345-crop.jpg?v=5a3a7fa053
+  genres:
+    - Comedy
+    - Crime
+    - Drama
+  letterboxd_rating: 3.16
 
 - id: the-big-shakedown
   tmdb_id: 79052
@@ -354,6 +403,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: the-big-shakedown
   poster_url: https://a.ltrbxd.com/resized/sm/upload/8s/rl/yq/2f/zr2QuZZMMHygfZh0OSLoh1Kv50q-1200-1200-675-675-crop-000000.jpg?v=a41fa2d7ea
+  genres:
+    - Crime
+    - Drama
+  letterboxd_rating: 3.16
 
 - id: fashions-of-1934
   tmdb_id: 53872
@@ -364,6 +417,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: fashions-of-1934
   poster_url: https://a.ltrbxd.com/resized/sm/upload/5l/zz/eu/8p/gMOTx0MEORlkxHvZkpX7cJrNq3a-1200-1200-675-675-crop-000000.jpg?v=7748692cb0
+  genres:
+    - Comedy
+    - Music
+  letterboxd_rating: 3.18
 
 - id: jimmy-the-gent
   tmdb_id: 81396
@@ -374,6 +431,12 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: jimmy-the-gent
   poster_url: https://a.ltrbxd.com/resized/sm/upload/o0/je/ry/g6/u6wtiUvaAHBxr8x7RItprFlN593-1200-1200-675-675-crop-000000.jpg?v=e3293b8372
+  genres:
+    - Comedy
+    - Crime
+    - Drama
+    - Romance
+  letterboxd_rating: 3.23
 
 - id: fog-over-frisco
   tmdb_id: 50675
@@ -384,6 +447,11 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: fog-over-frisco
   poster_url: https://a.ltrbxd.com/resized/film-poster/1/5/0/2/4/15024-fog-over-frisco-0-230-0-345-crop.jpg?v=c656a4ebbd
+  genres:
+    - Crime
+    - Thriller
+    - Mystery
+  letterboxd_rating: 3.15
 
 - id: housewife
   tmdb_id: 173267
@@ -394,6 +462,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: housewife
   poster_url: https://a.ltrbxd.com/resized/film-poster/1/2/7/0/1/4/127014-housewife-0-230-0-345-crop.jpg?v=4389cecdd1
+  genres:
+    - Drama
+  letterboxd_rating: 3.03
 
 - id: bordertown-1935
   tmdb_id: 26323
@@ -404,6 +475,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: bordertown
   poster_url: https://a.ltrbxd.com/resized/sm/upload/rf/ub/b4/1q/ayhDrswuMnmSzYKx9CeWJhdoood-1200-1200-675-675-crop-000000.jpg?v=68d302d9c9
+  genres:
+    - Drama
+    - Crime
+  letterboxd_rating: 3.12
 
 - id: the-girl-from-10th-avenue
   tmdb_id: 196693
@@ -414,6 +489,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: the-girl-from-10th-avenue
   poster_url: https://a.ltrbxd.com/resized/film-poster/1/4/1/2/9/5/141295-the-girl-from-10th-avenue-0-230-0-345-crop.jpg?v=483f1f4417
+  genres:
+    - Drama
+  letterboxd_rating: 3.29
 
 - id: front-page-woman
   tmdb_id: 162059
@@ -424,6 +502,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: front-page-woman
   poster_url: https://a.ltrbxd.com/resized/film-poster/1/2/0/4/3/4/120434-front-page-woman-0-230-0-345-crop.jpg?v=eac452e12e
+  genres:
+    - Romance
+    - Comedy
+  letterboxd_rating: 3.15
 
 - id: special-agent
   tmdb_id: 52864
@@ -434,6 +516,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: special-agent
   poster_url: https://a.ltrbxd.com/resized/sm/upload/2m/zr/tk/0r/mdVIQMIEPrpbHeWuh9VLCc7kI31-1200-1200-675-675-crop-000000.jpg?v=03639a1761
+  genres:
+    - Crime
+    - Drama
+  letterboxd_rating: 3.09
 
 - id: dangerous
   tmdb_id: 52863
@@ -444,6 +530,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 0 }
   letterboxd_slug: dangerous
   poster_url: https://a.ltrbxd.com/resized/sm/upload/m4/2m/x8/hq/dangerous-1200-1200-675-675-crop-000000.jpg?v=c03aa9da33
+  genres:
+    - Romance
+    - Drama
+  letterboxd_rating: 3.22
 
 - id: the-petrified-forest
   tmdb_id: 17030
@@ -454,6 +544,12 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: the-petrified-forest
   poster_url: https://a.ltrbxd.com/resized/sm/upload/bd/h8/c7/29/petrifiedforest-1200-1200-675-675-crop-000000.jpg?v=19002652f3
+  genres:
+    - Drama
+    - Crime
+    - Romance
+    - Thriller
+  letterboxd_rating: 3.66
 
 - id: the-golden-arrow
   tmdb_id: 176259
@@ -464,6 +560,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: the-golden-arrow-1936
   poster_url: https://a.ltrbxd.com/resized/film-poster/1/2/8/9/0/6/128906-the-golden-arrow-1936-0-230-0-345-crop.jpg?v=4b8ed5aad8
+  genres:
+    - Comedy
+    - Family
+  letterboxd_rating: 3.15
 
 - id: satan-met-a-lady
   tmdb_id: 28256
@@ -474,6 +574,11 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: satan-met-a-lady
   poster_url: https://a.ltrbxd.com/resized/sm/upload/t0/99/tt/v0/fP1g1bETeinJ7rP75d3ieM8pafs-1200-1200-675-675-crop-000000.jpg?v=df1db89f84
+  genres:
+    - Mystery
+    - Comedy
+    - Crime
+  letterboxd_rating: 2.83
 
 - id: marked-woman
   tmdb_id: 25563
@@ -484,6 +589,11 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
   letterboxd_slug: marked-woman
   poster_url: https://a.ltrbxd.com/resized/sm/upload/an/v4/po/d8/marked%20woman-1200-1200-675-675-crop-000000.jpg?v=4085bbc1e6
+  genres:
+    - Drama
+    - Crime
+    - Thriller
+  letterboxd_rating: 3.52
 
 - id: kid-galahad-1937
   tmdb_id: 52229
@@ -494,6 +604,11 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: kid-galahad
   poster_url: https://a.ltrbxd.com/resized/sm/upload/05/ax/gz/xo/kid%20galahad-1200-1200-675-675-crop-000000.jpg?v=9985c2ad65
+  genres:
+    - Crime
+    - Drama
+    - Romance
+  letterboxd_rating: 3.45
 
 - id: that-certain-woman
   tmdb_id: 77964
@@ -504,6 +619,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: that-certain-woman
   poster_url: https://a.ltrbxd.com/resized/film-poster/6/4/4/0/2/64402-that-certain-woman-0-230-0-345-crop.jpg?v=e6ae16ac4b
+  genres:
+    - Drama
+    - Romance
+  letterboxd_rating: 3.18
 
 - id: its-love-im-after
   tmdb_id: 106635
@@ -514,6 +633,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: its-love-im-after
   poster_url: https://a.ltrbxd.com/resized/sm/upload/qk/bk/71/5p/esDTXyH2fmbpQ9PWHuBMfBNu3cp-1200-1200-675-675-crop-000000.jpg?v=677ef1cd5c
+  genres:
+    - Comedy
+    - Romance
+  letterboxd_rating: 3.71
 
 - id: the-sisters
   tmdb_id: 140995
@@ -524,6 +647,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: the-sisters-1938
   poster_url: https://a.ltrbxd.com/resized/sm/upload/nh/eq/4p/um/qYIa5GSc7fDpgNeL1KKb810ltLh-1200-1200-675-675-crop-000000.jpg?v=6ea683b910
+  genres:
+    - Drama
+  letterboxd_rating: 3.31
 
 - id: juarez
   tmdb_id: 78318
@@ -534,6 +660,11 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: juarez
   poster_url: https://a.ltrbxd.com/resized/sm/upload/4j/y1/62/jg/wIkio1H3an8DidlNmosy1DZaXvN-1200-1200-675-675-crop-000000.jpg?v=02eecfe179
+  genres:
+    - History
+    - Romance
+    - Drama
+  letterboxd_rating: 3.13
 
 - id: the-old-maid
   tmdb_id: 44919
@@ -544,6 +675,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   letterboxd_slug: the-old-maid
   poster_url: https://a.ltrbxd.com/resized/sm/upload/zx/lx/26/88/rHnYpnvR2pFMk2wTVKs3sWU5hLF-1200-1200-675-675-crop-000000.jpg?v=4dd7296127
+  genres:
+    - Drama
+  letterboxd_rating: 3.51
 
 - id: the-private-lives-of-elizabeth-and-essex
   tmdb_id: 16902
@@ -554,6 +688,11 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: the-private-lives-of-elizabeth-and-essex
   poster_url: https://a.ltrbxd.com/resized/sm/upload/x4/29/o8/vk/private%20lives-1200-1200-675-675-crop-000000.jpg?v=defbd83e1f
+  genres:
+    - Romance
+    - Drama
+    - History
+  letterboxd_rating: 3.37
 
 - id: all-this-and-heaven-too
   tmdb_id: 43807
@@ -564,6 +703,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: all-this-and-heaven-too
   poster_url: https://a.ltrbxd.com/resized/sm/upload/9v/rk/88/2w/all%20this-1200-1200-675-675-crop-000000.jpg?v=0842fd7b13
+  genres:
+    - Romance
+    - Drama
+  letterboxd_rating: 3.51
 
 - id: the-bride-came-cod
   tmdb_id: 29886
@@ -574,6 +717,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: the-bride-came-cod
   poster_url: https://a.ltrbxd.com/resized/sm/upload/4f/ov/y4/rk/tS4EOb0bUPSjW8NQc2nKPvEGuuM-1200-1200-675-675-crop-000000.jpg?v=07a4aec8bc
+  genres:
+    - Comedy
+    - Romance
+  letterboxd_rating: 3.29
 
 - id: the-man-who-came-to-dinner
   tmdb_id: 26319
@@ -584,6 +731,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: the-man-who-came-to-dinner
   poster_url: https://a.ltrbxd.com/resized/sm/upload/fe/3l/0y/9n/man-1200-1200-675-675-crop-000000.jpg?v=3ca9a5e743
+  genres:
+    - Comedy
+  letterboxd_rating: 3.56
 
 - id: in-this-our-life
   tmdb_id: 43525
@@ -594,6 +744,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: in-this-our-life
   poster_url: https://a.ltrbxd.com/resized/sm/upload/wg/jw/tr/zd/giyRIb02hjIn8KQRHZbHsb67VLH-1200-1200-675-675-crop-000000.jpg?v=e9bcfc18d5
+  genres:
+    - Drama
+    - Romance
+  letterboxd_rating: 3.52
 
 - id: watch-on-the-rhine
   tmdb_id: 68440
@@ -604,6 +758,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: watch-on-the-rhine
   poster_url: https://a.ltrbxd.com/resized/sm/upload/mw/2s/9b/an/watch%20on%20the%20rhine-1200-1200-675-675-crop-000000.jpg?v=fc43f24d55
+  genres:
+    - Thriller
+    - Drama
+  letterboxd_rating: 3.3
 
 - id: old-acquaintance
   tmdb_id: 55086
@@ -614,6 +772,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: old-acquaintance
   poster_url: https://a.ltrbxd.com/resized/sm/upload/m5/6u/si/rc/cVHmGrantY4vef0RBFjF1WEnmK7-1200-1200-675-675-crop-000000.jpg?v=3cd2f7b736
+  genres:
+    - Drama
+  letterboxd_rating: 3.49
 
 - id: mr-skeffington
   tmdb_id: 43307
@@ -624,6 +785,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: mr-skeffington
   poster_url: https://a.ltrbxd.com/resized/sm/upload/me/s6/mg/yk/mr%20skeffington-1200-1200-675-675-crop-000000.jpg?v=db9ead5ee5
+  genres:
+    - Romance
+    - Drama
+  letterboxd_rating: 3.51
 
 - id: the-corn-is-green
   tmdb_id: 43492
@@ -634,6 +799,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: the-corn-is-green
   poster_url: https://a.ltrbxd.com/resized/sm/upload/rr/sl/aa/dr/1WCYmbThj4vcU55AxrSxsDUe4pJ-1200-1200-675-675-crop-000000.jpg?v=e6cd65b555
+  genres:
+    - Drama
+  letterboxd_rating: 3.37
 
 - id: a-stolen-life
   tmdb_id: 43470
@@ -644,6 +812,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: a-stolen-life
   poster_url: https://a.ltrbxd.com/resized/sm/upload/nk/uc/xp/3i/fJRSfSobrZL2mVVNhGPgS36IWid-1200-1200-675-675-crop-000000.jpg?v=679756f99a
+  genres:
+    - Drama
+  letterboxd_rating: 3.42
 
 - id: deception
   tmdb_id: 25502
@@ -654,6 +825,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: deception
   poster_url: https://a.ltrbxd.com/resized/sm/upload/bp/18/3r/6d/deception-1200-1200-675-675-crop-000000.jpg?v=5da4543a4a
+  genres:
+    - Drama
+    - Romance
+  letterboxd_rating: 3.44
 
 - id: winter-meeting
   tmdb_id: 43457
@@ -664,6 +839,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: winter-meeting
   poster_url: https://a.ltrbxd.com/resized/sm/upload/r6/p8/81/o4/80XrUyaQryWptFf9xqdBys9II2P%20(1)-1200-1200-675-675-crop-000000.jpg?v=52aa11d30b
+  genres:
+    - Drama
+    - Romance
+  letterboxd_rating: 3.07
 
 - id: june-bride
   tmdb_id: 107593
@@ -674,6 +853,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: june-bride
   poster_url: https://a.ltrbxd.com/resized/sm/upload/72/7s/p4/kj/1RFJklSnZZDolxNqDHOoVZQs59o-1200-1200-675-675-crop-000000.jpg?v=38495f1428
+  genres:
+    - Comedy
+    - Romance
+  letterboxd_rating: 3.23
 
 - id: beyond-the-forest
   tmdb_id: 35896
@@ -684,6 +867,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 1 }
   letterboxd_slug: beyond-the-forest
   poster_url: https://a.ltrbxd.com/resized/sm/upload/sw/ua/ge/pd/6tJd6OZfWfiAauJIy0gaYhp03is-1200-1200-675-675-crop-000000.jpg?v=7ba2d4ba1e
+  genres:
+    - Thriller
+    - Drama
+  letterboxd_rating: 3.42
 
 - id: payment-on-demand
   tmdb_id: 83667
@@ -694,6 +881,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: payment-on-demand
   poster_url: https://a.ltrbxd.com/resized/sm/upload/fh/4r/ba/xh/rXuWNVbRxadzldZNoYIA0ESlSLG-1200-1200-675-675-crop-000000.jpg?v=781ac89540
+  genres:
+    - Drama
+  letterboxd_rating: 3.25
 
 - id: another-mans-poison
   tmdb_id: 53714
@@ -704,6 +894,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: another-mans-poison
   poster_url: https://a.ltrbxd.com/resized/sm/upload/20/28/9t/x1/9epX1QUSAN1rqLlfs12CewjHc7s-1200-1200-675-675-crop-000000.jpg?v=a35ab64a39
+  genres:
+    - Crime
+    - Drama
+  letterboxd_rating: 3.28
 
 - id: phone-call-from-a-stranger
   tmdb_id: 76229
@@ -714,6 +908,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: phone-call-from-a-stranger
   poster_url: https://a.ltrbxd.com/resized/sm/upload/8i/pq/mf/vj/fCd18BqKowyeFMM5Vgw5zIlnogK-1200-1200-675-675-crop-000000.jpg?v=0dad5a7a02
+  genres:
+    - Drama
+  letterboxd_rating: 3.24
 
 - id: the-virgin-queen
   tmdb_id: 43327
@@ -724,6 +921,11 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: the-virgin-queen
   poster_url: https://a.ltrbxd.com/resized/sm/upload/7f/yn/0r/7r/167XvX9nqH6jNzm4vEA4FYIBH60-1200-1200-675-675-crop-000000.jpg?v=c828464a59
+  genres:
+    - Drama
+    - Romance
+    - History
+  letterboxd_rating: 3.19
 
 - id: storm-center
   tmdb_id: 45239
@@ -734,6 +936,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: storm-center
   poster_url: https://a.ltrbxd.com/resized/sm/upload/98/9l/d8/rr/bh4PD9WaA0SDqBNeksDrYfCxtvp-1200-1200-675-675-crop-000000.jpg?v=7026f07b47
+  genres:
+    - Drama
+  letterboxd_rating: 3.28
 
 - id: john-paul-jones
   tmdb_id: 72904
@@ -744,6 +949,12 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: john-paul-jones
   poster_url: https://a.ltrbxd.com/resized/sm/upload/i6/6w/cl/ex/qHBnElKuWkHzzk0pwERcJZWOb0V-1200-1200-675-675-crop-000000.jpg?v=89c0b49230
+  genres:
+    - Romance
+    - Action
+    - History
+    - War
+  letterboxd_rating: 3.12
 
 - id: pocketful-of-miracles
   tmdb_id: 248
@@ -754,6 +965,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: pocketful-of-miracles
   poster_url: https://a.ltrbxd.com/resized/sm/upload/qo/4h/o2/kt/kYaqmkeCSqNSat8nKgdLSz0A20l-1200-1200-675-675-crop-000000.jpg?v=786453e953
+  genres:
+    - Comedy
+    - Drama
+  letterboxd_rating: 3.42
 
 - id: the-empty-canvas
   tmdb_id: 85285
@@ -764,6 +979,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   letterboxd_slug: the-empty-canvas
   poster_url: https://a.ltrbxd.com/resized/sm/upload/x8/lb/3j/uw/fdCwGlr8so1ymJJI3VnBT8Qv4fX-1200-1200-675-675-crop-000000.jpg?v=10c9d75911
+  genres:
+    - Drama
+  letterboxd_rating: 3.43
 
 - id: dead-ringer
   tmdb_id: 22543
@@ -774,6 +992,11 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: dead-ringer
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ip/b0/di/jc/dead%20ringer-1200-1200-675-675-crop-000000.jpg?v=f23f944e1c
+  genres:
+    - Crime
+    - Drama
+    - Horror
+  letterboxd_rating: 3.58
 
 - id: where-love-has-gone
   tmdb_id: 73348
@@ -784,6 +1007,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
   letterboxd_slug: where-love-has-gone
   poster_url: https://a.ltrbxd.com/resized/sm/upload/83/pa/a4/d5/jQIpYLNbQFB6gZGPAuTQlLlPrlD-1200-1200-675-675-crop-000000.jpg?v=6026101953
+  genres:
+    - Drama
+  letterboxd_rating: 3.09
 
 - id: the-nanny-1965
   tmdb_id: 39893
@@ -794,6 +1020,11 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: the-nanny
   poster_url: https://a.ltrbxd.com/resized/sm/upload/o6/1n/fr/00/nanny-1200-1200-675-675-crop-000000.jpg?v=42f060d1be
+  genres:
+    - Drama
+    - Thriller
+    - Horror
+  letterboxd_rating: 3.44
 
 - id: the-anniversary
   tmdb_id: 58293
@@ -804,6 +1035,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: the-anniversary
   poster_url: https://a.ltrbxd.com/resized/sm/upload/2q/np/lg/8m/sq7Q3jKNo2Z8byxWNOmK4k2OTvt-1200-1200-675-675-crop-000000.jpg?v=8587513629
+  genres:
+    - Comedy
+  letterboxd_rating: 3.38
 
 - id: connecting-rooms
   tmdb_id: 223568
@@ -814,6 +1048,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: connecting-rooms
   poster_url: https://a.ltrbxd.com/resized/film-poster/1/5/7/8/3/1/157831-connecting-rooms-0-230-0-345-crop.jpg?v=aca42885f5
+  genres:
+    - Drama
+  letterboxd_rating: 3.3
 
 - id: bunny-ohare
   tmdb_id: 88179
@@ -824,6 +1061,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: bunny-ohare
   poster_url: https://a.ltrbxd.com/resized/sm/upload/26/d9/yc/b7/tPPSEHMyFazlAmWi1eNccP48MZx-1200-1200-675-675-crop-000000.jpg?v=e1a72aa7ef
+  genres:
+    - Action
+    - Comedy
+  letterboxd_rating: 3.11
 
 - id: madame-sin
   tmdb_id: 55032
@@ -834,6 +1075,11 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: madame-sin
   poster_url: https://a.ltrbxd.com/resized/film-poster/1/1/0/7/6/11076-madame-sin-0-230-0-345-crop.jpg?v=b00b49798f
+  genres:
+    - Thriller
+    - Action
+    - TV Movie
+  letterboxd_rating: 3.03
 
 - id: the-scopone-game
   tmdb_id: 56341
@@ -844,6 +1090,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: the-scopone-game
   poster_url: https://a.ltrbxd.com/resized/sm/upload/nj/vd/dw/cl/oSvrfTz5rxdGWSKLnY0saHAmfXq-1200-1200-675-675-crop-000000.jpg?v=21a99c189d
+  genres:
+    - Comedy
+    - Drama
+  letterboxd_rating: 3.84
 
 - id: burnt-offerings
   tmdb_id: 13549
@@ -854,6 +1104,11 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: burnt-offerings
   poster_url: https://a.ltrbxd.com/resized/sm/upload/vl/qw/7a/gz/qkqS6r7QmMUunVHLCyUm0ds5Egv-1200-1200-675-675-crop-000000.jpg?v=a8423e14eb
+  genres:
+    - Horror
+    - Thriller
+    - Mystery
+  letterboxd_rating: 3.33
 
 - id: return-from-witch-mountain
   tmdb_id: 14822
@@ -864,6 +1119,12 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: return-from-witch-mountain
   poster_url: https://a.ltrbxd.com/resized/sm/upload/zn/ww/xk/8d/return%20from%20witch%20mountain-1200-1200-675-675-crop-000000.jpg?v=97cb3bc4ad
+  genres:
+    - Adventure
+    - Family
+    - Science Fiction
+    - Fantasy
+  letterboxd_rating: 2.85
 
 - id: the-watcher-in-the-woods
   tmdb_id: 21970
@@ -874,6 +1135,11 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: the-watcher-in-the-woods
   poster_url: https://a.ltrbxd.com/resized/sm/upload/2l/v6/ri/lz/watcher-1200-1200-675-675-crop-000000.jpg?v=ad61c57159
+  genres:
+    - Fantasy
+    - Thriller
+    - Horror
+  letterboxd_rating: 3.07
 
 - id: the-whales-of-august
   tmdb_id: 49815
@@ -884,6 +1150,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: the-whales-of-august
   poster_url: https://a.ltrbxd.com/resized/sm/upload/9o/6e/q5/07/qgHvctioYxreVgJ9UnT0SVTKFBF-1200-1200-675-675-crop-000000.jpg?v=05ef8cd8ee
+  genres:
+    - Drama
+  letterboxd_rating: 3.41
 
 - id: wicked-stepmother
   tmdb_id: 35826
@@ -894,3 +1163,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: wicked-stepmother
   poster_url: https://a.ltrbxd.com/resized/sm/upload/iw/zx/4y/wv/jaThbMk4mSRkXtTN4JSfKjO3qYa-1200-1200-675-675-crop-000000.jpg?v=42edaf42eb
+  genres:
+    - Fantasy
+    - Comedy
+  letterboxd_rating: 2.19

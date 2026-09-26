@@ -121,6 +121,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: bad-rap
   poster_url: https://a.ltrbxd.com/resized/film-poster/3/2/4/8/6/1/324861-bad-rap-0-230-0-345-crop.jpg?v=025ff1784c
+  genres:
+    - Music
+    - Documentary
+  letterboxd_rating: 3.34
 
 - id: neighbors-2-sorority-rising
   tmdb_id: 325133
@@ -131,6 +135,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
   letterboxd_slug: neighbors-2-sorority-rising
   poster_url: https://a.ltrbxd.com/resized/sm/upload/a8/3x/et/cy/neighbors-2-sorority-rising-1200-1200-675-675-crop-000000.jpg?v=368a26d994
+  genres:
+    - Comedy
+  letterboxd_rating: 2.52
 
 - id: storks
   tmdb_id: 332210
@@ -141,6 +148,12 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: storks
   poster_url: https://a.ltrbxd.com/resized/sm/upload/8k/a8/q0/in/storks-1200-1200-675-675-crop-000000.jpg?v=dfffc23f7b
+  genres:
+    - Animation
+    - Family
+    - Adventure
+    - Comedy
+  letterboxd_rating: 2.83
 
 - id: paradise-hills
   tmdb_id: 487083
@@ -151,6 +164,11 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: paradise-hills
   poster_url: https://a.ltrbxd.com/resized/sm/upload/34/09/fp/uy/oaradise-hills-1200-1200-675-675-crop-000000.jpg?v=8ade285677
+  genres:
+    - Science Fiction
+    - Thriller
+    - Fantasy
+  letterboxd_rating: 2.58
 
 - id: the-angry-birds-movie-2
   tmdb_id: 454640
@@ -161,6 +179,13 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: the-angry-birds-movie-2
   poster_url: https://a.ltrbxd.com/resized/sm/upload/yt/s7/6m/1e/angry-1200-1200-675-675-crop-000000.jpg?v=807dd53195
+  genres:
+    - Comedy
+    - Action
+    - Family
+    - Adventure
+    - Animation
+  letterboxd_rating: 2.68
 
 - id: between-two-ferns-the-movie
   tmdb_id: 584962
@@ -171,6 +196,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: between-two-ferns-the-movie
   poster_url: https://a.ltrbxd.com/resized/sm/upload/4a/lp/cq/yv/between-two-ferns-movie-1200-1200-675-675-crop-000000.jpg?v=358dd9d65d
+  genres:
+    - Comedy
+  letterboxd_rating: 2.93
 
 - id: the-spongebob-movie-sponge-on-the-run
   tmdb_id: 400160
@@ -181,6 +209,13 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: the-spongebob-movie-sponge-on-the-run
   poster_url: https://a.ltrbxd.com/resized/sm/upload/u9/mi/wv/s9/7KakIVhCsh28zNcoL3BJQjnyJMY-1200-1200-675-675-crop-000000.jpg?v=cb8f97dda9
+  genres:
+    - Fantasy
+    - Comedy
+    - Family
+    - Adventure
+    - Animation
+  letterboxd_rating: 2.61
 
 - id: breaking-news-in-yuba-county
   tmdb_id: 556867
@@ -191,6 +226,11 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: breaking-news-in-yuba-county
   poster_url: https://a.ltrbxd.com/resized/sm/upload/1d/5q/4t/v1/oiVT4P2rAdkOcpNQgJc35VpgjRG-1200-1200-675-675-crop-000000.jpg?v=0b30f9857b
+  genres:
+    - Drama
+    - Comedy
+    - Crime
+  letterboxd_rating: 2.71
 
 - id: swan-song
   tmdb_id: 765245
@@ -201,6 +241,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: swan-song-2021
   poster_url: https://a.ltrbxd.com/resized/sm/upload/09/to/mn/en/swan-song-2021-1200-1200-675-675-crop-000000.jpg?v=fcb80d8680
+  genres:
+    - Drama
+    - Comedy
+  letterboxd_rating: 3.58
 
 - id: the-little-mermaid-2023
   tmdb_id: 447277
@@ -211,6 +255,12 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: the-little-mermaid-2023
   poster_url: https://a.ltrbxd.com/resized/sm/upload/eg/l5/8r/rm/little-1200-1200-675-675-crop-000000.jpg?v=ef6ed049d6
+  genres:
+    - Romance
+    - Family
+    - Fantasy
+    - Adventure
+  letterboxd_rating: 3.08
 
 - id: quiz-lady
   tmdb_id: 787781
@@ -221,6 +271,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: quiz-lady
   poster_url: https://a.ltrbxd.com/resized/sm/upload/yj/p3/p2/b4/quiz%20lady-1200-1200-675-675-crop-000000.jpg?v=8620a01896
+  genres:
+    - Comedy
+  letterboxd_rating: 3.32
 
 - id: migration
   tmdb_id: 940551
@@ -231,6 +284,8 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: migration
   poster_url: https://a.ltrbxd.com/resized/film-poster/1/2/4/3/9/1/9/1243919-migration-0-230-0-345-crop.jpg?v=1e8c763f17
+  genres:
+    - Animation
 
 - id: kung-fu-panda-4
   tmdb_id: 1011985
@@ -241,6 +296,13 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: kung-fu-panda-4
   poster_url: https://a.ltrbxd.com/resized/sm/upload/sh/gd/63/3u/kung%20fu-1200-1200-675-675-crop-000000.jpg?v=bfcec56c23
+  genres:
+    - Adventure
+    - Comedy
+    - Family
+    - Animation
+    - Action
+  letterboxd_rating: 2.65
 
 - id: if
   tmdb_id: 639720
@@ -251,6 +313,11 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: if-2024
   poster_url: https://a.ltrbxd.com/resized/sm/upload/tw/gk/bw/fl/if-1200-1200-675-675-crop-000000.jpg?v=f8418c5087
+  genres:
+    - Fantasy
+    - Family
+    - Comedy
+  letterboxd_rating: 2.89
 
 - id: jackpot-2024
   tmdb_id: 1094138
@@ -261,6 +328,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: jackpot-2024
   poster_url: https://a.ltrbxd.com/resized/sm/upload/bn/nq/ix/ob/jackpot-1200-1200-675-675-crop-000000.jpg?v=61dba85767
+  genres:
+    - Comedy
+    - Action
+  letterboxd_rating: 2.6
 
 - id: the-bad-guys-2
   tmdb_id: 1175942
@@ -271,6 +342,14 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: the-bad-guys-2
   poster_url: https://a.ltrbxd.com/resized/sm/upload/88/9q/mr/sr/bad%20guys-1200-1200-675-675-crop-000000.jpg?v=9b14ab6bcc
+  genres:
+    - Family
+    - Adventure
+    - Animation
+    - Action
+    - Comedy
+    - Crime
+  letterboxd_rating: 3.51
 
 - id: descendants-wicked-wonderland
   tmdb_id: 1318621
@@ -281,3 +360,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: descendants-wicked-wonderland
   poster_url: https://a.ltrbxd.com/resized/sm/upload/m1/4f/zt/wp/e2o2ZFHmXxgET0AFeDVbQcDxcV8-1200-1200-675-675-crop-000000.jpg?v=00834ea781
+  genres:
+    - Fantasy
+    - TV Movie
+    - Adventure
+    - Family
+  letterboxd_rating: 2.19

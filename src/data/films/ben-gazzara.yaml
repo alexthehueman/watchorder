@@ -47,6 +47,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: the-strange-one
   poster_url: https://a.ltrbxd.com/resized/alternative-backdrop/6/6/5/7/3/tmdb/sWB1tG6yJwAUWD63gwtt7hTvviE-1200-1200-675-675-crop-000000.jpg?v=783b81627f
+  genres:
+    - Drama
+  letterboxd_rating: 3.47
 
 - id: the-young-doctors
   tmdb_id: 194146
@@ -57,6 +60,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: the-young-doctors
   poster_url: https://a.ltrbxd.com/resized/sm/upload/pr/ge/wa/hw/5CrYMmGRfklnXXuGolsYQMfU6TL-1200-1200-675-675-crop-000000.jpg?v=442e236ce9
+  genres:
+    - Drama
+  letterboxd_rating: 3.34
 
 - id: convicts-4
   tmdb_id: 75042
@@ -67,6 +73,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: convicts-4
   poster_url: https://a.ltrbxd.com/resized/film-poster/6/0/8/5/4/60854-convicts-4-0-230-0-345-crop.jpg?v=4f5718cf7d
+  genres:
+    - Crime
+    - Drama
+  letterboxd_rating: 3.34
 
 - id: a-rage-to-live
   tmdb_id: 104759
@@ -77,6 +87,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   letterboxd_slug: a-rage-to-live
   poster_url: https://a.ltrbxd.com/resized/film-poster/8/4/8/1/0/84810-a-rage-to-live-0-230-0-345-crop.jpg?v=aed7f214b2
+  genres:
+    - Drama
+    - Romance
+  letterboxd_rating: 3.21
 
 - id: the-bridge-at-remagen
   tmdb_id: 15873
@@ -87,6 +101,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   letterboxd_slug: the-bridge-at-remagen
   poster_url: https://a.ltrbxd.com/resized/sm/upload/o0/sm/5o/7r/iDqbxJeCnRzgSNzXDp9LkYTa7Rk-1200-1200-675-675-crop-000000.jpg?v=066fbb0660
+  genres:
+    - Action
+    - War
+  letterboxd_rating: 3.38
 
 - id: the-sicilian-connection
   tmdb_id: 240607
@@ -97,6 +115,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: the-sicilian-connection
   poster_url: https://a.ltrbxd.com/resized/film-poster/1/6/8/7/0/9/168709-the-sicilian-connection-0-230-0-345-crop.jpg?v=ef83011d15
+  genres:
+    - Thriller
+    - Crime
+  letterboxd_rating: 3.27
 
 - id: the-neptune-factor
   tmdb_id: 62754
@@ -107,6 +129,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: the-neptune-factor
   poster_url: https://a.ltrbxd.com/resized/film-poster/4/0/5/5/4055-the-neptune-factor-0-230-0-345-crop.jpg?v=b5ce0bced5
+  genres:
+    - Action
+    - Science Fiction
+  letterboxd_rating: 2.67
 
 - id: capone
   tmdb_id: 18710
@@ -117,6 +143,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   letterboxd_slug: capone
   poster_url: https://a.ltrbxd.com/resized/sm/upload/i8/hq/ts/p0/capone-1200-1200-675-675-crop-000000.jpg?v=7594fb6c28
+  genres:
+    - Drama
+    - Crime
+  letterboxd_rating: 2.98
 
 - id: high-velocity
   tmdb_id: 171202
@@ -127,6 +157,8 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: high-velocity
   poster_url: https://a.ltrbxd.com/resized/film-poster/1/2/5/7/3/4/125734-high-velocity-0-230-0-345-crop.jpg?v=f5d0e5439f
+  genres:
+    - Action
 
 - id: saint-jack
   tmdb_id: 77166
@@ -138,6 +170,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 2 }
   letterboxd_slug: saint-jack
   poster_url: https://a.ltrbxd.com/resized/sm/upload/8d/09/tt/dp/saint%20jack-1200-1200-675-675-crop-000000.jpg?v=eaa9c6fbd6
+  genres:
+    - Drama
+  letterboxd_rating: 3.8
 
 - id: inchon
   tmdb_id: 113464
@@ -148,6 +183,11 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   letterboxd_slug: inchon
   poster_url: https://a.ltrbxd.com/resized/sm/upload/jf/zx/1s/1u/i3MUft0U8AsWOtEEPnmQYxbxPRc-1200-1200-675-675-crop-000000.jpg?v=e1c9fa43de
+  genres:
+    - War
+    - History
+    - Drama
+  letterboxd_rating: 2.48
 
 - id: tales-of-ordinary-madness
   tmdb_id: 69014
@@ -158,6 +198,9 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 2 }
   letterboxd_slug: tales-of-ordinary-madness
   poster_url: https://a.ltrbxd.com/resized/sm/upload/3g/4p/p7/pv/tales-1200-1200-675-675-crop-000000.jpg?v=b9e2d2de28
+  genres:
+    - Drama
+  letterboxd_rating: 3.35
 
 - id: control-1987
   tmdb_id: 273189
@@ -168,6 +211,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: control-1987
   poster_url: https://a.ltrbxd.com/resized/film-poster/1/9/7/4/0/0/197400-control-1987-0-230-0-345-crop.jpg?v=935484b251
+  genres:
+    - Drama
+    - Thriller
 
 - id: quicker-than-the-eye
   tmdb_id: 267654
@@ -178,6 +224,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: quicker-than-the-eye
   poster_url: https://a.ltrbxd.com/resized/film-poster/1/9/0/8/4/7/190847-quicker-than-the-eye-0-230-0-345-crop.jpg?v=bf98a9d28f
+  genres:
+    - Drama
+    - Thriller
 
 - id: shadow-conspiracy
   tmdb_id: 38153
@@ -188,6 +237,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: shadow-conspiracy
   poster_url: https://a.ltrbxd.com/resized/sm/upload/c9/cn/gz/wn/lKNWNSuvgDh8HQCgg26FZj7YqOB-1200-1200-675-675-crop-000000.jpg?v=5f4efe5c5a
+  genres:
+    - Thriller
+  letterboxd_rating: 2.48
 
 - id: the-spanish-prisoner
   tmdb_id: 29193
@@ -199,6 +251,11 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: the-spanish-prisoner
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ul/pb/6e/zw/spanish-prisoner-1200-1200-675-675-crop-000000.jpg?v=6950ed25fd
+  genres:
+    - Mystery
+    - Drama
+    - Thriller
+  letterboxd_rating: 3.58
 
 - id: too-tired-to-die
   tmdb_id: 185462
@@ -209,6 +266,11 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: too-tired-to-die
   poster_url: https://a.ltrbxd.com/resized/film-poster/1/3/4/1/4/2/134142-too-tired-to-die-0-230-0-345-crop.jpg?v=f790359d73
+  genres:
+    - Fantasy
+    - Comedy
+    - Drama
+  letterboxd_rating: 3.17
 
 - id: illuminata
   tmdb_id: 91076
@@ -219,6 +281,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   letterboxd_slug: illuminata
   poster_url: https://a.ltrbxd.com/resized/sm/upload/hs/mr/0n/03/i5PZiTBdvt4lDmpwAnMso0bAiWs-1200-1200-675-675-crop-000000.jpg?v=f4fad25962
+  genres:
+    - Drama
+    - Comedy
+  letterboxd_rating: 3.2
 
 - id: paradise-cove
   tmdb_id: 483847
@@ -229,6 +295,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: paradise-cove
   poster_url: https://a.ltrbxd.com/resized/film-poster/4/1/4/6/4/3/414643-paradise-cove-0-230-0-345-crop.jpg?v=ec535c1142
+  genres:
+    - Thriller
+    - Crime
 
 - id: jack-of-hearts
   tmdb_id: 221799
@@ -239,6 +308,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: jack-of-hearts
   poster_url: https://a.ltrbxd.com/resized/film-poster/1/5/6/8/0/0/156800-jack-of-hearts-0-230-0-345-crop.jpg?v=23a0d9cf94
+  genres:
+    - Crime
+    - Thriller
 
 - id: blue-moon-2000
   tmdb_id: 287807
@@ -249,6 +321,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: blue-moon-2000
   poster_url: https://a.ltrbxd.com/resized/film-poster/2/1/3/0/6/4/213064-blue-moon-0-230-0-345-crop.jpg?v=fcb6a9eae2
+  genres:
+    - Comedy
+    - Drama
 
 - id: paris-je-taime
   tmdb_id: 2266
@@ -259,6 +334,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   letterboxd_slug: paris-je-taime
   poster_url: https://a.ltrbxd.com/resized/sm/upload/fl/v2/rf/cf/paris-je-taime-1200-1200-675-675-crop-000000.jpg?v=afba6e8faa
+  genres:
+    - Romance
+    - Drama
+  letterboxd_rating: 3.47
 
 - id: the-shore-2005
   tmdb_id: 480791
@@ -269,6 +348,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: the-shore-2005
   poster_url: https://a.ltrbxd.com/resized/film-poster/4/1/1/6/5/2/411652-the-shore-0-230-0-345-crop.jpg?v=390da64166
+  genres:
+    - Drama
+    - Thriller
+    - Mystery
 
 - id: looking-for-palladin
   tmdb_id: 250625
@@ -279,3 +362,5 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: looking-for-palladin
   poster_url: https://a.ltrbxd.com/resized/film-poster/1/7/5/0/1/7/175017-looking-for-palladin-0-230-0-345-crop.jpg?v=ffc0e17a8a
+  genres:
+    - Comedy

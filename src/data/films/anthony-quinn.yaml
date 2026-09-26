@@ -39,6 +39,10 @@
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 1 }
   letterboxd_slug: blood-and-sand
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ri/rq/8w/st/blood%20and%20sand-1200-1200-675-675-crop-000000.jpg?v=e0ff6f8f93
+  genres:
+    - Romance
+    - Drama
+  letterboxd_rating: 3.32
 
 - id: guadalcanal-diary
   tmdb_id: 43510
@@ -49,6 +53,11 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   letterboxd_slug: guadalcanal-diary
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ez/ka/g9/4h/tNR7QDdMoiS9CMGITknnuWvb5Q8-1200-1200-675-675-crop-000000.jpg?v=37fbb0e848
+  genres:
+    - War
+    - Drama
+    - Action
+  letterboxd_rating: 3.23
 
 - id: sinbad-the-sailor
   tmdb_id: 43464
@@ -59,6 +68,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: sinbad-the-sailor
   poster_url: https://a.ltrbxd.com/resized/sm/upload/yb/gv/ju/30/AcrGUn80TyjBonMyjuR6f0NnNqv-1200-1200-675-675-crop-000000.jpg?v=ab682c9f86
+  genres:
+    - Adventure
+  letterboxd_rating: 3.14
 
 - id: lust-for-life
   tmdb_id: 29592
@@ -69,6 +81,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 0 }
   letterboxd_slug: lust-for-life
   poster_url: https://a.ltrbxd.com/resized/sm/upload/pd/ae/0c/na/lustforlife-1200-1200-675-675-crop-000000.jpg?v=72e25c6674
+  genres:
+    - Drama
+    - History
+  letterboxd_rating: 3.67
 
 - id: the-hunchback-of-notre-dame-1956
   tmdb_id: 11594
@@ -79,6 +95,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: the-hunchback-of-notre-dame-1956
   poster_url: https://a.ltrbxd.com/resized/film-poster/4/5/1/5/6/45156-the-hunchback-of-notre-dame-0-230-0-345-crop.jpg?v=1a6eb09eca
+  genres:
+    - Drama
+    - Horror
+  letterboxd_rating: 3.32
 
 - id: warlock
   tmdb_id: 37412
@@ -89,6 +109,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   letterboxd_slug: warlock
   poster_url: https://a.ltrbxd.com/resized/sm/upload/rp/tg/xa/ge/oYummzTH6lOcroUFYDD2EZifRPD-1200-1200-675-675-crop-000000.jpg?v=bc4cfc3f2d
+  genres:
+    - Western
+  letterboxd_rating: 3.58
 
 - id: last-train-from-gun-hill
   tmdb_id: 14677
@@ -99,6 +122,9 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: last-train-from-gun-hill
   poster_url: https://a.ltrbxd.com/resized/sm/upload/5j/7b/ad/ev/hLNn2gI7aadZ23lPvLfbmcg7yv0-1200-1200-675-675-crop-000000.jpg?v=047def9f21
+  genres:
+    - Western
+  letterboxd_rating: 3.73
 
 - id: the-savage-innocents
   tmdb_id: 94393
@@ -109,6 +135,10 @@
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: the-savage-innocents
   poster_url: https://a.ltrbxd.com/resized/sm/upload/99/h6/58/p9/ufRrfxkwMy52dK2eo5X3hmyzBZK-1200-1200-675-675-crop-000000.jpg?v=79c3426c8f
+  genres:
+    - Drama
+    - Adventure
+  letterboxd_rating: 3.42
 
 - id: barabbas
   tmdb_id: 24248
@@ -119,6 +149,11 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   letterboxd_slug: barabbas
   poster_url: https://a.ltrbxd.com/resized/sm/upload/6l/s6/ng/68/barabbas-1200-1200-675-675-crop-000000.jpg?v=7779fa0b74
+  genres:
+    - Drama
+    - Adventure
+    - History
+  letterboxd_rating: 3.57
 
 - id: requiem-for-a-heavyweight
   tmdb_id: 53229
@@ -129,6 +164,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: requiem-for-a-heavyweight
   poster_url: https://a.ltrbxd.com/resized/sm/upload/tq/do/ni/im/tb9aygvrEhRdyL5lxGKaMmYQC37-1200-1200-675-675-crop-000000.jpg?v=ba351b84bc
+  genres:
+    - Drama
+  letterboxd_rating: 3.92
 
 - id: behold-a-pale-horse
   tmdb_id: 166607
@@ -139,6 +177,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: behold-a-pale-horse
   poster_url: https://a.ltrbxd.com/resized/sm/upload/fb/az/l2/6d/8Yg0TF43L1IIjc8yWreuLMnJFa2-1200-1200-675-675-crop-000000.jpg?v=3fa70761b5
+  genres:
+    - War
+    - Drama
+  letterboxd_rating: 3.4
 
 - id: a-high-wind-in-jamaica
   tmdb_id: 38340
@@ -149,6 +191,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: a-high-wind-in-jamaica
   poster_url: https://a.ltrbxd.com/resized/sm/upload/85/ri/fz/kb/te2inmHAbGbK9wVnW37lmqcBTCx-1200-1200-675-675-crop-000000.jpg?v=508b0005ac
+  genres:
+    - Drama
+    - Adventure
+  letterboxd_rating: 3.45
 
 - id: the-shoes-of-the-fisherman
   tmdb_id: 17665
@@ -159,6 +205,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: the-shoes-of-the-fisherman
   poster_url: https://a.ltrbxd.com/resized/sm/upload/t7/sa/vl/4l/lp8yJ2DYBn5mp5o2XnJ567tZp33-1200-1200-675-675-crop-000000.jpg?v=ee1cbb81da
+  genres:
+    - Drama
+  letterboxd_rating: 3.37
 
 - id: the-message
   tmdb_id: 26842
@@ -169,6 +218,11 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: the-message-1976
   poster_url: https://a.ltrbxd.com/resized/sm/upload/5v/60/cx/d8/message-1200-1200-675-675-crop-000000.jpg?v=97972057be
+  genres:
+    - Drama
+    - History
+    - Adventure
+  letterboxd_rating: 4.22
 
 - id: lion-of-the-desert
   tmdb_id: 26843
@@ -179,6 +233,11 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   letterboxd_slug: lion-of-the-desert
   poster_url: https://a.ltrbxd.com/resized/sm/upload/kt/un/0b/7z/lion%20of%20the%20desert-1200-1200-675-675-crop-000000.jpg?v=fb2aee99cc
+  genres:
+    - Drama
+    - History
+    - War
+  letterboxd_rating: 3.93
 
 - id: the-old-man-and-the-sea-1990
   tmdb_id: 79775
@@ -189,6 +248,11 @@
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: the-old-man-and-the-sea-1990
   poster_url: https://a.ltrbxd.com/resized/film-poster/6/6/2/0/2/66202-the-old-man-and-the-sea-0-230-0-345-crop.jpg?v=2d38f81ddb
+  genres:
+    - TV Movie
+    - Drama
+    - Action
+  letterboxd_rating: 3.27
 
 - id: only-the-lonely
   tmdb_id: 2611
@@ -199,6 +263,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: only-the-lonely
   poster_url: https://a.ltrbxd.com/resized/sm/upload/d7/36/03/nb/only%20the%20lonely-1200-1200-675-675-crop-000000.jpg?v=fa78743667
+  genres:
+    - Comedy
+    - Romance
+  letterboxd_rating: 3.15
 
 - id: mobsters
   tmdb_id: 21219
@@ -209,6 +277,12 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   letterboxd_slug: mobsters
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ft/zv/ri/vd/fb7QqItWmB6DT7e0gxAvDD42xSd-1200-1200-675-675-crop-000000.jpg?v=d4f435bed0
+  genres:
+    - Crime
+    - Action
+    - Thriller
+    - Drama
+  letterboxd_rating: 2.77
 
 - id: last-action-hero
   tmdb_id: 9593
@@ -219,6 +293,11 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   letterboxd_slug: last-action-hero
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ts/2x/3g/2y/last-action-hero-110-1200-1200-675-675-crop-000000.jpg?v=fff8ef5972
+  genres:
+    - Fantasy
+    - Comedy
+    - Action
+  letterboxd_rating: 3.44
 
 - id: a-walk-in-the-clouds
   tmdb_id: 9560
@@ -229,3 +308,7 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
   letterboxd_slug: a-walk-in-the-clouds
   poster_url: https://a.ltrbxd.com/resized/sm/upload/iz/dp/8b/8p/walk-1200-1200-675-675-crop-000000.jpg?v=cd86d70c44
+  genres:
+    - Drama
+    - Romance
+  letterboxd_rating: 3.27

@@ -130,6 +130,11 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: to-kill-a-king
   poster_url: https://a.ltrbxd.com/resized/film-poster/4/0/4/1/2/40412-to-kill-a-king-0-230-0-345-crop.jpg?v=495977a228
+  genres:
+    - Drama
+    - Adventure
+    - Action
+  letterboxd_rating: 3.04
 
 - id: starter-for-10
   tmdb_id: 14055
@@ -140,6 +145,11 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   letterboxd_slug: starter-for-10
   poster_url: https://a.ltrbxd.com/resized/sm/upload/7f/g1/fl/a9/1aIM2oiOBH5TJsvjcdU6ca9zwQX-1200-1200-675-675-crop-000000.jpg?v=0b79079860
+  genres:
+    - Comedy
+    - Drama
+    - Romance
+  letterboxd_rating: 3.3
 
 - id: burlesque-fairytales
   tmdb_id: 97764
@@ -150,6 +160,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
   letterboxd_slug: burlesque-fairytales
   poster_url: https://a.ltrbxd.com/resized/film-poster/8/0/4/3/5/80435-burlesque-fairytales-0-230-0-345-crop.jpg?v=4f6423e61f
+  genres:
+    - Thriller
+    - Drama
 
 - id: third-star
   tmdb_id: 75170
@@ -160,6 +173,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: third-star
   poster_url: https://a.ltrbxd.com/resized/sm/upload/u8/5t/9c/db/deD8VXD4PM5HHDN7sNbgGlvKbeF-1200-1200-675-675-crop-000000.jpg?v=6489df7ad0
+  genres:
+    - Drama
+  letterboxd_rating: 3.66
 
 - id: the-whistleblower
   tmdb_id: 65760
@@ -170,6 +186,11 @@
   content: { sexual_violence: true, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 1 }
   letterboxd_slug: the-whistleblower
   poster_url: https://a.ltrbxd.com/resized/sm/upload/co/7j/u6/8c/the-whistleblower-1200-1200-675-675-crop-000000.jpg?v=2d216a3073
+  genres:
+    - Crime
+    - Drama
+    - Thriller
+  letterboxd_rating: 3.37
 
 - id: wreckers
   tmdb_id: 95675
@@ -180,6 +201,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
   letterboxd_slug: wreckers
   poster_url: https://a.ltrbxd.com/resized/film-poster/7/9/1/4/2/79142-wreckers-0-230-0-345-crop.jpg?v=dd1c75ae38
+  genres:
+    - Drama
+  letterboxd_rating: 3
 
 - id: the-hobbit-the-desolation-of-smaug
   tmdb_id: 57158
@@ -191,6 +215,11 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   letterboxd_slug: the-hobbit-the-desolation-of-smaug
   poster_url: https://a.ltrbxd.com/resized/sm/upload/sq/n4/nv/0c/the-hobbit-the-desolation-of-smaug-1200-1200-675-675-crop-000000.jpg?v=927d83dec5
+  genres:
+    - Action
+    - Fantasy
+    - Adventure
+  letterboxd_rating: 3.56
 
 - id: the-hobbit-the-battle-of-the-five-armies
   tmdb_id: 122917
@@ -202,6 +231,11 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   letterboxd_slug: the-hobbit-the-battle-of-the-five-armies
   poster_url: https://a.ltrbxd.com/resized/sm/upload/hy/ny/zo/8l/the-hobbit-five-armies-1200-1200-675-675-crop-000000.jpg?v=4b784a6993
+  genres:
+    - Fantasy
+    - Action
+    - Adventure
+  letterboxd_rating: 3.4
 
 - id: penguins-of-madagascar
   tmdb_id: 270946
@@ -212,6 +246,12 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: penguins-of-madagascar-2014
   poster_url: https://a.ltrbxd.com/resized/sm/upload/9e/8b/3i/1a/penguins-of-madagascar-1200-1200-675-675-crop-000000.jpg?v=43d46e0c0d
+  genres:
+    - Animation
+    - Family
+    - Comedy
+    - Adventure
+  letterboxd_rating: 3.24
 
 - id: the-grinch
   tmdb_id: 360920
@@ -222,6 +262,12 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: the-grinch
   poster_url: https://a.ltrbxd.com/resized/sm/upload/uz/le/ek/yk/the-grinch-1200-1200-675-675-crop-000000.jpg?v=e95f3c16e9
+  genres:
+    - Fantasy
+    - Animation
+    - Comedy
+    - Family
+  letterboxd_rating: 3.06
 
 - id: mowgli-legend-of-the-jungle
   tmdb_id: 407436
@@ -232,6 +278,10 @@
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: mowgli-legend-of-the-jungle
   poster_url: https://a.ltrbxd.com/resized/sm/upload/qs/k0/0j/sr/mowgli-1200-1200-675-675-crop-000000.jpg?v=ae435c57cf
+  genres:
+    - Adventure
+    - Drama
+  letterboxd_rating: 2.76
 
 - id: 1917
   tmdb_id: 530915
@@ -243,6 +293,11 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   letterboxd_slug: 1917
   poster_url: https://a.ltrbxd.com/resized/sm/upload/zc/ui/yj/1h/1917-1200-1200-675-675-crop-000000.jpg?v=24c56f8c71
+  genres:
+    - Drama
+    - War
+    - History
+  letterboxd_rating: 4.13
 
 - id: the-courier
   tmdb_id: 522241
@@ -253,6 +308,11 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: the-courier-2020
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ys/8p/ka/v4/the-courier-2020-1200-1200-675-675-crop-000000.jpg?v=27957057e9
+  genres:
+    - Thriller
+    - Drama
+    - History
+  letterboxd_rating: 3.41
 
 - id: the-mauritanian
   tmdb_id: 644583
@@ -263,6 +323,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: the-mauritanian
   poster_url: https://a.ltrbxd.com/resized/sm/upload/z4/j6/zr/v2/mauri-1200-1200-675-675-crop-000000.jpg?v=83cd346a11
+  genres:
+    - Drama
+    - Thriller
+  letterboxd_rating: 3.71
 
 - id: the-electrical-life-of-louis-wain
   tmdb_id: 617762
@@ -273,6 +337,11 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: the-electrical-life-of-louis-wain
   poster_url: https://a.ltrbxd.com/resized/sm/upload/v1/jr/ri/sn/louis%20wain-1200-1200-675-675-crop-000000.jpg?v=46b95961a6
+  genres:
+    - History
+    - Comedy
+    - Drama
+  letterboxd_rating: 3.68
 
 - id: poison-2023
   tmdb_id: 1172676
@@ -284,6 +353,11 @@
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: poison-2023
   poster_url: https://a.ltrbxd.com/resized/sm/upload/0f/qm/c7/qx/poison-1200-1200-675-675-crop-000000.jpg?v=50e110f994
+  genres:
+    - Thriller
+    - Comedy
+    - Drama
+  letterboxd_rating: 3.59
 
 - id: the-end-we-start-from
   tmdb_id: 973778
@@ -294,6 +368,11 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: the-end-we-start-from
   poster_url: https://a.ltrbxd.com/resized/sm/upload/u4/y7/m9/9y/TheEndWeStartFrom-1200-1200-675-675-crop-000000.jpg?v=f63280e232
+  genres:
+    - Mystery
+    - Thriller
+    - Drama
+  letterboxd_rating: 3.31
 
 - id: the-book-of-clarence
   tmdb_id: 976584
@@ -304,6 +383,11 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: the-book-of-clarence-2023
   poster_url: https://a.ltrbxd.com/resized/sm/upload/nf/lz/96/8h/book-1200-1200-675-675-crop-000000.jpg?v=cbd73f0e24
+  genres:
+    - Comedy
+    - Adventure
+    - Drama
+  letterboxd_rating: 3.13
 
 - id: the-thing-with-feathers
   tmdb_id: 1127628
@@ -314,6 +398,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: the-thing-with-feathers-2025
   poster_url: https://a.ltrbxd.com/resized/alternative-backdrop/1/0/1/6/3/2/8/tmdb/uIXIQUDXUxvhjfKvpUnXTiVfvuB-1200-1200-675-675-crop-000000.jpg?v=32ea195b92
+  genres:
+    - Drama
+  letterboxd_rating: 3.31
 
 - id: the-phoenician-scheme
   tmdb_id: 1137350
@@ -325,6 +412,11 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: the-phoenician-scheme
   poster_url: https://a.ltrbxd.com/resized/sm/upload/9x/61/x4/5e/phoe-1200-1200-675-675-crop-000000.jpg?v=4dc880d9fa
+  genres:
+    - Adventure
+    - Comedy
+    - Crime
+  letterboxd_rating: 3.54
 
 - id: the-roses
   tmdb_id: 1267905
@@ -335,3 +427,8 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: the-roses-2025
   poster_url: https://a.ltrbxd.com/resized/alternative-backdrop/1/1/5/1/4/2/5/tmdb/A5m0wi9rm4kxf9T5wFn3pBqaLtp-1200-1200-675-675-crop-000000.jpg?v=60016e2477
+  genres:
+    - Romance
+    - Drama
+    - Comedy
+  letterboxd_rating: 3.41

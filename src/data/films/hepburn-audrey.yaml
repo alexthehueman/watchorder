@@ -171,6 +171,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: laughter-in-paradise
   poster_url: https://a.ltrbxd.com/resized/sm/upload/94/9z/gx/lh/gYsYtevfroZRdqVtZWghsK8bQ1q-1200-1200-675-675-crop-000000.jpg?v=1099b35f9c
+  genres:
+    - Comedy
+  letterboxd_rating: 3.38
 
 - id: young-wives-tale
   tmdb_id: 237446
@@ -181,6 +184,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: young-wives-tale
   poster_url: https://a.ltrbxd.com/resized/film-poster/1/6/6/6/8/6/166686-young-wives-tale-0-230-0-345-crop.jpg?v=ed9392f22c
+  genres:
+    - Romance
+    - Comedy
+  letterboxd_rating: 3.18
 
 - id: secret-people
   tmdb_id: 111359
@@ -191,6 +198,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: secret-people
   poster_url: https://a.ltrbxd.com/resized/film-poster/8/9/1/5/5/89155-4488com-4488com-4488com-0-230-0-345-crop.jpg?v=8eac10a5b3
+  genres:
+    - Drama
+    - Crime
+  letterboxd_rating: 3.19
 
 - id: monte-carlo-baby
   tmdb_id: 66560
@@ -201,6 +212,9 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: monte-carlo-baby
   poster_url: https://a.ltrbxd.com/resized/sm/upload/xm/q1/xy/zc/xzizW2GVEwBKM8dlUbfU9lOCrou-1200-1200-675-675-crop-000000.jpg?v=28fa4c4429
+  genres:
+    - Comedy
+  letterboxd_rating: 3.19
 
 - id: war-and-peace
   tmdb_id: 11706
@@ -212,6 +226,12 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   letterboxd_slug: war-and-peace
   poster_url: https://a.ltrbxd.com/resized/sm/upload/gu/wi/sh/ew/war-and-peace-1200-1200-675-675-crop-000000.jpg?v=a68e84dc86
+  genres:
+    - Romance
+    - Drama
+    - History
+    - War
+  letterboxd_rating: 3.37
 
 - id: love-in-the-afternoon
   tmdb_id: 18299
@@ -223,6 +243,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   letterboxd_slug: love-in-the-afternoon
   poster_url: https://a.ltrbxd.com/resized/sm/upload/56/7p/zt/cb/love%20in%20afternoon-1200-1200-675-675-crop-000000.jpg?v=f0bab42bae
+  genres:
+    - Romance
+    - Comedy
+  letterboxd_rating: 3.52
 
 - id: the-unforgiven
   tmdb_id: 6643
@@ -234,6 +258,11 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
   letterboxd_slug: the-unforgiven
   poster_url: https://a.ltrbxd.com/resized/sm/upload/ud/7l/wa/1y/unforgiven-1200-1200-675-675-crop-000000.jpg?v=aaa447494a
+  genres:
+    - Romance
+    - Western
+    - Drama
+  letterboxd_rating: 3.08
 
 - id: paris-when-it-sizzles
   tmdb_id: 22829
@@ -244,6 +273,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: paris-when-it-sizzles
   poster_url: https://a.ltrbxd.com/resized/sm/upload/zn/gw/st/eg/paris-1200-1200-675-675-crop-000000.jpg?v=69cf9b7369
+  genres:
+    - Romance
+    - Comedy
+  letterboxd_rating: 3.34
 
 - id: how-to-steal-a-million
   tmdb_id: 3001
@@ -254,6 +287,11 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: how-to-steal-a-million
   poster_url: https://a.ltrbxd.com/resized/sm/upload/9u/k2/uo/n8/how-to-steal-a-million-1200-1200-675-675-crop-000000.jpg?v=5e0b76cfc1
+  genres:
+    - Romance
+    - Crime
+    - Comedy
+  letterboxd_rating: 3.9
 
 - id: robin-and-marian
   tmdb_id: 10786
@@ -264,6 +302,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
   letterboxd_slug: robin-and-marian
   poster_url: https://a.ltrbxd.com/resized/sm/upload/3p/aj/wl/ab/robin%20and%20marian-1200-1200-675-675-crop-000000.jpg?v=cddfd9d5c8
+  genres:
+    - Adventure
+    - Romance
+  letterboxd_rating: 3.35
 
 - id: bloodline
   tmdb_id: 3013
@@ -274,6 +316,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
   letterboxd_slug: bloodline
   poster_url: https://a.ltrbxd.com/resized/sm/upload/5w/py/8c/o8/bloodline-1200-1200-675-675-crop-000000.jpg?v=07b78143c4
+  genres:
+    - Crime
+    - Thriller
+  letterboxd_rating: 2.55
 
 - id: they-all-laughed
   tmdb_id: 31921
@@ -284,6 +330,10 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   letterboxd_slug: they-all-laughed
   poster_url: https://a.ltrbxd.com/resized/sm/upload/oq/aw/a8/a3/they%20all%20laughed-1200-1200-675-675-crop-000000.jpg?v=0bbe64db7f
+  genres:
+    - Comedy
+    - Romance
+  letterboxd_rating: 3.57
 
 - id: always-1989
   tmdb_id: 11352
@@ -295,3 +345,8 @@
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: always
   poster_url: https://a.ltrbxd.com/resized/sm/upload/uv/5p/hq/uh/always-1200-1200-675-675-crop-000000.jpg?v=6be7df8279
+  genres:
+    - Drama
+    - Romance
+    - Fantasy
+  letterboxd_rating: 2.92
