@@ -1,5 +1,254 @@
 # Films for Ben Affleck. Scales and anchors are in README.md ("The anchor rubric").
 #
-# Every film below is already tagged elsewhere — his corpus is entirely shared:
 # Good Will Hunting already exists in damon.yaml. Armageddon already exists in buscemi.yaml.
-# Argo already exists in goodman.yaml. Gone Girl already exists in pike.yaml.
+# Argo already exists in goodman.yaml. Gone Girl already exists in pike.yaml. This pass adds
+# further free wins Field of Dreams (Costner), School Ties (Brendan Fraser), Dazed and Confused
+# (McConaughey), Shakespeare in Love (Dench), Dogma (Chris Rock), Boiler Room (Vin Diesel), Pearl
+# Harbor (Beckinsale), Changing Lanes (Roger Michell), Gigli (Pacino), Hollywoodland (Brody), The
+# Town (Jeremy Renner), The Company Men (Roger Deakins), To the Wonder (Malick), Runner Runner
+# (Anthony Mackie), Batman v Superman and Zack Snyder's Justice League (both Amy Adams), Suicide
+# Squad and Air (both Viola Davis), The Accountant (Kendrick), Live by Night and Clerks III (both
+# Anthony Michael Hall), Justice League (Jason Momoa), The Last Duel (Adam Driver), Deep Water (Ana
+# de Armas), and The Last Thing He Wanted (Hathaway), plus 30 new films below.
+#
+# Excluded as an uncredited bit part or documentary/deleted-scene appearance rather than a real
+# performance: The Dark End of the Street, The Good Mother, Buffy the Vampire Slayer, Fahrenheit
+# 9/11, Jennifer Lopez: Halftime, The Greatest Love Story Never Told, and Elektra (his cameo exists
+# only in the director's cut, never theatrically released). Excluded as unreleased as of today:
+# Animals.
+
+- id: glory-daze
+  tmdb_id: 26626
+  title: Glory Daze
+  year: 1995
+  runtime: 96
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: mallrats
+  tmdb_id: 2293
+  title: Mallrats
+  year: 1995
+  runtime: 94
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: chasing-amy
+  tmdb_id: 2255
+  title: Chasing Amy
+  year: 1997
+  director: Kevin Smith
+  runtime: 111
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+
+- id: going-all-the-way
+  tmdb_id: 118075
+  title: Going All the Way
+  year: 1997
+  runtime: 101
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+
+- id: phantoms
+  tmdb_id: 9827
+  title: Phantoms
+  year: 1998
+  runtime: 95
+  tags: { opacity: 2, stillness: 1, bleakness: 4, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: 200-cigarettes
+  tmdb_id: 15256
+  title: 200 Cigarettes
+  year: 1999
+  runtime: 101
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: forces-of-nature
+  tmdb_id: 1641
+  title: Forces of Nature
+  year: 1999
+  runtime: 105
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: daddy-and-them
+  tmdb_id: 33557
+  title: Daddy and Them
+  year: 2001
+  runtime: 100
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: jay-and-silent-bob-strike-back
+  tmdb_id: 2294
+  title: Jay and Silent Bob Strike Back
+  year: 2001
+  director: Kevin Smith
+  runtime: 104
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: the-third-wheel
+  tmdb_id: 37270
+  title: The Third Wheel
+  year: 2002
+  runtime: 90
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-sum-of-all-fears
+  tmdb_id: 4614
+  title: The Sum of All Fears
+  year: 2002
+  runtime: 124
+  tags: { opacity: 2, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: daredevil
+  tmdb_id: 9480
+  title: Daredevil
+  year: 2003
+  runtime: 103
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: paycheck
+  tmdb_id: 9620
+  title: Paycheck
+  year: 2003
+  runtime: 119
+  tags: { opacity: 2, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: jersey-girl
+  tmdb_id: 9541
+  title: Jersey Girl
+  year: 2004
+  director: Kevin Smith
+  runtime: 102
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: surviving-christmas
+  tmdb_id: 15566
+  title: Surviving Christmas
+  year: 2004
+  runtime: 91
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.25 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: man-about-town
+  tmdb_id: 9784
+  title: Man About Town
+  year: 2006
+  runtime: 96
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 2, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: smokin-aces
+  tmdb_id: 7516
+  title: Smokin' Aces
+  year: 2006
+  runtime: 108
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: hes-just-not-that-into-you
+  tmdb_id: 10184
+  title: He's Just Not That Into You
+  year: 2009
+  runtime: 129
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: state-of-play
+  tmdb_id: 16995
+  title: State of Play
+  year: 2009
+  runtime: 127
+  tags: { opacity: 2, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: extract
+  tmdb_id: 12569
+  title: Extract
+  year: 2009
+  runtime: 92
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: triple-frontier
+  tmdb_id: 399361
+  title: Triple Frontier
+  year: 2019
+  runtime: 125
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: jay-and-silent-bob-reboot
+  tmdb_id: 440762
+  title: Jay and Silent Bob Reboot
+  year: 2019
+  director: Kevin Smith
+  runtime: 100
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: the-way-back
+  tmdb_id: 529485
+  title: The Way Back
+  year: 2020
+  runtime: 108
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.60 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-tender-bar
+  tmdb_id: 727293
+  title: The Tender Bar
+  year: 2021
+  runtime: 106
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: hypnotic
+  tmdb_id: 536437
+  title: Hypnotic
+  year: 2023
+  runtime: 93
+  tags: { opacity: 3, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-flash
+  tmdb_id: 298618
+  title: The Flash
+  year: 2023
+  runtime: 144
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: this-is-me-now
+  tmdb_id: 1217343
+  title: "This Is Me... Now: A Love Story"
+  year: 2024
+  runtime: 65
+  tags: { opacity: 4, stillness: 1, bleakness: 1, humor: 1, acclaim: 0.20 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: the-accountant-2
+  tmdb_id: 870028
+  title: The Accountant²
+  year: 2025
+  runtime: 122
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 2, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: the-rip
+  tmdb_id: 1306368
+  title: The Rip
+  year: 2026
+  runtime: 128
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 2, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }

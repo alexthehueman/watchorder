@@ -37,6 +37,398 @@ films:
     gateway: 5
     note: A cocky, immature driller getting in over his head on a mission to save the world, playing brash, overconfident swagger.
 
+  - film: the-town
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: A Boston bank robber trying to build a real life with a witness who doesn't know his secret, playing quiet, cornered decency.
+
+  - film: daredevil
+    signature: 2
+    showcase: 2
+    role_size: lead
+    register: menacing
+    gateway: 3
+    note: A blind lawyer by day and vigilante by night, hunting the crime boss responsible for his father's death.
+
+  - film: hollywoodland
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: Superman actor George Reeves, whose real-life mysterious death frames this Hollywood noir.
+
+  - film: the-accountant
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: An autistic forensic accountant for criminal organizations, whose meticulous cover starts to crack.
+
+  - film: the-accountant-2
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: The same forensic accountant, pulled back into the field to solve his own murdered friend's final case.
+
+  - film: batman-v-superman-dawn-of-justice
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: menacing
+    gateway: 4
+    note: An older, embittered Batman convinced Superman is a threat that has to be stopped.
+
+  - film: justice-league
+    signature: 1
+    showcase: 1
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: Batman again, assembling a team of metahumans against an alien invasion.
+
+  - film: zack-snyders-justice-league
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: The director's-cut version of the same role, restoring material trimmed from the theatrical release.
+
+  - film: the-flash
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: warm
+    gateway: 3
+    note: A returning Batman across a multiverse of timelines The Flash's meddling keeps destabilizing.
+
+  - film: the-last-duel
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 2
+    note: A hedonistic count presiding over the medieval court where a knight's wife's accusation of rape leads to trial by combat.
+
+  - film: the-tender-bar
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: warm
+    gateway: 2
+    note: A bartender uncle whose rough wisdom becomes the closest thing to a father figure his nephew has.
+
+  - film: air
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: warm
+    gateway: 3
+    note: Nike co-founder Phil Knight, whose company gambles everything on signing an unproven rookie named Michael Jordan.
+
+  - film: triple-frontier
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A divorced former special-ops soldier drawn back in for one last score that spirals badly out of control.
+
+  - film: the-way-back
+    signature: 2
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: An alcoholic former basketball star given one shot at redemption coaching his old high school team.
+
+  - film: gigli
+    signature: 1
+    showcase: 1
+    role_size: lead
+    register: comic
+    gateway: 1
+    note: A low-level mob enforcer whose kidnapping job goes sideways when his lesbian partner starts falling for him.
+
+  - film: pearl-harbor
+    signature: 1
+    showcase: 1
+    role_size: lead
+    register: warm
+    gateway: 3
+    note: A Army Air Corps pilot caught in a love triangle with his best friend right as the Japanese attack Pearl Harbor.
+
+  - film: changing-lanes
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: menacing
+    gateway: 2
+    note: A hotshot lawyer whose minor car accident with a stranger escalates into an all-day war of escalating retaliation.
+
+  - film: the-sum-of-all-fears
+    signature: 1
+    showcase: 1
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A younger Jack Ryan racing to stop a nuclear terrorist plot from triggering war between the US and Russia.
+
+  - film: paycheck
+    signature: 1
+    showcase: 1
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: An engineer who wipes his own memory after a top-secret job, then has to piece together why his future self left clues behind.
+
+  - film: jersey-girl
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: warm
+    gateway: 2
+    note: A widowed publicist raising his young daughter alone after his wife's death in childbirth.
+
+  - film: surviving-christmas
+    signature: 1
+    showcase: 1
+    role_size: lead
+    register: comic
+    gateway: 1
+    note: A lonely millionaire who pays a family to pretend to be his own for the holidays.
+
+  - film: man-about-town
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A talent agency executive whose marriage and career both start unraveling at once.
+
+  - film: smokin-aces
+    signature: 1
+    showcase: 1
+    role_size: lead
+    register: menacing
+    gateway: 1
+    note: An FBI agent racing a small army of assassins and bounty hunters to a Vegas magician turned government witness.
+
+  - film: hes-just-not-that-into-you
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: warm
+    gateway: 2
+    note: One half of a long-term couple whose reluctance to marry unsettles everyone else's relationships around them.
+
+  - film: state-of-play
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A congressman implicated in a scandal after his top aide is found dead, forcing his journalist friend to dig into the truth.
+
+  - film: extract
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 1
+    note: A bartender doling out increasingly bad advice to a factory owner whose life is falling apart.
+
+  - film: hypnotic
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: menacing
+    gateway: 1
+    note: A detective whose search for his missing daughter uncovers a secret government program of reality-bending operatives.
+
+  - film: chasing-amy
+    signature: 1
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A comic-book artist whose growing feelings for his lesbian best friend complicate both their lives.
+
+  - film: mallrats
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 2
+    note: A mall arcade employee obsessed with sabotaging his ex-girlfriend's new relationship on a game show.
+
+  - film: jay-and-silent-bob-strike-back
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 1
+    note: A cameo reprising Holden McNeil alongside a returning View Askewniverse cast.
+
+  - film: jay-and-silent-bob-reboot
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 1
+    note: A cameo reprising Holden McNeil once more in this legacy-sequel revival.
+
+  - film: dazed-and-confused
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: menacing
+    gateway: 2
+    note: A sadistic senior who spends the last day of school terrorizing incoming freshmen.
+
+  - film: school-ties
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: menacing
+    gateway: 1
+    note: A privileged prep-school bully whose antisemitism surfaces once a scholarship student's secret gets out.
+
+  - film: shakespeare-in-love
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 2
+    note: A theatrical impresario navigating the chaos surrounding Shakespeare's latest production.
+
+  - film: dogma
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: comic
+    gateway: 1
+    note: A fallen angel scheming to exploit a Catholic loophole and force his way back into Heaven.
+
+  - film: boiler-room
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: menacing
+    gateway: 1
+    note: A senior broker recruiting a college dropout into a fraudulent brokerage's high-pressure sales pitch.
+
+  - film: forces-of-nature
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: comic
+    gateway: 1
+    note: A groom-to-be whose cross-country trip to his own wedding is derailed by a chaotic stranger.
+
+  - film: 200-cigarettes
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 1
+    note: One thread in this ensemble comedy about a chaotic New Year's Eve party in 1981 New York.
+
+  - film: daddy-and-them
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 1
+    note: A minor supporting role in this Southern family comedy-drama.
+
+  - film: the-third-wheel
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 1
+    note: A minor supporting role in this romantic comedy about a disastrous double date.
+
+  - film: to-the-wonder
+    signature: 1
+    showcase: 1
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A man whose whirlwind romance in Paris curdles into quiet estrangement once they settle in Oklahoma.
+
+  - film: the-company-men
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A confident young executive whose entire identity collapses after he's laid off during a corporate downsizing.
+
+  - film: runner-runner
+    signature: 1
+    showcase: 1
+    role_size: lead
+    register: menacing
+    gateway: 1
+    note: A charismatic offshore gambling tycoon whose mentorship of a young recruit conceals a much darker operation.
+
+  - film: suicide-squad
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: restrained
+    gateway: 2
+    note: A brief appearance as Batman in flashback footage tying the film to the wider DC universe.
+
+  - film: live-by-night
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A Prohibition-era gangster whose rise through Boston and Florida rum-running comes at a mounting personal cost.
+
+  - film: clerks-iii
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 2
+    note: A cameo appearance in Kevin Smith's threequel to his own convenience-store comedy.
+
+  - film: deep-water
+    signature: 1
+    showcase: 3
+    role_size: lead
+    register: unhinged
+    gateway: 1
+    note: A husband whose quiet, unspoken arrangement to let his wife take lovers curdles into suspected murder.
+
+  - film: field-of-dreams
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: warm
+    gateway: 3
+    note: An uncredited appearance in this baseball fantasy drama.
+
+  - film: the-last-thing-he-wanted
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: restrained
+    gateway: 1
+    note: A shadowy government operative entangled with the journalist at the center of this political thriller.
+
 curated:
   curator: house
   rationale: The Oscar-winning breakout first, then the range of composure and unraveling around it.
@@ -45,3 +437,4 @@ curated:
     - argo
     - gone-girl
     - armageddon
+    - the-town
