@@ -36,6 +36,11 @@
   runtime: 103
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: duel-at-diablo
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/df/a6/0n/t7/hvTFgj3pdL2jCKwBfgKzgmh1MHn-1200-1200-675-675-crop-000000.jpg?v=3af60ae066
+  genres:
+    - Western
+  letterboxd_rating: 3.15
 
 - id: the-kremlin-letter
   tmdb_id: 45817
@@ -44,6 +49,12 @@
   runtime: 121
   tags: { opacity: 3, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  letterboxd_slug: the-kremlin-letter
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/e4/s4/0m/4h/rlnmgMp5tE8Roqb96bRV6rdfYte-1200-1200-675-675-crop-000000.jpg?v=5b11bde438
+  genres:
+    - Thriller
+    - Action
+  letterboxd_rating: 3.21
 
 - id: i-never-promised-you-a-rose-garden
   tmdb_id: 66092
@@ -52,6 +63,11 @@
   runtime: 96
   tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: i-never-promised-you-a-rose-garden
+  poster_url: https://a.ltrbxd.com/resized/film-poster/7/5/4/754-i-never-promised-you-a-rose-garden-0-230-0-345-crop.jpg?v=8a4a24d49a
+  genres:
+    - Drama
+  letterboxd_rating: 3.36
 
 - id: an-enemy-of-the-people
   tmdb_id: 121890
@@ -60,6 +76,11 @@
   runtime: 103
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.50 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: an-enemy-of-the-people-1978
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/0x/lv/6y/tw/hJuAIIeYHvUOUPlpDZwTwpJFEnb-1200-1200-675-675-crop-000000.jpg?v=6ac35f0510
+  genres:
+    - Drama
+  letterboxd_rating: 3.41
 
 - id: quintet
   tmdb_id: 45169
@@ -69,6 +90,11 @@
   runtime: 118
   tags: { opacity: 4, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.35 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: quintet
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/5z/rw/v1/c5/wOnNR34UOP8Wr2udp2FMbXQw1Ds-1200-1200-675-675-crop-000000.jpg?v=e555951cb6
+  genres:
+    - Science Fiction
+  letterboxd_rating: 2.67
 
 - id: the-concorde-airport-79
   tmdb_id: 29723
@@ -77,6 +103,13 @@
   runtime: 123
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.30 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: the-concorde-airport-79
+  poster_url: https://a.ltrbxd.com/resized/film-poster/3/2/6/0/5/32605-the-concorde-airport-79-0-230-0-345-crop.jpg?v=3421d898e1
+  genres:
+    - Thriller
+    - Action
+    - Drama
+  letterboxd_rating: 2.35
 
 - id: exposed-1983
   tmdb_id: 107246
@@ -85,3 +118,8 @@
   runtime: 100
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.35 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 2 }
+  letterboxd_slug: exposed-1983
+  poster_url: https://a.ltrbxd.com/resized/film-poster/8/6/4/4/9/86449-exposed-1983-0-230-0-345-crop.jpg?v=514505ed10
+  genres:
+    - Drama
+  letterboxd_rating: 3.18
