@@ -4,6 +4,16 @@
 # built to be legible. The axis carrying the whole filmography is bleakness, because she spent a
 # career choosing parts where the woman does not get away with it, at a time when that was a
 # commercial risk rather than a prestige move.
+#
+# Free wins: So Big! (Stanwyck — both actresses in the same 1932 film), The Catered Affair (Barry
+# Fitzgerald), The Scapegoat (Guinness), Death on the Nile 1978 (Jack Cardiff), Hush...Hush, Sweet
+# Charlotte (Joseph Biroc), and Waterloo Bridge 1931 (Mae Clarke) were already in the corpus under
+# other entities, plus 54 new films below.
+#
+# Bordertown needed a distinct id for her 1935 film, unrelated to Antonio Banderas's unrelated 2007
+# film already in the corpus despite sharing the exact title. Death on the Nile also needed a
+# distinct id — her 1978 role, unrelated to the 2022 Kenneth Branagh remake already in the corpus
+# under Bening.
 
 - id: of-human-bondage
   tmdb_id: 43905
@@ -186,3 +196,563 @@
   genres:
     - Drama
     - Romance
+
+- id: bad-sister
+  tmdb_id: 156322
+  title: Bad Sister
+  year: 1931
+  runtime: 68
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: seed
+  tmdb_id: 223557
+  title: Seed
+  year: 1931
+  runtime: 96
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: way-back-home
+  tmdb_id: 169761
+  title: Way Back Home
+  year: 1931
+  runtime: 80
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-menace
+  tmdb_id: 211349
+  title: The Menace
+  year: 1932
+  runtime: 64
+  tags: { opacity: 2, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: hells-house
+  tmdb_id: 136116
+  title: Hell's House
+  year: 1932
+  runtime: 72
+  tags: { opacity: 1, stillness: 1, bleakness: 4, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
+
+- id: the-man-who-played-god
+  tmdb_id: 114302
+  title: The Man Who Played God
+  year: 1932
+  runtime: 81
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-rich-are-always-with-us
+  tmdb_id: 122325
+  title: The Rich Are Always with Us
+  year: 1932
+  runtime: 73
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 2, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-dark-horse
+  tmdb_id: 78327
+  title: The Dark Horse
+  year: 1932
+  runtime: 75
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-cabin-in-the-cotton
+  tmdb_id: 43075
+  title: The Cabin in the Cotton
+  year: 1932
+  runtime: 79
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: three-on-a-match
+  tmdb_id: 42914
+  title: Three on a Match
+  year: 1932
+  runtime: 63
+  tags: { opacity: 1, stillness: 1, bleakness: 5, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: true, violence: 2, sex: 0 }
+
+- id: 20000-years-in-sing-sing
+  tmdb_id: 42822
+  title: "20,000 Years in Sing Sing"
+  year: 1932
+  runtime: 78
+  tags: { opacity: 1, stillness: 1, bleakness: 4, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: parachute-jumper
+  tmdb_id: 160466
+  title: Parachute Jumper
+  year: 1933
+  runtime: 65
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-working-man
+  tmdb_id: 95321
+  title: The Working Man
+  year: 1933
+  runtime: 74
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: ex-lady
+  tmdb_id: 52228
+  title: Ex-Lady
+  year: 1933
+  runtime: 67
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: bureau-of-missing-persons
+  tmdb_id: 52227
+  title: Bureau of Missing Persons
+  year: 1933
+  runtime: 73
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-big-shakedown
+  tmdb_id: 79052
+  title: The Big Shakedown
+  year: 1934
+  runtime: 64
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: fashions-of-1934
+  tmdb_id: 53872
+  title: Fashions of 1934
+  year: 1934
+  runtime: 78
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: jimmy-the-gent
+  tmdb_id: 81396
+  title: Jimmy the Gent
+  year: 1934
+  runtime: 67
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: fog-over-frisco
+  tmdb_id: 50675
+  title: Fog Over Frisco
+  year: 1934
+  runtime: 68
+  tags: { opacity: 2, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: housewife
+  tmdb_id: 173267
+  title: Housewife
+  year: 1934
+  runtime: 69
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: bordertown-1935
+  tmdb_id: 26323
+  title: Bordertown
+  year: 1935
+  runtime: 90
+  tags: { opacity: 1, stillness: 1, bleakness: 4, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-girl-from-10th-avenue
+  tmdb_id: 196693
+  title: The Girl from 10th Avenue
+  year: 1935
+  runtime: 69
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: front-page-woman
+  tmdb_id: 162059
+  title: Front Page Woman
+  year: 1935
+  runtime: 82
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: special-agent
+  tmdb_id: 52864
+  title: Special Agent
+  year: 1935
+  runtime: 78
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: dangerous
+  tmdb_id: 52863
+  title: Dangerous
+  year: 1935
+  runtime: 78
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 0 }
+
+- id: the-petrified-forest
+  tmdb_id: 17030
+  title: The Petrified Forest
+  year: 1936
+  runtime: 83
+  tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-golden-arrow
+  tmdb_id: 176259
+  title: The Golden Arrow
+  year: 1936
+  runtime: 68
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: satan-met-a-lady
+  tmdb_id: 28256
+  title: Satan Met a Lady
+  year: 1936
+  runtime: 74
+  tags: { opacity: 2, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: marked-woman
+  tmdb_id: 25563
+  title: Marked Woman
+  year: 1937
+  runtime: 96
+  tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.60 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+
+- id: kid-galahad-1937
+  tmdb_id: 52229
+  title: Kid Galahad
+  year: 1937
+  runtime: 101
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: that-certain-woman
+  tmdb_id: 77964
+  title: That Certain Woman
+  year: 1937
+  runtime: 91
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: its-love-im-after
+  tmdb_id: 106635
+  title: It's Love I'm After
+  year: 1937
+  runtime: 90
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-sisters
+  tmdb_id: 140995
+  title: The Sisters
+  year: 1938
+  runtime: 98
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: juarez
+  tmdb_id: 78318
+  title: Juarez
+  year: 1939
+  runtime: 132
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-old-maid
+  tmdb_id: 44919
+  title: The Old Maid
+  year: 1939
+  runtime: 95
+  tags: { opacity: 2, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.60 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: the-private-lives-of-elizabeth-and-essex
+  tmdb_id: 16902
+  title: The Private Lives of Elizabeth and Essex
+  year: 1939
+  runtime: 106
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: all-this-and-heaven-too
+  tmdb_id: 43807
+  title: "All This, and Heaven Too"
+  year: 1940
+  runtime: 143
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-bride-came-cod
+  tmdb_id: 29886
+  title: The Bride Came C.O.D.
+  year: 1941
+  runtime: 92
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-man-who-came-to-dinner
+  tmdb_id: 26319
+  title: The Man Who Came to Dinner
+  year: 1942
+  runtime: 112
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.60 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: in-this-our-life
+  tmdb_id: 43525
+  title: In This Our Life
+  year: 1942
+  runtime: 97
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: watch-on-the-rhine
+  tmdb_id: 68440
+  title: Watch on the Rhine
+  year: 1943
+  runtime: 114
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.60 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: old-acquaintance
+  tmdb_id: 55086
+  title: Old Acquaintance
+  year: 1943
+  runtime: 110
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: mr-skeffington
+  tmdb_id: 43307
+  title: Mr. Skeffington
+  year: 1944
+  runtime: 146
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.62 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-corn-is-green
+  tmdb_id: 43492
+  title: The Corn Is Green
+  year: 1945
+  runtime: 114
+  tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.60 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: a-stolen-life
+  tmdb_id: 43470
+  title: A Stolen Life
+  year: 1946
+  runtime: 107
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: deception
+  tmdb_id: 25502
+  title: Deception
+  year: 1946
+  runtime: 111
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: winter-meeting
+  tmdb_id: 43457
+  title: Winter Meeting
+  year: 1948
+  runtime: 104
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: june-bride
+  tmdb_id: 107593
+  title: June Bride
+  year: 1948
+  runtime: 97
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: beyond-the-forest
+  tmdb_id: 35896
+  title: Beyond the Forest
+  year: 1949
+  runtime: 96
+  tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 1 }
+
+- id: payment-on-demand
+  tmdb_id: 83667
+  title: Payment on Demand
+  year: 1951
+  runtime: 90
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: another-mans-poison
+  tmdb_id: 53714
+  title: Another Man's Poison
+  year: 1951
+  runtime: 89
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: phone-call-from-a-stranger
+  tmdb_id: 76229
+  title: Phone Call from a Stranger
+  year: 1952
+  runtime: 96
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-virgin-queen
+  tmdb_id: 43327
+  title: The Virgin Queen
+  year: 1955
+  runtime: 92
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: storm-center
+  tmdb_id: 45239
+  title: Storm Center
+  year: 1956
+  runtime: 87
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: john-paul-jones
+  tmdb_id: 72904
+  title: John Paul Jones
+  year: 1959
+  runtime: 126
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: pocketful-of-miracles
+  tmdb_id: 248
+  title: Pocketful of Miracles
+  year: 1961
+  runtime: 136
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-empty-canvas
+  tmdb_id: 85285
+  title: The Empty Canvas
+  year: 1963
+  runtime: 118
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: dead-ringer
+  tmdb_id: 22543
+  title: Dead Ringer
+  year: 1964
+  runtime: 116
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: where-love-has-gone
+  tmdb_id: 73348
+  title: Where Love Has Gone
+  year: 1964
+  runtime: 111
+  tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: the-nanny-1965
+  tmdb_id: 39893
+  title: The Nanny
+  year: 1965
+  runtime: 93
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 0 }
+
+- id: the-anniversary
+  tmdb_id: 58293
+  title: The Anniversary
+  year: 1968
+  runtime: 95
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: connecting-rooms
+  tmdb_id: 223568
+  title: Connecting Rooms
+  year: 1970
+  runtime: 103
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: bunny-ohare
+  tmdb_id: 88179
+  title: Bunny O'Hare
+  year: 1971
+  runtime: 90
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: madame-sin
+  tmdb_id: 55032
+  title: Madame Sin
+  year: 1972
+  runtime: 74
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-scopone-game
+  tmdb_id: 56341
+  title: The Scopone Game
+  year: 1972
+  runtime: 100
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: burnt-offerings
+  tmdb_id: 13549
+  title: Burnt Offerings
+  year: 1976
+  runtime: 116
+  tags: { opacity: 3, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: return-from-witch-mountain
+  tmdb_id: 14822
+  title: Return from Witch Mountain
+  year: 1978
+  runtime: 95
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 2, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-watcher-in-the-woods
+  tmdb_id: 21970
+  title: The Watcher in the Woods
+  year: 1980
+  runtime: 84
+  tags: { opacity: 3, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-whales-of-august
+  tmdb_id: 49815
+  title: The Whales of August
+  year: 1987
+  runtime: 90
+  tags: { opacity: 1, stillness: 4, bleakness: 3, humor: 1, acclaim: 0.60 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: wicked-stepmother
+  tmdb_id: 35826
+  title: Wicked Stepmother
+  year: 1989
+  runtime: 91
+  tags: { opacity: 2, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.20 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
