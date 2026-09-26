@@ -1,7 +1,26 @@
 # New films for Bill Nighy. Scales and anchors are in README.md ("The anchor rubric").
 #
 # Love Actually already exists in thompson.yaml — tagged before he had an entity. About Time
-# already exists in gleeson.yaml — tagged before he had an entity.
+# already exists in gleeson.yaml — tagged before he had an entity. Free wins (verified by
+# matching tmdb_id): Emma. (2020, oconnor.yaml, id emma-2020), Blow Dry (alan-rickman.yaml),
+# Underworld (beckinsale.yaml), Shaun of the Dead (edgar-wright.yaml), The Hitchhiker's Guide
+# to the Galaxy (alan-rickman.yaml), The Constant Gardener (weisz.yaml), Notes on a Scandal
+# (blanchett.yaml), Hot Fuzz (timothy-dalton.yaml), Valkyrie (bryan-singer.yaml), Rango
+# (roger-deakins.yaml), Harry Potter and the Deathly Hallows: Part 1 (alan-rickman.yaml),
+# Jack the Giant Slayer (bryan-singer.yaml), Pride (scott.yaml, id pride-2014), Their Finest
+# (scott.yaml), Hope Gap (bening.yaml). Total Recall disambiguated to total-recall-2012 (the
+# 1990 original is in schwarzenegger.yaml). Phantom of the Opera disambiguated to
+# phantom-of-the-opera-1989 (Robert Englund version; the Lon Chaney/Rains versions are
+# elsewhere). Joy disambiguated to joy-2024 (the 2015 Jennifer Lawrence film is elsewhere).
+# Deferred (TV movies/miniseries, shorts, or documentaries-about-him, not real film acting
+# roles, or too obscure/undocumented to verify confidently): Death Watch, Dreams of Leaving,
+# Fox, Little Lord Fauntleroy, Standing in for Henry, Under the Skin (1982), Hitler's SS:
+# Portrait in Evil, Thirteen at Dinner, The Last Place on Earth, Antonia and Jane, Chillers,
+# Don't Leave Me This Way, The Maitlands, Unnatural Causes, Longitude, Bottom: Mindless
+# Violence, He Knew He Was Right, Ready When You Are Mr McGill, Gideon's Daughter, The Girl in
+# the Café, Slapper, Astonish Me, The Hungry Corpse, National Theatre Live: Skylight, Salting
+# the Battlefield, Turks & Caicos, A Grand Night In, Red Nose Day Actually, Castlevania (voice,
+# TV series), This Is the Beginning (2025 short).
 
 - id: living-2022
   tmdb_id: 760099
@@ -36,3 +55,493 @@
   genres:
     - Drama
     - Comedy
+
+- id: eye-of-the-needle
+  tmdb_id: 10863
+  title: Eye of the Needle
+  year: 1981
+  runtime: 112
+  director: Richard Marquand
+  tags: { opacity: 3, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.6 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  letterboxd_slug: eye-of-the-needle
+
+- id: curse-of-the-pink-panther
+  tmdb_id: 36576
+  title: Curse of the Pink Panther
+  year: 1983
+  runtime: 109
+  director: Blake Edwards
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.25 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: curse-of-the-pink-panther
+
+- id: the-little-drummer-girl
+  tmdb_id: 32088
+  title: The Little Drummer Girl
+  year: 1984
+  runtime: 132
+  director: George Roy Hill
+  tags: { opacity: 3, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  letterboxd_slug: the-little-drummer-girl
+
+- id: mack-the-knife
+  tmdb_id: 80874
+  title: Mack the Knife
+  year: 1989
+  runtime: 120
+  director: Menahem Golan
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.25 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  letterboxd_slug: mack-the-knife
+
+- id: phantom-of-the-opera-1989
+  tmdb_id: 86962
+  title: The Phantom of the Opera
+  year: 1989
+  runtime: 93
+  director: Dwight H. Little
+  tags: { opacity: 2, stillness: 1, bleakness: 4, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+  letterboxd_slug: the-phantom-of-the-opera-1989
+
+- id: being-human-1994
+  tmdb_id: 46924
+  title: Being Human
+  year: 1994
+  runtime: 122
+  director: Bill Forsyth
+  tags: { opacity: 2, stillness: 3, bleakness: 3, humor: 2, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: being-human-1994
+
+- id: alive-and-kicking-1996
+  tmdb_id: 172545
+  title: Alive and Kicking
+  year: 1996
+  runtime: 99
+  director: Nancy Meckler
+  tags: { opacity: 2, stillness: 3, bleakness: 4, humor: 2, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+  letterboxd_slug: alive-and-kicking
+
+- id: true-blue
+  tmdb_id: 39463
+  title: True Blue
+  year: 1996
+  runtime: 91
+  director: Ferdinand Fairfax
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: true-blue
+
+- id: fairytale-a-true-story
+  tmdb_id: 29911
+  title: "FairyTale: A True Story"
+  year: 1997
+  runtime: 99
+  director: Charles Sturridge
+  tags: { opacity: 2, stillness: 2, bleakness: 1, humor: 2, acclaim: 0.5 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: fairytale-a-true-story
+
+- id: still-crazy
+  tmdb_id: 1618
+  title: Still Crazy
+  year: 1998
+  runtime: 95
+  director: Brian Gibson
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: still-crazy
+
+- id: guest-house-paradiso
+  tmdb_id: 10482
+  title: Guest House Paradiso
+  year: 1999
+  runtime: 87
+  director: Adrian Edmondson
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.25 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  letterboxd_slug: guest-house-paradiso
+
+- id: lucky-break
+  tmdb_id: 35944
+  title: Lucky Break
+  year: 2001
+  runtime: 108
+  director: Peter Cattaneo
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: lucky-break
+
+- id: lawless-heart
+  tmdb_id: 77283
+  title: Lawless Heart
+  year: 2001
+  runtime: 99
+  director: Tom Hunsinger
+  tags: { opacity: 2, stillness: 3, bleakness: 3, humor: 2, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+  letterboxd_slug: lawless-heart
+
+- id: aka-2002
+  tmdb_id: 43657
+  title: AKA
+  year: 2002
+  runtime: 94
+  director: Duncan Roy
+  tags: { opacity: 3, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.5 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 2 }
+  letterboxd_slug: aka
+
+- id: i-capture-the-castle
+  tmdb_id: 17920
+  title: I Capture the Castle
+  year: 2003
+  runtime: 113
+  director: Tim Fywell
+  tags: { opacity: 2, stillness: 3, bleakness: 2, humor: 2, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: i-capture-the-castle
+
+- id: enduring-love
+  tmdb_id: 9391
+  title: Enduring Love
+  year: 2004
+  runtime: 101
+  director: Roger Michell
+  tags: { opacity: 3, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.5 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  letterboxd_slug: enduring-love
+
+- id: the-magic-roundabout
+  tmdb_id: 16455
+  title: The Magic Roundabout
+  year: 2005
+  runtime: 79
+  director: Dave Borthwick
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: the-magic-roundabout
+
+- id: flushed-away
+  tmdb_id: 11619
+  title: Flushed Away
+  year: 2006
+  runtime: 85
+  director: David Bowers
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.6 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: flushed-away
+
+- id: pirates-of-the-caribbean-dead-mans-chest
+  tmdb_id: 58
+  title: "Pirates of the Caribbean: Dead Man's Chest"
+  year: 2006
+  runtime: 151
+  director: Gore Verbinski
+  tags: { opacity: 2, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.6 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: pirates-of-the-caribbean-dead-mans-chest
+
+- id: stormbreaker
+  tmdb_id: 9978
+  title: Stormbreaker
+  year: 2006
+  runtime: 93
+  director: Geoffrey Sax
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.3 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: stormbreaker
+
+- id: underworld-evolution
+  tmdb_id: 834
+  title: "Underworld: Evolution"
+  year: 2006
+  runtime: 106
+  director: Len Wiseman
+  tags: { opacity: 2, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.4 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: underworld-evolution
+
+- id: pirates-of-the-caribbean-at-worlds-end
+  tmdb_id: 285
+  title: "Pirates of the Caribbean: At World's End"
+  year: 2007
+  runtime: 169
+  director: Gore Verbinski
+  tags: { opacity: 2, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: pirates-of-the-caribbean-at-worlds-end
+
+- id: astro-boy
+  tmdb_id: 16577
+  title: Astro Boy
+  year: 2009
+  runtime: 94
+  director: David Bowers
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.5 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: astro-boy
+
+- id: g-force
+  tmdb_id: 19585
+  title: G-Force
+  year: 2009
+  runtime: 88
+  director: Hoyt Yeatman
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.25 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: g-force
+
+- id: glorious-39
+  tmdb_id: 35939
+  title: Glorious 39
+  year: 2009
+  runtime: 129
+  director: Stephen Poliakoff
+  tags: { opacity: 3, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.5 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: glorious-39
+
+- id: the-boat-that-rocked
+  tmdb_id: 18947
+  title: The Boat That Rocked
+  year: 2009
+  runtime: 135
+  director: Richard Curtis
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: the-boat-that-rocked
+
+- id: underworld-rise-of-the-lycans
+  tmdb_id: 12437
+  title: "Underworld: Rise of the Lycans"
+  year: 2009
+  runtime: 92
+  director: Patrick Tatopoulos
+  tags: { opacity: 2, stillness: 1, bleakness: 4, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+  letterboxd_slug: underworld-rise-of-the-lycans
+
+- id: wild-target
+  tmdb_id: 44147
+  title: Wild Target
+  year: 2010
+  runtime: 98
+  director: Jonathan Lynn
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: wild-target
+
+- id: chalet-girl
+  tmdb_id: 58232
+  title: Chalet Girl
+  year: 2011
+  runtime: 101
+  director: Phil Traill
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.4 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: chalet-girl
+
+- id: arthur-christmas
+  tmdb_id: 51052
+  title: Arthur Christmas
+  year: 2011
+  runtime: 97
+  director: Sarah Smith
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.7 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: arthur-christmas
+
+- id: total-recall-2012
+  tmdb_id: 64635
+  title: Total Recall
+  year: 2012
+  runtime: 118
+  director: Len Wiseman
+  tags: { opacity: 2, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: total-recall-2012
+
+- id: wrath-of-the-titans
+  tmdb_id: 57165
+  title: Wrath of the Titans
+  year: 2012
+  runtime: 99
+  director: Jonathan Liebesman
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: wrath-of-the-titans
+
+- id: i-frankenstein
+  tmdb_id: 100241
+  title: "I, Frankenstein"
+  year: 2014
+  runtime: 92
+  director: Stuart Beattie
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.25 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: i-frankenstein
+
+- id: the-second-best-exotic-marigold-hotel
+  tmdb_id: 268238
+  title: The Second Best Exotic Marigold Hotel
+  year: 2015
+  runtime: 122
+  director: John Madden
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.5 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: the-second-best-exotic-marigold-hotel
+
+- id: dads-army
+  tmdb_id: 332721
+  title: "Dad's Army"
+  year: 2016
+  runtime: 100
+  director: Oliver Parker
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.3 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: dads-army
+
+- id: the-limehouse-golem
+  tmdb_id: 369300
+  title: The Limehouse Golem
+  year: 2016
+  runtime: 109
+  director: Juan Carlos Medina
+  tags: { opacity: 3, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+  letterboxd_slug: the-limehouse-golem
+
+- id: the-bookshop
+  tmdb_id: 444539
+  title: The Bookshop
+  year: 2017
+  runtime: 113
+  director: Isabel Coixet
+  tags: { opacity: 2, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: the-bookshop
+
+- id: detective-pikachu
+  tmdb_id: 447404
+  title: "Pokémon Detective Pikachu"
+  year: 2019
+  runtime: 104
+  director: Rob Letterman
+  tags: { opacity: 2, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: pokemon-detective-pikachu
+
+- id: sometimes-always-never
+  tmdb_id: 542714
+  title: Sometimes Always Never
+  year: 2019
+  runtime: 91
+  director: Carl Hunter
+  tags: { opacity: 3, stillness: 3, bleakness: 3, humor: 2, acclaim: 0.6 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: sometimes-always-never
+
+- id: stardog-and-turbocat
+  tmdb_id: 515789
+  title: StarDog and TurboCat
+  year: 2019
+  runtime: 84
+  director: Ben Smith
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.25 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: stardog-and-turbocat
+
+- id: minamata
+  tmdb_id: 560008
+  title: Minamata
+  year: 2020
+  runtime: 115
+  director: Andrew Levitas
+  tags: { opacity: 2, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: minamata
+
+- id: role-play-2023
+  tmdb_id: 848187
+  title: Role Play
+  year: 2023
+  runtime: 101
+  director: Thomas Vincent
+  tags: { opacity: 2, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: role-play-2023
+
+- id: gracie-and-pedro-pets-to-the-rescue
+  tmdb_id: 1207830
+  title: "Gracie & Pedro: Pets to the Rescue"
+  year: 2024
+  runtime: 92
+  director: Kevin Donovan
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.2 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: gracie-and-pedro-pets-to-the-rescue
+
+- id: joy-2024
+  tmdb_id: 1184495
+  title: Joy
+  year: 2024
+  runtime: 115
+  director: Ben Taylor
+  tags: { opacity: 2, stillness: 3, bleakness: 3, humor: 2, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: joy-2024
+
+- id: that-christmas
+  tmdb_id: 645757
+  title: That Christmas
+  year: 2024
+  runtime: 92
+  director: Simon Otto
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: that-christmas
+
+- id: the-beautiful-game-2024
+  tmdb_id: 857655
+  title: The Beautiful Game
+  year: 2024
+  runtime: 105
+  director: Thea Sharrock
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: the-beautiful-game-2024
+
+- id: the-first-omen
+  tmdb_id: 437342
+  title: The First Omen
+  year: 2024
+  runtime: 119
+  director: Arkasha Stevenson
+  tags: { opacity: 3, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.6 }
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 2 }
+  letterboxd_slug: the-first-omen
+
+- id: the-wild-robot
+  tmdb_id: 1184918
+  title: The Wild Robot
+  year: 2024
+  runtime: 102
+  director: Chris Sanders
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.85 }
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: the-wild-robot
+
+- id: and-sons
+  tmdb_id: 1291829
+  title: "& Sons"
+  year: 2026
+  runtime: 120
+  director: Pablo Trapero
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: sons-2025

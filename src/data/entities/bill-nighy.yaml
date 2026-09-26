@@ -37,6 +37,126 @@ films:
     gateway: 4
     note: A retiree relocating to a rundown Indian hotel for a fresh start, playing hopeful reinvention among a cast of fellow retirees doing the same.
 
+  - film: shaun-of-the-dead
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 4
+    note: The hero's estranged, secretly-bitten stepfather hiding his zombie infection out of British politeness, playing stiff-upper-lip denial for both dread and laughs.
+
+  - film: underworld
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: menacing
+    gateway: 2
+    note: The vampire elder Viktor, woken from centuries of cryosleep to find his order's secrets unraveling, playing imperious menace under old-world formality.
+
+  - film: notes-on-a-scandal
+    signature: 3
+    showcase: 3
+    role_size: supporting
+    register: restrained
+    gateway: 2
+    note: A husband slowly realizing his wife has been carrying on with a teenage student, playing wounded bewilderment opposite the film's much colder performances.
+
+  - film: pirates-of-the-caribbean-dead-mans-chest
+    signature: 1
+    showcase: 3
+    role_size: supporting
+    register: menacing
+    gateway: 4
+    note: Davy Jones, the tentacle-faced captain of the Flying Dutchman collecting on Jack Sparrow's debt, playing motion-captured menace under prosthetic-free CGI.
+
+  - film: hot-fuzz
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 3
+    note: The affable-seeming supermarket manager behind Sandford's rash of "accidents," playing genial small-town charm that curdles the moment the plot demands it.
+
+  - film: valkyrie
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: restrained
+    gateway: 2
+    note: One of the conspirators plotting to assassinate Hitler, playing quiet resolve inside an ensemble of doomed men.
+
+  - film: harry-potter-and-the-deathly-hallows-part-1
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: restrained
+    gateway: 3
+    note: The Minister for Magic overseeing the Ministry's collapse into corruption, playing brittle authority losing its grip.
+
+  - film: arthur-christmas
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 4
+    note: Grandsanta, the gruff, nostalgic former Santa itching to get back in the sleigh, playing blustery old-guard charm against his grandson's rookie mission.
+
+  - film: pride-2014
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: warm
+    gateway: 3
+    note: A closeted, reserved treasurer of the Welsh mining-village support group forming an unlikely bond with the London activists, playing careful warmth finally let out.
+
+  - film: their-finest
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: comic
+    gateway: 3
+    note: A vain, past-his-prime matinee actor reluctantly cast in a wartime propaganda film, playing wounded ego for comic relief that turns unexpectedly touching.
+
+  - film: the-bookshop
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: restrained
+    gateway: 2
+    note: A reclusive widower drawn out of isolation by the arrival of a small-town bookshop, playing careful, unhurried warmth.
+
+  - film: hope-gap
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A husband leaving his wife of decades during their son's weekend visit, playing quiet, guilty resolve against her devastation.
+
+  - film: joy-2024
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: warm
+    gateway: 2
+    note: The obstetrician working alongside a scientist and an embryologist to develop IVF, playing dogged, decades-long conviction against public backlash.
+
+  - film: the-first-omen
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: menacing
+    gateway: 2
+    note: A senior clergyman with his own stake in the church's conspiracy, playing avuncular warmth that curdles into something much colder.
+
+  - film: the-wild-robot
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: menacing
+    gateway: 3
+    note: A one-eyed apex predator falcon menacing the island's wildlife, voicing gruff bravado that softens once the robot proves useful.
+
 curated:
   curator: house
   rationale: The performance built entirely on decades of restraint finally giving way, then everywhere else that same dry English wit stays comic.
