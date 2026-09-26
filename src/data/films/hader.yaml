@@ -62,6 +62,12 @@
   runtime: 108
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.35 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: you-me-and-dupree
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/p7/70/h6/ec/ymeanddupree-1200-1200-675-675-crop-000000.jpg?v=199d41b8f6
+  genres:
+    - Comedy
+    - Romance
+  letterboxd_rating: 2.5
 
 - id: hot-rod
   tmdb_id: 10074
@@ -70,6 +76,12 @@
   runtime: 88
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.50 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: hot-rod
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/vc/43/v7/fl/hot-rod-1200-1200-675-675-crop-000000.jpg?v=3428088136
+  genres:
+    - Action
+    - Comedy
+  letterboxd_rating: 3.55
 
 - id: the-brothers-solomon
   tmdb_id: 10071
@@ -78,6 +90,11 @@
   runtime: 90
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.30 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: the-brothers-solomon
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ic/gq/we/nh/tXrqV2ZCVzGmiFjltlmm2qNRSM2-1200-1200-675-675-crop-000000.jpg?v=e4be67b23e
+  genres:
+    - Comedy
+  letterboxd_rating: 2.82
 
 - id: forgetting-sarah-marshall
   tmdb_id: 9870
@@ -86,6 +103,13 @@
   runtime: 111
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.65 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+  letterboxd_slug: forgetting-sarah-marshall
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/b1/de/5l/fb/forgetting-sarah-marshall-1200-1200-675-675-crop-000000.jpg?v=94b5707150
+  genres:
+    - Drama
+    - Comedy
+    - Romance
+  letterboxd_rating: 3.29
 
 - id: cloudy-with-a-chance-of-meatballs
   tmdb_id: 22794
@@ -94,6 +118,13 @@
   runtime: 90
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.65 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: cloudy-with-a-chance-of-meatballs
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ey/7q/5s/m8/cloudy-1200-1200-675-675-crop-000000.jpg?v=ecafabeff5
+  genres:
+    - Animation
+    - Comedy
+    - Family
+  letterboxd_rating: 3.43
 
 - id: paul
   tmdb_id: 39513
@@ -102,6 +133,13 @@
   runtime: 104
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: paul-2011
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/7w/ad/az/4j/paul-1200-1200-675-675-crop-000000.jpg?v=4cf65af1d2
+  genres:
+    - Science Fiction
+    - Comedy
+    - Adventure
+  letterboxd_rating: 3.15
 
 - id: cloudy-with-a-chance-of-meatballs-2
   tmdb_id: 109451
@@ -110,6 +148,13 @@
   runtime: 95
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: cloudy-with-a-chance-of-meatballs-2
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/xg/zl/p0/9z/cloudy-with-meatballs-2-1200-1200-675-675-crop-000000.jpg?v=ef76ba9e58
+  genres:
+    - Comedy
+    - Family
+    - Animation
+  letterboxd_rating: 3
 
 - id: popstar-never-stop-never-stopping
   tmdb_id: 341012
@@ -118,6 +163,12 @@
   runtime: 87
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: popstar-never-stop-never-stopping
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/1z/51/ta/f9/popstar-never-stop-never-stopping-1200-1200-675-675-crop-000000.jpg?v=b2fccdb793
+  genres:
+    - Comedy
+    - Music
+  letterboxd_rating: 3.64
 
 - id: power-rangers
   tmdb_id: 305470
@@ -126,6 +177,13 @@
   runtime: 124
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: power-rangers
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ti/pa/la/xo/power-rangers-1200-1200-675-675-crop-000000.jpg?v=70bb32289e
+  genres:
+    - Adventure
+    - Action
+    - Science Fiction
+  letterboxd_rating: 2.53
 
 - id: toy-story-4
   tmdb_id: 301528
@@ -134,3 +192,11 @@
   runtime: 100
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.65 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: toy-story-4
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/n0/pm/dg/i0/toy-story-4-1200-1200-675-675-crop-000000.jpg?v=3c1d68c215
+  genres:
+    - Adventure
+    - Animation
+    - Comedy
+    - Family
+  letterboxd_rating: 3.29
