@@ -37,11 +37,144 @@ films:
     gateway: 5
     note: A sleazy, cowardly used-car salesman posing as a secret agent to impress women, playing broad, self-inflated comic delusion.
 
+  - film: the-terminator
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 3
+    note: A punk-mohawked gang member who mouths off to the wrong cyborg, one of his earliest onscreen moments.
+
+  - film: weird-science
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: unhinged
+    gateway: 3
+    note: The hero's bullying older brother, playing broad, over-the-top cruelty for teen-comedy laughs.
+
+  - film: near-dark
+    signature: 3
+    showcase: 4
+    role_size: supporting
+    register: unhinged
+    gateway: 2
+    note: A gleeful, bloodthirsty vampire biker roaming the highways with his makeshift family, playing feral menace with real relish.
+
+  - film: tombstone
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: warm
+    gateway: 4
+    note: Morgan Earp, brother and deputy standing beside Wyatt through the gunfight and its bloody aftermath, playing loyal warmth inside a violent ensemble.
+
+  - film: one-false-move
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A small-town Arkansas police chief with a secret connection to the fugitives he's hunting, playing folksy, self-deluded pride that curdles into shame.
+
+  - film: a-simple-plan
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: An ordinary man whose discovery of stolen cash drags him into escalating paranoia and violence, playing decent instincts eroding in real time.
+
+  - film: mighty-joe-young
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: warm
+    gateway: 4
+    note: A zoo director helping protect a giant, orphaned gorilla, playing easy, protective warmth.
+
+  - film: u-571
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: restrained
+    gateway: 4
+    note: The commanding officer of a submarine crew on a daring wartime mission, playing steady, unglamorous authority.
+
+  - film: vertical-limit
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: menacing
+    gateway: 3
+    note: An arrogant tycoon whose summit obsession endangers the climbers around him, playing entitled recklessness dressed up as confidence.
+
+  - film: frailty
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 2
+    note: A father convinced God has commanded him to destroy demons disguised as ordinary people, playing warm paternal conviction curdling into horror; also his feature directorial debut.
+
+  - film: titanic
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: restrained
+    gateway: 5
+    note: The modern-day treasure hunter whose search for the Heart of the Ocean frames old Rose's story, playing brisk, businesslike curiosity.
+
+  - film: edge-of-tomorrow
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 3
+    note: A blustery master sergeant drilling the hero through his endlessly repeating day, playing gruff comic exasperation.
+
+  - film: 2-guns
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: menacing
+    gateway: 3
+    note: A shadowy CIA officer pulling strings behind the film's double-crosses, playing cool, unbothered menace.
+
+  - film: nightcrawler
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: menacing
+    gateway: 3
+    note: A rival stringer sizing up the hero as either competition or opportunity, playing seasoned, transactional menace.
+
+  - film: mean-dreams
+    signature: 2
+    showcase: 4
+    role_size: supporting
+    register: menacing
+    gateway: 2
+    note: A corrupt small-town cop hunting down two runaway teenagers, playing quiet menace in one of his final roles.
+
+  - film: the-circle
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: restrained
+    gateway: 2
+    note: A tech executive inside the film's surveillance-obsessed company, playing brief, understated authority in his last released performance.
+
 curated:
   curator: house
-  rationale: The most iconic role first, then the range of composure and panic around it.
+  rationale: The most iconic role first, then the range of composure, panic, and menace across his career, ending on the directorial high point.
   order:
     - aliens
     - apollo-13
+    - one-false-move
+    - a-simple-plan
     - twister
+    - tombstone
+    - near-dark
     - true-lies
+    - frailty
