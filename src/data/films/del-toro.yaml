@@ -1,7 +1,15 @@
 # New films for Benicio del Toro. Scales and anchors are in README.md ("The anchor rubric").
 #
 # Sicario already exists in blunt.yaml — tagged before he had an entity. 21 Grams already exists
-# in watts.yaml — tagged before he had an entity.
+# in watts.yaml — tagged before he had an entity. This pass adds further free wins Fear and
+# Loathing in Las Vegas (Depp), Snatch (Jason Statham), Guardians of the Galaxy (Saldana), Thor:
+# The Dark World and The Wolfman (both Hopkins), Avengers: Infinity War (Brolin), Star Wars: The
+# Last Jedi (Adam Driver), The French Dispatch (Chalamet), The Phoenician Scheme (Cumberbatch),
+# Inherent Vice and One Battle After Another (both PTA), Licence to Kill (Timothy Dalton), and
+# Basquiat (Jeffrey Wright), plus 26 new films below.
+#
+# Excluded a cameo as himself and two uncredited cameos as himself rather than acting roles:
+# Cannes Man, Bread and Roses, and Somewhere.
 
 - id: traffic
   tmdb_id: 1900
@@ -54,3 +62,223 @@
   genres:
     - Thriller
     - Crime
+
+- id: big-top-pee-wee
+  tmdb_id: 30502
+  title: Big Top Pee-wee
+  year: 1988
+  runtime: 90
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-indian-runner
+  tmdb_id: 25598
+  title: The Indian Runner
+  year: 1991
+  runtime: 127
+  tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: christopher-columbus-the-discovery
+  tmdb_id: 41682
+  title: "Christopher Columbus: The Discovery"
+  year: 1992
+  runtime: 120
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.25 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: fearless-1993
+  tmdb_id: 10443
+  title: Fearless
+  year: 1993
+  runtime: 122
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.62 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: golden-balls
+  tmdb_id: 47707
+  title: Golden Balls
+  year: 1993
+  runtime: 92
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: money-for-nothing
+  tmdb_id: 55448
+  title: Money for Nothing
+  year: 1993
+  runtime: 100
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: swimming-with-sharks
+  tmdb_id: 20306
+  title: Swimming with Sharks
+  year: 1994
+  runtime: 93
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 3, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: china-moon
+  tmdb_id: 26337
+  title: China Moon
+  year: 1994
+  runtime: 99
+  tags: { opacity: 2, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: the-funeral
+  tmdb_id: 21612
+  title: The Funeral
+  year: 1996
+  runtime: 99
+  tags: { opacity: 2, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: the-fan-1996
+  tmdb_id: 9566
+  title: The Fan
+  year: 1996
+  runtime: 116
+  tags: { opacity: 1, stillness: 1, bleakness: 4, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: excess-baggage
+  tmdb_id: 26180
+  title: Excess Baggage
+  year: 1997
+  runtime: 101
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: joyride-1997
+  tmdb_id: 48319
+  title: Joyride
+  year: 1997
+  runtime: 96
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-way-of-the-gun
+  tmdb_id: 1619
+  title: The Way of the Gun
+  year: 2000
+  runtime: 119
+  tags: { opacity: 1, stillness: 1, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: the-pledge
+  tmdb_id: 5955
+  title: The Pledge
+  year: 2001
+  runtime: 124
+  tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.62 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
+
+- id: the-hunted
+  tmdb_id: 10632
+  title: The Hunted
+  year: 2003
+  runtime: 94
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: things-we-lost-in-the-fire
+  tmdb_id: 3877
+  title: Things We Lost in the Fire
+  year: 2007
+  runtime: 118
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: che-part-one
+  tmdb_id: 8881
+  title: "Che: Part One"
+  year: 2008
+  director: Steven Soderbergh
+  runtime: 132
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.62 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: che-part-two
+  tmdb_id: 8880
+  title: "Che: Part Two"
+  year: 2008
+  director: Steven Soderbergh
+  runtime: 131
+  tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.58 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: savages
+  tmdb_id: 82525
+  title: Savages
+  year: 2012
+  director: Oliver Stone
+  runtime: 131
+  tags: { opacity: 1, stillness: 1, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 2 }
+
+- id: jimmy-p-psychotherapy-of-a-plains-indian
+  tmdb_id: 160768
+  title: "Jimmy P.: Psychotherapy of a Plains Indian"
+  year: 2013
+  runtime: 116
+  tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: escobar-paradise-lost
+  tmdb_id: 255343
+  title: "Escobar: Paradise Lost"
+  year: 2014
+  runtime: 119
+  tags: { opacity: 1, stillness: 1, bleakness: 4, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: a-perfect-day
+  tmdb_id: 321751
+  title: A Perfect Day
+  year: 2015
+  runtime: 106
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 3, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-little-prince
+  tmdb_id: 309809
+  title: The Little Prince
+  year: 2015
+  runtime: 108
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: sicario-day-of-the-soldado
+  tmdb_id: 400535
+  title: "Sicario: Day of the Soldado"
+  year: 2018
+  runtime: 122
+  tags: { opacity: 1, stillness: 1, bleakness: 5, humor: 1, acclaim: 0.60 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
+
+- id: dora-and-the-lost-city-of-gold
+  tmdb_id: 499701
+  title: Dora and the Lost City of Gold
+  year: 2019
+  runtime: 102
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: no-sudden-move
+  tmdb_id: 649409
+  title: No Sudden Move
+  year: 2021
+  director: Steven Soderbergh
+  runtime: 115
+  tags: { opacity: 3, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.60 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: reptile-2023
+  tmdb_id: 866463
+  title: Reptile
+  year: 2023
+  runtime: 136
+  tags: { opacity: 3, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }

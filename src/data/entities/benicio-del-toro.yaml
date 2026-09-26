@@ -46,6 +46,318 @@ films:
     gateway: 3
     note: A corrupt cop entangled in a noir city's worst impulses, playing weary self-interest as the norm rather than the exception.
 
+  - film: che-part-one
+    signature: 3
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: Che Guevara across the Cuban Revolution, playing ideological conviction with total, unshowy commitment.
+
+  - film: che-part-two
+    signature: 2
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: Che again, in Bolivia, as the same conviction runs headlong into a doomed campaign.
+
+  - film: sicario-day-of-the-soldado
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: menacing
+    gateway: 2
+    note: The same operative, drawn back into the cartel war to protect a kidnapped cartel boss's daughter he was ordered to kill.
+
+  - film: fear-and-loathing-in-las-vegas
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: unhinged
+    gateway: 3
+    note: A drug-addled attorney whose Vegas bender with a gonzo journalist spirals into total hallucinatory chaos.
+
+  - film: snatch
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 3
+    note: A cool, unbothered diamond thief passing through London's tangled criminal underworld.
+
+  - film: guardians-of-the-galaxy
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: menacing
+    gateway: 3
+    note: The Collector, hoarding rare artifacts of galactic power in his own private museum.
+
+  - film: thor-the-dark-world
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: restrained
+    gateway: 2
+    note: The Collector, receiving a mid-credits delivery that hints at the larger cosmic stakes ahead.
+
+  - film: avengers-infinity-war
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: restrained
+    gateway: 3
+    note: The Collector, whose vault becomes an early target in Thanos's hunt for the Infinity Stones.
+
+  - film: star-wars-the-last-jedi
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: menacing
+    gateway: 2
+    note: A stuttering codebreaker whose cynical, mercenary loyalty complicates the Resistance's last hope.
+
+  - film: the-french-dispatch
+    signature: 1
+    showcase: 3
+    role_size: lead
+    register: unhinged
+    gateway: 1
+    note: An incarcerated artist whose prison-cell paintings become the subject of an absurd art-world sensation.
+
+  - film: the-phoenician-scheme
+    signature: 1
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A wealthy, scheming industrialist navigating his own byzantine business empire and a plot against his life, in this Wes Anderson caper.
+
+  - film: inherent-vice
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: restrained
+    gateway: 1
+    note: A maritime lawyer offering cryptic legal advice to the film's perpetually stoned private investigator.
+
+  - film: one-battle-after-another
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: restrained
+    gateway: 1
+    note: A martial arts sensei whose past as a radical revolutionary resurfaces to help an old comrade's family.
+
+  - film: licence-to-kill
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: menacing
+    gateway: 2
+    note: A ruthless drug lord's chief enforcer, standing between Bond and a personal vendetta against a cartel boss.
+
+  - film: basquiat
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: warm
+    gateway: 1
+    note: A friend and fellow artist orbiting Jean-Michel Basquiat's meteoric rise and fall.
+
+  - film: savages
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: menacing
+    gateway: 1
+    note: A cartel enforcer whose brutal methods escalate a turf war over a kidnapped woman.
+
+  - film: no-sudden-move
+    signature: 1
+    showcase: 3
+    role_size: lead
+    register: menacing
+    gateway: 1
+    note: A small-time crook whose seemingly simple babysitting job spirals into a much larger 1950s Detroit conspiracy.
+
+  - film: reptile-2023
+    signature: 1
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A homicide detective whose investigation into his own department's corruption complicates a young woman's murder case.
+
+  - film: things-we-lost-in-the-fire
+    signature: 1
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A recovering heroin addict taken in by his late best friend's grieving widow.
+
+  - film: the-pledge
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: menacing
+    gateway: 1
+    note: A mentally disabled man wrongly coerced into confessing to a child's murder.
+
+  - film: the-hunted
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: menacing
+    gateway: 1
+    note: A traumatized special-forces veteran turned killer, hunted through the wilderness by the man who trained him.
+
+  - film: the-way-of-the-gun
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: menacing
+    gateway: 1
+    note: One of two small-time criminals whose kidnapping scheme targets a surrogate mother connected to dangerous money.
+
+  - film: the-funeral
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: unhinged
+    gateway: 1
+    note: The most volatile of three mob brothers investigating their sibling's murder in 1930s New York.
+
+  - film: the-fan-1996
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: menacing
+    gateway: 1
+    note: A minor supporting role in this thriller about an obsessive baseball fan.
+
+  - film: china-moon
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: restrained
+    gateway: 1
+    note: A minor supporting role in this neo-noir crime thriller.
+
+  - film: swimming-with-sharks
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 1
+    note: A minor supporting role in this dark Hollywood satire about an abusive studio executive.
+
+  - film: money-for-nothing
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: restrained
+    gateway: 1
+    note: A minor supporting role in this drama based on a real story about a dockworker who finds a fortune.
+
+  - film: golden-balls
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: warm
+    gateway: 1
+    note: A minor supporting role in this Spanish comedy about an ambitious property developer.
+
+  - film: fearless-1993
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: restrained
+    gateway: 1
+    note: A fellow plane-crash survivor consumed by guilt over the loss of his infant son.
+
+  - film: christopher-columbus-the-discovery
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: restrained
+    gateway: 1
+    note: A minor supporting role in this Columbus biopic.
+
+  - film: the-indian-runner
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: unhinged
+    gateway: 1
+    note: A troubled Vietnam veteran whose escalating self-destruction tests his stable brother's patience.
+
+  - film: big-top-pee-wee
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 1
+    note: A minor early role in this Pee-wee Herman comedy.
+
+  - film: excess-baggage
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: comic
+    gateway: 1
+    note: A car thief whose stolen vehicle turns out to have a runaway heiress locked in the trunk.
+
+  - film: joyride-1997
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: menacing
+    gateway: 1
+    note: A minor supporting role in this crime thriller.
+
+  - film: jimmy-p-psychotherapy-of-a-plains-indian
+    signature: 1
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A Blackfoot WWII veteran whose unexplained physical symptoms lead him into experimental psychoanalysis.
+
+  - film: escobar-paradise-lost
+    signature: 1
+    showcase: 3
+    role_size: lead
+    register: menacing
+    gateway: 1
+    note: Pablo Escobar, seen through the eyes of the Canadian surfer dating his niece.
+
+  - film: a-perfect-day
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: warm
+    gateway: 1
+    note: An aid worker trying to remove a corpse from a well in a Balkan war zone, played as dark comedy.
+
+  - film: the-little-prince
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: menacing
+    gateway: 1
+    note: The voice of the Snake, a cryptic figure the Little Prince encounters on his travels.
+
+  - film: dora-and-the-lost-city-of-gold
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 2
+    note: The voice of Swiper the Fox, in this live-action Dora the Explorer adaptation.
+
 curated:
   curator: house
   rationale: The performance built entirely on deliberate unreadability first, then everywhere else that same quality gets put to different use.
@@ -55,3 +367,4 @@ curated:
     - sicario
     - traffic
     - 21-grams
+    - che-part-one
