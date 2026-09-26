@@ -1,6 +1,18 @@
 # New films for Bette Midler. Scales and anchors are in README.md ("The anchor rubric").
 #
 # The First Wives Club already exists in keaton-diane.yaml — tagged before she had an entity.
+# This pass adds further free wins Get Shorty (Delroy Lindo), Hawaii (von Sydow), and Stella
+# (Ben Stiller), plus 26 new films below.
+#
+# The Addams Family and The Women both needed distinct ids — her 2019 animated voice role and 2008
+# remake respectively, unrelated to the 1991 live-action classic already in the corpus under
+# Anjelica Huston and the 1939 original already in the corpus under Joan Crawford, despite sharing
+# the exact titles.
+#
+# Excluded as an uncredited cut scene rather than a real role: Goodbye, Columbus. Excluded as
+# concert films, documentaries, or TV specials about her rather than acting roles: Divine Madness
+# and the dozens of "Bette Midler: ..." self-titled concert specials and music documentaries
+# spanning her career, plus Hocus Pocus 3 as unreleased.
 
 - id: beaches
   tmdb_id: 15592
@@ -52,3 +64,227 @@
   letterboxd_rating: 3.43
   genres:
     - Comedy
+
+- id: the-thorn
+  tmdb_id: 215797
+  title: The Thorn
+  year: 1971
+  runtime: 90
+  tags: { opacity: 3, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-rose
+  tmdb_id: 16323
+  title: The Rose
+  year: 1979
+  runtime: 134
+  tags: { opacity: 1, stillness: 1, bleakness: 5, humor: 1, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: jinxed
+  tmdb_id: 79008
+  title: Jinxed!
+  year: 1982
+  runtime: 103
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: down-and-out-in-beverly-hills
+  tmdb_id: 9941
+  title: Down and Out in Beverly Hills
+  year: 1986
+  runtime: 103
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: outrageous-fortune
+  tmdb_id: 20242
+  title: Outrageous Fortune
+  year: 1987
+  runtime: 100
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: big-business
+  tmdb_id: 12710
+  title: Big Business
+  year: 1988
+  runtime: 97
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: oliver-and-company
+  tmdb_id: 12233
+  title: Oliver & Company
+  year: 1988
+  runtime: 74
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-lottery-1989
+  tmdb_id: 457092
+  title: The Lottery
+  year: 1989
+  runtime: 100
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: for-the-boys
+  tmdb_id: 25221
+  title: For the Boys
+  year: 1991
+  runtime: 145
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 2, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
+
+- id: scenes-from-a-mall
+  tmdb_id: 47762
+  title: Scenes from a Mall
+  year: 1991
+  runtime: 87
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: gypsy-1994
+  tmdb_id: 17912
+  title: Gypsy
+  year: 1994
+  runtime: 140
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: that-old-feeling
+  tmdb_id: 25796
+  title: That Old Feeling
+  year: 1997
+  runtime: 105
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: jackies-back
+  tmdb_id: 41363
+  title: Jackie's Back!
+  year: 1999
+  runtime: 87
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: what-women-want
+  tmdb_id: 3981
+  title: What Women Want
+  year: 2000
+  runtime: 127
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: drowning-mona
+  tmdb_id: 25166
+  title: Drowning Mona
+  year: 2000
+  runtime: 96
+  tags: { opacity: 2, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: isnt-she-great
+  tmdb_id: 75531
+  title: Isn't She Great
+  year: 2000
+  runtime: 95
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: fantasia-2000
+  tmdb_id: 49948
+  title: Fantasia 2000
+  year: 2000
+  runtime: 75
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 2, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-stepford-wives
+  tmdb_id: 9890
+  title: The Stepford Wives
+  year: 2004
+  runtime: 93
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: then-she-found-me
+  tmdb_id: 13196
+  title: Then She Found Me
+  year: 2007
+  runtime: 100
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: cats-and-dogs-the-revenge-of-kitty-galore
+  tmdb_id: 39691
+  title: "Cats & Dogs: The Revenge of Kitty Galore"
+  year: 2010
+  runtime: 82
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: parental-guidance
+  tmdb_id: 88042
+  title: Parental Guidance
+  year: 2012
+  runtime: 105
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: freak-show
+  tmdb_id: 440424
+  title: Freak Show
+  year: 2017
+  runtime: 92
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-addams-family-2019
+  tmdb_id: 481084
+  title: The Addams Family
+  year: 2019
+  runtime: 87
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-glorias
+  tmdb_id: 519056
+  title: The Glorias
+  year: 2020
+  runtime: 139
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: coastal-elites
+  tmdb_id: 728203
+  title: Coastal Elites
+  year: 2020
+  runtime: 90
+  tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 3, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-addams-family-2
+  tmdb_id: 639721
+  title: The Addams Family 2
+  year: 2021
+  runtime: 93
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: hocus-pocus-2
+  tmdb_id: 642885
+  title: Hocus Pocus 2
+  year: 2022
+  runtime: 103
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-fabulous-four
+  tmdb_id: 974613
+  title: The Fabulous Four
+  year: 2024
+  runtime: 98
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
