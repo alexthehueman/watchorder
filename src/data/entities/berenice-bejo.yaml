@@ -38,6 +38,150 @@ films:
     gateway: 1
     note: A humanitarian worker caring for a traumatized boy orphaned by the Chechen conflict, playing patient, unglamorous compassion.
 
+  - film: a-knights-tale
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 3
+    note: A minor supporting role in this rock-scored medieval jousting comedy.
+
+  - film: oss-117-cairo-nest-of-spies
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: comic
+    gateway: 2
+    note: A sharp, competent Egyptian agent running rings around the bumbling, oblivious French secret agent she's assigned to.
+
+  - film: under-paris
+    signature: 1
+    showcase: 3
+    role_size: lead
+    register: menacing
+    gateway: 3
+    note: The mayor of Paris, more concerned with an Olympic triathlon's optics than the giant shark loose in the Seine.
+
+  - film: final-cut-2022
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: comic
+    gateway: 2
+    note: An actress whose zombie-movie shoot keeps getting derailed by real disasters, in this remake of One Cut of the Dead.
+
+  - film: populaire
+    signature: 1
+    showcase: 3
+    role_size: lead
+    register: warm
+    gateway: 2
+    note: The elegant, worldly confidante of a small-town secretary competing in national speed-typing championships.
+
+  - film: the-extraordinary-journey-of-the-fakir
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: warm
+    gateway: 1
+    note: A French customs officer whose path crosses a young Indian con man's stowaway journey across Europe.
+
+  - film: another-end
+    signature: 1
+    showcase: 3
+    role_size: lead
+    register: unhinged
+    gateway: 1
+    note: A grieving man's late girlfriend, resurrected inside a stranger's body by a controversial grief-technology program.
+
+  - film: the-childhood-of-a-leader
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: The mother of a disturbing, manipulative young boy whose behavior hints at the tyrant he'll grow into.
+
+  - film: the-man-in-the-basement
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: menacing
+    gateway: 1
+    note: A homeowner whose family discovers the man who bought their storage cellar is a Holocaust-denying extremist.
+
+  - film: the-hummingbird
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: warm
+    gateway: 1
+    note: The great, unresolved love of a pharmacist's life, reappearing across the decades chronicled in this Italian drama.
+
+  - film: three-peaks
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A mother whose Alpine vacation with her new partner and skeptical young son turns increasingly tense.
+
+  - film: a-bookshop-in-paris
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: warm
+    gateway: 1
+    note: A bookseller running a floating bookshop on the Seine, entangled in a mystery involving Stefan Zweig's final manuscript.
+
+  - film: the-quietude
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: unhinged
+    gateway: 1
+    note: One of two sisters whose father's death exposes a buried family secret tied to Argentina's dictatorship-era past.
+
+  - film: hawaii-2023
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: restrained
+    gateway: 1
+    note: A minor supporting role in this French drama.
+
+  - film: after-love-2016
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: restrained
+    gateway: 1
+    note: A minor supporting role in this drama about a divorcing couple forced to keep sharing their apartment.
+
+  - film: the-last-diamond
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: menacing
+    gateway: 1
+    note: A minor supporting role in this heist thriller about a stolen diamond.
+
+  - film: the-scapegoat-2013
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 1
+    note: A minor supporting role in this comedy.
+
+  - film: 13-m2
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 1
+    note: A minor early role in this French comedy.
+
 curated:
   curator: house
   rationale: The performance built entirely on old-Hollywood warmth first, then the one where that same expressiveness gets aimed at real devastation.
@@ -46,3 +190,4 @@ curated:
     - the-search-2014
     - the-artist
     - the-past
+    - under-paris

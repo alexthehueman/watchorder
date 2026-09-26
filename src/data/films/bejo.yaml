@@ -1,6 +1,14 @@
 # New films for Bérénice Bejo. Scales and anchors are in README.md ("The anchor rubric").
 #
-# The Artist already exists in goodman.yaml — tagged before she had an entity.
+# The Artist already exists in goodman.yaml — tagged before she had an entity. This pass adds a
+# further free win A Knight's Tale (Paul Bettany), plus 17 new films below.
+#
+# Scope note: her ~56-credit French-language career has an enormous tail of shorts, documentaries
+# (Henri-Georges Clouzot's Inferno, Letters to Jackie, Seduced and Abandoned, Nothing to Hide, For
+# the Love of Sharks), award-ceremony/making-of specials, and small-scale French TV movies and
+# festival-only films with no accessible Anglophone synopsis or reception info to tag content
+# flags from with confidence. Added only the well-documented, internationally released features;
+# the rest deliberately deferred to a dedicated future pass.
 
 - id: the-past
   tmdb_id: 152780
@@ -52,3 +60,140 @@
   letterboxd_rating: 3.34
   genres:
     - Drama
+
+- id: oss-117-cairo-nest-of-spies
+  tmdb_id: 15152
+  title: "OSS 117: Cairo, Nest of Spies"
+  year: 2006
+  runtime: 99
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: 13-m2
+  tmdb_id: 31862
+  title: 13 m²
+  year: 2007
+  runtime: 90
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: populaire
+  tmdb_id: 136403
+  title: Populaire
+  year: 2012
+  runtime: 111
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.60 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-scapegoat-2013
+  tmdb_id: 204709
+  title: The Scapegoat
+  year: 2013
+  runtime: 90
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-last-diamond
+  tmdb_id: 269714
+  title: The Last Diamond
+  year: 2014
+  runtime: 107
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-childhood-of-a-leader
+  tmdb_id: 330982
+  title: The Childhood of a Leader
+  year: 2016
+  runtime: 116
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: after-love-2016
+  tmdb_id: 377278
+  title: After Love
+  year: 2016
+  runtime: 100
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: three-peaks
+  tmdb_id: 467542
+  title: Three Peaks
+  year: 2017
+  runtime: 97
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-extraordinary-journey-of-the-fakir
+  tmdb_id: 407447
+  title: The Extraordinary Journey of the Fakir
+  year: 2018
+  runtime: 92
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-quietude
+  tmdb_id: 482936
+  title: The Quietude
+  year: 2018
+  runtime: 107
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: a-bookshop-in-paris
+  tmdb_id: 654344
+  title: A Bookshop in Paris
+  year: 2021
+  runtime: 106
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-man-in-the-basement
+  tmdb_id: 796891
+  title: The Man in the Basement
+  year: 2021
+  runtime: 111
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: final-cut-2022
+  tmdb_id: 852438
+  title: Final Cut
+  year: 2022
+  director: Michel Hazanavicius
+  runtime: 110
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: the-hummingbird
+  tmdb_id: 807986
+  title: The Hummingbird
+  year: 2022
+  runtime: 125
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: hawaii-2023
+  tmdb_id: 892505
+  title: Hawaii
+  year: 2023
+  runtime: 88
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: another-end
+  tmdb_id: 1087593
+  title: Another End
+  year: 2024
+  runtime: 120
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: under-paris
+  tmdb_id: 1001311
+  title: Under Paris
+  year: 2024
+  runtime: 92
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 0 }
