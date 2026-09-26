@@ -1,7 +1,22 @@
 # New films for Ben Gazzara. Scales and anchors are in README.md ("The anchor rubric").
 #
 # Opening Night already exists in rowlands.yaml. Anatomy of a Murder already
-# exists in stewart.yaml.
+# exists in stewart.yaml. This pass adds further free wins The Big Lebowski (Coens), Buffalo '66
+# (Huston), The Thomas Crown Affair (Pierce Brosnan), Road House (Patrick Swayze), Dogville
+# (Kidman), Summer of Sam (Brody), and They All Laughed and Bloodline (both Audrey Hepburn), plus
+# 26 new films below.
+#
+# Scope note: his 1980s-2011 international career has a long tail of obscure Italian and French
+# films with no accessible Anglophone synopsis or reception info to tag content flags from with
+# confidence — The Girl from Trieste, A Proper Scandal, Woman of Wonders, My Dearest Son, The
+# Professor, Champagne amer, Beyond the Ocean, Forever, Sherwood's Travels, Swallows Never Die in
+# Jerusalem, Nefertiti figlia del sole, The Dogfighters, Banditi, Farmer & Chase, Stag, Vicious
+# Circles, Poor Liza, Believe, Home Sweet Hoboken, Very Mean Men, Undertaker's Paradise, The List,
+# Nella terra di nessuno, L'ospite segreto, Bonjour Michel, Schubert, Eve, Holy Money, 13,
+# Christopher Roth, Chez Gino, Ristabbànna, and If It's Tuesday, This Must Be Belgium, plus The
+# Captive City and Scene of the Crime, whose TMDB ids couldn't be confidently located. Added only
+# the well-documented films (PARTIAL scope); the rest deliberately deferred to a dedicated future
+# pass. Excluded King: A Filmed Record as a documentary appearance rather than an acting role.
 
 - id: husbands
   tmdb_id: 52105
@@ -22,3 +37,197 @@
   genres:
     - Comedy
     - Drama
+
+- id: the-strange-one
+  tmdb_id: 80264
+  title: The Strange One
+  year: 1957
+  runtime: 100
+  tags: { opacity: 1, stillness: 1, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-young-doctors
+  tmdb_id: 194146
+  title: The Young Doctors
+  year: 1961
+  runtime: 100
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: convicts-4
+  tmdb_id: 75042
+  title: Convicts 4
+  year: 1962
+  runtime: 105
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: a-rage-to-live
+  tmdb_id: 104759
+  title: A Rage to Live
+  year: 1965
+  runtime: 101
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: the-bridge-at-remagen
+  tmdb_id: 15873
+  title: The Bridge at Remagen
+  year: 1969
+  runtime: 115
+  tags: { opacity: 1, stillness: 1, bleakness: 4, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: the-sicilian-connection
+  tmdb_id: 240607
+  title: The Sicilian Connection
+  year: 1972
+  runtime: 90
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-neptune-factor
+  tmdb_id: 62754
+  title: The Neptune Factor
+  year: 1973
+  runtime: 98
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: capone
+  tmdb_id: 18710
+  title: Capone
+  year: 1975
+  runtime: 101
+  tags: { opacity: 1, stillness: 1, bleakness: 4, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: high-velocity
+  tmdb_id: 171202
+  title: High Velocity
+  year: 1976
+  runtime: 90
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: saint-jack
+  tmdb_id: 77166
+  title: Saint Jack
+  year: 1979
+  director: Peter Bogdanovich
+  runtime: 112
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 2, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 2 }
+
+- id: inchon
+  tmdb_id: 113464
+  title: Inchon
+  year: 1981
+  runtime: 140
+  tags: { opacity: 1, stillness: 1, bleakness: 4, humor: 1, acclaim: 0.20 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: tales-of-ordinary-madness
+  tmdb_id: 69014
+  title: Tales of Ordinary Madness
+  year: 1981
+  runtime: 107
+  tags: { opacity: 2, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 2 }
+
+- id: control-1987
+  tmdb_id: 273189
+  title: Control
+  year: 1987
+  runtime: 100
+  tags: { opacity: 2, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: quicker-than-the-eye
+  tmdb_id: 267654
+  title: Quicker Than the Eye
+  year: 1989
+  runtime: 95
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: shadow-conspiracy
+  tmdb_id: 38153
+  title: Shadow Conspiracy
+  year: 1997
+  runtime: 103
+  tags: { opacity: 2, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-spanish-prisoner
+  tmdb_id: 29193
+  title: The Spanish Prisoner
+  year: 1997
+  director: David Mamet
+  runtime: 110
+  tags: { opacity: 3, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: too-tired-to-die
+  tmdb_id: 185462
+  title: Too Tired to Die
+  year: 1998
+  runtime: 92
+  tags: { opacity: 2, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: illuminata
+  tmdb_id: 91076
+  title: Illuminata
+  year: 1998
+  runtime: 118
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: paradise-cove
+  tmdb_id: 483847
+  title: Paradise Cove
+  year: 1999
+  runtime: 94
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: jack-of-hearts
+  tmdb_id: 221799
+  title: Jack of Hearts
+  year: 2000
+  runtime: 91
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: blue-moon-2000
+  tmdb_id: 287807
+  title: Blue Moon
+  year: 2000
+  runtime: 92
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: paris-je-taime
+  tmdb_id: 2266
+  title: "Paris, je t'aime"
+  year: 2006
+  runtime: 120
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: the-shore-2005
+  tmdb_id: 480791
+  title: The Shore
+  year: 2005
+  runtime: 96
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: looking-for-palladin
+  tmdb_id: 250625
+  title: Looking for Palladin
+  year: 2008
+  runtime: 97
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
