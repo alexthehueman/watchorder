@@ -37,11 +37,103 @@ films:
     gateway: 5
     note: The mission's blunt, no-nonsense NASA director barking orders under pressure, playing gruff, exasperated authority.
 
+  - film: one-false-move
+    signature: 3
+    showcase: 4
+    role_size: supporting
+    register: menacing
+    gateway: 2
+    note: A cold, unhinged fugitive on the run toward the small town where his violent past is about to catch up with him, playing volatile menace; also his first produced screenplay.
+
+  - film: the-apostle
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: menacing
+    gateway: 2
+    note: A quietly furious man plotting revenge against Robert Duvall's fugitive preacher, playing simmering, understated threat.
+
+  - film: u-turn
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: unhinged
+    gateway: 2
+    note: A twitchy, unstable desert mechanic in Oliver Stone's neo-noir, playing broad, sweaty menace.
+
+  - film: primary-colors
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: comic
+    gateway: 3
+    note: A rumpled, foul-mouthed campaign strategist steering a presidential run through scandal, playing profane, cynical political savvy.
+
+  - film: the-man-who-wasnt-there
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A taciturn barber whose blackmail scheme spirals into murder, playing near-silent, deadpan detachment throughout.
+
+  - film: bandits
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 4
+    note: A hypochondriac bank robber falling for the woman he and his partner kidnap, playing neurotic, anxious comic energy.
+
+  - film: friday-night-lights
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: A high school football coach carrying the weight of an entire town's expectations, playing controlled, burdened authority.
+
+  - film: the-alamo
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: warm
+    gateway: 3
+    note: Davy Crockett stripped of legend and played as a weary, self-aware celebrity soldier, playing rueful, understated warmth.
+
+  - film: the-ice-harvest
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: menacing
+    gateway: 2
+    note: A duplicitous partner in a Christmas Eve heist gone wrong, playing coiled, unpredictable menace.
+
+  - film: the-judge
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: restrained
+    gateway: 3
+    note: The prosecutor facing off against Robert Downey Jr.'s defense attorney, playing calm, procedural authority.
+
+  - film: the-gray-man
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: restrained
+    gateway: 4
+    note: The retired CIA handler who recruited the film's hero years earlier, playing weathered, world-weary authority.
+
 curated:
   curator: house
-  rationale: The Oscar-winning breakout first, then the range of menace and warmth around it.
+  rationale: The Oscar-winning breakout first, then the range of menace, deadpan stillness, and gruff warmth around it.
   order:
     - sling-blade
+    - the-man-who-wasnt-there
     - monsters-ball
+    - one-false-move
+    - friday-night-lights
     - bad-santa
+    - bandits
     - armageddon
