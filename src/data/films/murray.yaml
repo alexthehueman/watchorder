@@ -2,7 +2,18 @@
 #
 # Ghostbusters already exists in weaver.yaml (a genuine ensemble, and it's her franchise entry
 # too) — tagged before he had an entity. The Grand Budapest Hotel already exists in fiennes.yaml
-# (a supporting ensemble part) — tagged before he had an entity.
+# (a supporting ensemble part) — tagged before he had an entity. This pass adds further free wins
+# Tootsie (Hoffman), Ed Wood (Depp), The Darjeeling Limited (Jason Schwartzman), Get Smart (Alan
+# Arkin), Fantastic Mr. Fox (Brody), Moonrise Kingdom (McDormand), Hyde Park on Hudson (Olivia
+# Colman), The Monuments Men (Dujardin), St. Vincent (Melissa McCarthy), The Jungle Book (Ben
+# Kingsley), Ghostbusters 2016 (Hemsworth), Isle of Dogs (Goldblum), The Dead Don't Die (Adam
+# Driver), On the Rocks (Sofia Coppola), The French Dispatch (Chalamet), The Phoenician Scheme
+# (Cumberbatch), Zombieland (Harrelson), and A Glimpse Inside the Mind of Charles Swan III
+# (Aubrey Plaza), plus 32 new films below.
+#
+# Excluded uncredited appearances, cameos as himself, and documentaries about him rather than real
+# roles: Next Stop, Greenwich Village, Mr. Mike's Mondo Video, Tarzoon: Shame of the Jungle, B.C.
+# Rock, She's Having a Baby, Space Jam, and Michael Jordan to the Max.
 
 - id: stripes
   tmdb_id: 10890
@@ -166,3 +177,261 @@
     - Comedy
     - Drama
     - Mystery
+
+- id: meatballs
+  tmdb_id: 14035
+  title: Meatballs
+  year: 1979
+  runtime: 92
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: where-the-buffalo-roam
+  tmdb_id: 13005
+  title: Where the Buffalo Roam
+  year: 1980
+  runtime: 96
+  tags: { opacity: 2, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: loose-shoes
+  tmdb_id: 44805
+  title: Loose Shoes
+  year: 1978
+  runtime: 76
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: nothing-lasts-forever
+  tmdb_id: 52826
+  title: Nothing Lasts Forever
+  year: 1984
+  runtime: 82
+  tags: { opacity: 3, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-razors-edge
+  tmdb_id: 24453
+  title: The Razor's Edge
+  year: 1984
+  runtime: 129
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: little-shop-of-horrors
+  tmdb_id: 10776
+  title: Little Shop of Horrors
+  year: 1986
+  runtime: 94
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.68 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: ghostbusters-ii
+  tmdb_id: 2978
+  title: Ghostbusters II
+  year: 1989
+  runtime: 108
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.60 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: quick-change
+  tmdb_id: 10729
+  title: Quick Change
+  year: 1990
+  runtime: 88
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: mad-dog-and-glory
+  tmdb_id: 10433
+  title: Mad Dog and Glory
+  year: 1993
+  runtime: 96
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: kingpin
+  tmdb_id: 11543
+  title: Kingpin
+  year: 1996
+  runtime: 113
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: larger-than-life
+  tmdb_id: 34170
+  title: Larger than Life
+  year: 1996
+  runtime: 93
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-man-who-knew-too-little
+  tmdb_id: 9414
+  title: The Man Who Knew Too Little
+  year: 1997
+  runtime: 94
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: wild-things
+  tmdb_id: 617
+  title: Wild Things
+  year: 1998
+  runtime: 108
+  tags: { opacity: 3, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 2 }
+
+- id: with-friends-like-these
+  tmdb_id: 126152
+  title: With Friends Like These
+  year: 1998
+  runtime: 96
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: cradle-will-rock
+  tmdb_id: 32274
+  title: Cradle Will Rock
+  year: 1999
+  runtime: 132
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: charlies-angels
+  tmdb_id: 4327
+  title: Charlie's Angels
+  year: 2000
+  runtime: 98
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: hamlet-2000
+  tmdb_id: 10688
+  title: Hamlet
+  year: 2000
+  runtime: 112
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 0 }
+
+- id: osmosis-jones
+  tmdb_id: 12610
+  title: Osmosis Jones
+  year: 2001
+  runtime: 95
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: speaking-of-sex
+  tmdb_id: 16435
+  title: Speaking of Sex
+  year: 2001
+  runtime: 91
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: coffee-and-cigarettes
+  tmdb_id: 883
+  title: Coffee and Cigarettes
+  year: 2004
+  director: Jim Jarmusch
+  runtime: 96
+  tags: { opacity: 1, stillness: 3, bleakness: 1, humor: 3, acclaim: 0.62 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: garfield-the-movie
+  tmdb_id: 8920
+  title: Garfield
+  year: 2004
+  runtime: 80
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-lost-city
+  tmdb_id: 9700
+  title: The Lost City
+  year: 2005
+  runtime: 143
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: garfield-a-tail-of-two-kitties
+  tmdb_id: 9513
+  title: "Garfield: A Tail of Two Kitties"
+  year: 2006
+  runtime: 78
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: city-of-ember
+  tmdb_id: 13600
+  title: City of Ember
+  year: 2008
+  runtime: 95
+  tags: { opacity: 2, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-limits-of-control
+  tmdb_id: 8284
+  title: The Limits of Control
+  year: 2009
+  director: Jim Jarmusch
+  runtime: 116
+  tags: { opacity: 4, stillness: 4, bleakness: 3, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: get-low
+  tmdb_id: 44718
+  title: Get Low
+  year: 2010
+  runtime: 100
+  tags: { opacity: 2, stillness: 3, bleakness: 4, humor: 2, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: passion-play
+  tmdb_id: 38753
+  title: Passion Play
+  year: 2011
+  runtime: 94
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: rock-the-kasbah
+  tmdb_id: 253414
+  title: Rock the Kasbah
+  year: 2015
+  runtime: 106
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: zombieland-double-tap
+  tmdb_id: 338967
+  title: "Zombieland: Double Tap"
+  year: 2019
+  runtime: 99
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: ghostbusters-afterlife
+  tmdb_id: 425909
+  title: "Ghostbusters: Afterlife"
+  year: 2021
+  runtime: 124
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-greatest-beer-run-ever
+  tmdb_id: 597922
+  title: The Greatest Beer Run Ever
+  year: 2022
+  runtime: 126
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 2, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-friend-2024
+  tmdb_id: 1186563
+  title: The Friend
+  year: 2025
+  runtime: 120
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }

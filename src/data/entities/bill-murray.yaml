@@ -94,6 +94,406 @@ films:
     gateway: 2
     note: One face in Wes Anderson's ensemble of concierges — a small part in a director he'd go on to become a fixture for.
 
+  - film: tootsie
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 3
+    note: The best friend and roommate of an actor secretly performing in drag to land a soap opera role.
+
+  - film: ed-wood
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 2
+    note: A flamboyant would-be movie star drifting through the fringes of Ed Wood's ramshackle productions.
+
+  - film: the-darjeeling-limited
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 1
+    note: A cameo as a businessman racing to catch the departing train in the film's opening minutes.
+
+  - film: get-smart
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 2
+    note: A cameo as an agent stuck living inside a tree for his own protection.
+
+  - film: fantastic-mr-fox
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: warm
+    gateway: 3
+    note: The voice of a badger lawyer and Mr. Fox's skeptical, put-upon neighbor.
+
+  - film: moonrise-kingdom
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: restrained
+    gateway: 2
+    note: A distracted, unhappily married father searching for his runaway daughter alongside a search party of Khaki Scouts.
+
+  - film: hyde-park-on-hudson
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: President Franklin D. Roosevelt, navigating both a royal visit and his own complicated personal life at his country retreat.
+
+  - film: the-monuments-men
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: warm
+    gateway: 2
+    note: One of the art experts racing to recover masterpieces stolen by the Nazis before the war's end.
+
+  - film: st-vincent
+    signature: 2
+    showcase: 4
+    role_size: lead
+    register: unhinged
+    gateway: 2
+    note: A misanthropic, gambling-addicted neighbor unexpectedly stuck babysitting the kid next door.
+
+  - film: the-jungle-book-2016
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: warm
+    gateway: 3
+    note: The voice of Baloo, the easygoing bear who teaches Mowgli to enjoy the jungle's simpler pleasures.
+
+  - film: ghostbusters-2016
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 2
+    note: A cameo as a skeptical paranormal debunker doubting the new team's ghost-hunting claims.
+
+  - film: isle-of-dogs
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: warm
+    gateway: 1
+    note: The voice of Boss, one of the exiled dogs banding together on Trash Island.
+
+  - film: the-dead-dont-die
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A small-town police chief facing a genuine zombie apocalypse with weary, unimpressed calm.
+
+  - film: on-the-rocks
+    signature: 1
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 2
+    note: A charming, unreliable father who convinces his daughter to help him investigate whether her husband is having an affair.
+
+  - film: the-french-dispatch
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: restrained
+    gateway: 1
+    note: The editor overseeing the magazine's final, elaborate issue.
+
+  - film: the-phoenician-scheme
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 1
+    note: A minor role in this Wes Anderson caper about a wealthy industrialist's byzantine business empire.
+
+  - film: zombieland
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 3
+    note: A cameo as himself, holed up in his own mansion and disguised as a zombie to survive the outbreak.
+
+  - film: a-glimpse-inside-the-mind-of-charles-swan-iii
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 1
+    note: A minor supporting role in this surreal comedy about a graphic designer's breakup fantasies.
+
+  - film: ghostbusters-ii
+    signature: 1
+    showcase: 1
+    role_size: lead
+    register: comic
+    gateway: 4
+    note: The same con-man parapsychologist, dragged back into ghost-hunting when a river of supernatural slime threatens Manhattan.
+
+  - film: little-shop-of-horrors
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 2
+    note: A masochistic dental patient gleefully enjoying his own torment.
+
+  - film: kingpin
+    signature: 1
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 3
+    note: A ruthless, hairpiece-wearing bowling champion whose rivalry with a washed-up former pro turns increasingly petty.
+
+  - film: mad-dog-and-glory
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: menacing
+    gateway: 1
+    note: A gangster with a side career doing stand-up comedy, whose debt to a cop complicates both men's lives.
+
+  - film: quick-change
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: comic
+    gateway: 1
+    note: A disguised bank robber whose escape from the city keeps getting derailed by increasingly absurd obstacles.
+
+  - film: coffee-and-cigarettes
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 1
+    note: A cameo as a waiter fielding coffee complaints from two musicians, in this anthology of deadpan conversations.
+
+  - film: get-low
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: comic
+    gateway: 1
+    note: A funeral-home operator eager to profit from a hermit's plan to throw his own funeral while he's still alive.
+
+  - film: city-of-ember
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 1
+    note: The corrupt, self-serving mayor of an underground city running out of light.
+
+  - film: the-limits-of-control
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: menacing
+    gateway: 1
+    note: A minor supporting role in this cryptic Jim Jarmusch thriller.
+
+  - film: the-man-who-knew-too-little
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: comic
+    gateway: 2
+    note: An American tourist who mistakes a real espionage plot for immersive theater.
+
+  - film: charlies-angels
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 2
+    note: The Angels' handler, coordinating their missions from behind an ever-changing disguise.
+
+  - film: wild-things
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 1
+    note: An ambulance-chasing lawyer entangled in the film's escalating web of false accusations.
+
+  - film: cradle-will-rock
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: warm
+    gateway: 1
+    note: A washed-up ventriloquist caught up in the political turmoil surrounding a Depression-era leftist musical.
+
+  - film: hamlet-2000
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 1
+    note: A corporate-world Polonius, advising his children amid a modern-dress adaptation of the play.
+
+  - film: osmosis-jones
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 1
+    note: The voice of a slobby zookeeper whose unhealthy body becomes the film's animated internal battleground.
+
+  - film: garfield-the-movie
+    signature: 1
+    showcase: 1
+    role_size: lead
+    register: comic
+    gateway: 2
+    note: The voice of Garfield, the famously lazy, lasagna-obsessed cartoon cat brought to live-action life.
+
+  - film: garfield-a-tail-of-two-kitties
+    signature: 1
+    showcase: 1
+    role_size: lead
+    register: comic
+    gateway: 1
+    note: Garfield again, accidentally swapped with an aristocratic English lookalike cat.
+
+  - film: the-lost-city
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: restrained
+    gateway: 1
+    note: A minor supporting role in this Cuban Revolution-era drama.
+
+  - film: rock-the-kasbah
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: comic
+    gateway: 1
+    note: A washed-up music manager who stumbles into discovering a hidden singing talent in war-torn Afghanistan.
+
+  - film: zombieland-double-tap
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 2
+    note: A brief return as himself, reprising his cameo from the original film.
+
+  - film: ghostbusters-afterlife
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: warm
+    gateway: 3
+    note: The same con-man parapsychologist, drawn back into ghost-hunting decades later by a new generation.
+
+  - film: the-greatest-beer-run-ever
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: warm
+    gateway: 1
+    note: A minor supporting role in this Vietnam War-era drama based on a true story.
+
+  - film: the-friend-2024
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: warm
+    gateway: 1
+    note: A writer whose death leaves his best friend caring for his enormous, grieving dog.
+
+  - film: meatballs
+    signature: 1
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 3
+    note: A wisecracking summer camp counselor rallying his underdog cabin toward the big Olympiad.
+
+  - film: where-the-buffalo-roam
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: unhinged
+    gateway: 1
+    note: Gonzo journalist Hunter S. Thompson, careening through a drug-fueled chronicle of his own career.
+
+  - film: loose-shoes
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 1
+    note: A minor early role in this sketch-comedy movie-trailer parody anthology.
+
+  - film: nothing-lasts-forever
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A tour bus operator to the moon, in this surreal, long-shelved cult curiosity.
+
+  - film: the-razors-edge
+    signature: 1
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A WWI veteran whose search for meaning takes him from Chicago to a Himalayan monastery, in this Maugham adaptation he also co-wrote.
+
+  - film: larger-than-life
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: comic
+    gateway: 1
+    note: A motivational speaker who inherits an elephant and drives it cross-country to deliver it to a circus.
+
+  - film: with-friends-like-these
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 1
+    note: A cameo appearance in this ensemble comedy about actors competing for the same film role.
+
+  - film: speaking-of-sex
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: comic
+    gateway: 1
+    note: A marriage counselor whose own advice gets tested by a couple's increasingly complicated troubles.
+
+  - film: passion-play
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: menacing
+    gateway: 1
+    note: A vengeful gangster with a personal grudge against the down-and-out trumpet player at the center of this fable.
+
 curated:
   curator: house
   rationale: The performance that reveals the whole second act first, then the deadpan comedy that came before it.
@@ -109,3 +509,4 @@ curated:
     - broken-flowers
     - the-life-aquatic-with-steve-zissou
     - the-grand-budapest-hotel
+    - st-vincent
