@@ -1,7 +1,18 @@
 # Films for Bibi Andersson. Scales and anchors are in README.md ("The anchor rubric").
 #
 # The Seventh Seal and Wild Strawberries already exist in von-sydow.yaml.
-# Persona already exists in ullmann.yaml. The Touch below is her own.
+# Persona already exists in ullmann.yaml. The Touch below is her own. This pass adds further free
+# wins Smiles of a Summer Night and The Magician (both Gunnar Björnstrand), All These Women and
+# The Passion of Anna (both Sven Nykvist), Scenes from a Marriage (Ullmann), Babette's Feast
+# (Stéphane Audran), and Twice a Woman (Anthony Perkins), plus 7 new films below.
+#
+# Exposed needed a distinct id for her 1983 role, unrelated to Ana de Armas's unrelated 2016 film
+# already in the corpus despite sharing the exact title.
+#
+# Scope note: her ~70-credit, Swedish-language-dominant career has an enormous tail of obscure
+# 1950s-2000s Scandinavian films with no accessible Anglophone synopsis or reception info to tag
+# content flags from with confidence. Added only the well-documented, internationally released
+# English-language films; the rest deliberately deferred to a dedicated future pass.
 
 - id: the-touch
   tmdb_id: 105254
@@ -17,3 +28,60 @@
   genres:
     - Romance
     - Drama
+
+- id: duel-at-diablo
+  tmdb_id: 1403
+  title: Duel at Diablo
+  year: 1966
+  runtime: 103
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: the-kremlin-letter
+  tmdb_id: 45817
+  title: The Kremlin Letter
+  year: 1970
+  runtime: 121
+  tags: { opacity: 3, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: i-never-promised-you-a-rose-garden
+  tmdb_id: 66092
+  title: I Never Promised You a Rose Garden
+  year: 1977
+  runtime: 96
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: an-enemy-of-the-people
+  tmdb_id: 121890
+  title: An Enemy of the People
+  year: 1978
+  runtime: 103
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: quintet
+  tmdb_id: 45169
+  title: Quintet
+  year: 1979
+  director: Robert Altman
+  runtime: 118
+  tags: { opacity: 4, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-concorde-airport-79
+  tmdb_id: 29723
+  title: "The Concorde... Airport '79"
+  year: 1979
+  runtime: 123
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: exposed-1983
+  tmdb_id: 107246
+  title: Exposed
+  year: 1983
+  runtime: 100
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 2 }

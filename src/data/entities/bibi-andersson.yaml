@@ -37,6 +37,118 @@ films:
     gateway: 3
     note: A married woman drawn into an affair she can't quite explain even to herself, playing guarded, conflicted longing.
 
+  - film: scenes-from-a-marriage
+    signature: 3
+    showcase: 4
+    role_size: supporting
+    register: restrained
+    gateway: 2
+    note: A lawyer whose own clear-eyed view of marriage becomes a running counterpoint to the couple unraveling at the film's center.
+
+  - film: smiles-of-a-summer-night
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: comic
+    gateway: 3
+    note: A young maid navigating her own romantic tangle amid a country house's overlapping infidelities.
+
+  - film: all-these-women
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 1
+    note: One of the women orbiting a self-important cellist's household in this rare Bergman farce.
+
+  - film: the-magician
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: restrained
+    gateway: 1
+    note: A traveling magic troupe's assistant, disguised as a boy, navigating a hostile provincial town's skepticism.
+
+  - film: the-passion-of-anna
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: restrained
+    gateway: 1
+    note: A quietly desperate woman whose own affair complicates the paranoid, disintegrating relationship at the film's center.
+
+  - film: twice-a-woman
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A woman rekindling an intimate relationship with her ex-husband's new lover.
+
+  - film: babettes-feast
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: warm
+    gateway: 2
+    note: A minor supporting role in this parable about a lavish, transformative French dinner served to an austere Danish village.
+
+  - film: an-enemy-of-the-people
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: The wife of a small-town doctor whose discovery of contaminated water turns the whole community against him, in this Ibsen adaptation.
+
+  - film: i-never-promised-you-a-rose-garden
+    signature: 1
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A psychiatrist treating a teenage girl who retreats into an elaborate private fantasy world to escape her schizophrenia.
+
+  - film: quintet
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A woman drawn into a deadly game whose players are being murdered one by one in a frozen, dying future city.
+
+  - film: the-kremlin-letter
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: menacing
+    gateway: 1
+    note: A Soviet operative entangled in a Cold War espionage plot involving a stolen, incriminating letter.
+
+  - film: duel-at-diablo
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A white woman who has assimilated into Apache life, caught between two worlds as a cavalry escort turns violent.
+
+  - film: the-concorde-airport-79
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: restrained
+    gateway: 1
+    note: One passenger among the ensemble aboard a Concorde beset by sabotage in this disaster-movie sequel.
+
+  - film: exposed-1983
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: menacing
+    gateway: 1
+    note: A minor role in this erotic thriller, distinct from the unrelated 2016 Ana de Armas film of the same title.
+
 curated:
   curator: house
   rationale: The most demanding, defining role first, then the range either side of it.
@@ -45,3 +157,4 @@ curated:
     - wild-strawberries
     - the-seventh-seal
     - the-touch
+    - scenes-from-a-marriage
