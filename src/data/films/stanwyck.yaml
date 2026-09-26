@@ -6,6 +6,13 @@
 # The register field earns its keep here more than almost anywhere else on the roster: she moves
 # from menacing (Double Indemnity, The Strange Love of Martha Ivers) to comic (The Lady Eve, Ball
 # of Fire) to warm (Stella Dallas) across the same decade, often the same year.
+#
+# Free win: East Side, West Side was already in the corpus under Ava Gardner (verified matching
+# tmdb_id — both actresses starred in it), plus 66 new films below.
+#
+# Titanic needed a distinct id for her 1953 disaster drama, unrelated to the 1997 James Cameron
+# film already in the corpus under DiCaprio despite sharing the exact title. Excluded The Stolen
+# Jools and Hollywood Victory Caravan as promotional shorts rather than features.
 
 - id: baby-face
   tmdb_id: 27449
@@ -153,3 +160,592 @@
   letterboxd_rating: 3.71
   genres:
     - Western
+
+- id: broadway-nights
+  tmdb_id: 441110
+  title: Broadway Nights
+  year: 1927
+  runtime: 70
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-locked-door
+  tmdb_id: 39048
+  title: The Locked Door
+  year: 1929
+  runtime: 71
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: mexicali-rose
+  tmdb_id: 205793
+  title: Mexicali Rose
+  year: 1929
+  runtime: 62
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.30 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: ladies-of-leisure
+  tmdb_id: 122047
+  title: Ladies of Leisure
+  year: 1930
+  runtime: 99
+  director: Frank Capra
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: illicit
+  tmdb_id: 121020
+  title: Illicit
+  year: 1931
+  runtime: 81
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: ten-cents-a-dance
+  tmdb_id: 121018
+  title: Ten Cents a Dance
+  year: 1931
+  runtime: 75
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: night-nurse
+  tmdb_id: 51394
+  title: Night Nurse
+  year: 1931
+  runtime: 72
+  tags: { opacity: 1, stillness: 1, bleakness: 4, humor: 1, acclaim: 0.60 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 2, sex: 1 }
+
+- id: the-miracle-woman
+  tmdb_id: 44463
+  title: The Miracle Woman
+  year: 1931
+  runtime: 90
+  director: Frank Capra
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: forbidden-1932
+  tmdb_id: 50072
+  title: Forbidden
+  year: 1932
+  runtime: 83
+  director: Frank Capra
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: shopworn
+  tmdb_id: 121013
+  title: Shopworn
+  year: 1932
+  runtime: 72
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: so-big
+  tmdb_id: 98536
+  title: So Big!
+  year: 1932
+  runtime: 80
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-purchase-price
+  tmdb_id: 75510
+  title: The Purchase Price
+  year: 1932
+  runtime: 68
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: the-bitter-tea-of-general-yen
+  tmdb_id: 34187
+  title: The Bitter Tea of General Yen
+  year: 1933
+  director: Frank Capra
+  runtime: 88
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 1 }
+
+- id: ladies-they-talk-about
+  tmdb_id: 43598
+  title: Ladies They Talk About
+  year: 1933
+  runtime: 69
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 2, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: ever-in-my-heart
+  tmdb_id: 159424
+  title: Ever in My Heart
+  year: 1933
+  runtime: 68
+  tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
+
+- id: gambling-lady
+  tmdb_id: 152986
+  title: Gambling Lady
+  year: 1934
+  runtime: 66
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: a-lost-lady
+  tmdb_id: 235678
+  title: A Lost Lady
+  year: 1934
+  runtime: 61
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: the-secret-bride
+  tmdb_id: 136548
+  title: The Secret Bride
+  year: 1934
+  runtime: 64
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-woman-in-red-1935
+  tmdb_id: 100575
+  title: The Woman in Red
+  year: 1935
+  runtime: 68
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: red-salute
+  tmdb_id: 194407
+  title: Red Salute
+  year: 1935
+  runtime: 78
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: annie-oakley
+  tmdb_id: 43887
+  title: Annie Oakley
+  year: 1935
+  runtime: 88
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: a-message-to-garcia
+  tmdb_id: 147726
+  title: A Message to Garcia
+  year: 1936
+  runtime: 74
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-bride-walks-out
+  tmdb_id: 112618
+  title: The Bride Walks Out
+  year: 1936
+  runtime: 81
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: his-brothers-wife
+  tmdb_id: 152988
+  title: His Brother's Wife
+  year: 1936
+  runtime: 90
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: banjo-on-my-knee
+  tmdb_id: 149991
+  title: Banjo on My Knee
+  year: 1936
+  runtime: 95
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-plough-and-the-stars
+  tmdb_id: 173456
+  title: The Plough and the Stars
+  year: 1936
+  runtime: 78
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: internes-cant-take-money
+  tmdb_id: 83816
+  title: Internes Can't Take Money
+  year: 1937
+  runtime: 77
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: this-is-my-affair
+  tmdb_id: 147722
+  title: This Is My Affair
+  year: 1937
+  runtime: 100
+  tags: { opacity: 2, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: breakfast-for-two
+  tmdb_id: 83240
+  title: Breakfast for Two
+  year: 1937
+  runtime: 67
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: always-goodbye
+  tmdb_id: 200171
+  title: Always Goodbye
+  year: 1938
+  runtime: 75
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-mad-miss-manton
+  tmdb_id: 43855
+  title: The Mad Miss Manton
+  year: 1938
+  runtime: 80
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: union-pacific
+  tmdb_id: 43837
+  title: Union Pacific
+  year: 1939
+  runtime: 135
+  director: Cecil B. DeMille
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: golden-boy
+  tmdb_id: 43529
+  title: Golden Boy
+  year: 1939
+  runtime: 99
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: remember-the-night
+  tmdb_id: 29617
+  title: Remember the Night
+  year: 1940
+  runtime: 94
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.60 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: you-belong-to-me
+  tmdb_id: 97193
+  title: You Belong to Me
+  year: 1941
+  runtime: 94
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-great-mans-lady
+  tmdb_id: 97815
+  title: The Great Man's Lady
+  year: 1942
+  runtime: 90
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
+
+- id: the-gay-sisters
+  tmdb_id: 94577
+  title: The Gay Sisters
+  year: 1942
+  runtime: 108
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: lady-of-burlesque
+  tmdb_id: 50001
+  title: Lady of Burlesque
+  year: 1943
+  runtime: 91
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 2, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: flesh-and-fantasy
+  tmdb_id: 116712
+  title: Flesh and Fantasy
+  year: 1943
+  runtime: 94
+  tags: { opacity: 3, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: hollywood-canteen
+  tmdb_id: 38697
+  title: Hollywood Canteen
+  year: 1944
+  runtime: 124
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: christmas-in-connecticut
+  tmdb_id: 13669
+  title: Christmas in Connecticut
+  year: 1945
+  runtime: 101
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: my-reputation
+  tmdb_id: 123295
+  title: My Reputation
+  year: 1946
+  runtime: 96
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-bride-wore-boots
+  tmdb_id: 214568
+  title: The Bride Wore Boots
+  year: 1946
+  runtime: 85
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: california-1947
+  tmdb_id: 111459
+  title: California
+  year: 1947
+  runtime: 97
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-two-mrs-carrolls
+  tmdb_id: 27448
+  title: The Two Mrs. Carrolls
+  year: 1947
+  runtime: 99
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-other-love
+  tmdb_id: 140090
+  title: The Other Love
+  year: 1947
+  runtime: 96
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: cry-wolf
+  tmdb_id: 62720
+  title: Cry Wolf
+  year: 1947
+  runtime: 83
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: variety-girl
+  tmdb_id: 113832
+  title: Variety Girl
+  year: 1947
+  runtime: 93
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: bfs-daughter
+  tmdb_id: 83838
+  title: "B.F.'s Daughter"
+  year: 1948
+  runtime: 108
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-lady-gambles
+  tmdb_id: 36376
+  title: The Lady Gambles
+  year: 1949
+  runtime: 99
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-file-on-thelma-jordon
+  tmdb_id: 35404
+  title: The File on Thelma Jordon
+  year: 1950
+  runtime: 100
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: no-man-of-her-own
+  tmdb_id: 40767
+  title: No Man of Her Own
+  year: 1950
+  runtime: 98
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 1 }
+
+- id: to-please-a-lady
+  tmdb_id: 168045
+  title: To Please a Lady
+  year: 1950
+  runtime: 91
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-man-with-a-cloak
+  tmdb_id: 83664
+  title: The Man with a Cloak
+  year: 1951
+  runtime: 81
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: jeopardy
+  tmdb_id: 41611
+  title: Jeopardy
+  year: 1953
+  runtime: 69
+  tags: { opacity: 1, stillness: 1, bleakness: 4, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: titanic-1953
+  tmdb_id: 16535
+  title: Titanic
+  year: 1953
+  runtime: 98
+  tags: { opacity: 1, stillness: 1, bleakness: 5, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: all-i-desire
+  tmdb_id: 63858
+  title: All I Desire
+  year: 1953
+  runtime: 79
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: blowing-wild
+  tmdb_id: 76140
+  title: Blowing Wild
+  year: 1953
+  runtime: 90
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: the-moonlighter
+  tmdb_id: 153228
+  title: The Moonlighter
+  year: 1953
+  runtime: 77
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: witness-to-murder
+  tmdb_id: 37635
+  title: Witness to Murder
+  year: 1954
+  runtime: 83
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: executive-suite
+  tmdb_id: 43336
+  title: Executive Suite
+  year: 1954
+  runtime: 104
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.60 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: cattle-queen-of-montana
+  tmdb_id: 121703
+  title: Cattle Queen of Montana
+  year: 1954
+  runtime: 88
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-violent-men
+  tmdb_id: 60643
+  title: The Violent Men
+  year: 1955
+  runtime: 96
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.50 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: escape-to-burma
+  tmdb_id: 121538
+  title: Escape to Burma
+  year: 1955
+  runtime: 87
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: theres-always-tomorrow
+  tmdb_id: 37637
+  title: There's Always Tomorrow
+  year: 1956
+  runtime: 84
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: the-maverick-queen
+  tmdb_id: 118939
+  title: The Maverick Queen
+  year: 1956
+  runtime: 92
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: these-wilder-years
+  tmdb_id: 46190
+  title: These Wilder Years
+  year: 1956
+  runtime: 91
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: crime-of-passion
+  tmdb_id: 1920
+  title: Crime of Passion
+  year: 1957
+  runtime: 84
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: trooper-hook
+  tmdb_id: 150095
+  title: Trooper Hook
+  year: 1957
+  runtime: 81
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.40 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: forty-guns
+  tmdb_id: 14837
+  title: Forty Guns
+  year: 1957
+  runtime: 80
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+
+- id: walk-on-the-wild-side
+  tmdb_id: 60792
+  title: Walk on the Wild Side
+  year: 1962
+  runtime: 114
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+
+- id: roustabout
+  tmdb_id: 2094
+  title: Roustabout
+  year: 1964
+  runtime: 101
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-night-walker
+  tmdb_id: 29403
+  title: The Night Walker
+  year: 1964
+  runtime: 86
+  tags: { opacity: 3, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
