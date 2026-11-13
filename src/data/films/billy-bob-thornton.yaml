@@ -3,17 +3,18 @@
 # Armageddon already exists in buscemi.yaml — tagged before he had an entity.
 # Monster's Ball already exists in berry.yaml. Love Actually already exists in thompson.yaml.
 # Free wins (verified by matching tmdb_id): for-the-boys (bette-midler.yaml), indecent-proposal
-# (demi-moore.yaml), dead-man (depp.yaml), one-false-move + the-dark-backward
-# (bill-paxton.yaml), tombstone (val-kilmer.yaml), the-thin-red-line (malick.yaml), u-turn
+# (demi-moore.yaml), dead-man (depp.yaml), one-false-move
+# (bill-paxton.yaml), tombstone (val-kilmer.yaml), u-turn
 # (robert-richardson.yaml), princess-mononoke (ghibli.yaml), the-man-who-wasnt-there
 # (coens.yaml), daddy-and-them (ben-affleck.yaml), the-judge (downey.yaml), our-brand-is-crisis
 # + eagle-eye (mackie.yaml), whiskey-tango-foxtrot (fey.yaml), the-gray-man (de-armas.yaml),
 # intolerable-cruelty + levity (roger-deakins.yaml), the-ice-harvest (harold-ramis.yaml),
-# school-for-scoundrels (stiller.yaml), mr-woodcock (poehler.yaml), puss-in-boots-2011
-# (banderas.yaml). Excluded Crazy Mama-style uncredited bits, My Run (documentary,
-# narration only), Ghosts of the Abyss-style appearances, and Standing on the Shoulders of
-# Kitties (cameo as himself). All the Pretty Horses (2000) excluded — Thornton directed but
-# did not act in it.
+# school-for-scoundrels (stiller.yaml), mr-woodcock (poehler.yaml), puss-in-boots
+# (banderas.yaml). Excluded My Run (documentary, narration only) and Standing on the Shoulders
+# of Kitties (cameo as himself). All the Pretty Horses (2000) excluded — Thornton directed but
+# did not act in it. Also excluded: The Thin Red Line (his narration was deleted from the
+# release cut), Burn Hollywood Burn (cameo as himself), and The Dark Backward (uncredited bit
+# — the film itself is in bill-paxton.yaml, but he is not attached to it).
 
 - id: sling-blade
   tmdb_id: 12498
@@ -185,19 +186,6 @@
   genres:
     - Drama
   letterboxd_rating: 3.64
-
-- id: burn-hollywood-burn
-  tmdb_id: 78149
-  title: "An Alan Smithee Film: Burn Hollywood Burn"
-  year: 1998
-  runtime: 86
-  director: Arthur Hiller
-  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.1 }
-  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
-  letterboxd_slug: an-alan-smithee-film-burn-hollywood-burn
-  genres:
-    - Comedy
-  letterboxd_rating: 1.88
 
 - id: homegrown
   tmdb_id: 17133
