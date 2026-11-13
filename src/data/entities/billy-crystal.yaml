@@ -37,11 +37,190 @@ films:
     gateway: 3
     note: A psychiatrist stuck treating a panicking mob boss, playing motormouthed, escalating anxiety.
 
+  - film: rabbit-test
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: comic
+    gateway: 1
+    note: The world's first pregnant man, in his film debut for director Joan Rivers.
+
+  - film: this-is-spinal-tap
+    signature: 1
+    showcase: 1
+    role_size: cameo
+    register: comic
+    gateway: 4
+    note: A mime waiter with strong views on professionalism, in one scene.
+
+  - film: running-scared-1986
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 3
+    note: A wisecracking Chicago cop trying to make one last bust before retiring to Key West.
+
+  - film: the-princess-bride
+    signature: 3
+    showcase: 4
+    role_size: cameo
+    register: comic
+    gateway: 5
+    note: Miracle Max, a kvetching retired miracle worker buried under old-age makeup, stealing the film in a few minutes.
+
+  - film: throw-momma-from-the-train
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 3
+    note: A blocked novelist whose student proposes they trade murders, playing mounting, sputtering panic.
+
+  - film: memories-of-me
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: warm
+    gateway: 1
+    note: A surgeon recovering from a heart attack who goes to make peace with his father, a lifelong Hollywood extra; he also co-wrote it.
+
+  - film: mr-saturday-night
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 2
+    note: A stand-up followed across fifty years as he wrecks every chance and every relationship he is given, playing bitterness without asking for sympathy.
+
+  - film: city-slickers-ii-the-legend-of-curlys-gold
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: comic
+    gateway: 2
+    note: The same radio-ad man, now chasing a treasure map found in a dead cowboy's hat.
+
+  - film: forget-paris
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: warm
+    gateway: 3
+    note: An NBA referee whose marriage keeps breaking and mending, told by friends around a restaurant table.
+
+  - film: hamlet-1996
+    signature: 1
+    showcase: 3
+    role_size: cameo
+    register: comic
+    gateway: 2
+    note: The First Gravedigger, trading riddles with the prince over Yorick's skull.
+
+  - film: fathers-day
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A buttoned-up lawyer paired with a suicidal writer to find a runaway each believes is his son.
+
+  - film: deconstructing-harry
+    signature: 1
+    showcase: 3
+    role_size: supporting
+    register: menacing
+    gateway: 2
+    note: The friend who took the writer's girlfriend, and in the writer's fiction the Devil himself.
+
+  - film: my-giant
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: warm
+    gateway: 2
+    note: A failing agent who discovers a seven-foot-seven Romanian and tries to turn him into a star.
+
+  - film: americas-sweethearts
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 3
+    note: A studio publicist staging a press junket around two stars who can no longer stand each other; he also co-wrote it.
+
+  - film: analyze-that
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: comic
+    gateway: 2
+    note: The psychiatrist again, now with the mob boss released into his custody.
+
+  - film: howls-moving-castle
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: comic
+    gateway: 4
+    note: The voice of Calcifer, the sardonic fire demon bound to the castle's hearth, in the English-language version.
+
+  - film: small-apartments
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: restrained
+    gateway: 1
+    note: A weary fire investigator piecing together what happened to a landlord.
+
+  - film: parental-guidance
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: comic
+    gateway: 3
+    note: An old-school grandfather left in charge of three carefully parented grandchildren.
+
+  - film: monsters-university
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 4
+    note: The voice of Mike Wazowski as a college freshman convinced that hard work can make him scary.
+
+  - film: untogether
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: restrained
+    gateway: 1
+    note: A supporting part in an ensemble drama about two sisters and the men around them.
+
+  - film: standing-up-falling-down
+    signature: 3
+    showcase: 4
+    role_size: lead
+    register: warm
+    gateway: 2
+    note: An alcoholic dermatologist who befriends a failed stand-up, playing easy charm over a lot of regret.
+
+  - film: here-today
+    signature: 2
+    showcase: 4
+    role_size: lead
+    register: warm
+    gateway: 2
+    note: A veteran comedy writer hiding the onset of dementia, in a film he also directed and co-wrote.
+
 curated:
   curator: house
   rationale: The defining romantic comedy first, then the range of ensemble and voice work around it.
   order:
     - when-harry-met-sally
+    - the-princess-bride
     - city-slickers
     - monsters-inc
+    - forget-paris
     - analyze-this
+    - mr-saturday-night
