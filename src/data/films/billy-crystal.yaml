@@ -75,6 +75,9 @@
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.15 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   letterboxd_slug: rabbit-test
+  genres:
+    - Comedy
+  letterboxd_rating: 2.62
 
 - id: running-scared-1986
   tmdb_id: 15698
@@ -85,6 +88,12 @@
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.5 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
   letterboxd_slug: running-scared
+  genres:
+    - Action
+    - Comedy
+    - Thriller
+    - Crime
+  letterboxd_rating: 3.24
 
 - id: memories-of-me
   tmdb_id: 107569
@@ -95,6 +104,10 @@
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.35 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: memories-of-me
+  genres:
+    - Drama
+    - Comedy
+  letterboxd_rating: 3.15
 
 - id: mr-saturday-night
   tmdb_id: 54087
@@ -105,6 +118,10 @@
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.5 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: mr-saturday-night
+  genres:
+    - Comedy
+    - Drama
+  letterboxd_rating: 2.99
 
 - id: city-slickers-ii-the-legend-of-curlys-gold
   tmdb_id: 11310
@@ -115,6 +132,10 @@
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.3 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: city-slickers-ii-the-legend-of-curlys-gold
+  genres:
+    - Western
+    - Comedy
+  letterboxd_rating: 2.81
 
 - id: forget-paris
   tmdb_id: 10525
@@ -125,6 +146,11 @@
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.5 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
   letterboxd_slug: forget-paris
+  genres:
+    - Drama
+    - Comedy
+    - Romance
+  letterboxd_rating: 3.29
 
 - id: hamlet-1996
   tmdb_id: 10549
@@ -135,6 +161,9 @@
   tags: { opacity: 2, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.8 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 1 }
   letterboxd_slug: hamlet-1996
+  genres:
+    - Drama
+  letterboxd_rating: 3.66
 
 - id: fathers-day
   tmdb_id: 12499
@@ -145,6 +174,10 @@
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.25 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: fathers-day
+  genres:
+    - Comedy
+    - Family
+  letterboxd_rating: 2.67
 
 - id: deconstructing-harry
   tmdb_id: 2639
@@ -155,6 +188,10 @@
   tags: { opacity: 3, stillness: 2, bleakness: 3, humor: 4, acclaim: 0.7 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
   letterboxd_slug: deconstructing-harry
+  genres:
+    - Comedy
+    - Drama
+  letterboxd_rating: 3.71
 
 - id: my-giant
   tmdb_id: 47881
@@ -165,6 +202,11 @@
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.3 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: my-giant
+  genres:
+    - Drama
+    - Family
+    - Comedy
+  letterboxd_rating: 2.52
 
 - id: analyze-that
   tmdb_id: 9932
@@ -175,6 +217,10 @@
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.3 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
   letterboxd_slug: analyze-that
+  genres:
+    - Crime
+    - Comedy
+  letterboxd_rating: 2.85
 
 - id: small-apartments
   tmdb_id: 95755
@@ -185,6 +231,11 @@
   tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.4 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 1 }
   letterboxd_slug: small-apartments
+  genres:
+    - Comedy
+    - Crime
+    - Drama
+  letterboxd_rating: 3.02
 
 - id: untogether
   tmdb_id: 424651
@@ -195,6 +246,10 @@
   tags: { opacity: 2, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.3 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
   letterboxd_slug: untogether
+  genres:
+    - Drama
+    - Comedy
+  letterboxd_rating: 2.81
 
 - id: standing-up-falling-down
   tmdb_id: 597231
@@ -205,6 +260,10 @@
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.6 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
   letterboxd_slug: standing-up-falling-down
+  genres:
+    - Drama
+    - Comedy
+  letterboxd_rating: 3.38
 
 - id: here-today
   tmdb_id: 711475
@@ -214,4 +273,8 @@
   director: Billy Crystal
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.45 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
-  letterboxd_slug: here-today-2021
+  letterboxd_slug: here-today
+  genres:
+    - Comedy
+    - Drama
+  letterboxd_rating: 2.96
