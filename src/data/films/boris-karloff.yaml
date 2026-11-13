@@ -1,4 +1,22 @@
 # New films for Boris Karloff. Scales and anchors are in README.md ("The anchor rubric").
+#
+# PARTIAL: covers his sound-era features from The Criminal Code (1931) on. Deferred: the whole
+# silent era (1919-1929) and his pre-Frankenstein talkie bit parts (The Unholy Night, The Bad
+# One, The Sea Bat, The Utah Kid, Cracked Nuts, Young Donovan's Kid, The Public Defender, I Like
+# Your Nerve, Graft, The Yellow Ticket, The Guilty Generation, Tonight or Never).
+# Free wins (verified by matching tmdb_id): scarface-1932 (hawks.yaml), the-old-dark-house
+# (james-whale.yaml), the-mask-of-fu-manchu (edward-van-sloan.yaml), the-raven-1935 +
+# the-invisible-ray + son-of-frankenstein + black-friday-1940 + youll-find-out
+# (bela-lugosi.yaml), house-of-frankenstein (john-carradine.yaml), the-body-snatcher
+# (robert-wise.yaml), the-raven-1963 (aip.yaml), targets (laszlo-kovacs.yaml).
+# Disambiguated behind-the-mask-1932, the-miracle-man-1932, the-walking-dead-1936,
+# juggernaut-1936, tower-of-london-1939, the-ape-1940, the-secret-life-of-walter-mitty-1947,
+# the-terror-1963. Excluded: serials (King of the Kongo, King of the Wild, The Vanishing
+# Legion), uncredited or disputed parts (Smart Money, Mothers Cry, The Last Parade), cut scenes
+# (Alias the Doctor), appearances as himself (The Cohens and Kellys in Hollywood, Gift of Gab),
+# narration-only credits (The Emperor's Nightingale, The Juggler of Our Lady, The Creation of
+# the World, Mondo Balordo), Colonel March Investigates (assembled from TV episodes), and
+# films that only reuse old footage of him.
 
 - id: frankenstein-1931
   tmdb_id: 3035
@@ -70,3 +88,663 @@
   genres:
     - Horror
     - Thriller
+
+- id: the-criminal-code
+  tmdb_id: 42815
+  title: The Criminal Code
+  year: 1931
+  runtime: 97
+  director: Howard Hawks
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: the-criminal-code
+
+- id: five-star-final
+  tmdb_id: 42669
+  title: Five Star Final
+  year: 1931
+  runtime: 89
+  director: Mervyn LeRoy
+  tags: { opacity: 1, stillness: 1, bleakness: 4, humor: 2, acclaim: 0.7 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: five-star-final
+
+- id: the-mad-genius
+  tmdb_id: 156329
+  title: The Mad Genius
+  year: 1931
+  runtime: 81
+  director: Michael Curtiz
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: the-mad-genius
+
+- id: behind-the-mask-1932
+  tmdb_id: 28305
+  title: Behind the Mask
+  year: 1932
+  runtime: 68
+  director: John Francis Dillon
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: behind-the-mask-1932
+
+- id: night-world
+  tmdb_id: 266279
+  title: Night World
+  year: 1932
+  runtime: 58
+  director: Hobart Henley
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 2, acclaim: 0.5 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  letterboxd_slug: night-world
+
+- id: the-miracle-man-1932
+  tmdb_id: 209773
+  title: The Miracle Man
+  year: 1932
+  runtime: 85
+  director: Norman Z. McLeod
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.4 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: the-miracle-man-1932
+
+- id: business-and-pleasure
+  tmdb_id: 247776
+  title: Business and Pleasure
+  year: 1932
+  runtime: 77
+  director: David Butler
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: business-and-pleasure
+
+- id: the-ghoul
+  tmdb_id: 28046
+  title: The Ghoul
+  year: 1933
+  runtime: 77
+  director: T. Hayes Hunter
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.5 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: the-ghoul
+
+- id: the-lost-patrol
+  tmdb_id: 46910
+  title: The Lost Patrol
+  year: 1934
+  runtime: 73
+  director: John Ford
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: the-lost-patrol
+
+- id: the-house-of-rothschild
+  tmdb_id: 57035
+  title: The House of Rothschild
+  year: 1934
+  runtime: 88
+  director: Alfred L. Werker
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.6 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: the-house-of-rothschild
+
+- id: the-black-room
+  tmdb_id: 27003
+  title: The Black Room
+  year: 1935
+  runtime: 70
+  director: Roy William Neill
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.6 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: the-black-room
+
+- id: the-walking-dead-1936
+  tmdb_id: 27115
+  title: The Walking Dead
+  year: 1936
+  runtime: 66
+  director: Michael Curtiz
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: the-walking-dead-1936
+
+- id: juggernaut-1936
+  tmdb_id: 30639
+  title: Juggernaut
+  year: 1936
+  runtime: 64
+  director: Henry Edwards
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.3 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: juggernaut-1936
+
+- id: the-man-who-changed-his-mind
+  tmdb_id: 30640
+  title: The Man Who Changed His Mind
+  year: 1936
+  runtime: 66
+  director: Robert Stevenson
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 2, acclaim: 0.6 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: the-man-who-changed-his-mind
+
+- id: charlie-chan-at-the-opera
+  tmdb_id: 28044
+  title: Charlie Chan at the Opera
+  year: 1936
+  runtime: 68
+  director: H. Bruce Humberstone
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.6 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: charlie-chan-at-the-opera
+
+- id: night-key
+  tmdb_id: 28045
+  title: Night Key
+  year: 1937
+  runtime: 68
+  director: Lloyd Corrigan
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: night-key
+
+- id: west-of-shanghai
+  tmdb_id: 177317
+  title: West of Shanghai
+  year: 1937
+  runtime: 64
+  director: John Farrow
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: west-of-shanghai
+
+- id: the-invisible-menace
+  tmdb_id: 189279
+  title: The Invisible Menace
+  year: 1938
+  runtime: 55
+  director: John Farrow
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.3 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: the-invisible-menace
+
+- id: mr-wong-detective
+  tmdb_id: 23255
+  title: "Mr. Wong, Detective"
+  year: 1938
+  runtime: 69
+  director: William Nigh
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 1, acclaim: 0.4 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: mr-wong-detective
+
+- id: devils-island
+  tmdb_id: 30306
+  title: "Devil's Island"
+  year: 1939
+  runtime: 62
+  director: William Clemens
+  tags: { opacity: 1, stillness: 1, bleakness: 4, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: devils-island
+
+- id: the-mystery-of-mr-wong
+  tmdb_id: 59703
+  title: The Mystery of Mr. Wong
+  year: 1939
+  runtime: 68
+  director: William Nigh
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 1, acclaim: 0.4 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: the-mystery-of-mr-wong
+
+- id: mr-wong-in-chinatown
+  tmdb_id: 59701
+  title: Mr. Wong in Chinatown
+  year: 1939
+  runtime: 71
+  director: William Nigh
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 1, acclaim: 0.4 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: mr-wong-in-chinatown
+
+- id: the-man-they-could-not-hang
+  tmdb_id: 26925
+  title: The Man They Could Not Hang
+  year: 1939
+  runtime: 64
+  director: Nick Grinde
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: the-man-they-could-not-hang
+
+- id: tower-of-london-1939
+  tmdb_id: 28365
+  title: Tower of London
+  year: 1939
+  runtime: 92
+  director: Rowland V. Lee
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.6 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: tower-of-london-1939
+
+- id: british-intelligence
+  tmdb_id: 51787
+  title: British Intelligence
+  year: 1940
+  runtime: 61
+  director: Terry O. Morse
+  tags: { opacity: 2, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: british-intelligence
+
+- id: the-fatal-hour
+  tmdb_id: 59706
+  title: The Fatal Hour
+  year: 1940
+  runtime: 68
+  director: William Nigh
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 1, acclaim: 0.4 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: the-fatal-hour
+
+- id: the-man-with-nine-lives
+  tmdb_id: 26924
+  title: The Man with Nine Lives
+  year: 1940
+  runtime: 74
+  director: Nick Grinde
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.5 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: the-man-with-nine-lives
+
+- id: doomed-to-die
+  tmdb_id: 22965
+  title: Doomed to Die
+  year: 1940
+  runtime: 68
+  director: William Nigh
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: doomed-to-die
+
+- id: before-i-hang
+  tmdb_id: 26923
+  title: Before I Hang
+  year: 1940
+  runtime: 62
+  director: Nick Grinde
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.5 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: before-i-hang
+
+- id: the-ape-1940
+  tmdb_id: 37426
+  title: The Ape
+  year: 1940
+  runtime: 62
+  director: William Nigh
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.3 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: the-ape-1940
+
+- id: the-devil-commands
+  tmdb_id: 30307
+  title: The Devil Commands
+  year: 1941
+  runtime: 65
+  director: Edward Dmytryk
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: the-devil-commands
+
+- id: the-boogie-man-will-get-you
+  tmdb_id: 30342
+  title: The Boogie Man Will Get You
+  year: 1942
+  runtime: 66
+  director: Lew Landers
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.4 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: the-boogie-man-will-get-you
+
+- id: the-climax
+  tmdb_id: 39407
+  title: The Climax
+  year: 1944
+  runtime: 86
+  director: George Waggner
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.4 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: the-climax
+
+- id: isle-of-the-dead
+  tmdb_id: 30348
+  title: Isle of the Dead
+  year: 1945
+  runtime: 72
+  director: Mark Robson
+  tags: { opacity: 2, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: isle-of-the-dead
+
+- id: bedlam
+  tmdb_id: 24111
+  title: Bedlam
+  year: 1946
+  runtime: 79
+  director: Mark Robson
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 2, acclaim: 0.7 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: bedlam
+
+- id: the-secret-life-of-walter-mitty-1947
+  tmdb_id: 40092
+  title: The Secret Life of Walter Mitty
+  year: 1947
+  runtime: 110
+  director: Norman Z. McLeod
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.6 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: the-secret-life-of-walter-mitty-1947
+
+- id: lured
+  tmdb_id: 30308
+  title: Lured
+  year: 1947
+  runtime: 102
+  director: Douglas Sirk
+  tags: { opacity: 2, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: lured
+
+- id: unconquered
+  tmdb_id: 72241
+  title: Unconquered
+  year: 1947
+  runtime: 146
+  director: Cecil B. DeMille
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.5 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: unconquered
+
+- id: dick-tracy-meets-gruesome
+  tmdb_id: 70702
+  title: Dick Tracy Meets Gruesome
+  year: 1947
+  runtime: 65
+  director: John Rawlins
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 2, acclaim: 0.5 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: dick-tracy-meets-gruesome
+
+- id: tap-roots
+  tmdb_id: 30665
+  title: Tap Roots
+  year: 1948
+  runtime: 109
+  director: George Marshall
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.4 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: tap-roots
+
+- id: abbott-and-costello-meet-the-killer-boris-karloff
+  tmdb_id: 33477
+  title: "Abbott and Costello Meet the Killer, Boris Karloff"
+  year: 1949
+  runtime: 84
+  director: Charles Barton
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: abbott-and-costello-meet-the-killer-boris-karloff
+
+- id: the-strange-door
+  tmdb_id: 39409
+  title: The Strange Door
+  year: 1951
+  runtime: 81
+  director: Joseph Pevney
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: the-strange-door
+
+- id: the-black-castle
+  tmdb_id: 30345
+  title: The Black Castle
+  year: 1952
+  runtime: 82
+  director: Nathan Juran
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: the-black-castle
+
+- id: abbott-and-costello-meet-dr-jekyll-and-mr-hyde
+  tmdb_id: 3023
+  title: Abbott and Costello Meet Dr. Jekyll and Mr. Hyde
+  year: 1953
+  runtime: 76
+  director: Charles Lamont
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: abbott-and-costello-meet-dr-jekyll-and-mr-hyde
+
+- id: sabaka
+  tmdb_id: 281449
+  title: Sabaka
+  year: 1955
+  runtime: 81
+  director: Frank Ferrin
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.2 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: sabaka
+
+- id: the-island-monster
+  tmdb_id: 65380
+  title: The Island Monster
+  year: 1954
+  runtime: 87
+  director: Roberto Bianchi Montero
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.15 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: the-island-monster
+
+- id: voodoo-island
+  tmdb_id: 38260
+  title: Voodoo Island
+  year: 1957
+  runtime: 76
+  director: Reginald Le Borg
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.25 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: voodoo-island
+
+- id: the-haunted-strangler
+  tmdb_id: 86667
+  title: The Haunted Strangler
+  year: 1958
+  runtime: 78
+  director: Robert Day
+  tags: { opacity: 2, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: the-haunted-strangler
+
+- id: frankenstein-1970
+  tmdb_id: 3164
+  title: Frankenstein 1970
+  year: 1958
+  runtime: 83
+  director: Howard W. Koch
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.3 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: frankenstein-1970
+
+- id: corridors-of-blood
+  tmdb_id: 30637
+  title: Corridors of Blood
+  year: 1958
+  runtime: 86
+  director: Robert Day
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.6 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: corridors-of-blood
+
+- id: the-terror-1963
+  tmdb_id: 31655
+  title: The Terror
+  year: 1963
+  runtime: 81
+  director: Roger Corman
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: the-terror
+
+- id: black-sabbath
+  tmdb_id: 28043
+  title: Black Sabbath
+  year: 1963
+  runtime: 92
+  director: Mario Bava
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: black-sabbath
+
+- id: the-comedy-of-terrors
+  tmdb_id: 29486
+  title: The Comedy of Terrors
+  year: 1964
+  runtime: 84
+  director: Jacques Tourneur
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: the-comedy-of-terrors
+
+- id: bikini-beach
+  tmdb_id: 39113
+  title: Bikini Beach
+  year: 1964
+  runtime: 99
+  director: William Asher
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.3 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: bikini-beach
+
+- id: die-monster-die
+  tmdb_id: 29067
+  title: "Die, Monster, Die!"
+  year: 1965
+  runtime: 80
+  director: Daniel Haller
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.4 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: die-monster-die
+
+- id: the-ghost-in-the-invisible-bikini
+  tmdb_id: 86343
+  title: The Ghost in the Invisible Bikini
+  year: 1966
+  runtime: 82
+  director: Don Weis
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.2 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: the-ghost-in-the-invisible-bikini
+
+- id: the-daydreamer
+  tmdb_id: 83811
+  title: The Daydreamer
+  year: 1966
+  runtime: 101
+  director: Jules Bass
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 2, acclaim: 0.4 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: the-daydreamer
+
+- id: the-venetian-affair
+  tmdb_id: 79367
+  title: The Venetian Affair
+  year: 1966
+  runtime: 92
+  director: Jerry Thorpe
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: the-venetian-affair
+
+- id: mad-monster-party
+  tmdb_id: 17278
+  title: "Mad Monster Party?"
+  year: 1967
+  runtime: 94
+  director: Jules Bass
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.6 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: mad-monster-party
+
+- id: the-sorcerers
+  tmdb_id: 73203
+  title: The Sorcerers
+  year: 1967
+  runtime: 86
+  director: Michael Reeves
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  letterboxd_slug: the-sorcerers
+
+- id: curse-of-the-crimson-altar
+  tmdb_id: 28073
+  title: Curse of the Crimson Altar
+  year: 1968
+  runtime: 87
+  director: Vernon Sewell
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.3 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  letterboxd_slug: curse-of-the-crimson-altar
+
+- id: cauldron-of-blood
+  tmdb_id: 87472
+  title: Cauldron of Blood
+  year: 1968
+  runtime: 95
+  director: Santos Alcocer
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.15 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: cauldron-of-blood
+
+- id: house-of-evil
+  tmdb_id: 80655
+  title: House of Evil
+  year: 1968
+  runtime: 89
+  director: Juan Ibáñez
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.15 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: house-of-evil
+
+- id: fear-chamber
+  tmdb_id: 49439
+  title: Fear Chamber
+  year: 1968
+  runtime: 88
+  director: Juan Ibáñez
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.1 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  letterboxd_slug: fear-chamber
+
+- id: isle-of-the-snake-people
+  tmdb_id: 50688
+  title: Isle of the Snake People
+  year: 1970
+  runtime: 90
+  director: Juan Ibáñez
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.1 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  letterboxd_slug: isle-of-the-snake-people
+
+- id: the-incredible-invasion
+  tmdb_id: 42523
+  title: The Incredible Invasion
+  year: 1971
+  runtime: 90
+  director: Juan Ibáñez
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.1 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: alien-terror
