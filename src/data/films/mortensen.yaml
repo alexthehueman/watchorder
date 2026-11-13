@@ -3,23 +3,6 @@
 # A History of Violence and Eastern Promises already exist in cronenberg.yaml — tagged before he
 # had an entity.
 
-- id: the-lord-of-the-rings-the-fellowship-of-the-ring
-  tmdb_id: 120
-  title: The Lord of the Rings The Fellowship of the Ring
-  year: 2001
-  runtime: 178
-  director: Peter Jackson
-  tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.9 }
-  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
-  imdb_id: tt0120737
-  poster_url: https://m.media-amazon.com/images/M/MV5BNzIxMDQ2YTctNDY4MC00ZTRhLTk4ODQtMTVlOWY4NTdiYmMwXkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg
-  letterboxd_slug: the-lord-of-the-rings-the-fellowship-of-the-ring
-  letterboxd_rating: 4.39
-  genres:
-    - Adventure
-    - Action
-    - Fantasy
-
 - id: the-road
   tmdb_id: 20766
   title: The Road

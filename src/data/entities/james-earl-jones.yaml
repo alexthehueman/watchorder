@@ -4,7 +4,7 @@ name: James Earl Jones
 blurb: A voice of towering, unmistakable authority — the most famous villain in film history, and a warm, commanding presence in everything else.
 
 films:
-  - film: star-wars-a-new-hope
+  - film: star-wars
     signature: 5
     must_see: true
     showcase: 3
@@ -41,7 +41,7 @@ curated:
   curator: house
   rationale: The most iconic voice performance first, then the range of warmth and command around it.
   order:
-    - star-wars-a-new-hope
+    - star-wars
     - field-of-dreams
     - coming-to-america
     - the-hunt-for-red-october

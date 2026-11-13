@@ -284,21 +284,6 @@
     - Drama
   letterboxd_rating: 2.77
 
-- id: last-action-hero
-  tmdb_id: 9593
-  title: Last Action Hero
-  year: 1993
-  runtime: 130
-  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.55 }
-  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
-  letterboxd_slug: last-action-hero
-  poster_url: https://a.ltrbxd.com/resized/sm/upload/ts/2x/3g/2y/last-action-hero-110-1200-1200-675-675-crop-000000.jpg?v=fff8ef5972
-  genres:
-    - Fantasy
-    - Comedy
-    - Action
-  letterboxd_rating: 3.44
-
 - id: a-walk-in-the-clouds
   tmdb_id: 9560
   title: A Walk in the Clouds

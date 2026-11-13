@@ -21,7 +21,7 @@ films:
     gateway: 4
     note: A composed, relentless vampire hunter methodically closing in on his prey, playing controlled, unhurried resolve.
 
-  - film: star-wars-a-new-hope
+  - film: star-wars
     signature: 4
     showcase: 3
     role_size: supporting
@@ -51,6 +51,6 @@ curated:
   order:
     - the-curse-of-frankenstein
     - horror-of-dracula
-    - star-wars-a-new-hope
+    - star-wars
     - frankenstein-created-woman
     - the-skull

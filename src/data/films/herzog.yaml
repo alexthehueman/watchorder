@@ -149,22 +149,6 @@
   genres:
     - Documentary
 
-- id: bad-lieutenant-port-of-call-new-orleans
-  tmdb_id: 11699
-  title: Bad Lieutenant - Port of Call New Orleans
-  year: 2009
-  runtime: 122
-  director: Werner Herzog
-  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 3, acclaim: 0.75 }
-  content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 2 }
-  imdb_id: tt1095217
-  poster_url: https://m.media-amazon.com/images/M/MV5BMTcyMzY0NTMzMF5BMl5BanBnXkFtZTcwMTc1MjY4Mg@@._V1_SX300.jpg
-  letterboxd_slug: bad-lieutenant-port-of-call-new-orleans
-  letterboxd_rating: 3.61
-  genres:
-    - Crime
-    - Drama
-
 - id: cave-of-forgotten-dreams
   tmdb_id: 59490
   title: Cave of Forgotten Dreams

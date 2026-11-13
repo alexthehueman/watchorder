@@ -4,7 +4,7 @@ name: Carrie Fisher
 blurb: A sharp-witted, fierce screen presence that defined a generation's idea of a princess who didn't need rescuing, with real comic bite everywhere else.
 
 films:
-  - film: star-wars-a-new-hope
+  - film: star-wars
     signature: 5
     must_see: true
     showcase: 5
@@ -41,7 +41,7 @@ curated:
   curator: house
   rationale: The most iconic role first, then its most acclaimed sequel, then the range around both.
   order:
-    - star-wars-a-new-hope
+    - star-wars
     - the-empire-strikes-back
     - return-of-the-jedi
     - when-harry-met-sally

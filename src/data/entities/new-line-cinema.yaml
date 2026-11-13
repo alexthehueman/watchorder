@@ -22,7 +22,7 @@ films:
     gateway: 2
     note: The final battle for Middle-earth converges on Minas Tirith while Frodo and Sam make the last, hardest leg of the journey into Mordor alone.
 
-  - film: the-lord-of-the-rings-the-fellowship-of-the-ring
+  - film: fellowship-of-the-ring
     era: middle-earth
     signature: 5
     must_see: true
@@ -75,7 +75,7 @@ curated:
   curator: house
   rationale: The two films that define the reputation, then the range around them.
   order:
-    - the-lord-of-the-rings-the-fellowship-of-the-ring
+    - fellowship-of-the-ring
     - se7en
     - a-nightmare-on-elm-street
     - the-return-of-the-king

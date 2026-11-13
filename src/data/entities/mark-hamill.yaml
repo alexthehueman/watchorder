@@ -13,7 +13,7 @@ films:
     gateway: 5
     note: A young hero pushed to his limits, losing a hand and discovering a devastating truth about his family, playing raw, shattering realization.
 
-  - film: star-wars-a-new-hope
+  - film: star-wars
     signature: 5
     showcase: 4
     role_size: lead
@@ -42,6 +42,6 @@ curated:
   rationale: The most acclaimed entry first, then the role that started it, then the range around both.
   order:
     - the-empire-strikes-back
-    - star-wars-a-new-hope
+    - star-wars
     - return-of-the-jedi
     - corvette-summer

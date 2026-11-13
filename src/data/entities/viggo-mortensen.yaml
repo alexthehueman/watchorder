@@ -13,7 +13,7 @@ films:
     gateway: 3
     note: A small-town diner owner whose act of violent self-defense exposes a past identity he's spent years burying from his own family.
 
-  - film: the-lord-of-the-rings-the-fellowship-of-the-ring
+  - film: fellowship-of-the-ring
     signature: 5
     must_see: true
     showcase: 4
@@ -66,7 +66,7 @@ curated:
   curator: house
   rationale: The two performances that show the range of the weathered nobility first, then everywhere it turns unstable.
   order:
-    - the-lord-of-the-rings-the-fellowship-of-the-ring
+    - fellowship-of-the-ring
     - green-book
     - captain-fantastic
     - the-road

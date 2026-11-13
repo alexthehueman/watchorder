@@ -4,7 +4,7 @@ name: Harrison Ford
 blurb: A weary, wisecracking reluctance that turned two of the biggest franchises in movie history into believable human-scale stories, and that reads just as well in a much smaller room.
 
 films:
-  - film: star-wars-a-new-hope
+  - film: star-wars
     signature: 5
     must_see: true
     showcase: 3
@@ -74,7 +74,7 @@ curated:
   curator: house
   rationale: The two roles that made him a movie star, then the range underneath the two franchises built on them.
   order:
-    - star-wars-a-new-hope
+    - star-wars
     - raiders-of-the-lost-ark
     - working-girl
     - witness
