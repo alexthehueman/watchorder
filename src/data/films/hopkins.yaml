@@ -685,19 +685,6 @@
     - Mystery
   letterboxd_rating: 3.36
 
-- id: hamlet-1969-hopkins
-  tmdb_id: 42605
-  title: Hamlet
-  year: 1969
-  runtime: 117
-  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.50 }
-  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 0 }
-  letterboxd_slug: hamlet-1969
-  poster_url: https://a.ltrbxd.com/resized/film-poster/2/2/4/8/1/22481-hamlet-0-230-0-345-crop.jpg?v=81f2b0b5b3
-  genres:
-    - Drama
-  letterboxd_rating: 3.4
-
 - id: hearts-in-atlantis
   tmdb_id: 11313
   title: Hearts in Atlantis
