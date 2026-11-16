@@ -145,27 +145,6 @@
   genres:
     - Drama
 
-- id: what-ever-happened-to-baby-jane
-  tmdb_id: 10242
-  title: What Ever Happened to Baby Jane?
-  year: 1962
-  runtime: 134
-  director: Robert Aldrich
-  tags:
-    opacity: 2
-    stillness: 3
-    bleakness: 5
-    humor: 3 # grotesque and genuinely funny, which is why it invented a genre
-    acclaim: 0.85
-  content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 0 }
-  imdb_id: tt0056687
-  poster_url: https://m.media-amazon.com/images/M/MV5BMmQ0MjAwOGUtZjUzNy00MzQ1LWJkZGYtNWNhOGVjNzA2MTRjXkEyXkFqcGc@._V1_SX300.jpg
-  letterboxd_slug: what-ever-happened-to-baby-jane
-  letterboxd_rating: 4.2
-  genres:
-    - Thriller
-    - Horror
-
 - id: the-great-lie
   tmdb_id: 43705
   title: The Great Lie
