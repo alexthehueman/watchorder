@@ -1,5 +1,23 @@
 # New films for Brad Pitt. Scales and anchors are in README.md ("The anchor rubric").
 #
+# Free wins (verified by matching tmdb_id): true-romance (oldman.yaml),
+# interview-with-the-vampire (dunst.yaml), legends-of-the-fall (john-toll.yaml), the-devils-own
+# (alan-j-pakula.yaml), meet-joe-black (hopkins.yaml), snatch (jason-statham.yaml),
+# oceans-twelve (cassel.yaml), oceans-thirteen (pacino.yaml), the-assassination-of-jesse-james
+# (roger-deakins.yaml), burn-after-reading (mcdormand.yaml),
+# the-curious-case-of-benjamin-button (henson.yaml), megamind (stiller.yaml), 12-years-a-slave
+# (fassbender.yaml), the-counselor (bardem.yaml), by-the-sea (jolie.yaml), the-big-short
+# (bale.yaml), war-machine (anthony-michael-hall.yaml), ad-astra (hoyte-van-hoytema.yaml),
+# plus thelma-and-louise (sarandon.yaml), mr-and-mrs-smith (jolie.yaml), babel
+# (alejandro-inarritu.yaml) and babylon (damien-chazelle.yaml), matched on title and year
+# because their tmdb_id was missing or wrong (now corrected from his TMDB credit list).
+# Disambiguated happy-together-1989, fury-2014, the-lost-city-2022. Excluded: TV movies (A
+# Stoning in Fulham County, The Image, Too Young to Die, Two-Fisted Tales), uncredited bits
+# (Hunk, No Man's Land, Less Than Zero, Being John Malkovich, Abby Singer), appearances as
+# himself (Full Frontal), sight-gag cameos (Confessions of a Dangerous Mind, Deadpool 2),
+# narration-only credits, shorts and documentaries. Not yet released as of 2026-11-16: The
+# Adventures of Cliff Booth, The Riders.
+#
 # The Tree of Life, Inglourious Basterds and Once Upon a Time in Hollywood already exist in
 # malick.yaml and tarantino.yaml — three of his most significant roles, tagged before he had an
 # entity. Se7en is shared with morgan-freeman.yaml, tagged here since he's the audience's point of
@@ -93,3 +111,397 @@
   letterboxd_rating: 3.93
   genres:
     - Drama
+
+- id: cutting-class
+  tmdb_id: 21799
+  title: Cutting Class
+  year: 1989
+  runtime: 91
+  director: Rospo Pallenberg
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.25 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  letterboxd_slug: cutting-class
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/r0/gw/te/c2/hjHBXo1f1jOTlI1E5FL0DhsyxbV-1200-1200-675-675-crop-000000.jpg?v=5fea89b3cc
+  genres:
+    - Comedy
+    - Horror
+    - Mystery
+  letterboxd_rating: 2.5
+
+- id: happy-together-1989
+  tmdb_id: 55059
+  title: Happy Together
+  year: 1989
+  runtime: 96
+  director: Mel Damski
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.25 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug_hint: happy-together-1989
+  letterboxd_slug: happy-together-1989
+  poster_url: https://a.ltrbxd.com/resized/film-poster/1/9/2/9/4/4/192944-happy-together-0-230-0-345-crop.jpg?v=351b40252c
+  genres:
+    - Romance
+    - Comedy
+
+- id: the-dark-side-of-the-sun
+  tmdb_id: 26642
+  title: The Dark Side of the Sun
+  year: 1988
+  runtime: 101
+  director: Božidar Nikolić
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.2 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: the-dark-side-of-the-sun
+  poster_url: https://a.ltrbxd.com/resized/alternative-backdrop/3/5/1/6/2/tmdb/gCu63rvC4hirW4VmZVPYCVDmVgz-1200-1200-675-675-crop-000000.jpg?v=df9a64552a
+  genres:
+    - Drama
+    - Romance
+  letterboxd_rating: 2.76
+
+- id: across-the-tracks
+  tmdb_id: 48448
+  title: Across the Tracks
+  year: 1991
+  runtime: 100
+  director: Sandy Tung
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: across-the-tracks
+  poster_url: https://a.ltrbxd.com/resized/film-poster/1/7/0/7/8/17078-across-the-tracks-0-230-0-345-crop.jpg?v=85ddcad654
+  genres:
+    - Drama
+  letterboxd_rating: 2.87
+
+- id: johnny-suede
+  tmdb_id: 45145
+  title: Johnny Suede
+  year: 1991
+  runtime: 97
+  director: Tom DiCillo
+  tags: { opacity: 2, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.5 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  letterboxd_slug: johnny-suede
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/yr/ch/rx/5f/johnny%20suede-1200-1200-675-675-crop-000000.jpg?v=fe62c92051
+  genres:
+    - Romance
+    - Comedy
+  letterboxd_rating: 3.02
+
+- id: cool-world
+  tmdb_id: 14239
+  title: Cool World
+  year: 1992
+  runtime: 102
+  director: Ralph Bakshi
+  tags: { opacity: 2, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.2 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  letterboxd_slug: cool-world
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ym/fe/2c/8w/cool-world-1200-1200-675-675-crop-000000.jpg?v=c1e7ac2247
+  genres:
+    - Comedy
+    - Animation
+    - Fantasy
+  letterboxd_rating: 2.56
+
+- id: a-river-runs-through-it
+  tmdb_id: 293
+  title: A River Runs Through It
+  year: 1992
+  runtime: 123
+  director: Robert Redford
+  tags: { opacity: 1, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: a-river-runs-through-it
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/5g/if/oe/dx/riverrunsthroughit-1200-1200-675-675-crop-000000.jpg?v=74bb031574
+  genres:
+    - Drama
+  letterboxd_rating: 3.66
+
+- id: kalifornia
+  tmdb_id: 10909
+  title: Kalifornia
+  year: 1993
+  runtime: 117
+  director: Dominic Sena
+  tags: { opacity: 1, stillness: 1, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 2 }
+  letterboxd_slug: kalifornia
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/vb/3e/5a/eb/kalifornia-1200-1200-675-675-crop-000000.jpg?v=3eb8c0b14f
+  genres:
+    - Thriller
+    - Crime
+  letterboxd_rating: 3.27
+
+- id: the-favor
+  tmdb_id: 50463
+  title: The Favor
+  year: 1994
+  runtime: 97
+  director: Donald Petrie
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.3 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: the-favor
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/9c/nl/8q/9z/o43OBkuXHtfyl05CaxwqbOVdjf7-1200-1200-675-675-crop-000000.jpg?v=23e1dfb544
+  genres:
+    - Comedy
+    - Romance
+  letterboxd_rating: 2.57
+
+- id: sleepers
+  tmdb_id: 819
+  title: Sleepers
+  year: 1996
+  runtime: 147
+  director: Barry Levinson
+  tags: { opacity: 1, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.6 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: sleepers
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/d2/nr/8u/yp/sleepers-1200-1200-675-675-crop-000000.jpg?v=1e6af75c40
+  genres:
+    - Drama
+    - Crime
+    - Thriller
+  letterboxd_rating: 3.82
+
+- id: seven-years-in-tibet
+  tmdb_id: 978
+  title: Seven Years in Tibet
+  year: 1997
+  runtime: 136
+  director: Jean-Jacques Annaud
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.5 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: seven-years-in-tibet
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/5b/z9/w0/ce/seven%20years-1200-1200-675-675-crop-000000.jpg?v=cf8c45e4c0
+  genres:
+    - Adventure
+    - Drama
+    - History
+  letterboxd_rating: 3.56
+
+- id: the-mexican
+  tmdb_id: 6073
+  title: The Mexican
+  year: 2001
+  runtime: 123
+  director: Gore Verbinski
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: the-mexican
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/84/au/my/7u/mexican-1200-1200-675-675-crop-000000.jpg?v=8b77c5f19b
+  genres:
+    - Crime
+    - Romance
+    - Comedy
+    - Action
+  letterboxd_rating: 3.06
+
+- id: spy-game
+  tmdb_id: 1535
+  title: Spy Game
+  year: 2001
+  runtime: 126
+  director: Tony Scott
+  tags: { opacity: 2, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.6 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: spy-game
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/lc/89/wi/4v/spy-game-1200-1200-675-675-crop-000000.jpg?v=f1f18ea833
+  genres:
+    - Thriller
+    - Crime
+    - Action
+  letterboxd_rating: 3.39
+
+- id: sinbad-legend-of-the-seven-seas
+  tmdb_id: 14411
+  title: "Sinbad: Legend of the Seven Seas"
+  year: 2003
+  runtime: 86
+  director: Tim Johnson
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: sinbad-legend-of-the-seven-seas
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ut/87/t9/3g/sinbad-legend-seven-seas-1200-1200-675-675-crop-000000.jpg?v=caead8cb60
+  genres:
+    - Fantasy
+    - Animation
+    - Family
+    - Action
+    - Adventure
+  letterboxd_rating: 3.58
+
+- id: troy
+  tmdb_id: 652
+  title: Troy
+  year: 2004
+  runtime: 163
+  director: Wolfgang Petersen
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.5 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+  letterboxd_slug: troy
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/e3/gm/qm/wd/troy-1200-1200-675-675-crop-000000.jpg?v=580e6f3adc
+  genres:
+    - Adventure
+    - Action
+  letterboxd_rating: 3.52
+
+- id: happy-feet-two
+  tmdb_id: 65759
+  title: Happy Feet Two
+  year: 2011
+  runtime: 100
+  director: George Miller
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.4 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: happy-feet-two
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/1p/wt/kb/nd/happy-feet-two-1200-1200-675-675-crop-000000.jpg?v=317726adf5
+  genres:
+    - Animation
+    - Family
+    - Comedy
+  letterboxd_rating: 2.69
+
+- id: killing-them-softly
+  tmdb_id: 64689
+  title: Killing Them Softly
+  year: 2012
+  runtime: 97
+  director: Andrew Dominik
+  tags: { opacity: 2, stillness: 2, bleakness: 5, humor: 2, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: killing-them-softly
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/00/rk/jc/rs/killing-them-softly-1200-1200-675-675-crop-000000.jpg?v=96de5a5650
+  genres:
+    - Thriller
+    - Crime
+  letterboxd_rating: 3.29
+
+- id: world-war-z
+  tmdb_id: 72190
+  title: World War Z
+  year: 2013
+  runtime: 116
+  director: Marc Forster
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: world-war-z
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/cy/4n/zn/vb/world-war-z-1200-1200-675-675-crop-000000.jpg?v=0f2cec9873
+  genres:
+    - Action
+    - Science Fiction
+    - Horror
+  letterboxd_rating: 3.24
+
+- id: fury-2014
+  tmdb_id: 228150
+  title: Fury
+  year: 2014
+  runtime: 135
+  director: David Ayer
+  tags: { opacity: 1, stillness: 1, bleakness: 5, humor: 1, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug_hint: fury-2014
+  letterboxd_slug: fury-2014
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/zg/v8/bc/29/fury-2014-1200-1200-675-675-crop-000000.jpg?v=b392265b15
+  genres:
+    - War
+    - Drama
+    - Action
+  letterboxd_rating: 3.84
+
+- id: allied
+  tmdb_id: 369885
+  title: Allied
+  year: 2016
+  runtime: 124
+  director: Robert Zemeckis
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.5 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  letterboxd_slug: allied
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/9t/jz/7a/d3/allied-1200-1200-675-675-crop-000000.jpg?v=a819761c87
+  genres:
+    - Thriller
+    - Drama
+    - Romance
+    - Action
+    - War
+  letterboxd_rating: 3.32
+
+- id: the-lost-city-2022
+  tmdb_id: 752623
+  title: The Lost City
+  year: 2022
+  runtime: 112
+  director: Aaron Nee
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug_hint: the-lost-city-2022
+  letterboxd_slug: the-lost-city-2022
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/tz/89/8o/jx/lost%20city-1200-1200-675-675-crop-000000.jpg?v=ac5a590ea6
+  genres:
+    - Adventure
+    - Action
+    - Comedy
+  letterboxd_rating: 2.72
+
+- id: bullet-train
+  tmdb_id: 718930
+  title: Bullet Train
+  year: 2022
+  runtime: 127
+  director: David Leitch
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.5 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug: bullet-train
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/t3/af/th/pg/bullet-train-1200-1200-675-675-crop-000000.jpg?v=2969760ad7
+  genres:
+    - Comedy
+    - Thriller
+    - Action
+  letterboxd_rating: 3.63
+
+- id: wolfs
+  tmdb_id: 877817
+  title: Wolfs
+  year: 2024
+  runtime: 108
+  director: Jon Watts
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: wolfs
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/qr/63/ws/jd/ulGCG6slLkfCGi0yVRtYSVV6TCO-1200-1200-675-675-crop-000000.jpg?v=f4f2af91ae
+  genres:
+    - Comedy
+    - Crime
+  letterboxd_rating: 3.13
+
+- id: f1
+  tmdb_id: 911430
+  title: F1
+  year: 2025
+  runtime: 156
+  director: Joseph Kosinski
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug_hint: f1
+  letterboxd_slug: f1
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/j8/ma/xb/4d/f1-1200-1200-675-675-crop-000000.jpg?v=4d478b1250
+  genres:
+    - Drama
+    - Action
+  letterboxd_rating: 3.65
+
+- id: heart-of-the-beast
+  tmdb_id: 1263337
+  title: Heart of the Beast
+  year: 2026
+  runtime: 101
+  director: David Ayer
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.5 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: heart-of-the-beast-2026
+  poster_url: https://a.ltrbxd.com/resized/alternative-backdrop/1/1/4/7/4/6/8/tmdb/bicMU6xVD5deVyKP2azpyx7xkmH-1200-1200-675-675-crop-000000.jpg?v=33c9689044
+  genres:
+    - Adventure
+    - Thriller
+  letterboxd_rating: 3.29
