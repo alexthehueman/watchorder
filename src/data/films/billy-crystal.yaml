@@ -74,10 +74,12 @@
   director: Joan Rivers
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.15 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
-  letterboxd_slug: rabbit-test
+  letterboxd_slug_hint: rabbit-test
   genres:
     - Comedy
   letterboxd_rating: 2.62
+  letterboxd_slug: rabbit-test
+  poster_url: https://a.ltrbxd.com/resized/film-poster/8/3/5/3/3/83533-rabbit-test-0-230-0-345-crop.jpg?v=404edaa94b
 
 - id: running-scared-1986
   tmdb_id: 15698
@@ -87,13 +89,15 @@
   director: Peter Hyams
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.5 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
-  letterboxd_slug: running-scared
+  letterboxd_slug_hint: running-scared
   genres:
     - Action
     - Comedy
     - Thriller
     - Crime
   letterboxd_rating: 3.24
+  letterboxd_slug: running-scared
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/9a/p4/kk/md/dVJBibP6PzGm2RsegzUMLDjk8Uc-1200-1200-675-675-crop-000000.jpg?v=681ee515d4
 
 - id: memories-of-me
   tmdb_id: 107569
@@ -103,11 +107,13 @@
   director: Henry Winkler
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.35 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
-  letterboxd_slug: memories-of-me
+  letterboxd_slug_hint: memories-of-me
   genres:
     - Drama
     - Comedy
   letterboxd_rating: 3.15
+  letterboxd_slug: memories-of-me
+  poster_url: https://a.ltrbxd.com/resized/film-poster/8/6/6/7/5/86675-memories-of-me-0-230-0-345-crop.jpg?v=71b800a966
 
 - id: mr-saturday-night
   tmdb_id: 54087
@@ -117,11 +123,13 @@
   director: Billy Crystal
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.5 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
-  letterboxd_slug: mr-saturday-night
+  letterboxd_slug_hint: mr-saturday-night
   genres:
     - Comedy
     - Drama
   letterboxd_rating: 2.99
+  letterboxd_slug: mr-saturday-night
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/72/ne/6e/mb/yuulnDJhbzMKGwdFIIG9D1b7Udb-1200-1200-675-675-crop-000000.jpg?v=de14888cb7
 
 - id: city-slickers-ii-the-legend-of-curlys-gold
   tmdb_id: 11310
@@ -131,11 +139,13 @@
   director: Paul Weiland
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.3 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
-  letterboxd_slug: city-slickers-ii-the-legend-of-curlys-gold
+  letterboxd_slug_hint: city-slickers-ii-the-legend-of-curlys-gold
   genres:
     - Western
     - Comedy
   letterboxd_rating: 2.81
+  letterboxd_slug: city-slickers-ii-the-legend-of-curlys-gold
+  poster_url: https://a.ltrbxd.com/resized/alternative-backdrop/4/5/4/2/3/tmdb/kuq99XpsY2wyI0yMMNjK5pTLafY-1200-1200-675-675-crop-000000.jpg?v=bb693dcc58
 
 - id: forget-paris
   tmdb_id: 10525
@@ -145,12 +155,14 @@
   director: Billy Crystal
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.5 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
-  letterboxd_slug: forget-paris
+  letterboxd_slug_hint: forget-paris
   genres:
     - Drama
     - Comedy
     - Romance
   letterboxd_rating: 3.29
+  letterboxd_slug: forget-paris
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/dq/aw/1j/ji/forget-1200-1200-675-675-crop-000000.jpg?v=18cef9cb94
 
 - id: hamlet-1996
   tmdb_id: 10549
@@ -160,10 +172,12 @@
   director: Kenneth Branagh
   tags: { opacity: 2, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.8 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 2, sex: 1 }
-  letterboxd_slug: hamlet-1996
+  letterboxd_slug_hint: hamlet-1996
   genres:
     - Drama
   letterboxd_rating: 3.66
+  letterboxd_slug: hamlet-1996
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/xf/cm/pl/g0/hamlet-1996-1200-1200-675-675-crop-000000.jpg?v=ee1e7139f0
 
 - id: fathers-day
   tmdb_id: 12499
@@ -173,11 +187,13 @@
   director: Ivan Reitman
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.25 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
-  letterboxd_slug: fathers-day
+  letterboxd_slug_hint: fathers-day
   genres:
     - Comedy
     - Family
   letterboxd_rating: 2.67
+  letterboxd_slug: fathers-day
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/vi/6r/fx/ts/fathers-day-1200-1200-675-675-crop-000000.jpg?v=aefd988b78
 
 - id: deconstructing-harry
   tmdb_id: 2639
@@ -187,11 +203,13 @@
   director: Woody Allen
   tags: { opacity: 3, stillness: 2, bleakness: 3, humor: 4, acclaim: 0.7 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
-  letterboxd_slug: deconstructing-harry
+  letterboxd_slug_hint: deconstructing-harry
   genres:
     - Comedy
     - Drama
   letterboxd_rating: 3.71
+  letterboxd_slug: deconstructing-harry
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/z6/hu/rs/69/deconstructing-harry-1200-1200-675-675-crop-000000.jpg?v=bad5dab57c
 
 - id: my-giant
   tmdb_id: 47881
@@ -201,12 +219,14 @@
   director: Michael Lehmann
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.3 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
-  letterboxd_slug: my-giant
+  letterboxd_slug_hint: my-giant
   genres:
     - Drama
     - Family
     - Comedy
   letterboxd_rating: 2.52
+  letterboxd_slug: my-giant
+  poster_url: https://a.ltrbxd.com/resized/alternative-backdrop/1/7/5/5/2/tmdb/8toLbmbyR6x3zMaSHbgMFSVEIjm-1200-1200-675-675-crop-000000.jpg?v=6762ad3766
 
 - id: analyze-that
   tmdb_id: 9932
@@ -216,11 +236,13 @@
   director: Harold Ramis
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.3 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
-  letterboxd_slug: analyze-that
+  letterboxd_slug_hint: analyze-that
   genres:
     - Crime
     - Comedy
   letterboxd_rating: 2.85
+  letterboxd_slug: analyze-that
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/dl/z3/r7/4h/analyze-that-1200-1200-675-675-crop-000000.jpg?v=5d7836b01d
 
 - id: small-apartments
   tmdb_id: 95755
@@ -230,12 +252,14 @@
   director: Jonas Åkerlund
   tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.4 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: true, violence: 1, sex: 1 }
-  letterboxd_slug: small-apartments
+  letterboxd_slug_hint: small-apartments
   genres:
     - Comedy
     - Crime
     - Drama
   letterboxd_rating: 3.02
+  letterboxd_slug: small-apartments
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/5k/vn/g4/1h/small-1200-1200-675-675-crop-000000.jpg?v=2847800bfc
 
 - id: untogether
   tmdb_id: 424651
@@ -245,11 +269,13 @@
   director: Emma Forrest
   tags: { opacity: 2, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.3 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
-  letterboxd_slug: untogether
+  letterboxd_slug_hint: untogether
   genres:
     - Drama
     - Comedy
   letterboxd_rating: 2.81
+  letterboxd_slug: untogether
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ck/96/jy/vm/alZgHWJzAJF1PIAJIfRG7ppTUC0-1200-1200-675-675-crop-000000.jpg?v=071a2293f3
 
 - id: standing-up-falling-down
   tmdb_id: 597231
@@ -259,11 +285,13 @@
   director: Matt Ratner
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.6 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
-  letterboxd_slug: standing-up-falling-down
+  letterboxd_slug_hint: standing-up-falling-down
   genres:
     - Drama
     - Comedy
   letterboxd_rating: 3.38
+  letterboxd_slug: standing-up-falling-down
+  poster_url: https://a.ltrbxd.com/resized/alternative-backdrop/5/2/4/6/6/1/tmdb/jIVDhPyAt78IKKubOCCpAPQlV95-1200-1200-675-675-crop-000000.jpg?v=fb646f7d29
 
 - id: here-today
   tmdb_id: 711475
@@ -273,8 +301,10 @@
   director: Billy Crystal
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.45 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
-  letterboxd_slug: here-today
+  letterboxd_slug_hint: here-today
   genres:
     - Comedy
     - Drama
   letterboxd_rating: 2.96
+  letterboxd_slug: here-today
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/29/st/vf/xh/q9wyxbxLXifBetB04BBX5zxa4cq-1200-1200-675-675-crop-000000.jpg?v=628d9aed24

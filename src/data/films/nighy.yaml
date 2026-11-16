@@ -64,11 +64,13 @@
   director: Richard Marquand
   tags: { opacity: 3, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.6 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
-  letterboxd_slug: eye-of-the-needle
+  letterboxd_slug_hint: eye-of-the-needle
   genres:
     - Thriller
     - Drama
   letterboxd_rating: 3.51
+  letterboxd_slug: eye-of-the-needle
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/cm/xp/ml/o5/i1luKIoVFCRUq0RSCdjTOFnHTAe-1200-1200-675-675-crop-000000.jpg?v=6f87ae7d62
 
 - id: curse-of-the-pink-panther
   tmdb_id: 36576
@@ -78,12 +80,14 @@
   director: Blake Edwards
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.25 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
-  letterboxd_slug: curse-of-the-pink-panther
+  letterboxd_slug_hint: curse-of-the-pink-panther
   genres:
     - Crime
     - Comedy
     - Mystery
   letterboxd_rating: 2.28
+  letterboxd_slug: curse-of-the-pink-panther
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/1i/v1/00/x2/sUllOZF7URE9XdBWxcqXXDUMGWl-1200-1200-675-675-crop-000000.jpg?v=5595937986
 
 - id: the-little-drummer-girl
   tmdb_id: 32088
@@ -93,10 +97,12 @@
   director: George Roy Hill
   tags: { opacity: 3, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.45 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
-  letterboxd_slug: the-little-drummer-girl
+  letterboxd_slug_hint: the-little-drummer-girl
   genres:
     - Thriller
   letterboxd_rating: 3.01
+  letterboxd_slug: the-little-drummer-girl
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/33/e2/zu/1r/njFkzgo1yWVFdgizQag56pVMKlL-1200-1200-675-675-crop-000000.jpg?v=95d29554b4
 
 - id: mack-the-knife
   tmdb_id: 80874
@@ -106,12 +112,14 @@
   director: Menahem Golan
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.25 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
-  letterboxd_slug: mack-the-knife
+  letterboxd_slug_hint: mack-the-knife
   genres:
     - Crime
     - Comedy
     - Music
     - Romance
+  letterboxd_slug: mack-the-knife
+  poster_url: https://a.ltrbxd.com/resized/film-poster/6/7/3/0/1/67301-mack-the-knife-0-230-0-345-crop.jpg?v=f3eb2708b7
 
 - id: phantom-of-the-opera-1989
   tmdb_id: 86962
@@ -121,11 +129,13 @@
   director: Dwight H. Little
   tags: { opacity: 2, stillness: 1, bleakness: 4, humor: 1, acclaim: 0.35 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
-  letterboxd_slug: the-phantom-of-the-opera-1989
+  letterboxd_slug_hint: the-phantom-of-the-opera-1989
   genres:
     - Romance
     - Horror
   letterboxd_rating: 2.9
+  letterboxd_slug: the-phantom-of-the-opera-1989
+  poster_url: https://a.ltrbxd.com/resized/alternative-backdrop/7/3/5/6/6/tmdb/cO14hZqBv6wO22RLZyxA8fLHXBv-1200-1200-675-675-crop-000000.jpg?v=53842eee46
 
 - id: being-human-1994
   tmdb_id: 46924
@@ -135,12 +145,14 @@
   director: Bill Forsyth
   tags: { opacity: 2, stillness: 3, bleakness: 3, humor: 2, acclaim: 0.35 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
-  letterboxd_slug: being-human
+  letterboxd_slug_hint: being-human
   genres:
     - Comedy
     - Drama
     - Fantasy
   letterboxd_rating: 2.95
+  letterboxd_slug: being-human
+  poster_url: https://a.ltrbxd.com/resized/film-poster/1/8/4/4/2/18442-being-human-0-230-0-345-crop.jpg?v=ccf4995e14
 
 - id: alive-and-kicking-1996
   tmdb_id: 172545
@@ -150,10 +162,12 @@
   director: Nancy Meckler
   tags: { opacity: 2, stillness: 3, bleakness: 4, humor: 2, acclaim: 0.45 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
-  letterboxd_slug: alive-and-kicking
+  letterboxd_slug_hint: alive-and-kicking
   genres:
     - Comedy
     - Drama
+  letterboxd_slug: alive-and-kicking
+  poster_url: https://a.ltrbxd.com/resized/film-poster/1/2/6/5/9/0/126590-alive-and-kicking-0-230-0-345-crop.jpg?v=f9da7fc752
 
 - id: true-blue
   tmdb_id: 39463
@@ -163,12 +177,14 @@
   director: Ferdinand Fairfax
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.35 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
-  letterboxd_slug: true-blue
+  letterboxd_slug_hint: true-blue
   genres:
     - Crime
     - Thriller
     - Mystery
     - Drama
+  letterboxd_slug: true-blue-1996
+  poster_url: https://a.ltrbxd.com/resized/film-poster/2/5/2/2/3/25223-true-blue-1996-0-230-0-345-crop.jpg?v=91ba92a13f
 
 - id: fairytale-a-true-story
   tmdb_id: 29911
@@ -178,13 +194,15 @@
   director: Charles Sturridge
   tags: { opacity: 2, stillness: 2, bleakness: 1, humor: 2, acclaim: 0.5 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
-  letterboxd_slug: fairytale-a-true-story
+  letterboxd_slug_hint: fairytale-a-true-story
   genres:
     - Family
     - Fantasy
     - Drama
     - Mystery
   letterboxd_rating: 3.34
+  letterboxd_slug: fairytale-a-true-story
+  poster_url: https://a.ltrbxd.com/resized/alternative-backdrop/3/2/4/3/9/tmdb/qUWr7fJRsiccFcOAKvIJV30gZsP-1200-1200-675-675-crop-000000.jpg?v=68fd260884
 
 - id: still-crazy
   tmdb_id: 1618
@@ -194,11 +212,13 @@
   director: Brian Gibson
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 4, acclaim: 0.65 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
-  letterboxd_slug: still-crazy
+  letterboxd_slug_hint: still-crazy
   genres:
     - Comedy
     - Music
   letterboxd_rating: 3.39
+  letterboxd_slug: still-crazy
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ti/wu/lq/y2/v2GLfRmedv7SQzaF1s8kpOMwIRz-1200-1200-675-675-crop-000000.jpg?v=8c076abfb7
 
 - id: guest-house-paradiso
   tmdb_id: 10482
@@ -208,10 +228,12 @@
   director: Adrian Edmondson
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.25 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
-  letterboxd_slug: guest-house-paradiso
+  letterboxd_slug_hint: guest-house-paradiso
   genres:
     - Comedy
   letterboxd_rating: 3.11
+  letterboxd_slug: guest-house-paradiso
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/k6/2s/3l/85/guest-house-paradiso-1200-1200-675-675-crop-000000.jpg?v=a91babe2e2
 
 - id: lucky-break
   tmdb_id: 35944
@@ -221,11 +243,13 @@
   director: Peter Cattaneo
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.45 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
-  letterboxd_slug: lucky-break
+  letterboxd_slug_hint: lucky-break
   genres:
     - Crime
     - Comedy
   letterboxd_rating: 3.26
+  letterboxd_slug: lucky-break
+  poster_url: https://a.ltrbxd.com/resized/film-poster/2/8/3/1/4/28314-lucky-break-0-230-0-345-crop.jpg?v=bcafa7abc6
 
 - id: lawless-heart
   tmdb_id: 77283
@@ -235,12 +259,14 @@
   director: Tom Hunsinger
   tags: { opacity: 2, stillness: 3, bleakness: 3, humor: 2, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
-  letterboxd_slug: lawless-heart
+  letterboxd_slug_hint: lawless-heart
   genres:
     - Drama
     - Romance
     - Comedy
   letterboxd_rating: 3.35
+  letterboxd_slug: lawless-heart
+  poster_url: https://a.ltrbxd.com/resized/film-poster/6/3/7/2/5/63725-lawless-heart-0-230-0-345-crop.jpg?v=11e9c19830
 
 - id: aka-2002
   tmdb_id: 43657
@@ -250,9 +276,11 @@
   director: Duncan Roy
   tags: { opacity: 3, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.5 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 2 }
-  letterboxd_slug: aka
+  letterboxd_slug_hint: aka
   genres:
     - Drama
+  letterboxd_slug: aka
+  poster_url: https://a.ltrbxd.com/resized/film-poster/2/1/4/9/6/21496-aka-0-230-0-345-crop.jpg?v=3a46b42214
 
 - id: i-capture-the-castle
   tmdb_id: 17920
@@ -262,11 +290,13 @@
   director: Tim Fywell
   tags: { opacity: 2, stillness: 3, bleakness: 2, humor: 2, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
-  letterboxd_slug: i-capture-the-castle
+  letterboxd_slug_hint: i-capture-the-castle
   genres:
     - Romance
     - Drama
   letterboxd_rating: 3.27
+  letterboxd_slug: i-capture-the-castle
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/xo/qq/xv/9y/u3Tm49ROHdUu1Bwtxy236RrBeuu-1200-1200-675-675-crop-000000.jpg?v=b322127337
 
 - id: enduring-love
   tmdb_id: 9391
@@ -276,13 +306,15 @@
   director: Roger Michell
   tags: { opacity: 3, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.5 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
-  letterboxd_slug: enduring-love
+  letterboxd_slug_hint: enduring-love
   genres:
     - Romance
     - Thriller
     - Drama
     - Mystery
   letterboxd_rating: 3.22
+  letterboxd_slug: enduring-love
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/hs/gr/r1/u7/enduring-love-1200-1200-675-675-crop-000000.jpg?v=2817798ca4
 
 - id: the-magic-roundabout
   tmdb_id: 16455
@@ -292,13 +324,15 @@
   director: Dave Borthwick
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.35 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
-  letterboxd_slug: the-magic-roundabout
+  letterboxd_slug_hint: the-magic-roundabout
   genres:
     - Fantasy
     - Animation
     - Comedy
     - Family
   letterboxd_rating: 2.91
+  letterboxd_slug: the-magic-roundabout
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/xq/fu/ru/bs/magic-1200-1200-675-675-crop-000000.jpg?v=f492fe8464
 
 - id: flushed-away
   tmdb_id: 11619
@@ -308,13 +342,15 @@
   director: David Bowers
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.6 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
-  letterboxd_slug: flushed-away
+  letterboxd_slug_hint: flushed-away
   genres:
     - Family
     - Adventure
     - Comedy
     - Animation
   letterboxd_rating: 3.26
+  letterboxd_slug: flushed-away
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/hi/36/6p/bi/flushed-away-1200-1200-675-675-crop-000000.jpg?v=60ebd017d1
 
 - id: pirates-of-the-caribbean-dead-mans-chest
   tmdb_id: 58
@@ -324,12 +360,14 @@
   director: Gore Verbinski
   tags: { opacity: 2, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.6 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
-  letterboxd_slug: pirates-of-the-caribbean-dead-mans-chest
+  letterboxd_slug_hint: pirates-of-the-caribbean-dead-mans-chest
   genres:
     - Action
     - Adventure
     - Fantasy
   letterboxd_rating: 3.79
+  letterboxd_slug: pirates-of-the-caribbean-dead-mans-chest
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ux/m8/x2/yr/pirates-dead-mans-chest-80-1200-1200-675-675-crop-000000.jpg?v=f3e5f6d27c
 
 - id: stormbreaker
   tmdb_id: 9978
@@ -339,12 +377,14 @@
   director: Geoffrey Sax
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.3 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
-  letterboxd_slug: stormbreaker
+  letterboxd_slug_hint: stormbreaker
   genres:
     - Family
     - Adventure
     - Action
   letterboxd_rating: 2.3
+  letterboxd_slug: stormbreaker
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/g2/sd/ay/ov/alex-rider-1200-1200-675-675-crop-000000.jpg?v=19f557e28e
 
 - id: underworld-evolution
   tmdb_id: 834
@@ -354,12 +394,14 @@
   director: Len Wiseman
   tags: { opacity: 2, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.4 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
-  letterboxd_slug: underworld-evolution
+  letterboxd_slug_hint: underworld-evolution
   genres:
     - Fantasy
     - Thriller
     - Action
   letterboxd_rating: 2.91
+  letterboxd_slug: underworld-evolution
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/pa/li/j4/47/underword-evolution-1200-1200-675-675-crop-000000.jpg?v=48697464ca
 
 - id: pirates-of-the-caribbean-at-worlds-end
   tmdb_id: 285
@@ -369,12 +411,14 @@
   director: Gore Verbinski
   tags: { opacity: 2, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
-  letterboxd_slug: pirates-of-the-caribbean-at-worlds-end
+  letterboxd_slug_hint: pirates-of-the-caribbean-at-worlds-end
   genres:
     - Adventure
     - Action
     - Fantasy
   letterboxd_rating: 3.65
+  letterboxd_slug: pirates-of-the-caribbean-at-worlds-end
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/er/ay/4v/hh/pirates-at-worlds-end-80-1200-1200-675-675-crop-000000.jpg?v=20ddbd6d9f
 
 - id: astro-boy
   tmdb_id: 16577
@@ -384,13 +428,15 @@
   director: David Bowers
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.5 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
-  letterboxd_slug: astro-boy
+  letterboxd_slug_hint: astro-boy
   genres:
     - Science Fiction
     - Animation
     - Action
     - Family
   letterboxd_rating: 2.97
+  letterboxd_slug: astro-boy
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/o9/zh/rq/90/astro-boy-1200-1200-675-675-crop-000000.jpg?v=b3d54de467
 
 - id: g-force
   tmdb_id: 19585
@@ -400,7 +446,7 @@
   director: Hoyt Yeatman
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.25 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
-  letterboxd_slug: g-force
+  letterboxd_slug_hint: g-force
   genres:
     - Comedy
     - Family
@@ -408,6 +454,8 @@
     - Fantasy
     - Action
   letterboxd_rating: 2.39
+  letterboxd_slug: g-force
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/4j/gz/jr/bf/g-force-1200-1200-675-675-crop-000000.jpg?v=643b82c9ca
 
 - id: glorious-39
   tmdb_id: 35939
@@ -417,13 +465,15 @@
   director: Stephen Poliakoff
   tags: { opacity: 3, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.5 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
-  letterboxd_slug: glorious-39
+  letterboxd_slug_hint: glorious-39
   genres:
     - War
     - History
     - Drama
     - Thriller
   letterboxd_rating: 3.15
+  letterboxd_slug: glorious-39
+  poster_url: https://a.ltrbxd.com/resized/film-poster/2/8/3/1/8/28318-glorious-39-0-230-0-345-crop.jpg?v=08455692f0
 
 - id: the-boat-that-rocked
   tmdb_id: 18947
@@ -433,11 +483,13 @@
   director: Richard Curtis
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
-  letterboxd_slug: the-boat-that-rocked
+  letterboxd_slug_hint: the-boat-that-rocked
   genres:
     - Drama
     - Comedy
   letterboxd_rating: 3.65
+  letterboxd_slug: the-boat-that-rocked
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/mu/va/nd/kk/the-boat-that-rocked-1200-1200-675-675-crop-000000.jpg?v=c7a11b61f4
 
 - id: underworld-rise-of-the-lycans
   tmdb_id: 12437
@@ -447,12 +499,14 @@
   director: Patrick Tatopoulos
   tags: { opacity: 2, stillness: 1, bleakness: 4, humor: 1, acclaim: 0.45 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
-  letterboxd_slug: underworld-rise-of-the-lycans
+  letterboxd_slug_hint: underworld-rise-of-the-lycans
   genres:
     - Thriller
     - Action
     - Fantasy
   letterboxd_rating: 2.88
+  letterboxd_slug: underworld-rise-of-the-lycans
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/a5/pp/sv/ka/underworld-rise-or-lycans-170-1200-1200-675-675-crop-000000.jpg?v=238aea5267
 
 - id: wild-target
   tmdb_id: 44147
@@ -462,11 +516,13 @@
   director: Jonathan Lynn
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.45 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
-  letterboxd_slug: wild-target
+  letterboxd_slug_hint: wild-target
   genres:
     - Action
     - Comedy
   letterboxd_rating: 3.13
+  letterboxd_slug: wild-target
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/g5/o7/rg/hz/wild-1200-1200-675-675-crop-000000.jpg?v=ac379eeb71
 
 - id: chalet-girl
   tmdb_id: 58232
@@ -476,11 +532,13 @@
   director: Phil Traill
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.4 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
-  letterboxd_slug: chalet-girl
+  letterboxd_slug_hint: chalet-girl
   genres:
     - Comedy
     - Romance
   letterboxd_rating: 2.86
+  letterboxd_slug: chalet-girl
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/tr/ll/48/6n/cDUtL7jd3ns7KPkSEQjkyZGzsfE-1200-1200-675-675-crop-000000.jpg?v=ddd2225cff
 
 - id: arthur-christmas
   tmdb_id: 51052
@@ -490,13 +548,15 @@
   director: Sarah Smith
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.7 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
-  letterboxd_slug: arthur-christmas
+  letterboxd_slug_hint: arthur-christmas
   genres:
     - Animation
     - Drama
     - Family
     - Comedy
   letterboxd_rating: 3.55
+  letterboxd_slug: arthur-christmas
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/9y/zb/r7/lt/arthur-christmas-15-1200-1200-675-675-crop-000000.jpg?v=16c8e13d82
 
 - id: total-recall-2012
   tmdb_id: 64635
@@ -506,12 +566,14 @@
   director: Len Wiseman
   tags: { opacity: 2, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.45 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
-  letterboxd_slug: total-recall-2012
+  letterboxd_slug_hint: total-recall-2012
   genres:
     - Science Fiction
     - Thriller
     - Action
   letterboxd_rating: 2.56
+  letterboxd_slug: total-recall-2012
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/v5/58/ah/8w/total-recall-1200-1200-675-675-crop-000000.jpg?v=aaed5c03bd
 
 - id: wrath-of-the-titans
   tmdb_id: 57165
@@ -521,12 +583,14 @@
   director: Jonathan Liebesman
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.35 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
-  letterboxd_slug: wrath-of-the-titans
+  letterboxd_slug_hint: wrath-of-the-titans
   genres:
     - Action
     - Fantasy
     - Adventure
   letterboxd_rating: 2.38
+  letterboxd_slug: wrath-of-the-titans
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/bl/ud/zx/8t/wrath-of-the-titans-1200-1200-675-675-crop-000000.jpg?v=93026a11ca
 
 - id: i-frankenstein
   tmdb_id: 100241
@@ -536,11 +600,13 @@
   director: Stuart Beattie
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.25 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
-  letterboxd_slug: i-frankenstein
+  letterboxd_slug_hint: i-frankenstein
   genres:
     - Thriller
     - Horror
   letterboxd_rating: 1.82
+  letterboxd_slug: i-frankenstein
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/lo/8z/x1/u4/i-frankenstein-1200-1200-675-675-crop-000000.jpg?v=077a5664e8
 
 - id: the-second-best-exotic-marigold-hotel
   tmdb_id: 268238
@@ -550,11 +616,13 @@
   director: John Madden
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.5 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
-  letterboxd_slug: the-second-best-exotic-marigold-hotel
+  letterboxd_slug_hint: the-second-best-exotic-marigold-hotel
   genres:
     - Comedy
     - Drama
   letterboxd_rating: 3.16
+  letterboxd_slug: the-second-best-exotic-marigold-hotel
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/5j/xk/r3/y3/the-second-best-marigold-hotel-1200-1200-675-675-crop-000000.jpg?v=b1d6a5f24c
 
 - id: dads-army
   tmdb_id: 332721
@@ -564,11 +632,13 @@
   director: Oliver Parker
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.3 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
-  letterboxd_slug: dads-army
+  letterboxd_slug_hint: dads-army
   genres:
     - War
     - Comedy
   letterboxd_rating: 3.34
+  letterboxd_slug: dads-army-2016
+  poster_url: https://a.ltrbxd.com/resized/film-poster/2/6/1/2/2/6/261226-dad-s-army-0-230-0-345-crop.jpg?v=b3d9301b66
 
 - id: the-limehouse-golem
   tmdb_id: 369300
@@ -578,12 +648,14 @@
   director: Juan Carlos Medina
   tags: { opacity: 3, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
-  letterboxd_slug: the-limehouse-golem
+  letterboxd_slug_hint: the-limehouse-golem
   genres:
     - Thriller
     - Horror
     - Mystery
   letterboxd_rating: 3.08
+  letterboxd_slug: the-limehouse-golem
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/5n/d2/ct/wv/limehouse-golem-1200-1200-675-675-crop-000000.jpg?v=af80463819
 
 - id: the-bookshop
   tmdb_id: 444539
@@ -593,10 +665,12 @@
   director: Isabel Coixet
   tags: { opacity: 2, stillness: 3, bleakness: 3, humor: 1, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
-  letterboxd_slug: the-bookshop
+  letterboxd_slug_hint: the-bookshop
   genres:
     - Drama
   letterboxd_rating: 3.08
+  letterboxd_slug: the-bookshop
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/vz/h1/67/dc/bookshop-1200-1200-675-675-crop-000000.jpg?v=d472c4ce84
 
 - id: detective-pikachu
   tmdb_id: 447404
@@ -606,12 +680,14 @@
   director: Rob Letterman
   tags: { opacity: 2, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.65 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
-  letterboxd_slug: pokemon-detective-pikachu
+  letterboxd_slug_hint: pokemon-detective-pikachu
   genres:
     - Action
     - Fantasy
     - Adventure
   letterboxd_rating: 3.04
+  letterboxd_slug: pokemon-detective-pikachu
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/x1/xz/zs/6a/detective-pokemon-1200-1200-675-675-crop-000000.jpg?v=00ab0885fa
 
 - id: sometimes-always-never
   tmdb_id: 542714
@@ -621,11 +697,13 @@
   director: Carl Hunter
   tags: { opacity: 3, stillness: 3, bleakness: 3, humor: 2, acclaim: 0.6 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
-  letterboxd_slug: sometimes-always-never
+  letterboxd_slug_hint: sometimes-always-never
   genres:
     - Comedy
     - Drama
   letterboxd_rating: 3.34
+  letterboxd_slug: sometimes-always-never
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/is/zg/gf/bs/sometimes-1200-1200-675-675-crop-000000.jpg?v=c54e14499d
 
 - id: stardog-and-turbocat
   tmdb_id: 515789
@@ -635,12 +713,14 @@
   director: Ben Smith
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.25 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
-  letterboxd_slug: stardog-and-turbocat
+  letterboxd_slug_hint: stardog-and-turbocat
   genres:
     - Animation
     - Comedy
     - Family
   letterboxd_rating: 2.68
+  letterboxd_slug: stardog-and-turbocat
+  poster_url: https://a.ltrbxd.com/resized/film-poster/4/4/5/4/1/7/445417-stardog-and-turbocat-0-230-0-345-crop.jpg?v=eb5fa47598
 
 - id: minamata
   tmdb_id: 560008
@@ -650,11 +730,13 @@
   director: Andrew Levitas
   tags: { opacity: 2, stillness: 3, bleakness: 5, humor: 1, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
-  letterboxd_slug: minamata
+  letterboxd_slug_hint: minamata
   genres:
     - Drama
     - History
   letterboxd_rating: 3.61
+  letterboxd_slug: minamata
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ju/a9/o8/gj/2iOWzL6dManoWwzGEbe0mHkcdpm-1200-1200-675-675-crop-000000.jpg?v=fce72de85b
 
 - id: role-play-2023
   tmdb_id: 848187
@@ -664,12 +746,14 @@
   director: Thomas Vincent
   tags: { opacity: 2, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.35 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
-  letterboxd_slug: role-play-2023
+  letterboxd_slug_hint: role-play-2023
   genres:
     - Comedy
     - Action
     - Romance
   letterboxd_rating: 2.35
+  letterboxd_slug: role-play-2023
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/6x/8c/xa/bd/role%20play-1200-1200-675-675-crop-000000.jpg?v=b116b2d135
 
 - id: gracie-and-pedro-pets-to-the-rescue
   tmdb_id: 1207830
@@ -679,13 +763,15 @@
   director: Kevin Donovan
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.2 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
-  letterboxd_slug: gracie-and-pedro-pets-to-the-rescue
+  letterboxd_slug_hint: gracie-and-pedro-pets-to-the-rescue
   genres:
     - Animation
     - Adventure
     - Comedy
     - Family
   letterboxd_rating: 2.68
+  letterboxd_slug: gracie-and-pedro-pets-to-the-rescue
+  poster_url: https://a.ltrbxd.com/resized/film-poster/1/0/9/2/3/1/4/1092314-gracie-pedro-pets-to-the-rescue-0-230-0-345-crop.jpg?v=10c982bf97
 
 - id: joy-2024
   tmdb_id: 1184495
@@ -695,10 +781,12 @@
   director: Ben Taylor
   tags: { opacity: 2, stillness: 3, bleakness: 3, humor: 2, acclaim: 0.65 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
-  letterboxd_slug: joy-2024
+  letterboxd_slug_hint: joy-2024
   genres:
     - Drama
   letterboxd_rating: 3.56
+  letterboxd_slug: joy-2024
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/7e/vz/vh/fy/93HgRn4HtTsH99MkOEFRPtUwg7I-1200-1200-675-675-crop-000000.jpg?v=c3dfd7d652
 
 - id: that-christmas
   tmdb_id: 645757
@@ -708,7 +796,7 @@
   director: Simon Otto
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
-  letterboxd_slug: that-christmas
+  letterboxd_slug_hint: that-christmas
   genres:
     - Adventure
     - Fantasy
@@ -716,6 +804,8 @@
     - Animation
     - Family
   letterboxd_rating: 3.39
+  letterboxd_slug: that-christmas
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/0d/56/eh/dt/uCaF43Q3H8hpeRFNrxs0XbTn9WK-1200-1200-675-675-crop-000000.jpg?v=b72bd34148
 
 - id: the-beautiful-game-2024
   tmdb_id: 857655
@@ -725,10 +815,12 @@
   director: Thea Sharrock
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
-  letterboxd_slug: the-beautiful-game-2024
+  letterboxd_slug_hint: the-beautiful-game-2024
   genres:
     - Drama
   letterboxd_rating: 2.92
+  letterboxd_slug: the-beautiful-game-2024
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/hs/e1/dl/r7/beautiful%20game-1200-1200-675-675-crop-000000.jpg?v=45f5e49918
 
 - id: the-first-omen
   tmdb_id: 437342
@@ -738,10 +830,12 @@
   director: Arkasha Stevenson
   tags: { opacity: 3, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.6 }
   content: { sexual_violence: true, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 2 }
-  letterboxd_slug: the-first-omen
+  letterboxd_slug_hint: the-first-omen
   genres:
     - Horror
   letterboxd_rating: 3.38
+  letterboxd_slug: the-first-omen
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/up/f6/i0/k9/5iab323Pk5JA2Mp6ytEao0IYGTw-1200-1200-675-675-crop-000000.jpg?v=e19246e396
 
 - id: the-wild-robot
   tmdb_id: 1184918
@@ -751,13 +845,15 @@
   director: Chris Sanders
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.85 }
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 1, sex: 0 }
-  letterboxd_slug: the-wild-robot
+  letterboxd_slug_hint: the-wild-robot
   genres:
     - Adventure
     - Animation
     - Family
     - Science Fiction
   letterboxd_rating: 4.21
+  letterboxd_slug: the-wild-robot
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/lo/yv/o4/a4/tR0RttXyT10l7GxpDSLTalPtLVj-1200-1200-675-675-crop-000000.jpg?v=3bd0088c78
 
 - id: and-sons
   tmdb_id: 1291829
@@ -767,7 +863,9 @@
   director: Pablo Trapero
   tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
-  letterboxd_slug: sons-2025
+  letterboxd_slug_hint: sons-2025
   genres:
     - Drama
   letterboxd_rating: 3.11
+  letterboxd_slug: sons-2025
+  poster_url: https://a.ltrbxd.com/resized/film-poster/1/1/7/4/4/8/7/1174487-sons-2025-0-230-0-345-crop.jpg?v=5beb8ba00c

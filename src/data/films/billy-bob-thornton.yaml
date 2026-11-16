@@ -59,12 +59,14 @@
   director: Robert C. Hughes
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.25 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
-  letterboxd_slug: hunters-blood
+  letterboxd_slug_hint: hunters-blood
   genres:
     - Horror
     - Thriller
     - Action
   letterboxd_rating: 3.13
+  letterboxd_slug: hunters-blood
+  poster_url: https://a.ltrbxd.com/resized/film-poster/2/4/9/4/0/24940-hunters-blood-0-230-0-345-crop.jpg?v=d682a08055
 
 - id: south-of-reno
   tmdb_id: 411696
@@ -74,9 +76,11 @@
   director: Mark Rezyka
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.3 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
-  letterboxd_slug: south-of-reno
+  letterboxd_slug_hint: south-of-reno
   genres:
     - Drama
+  letterboxd_slug: south-of-reno
+  poster_url: https://a.ltrbxd.com/resized/film-poster/3/4/5/7/8/7/345787-south-of-reno-0-230-0-345-crop.jpg?v=296f4366eb
 
 - id: chopper-chicks-in-zombietown
   tmdb_id: 27070
@@ -86,11 +90,13 @@
   director: Dan Hoskins
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.25 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
-  letterboxd_slug: chopper-chicks-in-zombietown
+  letterboxd_slug_hint: chopper-chicks-in-zombietown
   genres:
     - Horror
     - Comedy
   letterboxd_rating: 2.75
+  letterboxd_slug: chopper-chicks-in-zombietown
+  poster_url: https://a.ltrbxd.com/resized/film-poster/3/4/8/2/5/34825-chopper-chicks-in-zombietown-0-230-0-345-crop.jpg?v=2a29b84244
 
 - id: on-deadly-ground
   tmdb_id: 9624
@@ -100,12 +106,14 @@
   director: Steven Seagal
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.25 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
-  letterboxd_slug: on-deadly-ground
+  letterboxd_slug_hint: on-deadly-ground
   genres:
     - Action
     - Thriller
     - Adventure
   letterboxd_rating: 2.44
+  letterboxd_slug: on-deadly-ground
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/x4/l8/vz/nn/on%20deadly-1200-1200-675-675-crop-000000.jpg?v=985cc83fe2
 
 - id: blood-in-blood-out
   tmdb_id: 9702
@@ -115,12 +123,14 @@
   director: Taylor Hackford
   tags: { opacity: 1, stillness: 1, bleakness: 4, humor: 1, acclaim: 0.65 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
-  letterboxd_slug: blood-in-blood-out
+  letterboxd_slug_hint: blood-in-blood-out
   genres:
     - Crime
     - Thriller
     - Drama
   letterboxd_rating: 4.04
+  letterboxd_slug: blood-in-blood-out
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/fo/72/42/gn/hUN8HJhcNpHOU0ldcaDG1dTsapR-1200-1200-675-675-crop-000000.jpg?v=07c0460056
 
 - id: trouble-bound
   tmdb_id: 54845
@@ -130,11 +140,13 @@
   director: Jeffrey Reiner
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.3 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
-  letterboxd_slug: trouble-bound
+  letterboxd_slug_hint: trouble-bound
   genres:
     - Action
     - Comedy
   letterboxd_rating: 3.15
+  letterboxd_slug: trouble-bound
+  poster_url: https://a.ltrbxd.com/resized/film-poster/1/1/2/5/5/11255-trouble-bound-0-230-0-345-crop.jpg?v=d5fe2df26c
 
 - id: floundering
   tmdb_id: 41578
@@ -144,11 +156,13 @@
   director: Peter McCarthy
   tags: { opacity: 2, stillness: 1, bleakness: 3, humor: 3, acclaim: 0.3 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
-  letterboxd_slug: floundering
+  letterboxd_slug_hint: floundering
   genres:
     - Comedy
     - Romance
   letterboxd_rating: 3.13
+  letterboxd_slug: floundering
+  poster_url: https://a.ltrbxd.com/resized/film-poster/2/3/4/6/2/23462-floundering-0-230-0-345-crop.jpg?v=9ccf40833c
 
 - id: the-stars-fell-on-henrietta
   tmdb_id: 139408
@@ -158,9 +172,11 @@
   director: James Keach
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.35 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
-  letterboxd_slug: the-stars-fell-on-henrietta
+  letterboxd_slug_hint: the-stars-fell-on-henrietta
   genres:
     - Drama
+  letterboxd_slug: the-stars-fell-on-henrietta
+  poster_url: https://a.ltrbxd.com/resized/film-poster/1/0/6/5/9/0/106590-the-stars-fell-on-henrietta-0-230-0-345-crop.jpg?v=22618bb86f
 
 - id: the-winner
   tmdb_id: 124868
@@ -170,9 +186,12 @@
   director: Alex Cox
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.3 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
-  letterboxd_slug: the-winner
+  letterboxd_slug_hint: the-winner
   genres:
     - Drama
+  letterboxd_slug: the-winner-1996
+  poster_url: https://a.ltrbxd.com/resized/film-poster/9/7/9/0/2/97902-the-winner-0-230-0-345-crop.jpg?v=c390983ce3
+  letterboxd_rating: 3.09
 
 - id: the-apostle
   tmdb_id: 2895
@@ -182,10 +201,12 @@
   director: Robert Duvall
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.65 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
-  letterboxd_slug: the-apostle
+  letterboxd_slug_hint: the-apostle
   genres:
     - Drama
   letterboxd_rating: 3.64
+  letterboxd_slug: the-apostle
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/3x/sn/fu/yr/beQp5TtuIe4ZEwGmcUF5qCnjDF8-1200-1200-675-675-crop-000000.jpg?v=38b979c910
 
 - id: homegrown
   tmdb_id: 17133
@@ -195,7 +216,7 @@
   director: Stephen Gyllenhaal
   tags: { opacity: 2, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.3 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
-  letterboxd_slug: homegrown
+  letterboxd_slug_hint: homegrown
   genres:
     - Action
     - Drama
@@ -203,6 +224,8 @@
     - Crime
     - Thriller
   letterboxd_rating: 2.67
+  letterboxd_slug: homegrown
+  poster_url: https://a.ltrbxd.com/resized/film-poster/4/1/1/8/9/41189-homegrown-0-230-0-345-crop.jpg?v=7f5d7e05b0
 
 - id: primary-colors
   tmdb_id: 9440
@@ -212,11 +235,13 @@
   director: Mike Nichols
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
-  letterboxd_slug: primary-colors
+  letterboxd_slug_hint: primary-colors
   genres:
     - Drama
     - Comedy
   letterboxd_rating: 3.32
+  letterboxd_slug: primary-colors
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/is/mx/yn/sq/primary%20colors-1200-1200-675-675-crop-000000.jpg?v=2a50f814fd
 
 - id: waking-up-in-reno
   tmdb_id: 21118
@@ -226,11 +251,13 @@
   director: Jordan Brady
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.25 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
-  letterboxd_slug: waking-up-in-reno
+  letterboxd_slug_hint: waking-up-in-reno
   genres:
     - Comedy
     - Romance
   letterboxd_rating: 2.64
+  letterboxd_slug: waking-up-in-reno
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ch/0a/1f/8i/pHqqRuxMQGyecBzXCUsnKu1Z1aU-1200-1200-675-675-crop-000000.jpg?v=4d5a9ed850
 
 - id: south-of-heaven-west-of-hell
   tmdb_id: 24470
@@ -240,13 +267,15 @@
   director: Dwight Yoakam
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.25 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
-  letterboxd_slug: south-of-heaven-west-of-hell
+  letterboxd_slug_hint: south-of-heaven-west-of-hell
   genres:
     - Comedy
     - Western
     - Drama
     - Action
   letterboxd_rating: 2.89
+  letterboxd_slug: south-of-heaven-west-of-hell
+  poster_url: https://a.ltrbxd.com/resized/film-poster/3/6/7/4/8/36748-south-of-heaven-west-of-hell-0-230-0-345-crop.jpg?v=ac16cb56f5
 
 - id: bandits
   tmdb_id: 3172
@@ -256,11 +285,13 @@
   director: Barry Levinson
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.5 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
-  letterboxd_slug: bandits-2001
+  letterboxd_slug_hint: bandits-2001
   genres:
     - Crime
     - Comedy
   letterboxd_rating: 3.16
+  letterboxd_slug: bandits-2001
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/4r/74/88/be/bandits-1200-1200-675-675-crop-000000.jpg?v=794106d01a
 
 - id: the-badge
   tmdb_id: 2091
@@ -270,11 +301,13 @@
   director: Robby Henson
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.25 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
-  letterboxd_slug: the-badge
+  letterboxd_slug_hint: the-badge
   genres:
     - Crime
     - Thriller
   letterboxd_rating: 3.03
+  letterboxd_slug: the-badge
+  poster_url: https://a.ltrbxd.com/resized/film-poster/5/0/5/3/5/50535-the-badge-0-230-0-345-crop.jpg?v=f4140e4c2d
 
 - id: chrystal
   tmdb_id: 33403
@@ -284,10 +317,12 @@
   director: Ray McKinnon
   tags: { opacity: 2, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.4 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
-  letterboxd_slug: chrystal
+  letterboxd_slug_hint: chrystal
   genres:
     - Drama
   letterboxd_rating: 3.38
+  letterboxd_slug: chrystal
+  poster_url: https://a.ltrbxd.com/resized/film-poster/2/9/8/1/4/29814-chrystal-0-230-0-345-crop.jpg?v=bcdbe5aa66
 
 - id: bad-news-bears
   tmdb_id: 13341
@@ -297,10 +332,12 @@
   director: Richard Linklater
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.5 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
-  letterboxd_slug: bad-news-bears
+  letterboxd_slug_hint: bad-news-bears
   genres:
     - Comedy
   letterboxd_rating: 2.93
+  letterboxd_slug: bad-news-bears
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/4j/6w/rw/n9/bad%20news-1200-1200-675-675-crop-000000.jpg?v=f87f86d296
 
 - id: friday-night-lights
   tmdb_id: 13416
@@ -310,10 +347,12 @@
   director: Peter Berg
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.65 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
-  letterboxd_slug: friday-night-lights
+  letterboxd_slug_hint: friday-night-lights
   genres:
     - Drama
   letterboxd_rating: 3.59
+  letterboxd_slug: friday-night-lights
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ss/kp/25/25/friday-night-lights-1200-1200-675-675-crop-000000.jpg?v=33f071c1d4
 
 - id: the-alamo
   tmdb_id: 10733
@@ -323,13 +362,15 @@
   director: John Lee Hancock
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.45 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
-  letterboxd_slug: the-alamo
+  letterboxd_slug_hint: the-alamo
   genres:
     - Adventure
     - History
     - Western
     - War
   letterboxd_rating: 3.27
+  letterboxd_slug: the-alamo-2004
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/4n/9q/ds/pv/alamo-1200-1200-675-675-crop-000000.jpg?v=7e46d0dfef
 
 - id: the-astronaut-farmer
   tmdb_id: 5172
@@ -339,13 +380,15 @@
   director: Michael Polish
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.45 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
-  letterboxd_slug: the-astronaut-farmer
+  letterboxd_slug_hint: the-astronaut-farmer
   genres:
     - Adventure
     - Comedy
     - Science Fiction
     - Drama
   letterboxd_rating: 2.85
+  letterboxd_slug: the-astronaut-farmer
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ib/ve/9y/x0/astronaut%20famrer-1200-1200-675-675-crop-000000.jpg?v=1db74b851d
 
 - id: the-informers
   tmdb_id: 17436
@@ -355,25 +398,29 @@
   director: Gregor Jordan
   tags: { opacity: 2, stillness: 1, bleakness: 4, humor: 1, acclaim: 0.3 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 2 }
-  letterboxd_slug: the-informers
+  letterboxd_slug_hint: the-informers
   genres:
     - Drama
     - Crime
     - Thriller
   letterboxd_rating: 2.44
+  letterboxd_slug: the-informers
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/78/oo/8t/ca/3HJBIGN4ZjX6xwNQsM9GlvZgZCX-1200-1200-675-675-crop-000000.jpg?v=c73cd1e7a2
 
 - id: the-smell-of-success
   tmdb_id: 62613
   title: The Smell of Success
-  year: 2011
+  year: 2009
   runtime: 96
   director: Michael Polish
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.25 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
-  letterboxd_slug: the-smell-of-success
+  letterboxd_slug_hint: the-smell-of-success
   genres:
     - Comedy
   letterboxd_rating: 3.02
+  letterboxd_slug: the-smell-of-success
+  poster_url: https://a.ltrbxd.com/resized/film-poster/4/1/9/2/4192-the-smell-of-success-0-230-0-345-crop.jpg?v=5820b56af3
 
 - id: faster
   tmdb_id: 41283
@@ -383,11 +430,13 @@
   director: George Tillman Jr.
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.4 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
-  letterboxd_slug: faster
+  letterboxd_slug_hint: faster
   genres:
     - Documentary
     - Action
   letterboxd_rating: 3.44
+  letterboxd_slug: faster-2010
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/7k/yk/93/vv/faster-1200-1200-675-675-crop-000000.jpg?v=4203e88533
 
 - id: jayne-mansfields-car
   tmdb_id: 94671
@@ -397,11 +446,13 @@
   director: Billy Bob Thornton
   tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 2, acclaim: 0.4 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
-  letterboxd_slug: jayne-mansfields-car
+  letterboxd_slug_hint: jayne-mansfields-car
   genres:
     - Romance
     - Drama
   letterboxd_rating: 3.15
+  letterboxd_slug: jayne-mansfields-car
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/5y/xa/yy/23/jayne-mansfields-car-1200-1200-675-675-crop-000000.jpg?v=4522f71583
 
 - id: the-baytown-outlaws
   tmdb_id: 81446
@@ -411,12 +462,14 @@
   director: Barry Battles
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 2, acclaim: 0.35 }
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
-  letterboxd_slug: the-baytown-outlaws
+  letterboxd_slug_hint: the-baytown-outlaws
   genres:
     - Comedy
     - Crime
     - Action
   letterboxd_rating: 2.96
+  letterboxd_slug: the-baytown-outlaws
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/tx/f2/2w/pv/baytown-outlaws-1200-1200-675-675-crop-000000.jpg?v=9a9ba92020
 
 - id: parkland
   tmdb_id: 209262
@@ -426,11 +479,13 @@
   director: Peter Landesman
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.45 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
-  letterboxd_slug: parkland
+  letterboxd_slug_hint: parkland
   genres:
     - Drama
     - History
   letterboxd_rating: 3.05
+  letterboxd_slug: parkland
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/7d/k3/mr/gk/f2l40wGVOATtdCkgst948aGnECH-1200-1200-675-675-crop-000000.jpg?v=eed144fdab
 
 - id: cut-bank
   tmdb_id: 276902
@@ -440,13 +495,15 @@
   director: Matt Shakman
   tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.4 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
-  letterboxd_slug: cut-bank
+  letterboxd_slug_hint: cut-bank
   genres:
     - Drama
     - Mystery
     - Thriller
     - Crime
   letterboxd_rating: 2.78
+  letterboxd_slug: cut-bank
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/e9/kw/h9/dh/cut-bankj-1200-1200-675-675-crop-000000.jpg?v=21525a188d
 
 - id: into-the-grizzly-maze
   tmdb_id: 244316
@@ -456,12 +513,14 @@
   director: David Hackl
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.3 }
   content: { sexual_violence: false, animal_harm: true, child_harm: false, suicide: false, violence: 3, sex: 0 }
-  letterboxd_slug: into-the-grizzly-maze
+  letterboxd_slug_hint: into-the-grizzly-maze
   genres:
     - Horror
     - Action
     - Thriller
   letterboxd_rating: 2.44
+  letterboxd_slug: into-the-grizzly-maze
+  poster_url: https://a.ltrbxd.com/resized/film-poster/1/7/1/0/6/5/171065-into-the-grizzly-maze-0-230-0-345-crop.jpg?v=5f2ea6726a
 
 - id: bad-santa-2
   tmdb_id: 338964
@@ -471,12 +530,14 @@
   director: Mark Waters
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.4 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
-  letterboxd_slug: bad-santa-2
+  letterboxd_slug_hint: bad-santa-2
   genres:
     - Comedy
     - Mystery
     - Crime
   letterboxd_rating: 2.42
+  letterboxd_slug: bad-santa-2
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/c2/xz/x4/0i/bad-santa-2-1200-1200-675-675-crop-000000.jpg?v=33bb7fd792
 
 - id: london-fields
   tmdb_id: 220882
@@ -486,11 +547,13 @@
   director: Mathew Cullen
   tags: { opacity: 3, stillness: 1, bleakness: 4, humor: 1, acclaim: 0.15 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 2 }
-  letterboxd_slug: london-fields
+  letterboxd_slug_hint: london-fields
   genres:
     - Thriller
     - Crime
   letterboxd_rating: 1.97
+  letterboxd_slug: london-fields
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/oc/ud/rg/3q/wx1LgDuWHZGGWxS9Jbg7R4J2BrS-1200-1200-675-675-crop-000000.jpg?v=f70a7041ed
 
 - id: a-million-little-pieces
   tmdb_id: 499566
@@ -500,10 +563,12 @@
   director: Sam Taylor-Johnson
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.4 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
-  letterboxd_slug: a-million-little-pieces
+  letterboxd_slug_hint: a-million-little-pieces
   genres:
     - Drama
   letterboxd_rating: 3.1
+  letterboxd_slug: a-million-little-pieces
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/s1/bl/ur/u0/million-1200-1200-675-675-crop-000000.jpg?v=ee2157906a
 
 - id: devils-peak
   tmdb_id: 920654
@@ -513,4 +578,6 @@
   director: Ben Young
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.35 }
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug_hint: devils-peak
   letterboxd_slug: devils-peak
+  poster_url: https://a.ltrbxd.com/resized/film-poster/7/6/8/3/1/0/768310-devil-s-peak-0-230-0-345-crop.jpg?v=f8fe6d51c9

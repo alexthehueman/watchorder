@@ -97,11 +97,13 @@
   director: Howard Hawks
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.65 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
-  letterboxd_slug: the-criminal-code
+  letterboxd_slug_hint: the-criminal-code
   genres:
     - Crime
     - Drama
   letterboxd_rating: 3.51
+  letterboxd_slug: the-criminal-code
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/wg/qk/nr/98/criminal-1200-1200-675-675-crop-000000.jpg?v=5b188677c8
 
 - id: five-star-final
   tmdb_id: 42669
@@ -111,11 +113,13 @@
   director: Mervyn LeRoy
   tags: { opacity: 1, stillness: 1, bleakness: 4, humor: 2, acclaim: 0.7 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
-  letterboxd_slug: five-star-final
+  letterboxd_slug_hint: five-star-final
   genres:
     - Drama
     - Crime
   letterboxd_rating: 3.64
+  letterboxd_slug: five-star-final
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/rn/gz/eq/mg/sy5ABckvrfsMvAd1AGeWMHJH9yj-1200-1200-675-675-crop-000000.jpg?v=90fecab9a1
 
 - id: the-mad-genius
   tmdb_id: 156329
@@ -125,12 +129,14 @@
   director: Michael Curtiz
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.45 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
-  letterboxd_slug: the-mad-genius
+  letterboxd_slug_hint: the-mad-genius
   genres:
     - Horror
     - Romance
     - Drama
   letterboxd_rating: 3.23
+  letterboxd_slug: the-mad-genius
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/e4/ps/jx/38/6OUtbMZ1D4Iw5u8rwmXhi5ZCABS-1200-1200-675-675-crop-000000.jpg?v=e2ea782daf
 
 - id: behind-the-mask-1932
   tmdb_id: 28305
@@ -140,7 +146,14 @@
   director: John Francis Dillon
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.35 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
-  letterboxd_slug: behind-the-mask-1932
+  letterboxd_slug_hint: behind-the-mask
+  letterboxd_slug: behind-the-mask
+  poster_url: https://a.ltrbxd.com/resized/alternative-backdrop/5/5/8/3/7/tmdb/xUVezmJfHgGmQe3NUamnPLUJdQk-1200-1200-675-675-crop-000000.jpg?v=477a6ca814
+  genres:
+    - Crime
+    - Thriller
+    - Horror
+  letterboxd_rating: 2.96
 
 - id: night-world
   tmdb_id: 266279
@@ -150,10 +163,12 @@
   director: Hobart Henley
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 2, acclaim: 0.5 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
-  letterboxd_slug: night-world
+  letterboxd_slug_hint: night-world
   genres:
     - Drama
   letterboxd_rating: 3.33
+  letterboxd_slug: night-world
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/e0/4z/3o/a4/uHjIJ33ijrlwUR6PFaQ3QMqlyxN-1200-1200-675-675-crop-000000.jpg?v=5635cda769
 
 - id: the-miracle-man-1932
   tmdb_id: 209773
@@ -163,7 +178,12 @@
   director: Norman Z. McLeod
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.4 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
-  letterboxd_slug: the-miracle-man-1932
+  letterboxd_slug_hint: the-miracle-man
+  letterboxd_slug: the-miracle-man
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ef/sc/8f/78/9y3zJoOQ83lW1Oel2Ou5I85H5Fp-1200-1200-675-675-crop-000000.jpg?v=d56c604700
+  genres:
+    - Drama
+    - Romance
 
 - id: business-and-pleasure
   tmdb_id: 247776
@@ -173,9 +193,11 @@
   director: David Butler
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.35 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
-  letterboxd_slug: business-and-pleasure
+  letterboxd_slug_hint: business-and-pleasure
   genres:
     - Comedy
+  letterboxd_slug: business-and-pleasure
+  poster_url: https://a.ltrbxd.com/resized/film-poster/1/7/3/1/7/5/173175-business-and-pleasure-0-230-0-345-crop.jpg?v=3ee33ab77d
 
 - id: the-ghoul
   tmdb_id: 28046
@@ -185,11 +207,13 @@
   director: T. Hayes Hunter
   tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.5 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
-  letterboxd_slug: the-ghoul
+  letterboxd_slug_hint: the-ghoul
   genres:
     - Horror
     - Mystery
   letterboxd_rating: 2.8
+  letterboxd_slug: the-ghoul
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/2w/wx/xw/jm/vXovDO9DfrSkpx9mB9NQYvMquhw-1200-1200-675-675-crop-000000.jpg?v=c8c2b4a05b
 
 - id: the-lost-patrol
   tmdb_id: 46910
@@ -199,11 +223,13 @@
   director: John Ford
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.65 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
-  letterboxd_slug: the-lost-patrol
+  letterboxd_slug_hint: the-lost-patrol
   genres:
     - War
     - Action
   letterboxd_rating: 3.42
+  letterboxd_slug: the-lost-patrol
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/15/c9/lt/6v/rt4wkaBe0YEvLMBBp7scJMtEoAP-1200-1200-675-675-crop-000000.jpg?v=2de02f8786
 
 - id: the-house-of-rothschild
   tmdb_id: 57035
@@ -213,12 +239,14 @@
   director: Alfred L. Werker
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.6 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
-  letterboxd_slug: the-house-of-rothschild
+  letterboxd_slug_hint: the-house-of-rothschild
   genres:
     - Drama
     - Romance
     - History
   letterboxd_rating: 2.97
+  letterboxd_slug: the-house-of-rothschild
+  poster_url: https://a.ltrbxd.com/resized/film-poster/9/0/8/8/9088-the-house-of-rothschild-0-230-0-345-crop.jpg?v=0230f495d9
 
 - id: the-black-room
   tmdb_id: 27003
@@ -228,11 +256,13 @@
   director: Roy William Neill
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.6 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
-  letterboxd_slug: the-black-room
+  letterboxd_slug_hint: the-black-room
   genres:
     - Horror
     - Crime
   letterboxd_rating: 3.4
+  letterboxd_slug: the-black-room
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ph/dr/as/08/sXik2U1GMHcU9D2L9yZ9ocf3SrT-1200-1200-675-675-crop-000000.jpg?v=674289a34b
 
 - id: the-walking-dead-1936
   tmdb_id: 27115
@@ -242,7 +272,14 @@
   director: Michael Curtiz
   tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.65 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
-  letterboxd_slug: the-walking-dead-1936
+  letterboxd_slug_hint: the-walking-dead
+  letterboxd_slug: the-walking-dead
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ag/pl/pg/g0/walking-1200-1200-675-675-crop-000000.jpg?v=3a72433000
+  genres:
+    - Science Fiction
+    - Crime
+    - Horror
+  letterboxd_rating: 3.43
 
 - id: juggernaut-1936
   tmdb_id: 30639
@@ -252,7 +289,11 @@
   director: Henry Edwards
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.3 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
-  letterboxd_slug: juggernaut-1936
+  letterboxd_slug_hint: juggernaut
+  letterboxd_slug: juggernaut
+  poster_url: https://a.ltrbxd.com/resized/film-poster/3/1/8/7/1/31871-juggernaut-0-230-0-345-crop.jpg?v=41cd8a9f3f
+  genres:
+    - Mystery
 
 - id: the-man-who-changed-his-mind
   tmdb_id: 30640
@@ -262,11 +303,13 @@
   director: Robert Stevenson
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 2, acclaim: 0.6 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
-  letterboxd_slug: the-man-who-changed-his-mind
+  letterboxd_slug_hint: the-man-who-changed-his-mind
   genres:
     - Science Fiction
     - Horror
   letterboxd_rating: 3.29
+  letterboxd_slug: the-man-who-changed-his-mind
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/1r/hh/5n/83/42CSd2dFMtB1jZQzOB9bLzO7S4y-1200-1200-675-675-crop-000000.jpg?v=5ffc1849ca
 
 - id: charlie-chan-at-the-opera
   tmdb_id: 28044
@@ -276,12 +319,14 @@
   director: H. Bruce Humberstone
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.6 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
-  letterboxd_slug: charlie-chan-at-the-opera
+  letterboxd_slug_hint: charlie-chan-at-the-opera
   genres:
     - Thriller
     - Crime
     - Mystery
   letterboxd_rating: 3.3
+  letterboxd_slug: charlie-chan-at-the-opera
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/9f/va/we/yu/tGJmnQ2lAmH4Jf451mWfIKwyFTD-1200-1200-675-675-crop-000000.jpg?v=09fd0b80f7
 
 - id: night-key
   tmdb_id: 28045
@@ -291,11 +336,13 @@
   director: Lloyd Corrigan
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.45 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
-  letterboxd_slug: night-key
+  letterboxd_slug_hint: night-key
   genres:
     - Science Fiction
     - Crime
   letterboxd_rating: 3.08
+  letterboxd_slug: night-key
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/4l/4x/4e/1a/uzSpblTomT5T6LU9JISlMei14T9-1200-1200-675-675-crop-000000.jpg?v=fae8b63204
 
 - id: west-of-shanghai
   tmdb_id: 177317
@@ -305,11 +352,13 @@
   director: John Farrow
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.35 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
-  letterboxd_slug: west-of-shanghai
+  letterboxd_slug_hint: west-of-shanghai
   genres:
     - Adventure
     - War
     - Drama
+  letterboxd_slug: west-of-shanghai
+  poster_url: https://a.ltrbxd.com/resized/film-poster/1/2/9/5/4/0/129540-west-of-shanghai-0-230-0-345-crop.jpg?v=aba42f2612
 
 - id: the-invisible-menace
   tmdb_id: 189279
@@ -319,12 +368,14 @@
   director: John Farrow
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.3 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
-  letterboxd_slug: the-invisible-menace
+  letterboxd_slug_hint: the-invisible-menace
   genres:
     - Crime
     - Thriller
     - Mystery
   letterboxd_rating: 3.02
+  letterboxd_slug: the-invisible-menace
+  poster_url: https://a.ltrbxd.com/resized/film-poster/1/3/6/4/1/8/136418-the-invisible-menace-0-230-0-345-crop.jpg?v=4b4ce519df
 
 - id: mr-wong-detective
   tmdb_id: 23255
@@ -334,12 +385,14 @@
   director: William Nigh
   tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 1, acclaim: 0.4 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
-  letterboxd_slug: mr-wong-detective
+  letterboxd_slug_hint: mr-wong-detective
   genres:
     - Mystery
     - Crime
     - Thriller
   letterboxd_rating: 2.96
+  letterboxd_slug: mr-wong-detective
+  poster_url: https://a.ltrbxd.com/resized/film-poster/3/7/4/6/7/37467-mr-wong-detective-0-230-0-345-crop.jpg?v=2f2cb9541f
 
 - id: devils-island
   tmdb_id: 30306
@@ -349,10 +402,12 @@
   director: William Clemens
   tags: { opacity: 1, stillness: 1, bleakness: 4, humor: 1, acclaim: 0.45 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
-  letterboxd_slug: devils-island
+  letterboxd_slug_hint: devils-island
   genres:
     - Drama
   letterboxd_rating: 3.25
+  letterboxd_slug: devils-island
+  poster_url: https://a.ltrbxd.com/resized/film-poster/3/2/1/4/2/32142-devil-s-island-0-230-0-345-crop.jpg?v=9ea02452af
 
 - id: the-mystery-of-mr-wong
   tmdb_id: 59703
@@ -362,12 +417,14 @@
   director: William Nigh
   tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 1, acclaim: 0.4 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
-  letterboxd_slug: the-mystery-of-mr-wong
+  letterboxd_slug_hint: the-mystery-of-mr-wong
   genres:
     - Thriller
     - Mystery
     - Crime
   letterboxd_rating: 3.07
+  letterboxd_slug: the-mystery-of-mr-wong
+  poster_url: https://a.ltrbxd.com/resized/film-poster/6/7/9/0/6790-the-mystery-of-mr-wong-0-230-0-345-crop.jpg?v=66d8c2a4a0
 
 - id: mr-wong-in-chinatown
   tmdb_id: 59701
@@ -377,11 +434,13 @@
   director: William Nigh
   tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 1, acclaim: 0.4 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
-  letterboxd_slug: mr-wong-in-chinatown
+  letterboxd_slug_hint: mr-wong-in-chinatown
   genres:
     - Thriller
     - Mystery
   letterboxd_rating: 3.03
+  letterboxd_slug: mr-wong-in-chinatown
+  poster_url: https://a.ltrbxd.com/resized/film-poster/6/7/9/2/6792-mr-wong-in-chinatown-0-230-0-345-crop.jpg?v=904d354a40
 
 - id: the-man-they-could-not-hang
   tmdb_id: 26925
@@ -391,12 +450,14 @@
   director: Nick Grinde
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
-  letterboxd_slug: the-man-they-could-not-hang
+  letterboxd_slug_hint: the-man-they-could-not-hang
   genres:
     - Science Fiction
     - Crime
     - Horror
   letterboxd_rating: 3.39
+  letterboxd_slug: the-man-they-could-not-hang
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/h4/ty/01/5n/8BtYzwyr172RjVUKl6waprQ0YDZ-1200-1200-675-675-crop-000000.jpg?v=74f7038f39
 
 - id: tower-of-london-1939
   tmdb_id: 28365
@@ -406,7 +467,14 @@
   director: Rowland V. Lee
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.6 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
-  letterboxd_slug: tower-of-london-1939
+  letterboxd_slug_hint: tower-of-london
+  letterboxd_slug: tower-of-london
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/kd/q1/ly/ac/ypOhDna6flQwGSO4Fl5uaH8i0Tn-1200-1200-675-675-crop-000000.jpg?v=474127e726
+  genres:
+    - Drama
+    - History
+    - Horror
+  letterboxd_rating: 3.23
 
 - id: british-intelligence
   tmdb_id: 51787
@@ -416,11 +484,13 @@
   director: Terry O. Morse
   tags: { opacity: 2, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.45 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
-  letterboxd_slug: british-intelligence
+  letterboxd_slug_hint: british-intelligence
   genres:
     - Drama
     - War
   letterboxd_rating: 3.11
+  letterboxd_slug: british-intelligence
+  poster_url: https://a.ltrbxd.com/resized/film-poster/1/4/0/4/8/14048-british-intelligence-0-230-0-345-crop.jpg?v=b83c7cee0d
 
 - id: the-fatal-hour
   tmdb_id: 59706
@@ -430,12 +500,14 @@
   director: William Nigh
   tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 1, acclaim: 0.4 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
-  letterboxd_slug: the-fatal-hour
+  letterboxd_slug_hint: the-fatal-hour
   genres:
     - Thriller
     - Mystery
     - Crime
   letterboxd_rating: 2.84
+  letterboxd_slug: the-fatal-hour
+  poster_url: https://a.ltrbxd.com/resized/film-poster/6/7/8/7/6787-the-fatal-hour-0-230-0-345-crop.jpg?v=801a5ea114
 
 - id: the-man-with-nine-lives
   tmdb_id: 26924
@@ -445,11 +517,13 @@
   director: Nick Grinde
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.5 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
-  letterboxd_slug: the-man-with-nine-lives
+  letterboxd_slug_hint: the-man-with-nine-lives
   genres:
     - Science Fiction
     - Horror
   letterboxd_rating: 3.13
+  letterboxd_slug: the-man-with-nine-lives
+  poster_url: https://a.ltrbxd.com/resized/film-poster/3/4/9/3/3/34933-the-man-with-nine-lives-0-230-0-345-crop.jpg?v=5ce7f96eb2
 
 - id: doomed-to-die
   tmdb_id: 22965
@@ -459,12 +533,14 @@
   director: William Nigh
   tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 1, acclaim: 0.35 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
-  letterboxd_slug: doomed-to-die
+  letterboxd_slug_hint: doomed-to-die
   genres:
     - Crime
     - Mystery
     - Thriller
   letterboxd_rating: 2.9
+  letterboxd_slug: doomed-to-die
+  poster_url: https://a.ltrbxd.com/resized/film-poster/3/7/6/0/2/37602-doomed-to-die-0-230-0-345-crop.jpg?v=ae284740d3
 
 - id: before-i-hang
   tmdb_id: 26923
@@ -474,12 +550,14 @@
   director: Nick Grinde
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.5 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
-  letterboxd_slug: before-i-hang
+  letterboxd_slug_hint: before-i-hang
   genres:
     - Science Fiction
     - Crime
     - Horror
   letterboxd_rating: 3.02
+  letterboxd_slug: before-i-hang
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/k7/vy/lt/97/sIEvgibe3qS43WdPnPFu0du5HeZ-1200-1200-675-675-crop-000000.jpg?v=a6eb704420
 
 - id: the-ape-1940
   tmdb_id: 37426
@@ -489,7 +567,14 @@
   director: William Nigh
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.3 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
-  letterboxd_slug: the-ape-1940
+  letterboxd_slug_hint: the-ape
+  letterboxd_slug: the-ape
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/cu/x3/bz/m8/iLhfRsn3u0GWZ1vr8rQOLNeGw3M-1200-1200-675-675-crop-000000.jpg?v=dcf32184c8
+  genres:
+    - Mystery
+    - Horror
+    - Science Fiction
+  letterboxd_rating: 2.42
 
 - id: the-devil-commands
   tmdb_id: 30307
@@ -499,11 +584,13 @@
   director: Edward Dmytryk
   tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
-  letterboxd_slug: the-devil-commands
+  letterboxd_slug_hint: the-devil-commands
   genres:
     - Science Fiction
     - Horror
   letterboxd_rating: 3.11
+  letterboxd_slug: the-devil-commands
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/b6/ut/rq/6t/h5iG5pXsVJrxGjM7SX2jD6bjshr-1200-1200-675-675-crop-000000.jpg?v=55ed25deed
 
 - id: the-boogie-man-will-get-you
   tmdb_id: 30342
@@ -513,11 +600,13 @@
   director: Lew Landers
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.4 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
-  letterboxd_slug: the-boogie-man-will-get-you
+  letterboxd_slug_hint: the-boogie-man-will-get-you
   genres:
     - Horror
     - Comedy
   letterboxd_rating: 2.93
+  letterboxd_slug: the-boogie-man-will-get-you
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/4i/ru/00/ij/7rFRkkIaiS9vJXvpHY57jC8P7nI-1200-1200-675-675-crop-000000.jpg?v=244f82780e
 
 - id: the-climax
   tmdb_id: 39407
@@ -527,12 +616,14 @@
   director: George Waggner
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.4 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
-  letterboxd_slug: the-climax
+  letterboxd_slug_hint: the-climax
   genres:
     - Thriller
     - Horror
     - Music
   letterboxd_rating: 2.8
+  letterboxd_slug: the-climax
+  poster_url: https://a.ltrbxd.com/resized/alternative-backdrop/2/5/2/7/5/tmdb/bvu3a9XkNnCk9ecsex9I3oqGYwg-1200-1200-675-675-crop-000000.jpg?v=c7154b1b81
 
 - id: isle-of-the-dead
   tmdb_id: 30348
@@ -542,10 +633,12 @@
   director: Mark Robson
   tags: { opacity: 2, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.65 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
-  letterboxd_slug: isle-of-the-dead
+  letterboxd_slug_hint: isle-of-the-dead
   genres:
     - Horror
   letterboxd_rating: 3.3
+  letterboxd_slug: isle-of-the-dead
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/t5/6y/pm/hk/IsleOfTheDead-1200-1200-675-675-crop-000000.jpg?v=ef393e1d7a
 
 - id: bedlam
   tmdb_id: 24111
@@ -555,11 +648,13 @@
   director: Mark Robson
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 2, acclaim: 0.7 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
-  letterboxd_slug: bedlam
+  letterboxd_slug_hint: bedlam
   genres:
     - Thriller
     - Drama
   letterboxd_rating: 3.39
+  letterboxd_slug: bedlam
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/dg/eq/7g/al/bedlam-1200-1200-675-675-crop-000000.jpg?v=7216c83052
 
 - id: the-secret-life-of-walter-mitty-1947
   tmdb_id: 40092
@@ -569,7 +664,14 @@
   director: Norman Z. McLeod
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.6 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
-  letterboxd_slug: the-secret-life-of-walter-mitty-1947
+  letterboxd_slug_hint: the-secret-life-of-walter-mitty
+  letterboxd_slug: the-secret-life-of-walter-mitty
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/d2/99/zc/3h/7ZN2tFnDfepcCrB5b87MFDu4ZyY-1200-1200-675-675-crop-000000.jpg?v=0b9235a574
+  genres:
+    - Fantasy
+    - Romance
+    - Comedy
+  letterboxd_rating: 3.39
 
 - id: lured
   tmdb_id: 30308
@@ -579,12 +681,14 @@
   director: Douglas Sirk
   tags: { opacity: 2, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.65 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
-  letterboxd_slug: lured
+  letterboxd_slug_hint: lured
   genres:
     - Mystery
     - Thriller
     - Crime
   letterboxd_rating: 3.47
+  letterboxd_slug: lured
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ns/pc/j2/ae/8LINhcHZBm4kiDgV57cXFraaoNA-1200-1200-675-675-crop-000000.jpg?v=87c4761d75
 
 - id: unconquered
   tmdb_id: 72241
@@ -594,12 +698,14 @@
   director: Cecil B. DeMille
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.5 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
-  letterboxd_slug: unconquered
+  letterboxd_slug_hint: unconquered
   genres:
     - Adventure
     - Drama
     - History
   letterboxd_rating: 3.32
+  letterboxd_slug: unconquered
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/q7/rx/2j/yy/gzTJHRJyJjSrh20e7fNm6TkthkH-1200-1200-675-675-crop-000000.jpg?v=068b531fc3
 
 - id: dick-tracy-meets-gruesome
   tmdb_id: 70702
@@ -609,13 +715,15 @@
   director: John Rawlins
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 2, acclaim: 0.5 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
-  letterboxd_slug: dick-tracy-meets-gruesome
+  letterboxd_slug_hint: dick-tracy-meets-gruesome
   genres:
     - Thriller
     - Crime
     - Mystery
     - Action
   letterboxd_rating: 3.1
+  letterboxd_slug: dick-tracy-meets-gruesome
+  poster_url: https://a.ltrbxd.com/resized/film-poster/5/8/7/6/1/58761-dick-tracy-meets-gruesome-0-230-0-345-crop.jpg?v=8680fbeb07
 
 - id: tap-roots
   tmdb_id: 30665
@@ -625,26 +733,31 @@
   director: George Marshall
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.4 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
-  letterboxd_slug: tap-roots
+  letterboxd_slug_hint: tap-roots
   genres:
     - Drama
     - War
     - Western
+  letterboxd_slug: tap-roots
+  poster_url: https://a.ltrbxd.com/resized/film-poster/3/1/8/4/6/31846-tap-roots-0-230-0-345-crop.jpg?v=6366088e46
 
 - id: abbott-and-costello-meet-the-killer-boris-karloff
   tmdb_id: 33477
   title: "Abbott and Costello Meet the Killer, Boris Karloff"
+  letterboxd_title: "Bud Abbott and Lou Costello Meet the Killer, Boris Karloff"
   year: 1949
   runtime: 84
   director: Charles Barton
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.45 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
-  letterboxd_slug: abbott-and-costello-meet-the-killer-boris-karloff
+  letterboxd_slug_hint: abbott-and-costello-meet-the-killer-boris-karloff
   genres:
     - Mystery
     - Horror
     - Comedy
   letterboxd_rating: 3.22
+  letterboxd_slug: abbott-and-costello-meet-the-killer-boris-karloff
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/t0/be/k0/me/gfaDcnvJ1odvZ1r7IMWgyGUBpyo-1200-1200-675-675-crop-000000.jpg?v=9ff4105c22
 
 - id: the-strange-door
   tmdb_id: 39409
@@ -654,11 +767,13 @@
   director: Joseph Pevney
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.45 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
-  letterboxd_slug: the-strange-door
+  letterboxd_slug_hint: the-strange-door
   genres:
     - Thriller
     - Horror
   letterboxd_rating: 3.18
+  letterboxd_slug: the-strange-door
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/y8/v7/x9/yy/NTUyfMVzqfzZP27tv9sqqidOeN-1200-1200-675-675-crop-000000.jpg?v=f8ad40f45c
 
 - id: the-black-castle
   tmdb_id: 30345
@@ -668,11 +783,13 @@
   director: Nathan Juran
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.45 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
-  letterboxd_slug: the-black-castle
+  letterboxd_slug_hint: the-black-castle
   genres:
     - Horror
     - Mystery
   letterboxd_rating: 3.01
+  letterboxd_slug: the-black-castle
+  poster_url: https://a.ltrbxd.com/resized/alternative-backdrop/3/2/1/0/8/tmdb/m4mmwhn756Bpc0gFLYIL9cyFej5-1200-1200-675-675-crop-000000.jpg?v=98557a3f47
 
 - id: abbott-and-costello-meet-dr-jekyll-and-mr-hyde
   tmdb_id: 3023
@@ -682,13 +799,15 @@
   director: Charles Lamont
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.45 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
-  letterboxd_slug: abbott-and-costello-meet-dr-jekyll-and-mr-hyde
+  letterboxd_slug_hint: abbott-and-costello-meet-dr-jekyll-and-mr-hyde
   genres:
     - Horror
     - Comedy
     - Mystery
     - Science Fiction
   letterboxd_rating: 3.09
+  letterboxd_slug: abbott-and-costello-meet-dr-jekyll-and-mr-hyde
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/xi/ds/43/6p/aM81XfMvYyb1Qpig5rp8tOodRjt-1200-1200-675-675-crop-000000.jpg?v=f79e62e85b
 
 - id: sabaka
   tmdb_id: 281449
@@ -698,9 +817,11 @@
   director: Frank Ferrin
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.2 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
-  letterboxd_slug: sabaka
+  letterboxd_slug_hint: sabaka
   genres:
     - Adventure
+  letterboxd_slug: sabaka
+  poster_url: https://a.ltrbxd.com/resized/film-poster/2/0/6/7/7/1/206771-sabaka-0-230-0-345-crop.jpg?v=dd03453e5d
 
 - id: the-island-monster
   tmdb_id: 65380
@@ -710,10 +831,12 @@
   director: Roberto Bianchi Montero
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.15 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
-  letterboxd_slug: the-island-monster
+  letterboxd_slug_hint: the-island-monster
   genres:
     - Crime
     - Thriller
+  letterboxd_slug: the-island-monster
+  poster_url: https://a.ltrbxd.com/resized/film-poster/1/4/5/2/1452-the-island-monster-0-230-0-345-crop.jpg?v=0abbcc4bf4
 
 - id: voodoo-island
   tmdb_id: 38260
@@ -723,26 +846,31 @@
   director: Reginald Le Borg
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.25 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
-  letterboxd_slug: voodoo-island
+  letterboxd_slug_hint: voodoo-island
   genres:
     - Horror
   letterboxd_rating: 2.71
+  letterboxd_slug: voodoo-island
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/y1/uy/6j/vc/8AseANZxMecZmcyjNMIErP13G8W-1200-1200-675-675-crop-000000.jpg?v=5c5e4207a2
 
 - id: the-haunted-strangler
   tmdb_id: 86667
   title: The Haunted Strangler
+  letterboxd_title: Grip of the Strangler
   year: 1958
   runtime: 78
   director: Robert Day
   tags: { opacity: 2, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
-  letterboxd_slug: the-haunted-strangler
+  letterboxd_slug_hint: the-haunted-strangler
   genres:
     - Crime
     - Mystery
     - Horror
     - Thriller
   letterboxd_rating: 3.03
+  letterboxd_slug: the-haunted-strangler
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/4q/3v/85/ot/haunted%20strangler-1200-1200-675-675-crop-000000.jpg?v=a06daffc20
 
 - id: frankenstein-1970
   tmdb_id: 3164
@@ -752,11 +880,13 @@
   director: Howard W. Koch
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.3 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
-  letterboxd_slug: frankenstein-1970
+  letterboxd_slug_hint: frankenstein-1970
   genres:
     - Horror
     - Science Fiction
   letterboxd_rating: 2.56
+  letterboxd_slug: frankenstein-1970
+  poster_url: https://a.ltrbxd.com/resized/alternative-backdrop/4/9/8/2/2/tmdb/t2P3XVHOqpghcLYfqOMYhyl0Jb1-1200-1200-675-675-crop-000000.jpg?v=587a739ddb
 
 - id: corridors-of-blood
   tmdb_id: 30637
@@ -766,12 +896,14 @@
   director: Robert Day
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.6 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
-  letterboxd_slug: corridors-of-blood
+  letterboxd_slug_hint: corridors-of-blood
   genres:
     - Drama
     - Horror
     - Crime
   letterboxd_rating: 3.17
+  letterboxd_slug: corridors-of-blood
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/c6/7t/9p/5e/corridors-1200-1200-675-675-crop-000000.jpg?v=4a7a02323c
 
 - id: the-terror-1963
   tmdb_id: 31655
@@ -781,11 +913,13 @@
   director: Roger Corman
   tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.35 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
-  letterboxd_slug: the-terror
+  letterboxd_slug_hint: the-terror
   genres:
     - Mystery
     - Horror
   letterboxd_rating: 2.76
+  letterboxd_slug: the-terror
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/1t/jz/09/rd/oWsCfVcICDo0gOfME1LHhcWFh0G-1200-1200-675-675-crop-000000.jpg?v=6fc19e5075
 
 - id: black-sabbath
   tmdb_id: 28043
@@ -795,10 +929,12 @@
   director: Mario Bava
   tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
-  letterboxd_slug: black-sabbath
+  letterboxd_slug_hint: black-sabbath
   genres:
     - Horror
   letterboxd_rating: 3.64
+  letterboxd_slug: black-sabbath
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/gc/k5/zg/1h/black%20sabbath-1200-1200-675-675-crop-000000.jpg?v=ff362a48e6
 
 - id: the-comedy-of-terrors
   tmdb_id: 29486
@@ -808,12 +944,14 @@
   director: Jacques Tourneur
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 4, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
-  letterboxd_slug: the-comedy-of-terrors
+  letterboxd_slug_hint: the-comedy-of-terrors
   genres:
     - Comedy
     - Horror
     - Crime
   letterboxd_rating: 3.25
+  letterboxd_slug: the-comedy-of-terrors
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/lb/au/dm/xa/comedy-1200-1200-675-675-crop-000000.jpg?v=d10523b564
 
 - id: bikini-beach
   tmdb_id: 39113
@@ -823,12 +961,14 @@
   director: William Asher
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.3 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
-  letterboxd_slug: bikini-beach
+  letterboxd_slug_hint: bikini-beach
   genres:
     - Music
     - Comedy
     - Romance
   letterboxd_rating: 2.87
+  letterboxd_slug: bikini-beach
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/bo/vx/7d/tl/2cJXO5X4EZkIbIyWPaw1BNT9zKT-1200-1200-675-675-crop-000000.jpg?v=1c135740da
 
 - id: die-monster-die
   tmdb_id: 29067
@@ -838,11 +978,13 @@
   director: Daniel Haller
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.4 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
-  letterboxd_slug: die-monster-die
+  letterboxd_slug_hint: die-monster-die
   genres:
     - Science Fiction
     - Horror
   letterboxd_rating: 2.99
+  letterboxd_slug: die-monster-die
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/zq/t1/w1/tw/qBUsIKAUKUrnq522KpjGFvSBpxy-1200-1200-675-675-crop-000000.jpg?v=e662b9bd76
 
 - id: the-ghost-in-the-invisible-bikini
   tmdb_id: 86343
@@ -852,12 +994,14 @@
   director: Don Weis
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.2 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
-  letterboxd_slug: the-ghost-in-the-invisible-bikini
+  letterboxd_slug_hint: the-ghost-in-the-invisible-bikini
   genres:
     - Music
     - Comedy
     - Horror
   letterboxd_rating: 2.82
+  letterboxd_slug: the-ghost-in-the-invisible-bikini
+  poster_url: https://a.ltrbxd.com/resized/film-poster/7/3/0/1/3/73013-the-ghost-in-the-invisible-bikini-0-230-0-345-crop.jpg?v=2b8ccd140c
 
 - id: the-daydreamer
   tmdb_id: 83811
@@ -867,7 +1011,7 @@
   director: Jules Bass
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 2, acclaim: 0.4 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
-  letterboxd_slug: the-daydreamer
+  letterboxd_slug_hint: the-daydreamer
   genres:
     - Adventure
     - Music
@@ -875,6 +1019,8 @@
     - Animation
     - Family
   letterboxd_rating: 3.2
+  letterboxd_slug: the-daydreamer
+  poster_url: https://a.ltrbxd.com/resized/film-poster/7/0/2/3/7/70237-the-daydreamer-0-230-0-345-crop.jpg?v=c747817955
 
 - id: the-venetian-affair
   tmdb_id: 79367
@@ -884,11 +1030,13 @@
   director: Jerry Thorpe
   tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.35 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
-  letterboxd_slug: the-venetian-affair
+  letterboxd_slug_hint: the-venetian-affair
   genres:
     - Action
     - Thriller
   letterboxd_rating: 3.14
+  letterboxd_slug: the-venetian-affair
+  poster_url: https://a.ltrbxd.com/resized/film-poster/6/5/7/6/8/65768-the-venetian-affair-0-230-0-345-crop.jpg?v=9ae375adb9
 
 - id: mad-monster-party
   tmdb_id: 17278
@@ -898,7 +1046,7 @@
   director: Jules Bass
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.6 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
-  letterboxd_slug: mad-monster-party
+  letterboxd_slug_hint: mad-monster-party
   genres:
     - Animation
     - Comedy
@@ -906,6 +1054,8 @@
     - Music
     - Family
   letterboxd_rating: 3.31
+  letterboxd_slug: mad-monster-party
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/t7/j9/5q/c2/a5N27X4vtsYMdbmW7HxEpBY0nQn-1200-1200-675-675-crop-000000.jpg?v=4fef7b9365
 
 - id: the-sorcerers
   tmdb_id: 73203
@@ -915,10 +1065,12 @@
   director: Michael Reeves
   tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.65 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
-  letterboxd_slug: the-sorcerers
+  letterboxd_slug_hint: the-sorcerers
   genres:
     - Horror
   letterboxd_rating: 3.23
+  letterboxd_slug: the-sorcerers
+  poster_url: https://a.ltrbxd.com/resized/alternative-backdrop/5/6/2/9/7/tmdb/yhh5Utl3xyUVJJcN6VoC9Z69M6n-1200-1200-675-675-crop-000000.jpg?v=db250240be
 
 - id: curse-of-the-crimson-altar
   tmdb_id: 28073
@@ -928,11 +1080,13 @@
   director: Vernon Sewell
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.3 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
-  letterboxd_slug: curse-of-the-crimson-altar
+  letterboxd_slug_hint: curse-of-the-crimson-altar
   genres:
     - Mystery
     - Horror
   letterboxd_rating: 2.87
+  letterboxd_slug: curse-of-the-crimson-altar
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/tm/36/9r/dz/5vHQwrTWqXa5uY4v5Phu5DNXqkI-1200-1200-675-675-crop-000000.jpg?v=dde9d79667
 
 - id: cauldron-of-blood
   tmdb_id: 87472
@@ -942,25 +1096,30 @@
   director: Santos Alcocer
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.15 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
-  letterboxd_slug: cauldron-of-blood
+  letterboxd_slug_hint: cauldron-of-blood
   genres:
     - Mystery
     - Crime
     - Horror
   letterboxd_rating: 2.86
+  letterboxd_slug: cauldron-of-blood
+  poster_url: https://a.ltrbxd.com/resized/film-poster/7/3/6/7/4/73674-cauldron-of-blood-0-230-0-345-crop.jpg?v=437464a40f
 
 - id: house-of-evil
   tmdb_id: 80655
   title: House of Evil
+  letterboxd_title: Macabre Serenade
   year: 1968
   runtime: 89
   director: Juan Ibáñez
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.15 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
-  letterboxd_slug: house-of-evil
+  letterboxd_slug_hint: macabre-serenade
   genres:
     - TV Movie
     - Horror
+  letterboxd_slug: macabre-serenade
+  poster_url: https://a.ltrbxd.com/resized/film-poster/6/7/1/0/0/67100-macabre-serenade-0-230-0-345-crop.jpg?v=0aaf7f0913
 
 - id: fear-chamber
   tmdb_id: 49439
@@ -970,10 +1129,12 @@
   director: Juan Ibáñez
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.1 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
-  letterboxd_slug: fear-chamber
+  letterboxd_slug_hint: fear-chamber
   genres:
     - Horror
   letterboxd_rating: 2.89
+  letterboxd_slug: fear-chamber
+  poster_url: https://a.ltrbxd.com/resized/film-poster/1/6/1/6/9/16169-fear-chamber-0-230-0-345-crop.jpg?v=fd8878ea54
 
 - id: isle-of-the-snake-people
   tmdb_id: 50688
@@ -983,20 +1144,25 @@
   director: Juan Ibáñez
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.1 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
-  letterboxd_slug: isle-of-the-snake-people
+  letterboxd_slug_hint: isle-of-the-snake-people
   genres:
     - Horror
   letterboxd_rating: 2.6
+  letterboxd_slug: isle-of-the-snake-people
+  poster_url: https://a.ltrbxd.com/resized/film-poster/1/5/0/1/1/15011-isle-of-the-snake-people-0-230-0-345-crop.jpg?v=4bbd21d9f0
 
 - id: the-incredible-invasion
   tmdb_id: 42523
   title: The Incredible Invasion
+  letterboxd_title: Alien Terror
   year: 1971
   runtime: 90
   director: Juan Ibáñez
   tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.1 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
-  letterboxd_slug: alien-terror
+  letterboxd_slug_hint: alien-terror
   genres:
     - Horror
     - Science Fiction
+  letterboxd_slug: alien-terror
+  poster_url: https://a.ltrbxd.com/resized/film-poster/2/2/5/6/0/22560-alien-terror-0-230-0-345-crop.jpg?v=1b3fcf6787
