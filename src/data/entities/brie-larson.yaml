@@ -38,6 +38,214 @@ films:
     gateway: 4
     note: A popular high schooler who becomes the love interest of one of the film's undercover cops, playing easy warmth inside a broad comedy.
 
+  - film: 13-going-on-30
+    signature: 1
+    showcase: 1
+    role_size: cameo
+    register: comic
+    gateway: 4
+    note: One of the Six Chicks, the popular clique in the 1987 prologue.
+
+  - film: sleepover
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: menacing
+    gateway: 2
+    note: One of the popular girls on the rival side of a scavenger hunt.
+
+  - film: hoot
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: warm
+    gateway: 2
+    note: A fearsome soccer player who turns out to be protecting her runaway stepbrother.
+
+  - film: remember-the-daze
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 1
+    note: One of a sprawl of teenagers on the last day of school in 1999.
+
+  - film: house-broken
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 1
+    note: A cheerleader girlfriend of one of two sons who refuse to leave home.
+
+  - film: just-peck
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: warm
+    gateway: 1
+    note: The senior a skinny sophomore sets his sights on.
+
+  - film: tanner-hall
+    signature: 1
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 1
+    note: The flirt among four boarding-school friends, testing a teacher.
+
+  - film: the-trouble-with-bliss
+    signature: 1
+    showcase: 3
+    role_size: supporting
+    register: comic
+    gateway: 1
+    note: An eighteen-year-old who takes up with an aimless man twice her age, the daughter of his old classmate.
+
+  - film: rampart
+    signature: 1
+    showcase: 3
+    role_size: supporting
+    register: restrained
+    gateway: 2
+    note: The elder daughter of a corrupt Los Angeles cop, the one person whose contempt reaches him.
+
+  - film: the-gambler-2014
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: restrained
+    gateway: 2
+    note: A gifted student drawn to her self-destructive literature professor.
+
+  - film: kong-skull-island
+    signature: 2
+    showcase: 2
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: An anti-war photojournalist who talks her way onto an expedition to an uncharted island.
+
+  - film: free-fire
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: comic
+    gateway: 3
+    note: The broker of an arms deal that turns into a ninety-minute warehouse shoot-out.
+
+  - film: the-glass-castle
+    signature: 2
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A gossip columnist hiding a childhood spent on the run with her brilliant, drunken father.
+
+  - film: unicorn-store
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: warm
+    gateway: 2
+    note: A failed art student offered the unicorn she always wanted, in a film she also directed.
+
+  - film: basmati-blues
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: warm
+    gateway: 1
+    note: A scientist sent to India to sell genetically modified rice, in a musical.
+
+  - film: the-marvels
+    signature: 2
+    showcase: 2
+    role_size: lead
+    register: warm
+    gateway: 3
+    note: Carol Danvers again, now swapping places with two other heroes whenever she uses her powers.
+
+  - film: the-super-mario-galaxy-movie
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: warm
+    gateway: 4
+    note: The voice of Rosalina.
+
+  - film: greenberg
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 2
+    note: A college-age relative at a house party the hero has no business attending.
+
+  - film: scott-pilgrim-vs-the-world
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: menacing
+    gateway: 4
+    note: Envy Adams, the rock-star ex whose return flattens the hero.
+
+  - film: the-spectacular-now
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: restrained
+    gateway: 3
+    note: The ex-girlfriend who has decided she needs someone with a future.
+
+  - film: don-jon
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 3
+    note: A sister who never looks up from her phone and then says the one true thing.
+
+  - film: trainwreck
+    signature: 1
+    showcase: 3
+    role_size: supporting
+    register: warm
+    gateway: 4
+    note: The settled younger sister, exasperated and loyal.
+
+  - film: digging-for-fire
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: warm
+    gateway: 1
+    note: A woman who joins a married man's backyard excavation for an evening.
+
+  - film: avengers-endgame
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: restrained
+    gateway: 4
+    note: Captain Marvel, arriving when the fight needs her.
+
+  - film: just-mercy
+    signature: 1
+    showcase: 3
+    role_size: supporting
+    register: warm
+    gateway: 3
+    note: The local advocate who helps found a legal defence office in Alabama.
+
+  - film: fast-x
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: restrained
+    gateway: 3
+    note: A rogue agent and the daughter of a familiar ally.
+
 curated:
   curator: house
   rationale: The two performances built entirely on raw emotional access, then the franchise lead that asked for something more guarded.
@@ -46,3 +254,6 @@ curated:
     - captain-marvel
     - short-term-12
     - room
+    - the-spectacular-now
+    - kong-skull-island
+    - scott-pilgrim-vs-the-world

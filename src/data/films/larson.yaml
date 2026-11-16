@@ -1,5 +1,13 @@
 # New films for Brie Larson. Scales and anchors are in README.md ("The anchor rubric").
 #
+# Free wins (verified by matching tmdb_id): greenberg (stiller.yaml), scott-pilgrim-vs-the-world
+# (cera.yaml), the-spectacular-now (teller.yaml), don-jon (hathaway.yaml), trainwreck
+# (hader.yaml), digging-for-fire (kendrick.yaml), avengers-endgame (angela-bassett.yaml),
+# just-mercy (michael-b-jordan.yaml), fast-x (jason-momoa.yaml). Excluded: the TV movie Right on
+# Track, bit parts (Madison, Farce of the Penguins), shorts, appearances as herself (Between Two
+# Ferns: The Movie), narration (Fantastic Fungi) and her uncredited Shang-Chi scene. Not yet
+# released as of 2026-11-16: Skeletons, One Italian Summer.
+#
 # 21 Jump Street already exists in hill.yaml — tagged before she had an entity.
 
 - id: room
@@ -51,3 +59,283 @@
     - Science Fiction
     - Action
     - Adventure
+
+- id: 13-going-on-30
+  tmdb_id: 10096
+  title: "13 Going on 30"
+  year: 2004
+  runtime: 98
+  director: Gary Winick
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.6 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug_hint: 13-going-on-30-3
+  letterboxd_slug: 13-going-on-30-3
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/9j/o0/n4/0a/13-going-on-30-1200-1200-675-675-crop-000000.jpg?v=f6fb144157
+  genres:
+    - Comedy
+    - Romance
+    - Fantasy
+  letterboxd_rating: 3.65
+
+- id: sleepover
+  tmdb_id: 9893
+  title: Sleepover
+  year: 2004
+  runtime: 89
+  director: Joe Nussbaum
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.25 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug_hint: sleepover
+  letterboxd_slug: sleepover
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/id/qb/xc/ab/6alQcAv7ofMudb3ABlJGPztTNJc-1200-1200-675-675-crop-000000.jpg?v=f0363e37cd
+  genres:
+    - Family
+    - Comedy
+  letterboxd_rating: 2.94
+
+- id: hoot
+  tmdb_id: 18276
+  title: Hoot
+  year: 2006
+  runtime: 91
+  director: Wil Shriner
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 2, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug_hint: hoot
+  letterboxd_slug: hoot
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ck/3o/2j/cl/gFW5mIY0vSUiTlVJRIgSSYTmDXL-1200-1200-675-675-crop-000000.jpg?v=a09910c25f
+  genres:
+    - Family
+    - Adventure
+  letterboxd_rating: 2.63
+
+- id: remember-the-daze
+  tmdb_id: 20224
+  title: Remember the Daze
+  year: 2007
+  runtime: 101
+  director: Jess Bond
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.25 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug_hint: remember-the-daze
+  letterboxd_slug: remember-the-daze
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/7q/13/qq/7e/zNnCdjKsNXkkB78mEeuJT2KQVPI-1200-1200-675-675-crop-000000.jpg?v=1ac81df662
+  genres:
+    - Comedy
+    - Drama
+  letterboxd_rating: 2.64
+
+- id: house-broken
+  tmdb_id: 28210
+  title: House Broken
+  year: 2009
+  runtime: 84
+  director: Sam Harper
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.15 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug_hint: house-broken
+  letterboxd_slug: house-broken
+  poster_url: https://a.ltrbxd.com/resized/film-poster/3/3/8/2/4/33824-house-broken-0-230-0-345-crop.jpg?v=96c35627c9
+  genres:
+    - Comedy
+  letterboxd_rating: 2.58
+
+- id: just-peck
+  tmdb_id: 39773
+  title: Just Peck
+  year: 2009
+  runtime: 90
+  director: Michael A. Nickles
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.2 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug_hint: just-peck
+  letterboxd_slug: just-peck
+  poster_url: https://a.ltrbxd.com/resized/film-poster/2/5/0/8/7/25087-just-peck-0-230-0-345-crop.jpg?v=326e3104f4
+  genres:
+    - Comedy
+    - Family
+  letterboxd_rating: 3.03
+
+- id: tanner-hall
+  tmdb_id: 71866
+  title: Tanner Hall
+  year: 2009
+  runtime: 96
+  director: "Tatiana von Fürstenberg, Francesca Gregorini"
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug_hint: tanner-hall
+  letterboxd_slug: tanner-hall
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/uw/i2/u4/w5/tanner-hall-1200-1200-675-675-crop-000000.jpg?v=f139456c53
+  genres:
+    - Drama
+  letterboxd_rating: 2.76
+
+- id: the-trouble-with-bliss
+  tmdb_id: 90122
+  title: The Trouble with Bliss
+  year: 2011
+  runtime: 97
+  director: Michael Knowles
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.3 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug_hint: the-trouble-with-bliss
+  letterboxd_slug: the-trouble-with-bliss
+  poster_url: https://a.ltrbxd.com/resized/film-poster/7/5/6/8/5/75685-the-trouble-with-bliss-0-230-0-345-crop.jpg?v=6e901d8ce7
+  genres:
+    - Romance
+    - Comedy
+    - Drama
+  letterboxd_rating: 2.68
+
+- id: rampart
+  tmdb_id: 75622
+  title: Rampart
+  year: 2011
+  runtime: 108
+  director: Oren Moverman
+  tags: { opacity: 2, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.6 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  letterboxd_slug_hint: rampart
+  letterboxd_slug: rampart
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/8r/cx/oc/nf/rampart-1200-1200-675-675-crop-000000.jpg?v=26c7b7e82a
+  genres:
+    - Crime
+    - Drama
+  letterboxd_rating: 3.02
+
+- id: the-gambler-2014
+  tmdb_id: 284536
+  title: The Gambler
+  year: 2014
+  runtime: 111
+  director: Rupert Wyatt
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.4 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug_hint: the-gambler-2014
+  letterboxd_slug: the-gambler-2014
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/2f/wa/vy/7f/the-gambler-1200-1200-675-675-crop-000000.jpg?v=477acb6815
+  genres:
+    - Thriller
+    - Crime
+    - Drama
+  letterboxd_rating: 2.88
+
+- id: kong-skull-island
+  tmdb_id: 293167
+  title: "Kong: Skull Island"
+  year: 2017
+  runtime: 118
+  director: Jordan Vogt-Roberts
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug_hint: kong-skull-island
+  letterboxd_slug: kong-skull-island
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/xm/xm/sp/lj/kong-skull-island-1200-1200-675-675-crop-000000.jpg?v=e5527d0d99
+  genres:
+    - Action
+    - Adventure
+    - Fantasy
+  letterboxd_rating: 3.15
+
+- id: free-fire
+  tmdb_id: 334521
+  title: Free Fire
+  year: 2016
+  runtime: 91
+  director: Ben Wheatley
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug_hint: free-fire
+  letterboxd_slug: free-fire
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ag/un/ka/rl/free-fire-1200-1200-675-675-crop-000000.jpg?v=ea6802e722
+  genres:
+    - Action
+    - Mystery
+    - Crime
+  letterboxd_rating: 3.16
+
+- id: the-glass-castle
+  tmdb_id: 336000
+  title: The Glass Castle
+  year: 2017
+  runtime: 127
+  director: Destin Daniel Cretton
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug_hint: the-glass-castle-2017
+  letterboxd_slug: the-glass-castle-2017
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ct/md/u2/j2/glass-castle-1200-1200-675-675-crop-000000.jpg?v=5f506aabe3
+  genres:
+    - Drama
+  letterboxd_rating: 3.36
+
+- id: unicorn-store
+  tmdb_id: 423949
+  title: Unicorn Store
+  year: 2017
+  runtime: 91
+  director: Brie Larson
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.5 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug_hint: unicorn-store
+  letterboxd_slug: unicorn-store
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ci/1a/vl/u7/unicorn-store-1200-1200-675-675-crop-000000.jpg?v=986b87778c
+  genres:
+    - Fantasy
+    - Comedy
+    - Drama
+  letterboxd_rating: 2.83
+
+- id: basmati-blues
+  tmdb_id: 271715
+  title: Basmati Blues
+  year: 2017
+  runtime: 106
+  director: Dan Baron
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 2, acclaim: 0.1 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug_hint: basmati-blues
+  letterboxd_slug: basmati-blues
+  poster_url: https://a.ltrbxd.com/resized/film-poster/1/9/4/9/7/4/194974-basmati-blues-0-230-0-345-crop.jpg?v=878b69b20d
+  genres:
+    - Comedy
+    - Romance
+    - Music
+  letterboxd_rating: 1.95
+
+- id: the-marvels
+  tmdb_id: 609681
+  title: The Marvels
+  year: 2023
+  runtime: 105
+  director: Nia DaCosta
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.4 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug_hint: the-marvels
+  letterboxd_slug: the-marvels
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/g6/6a/9u/jz/marvels-1200-1200-675-675-crop-000000.jpg?v=d4e9e286b4
+  genres:
+    - Science Fiction
+    - Adventure
+    - Action
+  letterboxd_rating: 2.4
+
+- id: the-super-mario-galaxy-movie
+  tmdb_id: 1226863
+  title: The Super Mario Galaxy Movie
+  year: 2026
+  runtime: 98
+  director: "Aaron Horvath, Michael Jelenic"
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.5 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug_hint: the-super-mario-galaxy-movie
+  letterboxd_slug: the-super-mario-galaxy-movie
+  poster_url: https://a.ltrbxd.com/resized/alternative-backdrop/1/1/1/0/0/8/0/tmdb/cQ2BhusmYE5FOZZ66fjq9Jy3w9U-1200-1200-675-675-crop-000000.jpg?v=bb50634a5d
+  genres:
+    - Adventure
+    - Fantasy
+    - Family
+    - Animation
+    - Comedy
+  letterboxd_rating: 2.88
