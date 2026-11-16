@@ -913,11 +913,12 @@
   runtime: 90
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.35 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
-  letterboxd_slug: crossroads-2006
-  poster_url: https://a.ltrbxd.com/resized/film-poster/6/1/7/1/1/4/617114--0-230-0-345-crop.jpg?v=e529ca63f8
+  letterboxd_slug_hint: crossroads-2006-1
+  letterboxd_slug: crossroads-2006-1
+  poster_url: https://a.ltrbxd.com/resized/film-poster/2/1/0/4/7/21047-crossroads-2006-1-0-230-0-345-crop.jpg?v=9919ba610e
   genres:
+    - Romance
     - Drama
-  letterboxd_rating: 3.04
 
 - id: rendition
   tmdb_id: 5125

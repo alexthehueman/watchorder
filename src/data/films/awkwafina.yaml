@@ -222,12 +222,13 @@
   runtime: 112
   tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
-  letterboxd_slug: swan-song-2021
-  poster_url: https://a.ltrbxd.com/resized/sm/upload/09/to/mn/en/swan-song-2021-1200-1200-675-675-crop-000000.jpg?v=fcb80d8680
+  letterboxd_slug_hint: swan-song-2021-1
+  letterboxd_slug: swan-song-2021-1
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/gq/7b/jw/0x/swan-song-2021-1200-1200-675-675-crop-000000.jpg?v=354bb143ff
   genres:
+    - Science Fiction
     - Drama
-    - Comedy
-  letterboxd_rating: 3.58
+  letterboxd_rating: 3.56
 
 - id: the-little-mermaid-2023
   tmdb_id: 447277
@@ -265,10 +266,15 @@
   runtime: 93
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.60 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
-  letterboxd_slug: migration
-  poster_url: https://a.ltrbxd.com/resized/film-poster/1/2/4/3/9/1/9/1243919-migration-0-230-0-345-crop.jpg?v=1e8c763f17
+  letterboxd_slug_hint: migration-2023
+  letterboxd_slug: migration-2023
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/4y/ja/je/g5/migration-1200-1200-675-675-crop-000000.jpg?v=a6b90d1945
   genres:
     - Animation
+    - Comedy
+    - Adventure
+    - Family
+  letterboxd_rating: 3.13
 
 - id: kung-fu-panda-4
   tmdb_id: 1011985

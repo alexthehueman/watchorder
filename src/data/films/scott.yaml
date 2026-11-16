@@ -144,10 +144,13 @@
   runtime: 92
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.40 }
   content: { sexual_violence: false, animal_harm: false, child_harm: true, suicide: false, violence: 1, sex: 0 }
-  letterboxd_slug: a-dark-place
-  poster_url: https://a.ltrbxd.com/resized/film-poster/5/2/1/8/1/8/521818-a-dark-place-0-230-0-345-crop.jpg?v=2509f9da55
+  letterboxd_slug_hint: a-dark-place-2018
+  letterboxd_slug: a-dark-place-2018
+  poster_url: https://a.ltrbxd.com/resized/film-poster/3/4/6/2/2/9/346229-steel-country-0-230-0-345-crop.jpg?v=d0015fc4b5
   genres:
-    - Drama
+    - Thriller
+    - Mystery
+  letterboxd_rating: 3
 
 - id: the-delinquent-season
   tmdb_id: 467915

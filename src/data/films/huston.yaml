@@ -182,16 +182,19 @@
 - id: the-cleanse
   tmdb_id: 298096
   title: The Cleanse
-  year: 2018
+  year: 2016
   runtime: 91
   tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.35 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
-  letterboxd_slug: the-cleanse-2018
-  poster_url: https://a.ltrbxd.com/resized/film-poster/5/0/2/4/4/4/502444-the-cleanse-0-230-0-345-crop.jpg?v=12358fd215
+  letterboxd_slug_hint: the-cleanse
+  letterboxd_slug: the-cleanse
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/vb/6t/ek/ba/the-cleanse-1200-1200-675-675-crop-000000.jpg?v=b05102c978
   genres:
-    - Thriller
+    - Drama
     - Comedy
+    - Fantasy
     - Horror
+  letterboxd_rating: 2.63
 
 - id: the-watcher-in-the-woods-2017
   tmdb_id: 479837

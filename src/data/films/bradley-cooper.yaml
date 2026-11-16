@@ -66,6 +66,11 @@
   director: Marc Evans
   tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.5 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  letterboxd_slug: my-little-eye
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/yj/g8/jb/or/my%20little%20eye-1200-1200-675-675-crop-000000.jpg?v=e425fd73ca
+  genres:
+    - Horror
+  letterboxd_rating: 2.9
 
 - id: bending-all-the-rules
   tmdb_id: 67685
@@ -75,6 +80,12 @@
   director: Morgan Klein
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 2, acclaim: 0.2 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: bending-all-the-rules
+  poster_url: https://a.ltrbxd.com/resized/film-poster/5/3/5/0/3/53503-bending-all-the-rules-0-230-0-345-crop.jpg?v=6fe0f0075d
+  genres:
+    - Comedy
+    - Romance
+  letterboxd_rating: 2.57
 
 - id: failure-to-launch
   tmdb_id: 6877
@@ -84,6 +95,12 @@
   director: Tom Dey
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.3 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: failure-to-launch
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/4v/f6/js/fm/failure%20to%20launch-1200-1200-675-675-crop-000000.jpg?v=5083df80b2
+  genres:
+    - Comedy
+    - Romance
+  letterboxd_rating: 2.64
 
 - id: the-comebacks
   tmdb_id: 10759
@@ -93,6 +110,11 @@
   director: Tom Brady
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.15 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: the-comebacks
+  poster_url: https://a.ltrbxd.com/resized/film-poster/4/5/9/2/3/45923-the-comebacks-0-230-0-345-crop.jpg?v=6a7d6aab09
+  genres:
+    - Comedy
+  letterboxd_rating: 2.21
 
 - id: older-than-america
   tmdb_id: 49429
@@ -102,6 +124,12 @@
   director: Georgina Lightning
   tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.4 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: older-than-america
+  poster_url: https://a.ltrbxd.com/resized/film-poster/1/6/1/7/8/16178-older-than-america-0-230-0-345-crop.jpg?v=d703a18702
+  genres:
+    - Drama
+    - Thriller
+  letterboxd_rating: 2.97
 
 - id: the-midnight-meat-train
   tmdb_id: 10185
@@ -111,6 +139,13 @@
   director: Ryuhei Kitamura
   tags: { opacity: 2, stillness: 1, bleakness: 5, humor: 1, acclaim: 0.5 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+  letterboxd_slug: the-midnight-meat-train
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ek/ci/53/p6/rlFaYFHwUmetf6VhKDIwrYEOeez-1200-1200-675-675-crop-000000.jpg?v=08a5ea5db2
+  genres:
+    - Horror
+    - Mystery
+    - Fantasy
+  letterboxd_rating: 2.73
 
 - id: the-rocker
   tmdb_id: 10186
@@ -120,6 +155,12 @@
   director: Peter Cattaneo
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.4 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: the-rocker
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/mt/4s/p2/t3/the-rocker-1200-1200-675-675-crop-000000.jpg?v=4e49e36121
+  genres:
+    - Music
+    - Comedy
+  letterboxd_rating: 2.89
 
 - id: new-york-i-love-you
   tmdb_id: 12572
@@ -129,6 +170,13 @@
   director: Fatih Akin
   tags: { opacity: 2, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.4 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: new-york-i-love-you
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/08/6k/gn/p0/new-york-i-love-you-1200-1200-675-675-crop-000000.jpg?v=30b4b20569
+  genres:
+    - Comedy
+    - Romance
+    - Drama
+  letterboxd_rating: 2.65
 
 - id: yes-man
   tmdb_id: 10201
@@ -138,6 +186,12 @@
   director: Peyton Reed
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.45 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: yes-man
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/7w/5r/ju/sn/yes-man-1200-1200-675-675-crop-000000.jpg?v=346712adfe
+  genres:
+    - Romance
+    - Comedy
+  letterboxd_rating: 3.2
 
 - id: all-about-steve
   tmdb_id: 23706
@@ -147,6 +201,11 @@
   director: Phil Traill
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.1 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: all-about-steve
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/pt/vy/tn/yo/all-about-steve-1200-1200-675-675-crop-000000.jpg?v=c9aa9fe037
+  genres:
+    - Comedy
+  letterboxd_rating: 2.2
 
 - id: case-39
   tmdb_id: 28355
@@ -156,6 +215,13 @@
   director: Christian Alvart
   tags: { opacity: 1, stillness: 1, bleakness: 4, humor: 1, acclaim: 0.25 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: case-39
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/zi/jm/9w/vw/case%2039-1200-1200-675-675-crop-000000.jpg?v=145de62ddb
+  genres:
+    - Horror
+    - Thriller
+    - Mystery
+  letterboxd_rating: 2.72
 
 - id: the-a-team
   tmdb_id: 34544
@@ -165,6 +231,13 @@
   director: Joe Carnahan
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.45 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: the-a-team
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/a3/8z/x5/8c/the-a-team-20-1200-1200-675-675-crop-000000.jpg?v=d71a89bfba
+  genres:
+    - Action
+    - Comedy
+    - Crime
+  letterboxd_rating: 2.89
 
 - id: limitless
   tmdb_id: 51876
@@ -174,15 +247,30 @@
   director: Neil Burger
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.6 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  letterboxd_slug: limitless
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/6q/o2/am/ws/limitless-1200-1200-675-675-crop-000000.jpg?v=98018eb1f5
+  genres:
+    - Thriller
+    - Science Fiction
+    - Mystery
+  letterboxd_rating: 3.39
 
 - id: hit-and-run-2012
   tmdb_id: 109513
-  title: Hit and Run
+  title: "Hit & Run"
   year: 2012
   runtime: 100
   director: David Palmer
   tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.4 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug_hint: hit-and-run-2012
+  letterboxd_slug: hit-and-run-2012
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/9r/wr/zz/w7/hit-and-run-1200-1200-675-675-crop-000000.jpg?v=2811f4105d
+  genres:
+    - Comedy
+    - Action
+    - Romance
+  letterboxd_rating: 2.85
 
 - id: the-words
   tmdb_id: 83686
@@ -192,6 +280,12 @@
   director: Brian Klugman
   tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.35 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: the-words
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/r8/tz/ma/b4/the-words-170-1200-1200-675-675-crop-000000.jpg?v=c1eb1a05f1
+  genres:
+    - Drama
+    - Thriller
+  letterboxd_rating: 3.16
 
 - id: serena
   tmdb_id: 164251
@@ -201,6 +295,11 @@
   director: Susanne Bier
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.2 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 2 }
+  letterboxd_slug: serena
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/k1/0a/8i/si/serena-1200-1200-675-675-crop-000000.jpg?v=81ed3e461a
+  genres:
+    - Drama
+  letterboxd_rating: 2.48
 
 - id: aloha
   tmdb_id: 222936
@@ -210,6 +309,13 @@
   director: Cameron Crowe
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.2 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: aloha
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/mw/09/uv/au/aloha-1200-1200-675-675-crop-000000.jpg?v=1cf03fa98e
+  genres:
+    - Comedy
+    - Romance
+    - Drama
+  letterboxd_rating: 2.24
 
 - id: burnt
   tmdb_id: 295964
@@ -219,6 +325,11 @@
   director: John Wells
   tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.35 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: burnt
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/wo/fo/ku/mp/burnt-1200-1200-675-675-crop-000000.jpg?v=1842a95ffb
+  genres:
+    - Drama
+  letterboxd_rating: 3.11
 
 - id: is-this-thing-on
   tmdb_id: 1140498
@@ -228,3 +339,10 @@
   director: Bradley Cooper
   tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.65 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: is-this-thing-on-2025
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/e5/6w/3u/dg/3qOVsTF1hcOYMNZ9TNl7S9Tm3Y6-1200-1200-675-675-crop-000000.jpg?v=de1dcfd7ed
+  genres:
+    - Comedy
+    - Drama
+    - Romance
+  letterboxd_rating: 3.4

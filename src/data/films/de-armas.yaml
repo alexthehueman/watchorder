@@ -317,11 +317,13 @@
   director: Ron Howard
   tags: { opacity: 2, stillness: 2, bleakness: 5, humor: 1, acclaim: 0.50 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
-  letterboxd_slug: eden-2025
-  poster_url: https://a.ltrbxd.com/resized/film-poster/1/3/0/4/3/1/9/1304319-eden-2025-0-230-0-345-crop.jpg?v=a9da6f17a3
+  letterboxd_slug_hint: eden-2024
+  letterboxd_slug: eden-2024
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/8h/8g/4c/yg/2eGyyyxwXD5cyUg2ehYcfcEebTu-1200-1200-675-675-crop-000000.jpg?v=09cdc79988
   genres:
-    - Romance
-    - Drama
+    - Thriller
+    - History
+  letterboxd_rating: 3
 
 - id: ballerina-2025
   tmdb_id: 541671

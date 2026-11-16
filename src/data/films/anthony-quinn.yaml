@@ -202,13 +202,15 @@
   runtime: 177
   tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.75 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
-  letterboxd_slug: the-message-1976
-  poster_url: https://a.ltrbxd.com/resized/sm/upload/5v/60/cx/d8/message-1200-1200-675-675-crop-000000.jpg?v=97972057be
+  letterboxd_slug_hint: the-message-1976-1
+  letterboxd_slug: the-message-1976-1
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/xl/a6/wh/sy/1NhT0qWlEj22UoTgvhTAzQJfZZi-1200-1200-675-675-crop-000000.jpg?v=9cf95e9bd0
   genres:
-    - Drama
     - History
+    - Action
     - Adventure
-  letterboxd_rating: 4.22
+    - Drama
+  letterboxd_rating: 3.97
 
 - id: lion-of-the-desert
   tmdb_id: 26843

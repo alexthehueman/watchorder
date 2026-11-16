@@ -530,10 +530,14 @@
   director: Michael Greenspan
   tags: { opacity: 2, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.5 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
-  letterboxd_slug: wrecked
-  poster_url: https://a.ltrbxd.com/resized/film-poster/3/5/3/3/9/35339-wrecked-0-230-0-345-crop.jpg?v=7a02ccde6f
+  letterboxd_slug_hint: wrecked-2010
+  letterboxd_slug: wrecked-2010
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/6c/is/n6/iq/wrecked-1200-1200-675-675-crop-000000.jpg?v=451bd291a6
   genres:
-    - Drama
+    - Thriller
+    - Mystery
+    - Horror
+  letterboxd_rating: 2.65
 
 - id: back-to-1942
   tmdb_id: 139329
@@ -698,10 +702,14 @@
   director: Paul Solet
   tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.55 }
   content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
-  letterboxd_slug: clean-2021
-  poster_url: https://a.ltrbxd.com/resized/film-poster/1/4/7/2/9/8/0/1472980-clean-2021-0-230-0-345-crop.jpg?v=8222fb7d3a
+  letterboxd_slug_hint: clean-2022-1
+  letterboxd_slug: clean-2022-1
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/0v/w4/6d/7v/A5OlbPn10H3E16CY8CT8fplWZy7-1200-1200-675-675-crop-000000.jpg?v=fed604fba9
   genres:
+    - Action
     - Drama
+    - Crime
+  letterboxd_rating: 2.57
 
 - id: manodrome
   tmdb_id: 843942
