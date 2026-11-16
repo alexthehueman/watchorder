@@ -70,6 +70,286 @@ films:
     gateway: 4
     note: A QVC executive who becomes an unexpected mentor and ally to the film's struggling inventor, playing understated warmth against the ensemble's chaos.
 
+  - film: my-little-eye
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 1
+    note: A lost hiker who stumbles into a webcam house and livens it up for one night.
+
+  - film: bending-all-the-rules
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: warm
+    gateway: 1
+    note: One of two men competing for a photographer who would rather not choose.
+
+  - film: failure-to-launch
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 2
+    note: One of the hero's two friends who also still live with their parents.
+
+  - film: the-comebacks
+    signature: 1
+    showcase: 1
+    role_size: cameo
+    register: comic
+    gateway: 1
+    note: A cowboy in a sports-movie spoof.
+
+  - film: older-than-america
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: restrained
+    gateway: 1
+    note: A government geologist drawn into a Native community's buried boarding-school history.
+
+  - film: the-midnight-meat-train
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: unhinged
+    gateway: 2
+    note: A photographer who becomes obsessed with following a butcher onto the last subway train.
+
+  - film: the-rocker
+    signature: 1
+    showcase: 1
+    role_size: cameo
+    register: comic
+    gateway: 2
+    note: The guitarist of the hair-metal band that fired its drummer on the way up.
+
+  - film: new-york-i-love-you
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: restrained
+    gateway: 1
+    note: A man in a cab on his way to meet a woman after a one-night stand, in one of the anthology's segments.
+
+  - film: yes-man
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: warm
+    gateway: 3
+    note: The best friend whose engagement party the hero keeps missing.
+
+  - film: all-about-steve
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: comic
+    gateway: 1
+    note: A news cameraman pursued across the country by a blind date.
+
+  - film: case-39
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: warm
+    gateway: 1
+    note: A child psychologist and friend of the heroine, with a fear of hornets.
+
+  - film: the-a-team
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: comic
+    gateway: 3
+    note: Face, the team's smooth-talking fixer.
+
+  - film: limitless
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 4
+    note: A stalled writer whose pill lets him use his whole brain, and who cannot afford to run out.
+
+  - film: hit-and-run-2012
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: menacing
+    gateway: 2
+    note: A dreadlocked bank robber hunting the getaway driver who testified against him.
+
+  - film: the-words
+    signature: 1
+    showcase: 3
+    role_size: lead
+    register: restrained
+    gateway: 2
+    note: A struggling novelist who passes off a found manuscript as his own.
+
+  - film: serena
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: restrained
+    gateway: 1
+    note: A Depression-era timber baron undone by his marriage.
+
+  - film: aloha
+    signature: 1
+    showcase: 2
+    role_size: lead
+    register: warm
+    gateway: 2
+    note: A burned-out military contractor back in Hawaii between an old love and a new one.
+
+  - film: burnt
+    signature: 2
+    showcase: 3
+    role_size: lead
+    register: unhinged
+    gateway: 3
+    note: A self-destructive chef chasing a third Michelin star in London.
+
+  - film: is-this-thing-on
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 2
+    note: The hero's actor friend, in a film he also directed and co-wrote.
+
+  - film: wet-hot-american-summer
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 3
+    note: A camp counsellor directing the talent show and conducting a secret romance, in his film debut.
+
+  - film: wedding-crashers
+    signature: 2
+    showcase: 3
+    role_size: supporting
+    register: menacing
+    gateway: 4
+    note: The heroine's preening, violent fiancé.
+
+  - film: hes-just-not-that-into-you
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: restrained
+    gateway: 3
+    note: A husband who married under an ultimatum and drifts into an affair.
+
+  - film: valentines-day
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: warm
+    gateway: 3
+    note: A passenger on a long flight sitting beside a soldier on leave.
+
+  - film: the-hangover-part-ii
+    signature: 3
+    showcase: 2
+    role_size: lead
+    register: comic
+    gateway: 4
+    note: Phil again, waking up in Bangkok.
+
+  - film: the-hangover-part-iii
+    signature: 2
+    showcase: 2
+    role_size: lead
+    register: comic
+    gateway: 3
+    note: Phil a third time, on a road trip that is no longer about a hangover.
+
+  - film: the-place-beyond-the-pines
+    signature: 2
+    showcase: 4
+    role_size: lead
+    register: restrained
+    gateway: 3
+    note: A rookie cop made a hero by a shooting he cannot stop thinking about.
+
+  - film: war-dogs
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: menacing
+    gateway: 3
+    note: A blacklisted arms dealer who needs two young hustlers as a front.
+
+  - film: guardians-of-the-galaxy-vol-2
+    signature: 2
+    showcase: 2
+    role_size: supporting
+    register: comic
+    gateway: 4
+    note: The voice of Rocket, picking fights he does not need.
+
+  - film: avengers-infinity-war
+    signature: 1
+    showcase: 1
+    role_size: supporting
+    register: comic
+    gateway: 4
+    note: The voice of Rocket, tagging along with Thor.
+
+  - film: the-mule
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: restrained
+    gateway: 3
+    note: A DEA agent closing in on a courier nobody would suspect.
+
+  - film: avengers-endgame
+    signature: 1
+    showcase: 2
+    role_size: supporting
+    register: restrained
+    gateway: 4
+    note: The voice of Rocket, one of the few left.
+
+  - film: licorice-pizza
+    signature: 2
+    showcase: 4
+    role_size: cameo
+    register: unhinged
+    gateway: 3
+    note: The producer Jon Peters as a coked-up menace in one extended sequence.
+
+  - film: guardians-of-the-galaxy-vol-3
+    signature: 3
+    showcase: 3
+    role_size: lead
+    register: warm
+    gateway: 4
+    note: The voice of Rocket in the film that finally tells his story.
+
+  - film: maestro
+    signature: 4
+    showcase: 5
+    role_size: lead
+    register: unhinged
+    gateway: 3
+    note: Leonard Bernstein across four decades of music and marriage, in a film he also directed and co-wrote.
+
+  - film: if-2024
+    signature: 1
+    showcase: 1
+    role_size: cameo
+    register: comic
+    gateway: 3
+    note: The voice of an ice cube in a glass of water.
+
 curated:
   curator: house
   rationale: The performance that made the dramatic range undeniable first, then the earlier roles that built toward it.
@@ -82,3 +362,6 @@ curated:
     - the-hangover
     - joy
     - guardians-of-the-galaxy
+    - maestro
+    - the-place-beyond-the-pines
+    - limitless

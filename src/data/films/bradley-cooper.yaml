@@ -1,5 +1,17 @@
 # New films for Bradley Cooper. Scales and anchors are in README.md ("The anchor rubric").
 #
+# Free wins (verified by matching tmdb_id): wet-hot-american-summer (poehler.yaml),
+# wedding-crashers (mcadams.yaml), hes-just-not-that-into-you (ben-affleck.yaml), valentines-day
+# (hathaway.yaml), the-hangover-part-ii + the-hangover-part-iii (ken-jeong.yaml),
+# the-place-beyond-the-pines (mahershala-ali.yaml), war-dogs (hill.yaml),
+# guardians-of-the-galaxy-vol-2 (debicki.yaml), avengers-infinity-war (brolin.yaml), the-mule
+# (eastwood.yaml), avengers-endgame (angela-bassett.yaml), licorice-pizza (pta.yaml),
+# guardians-of-the-galaxy-vol-3 (dave-bautista.yaml), maestro (matthew-libatique.yaml), if-2024
+# (amy-schumer.yaml). Excluded: TV movies (The Last Cowboy, The Reality of Love), shorts,
+# appearances as himself (Brother's Justice), uncredited cameos (10 Cloverfield Lane, Dungeons &
+# Dragons: Honor Among Thieves, Superman). Deferred: Thor: Love and Thunder (a few lines as
+# Rocket; film not in the corpus) and Baby, Baby, Baby (role unverified).
+#
 # Silver Linings Playbook already exists in de-niro.yaml — tagged before he had an entity.
 # American Hustle already exists in bale.yaml. The Hangover already exists in
 # galifianakis.yaml. Guardians of the Galaxy already exists in saldana.yaml. Joy already exists
@@ -45,3 +57,174 @@
   genres:
     - Action
     - War
+
+- id: my-little-eye
+  tmdb_id: 16077
+  title: My Little Eye
+  year: 2002
+  runtime: 95
+  director: Marc Evans
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.5 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: bending-all-the-rules
+  tmdb_id: 67685
+  title: Bending All the Rules
+  year: 2002
+  runtime: 90
+  director: Morgan Klein
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 2, acclaim: 0.2 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: failure-to-launch
+  tmdb_id: 6877
+  title: Failure to Launch
+  year: 2006
+  runtime: 97
+  director: Tom Dey
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.3 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: the-comebacks
+  tmdb_id: 10759
+  title: The Comebacks
+  year: 2007
+  runtime: 84
+  director: Tom Brady
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.15 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: older-than-america
+  tmdb_id: 49429
+  title: Older Than America
+  year: 2008
+  runtime: 102
+  director: Georgina Lightning
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.4 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+
+- id: the-midnight-meat-train
+  tmdb_id: 10185
+  title: The Midnight Meat Train
+  year: 2008
+  runtime: 98
+  director: Ryuhei Kitamura
+  tags: { opacity: 2, stillness: 1, bleakness: 5, humor: 1, acclaim: 0.5 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+
+- id: the-rocker
+  tmdb_id: 10186
+  title: The Rocker
+  year: 2008
+  runtime: 102
+  director: Peter Cattaneo
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.4 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: new-york-i-love-you
+  tmdb_id: 12572
+  title: "New York, I Love You"
+  year: 2008
+  runtime: 103
+  director: Fatih Akin
+  tags: { opacity: 2, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.4 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+
+- id: yes-man
+  tmdb_id: 10201
+  title: Yes Man
+  year: 2008
+  runtime: 104
+  director: Peyton Reed
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: all-about-steve
+  tmdb_id: 23706
+  title: All About Steve
+  year: 2009
+  runtime: 99
+  director: Phil Traill
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.1 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: case-39
+  tmdb_id: 28355
+  title: Case 39
+  year: 2009
+  runtime: 109
+  director: Christian Alvart
+  tags: { opacity: 1, stillness: 1, bleakness: 4, humor: 1, acclaim: 0.25 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-a-team
+  tmdb_id: 34544
+  title: The A-Team
+  year: 2010
+  runtime: 117
+  director: Joe Carnahan
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: limitless
+  tmdb_id: 51876
+  title: Limitless
+  year: 2011
+  runtime: 105
+  director: Neil Burger
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.6 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+
+- id: hit-and-run-2012
+  tmdb_id: 109513
+  title: Hit and Run
+  year: 2012
+  runtime: 100
+  director: David Palmer
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.4 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+
+- id: the-words
+  tmdb_id: 83686
+  title: The Words
+  year: 2012
+  runtime: 97
+  director: Brian Klugman
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: serena
+  tmdb_id: 164251
+  title: Serena
+  year: 2014
+  runtime: 109
+  director: Susanne Bier
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.2 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 2 }
+
+- id: aloha
+  tmdb_id: 222936
+  title: Aloha
+  year: 2015
+  runtime: 105
+  director: Cameron Crowe
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.2 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: burnt
+  tmdb_id: 295964
+  title: Burnt
+  year: 2015
+  runtime: 101
+  director: John Wells
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+
+- id: is-this-thing-on
+  tmdb_id: 1140498
+  title: Is This Thing On?
+  year: 2025
+  runtime: 124
+  director: Bradley Cooper
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
