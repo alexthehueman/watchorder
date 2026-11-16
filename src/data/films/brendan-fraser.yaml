@@ -1,5 +1,14 @@
 # New films for Brendan Fraser. Scales and anchors are in README.md ("The anchor rubric").
 #
+# Free wins (verified by matching tmdb_id): airheads (judd-nelson.yaml), glory-daze
+# (ben-affleck.yaml), the-quiet-american (christopher-doyle.yaml), no-sudden-move
+# (del-toro.yaml), killers-of-the-flower-moon (scorsese.yaml). Excluded: TV movies (Guilty Until
+# Proven Innocent, Child of Darkness Child of Light, The Twilight of the Golds), uncredited bits
+# (Son in Law, In the Army Now, Now and Then, Brain Candy, G.I. Joe: The Rise of Cobra),
+# appearances as himself, narration, shorts, and the direct-to-video Sinbad: Beyond the Veil of
+# Mists. Deferred: Dogfight (one-scene sailor), A Case of You (cameo), The Secret of Karma and
+# Diamond (release unverified). Not yet released as of 2026-11-16: The Mummy sequel, Starman.
+#
 # Crash (2004) already exists in bullock.yaml — tagged before he had an entity. The Mummy
 # (1999) already exists in weisz.yaml.
 
@@ -155,3 +164,483 @@
     - Fantasy
     - Romance
     - Comedy
+
+- id: encino-man
+  tmdb_id: 10406
+  title: Encino Man
+  year: 1992
+  runtime: 88
+  director: Les Mayfield
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.4 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: encino-man
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/hs/pv/v6/qj/encino%20man-1200-1200-675-675-crop-000000.jpg?v=fddfaf8d97
+  genres:
+    - Comedy
+  letterboxd_rating: 2.98
+
+- id: twenty-bucks
+  tmdb_id: 50536
+  title: Twenty Bucks
+  year: 1993
+  runtime: 91
+  director: Keva Rosenfeld
+  tags: { opacity: 2, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.5 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: twenty-bucks
+  poster_url: https://a.ltrbxd.com/resized/film-poster/1/5/1/5/1/15151-twenty-bucks-0-230-0-345-crop.jpg?v=02fa03d692
+  genres:
+    - Drama
+  letterboxd_rating: 3.1
+
+- id: younger-and-younger
+  tmdb_id: 260448
+  title: Younger and Younger
+  year: 1993
+  runtime: 99
+  director: Percy Adlon
+  tags: { opacity: 2, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.3 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: younger-and-younger
+  poster_url: https://a.ltrbxd.com/resized/film-poster/1/8/3/9/4/0/183940-younger-and-younger-0-230-0-345-crop.jpg?v=ba6b60738b
+  genres:
+    - Drama
+    - Comedy
+    - Fantasy
+  letterboxd_rating: 2.98
+
+- id: with-honors
+  tmdb_id: 16297
+  title: With Honors
+  year: 1994
+  runtime: 101
+  director: Alek Keshishian
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.4 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: with-honors
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ib/uf/m4/fk/withhonors-1200-1200-675-675-crop-000000.jpg?v=495bbf755e
+  genres:
+    - Comedy
+    - Drama
+  letterboxd_rating: 3.37
+
+- id: the-scout
+  tmdb_id: 35233
+  title: The Scout
+  year: 1994
+  runtime: 101
+  director: Michael Ritchie
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: the-scout
+  poster_url: https://a.ltrbxd.com/resized/alternative-backdrop/2/8/6/6/4/tmdb/jODJw9Vc4SniZPpkZNlc42yCRq0-1200-1200-675-675-crop-000000.jpg?v=19d466a8f7
+  genres:
+    - Comedy
+  letterboxd_rating: 2.76
+
+- id: the-passion-of-darkly-noon
+  tmdb_id: 37062
+  title: The Passion of Darkly Noon
+  year: 1995
+  runtime: 100
+  director: Philip Ridley
+  tags: { opacity: 3, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.5 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 2 }
+  letterboxd_slug: the-passion-of-darkly-noon
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/kc/26/fw/r4/qeOyqsTUF5AubCMMXnMQuNowO7u-1200-1200-675-675-crop-000000.jpg?v=cd4392cd03
+  genres:
+    - Thriller
+    - Drama
+    - Mystery
+    - Horror
+  letterboxd_rating: 3.1
+
+- id: mrs-winterbourne
+  tmdb_id: 40001
+  title: Mrs. Winterbourne
+  year: 1996
+  runtime: 105
+  director: Richard Benjamin
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.3 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: mrs-winterbourne
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/w7/9p/ut/tz/5IE9hcGe88FBUbqJyvmpvI8CU34-1200-1200-675-675-crop-000000.jpg?v=ba53cc0429
+  genres:
+    - Romance
+    - Drama
+  letterboxd_rating: 3.14
+
+- id: still-breathing
+  tmdb_id: 39467
+  title: Still Breathing
+  year: 1997
+  runtime: 109
+  director: James F. Robinson
+  tags: { opacity: 2, stillness: 3, bleakness: 2, humor: 2, acclaim: 0.4 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: still-breathing
+  poster_url: https://a.ltrbxd.com/resized/film-poster/2/5/2/1/9/25219-still-breathing-0-230-0-345-crop.jpg?v=e59097e7ca
+  genres:
+    - Romance
+    - Drama
+    - Comedy
+  letterboxd_rating: 2.98
+
+- id: blast-from-the-past
+  tmdb_id: 11622
+  title: Blast from the Past
+  year: 1999
+  runtime: 112
+  director: Hugh Wilson
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: blast-from-the-past
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/44/wp/12/s7/blast%20from%20the%20past-1200-1200-675-675-crop-000000.jpg?v=b1893130f1
+  genres:
+    - Comedy
+    - Drama
+    - Romance
+  letterboxd_rating: 3.35
+
+- id: dudley-do-right
+  tmdb_id: 17709
+  title: Dudley Do-Right
+  year: 1999
+  runtime: 77
+  director: Hugh Wilson
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.15 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: dudley-do-right
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/y9/ak/my/a2/dudley-1200-1200-675-675-crop-000000.jpg?v=71aeedcae8
+  genres:
+    - Family
+    - Comedy
+    - Romance
+  letterboxd_rating: 2.16
+
+- id: monkeybone
+  tmdb_id: 23685
+  title: Monkeybone
+  year: 2001
+  runtime: 93
+  director: Henry Selick
+  tags: { opacity: 2, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.3 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  letterboxd_slug: monkeybone
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ja/0n/rg/g4/monkeybone-1200-1200-675-675-crop-000000.jpg?v=4eafe2a741
+  genres:
+    - Animation
+    - Adventure
+    - Science Fiction
+    - Comedy
+    - Fantasy
+  letterboxd_rating: 2.81
+
+- id: the-mummy-returns
+  tmdb_id: 1734
+  title: The Mummy Returns
+  year: 2001
+  runtime: 130
+  director: Stephen Sommers
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.5 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: the-mummy-returns
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/fb/4m/5g/y1/the-mummy-returns-1200-1200-675-675-crop-000000.jpg?v=2aed565da2
+  genres:
+    - Fantasy
+    - Action
+    - Adventure
+  letterboxd_rating: 3.11
+
+- id: looney-tunes-back-in-action
+  tmdb_id: 10715
+  title: "Looney Tunes: Back in Action"
+  year: 2003
+  runtime: 93
+  director: Joe Dante
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.5 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: looney-tunes-back-in-action
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/a5/30/bo/o4/looneytunes-1200-1200-675-675-crop-000000.jpg?v=4f98233269
+  genres:
+    - Comedy
+    - Animation
+    - Family
+  letterboxd_rating: 3.21
+
+- id: journey-to-the-end-of-the-night
+  tmdb_id: 15558
+  title: Journey to the End of the Night
+  year: 2006
+  runtime: 88
+  director: Eric Eason
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.3 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  letterboxd_slug: journey-to-the-end-of-the-night
+  poster_url: https://a.ltrbxd.com/resized/film-poster/4/2/2/8/0/42280-journey-to-the-end-of-the-night-0-230-0-345-crop.jpg?v=851d46d672
+  genres:
+    - Thriller
+  letterboxd_rating: 3.06
+
+- id: the-last-time
+  tmdb_id: 27683
+  title: The Last Time
+  year: 2006
+  runtime: 96
+  director: Michael Caleo
+  tags: { opacity: 2, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.3 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug: the-last-time
+  poster_url: https://a.ltrbxd.com/resized/film-poster/3/4/2/9/7/34297-the-last-time-0-230-0-345-crop.jpg?v=7242b2c376
+  genres:
+    - Drama
+    - Romance
+  letterboxd_rating: 2.96
+
+- id: the-air-i-breathe
+  tmdb_id: 13641
+  title: The Air I Breathe
+  year: 2007
+  runtime: 95
+  director: Jieho Lee
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.25 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  letterboxd_slug: the-air-i-breathe
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/bd/1v/ic/rr/air%20i%20breathe-1200-1200-675-675-crop-000000.jpg?v=491901ab73
+  genres:
+    - Crime
+    - Drama
+    - Thriller
+  letterboxd_rating: 2.95
+
+- id: the-mummy-tomb-of-the-dragon-emperor
+  tmdb_id: 1735
+  title: "The Mummy: Tomb of the Dragon Emperor"
+  year: 2008
+  runtime: 112
+  director: Rob Cohen
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.2 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: the-mummy-tomb-of-the-dragon-emperor
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/vp/ax/49/xl/mummy-tomb-of-dragon-emperor-1200-1200-675-675-crop-000000.jpg?v=864c8734df
+  genres:
+    - Fantasy
+    - Adventure
+    - Action
+  letterboxd_rating: 2.28
+
+- id: inkheart
+  tmdb_id: 2309
+  title: Inkheart
+  year: 2008
+  runtime: 106
+  director: Iain Softley
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.4 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: inkheart
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/k9/sn/na/8n/inkheart-1200-1200-675-675-crop-000000.jpg?v=d98eed703b
+  genres:
+    - Family
+    - Adventure
+    - Fantasy
+  letterboxd_rating: 2.95
+
+- id: furry-vengeance
+  tmdb_id: 35169
+  title: Furry Vengeance
+  year: 2010
+  runtime: 92
+  director: Roger Kumble
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.1 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: furry-vengeance
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/vv/ke/2y/tl/furry-1200-1200-675-675-crop-000000.jpg?v=82f0e38b49
+  genres:
+    - Family
+    - Comedy
+  letterboxd_rating: 2.06
+
+- id: whole-lotta-sole
+  tmdb_id: 165477
+  title: Whole Lotta Sole
+  year: 2012
+  runtime: 89
+  director: Terry George
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.3 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: whole-lotta-sole
+  poster_url: https://a.ltrbxd.com/resized/film-poster/1/2/2/5/0/1/122501-whole-lotta-sole-0-230-0-345-crop.jpg?v=7b7d244587
+  genres:
+    - Drama
+    - Comedy
+  letterboxd_rating: 3
+
+- id: escape-from-planet-earth
+  tmdb_id: 68179
+  title: Escape from Planet Earth
+  year: 2013
+  runtime: 89
+  director: Cal Brunker
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: escape-from-planet-earth
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/my/qs/r4/z6/escape-from-planet-earth-1200-1200-675-675-crop-000000.jpg?v=221d65ccbe
+  genres:
+    - Comedy
+    - Animation
+    - Adventure
+    - Family
+    - Science Fiction
+  letterboxd_rating: 2.4
+
+- id: pawn-shop-chronicles
+  tmdb_id: 199420
+  title: Pawn Shop Chronicles
+  year: 2013
+  runtime: 112
+  director: Wayne Kramer
+  tags: { opacity: 2, stillness: 1, bleakness: 3, humor: 3, acclaim: 0.25 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  letterboxd_slug: pawn-shop-chronicles
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ar/00/71/iv/pawn-shop-chronicles-1200-1200-675-675-crop-000000.jpg?v=6a98553108
+  genres:
+    - Comedy
+    - Action
+  letterboxd_rating: 2.82
+
+- id: breakout-2013
+  tmdb_id: 218329
+  title: Breakout
+  year: 2013
+  runtime: 89
+  director: Damian Lee
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.15 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: breakout-2013
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/28/3t/31/r6/breakout-1200-1200-675-675-crop-000000.jpg?v=8ccfb300f7
+  genres:
+    - Thriller
+    - Action
+  letterboxd_rating: 2.6
+
+- id: gimme-shelter-2013
+  tmdb_id: 232175
+  title: Gimme Shelter
+  year: 2013
+  runtime: 101
+  director: Ron Krauss
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: gimme-shelter
+  poster_url: https://a.ltrbxd.com/resized/film-poster/1/6/2/9/8/8/162988-gimme-shelter-0-230-0-345-crop.jpg?v=6e01447b86
+  genres:
+    - Drama
+  letterboxd_rating: 2.89
+
+- id: hairbrained
+  tmdb_id: 239056
+  title: HairBrained
+  year: 2013
+  runtime: 97
+  director: Billy Kent
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.3 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: hairbrained
+  poster_url: https://a.ltrbxd.com/resized/film-poster/1/6/7/7/0/4/167704-hairbrained-0-230-0-345-crop.jpg?v=7d0972099d
+  genres:
+    - Fantasy
+    - Comedy
+  letterboxd_rating: 2.82
+
+- id: the-nut-job
+  tmdb_id: 227783
+  title: The Nut Job
+  year: 2014
+  runtime: 85
+  director: Peter Lepeniotis
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.25 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: the-nut-job
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/25/4m/sb/zl/the-nut-job-1200-1200-675-675-crop-000000.jpg?v=1a920d906b
+  genres:
+    - Comedy
+    - Family
+    - Adventure
+    - Animation
+  letterboxd_rating: 2.3
+
+- id: the-poison-rose
+  tmdb_id: 529983
+  title: The Poison Rose
+  year: 2019
+  runtime: 98
+  director: George Gallo
+  tags: { opacity: 2, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.15 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: the-poison-rose
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/d4/qk/yr/bx/poison-rose-1200-1200-675-675-crop-000000.jpg?v=3b56f3ef8a
+  genres:
+    - Crime
+    - Thriller
+  letterboxd_rating: 1.94
+
+- id: line-of-descent
+  tmdb_id: 431582
+  title: Line of Descent
+  year: 2019
+  runtime: 108
+  director: Rohit Karn Batra
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.3 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug: line-of-descent
+  poster_url: https://a.ltrbxd.com/resized/film-poster/3/6/4/7/3/2/364732-line-of-descent-0-230-0-345-crop.jpg?v=7c1044e657
+  genres:
+    - Crime
+    - Drama
+
+- id: brothers-2024
+  tmdb_id: 616446
+  title: Brothers
+  year: 2024
+  runtime: 89
+  director: Max Barbakow
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.4 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug: brothers-2024
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/z1/0o/rl/w8/UZtS6vV5soeeWQtWbcuAobzYeG-1200-1200-675-675-crop-000000.jpg?v=72237fcacb
+  genres:
+    - Comedy
+    - Crime
+    - Action
+  letterboxd_rating: 2.36
+
+- id: rental-family
+  tmdb_id: 1208348
+  title: Rental Family
+  year: 2025
+  runtime: 110
+  director: Hikari
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.7 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: rental-family-2025
+  poster_url: https://a.ltrbxd.com/resized/alternative-backdrop/1/0/9/2/7/7/8/tmdb/k12wgE0OYWNczqogEHS5CAY9X7d-1200-1200-675-675-crop-000000.jpg?v=0c9b82258b
+  genres:
+    - Drama
+    - Comedy
+  letterboxd_rating: 3.88
+
+- id: pressure-2026
+  tmdb_id: 1318413
+  title: Pressure
+  year: 2026
+  runtime: 101
+  director: Anthony Maras
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug: pressure-2026
+  poster_url: https://a.ltrbxd.com/resized/alternative-backdrop/1/1/9/8/9/7/2/tmdb/agJ13N1uQHwdgRwvMKSFBvbcDKH-1200-1200-675-675-crop-000000.jpg?v=7b2d2b400d
+  genres:
+    - History
+    - War
+    - Thriller
+  letterboxd_rating: 3.54
