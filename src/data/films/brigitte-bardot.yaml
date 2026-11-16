@@ -1,5 +1,12 @@
 # New films for Brigitte Bardot. Scales and anchors are in README.md ("The anchor rubric").
 #
+# Covers every credited film role from Manina (1952) to Colinot (1973), her last.
+# Free wins (verified by matching tmdb_id): contempt (godard.yaml), viva-maria (moreau.yaml),
+# famous-love-affairs + spirits-of-the-dead (delon.yaml), agent-38-24-36 (anthony-perkins.yaml).
+# Excluded: uncredited bits (Les Dents longues), appearances as herself (Testament of Orpheus,
+# Masculin Feminin, Dear Brigitte, It Happened All Night, Paparazzi, Marie Soleil), archive
+# footage, and The Twelve Tasks of Asterix (not her voice).
+#
 # Contempt already exists in godard.yaml. Viva Maria! already exists in moreau.yaml.
 
 - id: la-verite
@@ -42,3 +49,538 @@
     - Romance
     - Drama
   letterboxd_rating: 3.17
+
+- id: manina-the-lighthouse-keepers-daughter
+  tmdb_id: 63891
+  title: "Manina, the Lighthouse-Keeper's Daughter"
+  year: 1952
+  runtime: 86
+  director: Willy Rozier
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.3 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug_hint: manina-the-lighthouse-keepers-daughter
+  letterboxd_slug: manina-the-lighthouse-keepers-daughter
+  poster_url: https://a.ltrbxd.com/resized/film-poster/2/2/3/3/2233-manina-the-lighthouse-keepers-daughter-0-230-0-345-crop.jpg?v=af846f98d8
+  genres:
+    - Romance
+    - Drama
+  letterboxd_rating: 3.07
+
+- id: crazy-for-love
+  tmdb_id: 79044
+  title: Crazy for Love
+  year: 1952
+  runtime: 94
+  director: Jean Boyer
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.3 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug_hint: crazy-for-love
+  letterboxd_slug: crazy-for-love
+  poster_url: https://a.ltrbxd.com/resized/film-poster/6/5/5/0/0/65500-crazy-for-love-0-230-0-345-crop.jpg?v=c3c2ffd590
+  genres:
+    - Comedy
+  letterboxd_rating: 3.29
+
+- id: act-of-love
+  tmdb_id: 168496
+  title: Act of Love
+  year: 1953
+  runtime: 108
+  director: Anatole Litvak
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.4 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug_hint: act-of-love
+  letterboxd_slug: act-of-love
+  poster_url: https://a.ltrbxd.com/resized/film-poster/1/2/4/2/7/5/124275-act-of-love-0-230-0-345-crop.jpg?v=4f8f5df62e
+  genres:
+    - Drama
+    - Romance
+    - War
+
+- id: royal-affairs-in-versailles
+  tmdb_id: 67540
+  title: Royal Affairs in Versailles
+  year: 1953
+  runtime: 167
+  director: Sacha Guitry
+  tags: { opacity: 1, stillness: 2, bleakness: 1, humor: 2, acclaim: 0.5 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug_hint: royal-affairs-in-versailles
+  letterboxd_slug: royal-affairs-in-versailles
+  poster_url: https://a.ltrbxd.com/resized/film-poster/5/3/6/4/6/53646-royal-affairs-in-versailles-0-230-0-345-crop.jpg?v=f142619073
+  genres:
+    - Drama
+    - History
+    - Comedy
+  letterboxd_rating: 3.47
+
+- id: his-fathers-portrait
+  tmdb_id: 446715
+  title: "His Father's Portrait"
+  year: 1953
+  runtime: 92
+  director: André Berthomieu
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.3 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug_hint: his-fathers-portrait
+  letterboxd_slug: his-fathers-portrait
+  poster_url: https://a.ltrbxd.com/resized/film-poster/3/7/9/1/1/1/379111-his-fathers-portrait-0-230-0-345-crop.jpg?v=4a7fd0910a
+  genres:
+    - Comedy
+
+- id: night-of-love
+  tmdb_id: 333262
+  title: Night of Love
+  year: 1954
+  runtime: 98
+  director: Mario Bonnard
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.25 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug_hint: night-of-love
+  letterboxd_slug: night-of-love
+  poster_url: https://a.ltrbxd.com/resized/film-poster/2/6/1/8/0/1/261801-night-of-love-0-230-0-345-crop.jpg?v=9fb352fcc8
+  genres:
+    - Drama
+
+- id: the-light-across-the-street
+  tmdb_id: 116713
+  title: The Light Across the Street
+  year: 1955
+  runtime: 100
+  director: Georges Lacombe
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  letterboxd_slug_hint: the-light-across-the-street
+  letterboxd_slug: the-light-across-the-street
+  poster_url: https://a.ltrbxd.com/resized/film-poster/9/2/5/6/0/92560-the-light-across-the-street-0-230-0-345-crop.jpg?v=5c057791fb
+  genres:
+    - Drama
+
+- id: the-grand-manoeuvre
+  tmdb_id: 66436
+  title: The Grand Manoeuvre
+  year: 1955
+  runtime: 106
+  director: René Clair
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.7 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug_hint: the-grand-manoeuvre
+  letterboxd_slug: the-grand-manoeuvre
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/iu/ap/zd/ic/euSjkZqmCsONd8k5RMDLiGvxYhN-1200-1200-675-675-crop-000000.jpg?v=c65eb85ba6
+  genres:
+    - Comedy
+    - Romance
+  letterboxd_rating: 3.47
+
+- id: doctor-at-sea
+  tmdb_id: 68339
+  title: Doctor at Sea
+  year: 1955
+  runtime: 93
+  director: Ralph Thomas
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.5 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug_hint: doctor-at-sea
+  letterboxd_slug: doctor-at-sea
+  poster_url: https://a.ltrbxd.com/resized/film-poster/5/2/8/7/4/52874-doctor-at-sea-0-230-0-345-crop.jpg?v=2998632750
+  genres:
+    - Comedy
+  letterboxd_rating: 3.15
+
+- id: school-for-love
+  tmdb_id: 194880
+  title: School for Love
+  year: 1955
+  runtime: 96
+  director: Marc Allégret
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.3 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug_hint: school-for-love
+  letterboxd_slug: school-for-love
+  poster_url: https://a.ltrbxd.com/resized/film-poster/1/3/9/9/4/3/139943-school-for-love-0-230-0-345-crop.jpg?v=ce5356d081
+  genres:
+    - Drama
+    - Comedy
+  letterboxd_rating: 3.21
+
+- id: caroline-and-the-rebels
+  tmdb_id: 82981
+  title: Caroline and the Rebels
+  year: 1955
+  runtime: 105
+  director: Jean Devaivre
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 2, acclaim: 0.25 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug_hint: caroline-and-the-rebels
+  letterboxd_slug: caroline-and-the-rebels
+  poster_url: https://a.ltrbxd.com/resized/film-poster/6/9/3/9/9/69399-caroline-and-the-rebels-0-230-0-345-crop.jpg?v=e12f3a9862
+  genres:
+    - Romance
+    - Adventure
+
+- id: her-bridal-night
+  tmdb_id: 328298
+  title: Her Bridal Night
+  year: 1956
+  runtime: 95
+  director: Pierre Gaspard-Huit
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.25 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug_hint: her-bridal-night
+  letterboxd_slug: her-bridal-night
+  poster_url: https://a.ltrbxd.com/resized/film-poster/2/5/5/7/7/4/255774-her-bridal-night-0-230-0-345-crop.jpg?v=4a695f63b7
+  genres:
+    - Comedy
+    - Romance
+  letterboxd_rating: 3.3
+
+- id: neros-mistress
+  tmdb_id: 82057
+  title: "Nero's Mistress"
+  year: 1956
+  runtime: 88
+  director: Steno
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug_hint: neros-mistress
+  letterboxd_slug: neros-mistress
+  poster_url: https://a.ltrbxd.com/resized/film-poster/6/8/5/4/9/68549-neros-mistress-0-230-0-345-crop.jpg?v=a29fa3fa0e
+  genres:
+    - Comedy
+    - History
+  letterboxd_rating: 3.21
+
+- id: plucking-the-daisy
+  tmdb_id: 66968
+  title: Plucking the Daisy
+  year: 1956
+  runtime: 101
+  director: Marc Allégret
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.4 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug_hint: plucking-the-daisy
+  letterboxd_slug: plucking-the-daisy
+  poster_url: https://a.ltrbxd.com/resized/film-poster/1/0/2/1/6/10216-plucking-the-daisy-0-230-0-345-crop.jpg?v=0ba3f98b0d
+  genres:
+    - Romance
+    - Comedy
+  letterboxd_rating: 3.23
+
+- id: that-naughty-girl
+  tmdb_id: 66969
+  title: That Naughty Girl
+  year: 1956
+  runtime: 86
+  director: Michel Boisrond
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.4 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug_hint: that-naughty-girl
+  letterboxd_slug: that-naughty-girl
+  poster_url: https://a.ltrbxd.com/resized/film-poster/1/0/2/1/5/10215-that-naughty-girl-0-230-0-345-crop.jpg?v=d59571b018
+  genres:
+    - Romance
+    - Comedy
+  letterboxd_rating: 3.19
+
+- id: helen-of-troy
+  tmdb_id: 42658
+  title: Helen of Troy
+  year: 1956
+  runtime: 121
+  director: Robert Wise
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug_hint: helen-of-troy
+  letterboxd_slug: helen-of-troy
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/bn/7y/yh/yo/8J19WKfl99q7bJegGTW0wBTD834-1200-1200-675-675-crop-000000.jpg?v=544f891bff
+  genres:
+    - Adventure
+    - War
+    - Romance
+    - History
+  letterboxd_rating: 3.02
+
+- id: la-parisienne
+  tmdb_id: 51166
+  title: La Parisienne
+  year: 1957
+  runtime: 81
+  director: Michel Boisrond
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.5 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug_hint: la-parisienne
+  letterboxd_slug: la-parisienne
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/8o/md/db/zs/wHlebpXYm2vdwxSwlbs4LHHr6Vg-1200-1200-675-675-crop-000000.jpg?v=40050c3f38
+  genres:
+    - Comedy
+  letterboxd_rating: 3.19
+
+- id: a-woman-like-satan
+  tmdb_id: 57669
+  title: A Woman Like Satan
+  year: 1958
+  runtime: 101
+  director: Julien Duvivier
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  letterboxd_slug_hint: a-woman-like-satan
+  letterboxd_slug: a-woman-like-satan
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/pg/2l/ac/8g/fXtCdMdehtrJbk0KXKc60DvrNg5-1200-1200-675-675-crop-000000.jpg?v=567a7fd913
+  genres:
+    - Romance
+    - Drama
+  letterboxd_rating: 3.25
+
+- id: love-is-my-profession
+  tmdb_id: 66966
+  title: Love Is My Profession
+  year: 1958
+  runtime: 105
+  director: Claude Autant-Lara
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.6 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 2 }
+  letterboxd_slug_hint: love-is-my-profession
+  letterboxd_slug: love-is-my-profession
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/pz/1r/zt/ed/nebwmOifFLuYsSCPpz0KQ1b8yk9-1200-1200-675-675-crop-000000.jpg?v=4f506e43a8
+  genres:
+    - Romance
+    - Drama
+    - Crime
+  letterboxd_rating: 3.29
+
+- id: the-night-heaven-fell
+  tmdb_id: 66967
+  title: The Night Heaven Fell
+  year: 1958
+  runtime: 91
+  director: Roger Vadim
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 2 }
+  letterboxd_slug_hint: the-night-heaven-fell
+  letterboxd_slug: the-night-heaven-fell
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/m5/ab/sz/ay/sv8eok7RhjwUxGs9JH88ZC9q1WZ-1200-1200-675-675-crop-000000.jpg?v=4e04e5b4d7
+  genres:
+    - Drama
+    - Thriller
+    - Crime
+  letterboxd_rating: 3.1
+
+- id: come-dance-with-me
+  tmdb_id: 66965
+  title: "Come Dance with Me!"
+  year: 1959
+  runtime: 91
+  director: Michel Boisrond
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug_hint: come-dance-with-me
+  letterboxd_slug: come-dance-with-me
+  poster_url: https://a.ltrbxd.com/resized/film-poster/1/0/2/1/9/10219-come-dance-with-me--0-230-0-345-crop.jpg?v=40ca547be4
+  genres:
+    - Comedy
+    - Crime
+    - Drama
+    - Mystery
+  letterboxd_rating: 3.37
+
+- id: babette-goes-to-war
+  tmdb_id: 56499
+  title: Babette Goes to War
+  year: 1959
+  runtime: 106
+  director: Christian-Jaque
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.5 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug_hint: babette-goes-to-war
+  letterboxd_slug: babette-goes-to-war
+  poster_url: https://a.ltrbxd.com/resized/film-poster/9/5/9/1/9591-babette-goes-to-war-0-230-0-345-crop.jpg?v=7ca3275a55
+  genres:
+    - Comedy
+    - War
+  letterboxd_rating: 3.29
+
+- id: please-not-now
+  tmdb_id: 65009
+  title: "Please, Not Now!"
+  year: 1961
+  runtime: 85
+  director: Roger Vadim
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug_hint: please-not-now
+  letterboxd_slug: please-not-now
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/nx/89/5y/n9/bUkQ6QdwTiMktY8Yg2OfmtQxiMb-1200-1200-675-675-crop-000000.jpg?v=77dcce89e6
+  genres:
+    - Comedy
+  letterboxd_rating: 3.2
+
+- id: love-on-a-pillow
+  tmdb_id: 66916
+  title: Love on a Pillow
+  year: 1962
+  runtime: 102
+  director: Roger Vadim
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.3 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+  letterboxd_slug_hint: love-on-a-pillow
+  letterboxd_slug: love-on-a-pillow
+  poster_url: https://a.ltrbxd.com/resized/film-poster/5/2/1/4/5214-love-on-a-pillow-0-230-0-345-crop.jpg?v=8b2217f7c1
+  genres:
+    - Romance
+    - Drama
+  letterboxd_rating: 3.18
+
+- id: a-very-private-affair
+  tmdb_id: 48196
+  title: A Very Private Affair
+  year: 1962
+  runtime: 103
+  director: Louis Malle
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug_hint: a-very-private-affair
+  letterboxd_slug: a-very-private-affair
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/1k/v1/xa/pa/oEpaiiEK1D6a2peB6kbzFulXaOM-1200-1200-675-675-crop-000000.jpg?v=37b8c16487
+  genres:
+    - Drama
+  letterboxd_rating: 3.13
+
+- id: two-weeks-in-september
+  tmdb_id: 82966
+  title: Two Weeks in September
+  year: 1967
+  runtime: 91
+  director: Serge Bourguignon
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.25 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug_hint: two-weeks-in-september
+  letterboxd_slug: two-weeks-in-september
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/7q/9n/g8/tr/1sWWpxcCmfEseeHsWGWCgRrM5vR-1200-1200-675-675-crop-000000.jpg?v=78cb71a247
+  genres:
+    - Romance
+    - Drama
+  letterboxd_rating: 3.23
+
+- id: shalako
+  tmdb_id: 39209
+  title: Shalako
+  year: 1968
+  runtime: 113
+  director: Edward Dmytryk
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug_hint: shalako
+  letterboxd_slug: shalako
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/b3/et/4n/59/shalako-1200-1200-675-675-crop-000000.jpg?v=d8097ca018
+  genres:
+    - Western
+  letterboxd_rating: 2.83
+
+- id: the-bear-and-the-doll
+  tmdb_id: 63882
+  title: The Bear and the Doll
+  year: 1970
+  runtime: 90
+  director: Michel Deville
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug_hint: the-bear-and-the-doll
+  letterboxd_slug: the-bear-and-the-doll
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/my/55/7e/nw/lHofYjxAobM73WjKeCquX2v5jnp-1200-1200-675-675-crop-000000.jpg?v=6427775ff8
+  genres:
+    - Comedy
+    - Romance
+  letterboxd_rating: 3.38
+
+- id: the-vixen
+  tmdb_id: 92251
+  title: The Vixen
+  year: 1969
+  runtime: 86
+  director: Jean Aurel
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.2 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug_hint: the-vixen
+  letterboxd_slug: the-vixen
+  poster_url: https://a.ltrbxd.com/resized/film-poster/7/7/0/5/2/77052-the-vixen-0-230-0-345-crop.jpg?v=6479269cd1
+  genres:
+    - Romance
+    - Comedy
+    - Drama
+  letterboxd_rating: 3.05
+
+- id: the-novices
+  tmdb_id: 82976
+  title: The Novices
+  year: 1970
+  runtime: 91
+  director: Guy Casaril
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.2 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug_hint: the-novices
+  letterboxd_slug: the-novices
+  poster_url: https://a.ltrbxd.com/resized/film-poster/6/9/4/0/4/69404-the-novices-0-230-0-345-crop.jpg?v=5f8a7cd6bf
+  genres:
+    - Drama
+    - Comedy
+
+- id: rum-runners
+  tmdb_id: 74811
+  title: Rum Runners
+  year: 1971
+  runtime: 135
+  director: Robert Enrico
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.4 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug_hint: rum-runners
+  letterboxd_slug: rum-runners
+  poster_url: https://a.ltrbxd.com/resized/film-poster/6/1/0/6/5/61065-rum-runners-0-230-0-345-crop.jpg?v=f6e2940291
+  genres:
+    - Adventure
+    - Comedy
+  letterboxd_rating: 2.97
+
+- id: the-legend-of-frenchie-king
+  tmdb_id: 64345
+  title: The Legend of Frenchie King
+  year: 1971
+  runtime: 94
+  director: Christian-Jaque
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.3 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug_hint: the-legend-of-frenchie-king
+  letterboxd_slug: the-legend-of-frenchie-king
+  poster_url: https://a.ltrbxd.com/resized/film-poster/5/8/6/586-the-legend-of-frenchie-king-0-230-0-345-crop.jpg?v=a9219acc3a
+  genres:
+    - Comedy
+    - Western
+  letterboxd_rating: 3.08
+
+- id: don-juan-or-if-don-juan-were-a-woman
+  tmdb_id: 82969
+  title: Don Juan or If Don Juan Were a Woman
+  year: 1973
+  runtime: 95
+  director: Roger Vadim
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.25 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 2 }
+  letterboxd_slug_hint: don-juan-or-if-don-juan-were-a-woman
+  letterboxd_slug: don-juan-or-if-don-juan-were-a-woman
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ff/hw/wk/wv/A0fXZcyMFBCgx82iKWNRPdVxEs9-1200-1200-675-675-crop-000000.jpg?v=83df32509b
+  genres:
+    - Drama
+  letterboxd_rating: 3.04
+
+- id: the-edifying-and-joyous-story-of-colinot
+  tmdb_id: 259905
+  title: The Edifying and Joyous Story of Colinot
+  year: 1973
+  runtime: 105
+  director: Nina Companéez
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 2, acclaim: 0.3 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug_hint: the-edifying-and-joyous-story-of-colinot
+  letterboxd_slug: the-edifying-and-joyous-story-of-colinot
+  poster_url: https://a.ltrbxd.com/resized/film-poster/1/8/3/4/8/1/183481-the-edifying-and-joyous-story-of-colinot-0-230-0-345-crop.jpg?v=ffe5d9b450
+  genres:
+    - Comedy
