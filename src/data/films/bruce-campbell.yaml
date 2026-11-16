@@ -1,4 +1,15 @@
 # New films for Bruce Campbell. Scales and anchors are in README.md ("The anchor rubric").
+#
+# Free wins (verified by matching tmdb_id): the-hudsucker-proxy (roger-deakins.yaml),
+# escape-from-la (carpenter.yaml), spider-man (dafoe.yaml), spider-man-2 + spider-man-3
+# (jk-simmons.yaml), serving-sara (amy-adams.yaml), cloudy-with-a-chance-of-meatballs
+# (hader.yaml), doctor-strange-in-the-multiverse-of-madness (olsen.yaml). Excluded: TV movies
+# (Tornado!, The Love Bug, Goldrush, Terminal Invasion, Alien Apocalypse, Touch the Top of the
+# World, Burn Notice: The Fall of Sam Axe and others), the Super-8 shorts of the 1970s,
+# uncredited bits and soap-opera-on-a-TV gags (Fargo, Intolerable Cruelty, The Ladykillers, Evil
+# Dead 2013, Evil Dead Rise), The Quick and the Dead (scene cut), documentaries and appearances
+# as himself. Deferred: The Escort (no usable Letterboxd page), Aqua Teen Hunger Force, Timequest,
+# Eddie Presley. Not confirmed released as of 2026-11-16: Ernie & Emma.
 
 - id: the-evil-dead
   tmdb_id: 764
@@ -68,3 +79,426 @@
     - Fantasy
     - Thriller
     - Mystery
+
+- id: going-back-1984
+  tmdb_id: 174609
+  title: Going Back
+  year: 1984
+  runtime: 79
+  director: Ron Teachworth
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.3 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug_hint: going-back-1984
+  letterboxd_slug: going-back-1984
+  poster_url: https://a.ltrbxd.com/resized/film-poster/1/2/7/8/8/8/127888-going-back-0-230-0-345-crop.jpg?v=4278823281
+  genres:
+    - Romance
+    - Drama
+
+- id: crimewave
+  tmdb_id: 21627
+  title: Crimewave
+  year: 1985
+  runtime: 83
+  director: Sam Raimi
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.4 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug_hint: crimewave
+  letterboxd_slug: crimewave
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/p5/zi/0m/4q/crimewave-1200-1200-675-675-crop-000000.jpg?v=cb4804cfb0
+  genres:
+    - Crime
+    - Horror
+    - Comedy
+  letterboxd_rating: 2.82
+
+- id: maniac-cop
+  tmdb_id: 14240
+  title: Maniac Cop
+  year: 1988
+  runtime: 85
+  director: William Lustig
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.5 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 1 }
+  letterboxd_slug_hint: maniac-cop
+  letterboxd_slug: maniac-cop
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/kk/yy/95/mx/maniac-cop-1200-1200-675-675-crop-000000.jpg?v=524399d326
+  genres:
+    - Horror
+    - Mystery
+    - Action
+    - Crime
+  letterboxd_rating: 3.07
+
+- id: intruder
+  tmdb_id: 31150
+  title: Intruder
+  year: 1989
+  runtime: 88
+  director: Scott Spiegel
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.5 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug_hint: intruder
+  letterboxd_slug: intruder
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/lm/ec/x4/j6/hBmr0vwkpoe9srtvmDh3GuVwSkZ-1200-1200-675-675-crop-000000.jpg?v=3cb04234c0
+  genres:
+    - Mystery
+    - Horror
+  letterboxd_rating: 3.2
+
+- id: moontrap
+  tmdb_id: 14916
+  title: Moontrap
+  year: 1989
+  runtime: 92
+  director: Robert Dyke
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.3 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  letterboxd_slug_hint: moontrap
+  letterboxd_slug: moontrap
+  poster_url: https://a.ltrbxd.com/resized/film-poster/4/2/7/1/2/42712-moontrap-0-230-0-345-crop.jpg?v=74c57df3cc
+  genres:
+    - Science Fiction
+    - Horror
+  letterboxd_rating: 2.46
+
+- id: maniac-cop-2
+  tmdb_id: 28090
+  title: Maniac Cop 2
+  year: 1990
+  runtime: 87
+  director: William Lustig
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.5 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug_hint: maniac-cop-2
+  letterboxd_slug: maniac-cop-2
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/dk/yt/01/ih/maniac-cop-1200-1200-675-675-crop-000000.jpg?v=56f7ceae00
+  genres:
+    - Horror
+    - Thriller
+    - Mystery
+    - Action
+  letterboxd_rating: 3.2
+
+- id: lunatics-a-love-story
+  tmdb_id: 31564
+  title: "Lunatics: A Love Story"
+  year: 1991
+  runtime: 87
+  director: Josh Becker
+  tags: { opacity: 2, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug_hint: lunatics-a-love-story
+  letterboxd_slug: lunatics-a-love-story
+  poster_url: https://a.ltrbxd.com/resized/film-poster/3/1/0/6/5/31065-lunatics-a-love-story-0-230-0-345-crop.jpg?v=ea8a77345a
+  genres:
+    - Comedy
+    - Horror
+    - Drama
+    - Romance
+  letterboxd_rating: 3.2
+
+- id: sundown-the-vampire-in-retreat
+  tmdb_id: 16159
+  title: "Sundown: The Vampire in Retreat"
+  year: 1989
+  runtime: 104
+  director: Anthony Hickox
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.4 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug_hint: sundown-the-vampire-in-retreat
+  letterboxd_slug: sundown-the-vampire-in-retreat
+  poster_url: https://a.ltrbxd.com/resized/alternative-backdrop/4/1/7/8/3/tmdb/23g5CChMQ0nU0tT89QX5SeHHmYj-1200-1200-675-675-crop-000000.jpg?v=25bfd9e634
+  genres:
+    - Comedy
+    - Horror
+  letterboxd_rating: 3.16
+
+- id: mindwarp
+  tmdb_id: 45779
+  title: Mindwarp
+  year: 1991
+  runtime: 91
+  director: Steve Barnett
+  tags: { opacity: 1, stillness: 1, bleakness: 4, humor: 1, acclaim: 0.3 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug_hint: mindwarp
+  letterboxd_slug: mindwarp
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/gs/v8/q1/o6/mindwarp-1200-1200-675-675-crop-000000.jpg?v=8fc79e5bcc
+  genres:
+    - Horror
+    - Science Fiction
+    - Thriller
+  letterboxd_rating: 2.69
+
+- id: waxwork-ii-lost-in-time
+  tmdb_id: 28762
+  title: "Waxwork II: Lost in Time"
+  year: 1992
+  runtime: 104
+  director: Anthony Hickox
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug_hint: waxwork-ii-lost-in-time
+  letterboxd_slug: waxwork-ii-lost-in-time
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/pw/d1/mh/kf/3K5f069NukXn209osdL9RdRnTL-1200-1200-675-675-crop-000000.jpg?v=36951f22c9
+  genres:
+    - Comedy
+    - Horror
+    - Fantasy
+  letterboxd_rating: 2.76
+
+- id: darkman
+  tmdb_id: 9556
+  title: Darkman
+  year: 1990
+  runtime: 95
+  director: Sam Raimi
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 2, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug_hint: darkman
+  letterboxd_slug: darkman
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/uk/nn/h1/by/darkman-1200-1200-675-675-crop-000000.jpg?v=10e662f134
+  genres:
+    - Action
+    - Thriller
+    - Science Fiction
+  letterboxd_rating: 3.4
+
+- id: congo
+  tmdb_id: 10329
+  title: Congo
+  year: 1995
+  runtime: 108
+  director: Frank Marshall
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.3 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug_hint: congo
+  letterboxd_slug: congo
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/tk/37/6l/82/congo-1200-1200-675-675-crop-000000.jpg?v=363a8658d6
+  genres:
+    - Science Fiction
+    - Adventure
+    - Action
+  letterboxd_rating: 2.68
+
+- id: mchales-navy-1997
+  tmdb_id: 14908
+  title: "McHale's Navy"
+  year: 1997
+  runtime: 108
+  director: Bryan Spicer
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.1 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug_hint: mchales-navy-1997
+  letterboxd_slug: mchales-navy-1997
+  poster_url: https://a.ltrbxd.com/resized/film-poster/4/2/7/1/9/42719-mchale-s-navy-0-230-0-345-crop.jpg?v=3d39564d6f
+  genres:
+    - Comedy
+  letterboxd_rating: 2.4
+
+- id: running-time
+  tmdb_id: 81048
+  title: Running Time
+  year: 1997
+  runtime: 70
+  director: Josh Becker
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.5 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug_hint: running-time
+  letterboxd_slug: running-time
+  poster_url: https://a.ltrbxd.com/resized/film-poster/6/7/5/1/7/67517-running-time-0-230-0-345-crop.jpg?v=50687cd8ac
+  genres:
+    - Thriller
+    - Crime
+  letterboxd_rating: 3.31
+
+- id: from-dusk-till-dawn-2-texas-blood-money
+  tmdb_id: 12095
+  title: "From Dusk Till Dawn 2: Texas Blood Money"
+  year: 1999
+  runtime: 88
+  director: Scott Spiegel
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.2 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug_hint: from-dusk-till-dawn-2-texas-blood-money
+  letterboxd_slug: from-dusk-till-dawn-2-texas-blood-money
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/vv/y5/zq/hz/c0Xtlwu3zNguROCr8ClXmfT1NMx-1200-1200-675-675-crop-000000.jpg?v=4fb6227b42
+  genres:
+    - Crime
+    - Horror
+    - Action
+    - Thriller
+  letterboxd_rating: 2.21
+
+- id: icebreaker
+  tmdb_id: 15090
+  title: Icebreaker
+  year: 2000
+  runtime: 90
+  director: David Giancola
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.1 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug_hint: icebreaker
+  letterboxd_slug: icebreaker
+  poster_url: https://a.ltrbxd.com/resized/film-poster/4/2/6/0/5/42605-icebreaker-0-230-0-345-crop.jpg?v=d0ed4b2af8
+  genres:
+    - Adventure
+    - Action
+    - Thriller
+  letterboxd_rating: 2.31
+
+- id: the-majestic
+  tmdb_id: 11086
+  title: The Majestic
+  year: 2001
+  runtime: 153
+  director: Frank Darabont
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug_hint: the-majestic
+  letterboxd_slug: the-majestic
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/in/9c/9o/yi/iNRsfcgiw8YAnC5ARNEn0WIMNA8-1200-1200-675-675-crop-000000.jpg?v=489a3ad63c
+  genres:
+    - Romance
+    - Drama
+  letterboxd_rating: 3.35
+
+- id: sky-high-2005
+  tmdb_id: 11459
+  title: Sky High
+  year: 2005
+  runtime: 100
+  director: Mike Mitchell
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug_hint: sky-high-2005
+  letterboxd_slug: sky-high-2005
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/rm/bl/54/ig/sky-high-1200-1200-675-675-crop-000000.jpg?v=8995c60e52
+  genres:
+    - Adventure
+    - Family
+    - Comedy
+  letterboxd_rating: 3.2
+
+- id: man-with-the-screaming-brain
+  tmdb_id: 2151
+  title: Man with the Screaming Brain
+  year: 2005
+  runtime: 90
+  director: Bruce Campbell
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.3 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug_hint: man-with-the-screaming-brain
+  letterboxd_slug: man-with-the-screaming-brain
+  poster_url: https://a.ltrbxd.com/resized/film-poster/5/0/4/8/2/50482-man-with-the-screaming-brain-0-230-0-345-crop.jpg?v=71e5448dad
+  genres:
+    - Comedy
+    - Science Fiction
+    - Horror
+  letterboxd_rating: 2.59
+
+- id: the-woods
+  tmdb_id: 6948
+  title: The Woods
+  year: 2006
+  runtime: 91
+  director: Lucky McKee
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.5 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug_hint: the-woods
+  letterboxd_slug: the-woods
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/uc/yl/kr/uw/ThrWoods2006-1200-1200-675-675-crop-000000.jpg?v=a3f5242130
+  genres:
+    - Mystery
+    - Horror
+    - Thriller
+  letterboxd_rating: 2.84
+
+- id: the-ant-bully
+  tmdb_id: 9906
+  title: The Ant Bully
+  year: 2006
+  runtime: 89
+  director: John A. Davis
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug_hint: the-ant-bully
+  letterboxd_slug: the-ant-bully
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/l0/xp/dz/ck/ant-bully-1200-1200-675-675-crop-000000.jpg?v=76404e8367
+  genres:
+    - Fantasy
+    - Comedy
+    - Family
+    - Adventure
+    - Animation
+  letterboxd_rating: 2.48
+
+- id: my-name-is-bruce
+  tmdb_id: 1961
+  title: My Name Is Bruce
+  year: 2007
+  runtime: 84
+  director: Bruce Campbell
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.4 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug_hint: my-name-is-bruce
+  letterboxd_slug: my-name-is-bruce
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/kj/wv/53/rs/kaQuODC9IWpvVRFqrXwHnqXniAg-1200-1200-675-675-crop-000000.jpg?v=defb714dd7
+  genres:
+    - Horror
+    - Comedy
+    - Fantasy
+  letterboxd_rating: 2.9
+
+- id: cars-2
+  tmdb_id: 49013
+  title: Cars 2
+  year: 2011
+  runtime: 106
+  director: John Lasseter
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug_hint: cars-2
+  letterboxd_slug: cars-2
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/1d/a0/sz/x4/cars-2-1200-1200-675-675-crop-000000.jpg?v=6fde3a60ef
+  genres:
+    - Animation
+    - Comedy
+    - Family
+    - Adventure
+  letterboxd_rating: 3.19
+
+- id: oz-the-great-and-powerful
+  tmdb_id: 68728
+  title: Oz the Great and Powerful
+  year: 2013
+  runtime: 130
+  director: Sam Raimi
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 2, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug_hint: oz-the-great-and-powerful
+  letterboxd_slug: oz-the-great-and-powerful
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/v5/ew/pw/le/oz-great-powerful-1200-1200-675-675-crop-000000.jpg?v=ca43e34213
+  genres:
+    - Fantasy
+    - Family
+    - Adventure
+  letterboxd_rating: 2.66
+
+- id: black-friday-2021
+  tmdb_id: 765869
+  title: Black Friday
+  year: 2021
+  runtime: 84
+  director: Casey Tebo
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug_hint: black-friday-2021
+  letterboxd_slug: black-friday-2021
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/2s/95/ni/jd/black%20friday-1200-1200-675-675-crop-000000.jpg?v=d6c1d6f4e1
+  genres:
+    - Horror
+    - Science Fiction
+    - Comedy
+  letterboxd_rating: 2.28
