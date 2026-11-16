@@ -1,5 +1,19 @@
 # New films for Brian Cox. Scales and anchors are in README.md ("The anchor rubric").
 #
+# PARTIAL: his theatrical feature roles only. About half of his 200-odd credits are television
+# films and serials (Sharpe, Longitude, Poodle Springs, The Lost Language of Cranes, Nuremberg
+# and many BBC plays), documentaries and narration; none of those are included.
+# Free wins (verified by matching tmdb_id): nicholas-and-alexandra (freddie-young.yaml), rob-roy
+# (tim-roth.yaml), braveheart (mel-gibson.yaml), rushmore (murray.yaml),
+# the-affair-of-the-necklace + fantastic-mr-fox (brody.yaml), the-ring (watts.yaml), 25th-hour
+# (spike-lee.yaml), troy (pitt.yaml), red-eye (cillian-murphy.yaml), match-point
+# (johansson.yaml), running-with-scissors (bening.yaml), zodiac (downey.yaml), red (mirren.yaml),
+# coriolanus (gerard-butler.yaml), her (phoenix.yaml), pixels (adam-sandler.yaml), morgan
+# (taylor-joy.yaml), that-christmas (nighy.yaml), the-electric-state (mackie.yaml).
+# Excluded: The Bourne Ultimatum (archive voice, uncredited). Deferred: a few small independent
+# films whose roles could not be confirmed (Merchants of Venus, All at Sea, Killing Thyme,
+# Skelly, There Are No Saints, The Outsiders 2006, A Woman in Winter).
+#
 # Adaptation already exists in cage.yaml. The Bourne Identity already exists in
 # damon.yaml.
 
@@ -44,3 +58,1129 @@
     - Science Fiction
     - Action
     - Adventure
+
+- id: in-celebration
+  tmdb_id: 158741
+  title: In Celebration
+  year: 1975
+  runtime: 131
+  director: Lindsay Anderson
+  tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.6 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug_hint: in-celebration
+  letterboxd_slug: in-celebration
+  poster_url: https://a.ltrbxd.com/resized/film-poster/1/1/8/4/3/6/118436-in-celebration-0-230-0-345-crop.jpg?v=c949085ca1
+  genres:
+    - Drama
+  letterboxd_rating: 3.49
+
+- id: hidden-agenda
+  tmdb_id: 47869
+  title: Hidden Agenda
+  year: 1990
+  runtime: 108
+  director: Ken Loach
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug_hint: hidden-agenda
+  letterboxd_slug: hidden-agenda
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ct/1n/1d/6z/hidden-1200-1200-675-675-crop-000000.jpg?v=d5c6b91356
+  genres:
+    - Drama
+    - Thriller
+  letterboxd_rating: 3.59
+
+- id: iron-will
+  tmdb_id: 24767
+  title: Iron Will
+  year: 1994
+  runtime: 108
+  director: Charles Haid
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug_hint: iron-will
+  letterboxd_slug: iron-will
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/sr/z1/b6/v2/IronWill-1200-1200-675-675-crop-000000.jpg?v=1f9f4b84d0
+  genres:
+    - Action
+    - Adventure
+    - Family
+  letterboxd_rating: 3.24
+
+- id: prince-of-jutland
+  tmdb_id: 48791
+  title: Prince of Jutland
+  year: 1994
+  runtime: 107
+  director: Gabriel Axel
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  letterboxd_slug_hint: prince-of-jutland
+  letterboxd_slug: prince-of-jutland
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/y1/av/a2/ki/5zmdjwzuhE0aredp8KwNV6xFDWp-1200-1200-675-675-crop-000000.jpg?v=1341173570
+  genres:
+    - Adventure
+    - Drama
+  letterboxd_rating: 2.68
+
+- id: chain-reaction
+  tmdb_id: 12123
+  title: Chain Reaction
+  year: 1996
+  runtime: 107
+  director: Andrew Davis
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.3 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug_hint: chain-reaction
+  letterboxd_slug: chain-reaction
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/bx/8s/fk/uz/chain%20reaction-1200-1200-675-675-crop-000000.jpg?v=5f3d651da7
+  genres:
+    - Action
+    - Thriller
+  letterboxd_rating: 2.7
+
+- id: the-glimmer-man
+  tmdb_id: 9625
+  title: The Glimmer Man
+  year: 1996
+  runtime: 92
+  director: John Gray
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.2 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug_hint: the-glimmer-man
+  letterboxd_slug: the-glimmer-man
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ek/9y/e5/wc/glimmer-1200-1200-675-675-crop-000000.jpg?v=ae7b8ee022
+  genres:
+    - Comedy
+    - Crime
+    - Action
+  letterboxd_rating: 2.52
+
+- id: the-long-kiss-goodnight
+  tmdb_id: 11412
+  title: The Long Kiss Goodnight
+  year: 1996
+  runtime: 121
+  director: Renny Harlin
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug_hint: the-long-kiss-goodnight
+  letterboxd_slug: the-long-kiss-goodnight
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/i0/80/q1/ue/long-kiss-goodnight-1200-1200-675-675-crop-000000.jpg?v=ff38df3178
+  genres:
+    - Action
+    - Crime
+    - Mystery
+    - Thriller
+  letterboxd_rating: 3.43
+
+- id: kiss-the-girls
+  tmdb_id: 9437
+  title: Kiss the Girls
+  year: 1997
+  runtime: 115
+  director: Gary Fleder
+  tags: { opacity: 1, stillness: 1, bleakness: 4, humor: 1, acclaim: 0.4 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug_hint: kiss-the-girls
+  letterboxd_slug: kiss-the-girls
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/so/y4/2k/7p/fjxozAvmTJvT1Ea4ByCTsYVEsUN-1200-1200-675-675-crop-000000.jpg?v=57b6432e46
+  genres:
+    - Thriller
+    - Crime
+    - Mystery
+  letterboxd_rating: 3.16
+
+- id: the-boxer
+  tmdb_id: 16992
+  title: The Boxer
+  year: 1997
+  runtime: 114
+  director: Jim Sheridan
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.7 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug_hint: the-boxer
+  letterboxd_slug: the-boxer
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/ps/47/fd/cx/the-boxer-1200-1200-675-675-crop-000000.jpg?v=d8a6eb6248
+  genres:
+    - Drama
+    - Romance
+  letterboxd_rating: 3.53
+
+- id: desperate-measures
+  tmdb_id: 9458
+  title: Desperate Measures
+  year: 1998
+  runtime: 100
+  director: Barbet Schroeder
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.3 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug_hint: desperate-measures
+  letterboxd_slug: desperate-measures
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/oo/2y/fg/n3/rQ8vP8AkfeeHvj3rTrRr6JUwUS0-1200-1200-675-675-crop-000000.jpg?v=41fe05bd68
+  genres:
+    - Drama
+    - Thriller
+    - Action
+    - Crime
+  letterboxd_rating: 3.06
+
+- id: the-corruptor
+  tmdb_id: 9455
+  title: The Corruptor
+  year: 1999
+  runtime: 110
+  director: James Foley
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug_hint: the-corruptor
+  letterboxd_slug: the-corruptor
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/g7/9l/hm/rv/the-corruptor-1200-1200-675-675-crop-000000.jpg?v=180fd2062c
+  genres:
+    - Action
+    - Crime
+    - Thriller
+    - Drama
+  letterboxd_rating: 3.02
+
+- id: for-love-of-the-game
+  tmdb_id: 10390
+  title: For Love of the Game
+  year: 1999
+  runtime: 138
+  director: Sam Raimi
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug_hint: for-love-of-the-game
+  letterboxd_slug: for-love-of-the-game
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/nx/0j/fd/yf/for-love-of-the-game-1200-1200-675-675-crop-000000.jpg?v=72b48dcc44
+  genres:
+    - Drama
+    - Romance
+  letterboxd_rating: 3.04
+
+- id: the-minus-man
+  tmdb_id: 21719
+  title: The Minus Man
+  year: 1999
+  runtime: 111
+  director: Hampton Fancher
+  tags: { opacity: 3, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug_hint: the-minus-man
+  letterboxd_slug: the-minus-man
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/r3/yo/vu/ap/3rVtoCyClDZh6vt7tRUBWVoIOnR-1200-1200-675-675-crop-000000.jpg?v=5ff5fd41e0
+  genres:
+    - Drama
+    - Thriller
+  letterboxd_rating: 2.99
+
+- id: mad-about-mambo
+  tmdb_id: 43079
+  title: Mad About Mambo
+  year: 2000
+  runtime: 92
+  director: John Forte
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug_hint: mad-about-mambo
+  letterboxd_slug: mad-about-mambo
+  poster_url: https://a.ltrbxd.com/resized/film-poster/2/2/0/4/3/22043-mad-about-mambo-0-230-0-345-crop.jpg?v=103e38d56d
+  genres:
+    - Drama
+    - Comedy
+    - Romance
+  letterboxd_rating: 3.14
+
+- id: a-shot-at-glory
+  tmdb_id: 72087
+  title: A Shot at Glory
+  year: 2000
+  runtime: 114
+  director: Michael Corrente
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug_hint: a-shot-at-glory
+  letterboxd_slug: a-shot-at-glory
+  poster_url: https://a.ltrbxd.com/resized/film-poster/5/7/3/9/4/57394-a-shot-at-glory-0-230-0-345-crop.jpg?v=c2525a4784
+  genres:
+    - Drama
+  letterboxd_rating: 3.1
+
+- id: complicity
+  tmdb_id: 23751
+  title: Complicity
+  year: 2000
+  runtime: 100
+  director: Gavin Millar
+  tags: { opacity: 2, stillness: 1, bleakness: 4, humor: 1, acclaim: 0.4 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 2 }
+  letterboxd_slug_hint: complicity
+  letterboxd_slug: complicity
+  poster_url: https://a.ltrbxd.com/resized/film-poster/3/7/2/2/4/37224-complicity-0-230-0-345-crop.jpg?v=7c767080e0
+  genres:
+    - Romance
+    - Thriller
+  letterboxd_rating: 3.13
+
+- id: saltwater
+  tmdb_id: 106234
+  title: Saltwater
+  year: 2000
+  runtime: 97
+  director: Conor McPherson
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 3, acclaim: 0.5 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug_hint: saltwater
+  letterboxd_slug: saltwater
+  poster_url: https://a.ltrbxd.com/resized/film-poster/8/5/7/7/4/85774-saltwater-0-230-0-345-crop.jpg?v=7ff535e2d5
+  genres:
+    - Drama
+
+- id: super-troopers
+  tmdb_id: 39939
+  title: Super Troopers
+  year: 2001
+  runtime: 100
+  director: Jay Chandrasekhar
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.6 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug_hint: super-troopers
+  letterboxd_slug: super-troopers
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/kw/e8/qh/cc/super%20troopers-1200-1200-675-675-crop-000000.jpg?v=3dbba45d90
+  genres:
+    - Comedy
+    - Crime
+    - Mystery
+  letterboxd_rating: 3.18
+
+- id: strictly-sinatra
+  tmdb_id: 114087
+  title: Strictly Sinatra
+  year: 2001
+  runtime: 97
+  director: Peter Capaldi
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug_hint: strictly-sinatra
+  letterboxd_slug: strictly-sinatra
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/q3/z2/yh/u2/strictly%20sinatra-1200-1200-675-675-crop-000000.jpg?v=a84bc5f9e6
+  genres:
+    - Romance
+    - Action
+    - Drama
+
+- id: l-i-e
+  tmdb_id: 18734
+  title: L.I.E.
+  year: 2001
+  runtime: 97
+  director: Michael Cuesta
+  tags: { opacity: 3, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+  letterboxd_slug_hint: lie-2001
+  letterboxd_slug: lie-2001
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/oh/wr/68/30/lie-1200-1200-675-675-crop-000000.jpg?v=a8beb496c3
+  genres:
+    - Drama
+    - Crime
+  letterboxd_rating: 3.17
+
+- id: bug-2002
+  tmdb_id: 32241
+  title: Bug
+  year: 2002
+  runtime: 86
+  director: "Phil Hay, Matt Manfredi"
+  tags: { opacity: 2, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.4 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug_hint: bug-2002
+  letterboxd_slug: bug-2002
+  poster_url: https://a.ltrbxd.com/resized/film-poster/3/0/5/3/2/30532-bug-0-230-0-345-crop.jpg?v=7e7737f170
+  genres:
+    - Drama
+    - Comedy
+  letterboxd_rating: 3.37
+
+- id: the-rookie-2002
+  tmdb_id: 14635
+  title: The Rookie
+  year: 2002
+  runtime: 127
+  director: John Lee Hancock
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug_hint: the-rookie-2002
+  letterboxd_slug: the-rookie-2002
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/qi/x0/37/f0/mkcbQTI6kR8QkJ4sarKopVL6Tic-1200-1200-675-675-crop-000000.jpg?v=79b1206bdc
+  genres:
+    - Drama
+    - Family
+  letterboxd_rating: 3.29
+
+- id: sin
+  tmdb_id: 37946
+  title: Sin
+  year: 2003
+  runtime: 107
+  director: Michael Stevens
+  tags: { opacity: 1, stillness: 1, bleakness: 4, humor: 1, acclaim: 0.15 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 2 }
+  letterboxd_slug_hint: sin
+  letterboxd_slug: sin
+  poster_url: https://a.ltrbxd.com/resized/film-poster/2/6/5/7/5/26575-sin-0-230-0-345-crop.jpg?v=e73d867e7c
+  genres:
+    - Crime
+  letterboxd_rating: 2.91
+
+- id: the-reckoning
+  tmdb_id: 25935
+  title: The Reckoning
+  year: 2003
+  runtime: 112
+  director: Paul McGuigan
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug_hint: the-reckoning
+  letterboxd_slug: the-reckoning
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/tt/3q/vv/4m/yULU5yKWaoGPk5YkuNJ6svNk2nY-1200-1200-675-675-crop-000000.jpg?v=c277c23acd
+  genres:
+    - Drama
+    - Mystery
+    - Crime
+  letterboxd_rating: 3.11
+
+- id: the-bourne-supremacy
+  tmdb_id: 2502
+  title: The Bourne Supremacy
+  year: 2004
+  runtime: 108
+  director: Paul Greengrass
+  tags: { opacity: 2, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug_hint: the-bourne-supremacy
+  letterboxd_slug: the-bourne-supremacy
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/y8/mu/76/m9/bourne-supremacy-1200-1200-675-675-crop-000000.jpg?v=9ca203b9a0
+  genres:
+    - Drama
+    - Action
+    - Thriller
+  letterboxd_rating: 3.63
+
+- id: the-ringer-2005
+  tmdb_id: 9927
+  title: The Ringer
+  year: 2005
+  runtime: 94
+  director: Barry W. Blaustein
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug_hint: the-ringer-2005
+  letterboxd_slug: the-ringer-2005
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/7s/gl/80/6f/n9F6olb7nuCwzZeW2w6F6Sln1WF-1200-1200-675-675-crop-000000.jpg?v=d5a86d8f12
+  genres:
+    - Comedy
+  letterboxd_rating: 2.84
+
+- id: the-flying-scotsman
+  tmdb_id: 15008
+  title: The Flying Scotsman
+  year: 2006
+  runtime: 96
+  director: Douglas Mackinnon
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug_hint: the-flying-scotsman
+  letterboxd_slug: the-flying-scotsman
+  poster_url: https://a.ltrbxd.com/resized/film-poster/4/2/6/7/4/42674-the-flying-scotsman-0-230-0-345-crop.jpg?v=91c63b0cfb
+  genres:
+    - Drama
+  letterboxd_rating: 3.28
+
+- id: battle-for-terra
+  tmdb_id: 16873
+  title: Battle for Terra
+  year: 2007
+  runtime: 85
+  director: Aristomenis Tsirbas
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.4 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug_hint: battle-for-terra
+  letterboxd_slug: battle-for-terra
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/g6/lb/sm/01/battle%20for%20terra-1200-1200-675-675-crop-000000.jpg?v=5bc93a3c4f
+  genres:
+    - Animation
+    - Action
+    - Adventure
+    - Science Fiction
+  letterboxd_rating: 2.72
+
+- id: trick-r-treat
+  tmdb_id: 23202
+  title: "Trick 'r Treat"
+  year: 2007
+  runtime: 82
+  director: Michael Dougherty
+  tags: { opacity: 2, stillness: 1, bleakness: 3, humor: 3, acclaim: 0.7 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug_hint: trick-r-treat
+  letterboxd_slug: trick-r-treat
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/gs/0s/2r/xq/trick-r-treat-1200-1200-675-675-crop-000000.jpg?v=9b78459704
+  genres:
+    - Fantasy
+    - Comedy
+    - Horror
+  letterboxd_rating: 3.39
+
+- id: shoot-on-sight
+  tmdb_id: 14076
+  title: Shoot on Sight
+  year: 2007
+  runtime: 112
+  director: Jag Mundhra
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.3 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug_hint: shoot-on-sight
+  letterboxd_slug: shoot-on-sight
+  poster_url: https://a.ltrbxd.com/resized/film-poster/4/3/3/6/3/43363-shoot-on-sight-0-230-0-345-crop.jpg?v=56d3f409ce
+  genres:
+    - Drama
+    - Thriller
+    - Crime
+
+- id: the-water-horse
+  tmdb_id: 54318
+  title: The Water Horse
+  year: 2007
+  runtime: 112
+  director: Jay Russell
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug_hint: the-water-horse
+  letterboxd_slug: the-water-horse
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/o3/sl/tc/m6/water%20horse-1200-1200-675-675-crop-000000.jpg?v=85a03b6554
+  genres:
+    - Adventure
+    - Fantasy
+    - Family
+  letterboxd_rating: 3.07
+
+- id: the-escapist-2008
+  tmdb_id: 14851
+  title: The Escapist
+  year: 2008
+  runtime: 102
+  director: Rupert Wyatt
+  tags: { opacity: 3, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.7 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug_hint: the-escapist-2008
+  letterboxd_slug: the-escapist-2008
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/kf/6k/8r/io/the-escapist-2008-1200-1200-675-675-crop-000000.jpg?v=f4d46e3d11
+  genres:
+    - Action
+    - Thriller
+  letterboxd_rating: 3.35
+
+- id: red-2008
+  tmdb_id: 13200
+  title: Red
+  year: 2008
+  runtime: 93
+  director: "Lucky McKee, Trygve Allister Diesen"
+  tags: { opacity: 1, stillness: 3, bleakness: 4, humor: 1, acclaim: 0.65 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug_hint: red-2008
+  letterboxd_slug: red-2008
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/8s/34/ac/mm/he3tSbGMewQLt92dPcJruwc3ctk-1200-1200-675-675-crop-000000.jpg?v=bba83fd952
+  genres:
+    - Drama
+    - Thriller
+  letterboxd_rating: 3.21
+
+- id: tell-tale
+  tmdb_id: 27135
+  title: Tell-Tale
+  year: 2009
+  runtime: 92
+  director: Michael Cuesta
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.3 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug_hint: tell-tale
+  letterboxd_slug: tell-tale
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/gx/jk/ra/hi/tell-tale-1200-1200-675-675-crop-000000.jpg?v=1d8413fde0
+  genres:
+    - Drama
+    - Thriller
+    - Horror
+    - Mystery
+  letterboxd_rating: 2.85
+
+- id: the-good-heart
+  tmdb_id: 5178
+  title: The Good Heart
+  year: 2009
+  runtime: 95
+  director: Dagur Kári
+  tags: { opacity: 2, stillness: 3, bleakness: 4, humor: 2, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug_hint: the-good-heart
+  letterboxd_slug: the-good-heart
+  poster_url: https://a.ltrbxd.com/resized/film-poster/4/8/9/1/6/48916-the-good-heart-0-230-0-345-crop.jpg?v=00e1eebb28
+  genres:
+    - Romance
+    - Drama
+    - Comedy
+  letterboxd_rating: 3.22
+
+- id: as-good-as-dead
+  tmdb_id: 35656
+  title: As Good As Dead
+  year: 2010
+  runtime: 92
+  director: Jonathan Mossek
+  tags: { opacity: 1, stillness: 1, bleakness: 4, humor: 1, acclaim: 0.2 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug_hint: as-good-as-dead
+  letterboxd_slug: as-good-as-dead
+  poster_url: https://a.ltrbxd.com/resized/film-poster/2/8/5/0/8/28508-as-good-as-dead-0-230-0-345-crop.jpg?v=b008a0a657
+  genres:
+    - Thriller
+    - Adventure
+    - Action
+  letterboxd_rating: 2.92
+
+- id: the-key-man
+  tmdb_id: 106288
+  title: The Key Man
+  year: 2011
+  runtime: 80
+  director: Peter Himmelstein
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.2 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug_hint: the-key-man
+  letterboxd_slug: the-key-man
+  poster_url: https://a.ltrbxd.com/resized/film-poster/8/5/8/2/4/85824-the-key-man-0-230-0-345-crop.jpg?v=2bf835f17d
+  genres:
+    - Drama
+    - Thriller
+    - Crime
+
+- id: ironclad
+  tmdb_id: 38543
+  title: Ironclad
+  year: 2011
+  runtime: 121
+  director: Jonathan English
+  tags: { opacity: 1, stillness: 1, bleakness: 4, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug_hint: ironclad
+  letterboxd_slug: ironclad
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/zl/xp/zd/57/ironclad-1200-1200-675-675-crop-000000.jpg?v=0cc78d40e9
+  genres:
+    - Romance
+    - Action
+    - Adventure
+    - History
+  letterboxd_rating: 2.93
+
+- id: the-veteran-2011
+  tmdb_id: 70196
+  title: The Veteran
+  year: 2011
+  runtime: 98
+  director: Matthew Hope
+  tags: { opacity: 2, stillness: 1, bleakness: 4, humor: 1, acclaim: 0.4 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 3, sex: 0 }
+  letterboxd_slug_hint: the-veteran-2011
+  letterboxd_slug: the-veteran-2011
+  poster_url: https://a.ltrbxd.com/resized/film-poster/5/9/2/4/8/59248-the-veteran-0-230-0-345-crop.jpg?v=82fff73fee
+  genres:
+    - Thriller
+    - Crime
+    - Action
+  letterboxd_rating: 3.05
+
+- id: rise-of-the-planet-of-the-apes
+  tmdb_id: 61791
+  title: Rise of the Planet of the Apes
+  year: 2011
+  runtime: 105
+  director: Rupert Wyatt
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug_hint: rise-of-the-planet-of-the-apes
+  letterboxd_slug: rise-of-the-planet-of-the-apes
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/h9/wk/52/ro/rise-planet-of-the-apes-110-1200-1200-675-675-crop-000000.jpg?v=ba7346832b
+  genres:
+    - Action
+    - Thriller
+    - Science Fiction
+    - Drama
+  letterboxd_rating: 3.7
+
+- id: edwin-boyd-citizen-gangster
+  tmdb_id: 92493
+  title: "Edwin Boyd: Citizen Gangster"
+  year: 2011
+  runtime: 105
+  director: Nathan Morlando
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.5 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug_hint: edwin-boyd-citizen-gangster
+  letterboxd_slug: edwin-boyd-citizen-gangster
+  poster_url: https://a.ltrbxd.com/resized/alternative-backdrop/7/7/1/9/8/tmdb/Q4TGKWnaOLSpSxTb8P7dgcZO6q-1200-1200-675-675-crop-000000.jpg?v=6b74d46946
+  genres:
+    - Drama
+    - History
+    - Crime
+  letterboxd_rating: 3.18
+
+- id: the-campaign
+  tmdb_id: 77953
+  title: The Campaign
+  year: 2012
+  runtime: 85
+  director: Jay Roach
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 4, acclaim: 0.5 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug_hint: the-campaign
+  letterboxd_slug: the-campaign
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/h0/n5/j4/ro/the-campaign-1200-1200-675-675-crop-000000.jpg?v=7abc736bac
+  genres:
+    - Comedy
+  letterboxd_rating: 2.75
+
+- id: blood-2012
+  tmdb_id: 136278
+  title: Blood
+  year: 2012
+  runtime: 93
+  director: Nick Murphy
+  tags: { opacity: 1, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.4 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug_hint: blood-2012
+  letterboxd_slug: blood-2012
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/m9/wg/1r/w1/blood-1200-1200-675-675-crop-000000.jpg?v=9e5345f971
+  genres:
+    - Thriller
+    - Drama
+    - Crime
+  letterboxd_rating: 3.12
+
+- id: red-2
+  tmdb_id: 146216
+  title: RED 2
+  year: 2013
+  runtime: 116
+  director: Dean Parisot
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug_hint: red-2
+  letterboxd_slug: red-2
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/nu/h1/at/2j/red-2-1200-1200-675-675-crop-000000.jpg?v=85b5187f8c
+  genres:
+    - Action
+    - Adventure
+    - Comedy
+    - Crime
+    - Thriller
+  letterboxd_rating: 2.85
+
+- id: blumenthal
+  tmdb_id: 249809
+  title: Blumenthal
+  year: 2013
+  runtime: 86
+  director: Seth Fisher
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.4 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug_hint: blumenthal
+  letterboxd_slug: blumenthal
+  poster_url: https://a.ltrbxd.com/resized/film-poster/1/7/4/4/5/9/174459-blumenthal-0-230-0-345-crop.jpg?v=4c79ca2ae3
+  genres:
+    - Comedy
+
+- id: believe-2013
+  tmdb_id: 228406
+  title: Believe
+  year: 2013
+  runtime: 94
+  director: David Scheinmann
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 2, acclaim: 0.4 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug_hint: believe-2013
+  letterboxd_slug: believe-2013
+  poster_url: https://a.ltrbxd.com/resized/film-poster/1/6/0/6/3/8/160638-believe-2013-0-230-0-345-crop.jpg?v=49502d89b4
+  genres:
+    - Drama
+  letterboxd_rating: 3.09
+
+- id: anna-2013
+  tmdb_id: 227700
+  title: Anna
+  year: 2013
+  runtime: 99
+  director: Jorge Dorado
+  tags: { opacity: 2, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.4 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  letterboxd_slug_hint: anna-2013-1
+  letterboxd_slug: anna-2013-1
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/mz/gm/hk/el/mindscape-1200-1200-675-675-crop-000000.jpg?v=83c844d14e
+  genres:
+    - Thriller
+    - Drama
+  letterboxd_rating: 3.07
+
+- id: the-anomaly
+  tmdb_id: 269173
+  title: The Anomaly
+  year: 2014
+  runtime: 97
+  director: Noel Clarke
+  tags: { opacity: 2, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.2 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  letterboxd_slug_hint: the-anomaly
+  letterboxd_slug: the-anomaly
+  poster_url: https://a.ltrbxd.com/resized/film-poster/1/9/2/4/2/9/192429-the-anomaly-0-230-0-345-crop.jpg?v=256326e122
+  genres:
+    - Thriller
+    - Science Fiction
+    - Action
+  letterboxd_rating: 2.37
+
+- id: forsaken-2015
+  tmdb_id: 354110
+  title: Forsaken
+  year: 2015
+  runtime: 90
+  director: Jon Cassar
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug_hint: forsaken-2015
+  letterboxd_slug: forsaken-2015
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/5l/6e/51/6o/kdlpIREjg2hUCfp91drGJREFIeX-1200-1200-675-675-crop-000000.jpg?v=35661e61d9
+  genres:
+    - Western
+  letterboxd_rating: 3.03
+
+- id: the-carer
+  tmdb_id: 399231
+  title: The Carer
+  year: 2016
+  runtime: 89
+  director: János Edelényi
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 3, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug_hint: the-carer
+  letterboxd_slug: the-carer
+  poster_url: https://a.ltrbxd.com/resized/film-poster/3/3/3/4/0/0/333400-the-carer-0-230-0-345-crop.jpg?v=f8a38b4a92
+  genres:
+    - Comedy
+  letterboxd_rating: 3.26
+
+- id: the-autopsy-of-jane-doe
+  tmdb_id: 397243
+  title: The Autopsy of Jane Doe
+  year: 2016
+  runtime: 86
+  director: André Øvredal
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.75 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug_hint: the-autopsy-of-jane-doe
+  letterboxd_slug: the-autopsy-of-jane-doe
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/jf/sy/of/o7/the-autopsy-of-jane-doe-1200-1200-675-675-crop-000000.jpg?v=4c93f6e0e5
+  genres:
+    - Horror
+    - Mystery
+  letterboxd_rating: 3.22
+
+- id: churchill-2017
+  tmdb_id: 399790
+  title: Churchill
+  year: 2017
+  runtime: 110
+  director: Jonathan Teplitzky
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug_hint: churchill-2017
+  letterboxd_slug: churchill-2017
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/1f/zl/cu/qo/churchill-1200-1200-675-675-crop-000000.jpg?v=7b39f5b105
+  genres:
+    - History
+    - Drama
+  letterboxd_rating: 2.96
+
+- id: the-etruscan-smile
+  tmdb_id: 513243
+  title: The Etruscan Smile
+  year: 2018
+  runtime: 103
+  director: "Mihal Brezis, Oded Binnun"
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 2, acclaim: 0.5 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug_hint: the-etruscan-smile
+  letterboxd_slug: the-etruscan-smile
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/hz/2k/lv/7t/smile-1200-1200-675-675-crop-000000.jpg?v=60267aa16c
+  genres:
+    - Drama
+  letterboxd_rating: 3.29
+
+- id: super-troopers-2
+  tmdb_id: 50022
+  title: Super Troopers 2
+  year: 2018
+  runtime: 99
+  director: Jay Chandrasekhar
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug_hint: super-troopers-2
+  letterboxd_slug: super-troopers-2
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/k0/po/rd/7h/super-troopers-2-1200-1200-675-675-crop-000000.jpg?v=eb9104c007
+  genres:
+    - Crime
+    - Comedy
+    - Mystery
+  letterboxd_rating: 2.71
+
+- id: remember-me-2019
+  tmdb_id: 566675
+  title: Remember Me
+  year: 2019
+  runtime: 89
+  director: Martín Rosete
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.4 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug_hint: remember-me-2019
+  letterboxd_slug: remember-me-2019
+  poster_url: https://a.ltrbxd.com/resized/film-poster/4/9/5/0/6/4/495064-remember-me-0-230-0-345-crop.jpg?v=938fb2f765
+  genres:
+    - Comedy
+    - Drama
+    - Romance
+  letterboxd_rating: 3.11
+
+- id: pretenders
+  tmdb_id: 346666
+  title: Pretenders
+  year: 2018
+  runtime: 95
+  director: James Franco
+  tags: { opacity: 2, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.2 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 2 }
+  letterboxd_slug_hint: pretenders
+  letterboxd_slug: pretenders
+  poster_url: https://a.ltrbxd.com/resized/alternative-backdrop/2/7/7/0/3/9/tmdb/xumXxOjnk4W4KT58bLHyr2jMJ93-1200-1200-675-675-crop-000000.jpg?v=2cafc8b6df
+  genres:
+    - Drama
+  letterboxd_rating: 2.96
+
+- id: strange-but-true-2019
+  tmdb_id: 470897
+  title: Strange but True
+  year: 2019
+  runtime: 96
+  director: Rowan Athale
+  tags: { opacity: 2, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug_hint: strange-but-true-2019
+  letterboxd_slug: strange-but-true-2019
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/zx/cu/9h/er/strange-but-true-1200-1200-675-675-crop-000000.jpg?v=def0623450
+  genres:
+    - Thriller
+  letterboxd_rating: 2.6
+
+- id: the-last-right
+  tmdb_id: 641336
+  title: The Last Right
+  year: 2019
+  runtime: 106
+  director: Aoife Crehan
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 3, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug_hint: the-last-right
+  letterboxd_slug: the-last-right
+  poster_url: https://a.ltrbxd.com/resized/film-poster/5/6/7/2/2/6/567226-the-last-right-0-230-0-345-crop.jpg?v=205bab347a
+  genres:
+    - Drama
+    - Comedy
+  letterboxd_rating: 3.14
+
+- id: last-moment-of-clarity
+  tmdb_id: 567608
+  title: Last Moment of Clarity
+  year: 2020
+  runtime: 90
+  director: "James Krisel, Colin Krisel"
+  tags: { opacity: 2, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.25 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 1 }
+  letterboxd_slug_hint: last-moment-of-clarity
+  letterboxd_slug: last-moment-of-clarity
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/89/4m/4j/r5/gvzGJorcZkOOR8ZeDopt4Lsors9-1200-1200-675-675-crop-000000.jpg?v=ad93e9fb2a
+  genres:
+    - Drama
+    - Mystery
+    - Thriller
+  letterboxd_rating: 2.38
+
+- id: the-bay-of-silence
+  tmdb_id: 623958
+  title: The Bay of Silence
+  year: 2020
+  runtime: 93
+  director: Paula van der Oest
+  tags: { opacity: 2, stillness: 2, bleakness: 4, humor: 1, acclaim: 0.3 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 1 }
+  letterboxd_slug_hint: the-bay-of-silence
+  letterboxd_slug: the-bay-of-silence
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/nt/56/j1/o5/bay%20of%20silence-1200-1200-675-675-crop-000000.jpg?v=a972fee2d0
+  genres:
+    - Thriller
+  letterboxd_rating: 2.51
+
+- id: separation-2021
+  tmdb_id: 760195
+  title: Separation
+  year: 2021
+  runtime: 107
+  director: William Brent Bell
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.15 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug_hint: separation-2021
+  letterboxd_slug: separation-2021
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/zd/x5/hh/5h/Separation2023-1200-1200-675-675-crop-000000.jpg?v=602dcaa98f
+  genres:
+    - Mystery
+    - Horror
+  letterboxd_rating: 1.86
+
+- id: the-independent-2022
+  tmdb_id: 878183
+  title: The Independent
+  year: 2022
+  runtime: 108
+  director: Amy Rice
+  tags: { opacity: 1, stillness: 1, bleakness: 2, humor: 1, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug_hint: the-independent-2022
+  letterboxd_slug: the-independent-2022
+  poster_url: https://a.ltrbxd.com/resized/film-poster/7/8/9/8/2/5/789825-the-independent-0-230-0-345-crop.jpg?v=380978c320
+  genres:
+    - Mystery
+    - Crime
+    - Thriller
+  letterboxd_rating: 2.71
+
+- id: mending-the-line-2022
+  tmdb_id: 863858
+  title: Mending the Line
+  year: 2022
+  runtime: 117
+  director: Joshua Caldwell
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.55 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug_hint: mending-the-line-2022
+  letterboxd_slug: mending-the-line-2022
+  poster_url: https://a.ltrbxd.com/resized/film-poster/7/7/7/7/3/1/777731-mending-the-line-0-230-0-345-crop.jpg?v=02ebae32b8
+  genres:
+    - War
+    - Drama
+  letterboxd_rating: 3.01
+
+- id: prisoners-daughter
+  tmdb_id: 865382
+  title: "Prisoner's Daughter"
+  year: 2022
+  runtime: 98
+  director: Catherine Hardwicke
+  tags: { opacity: 1, stillness: 2, bleakness: 3, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug_hint: prisoners-daughter
+  letterboxd_slug: prisoners-daughter
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/lv/gf/ke/in/x3d9lqBUNb2DumTbl8y9TouvK2j-1200-1200-675-675-crop-000000.jpg?v=c3fc96e231
+  genres:
+    - Thriller
+    - Mystery
+    - Drama
+  letterboxd_rating: 2.9
+
+- id: little-wing-2024
+  tmdb_id: 1170000
+  title: Little Wing
+  year: 2024
+  runtime: 100
+  director: Dean Israelite
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug_hint: little-wing-2024
+  letterboxd_slug: little-wing-2024
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/y0/uz/nx/c5/cZulWwjphHCemlRW4AgRE4OnD8P-1200-1200-675-675-crop-000000.jpg?v=53641576f8
+  genres:
+    - Drama
+  letterboxd_rating: 3.12
+
+- id: the-lord-of-the-rings-the-war-of-the-rohirrim
+  tmdb_id: 839033
+  title: "The Lord of the Rings: The War of the Rohirrim"
+  year: 2024
+  runtime: 134
+  director: Kenji Kamiyama
+  tags: { opacity: 1, stillness: 1, bleakness: 3, humor: 1, acclaim: 0.45 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 2, sex: 0 }
+  letterboxd_slug_hint: the-lord-of-the-rings-the-war-of-the-rohirrim
+  letterboxd_slug: the-lord-of-the-rings-the-war-of-the-rohirrim
+  poster_url: https://a.ltrbxd.com/resized/sm/upload/so/ij/1q/s0/nCnxbPs2mL5V336Uj6D8SjKV35v-1200-1200-675-675-crop-000000.jpg?v=0e9f33bef0
+  genres:
+    - Animation
+    - Fantasy
+    - Adventure
+    - Action
+  letterboxd_rating: 3.05
+
+- id: the-parenting
+  tmdb_id: 850920
+  title: The Parenting
+  year: 2025
+  runtime: 94
+  director: Craig Johnson
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 1, sex: 0 }
+  letterboxd_slug_hint: the-parenting
+  letterboxd_slug: the-parenting
+  poster_url: https://a.ltrbxd.com/resized/alternative-backdrop/7/6/5/5/1/9/tmdb/h4peDpoepEmErFwBeoIE4yZ1pvJ-1200-1200-675-675-crop-000000.jpg?v=42be0b8b3f
+  genres:
+    - Comedy
+    - Horror
+  letterboxd_rating: 2.81
+
+- id: glenrothan
+  tmdb_id: 1335666
+  title: Glenrothan
+  year: 2025
+  runtime: 99
+  director: Brian Cox
+  tags: { opacity: 1, stillness: 2, bleakness: 2, humor: 2, acclaim: 0.35 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 0 }
+  letterboxd_slug_hint: glenrothan
+  letterboxd_slug: glenrothan
+  poster_url: https://a.ltrbxd.com/resized/alternative-backdrop/1/2/3/0/2/6/7/tmdb/dAU3mJzDLWWZyndByhV7hSIfBiK-1200-1200-675-675-crop-000000.jpg?v=0e9e83b71e
+  genres:
+    - Drama
+    - Comedy
+  letterboxd_rating: 2.7
+
+- id: super-troopers-3
+  tmdb_id: 675871
+  title: Super Troopers 3
+  year: 2026
+  runtime: 104
+  director: Jay Chandrasekhar
+  tags: { opacity: 1, stillness: 1, bleakness: 1, humor: 3, acclaim: 0.4 }
+  content: { sexual_violence: false, animal_harm: false, child_harm: false, suicide: false, violence: 0, sex: 1 }
+  letterboxd_slug_hint: super-troopers-3
+  letterboxd_slug: super-troopers-3
+  poster_url: https://a.ltrbxd.com/resized/alternative-backdrop/6/0/0/3/8/4/tmdb/oU2H07DQVjGMp2vUgrYzso36v15-1200-1200-675-675-crop-000000.jpg?v=0dd3e5d9b9
+  genres:
+    - Crime
+    - Mystery
+    - Comedy
+  letterboxd_rating: 2.61
